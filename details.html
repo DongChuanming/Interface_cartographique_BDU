@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="logo_Carte_LIGM.svg">
+    <title>Détails site pollué</title>
+    <script src="./data/basol_pollution.js"></script>
+    <style>
+        *,
+         ::before,
+         ::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            background-color: #2A2D35;
+        }
+        
+        #preloader {
+            background: #000 url("preloader.gif") no-repeat center center;
+            background-size: 30%;
+            height: 100vh;
+            width: 100%;
+            position: fixed;
+            z-index: 2;
+        }
+        
+        main {
+            color: white;
+            margin-left: 1%;
+            font-family: 'Quicksand', sans-serif;
+        }
+        
+        p {
+            max-width: 70%;
+        }
+        
+        header {
+            display: flex;
+        }
+        
+        .BackHome {
+            justify-content: start;
+        }
+        
+        .logo {
+            width: 5em;
+            height: auto;
+        }
+        
+        .PageTitle {
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+        
+        h1 {
+            color: white;
+            font-family: 'Quicksand', sans-serif;
+        }
+        
+        .borneTimeline {
+            display: flex;
+        }
+        
+        p {
+            color: #fff;
+            font-family: 'Quicksand', sans-serif;
+            margin-left: 1%;
+        }
+        
+        .datepicker {
+            margin-left: 2%;
+            margin-top: 1%;
+            padding: 0.7em;
+            border-radius: 10px;
+            border: none;
+        }
+        /* .Timeline {
+            opacity: 0;
+            transform: translateY(100%);
+        } */
+        
+        .tl-timeaxisbackground {
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="preloader"></div>
+    <header>
+        <div class="BackHome">
+            <a href="carto.html"><img src="logo_Carte_LIGM.svg" alt="Retour à l'accueil" class="logo"></a>
+        </div>
+        <div class="PageTitle">
+            <h1>Information du site</h1>
+        </div>
+        <div></div>
+    </header>
+    <main id="content"></main>
+    <script>
+        var id = document.location.href.split("?")[1].split("=")[1];
+        var objId = data.features.find(item => {
+            return item.properties.id == id
+        })
+
+        console.log(objId, id);
+        var ht = '<p>Entreprise : ' + objId.properties.nom_site + '</p>' + '</br>' +
+            '<p>Region : ' + objId.properties.region + '</p>' + '</br>' +
+            '<p>Commune : ' + objId.properties.commune + ' ( ' + objId.properties.dpt + ' )' + '</p>' + '</br>' +
+            '<p>Adresse : ' + objId.properties.adresse + ' ( ' + objId.properties.code_post + ' )' + '</p>' + '</br>' +
+            '<p>Activité : ' + objId.properties.activite + ' ( ' + objId.properties.code_act + ' )' + '</p>' + '</br>' +
+            '<p>' + objId.properties.descrip + '</p>' + '</br>' +
+            '<p>Polluants : ' + objId.properties.nom_classe + '</p>' + '</br>' +
+            '<p>Type de Pollution : ' + objId.properties.type_pollu + '</p>' + '</br>' +
+            '<p>Origine de la pollution : ' + objId.properties.oigine_pollution + '</p>';
+        document.getElementById("content").innerHTML = ht;
+
+        var loader = document.getElementById("preloader");
+        window.addEventListener("load", function() {
+            loader.style.display = "none";
+        })
+    </script>
+    </br>
+    <div class="Timeline">
+        <div class="bornesTimeline">
+            <div>
+                <p>Date de début:</p>
+                <input type="date" name="date-min" id="date-min" min="" class="datepicker">
+            </div>
+            </br>
+            <div>
+                <p>Date de fin</p>
+                <input type="date" name="date-max" id="date-max" min="" class="datepicker">
+            </div>
+        </div>
+
+        </br>
+        <p>77.0074</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TvIpumSJbbQbRvWWoTDmIEwxfXUv7SaX1KmguZ8K0gY&font=Default&lang=fr&initial_zoom=2&height=650' for="date-min" , for="date-max" width='100%' height='650' webkitallowfullscreen
+            mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+        </br>
+        <p>77.0078</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YQtr594L0wJoqMd1Km3-rkfHNMovIZwxgiNp4g-utsk&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>77.0104</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16sFCNo2q1uOxInGcLE3VrYhhlgikiMYicUlQP4_C8c0&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>77.0110</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wXCtSsMZcdK2Ao4L3mi9ZepYruAJwpsgo5fio0JR2LM&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>77.0121</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eIH9oco2-6rG0DiMYhc6J7qYKTUa9PtmBwF7aK0DnZY&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>77.0140</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1We33vF5_4K55ymSZ_FcAg3Tu6RloPUhHoxNTbVDKxEk&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>78.0014</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LCbIOaTMOZS4sgbFj88yRqnYaTtMYk4GAmONMo2XTzQ&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>78.0041</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dw7cJ2Bu2RIP1kV6HjqY2JnrI50Ira3PbU-cjg2DYFo&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>78.0100</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EcXI5dZra8jeDFxn1POj5MVgSNhqqyoQeshnl3sZ4Yo&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>91.0012</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TbdtNYR2T7ZLUbOjMd06olBkJwciqDVooyxp79Q6rGo&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>91.0051</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KVZFdmh5m7w4QoPiHf9gRX8gPDUJ6yEpdiFjy1P1j64&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>91.0007</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bQtXbuvgDxc65ECd_mV-dNZ_GFYFUdYAr_tKaHl18Zg&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>92.0009</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rezYK6dIOtID3FcG6cb0xCmigLoM72qgILmYSn66uQE&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>92.0043</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ijly5fiekjkjDowL8nTzACUD3nhOgSeSc941dlPlKSk&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>92.0076</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_p0r2H7lpsqAiSjgpGTkyCCz6L5GPMh9MCG6aKZ750E&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>93.0007</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cfvKgC64hYZhkjvvFGWln8ZQJ1PDQ6DkV3P_tRV8B6A&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>93.0016</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vLg_yLCffrijl0k0fTDL6l9oNEURbiDdxb0Irym6BT4&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>93.0023</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1R2rqi-8QwKD_eusnUUdEy-jtQ-ye2N5riiWT_8EBZo4&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>93.0056</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bOowJKn8qHMBrsLF4J6wuIUoQZXseZuHfoFqeoOsjk8&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>93.0086</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1AfBW7ZjSJJyYnbbhXyNR7gN3L1A72-VAbhtRYJl9wno&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>94.0016</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1AfBW7ZjSJJyYnbbhXyNR7gN3L1A72-VAbhtRYJl9wno&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+        </br>
+        <p>94.0035</p>
+        <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1r9pj16Bauq1BYjxMBQCewC-4OIuKqTCewcOz8bFvE1g&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+            frameborder='0'></iframe>
+
+    </div>
+    <!-- <script>
+        window.addEventListener('scroll', function(e) {
+            document.querySelector(".Timeline").animate([{
+                "opacity": "1",
+                "transform": "translateY(0)",
+                "display": "block"
+            }], {
+                "duration": 2500,
+                "iteration": 1,
+                "delay": 500
+            })
+        })
+        var min = document.querySelector("#date-min");
+        console.log(min);
+        var max = document.querySelector("#date-max");
+        console.log(max);
+    </script> -->
+</body>
+
+</html>

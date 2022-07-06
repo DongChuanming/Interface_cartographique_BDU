@@ -1,0 +1,209 @@
+/************************----************************/
+
+
+/*                Styles Open Layer                 */
+
+
+/****************************************************/
+
+
+/* Definitions generales */
+
+body {
+    background-color: rgb(42, 45, 53);
+    overflow: hidden;
+}
+
+
+/* Textes */
+
+body,
+p {
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 200;
+}
+
+
+/* style du texte dans la popup */
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(8, 10, 92);
+    font-size: 14px;
+    font-weight: 10px;
+    line-height: 24px;
+    font-weight: 200;
+}
+
+.popbut {
+    text-decoration: none;
+    ;
+}
+
+
+/* Style de la div header */
+
+div#header {
+    position: relative;
+    text-align: center;
+}
+
+div#header h1 {
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+div#header p {
+    margin-bottom: 8px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+
+/* Style contenu*/
+
+.backgroundAlerte {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    z-index: 100;
+    text-align: center;
+}
+
+.alerte {
+    color: #000;
+    background-color: seashell;
+    text-align: center;
+}
+
+#contenu {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 900px;
+    overflow: auto;
+    display: block;
+}
+
+
+/* style de la div filtre */
+
+div#filtre {
+    float: left;
+    width: 25%;
+    height: 90%;
+}
+
+div#filtre p {
+    text-align: left;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    padding: 20px 10px 20px 10px;
+    margin: 0;
+    list-style: none;
+}
+
+div#filtre h3 {
+    padding: 20px 20px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+select {
+    width: 80%;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.filterbutton {
+    margin-top: 10%;
+    padding: 2%;
+    border-radius: 10px;
+    border: none;
+}
+
+.filterbutton:hover {
+    cursor: pointer;
+}
+
+
+/* style et taille du conteneur de la carte */
+
+div#ol_localisation {
+    float: right;
+    width: 75%;
+    height: 90%;
+}
+
+.map {
+    height: 75%;
+    width: auto;
+    margin-left: auto;
+    margin-right: 0;
+    border-radius: 10px;
+    background-color: #5654bb;
+    background-image: linear-gradient(332deg, #9375e6 0%, #00aeff 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+
+/* style de la légende */
+
+
+/* fond de la légende*/
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+
+/* titre de la légende */
+
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+
+/* texte de la légende */
+
+.legend {
+    line-height: 25px;
+    color: #555;
+}
+
+
+/* taille et gestion des carrés de couleurs */
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 10px;
+    opacity: 1;
+    outline-width: 3px;
+    outline-color: #000;
+}
+
+@media screen and (max-width: 700px) {
+    .contenu {
+        display: flex;
+        flex-direction: column;
+    }
+}

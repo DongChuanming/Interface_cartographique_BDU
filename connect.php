@@ -1,0 +1,1 @@
+<?$link = new PDO('mysql:host=localhost;dbname=Basip', 'root', '') ?>

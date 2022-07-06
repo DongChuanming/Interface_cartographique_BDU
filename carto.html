@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Balise méta -->
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="logo_Carte_LIGM.svg">
+    <title>Cartographie sites de pollution</title>
+    <!-- Eléments utiles -->
+    <!-- Police sympa -->
+    <link rel="stylesheet" href="./libraries/css2.css">
+
+    <!-- lien vers le fichier de style de la bibliothèque leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+
+    <!-- lien vers le fichier javascript de la bibliothèque leaflet, qui contient les fonctions prédéfinis-->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+
+    <!-- JQuery -->
+    <script src="./libraries/jquery-1.11.0.min.js"></script>
+    <!-- Styles perso -->
+    <link rel="stylesheet" href="./carto.css" type="text/css">
+
+    <!-- ajout d'un plugin pour aider au chargement des geosjon volumineux -->
+    <script src="https://unpkg.com/geojson-vt@3.2.0/geojson-vt.js"></script>
+    <script src="leaflet-geojson-vt.js"></script>
+    <!-- chargement du geojson -->
+    <script src="./data/basol_pollution.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <!-- Div qui contient l'entête de la page web -->
+        <div id="header">
+            <h1>Cartographie sites de pollution</h1>
+            <p>Projet analyse spatiale - ENSG . Université Gustave Eiffel . IGN</p>
+        </div>
+
+        <div id="contenu" class="contenu">
+            <!-- Emplacement des filtres pour la carte -->
+            <div id="filtre" class="filtre">
+                <h3>Filtres géographiques</h3>
+                <!-- menu déroulant pour les régions -->
+                <label for="filtre-region">Régions</label></br>
+                <select id="filtre-region" name="filtre-region">
+                    <option value="">Choississez une région</option>
+                </select>
+                <!-- menu déroulant pour les départements -->
+                <label for="filtre-dpt">Départements</label></br>
+                <select id="filtre-dpt" name="filtre-dpt">
+                    <option value="">Choississez un département</option>
+                </select></br>
+                <!-- menu déroulant pour les communes -->
+                <label for="filtreCommune">Communes</label></br>
+                <select id="filtreCommune" name="filtreCommune">
+                    <option value="">Choississez une commune</option>
+                </select>
+
+                <h3>Autres filtres </h3>
+                <!-- menu déroulant pour les polluants -->
+                <label for="filtreEntreprise">Type de Pollution</label></br>
+                <select id="filtrePollution" name="filtrePollution">
+                    <option value="">Choississez un polluant</option>
+                </select>
+                </br>
+                <!-- menu déroulant pour les entreprises -->
+                <label for="filtreEntreprise">Nom de l'entreprise</label></br>
+                <select id="filtreEntreprise" name="filtreEntreprise">
+                    <option value="">Choississez une entreprise</option>
+                </select>
+                <button class="filterbutton">Réinitialiser les filtres</button>
+            </div>
+
+            <!-- Emplacement de la carte -->
+            <div id="carte" class="map">
+            </div>
+
+        </div>
+    </div>
+
+    <!-- chargement des fichiers javascripts qui contient les fonctionnalité de la cartographie et des menus déroulants -->
+    <script type="text/javascript" src="carto.js"></script>
+    <script type="text/javascript" src="layers_load.js"></script>
+</body>
+
+</html>
