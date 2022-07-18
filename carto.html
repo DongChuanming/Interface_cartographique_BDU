@@ -29,6 +29,14 @@
 </head>
 
 <body>
+    <div class="error">
+        <div class="cross">
+            <img src="cross2.png" alt="fermer alerte">
+        </div>
+        <div class="contentError">
+            <p>On dirait bien qu'aucun résultat ne corresponde à votre recherche</p>
+        </div>
+    </div>
     <div id="container">
         <!-- Div qui contient l'entête de la page web -->
         <div id="header">
@@ -68,14 +76,17 @@
                 <select id="filtreEntreprise" name="filtreEntreprise">
                     <option value="">Choississez une entreprise</option>
                 </select>
+                <h3>Cherchez</h3>
+                <input type="text" placeholder="ex : Station service" class="searchBar">
+                </br>
                 <button class="filterbutton">Réinitialiser les filtres</button>
             </div>
 
             <!-- Emplacement de la carte -->
             <div id="carte" class="map">
             </div>
-
         </div>
+
     </div>
 
     <!-- chargement des fichiers javascripts qui contient les fonctionnalité de la cartographie et des menus déroulants -->

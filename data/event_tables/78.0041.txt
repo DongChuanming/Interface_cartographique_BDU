@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+				1997					a_exploité								
+2000	09	11		2000	09	11			communiqué								
+2000	11	21		2000	12	23			une_enquête_publique			s__est_déroulée					
+2005	01	24		2005	01	24			travaux_de_dépollution			remis					
+2006	06	23		2006	06	23		le_procès_verbal	travaux_de_dépollution			récolement_a_été_délivré					
+2014	02	12		2014	02	12			a_conduit_à								
+2014	10	16		2014	10	16		arrêté_préfectoral	ont_été_prises	des_prescriptions_complémentaires							
+2014				2016				des_gens_du_voyage	a_été_occupé_ponctuellement	le_site							

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1875				1954					a_abrité								
+2002		2		2002		2			planifié								
+2002				2003					des_travaux_de_réalisation_d__un_parking_souterrain			ont_été_réalisés					
+2003	10	09		2003	10	09			ont_été_transmis	Les_rapports_de_fin_de_travaux							

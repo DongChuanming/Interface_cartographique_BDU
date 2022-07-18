@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+2015	12			2015	12				est_placée_en_liquidation_judiciaire	la_société							
+2009				2009					un_diagnostic_est_réalisé								
+2015	06	09		2015	06	09		le_Tribunal_de_Grande_Instance	ordonne	l__expulsion							
+									doit_cesser								
+2015	08	27		2015	08	27			est_transmis	un_arrêté_préfectoral							
+2015	12	28		2015	12	28		le_Tribunal_de_Commerce	place	la_société_BERTHOLLET_AMM_Industrie							
+2016	01	12		2016	01	12			une_visite	site							
+2016	01	21		2016	01	21		le_préfet	a_pris								
+2009				2009					diagnostic_établi								

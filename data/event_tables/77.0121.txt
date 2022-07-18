@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1951				1959					ont_été_implantés								
+1981				1989				Leur_activité	a_cessé								
+2009	01	23		2009	01	23			a_été_signé	L__arrêté_préfectoral							
+2008	06			2008	06				Les_derniers_travaux_de_dépollution			ont_été_réalisés					
+2009	01	23		2009	01	23		l__arrêté_préfectoral	est_prescrite	Cette_surveillance							
+2008	12		07	2008	12		07	l__exploitant	2_premières_campagnes_de_mesures	les_résultats		a_transmis					
+2008	09		04	2008	09		04		campagnes								
+2009	03			2009	03			l__exploitant	a_transmis	un_rapport_global							
+2012			2008	2012			2008		a_été_transmis_à								
+2012								Les_piézomètres_PZ1	ne_font_plus_l__objet								
+2012	04								Sept_campagnes_se_suivi_annuelles			ont_été_effectuées					
+2016			2012	2016			2012		a_été_transmis_à								

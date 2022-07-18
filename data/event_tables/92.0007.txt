@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1991				1998					a_été_aménagé	il	agence_clientèle						
+1996	04	25		1996	04	25			signé	un_protocole_d__accord							
+1994				1994					a_été_réhabilité	Le_terrain							
+1998				1998					des_travaux_de_réhabilitation				ont_également_eu_lieu				
+1998				1998					ont_été_incinérées	27_tonnes_de_matériaux							

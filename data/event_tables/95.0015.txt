@@ -1,0 +1,8 @@
+D Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1947				1947				La_société_CHIMEX	a_repris	le_site							
+2004				2004				CHIMEX	a_abandonné	son_activité_de_production							
+1998				1998					a_mis_en_évidence								
+1996				1996					a_été_détectée	Une_anomalie							
+2006	11			2006	11			un_arrêté_préfectoral_complémentaire	ont_été_réactualisées	les_modalités							
+2007	04	23		2007	04	23		un_arrêté_préfectoral_complémentaire	ont_été_réactualisées	les_modalités							
+2004	10			2004	10				indique_que								

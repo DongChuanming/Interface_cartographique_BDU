@@ -1,0 +1,6 @@
+ Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1987	12	17		1987	12	17			autorisé								
+2006	08			2006	08				un_dépôt	bilan							
+2006	08	31		2006	08	31			a_été_mise_en_liquidation	La_SARL_LUCIANI							
+2006	12	05		2006	12	05		Le_liquidateur	a_fait_une_déclaration								
+2008	07			2008	07				signé								

@@ -82,12 +82,14 @@ var Geologie = L.tileLayer.wms('http://geoservices.brgm.fr/WMS-C/?', {
     attribution: '<a target="_blank" href="https://infoterre.brgm.fr/page/geoservices-ogc">BRGM</a>'
 });
 
+var error = document.querySelector(".error");
+
 //Création des données de la carte en fonction du filtre choisi
 function creerDonnees(data, filtre, expression) {
     // création d'un nouveau geoJSON
     let newGeoJson = {
         "type": "FeatureCollection",
-        "name": "basol_pollution",
+        "name": "BASOL",
         "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
         "features": []
     };
@@ -96,11 +98,28 @@ function creerDonnees(data, filtre, expression) {
     data.features.forEach(element => {
         // console.log("Element : " + element.properties[filtre]);
         // console.log("expression : " + expression);
-        console.log(element.properties[filtre] + "=?" + expression);
-        if (element.properties[filtre] == expression || expression == "") {
-            newGeoJson.features.push(element);
+        console.log(element.properties[filtre]);
+        console.log(filtre);
+        if (filtre == "descrip") {
+
+            //Je cherche a tester que expression est contenu dans filtre
+            if ((element.properties[filtre] != null) && (element.properties[filtre].indexOf(expression) != -1)) {
+                newGeoJson.features.push(element);
+                // console.log(element.properties[filtre] + "=?" + expression);
+                console.log(element.properties.description);
+            };
+
+        } else {
+            // console.log(element.properties[filtre] + "=?" + expression);
+            if (element.properties[filtre] == expression || expression == "") {
+                newGeoJson.features.push(element);
+            }
         };
     });
+    if (newGeoJson.features.length == 0) {
+        error.style.display = "block";
+        console.log("If passé");
+    }
     return newGeoJson;
 }
 
@@ -303,6 +322,24 @@ filtreEntreprise.addEventListener('change', function(event) {
     afficheDonneesCarte(newGeoJson, map);
 });
 
+//Pour la barre de recherche
+var search = document.querySelector(".searchBar");
+
+//Ajout d'un événement lorsque l'on change la valeur de l'input
+search.addEventListener('change', function(event) {
+
+    // on enregistre la valeur sélectionnée
+    expression = search.value;
+    //console.log(expression)
+
+    // suppression de la couche basol affichée
+    groupLayer.removeLayer(basolLayer);
+    map.removeLayer(basolLayer);
+    var filtre = "descrip"
+    var newGeoJson = creerDonnees(data, filtre, expression);
+
+    afficheDonneesCarte(newGeoJson, map);
+});
 
 // Ajout de la légende sur la cartographie
 var legend = L.control({ position: 'bottomright' });
@@ -335,3 +372,10 @@ filtre0.addEventListener('click', function(nofilter) {
     })
     afficheDonneesCarte(newGeoJson, map);
 })
+
+// Script Alerte
+var error = document.querySelector('.error');
+document.querySelector(".cross").addEventListener('click', function(e) {
+    error.style.display = 'none'
+    window.location.reload();
+});

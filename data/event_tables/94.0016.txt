@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+2006				2006				la_Société_COGEDIM	Un_aménagement			a_été_réalisé				la_réalisation	un_immeuble_de_logements_et_de_commerces
+1990				1990				Ce_site	est_devenu	propriété_de_la_Ville_de_Cachan							
+2002	11	04		2002	11	04		Elle	a_réalisé	un_diagnostic_approfondi						une_évaluation_détaillée_des_risques	la_partie_logements
+2005	08			2005	08				ont_été_demandés	des_compléments	la_ville						
+2005	12	22		2005	12	22			a_été_vendu	le_site	la_SEMACA						
+2005	04	19		2005	04	19		Ces_dernières	un_diagnostic_complémentaire	site_MOIA		ont_fait_réaliser					
+2005	06	20		2005	06	20		Ces_dernières	une_évaluation_détaillée_des_risques___EDR___complémentaire	la_partie_du_site		ont_fait_réaliser					
+2005	07	12		2005	07	12			Un_nouveau_diagnostic_approfondi			a_été_réalisé					
+2005	11	25		2005	11	25			une_autre_EDR	l__ensemble_de_l__îlot_de_la_ZAC_Desmoulins							
+2006	05			2006	05				terrassements_réalisés								
+2005	11	25		2005	11	25			L__EDR								
+2006	12	14		2006	12	14			L__EDR			réalisée					
+2003	06	03		2003	06	03			a_été_notifié	Un_arrêté_préfectoral	la_Mairie_de_Cachan						
+2009	10	22		2009	10	22			a_été_relancée	la_société_SNC_CITALIS_DE_COGEDIM							
+2016	10	21		2016	10	21		la_préfecture	Une_nouvelle_relance			a_été_effectuée					

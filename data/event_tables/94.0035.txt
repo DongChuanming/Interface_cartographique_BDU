@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+2000	01	24		2000	01	24			Demande	arrêté_préfectoral							
+2000	06			2000	06				un_diagnostic_pollution								
+2002	07			2002	07				vendu								
+2003	07			2003	07				Nettoyage_du_site			réalisé					
+2003	12	19		2003	12	19			demandant	propriétaire							
+2004				2004					ont_été_éliminés	Les_derniers_déchets							
+2002	07			2002	07				a_été_vendu	Le_terrain							
+2007				2007					devraient_démarrer								

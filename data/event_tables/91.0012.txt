@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1901				1909					ont_débuté								
+1935				1974					ont_succédé								
+				1974					ont_subsisté								
+1983				1983				le_BRGM	Une_étude_hydrogéologique			a_été_réalisée					
+1985				1985					Les_travaux_préconisés			ont_été_réalisés					
+1985	03	08		1985	03	08			a_été_proposé								
+2001	06	05		2001	06	05			a_été_demandé								
+2002	05			2002	05				modifié								
+2008				2008					a_engagé								
+2009	04			2009	04				complété								
+									une_réunion_technique								
+2010				2010					Les_travaux_de_réhabilitation			ont_réalisés					
+2012	10	19		2012	10	19			Une_réunion_technique			s__est_tenue					
+2012	11	29		2012	11	29			ont_été_communiqués	Des_éléments_d__informations							
+2013	04	24		2013	04	24			une_réunion_technique								
+2014				2014					La_dernière_visite								
+2013				2016					Plusieurs_réunions_techniques			se_sont_tenues					

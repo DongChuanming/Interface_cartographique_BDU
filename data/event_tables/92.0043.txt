@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1995				1995					Cessation_d__activité								
+2007									partiellement_aménagé	Terrain							
+2000				2000				le_site	a_été_remis_en_état								
+1998				1998					a_été_pris	Un_arrêté_préfectoral_de_dépollution							
+2000	08	24		2000	08	24			a_été_rédigé	Le_procès_verbal_de_recollement							
+				2004					a_été_réalisé	Un_suivi_piézométrique	l__ensemble_du_site						
+2007								le_nouvel_exploitant	est_réalisé	Le_suivi_piézométrique							
+2012				2012				L__ancien_exploitant	a_repris	le_suivi_piézométrique							
+2010			2009					teneurs_en_benzène	une_forte_augmentation								
+2011				2011					un_pic								
+2014	06	05		2014	06	05			a_proposé	un_projet_d__arrêté_préfectoral	rapport						

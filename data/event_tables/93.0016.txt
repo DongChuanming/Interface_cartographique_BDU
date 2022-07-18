@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+1912				1969					ont_accueilli								
+1970				1980					ont_été_démolies	Les_installations_de_l__usine							
+1994				1994					Les_travaux_de_réhabilitation			se_sont_déroulés					
