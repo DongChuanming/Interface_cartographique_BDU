@@ -98,23 +98,43 @@ function creerDonnees(data, filtre, expression) {
     data.features.forEach(element => {
         // console.log("Element : " + element.properties[filtre]);
         // console.log("expression : " + expression);
-        console.log(element.properties[filtre]);
-        console.log(filtre);
-        if (filtre == "descrip") {
+        var filtreOk = true;
+        var region = document.querySelector("#filtre-region").value;
+        var dpt = document.querySelector("#filtre-dpt").value;
+        var commune = document.querySelector("#filtreCommune").value;
+        var pollution = document.querySelector("#filtrePollution").value;
+        var entreprise = document.querySelector("#filtreEntreprise").value;
+        var recherche = document.querySelector(".searchBar").value;
+        //filtre REGION
+        if (region != "" && region != element.properties["region"]) {
+            filtreOk = false;
+        }
 
-            //Je cherche a tester que expression est contenu dans filtre
-            if ((element.properties[filtre] != null) && (element.properties[filtre].indexOf(expression) != -1)) {
-                newGeoJson.features.push(element);
-                // console.log(element.properties[filtre] + "=?" + expression);
-                console.log(element.properties.description);
-            };
+        if (dpt != "" && dpt != element.properties["dpt"]) {
+            filtreOk = false;
+        }
 
-        } else {
-            // console.log(element.properties[filtre] + "=?" + expression);
-            if (element.properties[filtre] == expression || expression == "") {
-                newGeoJson.features.push(element);
-            }
-        };
+        if (commune != "" && commune != element.properties["commune"]) {
+            filtreOk = false;
+        }
+
+        console.log(element.properties["nom_classe"])
+        if (pollution != "" && !element.properties["nom_classe"].includes(pollution)) {
+            filtreOk = false;
+        }
+
+        if (entreprise != "" && entreprise != element.properties["nom_site"]) {
+            filtreOk = false;
+        }
+
+        if (recherche != "" && element.properties["descrip"] != null && element.properties["descrip"].indexOf(recherche) == -1) {
+            filtreOk = false;
+        }
+
+        if (filtreOk) {
+            newGeoJson.features.push(element);
+            console.log("push fait !")
+        }
     });
     if (newGeoJson.features.length == 0) {
         error.style.display = "block";
@@ -229,7 +249,6 @@ filtreRegion.addEventListener('change', function(event) {
 
     // on enregistre la valeur sélectionnée
     expression = filtreRegion.value;
-    //console.log(expression)
 
     // suppression de la couche basol affichée
     groupLayer.removeLayer(basolLayer);
@@ -238,6 +257,20 @@ filtreRegion.addEventListener('change', function(event) {
     var newGeoJson = creerDonnees(data, filtre, expression);
 
     afficheDonneesCarte(newGeoJson, map);
+
+    //Affichage des départements qui correspondent à la région cible
+    var newListDpt = Object.keys(dptParRegion[expression])
+    console.log(newListDpt)
+    var outputdepartement = "<option value=\"\">Choisissez un département</option>";
+    // if (expression == "") {
+
+    // } else {
+    newListDpt.forEach(el => {
+        outputdepartement += "<option>" + el + "</option>";
+    });
+
+    //}
+    document.getElementById('filtre-dpt').innerHTML = outputdepartement;
 });
 
 

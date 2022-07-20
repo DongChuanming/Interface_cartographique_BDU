@@ -1,6 +1,8 @@
 // POUR LE CHARGEMENT DES OBJETS CONTENUS DANS LE FICHIER GEOJSON
 //sélectionner les objets de la table
 var loadedData = {}
+var dptParRegion = { "": {} }
+
 document.addEventListener('DOMContentLoaded', () => {
     const regions = document.querySelector('#filtre-region');
     const departements = document.getElementById('filtre-dpt');
@@ -16,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         data.sites.forEach(function(e) {
             descriptions[e.num_basol] = e.caracterisation.description;
         });
-        console.log(descriptions);
+        // console.log(descriptions);
 
         // on appelle le fichier geojson contenant les données
         fetch('./data/basol_pollution.geojson').then(Response => {
@@ -33,69 +35,78 @@ document.addEventListener('DOMContentLoaded', () => {
             let outputentreprise = "";
 
             // on initiale des listes vides
-            const listRegion = [];
-            const listdepartement = [];
-            const listcommune = [];
+            var ensRegion = {};
+            var ensDepartement = {};
+            var ensCommune = {};
             //
-            const listpollution = [];
-            const listentreprise = [];
+            var ensPollution = {};
+            var ensEntreprise = {};
 
             //selectionne les éléments du geojson
             element = data.features
 
             //récupére les regions/departement/commune et les ajoute dans des listes
             element.forEach(element => {
-                listRegion.push(`<option>${element.properties.region}</option>`);
-                listdepartement.push(`<option>${element.properties.dpt}</option>`);
-                listcommune.push(`<option>${element.properties.commune}</option>`);
+                ensRegion[element.properties.region] = 0
+                ensDepartement[element.properties.dpt] = 0
+                ensCommune[element.properties.commune] = 0
 
                 //
-                listpollution.push(`<option>${element.properties.nom_classe}</option>`);
-                listentreprise.push(`<option>${element.properties.nom_site}</option>`);
+                // ensPollution[element.properties.nom_classe] = 0
+                //console.log(element.properties.nom_classe);
+                if (element.properties.nom_classe != "Non renseigné") {
+                    element.properties.nom_classe.forEach(function(e) {
+                        ensPollution[e] = 0
+                    })
+                }
+                ensEntreprise[element.properties.nom_site] = 0
+                    //Chargement du département dans la bonne région
+                    //Ajout de la région si elle n'est pas dans dptParRegion
+                if (!(element.properties.region in dptParRegion)) {
+                    dptParRegion[element.properties.region] = {}
+                }
+                //Mise à jour de la liste de départements 
+                dptParRegion[element.properties.region][element.properties.dpt] = 0
+                dptParRegion[""][element.properties.dpt] = 0
 
-                console.log(element.properties.descrip);
+                //Chargement de la description complète au lieu de l'abrégée
                 element.properties.descrip = descriptions[element.properties.id]
-                console.log(element.properties.id)
-                console.log(element.properties.descrip);
+                    // console.log(element.properties.id)
+                    // console.log(element.properties.descrip);
             });
 
             // tri par ordre alphabétique et nombre
-            listRegion.sort();
-            listdepartement.sort();
-            listcommune.sort();
-            listpollution.sort();
-            listentreprise.sort();
+            var listRegion = Object.keys(ensRegion).sort();
+            var listDepartement = Object.keys(ensDepartement).sort();
+            var listCommune = Object.keys(ensCommune).sort();
+            var listPollution = Object.keys(ensPollution);
+            var listentreprise = Object.keys(ensEntreprise).sort();
 
             //Rend les élément unique au sein des liste et les rajoute dans l'html, pour les régions
-            const uniqueRegion = [...new Set(listRegion)];
-            uniqueRegion.forEach(el => {
-                outputregion += el;
+            listRegion.forEach(el => {
+                outputregion += "<option>" + el + "</option>";
             });
             // pour les départements
-            const uniquedepartement = [...new Set(listdepartement)];
-            uniquedepartement.forEach(el => {
-                outputdepartement += el;
+            listDepartement.forEach(el => {
+                outputdepartement += "<option>" + el + "</option>";
             });
             // pour les communes
-            const uniquecommune = [...new Set(listcommune)];
-            uniquecommune.forEach(el => {
-                outputcommune += el;
+            listCommune.forEach(el => {
+                outputcommune += "<option>" + el + "</option>";
             });
             // pour les types de pollutions
-            const uniquepollution = [...new Set(listpollution)];
-            uniquepollution.forEach(el => {
-                outputpollution += el;
+            listPollution.forEach(el => {
+                outputpollution += "<option>" + el + "</option>";
             });
             // pour le nom des entreprises
-            const uniqueEntreprise = [...new Set(listentreprise)];
-            uniqueEntreprise.forEach(el => {
-                outputentreprise += el;
+            listentreprise.forEach(el => {
+                outputentreprise += "<option>" + el + "</option>";
             });
 
             //element.forEach(element => element.push(element.properties.commune));
             //appel des objets dans la liste déroulante
             // on envoie dans l'html les listes de données distinctes dans les menus déroulants
-            console.log(regions.innerHTML)
+            // console.log(regions.innerHTML)
             regions.innerHTML += outputregion;
             departements.innerHTML += outputdepartement;
             communes.innerHTML += outputcommune;

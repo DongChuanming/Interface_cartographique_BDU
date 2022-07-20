@@ -115,7 +115,7 @@
             data.sites.forEach(function(e) {
                 descriptions[e.num_basol] = e.caracterisation.description;
             });
-            console.log(descriptions);
+            // console.log(descriptions);
 
             // on appelle le fichier geojson contenant les données
             fetch('./data/basol_pollution.geojson').then(Response => {
@@ -157,17 +157,17 @@
                     '<p>Type de Pollution : ' + objId.properties.type_pollu + '</p>' + '</br>' +
                     '<p>Origine de la pollution : ' + objId.properties.oigine_pollution + '</p>';
                 document.getElementById("content").innerHTML = ht;
-                console.log(ht);
+                // console.log(ht);
                 //Écran de chargement temps que les éléments de la page se charge
                 var loader = document.getElementById("preloader");
                 window.addEventListener("load", function() {
-                    loader.style.display = "none";
-                })
-
+                        loader.style.display = "none";
+                    })
+                    //Chargement des fichier texte comprenant les données sur le différents sites
                 fetch('./data/event_tables/' + id + '.txt').then(Response => {
                     return Response.text();
                 }).then(data => {
-
+                    //création d'une variable "objet" comprenant le contenu de la timeline
                     var objet = {
                         "title": {
                             "media": {
@@ -180,16 +180,22 @@
                         },
                         "events": []
                     };
+                    //Création de variable 
                     var compteur = 0;
                     var evenements
                     var infoEvent
-                    evenements = data.split("\n")
-                    console.log(evenements);
+                        //Initialisation de la variable evenement
+                        //Transformation du fichier texte en tableau de ligne
+                    evenements = data.split("\n");
+                    // console.log(evenements);
+                    //Création d'une boucle forEach visant à remplir la timeline
                     evenements.forEach(function(evenement) {
                         //On extrait les informations d'un événement
+                        //Transformation du tableau de ligne en tableau a double entrées
                         infoEvent = evenement.split("\t")
-                        console.log(infoEvent);
+                            // console.log(infoEvent);
                         compteur += 1;
+                        //Condition qui vise à vérifier que le fichier comprend de la donnée
                         if (compteur > 2 && infoEvent != "") {
 
                             var objectEvent = {
@@ -199,6 +205,7 @@
                                     "caption": "",
                                     "credit": ""
                                 },
+                                //Récupération de l'information en fonction de sa position dans le tableau
                                 "start_date": {
                                     "month": infoEvent[1],
                                     "day": infoEvent[2],
@@ -212,7 +219,7 @@
                             objet.events.push(objectEvent);
                         }
                     });
-                    console.log(objet);
+                    // console.log(objet);
                     window.timeline = new TL.Timeline('timeline-embed', objet)
                 });
 
