@@ -269,8 +269,20 @@ filtreRegion.addEventListener('change', function(event) {
         outputdepartement += "<option>" + el + "</option>";
     });
 
-    //}
     document.getElementById('filtre-dpt').innerHTML = outputdepartement;
+
+    var newListCommune = Object.keys(communeParDpt[expression]).sort();
+    console.log(newListCommune)
+    var outputcommune = "<option value=\"\">Choisissez une commune</option>";
+    // if (expression == "") {
+
+    // } else {
+    newListCommune.forEach(el => {
+        outputcommune += "<option>" + el + "</option>";
+    });
+
+    //}
+    document.getElementById('filtreCommune').innerHTML = outputcommune;
 });
 
 
@@ -291,6 +303,19 @@ filtreDepartement.addEventListener('change', function(event) {
     var newGeoJson = creerDonnees(data, filtre, expression);
 
     afficheDonneesCarte(newGeoJson, map);
+
+    var newListCommune = Object.keys(communeParDpt[expression]).sort();
+    console.log(newListCommune)
+    var outputcommune = "<option value=\"\">Choisissez une commune</option>";
+    // if (expression == "") {
+
+    // } else {
+    newListCommune.forEach(el => {
+        outputcommune += "<option>" + el + "</option>";
+    });
+
+    //}
+    document.getElementById('filtreCommune').innerHTML = outputcommune;
 });
 
 

@@ -2,6 +2,8 @@
 //sélectionner les objets de la table
 var loadedData = {}
 var dptParRegion = { "": {} }
+var communeParRegion = { "": {} }
+var communeParDpt = { "": {} }
 
 document.addEventListener('DOMContentLoaded', () => {
     const regions = document.querySelector('#filtre-region');
@@ -68,6 +70,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 //Mise à jour de la liste de départements 
                 dptParRegion[element.properties.region][element.properties.dpt] = 0
                 dptParRegion[""][element.properties.dpt] = 0
+
+                if (!(element.properties.dpt in communeParDpt)) {
+                    communeParDpt[element.properties.dpt] = {}
+                }
+                //Mise à jour de la liste de départements 
+                communeParDpt[element.properties.dpt][element.properties.commune] = 0
+                communeParDpt[""][element.properties.commune] = 0
 
                 //Chargement de la description complète au lieu de l'abrégée
                 element.properties.descrip = descriptions[element.properties.id]

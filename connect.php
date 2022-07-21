@@ -1,1 +1,1 @@
-<?$link = new PDO('mysql:host=localhost;dbname=Basip', 'root', '') ?>
+<?$link = new PDO('mysql:host=localhost;dbname=BASOL', 'root', 'root') ?>
