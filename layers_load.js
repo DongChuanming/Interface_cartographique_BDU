@@ -45,10 +45,10 @@ document.addEventListener('DOMContentLoaded', () => {
             var ensEntreprise = {};
 
             //selectionne les éléments du geojson
-            element = data.features
+            var elements = data.features
 
             //récupére les regions/departement/commune et les ajoute dans des listes
-            element.forEach(element => {
+            elements.forEach(element => {
                 ensRegion[element.properties.region] = 0
                 ensDepartement[element.properties.dpt] = 0
                 ensCommune[element.properties.commune] = 0
