@@ -8,6 +8,12 @@
     <link rel="icon" type="image/x-icon" href="logo_Carte_LIGM.svg">
     <title>Détails site pollué</title>
     <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <!-- <?php
+    include('connect.php');
+    $requete = ("SELECT * FROM site_pollue WHERE id={$_GET['id']}");
+    $stmt = $link->query($requete);
+    $result = $stmt->fetch(PDO::FETCH_ASSOC);
+    ?> -->
 
 
     <link rel="data" href="timeline.json">
@@ -97,7 +103,18 @@
         </div>
         <div></div>
     </header>
-    <main id="content"></main>
+    <main id="content">
+        <!-- <?php foreach ($result as $r) { ?>
+        <?= $r["nom_site"]?>
+        <?= $r["region"]?>
+        <?= $r["commune"].'('.["dpt"].')'?>
+        <?= $r["activite"]?>
+        <?= $r["descrip"]?>
+        <?= $r["nom_classe"]?>
+        <?= $r["type_pollu"]?>
+        <?= $r["origine_pollution"]?>
+        <?php }?> -->
+    </main>
     </br>
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
@@ -184,8 +201,9 @@
                     var compteur = 0;
                     var evenements
                     var infoEvent
-                        //Initialisation de la variable evenement
-                        //Transformation du fichier texte en tableau de ligne
+
+                    //Initialisation de la variable evenement
+                    //Transformation du fichier texte en tableau de ligne
                     evenements = data.split("\n");
                     // console.log(evenements);
                     //Création d'une boucle forEach visant à remplir la timeline
@@ -210,6 +228,11 @@
                                     "month": infoEvent[1],
                                     "day": infoEvent[2],
                                     "year": infoEvent[0]
+                                },
+                                "end_date": {
+                                    "month": infoEvent[5],
+                                    "day": infoEvent[6],
+                                    "year": infoEvent[4]
                                 },
                                 "text": {
                                     "headline": infoEvent[9],

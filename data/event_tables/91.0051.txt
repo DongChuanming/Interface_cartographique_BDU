@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1998	10		28	1998	10		28		a_été_prescrite								
 2011	10	07		2011	10	07		L__inspection_des_installations_classées	a_relancé	la_société							
 2011	11	21		2011	11	21		L__exploitant	a_répondu								

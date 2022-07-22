@@ -53,38 +53,6 @@
                 elements = data.features;
 
                 appelleProchaineUrl(0);
-                //récupére les regions/departement/commune et les ajoute dans des listes
-                // elements.forEach(element => {
-                //     //Chargement de la description complète au lieu de l'abrégée
-                //     element.properties.descrip = descriptions[element.properties.id]
-                //     var URL = "http://localhost/Cartoweb_sitesPollution/api_write.php"
-
-                //     var infoElement = {
-                //         id: element.properties.id,
-                //         nom_site: element.properties.nom_site,
-                //         region: element.properties.region,
-                //         commune: element.properties.commune,
-                //         dpt: element.properties.dpt,
-                //         adresse: element.properties.adresse,
-                //         activite: element.properties.activite,
-                //         descrip: element.properties.descrip,
-                //         nom_classe: element.properties.nom_classe,
-                //         type_pollu: element.properties.type_pollu,
-                //         origine_pollution: element.properties.origine_pollution
-                //     };
-                //     console.log(URL);
-                //     console.log(JSON.stringify(infoElement));
-                //     fetch(URL, {
-                //         method: 'POST',
-                //         headers: {
-                //             "Content-Type": "application/json"
-                //         },
-                //         body: JSON.stringify(infoElement)
-
-                //     }).then(Response => {
-                //         return Response.text();
-                //     }).then(data => console.log(data));
-                //})
             });
         });
     </script>

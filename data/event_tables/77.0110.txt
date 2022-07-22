@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1991	11	07		1991	11	07		ce_site	une_importante_pollution								
 2001	07	06		2001	07	06		l__établissement	un_incendie_détruisant								
 2006	02			2006	02				Une_étude_de_pollution			a_été_transmise					

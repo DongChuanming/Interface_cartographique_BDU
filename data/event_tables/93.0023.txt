@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1877				1952					a_accueilli								
 				1965					a_été_exploitée								
 1998		1997		1998		1997			Les_travaux			réalisés					

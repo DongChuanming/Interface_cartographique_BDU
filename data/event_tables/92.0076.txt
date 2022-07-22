@@ -1,4 +1,4 @@
- Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+ Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1987	12	17		1987	12	17			autorisé								
 2006	08			2006	08				un_dépôt	bilan							
 2006	08	31		2006	08	31			a_été_mise_en_liquidation	La_SARL_LUCIANI							

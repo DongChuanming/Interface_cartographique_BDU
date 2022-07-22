@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1995				1995					Cessation_d__activité								
 2007									partiellement_aménagé	Terrain							
 2000				2000				le_site	a_été_remis_en_état								

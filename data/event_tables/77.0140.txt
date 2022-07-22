@@ -1,4 +1,4 @@
-IYear	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+IYear	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1959									était_installée	La_société_BRODARD_GRAPHIQUE							
 1998									appartenait___au								
 1998				1998					ont_été_cédées								

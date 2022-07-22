@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1892				1999					a_exercé								
 1999				1999				Le_site	a_fermé								
 2005				2005				la_société_Sab_Wabco	une_étude_historique			a_produit					

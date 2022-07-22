@@ -1,3 +1,3 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1961				1969					ont_été_arrêtées	Ces_installations						l__arrivée_du_gaz_naturel	
 1993				1993					construit								

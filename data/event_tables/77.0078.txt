@@ -1,4 +1,4 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent	Event3	Target3
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
 1972	04	27		1972	04	27			ont_été_autorisés	Les_Etablissements_BRUN							
 2000	06	06		2000	06	06			la_cessation_de_leur_activités			ont_déclaré					
 2000				2003					__ont_montré								
