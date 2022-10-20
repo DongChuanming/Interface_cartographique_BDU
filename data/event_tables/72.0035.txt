@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	09	25		2008	09	25		inspection_en_date	Lors d’une visite d'inspection en date du 25 septembre 2008, il a été constaté que l’exploitant avait cessé son activité et que les terrains avaient été rachetés en vue de la construction d’habitats.		
+2015	07	30		2015	07	30		salle_polyvalente_ont_été	Lors d’une visite d’inspection du 30 juillet 2015, une maison individuelle, un hangar et une salle polyvalente ont été constatés sur le site.		
+2015	07	30		2015	07	30		d__une_visite_d__inspection	Lors d’une visite d’inspection du 30 juillet 2015, une maison individuelle, un hangar et une salle polyvalente ont été constatés sur le site.		
+1996				1997				a_été_libre	De 1996 à 1997, le terrain a été libre de toutes activités avant l’installation de RENOV'AUTO.		

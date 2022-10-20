@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	04	19		2005	04	19		les_analyses	Concernant les eaux souterraines, les analyses du 19 avril 2005 d'un échantillon d'eau prélevé dans le puits situé au nord-est du site n'ont pas révélé de contamination de la nappe.		
+2005	04			2005	04			a_cessé	Elle a cessé toute activité et a été placée en liquidation judiciaire en avril 2005.		
+2005	12	21		2005	12	21		à_une_visite	Suite à une visite d'inspection du site, le 21 décembre 2005 par l'inspecteur des installations classées, il a été constaté :		
+2005	07	04		2005	07	04		ayant_eu_lieu	- la présence de déchets, notamment les résidus de l'incendie de 25 tonnes de tissus ayant eu lieu le 4 juillet 2005.	'la présence de déchets'	
+2005	04			2005	04			a_été_placée_en_liquidation_judiciaire	Elle a cessé toute activité et a été placée en liquidation judiciaire en avril 2005.		
+2005	04	19		2005	04	19		a_été_nommé_liquidateur_judiciaire	Suite à la liquidation judiciaire de la société Lauzier, prononcée le 19 avril 2005, Maître WALCZAK a été nommé liquidateur judiciaire.		'la société Lauzier'
+1926				1926				a_comporté	Historiquement, le site a comporté des établissements de forgeage à partir de 1926 puis de constructions mécaniques jusqu'en 1941, année d'implantation des établissements Lauzier.		'des établissements Lauzier'
+				1941				__année_d__implantation	Historiquement, le site a comporté des établissements de forgeage à partir de 1926 puis de constructions mécaniques jusqu'en 1941, année d'implantation des établissements Lauzier.		'des établissements Lauzier'

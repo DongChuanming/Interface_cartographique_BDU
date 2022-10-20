@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	19		2005	07	19		L__étude_a_été_remise	L'étude a été remise le 19 juillet 2005.		
+2004	12	22		2004	12	22		a_prescrit_la_mise_en_sécurité	Suite à l'incendie du 22 décembre 2004, l'arrêté de mesures d'urgence du 27 janvier 2005 a prescrit la mise en sécurité du site par le nettoyage du site et de ses  abords, l'élimination des récipients de produits dangereux et la transmission des bordereaux de suivi à l'Inspection des Installations Classées.	'des récipients de produits dangereux'	
+1993	03	1		1993	03	1		étaient_autorisées	Les activités du site étaient autorisées par l'arrêté du 1er mars 1993.		
+2005	10	27		2005	10	27		a_prescrit_le_diagnostic_initial	L'arrêté du 27 avril 2005 a prescrit le diagnostic initial et l'évaluation simplifiée des risque à l'échéance du 27 octobre 2005.		
+2004	12	22		2004	12	22		l__incendie_du	Suite à l'incendie du 22 décembre 2004, l'arrêté de mesures d'urgence du 27 janvier 2005 a prescrit la mise en sécurité du site par le nettoyage du site et de ses  abords, l'élimination des récipients de produits dangereux et la transmission des bordereaux de suivi à l'Inspection des Installations Classées.	'des récipients de produits dangereux'	

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	21		2001	11	21		a_été_pris	Un arrêté préfectoral complémentaire a été pris en date du 21 novembre 2001.		
+1962				1962				est_quant_à_elle_stoppée	La carrière "MALETRA" est quant à elle stoppée et comblée dans les années 1962-1963, date à laquelle la cité "Maurice Thorez" a été construite au Petit Quevilly.		'La carrière " MALETRA "'
+1957				1957				fusion_est_réalisée	En 1957, une nouvelle fusion est réalisée avec la société NOBEL Française, spécialisée dans la fabrication de la Dynamite et l'élaboration de produits chimiques et de matières plastiques, sous l'appellation Nobel-Bozel SA.	'la Dynamite'	'la société NOBEL Française', 'Nobel - Bozel SA'
+1963				1963				est_quant_à_elle_stoppée	La carrière "MALETRA" est quant à elle stoppée et comblée dans les années 1962-1963, date à laquelle la cité "Maurice Thorez" a été construite au Petit Quevilly.		'La carrière " MALETRA "'
+2003	03			2003	03			ont_été_réalisées	A la suite de cet arrêté, une étude complémentaire et une nouvelle évaluation simplifiée des risques ont été réalisées en mars 2003.		
+1971				1971				sont_démantelées	En 1971, les infrastructures de l'usine sont démantelées et les terrains commercialisés par la société d'aménagement de la Région de Rouen.		
+1998	11			1998	11			a_fourni_une_étude	A la suite d'un arrêté préfectoral du 15/07/1998 imposant la réalisation des phases A et B de l'évaluation simplifiée des risques et la cotation de ce site, la société financière Nobel a fourni une étude en novembre 1998.		'la société financière Nobel'
+1873				1873				un_nouvel_essor_est_donné_au_site	En 1873, un nouvel essor est donné au site avec l'acquisition de 18 hectares supplémentaires.		
+				1949				a_été_arrêtée	Cette activité qui a permis de produire jusqu'à 30 000 t/ans de superphosphates a été arrêtée après 1949.	'superphosphates'	
+1808				1808				sont_fondées	La firme MALETRA et l'usine du Petit Quevilly sont fondées en 1808.		'La firme MALETRA'
+1900				1900				a_dans_un_premier_temps_été_réalisée	La production d'acide sulfurique a dans un premier temps été réalisée à partir de pyrite par le procédé de chambre à plomb puis dés 1900 par contact catalytique.	'acide sulfurique', 'plomb'	
+1965				1965				est_fermée	En 1965, l'usine de Petit Quevilly est fermée.		
+2000	05			2000	05			a_été_transmise	La phase B de l'étude a été transmise en mai 2000.		
+2007	07			2007	07			ont_été_formulées	Une demande de suppression du suivi piézomètrique (compte tenu de la stabilité des données) et une proposition de servitudes et de restrictions d'usage ont été formulées par la compagnie financière Nobel en juillet 2007.		'la compagnie financière Nobel'
+1925				1925				fusionnent	En 1925, les établissements MALETRA fusionnent avec les établissements Bozel-Lamotte sous l'appellation Bozel-Maletra.		'les établissements MALETRA', 'les établissements Bozel', 'Bozel - Maletra'

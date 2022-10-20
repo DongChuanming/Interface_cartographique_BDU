@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				2004				a_conduit	Entre 1995 et 2004, le non respect des prescriptions réglementaires applicables au site a conduit M. le Préfet à prendre diverses mesures administratives à l'encontre de l'établissement (mises en demeure et suspension).		'le Préfet'
+2004	01	06		2004	01	06		a_été_mise_en_liquidation_judiciaire	La société a été mise en liquidation judiciaire le 6 janvier 2004.		
+2005	05	23		2005	05	23		a_imposé	Par arrêté préfectoral du 23 mai 2005, M. le Préfet a imposé au liquidateur judiciaire une  consignation répondant du coût de la mise en décharge des déchets mais cet arrêté a aussitôt été annulé pour cause d'impécuniosité.		'le Préfet'
+2007	06	15		2007	06	15		informait	Par courrier du 15 juin 2007, le liquidateur informait de la mise en place des piézomètres à l'été 2007.		
+2007				2007				de_la_mise_en_place_des_piézomètres	Par courrier du 15 juin 2007, le liquidateur informait de la mise en place des piézomètres à l'été 2007.		
+2010	07	01		2010	07	01		La_liquidation_a_été_clôturée	La liquidation a été clôturée le 01 juillet 2010 pour insuffisance d'actifs.		
+2007				2007				l__élimination	Le propriétaire a pris à sa charge l'élimination des déchets (laine de roche) et le démantèlement des installations industrielles (four) au premier semestre 2007.		
+2007				2007				le_démantèlement_des_installations_industrielles	Le propriétaire a pris à sa charge l'élimination des déchets (laine de roche) et le démantèlement des installations industrielles (four) au premier semestre 2007.		
+2007				2007				informait	Par courrier du 15 juin 2007, le liquidateur informait de la mise en place des piézomètres à l'été 2007.		
+2006	06	28		2006	06	28		a_notifié_la_cessation_d__activités	Le liquidateur a notifié la cessation d'activités le 28 juin 2006.		
+1995	02			1995	02			a_été_autorisée	La société Isollex a été autorisée, par arrêté préfectoral de février 1995, à exploiter des installations de fabrication de laine de roche sur la commune de Pontpoint.	'laine de roche'	'La société Isollex'
+2004				2004				ont_fait_réaliser_respectivement_une_évaluation_simplifiée_des_risques	Le propriétaire du site et la mairie ont fait réaliser respectivement une évaluation simplifiée des risques en 2004 et une analyse des sols au voisinage de l'établissement.		

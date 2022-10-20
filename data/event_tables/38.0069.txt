@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	05		2005	09	05		a_transmis	Par courrier du 5 septembre 2005, Gaz de France a transmis à la DRIRE un rapport de fin de travaux, dont les principaux points sont les suivants :		'Gaz de France', 'la DRIRE'
+1994	06			1994	06			une_étude_environnementale	En juin 1994, conformément aux engagements pris dans le protocole, ce site a fait l'objet d'une étude environnementale réalisée par un bureau d'études à la demande de Gaz de France.		'Gaz de France'

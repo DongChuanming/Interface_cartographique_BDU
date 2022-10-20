@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	24		2003	10	24		a_acquis	Le 24 octobre 2003, la société voisine SODIMAS a acquis les terrains et bâtiments appartenant à la SARL RENAU.		'la société voisine SODIMAS'
+2007	01	12		2007	01	12		la_visite	Le 12 janvier 2007, la visite de récolement du dossier de cessation d'activité a été réalisée.		
+2007	02	08		2007	02	08		a_été_délivré_par	Le 8 février 2007, un récépissé de déclaration de cessation définitive d'activité a été délivré par le Préfet au directeur de la SARL RENAU.		'le Préfet', 'la SARL RENAU'
+2007	02	09		2007	02	09		suspends	Dans son courrier du 9 février 2007, le Préfet, au vu des résultats du suivi de la qualité de la nappe phréatique pendant les deux dernières années, suspends les prescriptions de l'arrêté préfectoral du 22 mars 2004 concernant la surveillance de la qualité des eaux souterraines.		'le Préfet'
+2005	06	20		2005	06	20		a_été_mise_en_liquidation_judiciaire	Le 20 juin 2005, la SARL RENAU a été mise en liquidation judiciaire.		'la SARL RENAU'
+2003	08			2003	08			un_diagnostic_de_pollution	L’exploitant a transmis en août 2003 à l’inspection des installations classées un diagnostic de pollution du sol dont les incertitudes et insuffisances ont conduit à une demande de compléments.		
+2003	11			2003	11			La_transmission	La transmission en novembre 2003 des informations demandées montre la présence dans le sol de chrome (172 mg/kg MS), de cadmium (1 mg/kg MS), de zinc (2 570 mg/kg MS) et de TCE (0,55 mg/kg MS).	'chrome', 'cadmium', 'zinc', 'TCE'	
+1976				1976				a_été_utilisé	Le site, implanté dans une zone industrielle, a été utilisé depuis 1976 pour l’exploitation d’installations de traitement de surface autorisées par arrêté préfectoral du 21/07/1997 et comportant 53,5 m³ de bains de traitement.		
+2004	10			2006	08			les_8_campagnes_de_surveillance	Sur les 8 campagnes de surveillance des eaux souterraines réalisées entre octobre 2004 et août 2006, seules des contaminations au chrome ont été mises en évidence en janvier 2005, sur deux piézomètres situés en position latérale et aval hydraulique (53 µg/L et 55 µg/L).	'chrome'	
+2003	06	26		2003	06	26		la_cessation_de_son_activité	Le 26 juin 2003, la SARL RENAU a déclaré au Préfet la cessation de son activité.		'la SARL RENAU'

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1976				a_exploité	La société Arbrisseau Sader a exploité sur ce site une usine de fabrication de colles, de 1970 à 1976.		'La société Arbrisseau Sader'
+1976				1976				La_cessation_d__activité	La cessation d'activité de ce site semble remonter à 1976.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09			2005	02			Des_travaux_d__excavation	Des travaux d'excavation des poches de pollution aux hydrocarbures ont eu lieu entre septembre 2004 et février 2005.	'hydrocarbures'	
+1998	09			1998	09			a_été_remis	Un Diagnostic approfondi a été demandé et a été remis à l'administration en septembre 1998.		
+2006				2006				Réalisation_d__une_nouvelle_EDR	Réalisation d'une nouvelle EDR en aout 2006.		
+2003	12	10		2003	12	10		ont_été_imposés	Une surveillance de la nappe souterraine et la mise en sécurité du site ont été imposés par arrêté préfectoral complémentaire en date du 10 décembre 2003 (surveillance qui porte sur : plomb, chrome, cadmium, zinc, hydrocarbures totaux et HAP)	'plomb', 'chrome', 'cadmium', 'zinc', 'hydrocarbures totaux', 'HAP'	
+2004				2004				une_Évaluation_détaillée_des_risques_santé	Réalisation d'une Évaluation détaillée des risques santé en 2004, qui conclut qu'il existe un risque pour les populations, elle recommande le confinement de la pollution des remblais et la mise en place de servitudes eau et sol.		
+1998	09			1998	09			Un_Diagnostic_approfondi	Un Diagnostic approfondi a été demandé et a été remis à l'administration en septembre 1998.		
+1947				1947				exploité	Il s'agit d'un ancien dépôt de ferrailles exploité depuis 1947 par Emile Vandamme, puis après sa mort par sa femme Mme Adrienne Vandamme.		
+1997	10			1997	10			a_été_réalisé	Un rapport de cessation d'activité a été réalisé et transmis à l'administration  en octobre 1997.		
+1997	06	23		1997	06	23		a_cessé_définitivement	L'exploitation a cessé définitivement le 23 juin 1997.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05			2011	05			Un_diagnostic_de_pollution_des_sols_a_été_réalisé	Un diagnostic de pollution des sols a été réalisé en mai 2011 dans le cadre de la cessation partielle d'activité du site (cessation de l'activité de maintenance/entretien des avions) au droit des zones identifiées à risque.		
+2014	10			2014	10			une_dépollution	Cette zone a fait l’objet d’une dépollution en octobre 2014.		
+								mètres_de_profondeur	Les investigations de sols ont mis en évidence la présence d’une nappe superficielle vers 7-8 mètres de profondeur, qui pourrait correspondre à la nappe des calcaires de Brie.		
+2013	11			2013	11			Deux_diagnostics_complémentaires	Deux diagnostics complémentaires visant à définir cette pollution ont été réalisés en novembre 2013 et octobre 2014.		
+2014	10			2014	10			Deux_diagnostics_complémentaires	Deux diagnostics complémentaires visant à définir cette pollution ont été réalisés en novembre 2013 et octobre 2014.		

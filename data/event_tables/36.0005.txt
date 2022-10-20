@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				il_est_apparu	A la suite d'investigations menées par la DDE lors du 4 ème trimestre 1999, il est apparu que le terrain correspondait au site d'exploitation d'une ancienne usine à gaz.		'la DDE'
+2010	05			2010	05			a_été_faite	En mai 2010, une inscription dans la liste des sites pouvant bénéficier d'une subvention de l'ADEME au titre de la reconversion des friches polluées a été faite.		
+2007	11			2007	11			a_décidé_d_	La municipalité a décidé d'engager une Etude Détaillée des Risques (EDR), remise à la DRIRE en août 2005 et complétée en novembre 2007.		'la DRIRE'
+								il_est_apparu	A la suite d'investigations menées par la DDE lors du 4 ème trimestre 1999, il est apparu que le terrain correspondait au site d'exploitation d'une ancienne usine à gaz.		'la DDE'
+1999	12			1999	12			Un_diagnostic_initial	Un diagnostic initial et une Evaluation Simplifiée des Risques (ESR), réalisés en décembre 1999, ont permis de prouver l'existence de résidus d'exploitation dans des cuves enterrées et une pollution des sols par des fuites ou des déversements accidentels.		
+1871				1959				exploitée	Ce terrain, entièrement clos, correspond au site d'une ancienne usine à gaz, exploitée entre 1871 et 1959, dont le dernier gestionnaire est la Commune de La Châtre.		'la Commune de La Châtre'
+1969				1969				accueille	Il accueille depuis 1969 les bureaux, ainsi que des locaux fonctionnels (garages, hangar et atelier) de la Subdivision de la direction départementale de l'équipement (DDE) de La Châtre.		'la direction départementale de', 'DDE'

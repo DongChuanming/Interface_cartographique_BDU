@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018				2018				Des_investigations_ont_été_réalisées	Des investigations ont été réalisées au droit du site en 2018 et ont principalement mis en évidence :		
+								a_été_autorisée_initialement	La Société des Produits Chimiques d’Harbonnières a été autorisée initialement par arrêté préfectoral du 5 janvier 1994 à exploiter une usine de fabrication de produits chimiques minéraux par électrolyse de chlorure alcalin.	'de chlorure alcalin'	'La Société des Produits Chimiques d’ Harbonnières'
+2018	09			2018	09			a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire en septembre 2018.		
+1994				1994				a_été_autorisée_initialement	La Société des Produits Chimiques d’Harbonnières a été autorisée initialement par arrêté préfectoral du 5 janvier 1994 à exploiter une usine de fabrication de produits chimiques minéraux par électrolyse de chlorure alcalin.	'de chlorure alcalin'	'La Société des Produits Chimiques d’ Harbonnières'
+1997	10			1997	10			a_engagé_le_curage	A la suite des arrêtés préfectoraux de travaux d'urgence et de mise en demeure d'août et octobre 1997, la société SPCH a engagé le curage des fossés et lagunes de stockage et d'infiltration des effluents dont les sédiments étaient contaminés par le mercure.	'effluents'	'la société SPCH'
+2003	04	30		2003	04	30		a_été_rédigé	Ce rapport a été rédigé le 30 avril 2003.		
+								a_engagé_le_curage	A la suite des arrêtés préfectoraux de travaux d'urgence et de mise en demeure d'août et octobre 1997, la société SPCH a engagé le curage des fossés et lagunes de stockage et d'infiltration des effluents dont les sédiments étaient contaminés par le mercure.	'effluents'	'la société SPCH'
+2002	10	22		2002	10	22		avoir_effectué	Après avoir effectué une étude détaillée des risques pour la santé (22 octobre 2002), S.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				Ces_travaux_se_sont_déroulés	Ces travaux se sont déroulés en 1993 et 1994.		
+1992	02			1992	02			a_été_victime	La chaufferie de la maison d'arrêt de FLEURY-MEROGIS a été victime en février 1992 d'une pollution accidentelle au niveau de l'aire de dépotage pour la livraison du fioul.	'fioul'	'FLEURY - MEROGIS'
+1992	02			1992	02			une_pollution	A la suite d'une rupture de tuyauterie alimentant la chaufferie de la maison d'arrêt, une pollution du sol par les hydrocarbures a eu lieu en février 1992.	'hydrocarbures'	
+1995	04			1995	04			des_analyses_des_sols_effectués	Les résultats des analyses des sols effectués en avril 1995 ont montré l'absence de traces d'hydrocarbures (teneurs inférieures à 5 mg/kg).	'hydrocarbures'	
+1994				1994				Ces_travaux_se_sont_déroulés	Ces travaux se sont déroulés en 1993 et 1994.		
+2006	04	06		2006	04	06		a_été_présenté	Le projet d'arrêté préfectoral correspondant a été présenté en Conseil Départemental d'Hygiène le 16 janvier 2006 (arrêté signé le 6/04/2006).		
+2009				2009				des_travaux	Dans le cadre de la réaffectation d'un local ayant accueilli un stockage de fioul, le centre pénitentiaire a engagé des travaux en 2009 pour traiter la pollution identifiée dans le revêtement du sol (béton présentant des imprégnations d'hydrocarbures)et des murs du local (décapage).	'fioul', 'hydrocarbures)et'	
+2006	01	16		2006	01	16		a_été_présenté	Le projet d'arrêté préfectoral correspondant a été présenté en Conseil Départemental d'Hygiène le 16 janvier 2006 (arrêté signé le 6/04/2006).		
+1995	01			1995	01			a_demandé	En janvier 1995, M. le préfet a demandé à l'exploitant de la chaufferie de procéder à des analyses des sols remis en place.		'le préfet'

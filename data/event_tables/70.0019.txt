@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				L__étude_remise	L'étude remise fin 1997 a été étayée d'une classification du site en application des grilles de lecture selon la méthodologie nationale d'évaluation simplifiée des risques.		
+1996	05	03		1996	05	03		l__évaluation	Le 3 mai 1996 a été prescrite à la société l'évaluation des conséquences sur l'environnement de la mise en dépôt de déchets industriels entreposés sur le site à même le sol sans précautions.	'déchets industriels'	
+				2002	06			La_surveillance	La surveillance du site jusqu'en juin 2002 (dernière campagne réalisée à ce jour) ne montre pas d'évolution défavorable de la situation, mais des concentrations en Arsenic de l'ordre de grandeur du seuil de qualité.	'Arsenic'	
+1937				1937				implantée	La société implantée depuis 1937, est spécialisée dans la fabrication de produits chaudronnés tels que cuves et radiateurs pour transformateurs électriques.		

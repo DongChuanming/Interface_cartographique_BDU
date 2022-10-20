@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01	15		2010	01	15		a_été_déclassé	Ancien dépôt classé Seveso seuil haut pour le stockage de 26 000 m3 d’hydrocarbures, le site a été déclassé en janvier 2010 à la suite d’une réduction importante de ses capacités de stockage, le volume maximal autorisé passant à 8 249 m3 (arrêté préfectoral du 15 janvier 2010).	'hydrocarbures'	
+1958				1958				exploite	La société ENTREPOT PETROLIER DE LA HAUTE SEINE (EPHS) exploite un dépôt de liquides inflammables en bordure de Seine, sur le territoire de la commune de LA ROCHETTE (77 000), depuis 1958.	'dépôt de liquides inflammables'	'La société ENTREPOT PETROLIER DE LA HAUTE SEINE ( EPHS', 'LA ROCHETTE'
+2010	01			2010	01			a_été_déclassé	Ancien dépôt classé Seveso seuil haut pour le stockage de 26 000 m3 d’hydrocarbures, le site a été déclassé en janvier 2010 à la suite d’une réduction importante de ses capacités de stockage, le volume maximal autorisé passant à 8 249 m3 (arrêté préfectoral du 15 janvier 2010).	'hydrocarbures'	
+2011	01			2011	01			dernier_transformateur	Le dernier transformateur contenant du polychlorobiphényle (PCB) sur le site a été éliminé en janvier 2011.	'du polychlorobiphényle', 'PCB'	
+2002	04			2002	04			ont_été_déposées	Celles-ci ont été déposées en avril 2002.		
+2013	03	23		2013	03	23		La_mise_en_place	La mise en place de nouveaux piézomètres a été imposé par l’arrêté préfectoral du 23 mars 2013.		
+1999	02	02		1999	02	02		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 2 février 1999.		

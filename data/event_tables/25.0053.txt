@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	11			2012	11			a_été_remis	Un plan de gestion a été remis en novembre 2012 et conclut à la nécessité de maintenir le confinement des sols pollués par la dalle béton présente (bâtiments), pour permettre un usage industriel du site.		
+2012	07			2012	07			Un_diagnostic_complémentaire	Un diagnostic complémentaire a été mené en juillet 2012 et a permis de mettre en évidence une contamination des sols en COHV et en cuivre.	'COHV', 'cuivre'	
+2009				2009				cessation_d__activité	Les installations concernées par la cessation d'activité de 2009 sont soumises à déclaration et correspondent aux rubriques suivantes :		
+2013	03	1		2013	03	1		Une_inspection_de_récolement	Une inspection de récolement en date du 1er mars 2013 a permis de mettre en évidence les points suivants:		
+2013	05			2013	05			a_été_envoyé	Un courrier a été envoyé en mai 2013 à l'exploitant pour lui demander de faire le nécessaire pour conserver la mémoire de la pollution présente dans les sols et des restrictions d'usage nécessaires, soit en traçant ces restrictions dans un acte de vente, soit en déposant un dossier de restriction d'usage auprès du Préfet.		'du Préfet'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	07		2003	05	07		la_remise_en_état_du_site	Monsieur le Préfet de la Drôme a imposé, par arrêté préfectoral du 7 mai 2003, la remise en état du site, notamment en mettant en place une couverture peu perméable (10-9 m/s) sur la zone de dépôt de cendres et mâchefers.	'dépôt de cendres'	'le Préfet', 'de la Drôme'
+2015				2015				a_été_clôturé	Le dossier a été clôturé en 2015 par la mise en place d'une SUP.		
+2008				2008				a_été_arrêtée	La surveillance a été arrêtée en 2008, aucune pollution n'ayant été détectée.		

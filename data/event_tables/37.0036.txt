@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								été_effectuées	Cette zone source correspondrait à la présence d’un ancien fossé où des pratiques de déversement de fûts et/ou de brûlage de solvants usagés auraient été effectuées dans les années 70.	'solvants usagés'	
+								usagés_auraient_été_effectuées	Cette zone se trouve en bordure sud-ouest de l’ancienne rétention enterrée présente au droit de la zone « hydrocarbures » et serait située au droit de l’ancien fossé où des pratiques de déversement de fûts et/ou de brûlage de solvants usagés auraient été effectuées dans les années 70.	'\xa0 hydrocarbures', 'de solvants'	
+2014	12			2015	06			Ils_ont_été_réalisés	Ils ont été réalisés de décembre 2014 à juin 2015 (excavation des terres polluées, traitement passif en fond de fouille).		
+1967				1967				est_implanté	L’établissement est implanté depuis 1967 sur la zone industrielle nord de Tours.		
+2014	05	07		2014	05	07		Les_travaux_de_dépollution	Les travaux de dépollution ont été encadrés par l'arrêté préfectoral complémentaire du 7 mai 2014.		
+2012	01	23		2012	01	23		a_été_autorisée_à_exploiter	La société SANOFI WINTHROP INDUSTRIE a été autorisée à exploiter une unité de fabrication de médicaments à usage humain par arrêté préfectoral n°19131 du 23 janvier 2012, au 30-36 avenue Gustave Eiffel à Tours.		'La société SANOFI WINTHROP INDUSTRIE'
+2013	06			2013	06			Une_analyse	Une analyse des risques résiduels (prédictive) a été réalisée en juin 2013 par l'organisme Environ et a montré un niveau de risque faible par rapport aux valeurs de référence.		

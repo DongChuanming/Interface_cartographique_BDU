@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	02		2012	04	02		le_diagnostic_de_sol	L’inspection a reçu, le 2 avril 2012, le diagnostic de sol établi par SOCOTEC INDUSTRIES le 23 mars 2011 pour le compte de la SCI de la Villette.		'SOCOTEC INDUSTRIES'
+2011	03	23		2011	03	23		le_diagnostic_de_sol	L’inspection a reçu, le 2 avril 2012, le diagnostic de sol établi par SOCOTEC INDUSTRIES le 23 mars 2011 pour le compte de la SCI de la Villette.		'SOCOTEC INDUSTRIES'
+2006				2009				a_exercée	La SARL DAMET a exercée, sans autorisation, une exploitation de traitement de véhicules hors d’usage entre 2006 et 2009.		'La SARL DAMET'

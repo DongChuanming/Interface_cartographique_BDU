@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03	20		2003	03	20		Les_installations	Les installations, qui comportent un bac de traitement de 30 000 litres, sont autorisées par l'arrêté préfectoral du 29 juillet 1991 modifié le 20 mars 2003.		
+2008	07	16		2008	07	16		La_campagne	La campagne du 16/07/2008 portant sur les paramètres : pH, DCO, DBO5, hydrocarbures, carbendazime, cyperméthrine, penta-chloro-phénols montre l'absence d'impact sur la nappe.	'pH', 'DCO', 'DBO5', 'hydrocarbures', 'carbendazime', 'cyperméthrine', 'penta - chloro - phénols'	
+2009	04			2009	04			La_campagne_du_28	La campagne du 28 avril 2009 montre des traces de substances biocides (propiconazole : 0,05 µg/l dans le PzII).	'substances biocides', 'propiconazole'	'PzII'

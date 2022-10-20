@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	18		2012	12	18		a_donné	Par courrier du 18 décembre 2012, le Ministère de l'Ecologie a donné son accord pour les opérations de dépollution suivantes :		'le Ministère'
+1994				1994				a_été_déclarée_en_redressement_judiciaire	La société Renaud-Lucienne a été déclarée en redressement judiciaire en 1993 et mise en liquidation en 1994.		'La société Renaud - Lucienne'
+1999	02	02		1999	02	02		a_fait_procéder	Conformément à l'arrêté préfectoral du 2 février 1999, l'ADEME a fait procéder courant 2000 et 2001 à l'enlèvement des produits toxiques de laboratoire et à la réalisation des diagnostics amiante et solidité.	'des produits toxiques'	
+1996	07			1996	07			a_été_reconnu	Le site a été reconnu orphelin par lettres du ministère en charge de l'environnement de juillet 1996 et avril 1997.		
+1951	01	04		1951	01	04		a_été_autorisée_à_exploiter	La société Renaud-Lucienne a été autorisée à exploiter une activité de fabrication de savons, d'encaustique et peintures d'une part, et de régénération d'huiles de moteurs usagées d'autre part par arrêté préfectoral du 4 janvier 1951.		'La société Renaud - Lucienne'
+1997	04			1997	04			a_été_reconnu	Le site a été reconnu orphelin par lettres du ministère en charge de l'environnement de juillet 1996 et avril 1997.		
+2017	07			2017	07			Le_désamiantage	Le désamiantage et la démolition des bâtiments ont été réalisés fin juillet 2017.		
+1993				1993				a_cessé	L’activité a cessé en 1993.		
+1994				1994				mise_en_liquidation	La société Renaud-Lucienne a été déclarée en redressement judiciaire en 1993 et mise en liquidation en 1994.		'La société Renaud - Lucienne'
+2010	12	20		2010	12	20		de_nouvelles_investigations	Conformément à l'arrêté préfectoral du 20 décembre 2010, l'ADEME a fait réaliser de nouvelles investigations, notamment au niveau des zones d'habitats et des locaux de travail situés à proximité du site, au niveau du ruisseau le Jouha situé en contre-bas du site, au niveau de l'emprise du site afin de localiser les sources de pollution et l'extension du panache de pollution.		
+2020				2020				va_être_lancée	L'étude de faisabilité (traitement des sols et des eaux) va être lancée avec pour objectif de réaliser les travaux pour 2020.		
+2005	10	19		2005	10	19		a_fait_procéder	Conformément à l'arrêté préfectoral du 19 octobre 2005, l'ADEME a fait procéder à une étude qui a permis de caractériser le contexte géologique et hydrogéologique du site et de mettre en place un réseau de piézomètres pour le suivi de la qualité des eaux souterraines.		
+2001				2001				a_fait_procéder	Conformément à l'arrêté préfectoral du 2 février 1999, l'ADEME a fait procéder courant 2000 et 2001 à l'enlèvement des produits toxiques de laboratoire et à la réalisation des diagnostics amiante et solidité.	'des produits toxiques'	
+2020				2020				réaliser_les_travaux	L'étude de faisabilité (traitement des sols et des eaux) va être lancée avec pour objectif de réaliser les travaux pour 2020.		
+1993				1993				a_été_déclarée_en_redressement_judiciaire	La société Renaud-Lucienne a été déclarée en redressement judiciaire en 1993 et mise en liquidation en 1994.		'La société Renaud - Lucienne'
+2000				2000				a_fait_procéder	Conformément à l'arrêté préfectoral du 2 février 1999, l'ADEME a fait procéder courant 2000 et 2001 à l'enlèvement des produits toxiques de laboratoire et à la réalisation des diagnostics amiante et solidité.	'des produits toxiques'	

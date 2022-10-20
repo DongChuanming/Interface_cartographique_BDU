@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	30		2010	04	30		a_constaté	L'inspection a constaté le 30/04/2010 que cet arrêté préfectoral de mise en demeure n'était pas appliqué puisque les fenêtres étaient entr-ouvertes.		
+2010	07	08		2010	07	08		a_procédé_à_une_visite	L'inspection a procédé à une visite le 08/07/2010 afin de vérifier la mise en sécurité du site, en présence du propriétaire.		
+2010	03	12		2010	03	12		notifié	Il a donc été proposé la prise d'un AP de consignation (notifié le 12 mars 2010 au liquidateur) pour une somme de 22724 euros.		
+2009	09	03		2009	09	03		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée par le Tribunal de commerce de Nanterre le 03/09/2009.		'le Tribunal de commerce de Nanterre'

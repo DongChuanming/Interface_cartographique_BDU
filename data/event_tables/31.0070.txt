@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_été_identifiée	A la suite des travaux du tramway en 2008, une pollution de la nappe a été identifiée.		
+2008				2008				__la_condamnation	Son origine serait liée à deux débordements de cuves de FOD, combustible de secours et appoint à la géothermie, en 1982 et 1983.  L'excavation de 284 m3 de terres a été effectuée en 1984, la condamnation d'une cuve et sécurisation de l'autre ont été effectuées en 2008.	'FOD', 'combustible de secours'	
+2013				2013				Le_traitement_a_été_interrompu	Le traitement a été interrompu en 2013 compte tenu des résultats obtenus lors des dernières analyses (faible quantité de flottant).	'flottant'	
+2011				2011				a_été_installée	Une tranchée drainante a été installée en 2011 pour récupérer les flottants découverts sur la nappe couplée à une bande oléophile et un dispositif de traitement des eaux avant rejet au réseau communal.		
+2009				2009				a_été_remis	Un plan de gestion a été remis en 2009 pour traiter la pollution de la nappe.		
+2016	09			2016	09			Les_dernières_analyses	Les dernières analyses de septembre 2016 ont révélé des traces d'hydrocarbures totaux sur le PZ4 situé en aval (à l'intérieur du site).	"traces d' hydrocarbures totaux", 'PZ4'	
+1984				1984				a_été_effectuée	Son origine serait liée à deux débordements de cuves de FOD, combustible de secours et appoint à la géothermie, en 1982 et 1983.  L'excavation de 284 m3 de terres a été effectuée en 1984, la condamnation d'une cuve et sécurisation de l'autre ont été effectuées en 2008.	'FOD', 'combustible de secours'	
+2011	02	04		2011	02	04		dernier_récépissé	La société de géothermie de Ritouret (SGR) exploite une chaufferie qui relève du régime déclaratif (dernier récépissé du 04/02/2011) et un forage de grande profondeur.		'La société de géothermie de Ritouret', 'SGR'
+2008				2008				des_travaux_du_tramway	A la suite des travaux du tramway en 2008, une pollution de la nappe a été identifiée.		
+2008				2008				a_été_effectuée	Son origine serait liée à deux débordements de cuves de FOD, combustible de secours et appoint à la géothermie, en 1982 et 1983.  L'excavation de 284 m3 de terres a été effectuée en 1984, la condamnation d'une cuve et sécurisation de l'autre ont été effectuées en 2008.	'FOD', 'combustible de secours'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			a_été_faite	En décembre 2001, une demande a été faite, auprès de la mairie de Saint-Aubin-les-Elbeuf, de réaliser une ESR (Evaluation Simplifiée des Risques).		
+1985				1985				un_arrêt_définitif	A la suite du déménagement des installations dès le 12 mai 1982 sur le site d'exploitation actuel de la société au 91, rue de la Paix à Saint-Aubin-lès-Elbeuf, les activités de ce site ont été progressivement diminuées jusqu'à un arrêt définitif en 1985.		
+1952	02	05		1952	02	05		a_été_autorisée	Cette société a été autorisée le 5 février 1952 à exploiter à cette adresse une usine de régénération d'huiles usagées dont la capacité de production était de l'ordre de 100 tonnes par mois.		
+1982	05	12		1982	05	12		du_déménagement	A la suite du déménagement des installations dès le 12 mai 1982 sur le site d'exploitation actuel de la société au 91, rue de la Paix à Saint-Aubin-lès-Elbeuf, les activités de ce site ont été progressivement diminuées jusqu'à un arrêt définitif en 1985.		
+				1968				étaient_rejetées	En effet, jusqu'en 1968, les eaux résiduaires de la société étaient rejetées dans une carrière voisine.		

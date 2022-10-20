@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979	11	28		1979	11	28		étaient_réglementées	Ses activités étaient réglementées par AP du 28 novembre 1979.		
+2002				2002				ont_été_démolis	Les bâtiments présents au droit des pollutions des sols ont été démolis au début de l'année 2002.		
+2002	02			2002	02			ont_été_excavées	84 tonnes de terres polluées ont été excavées et éliminées dans un centre autorisé à cet effet, en février 2002.		
+1990	06	05		1990	06	05		la_cessation_d__activités	Par courrier du 05 juin 1990, la SFAM a déclaré la cessation d'activités.		'la SFAM'
+1990	07	23		1990	07	23		a_été_délivré	Un récépissé de notification de cessation a été délivré le 23 juillet 1990.		

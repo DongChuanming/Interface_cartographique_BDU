@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06			2005	06			Cette_étude	Cette étude de juin 2005 a été validée par l'inspection des installations classées.		
+1995				1995				ont_été_reprises	Les activités de tréfilage de la société TREFILEST ont été reprises par la société BEKAERT en 1995.		'la société TREFILEST', 'la société BEKAERT'
+1995				1995				a_été_reprise	Une partie de l'usine a été reprise par la société BEKAERT en 1995.		'la société BEKAERT'
+2005	08	22		2005	08	22		un_PV_de_récolement	A la suite de la visite d’inspection du 20 avril 2005, l'inspection des installations classées a confirmé l'arrêt définitif du site et sa remise en état par un PV de récolement du 22 août 2005.		
+2006				2006				__campagnes	Les résultats relatifs à la surveillance de la qualité des eaux souterraines (campagnes 2006 et 2007) ont été communiqués à l'inspection des installations classées et examinées par cette dernière.		
+2005	04	20		2005	04	20		la_visite_d__inspection	A la suite de la visite d’inspection du 20 avril 2005, l'inspection des installations classées a confirmé l'arrêt définitif du site et sa remise en état par un PV de récolement du 22 août 2005.		
+2007				2007				__campagnes	Les résultats relatifs à la surveillance de la qualité des eaux souterraines (campagnes 2006 et 2007) ont été communiqués à l'inspection des installations classées et examinées par cette dernière.		
+2005	04	20		2005	04	20		l__arrêt_définitif	A la suite de la visite d’inspection du 20 avril 2005, l'inspection des installations classées a confirmé l'arrêt définitif du site et sa remise en état par un PV de récolement du 22 août 2005.		
+2003				2003				demandera_la_mise_en_place_d_	Néanmoins, sans attendre la production de ce document, l'inspection des installations classées demandera la mise en place d'une surveillance des eaux souterraines, d'ici la fin 2003.		
+2010	03	29		2010	03	29		a_transmis	Le 29 mars 2010, la sté Bekaert a transmis les résultats d'analyses des eaux souterraines.		'la sté Bekaert'
+2007	11	12		2007	11	12		a_été_recentrée	A l'issue de cet examen, la surveillance de eaux souterraines a été recentrée sur les clhorures et sulfates (arrêté préfectoral du 12 novembre 2007).	'les clhorures', 'sulfates'	
+2003	07	08		2003	07	08		a_interrogé	Le 8 juillet 2003, l'inspection des installations classées a interrogé la société BAIL INDUSTRIE, chargée de la gestion de la seconde partie du site TREFILEST.		'la société BAIL INDUSTRIE', 'TREFILEST'
+2003	08	18		2003	08	18		s__engage_à_réaliser_un_diagnostic_initial	En réponse du 18 août 2003, cette dernière s'engage à réaliser un diagnostic initial et évaluation simplifiée des risques sur son site.		
+2005	01	18		2005	01	18		a_relancé	Par courrier du 18 janvier 2005, l'inspection des installations classées a relancé la société Bail industrie afin que celle-ci respecte son engagement de août 2003, à savoir fournir le diagnostic initial (DI) et l'évaluation simplifiée des risques (ESR) ou communiquer tout élément justifiant de l'avancée du dossier dans ce sens.		'la société Bail industrie'
+2003	07	31		2003	07	31		L__évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été remise à l'inspection des installations classées, le 31 juillet 2003.		
+1990	07	31		1990	07	31		une_étude_hydrogéologique	Suite à l'arrêté préfectoral du 31 juillet 1990, la société TREFILUNION a remis une étude hydrogéologique qui concluait à la présence de boues de décantation chargées en fer, zinc et plomb et qui préconisait la réalisation de nouvelles analyses des eaux souterraines.	'fer', 'zinc', 'plomb'	'la société TREFILUNION'
+1993	12			1993	12			ont_été_reçu	Les premiers résultats de la surveillance ont été reçu en décembre 1993.		
+2003	12	29		2003	12	29		a_été_notifié	Cet arrêté a été notifié à l'exploitant le 29 décembre 2003.		

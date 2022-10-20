@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	13		2008	11	13		a_demandé	Dans le cadre du changement d'exploitant (TRAPIL a succédé à la CIM), acté par arrêté préfectoral du 13 novembre 2008, la CIM a demandé à un bureau d'études de réaliser un diagnostic des sols.		'( TRAPIL', 'la CIM', 'la CIM'
+1998	02	27		1998	02	27		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 27 février 1998.		
+1999	04	16		1999	04	16		ont_été_déposées	Elles ont été déposées le 16 avril 1999 et ont été validées par l'administration.		

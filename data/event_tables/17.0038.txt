@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				ARCADIS_a_été_mandaté_par_le_groupe_BOUYGUES	En 2007, le bureau d'études ARCADIS a été mandaté par le groupe BOUYGUES (porteur d'un projet immobilier) afin d'effectuer un diagnostic de dépollution.	'dépollution .'	"le bureau d' études ARCADIS"
+2002	09	13		2002	09	13		été_prononcée_le	La liquidation judiciaire a été prononcée le 13 septembre 2002.		

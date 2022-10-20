@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Les_contrôles_réalisés	Les contrôles réalisés en 2012 et 2013 sur les eaux souterraines indiquent :		
+				1969				une_activité_principale_de_régénération_d__huiles_usagées_moteur	La société RAFFINEX a exercé jusqu'en 1969 une activité principale de régénération d'huiles usagées moteur par traitement à l'acide sulfurique.	'huiles usagées', 'acide sulfurique'	'La société RAFFINEX'
+2012				2012				aux_investigations_réalisées	Ceci a été décidé notamment par rapport aux investigations réalisées en 2012 et 2013.		
+2013				2013				aux_investigations_réalisées	Ceci a été décidé notamment par rapport aux investigations réalisées en 2012 et 2013.		
+2003	09			2003	09			ont_été_mis_en_place	Quatre piézomètres ont été mis en place en septembre 2003 et au total la surveillance des eaux souterraines porte sur 5 piézomètres, 3 puits de particuliers et un forage AEP.		
+1985				1985				Une_réhabilitation_sommaire_du_site	Une réhabilitation sommaire du site a été menée en 1985 par la société RAFFINEX par simple recouvrement des sols et élimination des déchets visibles.		'la société RAFFINEX'
+2013				2013				Les_contrôles_réalisés	Les contrôles réalisés en 2012 et 2013 sur les eaux souterraines indiquent :		
+				1969				a_exercé	La société RAFFINEX a exercé jusqu'en 1969 une activité principale de régénération d'huiles usagées moteur par traitement à l'acide sulfurique.	'huiles usagées', 'acide sulfurique'	'La société RAFFINEX'
+2009	07			2009	07			a_été_fait	Un nouveau point de la situation a été fait en juillet 2009. suite à l'accord du ministère le préfet a pris un arrêté préfectoral du 8 mars 2011 en vue de demander à l'ADEME l'évaluation et l'exécution des travaux suivants :		'le préfet'
+2013	10	02		2013	10	02		Le_plan_de_gestion	Le plan de gestion du site et le diagnostic environnemental du milieu souterrain ont été réalisés le 2 octobre 2013.		
+1999	1998			1999	1998			L__étude_réalisée	L'étude réalisée en 1998/1999 montre l'existence de 3 sources de pollution.		
+2005	02			2005	02			une_quatrième_campagne_de_surveillance	A la suite d'une quatrième campagne de surveillance des eaux souterraines diligentée par l'ADEME en février 2005, celle-ci concluait à la non nécessité de poursuivre les campagnes au delà.		
+1997	11	14		1997	11	14		une_étude_visant	Par arrêté préfectoral du 14 novembre 1997, une étude visant la caractérisation de la pollution et l'évaluation du coût des travaux de réhabilitation a été confiée à l'ADEME dans le cadre d'une procédure de travaux d'office.		
+								a_été_utilisé	En outre, ce site a été utilisé comme décharge sauvage pour le dépôt d’ordures ménagères, d’encombrants et de déchets industriels divers jusq’au dbut des années 1980.	'dépôt d’ ordures ménagères', 'encombrants'	

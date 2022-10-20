@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	01	11		2007	01	11		se_situent_au_dessus_des_valeurs_fixées	Là encore, les teneurs en dichloroéthylène  et  tétrachloroéthylène(somme), se situent au-dessus des valeurs fixées par l'arrêté ministériel du 11 janvier 2007.	'dichloroéthylène', 'et   tétrachloroéthylène(somme'	
+2011	09			2011	09			des_mesures_effectuées	Celle-ci sont beaucoup plus importantes lors des mesures effectuées en septembre 2011(de l'ordre de 500µg/l).		
+								des_études_remises	L'AP du 24/03/93 a prescrit des études remises le 06/04/94 et le 31/05/94, et l'AP du 05/07/95 a prescrit la dépollution.		
+1996				1996				a_été_observée	La teneur maximum en COV dans le puits de dépollution a été observée en 1996 (3420 µg/l).	'COV'	

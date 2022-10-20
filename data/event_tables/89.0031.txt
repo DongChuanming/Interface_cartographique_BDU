@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02			2009	02			Un_diagnostic_initial_de_sols	Un diagnostic initial de sols avait été réalisé en février 2009.		
+2009	08	31		2009	08	31		avec_effet	Le 4 août 2009, la SNC PETROLANDE informe M. le Préfet de l'Yonne de la  fermeture du dépôt de combustible avec effet au 31 août 2009.		'la SNC PETROLANDE', 'le Préfet'
+2009	08	04		2009	08	04		informe	Le 4 août 2009, la SNC PETROLANDE informe M. le Préfet de l'Yonne de la  fermeture du dépôt de combustible avec effet au 31 août 2009.		'la SNC PETROLANDE', 'le Préfet'

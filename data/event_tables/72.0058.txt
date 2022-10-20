@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	09	01		2017	09	01		est_déclaré_en_cessation_d__activité	Le 01/09/2017, le site est déclaré en cessation d'activité.		
+1977				1977				substitué	Le site a accueilli l'entreprise Paul Despré, société d'exploitation des ateliers mécaniques, dont l'activité à débuté en 1960, substitué par celle de SEDAMD en 1977.		'SEDAMD'
+1977				1977				a_accueilli	Le site a accueilli l'entreprise Paul Despré, société d'exploitation des ateliers mécaniques, dont l'activité à débuté en 1960, substitué par celle de SEDAMD en 1977.		'SEDAMD'
+1960				1960				à_débuté	Le site a accueilli l'entreprise Paul Despré, société d'exploitation des ateliers mécaniques, dont l'activité à débuté en 1960, substitué par celle de SEDAMD en 1977.		'SEDAMD'
+2017				2017				ont_été_réalisées	Une étude de l'interprétation de l'état des milieux (IEM) et une EQRS (évaluation quantitative des risques sanitaires) ont été réalisées en 2017.		

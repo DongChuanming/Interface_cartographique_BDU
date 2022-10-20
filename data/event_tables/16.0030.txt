@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977	06	16		1977	06	16		a_reçu	La société a reçu un arrêté d'autorisation d'activité le 16 juin 1977.		
+2016	03	16		2016	03	16		un_courrier	La société LEROY SOMER a transmis un courrier daté du 16 mars 2016 afin de proposer des modifications relatives à l'identification du propriétaire portée sur le projet d’arrêté préfectoral.		'La société LEROY SOMER'
+2011	08			2011	08			Les_travaux_de_retrait	Les travaux de retrait de la cuve de stockage des huiles ont été réalisés en août 2011.	'stockage des huiles'	
+2015	07	31		2015	07	31		transmis_par_courrier	Un dossier de demande d'institution de servitudes d'utilité publique a été établi en juillet 2015 par la société LEROY SOMER et transmis par courrier le 31 juillet 2015 à la Préfecture de Charente.		'la société LEROY SOMER', 'la Préfecture de Charente'
+2013				2013				Les_travaux_d__excavation	Les travaux d’excavation de la zone de stockage de déchets ont été menés au cours du dernier trimestre 2013.	'stockage de déchets'	
+1992	03	30		1992	03	30		et_le_traitement_industriel	Elle a également reçu plusieurs récépissés de déclaration pour : le traitement de surface (25 septembre 1975), le stockage de propane (11 décembre 1987), un atelier de peinture (25 septembre 1990) et le traitement industriel (30 mars 1992).	'de propane'	
+2016	10	28		2016	10	28		a_été_signé	L'Arrêté Préfectoral complété, instituant des servitudes d'utilité public (AP de SUP), a été signé le 28/10/2016.		
+2007	11			2007	11			avait_été_transmis	Un dossier de demande d’autorisation d’exploiter en régularisation avait été transmis en novembre 2007 mais la démarche n’a pas abouti.		
+1976				1976				ont_démarrées	Les activités ont démarrées en 1976.		
+2011	03			2011	03			a_définitivement_cessé_ses_activités_industrielles	Le site a définitivement cessé ses activités industrielles en mars 2011.		
+2014	06			2014	06			et_travaux_de_réhabilitation	Les rapports travaux de retrait de la cuve enterrée de stockage d’huiles usagées de février 2012 et travaux de réhabilitation de juin 2014 ont été transmis à l'Inspection.	'stockage d’ huiles'	
+2013	10			2013	10			un_revêtement_bitumineux	En octobre 2013, un revêtement bitumineux a été mis en place au droit de cette zone afin d’empêcher l’infiltration des eaux météoriques.		
+1975				1975				a_été_occupé	Le site a été occupé par la société LEROY SOMER à partir de 1975.		'la société LEROY SOMER'
+2016	09	08		2016	09	08		Le_passage	Le passage en CODERST a eu lieu le jeudi 8 septembre 2016 (demande de complément de la part de l'ARS pour l'AP de SUP).		
+2015	07			2015	07			a_été_établi	Un dossier de demande d'institution de servitudes d'utilité publique a été établi en juillet 2015 par la société LEROY SOMER et transmis par courrier le 31 juillet 2015 à la Préfecture de Charente.		'la société LEROY SOMER', 'la Préfecture de Charente'
+2012	02			2012	02			travaux_de_retrait_de_la_cuve_enterrée	Les rapports travaux de retrait de la cuve enterrée de stockage d’huiles usagées de février 2012 et travaux de réhabilitation de juin 2014 ont été transmis à l'Inspection.	'stockage d’ huiles'	

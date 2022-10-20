@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	28		2011	11	28		a_été_émis	Le 28/11/2011, l'arrêté préfectoral instituant des servitudes d'utilité publique a été émis.		
+2002	10	17		2002	10	17		un_bilan_réglementaire	Le 17/10/2002, la société SICTOM a remis à la Préfecture un bilan réglementaire, un mémoire de réhabilitation et des précisions sur les modalités de gestion et de suivi de la zone ISDND du site pour la période "post-exploitation".		'la société SICTOM', 'la Préfecture'
+2009	10	20		2009	10	20		une_visite_d__inspection_a_été_effectuée	Suite à une plainte de la FRAPNA concernant la dépose de déchets en mélange sur le site, une visite d'inspection a été effectuée le 20/10/2009.		'la FRAPNA'
+2004	06			2004	06			ont_été_achevés	Les travaux ont débuté le 02/06/2003 et ont été achevés en juin 2004.		
+2003	06	02		2003	06	02		Les_travaux_ont_débuté	Les travaux ont débuté le 02/06/2003 et ont été achevés en juin 2004.		
+2011	11	28		2011	11	28		a_été_émis	Le 28/11/2011, l'arrêté préfectoral complémentaire a été émis.		
+2004	06			2004	06			Les_travaux_ont_débuté	Les travaux ont débuté le 02/06/2003 et ont été achevés en juin 2004.		

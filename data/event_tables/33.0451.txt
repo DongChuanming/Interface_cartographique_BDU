@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	09			2014	09			Une_campagne_de_contrôle	Une campagne de contrôle de la qualité des eaux souterraines post-travaux a été réalisée en septembre 2014.		
+2013	11	18		2013	11	18		et_ayant_cessé_son_activité	Station-service ayant fait l'objet du récépissé n°13382 du 24/02/2012 pour les rubriques 1414-3, 1432-2b et 1435-3 et ayant cessé son activité le 18/11/2013.		
+2013	11			2013	11			Un_diagnostic_de_pollution	Un diagnostic de pollution a été réalisé par TEREO en novembre 2013.		'TEREO'
+2014	05			2014	05			Les_travaux_de_démantèlement	Les travaux de démantèlement et remédiation se sont déroulés au cours du mois de mai 2014.		
+2013	11	18		2013	11	18		ayant_fait	Station-service ayant fait l'objet du récépissé n°13382 du 24/02/2012 pour les rubriques 1414-3, 1432-2b et 1435-3 et ayant cessé son activité le 18/11/2013.		

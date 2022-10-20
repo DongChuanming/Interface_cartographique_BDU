@@ -1,0 +1,33 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				s__est_arrêtée	L'exploitation de kiwis s'est arrêtée en 2007.		
+2009	03			2009	03			traitement	- traitement exclusif par adsorption sur charbons actifs depuis mars 2009.	'charbons actifs'	
+				2012	04	05		Les_opérations_de_constitution	Les opérations de constitution des tertres de traitement ont été réalisées entre le 28 mars et le 5 avril 2012.		
+2008	04	02		2008	04	02		le_diagnostic	A la suite de la démolition du bâtiment B1, le diagnostic du 02/04/2008 met en évidence la contamination des sols élevée en solvants halogénés (Trichlorétylène et chloroforme), Xylènes (5 g/kg),Ethylbenzène, pentachlorophénol (37g/kg), lindane.	'solvants halogénés', 'Trichlorétylène', 'chloroforme', 'Xylènes', 'kg),Ethylbenzène', 'pentachlorophénol', 'lindane'	
+2002	03			2002	03			Les_analyses	Les analyses de l'air ambiant de mars 2002 dans l'habitation du riverain montrent un impact persistant.		
+2010	07	30		2010	07	30		l__arrêté	Sur proposition de la DREAL du 09/06/2010, l'arrêté du 30/07/2010 prescrit les travaux de dépollution suivants : excavation des sols, traitement par VENTING puis biotertre pour les BTEX et chlorés, par élimination extérieure pour les HCH et PCPNa.	'biotertre', 'les BTEX', 'chlorés', 'les HCH', 'PCPNa'	'la DREAL', 'VENTING'
+2009	05	29		2009	05	29		établi	Le plan de gestion établi le 29/05/2009 est validé le 09/10/2009.		
+								de_traitement_établit	Le bilan de mars 2009 de 5 ans de traitement établit :		
+								a_eu_lieu	Cette phase a eu lieu entre le 27 mars et le 5 avril, puis les 08 et 09 juillet 2012.		
+2003	03	28		2005	09	21		est_réalisé	Le traitement des terres est réalisé du 28/03/2003 au 21/09/2005.		
+2003	10	24		2003	10	24		La_campagne_d__analyses	La campagne d'analyses du 24/10/2003 montre des traces de chlorés de façon significative qui laissent à penser que l'eau du puits est toujours utilisée par le propriétaire malgré l'interdiction de l'arrêté municipal de mai 2002.	'chlorés'	
+2012	04	06		2013	03	25		a_été_effectif	Le système de venting a été effectif du 6 avril 2012 au 25 mars 2013, soit 11 mois, et la majorité de la pollution a été résorbée.		
+2007	11	26		2007	11	26		Le_bilan	Le bilan au 26/11/2007 de 3 ans de traitement montre l'existence potentielle de sources sol non identifiées.		
+2008				2008				Les_campagnes_de_août	Les campagnes de août 2008 et mai 2009 montrent l'absence d'impact des composés chlorés dans l'habitation.	'composés chlorés'	
+								de_traitement_établit	Le bilan de septembre 2012, de 8 ans de traitement établit :		
+2012	07	09		2012	07	09		a_eu_lieu	Cette phase a eu lieu entre le 27 mars et le 5 avril, puis les 08 et 09 juillet 2012.		
+								Les_études_remises	Les études remises par étape en mars, juillet et septembre 2001 montrent :		
+2008	03	03		2008	03	03		demande_un_diagnostic_complémentaire	Le 03/03/2008, la DRIRE demande un diagnostic complémentaire.		'la DRIRE'
+2009	10	09		2009	10	09		est_validé	Le plan de gestion établi le 29/05/2009 est validé le 09/10/2009.		
+2006	10			2006	10			La_campagne_d_	La campagne d'octobre 2006 montre une légère augmentation en bromoforme, 1-2 DCe et cis et trans, toutefois très inférieures aux valeurs maximales d'exposition.	'bromoforme', 'DCe'	
+								restaurer_la	- mise en place d'un système de rabattement de la nappe afin de limiter l'extension du panache et de restaurer la qualité des eaux dans un délai de 5 ans.		
+2009				2009				les_campagnes_de_caractérisation	Extraction des sols de la zone de l’ancien bâtiment B1, selon les campagnes de caractérisation menées en 2008 et 2009 ; Selon les résultats de ces campagnes, les terres ont été triées pour être :		
+								de_traitement_établit	Le bilan de septembre 2010 de 6 ans de traitement établit :		
+2003	06			2003	06			Les_analyses	Les analyses de juin 2003 sont nettement inférieures à celles mesurées en mars 2003, quelques traces en dessous de la VME subsistent, notamment pour le trichloréthylène.	'trichloréthylène'	
+								Le_bilan	Le bilan au 26/11/2007 de 3 ans de traitement montre l'existence potentielle de sources sol non identifiées.		
+2011	12			2011	12			Les_campagnes_d_	Les campagnes d'avril et décembre 2011 et de l'année 2012 confirment la situation précédente.		
+2009	05			2009	05			Les_campagnes_de_août	Les campagnes de août 2008 et mai 2009 montrent l'absence d'impact des composés chlorés dans l'habitation.	'composés chlorés'	
+2001	09			2001	09			Les_études_remises	Les études remises par étape en mars, juillet et septembre 2001 montrent :		
+1999				1999				Les_études_remises	Les études remises en 1999 classent le site en 1, nécessitant des investigations complémentaires, notamment du fait de la présence de produits organochlorés dans la nappe.	'produits organochlorés'	
+								Les_campagnes_d_	Les campagnes d'avril et décembre 2011 et de l'année 2012 confirment la situation précédente.		
+2008				2008				les_campagnes_de_caractérisation	Extraction des sols de la zone de l’ancien bâtiment B1, selon les campagnes de caractérisation menées en 2008 et 2009 ; Selon les résultats de ces campagnes, les terres ont été triées pour être :		
+2006	10			2006	10			La_campagne_d__analyses	La campagne d'analyses d'octobre 2006 montre que l'ensemble des paramètres est en dessous des limites de détection analytiques, tant sur les kiwis épluchés que sur les kiwis bruts.		

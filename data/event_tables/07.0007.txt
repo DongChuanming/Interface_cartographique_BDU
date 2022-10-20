@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_sélectionné	Le site a été sélectionné dans le cadre de la circulaire du 03/04/96.		
+2008				2008				un_diagnostic_environnemental_complémentaire	L'ancien exploitant, la société PCF, a donc fait réaliser en 2008 un diagnostic environnemental complémentaire.		'la société PCF'
+1999	08	13		1999	08	13		Ces_études_de_sols	Ces études de sols ont été transmises à l’administration le 13/08/1999 et le 19/05/2003.		
+				2003	05	19		Ces_études_de_sols	Ces études de sols ont été transmises à l’administration le 13/08/1999 et le 19/05/2003.		
+2009				2009				a_été_repris	Le site, exploité de 1982 jusqu'en 2008 par la société PCF (PHARMACIE CENTRALE DE FRANCE), a été repris par la société OCM en 2009 dans le cadre d'une liquidation judiciaire.		'la société PCF', 'PHARMACIE CENTRALE DE FRANCE', 'la société OCM'
+2012	02			2012	02			a_été_transmise	L'étude sur la recherche des puits privés a été transmise par l'exploitant en février 2012 ; elle indique "En conclusion de cette recherche, il apparaît que les usages recensés ne montrent pas de sensibilité à l’enjeu de pollution des eaux souterraines au droit du site exploité par OCM, du fait de leur éloignement.		'OCM'
+				2008				exploité	Le site, exploité de 1982 jusqu'en 2008 par la société PCF (PHARMACIE CENTRALE DE FRANCE), a été repris par la société OCM en 2009 dans le cadre d'une liquidation judiciaire.		'la société PCF', 'PHARMACIE CENTRALE DE FRANCE', 'la société OCM'
+2008				2008				des_campagnes	Les niveaux restent comparables à ceux mesurés lors des campagnes de 2008.		
+1998	11	13		1998	11	13		L__étude_des_sols	L’étude des sols a été imposée à l’industriel par arrêté préfectoral du 13/11/1998.		

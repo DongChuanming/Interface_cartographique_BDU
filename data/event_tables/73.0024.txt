@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12			2006	12			étude_hydrogéologique_affinée	Une étude hydrogéologique affinée a été remise en décembre 2006.		
+2003	07			2003	07			risques_a_été_remise	L'étude détaillée des risques a été remise en juillet 2003.		
+2009	05			2009	05			a_été_constatée_lors_de	La présence de la clôture a été constatée lors de la dernière inspection en mai 2009.		
+2009	09			2009	09			des_prélèvements_réalisés	Toutefois, les derniers résultats disponibles et transmis par l'exploitant correspondent à des prélèvements réalisés en septembre 2009.		
+1998				1998				a_été_fermée	La décharge a été fermée en 1998.		
+1998	11			1998	11			Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques ont été prescrits en novembre 1998.		

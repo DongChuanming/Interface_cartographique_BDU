@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	06			2009	06			La_campagne_de_surveillance	La campagne de surveillance de juin 2009 indique des concentrations en baisse.		
+2009	02	20		2009	02	20		ont_été_prescrites	Une surveillance semestrielle de la nappe et une étude (schéma conceptuel et IEM) ont été prescrites par arrêté de prescriptions spéciales du 20 février 2009.		
+2008	01			2008	01			La_première_campagne_de_surveillance	La première campagne de surveillance a été réalisée en janvier 2008 et a mis en évidence l'origine de la pollution sur le site Bodycote.		
+2004				2004				la_mise_en_évidence_d__une_pollution	Suite à la mise en évidence d'une pollution de la nappe par des composés organohalogénés volatils en 2004 au droit d'un site industriel en aval hydrogéologique du site Bodycote, une recherche des sources de pollution a été effectuée.	'composés organohalogénés'	
+2009	09			2009	09			ont_été_remis	Le schéma conceptuel et l'interprétation de l'état des milieux (IEM) ont été remis en septembre 2009.		

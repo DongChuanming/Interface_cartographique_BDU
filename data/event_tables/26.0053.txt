@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				est_exploité	Ce site est exploité par la société DROMENSEIGNE depuis 2004.		'la société DROMENSEIGNE'
+2012	03	1		2012	03	1		Une_analyse_effectuée_sur_la_terre_prélevée	Une analyse effectuée sur la terre prélevée le 1er mars 2012 dans le fond du puits d'infiltration montre une concentration en mercure de 8,12 mg/kg de matière sèche.	'mercure'	

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02	04		2004	02	04		a_été_par_la_suite_imposée	Celle-ci a été par la suite imposée par l’Inspection des Installations Classées par le biais d’un arrêté préfectoral complémentaire signé en date du 04/02/2004.		
+2001	01	03		2001	01	03		un_rapport_rédigé	La phase finale de l’ESR à été incluse dans un rapport rédigé en date du 03/01/2001 par le bureau d’étude Atlantique Méditerranée Dépollution Environnement (AMDE).		
+1995				1995				Les_premières_études	Les premières études portant sur le site ont été réalisées en 1995 par le bureau d’étude Bruno GILLI. 24 fouilles à la pelle mécanique ont été réalisées sur la partie sud du site afin de localiser et de délimiter les anciennes zones de remblais renfermant des déchets d’alumine.	'des déchets d’ alumine'	'GILLI'
+2007	07			2007	07			un_rapport_rédigé_en	La société ANTEA a mené ces investigations et en a rendu compte dans un rapport rédigé en juillet 2007. 9 sondages ont été réalisés.		'La société ANTEA'
+2002	12	09		2002	12	09		un_courrier	Compte tenu du nombre réduit de points de mesure, l’Inspection des Installations Classées a demandé à l’exploitant par le biais d’un courrier daté du 09/12/2002 que l’ESR soit complétée par des analyses supplémentaires.		
+2007	07			2007	07			ces_investigations	La société ANTEA a mené ces investigations et en a rendu compte dans un rapport rédigé en juillet 2007. 9 sondages ont été réalisés.		'La société ANTEA'
+2008	06	25		2008	06	25		s__est_substitué	Le 25 juin 2008, la SATMA PPC s’est substitué à la SATMA pour son activité de produits pour condensateurs.		'la SATMA PPC', 'la SATMA'
+1998	12	01		1998	12	01		a_été_imposé	Cette ESR a été imposé à la SATMA par le biais de l’arrêté préfectoral du 01/12/1998.		'la SATMA'
+2003	08	07		2003	08	07		L__étude_finalisée	L’étude finalisée a été rendu en date du 07/08/2003. 6 nouveaux sondages ont été effectués dont 2 ont été équipés en tant que piézomètres.		
+2008	03			2009	10			entre_le_mois_de_juin_2004_et_mars_2006_et	- Aluminium entre le mois de juin 2004 et mars 2006 et entre mars 2008 et le octobre 2009 avec des concentrations atteignant jusqu’à 122 mg/l (juillet 2005) ;	'Aluminium'	
+1963	03	06		1963	03	06		est_occupé	Le site est occupé par la Société Anonyme de Traitement des Métaux et Alliages (SATMA) depuis le 06/03/1963, date de signature du récépissé de déclaration autorisant le traitement de surface et le travail des métaux.		'la Société Anonyme de Traitement des Métaux', 'SATMA'
+2003	04			2003	04			est_effectuée	Une surveillance des eaux du site est effectuée depuis le mois d’avril 2003.		

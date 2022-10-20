@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04			2002	04			a_été_finalement_remise	L'étape B du diagnostic initial a été finalement remise en avril 2002.		
+2004	01	09		2004	01	09		de_la_visite	Lors de la visite du 9 janvier 2004, suite à un incendie survenu dans la soirée du 8, l'exploitant n'a pu présenter son étude de sols.		
+2003	04			2003	04			Les_analyses	Les analyses complétementaires transmises en avril 2003 au niveaux des eaux souterraines ont montré des concentrations en Cis 1-2 Dichloroéthylène, en dichlorométhane, tétrachloroéthylène et en trichloroéthylène supérieures aux VCI usage sensible correspondantes à l'aval du site au niveau d'un piézomètre, ainsi qu'une concentration en tétrachloroéthylène supérieure à la VCI usage sensible au niveau du puits aval.	'Cis 1 - 2 Dichloroéthylène', 'dichlorométhane', 'tétrachloroéthylène', 'trichloroéthylène', 'tétrachloroéthylène'	
+2003	01	14		2003	01	14		la_visite	Un procès verbal, en date du 15 janvier 2004, a été dressé pour non respect des différents arrêtés pris à la suite de la visite du 14 janvier 2003.		
+2003	03	25		2003	03	25		s__était_engagé_par_courrier	De plus, l'exploitant s'était engagé par courrier du 25 mars 2003 à déposer sous 10 jours l'étude de sols.		
+2004	01	15		2004	01	15		a_été_dressé	Un procès verbal, en date du 15 janvier 2004, a été dressé pour non respect des différents arrêtés pris à la suite de la visite du 14 janvier 2003.		
+2007				2007				ont_été_transmis	En 2007 ont été transmis les résultats piézométriques.		
+2003	01	14		2003	01	14		de_la_visite	L'inspection des installations classées a proposé au préfet de mettre en demeure l'exploitant de déposer une étude de sols dans son rapport en date du 14 février 2003 modifié le 16 mai 2003 suite à la réception de documents transmis par l'exploitant pour répondre aux remarques formulées par l'inspection lors de la visite du 14 janvier 2003.		'préfet'

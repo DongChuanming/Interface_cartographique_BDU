@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				La_surveillance	La surveillance de 2005 a montré l'apparition d'un faible impact en plomb et hydrocarbures dans les eaux souterraines.	'plomb', 'hydrocarbures'	
+2001	07			2001	07			L__étude_de_sol	L’étude de sol (diagnostic initial et Évaluation Simplifiée des Risques) a été remise en juillet 2001.		
+2011	11			2011	11			Des_investigations	Des investigations visant à déterminer l'origine de cette pollution ont été demandées à l'exploitant par l'inspection en novembre 2011.		
+2006				2010	06			Les_analyses_reçues	Les analyses reçues (de 2006 à juin 2010) montrent une disparition de la pollution en hydrocarbures et en plomb (valeurs inférieures aux seuils de détection).	'hydrocarbures', 'plomb'	

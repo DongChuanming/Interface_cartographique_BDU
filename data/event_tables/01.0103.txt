@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				implantés	2 piézomètres, implantés en 2011 à proximité des cuves, mettent en évidence la présence d'hydrocarbures à des teneurs importantes (de l'ordre de 30 mg/l au maximum).	'hydrocarbures'	
+				1995				a_été_utilisé_sur_site	Le trichloréthylène a été utilisé sur site jusqu'en 1995 ; il a également été utilisé par le passé par des établissements voisins de la société VOLVO.	'Le trichloréthylène'	
+1998				1998				est_réalisé	Un suivi de la qualité des eaux souterraines est réalisé depuis 1998.		
+2011				2011				a_informé	Par ailleurs, en 2011, l'exploitant a informé l'inspection des installations classées de la découverte d'une pollution aux hydrocarbures au droit de cuves enterrées d'huiles & carburants exploitées sur le site.	'hydrocarbures', 'carburants'	
+2008	04	03		2008	04	03		la_réalisation_d__investigations_complémentaires	Dans ce contexte, il a été imposé à l'exploitant, par arrêté préfectoral complémentaire du 03 avril 2008, la réalisation d'investigations complémentaires visant à déterminer l'origine de cette pollution.		

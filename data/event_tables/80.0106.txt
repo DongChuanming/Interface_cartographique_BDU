@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	15		2011	11	15		travaux_d__extraction	Un rapport de SECHE ECO SERVICES - dossier d'ouvrage exécuté – travaux d'extraction d'infrastructures pétrolières et suivi environnemental des travaux en date du 15 novembre 2011 reprend le d&étail de ces travaux.		'SECHE ECO SERVICES'
+1986	10	30		1986	10	30		a_été_délivré	Un récépissé de déclaration a été délivré à ESSO SAF le 30 octobre 1986 pour une modification des installations de de dépôts de liquides inflammables, soit 120 m3 de capacité totale de stockage de liquides inflammables.	'liquides inflammables', 'stockage de liquides inflammables'	'ESSO SAF'
+2010	12	09		2010	12	09		la_cessation_de_ses_activités	Par courrier du 9 décembre 2010, la société ESSO SAF déclare la cessation de ses activités à Albert.		'la société ESSO SAF'
+2009	03			2009	03			diagnostic_des_sols	Suite a la cessation des activité de la station service, le rapport SERPOL n°6137 - diagnostic des sols de mars 2009 a été adressé au Préfet de la Somme.		

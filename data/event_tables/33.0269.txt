@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	04	17		1989	04	17		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 17/04/1989.		
+2007	07			2007	07			Une_opération_de_nettoyage	Une opération de nettoyage du bassin et des fossés a été effectué en Juillet 2007, mais n'a pas pu se finaliser du fait des fortes pluies.		
+2003	05	13		2003	05	13		est_remis	Le diagnostic est remis le 13/05/2003.		
+2011	11			2011	11			Les_analyses	Les analyses de Novembre 2011 sur la DCO sont inférieurs à 15 mg/L sur l'essentiel des piézomètres avec toutefois deux pics à 58 mg/L pour le PZ6 et à 149 mg/L pour le PZ9.	'PZ9'	'DCO'
+2004				2004				Les_analyses_effectuées	Les analyses effectuées en 2004 sur les eaux souterraines :		

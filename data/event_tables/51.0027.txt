@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								encadre	Un arrêté préfectoral du 19/01/20004 encadre la surveillance des eaux souterraines sur une période minimale de 3 ans.		
+2005	11	22		2005	11	22		a_écrit	Le 22 novembre 2005, l'exploitant a écrit au préfet de la Marne pour lui indiquer qu'il allait fermer ce site.		
+1999				1999				Le_diagnostic_initial_réalisé	Le diagnostic initial réalisé en 1999 a conduit à définir 4 zones potentiellement polluées.		
+2003				2003				ont_été_forés	Les piézomètres de surveillance de la qualité des eaux souterraines ont été forés début 2003.		
+2005	12	09		2005	12	09		a_demandé	Le 9 décembre 2005, l'inspection des installations classées a demandé des compléments à l'exploitant concernant le mémoire de remise en état du site.		
+2006	04			2006	04			Relancé	Relancé en avril 2006, l'exploitant a indiqué que le dossier complété serait remis dans les prochains mois.		

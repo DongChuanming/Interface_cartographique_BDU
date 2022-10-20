@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				ont_pu_reprendre_de_façon_complète	Les analyses des eaux souterraines ont pu reprendre de façon complète en 2011.		
+2005	03			2005	03			d__expertise	- Rapport d'expertise des canalisations enterrées du site en mars 2005,		
+2015				2015				la_dernière_campagne	Les campagnes de mesures de suivi des eaux souterraines ont été transmis jusqu'en mai 2016, la dernière campagne datant du 4ème trimestre 2015.		
+2005				2005				évaluation_détaillée_des_risques	Toutefois, les concentrations observées jusqu'à présent restent inférieures aux concentrations retenues dans le cadre de l'évaluation détaillée des risques réalisées en 2005, qui concluait à des risques acceptables pour un usage non sensible du site de type industriel ou tertiaire sans usage des eaux souterraines au droit du site.		
+2015				2015				ont_augmenté	En revanche, les concentrations mesurées en manganèse ont augmenté en 2015 pour les piézomètres PZ5 et PZ6, passant d’environ 0,2 à 0,3-0,4 mg/L, la valeur de référence étant de 0,05 mg/L.	'manganèse'	
+2004	07			2004	07			évacuation	- évacuation de la totalité des déchets présents sur le site en juillet 2004,		
+								Les_campagnes	Les campagnes de mesures de suivi des eaux souterraines ont été transmis jusqu'en mai 2016, la dernière campagne datant du 4ème trimestre 2015.		
+2011	10			2011	10			Un_dépassement_ponctuel	Un dépassement ponctuel de la valeur en tétrachloroéthylène a d'ailleurs été relevé en octobre 2011 sur le piézomètre amont, sans toutefois être confirmé lors des quatre mesures ultérieures.	'tétrachloroéthylène'	
+2004				2004				a	La société GENEFIM, ancien propriétaire du site, venant au droit de l'exploitant défaillant, a depuis 2004, réalisé les opérations de mise en sécurité du site :		'La société GENEFIM'
+2003	05	16		2003	05	16		a_été_ouverte	Suite à la défaillance de TCI, une procédure de liquidation judiciaire a été ouverte par le tribunal de commerce de Pontoise le 16 mai 2003.		'TCI'
+2007	05	07		2007	05	07		l__acte_de_vente	Par courrier du 15 mai 2007, GENEFIM a transmis à l'inspection des installations classées l'acte de vente du site à la commune de La Garenne-Colombes daté du 07 mai 2007.		'GENEFIM'
+				2016	05			Les_campagnes	Les campagnes de mesures de suivi des eaux souterraines ont été transmis jusqu'en mai 2016, la dernière campagne datant du 4ème trimestre 2015.		
+2014	09			2014	09			n__est_plus_observé	Le chlorure de vinyle n’est plus observé dans aucun des piézomètres depuis septembre 2014.	'Le chlorure de vinyle'	
+2005	03			2005	03			__diagnostic_complémentaire_des_sols	- diagnostic complémentaire des sols en mars 2005,		
+								la_dernière_campagne	Les campagnes de mesures de suivi des eaux souterraines ont été transmis jusqu'en mai 2016, la dernière campagne datant du 4ème trimestre 2015.		
+2010				2010				ont_été_réalisés	Les 3 piézomètres en remplacement de ceux endommagés en 2009 ont été réalisés en 2010.		
+2008				2008				Les_analyses_réalisées	Les analyses réalisées en 2008 et 2009 font état d'une augmentation  significative des concentrations en trichloroéthylène et tétrachloroéthylène, ceci après une baisse globale depuis la mise en œuvre de la surveillance piézométrique.	'en trichloroéthylène et tétrachloroéthylène'	
+2015				2015				Les_campagnes	Les campagnes de mesures de suivi des eaux souterraines ont été transmis jusqu'en mai 2016, la dernière campagne datant du 4ème trimestre 2015.		
+2011				2011				les_campagnes_d__analyses	Les résultats pour les campagnes d'analyses des quatre trimestres 2011 et des trois premiers trimestres 2012 confirment l'augmentation des concentrations en trichloroéthylène et tétrachloroéthylène relevée en 2008 et 2009.	'trichloroéthylène', 'tétrachloroéthylène'	
+2005				2005				évaluation_détaillée_des_risques_réalisée	Celles-ci sont à présent du même ordre de grandeur que celles retenues pour l'évaluation détaillée des risques réalisée en 2005 sur un piézomètre amont et un piézomètre latéral au regard du sens d'écoulement de la nappe.		
+2009				2009				Les_analyses_réalisées	Les analyses réalisées en 2008 et 2009 font état d'une augmentation  significative des concentrations en trichloroéthylène et tétrachloroéthylène, ceci après une baisse globale depuis la mise en œuvre de la surveillance piézométrique.	'en trichloroéthylène et tétrachloroéthylène'	
+2007	05	15		2007	05	15		l__acte_de_vente	Par courrier du 15 mai 2007, GENEFIM a transmis à l'inspection des installations classées l'acte de vente du site à la commune de La Garenne-Colombes daté du 07 mai 2007.		'GENEFIM'
+2005	10			2005	10			la_campagne_de_mesure	Ces résultats sont confirmés par la campagne de mesure de la qualité des eaux souterraines au droit du site réalisée en octobre 2005 qui préconise la poursuite de la surveillance de la nappe.		
+2005	06			2005	06			__diagnostic_approfondi	- diagnostic approfondi et évaluation détaillée des risques en juin 2005.		

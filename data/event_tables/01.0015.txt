@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07	22		2002	07	22		un_courrier	Par un courrier du 22 juillet 2002, la DRIRE, compte tenu que le site est classé "à surveiller", a demandé à la société de mettre en place une surveillance des eaux souterraines et des sols.		'la DRIRE'
+1998	10	16		1998	10	16		L__étude_des_sols	L'étude des sols a été imposée par arrêté préfectoral du 16 octobre 1998.		
+2002	10	11		2002	10	11		a_été_envoyée	Cette justification a été envoyée par la société le 11 octobre 2002, à savoir:		'la société'
+2002	11			2002	11			la_campagne	Aucun impact n'a été mis en évidence lors de la campagne de novembre 2002.		
+2001	05	15		2001	05	15		a_été_transmise	l'étape A a été transmise le 15 mai 2001.		
+2002	03	04		2002	03	04		a_été_transmise	Cette étape B a été transmise le 4 mars 2002.		
+2001	07	05		2001	07	05		a_été_signifiée	Un accord de la DRIRE pour la réalisation de l'étape B a été signifiée à la société Cébal le 5 juillet 2001.		'la DRIRE', 'la société Cébal'
+2003	06			2003	06			a_été_réalisée	ne autre campagne a été réalisée en juin 2003.		
+1912				1912				créée	cette usine créée en 1912, fabrique des emballages rigides et semi rigides en aluminium pour tout système de diffusion depuis 1973.		

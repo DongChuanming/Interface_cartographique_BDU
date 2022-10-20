@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	14		2010	12	14		une_liquidation_judiciaire_par_jugement	La société GOUVY a fait l'objet d'une liquidation judiciaire par jugement du tribunal de commerce de Nancy du 14 décembre 2010 qui a conduit à une reprise de son activité, à partir de cette date, par la société des FORGES DE DIEULOUARD sur une partie seulement de l'emprise initiale des installations.		'La société GOUVY', 'la société des FORGES DE DIEULOUARD'
+2009				2009				a_cédé	En effet, courant 2009, la société GOUVY a cédé la partie de ses terrains où l'activité avait déjà cessé, à la SCI PARTENAIRES DE DIEULOUARD.		'la société GOUVY', 'la SCI PARTENAIRES DE DIEULOUARD'
+2011	01			2011	01			Le_diagnostic_complémentaire_remis	Le diagnostic complémentaire remis en janvier 2011 met en évidence :		
+1872				2008				a_exploité	La société GOUVY a exploité de 1872 à 2008 des activités de travail mécanique des métaux et traitement de surface sur la commune de Dieulouard.		'La société GOUVY'

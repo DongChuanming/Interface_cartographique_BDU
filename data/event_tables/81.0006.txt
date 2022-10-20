@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			ont_été_vidés	Depuis mars 2002 tous les réservoirs ont été vidés, dégazés et nettoyés.		
+2009				2009				Un_traitement	Un traitement de l'ensemble des parcelles a été réalisé courant de l'année 2009 afin de permettre un usage futur du site pour l'accueil d'autres activités.		
+2007	08	14		2007	08	14		a_été_transmis_le	Un diagnostic approfondi a été transmis le 14 août 2007.		
+1996	04	03		1996	04	03		a_prescrit	Les activités exercées sur le site étant susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, sur proposition et rapport de la DREAL Midi-Pyrénées, un arrêté préfectoral complémentaire du 28 février 2000 pris conformément à la circulaire du 3 avril 1996, a prescrit à  l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur ce site.		'la DREAL Midi'
+2007	11			2007	11			L__actualisation_du_mémoire_de_cessation_d__activité	L'actualisation du mémoire de cessation d'activité (rapport ANTEA n° A35835/B) a été réalisé par l'exploitant en novembre 2007.		'ANTEA'
+2004	12	07		2004	12	07		a_été_transmis	L’exploitant ayant décidé de stopper l’activité définitivement, un dossier de cessation d'activité a été transmis le 7 décembre 2004 à la DREAL Midi-Pyrénées (rapport ANTEA n° A35835/A) et le site a fait l’objet d’une remise en état par démolition des installations courant de l'année 2006.		'la DREAL Midi', 'ANTEA'
+2006				2006				une_remise_en_état_par_démolition_des_installations	L’exploitant ayant décidé de stopper l’activité définitivement, un dossier de cessation d'activité a été transmis le 7 décembre 2004 à la DREAL Midi-Pyrénées (rapport ANTEA n° A35835/A) et le site a fait l’objet d’une remise en état par démolition des installations courant de l'année 2006.		'la DREAL Midi', 'ANTEA'
+2003	01	07		2003	01	07		a_été_pris	Cet arrêté a été pris le 7 janvier 2003 après avis favorable du conseil départemental d'hygiène.		
+2009	08	10		2009	08	10		Un_procès_verbal_de_récolement	Un procès-verbal de récolement a été signé le 10 août 2009.		
+2009	01	05		2009	01	05		n_arrêté_de_travaux_de_dépollution	n arrêté de travaux de dépollution pris en date du 5 janvier 2009  a encadré les opérations de remise en état.		
+2010	10	08		2010	10	08		a_été_signé	Un arrêté de servitudes a été signé le 8 octobre 2010.		
+2004	03	15		2004	03	15		Une_nouvelle_campagne_d__analyse	Une nouvelle campagne d'analyse a été réalisée le 15 mars 2004 afin de statuer sur les paramètres hydrocarbures  HAP et BTX et confirmer l'absence de constat d'impact figurant dans le précédent rapport.	'hydrocarbures   HAP', 'et BTX'	

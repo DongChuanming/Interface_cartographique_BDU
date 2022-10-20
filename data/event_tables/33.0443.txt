@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2014	02	11		Les_travaux_d__excavation	Les travaux d'excavation se sont déroulés du 05 au 11 février 2014.		
+2013	05	29		2013	05	29		a_déclaré_la_cessation_d__activité	L'exploitant a déclaré la cessation d'activité de sa station le 29 mai 2013.		
+2010	07			2010	07			Une_étude_de_sol	Une étude de sol a été réalisée en juillet 2010 par le bureau d'étude SARL TEREO.		'TEREO'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	20		2005	10	20		__informe	Le 20 octobre 2005, le responsable assainissement de la CABAB(Communauté d’agglomération de Bayonne, Anglet et Biarritz) informe la DRIRE d'une pollution accidentelle en hydrocarbures sur le site.	'CABAB(Communauté d’', 'hydrocarbures'	'la', 'agglomération de Bayonne', 'la DRIRE'
+2005	11	28		2005	11	28		à	- la société DUBREUIL CARBURANTS à partir du 28 novembre 2005 par récépissé du 27 avril 2006,		'la société DUBREUIL CARBURANTS'
+2006	02	23		2006	02	23		une_dépollution_in_situ	Le 23 février 2006, les travaux s'orientent vers une dépollution in situ.		
+1978	01	20		1978	01	20		est_soumise	L'exploitation est soumise au régime de la déclaration autorisée par le récépissé du 20 janvier 1978.		
+2006	12	28		2006	12	28		a_été_reçue	L'étude a été reçue le 28 décembre 2006.		

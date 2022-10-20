@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_réalisé	La réalisation d'une seconde campagne a été demandé par la société QUADRANT et a été réalisé à la mi-juin par le même bureau d'étude.		'la société QUADRANT'
+2008	11			2008	11			se_sont_déroulés	Plusieurs travaux se sont déroulés au mois de novembre 2008 :		
+2007	07			2007	07			a_été_rédigé	Un premier diagnostic de sol a été rédigé par la société SOCOTEC lors de la cession du site à la société SEGRO, en juillet 2007.		'la société SOCOTEC', 'la société SEGRO'
+2010	07	28		2010	07	28		un_rapport	L'Inspection des Installations Classées a ensuite proposé au Préfet dans un rapport daté du 28/07/2010 de demander à l'exploitant de :		
+2001	03	15		2001	03	15		de_déclaration	Le récépissé de déclaration du 15/03/2001 autorise la société Quadrant à exploité sur le site des installations de transformation de polymères, de réfrigération et un atelier de charge d'accumulateur.		'la société Quadrant'
+				2007				a_été_revendu_à	Le site a appartenu à la société LONGBOW jusqu'en 2007 où il a été revendu à la société SEGRO.		'la société LONGBOW', 'la société SEGRO'
+								a_été_installée	Ce système a été installée pour une durée de 6 à 18 mois ;		
+20011	05	07		20011	05	07		acté	Ce changement d'exploitant est acté par l'arrêté du 07/05/20011.		
+2001				2001				a_loué	La société QUADRANT EPP FRANCE a loué le site en 2001.		'La société QUADRANT EPP FRANCE'
+2009	09	21		2009	09	21		cesse	QUADRANT EPP FRANCE cesse l'ensemble de ses activités sur le site en date du 21/09/2009.		'QUADRANT EPP FRANCE'
+				2007				a_appartenu_à	Le site a appartenu à la société LONGBOW jusqu'en 2007 où il a été revendu à la société SEGRO.		'la société LONGBOW', 'la société SEGRO'

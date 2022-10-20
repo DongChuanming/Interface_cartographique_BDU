@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	02		2009	01	02		un_déversement_accidentel	Le vendredi 2 janvier 2009, un déversement accidentel d'huile minérale s'est produit suite à la rupture d'une soudure lors d'un essai.950 litres d'huile sont alors recueillis dans le bac de rétention.	'huile minérale'	
+2011				2011				a_mandaté	Par ailleurs depuis aout 2011 l'Association pour la qualité de l'eau potable de la plaine du Saulce a mandaté le bureau d'études Burgeap pour faire des recherches sur la source de pollution (antérieure à 1983) aux organochlorés (chloroéthénes et chloroéthanes) affectant le captage de la plaine des Isles.	'organochlorés', 'chloroéthénes', 'chloroéthanes'	'Burgeap'
+2005				2005				construit	Un bac de rétention en béton construit en 2005 prévoit les risques de pollution des sols.		
+2009	01	29		2009	01	29		se_voit_imposer	29 janvier 2009: par arrêté préfectoral la société MOUVEX se voit imposer des mesures d'urgences.		'la société MOUVEX'
+2009				2009				5_campagnes_d__analyses	Les résultats des 5 campagnes d'analyses d'eau de 2009 ont révélés:		

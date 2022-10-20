@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_fondés	Les anciens Ets BOURBON ont été fondés dans les années 1950, leur activité était orientée vers la construction de machines agricoles.		'Les anciens Ets BOURBON'
+2014	11			2014	11			Les_travaux_réalisés	Les travaux réalisés en novembre 2014 ont permis d'évacuer et traiter 76 tonnes de produits dangereux et déchets divers ainsi que 1300 kg de terres souillées par les fuites d'huile du transformateur électrique.	'76 tonnes de produits dangereux'	
+2015	2			2015	2			de_constat_de_fin_de_travaux_a_été_réalisée	Un rapport de fin de travaux a été transmis à l'inspection des installations classées, le 16 juillet 2015, et une visite de constat de fin de travaux a été réalisée le 2avril 2015, formalisé par un rapport et un procès-verbal de fin de travaux.		
+2015	07	16		2015	07	16		a_été_transmis	Un rapport de fin de travaux a été transmis à l'inspection des installations classées, le 16 juillet 2015, et une visite de constat de fin de travaux a été réalisée le 2avril 2015, formalisé par un rapport et un procès-verbal de fin de travaux.		
+1989				1989				est_rachetée	En 1989, l'entreprise est rachetée et les installations sont déménagées au 6 rue de la Ferronnerie à Villefranche d'Allier.		

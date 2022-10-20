@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02	16		2009	02	16		est_pris	A la suite notamment de la période de sécheresse de 2005, un arrêté préfectoral est pris le 16 février 2009.		
+2005				2005				de_la_période_de_sécheresse	A la suite notamment de la période de sécheresse de 2005, un arrêté préfectoral est pris le 16 février 2009.		
+2008				2008				le_diagnostic_complémentaire_réalisé	Dans le cadre de l'arrêté du 16 février 2009, il est demandé à l'exploitant de réaliser une nouvelle campagne d'analyses des eaux souterraines portant sur l'ensemble du site (pour rappel, le diagnostic complémentaire réalisé en 2008 ne portait pas sur la totalité du site).		
+2005				2005				est_pris	A la suite notamment de la période de sécheresse de 2005, un arrêté préfectoral est pris le 16 février 2009.		
+2010	11	09		2010	11	09		Une_visite_d__inspection	Une visite d'inspection est réalisée le 9 novembre 2010.		
+2008	03	05		2008	03	05		consulte	A cette occasion, à la suite d'une visite d'inspection, le 5 mars 2008, l'exploitant consulte des bureaux d'études afin d'établir un plan de gestion.		
+2008				2008				est_établi	Ce plan de gestion est établi courant 2008.		
+1996	07	23		1996	07	23		exerce	La société AHLSTROM exerce une activité de fabrication de papiers spéciaux, autorisée par arrêté préfectoral du 9 septembre 1988 complété par l'arrêté préfectoral du 23 juillet 1996.		'La société AHLSTROM'

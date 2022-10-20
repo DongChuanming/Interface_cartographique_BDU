@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	19		2004	01	19		la_déclaration_de_cessation_d__activité	Suite à la déclaration de cessation d'activité du 19 janvier 2004 par l'exploitant, la DRIRE demande un dossier de déclaration de cessation d'activité le 13 février 2004.		'la DRIRE'
+2003	11	26		2003	11	26		le_diagnostic_du_site	Sur l'initiative de l'exploitant, le diagnostic du site et l’Évaluation Simplifiée des Risques (ESR) sont remis par HYDRO CONSEIL les 26 novembre 2003 et 4 avril 2005.		'HYDRO CONSEIL'
+2004	01	19		2004	01	19		informe	Par courrier du 19 janvier 2004, l'exploitant informe la DRIRE de la fermeture du site.		'la DRIRE'
+2004	02	13		2004	02	13		demande_un_dossier_de_déclaration	Suite à la déclaration de cessation d'activité du 19 janvier 2004 par l'exploitant, la DRIRE demande un dossier de déclaration de cessation d'activité le 13 février 2004.		'la DRIRE'
+2013	08	27		2013	08	27		toujours_pas_été_transmis	Au 27 août 2013, le dossier de déclaration de cessation d'activité n'a toujours pas été transmis à la DREAL.		'la DREAL'
+2005	04	04		2005	04	04		le_diagnostic_du_site	Sur l'initiative de l'exploitant, le diagnostic du site et l’Évaluation Simplifiée des Risques (ESR) sont remis par HYDRO CONSEIL les 26 novembre 2003 et 4 avril 2005.		'HYDRO CONSEIL'

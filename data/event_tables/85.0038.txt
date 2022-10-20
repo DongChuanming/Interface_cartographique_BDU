@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				La_cessation_d__activité	La cessation d'activité à été déclarée au préfet en 1999.		
+1984	11	30		1984	11	30		à_été_autorisée	L'activité à été autorisée par arrêt préfectoral du 30/11/1984.		
+1994	1968||			1994	1968||			exploitée	Le site est une ancienne décharge exploitée entre 1968-1994.		
+1979				1979				était_effectuée	A partir de 1979, la gestion des déchets était effectuée par la société en Grandjouan puis Grandjouan Onyx jusqu'à la fermeture de la décharge.		'la société en Grandjouan', 'Grandjouan Onyx'
+2002				2002				une_étude_préalable	En 2002, une étude préalable à la réhabilitation à été faite avec des mesures de biogaz.		
+2003				2003				des_travaux_de_réhabilitations	En 2003, des travaux de réhabilitations ont été faits avec une couche de terre végétale enherbée, maintien de deux lagunes (pour traitement des lixiviats) sur le site entièrement clôturé.		

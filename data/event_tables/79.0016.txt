@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01			2005	01			ont_été_réalisés	Les piézomètres pour la surveillance des eaux souterraines ont été réalisés au début du mois de janvier 2005.		
+2006	06			2006	06			a_été_traitée	Cette zone a été traitée en juin 2006.		
+2006				2006				L__étude_de_sols	L'étude de sols de 2006 a déterminé une seule zone polluée par des hydrocarbures.	'hydrocarbures'	
+2004	04	1		2004	04	1		un_arrêté	Un arrêté préfectoral de mise en demeure du 8 septembre 2003, puis un arrêté de consignation de sommes en date du 1er avril 2004 ont permis de faire évacuer tous les déchets entreposés.	'les déchets'	
+								a_entreposé	Pendant 10 ans environ, l'exploitant a entreposé ses déchets de production sur l'ensemble du site, autour et à l'intérieur des ateliers.	'ses déchets de'	

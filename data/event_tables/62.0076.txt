@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2007.		
+1999				1999				une_pollution	-En 1999, une pollution de la nappe est détectée sur un piézomètre au niveau de la frontière commune aux établissement Synthexim et Interor.		'Synthexim', 'Interor'
+2001	02	15		2001	02	15		étude_hydrogéologique	-Réalisation dune caractérisation de la pollution des eaux souterraines du site de production de Calais et étude hydrogéologique détaillée, le 15/02/2001.		
+2001	10	15		2001	10	15		_Arrêté	-Arrêté préfectoral complémentaire du 15/10/2001 modifiant les modalités de la surveillance piézométrique.		
+2001	02	16		2001	02	16		_Réalisation_d__un_pré_diagnostic	-Réalisation d'un pré diagnostic et d'une Évaluation Simplifiée des Risques, le 16/02/2001.		
+2002	05	14		2002	05	14		_Réalisation_d__un_examen_environnemental	-Réalisation d'un examen environnemental du site par Pontignac, le 14/05/2002.		
+2001	10	15		2001	10	15		fois_par_an_imposée	-La surveillance de la nappe superficielle des sables Flandriens, peu productive et non exploitée en AEP, est assurée par 5 piézomètres prélevés 2 fois par an.(imposée dans le cadre de l’arrêté préfectoral complémentaire en date du 15 octobre 2001.)		

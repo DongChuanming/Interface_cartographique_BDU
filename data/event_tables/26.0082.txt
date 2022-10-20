@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986	11	28		1986	11	28		était_auparavant_connue_sous_le_nom	La société EG MOULDING, dont le siège social est situé 65 route de Condillac – 26740 SAUZET, était auparavant connue sous le nom de PHOENIX INDUSTRIE qui disposait d'un arrêté préfectoral d'autorisation n°6271 du 28 novembre 1986.		'La société EG MOULDING', 'Condillac', 'SAUZET', 'le nom de PHOENIX INDUSTRIE'
+2005				2005				est_rachetée	En 2005, PHOENIX INDUSTRIE est rachetée par le groupe Continental qui se sépare alors de certaines activités non stratégiques excercées sur le site.		'PHOENIX INDUSTRIE', 'le groupe Continental'
+2009	07			2009	07			créent_alors	MEHL et son frère en juillet 2009 qui créent alors la SARL EG MOULDING.		'la SARL EG MOULDING'
+2013	07	16		2013	07	16		se_rend_sur_site	Le 16 juillet 2013 matin, l’inspection des ICPE se rend sur site afin d’effectuer des constatations.		
+2009				2009				qui_dépose_son_bilan	Elle est ensuite rattachée à la société  STANKIEWICZ qui dépose son bilan en 2009.		'la société   STANKIEWICZ'
+2013	07	15		2013	07	15		informe	Le lundi 15 juillet 2013, monsieur le Maire de Sauzet informe l'inspection de l'environnement par téléphone de l’état déplorable dans lequel se trouve l’entreprise EG MOULDING.		'le Maire de Sauzet', 'EG MOULDING'
+2012	05	04		2012	05	04		est_délivré_à	Compte tenu de l’évolution du niveau d’activité et des stocks, un récépissé de déclaration avec perte du bénéfice de l’autorisation est délivré à EG MOULDING le 04 mai 2012.		'EG MOULDING'

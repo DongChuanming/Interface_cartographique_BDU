@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	02	13		2011	02	13		est_transmise	Par courrier du 13 février 2011, la copie des bordereaux de suivi de déchets est transmise à la préfecture.		'la préfecture'
+2010	12	15		2010	12	15		ont_transmis	Le 15 décembre 2010, M.et Mme USCLARD ont transmis au Préfet, par l'intermédiaire de Maître DIEVAL, un dossier relatif à la cessation d'activité du garage automobile.		'USCLARD', 'Maître DIEVAL'
+1952				1952				a_été_construit	L'atelier de réparation a été construit avant 1952.		
+								ont_repris	M. et Mme USCLARD ont repris la station service familiale dans les années 80.		'USCLARD'
+								délivrés_respectivement	Les activités de garage automobile et dépôt d'hydrocarbures exercées sur ce site ont fait l'objet des récépissés de déclaration délivrés respectivement les 18 mai et 5 juin 1954.	'hydrocarbures'	
+1975				1975				ont_été_aménagés	Les boxes ont été aménagés dans les années 1975/80.		
+1954	06	05		1954	06	05		délivrés_respectivement	Les activités de garage automobile et dépôt d'hydrocarbures exercées sur ce site ont fait l'objet des récépissés de déclaration délivrés respectivement les 18 mai et 5 juin 1954.	'hydrocarbures'	
+1953	1952			1953	1952			ont_été_construits	La station service et les bâtiments d'habitations ont été construits en 1952/1953.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04	25		2001	04	25		a_été_notifié	Le propriétaire n'ayant pas respecté l'arrêté susvisé, un arrêté préfectoral de mise en demeure lui a été notifié le 25 avril 2001.		
+2001	07	31		2001	07	31		la_procédure	Les délais d'exécution étant dépassés, le Préfet a engagé, par arrêté du 31 juillet 2001, la procédure de consignation d'une somme de 73 500 Francs répondant des travaux de mise en sécurité et de surveillance ci-dessus.		'le Préfet'
+								à_compter_de_sa_notification	Le dit arrêté précise que ces restrictions d’usage  feront l'objet d'une inscription au registre des hypothèques selon une procédure d'institution de servitudes laissée au choix de l'exploitant dans le délai de 1 an à compter de sa notification.		
+1985				1985				ayant_fonctionné_de	*dépôt pour distribution de boissons (bière), ayant fonctionné de 1965 à 1985 environ.	'boissons'	
+1965				1965				ayant_fonctionné_de	*dépôt pour distribution de boissons (bière), ayant fonctionné de 1965 à 1985 environ.	'boissons'	
+2016	06	1		2016	06	1		l__arrêté	Le 09/12/2016, aucun élément justificatif ne permet de constater la réalisation des travaux prescrit par l'arrêté du 1er/06/2016.		
+2005	06	1		2005	06	1		des_travaux_de_réhabilitation	Par arrêté du 1er juin 2005, des travaux de réhabilitation ont été prescrits au nouveau propriétaire : confinement de surface et stabilisation d'une partie des berges de la rivière La Jalle.		
+2003	10	20		2003	10	20		ont_été_achetés	Le 20 octobre 2003, les terrains ont été achetés par la SCI JLS pour la création d'une zone commerciale et/ou artisanale.		'la SCI JLS'
+2004	07			2004	07			Les_travaux_de_clôture	Les travaux de clôture et de mise en place du portail ont été réalisés en juillet 2004.		
+1938				1938				fut_rachetée	La SOCIETE DE L'INDUSTRIE CHIMIQUE fut rachetée en 1938 par les Ets SARNAC,		'INDUSTRIE CHIMIQUE', 'les Ets SARNAC'
+1932				1932				construit	Le bâtiment présent sur le site , construit en 1932 mais modifié par la suite, est fermé et inaccessible.		
+1932				1932				production_de_pesticides	* dès 1932, production de pesticides à partir d'arsenic et de plomb.	'arsenic', 'plomb'	
+2004				2004				Le_diagnostic_approfondi	Le diagnostic approfondi effectué en 2004 a permis de délimiter l'extension de la pollution dans les sols ainsi que de connaître les risques associés.		

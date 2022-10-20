@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	07		2005	07	07		ont_été_remises	Les études concernant le diagnostic et l'ESR ont été remises les 26 mai 2004 et 7 juillet 2005.		"l' ESR"
+2008	01	01		2008	01	01		a_changé	A compter du 01/01/2008, le produit de traitement a changé; les nouvelles substances à rechercher sont: tébuconazole, propiconazole et IPBC.	'tébuconazole', 'propiconazole', 'IPBC'	
+2004	05	26		2004	05	26		ont_été_remises	Les études concernant le diagnostic et l'ESR ont été remises les 26 mai 2004 et 7 juillet 2005.		"l' ESR"

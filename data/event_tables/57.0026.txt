@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				ont_été_installés	- Deux piézomètres sur site dans le stock de Résidus de Broyage Automobile (RBA) ont été installés en 1994, afin de réaliser des analyses.	'Résidus de Broyage'	
+2001	02	08		2001	02	08		prendre_un_arrêté_de_mise_en_demeure	L’inobservation des conditions imposées par l’arrêté préfectoral du 24 février 1999 a conduit le Préfet à prendre un arrêté de mise en demeure du 8 février 2001 puis un arrêt préfectoral du 27 novembre 2006 prescrivant la consignation d’une somme répondant au coût des études et travaux à réaliser.		'le Préfet'
+2000	03	09		2000	03	09		la_liquidation_judiciaire_de	Le 9 mars 2000, la liquidation judiciaire de la société a été prononcée.		
+2000	03	09		2000	03	09		a_été_placée_en_liquidation_judiciaire	La société KORSEC et Fils a été placée en liquidation judiciaire le 09/03/2000		'La société KORSEC'

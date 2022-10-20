@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				exploite	La société ALQUIER et Fils exploite depuis 1996 une unité de sciage et de traitement des bois sur la commune de Saint Félix du Lauragais au lieu dit « La Prade » au sein d’une zone à vocation industrielle, sur une superficie d’environ 4,5 ha dont environ 3 500m² de surfaces au sol sont bâties.		'La société ALQUIER'
+2013	10	25		2013	10	25		a_informé	Par courrier du 25 octobre 2013, l'exploitant a informé l'IIC que le produit de traitement actuellement utilisé ne contient pas ces substances.		
+2016	05			2016	05			analyses_transmises	Les résultats des analyses transmises en mai 2016 sur les 2 paramètres cypermétrine et chlorure de benzalkonium sont inférieurs aux limite de détection.	'cypermétrine', 'chlorure de benzalkonium'	
+2008	03			2008	03			une_visite_d__inspection	Ainsi, dans le cadre du suivi des ICPE, une visite d’inspection du site a été menée en mars 2008 par l'inspection des installations classées (IIC).		
+2013				2013				des_analyses_effectuées	Les résultats des analyses effectuées en 2013 mentionnent que les teneurs en propiconazole et tébuconazole sont inférieures aux limites de détection.	'propiconazole', 'tébuconazole'	
+2009	11			2009	11			déposer_un_dossier_de_régularisation	Au cours des années la production a augmenté et un atelier de traitement de bois a été constitué, ce qui a amené la société ALQUIER et Fils à déposer un dossier de régularisation auprès de la Préfecture en novembre 2009 .		'la société ALQUIER'

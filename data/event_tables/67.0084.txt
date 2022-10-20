@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10			2000	10			Les_analyses_effectuées	Les analyses effectuées en octobre 2000 sur des prélèvements dans les piézomètres situés à proximité immédiate de la station révèlent des concentrations en hydrocarbure comprise entre 50 et 6 800 µg/m3.	'hydrocarbure'	
+2001	02	05		2001	02	05		Découverte_et_traitement	Découverte et traitement d'une pollution aux hydrocarbures le 5 février 2001.	'hydrocarbures'	

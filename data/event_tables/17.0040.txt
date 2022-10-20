@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2011				sont_détectés	Durant les campagnes d'analyses de 2008 à 2011, seuls les métaux sont détectés dans les eaux souterraines.	'métaux'	
+2008				2011				Durant_les_campagnes_d__analyses	Durant les campagnes d'analyses de 2008 à 2011, seuls les métaux sont détectés dans les eaux souterraines.	'métaux'	
+2012	04			2012	04			Une_deuxième_étude_de_sols	Une deuxième étude de sols a été menée en avril 2012 dans le cadre du bilan de fonctionnement.		
+1993				1993				s__agrandit	En 1993, dans l'optique de traiter des mâts plus longs, la société s'agrandit et augmente la longueur de ses cuves de traitement de surfaces.		
+1978	11	15		1978	11	15		a_obtenu	La société a obtenu le 15 novembre 1978 un premier arrêté préfectoral d'autorisation pour l'exploitation de son atelier de traitement de surface.		
+2008	10			2008	10			Deux_sondages_de_sols	Deux sondages de sols ont été réalisés en octobre 2008 (un point zéro au niveau des espaces verts et un point au niveau du stockage de produits dangereux).		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				exploitée	Ancienne station-service du port de plaisance d'Arcachon, exploitée de 1967 a 2012 par Elf Distribution.		'Elf Distribution'
+2014	01	23		2014	01	23		La_cessation_d__activité	La cessation d'activité est déclarée le 23/01/2014.		
+2012				2012				Les_travaux_de_démantèlement	Les travaux de démantèlement de la station ont eu lieu en 2012.		
+1967				1967				exploitée	Ancienne station-service du port de plaisance d'Arcachon, exploitée de 1967 a 2012 par Elf Distribution.		'Elf Distribution'

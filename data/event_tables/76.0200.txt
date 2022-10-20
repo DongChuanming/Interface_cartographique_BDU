@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_été_mise_en_œuvre	1 200 m2 a été mise en œuvre en 2003 et 2004.		
+2006				2006				Une_résurgence	Une résurgence des pollutions résiduelles est détectée depuis 2006.		
+2010	06	30		2010	06	30		est_arrêtée_définitivement	La production est arrêtée définitivement depuis le 30 juin 2010.		
+2011	12			2011	12			un_nouveau_diagnostic_réalisé	Cette résurgence a été quantifiée à quelques m2 de superficie (en amont hydraulique de l'ouvrage Pz5) à l'occasion d'un nouveau diagnostic réalisé en septembre et décembre 2011.		
+1971				1971				L__altération_de_l__étanchéité	L'altération de l'étanchéité de la paroi d'une de ces 2 cuves se serait produite dès 1971, à la mise en place des réservoirs.		
+								un_nouveau_diagnostic_réalisé	Cette résurgence a été quantifiée à quelques m2 de superficie (en amont hydraulique de l'ouvrage Pz5) à l'occasion d'un nouveau diagnostic réalisé en septembre et décembre 2011.		
+2003				2003				a_été_mise_en_œuvre	1 200 m2 a été mise en œuvre en 2003 et 2004.		
+2003				2003				a_été_mise	Cette pollution a été mise à jour en 2003 à l'occasion de travaux d'élimination de 2 cuves enterrées (de 100 m3 chacune de fioul lourd) qui alimentaient auparavant les chaudières de l'établissement.	'fioul lourd'	

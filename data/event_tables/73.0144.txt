@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02	13		2012	02	13		le_diagnostic_environnemental	Le 13 février 2012, le diagnostic environnemental de l’ancienne décharge, établi par BURGEAP, a été transmis à l’inspection des installations classées. 9 sondages à la pelle mécanique ont été réalisés sur le site, qui occupe une surface d’environ 2 500 m², à des profondeurs comprises entre 1,5 et 4 m.		'BURGEAP'
+2012	06	21		2012	06	21		à_une_visite	Suite à une visite du site le 21 juin 2012, l’inspecteur des installations classées demande à la commune de Bonneval-sur-Arc dans son rapport du 28 juin 2012 :		

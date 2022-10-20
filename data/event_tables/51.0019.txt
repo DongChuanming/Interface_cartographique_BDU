@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				s__est_achevé	Le traitement biologique des terres a commencé en mars 2002 et s'est achevé à l'été 2003 ; les terres ont été régalées sur le site.		
+2004	01			2004	01			cinq_sondages	Afin de dresser un état de la teneur en surface des sols en hydrocarbures totaux et aromatiques, la société BP a fait réaliser, en janvier 2004, cinq sondages sur les zones remblayées, sur les trente premiers centimètres de sols.	'hydrocarbures totaux'	'la société BP'
+2002	03			2002	03			Le_traitement_biologique	Le traitement biologique des terres a commencé en mars 2002 et s'est achevé à l'été 2003 ; les terres ont été régalées sur le site.		
+1999	05	18		1999	05	18		a_déjà_été_annoncée_à	Cette position a déjà été annoncée à l'exploitant par courrier du 18 mai 1999.		
+1998				1998				une_étude_de_sols	Dans le cadre du démantèlement du dépôt, en 1998, une étude de sols a été engagée par BP.		'BP'
+2009	09	04		2009	09	04		a_été_enregistrée	Concernant l'aspect restriction d'usage du site, la constitution de restrictions d'usage conventionnelle au profit de l'État a été enregistrée à la conservation des hypothèques de Reims le 4 septembre 2009.		
+2000				2000				ont_été_établies	De nouvelles propositions de travaux ont été établies début 2000.		
+2004				2004				a_proposé	S'agissant de la surveillance des eaux souterraines, la société BP a proposé en 2004 de la poursuivre sur une période de 18 à 24 mois afin de s'assurer de la validité des résultats relevés jusqu'à ce jour.		'la société BP'
+2008	03	03		2008	03	03		a_été_signé	L'arrêté préfectoral a été signé le 3 mars 2008.		
+2002				2002				est_en_place	La surveillance semestrielle des eaux souterraines à l'extérieur du site est en place depuis l'année 2002 au moyen de trois piézomètres.		

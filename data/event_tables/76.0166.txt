@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06			2003	06			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a ainsi été menée en juin 2003 à la suite d'investigations ayant identifié des pollutions au plomb et au dichlorométhane.	'plomb', 'dichlorométhane'	
+2007				2007				a_émis	En 2007, à la suite d'une demande de permis de construire en vu de la réhabilitation d'un bâtiment pour l’aménagement de bureaux et de locaux ERP, l'inspection des installations classées a émis un avis réservé compte tenu des pollutions identifiées.		
+2004	01			2004	01			réalisé	Un diagnostic complémentaire réalisé en janvier 2004 préconisait :		
+1935				2003				a_été_exploité	Ce site a été exploité par la société MASUREL POLLET de 1935 à 2003.		'la société MASUREL POLLET'

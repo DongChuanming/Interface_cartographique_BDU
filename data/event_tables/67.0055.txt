@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	11	21		2014	11	21		fin_de_travaux_de_dépollution_remis	Rapport de fin de travaux de dépollution remis le 21 novembre 2014 pour le compte de l'entreprise ZIEGLER.		'entreprise ZIEGLER'
+1998	06	05		1998	06	05		une_réunion	Le 5 juin 1998 a lieu une réunion menée par l'Inspection des installations classées afin de définir les mesures d'urgence de dépollution suite au déversement de 32 000 L de gasoil.	'gasoil'	
+1998	06	09		1998	06	09		est_mis_en_place	Le 9 juin 1998, un réseau de surveillance de la qualité des eaux souterraines est mis en place au moyen des piézomètres : pz1, pz2, pz3, pz4, pz5, pz6, pz7, pz8 et pz9.		
+1998	05	18		1998	05	18		un_déversement_accidentel_de	Le 18 mai 1998 a lieu un déversement accidentel de 32 000 litres de gasoil par la vanne d'un puits de sécurité incendie.	'gasoil'	

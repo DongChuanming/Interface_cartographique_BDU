@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	07			2015	07			Une_visite	Une visite du site par l'inspection des installations classées a été réalisée en juillet 2015.		
+2015	01			2015	01			un_dossier	Afin de garder la mémoire des pollutions résiduelles sur le site et de garantir la prise en compte de certaines hypothèses de l'ARR, Saint-Gobain Abrasives a transmis en janvier 2015 un dossier de demande d’instauration de servitudes publiques.		'Saint-Gobain Abrasives'
+2015	01			2015	01			a_transmis	En janvier 2015, l'exploitant a transmis le dossier de synthèse des travaux de remise en état du site et l'Analyse des Risques Résiduels de fin de travaux (ARR).		
+1920				1920				a_été_exploitée	Une activité de fabrication de meules abrasives vitrifiées et super abrasives a été exploitée sur ce site depuis 1920 par la société Saint-Gobain Abrasives.		'la société Saint-Gobain Abrasives'
+2007				2009				Les_diagnostics	Les diagnostics ont été établis entre 2007 et 2009.		
+2007	04			2007	04			est_mis_en_sécurité	En avril 2007, le site est mis en sécurité.		
+2006	12	06		2006	12	06		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d’activité le 6 décembre 2006.		'La'

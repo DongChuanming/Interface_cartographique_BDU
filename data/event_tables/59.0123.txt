@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12			1999	12			Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols et d'une évaluation simplifiée des risques en décembre 1999.		
+2002	03			2002	03			__élimination_des_transformateurs	- En mars 2002: élimination des transformateurs PCB.	'PCB'	
+2004	09			2004	09			Réalisation_d__une_caractérisation_complémentaire	- Réalisation d'une caractérisation complémentaire de l'ancienne décharge en septembre 2004.		
+				1994				exploitée	- Site de l'industrie mécanique comprenant une ancienne décharge de DIB d'une superficie de 0,5 ha exploitée de 1950 jusqu'en 1994 par la société ANF.		'décharge de DIB', 'la société ANF'
+2003	04			2003	04			Réalisation_d__une_évaluation_détaillée_des_risque	- Réalisation d'une évaluation détaillée des risque pour la décharge en avril 2003, mise à jour en octobre 2003.		
+2005	08			2005	08			Projet_de_réhabilitation	- Projet de réhabilitation de la décharge, en octobre 2003, mis à jour en août 2005: confinement avec couche de forme (10cm), couche de protection supplémentaire (10cm) ,une couverture végétale (30 cm) et la pose d'une clôture.		
+1950				1950				exploitée	- Site de l'industrie mécanique comprenant une ancienne décharge de DIB d'une superficie de 0,5 ha exploitée de 1950 jusqu'en 1994 par la société ANF.		'décharge de DIB', 'la société ANF'
+2002	06			2002	06			Réalisation_d__investigations_complémentaires	- Réalisation d'investigations complémentaires en juin 2002.		
+2003				2003				Cessation	- Cessation des activités de traitement thermique et de traitement de surface en 2003.		
+2003	10			2003	10			mise_à_jour	- Réalisation d'une évaluation détaillée des risque pour la décharge en avril 2003, mise à jour en octobre 2003.		
+2011	10			2011	10			mis_à_jour	- Projet de servitudes appliquées à la décharge, dossier en date de janvier 2004, mis à jour en octobre 2011.		
+2003	10			2003	10			Projet_de_réhabilitation	- Projet de réhabilitation de la décharge, en octobre 2003, mis à jour en août 2005: confinement avec couche de forme (10cm), couche de protection supplémentaire (10cm) ,une couverture végétale (30 cm) et la pose d'une clôture.		
+2001	10			2001	10			une_évaluation_simplifiée_des_risques	- Réalisation d'une étude hydraulique et d'une évaluation simplifiée des risques spécifique à l'ancienne décharge en octobre 2001, la décharge est en classe 1 (à investiguer).		
+2003	10			2003	10			Réalisation_d__une_évaluation_détaillée_des_risque	- Réalisation d'une évaluation détaillée des risque pour la décharge en avril 2003, mise à jour en octobre 2003.		
+1998	05	12		1998	05	12		__envoi	- Le 12/05/1998, envoi d'un courrier et d'un dossier de fermeture de la décharge interne à l'administration.		
+2003	12			2003	12			Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic des sols et des eaux souterraines au droit des anciens ateliers de traitement de surface et de traitement thermique en décembre 2003.		

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				__implantation	1977 : implantation de la société SERMEC, qui exploite un atelier de travail mécanique des métaux		'la société SERMEC'
+2015				2015				Les_opérations_de_mise_en_sécurité	Les opérations de mise en sécurité ont été réalisées en 2015-2016 suite à la cessation d'activité.		
+2016	02	12		2016	02	12		une_vidange	Elles ont fait l’objet d’une vidange et d’un dégazage par la société DMA le 12 février 2016.		'la société DMA'
+2016				2016				Les_opérations_de_mise_en_sécurité	Les opérations de mise en sécurité ont été réalisées en 2015-2016 suite à la cessation d'activité.		
+								est_localisé	Le site est localisé 199 boulevard de Beaurepaire sur la commune de Roubaix (59).		
+2015	04			2015	04			Les_3_campagnes_de_mesure	Les 3 campagnes de mesure réalisées en décembre 2013, avril 2015 et décembre 2017 mettent en évidence :		
+2015	04			2015	04			implanté	Le réseau a été complété par un quatrième ouvrage implanté par la société TAUW en avril 2015 et par 2 ouvrages supplémentaires implantés en décembre 2017 en limite de site côté Ouest, afin de s’assurer de l’absence de migration d’un panache de pollution au droit des habitations de la cité Planckaert voisine.		'la société TAUW'
+1988				1988				__extension_du_bâtiment	1988 : extension du bâtiment de la société SERMEC, et déclaration de l'activité au titre de la réglementation sur les installations classées (récépissé du 11/07/88) ;		'la société SERMEC'
+2013	12			2013	12			a_été_installé	Un réseau de surveillance composé de 3 piézomètres a été installé au droit du site par la société GEOSAN en décembre 2013 afin de suivre la qualité de l’unique nappe vulnérable identifiée au droit du site, à savoir la nappe superficielle des limons.		'la société GEOSAN'
+2013	12			2013	12			Les_3_campagnes_de_mesure	Les 3 campagnes de mesure réalisées en décembre 2013, avril 2015 et décembre 2017 mettent en évidence :		
+2017	12			2017	12			implantés	Le réseau a été complété par un quatrième ouvrage implanté par la société TAUW en avril 2015 et par 2 ouvrages supplémentaires implantés en décembre 2017 en limite de site côté Ouest, afin de s’assurer de l’absence de migration d’un panache de pollution au droit des habitations de la cité Planckaert voisine.		'la société TAUW'
+2014				2014				__mise_en_liquidation_judiciaire	2014 : mise en liquidation judiciaire de la société et cessation d'activité.		
+2017	12			2017	12			Les_3_campagnes_de_mesure	Les 3 campagnes de mesure réalisées en décembre 2013, avril 2015 et décembre 2017 mettent en évidence :		
+2013	12			2013	12			Plusieurs_phases_d__investigations	Plusieurs phases d’investigations sur le milieu sol ont été réalisées par la société GEOSAN en décembre 2013 et par la société TAUW en avril 2015.		'la société GEOSAN', 'la société TAUW'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06			2015	06			le_non_respect	Suite à une visite réalisée en juin 2015, il a été constaté le non-respect de l’arrêté préfectoral de mise en demeure du 18 août 2014.		
+2016	03	09		2016	03	09		a_prononcé_la_liquidation_judiciaire	Par jugement du 9 mars 2016, le tribunal de commerce de Niort a prononcé la liquidation judiciaire de la société PROLIFER RECYCLING autorisant une poursuite d’activités jusqu’au 30 avril 2016 .		'le tribunal de commerce de Niort', 'la société PROLIFER RECYCLING'
+2016	01	15		2016	01	15		demandait	Le titre de perception correspondant au 450 k€ de la DDFIP demandait un paiement d’ici le 15 janvier 2016, somme qui n’a pas été réglée.		'la DDFIP'
+				2016	04	30		autorisant_une_poursuite_d__activités	Par jugement du 9 mars 2016, le tribunal de commerce de Niort a prononcé la liquidation judiciaire de la société PROLIFER RECYCLING autorisant une poursuite d’activités jusqu’au 30 avril 2016 .		'le tribunal de commerce de Niort', 'la société PROLIFER RECYCLING'
+2015	06			2015	06			à_une_visite_réalisée	Suite à une visite réalisée en juin 2015, il a été constaté le non-respect de l’arrêté préfectoral de mise en demeure du 18 août 2014.		
+2014	08	18		2014	08	18		le_non_respect	Suite à une visite réalisée en juin 2015, il a été constaté le non-respect de l’arrêté préfectoral de mise en demeure du 18 août 2014.		
+2014				2014				une_inspection	Suite à une inspection en 2014 ayant mis en évidence d’importantes non-conformités, l’exploitant a fait l’objet d’un arrêté préfectoral de mise en demeure du 18 août 2014 pour les écarts majeurs suivants :		

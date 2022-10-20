@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	10	11		1994	10	11		Déclaration	- Déclaration de cessation d'activité de la station de distribution de carburants: 11/10/1994.	'carburants'	
+1997	02	18		1997	02	18		Donner_acte_préfectoral_de_la_dépollution	- Donner acte préfectoral de la dépollution du site: 18/02/1997.		
+2010	12			2010	12			auraient_du_être_éliminés	- Présence sur le site de deux transformateurs PCB; qui auraient du être éliminés en décembre 2010.	'PCB'	

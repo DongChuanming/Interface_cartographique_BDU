@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				un_diagnostic_environnemental	Le 5 octobre 2007, il lui faisait parvenir un diagnostic environnemental de ce site.		
+2010				2010				fournit	En 2010 DMS fournit le rapport de l’hydrogéologue.		'DMS'
+2006				2006				la_cessation_définitive	Par courrier du 18 juillet 2006, l’exploitant DMS a notifié à Monsieur le Préfet du Nord la cessation définitive du dépôt de charbon de 7 000 tonnes.	'de charbon'	', l’ exploitant DMS', 'Monsieur le Préfet'
+								la_cessation_définitive	Par courrier du 18 juillet 2006, l’exploitant DMS a notifié à Monsieur le Préfet du Nord la cessation définitive du dépôt de charbon de 7 000 tonnes.	'de charbon'	', l’ exploitant DMS', 'Monsieur le Préfet'
+								un_diagnostic_environnemental	Le 5 octobre 2007, il lui faisait parvenir un diagnostic environnemental de ce site.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				avait_commencé	La surveillance de la qualité des eaux souterraines avait commencé en 2001, suite au constat de pollution.		
+2006				2006				a_été_communiqué	Le dernier bilan de la surveillance des eaux souterraines a été communiqué en 2006.		
+2001				2001				ont_été_perçues	Des odeurs d'hydrocarbures dans des habitations de riverains ont été perçues au 1er semestre 2001.	'hydrocarbures'	
+2001				2001				a_arrêté_de_fonctionner	La station service a arrêté de fonctionner depuis le 1er semestre 2001 afin de réaliser des travaux de déplacement.		
+2001	08			2001	08			des_études_sont_réalisées	D’août 2001 à octobre 2001, des études sont réalisées et des mesures d'urgences prises par la société ARDIS :		'la société ARDIS'
+2003	04	15		2003	04	15		est_tenue_de_réaliser	15 avril 2003 : par arrêté préfectoral, la société ARDIS est tenue de réaliser et respecter les exigences suivantes :		'la société ARDIS'
+2003				2003				les_travaux_de_dépollution	En 2003 et 2004, les travaux de dépollution se sont déroulés en 3 phases :		
+2005	06	16		2005	06	16		a_été_envoyé	Le rapport de fin de travaux et de réhabilitation a été envoyé le 16 juin 2005 à l'inspection des installations classées.		
+2004				2004				les_travaux_de_dépollution	Après les travaux de dépollution en 2004, la qualité des eaux souterraines s'est améliorée, avec disparition du flottant.		
+2001	07	31		2001	07	31		est_prescrit	31 juillet 2001 : par arrêté préfectoral, il est prescrit à la société ARDIS de réaliser une étude de nature à préciser :		'la société ARDIS'
+								ont_été_perçues	Des odeurs d'hydrocarbures dans des habitations de riverains ont été perçues au 1er semestre 2001.	'hydrocarbures'	
+2004				2004				les_travaux_de_dépollution	En 2003 et 2004, les travaux de dépollution se sont déroulés en 3 phases :		
+2004				2004				s__est_améliorée	Après les travaux de dépollution en 2004, la qualité des eaux souterraines s'est améliorée, avec disparition du flottant.		
+								a_arrêté_de_fonctionner	La station service a arrêté de fonctionner depuis le 1er semestre 2001 afin de réaliser des travaux de déplacement.		
+2006	02			2006	02			ont_été_transmis	Une enquête de voisinage et un rapport concernant l'évaluation des risques résiduels ont été transmis aux services de l'État en février 2006.		
+2001	10			2001	10			des_études_sont_réalisées	D’août 2001 à octobre 2001, des études sont réalisées et des mesures d'urgences prises par la société ARDIS :		'la société ARDIS'

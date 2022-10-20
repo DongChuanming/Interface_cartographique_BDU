@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04			2006	04			Des_travaux_de_dépollution	Des travaux de dépollution, engagés en avril 2006, ont permis de traiter 72 m3 de terres dont 32 m3 présentant une forte odeur d'hydrocarbures (présence de goudron).	'hydrocarbures', 'goudron'	
+2006	07	25		2006	07	25		a_été_signé	Un arrêté préfectoral a été signé le 25 juillet 2006 imposant à la société VALLOUREC la mise en place d'un suivi trimestriel de la qualité des eaux souterraines de son site de Laigneville.		'la société VALLOUREC'
+2004	09			2004	09			a_cessé	L'activité a cessé en septembre 2004.		
+1921				1921				a_installé	En 1921 la société Desnoyers, y a installé une unité de production de tubes en acier.		'la société Desnoyers'
+2006	04	26		2006	04	26		s__est_rendue_sur	L'inspection des installations classées s'est rendue sur le site le 26 avril 2006 pour constater l'état d'avancement de la dépollution.		
+1900				1920				a_accueilli	Le site a accueilli de 1900 à 1920 une usine de lampes à arc.		

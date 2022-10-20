@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1949				1949				construite	Installation de stockage de produits pétroliers d’une capacité d’environ 27 600 m3, construite en 1949 et exploitée par TOTAL FRANCE.		'TOTAL FRANCE'
+2004				2004				établi	Les travaux de traitement de ces sols et eaux souterraines contaminés au droit de cette zone ont été définis dans un cahier des charges établi en 2004.		
+2011				2011				à	A la fin de l'année 2010, 4 piézomètres supplémentaires ont été mis en place et intégrés dans la surveillance à partir de 2011.		
+2011	07	1		2011	07	1		a_succédé	Le 1er juillet 2011, DMS (filiale de TOTAL) a succédé à TOTAL pour l'exploitation du dépôt de produits pétroliers.	'dépôt de produits pétroliers'	'DMS', 'TOTAL', 'TOTAL'
+2011				2011				ont_été_mis_en_place	A la fin de l'année 2010, 4 piézomètres supplémentaires ont été mis en place et intégrés dans la surveillance à partir de 2011.		
+2011				2011				a_arrêté	Depuis mi 2011, le site a arrêté les activités liés au stockage de l'essence.		
+2007				2007				Des_travaux_de_dépollution	Des travaux de dépollution des sols ont également été effectués en 2007 (zone de la cuvette Sud).		
+2010				2010				ont_été_mis_en_place	A la fin de l'année 2010, 4 piézomètres supplémentaires ont été mis en place et intégrés dans la surveillance à partir de 2011.		
+2003				2003				Les_nouvelles_investigations	Les nouvelles investigations réalisées en 2003 dans la zone appelée "cuvette Sud" ont mis en évidence la présence dans les sols et la nappe d'une pollution historique (hydrocarbures et composés aromatiques).	'hydrocarbures', 'composés'	
+2001	06			2001	06			a_été_transmise	Cette dernière étude a été transmise en juin 2001 concluant sur la nécessité de mener des investigations complémentaires, au vu de l'usage du site et de son environnement.		
+2006				2006				a_été_installée	Dans ce cadre, une barrière hydraulique a été installée début 2006 afin d'éviter la migration de la pollution vers l'extérieur du site.		
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie (devenue DREAL), dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie', 'devenue DREAL'
+2004				2004				Les_travaux_de_traitement	Les travaux de traitement de ces sols et eaux souterraines contaminés au droit de cette zone ont été définis dans un cahier des charges établi en 2004.		

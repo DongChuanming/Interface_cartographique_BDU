@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	13		1999	07	13		a_été_suspendu	Par arrêté du 13 juillet 1999, le fonctionnement de l'usine a été suspendu à compter du 1er décembre 1999.		
+2000	03	28		2000	03	28		a_été_approuvée	Cette décision a été approuvée par Monsieur le Préfet, qui a dans un premier temps prescrit par arrêté du 21 octobre 1999 une procédure de consignation de somme, avant de l'abroger par arrêté du 28 mars 2000, considérant que le SIVOM de Haute-Tarentaise s'était engagé de manière irréversible dans la mise en confor-		'le Préfet', 'le SIVOM de Haute-Tarentaise'
+								n__a_été_équipée_d_	Bien que construite au milieu des années 80 et disposant d'infrastructures en bon état, cette unité n'a été équipée d'aucun dispositif de traitement des fumées.		
+1999	12	1		1999	12	1		a_été_suspendu	Par arrêté du 13 juillet 1999, le fonctionnement de l'usine a été suspendu à compter du 1er décembre 1999.		
+2002	10	29		2002	10	29		Cette_étude_a_été_transmise	Cette étude a été transmise à l'administration le 29 octobre 2002.		
+1985	09	23		1985	09	23		a_été_autorisé	Le fonctionnement de l'usine de Tignes a été autorisé par arrêté préfectoral en date du 23 septembre 1985.		'Tignes'
+1999				1999				a_souhaité_mettre_en_conformité	A l'automne 1999, le SIVOM de Haute-Tarentaire a souhaité mettre en conformité l'usine, en dépit d'un investissement élevé, de l'ordre de 25 MF.		'le SIVOM de Haute-Tarentaire'

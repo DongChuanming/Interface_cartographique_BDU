@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	10	27		2001	10	27		a_cessé_ses_activités	La société TREFIMETAUX a cessé ses activités le 27/10/2001.		'La société TREFIMETAUX'
+2002				2002				étude_historique	Une étude historique destinée à orienter le diagnostic initial qui sera fait pour 2002, a été transmise à l'administration le 31/08/1999.		
+2003	10			2003	10			a_débuté	La surveillance des eaux souterraine a débuté en octobre 2003.		
+2004	04	29		2004	04	29		a_été_cédé	- le lot 1 a été cédé à l'Européenne des métaux (l'acte de vente été signé le 29/04/2004) ;		
+2001	07	04		2001	07	04		a_été_transmise	L’ESR a été transmise à l'administration le 04/07/2001.		
+2003	07	09		2003	07	09		Un_diagnostic	Un diagnostic des eaux souterraines a été établi par le bureau d'études SITA Remédiation le 09/07/2003.		'SITA Remédiation'
+1997	10	21		1997	10	21		bénéficie_d_	La société bénéficie d'un arrêté préfectoral d'autorisation d'exploiter du 21/10/1997.		
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 01/12/1998.		
+2003	04	16		2003	04	16		a_été_émis	Suite au rapport de l'inspection datant du 21/01/2003, un arrêté préfectoral a été émis le 16/04/2003, imposant à l'exploitant la mise en place d'une surveillance de la qualité des eaux souterraine à fréquence trimestrielle.		
+2005	02	22		2005	02	22		visait_l__examen	Suite à une visite de recollement le 22/02/2005, qui visait l'examen de la dépollution des sols et de l'évacuation des déchets dangereux, il est proposé au Préfet dans le rapport de l'inspection du 22/07/2005, de prendre acte de la cessation d’activités.	'déchets dangereux'	'Préfet'
+2005	02	22		2005	02	22		une_visite_de_recollement	Suite à une visite de recollement le 22/02/2005, qui visait l'examen de la dépollution des sols et de l'évacuation des déchets dangereux, il est proposé au Préfet dans le rapport de l'inspection du 22/07/2005, de prendre acte de la cessation d’activités.	'déchets dangereux'	'Préfet'
+1997				1997				_accident	-accident de 1997 (fuite d'huile) ;		
+2005	02	14		2005	02	14		à_été_transmis	Le mémoire de fin de travaux à été transmis à l'administration le 14/02/2005.		
+2002	03	05		2002	03	05		a_été_transmis	Le rapport de cessation d'activités établi par le bureau d'étude ANTEA a été transmis à l'administration le 05/03/2002.		'ANTEA'
+2001	12			2001	12			a_été_mené	Un complément d'études a été mené par ANTEA en décembre 2001 :		'ANTEA'
+1999	08	31		1999	08	31		étude_historique	Une étude historique destinée à orienter le diagnostic initial qui sera fait pour 2002, a été transmise à l'administration le 31/08/1999.		
+2002	08	01		2002	08	01		a_été_transmis	Un registre sur l'évacuation des déchets et des produits dangereux au 24/07/2002 a été transmis à l'administration le 01/08/2002.	'des produits dangereux'	
+2001	10	12		2001	10	12		a_été_établi	Un rapport sur le dimensionnement d'une zone polluée et sur la comparaison de l'amont et l'aval hydraulique a été établi le 12/10/2001.		
+1849				1849				utilisée	Il s'agit d'une unité de production utilisée depuis 1849 (GRAMMONT) fonderie et fabrication d'objets en alliages de cuivre (laiton) sur 38 000 m2 .	'cuivre'	

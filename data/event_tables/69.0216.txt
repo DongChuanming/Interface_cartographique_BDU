@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05	17		1999	05	17		un_courrier	Par un courrier du 17/05/1999, le DOCK DES ALCOOLS déclare à l'Inspection des Installations Classées que, suite à sa fusion, elle devient la société ALCOOL PETROLE CHIMIE.		'le DOCK DES ALCOOLS', 'la société ALCOOL PETROLE CHIMIE'
+				1984				a_ensuite_servi	Le site a ensuite servi de dépôt pétrolier pour la société TOTAL Raffinage Distribution jusqu'en 1984.		'la société TOTAL Raffinage'
+1984	04	24		1984	04	24		a_été_autorisé	Cette activité a été autorisé par l'Arrêté préfectoral du 24/04/1984.		
+2000	06			2000	06			Le_diagnostic_initial_de_sol	Le diagnostic initial de sol et l'ESR (ensemble des études de sol) ont été transmises à l'administration en juin 2000.		
+1932				1932				ont_débuté	L'historique du site nous indique que les activités de stockage gérés par la Compagnie Générale de stockage ont débuté en 1932.		'la Compagnie Générale de stockage'
+2012	10			2012	10			a_été_réalisée	La dernière en date a été réalisée au mois d'octobre 2012.		
+2003	06			2003	06			21_campagnes_de_suivi	Depuis le mois de juin 2003, 21 campagnes de suivi de la qualité des eaux souterraines ont eu lieu sur l'ensemble de la zone industrielle de Collonges au Mont D'or.		
+2012	10			2012	10			elle_atteignait	Au mois d'octobre 2012, elle atteignait 4,06 m.		

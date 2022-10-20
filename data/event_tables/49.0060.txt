@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	11	18		2015	11	18		a_été_transmis	Un deuxième mémoire relatif au démantèlement des bâtiments de l’ancien atelier mécanique a été transmis en date du 18 novembre 2015 avec un justificatif d’élimination de l’ancienne cuve d’huiles usagées.	'cuve d’ huiles'	
+2015	09			2015	09			Des_analyses	Des analyses en mars 2015 et septembre 2015 montrent des teneurs en hydrocarbures inférieures à 90µg/l sur trois piézomètres.	'hydrocarbures'	
+1977	04			1977	04			a_été_mise_en_service	La station-service a été mise en service en avril 1977 (Arrêté Préfectoral d’autorisation du 6 septembre 1977) sous l’enseigne ANTAR (ELF Entargaz).		'ANTAR ( ELF Entargaz'
+2017	04			2017	04			effectuées	Les mesures supplémentaires effectuées en avril 2017 sur les gaz du sol (piézair) et sur les eaux souterraines (en avril 2016) ne modifient pas les conclusions de l'analyse des risques résiduelles		
+2008	07	04		2008	07	04		Le_transfert	Le transfert de récépissé de déclaration à TOTAL est acté par récépissé du 04/07/2008.		'TOTAL'
+2008				2008				extraite	Les résultats d’analyse sur les sols permettent d’observer l’absence d’impact résiduel en hydrocarbures au droit de la zone de la cuve HU et au niveau de l’emplacement de l’ancienne cuve FOD extraite en 2008 (voir plan cartographique 5 partie B).	'hydrocarbures'	'HU', 'FOD'
+2015	03			2015	03			Des_analyses	Des analyses en mars 2015 et septembre 2015 montrent des teneurs en hydrocarbures inférieures à 90µg/l sur trois piézomètres.	'hydrocarbures'	
+				2015	06	23		s__est_déroulée	La seconde phase de travaux de fermeture s’est déroulée du 22 au 23 juin 2015.		
+1981				1986				a_été_réalisée	Par contre, une extension des pistes de distribution véhicule léger (auvent agrandi) a été réalisée entre 1981 et 1986.		
+2014	01	1		2014	01	1		a_cessé_son_activité	La station-service a cessé son activité le 1er janvier 2014.		
+2015	01	15		2015	01	15		transmis_au_Préfet	Le rapport de cessation transmis au Préfet le 15 janvier 2015 atteste que les cuves enterrées et le séparateur à hydrocarbures ont été enlevés mais, que le radier des cuves de gazole n'a pas pu être retiré pour des raisons techniques, car il est situé sous le niveau de la nappe.	'hydrocarbures', 'de gazole'	'Préfet'
+1998				1998				a_été_enlevé	Un poste de transformateur électrique a été enlevé en 1998.		
+2014	02			2014	02			Des_investigations_environnementales	Des investigations environnementales effectuées d'octobre 2013 à février 2014 ont montré (voir plan cartographique 4 partie B) :		
+				2014	04	17		Une_première_phase_de_travaux	Une première phase de travaux s’est déroulée du 17 février au 17 avril 2014.		
+2013	10	22		2013	10	22		la_cessation_d__activités	Par courrier du 22 octobre 2013, la société a notifié la cessation d’activités de sa station service.		'la société'
+2008				2015				Des_campagnes_d__analyses	Des campagnes d'analyses des eaux souterraines ont réalisées entre 2008 et 2015 (programme de surveillance semestrielle) sur quatre piézomètres et démontrent des impacts ponctuels en hydrocarbures de l’ordre de 2100µg/l en 2009 et de 2800µg/l en 2013.	'hydrocarbures'	
+2013	10			2013	10			Des_investigations_environnementales	Des investigations environnementales effectuées d'octobre 2013 à février 2014 ont montré (voir plan cartographique 4 partie B) :		

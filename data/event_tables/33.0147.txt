@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09	10		2003	09	10		__diagnostic_des_scieries	Dans le cadre de l'action collective "diagnostic des scieries avec traitement des bois" lancée en 2003 par la DRIRE, l'arrêté du 10 septembre 2003 prescrit le diagnostic initial et l’Évaluation Simplifiée des Risques (ESR) du site.		
+2003				2003				__diagnostic_des_scieries	Dans le cadre de l'action collective "diagnostic des scieries avec traitement des bois" lancée en 2003 par la DRIRE, l'arrêté du 10 septembre 2003 prescrit le diagnostic initial et l’Évaluation Simplifiée des Risques (ESR) du site.		
+2009	07			2009	07			la_présence_de_faibles	- la présence de faibles teneurs en chlorures au droit des différents piézomètres en juillet 2009.	'teneurs'	

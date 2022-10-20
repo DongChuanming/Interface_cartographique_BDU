@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	09	01		1991	09	01		a_déclaré	Par courrier du 15/04/1992, la société a déclaré avoir cessé ses activités de production de peintures et de vernis depuis le 01/09/1991.		
+1996				1996				Une_reconnaissance	Une reconnaissance du sous-sol suivie d'une évaluation simplifiée des risques (ESR) ont été réalisées en 1996 à la demande de l'administration.		
+1996				1996				L__Audit_de_sol	L'Audit de sol transmis à l'administration fin 1996 conclut en une légère contamination avec un impact environnemental faible, et l'ESR positionne le site en classe 3, c'est-à-dire comme banalisable compte tenu de l'usage et l'environnement actuels.		
+1991	09	01		1991	09	01		avoir_cessé	Par courrier du 15/04/1992, la société a déclaré avoir cessé ses activités de production de peintures et de vernis depuis le 01/09/1991.		

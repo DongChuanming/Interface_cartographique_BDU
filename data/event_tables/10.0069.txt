@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1919				1919				est_présente	La société RPC TEDECO GIZEH, ex REXAM et CELATOSE INDUSTRIE, est présente depuis 1919 au 199 avenue Brossolette à Troyes.		'La société RPC TEDECO GIZEH', 'REXAM', 'CELATOSE INDUSTRIE'
+2011	11	24		2011	11	24		a_été_dressé	Un procès-verbal de constat de réalisation de travaux a été dressé suite la visite d'inspection du 24 novembre 2011.		
+								La_mise_en_sécurité_du_site	La mise en sécurité du site et les travaux de dépollution ont été réalisés dans le courant du 4ème trimestre 2011.		
+2011	07			2011	07			Ce_transfert	Ce transfert a été effectué en juillet 2011.		
+2011	08	03		2011	08	03		a_été_remise	La notification de cessation d'activités a été remise le 3 août 2011, associée à un mémoire relatif à la mise en sécurité du site.		
+2011	11	24		2011	11	24		la_visite	Un procès-verbal de constat de réalisation de travaux a été dressé suite la visite d'inspection du 24 novembre 2011.		
+2011				2011				La_mise_en_sécurité_du_site	La mise en sécurité du site et les travaux de dépollution ont été réalisés dans le courant du 4ème trimestre 2011.		

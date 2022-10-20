@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1964	09	1		1964	09	1		délivré	L’activité de stockage et distribution de carburant a débuté sur le site en 1964 (récépissé de déclaration délivré le 1er septembre 1964 au nom de Monsieur André RONTARD).	'carburant'	'André RONTARD'
+1996				1996				des_travaux	En 1996 et 1997 des travaux relatifs à la mise en conformité de l’ensemble des installations existantes avec extension des capacités de stockage ont lieu sur le site et sont actés par un récépissé de déclaration délivré le 26 février 1997.		
+2016	10	05		2016	10	05		est_adressée	Le 5 octobre 2016 une notification de fin d’activité est adressée au préfet par l’exploitant.		'préfet'
+1996				2002				sont_déclarées	Plusieurs changements d’exploitants sont déclarées au préfet entre 1996 et 2002 (voir I. référentiels réglementaires ci-dessus).		
+1964				1964				a_débuté_sur_le_site	L’activité de stockage et distribution de carburant a débuté sur le site en 1964 (récépissé de déclaration délivré le 1er septembre 1964 au nom de Monsieur André RONTARD).	'carburant'	'André RONTARD'
+2016				2016				m³_ont_été_démantelés	Les pompes de chargement et dépotage, les dispositifs de commande et les plateaux trous d’homme de la cuve de 100 m³ ont été démantelés avant 2016.		
+2018				2018				a_été_menée	Au regard des concentrations résiduelles identifiées dans les sols et dans les gaz du sol après les travaux de mise en sécurité, et du maintien de l’usage industriel ou tertiaire, une analyse de la compatibilité entre l’état de pollution résiduel du site et les usages envisagés a été menée en 2018.		
+2020	01	09		2020	01	09		de_la_visite	Lors de la visite du 9 janvier 2020, l’inspection des installations classées a constaté :		
+1997				1997				des_travaux	En 1996 et 1997 des travaux relatifs à la mise en conformité de l’ensemble des installations existantes avec extension des capacités de stockage ont lieu sur le site et sont actés par un récépissé de déclaration délivré le 26 février 1997.		
+				2017	10	30		Les_travaux_de_démantèlement	Les travaux de démantèlement des installations pétrolières, d’excavation et d’évacuation des sols pollués aux hydrocarbures ont été réalisés du 24 au 30 octobre 2017.	'hydrocarbures'	
+2016	10			2016	10			Une_étude_de_diagnostic	Une étude de diagnostic réalisée en octobre 2016 met en évidence une pollution des sols.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	20		2003	10	20		Une_EDR_a_été_prescrite	Une EDR a été prescrite par arrêté du 20/10/2003.		
+2004	12			2004	12			propose_de_remettre_l__étude	L'exploitant a sollicité un délai supplémentaire et se propose de remettre l'étude en décembre 2004.		
+2006	01	23		2006	01	23		a_été_dressé	Par ailleurs, un procés-verbal de recolement concernant l'état des sols au droit du site a été dressé le 23 janvier 2006.		
+2005	01			2005	01			un_nouveau_diagnostic_de_sols	En janvier 2005, l'exploitant a adressé un nouveau diagnostic de sols remettant en cause la prescription d'une étude détaillée des risques : teneurs en métaux et en hydrocarbures totaux bien inférieures à celles ayant conduit à classer le site en classe 1 en raison d'opérations de décapage conduites entre temps par la société VVK occupant dorénavant le site.	'métaux', 'hydrocarbures totaux'	'la société VVK'
+1997	10	09		1997	10	09		de_véhicules_hors_d_usage_détruit	Dépôt de véhicules hors-d'usage détruit par un incendie le 09/10/1997.		
+2007	06			2007	06			Les_résultats_de_surveillance	Les résultats de surveillance des eaux souterraines de juin 2007 révèlent une teneur en hydrocarbures aromatiques polycycliques (HAP) totaux supérieure au seuil de potabilité.	'hydrocarbures aromatiques polycycliques', 'HAP', 'totaux'	

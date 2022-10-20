@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				est_arrêté	En 1977, l'ensemble des activités liées à la production de gaz manufacturé est arrêté.		
+2007				2018				a_été_mise_en_place	En outre, une surveillance trimestrielle de la qualité des eaux souterraines au droit du site a été mise en place entre 2007 et 2018.		
+2004	01	28		2004	01	28		prescrivant	À l’issue de ces études, le préfet de l’Isère a pris les arrêtés préfectoraux n°2003-04762 du 13 mai 2003 et n°2004-01276 du 28 janvier 2004 prescrivant à la Ville de Grenoble :		'le préfet'
+2000				2000				le_projet	Au début de l’année 2000, le CEA et l’INPG ont initié le projet MINATEC.		'le CEA', 'INPG', 'MINATEC'
+2006				2006				Les_travaux	Les travaux de la partie GEG ont été réalisés en deux temps, en 2003, puis en 2006.		
+2003				2003				Les_travaux_de_dépollution	Les travaux de dépollution de la partie INPG ont été réalisés en 2003.		
+1873				1873				a_connu	Le site GEG a connu depuis 1873 plusieurs activités industrielles dont la fabrication de gaz à partir de charbon, la fabrication de benzol, le craking de fuel et d'essence.	'charbon', 'benzol', 'fuel'	'Le site GEG'
+2003				2003				Les_travaux	Les travaux de la partie GEG ont été réalisés en deux temps, en 2003, puis en 2006.		
+2011				2018				a_été_mise_en_place	Une surveillance de la qualité de l’air ambiant dans les bâtiments GEG et INPG a été mise en place entre 2011 et 2018, à raison de 3 campagnes par an, pour s’assurer que les hypothèses retenues pour l’évaluation des risques sanitaires restent valides dans le temps.		'GEG et INPG'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				a_contribué_à_la_réhabilitation_du_site	C'est à partir de 2007 que la société TOTAL, responsable de la pollution du terrain, a contribué à la réhabilitation du site.		'la société TOTAL'
+2001	10	08		2001	10	08		a_été_dressé_à_l_	De même un Procès Verbal a été dressé à l'encontre de cette société le 8 octobre 2001.		
+2009	2008			2009	2008			les_travaux_de_dépollution	Il apparait selon l'étude que les travaux de dépollution réalisés en 2008/2009  puis en 2011 au niveau de l'ancien décanteur n'ont pas permis d'observer en 2012 l'amélioration notable des paramètres observés sur le piézomètre situé en aval hydraulique  situé à l'extérieur du site en bordure du canal ( PZC).		
+1998				1998				ont_été_engagées_à_l__encontre	Plusieurs actions ont été engagées à l'encontre de la société Montreux Pneus à partir de 1998, suite à des plaintes portant sur les conditions d'exploitation de cet établissement.		'la société Montreux Pneus'
+2007				2007				ont_été_réalisés	Un diagnostic  complémentaire et une Etude Détaillée des Risques ont été réalisés en 2007 et 2008 afin d'évaluer les risques sanitaires et proposer des solutions de remédiation de la pollution.		
+2008				2008				a_été_remise	En févier 2008, une évaluation des risques sanitaires a été remise; dans le cadre de cette étude, des mesures complémentaires des gaz dans l'air du bâtiment existant sur le site ont été réalisées.		
+2013	05			2013	05			la_campagne	Une surveillance de la nappe est réalisée à partir de 4 piézomètres ( deux amont et deux aval); les derniers résultats de la campagne de mai 2013 mettent en évidence les points suivants:		
+2015	10	30		2015	10	30		a_été_instituée	Une restriction d'usage, prise sous la forme d'une servitude d'utilité publique a été instituée par arrêté préfectoral en date du 30 octobre 2015.		
+2007				2007				C_	C'est à partir de 2007 que la société TOTAL, responsable de la pollution du terrain, a contribué à la réhabilitation du site.		'la société TOTAL'
+1970				1989				a_exploité	TOTAL a exploité entre 1970 et 1989 un dépôt de carburant sur ce site.	'carburant'	
+1999	05	12		1999	05	12		a_été_mise_en_liquidation_judiciaire	La société a été mise en liquidation judiciaire le 12 mai 1999, laissant à l'abandon un important stock de pneumatiques usagés.		
+2008				2008				ont_été_réalisés	Un diagnostic  complémentaire et une Etude Détaillée des Risques ont été réalisés en 2007 et 2008 afin d'évaluer les risques sanitaires et proposer des solutions de remédiation de la pollution.		

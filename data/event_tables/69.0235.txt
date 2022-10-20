@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Des_investigations_de_sols	Des investigations de sols ont donc été menées par G ENVIRONNEMENT en juin et octobre 2008.		'G ENVIRONNEMENT'
+2010	03	05		2010	03	05		a_été_transmis	Le rapport du diagnostic réalisé par BUREAU VERITAS a été transmis par l'exploitant le 05 mars 2010.		'BUREAU VERITAS'
+2008	10			2008	10			Des_investigations_de_sols	Des investigations de sols ont donc été menées par G ENVIRONNEMENT en juin et octobre 2008.		'G ENVIRONNEMENT'
+1930				1930				abrite	- 1930 à 1980 : le dépôt AUDIBERT abrite les batteries de tout le réseau TCL		': le dépôt AUDIBERT'
+2008	06			2008	06			profondeur_ont_été_réalisés	- juin 2008 : 3 forages jusqu'à 7 m de profondeur ont été réalisés au droit de la cuve d'huiles usées.		
+1980				1980				abrite	- 1930 à 1980 : le dépôt AUDIBERT abrite les batteries de tout le réseau TCL		': le dépôt AUDIBERT'
+1946				1946				__réouverture_du_site	- 1944 : Importants dégâts dus aux bombardements (réouverture du site en 1946)		
+2008	06			2008	06			____3_forages	- juin 2008 : 3 forages jusqu'à 7 m de profondeur ont été réalisés au droit de la cuve d'huiles usées.		
+2008	10			2008	10			m_ont_été_réalisés	- octobre 2008 : 2 forages complémentaires, à 7 et 11 m ont été réalisés.		
+2009	05			2009	05			a_été_mandaté	En mai 2009, le CETIM a été mandaté pour émettre un avis et proposer un plan d'action suite aux 2 rapports réalisés par G ENVIRONNEMENT.		'le CETIM', 'G ENVIRONNEMENT'
+2009	10			2009	10			des_investigations_complémentaires	La société BUREAU VERITAS a donc réalisé des investigations complémentaires en octobre 2009, dans le cadre du plan d'action proposé par le CETIM.		'La société BUREAU VERITAS', 'le CETIM'
+2010	01	15		2010	01	15		a_informé	L'exploitant a informé le préfet, par courrier en date 15 janvier 2010, de la mise en évidence de la présence de polluants dans la nappe au droit du site.	'polluants'	'le préfet'

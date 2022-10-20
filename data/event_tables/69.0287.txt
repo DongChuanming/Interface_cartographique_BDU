@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	11		2009	09	11		a_transmis	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+2005	11	21		2005	11	21		Des_prélèvements	Des prélèvements d'eaux souterraines ont été effectués le 21/11/2005 par respect de l'arrêté préfectoral du 15/03/1996.		
+2009	07	30		2009	07	30		a_transmis	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+2005	08	09		2005	08	09		ont_été_prises	Des sanctions administratives ont été prises contre l'exploitant le 09/08/2005.		
+2009	07	17		2009	07	17		un_diagnostic_sols	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+2009				2009				a_été_racheté	Le site a été racheté par la société PAPREC en 2009 qui bénéficie d'un récépissé de déclaration du 15/01/2010.		'la société PAPREC'
+2009	06	08		2009	06	08		a_déclaré_cesser	La société a déclaré cesser ses activités par courrier du 08/06/2009.		
+2010	01	15		2010	01	15		déclaration	Le site a été racheté par la société PAPREC en 2009 qui bénéficie d'un récépissé de déclaration du 15/01/2010.		'la société PAPREC'
+2001	09			2001	09			a_été_traitée	Cette zone a été traitée en septembre 2001 par des travaux d'excavation et d'élimination hors site des terres polluées sur une profondeur de 3 m.		
+2000	11			2000	11			ont_été_établis	Les rapports ont été établis en novembre 2000.		
+2000				2000				les_analyses_effectuées	Au niveau des eaux souterraines, les analyses effectuées en 2000 portaient sur deux puits et un piézomètre.		
+				2009	10	27		a_transmis	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+2013	05	22		2013	05	22		ont_alors_été_remis	Des compléments lui ont alors été remis en date du 22/05/2013.		
+2009	07	17		2009	07	17		a_transmis	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+1994	09	29		1994	09	29		changement_d__exploitant	La société GESTAMP NOURY bénéficie d'un récépissé de déclaration de changement d'exploitant du 29/09/1994 puis d'un arrêté d'autorisation signé en date du 15/03/1996.		'La société GESTAMP NOURY'
+2005	03	31		2005	03	31		d__inspection	Suite à une visite d'inspection du 31/03/2005, l'inspection des installations classées propose au Préfet, de demander à l'exploitant d'effectuer des analyses de la qualité des eaux souterraines et la mise en place d'un système de traitement des rejets de ruissellement.		
+2010	01	15		2010	01	15		a_été_racheté	Le site a été racheté par la société PAPREC en 2009 qui bénéficie d'un récépissé de déclaration du 15/01/2010.		'la société PAPREC'
+2009	09	11		2009	09	11		un_diagnostic_sols	Par courriers du 30/07/2009 et du 27/10/2009, l'exploitant a transmis à l'inspection, un dossier de cessation d'activité comprenant un diagnostic sols (rapport de diagnostics de pollution des sols du 17/07/2009 et 11/09/2009).		
+2000				2000				Les_investigations	Les investigations effectuées en 2000, ont mis en évidence une zone polluée par des HCT au droit de l'aire de lavage entre 2 et 6 m de profondeur.	'des HCT'	

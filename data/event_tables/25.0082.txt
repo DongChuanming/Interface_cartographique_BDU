@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	30		2013	09	30		Les_activités	Les activités de l'entreprise ont cessé sur le site le 30 septembre 2013 pour être transférées sur le nouveau site sis à 37 route d'Audincourt (Dasle).		
+2015	05	21		2015	05	21		a_procédé_aux_travaux_d__excavation	Le 21 mai 2015, TERREST INGENIERIE a procédé aux travaux d'excavation autour du séparateur à hydrocarbures situé le long de l'aire de dépotage.	'hydrocarbures'	'TERREST INGENIERIE'
+								abrite	Le bâtiment abrite des activités de dépôts de combustibles et a été construit dans les années 1960.	'combustibles'	
+2013	09			2013	09			un_rapport	En septembre 2013, le bureau d'études TERREST INGENIERIE a réalisé un rapport faisant l'état des lieux de la qualité des sols et du sous-sol du site.		'TERREST INGENIERIE'
+2014	06			2014	06			Un_diagnostic_approfondi	Un diagnostic approfondi de la qualité des sols a été établi en juin 2014 par TERREST INGENIERIE.		'TERREST INGENIERIE'
+								a_été_construit	Le bâtiment abrite des activités de dépôts de combustibles et a été construit dans les années 1960.	'combustibles'	
+								des_activités_de_dépôts_de_combustibles	Le bâtiment abrite des activités de dépôts de combustibles et a été construit dans les années 1960.	'combustibles'	
+2011	03			2011	03			a_été_reprise	Exploitée jusqu'en 2010 par la SARL RONDOT, l'entreprise a été reprise par la SARL MALNATI en mars 2011.		'la SARL RONDOT', 'la SARL MALNATI'
+2010				2010				un_diagnostic_des_sols	Lors du transfert des activités de la SARL RONDOT vers la SARL MALNATI, un diagnostic des sols a été réalisé par SITA REMADIATION en 2010.		'la SARL RONDOT', 'la SARL MALNATI', 'SITA REMADIATION'
+2010				2010				a_été_reprise	Exploitée jusqu'en 2010 par la SARL RONDOT, l'entreprise a été reprise par la SARL MALNATI en mars 2011.		'la SARL RONDOT', 'la SARL MALNATI'
+2013	09			2013	09			ont_été_dégazées	En septembre 2013, les 3 cuves (capacité totale de 130 m3) ayant contenu du FOD ont été dégazées et nettoyées par l'entreprise BORDY. 3.04 tonnes de mélange eaux-hydrocarbures ont été envoyées en traitement physico-chimique à SOTREFI (Etupes) et 0.8 tonnes de boues de curage du séparateur à hydrocarbures ont été détruites.	'FOD', 'hydrocarbures', 'hydrocarbures'	'BORDY', 'SOTREFI'

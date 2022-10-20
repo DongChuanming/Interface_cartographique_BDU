@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				un_nouveau_diagnostic_environnemental	En 2009, dans la perspective de la cessation d’activité de la station-service, un nouveau diagnostic environnemental est effectué.		
+2011				2011				est_réalisé	Un diagnostic complémentaire est réalisé en 2011.		
+1992				1995				Des_travaux_de_dépollution	Des travaux de dépollution sont alors effectués entre 1992 et 1995 consistant en l’excavation des terres impactées ainsi qu’en l’écrémage du flottant des eaux souterraines.		
+1965				1965				a_exploité	La société SHELL a exploité sur ces terrains une station-service depuis au moins 1965.		'La société SHELL'
+2010				2010				cesse	En 2010, la société cesse son activité sur le site.		
+2011				2011				Des_excavations	Des excavations complémentaires sont réalisées à partir de 2011, au total 2 327 tonnes de terres impactées sont ainsi excavées.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	10	17		2013	10	17		a_mis_en_demeure	Sur la proposition de l’inspection des installations classées, la Préfecture de Police a mis en demeure, par arrêté préfectoral du 17 octobre 2013, l’exploitant de réaliser un diagnostic de sol au droit des cuves et de l’aire de dépotage des carburants.	'carburants'	'la Préfecture de Police'
+2015	09	18		2015	09	18		A_l__issue_d__une_visite	A l’issue d’une visite du site du 18 septembre 2015, l’inspection des installations classées a rappelé à l’exploitant l’obligation de rechercher l’étendue des impacts rencontrés dans les gaz du sol et de supprimer les sources de pollution.		
+2015	12	16		2015	12	16		Des_investigations	Des investigations réalisées le 16 décembre 2015 ont montré l’absence d’extension des impacts rencontrés lors des investigations précédentes dans les sols et les gaz du sol.		
+				2010				a_exploité	La SAS REDELE RDL & Cie a exploité une station-service au 26 boulevard Gouvion Saint Cyr à Paris 17ème jusqu’en 2010.		'La SAS REDELE RDL'
+2010	09	30		2010	09	30		la_cessation_d__activité	La société a notifié la cessation d’activité le 30 septembre 2010.		
+2011	12			2011	12			un_diagnostic_de_sol	Dans le cadre de la cessation d’activité, un diagnostic de sol a été réalisé au droit d'un volucompteur (n°1) en décembre 2011.		
+2013	11	18		2013	11	18		Un_diagnostic_de_sol	Un diagnostic de sol, réalisé le 18 novembre 2013, n’a pas montré de pollution à proximité des anciennes cuves de liquides inflammables et de l’aire de dépotage des carburants.	'de liquides inflammables', 'carburants'	

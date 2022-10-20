@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015	06			Les_investigations_de_terrain_menées	Les investigations de terrain menées entre mars et juin 2015 ont confirmées une pollution importante des sols et des eaux souterraines en aval des cuves de l'ancienne station-service.		
+1968				1968				est_exploitée	Une activité d’essais et mises au point de moteurs sur des bancs d’essais moteurs est exploitée sur ce site depuis 1968.		
+2015				2015				ont_été_menées	A la demande de l'inspection des installations classées, des investigations complémentaires et une analyse de risques sanitaires au droit de cette zone ont été menées en 2015.		
+2006				2010				plusieurs_études	La zone de dépôt et de distribution de carburant localisée à l'ouest du site a fait l'objet de plusieurs études et travaux environnementaux entre 2006 et 2010.	'carburant'	
+2016	01	22		2016	01	22		ont_été_formules	Ces demandes ont été formules à l'exploitant par courrier du 22/01/2016.		

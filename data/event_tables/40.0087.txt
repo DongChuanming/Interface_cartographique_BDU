@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	07		2005	07	07		Les_études	Les études et l'évaluation simplifiée des risques (ESR) ont été remises les 26 mai 2004 et 7 juillet 2005.		
+2005	02	07		2005	02	07		La_campagne	La campagne du 7 février 2005 met en évidence la présence dans la nappe des substances actives utilisées:	'substances actives utilisées'	
+2008	07	28		2008	07	28		La_campagne	La campagne du 28 juillet 2008 confirme la situation avec 6,63 µg/l de Propiconazole en PZ1 mais des traces en PZ2 et dans le forage.	'Propiconazole', 'PZ1'	
+2008	03	04		2008	03	04		une_entrevue	Lors d'une entrevue de l'Inspection des Installations Classées avec l'exploitant le 4 mars 2008, ce dernier n'avait pas d'explication.		
+2008	01	28		2008	01	28		La_campagne_du	La campagne du 28 janvier 2008 montre que seul le Propiconazole est détecté :	'le Propiconazole'	
+2009	06	16		2009	06	16		La_campagne_d__analyse	La campagne d'analyse du 16 juin 2009 (basses eaux) confirme la situation par l'incidence pérenne du propiconazole sur la nappe :	'propiconazole'	
+2004	05	26		2004	05	26		Les_études	Les études et l'évaluation simplifiée des risques (ESR) ont été remises les 26 mai 2004 et 7 juillet 2005.		
+2009	11	26		2009	11	26		La_campagne	La campagne du 26 novembre 2009 (hautes eaux) confirme la situation par l'incidence pérenne du propiconazole sur la nappe :	'propiconazole'	

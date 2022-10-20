@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01			2004	01			un_diagnostic_complémentaire	Pour mieux circonscrire la zone polluée, TOTAL a fait réaliser un diagnostic complémentaire en janvier 2004 avec la mise en place de deux piézomètres supplémentaires ancrés à 6 m de profondeur, et la collecte de deux échantillons supplémentaires à partir de deux nouveaux sondages.		
+2005	02	04		2005	02	04		a_été_signé	Un arrêté préfectoral a été signé en date du 4 février 2005 en vue d'imposer la réalisation d'une Étude Simplifiée des Risques (ESR) et la mise en place d'un suivi de la qualité des eaux souterraines.		
+2003	05			2003	05			une_pollution	Suite à une pollution du sous-sol en mai 2003 engendrée par une fuite au niveau d'un volucompteur de gas-oil, la société TOTAL a transmis au Préfet un dossier comportant un diagnostic environnemental des sols.		'la société TOTAL'
+2005	04	11		2005	04	11		a_été_réalisée	L'ESR a été réalisée le 11/04/2005.		
+2009	01			2009	01			a_été_arrêté_et_démantelé	Compte tenu du fait de l'absence de réalimentation d'hydrocarbures dans le puits perdu, le système d’écrémage a été arrêté et démantelé à la demande de la société TOTAL au mois de janvier 2009.	'hydrocarbures'	'la société TOTAL'
+2012	12	13		2012	12	13		a_eu_lieu	La 30ème campagne de suivi de la qualité des eaux souterraines a eu lieu les 12 et 13 décembre 2012.		
+2004				2004				ont_été_traités	Depuis 2004, 10 930 L d'eaux pompées ont été traités.		
+								a_eu_lieu	La 30ème campagne de suivi de la qualité des eaux souterraines a eu lieu les 12 et 13 décembre 2012.		

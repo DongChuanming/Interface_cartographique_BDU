@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	05	10		1991	05	10		a_été_réglementé	Le traitement des bois a été réglementé par arrêté préfectoral du 10 mai 1991.		
+2005	06			2005	06			ont_été_remises	Les études ont été remises en avril 2004 et en juin 2005.		
+				2000				a_été_utilisé	Le PCP Na (pentachlorophénate de sodium) a été utilisé pour le traitement des bois sur le site jusqu'en 2000.	'Le PCP Na ( pentachlorophénate de sodium'	
+1969	12	22		1969	12	22		sont_autorisées	Les installations sont autorisées par arrêté du 22 décembre 1969.		
+2004	04			2004	04			ont_été_remises	Les études ont été remises en avril 2004 et en juin 2005.		
+1924				1924				exploitée	Scierie de pin avec traitement des bois par trempage exploitée depuis 1924 par la SAS LESBATS SCIERIE D'AQUITAINE Sur la commune de Léon (40).		'Scierie', "la SAS LESBATS SCIERIE D' AQUITAINE"

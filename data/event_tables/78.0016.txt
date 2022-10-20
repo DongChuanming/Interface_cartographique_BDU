@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1995	05	04		ont_fait_l__objet	Ces interventions ont fait l'objet des arrêtés préfectoraux du 26 avril 1995, 4 mai 1995 et 20 décembre 1995.		
+2000	04	25		2000	04	25		a_été_remis	Un rapport visant la dépollution finale du site a été remis le 25 avril 2000.		
+1995	03	31		1995	03	31		des_travaux_de_reconstruction_partielle	Le 31 mars 1995, des travaux de reconstruction partielle de la station étaient en cours, avec mise en place d'une nouvelle installation de distribution (cuves et pompes).		
+								Ces_opérations	Ces opérations se sont déroulées le 21 août et le 11 septembre 2000.		
+				2000	09	11		Ces_opérations	Ces opérations se sont déroulées le 21 août et le 11 septembre 2000.		
+1995	04	26		1995	04	26		ont_fait_l__objet	Ces interventions ont fait l'objet des arrêtés préfectoraux du 26 avril 1995, 4 mai 1995 et 20 décembre 1995.		

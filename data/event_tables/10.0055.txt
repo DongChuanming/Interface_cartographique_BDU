@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_transmis	Le 21/03/03, l'exploitant a transmis ces documents à l'inspection des installations classées.		
+								un_rapport	Suite à ces compléments, l'inspection des installations classées a adressé un rapport au Préfet (21/04/04) proposant, compte tenu notamment du fait que l'origine des pollutions constatées ne semble pas être de la responsabilité de l'exploitant actuel, d'organiser un réunion en présence de l'ensemble des parties prenantes de ce dossier.		
+2003	09	24		2003	09	24		a_adressé	L'exploitant nous a adressé des compléments le 27/11/2003 ainsi que les résultats de la première campagne d'analyses des eaux souterraines du 24/09/2003.		
+								de_la_visite_d__inspection	Lors de la visite d'inspection du 20/06/02 , l'inspection des installations classées a constaté que les travaux de terrassement  pour la création d'un bassin ont mis en évidence une pollution des sols noirâtre.		
+2003	11	27		2003	11	27		a_adressé	L'exploitant nous a adressé des compléments le 27/11/2003 ainsi que les résultats de la première campagne d'analyses des eaux souterraines du 24/09/2003.		
+								a_été_signé	Cet arrêté complémentaire a été signé le 18/10/02.		

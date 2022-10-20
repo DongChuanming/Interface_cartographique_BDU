@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_remise	L'ESR a été remise le 14/11/02.		
+2001	07	10		2001	07	10		fournis	Les résultats d'analyses de la campagne semestrielle du bureau d'études IRH (rapport n°RABOO/AF/070) fournis le 10/07/2001 montrent:		'IRH', 'RABOO'
+2010	05			2010	05			un_prélèvement_opéré	En 2010, en amont comme en aval, les eaux souterraines présentent des teneurs en polluants inférieures aux seuils de quantification à l'exception d'un prélèvement opéré en mai 2010 qui présentait une teneur en chrome de 87 µg/l pour une valeur limite de 50 µg/l.	'chrome'	
+								a_été_découverte	La pollution a été découverte le 22/05/96 suite à un rapport sur la qualité des eaux souterraines.		
+1998	02	12		1998	02	12		la_réalisation_d_	Le 12/02/1998, l'inspection avait demandé la réalisation d'une ESR.		
+								Une_étude_historique_a_été_remise	Une étude historique a été remise le 01/03/99.		
+2003	02	19		2003	02	19		Une_EDR_a_été_prescrite	Une EDR a été prescrite par arrêté du 19/02/2003.		

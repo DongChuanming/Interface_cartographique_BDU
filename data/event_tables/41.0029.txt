@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			la_campagne	Les résultats de la campagne de novembre 2011 indiquent de fortes teneurs en hydrocarbures et en xylène au niveau de l'ouvrage piézométrique MW.3.2 (concentrations en HCT supérieures aux valeurs seuil de qualité des eaux de consommation).	'hydrocarbures', 'xylène', 'HCT'	
+				1991				est_effectuée	L'installation en zone d'activités a débuté en 1979 (achat du terrain) et seule la galvanisation des véhicules y est effectuée jusqu'en 1991.		
+1964				1964				Installée	Installée depuis 1964 dans le LOIR ET CHER, MATRA AUTOMOBILE possède, pour ce qui concerne ROMO 3, un terrain d'une superficie totale de 16,8 hectares (dont 3,8 sont construits) en zone d'activités industrielles des Marnières de Plaisance au sud de ROMORANTIN LANTHENAY.		'MATRA AUTOMOBILE'
+2004	06	25		2004	06	25		a_été_prescrite	Une surveillance semestrielle des eaux souterraines a été prescrite par arrêté du 25 juin 2004.		
+1979				1979				L__installation_en_zone_d_	L'installation en zone d'activités a débuté en 1979 (achat du terrain) et seule la galvanisation des véhicules y est effectuée jusqu'en 1991.		
+2004	11	19		2004	11	19		ont_été_mises_en_place	Des servitudes d'utilité publique ont été mises en place (arrêté préfectoral du 19 novembre 2004).		

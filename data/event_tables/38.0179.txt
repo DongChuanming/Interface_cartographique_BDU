@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	09		2006	02	09		la_cessation_de_ses_activités	La société de déconstruction BELMONT a notifié la cessation de ses activités en date du 09/02/2006.		'La société de déconstruction BELMONT'
+2005	12	13		2005	12	13		un_diagnostic_de_pollution	Suite à un projet de transaction immobilière entre la société BELMONT et la communauté de communes Chartreuse et Guiers, un diagnostic de pollution a été réalisé par G environnement en date du 13/12/2005.		'la société BELMONT'

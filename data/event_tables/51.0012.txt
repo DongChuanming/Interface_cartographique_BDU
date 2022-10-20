@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07	28		1998	07	28		a_été_imposée	Cette surveillance a été imposée au responsable du site pour une durée de 5 ans par arrêté préfectoral du 28 juillet 1998.		
+								a_demandé	L'inspection des installations classées a demandé à l'exploitant le 19/09/06 de faire un bilan de la surveillance des eaux souterraines et des éventuelles suites à donner.		
+2007	03	14		2007	03	14		a_remis	L'exploitant (TOTAL) a remis le 14 mars 2007 :		'( TOTAL'
+				1994	11			__une_fuite	L'origine des faits remonte à  une fuite sur une canalisation d'hydrocarbures à l'origine de la perte d'environ  9000 litres de gazole entre fin octobre et novembre 1994.	"d' hydrocarbures", 'gazole'	
+2006	10			2006	10			datant_d_	- un audit des piézomètres datant d'octobre 2006.		
+								a_été_imposée	Cette surveillance a été imposée au responsable du site pour une durée de 5 ans par arrêté préfectoral du 28 juillet 1998.		
+2006	10			2006	10			un_audit	- un audit des piézomètres datant d'octobre 2006.		

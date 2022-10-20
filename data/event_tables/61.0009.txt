@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	09			1993	09			un_diagnostic_initial	En raison d'un projet de cession, ce site a fait l'objet  d'un diagnostic initial en septembre 1993 suivi d'un diagnostic approfondi en janvier 1994.		
+1994	01			1994	01			un_diagnostic_initial	En raison d'un projet de cession, ce site a fait l'objet  d'un diagnostic initial en septembre 1993 suivi d'un diagnostic approfondi en janvier 1994.		
+								a_fait_l__objet_d_	Le traitement de la situation des terrains ayant accueilli des usines à gaz a fait l’objet d’un Protocole d’accord entre le Ministère de l’Environnement et la société Gaz de France, en tant que propriétaire foncier, en date du 25 avril 1996 et ce pour une durée de 10 ans.		'le Ministère de l’ Environnement', 'la société Gaz de France'
+1996				1996				a_été_vendu	Après réhabilitation, le site a été vendu en 1996 à une entreprise privée.		
+1864				1963				a_accueilli	Ce terrain, d'une superficie d'environ 9600 m² et situé en bordure du centre-ville de Flers, a accueilli de 1864 à 1963, une usine fabriquant du gaz à partir de la distillation de la houille.		
+1995				1995				a_mis_en_évidence	En 1995, l'analyse des eaux de la nappe au moyen de piézomètres a mis en évidence la présence de traces de sous-produits issues de l'activité gazière dans les eaux souterraines.		

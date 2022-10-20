@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08	30		2001	08	30		Le_dossier_de_fermeture_et_de_réaménagement	Le dossier de fermeture et de réaménagement de l’ancien site CEDILOR de JOUY-AUX-ARCHES (centre de traitement et de transit de déchets industriels) a été transmis au préfet de Moselle en date du 30 août 2001.	'déchets industriels'	'CEDILOR', 'préfet de Moselle'
+2003	09			2003	09			réalisée	Suite à cette étude, une évaluation simplifiée des risques (ESR) a été demandée et réalisée en septembre 2003.		
+1994	05	04		1994	05	04		autorisant	- du 04 mai 1994, autorisant la société CEDILOR à exploiter dans son établissement sis 60 route de Metz à JOUY-AUX-ARCHES, des installations de traitement de déchets industriels provenant d’installations classées et une station de transit de déchets spéciaux.	'déchets industriels'	'la société CEDILOR'
+1998				1998				ont_complétement_été_nettoyées	Les installations ont complétement été nettoyées et démolies en 1998 et 1999.		
+2001	08	30		2001	08	30		a_été_remise	Une étude concernant la remise en état du site a été remise à l'inspection, le 30 août 2001.		
+1980	02	25		1980	02	25		autorisant	- du 25 février 1980 modifié, autorisant la société CEDILOR (anciennement PETROCARBOL-INDUSTRIE) à exploiter un centre de traitement d’huiles solubles usagées et d’hydrocarbures en émulsion à JOUY-AUX-ARCHES	'huiles solubles usagées', 'hydrocarbures'	'la société CEDILOR', 'PETROCARBOL - INDUSTRIE'
+1997				1997				La_cessation_d__activité_effective	La cessation d'activité effective date de 1997.		
+1999				1999				ont_complétement_été_nettoyées	Les installations ont complétement été nettoyées et démolies en 1998 et 1999.		
+								a_été_retenu	Le site de JOUY-AUX-ARCHES, ancienne carrière d'une tuilerie, a été retenu à la fin des années 1970 pour être aménagé en Centre Technique d'Enfouissement de classe 1 en raison de ses qualités géologiques.		
+2003	09			2003	09			une_évaluation_simplifiée_des_risques	Suite à cette étude, une évaluation simplifiée des risques (ESR) a été demandée et réalisée en septembre 2003.		

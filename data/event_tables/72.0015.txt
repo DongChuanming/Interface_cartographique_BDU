@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	06		2000	04	06		a_été_présentée	* L'étape B (diagnostic initial) a été présentée le 06/04/2000, aucune mesure d'urgence ne s'impose.		
+1999	10	05		1999	10	05		a_été_réalisée	* L'étape A (étude historique de vulnérabilité, et investigations de terrain) a été réalisée le 05/10/1999.		
+2000	10	23		2000	10	23		a_été_établie	L'étape C (évaluation simplifiée des risques) a été établie en date du 23/10/2000.		

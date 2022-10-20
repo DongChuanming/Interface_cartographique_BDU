@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2000	06			Le_traitement_par_voie_biologique	- Le traitement par voie biologique des terres a été réalisé en juin 2000.		
+2001				2001				Les_travaux_de_réhabilitation	- Les travaux de réhabilitation sont achevés depuis l'été 2001 par la neutralisation des piézomètres.		
+1998	09	04		1998	09	04		Une_évaluation_simplifiée_des_risques	- Une évaluation simplifiée des risques réalisée après travaux prescrite par APC du 04/09/1998 montre que le site est dorénavant banalisable (classe 3).		
+								a_donné_acte	- Le Préfet a donné acte de la remise en état du site par courrier du 12/4/01.		'Le Préfet'
+1993				1993				est_détectée	- A la suite de travaux de mise en conformité du site suivant les prescriptions de l’Arrêté préfectoral d'autorisation, une contamination des sols et des eaux souterraines est détectée en 1993.		
+1994				1994				Etude_diagnostic_approfondi	- Etude diagnostic approfondi réalisée par l'exploitant (1994), complétée en 1996.		
+1996				1996				Etude_diagnostic_approfondi	- Etude diagnostic approfondi réalisée par l'exploitant (1994), complétée en 1996.		

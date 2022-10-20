@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			Les_dernières_analyses	Les dernières analyses (avril 2011) ne font état d'aucune pollution constatée en hydrocarbures, HAP et BTEX (concentrations inférieures aux seuils de détections) et seules d'infimes traces de naphtalène ont été détectées.	'hydrocarbures', 'HAP', 'BTEX', 'naphtalène'	
+2000				2000				a_fait_l__objet	- la première zone, site de l'ancien stand d'essais diesel, a fait l'objet de travaux en 2000.		
+2000	11	28		2000	11	28		ont_été_entérinées	Ces nouvelles modalités ont été entérinées par arrêté préfectoral en date du 28 novembre 2000.		
+2000	06			2000	06			à_mettre_en_place	Ce réexamen a conduit l'industriel à mettre en place fin juin 2000 un nouveau puits de prélèvement, et à traiter toutes les eaux d'exhaure par stripping, avec filtration des gaz sur charbon actif.	'charbon actif'	
+1998	04	03		1998	04	03		a_conduit	Indépendamment de cette pollution, la nature des activités exercées sur le site a conduit la DRIRE à prescrire à l'industriel, par arrêté préfectoral du 3 avril 1998, une étude simplifiée des risques de pollution des sols.		'la DRIRE'
+				1998				a_accueilli	Le site implanté depuis 1879 sur les communes de BELFORT et de CRAVANCHE a accueilli jusqu'en 1998 l'ensemble des activités de construction électro-mécaniques et électriques de la SA GEC ALSTHOM.		'BELFORT', 'la SA GEC ALSTHOM'
+2004	01	08		2004	01	08		a_été_formalisée	Elle a été formalisée par l'arrêté préfectoral du 8 janvier 2004.		
+1986				1986				a_été_détectée	En 1986, une pollution aux solvants chlorés a été détectée dans le nappe alluviale de la rivière "La Savoureuse", sous-jacente au site.	'solvants chlorés'	
+2001				2001				ont_été_excavées	Ces terres ont été excavées début 2001,		

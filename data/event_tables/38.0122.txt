@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1956				1956				qui_a_été_remblayée	Une gravière  été implantée sur la partie Ouest du site qui a été remblayée en 1956.		
+1964				1964				ilot_G_été_occupé_par	En 1964, le site de l'ilot G été occupé par des bâtiments probablement à l'usage de la société SCI YODA.		'la société SCI YODA'
+2004	02	13		2004	02	13		une_surveillance_des_eaux_souterraines	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+2004	02	13		2004	02	13		fait_l__objet_d_	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		

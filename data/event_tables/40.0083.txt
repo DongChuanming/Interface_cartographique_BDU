@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	03	31		2009	03	31		Analyses	Analyses de l'eau de la nappe du 31/03/2009:		
+2007	12	05		2007	12	05		Analyses	Analyses de l'eau de la nappe du 05/12/2007:		
+2008	11	12		2008	11	12		Analyses	Analyses de l'eau de la nappe du 12/11/2008 :		
+2004	05	26		2004	05	26		Les_études_remises	Les études remises le 26 mai 2004 et 7 juillet 2005 (ESR) ont classé le site en 2 "à surveiller".		
+2011				2011				détection	- sur PZ3 : détection de propiconazole en 2010 et 2011 (0,0185 et 0.0143 µg/l)	'propiconazole'	
+2001				2001				Une_extension_d__activité	Une extension d'activité commencée en 2001 a donné lieu à délivrance de l'arrêté préfectoral d'autorisation du 26 juillet 2006.		
+2004				2004				détectée	Ces investigations complémentaires, comportant 3 nouveaux sondages, ont été réalisées le 23/01/2006 et n'ont révélé aucune trace de produit de traitement et n'ont pas déterminé l'origine de la pollution détectée en 2004.		
+2006	07	26		2006	07	26		Une_extension_d__activité	Une extension d'activité commencée en 2001 a donné lieu à délivrance de l'arrêté préfectoral d'autorisation du 26 juillet 2006.		
+2004				2004				Ces_investigations_complémentaires	Ces investigations complémentaires, comportant 3 nouveaux sondages, ont été réalisées le 23/01/2006 et n'ont révélé aucune trace de produit de traitement et n'ont pas déterminé l'origine de la pollution détectée en 2004.		
+2010				2010				détection	- sur PZ3 : détection de propiconazole en 2010 et 2011 (0,0185 et 0.0143 µg/l)	'propiconazole'	
+2004	11	23		2004	11	23		L__analyse	L'analyse des eaux souterraines du 23 novembre 2004 a mis en évidence la présence de Carbendazime et propiconazole à l'aval hydraulique.	'Carbendazime', 'propiconazole'	
+2012				2012				détection	- sur forage : détection de propiconazole en 2010, 2011 et 2012 en saison hautes eaux (0,539; 0.148; 0.0508 µg/l).	'propiconazole'	
+2011				2011				détection	- sur forage : détection de propiconazole en 2010, 2011 et 2012 en saison hautes eaux (0,539; 0.148; 0.0508 µg/l).	'propiconazole'	
+2011				2011				détection	- sur PZ4 : détection de propiconazole en 2011 (0.0126 et 0.022 µg/l),	'propiconazole'	'PZ4'
+2006	01	23		2006	01	23		Ces_investigations_complémentaires	Ces investigations complémentaires, comportant 3 nouveaux sondages, ont été réalisées le 23/01/2006 et n'ont révélé aucune trace de produit de traitement et n'ont pas déterminé l'origine de la pollution détectée en 2004.		
+2010				2010				détection	- sur forage : détection de propiconazole en 2010, 2011 et 2012 en saison hautes eaux (0,539; 0.148; 0.0508 µg/l).	'propiconazole'	
+2012	2011	2010		2012	2011	2010		Analyses	Analyses de l'eau de la nappe de 2010/2011/2012:		
+2007	03	28		2007	03	28		Analyses	Analyses de l'eau de la nappe du 28/03/2007:		
+1992	12	11		1992	12	11		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 11 décembre 1992.		
+2006	01	23		2006	01	23		Analyses	Analyses de l'eau de la nappe du 23/01/2006:		

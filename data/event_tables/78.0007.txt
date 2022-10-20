@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1978	10			1978	10			a_été_réhabilité	Le site a été réhabilité en septembre et octobre 1978.		
+1978				1978				de_travaux_de_terrassement	A l'occasion de travaux de terrassement effectués début 1978, les services techniques du Port Autonome de Paris ont découvert dans les fouilles des matériaux imprégnés d'hydrocarbures et de matières organiques.	'hydrocarbures', 'organiques'	'Port Autonome de Paris'
+								a_été_réhabilité	Le site a été réhabilité en septembre et octobre 1978.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	28		2000	07	28		L__étude_de_sols	L'étude de sols complète a été transmise à l'administration le 28 juillet 2000. l'ESR conduit à classer le site "à surveiller".		
+1999	02	12		1999	02	12		Une_étude_des_sols	Une étude des sols (diagnostic initial par étude Evaluation Simplifiée des Risques) à échéance de 10 mois a été demandée par arrêté préfectoral du 12 février 1999.		
+								Une_étude_des_sols	Une étude des sols (diagnostic initial par étude Evaluation Simplifiée des Risques) à échéance de 10 mois a été demandée par arrêté préfectoral du 12 février 1999.		
+								une_fonderie_d__aciers	La Société FONDERIE ET ACIERIE ELECTRIQUE DE FEURS puis la Société FEURS METAL exploitent depuis les années 1950 une fonderie d'aciers.		'La Société FONDERIE ET ACIERIE ELECTRIQUE DE FEURS', 'la Société FEURS METAL'
+								exploitent	La Société FONDERIE ET ACIERIE ELECTRIQUE DE FEURS puis la Société FEURS METAL exploitent depuis les années 1950 une fonderie d'aciers.		'La Société FONDERIE ET ACIERIE ELECTRIQUE DE FEURS', 'la Société FEURS METAL'

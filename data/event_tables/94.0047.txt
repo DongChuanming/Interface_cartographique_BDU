@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			a_été_arrêté	Ce traitement a été arrêté en avril 2004.		
+2000	06			2000	06			avait_mis_en_évidence	Un premier diagnostic des sols et de la nappe (implantation de 3 piézomètres), réalisé en juin 2000, avait mis en évidence une contamination de la nappe au droit du site par des hydrocarbures dissous (coupe pétrolière similaire à du fioul / gasoil fortement dégradé).	'hydrocarbures', 'fioul', 'gasoil'	
+2001				2001				Des_campagnes	Des campagnes de la qualité des eaux souterraines ont été effectuées en 2001 et 2002.		
+2002				2002				Des_prélèvements_de_sols	Des prélèvements de sols, réalisés en 2002, mettaient en évidence une zone "source sols" au niveau de l'une des cuves de fioul.	'de fioul'	
+2002				2002				Des_campagnes	Des campagnes de la qualité des eaux souterraines ont été effectuées en 2001 et 2002.		
+2017	10			2018	05			De_nouvelles_investigations	De nouvelles investigations ont été réalisées en dehors du site (sur le terrain mitoyen du 23 avenue de Rigny) entre octobre 2017 et mai 2018.		
+2002	03	08		2002	03	08		La_cessation_d__activité	La cessation d'activité a été déclarée le 08/03/2002.		
+2000	06			2000	06			Un_premier_diagnostic	Un premier diagnostic des sols et de la nappe (implantation de 3 piézomètres), réalisé en juin 2000, avait mis en évidence une contamination de la nappe au droit du site par des hydrocarbures dissous (coupe pétrolière similaire à du fioul / gasoil fortement dégradé).	'hydrocarbures', 'fioul', 'gasoil'	
+2017	02			2017	02			Des_investigations_complémentaires_ont_été_réalisées	Des investigations complémentaires ont été réalisées en février 2017. 3 sondages ont été faits en limite sud et sud-ouest du site.		

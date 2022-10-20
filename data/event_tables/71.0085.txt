@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								des_analyses	Dans le cadre d'une DAE , des analyses des eaux souterraines ont été réalisés en juin et novembre 2016.		
+2016	11			2016	11			des_analyses	Dans le cadre d'une DAE , des analyses des eaux souterraines ont été réalisés en juin et novembre 2016.		
+2014	09	17		2014	09	17		a_été_réalisé	Dans le cadre du souhait de SAB de déposer un nouveau dossier d’autorisation afin d’augmenter le volume de production ,un rapport de base IED a été réalisé le 17 septembre 2014.		'SAB'
+1991				1991				exploite	Depuis 1991, la société SAB exploite sur le site une fonderie , crée en 1973  sous l'appellation de SOCIETE NOUVELLE D'APPROVISIONNEMENTS INDUSTRIELS , sur une parcelle de terrain d’une superficie de 36 052 m2.		'la société SAB', "de SOCIETE NOUVELLE D' APPROVISIONNEMENTS INDUSTRIELS"
+								la_réalisation	Le programme d’investigations a consisté en la réalisation sur le site de 14 sondages entre 2 et 3 m de profondeur , le 19 aout 2014.		
+2014				2014				la_réalisation	Le programme d’investigations a consisté en la réalisation sur le site de 14 sondages entre 2 et 3 m de profondeur , le 19 aout 2014.		
+1973				1973				crée	Depuis 1991, la société SAB exploite sur le site une fonderie , crée en 1973  sous l'appellation de SOCIETE NOUVELLE D'APPROVISIONNEMENTS INDUSTRIELS , sur une parcelle de terrain d’une superficie de 36 052 m2.		'la société SAB', "de SOCIETE NOUVELLE D' APPROVISIONNEMENTS INDUSTRIELS"

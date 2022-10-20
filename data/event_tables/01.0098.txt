@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02			2009	02			a_été_exploitée	Une déchetterie soumise à déclaration a été exploitée sur le site à partir de février 2009 (récépissé du 06/02/2009), puis mise à l'arrêt la même année.		
+1977				2001				ancien_incinérateur	Cet ancien incinérateur d'ordures ménagères (four de type "PÉCHOUX") a  fonctionné de 1977 à 2001 sous couvert d'un AP d'autorisation du 31 décembre 1976.	'ordures ménagères'	'PÉCHOUX "'
+2010	10	25		2010	10	25		Le_diagnostic_environnemental	Le diagnostic environnemental du 25/10/2010 fait apparaître l'absence d'impact sur les sols dans un rayon de 10m à 100m, hormis une pollution aux HAP au droit du dépôt de mâchefers ainsi qu'un faible niveau de pollution essentiellement superficiel sur les éléments structurants du bâtiment.	'HAP', 'mâchefers'	
+1976	12	31		1976	12	31		ancien_incinérateur	Cet ancien incinérateur d'ordures ménagères (four de type "PÉCHOUX") a  fonctionné de 1977 à 2001 sous couvert d'un AP d'autorisation du 31 décembre 1976.	'ordures ménagères'	'PÉCHOUX "'

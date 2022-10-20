@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_définitivement_cessé	L'activité a définitivement cessé en 1996 et le Conseil Général de Seine Maritime s'est porté acquéreur du terrain.		'le Conseil Général de Seine Maritime'
+2003	02	17		2003	02	17		est_prescrite	La surveillance des eaux souterraines et la mise en sécurité du site (clôture, couverture étanche, élimination des cuves, élimination de déchets) est prescrite par arrêté préfectoral du 17 février 2003.		
+1936				1936				s__est_installée_sur	En 1936 la société Galvanisation Fécampoise s'est installée sur l'emplacement d'anciens marais asséchés à la fin du 19ème siècle.		'la société Galvanisation Fécampoise'
+1995				1995				ont_eu_lieu	Les incidents les plus significatifs ont eu lieu en 1970, 1995 et 1996.		
+1970				1970				ont_eu_lieu	Les incidents les plus significatifs ont eu lieu en 1970, 1995 et 1996.		
+								s__est_installée_sur	En 1936 la société Galvanisation Fécampoise s'est installée sur l'emplacement d'anciens marais asséchés à la fin du 19ème siècle.		'la société Galvanisation Fécampoise'
+1996				1996				ont_eu_lieu	Les incidents les plus significatifs ont eu lieu en 1970, 1995 et 1996.		
+2001				2001				évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en 2001.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				est_occupé	Il est occupé par Eurofarad depuis 1965.		'Eurofarad'
+2008	06	02		2008	06	02		a_pris	C'est sur cette base que le maire de Marmoutier a pris, en date du 2 juin 2008, un arrêté portant suspension provisoire de certains usages de l'eau de la nappe phréatique et des eaux superficielles du ruisseau la "Source".		
+2007				2007				D__autres_investigations_ont_été_conduites	D'autres investigations ont été conduites en 2007 afin de préciser cette extension et les restrictions d'usage associées.		
+				2005	09			un_traitement_par_excavation	Cette source a fait l'objet d'un traitement par excavation des terres entre juillet et septembre 2005.		
+2005	08			2005	08			a_été_mise_en_oeuvre	En août 2005, une barrière hydraulique a été mise en oeuvre en aval immédiat des bâtiments 1 et 2.		
+2011	06	06		2011	06	06		a_reconduit_par_arrêté	Le maire de la commune de Marmoutier a reconduit par arrêté pris le 6 juin 2011 la suspension provisoire de certains usages de l'eau de la nappe phréatique sur le territoire de la commune de Marmoutier.		
+2008	12			2008	12			fonctionne	Depuis le mois de décembre 2008, un nouveau puits de fixation de la pollution fonctionne en limite aval du site.		
+2006	05	31		2006	05	31		une_autorisation_préfectorale	La société Eurofarad, soumise initialement à simple déclaration, a fait l'objet d'une autorisation préfectorale d'extension et de régularisation le 31 mai 2006, pour des activités de travail macanique des métaux.		'La société Eurofarad'
+2005				2005				des_diagnostics	Un audit environnemental lors d'un rachat potentiel ayant mis en évidence 3 zones sensibles sur le site, a conduit la société Eurofarad à réaliser au cours de l'année 2005 des diagnostics de la qualité des sols et de la nappe.		'la société Eurofarad'

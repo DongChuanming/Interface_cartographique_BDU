@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10	10		2008	10	10		a_été_pris	Un arrêté préfectoral d'utilité publique d'usage des sols et d'accès aux piézomètres a été pris le 10 octobre 2008.		
+2001	11			2001	11			Les_travaux_de_dépollution	Les travaux de dépollution se sont déroulés pendant la période de mai 2000 à novembre 2001, pour un coût approximatif de 15 M€.		
+1948				1963				ont_été_fabriqués	Sur ce site ont été fabriqués de 1948 à 1963 des produits phytosanitaires qui ont entraîné une pollution des terres par des pesticides, chlorobenzènes, chlorophénols, hydrocarbures et de métaux lourds comme l'arsenic et le chrome sur certaines zones.	'produits phytosanitaires', 'pesticides', 'chlorobenzènes', 'chlorophénols', 'hydrocarbures', 'métaux lourds', 'arsenic', 'chrome'	
+								la_réhabilitation	Au droit du site, un suivi de la nappe a été réalisé mensuellement pendant la durée des travaux, puis semestriellement sur les 3 ans suivant la réhabilitation sur les paramètres HCH, phénols chlorés, pesticides, chrome et arsenic.	'HCH', 'phénols chlorés', 'pesticides', 'chrome', 'arsenic'	
+2000	05			2000	05			Les_travaux_de_dépollution	Les travaux de dépollution se sont déroulés pendant la période de mai 2000 à novembre 2001, pour un coût approximatif de 15 M€.		

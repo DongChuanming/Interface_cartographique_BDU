@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				L__expertise_hydrogéologique	L'expertise hydrogéologique a été menée en 2005.		
+1994	05	30		1994	05	30		L__extension	L'extension du CET a été autorisée par arrêté préfectoral du 30 mai 1994.		'CET'
+								Des_relevés_devront_être_effectués_une_fois	Des relevés devront être effectués une fois tous les deux ans pendant au moins 10 ans à compter de la cessation d'activité (2003).		
+2003				2003				compter_de_la_cessation_d__activité	Des relevés devront être effectués une fois tous les deux ans pendant au moins 10 ans à compter de la cessation d'activité (2003).		
+1997				1997				ont_cessé	Les enfouissement ont cessé en 1997.		
+								compter_de_la_cessation_d__activité	Des relevés devront être effectués une fois tous les deux ans pendant au moins 10 ans à compter de la cessation d'activité (2003).		
+2003	07	17		2003	07	17		la_cessation_d__activité	Dans le cadre de la cessation d'activité, pour laquelle l'exploitant a souscrit une déclaration le 17 juillet 2003, l'inspecteur des installations classées a souhaité recueillir l'avis d'un hydrogéologue agréé quant aux modalités du suivi piézométrique à prévoir.		
+2006	02	22		2006	02	22		a_été_signé	Un arrêté préfectoral a été signé le 22 février 2006.		
+2003	07	17		2003	07	17		a_souhaité_recueillir	Dans le cadre de la cessation d'activité, pour laquelle l'exploitant a souscrit une déclaration le 17 juillet 2003, l'inspecteur des installations classées a souhaité recueillir l'avis d'un hydrogéologue agréé quant aux modalités du suivi piézométrique à prévoir.		

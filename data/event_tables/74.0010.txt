@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12			2005	12			La_mise_en_place_de	La mise en place de la surveillance sur le puits le plus proche a été proposée par l'inspection des installations classées en décembre 2005.		
+1998	08	19		1998	08	19		étude_simplifiée_des_risques	Une étude simplifiée des risques a été demandée par arrêté préfectoral du 19 août 1998.		
+1974				1979				ont_été_réalisés	Les dépôts ont été réalisés entre 1974 et 1979.		
+2006				2006				est_assuré	Le suivi de la qualité des eaux souterraines du puits est assuré par la société TEFAL depuis 2006.		'la société TEFAL'
+2006	01	12		2006	01	12		a_été_pris	L'arrêté préfectoral prescrivant la surveillance de la qualité des eaux souterraines sur ce puits a été pris le 12 janvier 2006 en imposant une analyse  sur les chlorures, l'aluminium et le cadmium deux fois par an.	'sur les chlorures', "l' aluminium", 'le cadmium'	
+1999	07			1999	07			a_été_transmise	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques a été transmise à l'administration en juillet 1999.		

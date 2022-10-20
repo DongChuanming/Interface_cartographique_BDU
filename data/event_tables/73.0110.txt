@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	01	21		1998	01	21		accueille	Le site de la SNCF, situé Chemin de la Rotonde à Chambéry, accueille une station de stockage et de distribution de carburant, activités pour lesquelles l'exploitant a reçu un récépissé de déclaration daté  du 21 janvier 1998 (abrogé par le récépissé de déclaration du 7 octobre 2008).	'carburant'	'la SNCF'
+				2007	10	08		Des_investigations_de_terrains	Des investigations de terrains supplémentaires se sont déroulées du 3 au 8 octobre 2007.		
+2008	10	07		2008	10	07		accueille	Le site de la SNCF, situé Chemin de la Rotonde à Chambéry, accueille une station de stockage et de distribution de carburant, activités pour lesquelles l'exploitant a reçu un récépissé de déclaration daté  du 21 janvier 1998 (abrogé par le récépissé de déclaration du 7 octobre 2008).	'carburant'	'la SNCF'
+2002				2002				un_diagnostic_plus_complet	En 2002, un diagnostic plus complet de la qualité des sols a été réalisé par ATOS.		
+1995				1995				un_premier_diagnostic_de_pollution	Le site a fait l'objet d'un premier diagnostic de pollution, limité à l'aire de distribution, en 1995, afin d’évaluer l'importance de la pollution au droit de la zone.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	02		2011	05	02		ont_été_prises	Par ailleurs, en 2011, dans le cadre de la vente de l’entreprise au groupe SAFRAN, des servitudes d’utilité publiques ont été prises par arrêté préfectoral du 02 mai 2011.		'groupe SAFRAN'
+1920				1940				orienta	De 1920 à 1940, sans pour autant interrompre totalement la fabrication de munitions classiques, l’établissement orienta une grande partie de son activité vers de nouvelles technologies liées à l’hypothèse d’un conflit où seraient notamment mis en œuvre des procédés chimiques.		
+1947				1947				créée	En 1947, est créée au Bouchet, la première usine française d’extraction de l’uranium, à partir de minerais sur des terrains mis à disposition du CEA.		
+2016				2016				puis_AIRBUS_SAFRAN_LAUNCHER	Ce site est devenu l’actuel HERAKLES en 2012, puis AIRBUS SAFRAN LAUNCHER en 2016		'HERAKLES', 'AIRBUS SAFRAN LAUNCHER'
+2012				2012				est_devenu	Ce site est devenu l’actuel HERAKLES en 2012, puis AIRBUS SAFRAN LAUNCHER en 2016		'HERAKLES', 'AIRBUS SAFRAN LAUNCHER'
+2000	12	26		2000	12	26		Le_diagnostic_initial	• Le diagnostic initial et évaluation simplifiée des risques du 26 décembre 2000.		
+1820				1820				implantée	La poudrerie d’Essonne, implantée en 1820 sur le site du Bouchet, a fabriqué des poudres noires jusqu’à la première Guerre Mondiale.	'poudres noires'	
+2000	12	26		2000	12	26		évaluation_simplifiée_des_risques	• Le diagnostic initial et évaluation simplifiée des risques du 26 décembre 2000.		
+2011				2011				ont_été_prises	Par ailleurs, en 2011, dans le cadre de la vente de l’entreprise au groupe SAFRAN, des servitudes d’utilité publiques ont été prises par arrêté préfectoral du 02 mai 2011.		'groupe SAFRAN'

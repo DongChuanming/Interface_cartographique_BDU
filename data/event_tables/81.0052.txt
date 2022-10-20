@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	23		2010	03	23		a_informé	Par courrier du 23 mars 2010, la mairie de Graulhet a informé la DREAL Midi-Pyrénées de la démolition des bâtiments et de la méthodologie de gestion adaptée des déchets issus de ces travaux.		'la DREAL'
+2009				2009				étaient_utilisés	En 2009, "au niveau de l’ancienne mégisserie de l'Ilotte, la partie haute de la cour et des locaux étaient utilisés par plusieurs associations.		
+2010				2010				avait	En 2010, la commune de Graulhet avait pour projet de créer un espace vert.		
+2010	03	23		2010	03	23		Par_courrier	Par courrier du 23 mars 2010, la mairie de Graulhet a informé la DREAL Midi-Pyrénées de la démolition des bâtiments et de la méthodologie de gestion adaptée des déchets issus de ces travaux.		'la DREAL'
+2002	03	21		2002	03	21		ont_été_rachetées	Le 21 mars 2002, les parcelles ont été rachetées par la commune de Graulhet.		
+1988	05	01		1992	02	28		a_été_en_activité	Cette mégisserie a été en activité du 01 mai 1988 au 28 février 1992.		
+2009	07	31		2009	07	31		Un_diagnostic_complémentaire	Un diagnostic complémentaire et un plan de gestion ont été réalisés par le  BURGEAP, le 31 Juillet 2009 (rapport n° de rapport : RTo 286 - (81_10131_ETU2_2009_MAIRIE)).		'le   BURGEAP'
+2007	12	06		2007	12	06		a_déposé	Le 06 décembre 2007, la commune de Graulhet a déposé un permis de démolir pour les anciens bâtiments situés sur la parcelle n°488, de la section cadastrale AO.		
+2000	07	19		2000	07	19		à_été_établit	Le 19 juillet 2000, un procès-verbal de récolement à été établit par la DREAL Midi-Pyrénées, attestant à l'époque, de l'absence de déchets ou produits susceptibles de porter atteinte à l'environnement.		'la DREAL Midi'

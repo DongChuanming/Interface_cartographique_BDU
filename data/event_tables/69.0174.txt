@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03	05		2004	03	05		L__EDR_a_été_remise	L'EDR a été remise à l'inspection le 5 mars 2004.		
+2004	08	31		2004	08	31		a_été_adressé	Le rapport final de cette tierce expertise a été adressé à l'administration le 31 août 2004 par la Ville de Lyon.		
+2004	11	22		2004	11	22		a_été_pris	En complément, un arrêté préfectoral a été pris le 22 novembre 2004 afin qu’un suivi régulier de la concentration en gaz du sol soit effectué sur le site, ainsi qu'un suivi des COHV dans le réseau de distribution d'eau potable.	'COHV'	
+1912	05			1912	05			est_autorisée_à_établir	En mai 1912, VULLIOD ANCEL est autorisée à établir une usine de teinturerie et d'apprêt dans le cadre d'un agrandissement des établissements existants.		'VULLIOD ANCEL'
+2016	12	02		2016	12	02		l__arrêté	Compte-tenu des résultats satisfaisants des campagnes de mesure, le préfet du Rhône a finalement abrogé le 2 décembre 2016 l'arrêté du 22 novembre 2004 :		'le préfet du Rhône'
+1998				1998				un_diagnostic_de_pollution	L’exploitant a fait réaliser en 1998, par un cabinet spécialisé, un diagnostic de pollution du sol qui avait montré l’absence de pollution significative du sol et des eaux souterraines par les activités exercées.		
+2004	08			2004	08			de_nouveaux_prélèvements_de_gaz_du_sol_réalisés	Ils consistent en la mise à jour de l’EDR suite à de nouveaux prélèvements de gaz du sol réalisés en juin et août 2004.		
+1998				1998				ont_cessé	Les activités industrielles ont cessé en 1998 et le site a été réaménagé pour partie en logement et pour partie par le groupe scolaire Montbrillant.		'Montbrillant'
+								de_nouveaux_prélèvements_de_gaz_du_sol_réalisés	Ils consistent en la mise à jour de l’EDR suite à de nouveaux prélèvements de gaz du sol réalisés en juin et août 2004.		
+2004	08	30		2004	08	30		ont_été_transmis	Ces compléments d’étude ont été transmis le 30 août 2004 par la Ville de Lyon.		
+2004	11	22		2004	11	22		l__arrêté	Compte-tenu des résultats satisfaisants des campagnes de mesure, le préfet du Rhône a finalement abrogé le 2 décembre 2016 l'arrêté du 22 novembre 2004 :		'le préfet du Rhône'

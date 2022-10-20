@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_implanté	Il est implanté sur ce site depuis les années 1950.		
+1990				1990				La_pollution	La pollution, objet de cette fiche, a été occasionnée par un déversement accidentel de fuel domestique, en 1990, dans la cuvette de rétention en travaux (et à ce moment non étanche) du dépôt d'hydrocarbures.	'fuel domestique', 'hydrocarbures'	
+2015	10	05		2015	10	05		Les_analyses_effectuées	Les analyses effectuées le 5 octobre 2015 font état des résultats suivants :		
+1990				1990				un_déversement_accidentel	La pollution, objet de cette fiche, a été occasionnée par un déversement accidentel de fuel domestique, en 1990, dans la cuvette de rétention en travaux (et à ce moment non étanche) du dépôt d'hydrocarbures.	'fuel domestique', 'hydrocarbures'	
+								Cette_étude_a_été_transmise	Cette étude a été transmise à l'administration le 24/09/90.		
+2007	08	16		2007	08	16		Les_analyses_effectuées	Les analyses effectuées le 16 août 2007 par le laboratoire SERPOL montrent l'absence d'impact par des hydrocarbures totaux et des BTEX dissous sur les piézomètres contrôlés.	'hydrocarbures totaux', 'des BTEX'	'laboratoire SERPOL'
+								a_été_transmise	Cette ESR a été transmise à l'administration le 13/11/98 et conclut par un classement en "site à surveiller".		

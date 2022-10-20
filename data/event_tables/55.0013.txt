@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				a_été_fermée	La centrale de décapage HCl qui produisait les boues a été fermée en 1993.		
+1995				1995				est_effective	La surveillance des eaux souterraines est effective depuis 1995 au rythme de deux analyses par an portant sur les paramètres suivants:Cl, SO4, NO3, DCO, COT, HCt, Fe et Mn.	'Cl', 'SO4 , NO3 , DCO', 'COT', 'HCt', 'Fe', 'Mn'	
+1960				1960				créée	A l'ouest à l'immédiat des installations industrielles, se trouve une ballastière créée en 1960 et utilisée depuis cette date comme exutoire pour les rejets d'eaux industrielles (eaux de refroidissement du traitement thermique, huiles, solvants chlorés résiduaires du traitement des boues, eaux vannes,...) des installations SMR et ALLEVARD.	'huiles', 'solvants chlorés résiduaires'	'installations SMR', 'ALLEVARD'

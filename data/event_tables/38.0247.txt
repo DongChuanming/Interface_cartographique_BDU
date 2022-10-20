@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				exploitait	La société LA MURE BIANCO exploitait un dépôt pétrolier depuis 1999.		'La société LA MURE BIANCO'
+2008	03	03		2008	03	03		a_été_établi	Le dossier de suivi d'extraction de cuves et des terres polluées a été établi le 03/03/2008.		
+2007	12	18		2007	12	18		Les_travaux_d__extractions	Les travaux d'extractions des deux cuves et des terres polluées ont été réalisés le 18/12/2007.		
+2007	11	12		2007	11	12		Le_diagnostic_environnemental	Le diagnostic environnemental a été établi par SITA Remédiation le 12/11/2007.		'SITA Remédiation'
+2009	11	04		2009	11	04		Une_analyse	Une analyse des risques résiduels a été établie le 04/11/2009.		

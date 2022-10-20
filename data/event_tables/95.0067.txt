@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07			2011	07			des_campagnes_de	L'analyse de la nappe réalisée en décembre 2012 montre qu'aucun polluant n'a été détecté au dessus des seuils du laboratoire (comme lors des campagnes de novembre 2010 et juillet 2011).		
+2005	08	26		2005	08	26		l__arrêt_de_son_activité	L'exploitant a informé la Préfecture du Val d'Oise de l'arrêt de son activité le 26 août 2005 sur la commune de PERSAN.		'la Préfecture du Val'
+2007	04	23		2007	04	23		a_été_pris	Un arrêté préfectoral complémentaire a été pris en date du 23 avril 2007 et demande :		
+2005				2005				10_sondages_de_sols	10 sondages de sols ont été réalisés en 2005 et ont montré :		
+1931				1931				a_été_créée	La Société a été créée en 1931 et avait pour activité le recyclage de produits textiles pour valorisation dans l'industrie automobile.		'La'
+2010	11			2010	11			des_campagnes_de	L'analyse de la nappe réalisée en décembre 2012 montre qu'aucun polluant n'a été détecté au dessus des seuils du laboratoire (comme lors des campagnes de novembre 2010 et juillet 2011).		
+2006				2006				Une_étude_simplifiée_des_risques	Une étude simplifiée des risques de 2006 a classé le site en classe 2 (site à surveiller par la mise en place d'un dispositif de surveillance).		

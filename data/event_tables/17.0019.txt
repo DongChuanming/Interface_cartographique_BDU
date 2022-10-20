@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1865				1961				exploitée	Ancienne usine fabriquant du gaz à partir de la distillation de la houille, exploitée de 1865 à 1961, située en bordure sud de la ville de Saintes (17).		
+1999	04			1999	04			ont_été_neutralisées	Les deux cuves à solvant naphta ont été neutralisées en avril 1999 et 8 tonnes de solvants éliminées.	'solvant naphta', 'solvants'	
+1998				1998				un_diagnostic_initial	Conformément aux engagements du protocole, et en raison d'un projet de cession, un diagnostic initial a été réalisé en 1998, suivi d'un diagnostic approfondi en cours à partir de 1999.		
+2015	04			2015	04			a_demandé	En avril 2015, au regard des rapports de suivi environnemental des années précédentes, GDF a demandé l'autorisation d'interrompre le suivi des eaux superficielles de la Charente.		'GDF'
+								un_diagnostic	Par suite, et dans le cadre d'un projet d'aménagement de ce site, GDF a transmis, en mars et en juin 2005, un diagnostic des sols et un schéma de réhabilitation.		'GDF'
+1999	04			1999	04			réaliser_un_diagnostic_initial	L'engagement national de GDF sur les sites de classe 2 était de réaliser un diagnostic initial dans un délai de 3 ans (avant fin avril 1999).		'GDF'
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité, pour lesquelles les engagements de GDF ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et GDF signé le 25 avril 1996.		'GDF', 'le Ministère de l’ Environnement', 'GDF'
+2001				2001				la_neutralisation	GDF a réalisé en 2001 la neutralisation des ouvrages restants.		'GDF'
+								réaliser_un_diagnostic_initial	L'engagement national de GDF sur les sites de classe 2 était de réaliser un diagnostic initial dans un délai de 3 ans (avant fin avril 1999).		'GDF'
+2004	07			2004	07			a_demandé	En juillet 2004, suite à une dégradation de la qualité des eaux souterraines et au constat de certaines contaminations ponctuelles de la Charente, l'inspection des installations classées a demandé à GDF de rechercher les explications de cette mobilisation de pollution, afin de définir les mesures opportunes, le cas échéant, pour limiter les impacts.		'GDF'
+2005	06			2005	06			un_diagnostic	Par suite, et dans le cadre d'un projet d'aménagement de ce site, GDF a transmis, en mars et en juin 2005, un diagnostic des sols et un schéma de réhabilitation.		'GDF'

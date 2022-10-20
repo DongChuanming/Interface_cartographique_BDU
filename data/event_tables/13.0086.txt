@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2010	04	30		est_autorisé	Il est autorisé notamment par les AP du 26/03/1996, 17/07/2006, 23/11/2009 et du 30/04/2010.		
+2001				2001				a_été_réalisée	L'ESR prescrite par AP du 16/06/99, a été réalisée en 2001 = site en classe 2.		"L' ESR"
+2009	11	23		2009	11	23		est_autorisé	Il est autorisé notamment par les AP du 26/03/1996, 17/07/2006, 23/11/2009 et du 30/04/2010.		

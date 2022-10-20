@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986	03	31		1986	03	31		est_fermé	- le dépôt est fermé depuis le 31 mars 1986 (arrêté municipal du 28 mars 1986)		
+								un_diagnostic	Il était également demandé à l'exploitant de transmettre sous 3 mois un diagnostic visant à définir les mesures à prendre pour assurer la remise en état du site, diagnostic réalisé sur la base du guide méthodologique de l'ADEME.		
+2009	11			2009	11			la_visite_d__inspection	Suite à la visite d'inspection de novembre 2009 où des apports de déchets ont été constatés, un arrêté de mise en demeure a été pris à l'encontre de la Mairie de Puyoô (n° 09/IC/260 du 1er décembre 2009) fixant les mesures d'urgence suivantes :	'apports de déchets'	'la Mairie'
+1986	03	28		1986	03	28		est_fermé	- le dépôt est fermé depuis le 31 mars 1986 (arrêté municipal du 28 mars 1986)		
+2009				2009				Des_apports_étaient_encore_réalisés	Des apports étaient encore réalisés en 2009.		

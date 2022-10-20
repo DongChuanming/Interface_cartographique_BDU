@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	21		2007	08	21		a_signé	Aussi, le 21/08/2007 le préfet de la Somme a signé un arrêté de consignation (six mille euros) correspondant au coût d'un dossier de cessation d'activité.		'le préfet de la Somme'
+2003				2003				En_début_d_	En début d'année 2003, la société Parmentier Robinetterie a été fusionnée avec la société Quenot pour constituer une nouvelle entreprise, Axe Industrie.		'la société Parmentier Robinetterie', 'la société Quenot'
+2003	07	11		2003	07	11		pris	Un arrêté complémentaire, pris le 11 juillet 2003, impose la surveillance des eaux souterraines.		
+2002	01	31		2002	01	31		ont_été_déposé	Les dossiers sollicités par les arrêtés des 31 janvier 2002 et 28 mai 2003, ont été déposé le 11 juillet 2003.		
+2003				2003				a_été_fusionnée	En début d'année 2003, la société Parmentier Robinetterie a été fusionnée avec la société Quenot pour constituer une nouvelle entreprise, Axe Industrie.		'la société Parmentier Robinetterie', 'la société Quenot'
+2001				2001				de_la_visite_d__inspection	Lors de la visite d'inspection en 2001, nous avons constaté que les conditions de stockage, tant à l'interieur qu'à l'extérieur des locaux, des produits liquides tels que les hydrocarbures, n'étaient pas satisfaisantes et pouvaient être à l'origine d'une pollution des eaux et des sols.	'produits liquides', 'les hydrocarbures'	
+2003	07	11		2003	07	11		ont_été_déposé	Les dossiers sollicités par les arrêtés des 31 janvier 2002 et 28 mai 2003, ont été déposé le 11 juillet 2003.		
+2003	05	28		2003	05	28		ont_été_déposé	Les dossiers sollicités par les arrêtés des 31 janvier 2002 et 28 mai 2003, ont été déposé le 11 juillet 2003.		

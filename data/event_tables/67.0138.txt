@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_été_détecté_dans	En 2003, du chlorure de vinyle a été détecté dans 2 des 5 puits d'Alimentation en Eau Potable, situés à Bischwiller, exploités pour le Syndicat Intercommunal des Eaux de la Basse Moder.	'chlorure de vinyle'	'le Syndicat Intercommunal des Eaux de la Basse Moder'
+1950				1950				acceuille	Le site acceuille ce type d'activités depuis 1950.		
+2005	07			2005	07			effectués	Un diagnostic initial et une évaluation simplifiée des risques de pollution effectués en juillet 2005 sur le site, n'ont pas permis de mettre en évidence une source de pollution par des chlorés mais ont révélé une pollution des sols et des eaux souterraines par des hydrocarbures.	'des chlorés', 'hydrocarbures'	
+2007	09			2007	09			Les_premières_analyses	Les premières analyses effectuées en septembre 2007 n'ont pas permis de mettre en évidence la présence d'une source de pollution.		

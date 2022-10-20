@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07			2001	07			a_fait_réaliser	En application de l'arrêté préfectoral du 20/09/00 réglementant son établissement, la société BROGSER a fait réaliser en juillet 2001 par le cabinet C.		'la société BROGSER'
+2000				2000				en_fin_d_	Par ailleurs, conformément à l'arrêté préfectoral du 20/09/00, un curage des anciennes lagunes de décantation des eaux résiduaires a été réalisé en fin d'année 2000 préalablement au diagnostic pré-cité.		

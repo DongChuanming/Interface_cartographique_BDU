@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10			2010	10			sont_réalisées	A cette fin, des analyses sur des piézomètres supplémentaires, à l'amont de la plateforme, sont réalisées depuis octobre 2010.		
+1999	09			1999	09			ont_été_remises	Les études ont été remises en septembre 1999 et janvier 2000.		
+2000	01			2000	01			ont_été_remises	Les études ont été remises en septembre 1999 et janvier 2000.		
+2009				2009				A	A partir de 2009, afin de déterminer si cette pollution pouvait être liée à ses installations, Chimex a  mandaté différents experts.		'Chimex'
+1996				1996				révèlent	A la fin de l'année 1996, les analyses de l'eau de nappe réalisées périodiquement par la société CHIMEX révèlent la présence de monochlorobenzène.	'monochlorobenzène'	'la société CHIMEX'
+1992				1992				les_déversements_accidentels	- l'absence de source de contamination en MCB et toluène dans les sols au droit des zones affectés par les déversements accidentels de 1992 et 1996 (voir 4 - ACCIDENTS).	'MCB', 'toluène'	
+2009				2009				a___mandaté	A partir de 2009, afin de déterminer si cette pollution pouvait être liée à ses installations, Chimex a  mandaté différents experts.		'Chimex'
+2001				2001				a_été_mise_en_évidence	Depuis 2001, une pollution par du fer et de l'arsenic a été mise en évidence :	'fer', 'arsenic'	
+1996				1996				les_déversements_accidentels	- l'absence de source de contamination en MCB et toluène dans les sols au droit des zones affectés par les déversements accidentels de 1992 et 1996 (voir 4 - ACCIDENTS).	'MCB', 'toluène'	
+2013	02	14		2013	02	14		le	Chimex a remis son étude le 14 février 2013.		'Chimex'
+1997				1997				du_diagnostic	A l'issue du diagnostic de 1997, la société CHIMEX entreprend d'importants travaux préventifs de réfection et d'aménagement des installations pour un montant de 30 millions de francs :		'la société CHIMEX'
+1992				1992				une_fuite	- en 1992, une fuite de Toluène dans la zone de dépotage de la zone de stockage UP2,	'Toluène'	
+2004	06	08		2004	06	08		est_modifié	L'arrêté préfectoral du 5 juin 2001 qui prescrit une surveillance semestrielle piézomètrique à CHIMEX est modifié par l'arrêté préfectoral du 8 juin 2004.		'CHIMEX'
+1997				1997				entreprend_d__importants_travaux_préventifs	A l'issue du diagnostic de 1997, la société CHIMEX entreprend d'importants travaux préventifs de réfection et d'aménagement des installations pour un montant de 30 millions de francs :		'la société CHIMEX'
+2013	02	14		2013	02	14		a_remis	Chimex a remis son étude le 14 février 2013.		'Chimex'
+1977				1977				construite	L'usine CHIMEX, construite en 1977 sur la plate-forme SOBEGI, exploite deux unités de production.		'CHIMEX', 'SOBEGI'
+1997	01	16		1997	01	16		Une_étude_des_sols	Une étude des sols et de la nappe est réalisée dans le cadre de l'arrêté préfectoral du 16 janvier 1997.		
+1977	04	08		1977	04	08		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 8 avril 1977.		

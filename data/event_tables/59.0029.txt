@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2005	09			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés entre novembre 2004 et septembre 2005.		
+2006				2006				La_plantation_des_arbustes	La plantation des arbustes et l'engazonnement ont été réalisés au printemps 2006.		
+2014				2014				ont_été_instaurées	Des servitudes d'utilité publique ont été instaurées en 2014.		
+2012	04			2012	04			la_transmission	Suite à la transmission d'un bilan quadriennal en avril 2012, l'inspection des installations classées a proposé l'arrêt de la surveillance des eaux souterraine.		
+2003	12	18		2003	12	18		portés_à_la_connaissance	Résultats confirmés lors d'un dernier diagnostic sur site (analyses sur prélèvements effectués le 29 septembre 2003 et portés à la connaissance de l'inspection le 18 décembre 2003).		
+								démarré	- Traitement biologique démarré en juillet 96		
+2011	05			2011	05			Une_visite_de_récolement	Une visite de récolement de ces travaux a eu lieu en mai 2011.		
+2012	04			2012	04			a_proposé	Suite à la transmission d'un bilan quadriennal en avril 2012, l'inspection des installations classées a proposé l'arrêt de la surveillance des eaux souterraine.		
+2004	12	31		2004	12	31		ont_été_évacuées	A la date du 31/12/2004 : 8100 t de terres ont été évacuées pour traitement à ROTTERDAM (désorption thermique).		'ROTTERDAM'
+2003	09	29		2003	09	29		effectués	Résultats confirmés lors d'un dernier diagnostic sur site (analyses sur prélèvements effectués le 29 septembre 2003 et portés à la connaissance de l'inspection le 18 décembre 2003).		

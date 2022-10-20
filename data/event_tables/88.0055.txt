@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				L__activité	L'activité de cette société a cessé au début de l'année 2007.		
+2008	05	22		2008	05	22		les_analyses	A la date du 22 mai 2008, les analyses ont été réalisées : la surface touchée par la pollution est estimée à 20 à 30 m2.		
+								Les_visites_d__inspection	Les visites d’inspection du 26 février et du 20 mars 2019 ont mis en évidence un manquement aux dispositions de l’article R. 512‑39‑1 du code de l’environnement (Mise à l'arrêt définitif et remise en état).		
+2007	10	04		2007	10	04		de_la_visite	Lors de la visite de l'inspecteur des installations classées du 4 octobre 2007, la surface contaminée a été estimée à 80m².		
+2019				2019				Les_visites_d__inspection	Les visites d’inspection du 26 février et du 20 mars 2019 ont mis en évidence un manquement aux dispositions de l’article R. 512‑39‑1 du code de l’environnement (Mise à l'arrêt définitif et remise en état).		
+2007	10	03		2007	10	03		est_prévenue	Le 3 octobre 2007, l'inspection est prévenue par le Service Interministériel de Défense et de Protection Civile des Vosges (SIDPC) qu'un incident est survenu sur le site.		'le Service Interministériel de Défense et de Protection Civile des Vosges', 'SIDPC'
+2007	10	04		2007	10	04		a_été_estimée	Lors de la visite de l'inspecteur des installations classées du 4 octobre 2007, la surface contaminée a été estimée à 80m².		

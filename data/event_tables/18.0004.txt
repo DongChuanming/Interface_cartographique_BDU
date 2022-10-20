@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	03			2018	03			avaient_pas_été_identifiées	Ces substances n’avaient pas été identifiées lors de la campagne de mars 2018.		
+2003				2003				a_éliminé	L'exploitant a éliminé en 2003 les dernières cuves et tuyauteries enterrées mises en cause.		
+2012	12	14		2012	12	14		de_la_visite	Lors de la visite du 14/12/2012, l'inspection des installations classés a constaté l'élimination des transformateurs électriques au PCB/PCT.	'PCB / PCT'	
+1995	11			1995	11			un_forage	En Novembre 1995, un forage a été réalisé, avec pompage en continu, entre le point de fuite et le point d'écoulement, à une profondeur de 12 mètres.		
+1995				1995				des_relargages_ponctuels	Suite à l'accident de 1995, des relargages ponctuels d'hydrocarbures dans le canal sont apparus entre 1995 et 1999 ainsi qu'en 2003.	'hydrocarbures'	
+1996				2004				ont_été_détectés	Dans les premières semaines qui ont suivi l'incident initial, il a été relevé une teneur anormale en hydrocarbures dans les eaux du Cher et du canal de fuite. 2 dépassements ponctuels ont été détectés entre 1996 et 2004.	'hydrocarbures'	
+2017	03			2017	03			un_dossier_de_cessation_partielle_d__activité	L'exploitant a transmis un dossier de cessation partielle d’activité en mars 2017.		
+2006				2006				ont_engagé_un_diagnostic_de_pollution_des_sols	Suite à l'arrêt de l'activité de fonderie sur le site fin 2006, les Usines de Rosières ont engagé un diagnostic de pollution des sols.		
+2018	10	16		2018	10	16		la_campagne_de_prélèvement	Les résultats de la campagne de prélèvement du 16 octobre 2018 mettent en évidence la présence de composés organo-halogénés volatils dans des teneurs inférieurs aux valeurs de référence, excepté pour le chlorure de vinyle dans le piézomètre latéral Pz4.	'composés organo - halogénés volatils', 'le chlorure de vinyle'	
+2007				2007				se_sont_arrêtés	Le suivi de la qualité des eaux du Cher et celui du canal se sont arrêtés en 2007.		
+1995	10			1995	10			se_sont_produits	En Octobre 1995, suite au percement par corrosion de deux canalisations de transport de fuel enterrées, des écoulements se sont produits dans le sol sous un bâtiment de production.	'fuel'	
+2018	03			2018	03			la_campagne	Ces substances n’avaient pas été identifiées lors de la campagne de mars 2018.		
+2001	07			2001	07			un_rapport	Suite à ces relargages, l'étude historique et la vulnérabilité du site ont fait l'objet d'un rapport en juillet 2001.		
+1996				1996				a_été_effectué	Un pompage a été effectué en 1996.		
+1995				1995				l__accident	Suite à l'accident de 1995, des relargages ponctuels d'hydrocarbures dans le canal sont apparus entre 1995 et 1999 ainsi qu'en 2003.	'hydrocarbures'	
+1995				1999				des_relargages_ponctuels	Suite à l'accident de 1995, des relargages ponctuels d'hydrocarbures dans le canal sont apparus entre 1995 et 1999 ainsi qu'en 2003.	'hydrocarbures'	
+2003				2003				ainsi_qu_	Suite à l'accident de 1995, des relargages ponctuels d'hydrocarbures dans le canal sont apparus entre 1995 et 1999 ainsi qu'en 2003.	'hydrocarbures'	
+2018	10			2018	10			en_forte_baisse	À l’inverse les hydrocarbures totaux présents en mars dans le piézomètre aval Pz1 sont en forte baisse en octobre 2018 et avec une concentration inférieure à la valeur de référence.	'hydrocarbures totaux'	

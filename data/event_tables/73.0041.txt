@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_arrêté_ses_activités	Celui ci a arrêté ses activités fin 1999.		
+2006	09	13		2006	09	13		s__était_engagé_par_courrier	En réponse, l’exploitant s’était engagé par courrier du 13 septembre 2006 à remettre cette étude en début d’année 2007 mais cette évaluation n’a pas été réalisée pour cette date.		
+2010	04	09		2010	04	09		a_été_pris	Un arrêté municipal en ce sens a été pris le 9/04/2010).		
+2011	10			2011	10			a_rappelé	L'inspection a rappelé à l'exploitant en octobre 2011 la nécessité de réaliser de respecter également les prescriptions de l'arrêté du 4/02/2002 (COV, les métaux, les HAP et les hydrocarbures halogénés).	'COV', 'les métaux', 'les HAP', 'hydrocarbures halogénés'	
+								a_été_transmis	Le diagnostic initial a été transmis à l'administration le 23/09/99.		
+2006	07	13		2006	07	13		une_évaluation_détaillée_des_risques	Compte tenu de la nouvelle zone de pêche dans l’Arc en aval du site, une évaluation détaillée des risques avaient été demandée par courrier du 13 juillet 2006 à l’exploitant.		
+2002	02	04		2002	02	04		a_été_signé	Un arrêté préfectoral relatif à la surveillance trimestrielles des eaux souterraines a été signé le 4 février 2002.		
+2009	05			2009	05			a_transmis	L'exploitant a transmis un plan de gestion en mai 2009 dont les principales conclusions sont les suivantes :		
+2010	02			2010	02			à_la_campagne	Des mesures complètes sur les 3 piézomètres du site ont été réalisées jusqu'à la campagne de février 2010.		
+2012	01			2012	01			la_campagne	Puis, les mesures trimestrielles n'ont porté que sur le nickel jusqu'à la campagne de janvier 2012 et sur 5 piézomètres (dont 2 hors site) et sur l'Arc et ses sédiments.		
+2013	02			2013	02			la_mise_en_redressement_judiciaire	A noter que la mise en redressement judiciaire a été prononcé en février 2013 par le Tribunal de commerce après le dépôt de bilan présenté parla société Métaltemple.		'parla société Métaltemple'
+2012	07			2012	07			la_campagne_de	Les résultats de la campagne de juillet 2012 n'ont pas été communiqués et il n'y pas eu d'autres mesures depuis cette date.		
+2006	04	11		2006	04	11		évaluation_simplifiée_des_risques	Cette pollution et son impact éventuel ont été confirmés par la mise à jour de l’évaluation simplifiée des risques réalisée le 11 avril 2006 par la société BURGEAP (classement en 1 pour les cibles : zone de pêche et captage à usage industriel sur le site).		'la société BURGEAP'
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 09/11/98.		
+2010	02			2010	02			Des_mesures_complètes	Des mesures complètes sur les 3 piézomètres du site ont été réalisées jusqu'à la campagne de février 2010.		
+2009	10			2009	10			une_inspection	A la suite d'une inspection en octobre 2009, l'inspection a proposé d'inviter le maire de la commune à interdire la foration et l'usage d'eaux souterraines sur un secteur à l'aval du site (face ouest du site).		
+2007				2007				remettre_cette_étude	En réponse, l’exploitant s’était engagé par courrier du 13 septembre 2006 à remettre cette étude en début d’année 2007 mais cette évaluation n’a pas été réalisée pour cette date.		

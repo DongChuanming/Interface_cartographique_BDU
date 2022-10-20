@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	10	17		2016	10	17		a_été_émis	Un arrêté de suspension a été émis le 17/10/2016.		
+2011	06	07		2011	06	07		le_diagnostic_environnemental	Dans le cadre de la cessation d'activité de la station service, ARCADIS a réalisé le diagnostic environnemental du site (rapport du 07/06/2011).		'ARCADIS'
+2014	05			2014	05			intervient_sur_site	Le consultant ARCADIS intervient sur site à partir de la fin semaine 20, jusqu'à fin mai 2014 pour effectuer des investigations complémentaires dans l’objectif de définir la qualité des eaux et des gaz du sol après excavation des sols impactés et au regard des résiduels.		'Le consultant ARCADIS'
+2015	01	22		2015	01	22		des_travaux_dressé	Le procès-verbal de récolement des travaux dressé le 22/01/2015 constate que les travaux de réhabilitation des terrains de l’ancienne station-service ESSO SERVICE BRIENNE 2 exploitée par la société ESSO SAF, sis 114 quai de Paludate, à Bordeaux, ont été réalisés, sans toutefois, respecter totalement les prescriptions de l’arrêté préfectoral du 13/11/2013.		'service ESSO SERVICE BRIENNE', 'la société ESSO SAF'
+1993	06	29		1993	06	29		ont_fait_l__objet_d_	Ces installations ont fait l'objet d'un récépissé de déclaration sous les rubriques 253 et 261 bis le 29/06/1993.		
+2013	09	23		2014	03	19		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés du 23 septembre 2013 au 19 mars 2014.		
+								intervient_sur_site	Le consultant ARCADIS intervient sur site à partir de la fin semaine 20, jusqu'à fin mai 2014 pour effectuer des investigations complémentaires dans l’objectif de définir la qualité des eaux et des gaz du sol après excavation des sols impactés et au regard des résiduels.		'Le consultant ARCADIS'
+2004	07	06		2004	07	06		un_second_récépissé	Suite au changement de nomenclature, l'établissement fait l'objet d'un second récépissé de déclaration pour les rubriques 1430-B et 1434-1b le 06/07/2004.		
+2012	12	21		2012	12	21		la_cessation_d__activité	Le 21/12/2012, l'exploitant déclare la cessation d'activité de la station service.		
+2013	05	02		2013	05	02		est_produits	Le plan de gestion est produits par ANTEA LE 02/05/2013.		'ANTEA'
+2011	06	07		2011	06	07		rapport	Dans le cadre de la cessation d'activité de la station service, ARCADIS a réalisé le diagnostic environnemental du site (rapport du 07/06/2011).		'ARCADIS'
+2011	10	07		2011	10	07		sont_passées_sous_le_régime_de_l__enregistrement	Le 07/10/2011, les installations sont passées sous le régime de l'enregistrement.		
+								_traitement	-traitement éventuel de la nappe post travaux : 6 mois		

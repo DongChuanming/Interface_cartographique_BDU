@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	11			1999	11			__ayant_cessé_ses_activités	Ancien établissement fabricant des chaudières murales (activités de travail mécanique des métaux, peinture , traitement de surface ) ayant cessé ses activités en novembre 1999.		
+2001				2001				puis_diagnostics_complémentaires	-Diagnostic initial de l'état du sous-sol réalisé en 1999 puis diagnostics complémentaires en 2001.		
+2012	12			2012	12			est_le_propriétaire	L'EPF Ile de France est le propriétaire du site depuis décembre 2012.		"L' EPF Ile de France"
+2003	03	25		2003	03	25		PV_de_récolement	Ces actions ayant été réalisées, un PV de récolement a été délivré le 25/03/2003.		
+2002	04	03		2002	04	03		a_été_notifié	- Un arrêté préfectoral demandant le traitement de zones de terres polluées et une étude complémentaire sur l'impact des solvants halogénés dans l'air du sol et dans la nappe a été notifié le 03/04/2002.	'solvants halogénés'	
+1999				1999				_Diagnostic_initial_de_l__état_du_sous_sol_réalisé	-Diagnostic initial de l'état du sous-sol réalisé en 1999 puis diagnostics complémentaires en 2001.		

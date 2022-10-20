@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2008	02	22		Des_travaux_de_démantèlement	Des travaux de démantèlement se sont déroulés du 14 au 22 février 2008, y compris les opérations de dépollution du 19 au 20 février 2008.		
+				2008	02	20		les_opérations_de_dépollution	Des travaux de démantèlement se sont déroulés du 14 au 22 février 2008, y compris les opérations de dépollution du 19 au 20 février 2008.		
+								a_eu_lieu	L'enlèvement des terres contaminées a eu lieu les 1er et 2 avril 2008.		
+2007	11	06		2007	11	06		Des_investigations_complémentaires	Des investigations complémentaires au droit de la cuve SC et de la cuve FOD se sont déroulés le 6 novembre 2007.		'cuve FOD'
+2008	04	02		2008	04	02		a_eu_lieu	L'enlèvement des terres contaminées a eu lieu les 1er et 2 avril 2008.		
+1990	01	11		1990	01	11		a_bénéficié	Elle a bénéficié de la délivrance d'un récépissé de déclaration par la préfecture le 11 janvier 1990.		'la préfecture'
+2007	12	17		2007	12	17		a_déclaré_la_cessation_d__activité	Le 17 décembre 2007, l'exploitant a déclaré la cessation d'activité de cette installation aux services préfectoraux ; il en a été délivré récépissé le 28 juillet 2008.		
+2008	07	28		2008	07	28		a_été_délivré_récépissé	Le 17 décembre 2007, l'exploitant a déclaré la cessation d'activité de cette installation aux services préfectoraux ; il en a été délivré récépissé le 28 juillet 2008.		

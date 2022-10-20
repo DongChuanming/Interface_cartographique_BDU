@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04	20		2004	04	20		un_diagnostic_environnemental	Dans le cadre de la cessation d’activité, effective depuis le 27 octobre 2003 et déclaré à la Préfecture le 20 avril 2004, la société TOTAL FRANCE a fait réaliser un diagnostic environnemental du site, et procéder à l’enlèvement de deux cuves enterrées et neutralisé à la mousse, pour le compartiment HU, et à l’eau, pour le compartiment FOD, la cuve restante.	'compartiment HU', 'FOD'	'la société TOTAL FRANCE'
+2004				2006				a_procédé	De 2004 à 2006, l’exploitant a procédé à un traitement par venting puis ETP (extraction triple phases) sur le site, suivie d’un traitement de finition par injection de réactif oxydant.	'réactif'	
+2003				2003				Ce_diagnostic	Ce diagnostic, réalisé en 2003, a permis de mettre en évidence la présence :		
+				2003				a_exploité	La société ELF, puis TOTAL à partir de 1999, a exploité jusqu’en 2003, sur son site du 120 boulevard de Châteaudun à Orléans, une station-service soumise à déclaration au titre des installations classées pour la protection de l’environnement.		'La société ELF', 'TOTAL'
+2007	05	02		2007	05	02		a_pris_acte	Par courrier du 2 mai 2007, le préfet du Loiret a pris acte de la remise en état du site pour un usage commercial et d’habitation.		'le préfet'

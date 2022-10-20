@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07			1998	07			est_fermé	*L'atelier de traitement de surface des pièces d'aluminium est fermé depuis juillet 1998 et l'ESR prescrite par l'AP du 15/06/1999 conclut à l'absence de pollution des sols et des eaux : classement en catégorie 3.		
+1998	07			1998	07			ont_été_démantelés	* Les ateliers de traitement de surface de l'aluminium par oxydation anodique ont été démantelés en décembre 1998, après arrêt de cette activité en juillet 1998.	'aluminium'	
+1998	07			1998	07			arrêt_de	* Les ateliers de traitement de surface de l'aluminium par oxydation anodique ont été démantelés en décembre 1998, après arrêt de cette activité en juillet 1998.	'aluminium'	

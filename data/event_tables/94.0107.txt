@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2008	08	08		Les_travaux_de_démantèlement	Les travaux de démantèlement de la station-service ont été réalisés entre le 04 et 08 août 2008. 4 fouilles ont été faites, la première au niveau du parc à cuves, la seconde autour de l’ancienne cuve de SP95, la troisième au niveau de l’îlot de distribution et la dernière près de la zone de dépotage.	'cuve de SP95'	
+2007	07			2007	07			a_fait_réaliser_un_diagnostic	Le rapport de suivi environnemental précisait que, dans le cadre de la fermeture de sa station-service, TOTAL, en tant que propriétaire des installations, mais non exploitant, a fait réaliser un diagnostic des sols et des eaux souterraines, en juillet 2007.		'service , TOTAL'
+2008				2008				a_été_adressée	Lors de la fermeture de la station-service en 2008, aucune notification de cessation d’activité n’a été adressée à la préfecture par la SARL AUTO SERVICE 94.		'la SARL AUTO SERVICE 94'
+								Des_analyses	Des analyses d'air intérieur ont été réalisées en mars et novembre 2009.		
+2007	10			2007	10			a_été_engagé	Un suivi de la qualité des eaux souterraines (nappe des calcaires de Brie) a été engagé dès le mois d’octobre 2007.		
+2017	03	22		2017	03	22		Une_inspection	Une inspection a été réalisée le 22/03/2017.		
+2011	09	21		2011	09	21		a_été_réalisée	La dernière campagne de suivi de la qualité des eaux de la nappe a été réalisée le 21/09/2011.		
+2009	11			2009	11			Des_analyses	Des analyses d'air intérieur ont été réalisées en mars et novembre 2009.		

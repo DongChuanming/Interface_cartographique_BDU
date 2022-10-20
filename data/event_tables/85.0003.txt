@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981				1981				la_pollution	Dans le cadre de la circulaire du 3 avril 1996 une étude a été demandée sur l'ensemble du site déjà recensé dans l'inventaire suite à la pollution de 1981.		
+1981				1981				qui_ont_été_placées	Cette activité  nécessitant de recourir à des huiles de coupe a généré des déchets d'huiles minérales et des boues qui ont été placées en 1981 dans une lagune située au sein même de cette usine.	'à des huiles de coupe', "d' huiles minérales"	
+2000	05			2000	05			L__évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été rendue en mai 2000.		

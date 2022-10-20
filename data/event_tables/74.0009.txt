@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	21		1999	07	21		a_été_remise	Cette étude a été remise le 21 juillet 1999.		
+1979				1979				ont_été_réalisés	Ces dépôts ont été réalisés de 1968 à 1974 et de 1979 à 1988.		
+1988				1988				de	Ces dépôts ont été réalisés de 1968 à 1974 et de 1979 à 1988.		
+1993				1993				réaménagement_simple	Un réaménagement simple du dépôt a été réalisé en 1991 et 1993.		
+1979				1979				de	Ces dépôts ont été réalisés de 1968 à 1974 et de 1979 à 1988.		
+1998	08	19		1998	08	19		une_étude_simplifiée_des_risques	Afin d'améliorer la connaissance de ce site et de définir la suite à donner, une étude simplifiée des risques a été demandée par arrêté préfectoral du 19 août 1998.		
+1968				1974				ont_été_réalisés	Ces dépôts ont été réalisés de 1968 à 1974 et de 1979 à 1988.		
+1991				1991				réaménagement_simple	Un réaménagement simple du dépôt a été réalisé en 1991 et 1993.		
+1988				1988				ont_été_réalisés	Ces dépôts ont été réalisés de 1968 à 1974 et de 1979 à 1988.		

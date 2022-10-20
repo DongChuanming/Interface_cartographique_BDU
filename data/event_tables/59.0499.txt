@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08			2001	08			Une_étude_compléemtaire	Une étude compléemtaire de la pollution des sols a été réalisée au mois d'août 2001 à l'endroit des cuves de traitement démantelées.		
+2002	03			2002	03			a_été_remis	Un mémoire de cessation d'activité a été remis en mars 2002 au Préfet.		
+2000	12			2000	12			une_Evaluation_Simplifiée_des	Afin d'évaluer l'impact des activités de la société en matière de pollution des sols et/ou des nappes souterraines, une Evaluation Simplifiée des Risuqes a été réalsiée en décembre 2000.		
+1998	08			1998	08			une_unité_de_galvanisation	La société GALVA DOUAI SERVICES a exploité une unité de galvanisation à chaud de toutes pièces en acier depuis août 1998.		'La société GALVA DOUAI SERVICES'
+1948				1948				était_auparavant_exploitée	Cette unité, créée en 1948, était auparavant exploitée par la société ARBEL FAUVET RAIL (arrêté préfectroal en date du 27 mars 1981).		'la société ARBEL FAUVET RAIL'
+1948				1948				créée	Cette unité, créée en 1948, était auparavant exploitée par la société ARBEL FAUVET RAIL (arrêté préfectroal en date du 27 mars 1981).		'la société ARBEL FAUVET RAIL'
+2003	07	25		2003	07	25		a_été_imposée	La surveillance des eaux souterraines a été imposée à l'exploitant par arrêté préfectoral du 25 juillet 2003.		
+2006	06	09		2006	06	09		a_été_signé	Afin de garder en mémoire la pollution du site, un arrêté préfectoral de servitudes d'utilité publique sur l'usage des sols et eaux souterraines a été signé le 9 juin 2006.		
+2000	09			2000	09			Une_cessation_d__activité	Une cessation d'activité a donc été notifiée au Préfet en septembre 2000 par l'exploitant.		

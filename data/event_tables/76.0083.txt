@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				sont_démantelées	Les activités de dégraissage (et probablement l'ensemble des activités de traitement électrolytique) sont démantelées en 1987.		
+2000	11	09		2000	11	09		est_reprise	Le  9 novembre 2000, la société est reprise par la SAS VIASYSTEM EMS FRANCE.		'par la SAS VIASYSTEM EMS FRANCE'
+1997	04	07		1997	04	07		a_fait_l__objet_d_	L'ensemble de ces actions a fait l'objet d'un rapport final concernant les investigations complémentaires et les travaux de réhabilitation du 07 avril 1997.		
+2003				2003				n__a_été_réalisé	Aucun suivi analytique n'a été réalisé postérieurement à l'arrêt des installations en 2003.		
+2003				2003				est_finalement_arrêté	Le site est finalement arrêté en 2003, à l'exception de la chaufferie qui continue toujours à être exploité par la société Dalkia.		'la société Dalkia'
+1996				1996				Des_actions_d__enlèvement	Des actions d'enlèvement de la source identifiée (cuve et sols) ont été réalisées en 1996.		
+1997	04	07		1997	04	07		les_investigations_complémentaires	L'ensemble de ces actions a fait l'objet d'un rapport final concernant les investigations complémentaires et les travaux de réhabilitation du 07 avril 1997.		
+1995				1995				Une_première_étude	Une première étude de l'état des sols (non communiquée) a été réalisée en 1995 par l'intermédiaire de la société Lucent technologies qui était en train d’acquérir la société TRT.		'la société Lucent', 'la société TRT'
+1962				1962				est_autorisée_à_exploiter	En 1962, la société est autorisée à exploiter un atelier de traitement des métaux par voie électrolytique (passivation, phosphatation, nickel, Cadmium, Cuivre, étain), dans le cadre de son activité de fabrication de circuits imprimés.	'nickel', 'Cadmium', 'Cuivre', 'étain'	
+1977				1977				exploite	L'entreprise exploite dés 1977 une chaufferie soumise à autorisation préfectorale alimentée par une cuve de fuel lourd de 50000 litres.	'fuel'	

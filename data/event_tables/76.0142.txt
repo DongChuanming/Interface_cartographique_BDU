@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	05	10		2000	05	10		la_mise_en_place_du_système	3) la mise en place du système de gestion de la sécurité dans le cadre de l'arrêté du 10 mai 2000.		
+1999	01	1		1999	01	1		succédées	S'y sont succédées la SOCIÉTÉ CHIMIQUE ELBEUVIENNE, WITCO, puis IFRACHEM depuis le 1er janvier 1999.		'la SOCIÉTÉ CHIMIQUE ELBEUVIENNE', 'WITCO', 'IFRACHEM'
+2003	09	1		2003	09	1		la_remise	En conséquence,  un arrêté préfectoral du 21 mai 2002 a fixé la remise de l'étape A le 1er septembre 2003, de l'étape B le 31 décembre 2003 et de l'ESR le 1er mars 2004.		"l' ESR"
+2004	03	1		2004	03	1		la_remise	En conséquence,  un arrêté préfectoral du 21 mai 2002 a fixé la remise de l'étape A le 1er septembre 2003, de l'étape B le 31 décembre 2003 et de l'ESR le 1er mars 2004.		"l' ESR"
+1955				1955				A_partir_de	A partir de 1955, des tensioactifs y sont produits.	'tensioactifs'	
+2000	05	10		2000	05	10		la_réalisation	1) la réalisation, dans le cadre de l'arrêté ministériel du 10 mai 2000, de deux études de dangers complémentaires à l'étude des dangers relative aux installations d'oxydes d'éthylène et de propylène ;	"oxydes d' éthylène", 'propylène'	
+1997				1997				a_été_définie	En 1997, dans le cadre de la mise en place de la politique sur les sites et sols pollués, une liste d'entreprises qui se verraient prescrire une ESR a été définie.		

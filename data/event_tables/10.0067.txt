@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_transmis	Les résultats ont été transmis en mai  2011 ; aucune investigation complémentaire ne s'avère nécessaire à ce jour.		
+2011				2011				ont_été_transmis	Les résultats ont été transmis en mai  2011 ; aucune investigation complémentaire ne s'avère nécessaire à ce jour.		
+2006	06			2006	06			Deux_diagnostics_de_pollution_des_sols	Deux diagnostics de pollution des sols ont été réalisés en juin 2006 et mars 2008.		
+2008	03			2008	03			conclut	Suite à ce constat de contamination des sols, dans son rapport de mars 2008, ANTEA conclut qu'il était nécessire d'effectuer un diagnostic complémentaire par le biais de prélèvements et d'analyses répartis au niveau des sources identifiées de manière à déterminer l'extension de la pollution latéralement et verticalement afin d'évaluer l'ampleur des contaminations et de maintenir une surveillance des eaux souterraines.		'ANTEA'
+2008	03			2008	03			Deux_diagnostics_de_pollution_des_sols	Deux diagnostics de pollution des sols ont été réalisés en juin 2006 et mars 2008.		

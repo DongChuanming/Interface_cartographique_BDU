@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1925				1925				a_été_créée_sur	L’usine a été créée sur l’emplacement actuel en 1925.		
+1987				1987				est_surveillé	Ce site est surveillé depuis 1987.		
+2002				2002				a_été_remise	Cette étude, a été remise en 2002.		
+2001				2001				la_réalisation_d__une_étude_des_sols	Sur proposition de l’inspection des installations classées M. le Préfet de la Lozère a imposé en 2001, par voie d’arrêté, la réalisation d’une étude des sols et d’une évaluation simplifiée des risques.		'le Préfet', 'de la Lozère'

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_cessé_son_activité	Le site a cessé son activité en 2002.		
+2005	03			2005	03			a_été_reçu	Le dossier de cessation d'activité a été reçu en mars 2005.		
+2008	12	05		2008	12	05		a_été_prescrite	Une surveillance des eaux souterraines a été prescrite par arrêté préfectoral en date du 05 décembre 2008 pour une durée de 4 ans.		
+2009	12	15		2009	12	15		rapport_d__étude	Cette étude conclu à l'acceptabilité du projet (rapport d'étude du 15/12/2009).		
+2010	08	26		2010	08	26		Un_avenant	Un avenant à la convention d'usage a été établi le 26/08/2010 par lequel Rubis Stockage accepte, sur la base de l'analyse des risques résiduels établie, le principe du changement d'usage.		'Rubis Stockage'
+								a_été_prescrite	Une surveillance des eaux souterraines a été prescrite par arrêté préfectoral en date du 05 décembre 2008 pour une durée de 4 ans.		
+2009	09	10		2009	09	10		a_été_établie	Une restriction d'usage conventionnelle a été établie le 10/09/2009 entre l'ancien exploitant et les propriétaires du terrain, requérant la réalisation d'études complémentaires en cas de changement d'usage futur du site.		
+2012	04			2012	04			La_dernière_campagne_de_mesures	La dernière campagne de mesures a été réalisée en avril 2012.		
+2009				2009				une_analyse_des_risques	En 2009, dans le cadre d'un projet de reconversion commerciale sur une partie du site, une analyse des risques résiduels a été réalisée en raison de restrictions d'usage conventionnelles entre l'ancien exploitant et le propriétaire du terrain.		
+2009	12	15		2009	12	15		Cette_étude_remise	Cette étude remise le 15 décembre 2009 rendait compte de :		
+2002				2002				a_cessé_son_activité	Cela étant, le site a cessé son activité en 2002.		
+1939				1939				Sa_création	Sa création remonte à 1939.		
+2009	12	15		2009	12	15		conclu_à	Cette étude conclu à l'acceptabilité du projet (rapport d'étude du 15/12/2009).		
+2015	05			2015	05			ont_été_retirés	Les ouvrages de surveillance des eaux souterraines ont été retirés en mai 2015.		
+2002	07			2002	07			ont_été_vidés	L'ensemble des bacs du site ont été vidés depuis juillet 2002.		

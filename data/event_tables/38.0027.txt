@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				mis_en_service	-SALAISE 1 mis en service en 1985 (capacité 52 500 t/an).		
+8366				8366				L__étude_de_sol	L'étude de sol a été imposée par l'Arrêté Préfectoral n° 98-8366 du 1er décembre 1998.		
+1998	12	1		1998	12	1		L__étude_de_sol	L'étude de sol a été imposée par l'Arrêté Préfectoral n° 98-8366 du 1er décembre 1998.		
+1998	07	31		1998	07	31		est_réglementé	L'ensemble des installations est réglementé par l'Arrêté Préfectoral cadre n° 98-5055 du 31 juillet 1998.		
+2012	12	21		2012	12	21		une_autorisation_préfectorale	L'exploitant a obtenu le 21 décembre 2012 une autorisation préfectorale temporaire de stockage de déchets de pesticides en provenance d'Ukraine sur son site de Salaise-sur-Sanne.	'stockage de déchets de pesticides'	
+								L__étude_de_sol	L'étude de sol a été imposée par l'Arrêté Préfectoral n° 98-8366 du 1er décembre 1998.		
+2001				2001				mise_en_service	-SALAISE 3 mise en service au printemps 2001 (capacité 120 500 t/an)en cours de construction.		
+1991				1991				mis_en_service	-SALAISE 2 mis en service en 1991 (capacité 52 500 t/an).		'-SALAISE 2'

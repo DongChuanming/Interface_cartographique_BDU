@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1967				1967				Juigné___exploitée	– en février 2004 par « Séché Réalisations », au niveau de la zone appelée « atelier 3 » (activités tubes guides en zirconium dans l’emprise actuelle de Constellium Montreuil-Juigné) exploitée de 1967 à 1998 par CEZUS.	'guides en zirconium'	'« \xa0 Séché', 'actuelle de Constellium Montreuil', '1998 par'
+1929				1929				exploitée	Usine de transformation de l'aluminium exploitée sur le site de Montreuil Juigné par PECHINEY depuis 1929.	"l' aluminium"	'PECHINEY'
+2009				2009				est_réalisé	Un traitement des eaux souterraines (charbon actif) est réalisé depuis 2009 sur p11 (tréfilerie) et depuis 2014 sur le site (barrière hydraulique au nord - nord/est).	'charbon actif'	
+2001				2001				Un_premier_diagnostic	Un premier diagnostic a été réalisé par SOGREAH en 2001 (23 sondages) et un diagnostic approfondi par ANTEA en 2006 sur deux zones ciblées : l’ancienne fosse de dégraissage et la zone de dégraissage dans le bâtiment tréfilerie.		'SOGREAH', 'ANTEA'
+1998				1998				a_été_arrêtée	Cette dernière activité a été arrêtée en 1998 et les terrains correspondants retournés à Péchiney.		'Péchiney'
+2017				2017				a_été_réalisé	Ce site étant IED, un rapport de base a été réalisé en 2017 dans le cadre du réexamen IED.		
+								est_effectuée	Une surveillance des eaux souterraines est effectuée à fréquence semestrielle (hautes eaux et basses eaux) depuis les années 2000 (tricholoréthylène, hydrocarbures totaux et chlorure de vinyle).	'tricholoréthylène', 'hydrocarbures totaux', 'chlorure', 'vinyle'	
+2008				2008				par_injection_d__oxydant_a_été_réalisé	– en 2007-2008, un traitement des sols et des eaux souterraines subsurface par injection d’oxydant a été réalisé par ANTEA au niveau de l’ancienne fosse de dégraissage.	'd’ oxydant'	'par ANTEA'
+2006				2006				un_diagnostic_approfondi	Un premier diagnostic a été réalisé par SOGREAH en 2001 (23 sondages) et un diagnostic approfondi par ANTEA en 2006 sur deux zones ciblées : l’ancienne fosse de dégraissage et la zone de dégraissage dans le bâtiment tréfilerie.		'SOGREAH', 'ANTEA'
+2009	07			2009	07			a_été_mis_en_place	– début juillet 2009, un traitement des eaux pompées a été mis en place au droit du site (au puits n°11- atelier tréfilerie).		
+1999				1999				plusieurs_investigations_environnementales	Pour mémoire, plusieurs investigations environnementales ont eu lieu sur le site de Montreuil-Juigné depuis 1999.		
+2007				2007				par_injection_d__oxydant_a_été_réalisé	– en 2007-2008, un traitement des sols et des eaux souterraines subsurface par injection d’oxydant a été réalisé par ANTEA au niveau de l’ancienne fosse de dégraissage.	'd’ oxydant'	'par ANTEA'

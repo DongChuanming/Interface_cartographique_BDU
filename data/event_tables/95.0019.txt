@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	04			2015	04			une_étude_hydrogéologique	L’exploitant a transmis en avril 2015 à l’Inspection des installations classées une étude hydrogéologique concernant l’implantation d’un nouveau piézomètre dans le but de permettre un suivi complet et efficace de la nappe.		
+2000				2000				les_diverses_analyses	Ce mémoire de cessation reprend les diverses analyses de sols et d'eaux de nappe que l'exploitant a réalisées depuis 2000.		
+2010				2010				n__ont_pas_pu_être_réalisées	Les analyses en aval du site n'ont pas pu être réalisées en 2010, du fait de l'absence d'eau dans le piézomètre.		
+2010				2010				a_transmis	Par courrier du 11 avril 2011, l'exploitant a transmis le bilan quadriennal portant sur la période 2007-2010.		
+1998				1998				a_été_autorisée	La Société SILAR a été autorisée en 1998 à exploiter une unité de fabrication d'oxyde de zinc.	'oxyde', 'zinc'	'La Société SILAR'
+2013	05			2013	05			a_été_transmis	En effet, aucun résultat d’analyse n’a été transmis depuis avril 2014 (analyses de mai 2013).		
+2004				2004				ont_été_faites	En 2004, des analyses complémentaires ont été faites et des piézomètres ont été mis en place en 2007.		
+2014	04			2014	04			a_été_transmis	En effet, aucun résultat d’analyse n’a été transmis depuis avril 2014 (analyses de mai 2013).		
+2013	05			2013	05			analyses	En effet, aucun résultat d’analyse n’a été transmis depuis avril 2014 (analyses de mai 2013).		
+2001				2001				a_arrêté	Cette production a arrêté en 2001, le site n'ayant plus qu'une activité de stockage et vente d'oxyde de zinc.	'oxyde', 'zinc'	
+2000				2000				Une_première_évaluation_simplifiée_des_risques	Une première évaluation simplifiée des risques avait été réalisée en 2000 sur la base d'analyses de sols effectuées en 1999.		
+2007				2007				ont_été_faites	En 2004, des analyses complémentaires ont été faites et des piézomètres ont été mis en place en 2007.		
+2007				2007				ont_été_mis_en_place	En 2004, des analyses complémentaires ont été faites et des piézomètres ont été mis en place en 2007.		
+2008				2008				a_fourni	En 2008, l'exploitant a fourni un mémoire de cessation de son activité de fabrication d'oxyde de zinc.	'oxyde', 'zinc'	
+2007				2007				a_transmis	Par courrier du 11 avril 2011, l'exploitant a transmis le bilan quadriennal portant sur la période 2007-2010.		
+2011	04	11		2011	04	11		a_transmis	Par courrier du 11 avril 2011, l'exploitant a transmis le bilan quadriennal portant sur la période 2007-2010.		

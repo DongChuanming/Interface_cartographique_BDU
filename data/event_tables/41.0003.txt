@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10			1999	10			__Réunion	Octobre 1999 : Réunion en préfecture avec toutes les parties concernées.		
+2000	06			2000	06			La_réalisation_de_cette_étude_est_confiée	Juin 2000 : La réalisation de cette étude est confiée au CDPNE (Comité Départemental de la Protection de la Nature et de l'Environnement).		'CDPNE', 'Comité Départemental de la Protection de la Nature'
+2000	12			2000	12			__Présentation	Décembre 2000: Présentation du CDPNE de l'état d'avancement de l'étude dont la majeure partie est réalisée. 3 points d'eau ont fait l'objet d'analyses :		'CDPNE'

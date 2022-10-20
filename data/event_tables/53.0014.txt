@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03	08		2003	03	08		est_soumise_à_autorisation	La SFR est soumise à autorisation d'exploiter selon l'arrêté préfectoral d'autorisation du 8 mars 2003.		
+2013	03	21		2013	03	21		a_réalisé_une_visite	Dans le cadre de la mise en sécurité et de la cessation d'activité (liquidation judiciaire) de l'ancienne imprimerie Société Française de Revues 'SFR', l'inspection des installations classées a réalisé une visite du site le 21 mars 2013.		
+2013	10			2013	10			Des_investigations	Des investigations sur les sols et les eaux souterraines ont été réalisées en octobre 2013 et ont permis de collecter les informations suivantes :		
+2012	02	21		2012	02	21		a_été_mis_en	Les éléments demandés n'ayant pas été fournis, l'exploitant a été mis en demeure de déposer une notification de cessation d'activité et de mettre en sécurité le site par arrêté préfectoral du 21 février 2012.		
+2011				2011				a_été_informé	Fin d'année 2011, l'inspection des installations classées a été informé que le site avait fait l'objet d'une liquidation judiciaire le 2 juillet 2009.		
+1993				1993				s__est_implanté	La Société Française de Revu (SFR) s'est implanté sur le site en 1993 suite au rachat de la société RJ imprimerie.		'La Société Française de Revu', 'SFR', 'société RJ'
+2009	07	02		2009	07	02		avait_fait_l__objet	Fin d'année 2011, l'inspection des installations classées a été informé que le site avait fait l'objet d'une liquidation judiciaire le 2 juillet 2009.		
+2009	07	02		2009	07	02		a_été_informé	Fin d'année 2011, l'inspection des installations classées a été informé que le site avait fait l'objet d'une liquidation judiciaire le 2 juillet 2009.		
+								existait_sur	L'activité d'imprimerie existait sur le site depuis le début des années 80.		

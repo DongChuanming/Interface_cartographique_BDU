@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09			2010	09			la_campagne	Des PCB ont été quantifiés au droit de PZ1, pour la première fois, lors de la campagne de septembre 2010 à 0,015 µg/l (PCB-101) et 0,014 µg/l (PCB-118).	'PCB', 'PCB-101', 'PCB-118'	
+2003	01			2003	01			a_informé	En janvier 2003, la CNR a informé la préfecture que le contrat d'amodiation au bénéfice de la SIRM est échu au 31 janvier 2003.		'la CNR', 'la SIRM'
+2004	09			2004	09			le_mémoire_de_cessation_d__activité	Cette étude sera suivie par le mémoire de cessation d'activité de septembre 2004 élaboré par la société Euro Étude Conseil pour le compte de la société SIRM-OSI.		'la société Euro', 'la société SIRM - OSI'
+2003	01	31		2003	01	31		est_échu	En janvier 2003, la CNR a informé la préfecture que le contrat d'amodiation au bénéfice de la SIRM est échu au 31 janvier 2003.		'la CNR', 'la SIRM'
+2008				2008				est_réalisée	Une surveillance des eaux souterraines est réalisée depuis 2008 et comporte 7 piézomètres.		
+2008	07	09		2008	07	09		est_soumise_à_autorisation	Cette société est soumise à autorisation par l'arrêté préfectoral du 9 juillet 2008, pour une activité de transit de déchets industriels et ménagers.	'déchets industriels'	
+2009	11			2009	11			a_été_remplacé	En novembre 2009, le piézomètre PZ6 a été remplacé par PZ6b.		
+2013				2013				est_exploitée	En 2013, une partie du site qui a fait l'objet d'une réhabilitation, est exploitée par la societé Crisca Environnement, appartenant au groupe SLR Environnement.		'la societé Crisca Environnement', 'groupe SLR Environnement'
+2011	10	04		2011	10	04		Une_visité_d__inspection_approfondie	Une visité d'inspection approfondie a été effectuée le 4 octobre 2011.		
+2008	11			2008	11			a_été_complété	En novembre 2008, le réseau de piézomètres a été complété par quatre nouveaux piézomètres repérés PZ4, PZ5, PZ6 et PZ7.		
+1971	01	07		1971	01	07		créée	Le 7 janvier 1971 la Société Industrielle de Récupérations Métallurgiques (SIRM) est créée et se substituera à M.	'la Société Industrielle de Récupérations Métallurgiques'	'SIRM'
+2017	02	07		2017	02	07		inconstruite	En effet, la parcelle nord de l'ex-site SIRM, inconstruite au 07/02/2017, est proposée à la mise en Secteur d'Information sur les Sols (SIS article L 556-2 du code de l'environnement).		'SIRM'
+2010	06			2010	06			ont_été_remblayées	Les fosses contenant les pollutions aux PCB ont été remblayées en juin 2010 par les terres extraites des talus contenant des concentrations en PCB inférieures à 15mg/kg-MS puis par les dalles en béton qui ont été concassées.	'PCB', 'PCB'	
+2007	04	24		2007	04	24		ont_été_envoyés	Des compléments ont été envoyés à l'administration par la CNR le 24 avril 2007.		'la CNR'
+2006	07			2006	07			ont_été_implantés	Trois piézomètres de 10 mètres de profondeur ont été implantés en juillet 2006 et sont repérés PZ1 (amont), PZ2 et PZ3 (aval).		
+2003	01	31		2003	01	31		a_informé	En janvier 2003, la CNR a informé la préfecture que le contrat d'amodiation au bénéfice de la SIRM est échu au 31 janvier 2003.		'la CNR', 'la SIRM'
+2008	11			2009	11			les_zones_excavées	Il est également indiqué que les zones excavées au droit des anciennes presses ont été remblayées entre novembre 2008 et novembre 2009 avec les terres qui ont été brassées.		
+2005	03	23		2005	03	23		a_été_transmis	Cet additif a été transmis par la société SIRM-OSI le 23 mars 2005.		'la société SIRM - OSI'
+2010	04			2010	04			le_volume_de_terres_excavées	Le rapport du bureau d'étude 18 octobre 2010 indique que le volume de terres excavées en avril 2010 a été évalué à 855 m³ et suivant les teneurs en PCB les terres ont été expédiés soit à SITA Remediation Gmbh en Allemagne, soit aux Pays-Bas, soit dans le centre de Biogénie à Château Gaillard.	'PCB'	'SITA Remediation Gmbh', 'Biogénie'
+2017	02	07		2017	02	07		est_présente	La parcelle sud, objet de la présente fiche BASOL, ne peut être placée en SIS, car une ICPE est présente au 07/02/2017.		
+2003	08			2003	08			une_étude_des_sols_complétée	Par courrier du 26 juin 2003 la société SIRM-OSI a transmis une étude des sols complétée en août 2003 sous la forme d'une Évaluation Simplifiée des Risques (ESR).		'la société SIRM - OSI'
+2004	05			2004	05			est_toujours_occupé	En mai 2004, le site est toujours occupé par la SIRM-OSI et un déversement accidentel des huiles du transformateur se produit.		'la SIRM - OSI'

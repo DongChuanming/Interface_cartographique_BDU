@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12			2000	12			ont_été_remis	- Le rapport de l'étape B de l'étude diagnostic et de l'ESR, réalisés en décembre 2000, ont été remis à l'IIC le 22/05/2003 (site de classe 2)		
+2003	05	22		2003	05	22		ont_été_remis	- Le rapport de l'étape B de l'étude diagnostic et de l'ESR, réalisés en décembre 2000, ont été remis à l'IIC le 22/05/2003 (site de classe 2)		
+2006				2006				Les_travaux_de_couverture_et_de_gestion	- Les travaux de couverture et de gestion des eaux de l'ancienne décharge ont été réalisés et ont fait l'objet d'une visite de récolement avec les services e la DRIRE en 2006.		'les services e la DRIRE'
+2000	12			2000	12			réalisés	- Le rapport de l'étape B de l'étude diagnostic et de l'ESR, réalisés en décembre 2000, ont été remis à l'IIC le 22/05/2003 (site de classe 2)		
+2012				2012				transmis	- Dossier de servitudes devrait être transmis courant 2012.		
+2006				2006				une_visite_de_récolement_avec	- Les travaux de couverture et de gestion des eaux de l'ancienne décharge ont été réalisés et ont fait l'objet d'une visite de récolement avec les services e la DRIRE en 2006.		'les services e la DRIRE'

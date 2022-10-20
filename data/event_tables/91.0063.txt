@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07			2001	07			a_cessé	Toute activité sur le site a cessé depuis fin juillet 2001.		
+2001	03			2001	03			Le_traitement_biologique	Le traitement biologique (16 000 tonnes) est achevé (mars 2001).		
+2000	07			2000	07			a_été_installé	Un unité de dépollution par venting a été installé en juillet 2000 pour traiter la zone non saturée de la \"nappe perchée\", et un pompage circonscrit la pollution au droit du piézomètre \"pollué\".		
+2008	04	14		2008	04	14		a_été_communiqué	Un dossier loi sur l\'eau pour la réalisation d\'un plan d\'eau sur les parcelles ayant accueilli la société AKZO a été communiqué à la DRIRE le 14 avril 2008.		'la société AKZO', 'la DRIRE'
+2001	12	14		2001	12	14		a_été_pris	Un arrêté complémentaire fixant les modalités de traitement et de surveillance de la pollution résiduelle a été pris le 14/12/2001.		
+				2002	10	24		L_enquête_publique	L\'enquête publique relative à la mise en place des servitudes s\'est déroulée du 23 septembre au 24 octobre 2002.		
+2001	12	14		2001	12	14		prescrit_par	L\'exploitant désirant cesser les travaux de pompage prescrit par l\'arrêté du 14/12/2001, une étude a été réalisée ainsi qu\'une modélisation du transfert de pollution en cas d\'arrêt du pompage.		
+2003	07	11		2003	07	11		a_été_signé	L\'arrêté instituant les servitudes d\'utilité publique a été signé le 11 juillet 2003.		

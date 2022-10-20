@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	12	03		2013	12	03		La_visite_d__inspection	La visite d'inspection du 3 décembre 2013 a confirmé la bonne réalisation des travaux		
+2014	03	21		2014	03	21		réalise_une_caractérisation_environnementale	19-21 mars 2014: l'exploitant réalise une caractérisation environnementale des matériaux d'apports inconnus pour les remblais.		
+2013				2013				démantèlement	2013: démantèlement et démolition des installations présents sur le site.		
+2009				2009				son_activité	2009: le site a cessé son activité.		
+2010	01	27		2010	01	27		demande_la_réalisation_d__un_diagnostic_environnemental	27 janvier 2010: suite à la cessation d'activité du site, la société ENI France demande la réalisation d'un diagnostic environnemental à un bureau d'étude.		'la société ENI France'
+								est_en_activité	La station service AGIP/ENI France est en activité depuis les années 1980.		'La station service AGIP / ENI France'
+2013	06			2013	06			effectue_la_mise_en_sécurité	Mi-juin 2013: l'exploitant effectue la mise en sécurité du site, le démantèlement et évacuation des installations du site, soit auvent, distributeurs, toutes les canalisations et cuves enterrées ainsi que le séparateur d'hydrocarbures.	"séparateur d' hydrocarbures"	
+2014	07	03		2014	07	03		est_tenue_d_	3 juillet 2014: par arrêté préfectoral, la société ENI France est tenue d'appliquer et de respecter les exigences suivantes:		'la société ENI France'
+2013	07			2013	07			__réalisation	Juillet 2013: réalisation par l'exploitant de travaux de dépollution des sols		

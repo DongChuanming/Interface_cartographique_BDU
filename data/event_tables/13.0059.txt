@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981				1981				Electroplastie	En 1981, la Société Régionale d'Electroplastie s'installe et obtient l'autorisation d'exploiter le 14/05/84.	'le 14/05/84 .'	"installe et obtient l' autorisation"
+								ont_consisté	* Les travaux de traitement ont débuté le 7 Avril 2009 et ont consisté à:		
+								Les_travaux_de_traitement	* Les travaux de traitement ont débuté le 7 Avril 2009 et ont consisté à:		

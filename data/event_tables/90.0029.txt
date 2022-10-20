@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1976				a_été_acquise	La parcelle AI 160 a été acquise en 1976.		
+2005				2005				ont_été_enlevées	La cuve à fuel ainsi qu'une des deux cuves situées le long de la RD10 ont été enlevées en 2005.	'fuel'	
+1960				1960				utilisées_comme	Depuis 1960, les installations existantes sont utilisées comme centrale à saumure, un abri à matériel a été ajouté en 1994.		
+				1993				a_perduré	Cependant, l'activité de réchauffage a perduré jusqu'à 1993 sur la parcelle.		
+1990				1990				ont_été_bâtis	Des bureaux administratifs ont été bâtis en 1963 avec extension en 1972 et 1990.		
+2010				2010				ont_été_démantelées	Les installations ont été démantelées et éliminées en 2010.		
+				1985				a_été_exploitée	L'usine a été exploitée jusqu'en 1985.		
+2012	06	1		2012	06	1		une_visite_de_récolement	L'inspection des installations classées a réalisé une visite de récolement le 1er juin 2012 afin de constater la bonne réalisation de ces travaux.		
+1952				1952				A_partir_de	A partir de 1952, l'activité de réchauffage de liant débute.		
+1994				1994				a_été_ajouté	Depuis 1960, les installations existantes sont utilisées comme centrale à saumure, un abri à matériel a été ajouté en 1994.		
+1973				1973				a_été_construit	Enfin, un atelier mécanique a été construit en 1973 et étendu en 1999.		
+1999				1999				étendu	Enfin, un atelier mécanique a été construit en 1973 et étendu en 1999.		
+1963				1963				ont_été_bâtis	Des bureaux administratifs ont été bâtis en 1963 avec extension en 1972 et 1990.		
+2010	01	01		2010	01	01		a_cessé_l__exploitation	L’État a cessé l'exploitation du site du parc de Bavilliers le 01/01/2010.		
+1969				1969				a_été_ajouté	Un atelier de peinture a été ajouté en 1969 et un hangar à peinture en 1970.		
+1972				1972				ont_été_bâtis	Des bureaux administratifs ont été bâtis en 1963 avec extension en 1972 et 1990.		
+1949				1949				a_été_acquise	La parcelle AI 63 du site a été acquise en 1949 par l'Etat.		

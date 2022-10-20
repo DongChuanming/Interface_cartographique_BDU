@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05	31		1999	05	31		a_été_radiée_du_registre_du_commerce	La société a été radiée du registre du commerce et des sociétés le 31/05/1999.		
+2004	01			2004	01			est_déposé	En janvier 2004, un permis de démolir est déposé par la SCI Jaurès pour la démolition des locaux professionnels (magasin de l'ancienne station-service), dont les terrains étaient destinés à un usage d'habitation.		'la SCI Jaurès'
+2004	03			2004	03			a_été_donné	En mars 2004, un avis favorable a été donné pour le permis de démolir.		
+2004	04			2004	04			est_déposé	En avril 2004, un permis de construire est déposé par la SCI Jaurès pour la construction d'un bâtiment à usage d'habitations et de commerces.		'la SCI Jaurès'
+1993				1993				la_pollution_lors_de_sa_découverte	Compte tenu des concentrations élevées dans la nappe et de l'étendue de la pollution lors de sa découverte en 1993, l'Ex-DDASS (actuellement Agence Régionale de Santé) a été saisie, pour avis et a donné un avis favorable au projet sous réserve du respect des préconisations de l'EDR par le pétitionnaire (restrictions d'usage).		'Agence Régionale de Santé'
+2009	10			2009	10			a_transmis	Par ailleurs, la SCI Jaurès a transmis à la préfecture, en octobre 2009, les bordereaux de suivi de déchets relatifs aux terres polluées excavées lors des opérations de terrassement du projet.		'la SCI Jaurès'
+2005	07	07		2005	07	07		a_été_levé	Le sursis à statuer a été levé le le 07/07/2005 par la préfecture et un avis favorable a été donné sous réserve que le projet soit réalisé conformément aux plans et études réalisés, de la mise en place de restrictions d'usage (interdiction d'utilisation des eaux souterraines et de jardins potagers,...).		'la préfecture'
+2003	11			2003	11			a_signé_une_promesse_de_vente	En novembre 2003, la propriétaire a signé une promesse de vente avec la SCI Jaurès.		'la SCI Jaurès'
+1967				1967				a_été_déclarée	La station-service Elf contact a été déclarée en 1967, mise en service en 1968 et reprise en nom propre par un nouvel exploitant, la société PIRIOU HENRI.		'service Elf contact', 'la société PIRIOU HENRI'
+1993				1993				la_réalisation_d__un_nouveau_diagnostic	Il était demandé la réalisation d'un nouveau diagnostic de l'état des milieux (le précédent datant de 1993) et d'une évaluation détaillée des risques (EDR) permettant de s'assurer de la compatibilité de l'état des milieux avec le projet.		
+1968				1968				mise_en_service	La station-service Elf contact a été déclarée en 1967, mise en service en 1968 et reprise en nom propre par un nouvel exploitant, la société PIRIOU HENRI.		'service Elf contact', 'la société PIRIOU HENRI'
+2004	06			2004	06			a_proposé_un_sursis_à_statuer	L'inspection des installations classées a proposé un sursis à statuer en juin 2004.		
+2005	11	03		2005	11	03		a_vendu	La propriétaire a vendu le terrain à la SCI Jean Jaurès le 3 novembre 2005.		
+1993				1993				ont_été_mises_en_évidence	Des infiltrations d'hydrocarbures en provenance de la station-service ont été mises en évidence, en 1993, dans les propriétés riveraines.	'hydrocarbures'	
+2004	12			2004	12			un_diagnostic_de_sol	En décembre 2004, un diagnostic de sol et une évaluation détaillée des risques ont été réalisés.		

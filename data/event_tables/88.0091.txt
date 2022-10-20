@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_cessé	L'activité a cessé en 2001.		
+2001	01			2001	01			Le_diagnostic_des_sols	Le diagnostic des sols réalisé en janvier 2001 concluait à la nécessité d’excaver et de faire traiter dans un centre agréé les terres souillées par des hydrocarbures :	'hydrocarbures'	

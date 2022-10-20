@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07			1998	07			Les_prélèvements_de_sols	Les prélèvements de sols ont été réalisés en juillet 1998.		
+1999	05	11		1999	05	11		ont_été_éliminées	Les terres polluées du puisard I ont été éliminées le 11 mai 1999.		
+								a_eu_lieu	Suite à un dysfonctionnement d'un décanteur-déshuileur sur le site de la Société Métallurgique d'Epernay (SME), une pollution par hydrocarbures de la rivière Marne a eu lieu en avril 98.	'hydrocarbures'	"la Société Métallurgique d' Epernay ( SME"

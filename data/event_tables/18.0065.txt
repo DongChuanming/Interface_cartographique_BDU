@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_été_détectée	Lors de la cessation d'activité, une pollution des eaux a été détectée en 1999.		
+1991				1991				ont_été_dépassés	Durant les années 1990, 1991 et 1992, les tonnages maximum admissibles ont été dépassés.		
+1995	11			1995	11			a_cessé_son_exploitation	Le site a cessé son exploitation en novembre 1995.		
+1990				1990				ont_été_dépassés	Durant les années 1990, 1991 et 1992, les tonnages maximum admissibles ont été dépassés.		
+2012	06			2012	06			a_cessé	La surveillance des eaux souterraines a cessé en juin 2012.		
+1981				1981				l__étanchéification	L'étude de réhabilitation de 1996, réalisée par la société GEOMETRA, précise que l'étanchéification du site a été réalisée en aout 1981 au moyen de bentonite.	'bentonite'	'la société GEOMETRA'
+1996				1996				L__étude_de_réhabilitation	L'étude de réhabilitation de 1996, réalisée par la société GEOMETRA, précise que l'étanchéification du site a été réalisée en aout 1981 au moyen de bentonite.	'bentonite'	'la société GEOMETRA'
+1981				1995				a_été_exploitée	L'ancienne Installation de stockage de déchet non dangereux a été exploitée de 1981 à 1995 par l'arrêté préfectoral du 30 juin 1980 délivré à la société France Déchets pour l'exploitation d'un dépôt d'ordures ménagères et de déchets industriels.	'déchet non dangereux'	'la société France Déchets'
+1993				1996				sont_prescrits	Entre 1993 et 1996, 4 arrêtés complémentaires sont prescrits pour le réaménagement du site après exploitation.		
+1992				1992				ont_été_dépassés	Durant les années 1990, 1991 et 1992, les tonnages maximum admissibles ont été dépassés.		
+1993	06	28		1993	06	28		se_fait	Le 28 juin 1993 le changement d’exploitant se fait au profit de la société ECOSPACE ( ancienne dénomination de SITA Centre EST devenue pour partie SITA Centre Ouest).		'la société ECOSPACE', 'SITA Centre EST', 'SITA Centre Ouest'
+1995	12			1995	12			une_étude_concernant_la_perméabilité	L’inspecteur des installations classés demande à ECOSPACE de faire réaliser, en décembre 1995, une étude concernant la perméabilité de la couverture du site ainsi que la stabilité de la digue périphérique.		'ECOSPACE'

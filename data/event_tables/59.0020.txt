@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	06		2000	04	06		a_été_reprise_par	- depuis le 06 avril 2000, la société des Huiles lemahieu a été reprise par la société ARF		'la société des Huiles lemahieu', 'la société ARF'
+2001	11			2001	11			L__excavation	L'excavation des terres polluées et les mesures de confirmation ont eu lieu en novembre 2001.		
+1998	12			1998	12			remise_du_rapport_définitif	- remise du rapport définitif en décembre 1998 qui conclut sur un classement en classe 2 (site à surveiller)		
+								Les_travaux_en_question_ont_été_réalisés	- Les travaux en question ont été réalisés en grande partie en août -septembre 2000.		
+1994				1994				une_étude_sommaire	- En 1994 , une étude sommaire de pollution des sols a été réalisée.		
+1974				1974				installé	- Site d'une installation de régénération d'huiles usagées installé depuis 1974.		
+2004	07			2004	07			Société_redevenue_SHL	- Société redevenue SHL en juillet 2004 (changement de raison sociale)		'redevenue SHL'
+2000	09			2000	09			Les_travaux_en_question_ont_été_réalisés	- Les travaux en question ont été réalisés en grande partie en août -septembre 2000.		
+2000	10			2000	10			Mise_en_place	Mise en place de nouveaux piezomètres en octobre 2000.		

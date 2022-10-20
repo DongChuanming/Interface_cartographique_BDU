@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								La_réalisation_d__un_diagnostic_initial	La réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR, selon les formes prévues par la circulaire du 3/04/96) a ensuite été prescrite par arrêté du 26/11/98.		
+2003				2003				a_émergé	En 2003 a émergé le projet d'installation sur le site d'une station d'épuration des effluents urbains (à l'aplomb des anciens halls d'électrolyse).		
+2001	04			2001	04			analyses	Le captage d’eau potable situé dans la plaine de Conflans a fait l’objet d'analyses en juillet 2000, avril 2001 et août 2003 ; des concentrations de l’ordre de 0.1 mg/l pour le fluor ont été mesurées, pour un seul de potabilité fixé à 1.5 mg/l.	'le fluor'	
+1994				1994				a_été_partiellement_démolie	Une usine d'électrolyse d’aluminium a été exploitée à partir de 1927 ; elle a été partiellement démolie et réaménagée en 1994-1995.		
+								a_été_établie	Une convention a été établie entre la mairie de Venthon et Aluminium Pechiney (propriétaire des terrains) le 8/07/06.		'Aluminium Pechiney'
+1995				1995				a_été_partiellement_démolie	Une usine d'électrolyse d’aluminium a été exploitée à partir de 1927 ; elle a été partiellement démolie et réaménagée en 1994-1995.		
+2003	08			2003	08			analyses	Le captage d’eau potable situé dans la plaine de Conflans a fait l’objet d'analyses en juillet 2000, avril 2001 et août 2003 ; des concentrations de l’ordre de 0.1 mg/l pour le fluor ont été mesurées, pour un seul de potabilité fixé à 1.5 mg/l.	'le fluor'	
+2008				2008				a_été_conclue	Une convention a été conclue avec le conseil général de la Savoie en 2008.		'le conseil général de la Savoie'
+1961				1961				a_été_loué	Enfin, nous signalons aussi l’ancien bâtiment situé au nord du site, qui a abrité les activités de fabrication de carbure de silicium et de ferro-alliages de la société Aluminium Péchiney, puis qui a été loué par cette dernière (en 1961) à la société CEZUS (premier producteur mondial de zirconium) pour y implanter une unité de fabrication d’électrodes en zirconium et en hafnium.	'carbure de silicium', 'ferro - alliages', 'zirconium', 'zirconium', 'hafnium'	'la société Aluminium Péchiney', 'la société CEZUS'
+2000	07			2000	07			ont_été_transmis	Les documents ont été transmis à l'administration en juillet 2000 puis en septembre 2001.		
+2002	12	31		2002	12	31		le_site_de_Venthon_à_compter	CEZUS a notifié à Monsieur le Préfet de la Savoie sa décision d’arrêter définitivement ses activités sur le site de Venthon à compter du 31 décembre 2002.		'CEZUS', 'le Préfet de la Savoie'
+2003	07			2003	07			a_été_transmise	Une proposition de servitudes a été transmise par l'exploitant en juillet 2003.		
+1995				1998				ont_été_transmis	Les éléments ont été transmis entre 1995 et 1998.		
+								est_toujours_reporté	Au 21/05/14, ce projet est toujours reporté.		
+2000	07			2000	07			analyses	Le captage d’eau potable situé dans la plaine de Conflans a fait l’objet d'analyses en juillet 2000, avril 2001 et août 2003 ; des concentrations de l’ordre de 0.1 mg/l pour le fluor ont été mesurées, pour un seul de potabilité fixé à 1.5 mg/l.	'le fluor'	
+2004				2004				a_été_démoli	Le bâtiment a été démoli en 2004.		
+2004	07			2004	07			ont_été_produits	Les éléments ont été produits juillet 2004 ; ils ne remettent pas en question la cotation de l'ESR du site et le projet de station d'épuration.		
+2002	01	31		2002	01	31		à_fait_part	Par lettre recommandée du 14 décembre 2001, l'exploitant à fait part au Préfet de la Savoie de la cessation de la dernière activité présente sur le site (fonderie d'alliages d'aluminium) au 31 janvier 2002.	'aluminium'	
+2006				2006				La_construction_de	La construction de la station s'est achevée en 2006.		
+2012				2012				présenté	- le projet présenté fin 2012 d'implantation sur le site Péchiney / Cezus d'un écoparc (transit de déchets).		'Péchiney / Cezus'
+1927				1927				a_été_exploitée	Une usine d'électrolyse d’aluminium a été exploitée à partir de 1927 ; elle a été partiellement démolie et réaménagée en 1994-1995.		
+2001	12	14		2001	12	14		à_fait_part	Par lettre recommandée du 14 décembre 2001, l'exploitant à fait part au Préfet de la Savoie de la cessation de la dernière activité présente sur le site (fonderie d'alliages d'aluminium) au 31 janvier 2002.	'aluminium'	

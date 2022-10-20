@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			l__incinération_de_déchets_a_cessé	La SITREVA a déposé un dossier de cessation d’activité le 31 mars 2014 déclarant que l’incinération de déchets a cessé depuis août 2013.		'La SITREVA'
+2013	10			2013	10			a_été_délivré	Un récépissé de changement d’exploitant a été délivré le 10juin 2013 au profit du SITREVA.		'SITREVA'
+2013	10			2013	10			profit	Un récépissé de changement d’exploitant a été délivré le 10juin 2013 au profit du SITREVA.		'SITREVA'
+2011	11			2011	11			mâchefers_analysés	Les mâchefers analysés en novembre 2011 présentaient des teneurs anormales en chrome total, en antimoine, au carbone organique total, aux dioxines et furanes.	'chrome total', 'antimoine', 'carbone organique total', 'dioxines', 'furanes'	
+2012	03			2012	03			Les_analyses	Les analyses de janvier et mars 2012 sur les rejets aqueux font apparaître des dépassements en plomb, cuivre et zinc liés probablement au lessivage de la zone de mâchefers par les eaux de pluie.	'plomb', 'cuivre', 'zinc'	
+2016	03	14		2016	03	14		Les_investigations_sur_les_sols	Les investigations sur les sols et hors site réalisées le 14 mars 2016 par le bureau d’études ANTEA ont permis de définir les points suivants:		'ANTEA'
+2012	12	26		2012	12	26		un_arrêté_de_mise_en_demeure	Cela a fait l'objet d'un arrêté de mise en demeure n°122866 le 26 décembre 2012.		
+2011	12	08		2011	12	08		Le_curage	Le curage de la cuve tampon du réseau de récupération des rejets aqueux a été effectué le 08 décembre 2011.		
+2014	03	31		2014	03	31		un_dossier_de_cessation_d__activité	La SITREVA a déposé un dossier de cessation d’activité le 31 mars 2014 déclarant que l’incinération de déchets a cessé depuis août 2013.		'La SITREVA'
+				2013	11	15		était_détenu_par	Le marché d'exploitation de l'incinérateur était détenu par la société INOVA (groupe Altawest) jusqu'au 15 novembre 2013 puis repris par SITREVA.		'la société INOVA', 'groupe Altawest', 'SITREVA'
+								Les_analyses	Les analyses de janvier et mars 2012 sur les rejets aqueux font apparaître des dépassements en plomb, cuivre et zinc liés probablement au lessivage de la zone de mâchefers par les eaux de pluie.	'plomb', 'cuivre', 'zinc'	
+2017	03	06		2017	03	06		l__analyse	- Évaluation sur les eaux souterraines : l'analyse du prélèvement sur les eaux potentiellement polluées du site a été effectuée le 06 mars 2017.		

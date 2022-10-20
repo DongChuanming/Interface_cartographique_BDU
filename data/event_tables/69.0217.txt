@@ -1,0 +1,35 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04	15		2002	04	15		de_déclaration	Elle exploita un atelier de fabrication d'émulsion de bitume (réglementé par le récépissé de déclaration du 15/04/2002), un stockage aérien de liquides inflammables (autorisé par l'arrêté préfectoral du 30/01/1934), un réservoir souterrain de gazole de 5 000l (récépissé de déclaration du 25/06/1962) et un laboratoire.	'bitume', 'liquides inflammables', 'de gazole'	
+1928				1928				débute_son_installation	La société MONIN débute son installation sur le site en 1928.		'La société MONIN'
+				1930				a_été_construite	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+2004	07	27		2004	07	27		autorisation_transmis	Le dossier de demande d'autorisation transmis par la SNC RANDOLI en date du 27/07/2004 a fait l'objet de plusieurs remarque par l'Inspection des Installations Classées.		'la SNC RANDOLI'
+1973				1973				Le_transfert	Le transfert de la société STREICHENBERGER vers un second site a été réalisé en 1973.		'la société STREICHENBERGER'
+2009	03			2009	03			nappe_d__au_souterraine_a_été_initié	Le suivi de la qualité de la nappe d'au souterraine a été initié sur le site au mois de mars 2009, après réalisation des travaux. 6 campagnes ont été renseignées à l'inspection des installations classées (la dernière ayant eu lieu au mois de mai 2010).		
+2010	05			2010	05			la_dernière_ayant_eu_lieu	Le suivi de la qualité de la nappe d'au souterraine a été initié sur le site au mois de mars 2009, après réalisation des travaux. 6 campagnes ont été renseignées à l'inspection des installations classées (la dernière ayant eu lieu au mois de mai 2010).		
+				1831				a_exploité	Celle-ci a exploité à partir de 1827 un atelier de construction de ligne de chemin de fer jusqu'en 1831.		
+2002				2002				a_été_démoli	Le centre de tri a été démoli en 2002 puis remblayé par des concassées de béton issu de la démolition.		
+2010	07	07		2010	07	07		de_déclaration_a_été_déposé	Un dossier de déclaration a été déposé en date du 07/07/2010 par la SNC RANDOLI en rapport avec la création d'un immeuble de logement sur le site avec installation de réfrigération et de compression.		'la SNC RANDOLI'
+2003				2003				Toutes_les_activités	Toutes les activités ont cessés sur le site en 2003.		
+1827				1827				entreprend	En 1827, la société SEGUIN FRÈRES entreprend la construction d'une gare d'eau sur le site.		'la société SEGUIN FRÈRES'
+2003				2003				ont_été_démolis	L'activité exercée é&tait le stockage et la distribution de denrées alimentaires. les bâtiments ont été démolis en 2003.		
+2010	05			2010	05			6_campagnes_ont_été_renseignées	Le suivi de la qualité de la nappe d'au souterraine a été initié sur le site au mois de mars 2009, après réalisation des travaux. 6 campagnes ont été renseignées à l'inspection des installations classées (la dernière ayant eu lieu au mois de mai 2010).		
+1829				1829				a_été_mise_en_place	La liaison Saint Etienne-Lyon y a été mise en place en 1829.		
+2004	07	27		2004	07	27		a_été_transmis	Ce projet a été transmis à la préfecture le 27/07/2004 par la société SNC RANDOLI, filiale de la société UNIBAIL.		'la société SNC RANDOLI', 'la société UNIBAIL'
+1954				1954				a_été_arrêté	L'activité de stockage de gaz a été arrêté en 1954.		
+1924				1973				exercée_sur	La société STREINCHENBERGER a exercée sur le site une activité de stockage et de distribution de gaz combustibles entre les années 1924 et 1973.	'combustibles'	'La société STREINCHENBERGER'
+1933				1953				est_la_propriété_de	De 1933 à 1953, le site est la propriété de la COMPAGNIE DU GAZ DE LYON.		'la COMPAGNIE DU GAZ DE LYON'
+1924				1973				une_activité_de_stockage_et_de_distribution_de_gaz_combustibles	La société STREINCHENBERGER a exercée sur le site une activité de stockage et de distribution de gaz combustibles entre les années 1924 et 1973.	'combustibles'	'La société STREINCHENBERGER'
+2005	06	22		2005	06	22		a_été_rédigée	Cette synthèse a été rédigée par le bureau d'étude ARCADIS en date du 22/06/2005.		'ARCADIS'
+2010	07	21		2010	07	21		a_été_signé	Un récépissé de déclaration a été signé en ce sens le 21/07/2010.		
+								fusionner	Elle a notamment été divisée en 2 partie distinctes en 1880 avant de fusionner au début des années 1900.		
+1827				1827				a_exploité	Celle-ci a exploité à partir de 1827 un atelier de construction de ligne de chemin de fer jusqu'en 1831.		
+2009	04	23		2009	04	23		Un_dossier_de_récolement	Un dossier de récolement des opérations environnementales a été transmis par ARCADIS à l'Inspection des Installations Classées en date du 23/04/2009.		'ARCADIS'
+1834				1834				a_été_construite	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+								a_été_exploité	Ce site a été exploité par la GÉNÉRALE AGRICOLE INDUSTRIELLE ET COMMERCIALE depuis le début des années 1960.		'la GÉNÉRALE AGRICOLE INDUSTRIELLE', 'ET COMMERCIALE'
+1973				1973				rachète	La POSTE rachète l'ensemble du site en 1973 pour y implanter un centre de tri postal.		'La POSTE'
+				1933				est_détenue	A cette date, et jusqu'en 1933, le site est détenue par la COMPAGNIE DE CHEMIN DE FER DE SAINT ÉTIENNE ET DE LYON.		'la COMPAGNIE', 'DE CHEMIN DE FER DE SAINT ÉTIENNE', 'LYON'
+1856				1875				exploité	La première en date concerne un atelier de créosotage de traverses de chemins de fer exploité par les RESEAUX FERRES DE FRANCE entre 1856 et 1875.		'les RESEAUX FERRES DE FRANCE'
+1934				1934				est_exploité	Une partie du site est exploité par la société routière COLAS dés 1934.		'la société routière COLAS'
+				1930				a_subit_de_nombreuses_modifications	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+1953				1953				rachète	En 1953, la société COLAS rachète l'ensemble des terrains et reprends les activités exercées par la société MONIN.		'la société COLAS', 'la société MONIN'
+1856				1856				sera_remblayée	Une partie de cette gare d'eau sera remblayée dés 1856 pour la construction d'un réseau de voies ferrées.		

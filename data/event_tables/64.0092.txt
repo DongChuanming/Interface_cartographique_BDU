@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Le_diagnostic	Le diagnostic des milieux en date de 2003 a montré la présence dans les sols :		
+2003	06	16		2003	06	16		a_été_remis	Le rapport a été remis le 16 juin 2003.		
+1989	02	17		1989	02	17		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 17 février 1989.		

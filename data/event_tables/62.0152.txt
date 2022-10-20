@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				2009	01			a_été_pratiquée	L'activité de teinture a été pratiquée sur le site de 1973 à janvier 2009.		
+2010	05	19		2010	05	19		a_été_signé	Un arrêté préfectoral de mise en demeure a été signé le 19/05/2010.		
+2010	12	14		2010	12	14		a_été_signé	Cet arrêté étant resté sans effet, un arrêté préfectoral de consignation d'un montant de 25 000 euros a été signé le 14 décembre 2010 à l'encontre de la société Teinturerie de Coquelles représentée par le liquidateur judiciaire.		'la société Teinturerie', 'de Coquelles'

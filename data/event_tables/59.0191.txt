@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	02		2009	11	02		instaurant	- Arrêté préfectoral instaurant des servitudes d'utilité publique le 2 novembre 2009, concernant l'ancienne décharge uniquement.		
+1998				1998				a_cessé_d__être_exploitée	- la décharge interne de borogypse et boues argileuses (21 ha) a cessé d'être exploitée en fin d'année 1998.		'la décharge interne de borogypse'
+2004	05			2004	05			remis	- Dossier de demande d'institution de servitudes d'utilité publique remis en mai 2004, actualisé en novembre 2007.		
+2006				2006				achevés	- Travaux de réhabilitation de l'ancienne décharge achevés en 2006.		
+2006				2006				Travaux_de_réhabilitation	- Travaux de réhabilitation de l'ancienne décharge achevés en 2006.		

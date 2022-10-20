@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	05	22		2013	05	22		la_résolution_du_plan_de_sauvegarde	Par jugement en date du 22 mai 2013, le Tribunal de Commerce de NANCY a prononcé la résolution du plan de sauvegarde et le redressement judiciaire de la société TRAILOR.		'le Tribunal de Commerce de NANCY', 'la société TRAILOR'
+2013	09	26		2013	09	26		L__information	L’information de la liquidation judiciaire n’a été portée à la connaissance de l’inspection des installations classées de la DREAL Lorraine que le 26 septembre 2013.		'la DREAL'
+								Une_pollution_des_sols	Une pollution des sols par hydrocarbures a été constatée et traitée, au début des années 2000 par excavation et un traitement biologique en centre extérieur.	'hydrocarbures'	
+2010	08			2010	08			ont_été_physiquement_éliminés	Tous les condensateurs et transformateurs contenant du Polychlorobiphényles (PCB) ont été physiquement éliminés du site en août 2010.	'les condensateurs', 'du Polychlorobiphényles', 'PCB'	

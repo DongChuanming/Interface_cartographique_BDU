@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	24		2007	10	24		Des_visites_du_site	Des visites du site les 11 aout 2006 et 24 octobre 2007 ont permis d'observer la destruction des bâtiments et le maintien des  infrastructures.		
+2005	07			2005	07			Une_demande	Une demande de permis de construire en juillet 2005 a donné lieu à un avis réservé de l'inspection des installations classées.  Les réserves concernaient les pollutions identifiées et la DRIRE invitait le demandeur (OPAC) soit à excaver les zones polluées soit à réaliser une évaluation détaillée des risques permettant de déterminer les contraintes de gestion du site.		'et la DRIRE'
+2001	07			2001	07			a_été_réalisée	Tout d'abord la phase historique (Diagnostic initial phase A (ESR)) a été réalisée en juillet 2001, puis le diagnostic initial phase B (ESR) en octobre 2001.		
+2001				2001				à_la_fermeture_définitive_du_site	Par la suite, le site a servi de zone de stockage et de préparation de fournitures en papeterie jusqu'à la fermeture définitive du site courant 2001.		
+				1996				ont_continué	Les activités de production ont continué jusqu'en 1996.		
+1920				1994				a_été_occupé	Le site a été occupé par la société Manopa (manufacture normande de papeterie ), spécialisée dans l'imprimerie et le traitement du papier, de 1920 à 1994, date à laquelle le site a été racheté par la société Herlitz pour le même type d'activités.		'la société Manopa', 'la société Herlitz'
+2011	09	26		2011	09	26		La_visite	La visite du site le 26 septembre 2011 a permis d'observer que le site a été réaménagé (Habitations)		
+1972				1978				utilisation_de_substances_radioactives	- utilisation de substances radioactives de 1972 à 1978.		
+2006				2006				Des_visites_du_site	Des visites du site les 11 aout 2006 et 24 octobre 2007 ont permis d'observer la destruction des bâtiments et le maintien des  infrastructures.		
+								Des_visites_du_site	Des visites du site les 11 aout 2006 et 24 octobre 2007 ont permis d'observer la destruction des bâtiments et le maintien des  infrastructures.		
+2000	07	05		2000	07	05		violet_a_mis_en	Le 5 juillet 2000, un constat de pollution des caniveaux d'évacuation des eaux pluviales des rues André Gantois et Paul Bert  par des produits colorants bleu-violet a mis en évidence la responsabilité de la société Herlitz.	'des produits colorants bleu'	'de la société Herlitz'
+2007	03	29		2007	03	29		Une_évaluation_détaillée_des_risques	Une évaluation détaillée des risques a ainsi été réalisée le 29 mars 2007:		
+2001	10			2001	10			le_diagnostic_initial_phase_B	Tout d'abord la phase historique (Diagnostic initial phase A (ESR)) a été réalisée en juillet 2001, puis le diagnostic initial phase B (ESR) en octobre 2001.		

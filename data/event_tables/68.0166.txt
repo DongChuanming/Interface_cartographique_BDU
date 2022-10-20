@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1969				la_réalisation	Même si les informations ne font pas apparaître clairement la présence de dépôts suspects, la morbidité élevée dans l'étang de pêche situé au pied des remblais et la sous-traitance d'une partie des remblais entre 1965 et 1969 justifient la réalisation d'une caractérisation et le contrôle de la qualité des eaux de la nappe.		
+1960				1974				autorisant_le_remblaiement	Parcelles privées appartenant à des personnes physiques qui ont souscrit des contrats avec des firmes HEINIS de Therwil (Suisse) et SIEBER de Bâle (Suisse) leur autorisant le remblaiement puis nivellement, de 1960 à 1974.	'Suisse', 'Suisse'	'HEINIS de Therwil', 'SIEBER de Bâle'
+1966				1966				a_remblayé	En 1966 un démolisseur de Bâle, MUSFELD a remblayé la partie Est avec du matériau de démolition.		'Bâle', 'MUSFELD'
+1963				1964				Le_remblaiement	Le remblaiement a pris fin entre 1963 et 1964.		

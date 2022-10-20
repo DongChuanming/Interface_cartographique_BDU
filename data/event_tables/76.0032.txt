@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				ont_été_implantés	Deux piézomètres supplémentaires ont été implantés en 1999, et deux mesures sont réalisées annuellement depuis cette date.		
+1991				1991				ont_été_mis_en_place	Quatre piézométres ont été mis en place en 1991 et ont fait l'objet d'analyses (COT, hydrocarbures totaux, phénols) en 1991, 1992 (3 mesures), 1996, 1997 et 1998.	'COT', 'hydrocarbures totaux', 'phénols'	
+1975				1993				a_été_mis_à_la_disposition	Entre 1975 et 1993, un terrain situé sur la Zone Industrielle d'Oudalle, à proximité du Canal de Tancarville, a été mis à la disposition du Corps des Sapeurs-Pompiers, pour la réalisation d'exercices d'incendie, par le Port Autonome du Havre.		'Tancarville', 'Sapeurs - Pompiers', 'le Port Autonome du Havre'

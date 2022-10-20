@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2005				des_investigations	De 2003 à fin 2005: des investigations relatives aux suivi de la qualité des eaux souterraines ont été menées (pose de piézomètres, analyses régulières).		
+2003	01			2003	01			une_étude_simplifiée_des_risques	Janvier 2003: une étude simplifiée des risques est imposée par arrêté préfectoral		'préfectoral'
+2017	11	16		2017	11	16		a_été_reçu	Le bilan quadriennal de suivi des eaux souterraines au droit et à l’extérieur de votre ancien site industriel, situé rue des Bouribouts à SENS a été reçu, le 16 novembre 2017.		
+2011	08	1		2011	08	1		__Phase_de_travaux	Du 1er août 2011 au 2 avril 2012: Phase de travaux.		
+2003	02	23		2003	02	23		est_mise_en_demeure_de_régulariser	23 février 2003: par arrêté préfectoral, la société GRAINDORGE est mise en demeure de régulariser sa situation administrative en déposant sous un délai de 3 mois un dossier de cessation d'activité.		'la société GRAINDORGE'
+2012	04	02		2012	04	02		est_transmis	Le rapport de fin de travaux est transmis à l'inspection des installations classées le 2 avril 2012.		
+2003	10			2003	10			sont_transmis	Octobre 2003: le dossier de cessation d'activité et l’étude simplifiée des risques (ESR) sont transmis à l'inspection des installations classées.		
+2009	02	24		2009	02	24		une_réunion_de_travail_est_organisée	24 février 2009: une réunion de travail est organisée entre l'inspection des installations classées et la société GRAINDORGE.		'la société GRAINDORGE'
+2001				2001				a_transféré	Dans les années 2001-2002, la société GRAINDORGE a transféré l'ensemble de ses activités vers le nouveau site sis ZI des Vauguillettes, également à Sens.		'la société GRAINDORGE'
+2010	03	10		2010	03	10		est_transmis	10 mars 2010: un plan de gestion est transmis à l'inspection des installations classées.		
+2011	05	04		2011	05	04		est_tenue_de_se_conformer	4 mai 2011: par arrêté préfectoral, la société GRAINDORGE est tenue de se conformer aux prescriptions suivantes:		'la société GRAINDORGE'
+2002				2002				a_transféré	Dans les années 2001-2002, la société GRAINDORGE a transféré l'ensemble de ses activités vers le nouveau site sis ZI des Vauguillettes, également à Sens.		'la société GRAINDORGE'
+2018	06	05		2018	06	05		Envoi	Envoi le 05 Juin 2018 courrier à la société GRAIN D'ORGE Rapport de l'inspection des installations classées et projet d'arrêté préfectoral complémentaire		"la société GRAIN D' ORGE"
+2002				2002				diminuent_peu	Les activités du site sis des Bouribouts diminuent peu à peu pour définitivement s'arrêter en 2002.		

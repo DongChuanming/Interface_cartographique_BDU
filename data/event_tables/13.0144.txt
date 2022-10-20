@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	23		2008	06	25		ont_été_enlevés	Entre le 23/06/2008 et le 25/06/2008, les déchets de surface ont été enlevés par la SFIC.	'les déchets de surface'	'la SFIC'
+1999	06	28		1999	06	28		la_cessation_de_ses_activités	L'exploitant déclarait par lettre du 28/06/1999, la cessation de ses activités.		
+2006	01			2006	01			Ce_diagnostic_initial	Ce diagnostic initial a été suivi d'un diagnostic complémentaire en Janvier 2006.		
+2010	06	15		2010	06	15		ont_été_remis	Un plan de gestion et une EQRS ont été remis le 15/06/2010 par SFIC.		'SFIC'
+1999	09			1999	09			Une_étude_de_sol	Une étude de sol a été effectué en Septembre 1999.		
+2008				2008				a_été_trouvé	En 2008, un accord a été trouvé entre l'ancien exploitant et le propriétaire des terrains.		
+2005	12			2005	12			a_été_réalisé	Un diagnostic initial simplifié a été réalisé en Décembre 2005.		

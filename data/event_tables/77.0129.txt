@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				L__exploitation_d_	L’exploitation d’une première unité d’incinération d’ordures ménagères (UIOM) a été autorisée en 1974.		
+2002	05			2002	05			l__analyse	Rejets atmosphériques : l’analyse de mai 2002 révèle un taux de rejet de dioxines et de furanes de 226ng/Nm3 très nettement supérieur au seuil de 0,1ng/Nm3 applicable aux nouvelles usines d’incinération d’ordures ménagères depuis 1998.	'dioxines', 'furanes', '226ng'	
+2003	10			2003	10			a_été_prescrite	- Une surveillance renforcée a été prescrite dans le cadre de l’autorisation de la nouvelle usine par arrêté complémentaire en octobre 2003.		
+2001	04			2001	04			a_été_autorisé	En avril 2001, le Syndicat mixte de traitement des ordures ménagères (SMITOM) a été autorisé à exploiter une unité de valorisation énergétique (UVE) des ordures ménagères sur le même site.		'le Syndicat mixte', 'ordures ménagères', 'SMITOM'
+2003				2003				UVE___en_activité	Aujourd’hui, l'unité de valorisation énergétique (UVE) en activité depuis 2003 respecte les normes réglementaires d’émissions de dioxines fixées à 0,1ng/Nm3.	'dioxines'	
+2009				2009				a_été_élaboré	Pour assurer un meilleur suivi, un nouveau protocole de surveillance dans la biosphère a été élaboré au premier trimestre 2009.		
+2002	07			2002	07			a_cessé_l__activité	Après plusieurs actions coercitives à l’encontre de l’exploitant compte tenu des non-conformités relevées et des résultats d’analyse, une proposition de suspension d’activité a été rédigée à la suite de laquelle le SIGUAM a cessé l’activité de l’UIOM en juillet 2002.		'le SIGUAM'
+2001				2001				a_été_mis_en_demeure	Début 2001, l’exploitant (le SIGUAM) a été mis en demeure de respecter les valeurs de rejets limites autorisées par l’arrêté ministériel du 25 janvier 1991 (notamment pour les dioxines, le monoxyde de carbone, les poussières et d’acide chlorhydrique et fluorhydrique).	'dioxines', 'monoxyde', 'de carbone', 'acide chlorhydrique', 'fluorhydrique'	'le SIGUAM'
+2009	06	19		2009	06	19		a_été_repris	Celui-ci a été repris par arrêté préfectoral du 19 juin 2009.		
+2003				2003				est_en_service	Cette unité est en service depuis la fin de l’année 2003.		
+2002	04			2002	04			des_prélèvements_réalisés	Pollution des sols : des prélèvements réalisés en avril 2002 ont révélé de fortes teneur en dioxines et furanes à quelques centaines de mètres de l’usine.	'dioxines', 'furanes'	

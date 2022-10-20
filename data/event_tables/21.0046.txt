@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			une_étude_de_sol	Dans le cadre de la vente du site au Foyer Dijonnais, BTB a réalisé une étude de sol en décembre 2001.		'BTB'
+2014	05			2014	05			La_campagne_de	La campagne de mai 2014 indique la présence de solvants chlorés à des concentrations importantes au niveau du réseau piézométrique.	'solvants chlorés'	
+2004	08			2004	08			Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en août 2004 avec au préalable des investigations pour délimiter les zones contaminées au tétrachloroéthylène.	'tétrachloroéthylène'	
+2003	02	19		2003	02	19		a_été_tenue_de_procéder_aux_prescriptions	19 février 2003: par arrêté préfectoral, la société INITIAL BTB a été tenue de procéder aux prescriptions suivantes:		'la société INITIAL BTB'
+				2001				une_activité_de_blanchisserie	Le site de la Société BTB accueillait jusqu'en 2001 une activité de blanchisserie pour une capacité d'environ 1600 kg et de nettoyage à sec pour une capacité d'environ 50 kg avec local de linge et vêtements de travail.		'la Société BTB'
+2006	11	14		2006	11	14		a_été_pris	14 novembre 2006: un nouvel arrêté préfectoral  relatif à la surveillance définitive et après réhabilitation du site des eaux souterraines a été pris.		
+				2001				accueillait	Le site de la Société BTB accueillait jusqu'en 2001 une activité de blanchisserie pour une capacité d'environ 1600 kg et de nettoyage à sec pour une capacité d'environ 50 kg avec local de linge et vêtements de travail.		'la Société BTB'

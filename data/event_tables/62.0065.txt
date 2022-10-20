@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				Démantèlement	- Démantèlement des machines effectué, évacuation des déchets et produits dangereux, mise en sécurité, dépôt de houille évacué, en 2009.	'produits dangereux'	
+2004				2009				ont_été_éliminés	- Les transformateurs présents sur le site ont été éliminés entre 2004 et 2009.		
+1979				1979				a_été_construite	- La plateforme d'essai sur le charbon a été construite en 1979, à l'emplacement de l'ancienne centrale thermique de Bully les mines et d'une partie du carreau des fosses 6 et 6 bis.	'charbon'	
+2002	05			2002	05			Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols phase B et d'une évaluation simplifiée des risques en mai 2002.		
+1994				2009				Arrêt_des_activités	- Arrêt des activités entre 1994 et 2009.		

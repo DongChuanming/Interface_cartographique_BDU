@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	03		2010	12	03		a_donné_acte	La DREAL en a donné acte le 3 décembre 2010, en rappelant néanmoins que cette étude n’était que partielle, et devrait être complétée en cas de changement de destination des terrains.		'La DREAL'
+1988				1988				a_acquis	La SCI « Sécurité 2000 » a acquis en 1988 de la Ville de St Étienne la parcelle  CN 63  pour y installer le siège d’une société de gardiennage.		'La SCI « Sécurité 2000'
+1999				2001				____achat	- de 1999 à 2001 : achat par la ville de St Étienne,		'par la ville de St Étienne'
+2001				2001				a_reçu	En 2001, dans le cadre d’un échange de terrains pour des travaux d’aménagement de voirie, la SCI a reçu de la ville de St Étienne une parcelle contiguë, cadastrée CN 177 et a cédé 450 m2 issus de la parcelle CN63.		'la ville de St Étienne'
+2010	11	08		2010	11	08		a_été_transmis	Le rapport d’étude des gaz dans l’air a été transmis le 8 novembre 2010 à l’inspection.		
+1985				1985				a_cessé_son_activité	Cet établissement a cessé son activité vers 1985, année de sa liquidation d’après l’acte de vente de la parcelle CN63.		
+2010				2010				un_diagnostic	Souhaitant vendre ce bien, la SCI « Sécurité 2000 » a commandé en 2010 à SOCOTEC Industries un diagnostic de sols, qui a conclu à la présence de sources de contamination, notamment aux métaux et aux hydrocarbures.	'métaux', 'hydrocarbures'	'SOCOTEC Industries'
+2010	08			2010	08			a_fait_procéder	La SCI « Sécurité 2000 » a fait procéder en août 2010 à une campagne de mesure des gaz de l’air dans les locaux et en extérieur, démontrant qu’il n’y avait pas de risque sanitaire pour les personnels de la société PROSEGUR travaillant sur place.		'la société PROSEGUR'
+1996	12			1996	12			a_été_rachetée	Elle a été rachetée en décembre 1996 par la ville de St Étienne, qui souhaitait la réhabiliter en lotissement industriel.		'la ville de St Étienne'
+1997	09			1997	09			n__a_cessé_son_activité	Toutefois, la société VITALE n’a cessé son activité sur ce site qu’en septembre 1997.		'la société VITALE'
+1986	01			1986	01			a_été_vendue	La parcelle cadastrée CN64 a été vendue en janvier 1986 à la société VITALE pour y exercer une activité classée de stockage et récupération de métaux et de déchets d’emballages.	'déchets d’'	'la société VITALE'
+1987				1988				____achat	- de 1987 à 1988 : achat par la ville de St Étienne,		'par la ville de St Étienne'
+1987	04			1987	04			a_été_achetée	La parcelle CN63 a été achetée en février 1986 par la société SOMA EUROPE TRANSMISSIONS, puis revendue à la ville de Saint Étienne en avril 1987.		'la société SOMA EUROPE TRANSMISSIONS'
+2012	04	18		2012	04	18		un_échange_tenu	Enfin, lors d’un échange tenu le 18 avril 2012, il a été recommandé aux représentants de la SCI :		
+1986	02			1986	02			a_été_achetée	La parcelle CN63 a été achetée en février 1986 par la société SOMA EUROPE TRANSMISSIONS, puis revendue à la ville de Saint Étienne en avril 1987.		'la société SOMA EUROPE TRANSMISSIONS'
+1987	04			1987	04			revendue	La parcelle CN63 a été achetée en février 1986 par la société SOMA EUROPE TRANSMISSIONS, puis revendue à la ville de Saint Étienne en avril 1987.		'la société SOMA EUROPE TRANSMISSIONS'
+1999	03	18		1999	03	18		la_cessation	C’est finalement la ville de St Étienne qui a transmis les éléments (établis par ou pour VITALE) permettant au Préfet d’acter la cessation en date du 18 mars 1999.		'la ville de St Étienne', 'VITALE'

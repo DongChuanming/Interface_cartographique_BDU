@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			ont_finalement_été_transmises	Elles ont finalement été transmises en novembre 2001 et juin 2002.		
+1996	04	03		1996	04	03		a_été_sélectionné	Étant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie (devenue DREAL), dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie', 'devenue DREAL'
+2001	09	20		2001	09	20		a_été_signé	Ces études n'ayant pas été remises dans les délais impartis, un arrêté préfectoral de mise en demeure a été signé le 20 septembre 2001.		
+2002				2002				déterminées	Les concentrations en hydrocarbures, déterminées par l'ESR en 2002, étaient nettement supérieur à la VCI (Valeur de Constat d'Impact).	'hydrocarbures'	"l' ESR"
+1860				1860				sont_implantés	Les premiers ateliers et rails se sont implantés vers 1860.		
+2001	11			2001	11			ont_finalement_été_transmises	Elles ont finalement été transmises en novembre 2001 et juin 2002.		

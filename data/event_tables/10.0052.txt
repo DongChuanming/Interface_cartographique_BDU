@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01			2009	01			site_le_21	Les travaux de remise en état ont été réalisées en 2008 et constatés lors d'une visite d'inspection sur le site le 21 janvier 2009.		
+2009	01			2009	01			état_ont_été_réalisées	Les travaux de remise en état ont été réalisées en 2008 et constatés lors d'une visite d'inspection sur le site le 21 janvier 2009.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				la_fermeture	Divers travaux ont eu lieu sur ce site depuis la fermeture de l'usine en 1985.		
+2008	01			2008	01			fin_de_travaux_reçu	Rapport de fin de travaux reçu en janvier 2008		
+2003	06			2003	06			a_alerté	Face à cette situation, la DRIRE a alerté (début juin 2003) le Maître d'Ouvrage et la Municipalité de Quiévrechain, par l'intermédiaire du Sous Préfet de Valenciennes, ce qui a conduit le Maître d'Ouvrage a établir un diagnostic précis de la pollution des sols dans la zone construite puis à excaver des sols les remblais qui présentaient des traces d'arsenic et de crésol supérieures aux valeurs guides dites "VDSS" au sens du guide de gestion des sites (potentiellement) pollués.	'arsenic', 'crésol'	'la DRIRE', 'Sous Préfet'
+2009	06			2009	06			Recolement_fait	Recolement fait en juin 2009		
+2007				2007				a_été_pris_en_charge	Le site a été pris en charge par l'EPF en 2007.		"l' EPF"
+1994	04			1994	04			découverte	-Suite à un incendie en avril 1994, découverte de fûts de produits chimiques sur le site de BLANC-MISSERON VITRAGES	'fûts de produits chimiques'	'BLANC-MISSERON VITRAGES'
+1994	04			1994	04			un_incendie	-Suite à un incendie en avril 1994, découverte de fûts de produits chimiques sur le site de BLANC-MISSERON VITRAGES	'fûts de produits chimiques'	'BLANC-MISSERON VITRAGES'

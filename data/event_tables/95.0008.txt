@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				est_encadrée	La surveillance de la nappe d'eau souterraine est encadrée depuis 1999 par des arrêtés préfectoraux complémentaires.		
+2001				2010				ont_été_pompés	De 2001 à 2010, 12800 litres de produits ont été pompés et éliminés en centre extérieur.		
+2001	02			2001	02			Ces_études_ont_été_transmises	Ces études ont été transmises à l'administration en avril, juin, novembre 2000 et février 2001.		
+								Ces_études_ont_été_transmises	Ces études ont été transmises à l'administration en avril, juin, novembre 2000 et février 2001.		
+2000	11			2000	11			Ces_études_ont_été_transmises	Ces études ont été transmises à l'administration en avril, juin, novembre 2000 et février 2001.		
+2001								Des_travaux_de_dépollution	Des travaux de dépollution de la nappe sont en cours depuis 2001.		

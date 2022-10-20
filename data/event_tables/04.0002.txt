@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Ce_chantier_s__est_achevé	- Ce chantier s'est achevé fin 1998 et  a fait l'objet d'un suivi par le CETE de Lyon.		'par le CETE de Lyon'
+1998	10	20		1998	10	20		également_un_suivi_immédiat	du 20 octobre 1998 prescrivant également un suivi immédiat de la qualité des lixiviats en bord de chaussée, jusqu'à fin 1999.		
+1995	06			1995	06			a_cessé_son_activité	L'ancien atelier de production d'hexachlorocyclohexane (HCH) était implanté sur le site de St Auban,sur une superficie de 3000m2, depuis juillet 1947 ; il a cessé son activité en juin 1995 puis a été démantelé.	'hexachlorocyclohexane', 'HCH'	
+				1999				également_un_suivi_immédiat	du 20 octobre 1998 prescrivant également un suivi immédiat de la qualité des lixiviats en bord de chaussée, jusqu'à fin 1999.		
+1947	07			1947	07			était_implanté	L'ancien atelier de production d'hexachlorocyclohexane (HCH) était implanté sur le site de St Auban,sur une superficie de 3000m2, depuis juillet 1947 ; il a cessé son activité en juin 1995 puis a été démantelé.	'hexachlorocyclohexane', 'HCH'	

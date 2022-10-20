@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__pH___6_89_en_PZ1	- pH : 6.89 en PZ1 et 6.95 en PZ2;		
+								__pH___6_74_en_PZ1	- pH : 6.74 en PZ1 et 6.84 en PZ2;		
+								__pH___7_61_en	- pH : 7.61 en amont et 7.57 en aval;		
+1950				1950				les_années	La décharge a été ouverte dans les années 1950, sans creusement du sol.		
+								ans__	- fréquence annuelle en période de basses eaux pendant 5 ans,		
+2014	05			2014	05			La_campagne	La campagne de mai 2014 constate les résultats suivants :		
+1989				2004				reçus_étaient_composés	De 1989 à 2004, les seuls déchets reçus étaient composés de déchets verts, de déchets industriels banals et de gravats.	'seuls déchets reçus'	
+								une_campagne_annuelle	- pendant les 5 années suivantes, une campagne annuelle en période de basses eaux,		

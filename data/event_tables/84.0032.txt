@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02	14		2007	02	14		a_été_complété	Un dossier de cessation d'activité a été déposé en date du 30 janvier 2007 et a été complété le 14 février 2007.		
+2006	06			2006	06			Le_démantèlement	Le démantèlement des installations a été réalisé en juin 2006, suivi par des opérations de dépollution.		
+				2004	09			se_sont_déroulés	Pour la zone 1, les travaux se sont déroulés de février à septembre 2004.		
+2001	05			2001	05			a_été_reprise	La station a été reprise en mai 2001 par la société CARAUTOROUTES.		'la société CARAUTOROUTES'
+2000				2010				des_travaux_réalisés	Le 25 février 2011, l'exploitant a remis un dossier de synthèse de l'ensemble des travaux réalisés entre 2000 et 2010, ainsi qu'un schéma conceptuel, qui met en évidence un risque potentiel d'exposition pour les populations riveraines situées à l'aval hydraulique du site via l'utilisation de l'eau de la nappe pour un usage d'eau potable et domestique.		
+2001				2001				d__une_étude	31 juillet au 2 août 2000 suivi d'une étude hydrologique complémentaire réalisée en 2001.		
+2011	02	25		2011	02	25		a_remis	Le 25 février 2011, l'exploitant a remis un dossier de synthèse de l'ensemble des travaux réalisés entre 2000 et 2010, ainsi qu'un schéma conceptuel, qui met en évidence un risque potentiel d'exposition pour les populations riveraines situées à l'aval hydraulique du site via l'utilisation de l'eau de la nappe pour un usage d'eau potable et domestique.		
+2007	01	30		2007	01	30		a_été_déposé	Un dossier de cessation d'activité a été déposé en date du 30 janvier 2007 et a été complété le 14 février 2007.		
+2001	06	25		2002	01	15		Des_travaux_de_réhabilitation	Des travaux de réhabilitation pour la zone 2 ont été effectués du 25 juin 2001 au 15 janvier 2002.		
+2007	02	14		2007	02	14		a_été_déposé	Un dossier de cessation d'activité a été déposé en date du 30 janvier 2007 et a été complété le 14 février 2007.		
+2007	03			2007	03			a_demandé	En mars 2007, l'inspection des installations classées a demandé à l'exploitant d'engager des recherches d'hydrocarbures dans les sols de la zone 1, la réalisation d'une campagne complémentaire de mesures de gaz dans les sols et la mise en place de 4 piézomètres pour suivre la qualité des eaux souterraines.	'hydrocarbures'	
+								des_travaux_ont_été_réalisés	Du mois d'août à septembre 2006, des travaux ont été réalisés dans le parc à cuves.		
+2006	09			2006	09			des_travaux_ont_été_réalisés	Du mois d'août à septembre 2006, des travaux ont été réalisés dans le parc à cuves.		

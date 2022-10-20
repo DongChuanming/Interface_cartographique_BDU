@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07	09		2008	07	09		a_rendu	T2A a rendu son dossier de cessation d’activité en date du 09/07/2008.		'T2A'
+2011	01			2011	01			a_été_rendu	Un nouveau dossier de cessation d’activité a été rendu par T2A au mois de janvier 2011 comprenant les investigations demandées par le préfet.		'T2A', 'le préfet'
+2006				2006				diagnostic_des_sols	Les 2 piézomètres implantés dans le cadre du diagnostic des sols de 2006 ne sont en effet plus accessibles suite aux travaux réalisés sur le site.		
+1994				1994				a_été_reprise	Cette activité a été reprise par la Teinturerie et Apprêts des Alpes (T2A) en 1994.	'T2A'	'la Teinturerie', 'Apprêts des Alpes'
+1830				1830				l__implantation	La première activité recensée sur le site date de 1830 avec l’implantation de la société de GANTS PERRIN.		'la société de GANTS PERRIN'
+2008	07	09		2008	07	09		ont_été_présentés	Les objectifs de réhabilitation du site ont été présentés dans le dossier de cessation d’activité remis à l’Inspection des Installations Classées le 09/07/2008.		
+2006	05			2006	05			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé par le bureau d’étude ANTEA au mois de mai 2006.		'ANTEA'
+1920				1920				est_reprise	En 1920, l’activité est reprise par la société VALISERE, spécialisé dans la conception de sous-vêtements.		'la société VALISERE'
+								est_en_dépôt_de_bilan	VALISERE est en dépôt de bilan dans les années 1980.		'VALISERE'

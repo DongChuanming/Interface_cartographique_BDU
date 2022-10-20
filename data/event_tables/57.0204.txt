@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	19		2011	07	19		il_a_été_imposé	Par arrêté préfectoral du 19 juillet 2011, il a été imposé à l'exploitant d'effectuer un diagnostic des sols au niveau de l'aire de lavage des citernes afin de déterminer une éventuelle pollution du site.		
+2010	12	1		2010	12	1		La_notification_de_cessation_partielle_d__activité	La notification de cessation partielle d'activité de la société COJEANCY a été réalisée le 1er décembre 2010 pour l'arrêt de l'activité de lavage pulvé de citerne à compter du 20 juillet 2010.		'la société COJEANCY'
+2010	07	20		2010	07	20		l__arrêt	La notification de cessation partielle d'activité de la société COJEANCY a été réalisée le 1er décembre 2010 pour l'arrêt de l'activité de lavage pulvé de citerne à compter du 20 juillet 2010.		'la société COJEANCY'
+2011				2011				un_diagnostic	Pour y répondre, l’exploitant a remis un diagnostic de l’état des milieux en 2011.		
+2011	04	01		2011	04	01		de_la_visite_d__inspection	Lors de la visite d'inspection du 1 avril 2011, il a été constaté que les installations liées à l'activité de lavage ont été démantelées et évacuées et qu'aucun déchet n'était présent sur le site.		
+2011	05	30		2011	05	30		a_été_mise_en_liquidation_judiciaire	Par jugement du 30 mai 2011, la société COJEANCY a été mise en liquidation judiciaire.		'la société COJEANCY'

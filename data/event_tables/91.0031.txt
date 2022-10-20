@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_cessé_son_activité	Ancienne station service (elle a été créée en 1971 et a cessé son activité en 1998).		
+2005	12			2005	12			est_devenu	Le site est devenu un parking (vente du terrain pour cet usage en décembre 2005).		
+2007	10	30		2007	10	30		courrier_de	Suite au courrier de l'inspection des installations classées en date du 30 octobre 2007, la société SHELL a communiqué début 2008 les résultats de la dernière campagne d'analyses réalisée le 21 novembre 2001.		'la société SHELL'
+2007	10	30		2007	10	30		a_communiqué	Suite au courrier de l'inspection des installations classées en date du 30 octobre 2007, la société SHELL a communiqué début 2008 les résultats de la dernière campagne d'analyses réalisée le 21 novembre 2001.		'la société SHELL'
+2005	12			2005	12			vente_du_terrain	Le site est devenu un parking (vente du terrain pour cet usage en décembre 2005).		
+2008				2008				a_communiqué	Suite au courrier de l'inspection des installations classées en date du 30 octobre 2007, la société SHELL a communiqué début 2008 les résultats de la dernière campagne d'analyses réalisée le 21 novembre 2001.		'la société SHELL'
+2001	11	21		2001	11	21		la_dernière_campagne_d__analyses	Suite au courrier de l'inspection des installations classées en date du 30 octobre 2007, la société SHELL a communiqué début 2008 les résultats de la dernière campagne d'analyses réalisée le 21 novembre 2001.		'la société SHELL'
+1971				1971				a_cessé_son_activité	Ancienne station service (elle a été créée en 1971 et a cessé son activité en 1998).		

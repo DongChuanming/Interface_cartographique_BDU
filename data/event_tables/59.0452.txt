@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1999	06			ont_été_enfouis	on activité a démarré en 1982 et environ 730 000 m3 de déchets ont été enfouis jusqu'en juin 1999.		
+2009	05	25		2009	05	25		la_remise_en_état	- Arrêté prefectoral imposant à SITA NORD des prescriptions complémentaires pour la remise en état de l'ancien centre de stockage de déchets ménagers et industriels banals d'Ohain, le 25/05/2009.		'SITA NORD'
+1982				1999				exploité	- Site situé sur une ancienne carrière de sable, exploité de 1982 à 1999.		
+1982				1982				a_démarré	on activité a démarré en 1982 et environ 730 000 m3 de déchets ont été enfouis jusqu'en juin 1999.		
+				2000				une_campagne_paléokarstique	Projet de couverture et d’infiltration des eaux avait été validé mais une campagne paléokarstique réalisé après 2000 a mis en évidence la présence de microfossiles.	'microfossiles'	

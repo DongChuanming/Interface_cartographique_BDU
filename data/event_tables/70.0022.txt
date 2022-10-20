@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	11			2007	11			Des_investigations_de_terrain	Des investigations de terrain effectuées en novembre 2007 par SITA REMEDIATION dans le cadre de la surveillance du site ont mis en évidence des anomalies significatives dans les sols et très significatives dans les eaux souterraines au droit de 4 piézomètres.		'SITA REMEDIATION'
+2013				2013				la_réalisation_d_	Fin 2013, suite au constat de l'existence d'habitations individuelles construites, en construction ou en prévision sur des parcelles de l'ancien site Faurecia, la DREAL a diligenté la réalisation d'une étude visant à déterminer la compatibilité des différentes parcelles avec un usage d'habitation.		'Faurecia', 'la DREAL'
+1938				1938				devient_propriétaire_de	- en 1938, la société cotonnière de LURE devient propriétaire de l'usine ;		'la société cotonnière de LURE'
+1982	10	29		1982	10	29		est_autorisée_à_exploiter	- en 1982, l'usine de LURE est autorisée à exploiter par arrêté préfectoral n° 3734 du 29 octobre 1982.		
+1982				1982				est_autorisée_à_exploiter	- en 1982, l'usine de LURE est autorisée à exploiter par arrêté préfectoral n° 3734 du 29 octobre 1982.		
+1999	12	23		1999	12	23		La_cessation_d__activité	La cessation d'activité du site de LURE est déclarée en préfecture par courrier du 23 décembre 1999.		
+								mise_en_place	- un traitement de la source de pollution par mise en place sous 3 mois d'un dispositif d'oxydation chimique in situ.		
+1962				1962				rachète	- en 1962, la société BERTRAND FAURE rachète l'usine et commence l'exploitation d'une première ligne de mousse polyuréthane en parallèle des activités de filature et de tissage ;		'la société BERTRAND FAURE', 'mousse polyuréthane'
+2008	04			2008	04			Diagnostic_complémentaire	Un diagnostic complémentaire, s'appuyant sur une deuxième campagne de surveillance des eaux souterraines a été réalisé et a fait l'objet d'un rapport intitulé : ''Diagnostic complémentaire des sols et suivi de la qualité de la nappe'' d'avril 2008.		
+								mise_en_place	- un confinement de la pollution par mise en place sous 3 mois d'une barrière hydraulique avec stripping des eaux pompées (élimination des composés volatils).	'composés volatils'	

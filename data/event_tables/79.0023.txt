@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	02	18		2014	02	18		a_été_complété	Cet acte a été complété le 18 février 2014 par un arrêté de consignation à l'encontre de la société MATHE, représentée par le liquidateur judiciaire, afin de finaliser le nettoyage de la chaufferie, d'évacuer les cuves aériennes encore présentes sur site, et de vidanger et inerter les cuves enterrées (stockant historiquement de l'essence, du gasoil et fioul domestique).	'essence', 'gasoil', 'fioul domestique'	'la société MATHE'
+2015	05	04		2015	05	04		finaliser_en_sécurité	La liquidation s'avérant impécunieuse, une intervention de l'ADEME a été sollicitée par le préfet des Deux-Sèvres afin de finaliser en sécurité le site le 4 mai 2015.		'le préfet des Deux - Sèvres'
+2013	08	29		2013	08	29		a_été_signé	La mise en sécurité du site restant à finaliser, un arrêté de mise en demeure a été signé le 29 août 2013.		
+2008	12	12		2008	12	12		a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire le 12 décembre 2008.		
+1910				1910				initiée	Ces activités avaient commencé au début des années 50, succédant à une activité de scierie initiée en 1910.		
+								avaient_commencé	Ces activités avaient commencé au début des années 50, succédant à une activité de scierie initiée en 1910.		
+2012	08	25		2012	08	25		a_été_constatée	Une pollution d'une conche à proximité du site par des hydrocarbures lourds a été constatée le 25 août 2012.	'hydrocarbures lourds'	
+2014	02			2014	02			est_propriétaire	L'établissement public foncier de Poitou-Charentes est propriétaire du site depuis février 2014 (achat du site).		'établissement public foncier de Poitou'
+2016				2016				Les_travaux_ont_eu_lieu	Les travaux ont eu lieu en 2016.		
+2011	09			2011	09			Un_diagnostic_environnemental	Un diagnostic environnemental a été établi en septembre 2011.		
+2013	09	16		2013	09	16		les_pollutions	En outre, les pollutions résiduelles sur site ont été portées à la connaissance de la Mairie le 16 septembre 2013 par le préfet des Deux-Sèvres afin notamment d'encadrer les usages dans l'attente d'une future réhabilitation.		'le préfet des Deux - Sèvres'
+1910				1910				avaient_commencé	Ces activités avaient commencé au début des années 50, succédant à une activité de scierie initiée en 1910.		

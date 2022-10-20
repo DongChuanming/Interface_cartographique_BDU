@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10	14		1999	10	14		Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été remises par le CEA le 14 octobre 1999 et concluent en particulier que du point de vue radiologique, les impacts sont dans tous les cas de figure inférieurs à la limite d'exposition réglementaire d'1 mSv/an.		
+1997	06	09		1997	06	09		une_étude_approfondie	Le CEA à remis le 09/06/1997 à la demande de l'administration une étude approfondie de la contamination de la zone, une cartographie précise et une évaluation de son incidence sur les eaux souterraines et les végétaux.		
+2006	07	03		2006	07	03		ont_été_communiqués	Les résultats des campagnes de mars et octobre 2005 ont été communiqués à l'inspection le 3 juillet 2006.		
+1997	05	21		1997	05	21		a_constaté	Dans le cadre de la surveillance dans l'environnement du site de Moronvilliers, le CEA a constaté et signalé le 21/05/1997 la présence de traces de pollution radioactive dans l'enceinte du site.		
+								des_campagnes_de	Les résultats des campagnes de mars et octobre 2005 ont été communiqués à l'inspection le 3 juillet 2006.		
+2005	10			2005	10			des_campagnes_de	Les résultats des campagnes de mars et octobre 2005 ont été communiqués à l'inspection le 3 juillet 2006.		

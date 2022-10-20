@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				Création	Création en 1997 d'un dépôt de concassés d'amiantes ciments de 25000 m3 dans l'enceinte de l'usine de fabrication pour stocker les produits non vendus lors de l'interdiction d'utilisation de ce matériau.		
+1996	04	03		1996	04	03		la_réalisation_d__un_diagnostic_initial	Cependant, compte tenu que les activités exercées sur le site sont susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, sur proposition et rapport de la DREAL Midi-Pyrénées, un arrêté préfectoral complémentaire du 28 février 2000, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur ce site.		'la DREAL Midi'
+1996				1996				l__interdiction_de_cette_substance	* à base d'amiante de la création de l'usine en 1971 jusqu'à l'interdiction de cette substance en 1996,		
+2003	12	17		2003	12	17		est_imposé	Un suivi piézométrique semestriel est imposé par l'arrêté préfectoral du 17 décembre 2003, pour ce qui concerne les paramètres chrome VI, chrome total, pH, hydrocarbures totaux et conductivité.	'chrome VI', 'chrome total', 'hydrocarbures totaux'	
+1971				1971				création_de_l__usine	* à base d'amiante de la création de l'usine en 1971 jusqu'à l'interdiction de cette substance en 1996,		
+2003	12	17		2003	12	17		est_réglementée	Cette usine est réglementée par un arrêté préfectoral d'autorisation du 17 décembre 2003.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				évaluation_détaillée_des_risques	- Première version de l'évaluation détaillée des risques en 2006.		
+1891				1965				a_été_propriétaire	- De 1891 à 1965, la SARL Avigneur a été propriétaire et exploitante du site.		'la SARL Avigneur'
+2004	05	24		2004	05	24		Réalisation_d__un_diagnostic_des_sols	- Réalisation d'un diagnostic des sols, le 24/05/2004.		
+2012	02	27		2012	02	27		mise_à_jour	- Réalisation d'une Évaluation Quantitative des Risques Sanitaires le 05/10/2009, mise à jour le 27/02/2012.		'Risques Sanitaires'
+1965				1965				a_racheté	En 1965, la société PROVOST a racheté le site pour y exercer une activité de fabrication de rayonnage métalliques: découpe d'acier en tube, de dégraissage, de mise en peinture et passage au four de pièces métalliques.		'la société PROVOST'
+2007				2007				Évacuation	- Évacuation des déchets (2006-2007)		
+2006				2006				Évacuation	- Évacuation des déchets (2006-2007)		
+2009	10	05		2009	10	05		Réalisation_d__une_Évaluation_Quantitative	- Réalisation d'une Évaluation Quantitative des Risques Sanitaires le 05/10/2009, mise à jour le 27/02/2012.		'Risques Sanitaires'
+2012	02	27		2012	02	27		Réalisation_d__une_Évaluation_Quantitative	- Réalisation d'une Évaluation Quantitative des Risques Sanitaires le 05/10/2009, mise à jour le 27/02/2012.		'Risques Sanitaires'
+2011	12	13		2011	12	13		Travaux_de_traitement	- Travaux de traitement le 13/12/2011: évacuation des terres polluées(641,72 Tonnes) et comblement de deux puits.		
+2005	04	05		2005	04	05		__Notification_de_cessation_d__activité	- Notification de cessation d'activité le 05/04/2005.		

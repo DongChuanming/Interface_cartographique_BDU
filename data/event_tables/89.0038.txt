@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02			2012	02			a_informé	Casimir a informé l'inspection des installations classées qu'une campagne d'investigations complémentaires serait lancée fin février 2012.		'Casimir'
+2012	02	23		2012	02	23		a_pris_effet	L'arrêt des activités a pris effet le 23 février 2012.		
+2012	02			2012	02			une_campagne_d__investigations	Casimir a informé l'inspection des installations classées qu'une campagne d'investigations complémentaires serait lancée fin février 2012.		'Casimir'

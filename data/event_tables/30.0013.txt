@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	12			1997	12			a_signalé	En décembre 1997, la municipalité de BESSEGES a signalé au préfet la présence de condensateurs contenant du pyralène.	'pyralène'	
+1998	07	08		1998	07	08		un_diagnostic	Par arrêté préfectoral de mise en demeure en date du 8 juillet 1998, un diagnostic sur la présence de PCB a été prescrit à la Société TUBEUROP qui s'est avéré être l'ayant droit de l'ancien représentant VALEXY.	'PCB'	'la Société TUBEUROP', 'ancien représentant VALEXY'
+1988				1988				ont_été_évacués	Les équipements ont été évacués au moment de la fermeture en 1988, mais les bâtiments ont été conservés et sont partiellement occupés par des activités artisanales, voire de PME, en majorité non classées ou sont sous la responsabilité communale.		
+2002	12	03		2002	12	03		un_diagnostic_de_sols	A la suite de cette prescription et d'un arrêté de mise en demeure du 07/08/2002 , un diagnostic de sols et une ESR ont été adressés à l'inspection le 03/12/2002 et concluent à une classification en classe 2 .		

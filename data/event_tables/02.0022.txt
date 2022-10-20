@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	06			1991	06			Remise_en_état	Remise en état en juin 1991: nivellement du dépôt, nettoyage des abords, pose de chaînes et de panneaux d'interdiction.		
+1978	12	22		1978	12	22		Décharge_de_DIS_autorisée	Décharge de DIS autorisée par arrêté préfectoral du 22/12/1978.		
+1981				1981				vidé	Crassier vidé en 1981.		

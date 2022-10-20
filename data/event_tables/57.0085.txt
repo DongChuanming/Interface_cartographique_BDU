@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2022				Le_démantèlement	Le démantèlement de l'aciérie a démarré en 2016 et est prévu jusque 2022.		
+2009	03			2009	03			l__aciérie	Fin mars 2009, le groupe a arrêté définitivement l'aciérie.		
+2002	03	20		2002	03	20		Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques (ESR) est présentée à l'inspection le 20 mars 2002 :		
+2002				2002				est_assurée	Une surveillance des eaux souterraines est assurée depuis 2002 sur des ouvrages de contrôle.		
+2009				2009				les_activités	Depuis 2009, les activités ont définitivement cessé sur l'aciérie.		
+2017				2017				les_travaux_réalisés	AMF a présenté les travaux réalisés en 2017 (diagnostic des réseaux souterrains et de drainage, essais de pompage de la nappe pour la rabattre dans le cadre du démantèlement, démantèlement du hall à briques réfractaires et des silos en béton, mise en sécurité des toitures, démantèlement en cours de l'unité dépoussiérage, du hall d’entretien (problématique amiante) et du portique, enlèvement et ferraillage en cours des gros équipements de l'aciérie).		'AMF'
+2016				2016				Le_démantèlement	Le démantèlement de l'aciérie a démarré en 2016 et est prévu jusque 2022.		

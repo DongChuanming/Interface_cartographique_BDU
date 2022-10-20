@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_été_détectée	La présence de Cadmium a été détectée (1.2 µg/l) en 2012 dans les eaux du forage implanté à proximité immédiate des lagunes.	'Cadmium'	
+				1997				ont_été_exploitées	Ces lagunes ont été exploitées par la société EMAUX DE BRIARE TECHNOLOGIE jusqu'en 1997, date du dépôt de bilan de cette dernière.		'la société EMAUX DE BRIARE TECHNOLOGIE'
+1997				1997				la_reprise_de	Suite à la reprise de l'activité par la société 'Les Jolies Céramiques' en 1997, les parcelles comprenant les lagunes ont été sorties du périmètre de l'exploitation et vendues à un tiers.		'la société'
+1995				1995				Des_analyses	Des analyses des sédiments de deux de ces lagunes ont été réalisées en 1995.		

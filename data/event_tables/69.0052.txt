@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04	24		2002	04	24		signé	Un arrêté préfectoral signé le 24 avril 2002 impose le rendu d'un diagnostic approfondi et de l'Etude Détaillée des Risques sous 9 mois.		
+1998	07	07		1998	07	07		ont_été_imposé	Conformément à la circulaire ministérielle du 03/04/1996 et compte tenu de la nature des activités, un diagnostic du site en matière de pollution et une étude simplifiée du risque ont été imposé par arrêté préfectoral le 07/07/1998.		
+								impose_le_rendu_d__un_diagnostic_approfondi	Un arrêté préfectoral signé le 24 avril 2002 impose le rendu d'un diagnostic approfondi et de l'Etude Détaillée des Risques sous 9 mois.		
+2001	10			2001	10			a_été_transmise	L'ESR a été transmise à l'administration en octobre 2001. 3 types de pollution de sols ont été mis en évidence : le cuivre, le plomb et les hydrocarbures.	'le cuivre', 'le plomb', 'hydrocarbures'	
+2000	06	05		2000	06	05		a_été_réalisé	Le diagnostic initial du site a été réalisé et a été transmis à l'administration le 05/06/2000.		
+2000	06	05		2000	06	05		a_été_transmis	Le diagnostic initial du site a été réalisé et a été transmis à l'administration le 05/06/2000.		
+2000	06	30		2000	06	30		ont_été_signifiées	Suite à la réception de ce diagnostic de nombreuses remarques ont été signifiées à l'exploitant par courrier du 30/06/2000.		

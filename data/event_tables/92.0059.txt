@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			la_cessation_d__activité	En avril 2004, ETG déclare la cessation d'activité de l'îlot Q.		'ETG'
+2006	11	20		2006	11	20		AP_de_remise_en_état	Sur l'ilôt K/G, une pollution aux hydrocarbures (nappe et sol )ayant été détectée en 2004 au voisinage des stockages de FOD (source N°3), un AP de remise en état de cette zone a été notifié le 20/11/2006.	'hydrocarbures'	'de FOD'
+								la_déclaration_de_cessation_définitive_d__activité	Le 24/04/07, ETG a effectué la déclaration de cessation définitive d'activité des derniers bâtiments en activité.		'ETG'
+2010	12	08		2010	12	08		de_récolement	- ensemble des sources N°1, 2, 4 : PV de récolement du 08/12/2010.		
+								a_été_notifié	Pour le reste de la parcelle, un AP de remise en état a été notifié le 24/09/09 à ETG pour la réhabilitation de l'ensemble du site(ilôt K/G) impacté par 3 sources de pollution par des hydrocarbures, hydrocarbures aromatiques polycycliques (HAP), composés organo-halogénés (COHV), composés organo-volatils (COV).	'hydrocarbures', 'hydrocarbures aromatiques polycycliques', 'HAP', 'composés organo - halogénés', 'COHV', 'composés organo - volatils', 'COV'	'ETG'
+2004				2004				a_été_notifié	Sur l'ilôt K/G, une pollution aux hydrocarbures (nappe et sol )ayant été détectée en 2004 au voisinage des stockages de FOD (source N°3), un AP de remise en état de cette zone a été notifié le 20/11/2006.	'hydrocarbures'	'de FOD'
+				2010				ont_été_réhabilitées	Elles ont été réhabilitées jusqu'en 2010.		
+2004				2004				ayant_été_détectée	Une pollution aux hydrocarbures (nappe et sol )ayant été détectée en 2004 au voisinage des stockages de FOD.	'hydrocarbures'	'FOD'
+2008	12	15		2008	12	15		__PV_de_récolement	- zone de la source N°3 : PV de récolement du 15/12/2008;		
+2010	12	08		2010	12	08		Le_PV_de_récolement	Le PV de récolement actant la fin des travaux de dépollution des ilôts K/G a été délivré le 08/12/2010.		
+2008	02			2008	02			fait_l__objet_d_	3 autres sources ont été identifiées et ont fait l'objet d'un plan de gestion en février 2008.		
+2008	12	15		2008	12	15		a_été_délivré	Le PV de récolement actant la fin des travaux de dépollution a été délivré le 15/12/2008.		
+2008	02			2008	02			ont_été_identifiées	3 autres sources ont été identifiées et ont fait l'objet d'un plan de gestion en février 2008.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				une_étude_simplifiée	L'activité exercée sur le site pouvant être le siège de déversements accidentels d'huiles, une étude simplifiée des risques de pollution des sols a été conduite à la demande de la DRIRE en 1999.		'la DRIRE'
+								une_activité_de_regroupement_d_	Le site accueille depuis le début des années 80 une activité de regroupement d'huiles usagées en attente de transfert en direction de centres de traitement (station de transit de déchets industriels).	'déchets industriels'	
+								accueille	Le site accueille depuis le début des années 80 une activité de regroupement d'huiles usagées en attente de transfert en direction de centres de traitement (station de transit de déchets industriels).	'déchets industriels'	

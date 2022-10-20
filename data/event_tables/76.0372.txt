@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	06	27		2017	07	11		Des_travaux_de_démantèlement	Des travaux de démantèlement et de remise en état ont été réalisé du 27 juin 2017 au 11 juillet 2017 et du 2 octobre 2017 au 11 octobre 2017.		
+2017				2017				a_cessé	L'activité a cessé en 2017.		
+2017	01			2017	01			Un_diagnostic_environnemental_des_sols	Un diagnostic environnemental des sols a été mené en janvier 2017 : réalisation de 20 sondages entre 1m et 8m de profondeur.		

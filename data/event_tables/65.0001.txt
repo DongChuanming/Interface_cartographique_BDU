@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	06			2013	06			la_crue_survenue	Le site a été impacté par la crue survenue en juin 2013 sur les Gaves alors que les travaux de protection contre ce risque inondation prescrits par l'arrêté préfectoral du 6 novembre 2012 étaient en cours de finalisation.		
+2018				2018				le_forage	3C, NH20, NH21, P7 et le forage de la pisciculture (hautes et basses eaux 2018).		
+2003	04	09		2003	04	09		est_réglementé	Le site est réglementé par l'arrêté préfectoral en date du 13 février 1991 modifié par les arrêtés préfectoraux complémentaires du 09 avril 2003, 22 novembre 2010 et 28 juin 2011.		
+1991	04	03		1991	04	03		est_intervenu	L'arrêt complet des ateliers est intervenu le 3 avril 1991 et en application des dispositions de l'arrêté préfectoral du 13 février 1991, les zones de stockage de déchets industriels ont été réhabilitées.	'stockage de déchets industriels'	
+2001				2001				autosurveillance_a_été_demandée	Fin 2001 une synthèse de tous les résultats d'autosurveillance a été demandée .		
+2013				2013				crues	crues de 2013, qui s’étaient traduites par une hausse significative des concentrations en phosphore	'phosphore'	
+2003	04	09		2003	04	09		pris	Des arrêtés préfectoraux complémentaires pris les 9 avril 2003, 22 novembre 2010 et 28 juin 2011 ont encadrés la surveillance et l'entretien du site.		
+1991				1991				ont_alors_été_mises_sous_cocon	Les boues stabilisées ont alors été mises sous cocon dès 1991 dans une double enveloppe d'argile avec contrôle d'étanchéité (double circuit de drains collectés vers des fosses étanches).		
+2019	04	04		2019	04	04		Le_récolement	Le récolement de l’ensemble des travaux a été réalisé le 4 avril 2019.		
+1997				1997				Des_travaux_complémentaires_ont_été_réalisés	Des travaux complémentaires ont été réalisés en 1993 et en 1997 afin d'améliorer l'étanchéité de la couverture sur les déchets arséniés (pose d'une géomembrane sur l'ensemble du site).		
+1997				1997				Les_derniers_travaux	Les derniers travaux ont eu lieu en 1997avec une remise en état des sites industriels et une mise en sécurité des déchets dans une décharge interne de déchets d'arsenic et des zones de stockages enterrés de déchets phosphorés.	"déchets d'", 'arsenic', 'phosphorés'	
+2018				2018				établi_pour_l_	Le dernier rapport de suivi de la nappe et de ses teneurs en phosphore et en arsenic établi pour l’année 2018, fait apparaître :	'phosphore', 'arsenic'	
+2016				2016				mesurées	à celles mesurées depuis 2016 ;		
+1997				1997				ont_été_réalisés	Ces travaux de réhabilitation ont été réalisés conformément aux dispositions de l'arrêté préfectoral du 13 février 1991, ils se sont achevés en 1997.		
+2011	06	28		2011	06	28		est_réglementé	Le site est réglementé par l'arrêté préfectoral en date du 13 février 1991 modifié par les arrêtés préfectoraux complémentaires du 09 avril 2003, 22 novembre 2010 et 28 juin 2011.		
+1993				1993				Des_travaux_complémentaires_ont_été_réalisés	Des travaux complémentaires ont été réalisés en 1993 et en 1997 afin d'améliorer l'étanchéité de la couverture sur les déchets arséniés (pose d'une géomembrane sur l'ensemble du site).		
+1997				1997				une_remise_en_état	Les derniers travaux ont eu lieu en 1997avec une remise en état des sites industriels et une mise en sécurité des déchets dans une décharge interne de déchets d'arsenic et des zones de stockages enterrés de déchets phosphorés.	"déchets d'", 'arsenic', 'phosphorés'	
+2013	05			2015	05			observées	observées entre mai 2013 et mai 2015.		
+				2010	11	22		pris	Des arrêtés préfectoraux complémentaires pris les 9 avril 2003, 22 novembre 2010 et 28 juin 2011 ont encadrés la surveillance et l'entretien du site.		
+				2010	11	22		est_réglementé	Le site est réglementé par l'arrêté préfectoral en date du 13 février 1991 modifié par les arrêtés préfectoraux complémentaires du 09 avril 2003, 22 novembre 2010 et 28 juin 2011.		
+2019	07	05		2019	07	05		Une_mise_à_jour	Une mise à jour du dossier de demande d'instauration de servitudes d'utilité publique a été transmis à la DREAL le 5 juillet 2019.		'la DREAL'
+2011	06	28		2011	06	28		pris	Des arrêtés préfectoraux complémentaires pris les 9 avril 2003, 22 novembre 2010 et 28 juin 2011 ont encadrés la surveillance et l'entretien du site.		

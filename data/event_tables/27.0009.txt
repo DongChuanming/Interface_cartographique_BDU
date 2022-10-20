@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				la_vente	À la suite de la vente en 1992 du site par le tribunal de commerce, l'acquéreur a fait procéder à la réhabilitation du site.		
+1990	04			1990	04			ont_cessé_toute_activité	Les établissements LAMARQUE, spécialisés dans la fabrication de pièces pour cycles et voitures d'enfants (avec traitement de surface des métaux), ont cessé toute activité sur le site de BEZU-SAINT-ELOI en avril 1990.		'Les établissements LAMARQUE'
+1993	11	30		1993	11	30		a_pris_acte	L'inspection des installations classées a pris acte de la remise en état du site dans un rapport du 4 octobre 1993 présenté au conseil départemental d'hygiène le 30 novembre 1993.		
+1993	10	04		1993	10	04		un_rapport	L'inspection des installations classées a pris acte de la remise en état du site dans un rapport du 4 octobre 1993 présenté au conseil départemental d'hygiène le 30 novembre 1993.		

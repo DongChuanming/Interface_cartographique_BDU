@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1955	08			1997	03			les_travaux_conduits	Un programme de réhabilitation a été défini par arrêté préfectoral (20 juillet 1995) et les travaux conduits de août 1955 à mars 1997.		
+1838				1965				exploitée	Ancienne usine à gaz exploitée de 1838 à 1965.		
+2002	05			2002	05			une_évaluation_détaillée_des_risques	Seule une zone n'a pas été complètement réaménagée mais a fait l'objet d'une évaluation détaillée des risques (mai 2002).		
+1995	07	20		1995	07	20		a_été_défini	Un programme de réhabilitation a été défini par arrêté préfectoral (20 juillet 1995) et les travaux conduits de août 1955 à mars 1997.		
+1996				1996				un_diagnostic_initial	En 1996, préalablement à la construction de nouveaux bâtiments de l'université, Gaz de France a fait réaliser un diagnostic initial du site qui a mis en évidence des zones polluées par des substances résultant de l'ancienne activité gazière.		'Gaz de France'
+1955	08			1997	03			a_été_défini	Un programme de réhabilitation a été défini par arrêté préfectoral (20 juillet 1995) et les travaux conduits de août 1955 à mars 1997.		

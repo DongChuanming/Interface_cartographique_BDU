@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1961				1961				a_été_créée	La Société de Technologie et de Réalisations Electroniques (STREL) a été créée en 1961.		'La Société de Technologie et de Réalisations Electroniques', 'STREL'
+								il_a_été_demandé	En conséquence, en qualité d'ancien directeur de la société STREL, il a été demandé au propriétaire en juillet et aout 2012, de procéder à la mise en sécurité du site.		'la société STREL'
+2012				2012				il_a_été_demandé	En conséquence, en qualité d'ancien directeur de la société STREL, il a été demandé au propriétaire en juillet et aout 2012, de procéder à la mise en sécurité du site.		'la société STREL'
+2009	11	02		2009	11	02		a_été_placée_en_liquidation_judiciaire	La société STREL à MOUROUX a été placée en liquidation judiciaire par décision du tribunal d’Antibes le 02 novembre 2009 et a donc cessé définitivement toute activité à compter de cette date.		'La société STREL', 'MOUROUX'

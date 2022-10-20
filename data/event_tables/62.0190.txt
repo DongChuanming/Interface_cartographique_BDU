@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Mise_en_place_d_	- Mise en place d'un piézomètre en août 94 et analyse des eaux souterraines, il est détecté une pollution COHV, sulfate, nitrate, cyanures et mercure notamment.	'COHV', 'sulfate', 'nitrate', 'cyanures', 'mercure'	
+1993	09	27		1993	09	27		un_diagnostic	- Réalisation d'un diagnostic du sous-sol (sous une cuve désaffectée), le 27/09/1993 qui conclut que les reconnaissances de sol sous la cuvette de rétention de la cuve désaffectée n'ont montrés aucune teneur anormale en hydrocarbures et métaux lourds.	'cuve désaffectée', 'hydrocarbures', 'métaux lourds'	
+1987	03	20		1987	03	20		une_étude_d__impact	- Réalisation d'une étude d'impact de l'installation de l'activité sur site, le 20/03/1987.		
+2005	09	01		2005	09	01		mise_à_jour	- Arrêté préfectoral d'autorisation du 04/12/1991, mise à jour par AP du 01/09/2005.		

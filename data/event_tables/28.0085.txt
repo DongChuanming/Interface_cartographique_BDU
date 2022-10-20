@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	10	30		2013	10	30		a_déposé	Dans ce cadre, elle a déposé au préfet le 30 octobre 2013 son dossier de cessation d’activité.		
+2014	01			2014	01			a_été_arrêtée	Depuis fin janvier 2014, la production a été arrêtée, l’enceinte est fermée et surveillée par un gardiennage.		
+2014	10	22		2014	10	22		transmise	A la suite de la visite de la DREAL le 5 mai 2014, une évaluation quantitative des risques sanitaires a été réalisée et transmise le 22 octobre 2014.		'la DREAL'
+2014	05	05		2014	05	05		de_la_visite	A la suite de la visite de la DREAL le 5 mai 2014, une évaluation quantitative des risques sanitaires a été réalisée et transmise le 22 octobre 2014.		'la DREAL'
+2014	01			2014	01			a_été_programmé	'arrêt a été programmé pour la fin du mois de janvier 2014.		
+2014	05	05		2014	05	05		une_évaluation_quantitative_des_risques_sanitaires	A la suite de la visite de la DREAL le 5 mai 2014, une évaluation quantitative des risques sanitaires a été réalisée et transmise le 22 octobre 2014.		'la DREAL'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__situé_à	De plus, nous sommes en présence d'un aquifère profond, situé à environ 900 mètres du site ; celui-ci est utilisé pour l'alimentation en eau potable de la commune de Myennes.		'environ'
+								De_plus___nous_sommes	De plus, nous sommes en présence d'un aquifère profond, situé à environ 900 mètres du site ; celui-ci est utilisé pour l'alimentation en eau potable de la commune de Myennes.		'environ'
+								hydrocarbures_et_des_solvants	- eaux souterraines : des hydrocarbures et des solvants chlorés ont été détectés le long d'un axe généralement orienté est-ouest au droit des 7 piézomètres présents sur le site,		

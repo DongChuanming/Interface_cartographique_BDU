@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								sont_régulièrement_inspectées	Les installations de l’établissement SOCATRI sont régulièrement inspectées, entre 4 et 6 fois par an, par l’Autorité de sûreté nucléaire.		'SOCATRI'
+1999	09	29		1999	09	29		un_diagnostic	A la demande de l’Autorité de sûreté nucléaire, un diagnostic de l’état de pollution du sol a été réalisé pour l’ensemble du site nucléaire du Tricastin ( hors centrale EDF) le 29 septembre 1999.		'centrale EDF'
+2001	02	22		2001	02	22		La_dernière_inspection	La dernière inspection spécifiquement consacrée à l’atelier de traitement de surface a eu lieu le 22 février 2001.		

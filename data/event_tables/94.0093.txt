@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04	15		2013	04	15		Le_permis_de_démolir	Le permis de démolir de l’auvent et de la boutique a été accordé le 15 avril 2013 par la mairie de Villeneuve-le-Roi.		
+2008	03	27		2008	03	27		un_incident	Le 27 mars 2008, un incident s’est produit suite à une livraison de fioul domestique dans la cuve enterrée de 3000 litres.	'fioul domestique'	
+2018	12	27		2018	12	27		son_rapport	Néanmoins, dans son rapport 27/12/2018, l'inspection des installations classées, après l’analyse des différents rapports transmis, a demandé à TOTAL de compléter ses études, dans un délai de 4 mois avec :		'TOTAL'
+								compléter_ses_études	Néanmoins, dans son rapport 27/12/2018, l'inspection des installations classées, après l’analyse des différents rapports transmis, a demandé à TOTAL de compléter ses études, dans un délai de 4 mois avec :		'TOTAL'
+2018	12	05		2018	12	05		Une_visite_d__inspection	Une visite d'inspection a été réalisée sur le site le 05/12/2018.		
+2012	12	20		2012	12	20		a_définitivement_cessé	L’activité a définitivement cessé le 20/12/2012.		
+1952				1952				Elle_existait	Elle existait depuis 1952.		
+2014	04	19		2014	04	19		transmis_par_courrier	Le rapport relatif au suivi environnemental des travaux de démantèlement transmis par courrier du 19/04/2014 à mis en évidence 5 zones de pollution résiduelle.		
+								les_diagnostics_environnementaux	L’exploitant a transmis, par courrier du 11/10/2013, les diagnostics environnementaux réalisés en avril et en novembre-décembre 2008. 18 sondages ont été réalisés afin de définir la qualité des sols et 5 piézomètres ont été mis en place pour analyser la qualité des eaux souterraines.		
+2008	12			2008	12			les_diagnostics_environnementaux	L’exploitant a transmis, par courrier du 11/10/2013, les diagnostics environnementaux réalisés en avril et en novembre-décembre 2008. 18 sondages ont été réalisés afin de définir la qualité des sols et 5 piézomètres ont été mis en place pour analyser la qualité des eaux souterraines.		
+2012	12			2012	12			Le_démantèlement_du_site	Le démantèlement du site s’est déroulé sur la période allant de décembre 2012 à février 2014.		
+2013	03	04		2013	03	04		a_été_délivré	e récépissé de cessation a été délivré le 4 mars 2013.		
+2014	06			2014	06			ont_été_mesurés	En ce qui concerne les gaz du sol, des hydrocarbures ont été mesurés au niveau du piézair PZG3 avec des teneurs de 32,81 mg/m3 en juin 2014.	'hydrocarbures'	
+2017	07			2017	07			a_été_transmis	Un plan de gestion a été transmis par TOTAL en juillet 2017.		'TOTAL'
+2014	02			2014	02			Le_démantèlement_du_site	Le démantèlement du site s’est déroulé sur la période allant de décembre 2012 à février 2014.		
+2008	03	28		2008	03	28		Des_investigations	Des investigations, réalisées le 28 mars 2008, ont permis de constater que du fioul se trouvait au niveau du trou d’homme de la cuve.	'fioul'	

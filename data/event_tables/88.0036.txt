@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04	1		2008	04	1		Les_travaux_d__excavation	Les travaux d'excavation ont commencé en août 2007 pour s'achever par la transmission à l'inspection des bordereaux de suivi des déchets en date du 1er avril 2008.		
+2007				2007				L__évaluation_qualitative_des_risques_sanitaires	L'évaluation qualitative des risques sanitaires (EQRS) réalisée au cours du premier trimestre 2007 a permis d'évaluer les niveaux de risque résultant de la pollution, en particulier pour l'usage industriel prévu du site, suite à la fin d'activité de la société NIEF PLASTIC, repreneur du site précédemment exploité.		'la société NIEF PLASTIC'
+2002	05			2002	05			une_évaluation_simplifiée_des_risques	Faurecia a donc réalisé une évaluation simplifiée des risques (ESR) en mai 2002.		'Faurecia'
+2007	08			2007	08			Les_travaux_d__excavation	Les travaux d'excavation ont commencé en août 2007 pour s'achever par la transmission à l'inspection des bordereaux de suivi des déchets en date du 1er avril 2008.		
+2008	04	1		2008	04	1		la_transmission	Les travaux d'excavation ont commencé en août 2007 pour s'achever par la transmission à l'inspection des bordereaux de suivi des déchets en date du 1er avril 2008.		
+2003				2003				Les_systèmes_de_dépollution	Les systèmes de dépollution mis en place en 2003 ont permis de réduire le panache sur sa périphérie ainsi que la masse de contamination.		
+2002	11	1		2002	11	1		un_audit_environnemental	Dans le cadre de la cession du site à NIEF PLASTIC à partir du 1er novembre 2002, la société FAURECIA a fait réaliser un audit environnemental du site avant la transaction.		'NIEF PLASTIC', 'la société FAURECIA'
+2003	10	20		2003	10	20		informe	Par courrier du 20 octobre 2003, l'inspection informe le Préfet des Vosges que le site n'est plus abandonné.		'le Préfet des Vosges'
+2003	12			2003	12			Les_travaux_d__extraction	Les travaux d'extraction des eaux et des gaz et d'oxydation in situ ont débuté en décembre 2003.		

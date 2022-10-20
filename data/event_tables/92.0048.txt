@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				2004				__a_été___réalisé	Un suivi piézométrique semestriel  a été  réalisé de 1998 à 2004.		
+								PV_de_récollement	PV de récollement: 16/11/98		
+1996	06	19		1996	06	19		un_arrêté_de_dépollution	Suite à la cessation d'activité de la Sté BP, un arrêté de dépollution a été pris le 19/06/1996.		'la Sté BP'
+1927				1995				occupé_dans_le_passé	Site occupé dans le passé par une activité de préparation et conditionnement d'huiles, de 1927 à 1995.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1948				1980				a_été_exploité	e site a été exploité de 1948 à 1980.		
+2006	10	12		2006	10	12		La_campagne_d__analyses	La campagne d’analyses des eaux souterraines du 12 octobre 2006 montre que la situation est satisfaisante et reste stable par rapport aux dernières campagnes.		
+2000				2000				Des_investigations_complémentaires_à_l__évaluation_simplifiée_des_risques	Des investigations complémentaires à l'évaluation simplifiée des risques ont été réalisées en 2000.		
+2010	02			2010	02			La_campagne_de	La campagne de février 2010 sur les sources montre des traces d'HCT à 0,1 mg/l.	'HCT'	
+2012	12	21		2012	12	21		est_remis	Un dossier de demande d'institution de servitudes (RUCPE) est remis le 21 décembre 2012		'RUCPE'
+1999				1999				l__évaluation_simplifiée_des_risques	Le diagnostic initial et l'évaluation simplifiée des risques réalisés en 1999 place le site en classe 1 nécessitant des investigations approfondies.		
+2007	08	16		2007	08	16		Un_diagnostic_approfondi_élaboré	Un diagnostic approfondi élaboré par ANTEA est remis le 16 août 2007.		'ANTEA'
+								la_remise_d__un_diagnostic_approfondi	L'arrêté préfectoral du 12 juin 2006 prescrit dans le délai de 12 mois la remise d'un diagnostic approfondi en préalable au programme de dépollution, de réhabilitation et du suivi de la décharge.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Un_pompage	Un pompage de la nappe avec passage des eaux sur un séparateur d'hydrocarbures pendant 4 mois a également eu lieu.	'hydrocarbures'	
+1986				1986				a_été_démantelé	Le dépôt a été démantelé en 1986, et la première étude diagnostic rendue en juin 1997 avec une ESR (classe 2 : site à surveiller), a mis en évidence une pollution des sols en profondeur et des eaux souterraines (hydrocarbures (2mg/l) ; benzène (2mg/l) et éthylbenzène).	'hydrocarbures', 'benzène', 'éthylbenzène'	
+				1999	06			Des_excavations	Des excavations des terres les plus polluées ont eu lieu de mai à juin 1999 avec élimination en CET1.		
+2006				2006				s__est_arrêtée	Cette dernière s'est arrêtée en 2006 toutefois le Complexe pétrolier de Strasbourg réalise une surveillance trimestrielle dans 18 points de contrôle répartis en limite aval de l'emprise du complexe.		'Complexe pétrolier de Strasbourg'
+1998				1998				Des_travaux_de_dépollution	Des travaux de dépollution ont commencé en été 1998 avec un traitement biologique des terres.		
+2000	06	27		2000	06	27		récolement	. de récolement a été dressé le 27 juin 2000.		

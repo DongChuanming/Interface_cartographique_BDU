@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	06			2011	06			a_été_transmis	Un projet d'arrêté de Serviture d'Utilité Publique a été transmis en juin 2011 pr avis aux services de l'Etat, au propriétaire, au Maire de St Lyé et à l'exploitant ; il a été signé le 16 janvier 2012.		
+1999	12			1999	12			ont_été_implantés	3 piézomètres ont été implantés en décembre 1999 lors des investigations de terrains pour l'établissement du diagnostic initial et de l'évaluation simplifiée des risques à l'issue de laquelle le site a été classé en catégorie 1 comme site nécessitant des investigations approfondies.		
+2012	01	16		2012	01	16		a_été_signé	Un projet d'arrêté de Serviture d'Utilité Publique a été transmis en juin 2011 pr avis aux services de l'Etat, au propriétaire, au Maire de St Lyé et à l'exploitant ; il a été signé le 16 janvier 2012.		
+2011	03			2011	03			a_été_remis	Le mémoire de réhabilitation a été remis en mars 2011.		
+								a_été_demandée	Une surveillance régulière, semestrielle, a été demandée par courrier de la DRIRE du 5/09/03.		'la DRIRE'

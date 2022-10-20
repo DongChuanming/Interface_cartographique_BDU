@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	01	22		2014	01	22		la_liquidation_judiciaire	Le Jugement du tribunal de commerce de Roanne a prononcé le 22 janvier 2014 la liquidation judiciaire de la S.		
+1954				1954				a_été_créée	Avant 1954, date à laquelle la station-service a été créée, la parcelle était un terrain vide.		
+2015	06	29		2015	06	29		a_indiqué	Par courrier du 29 juin 2015, le liquidateur a indiqué à l’inspection que sa mission es qualité de liquidateur a pris fin le 14 janvier 2015 (liquidation close).		
+2015	01	14		2015	01	14		es_qualité_de_liquidateur_a_pris_fin	Par courrier du 29 juin 2015, le liquidateur a indiqué à l’inspection que sa mission es qualité de liquidateur a pris fin le 14 janvier 2015 (liquidation close).		
+2015	01	30		2015	01	30		a_été_délivré	Il a été délivré le 30 janvier 2015, le récépissé n°3051 relatif à la déclaration de mise à l’arrêt définitif des installations du site.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11			2010	11			Travaux_de_comblement_d_	Travaux de comblement d'un forage industriel en novembre 2010.		
+1999	08			1999	08			Une_évaluation_des_risques	Une évaluation des risques a été réalisée en août 1999 et le site figure alors en classe 1 pour l'une des sources identifiées (Zone polluée par des hydrocarbures).	'hydrocarbures'	
+1905				1905				se_sont_succédées	Les activités industrielles se sont succédées depuis 1905 :		
+2009	04	24		2009	04	24		Réalisation_d__un_plan_de_gestion	Réalisation d'un plan de gestion de l'ancienne parcelle UMICORE: 24/04/2009.		
+								a_donc_été_imposée	Une surveillance de la nappe a donc été imposée par arrêté préfectoral en date du 05/03/03.		

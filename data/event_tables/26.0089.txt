@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09	02		2016	09	02		Un_diagnostic_approfondi	Un diagnostic approfondi a été effectué le 02/09/2016.		
+2016	04			2016	04			un_diagnostic	OZAND a joint à sa transmission un diagnostic de l’état des milieux réalisée par l’APAVE en avril 2016.		'APAVE'
+2015	07	02		2015	07	02		a_transmis	ROJON Frederic, gérant de la société CHAMPIER AUTO PIECES a transmis le  02/07/2015 un simple courrier à la DREAL ainsi qu’à M. le Préfet  pour l’informer de la fermeture définitive de son site de VHU de ROMANS.		'ROJON Frederic', 'la société CHAMPIER AUTO PIECES', 'à la DREAL', 'M. le Préfet', 'de VHU de ROMANS'
+2016	04	08		2016	04	08		Un_diagnostic	Un diagnostic de l’état des milieux  a été effectué le 08/04/2016.		
+1992	01	21		1992	01	21		avait_donc_été_autorisée	L’exercice de cette activité avait donc été autorisée sur ce site de Romans, par l’arrêté préfectoral n° 255 du 21/01/1992.		
+2017	03			2017	03			L__ensemble_des_travaux_réalisés	L’ensemble des travaux réalisés en mars 2017 a été conduit suivant les préconisations du cabinet environnemental.		

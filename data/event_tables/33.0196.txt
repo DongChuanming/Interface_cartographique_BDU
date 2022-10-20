@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_remplacée_par	Cette cuve a été remplacée par une cuve double enveloppe en 2001.		
+2012				2012				a_remis	En 2012 l’exploitant a remis un bilan présentant les émissions résiduelles estimées de polluants non traités lors de l’utilisation de l’eau dans les procédés du site.	'polluants non traités'	
+								l__arrêt_annuel_estival	-renforcer la surveillance semestrielle par 2 campagnes supplémentaires à l’issue de l’arrêt annuel estival (fin août) et à l’issue de l’arrêt annuel hivernal (début janvier) ;		
+2003				2003				Au_cours_de	Au cours de l’été 2003, plusieurs déversements de rejets de solvants chlorés liés au dysfonctionnement d’une alarme de trop plein génèrent une pollution accidentelle et chronique.	'solvants chlorés'	
+								a_été_relevé	Le confinement le plus faible a été relevé lors de la période de hautes eaux d’avril 2014.		
+2005	10	05		2005	10	05		d__état_des_lieux_révèle	Le 05/10/2005, le rapport d'étude historique et d'état des lieux révèle la présence d'une seconde source de pollution des sols par de la méthyl-éthyl-cétone et des COHV essentiellement au niveau du bâtiment 24.	'la méthyl - éthyl - cétone', 'des COHV'	
+2005	08			2005	08			sont_excavées	En Août 2005, 80 m3 de terres polluées sont excavées de la source n°1.		
+2012				2012				est_déclaré	En 2012, le changement d'exploitant est déclaré au profit de la société SAFRAN HERAKLES.		'la société SAFRAN HERAKLES'
+2014				2014				a_été_relevé	Le confinement le plus faible a été relevé lors de la période de hautes eaux d’avril 2014.		
+2012	04			2012	04			analyses	Les résultats d'analyses d'Avril 2012 montrent une diminution des concentrations mesurées, sans toutefois atteindre les objectifs de qualité des masses d'eau prévues par la directive cadre.		
+								l__arrêt_annuel_hivernal	-renforcer la surveillance semestrielle par 2 campagnes supplémentaires à l’issue de l’arrêt annuel estival (fin août) et à l’issue de l’arrêt annuel hivernal (début janvier) ;		
+2007	05	11		2007	05	11		__modification	- 03/11/2006 et 11/05/2007 : modification du tableau de classement.		
+2004	01			2004	01			mener_une_étude_de_vulnérabilité	- mener une étude de vulnérabilité pour Janvier 2004,		
+2004	07	29		2004	07	29		__retrait	- 29/07/2004 : retrait de la rubrique 1710-b (Substances radioactives (préparation, fabrication, transformation et conditionnement des), et utilisation de substances radioactives sous forme de sources non scellées ou sous forme de sources scellées non conformes aux normes NF M 61-002 et NF M 61-003),		
+2004	02			2004	02			Évaluation_Simplifiée_des_Risques	- finaliser l’Évaluation Simplifiée des Risques pour Février 2004,		
+2012	01	31		2012	01	31		sont_remis	Le bilan matière et l'étude des solutions technico-économiques de traitements sont remis le 31/01/2012.		
+2006	02			2006	02			déterminée	L'étendue de la pollution résiduelle déterminée en Février 2006 est d'environ 110 m2 sous un bâtiment et sous une route.		
+2006	11	03		2006	11	03		__modification	- 03/11/2006 et 11/05/2007 : modification du tableau de classement.		
+2011				2011				a_été_localisée	Une pollution des sols par des hydrocarbures a été localisée mi 2011 autour d'une cuve de fuel.	'hydrocarbures', 'fuel'	
+2006	10	23		2006	10	23		__implantation_d_	- 23/10/2006 : implantation d'un nouveau four,		
+2004	10	29		2004	10	29		__des_actions_sont_fixées	Le 29/10/2004, des actions sont fixées portant sur les sols, les eaux souterraines, les eaux superficielles, l’étude historique du site et le traitement des données.		
+2011	04	13		2011	04	13		Le_bilan_quadriennal	Le bilan quadriennal du suivi des sols et de la nappe présenté le 13/04/2011 fait apparaître que :		
+2011	07			2011	07			a_isolé_la_mare	Suite à la pollution du fossé situé à l'aval de la mare en Juillet 2011, l'exploitant a isolé la mare aux canards du fossé, en remplaçant la vanne de barrage existante par un mur et en réalisant le renforcement de la digue entre la mare aux canards et le fossé.		

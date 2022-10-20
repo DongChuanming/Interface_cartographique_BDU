@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				l__arrêt_de_son_activité	- Cette friche n'a pas pu faire l'objet de travaux de remise en état depuis l'arrêt de son activité en 1989 en raison de l'insolvabilité des responsables.		
+2009				2009				a_repris	- en 2009, la société ECOFRICHE a repris le site occupé par l'usine et est devenue à ce titre le propriétaire aménageur.		'la société ECOFRICHE'
+2008	03			2008	03			un_plan_de_réhabilitation	- en mars 2008, la société ECOFRICHE a présenté à la préfecture un plan de réhabilitation de la partie usine du site, sous réserve de la vente du bien à son profit.		'la société ECOFRICHE'
+1870				1987				exploité	- Sita exploité de 1870 à 1987 par des activités d'ennoblissement du textile et notamment de teinture du lin et du coton.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04			2000	04			diagnostic_pollution	En avril 2000, diagnostic pollution réalisé spontanément par l'exploitant avant cession du terrain.		
+								Dépollution_par_venting	Dépollution par venting commencée en juillet et août 2000 de la propre initiative de l'exploitant.		
+2001	02			2001	02			Achèvement_de_la_dépollution	Achèvement de la dépollution en février 2001 ("tendance asymptotique des concentrations qui se maintiennent constamment sous les  200 mg/m3 d'air à partir d'octobre 2000 : les concentrations dans l'air extrait sont très faibles allant de 2.7 mg/m3 à 42 mg/m3 selon les puits").		
+2000	08			2000	08			Dépollution_par_venting	Dépollution par venting commencée en juillet et août 2000 de la propre initiative de l'exploitant.		
+2000	12	31		2000	12	31		Cessation_d__activité	Cessation d'activité sur le site au 31/12/2000.		

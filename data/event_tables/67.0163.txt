@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	06		2006	10	06		sont_encadrées	Le site est actuellement soumis à autorisation et ses activités sont encadrées par l'AP principal en date du 06/10/2006 et un AP complémentaire du 22/06/2010.		
+2009				2009				précédente_campagne_réalisée	On peut toutefois noter la présence de nitrates et l'absence de matières oxydables, d'ammonium et d'hydrocarbures contrairement à la précédente campagne réalisée en 2009.	'nitrates', 'ammonium', 'hydrocarbures'	
+2015				2015				sera_révisée	la surveillance sera révisée en 2015.		
+2010	06	22		2010	06	22		est_actuellement_soumis_à_autorisation	Le site est actuellement soumis à autorisation et ses activités sont encadrées par l'AP principal en date du 06/10/2006 et un AP complémentaire du 22/06/2010.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				reprend	STRS reprend le site en 1987 et son activité cesse en 1997.		'STRS'
+1997	06	23		1997	06	23		à_une_liquidation_judiciaire	Suite à une liquidation judiciaire du 23 juin 1997, un dossier de cessation d'activité, comportant une étude diagnostic (phase A), a été adressé par le mandataire-liquidateur à la préfecture le 14 décembre 1998.		
+1998	12	14		1998	12	14		a_été_adressé	Suite à une liquidation judiciaire du 23 juin 1997, un dossier de cessation d'activité, comportant une étude diagnostic (phase A), a été adressé par le mandataire-liquidateur à la préfecture le 14 décembre 1998.		
+1968				1968				Implantation_d_	Implantation d'une chaudronnerie industrielle sur le site en 1968.		
+1997	06	23		1997	06	23		a_été_adressé	Suite à une liquidation judiciaire du 23 juin 1997, un dossier de cessation d'activité, comportant une étude diagnostic (phase A), a été adressé par le mandataire-liquidateur à la préfecture le 14 décembre 1998.		
+1997				1997				reprend	STRS reprend le site en 1987 et son activité cesse en 1997.		'STRS'
+1997				1997				cesse	STRS reprend le site en 1987 et son activité cesse en 1997.		'STRS'

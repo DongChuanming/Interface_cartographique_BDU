@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	1		2006	07	1		est_en_cessation_définitive_d__activité	Le site est en cessation définitive d’activité depuis le 1er juillet 2006.		
+1988	06	21		1988	06	21		a_été_autorisée_à_exploiter	La société COOPAGRI BRETAGNE a été autorisée à exploiter un établissement spécialisé dans le stockage, la préparation, le conditionnement et le négoce d’engrais minéraux par récépissé de déclaration du 21 juin 1988.		'La société COOPAGRI BRETAGNE'
+2009				2009				a_été_entièrement_démantelé	Le site a été entièrement démantelé en 2009.		
+1988	06	21		1988	06	21		de_déclaration	La société COOPAGRI BRETAGNE a été autorisée à exploiter un établissement spécialisé dans le stockage, la préparation, le conditionnement et le négoce d’engrais minéraux par récépissé de déclaration du 21 juin 1988.		'La société COOPAGRI BRETAGNE'
+2007	05			2007	05			ont_été_démolis	En mai 2007, les bâtiments ont été démolis.		
+2013				2013				une_analyse_des_risques_résiduels	En 2013, TRISKALIA, propriétaire du terrain, a réalisé une analyse des risques résiduels et un plan de surveillance des milieux.		'TRISKALIA'

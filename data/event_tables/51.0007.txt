@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	06		2006	04	06		a_précisé	Par lettres du 22 novembre 2004 et 6 avril 2006, la société Carrefour a précisé que :		'la société Carrefour'
+1997				1999				une_pollution_des_eaux	- sur les sept points représentatifs, deux points ont montré une pollution des eaux entre 1997 et 1999 ayant probablement pour origine une désorption résiduelle chronique de la zone non saturée, favorisée par les fluctuations piézométriques de la nappe,		
+2006	04	21		2006	04	21		agréé	Après concertation avec la la direction départementale des affaires sanitaires et sociales et l’hydrogéologue agréé le 21 avril 2006, il a été convenu que :		
+				1996				a_été_mis_en_œuvre	- un système de pompage a été mis en œuvre jusqu’en 1996 dans les puits présentant des teneurs en hydrocarbures dissous significatives avec traitement de ces eaux pompées,	'hydrocarbures'	
+1995				1995				ont_été_injectés	- en 1995, des dispersants ont été injectés afin de favoriser la désorption des hydrocarbures en rétention dans la zone non saturée et risquant d’être lessivés par la remontée saisonnière de la nappe,	'dispersants', 'hydrocarbures'	
+2004	11	22		2004	11	22		a_précisé	Par lettres du 22 novembre 2004 et 6 avril 2006, la société Carrefour a précisé que :		'la société Carrefour'
+2004	11	17		2004	11	17		a_transmis	Par courrier du 17 novembre 2004, la société Carrefour a transmis à l'inspection des installations classées le rapport d'un hydrogéologue agréé qui a réalisé une expertise hydrogéologique du site.		'la société Carrefour'
+2006	05	24		2006	05	24		a_écrit_au_maire_en	Le préfet a écrit au maire en ce sens le 24 mai 2006.		'Le préfet'

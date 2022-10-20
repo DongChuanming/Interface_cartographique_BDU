@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08			2009	08			Un_diagnostic_initial	Un diagnostic initial (étude historique et environnementale) a été réalisé en juin et en août 2009 suivi d’un diagnostic complémentaire des sols, un plan de gestion en novembre 2009 et d'un rapport final d'étude en janvier 2011 (réalisation par Sévêque Environnement).		
+1989				1989				est_implantée	La société PLASTIC OMNIUM est implantée sur le site depuis 1989.		'La société PLASTIC OMNIUM'
+								Un_diagnostic_initial	Un diagnostic initial (étude historique et environnementale) a été réalisé en juin et en août 2009 suivi d’un diagnostic complémentaire des sols, un plan de gestion en novembre 2009 et d'un rapport final d'étude en janvier 2011 (réalisation par Sévêque Environnement).		
+2009	07			2009	07			a_cessé_ses_activités	Le site a cessé ses activités en juillet 2009, qui ont été transférées dans les autres sites du groupe en France (Amiens, Vernon,…).		

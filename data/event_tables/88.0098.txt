@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05	15		2002	05	15		Une_inspection_du_site_a_été_réalisée	Une inspection du site a été réalisée le 15 mai 2002 :		
+1977	09	21		1977	09	21		a_informé	Conformément à l’article 34-1 du décret n° 77-1133 du 21 septembre 1977 modifié, l’exploitant a informé, Monsieur le Préfet des Vosges de la cessation d’activité de son site de stockage de boues de papeterie et a fourni, courant mars 2000, un dossier de remise en état de cette ancienne décharge.		'le Préfet des Vosges'
+2000	11	21		2000	11	21		informe	Par courrier en date du 21 novembre 2000, Papeteries du SOUCHE informe le Préfet de la fin des travaux de remise en état de la décharge c’est à dire la pose de la couverture finale, de la végétalisation du site et des ouvrages de contrôle du dépôt.		'le Préfet'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	03	17		2016	03	17		a_été_réalisée	Cette dernière a été réalisée le 17 mars 2016.		
+2011				2011				a_été_arrêtée	Après la campagne de séchage 2011, l'activité a été arrêtée pour raison économique.		
+2015	03	20		2015	03	20		Lors_de_la_visite	Lors de la visite du 20/03/2015, il n'y avait pas de déchet sur le site et les hangars sont en bon état.		
+2010				2010				ont_été_supprimés	Ces transformateurs ont été supprimés en 2010 et remplacés par des transformateurs sans pyralène pour la campagne 2011.	'pyralène'	
+2011				2011				ont_été_supprimés	Ces transformateurs ont été supprimés en 2010 et remplacés par des transformateurs sans pyralène pour la campagne 2011.	'pyralène'	

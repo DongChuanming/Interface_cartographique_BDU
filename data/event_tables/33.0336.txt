@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	12		2011	05	12		Par_courrier	Par courrier du 12/05/2011, la société SEVDB a déclaré un changement d’exploitant pour les activités déclarées dans le courrier du 31/03/2011 au profit de la société ANCOR.		'la société SEVDB', 'la société ANCOR'
+2003	07	24		2003	07	24		Le_diagnostic_de_pollution_réalisée	Le diagnostic de pollution réalisée par la société TEREO est remis le 24 juillet 2003 mais s'est limité à une analyse du COT dans la nappe superficielle.	'COT'	'la société TEREO'
+2001	01	23		2001	01	23		de_déclaration	Cette société bénéficie d’un récépissé de déclaration du 23/01/2001, délivré au titre des rubriques 1530-2 (stockage papier cartons ou combustibles analogues) et 2260-2 (broyage de substances végétales).	'combustibles analogues', 'substances végétales'	
+2009	11	16		2009	11	16		a_pris_acte	L’administration en a pris acte le 16/11/2009.		'L’'

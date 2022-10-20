@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			réalisée	L’étude de perméabilité de la couverture réalisée en novembre 2004 montre que les perméabilités varient de 7.10-6 m/s à 1.10-5 m/s.		
+2009	01	20		2009	01	20		est_signé	L'arrêté est signé le 20/01/2009.		
+1983	02			1983	02			a_été_autorisée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+2009	05	20		2009	05	20		le_dépôt_du_dossier	L'arrêté du 20/01/2009 prescrit le dépôt du dossier au 20/05/2009.		
+								a_été_autorisée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+1983				1986				Elle_a_été_exploitée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+2004	11			2004	11			réalisée	L’étude de perméabilité de la couverture réalisée en novembre 2004 montre que la perméabilité de la couche d’argile est homogène et inférieure à 5.10-8 m/s.		
+2004	10			2004	10			étude_pédologique	Les conditions d’exploitation et de réhabilitation ci-après découlent de ce mémoire, de l’étude pédologique d’octobre 2004 et de son complément sur la perméabilité de la couverture de novembre 2004.		
+2003	12	23		2003	12	23		cessation_d__activité_remis	Bien qu’il n’y ait pas eu de déclaration officielle de cessation d’activité, on peut toutefois considérer que le mémoire de cessation d’activité remis à la DRIRE le 23 décembre 2003 en tient lieu.		'la DRIRE'
+1986				1994				Elle_a_été_exploitée	La deuxième décharge, appelée décharge n°2, située sur la parcelle 521 section E, a été autorisée par l’arrêté préfectoral du 05 décembre 1985.  Elle a été exploitée de 1986 à 1994.		

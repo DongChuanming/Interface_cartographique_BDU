@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12			2002	12			Une_étude	Une étude relative à l'utilisation du puits de Monchy-Humières pour l'alimentation du captage AEP de Villers sous Coudun a été transmise à la Préfecture en décembre 2002.		'la Préfecture'
+1980				1980				a_exploité	La Société STARE a exploité à VILLERS SUR COUDUN un atelier de traitement de surface à l'origine d'une contamination par du chrome hexavalent de l'eau du captage de VILLERS SUR COUDUN (en 1980).	'du chrome hexavalent'	'La Société STARE', 'VILLERS SUR COUDUN', 'VILLERS SUR COUDUN'
+1988				1988				est_devenue	En 1988, la société META MECA est devenue l'exploitant des installations.		'la société META MECA'
+1989	09			1989	09			a_cessé	En septembre 1989, l'exploitation des installations a cessé.		
+2006				2007				Les_différentes_campagnes_réalisées	Les différentes campagnes réalisées entre 2006 et 2007 montrent que les teneurs en trichloroéthane restent inférieures à la valeur guide pour un usage sensible.	'trichloroéthane'	

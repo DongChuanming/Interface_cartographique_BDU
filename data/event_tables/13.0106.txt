@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1973				la_distribution_de_gaz_naturel	Depuis 1973, le site sert à la distribution de gaz naturel ainsi qu'aux batiments du Centre EDF-GDF Services.		'Centre EDF - GDF Services'
+2002				2002				ont_été_vidangées	Les cuves ont été vidangées en 2002.		
+1994				1995				a_mis_en_évidence	* Ainsi, le diagnostic réalisé de 1994 à 1995, a mis en évidence l’existence de 2 cuves à goudron enterrées avec des concentrations élevées en HAP aux alentours de ces cuves.	'goudron', 'HAP'	
+1994				1995				le_diagnostic	* Ainsi, le diagnostic réalisé de 1994 à 1995, a mis en évidence l’existence de 2 cuves à goudron enterrées avec des concentrations élevées en HAP aux alentours de ces cuves.	'goudron', 'HAP'	
+2004	08	17		2004	08	17		a_été_envoyé	Le rapport de fin des travaux a été envoyé à la DRIRE le 17/08/2004.		'la DRIRE'
+1973				1973				sert_à	Depuis 1973, le site sert à la distribution de gaz naturel ainsi qu'aux batiments du Centre EDF-GDF Services.		'Centre EDF - GDF Services'
+1996	04	25		1996	04	25		signé	La méthodologie retenue a consisté à hiérarchiser les sites en fonction de leur sensibilité vis-à-vis de l’environnement (usage du site, vulnérabilité des eaux souterraines et superficielles, présence et type de population sur le site...) L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1845				1935				a_accueilli	Le terrain d'une superficie de 7100 m2 a accueilli de 1845 à 1935 une usine de fabrication de gaz à partir de la houille.		

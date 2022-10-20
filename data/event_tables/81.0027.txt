@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08	30		2001	08	30		a_commencé_son_activité	La SRRHU a commencé son activité sur ce site le 30/08/2001.		'La SRRHU'
+2007	04	04		2007	04	04		Cette_campagne_de_prélèvement	Cette campagne de prélèvement s'est déroulée le 04 avril 2007.		
+2000	03			2000	03			un_diagnostic_initial	Dans le cadre de la cessation d'activité et à la demande de la DRIRE Midi-Pyrénées, l'exploitant a fait réaliser un diagnostic initial et une évaluation simplifiée des risques en mars 2000.		'la DRIRE Midi'

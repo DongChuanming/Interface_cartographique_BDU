@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				associé	2014: UCANEL (49%) est associé avec Lactalis (51%) dans l'usine Canelia qui est situé à Rouvroy/Audry.		'49 % ) est', 'associé avec Lactalis (', '51 % ) dans', 'est situé à Rouvroy'
+1982	01	27		1982	01	27		__Arrêté_préfectoral	27 janvier 1982: Arrêté préfectoral complémentaire mettant à jour les activités du site.	'préfectoral complémentaire'	
+1991				1991				création	1991: création au sein de UCANEL de la CALANE (coopérative Agricole Laitière Ardennaise Nord/Est) résultant de la fusion de la CLNE et de la coopérative de Dom-le-Mesnil.		'sein de'
+								information_de	2 juillet 1981: information de la CLNE relative à l'arrêt des activité de traitement du lait sur site, le site conserve son activité de réception et stockage du lait en cuve réfrigérées.		
+1965				1965				achèvement	1965: achèvement de la construction de l'atelier (garages)		
+1987				1987				de_UCANEL___Union_Coopérative	1987: création de UCANEL (Union Coopérative Agricole Nord/Est Lait) regroupant la Coopérative de l'Abbaye (Dompierre-sur-Helpe), la coopérative de Dom-le-Mesnil et la CLNE.		'création de UCANEL'
+1968				1968				création_de	1968: création de la CLNE (coopérative Lait Nord/Est) résultant de la fusion entre la CLRR et la CLRA (Coopérative Laitière de Rouvroy/Audry).		

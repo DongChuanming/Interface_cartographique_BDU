@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05			1999	05			a_communiqué	- A la demande de l'inspection des installations classées, le propriétaire du site a communiqué le 07/03/00 le diagnostic de pollution du site établi en mai 1999.		
+2015	03	31		2015	03	31		a_eu_lieu	- La dernière campagne de prélèvement des eaux de la nappe a eu lieu le 31/03/2015 sur les piézomètres PZ3, PZ5 et PZ6.		
+2008				2008				a_été_vendu	- En 2008 le site a été vendu à la société exploitante actuelle qui a transmis les résultats des suivis semestriels de la nappe effectués de décembre 2008 à mars 2012.		'la société exploitante'
+1998				1998				de_cesser	Site de 44900 m², situé dans la ZA du Port de Bonneuil, où la Société PHYTO LABO a pendant une vingtaine d'années assuré la fabrication à façon de produits phytosanitaires liquides, avant de cesser ses activités fin 1998 (liquidation après dépôt de bilan).	'produits phytosanitaires liquides'	'la Société PHYTO LABO'
+2015				2015				une_dernière_campagne_de_mesure	L’exploitant a proposé de réaliser une dernière campagne de mesure de l’atrazine et de la simazine en 2015 afin de statuer sur l'arrêt de la surveillance de la nappe.	'atrazine'	'simazine'
+1999	08			1999	08			a_conduit_à	- L'évaluation simplifiée des risques, effectuée en août 1999, a conduit à classer le site en classe 2 (à surveiller).		
+								a_communiqué	- A la demande de l'inspection des installations classées, le propriétaire du site a communiqué le 07/03/00 le diagnostic de pollution du site établi en mai 1999.		
+1999	05			1999	05			établi	- A la demande de l'inspection des installations classées, le propriétaire du site a communiqué le 07/03/00 le diagnostic de pollution du site établi en mai 1999.		
+2004				2004				une_demande_d_	- En 2004 une demande d'autorisation a été déposée pour une activité de logistique.		
+2008	12			2012	03			a_été_vendu	- En 2008 le site a été vendu à la société exploitante actuelle qui a transmis les résultats des suivis semestriels de la nappe effectués de décembre 2008 à mars 2012.		'la société exploitante'
+2014	04			2014	04			a_été_transmis	- Un bilan quadriennal a été transmis par l'exploitant en avril 2014.		
+1999	08			1999	08			évaluation_simplifiée_des_risques	- L'évaluation simplifiée des risques, effectuée en août 1999, a conduit à classer le site en classe 2 (à surveiller).		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2000	06			est_classé_en	Le site est classé en classe 2 (site à surveiller) au titre de l'évaluation détaillée des risques de juin 2000.		
+2000	04			2000	04			Ajout	Ajout d'un piézomètre en avril 2000.		
+2000	06			2000	06			évaluation_détaillée_des_risques	Le site est classé en classe 2 (site à surveiller) au titre de l'évaluation détaillée des risques de juin 2000.		

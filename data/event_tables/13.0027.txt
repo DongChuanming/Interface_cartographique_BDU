@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				__modifié	 d'autorisation date de 1998, modifié en 1999 et 2000.		
+2005				2005				Une_étude_réalisée	Une étude réalisée en 2005 a permis de positionner 4 piézomètres (2 en amont hydrogéologique et 2 en aval hydrogéologique du site).		
+2002				2002				a_été_remise	L'ESR a été remise en fev 2002; elle classe le site en classe 3 : à banaliser.		"L' ESR"
+2009	09			2009	09			a_été_identifiée	En Septembre 2009, suite a un épisode pluvieux important, une apparition d'HCT en bordure du site dans un fossé pluvial a été identifiée.	'HCT'	
+1950				1950				est_implantée	La SETCM,puis la SNET ( Sté Nationale d'Electricité et de Thermique) a succédé historiquement à de précédents exploitants de la Centrale Thermique qui est implantée à Gardanne depuis 1950 sur une superficie de 20 hectares.		'La SETCM', 'la SNET', "Sté Nationale d' Electricité et de Thermique", 'la Centrale Thermique'
+2009	10	16		2009	10	16		encadrée_par	La depollution liée à cet incident est encadrée par l'AP du 16/10/2009.		
+2000				2000				__modifié	 d'autorisation date de 1998, modifié en 1999 et 2000.		

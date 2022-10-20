@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	22		2009	04	22		__réalisation	22/04/2009 : réalisation de l'étude hydrogéologique qui indique la possibilité de présence d'une nappe perchée isolée.		
+2008	11	21		2008	11	21		__Mise_en_place_de	20-21/11/2008 : Mise en place de 2 piézomètres en "aval" hydraulique supposé du site.		
+2012				2012				a_été_levée	En conséquence, la surveillance a été levée fin 2012.		
+2009	06	26		2009	06	26		Réalisation	26/06/2009 : Réalisation d'un mémoire de fin de travaux et validation des concentrations observées en fond de fouille, confirmant la compatibilité de la pollution résiduelle avec les usages retenus sur le site, soit un usage industriel et commercial.		
+2008	09	26		2008	09	26		découvre	26/09/2008 : l'exploitant découvre des traces d'hydrocarbures dans un fossé jouxtant la station-service qu'il exploite.	"des traces d'", 'hydrocarbures'	
+2008	10	13		2008	10	13		sont_informés	13/10/2008 : les services de l'inspection sont informés de la pollution.		
+2008	12	10		2008	12	10		__réalisation_d__un_diagnostic_environnemental	10/12/2008 : réalisation d'un diagnostic environnemental sur la base d'investigations dans les sols et mise en place de 2 nouveaux piézomètres destinés à caractériser l'état des ressources souterraines en eau sous-jacentes.		

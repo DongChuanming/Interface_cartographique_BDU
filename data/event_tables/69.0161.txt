@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	08	05		2002	08	05		les_activités	Ainsi, les activités de la société RHONE GRAVURE à VENISSIEUX ont été définitivement arrêtées le 05/08/2002.		'la société RHONE GRAVURE'
+1991				1991				construit	La société ANDREOTTI PHOTOGRAVURE construit en 1991 un bâtiment de production adapté au traitement de surface des pièces métalliques ainsi qu'un atelier de gravure électronique de cylindres.		'La société ANDREOTTI PHOTOGRAVURE'
+2005	03	07		2005	03	07		a_été_transmise	Cette ESR a été transmise le 7 mars 2005 et fait suite à un nouveau diagnostic initial transmis le 9 décembre 2004. 7 sondages ont été réalisés lors de ces investigations et ont mis en évidence une contamination des sols en :		
+2005	09	16		2005	09	16		a_été_signé_le	L'arrêté a été signé le 16 septembre 2005.		
+								rachète	Au début des années 2000, la holding TCI rachète la société.		'la holding TCI'
+2004	08	24		2004	08	24		Un_premier_diagnostic	Un premier diagnostic avait été réalisé en juillet 2004 et avait fait l’objet d’un rapport le 24 août 2004.		
+2004	08	24		2004	08	24		avait_fait_l__objet	Un premier diagnostic avait été réalisé en juillet 2004 et avait fait l’objet d’un rapport le 24 août 2004.		
+2005	05	20		2005	05	20		une_visite_de_récolement	En outre, une visite de récolement a été effectuée le 20 mai 2005 par l’inspecteur des Installations Classées en charge de ce dossier, conformément à l’article 34-1 du décret du 21 septembre 1977.		
+1992	10	16		1992	10	16		ont_été_autorisés	Ces activités ont été autorisés par l'arrêté préfectoral du 16/10/1992.		
+2000	08	03		2000	08	03		Le_changement_de_dénomination	Le changement de dénomination a été acté le 03/08/2000.		
+2004	12	09		2004	12	09		un_nouveau_diagnostic_initial	Cette ESR a été transmise le 7 mars 2005 et fait suite à un nouveau diagnostic initial transmis le 9 décembre 2004. 7 sondages ont été réalisés lors de ces investigations et ont mis en évidence une contamination des sols en :		
+2004	07			2004	07			Un_premier_diagnostic	Un premier diagnostic avait été réalisé en juillet 2004 et avait fait l’objet d’un rapport le 24 août 2004.		
+2005	04	22		2005	04	22		par_courrier	D’autre part, le bureau d’études a fourni, par courrier du 22 avril 2005, le résultat des dernières analyses manquantes (analyses COHV et BTEX sur la zone de stockage extérieure au bâtiment).	'COHV', 'BTEX'	
+1991				1991				a_été_exploité	Avant 1991, le site a été exploité par l'armée française.		
+2004	12	09		2004	12	09		a_été_transmise	Cette ESR a été transmise le 7 mars 2005 et fait suite à un nouveau diagnostic initial transmis le 9 décembre 2004. 7 sondages ont été réalisés lors de ces investigations et ont mis en évidence une contamination des sols en :		

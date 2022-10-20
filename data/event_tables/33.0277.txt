@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981	07	29		1981	07	29		a_été_autorisée	La décharge a été autorisée par l'arrête préfectoral du 29 juillet 1981.		
+2005				2005				met_en_demeure	Le site étant toujours en activité en 2005, l'arrêté préfectoral du 30 mars 2005 met en demeure la COBAN de cesser tout apport sur son site de Lège-Cap-Ferret.		'la COBAN'
+2007	05	29		2007	05	29		le_procès_verbal_de_récolement	Suite à la visite de l'inspecteur des Installations Classées du 29 mai 2007, le procès-verbal de récolement est dressé le 17 septembre 2007.		
+2007	07			2007	07			est_remis	Le rapport de fin de travaux est remis en juillet 2007.		
+2004	12	31		2004	12	31		s__était_engagé_à_fermer	L'exploitant s'était engagé à fermer le site pour le 31 décembre 2004.		
+2007	05	29		2007	05	29		la_visite	Suite à la visite de l'inspecteur des Installations Classées du 29 mai 2007, le procès-verbal de récolement est dressé le 17 septembre 2007.		
+2007	09	17		2007	09	17		le_procès_verbal_de_récolement	Suite à la visite de l'inspecteur des Installations Classées du 29 mai 2007, le procès-verbal de récolement est dressé le 17 septembre 2007.		
+1981				1981				exploitée	Ancienne décharge d’ordures ménagères et de déchets assimilés exploitée par la COBAN (Communauté de Communes du Nord Bassin) à partir de 1981 sur la commune de Lège-Cap-Ferret (33).	'Communauté'	'la COBAN', 'de Communes du Nord Bassin'
+2004	02	25		2004	02	25		Ce_diagnostic	Ce diagnostic, effectué par la société ANTEA, a été remis le 25 février 2004.		'la société ANTEA'

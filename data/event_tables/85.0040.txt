@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				l__arrêt_définitif	Cette activité a été mise à l'arrêt temporaire en 2012, puis à l'arrêt définitif en 2015.		
+				2016	10			des_travaux_de_réhabilitation	Après réalisation d'un plan de gestion de pollution, des travaux de réhabilitation ont été menés de septembre à octobre 2016.		
+2015				2015				un_diagnostic_de_pollution	Dans le cadre de la mise à l’arrêt définitif des installations, un diagnostic de pollution du site a été réalisé en 2015 et 2016.		
+2012				2012				a_été_mise_à_l__arrêt_temporaire	Cette activité a été mise à l'arrêt temporaire en 2012, puis à l'arrêt définitif en 2015.		
+2016				2016				un_diagnostic_de_pollution	Dans le cadre de la mise à l’arrêt définitif des installations, un diagnostic de pollution du site a été réalisé en 2015 et 2016.		
+1999				1999				a_implanté	En 1999, la société SERTA a implanté une usine de fabrication de vérins.		'la société SERTA'
+2015				2015				l__arrêt_définitif	Cette activité a été mise à l'arrêt temporaire en 2012, puis à l'arrêt définitif en 2015.		

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	04	11		2016	04	11		la_construction_de_deux_immeubles_résidentiels	Le site a fait l’objet d’une demande de permis de construire de la société ICADE PROMOTION pour la construction de deux immeubles résidentiels en date du 11 avril 2016 par le service urbanisme de la mairie de Villeurbanne.		'la société ICADE PROMOTION'
+2016	06	10		2016	06	10		permis_de_construire	Conclusion du rapport relatif à la demande d'avis du permis de construire d'ICADE du 10/06/2016:		"d' ICADE"
+2016	07	05		2016	07	05		établi_par	L’exploitant a également transmis un bon de commande établi par ICADE au bureau d’études Conseils et Environnement au 5/07/2016 pour:		'ICADE'
+2015	03			2015	03			Deux_diagnostics_environnementaux_de_sols	Deux diagnostics environnementaux de sols ont été réalisés en mars 2015 et juin 2013 respectivement par les bureaux d’études Conseils & Environnement et BURGEAP et ont montré:		'BURGEAP'
+2016	06	10		2016	06	10		cessation_d__activité	Conclusion du rapport de cessation d'activité du 10/06/2016:		
+2014	10	23		2014	10	23		un_mémoire_de_cessation_totale_d__activité	L’exploitant a fourni à l’inspection des installations classées un mémoire de cessation totale d’activité datant du 23/10/2014.		
+2016	02	10		2016	02	10		à_la_cessation_totale	Un mémoire de récolement suite à la cessation totale du 10/02/2016 (référence CESICE15236O/RESICEO54O9-02, BURGEAP) a également été transmis.		'CESICE15236O', 'RESICEO54O9', 'BURGEAP'
+2018	2017			2018	2017			sont_mises_en_œuvre	Les mesures de gestion sont mises en œuvre en 2017/2018.		
+								le_maintien	- le maintien du suivi de la nappe pendant une durée de 2 ans afin de vérifier que la création du bassin d’infiltration n’a pas d’influence sur la qualité du milieu « eaux souterraines ».		
+2018				2018				transmet	En 2018, l'exploitant transmet à l'Inspection des installations classées un dossier de fin de travaux.		
+2014	10	20		2014	10	20		sera_réalisé	Ce suivi sera réalisé sur les 3 ouvrages actuellement en place et selon les modalités (fréquences, programme analytique, etc.) définies à l’article 3 de l’arrêté du 20 octobre 2014.		
+2013	06			2013	06			Deux_diagnostics_environnementaux_de_sols	Deux diagnostics environnementaux de sols ont été réalisés en mars 2015 et juin 2013 respectivement par les bureaux d’études Conseils & Environnement et BURGEAP et ont montré:		'BURGEAP'
+								le_dépôt_d_	sur le dépôt d’un dossier de restrictions d’usage dans un délai de 9 mois.		
+2016	10			2016	10			est_transmis	Concernant la réhabilitation, un plan de gestion actualisé réalisé pae la société Conseil&Environnement est transmis en octobre 2016.		'la société Conseil&Environnement'
+								un_diagnostic_environnemental	- un diagnostic environnemental (6 sondages) dans un délai de 2 mois,		
+2018	08	03		2018	08	03		a_été_transmis	À cet effet, un dossier a été transmis le 3 août 2018 par l’ancien exploitant et débouché, à l'issue de la procédure réglementaire, sur l'arrêté préfectoral du 11 avril 2019 instituant des servitudes d'utilités publiques.		
+2015	09	08		2015	09	08		plan_de_gestion	Dans son dossier de notification de cessation d’activité et plus précisément le plan de gestion du 8 septembre 2015, l’exploitant indique que le site va faire l’objet d’un réaménagement immobilier de type résidentiel avec la construction de deux immeubles de logements sur un niveau de sous-sol à usage de stationnement		

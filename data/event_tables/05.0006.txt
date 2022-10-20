@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				Les_analyses_réalisées	Les analyses réalisées en 2007 ont montrées des résultats conformes.		
+1909				1909				a_été_exploité	Le site a été exploité par Péchiney depuis 1909 qui y exploitait une usine d'aluminium.		'Péchiney'
+2004	07	26		2004	07	26		a_été_notifié	Le récépissé de déclaration de changement d'exploitant a été notifié le 26/07/2004.		
+2002	04			2002	04			a_été_remise_tardivement__	Elle a été remise tardivement (avril 2002) à la suite d'un AP de mise en demeure (23/07/2001).		
+2001	07	23		2001	07	23		a_été_remise_tardivement__	Elle a été remise tardivement (avril 2002) à la suite d'un AP de mise en demeure (23/07/2001).		
+2011	07	26		2011	07	26		a_été_délivré	Le dernier AP d'autorisation a été délivré le 26/07/2011.		
+2009	09	11		2009	09	11		le_jugement	La société AFP a été mise en redressement judiciaire selon le jugement du 11/09/2009 par le TC de GAP puis mise en liquidation judiciaire le 25/01/2012.		'La société AFP', 'le TC de GAP'
+2012	01	25		2012	01	25		a_été_mise_en_redressement_judiciaire	La société AFP a été mise en redressement judiciaire selon le jugement du 11/09/2009 par le TC de GAP puis mise en liquidation judiciaire le 25/01/2012.		'La société AFP', 'le TC de GAP'
+2003				2003				à_des_difficultés_économiques	L'établissement, suite à des difficultés économiques à l’automne 2003, après avoir été en cessation d'activité, a redémarré en 2004, sous forme d'une Scop (Société COopérative de Production) : AFP( Aciéries et Fonderies de Provence).		'Société COopérative de Production', 'AFP ('
+2004				2004				a_redémarré	L'établissement, suite à des difficultés économiques à l’automne 2003, après avoir été en cessation d'activité, a redémarré en 2004, sous forme d'une Scop (Société COopérative de Production) : AFP( Aciéries et Fonderies de Provence).		'Société COopérative de Production', 'AFP ('
+1985				1985				est_implantée	La société Fonderies et Aciéries de Provence est implantée depuis 1985 à l'Argentière la Bessée sur une superficie d'environ 2ha.		'La société Fonderies'
+2012	01	25		2012	01	25		puis_mise_en_liquidation_judiciaire	La société AFP a été mise en redressement judiciaire selon le jugement du 11/09/2009 par le TC de GAP puis mise en liquidation judiciaire le 25/01/2012.		'La société AFP', 'le TC de GAP'
+				2012	02	27		a_cessé	Ce dernier jugement a autorisé une poursuite exceptionnelle de l'activité jusqu'au 27/02/2012 date à laquelle l'activité industrielle du site a cessé.		
+1985				1985				ont_cessé	En 1985, les activités ont cessé.		
+				2012	02	27		a_autorisé_une_poursuite_exceptionnelle	Ce dernier jugement a autorisé une poursuite exceptionnelle de l'activité jusqu'au 27/02/2012 date à laquelle l'activité industrielle du site a cessé.		

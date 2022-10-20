@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03			2015	03			Une_seconde_campagne_a_été_réalisée	Une seconde campagne a été réalisée en mars 2015, en période de basses eaux pour vérifier s'il y avait lieu de confirmer les résultats précédents.		
+2018				2018				a_été_démolie	A l'initiative du propriétaire du site, une partie des bâtiments a été démolie en 2018.		
+2014	09			2014	09			Une_première_campagne_a_été_réalisée	Une première campagne a été réalisée en septembre 2014 par la société CERDIS environnement.		'la société CERDIS environnement'
+2016	09	05		2016	09	05		les_actions	Dans le cadre de l'arrêté préfectoral de mise en demeure du 05 septembre 2016, les actions suivantes ont été menées:		
+2017	07	11		2017	07	11		une_consignation	La préfecture a pris, le 11/07/2017, une consignation de somme pour imposer à la société Fast Industries de se conformer aux prescriptions suivantes:		'La préfecture', 'la société Fast Industries'

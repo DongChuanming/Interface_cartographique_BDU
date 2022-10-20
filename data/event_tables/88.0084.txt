@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01	11		2011	01	11		a_cessé_son_activité	La société Lorraine de Céramique fait l’objet d’une procédure de liquidation judiciaire depuis le 02 février 2011 et a cessé son activité sur le site de BEAUMENIL depuis le 11 janvier 2011.		'La société Lorraine de Céramique'
+2011	01	11		2011	01	11		fait_l__objet	La société Lorraine de Céramique fait l’objet d’une procédure de liquidation judiciaire depuis le 02 février 2011 et a cessé son activité sur le site de BEAUMENIL depuis le 11 janvier 2011.		'La société Lorraine de Céramique'
+2012	10	25		2012	10	25		a_été_autorisée	Compte tenu de l'insolvabilité de la liquidation, une demande d'intervention ADEME a été autorisée par le ministère de l'environnement le 25 octobre 2012 afin de procéder à :		"le ministère de l'"
+2011	02	02		2011	02	02		fait_l__objet	La société Lorraine de Céramique fait l’objet d’une procédure de liquidation judiciaire depuis le 02 février 2011 et a cessé son activité sur le site de BEAUMENIL depuis le 11 janvier 2011.		'La société Lorraine de Céramique'

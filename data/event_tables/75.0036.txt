@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	04			le_désamiantage	- le désamiantage de l'ensemble du site a été réalisé de janvier à avril 2011		
+2015	03	17		2015	03	17		mémoire_de_cessation_d__activité_total	Le mémoire de cessation d'activité total a été transmis le 17 mars 2015.		
+2018	03	02		2018	03	02		le_rapport_de_diagnostic_environnemental	En réponse à ces courriers, la CPCU a transmis le 2 mars 2018 à la préfecture de Police le rapport de diagnostic environnemental du milieu souterrain.		'la CPCU'
+1972				1989				a_été_exploitée	Une activité de chaufferie a été exploitée sur ce site de 1972 à 1989, par la société CPCU.		'la société CPCU'
+2018	01	05		2018	01	05		des_investigations	Dans le cadre du diagnostic de la qualité des sols, des investigations ont été menées le 5 janvier 2018.		
+				2016	01	07		il_a_été_demandé	Par courriers préfectoraux datant du 21 août 2015 et du 7 janvier 2016, il a été demandé a l'exploitant de compléter son mémoire de cessation d'activité par un mémoire de réhabilitation.		
+2009	06	02		2009	06	02		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 02/06/2009.		
+2015	08	21		2015	08	21		il_a_été_demandé	Par courriers préfectoraux datant du 21 août 2015 et du 7 janvier 2016, il a été demandé a l'exploitant de compléter son mémoire de cessation d'activité par un mémoire de réhabilitation.		

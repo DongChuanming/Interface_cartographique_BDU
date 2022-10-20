@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	30		2009	09	30		déclaration_par_lettre	Il a été pris acte de cette déclaration par lettre préfectorale du 30 septembre 2009.		
+								du_1er_octobre_2009__	L’arrêt de l’activité de raffinage est déclaré le 24 juin 2009, à compter du 1er octobre 2009.		'juin 2009 , à compter'
+3043				3043				convetion_de_rejet_n__2016_1632	--> Volume rejeté au réseau EP dans le cadre de la convetion de rejet n°2016/1632 établie avec la SGAC : 304m3		
+3043				3043				____Volume_rejeté_au_réseau	--> Volume rejeté au réseau EP dans le cadre de la convetion de rejet n°2016/1632 établie avec la SGAC : 304m3		

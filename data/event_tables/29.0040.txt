@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02			2012	02			un_diagnostic_des_sols	Dans le cadre de sa démarche de certification ISO 14001, la SOBAD a réalisé un diagnostic des sols du site en février 2012 :		'la SOBAD'
+1977	07			1977	07			est_devenue	SOFIDECOOP est devenue la Société Bretonne d'Avitaillement et de Distribution (SOBAD) en juillet 1977.		'SOFIDECOOP', 'la Société Bretonne'
+1998				1998				des_travaux_de_dépollution	Suite à la fuite d'hydrocarbures d'un bac localisé au centre ouest du dépôt en 1998, des travaux de dépollution ont été menés :	'hydrocarbures'	
+2015	11			2015	11			la_perte	En novembre 2015, une fuite sur une canalisation a engendré la perte de plus de 600 litres d'hydrocarbures.	'hydrocarbures'	

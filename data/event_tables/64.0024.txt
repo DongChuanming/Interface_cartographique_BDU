@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974	05	05		1974	05	05		sont_autorisées	Les installations sont autorisées par les arrêtés des 05/05/1974 et 14/12/1992.		
+2000	11	30		2000	11	30		Les_études_remises	Les études remises les 30/03/2000 et 30/11/2000 classent le site en 1 pour le milieu nappe utilisée comme AEP nécessitant des investigations complémentaires.		
+1992	12	14		1992	12	14		sont_autorisées	Les installations sont autorisées par les arrêtés des 05/05/1974 et 14/12/1992.		
+2000	03	30		2000	03	30		Les_études_remises	Les études remises les 30/03/2000 et 30/11/2000 classent le site en 1 pour le milieu nappe utilisée comme AEP nécessitant des investigations complémentaires.		
+1998	12	23		1998	12	23		ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par l'arrêté du 23/12/1998.		
+2000				2000				Le_diagnostic_réalisé	Le diagnostic réalisé par le CEBTP en 2000 comprenait 5 sondages de sol dans l’atelier IPR (......) et un piézomètre (Pz1).		'le CEBTP'

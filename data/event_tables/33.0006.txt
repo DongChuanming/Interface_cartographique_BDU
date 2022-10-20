@@ -1,0 +1,33 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+0800				0800				entraîne	Le 12/01/2007 vers 08h00, la déchirure du fond d'un bac de stockage (bac n° 1602) contenant 12 000 m3 de pétrole brut entraîne un déversement de produit dans les cuvettes de rétention avec débordement à l'extérieur de l'établissement.	'pétrole brut', 'produit'	
+2011	07			2011	07			travaux_d__excavation	- travaux d'excavation de la RD10 en cours en Juillet 2011.		
+2004				2004				Les_analyses	Les analyses de 2004 mettent en évidence la présence de deux zones de contamination par des hydrocarbures qui, toutefois, ne nécessitent pas d'actions de dépollution des sols.	'hydrocarbures'	
+1957				1983				a_fonctionné	La raffinerie a fonctionné de 1957 à 1983 date de son arrêt définitif et de sa reconversion en dépôt d'hydrocarbures liquides (autorisation du 20/06/1985).	'hydrocarbures liquides'	
+1985	06	20		1985	06	20		a_fonctionné	La raffinerie a fonctionné de 1957 à 1983 date de son arrêt définitif et de sa reconversion en dépôt d'hydrocarbures liquides (autorisation du 20/06/1985).	'hydrocarbures liquides'	
+2008				2008				les_travaux_de_curage	L'inspection du 24/09/2009 fait apparaître que les travaux de curage du décanteur entamés en 2008 (4 000 tonnes ont été enlevées.		
+2007	01	12		2007	01	12		entraîne	Le 12/01/2007 vers 08h00, la déchirure du fond d'un bac de stockage (bac n° 1602) contenant 12 000 m3 de pétrole brut entraîne un déversement de produit dans les cuvettes de rétention avec débordement à l'extérieur de l'établissement.	'pétrole brut', 'produit'	
+2012	05			2012	05			Les_ensemencements	Les ensemencements des terres sont prévus en Avril et Mai 2012 pour accélérer le traitement biologique.		
+2009	03	27		2009	03	27		permet_de_proposer_un_arrêté_de_travaux	Le plan de gestion présenté le 12/11/2008 permet de proposer un arrêté de travaux et de surveillance à l'exploitant le 27/03/2009.		
+2011	07			2011	07			Les_travaux_de_traitement	Les travaux de traitement de la RD10 sont achevés depuis le mois de Juillet 2011 : 718 m3 de terres ont été déplacés sur l'installation de SPBA pour réaliser leur traitement biologique.		
+2012	04			2012	04			être_terminés	Les travaux sont bien avancés et devraient être terminés au cours du mois d'Avril 2012.		
+2003	03			2003	03			La_campagne_de	La campagne de Mars 2003 montre des teneurs à l'état de traces inférieures aux seuils de détection ou inférieures aux valeurs de référence.		
+2012	03	15		2012	03	15		de_l__inspection_approfondie	Lors de l'inspection approfondie du 15/03/2012, l'exploitant a indiqué de quelle manière l'ouvrage à guillotine de la Jalle A ainsi que la Jalle L ont été suivis et quelles mesures ont été prises.		
+2011	08			2011	08			Des_contrôles	Des contrôles des sols et des eaux ont été effectués en dernier lieu en Août 2011.		
+								Les_ensemencements	Les ensemencements des terres sont prévus en Avril et Mai 2012 pour accélérer le traitement biologique.		
+2007	07			2007	07			est_présenté	Un premier plan de gestion est présenté en Juillet 2007, non satisfaisant et non validé par la DRIRE.		'la DRIRE'
+2008	07			2008	07			Les_campagnes_de	Les campagnes de Juin et Juillet 2008 mettent en évidence une phase flottante sur la nappe ainsi qu'une pollution dissoute pouvant atteindre 80 000 µg/l.		
+2012	03	15		2012	03	15		Bilan	Bilan le 15/03/2012 :		
+1999	11			1999	11			identifie	L'étude, remise en novembre 1999, identifie quatre zones polluées par des hydrocarbures volatils et autres.	'hydrocarbures volatils'	
+2015	12	31		2015	12	31		Bilan	Bilan au 31/12/2015 :		
+2011				2011				Bilan	Bilan au 3ème trimestre 2011:		
+2008	11	12		2008	11	12		présenté	Le plan de gestion présenté le 12/11/2008 permet de proposer un arrêté de travaux et de surveillance à l'exploitant le 27/03/2009.		
+2005				2005				Les_analyses	Les analyses de 2005 et de 2006 ne montrent pas d'évolution notable des teneurs en substances analysées ; les concentrations sont majoritairement inférieures aux valeurs de références pour les eaux de consommation destinées à la ressource.		
+2009	10			2009	10			de_terminer_les_travaux	Il est prévu de terminer les travaux en Octobre 2009.).		
+2006				2006				Les_analyses	Les analyses de 2005 et de 2006 ne montrent pas d'évolution notable des teneurs en substances analysées ; les concentrations sont majoritairement inférieures aux valeurs de références pour les eaux de consommation destinées à la ressource.		
+								Les_campagnes_de	Les campagnes de Juin et Juillet 2008 mettent en évidence une phase flottante sur la nappe ainsi qu'une pollution dissoute pouvant atteindre 80 000 µg/l.		
+2003	09			2003	09			Le_diagnostic	Le diagnostic du bassin décanteur des hydrocarbures réalisé en Septembre 2003 laisse apparaître la présence de surnageant sur la nappe.	'hydrocarbures', 'surnageant'	
+2007	01			2007	01			à_l__accident	Suite à l'accident de Janvier 2007, des tranchées de drainage sont installées autour du dépôt.		
+								Bilan	Bilan au 3ème trimestre 2011:		
+2010	08	09		2010	08	09		arrêté_de_travaux	L'inspection considère, au vu des justificatifs fournis le 22/12/2015 par l'exploitant, que les opérations de traitement des sols et des eaux ont été réalisés conformément à l'arrêté de travaux du 09/08/2010 susvisé.		
+2005	05	17		2005	05	17		Le_traitement	Le traitement de la nappe et des terres polluées sont prescrits par l'arrêté du 17/05/2005.		
+2007	01			2007	01			sont_installées	Suite à l'accident de Janvier 2007, des tranchées de drainage sont installées autour du dépôt.		

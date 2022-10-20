@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				la_réalisation_de	Suite à une visite d'inspection en avril 2011, l'exploitant a programmé la réalisation de 2 sondages durant le 2ème semestre 2011.		
+2011				2011				a_demandé	Compte tenu de ces éléments, l'inspection des installations classées a demandé à l'exploitant d'excaver les zones sources identifiées par les études de 2002 et 2011.		
+2011	10	07		2011	10	07		Ces_sondages_ont_été_réalisés	Ces sondages ont été réalisés le 7 octobre 2011.		
+2011	04			2011	04			à_une_visite_d__inspection	Suite à une visite d'inspection en avril 2011, l'exploitant a programmé la réalisation de 2 sondages durant le 2ème semestre 2011.		
+2002				2002				a_mis_en	En 2008, compte tenu du temps écoulé depuis les sondages de 2002, le Préfet a mis en demeure l'exploitant de réaliser deux nouveaux sondages au point de sondage 4 afin de vérifier l’évolution de la pollution aux hydrocarbures.	'hydrocarbures'	'le Préfet'
+2002				2002				les_études_de	Compte tenu de ces éléments, l'inspection des installations classées a demandé à l'exploitant d'excaver les zones sources identifiées par les études de 2002 et 2011.		
+2011				2011				les_études_de	Compte tenu de ces éléments, l'inspection des installations classées a demandé à l'exploitant d'excaver les zones sources identifiées par les études de 2002 et 2011.		
+2008				2008				a_mis_en	En 2008, compte tenu du temps écoulé depuis les sondages de 2002, le Préfet a mis en demeure l'exploitant de réaliser deux nouveaux sondages au point de sondage 4 afin de vérifier l’évolution de la pollution aux hydrocarbures.	'hydrocarbures'	'le Préfet'
+2001	05	10		2001	05	10		a_été_transmise	L'étape A a été transmise à la DRIRE le 10 mai 2001.		'la DRIRE'
+2011	04			2011	04			la_réalisation_de	Suite à une visite d'inspection en avril 2011, l'exploitant a programmé la réalisation de 2 sondages durant le 2ème semestre 2011.		
+2003	12	18		2003	12	18		a_imposé	Par arrêté préfectoral du 18 décembre 2003, le Préfet a imposé à l'exploitant d'excaver et d'éliminer dans un centre de traitement autorisé les terres polluées de la cour nord avant de recouvrir cette zone par un revêtement étanche.		'le Préfet'
+2002	04	19		2002	04	19		a_été_remise	L'étape B a été remise à l'administration le 19 avril 2002.		
+2002				2002				a_demandé	Compte tenu de ces éléments, l'inspection des installations classées a demandé à l'exploitant d'excaver les zones sources identifiées par les études de 2002 et 2011.		
+								la_réalisation_de	Suite à une visite d'inspection en avril 2011, l'exploitant a programmé la réalisation de 2 sondages durant le 2ème semestre 2011.		

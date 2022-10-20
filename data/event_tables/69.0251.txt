@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	04	29		2016	04	29		a_été_validé	Le rapport de constat des travaux de cessation d'activité a été validé le 29 avril 2016 et le PV de constat des travaux a été établi le 25 avril 2016.		
+2011	08	12		2011	08	12		l__actualisation	- l'actualisation, le cas échéant des mesures de gestion proposées dans le rapport ORTEC du 12/08/2011.		'ORTEC'
+								Trois_campagnes_d__analyse	Trois campagnes d'analyse des eaux souterraines ont donc été effectuées en janvier, avril et juillet 2012.		
+2012	07			2012	07			Trois_campagnes_d__analyse	Trois campagnes d'analyse des eaux souterraines ont donc été effectuées en janvier, avril et juillet 2012.		
+2009	05	20		2009	05	20		compléter	Du fait de la présence de réseaux dans la zone d'excavation, il est également demandé à l'exploitant de compléter son dossier remis en application des articles 3 et 4 de l'arrêté préfectoral du 20 mai 2009, sur :		
+1962	02	08		1962	02	08		de_déclaration	La société SCMP (Société de Construction de Moules pour Plastiques) bénéficie du récépissé de déclaration du 8 février 1962 pour un atelier de mécanique et de moulages à chaud par injection de matières plastiques.		'La société SCMP', 'Société de Construction de Moules pour Plastiques'
+2012	07	05		2012	07	05		Une_visite_d__inspection_courante	Une visite d'inspection courante a été effectuée le 5 juillet 2012.		
+2013	04			2013	04			a_procédé_au_traitement_in_situ	D’avril 2013 à avril 2015, la société OGD a procédé au traitement in situ de sols pollués aux PCB pour le compte des Établissements David situés au 12 rue Émile Zola à Décines-Charpieu (69).	'PCB'	'la société OGD'
+2012	12	28		2012	12	28		a_été_prescrit	Un arrêté préfectoral a été prescrit le 28 décembre 2012 pour la poursuite des travaux de réhabilitation de l'ensemble du site.		
+2008	02	22		2008	02	22		a_été_signé	Un arrêté préfectoral d'urgence a été signé le 22 février 2008, demandant l'élimination du transformateur, le nettoyage du local et la réalisation d'investigations de l'état des sols.		
+2007				2007				est_actuellement_utilisé	Le site a été vendu en 2007 où il est actuellement utilisé en tant que plateforme logistique.		
+2007	07	30		2007	07	30		a_cessé_son_activité	La société SCMP a cessé son activité sur le site le 30 juillet 2007.		'La société SCMP'
+2007				2007				a_été_vendu	Le site a été vendu en 2007 où il est actuellement utilisé en tant que plateforme logistique.		
+2012	12	28		2012	12	28		des_investigations	A l’issue de ces travaux conformément à l’arrêté préfectoral du 28 décembre 2012, des investigations et des analyses physico-chimiques ont été effectuées sur ces sols post-bioremédiation.		
+2017	10	10		2017	10	10		a_été_instaurée	Le 10/10/2017, une servitude d'utilité publique (SUP) a été instaurée sur le site.		
+2015	04			2015	04			a_procédé_au_traitement_in_situ	D’avril 2013 à avril 2015, la société OGD a procédé au traitement in situ de sols pollués aux PCB pour le compte des Établissements David situés au 12 rue Émile Zola à Décines-Charpieu (69).	'PCB'	'la société OGD'
+2008	02	20		2008	02	20		il_a_été_porté_à_la_connaissance	Le 20 février 2008, il a été porté à la connaissance de la DREAL, l'existence d'un transformateur vandalisé contenant des PCB.	'des PCB'	'la DREAL'
+				2008	10	23		Une_première_phase_de_travaux_de_dépollution	Une première phase de travaux de dépollution conduisant à l'excavation des terres sur une profondeur de 2 mètres, a été effectuée du 20 au 23 octobre 2008 sur 115 m2.		
+2008	03	13		2008	03	13		Les_campagnes_de_prélèvements_de_sols_réalisées	Les campagnes de prélèvements de sols réalisées le 13 mars 2008 au niveau du local transformateur vandalisé de la société EDA Georges David ex SCMP, montrent la présence de PCB à des concentrations significatives, dépassant les limites de quantification.	'PCB'	'la société EDA Georges David ex SCMP'
+2008	02	20		2008	02	20		à_une_visite_d__inspection	Suite à une visite d'inspection effectuée le 20 février 2008, un acte de vandalisme a été constaté par la DREAL sur le transformateur PCB.	'PCB'	'la DREAL'
+2009	05	20		2009	05	20		la_signature_d_	La présence d'une pollution résiduelle a donné lieu à la signature d'un arrêté préfectoral le 20 mai 2009, demandant la surveillance des eaux souterraines, une évaluation de l'impact de la pollution sur l'environnement, la réalisation d'un plan de gestion et d'un bilan quadriennal.		
+2008	02	20		2008	02	20		un_acte_de_vandalisme	Suite à une visite d'inspection effectuée le 20 février 2008, un acte de vandalisme a été constaté par la DREAL sur le transformateur PCB.	'PCB'	'la DREAL'
+2016	04	25		2016	04	25		a_été_établi	Le rapport de constat des travaux de cessation d'activité a été validé le 29 avril 2016 et le PV de constat des travaux a été établi le 25 avril 2016.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12	31		2002	12	31		reçu	Par ailleurs, un projet de couverture de l'ancien crassier nous a été proposé dans le cadre d'un dossier de réactualisation du site reçu le 31/12/2002.		
+1999				1999				en_cessation_d__exploitation	Crassier connexe à la fonderie, en cessation d'exploitation depuis la mi-1999.		
+2000	06	14		2000	06	14		a_été_remis	Le diagnostic initial a été remis le 14 juin 2000.		
+2005	04	22		2005	04	22		a_fait_part	L'inspection a fait part à monsieur le préfet des Ardennes, dans son rapport du 22 avril 2005, des conclusions de l'enquête publique relative au dépôt du DDAE.		'le préfet des Ardennes'
+2002	09	18		2002	09	18		La_mise_en_place_d__une	La mise en place d'une surveillance des eaux souterraines demandant d'analyser des paramètres suplémentaires (métaux) a été demandée à nouveau par courrier du 18 septembre 2002.	'métaux'	
+1999	11	15		1999	11	15		Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 15/11/1999.		
+2005	06	27		2005	06	27		signé	L'arrêté préfectoral signé le 27 juin 2005 précise également les obligations de l'exploitant vis-à-vis de la réhabilitation du crassier.		

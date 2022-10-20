@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_mis_en_œuvre	Le plan de gestion a été mis en œuvre en 2010-2011 :		
+2010	12	31		2010	12	31		informe	En novembre 2010, la société FAURECIA informe l'inspection de sa cessation d'activité définitive à la date du 31 décembre 2010.		'la société FAURECIA'
+1999	11	03		1999	11	03		Le_diagnostic_initial	Le diagnostic initial, comprenant l'étape A (étude Historique) et l'étape B (étude des sols), ainsi que l'étude simplifiée des risques (ESR) ont été remis à l'inspection le 15 janvier 2001, conformément aux prescriptions de l'arrêté préfectoral du 3 novembre 1999.		
+2010	11			2010	11			Les_opération_d__oxydation_in_situ	3- Les opération d'oxydation in situ des composés chlorés présents dans la nappe ont débuté en novembre 2010.	'composés chlorés'	
+2009	06			2009	06			a_été_révisé	2- Le plan de gestion initial a été révisé en juin 2009.		
+2008				2008				est_arrêtée	En 2008, une partie des activités est arrêtée.		
+2006	12			2006	12			Le_diagnostic_complémentaire_des_sols_remis	Le diagnostic complémentaire des sols remis fin décembre 2006 a permis de mettre en évidence :		
+				2010				reste_exploitant	FAURECIA SIEGES AUTOMOBILE reste exploitant d'une activité d'assemblage de sièges automobile au titre de la déclaration des installations classées pour la protection de l'environnement sur une partie du site jusqu'en 2010.		'FAURECIA SIEGES AUTOMOBILE'
+2001	01	15		2001	01	15		Le_diagnostic_initial	Le diagnostic initial, comprenant l'étape A (étude Historique) et l'étape B (étude des sols), ainsi que l'étude simplifiée des risques (ESR) ont été remis à l'inspection le 15 janvier 2001, conformément aux prescriptions de l'arrêté préfectoral du 3 novembre 1999.		
+2010	11			2010	11			informe	En novembre 2010, la société FAURECIA informe l'inspection de sa cessation d'activité définitive à la date du 31 décembre 2010.		'la société FAURECIA'
+2008				2008				la_cessation_partielle_d__activité	Suite à la cessation partielle d'activité en 2008, l'inspection a constaté en mai 2008 que toutes les cuves ont été vidangées et les produits évacués.		
+2008	05			2008	05			a_constaté	Suite à la cessation partielle d'activité en 2008, l'inspection a constaté en mai 2008 que toutes les cuves ont été vidangées et les produits évacués.		
+2008				2008				a_constaté	Suite à la cessation partielle d'activité en 2008, l'inspection a constaté en mai 2008 que toutes les cuves ont été vidangées et les produits évacués.		
+2011				2011				a_été_mis_en_œuvre	Le plan de gestion a été mis en œuvre en 2010-2011 :		
+				2010				la_déclaration	FAURECIA SIEGES AUTOMOBILE reste exploitant d'une activité d'assemblage de sièges automobile au titre de la déclaration des installations classées pour la protection de l'environnement sur une partie du site jusqu'en 2010.		'FAURECIA SIEGES AUTOMOBILE'
+2002	04	15		2002	04	15		est_prescrite	Par arrêté préfectoral du 15 avril 2002, la surveillance des eaux de La Crusnes et des eaux souterraines est prescrite.		

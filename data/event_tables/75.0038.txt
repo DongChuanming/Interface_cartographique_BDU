@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018				2018				du_démantèlement_des	Le traitement du point de pollution aux hydrocarbures rencontré à proximité du dépotage camion  devait être réalisé par CPCU dans le cadre du démantèlement des équipements prévu au dernier trimestre 2018.	'hydrocarbures'	'par CPCU'
+2016	04	04		2016	04	04		a_notifié_la_cessation_d__activité	L'exploitant a notifié la cessation d'activité les 23 mars, 1er avril et 4 avril 2016.		
+2018				2018				être_réalisé	Le traitement du point de pollution aux hydrocarbures rencontré à proximité du dépotage camion  devait être réalisé par CPCU dans le cadre du démantèlement des équipements prévu au dernier trimestre 2018.	'hydrocarbures'	'par CPCU'
+2017	09			2017	09			a_communiqué	L'exploitant a communiqué en septembre 2017:		
+2015	12	31		2015	12	31		remplaçant	La CPCU a choisi de procéder à un vaste programme de rénovation de la chaufferie en remplaçant au 31 décembre 2015 le fioul lourd par du gaz naturel.	'fioul lourd'	'La CPCU'
+								a_notifié_la_cessation_d__activité	L'exploitant a notifié la cessation d'activité les 23 mars, 1er avril et 4 avril 2016.		
+2018				2018				__devait	Le traitement du point de pollution aux hydrocarbures rencontré à proximité du dépotage camion  devait être réalisé par CPCU dans le cadre du démantèlement des équipements prévu au dernier trimestre 2018.	'hydrocarbures'	'par CPCU'
+2019	05	17		2019	05	17		a_transmis	L’exploitant a transmis, le 17 mai 2019, les justificatifs concernant les opérations de démantèlement de tous les équipements présents sur le site du Parc à fioul liés aux fonctions qui sont devenues obsolètes ( cuve du local et réseau incendie, dépotage camion et wagon,...).	'fioul'	
+2018	01			2018	01			Le_diagnostic_de_sols	Le diagnostic de sols réalisé en janvier 2018 au niveau du dépotage de fioul par voie ferrée n’a pas montré d’impact imputable à l’ancienne activité de la CPCU, les anomalies significatives en métaux lourds rencontrées dans les remblais sur l’ensemble du site étant liées, selon le bureau d'études, à la qualité intrinsèque des remblais de surface.	'fioul', 'métaux lourds'	'la CPCU'
+2017	07			2017	07			a_communiqué	L'exploitant a communiqué en juillet 2017:		

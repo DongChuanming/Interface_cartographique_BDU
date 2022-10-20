@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1946				1955				exploitée	Ce terrain a été occupé par une usine à gaz (pyrogénation de la houille) implantée en 1886 par la société Lebon et compagnie et exploitée par Gaz de France de 1946 à 1955.		'la société Lebon', 'Gaz de France'
+1886				1886				implantée	Ce terrain a été occupé par une usine à gaz (pyrogénation de la houille) implantée en 1886 par la société Lebon et compagnie et exploitée par Gaz de France de 1946 à 1955.		'la société Lebon', 'Gaz de France'
+1996	03			1996	03			sont_mises_à_jour	Février – Mars 1996 : A la suite de travaux réalisés au niveau du magasin LIDLE, 2 cuves à goudrons (dont une cuve qui n'avait pas été identifiée lors de la phase historique) sont mises à jour.	'goudrons'	'LIDLE'
+								sont_mises_à_jour	Février – Mars 1996 : A la suite de travaux réalisés au niveau du magasin LIDLE, 2 cuves à goudrons (dont une cuve qui n'avait pas été identifiée lors de la phase historique) sont mises à jour.	'goudrons'	'LIDLE'
+1998	01	30		1998	01	30		Un_procès_verbal_de_récolement	Le 30 janvier 1998 : Un procès verbal de récolement établissant la suppression du risque vis à vis des populations et de l'environnement, concernant la grotte et les deux cuves uniquement, a été établi.		

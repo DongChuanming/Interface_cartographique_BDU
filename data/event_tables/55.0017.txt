@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1940				1960				exploité	Site exploité par les services du ministère des transports comme stockage de goudrons entre 1940 et 1960.	'goudrons'	
+1995				1995				un_diagnostic	La ville de Verdun a fait réaliser en 1995 par ANTEA un diagnostic sur l'état du site (référencé A03813).		'La ville de Verdun', 'ANTEA'
+1983				1983				ont_été_cédés	Les terrains ont été cédés en 1983 par la SNCF à M.		'la SNCF'

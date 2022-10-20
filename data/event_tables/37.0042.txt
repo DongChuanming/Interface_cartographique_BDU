@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	08	30		2010	08	30		la_cessation_d__activité	Le 18 mai 2010, l’exploitant a notifié au Préfet d’Indre-et-Loire la cessation d’activité de la station service à compter du 30 août 2010.		
+1994	09	16		1994	09	16		de_déclaration	La station service TOTAL Relais de St-Avertin sise 8 boulevard Paul Doumer à Saint-Avertin, a fait l’objet du récépissé de déclaration du 16 septembre 1994 relatif à un stockage de liquides inflammables et à une installation de distribution associée.	'stockage de liquides inflammables'	'La station service TOTAL Relais'
+2010	09	1		2010	09	1		a_adressé	Il a adressé le 1er septembre 2010 un rapport d’étude historique du site puis le 1er juin 2011 un rapport de diagnostic environnemental élaboré par le bureau d’études INOVADIA.		'INOVADIA'
+2010	05	18		2010	05	18		la_cessation_d__activité	Le 18 mai 2010, l’exploitant a notifié au Préfet d’Indre-et-Loire la cessation d’activité de la station service à compter du 30 août 2010.		

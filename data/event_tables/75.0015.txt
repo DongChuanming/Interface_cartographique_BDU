@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			avaient_été_récupérées	En août 2013, 1513 litres de d'hydrocarbures avaient été récupérées, de l'ordre de 25 000 m3 d'eau souillée traitée (soit 53 kg de polluants dissous).	'hydrocarbures', 'polluants'	
+2006				2006				a_été_instrumenté	Le site a été instrumenté de piézomètres pour le suivi de la qualité des eaux souterraines en 2006.		
+2012	03			2012	03			411_litres_de_phase_libre_à	De 2008 à 2012, poursuite de l’écrémage passif, récupération de 411 litres de phase libre à mars 2012.		
+2004	07			2004	07			a_fourni_un_diagnostic	En juillet 2004, l'exploitant a fourni un diagnostic des sols réalisé avant la fermeture de l'établissement ; les sondages de sol ont mis en évidence un impact en hydrocarbures et en composés volatils au droit des cuves de carburant et de l’ancien séparateur.	'hydrocarbures', 'composés', 'carburant'	
+2005	06	30		2005	06	30		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 30/06/2005.		
+1968				2005				a_été_exploitée	Une activité de station-service a été exploitée sur ce site de 1968 à 2005, en dernier lieu par la société TOTAL MARKETING & SERVICES.		'la société TOTAL MARKETING & SERVICES'
+2006	09			2006	09			a_été_mis_en_place	Un système d’écrémage passif, avec purge manuelle a été mis en place à partir de septembre 2006.		
+2013	04			2013	04			Installation	Installation en avril 2013 du système de dépollution – traitement par pompage et écrémage des eaux souterraines.		

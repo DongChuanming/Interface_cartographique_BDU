@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1935				1935				Son_implantation	Son implantation d'environ 2 ha sur le site remonte à 1935.		
+1999	09	15		1999	09	15		un_arrêté_mettant_en_demeure	N'ayant pas satisfait à ces obligations, un arrêté mettant en demeure l'exploitant de réaliser cette étude a été pris le 15 septembre 1999.		
+2003	01			2003	01			remise	Le document remis le 8 octobre ayant été jugé insuffisant par l'inspection, l'étude a été complétée et remise en janvier 2003.		
+								Le_document_remis	Le document remis le 8 octobre ayant été jugé insuffisant par l'inspection, l'étude a été complétée et remise en janvier 2003.		
+2003	10	28		2003	10	28		prescrit	28 octobre 2003: un arrêté préfectoral prescrit à la société Docks Pétroliers du Centre une surveillance de la qualité des eaux souterraines.		'la société Docks Pétroliers'
+1998				1998				son_intention	En fin d'année 1998, la société a indiqué au préfet son intention de ne pas poursuivre l'exploitation de ce site.		
+2003	10	30		2003	10	30		est_remis	30 octobre 2003: Le dossier de cessation d'activité est remis à l'Inspection des Installations Classées.		

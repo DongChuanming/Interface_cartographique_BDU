@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				des_prés	L'activité de peintures est présente depuis 1970, auparavant, le site était occupé par des prés.		
+1970				1970				est_présente	L'activité de peintures est présente depuis 1970, auparavant, le site était occupé par des prés.		
+1976	07	30		1976	07	30		une_autorisation_d__exploiter	Les activités de la société FOREZ PEINTURES ont fait l'objet d'une autorisation d'exploiter un dépôt de diluants et vernis (ancienne rubrique 254-A-1-d de la nomenclature des installations classées) et un dépôt de fuel (ancienne rubrique 255-3), par arrêté préfectoral en date du 30 juillet 1976.	'diluants', 'fuel'	'la société FOREZ PEINTURES'
+2007	02	08		2007	02	08		Ces_études_ont_été_conduites	Ces études ont été conduites selon la méthodologie de traitement des sites et sols pollués, au moment de l'entrée en vigueur des circulaires du 8 février 2007.		

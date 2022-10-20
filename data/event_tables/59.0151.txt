@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12			1996	12			des_études_de_sols	- Lors de la cessation d'activité en décembre 1996, des études de sols ont été menées.		
+1999	01	20		1999	01	20		__Diagnostic_initial_réalisé	- Diagnostic initial réalisé le 20/01/1999.		
+1999	02	19		1999	02	19		évaluation_Simplifiée_des_Risques	- L'évaluation Simplifiée des Risques a été réalisée le 19/02/1999.		

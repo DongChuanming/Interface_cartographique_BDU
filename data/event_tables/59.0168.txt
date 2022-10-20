@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	04		1998	12	04		cède_la_propriété	- Le 4 décembre 1998: Gist Brocades cède la propriété du site à ECOPSI.		'Gist', 'ECOPSI'
+								__Réalisation_d__études	- Réalisation d'études (septembre 97 et juillet 98), une pollution est détectée dans les sols: HAP, sulfate et nickel.	'HAP', 'sulfate', 'nickel'	
+				1999				a_démarré	- L'activité industrielle sur le site a démarré dans les années 60 et jusqu'en 1999.		
+1999				2001				a_succédé	L'entreprise  ECOPSI a succédé à l'entreprise GIST Brocades de 1999 à 2001 avec une activité de stockage.		'  ECOPSI'

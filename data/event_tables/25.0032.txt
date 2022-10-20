@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	08	08		2002	08	08		a_été_pris	Un arrêté préfectoral complémentaire a été pris par le préfet le 8 août 2002 afin de mettre à jour les modalités de surveillance du site.		'le préfet'
+1886				1918				fut_construit	Le dépôt en question fut construit entre 1886 et 1918 et démantelé en 1965.		
+				1982				avait_été_exploitée	Elle avait été exploitée pour un usage industriel par Rhodiaceta jusqu'en 1982 et pour un usage AEP par la ville jusqu'en 1960.		'Rhodiaceta'
+2010				2010				des_diagnostics	Dans le cadre de son projet de réhabilitation de la zone, la ville de Besançon a fait réaliser en 2010 des diagnostics de pollution du secteur.		'la ville de Besançon'
+2002	01	31		2002	01	31		étude_simplifiée_des_risques	L'étude simplifiée des risques a été remise le 31 janvier 2002.		
+2000	04			2000	04			une_première_étude_de_sol	Dans le cadre du réaménagement du secteur, une première étude de sol couvrant l'ensemble de la zone, a été réalisée pour le compte de Rhodiaceta en avril 2000.		'Rhodiaceta'
+1965				1965				démantelé	Le dépôt en question fut construit entre 1886 et 1918 et démantelé en 1965.		
+2012				2012				des_investigations	Suite à ces diagnostics, la société des Raffineries du Midi a réalisé en 2012 des investigations sur les eaux du Doubs, qui ne mettent en évidence aucun impact de la pollution des eaux souterraines en aval du site sur les eaux superficielles et donc les usages de ces dernières.		'la société des Raffineries du Midi'

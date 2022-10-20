@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06			2006	06			ont_été_mises_à_l__arrêt_définitif	Elles ont été mises à l'arrêt définitif en juin 2006.		
+1962				1962				une_activité_de_tannage_de_peaux_de_bovins	La société nouvelle des Tanneries de Fleuriais a exercé une activité de tannage de peaux de bovins depuis 1962.		'La société nouvelle des Tanneries de Fleuriais'
+2004	11	22		2004	11	22		avaient_été_autorisées	Au titre des installations classées, les installations avaient été autorisées par arrêté préfectoral du 11 août 1980 modifié par l’arrêté préfectoral du 7 octobre 1985, puis du 29 décembre 1981 et du 22 novembre 2004.		
+1971				1971				mise_en_service	Une station d’épuration interne à l’établissement, mise en service en 1971, traitait les eaux résiduaires de process avant rejet dans la Sèvre Nantaise.		
+1962				1962				a_exercé	La société nouvelle des Tanneries de Fleuriais a exercé une activité de tannage de peaux de bovins depuis 1962.		'La société nouvelle des Tanneries de Fleuriais'
+2010	12	15		2010	12	15		a_été_donné	Un accord pour une intervention de l'ADEME a été donné par le ministère par lettre du 15 décembre 2010.		
+1981	12	29		1981	12	29		avaient_été_autorisées	Au titre des installations classées, les installations avaient été autorisées par arrêté préfectoral du 11 août 1980 modifié par l’arrêté préfectoral du 7 octobre 1985, puis du 29 décembre 1981 et du 22 novembre 2004.		
+2006	06	07		2006	06	07		est_en_situation_de_liquidation_judiciaire	La société des Tanneries de Fleuriais est en situation de liquidation judiciaire depuis le 7 juin 2006.		'La société des Tanneries de Fleuriais'

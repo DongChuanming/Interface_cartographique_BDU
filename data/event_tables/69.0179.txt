@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				ont_été_arrêté	Les activités de la société ILFORD (devenu International Paper Industrie France ou IPIF) ont été arrêté en 1996 et ont fait l'objet d'une déclaration de cessation d'activités transmise à l'administration le 16 janvier 2003.		'la société ILFORD', 'International Paper Industrie France ou IPIF'
+2004	04	26		2004	04	26		a_été_mise_en_place	Une surveillance des eaux souterraines a été mise en place par la société BURGEAP suite à l'arrêté du 26/04/2004.		'la société BURGEAP'
+2004	12			2004	12			la_seconde	Le rapport de cette étude reprend les résultats de 2 campagnes d’échantillonnage des sols, la première menée en juin 2004 (avant la démolition des bâtiments) et la seconde en décembre 2004.		
+								le_diagnostic_ont_été_réalisé	L'ESR et le diagnostic ont été réalisé au mois de mai 2003 et complétée au mois de septembre de la même année.		
+2007	05	03		2007	05	03		a_été_réalisée	La dernière campagne a été réalisée le 03/05/2007.		
+1963	07	26		1963	07	26		a_été_utilisé	Le site a été utilisé pour la fabrication de papiers photosensibles, autorisée par arrêté préfectoral du 26 juillet 1963.		
+2005	01			2005	01			Une_étude_de_caractérisation	Une étude de caractérisation et de délimitation de la zone polluée a été menée par ANTEA au mois de janvier 2005.		'ANTEA'
+2005	04			2005	04			la_mise_en_place_du_protocole	Des investigations complémentaires ont été menées pour la mise en place du protocole de traitement en avril 2005.		
+								la_mise_en_place_de	L'arrêté préfectoral du 26/04/04 impose à IPIF la mise en place de la surveillance des eaux souterraines du site à fréquence semestrielle pendant une période de 3 ans.		'IPIF'
+2003	01	16		2003	01	16		ont_été_arrêté	Les activités de la société ILFORD (devenu International Paper Industrie France ou IPIF) ont été arrêté en 1996 et ont fait l'objet d'une déclaration de cessation d'activités transmise à l'administration le 16 janvier 2003.		'la société ILFORD', 'International Paper Industrie France ou IPIF'
+2001	02			2001	02			Une_dépollution	Une dépollution de cette zone a été réalisée en février 2001. 3,1 tonnes de terres ont été retirées avant d'effectuer les analyses des échantillons récoltés en fond de fouilles.		
+								recommande_la_mise_en_place_d__un_suivi	Le bureau d'étude ANTEA qui a rédigé ces rapports recommande la mise en place d'un suivi de la qualité de la nappe semestrielle ou annuelle pendant une période de 2 ans.		'ANTEA'
+2003	05			2003	05			le_diagnostic_ont_été_réalisé	L'ESR et le diagnostic ont été réalisé au mois de mai 2003 et complétée au mois de septembre de la même année.		
+								complétée	L'ESR et le diagnostic ont été réalisé au mois de mai 2003 et complétée au mois de septembre de la même année.		

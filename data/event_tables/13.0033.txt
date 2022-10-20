@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	10	10		1990	10	10		est_autorisée_à_exploiter_par_AP	* Elle fabrique des circuits imprimés pour l'industrie (7 500 m2 par an) et est autorisée à exploiter par AP du 10 octobre 1990.		
+2001				2001				a_fermé	* Cet établissement a fermé en 2001 et s'est installé à la Z.		
+1981				1981				sont_bâtis	1 100 m2 sont bâtis et imperméalbilisés, la société DELTA CIRCUITS IMPRIMES (DCI) exploite un atelier de traitement de surface depuis 1981.		'la société DELTA CIRCUITS IMPRIMES', 'DCI'
+2001				2001				a___cessé_son_activité	* A noter que cette entreprise a  cessé son activité en 2001.		

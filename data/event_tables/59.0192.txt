@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09	08		2001	09	08		__travaux_d__excavation	-8 septembre 2001: travaux d'excavation des terres souillées, bio-traitement d'une partie du site.		
+2003	10			2003	10			__travaux_de_traitement	-d'octobre 2003 à janvier 2005: travaux de traitement des eaux souterraines: extraction de la phase organique surnageante		
+2007	10	30		2007	10	30		_Arrêté_interpréfectoral	-Arrêté interpréfectoral du 30 octobre 2007 imposant à BP France des prescriptions complémentaires pour la surveillance de la qualité des nappes souterraines		
+2008	02	11		2008	02	11		_Arrêté_interpréfectoral	-Arrêté interpréfectoral du 11 février 2008 imposant à BP France des prescriptions complémentaires pour la remise en état du site		'BP France'
+2005	11			2005	11			__mise_en_place_de	-novembre 2005: mise en place de la surveillance des eaux souterraines par 4 piézomètres.		
+2004				2004				__travaux_de_mise_en_sécurité	-de 2004 à 2009: travaux de mise en sécurité: désamiantage,comblement des réseaux d'assainissement, évacuation d'une partie des déchets, démantèlement des installations restantes, dégazage et évacuation des fosses et cuves, écrémage de la phase flottante		
+2009				2009				__travaux_de_mise_en_sécurité	-de 2004 à 2009: travaux de mise en sécurité: désamiantage,comblement des réseaux d'assainissement, évacuation d'une partie des déchets, démantèlement des installations restantes, dégazage et évacuation des fosses et cuves, écrémage de la phase flottante		
+1999				1999				son_stockage_d_	-La société BP FRANCE a définitivement arrêté son stockage d'hydrocarbures liquides fin 1999.	'hydrocarbures'	'-La société BP FRANCE'
+								a_été_remis	-Un dossier de Servitude d'utilité publique a été remis le 23/07/10 concernant les eaux souterraines. phase actuelle: enquête publique		
+2004				2004				_Démantèlement	-Démantèlement en 2004		
+2004	04	07		2004	04	07		__Réalisation_d__une_évaluation_détaillée_des_risques	-7 avril 2004: Réalisation d'une évaluation détaillée des risques sur la ressource en eau		
+2003				2003				_Travaux_de_démantèlement	-Travaux de démantèlement, dépollution des sols et des eaux souterraines depuis 2003		
+2003	10			2003	10			_d_	-d'octobre 2003 à janvier 2005: travaux de traitement des eaux souterraines: extraction de la phase organique surnageante		
+2000				2000				_Cessation_d__activité	-Cessation d'activité en 2000		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959				1959				a_été_foré	Il a été foré en 1959 et bouché en 1978.		
+								une_remise_en_état	Le puits a fait l'objet d'une remise en état dans les années 1980 et a ensuite été cédé pour un usage agricole.		
+1978				1978				bouché	Il a été foré en 1959 et bouché en 1978.		

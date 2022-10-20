@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Des_prélèvements	Des prélèvements datant de 2010 (SC1, SC1 bis et SC1 ter) ont été réalisés afin de vérifier l'étendue des phtalates au niveau de l'ancien stockage, notamment du fait des fuites connues sur la pompe.	'des phtalates'	
+2005	10			2005	10			le_premier_prélèvement	La teneur est en diminution entre le premier prélèvement d'octobre 2005 (4,3 µg/l) et celui d'octobre 2010 (2,04 µg/l), avec un pic à 13 µg/l lors de la campagne de décembre 2005 (sans qu'il y ait d'explication).		
+2010				2010				les_études_réalisées	Le mémoire de réhabilitation du site reprend les études réalisées en 2005 (historique et prélèvements dans les sols et eaux souterraines) complétées par des mesures dans les sols et eaux souterraines réalisées en 2010.		
+1925				1925				l__exploitation	L'étude historique montre que l'exploitation du site par Pennel et Flipo (Pennel Industrie initialement) est ancienne (1925).		'Pennel et Flipo ( Pennel Industrie'
+2005				2005				les_études_réalisées	Le mémoire de réhabilitation du site reprend les études réalisées en 2005 (historique et prélèvements dans les sols et eaux souterraines) complétées par des mesures dans les sols et eaux souterraines réalisées en 2010.		
+2010	07	15		2010	07	15		La_cessation_d__activité	La cessation d'activité a été déclarée par courrier du 15 juillet 2010.		
+2010	10	25		2010	10	25		a_été_délivré	Le récépissé a été délivré le 25 octobre 2010.		

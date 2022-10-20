@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				Des_travaux_d__excavation	Des travaux d'excavation ont été menés en 1997 aboutissant à l'enlèvement et au traitement de 313 tonnes de terres souillées.		
+2003				2003				Les_dernières_analyses_menées	Les dernières analyses menées sur la qualité des eaux souterraines, en 2003, montraient un impact par les hydrocarbures au droit du site.	'hydrocarbures'	
+2008	03	19		2008	03	19		La_clôture_de_la_liquidation	La clôture de la liquidation a été prononcée par le TGI de Mulhouse en date du 19 mars 2008.		'le TGI de Mulhouse'
+2008	03	19		2008	03	19		Arrêt_total	Arrêt total depuis le 19/03/2008 avec la clôture de la procédure.		
+1997				1997				a_été_remise	L’étude a été remise fin 1997.		
+2005	01	28		2005	01	28		n__a_pas_été_remis	Ce diagnostic est prescrit par AP du 5/07/04, mais n'a pas été remis à la date du 28 janvier 2005.		

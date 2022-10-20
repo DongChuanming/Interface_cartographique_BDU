@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				créée	- MAN ORGA INDUSTRIE était une entreprise de construction métallique, créée en 1975 et spécialisée dans la fabrication de rayonnages, cloisons industrielles et plates-formes de stockage.		'MAN ORGA INDUSTRIE'
+2002	11	13		2002	11	13		reçue	- Étude des sols du 29/03/2002 reçue le 13/11/2002, site en classe 3.		
+2002				2002				a_transférée	- L'entreprise a transférée ses activités sur un autre site en 2002.		
+2003	11	25		2003	11	25		établie	- Procès verbal de récolement établie le 25/11/2003.		
+2003				2003				Cuves_vidangées	- Cuves vidangées, nettoyées et évacuées début 2003.		

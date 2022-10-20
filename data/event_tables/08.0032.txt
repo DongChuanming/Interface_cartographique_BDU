@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04	22		2003	04	22		signent_une_convention	le 22 avril 2003 la société GALVAL 08 et la société NPL signent une convention pour autorisation de passage sur la parcelle AC 96 (site de GILHAC).		'la société GALVAL 08', 'la société NPL'
+2000	02			2000	02			arrêtée	IL s'agit de l'ancien site Gilhac où était implantée une unité de galvanisation arrêtée depuis février 2000.		
+2001	06	25		2001	06	25		est_tenu	Par arrêté en date du 25 juin 2001, l'exploitant est tenu de réaliser les travaux suivants:		
+2003	02	27		2003	02	27		Une_visite	Une visite du site a été réalisée par l'inspection des installations classées le 27 février 2003, elle a montré l'exécution des dispositions de l'arrêté complémentaire du 25 juin 2001.		
+2000	06			2000	06			L__étude_de_sols_remise	L'étude de sols remise en juin 2000 à la demande de l'inspection des installations classées a révélé la présence de sols pollués (Zinc, hydrocarbures, ...) notamment:	'Zinc', 'hydrocarbures'	
+2012	02			2012	02			a_été_adressé	Une relance mail a été adressé sur le sujet de la surveillance des eaux souterraines en février 2012.		
+1999	11			1999	11			Une_déclaration	Une déclaration de cessation d'activité accompagnée d'un mémoire de remise en état ont été adressés en novembre 1999 à la préfecture des Ardennes, puis transmis à l'inspection des installations classées de la DRIRE.		'la DRIRE'

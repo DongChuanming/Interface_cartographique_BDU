@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07			2003	07			sont_démantelées	Les installations pétrolières du site sont démantelées en juillet 2003 lorsque TOTAL décide la cessation de l'activité sur le site.		'TOTAL'
+2002	11			2002	11			réalise_une_expertise	En novembre 2002, la société ANTEA réalise une expertise du site qui préconise de continuer les pompages pour récupérer les hydrocarbures flottants encore présents et empêcher la propagation de ces nappes d'hydrocarbures vers l'aval.	'hydrocarbures flottants', 'hydrocarbures'	'la société ANTEA'
+2006	05			2006	05			Des_sondages	Des sondages à la pelle mécanique sont réalisés en mai 2006 et montrent que les sols de la station, notamment au niveau de l'ancienne zone de distribution, sont riches en hydrocarbures et en xylène.	'hydrocarbures', 'xylène'	
+2008	12			2009	03			des_travaux_sur_la_chaussée_effectués	Suite à des travaux sur la chaussée effectués entre décembre 2008 et mars 2009, trois piézomètres sont détruits.		
+1971				1971				reprise	Il a accueilli entre 1968 et 2002 une station-service installée par la société "La Mure Union" et reprise par ELF-DISTRIBUTION en 1971.		'la société " La Mure Union', 'ELF - DISTRIBUTION'
+2003	11			2003	11			continue_les_opérations	En novembre 2003, GRS VALTECH continue les opérations de traitement de la nappe en mettant en place un système de traitement in situ par biolavage et venting qui restera en place jusqu'en novembre 2006.		'GRS VALTECH'
+2008	12			2009	03			sont_détruits	Suite à des travaux sur la chaussée effectués entre décembre 2008 et mars 2009, trois piézomètres sont détruits.		
+1968				2002				a_accueilli	Il a accueilli entre 1968 et 2002 une station-service installée par la société "La Mure Union" et reprise par ELF-DISTRIBUTION en 1971.		'la société " La Mure Union', 'ELF - DISTRIBUTION'
+2010	03			2010	03			a_été_proposé	Un plan de gestion de la pollution a été proposé par SITA REMEDIATION en mars 2010.		'SITA REMEDIATION'
+1978				1978				a_été_ajoutée	En 1978, une cuve supplémentaire de 30 m3 a été ajoutée sur le site.		
+2002	05	31		2002	05	31		une_fuite_est_découverte	Le 31 mai 2002, une fuite est découverte sur une des cuves de carburant enterrées sur le site et 14 m3 de gasoil se sont infiltrés dans le sol et dans la nappe d'eau souterraine au droit de la station.	'carburant', 'gasoil'	

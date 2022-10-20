@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	12	18		2008	12	18		a_transmis	Le 18 décembre 2008, l'exploitant a transmis un plan de gestion avec traitement de la pollution des sols par venting.		
+2008	05	09		2008	05	09		La_mise_en_sécurité_définitive	La mise en sécurité définitive du site a été constatée le 9 mai 2008.		
+2015	01	22		2015	01	22		a_été_signé	Aprés une nouvelle réunion avec l'exploitant le 17 février 2014, un arrêté préfectoral a été signé le 22 janvier 2015 afin d'encadrer la remise en état du site et l'évaluation de l'impact extérieur.		
+2011	01	24		2011	01	24		une_evaluation_quantitative_du_risque_sanitaire	En réponse l'exploitant a transmis une evaluation quantitative du risque sanitaire (EQRS) du 24 janvier 2011 pour justifier de l'absence d'impact extérieur.		
+2014	02	17		2014	02	17		a_été_signé	Aprés une nouvelle réunion avec l'exploitant le 17 février 2014, un arrêté préfectoral a été signé le 22 janvier 2015 afin d'encadrer la remise en état du site et l'évaluation de l'impact extérieur.		
+2008	10			2008	10			Les_opérations_de_dépollution	Les opérations de dépollution ont démarré en octobre 2008 et étaient proche de la finalisation fin 2011 mais les incertitudes sur l'aménagement futur du site on amené l'exploitant à suspendre la réception finale.		
+2008				2008				ont_été_entièrement_démantelées	Les installations ont été entièrement démantelées en 2008.		
+2007	05	23		2007	05	23		un_diagnostic_complementaire	Dans le cadre du projet d'aménagement du site en centre nautique, il a été réalisé un diagnostic complementaire de la pollution du site (22 mai 2007), des mesures des gaz du sol (23 mai 2007), une évaluation du risque sanitaire pour un usage industriel (25 mai 2007) et une évaluation du risque sanitaire pour l'usage centre nautique.		
+2011	12	12		2011	12	12		a_transmis	L'exploitant a transmis de nouveau des éléments le 12 décembre 2011 qui n'ont pas été validés.		
+2011	12	12		2011	12	12		ont_pas_été_validés	L'exploitant a transmis de nouveau des éléments le 12 décembre 2011 qui n'ont pas été validés.		
+2007	05			2007	05			un_diagnostic_complementaire	Dans le cadre du projet d'aménagement du site en centre nautique, il a été réalisé un diagnostic complementaire de la pollution du site (22 mai 2007), des mesures des gaz du sol (23 mai 2007), une évaluation du risque sanitaire pour un usage industriel (25 mai 2007) et une évaluation du risque sanitaire pour l'usage centre nautique.		
+1990				1990				importante_perte	Une importante perte de white-spirit (100 m3) avait eu lieu dans les années (1990-92).	'white - spirit'	
+2014	02	17		2014	02	17		une_nouvelle_réunion	Aprés une nouvelle réunion avec l'exploitant le 17 février 2014, un arrêté préfectoral a été signé le 22 janvier 2015 afin d'encadrer la remise en état du site et l'évaluation de l'impact extérieur.		
+								importante_perte	Une importante perte de white-spirit (100 m3) avait eu lieu dans les années (1990-92).	'white - spirit'	
+2007	05	02		2007	05	02		La_cessation_d__activité	La cessation d'activité du site a été déclarée le 2 mai 2007.		
+2007	05	22		2007	05	22		un_diagnostic_complementaire	Dans le cadre du projet d'aménagement du site en centre nautique, il a été réalisé un diagnostic complementaire de la pollution du site (22 mai 2007), des mesures des gaz du sol (23 mai 2007), une évaluation du risque sanitaire pour un usage industriel (25 mai 2007) et une évaluation du risque sanitaire pour l'usage centre nautique.		
+2007	05	02		2007	05	02		__déclarée	Cessation d'activité (conditionnement et stockage de produits pétroliers et dénaturation d'alcool) déclarée le 2 mai 2007.		
+1997				1997				a_été_mis_en_place	Un suivi piézométrique a été mis en place en 1997 et un diagnostic pollution a été réalisé (pollution aux métaux lourds et hydrocarbures).	'métaux lourds', 'hydrocarbures'	

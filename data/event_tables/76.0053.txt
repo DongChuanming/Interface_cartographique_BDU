@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	11			1997	11			Les_opérations_d__enlèvement	Les opérations d'enlèvement se sont déroulées en octobre-novembre 1997, cela représente plus de 700 t de déchets.		
+1993	01	12		1993	01	12		a_été_pris	Aucune suite n'ayant été engagée, un arrêté préfectoral de consignation a été pris le 12 janvier 1993, puis un arrêté préfectoral d'exécution d'office le 31 janvier 1997.		
+								Les_opérations_d__enlèvement	Les opérations d'enlèvement se sont déroulées en octobre-novembre 1997, cela représente plus de 700 t de déchets.		
+2001	04			2001	04			L__enrobé	L'enrobé a été posé en avril 2001 sur 72 m2 correspondant aux anciennes fosses présentes dans la salle des fours.		
+1998	05			1998	05			un_diagnostic_de_pollution	HPC ENVIROTEC a rédigé en mai 1998 un diagnostic de pollution (ESR) qui concluait que le site est à ranger en classe 2 : à surveiller.		'HPC ENVIROTEC'
+1992	06	22		1992	06	22		a_été_mise_en_demeure	La société a été mise en demeure le 22 juin 1992 de remettre en état le site.		
+1990				1992				a_également_accueilli	De 1990 à 1992, le site a également accueilli des activités de récupération et de tris de déchets (déchets industriels banals et spéciaux).		
+				1992				a_exploité	La SARL AFFINERIES DE NORMANDIE a exploité une unité de fonderie d'aluminium à DUCLAIR jusqu'en 1992, en lieu et place d'une boulonnerie ayant exploité de 1921 à 1964.		'La SARL AFFINERIES DE NORMANDIE', 'DUCLAIR'
+1997	01	31		1997	01	31		a_été_pris	Aucune suite n'ayant été engagée, un arrêté préfectoral de consignation a été pris le 12 janvier 1993, puis un arrêté préfectoral d'exécution d'office le 31 janvier 1997.		
+1921				1964				ayant_exploité	La SARL AFFINERIES DE NORMANDIE a exploité une unité de fonderie d'aluminium à DUCLAIR jusqu'en 1992, en lieu et place d'une boulonnerie ayant exploité de 1921 à 1964.		'La SARL AFFINERIES DE NORMANDIE', 'DUCLAIR'

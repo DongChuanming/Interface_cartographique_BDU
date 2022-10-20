@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_travaux_de_démolition	Les travaux de démolition dans la zone 2 ont été terminés en mars 2006, en juin suivant, la construction du nouvel hôpital a débuté.		
+2007	07			2007	07			deux_arrêtés_pris	Par deux arrêtés pris en juillet 2007, les travaux de démolition de la zone3 ont été encadrés et un suivi de la qualité des eaux souterraines a été mis en place autour de la zone 1 pour vérifier l'absence de mobilité de la pollution confinée sur cette zone.		
+1915				1915				a_été_construit	Le site de l'usine Michelin d'Estaing a été construit en 1915 à la périphérie de Clermont- Ferrand, sur des terrains autrefois dévolus aux activités agricoles (jardins, ferme, terres cultivées).		'Michelin'
+2008	06			2008	06			le_constat	En juin 2008, lors dune visite, l'inspection des installations classées a fait, sur la zone 3, le constat suivant:		
+2012	01			2012	01			Les_travaux_d__excavation	Les travaux d'excavation et d'évacuation des terres polluées se sont déroulés en janvier 2012 en respectant le seuil de 150mg/kg.		
+2010				2010				A	A partir de 2010, deux piézomètres (PZ1 et PZ4), et particulièrement PZ1, situés en aval hydraulique de la zone confinée (Z1) indique une augmentation des concentrations en HAP supérieures aux valeurs de gestion retenues dans les études en 2005 et 2006.	'HAP'	
+2001				2001				des_campagnes_d__investigations	La Manufacture Michelin a initié en 2001, des campagnes d'investigations.		'La Manufacture Michelin'
+2005	11	04		2005	11	04		à_été_signé	Parallèlement, un arrêté préfectoral instaurant des servitudes d'utilité publique, à été signé le 4 novembre 2005, avec pour objectif de fixer, entre autre, les restrictions d'usage suivantes:		
+2012	02			2012	02			rendue	Néanmoins, l'évaluation quantitative des risques sanitaires rendue en février 2012 conclut, sur la base des concentrations mesurées sur ces deux ouvrages, à l'absence de risque pour les populations exposées sur les terrains.		
+2008	06			2008	06			dune_visite	En juin 2008, lors dune visite, l'inspection des installations classées a fait, sur la zone 3, le constat suivant:		
+2010				2010				ont_dû_être_déplacés	En 2010, en raison de l'implantation de la voirie, deux piézomètres ont dû être déplacés.		
+2005	03	02		2005	03	02		Les_travaux_de_démolition	Les travaux de démolition, de dépollution et un suivi de la qualité des eaux souterraines ont été prescrits par arrêté en date du 2 mars 2005.		
+2005	05			2005	05			Les_travaux_de_dépollution_sur	Les travaux de dépollution sur la zone 2, ont été mis en oeuvre en mai 2005 , à savoir:		
+2008				2008				ont_été_terminés	Ces travaux ont été terminés au 2ème semestre 2008.		
+2006	03			2006	03			Les_travaux_de_démolition	Les travaux de démolition dans la zone 2 ont été terminés en mars 2006, en juin suivant, la construction du nouvel hôpital a débuté.		
+2007	07			2007	07			les_travaux_de_démolition	Par deux arrêtés pris en juillet 2007, les travaux de démolition de la zone3 ont été encadrés et un suivi de la qualité des eaux souterraines a été mis en place autour de la zone 1 pour vérifier l'absence de mobilité de la pollution confinée sur cette zone.		
+								ont_été_terminés	Ces travaux ont été terminés au 2ème semestre 2008.		

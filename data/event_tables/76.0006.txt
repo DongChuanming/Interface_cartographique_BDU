@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	08	24		1990	08	24		Localisation_de_la_fuite	- Localisation de la fuite le 24 août 1990 sur une canalisation enterrée (5 à 6 mm) du parc de stockage du Milthuit ;		
+1998	09			1998	09			Diagnostic_approfondi	Diagnostic approfondi et évaluation détaillée des risques (septembre 1998).		
+2001	10	12		2001	10	12		un_courrier	- Interrogée par la DDASS, la Direction générale de la santé, dans un courrier en date du 12 octobre 2001, préconise de mettre en application les recommandations du Conseil supérieur d'hygiène publique de France (valeurs toxicologiques plus protectrices).		'la DDASS', 'la Direction', 'France'

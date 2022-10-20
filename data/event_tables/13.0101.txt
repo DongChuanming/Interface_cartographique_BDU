@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_réalisée	* Une première étude ESR a été réalisée dès 1996 par RP RORER en vue de la cession future au groupe SPI POLYOLS.		'RP RORER', 'groupe SPI POLYOLS'
+1810				1810				implanté	* Site en activité implanté depuis 1810 à Septèmes les Vallons, lieu dit Vallon du Maire, sur une superficie de 4 ha.		
+1933				1933				la_fabrication_de_produits_chimiques_alumineux	A partir de 1933, les activités exercées consistent dans la fabrication de produits chimiques alumineux notamment pour l'industrie pharmaceutique.	'produits chimiques alumineux'	
+1933				1933				consistent_dans	A partir de 1933, les activités exercées consistent dans la fabrication de produits chimiques alumineux notamment pour l'industrie pharmaceutique.	'produits chimiques alumineux'	

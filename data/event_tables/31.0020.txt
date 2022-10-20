@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09			2016	09			la_campagne	Cependant, des teneurs en métaux et COHV ont été détectées, les résultats de la campagne de septembre 2016 mettent en évidence :	'métaux', 'COHV'	
+1980				1980				a_démarré	L'activité déchets a démarré en 1980.		
+2001	05	09		2001	05	09		L__étude_de_sols	L'étude de sols a été reçue à l'IIC le 9 mai 2001.		
+2005	08	03		2005	08	03		a_imposé	Par courrier du 3 août 2005, l'inspection des installations classées a imposé une surveillance des eaux souterraines à fréquence semestrielle.		
+2000	07	21		2000	07	21		cessation_d__activité	Un récépissé de déclaration de cessation d'activité du 21/07/2000 a été délivré à la société SOPREDIS pour la cessation de son activité de stockage de transformateurs ou de déchets contenant des PCB.	'déchets contenant', 'des PCB'	'la société SOPREDIS'
+1996	04	03		1996	04	03		a_été_sélectionné	Les activités exercées sur ce site étant susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, il a été sélectionné par l'inspection des installations classées (IIC), dans le cadre de l'application de la circulaire du 3 avril 1996, pour faire l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques.		

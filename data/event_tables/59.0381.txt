@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				auraient_amenés	- Les remblais pourraient être des scories ou des déchets sidérurgiques qui auraient amenés sur le site à partir de 1968 pour le nivellement des terrains et la construction du bâtiment.	'des déchets sidérurgiques'	
+2002	05			2002	05			Réalisation_d__un_diagnostic_initial	- Réalisation d'un diagnostic initial et d'une Évaluation Simplifiée des Risques en mai 2002, révélant une pollution des sols au chrome, cuivre et plomb engendrée par des remblais contenant des sables de chaudronnerie.	'chrome', 'cuivre', 'plomb'	

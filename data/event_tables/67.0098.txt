@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975	1965			1975	1965			déversés	Le puits pose un problème double car il a été comblé en partie par des déchets déversés dans les années 1965/1975.		
+1948	03			1948	03			Le_fonçage	Le fonçage du puits VIII a débuté en mars 1948.		
+2010				2010				des_travaux_d__instrumentation	En 2010, le BRGM/DPSM a réalisé des travaux d’instrumentation du puits, par la mise en place d’une sonde piézométrique associée à un automate de télégestion et de transmission, pour suivre l’évolution de la nappe phréatique et du réservoir minier.		'le BRGM / DPSM'
+				1950				mise_en_place	Le puits a été équipé entre mai et juillet 1950 (mise en place des cadres, des boites à moises et des rails) mais il ne fut jamais utilisé pour l’extraction, suite à la réorientation des recherches de pétrole.		
+				1950				a_été_équipé	Le puits a été équipé entre mai et juillet 1950 (mise en place des cadres, des boites à moises et des rails) mais il ne fut jamais utilisé pour l’extraction, suite à la réorientation des recherches de pétrole.		
+1998	08			1998	08			Des_travaux	Des travaux ont été menés sur les puits en août 1998, qui consistaient en :		
+2010				2010				la_mise_en_conformité	En 2010, le BRGM/DRP/DPSM/UTAM Est, qui s’est vu confier la gestion des exutoires de gaz de mines, a fait réaliser la mise en conformité d’après la note « Instruction exutoires de gaz de mine 01/2009 – Analyse de risque et principes  d’installation ».		'le BRGM / DRP / DPSM / UTAM Est'

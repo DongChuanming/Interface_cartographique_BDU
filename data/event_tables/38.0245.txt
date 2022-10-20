@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	03		2005	01	03		bénéficiait_d_	Le site bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter du 03/01/2005.		
+2011	10	25		2011	10	25		Un_diagnostic_de_site	Un diagnostic de site a été réalisé le 25/10/2011 par la société SURF'ALP.		"la société SURF' ALP"
+2011	06	16		2011	06	16		a_été_émis	L'arrêté préfectoral complémentaire a été émis le 16/06/2011.		
+2012	03	09		2012	03	09		à_une_visite_d__inspection	Suite à une visite d'inspection effectuée le 09/03/2012, le rapport de l'inspection des installations classées datant du 12/03/2012 indique que la parcelle est ne comporte plus de déchets et dresse un PV de recolement des travaux.		
+2011	08	03		2011	08	03		ont_été_implantés	3 piézomètres ont été implantés le 03/08/2011.		
+2010	10	19		2010	10	19		a_prononcé_la_liquidation_judiciaire	Le Tribunal de Commerce de Grenoble a prononcé la liquidation judiciaire de la société NS COMPO le 19/10/2010.		'Le Tribunal de Commerce de Grenoble', 'la société NS COMPO'
+				2008	01			a_exercé	La société ZAPOLY a exercé une activité de moulage de pièces en résine polyester de 1968 jusqu'en janvier 2008.	'résine polyester'	'La société ZAPOLY'
+				2008	01			une_activité_de_moulage_de_pièces_en_résine_polyester	La société ZAPOLY a exercé une activité de moulage de pièces en résine polyester de 1968 jusqu'en janvier 2008.	'résine polyester'	'La société ZAPOLY'
+2010	10	05		2010	10	05		Une_visite_d__inspection	Une visite d'inspection de l'inspection des installations classées a été effectuée le 05/10/2010.		
+2011	07	11		2011	07	11		10_sondages_ont_été_réalisés	10 sondages ont été réalisés le 11/07/2011.		
+2010	12	24		2010	12	24		a_été_informée	La Préfecture a été informée de la cessation d'activités par courrier du 24/12/2010.		'La Préfecture'
+2010	12	24		2010	12	24		la_cessation_d__activités_par_courrier	La Préfecture a été informée de la cessation d'activités par courrier du 24/12/2010.		'La Préfecture'

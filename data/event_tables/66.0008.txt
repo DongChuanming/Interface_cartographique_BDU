@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08			2001	08			Un_diagnostic	Un diagnostic effectué en août 2001 a montré la présence de sols pollués par hydrocarbures.	'hydrocarbures'	
+1997				2001				a_été_exploité	e dépot a été exploité de 1997 à 2001.		
+2002	11			2002	11			a_été_présentée	En novembre 2002 l'étude complémentaire a été présentée ainsi que l'ESR.		

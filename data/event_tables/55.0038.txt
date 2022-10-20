@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06	24		2015	06	24		la_réalisation_d__un_état_des_milieux	Le préfet a prescrit par arrêté préfectoral du 24 juin 2015, à la société DUKER, la réalisation d'un état des milieux  et la remise d'un plan de gestion.		'Le préfet', 'la société DUKER'
+				2002	05	31		a_exploité	La société DUKER, située sur la commune de COUSANCES-LES-FORGES, a exploité jusqu'au 31 mai 2002 une usine de fabrication de baignoires et acrylique soumise à déclaration (récépissé du 14 novembre 1989).		'La société DUKER'
+2017	03			2017	03			a_transmis	Il l'a transmis au Préfet par courrier de mars 2017.	'Préfet'	
+2010	01	14		2010	01	14		ont_été_demandées	Des investigations complémentaires ont été demandées à l'exploitant (arrêté préfectoral du 14 janvier 2010) et n'ont, pour le moment, pas été mises en œuvre.		
+2014	11	06		2014	11	06		à_la_visite	Suite à la visite sur site du 6 novembre 2014, il a été constaté:		

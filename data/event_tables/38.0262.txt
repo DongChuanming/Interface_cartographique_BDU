@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	04		2009	11	04		17_sondages_ont_été_réalisés	17 sondages ont été réalisés (S1 à S16) jusqu'à 4 m de profondeur, les 04/11/2009 et 05/11/2009.		
+				2009	11	30		ont_été_réalisés	L'étape A et l'étape B du diagnostic initial ont été réalisés par le bureau d'études SOCOTEC le 03/06/2010 et le 30/11/2009.		'SOCOTEC'
+2004				2004				a_cessé	Cette activité a cessé en 2004 et l'entreprise SOIERIES PICHARD-CHALEARD ROMTEX a été mise en liquidation judiciaire.		'SOIERIES PICHARD - CHALEARD ROMTEX'
+								droit	Depuis les années 1860 aux années 2004, l'activité de tissage est exercée au droit du site par plusieurs sociétés.		
+2010	06	03		2010	06	03		ont_été_réalisés	L'étape A et l'étape B du diagnostic initial ont été réalisés par le bureau d'études SOCOTEC le 03/06/2010 et le 30/11/2009.		'SOCOTEC'
+								l__activité_de_tissage	Depuis les années 1860 aux années 2004, l'activité de tissage est exercée au droit du site par plusieurs sociétés.		
+2009	11	05		2009	11	05		17_sondages_ont_été_réalisés	17 sondages ont été réalisés (S1 à S16) jusqu'à 4 m de profondeur, les 04/11/2009 et 05/11/2009.		
+2008	12			2008	12			est_racheté	Le site est racheté par la Communauté de Communes du Sud Grenoblois en décembre 2008.		'la Communauté de Communes du Sud Grenoblois'
+2011	07	21		2011	07	21		a_été_réalisé	Un rapport concernant un diagnostic des sols, une évaluation quantitative des risques sanitaires (EQRS) et un plan de gestion a été réalisé par HPC ENVIROTEC le 21/07/2011.		'HPC ENVIROTEC'

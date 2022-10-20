@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	11		2011	07	11		complétée_en_dernier_lieu	L'évaluation des risques sanitaires sur ces parcelles a été remise par l'ancien exploitant le 14 décembre 2009 et complétée en dernier lieu le 11 juillet 2011.		
+2012	08	10		2012	08	10		a_été_pris	L'arrêté préfectoral imposant les travaux de dépollution sur 18 parcelles voisines au site a été pris le 10 août 2012.		
+2005	05			2005	05			Un_diagnostic	Un diagnostic et un mémoire sur la remise en état ont été fournis par l'exploitant en mai 2005 et complétés en septembre 2005.		
+2013	05	23		2013	05	23		a_pris_contact_avec	A la date du 23 mai 2013, l'exploitant a pris contact avec l'ensemble des propriétaires concernés.		
+1912				1912				exploitée_en_dernier_lieu	Le site a abrité une usine fabriquant des batteries au plomb à compter de 1912 et exploitée en dernier lieu par la société EXIDE TECHNOLOGIES, anciennement CEAC (Compagnie européenne d'accumulateurs).	'plomb'	'la société EXIDE TECHNOLOGIES', 'CEAC'
+2013	12			2013	12			a_procédé_à_la_visite_des_lieux	Cet expert a procédé à la visite des lieux au mois de décembre 2013 et a rendu son rapport en janvier 2014.		
+2017	01	03		2017	01	03		Un_procès_verbal_de_récolement	Un procès verbal de récolement a donc été dressé par l'inspection le 3 janvier 2017 relatif aux 18 parcelles voisines de l'ancien site industriel EXIDE.		'EXIDE'
+2008	03			2008	03			ont_été_achetées	En effet, le terrain de l'ancienne usine exploité par la société EXIDE TECHNOLOGIES SAS ainsi que ces 8 parcelles hors site à réhabiliter ont été achetées par la SEMNA en mars 2008 dans le cadre de la création de la ZAC Centre – Sainte-Geneviève.		'la société EXIDE TECHNOLOGIES SAS', 'la SEMNA'
+2009	12	14		2009	12	14		a_été_remise	L'évaluation des risques sanitaires sur ces parcelles a été remise par l'ancien exploitant le 14 décembre 2009 et complétée en dernier lieu le 11 juillet 2011.		
+2005	09			2005	09			complétés	Un diagnostic et un mémoire sur la remise en état ont été fournis par l'exploitant en mai 2005 et complétés en septembre 2005.		
+2011	07	11		2011	07	11		a_été_remise	L'évaluation des risques sanitaires sur ces parcelles a été remise par l'ancien exploitant le 14 décembre 2009 et complétée en dernier lieu le 11 juillet 2011.		
+2014	01			2014	01			a_rendu	Cet expert a procédé à la visite des lieux au mois de décembre 2013 et a rendu son rapport en janvier 2014.		
+2013	09	09		2013	09	09		signé	- 8 parcelles ont été réhabilitées par la SEMNA, suite à un protocole d'accord entre EXIDE et la SEMNA signé le 9 septembre 2013 : CK43, CK56, CK66, CK106, CL111, CL114, CL118 et CL148.		'la SEMNA', 'la SEMNA'
+2012	08	10		2012	08	10		la_réhabilitation	A fin 2016, les rapports de fin de travaux transmis par l'ancien exploitant ont attesté le respect de cet arrêté préfectoral: la réhabilitation des 18 parcelles voisines de l'ancien site EXIDE a été réalisée conformément à l'arrêté préfectoral du 10 août 2012.		'EXIDE'
+2008	03	26		2008	03	26		la_réalisation_d__une_étude_de_risques_sanitaires	C'est pourquoi, par arrêté préfectoral du 26 mars 2008, il a été prescrit à la société EXIDE la réalisation d'une étude de risques sanitaires sur des parcelles se trouvant à l'extérieur du site (à savoir principalement des habitations pavillonnaires).		'la société EXIDE'
+2004	12			2004	12			a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité en décembre 2004.		
+2008	07	31		2008	07	31		Un_procès_verbal_de_récolement	Un procès verbal de récolement a donc été dressé par l'inspection le 31 juillet 2008 relatif au terrain de l'ancien site industriel.		
+2005	09			2005	09			Un_diagnostic	Un diagnostic et un mémoire sur la remise en état ont été fournis par l'exploitant en mai 2005 et complétés en septembre 2005.		

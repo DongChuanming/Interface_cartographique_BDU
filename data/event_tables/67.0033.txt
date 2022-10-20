@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05			2001	05			sont_passées	Les valeurs en TCE dans la nappe sont passées de 1440µg/l à moins de 20µg/l en mai 2001.	'TCE'	
+				1999	07			ont_été_extraits	Le traitement par venting des sols a démarré en décembre 1996, d'abord en superficie, puis dans les couches profondes. 1100 kg de trichloréthylène (TCE) ont été extraits jusqu'en juillet 1999, date à laquelle le venting a été arrêté.	'trichloréthylène', 'TCE'	
+1996	12			1996	12			Le_traitement_par_venting	Le traitement par venting des sols a démarré en décembre 1996, d'abord en superficie, puis dans les couches profondes. 1100 kg de trichloréthylène (TCE) ont été extraits jusqu'en juillet 1999, date à laquelle le venting a été arrêté.	'trichloréthylène', 'TCE'	
+2003				2005				sont_passés	Les valeurs en TCE dans la nappe sont passés de 20 µg/l à moins de 5 µg/l entre 2003 et 2005.	'TCE'	

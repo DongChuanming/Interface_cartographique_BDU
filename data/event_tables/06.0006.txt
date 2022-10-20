@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	21		2006	06	21		acquiert_le_terrain	La commune acquiert le terrain en 2001, une fois le PV de récolement dressé (21/06/2006).		
+1999				1999				études_de_diagnostic	GDF a présenté un projet de réhabilitation, consécutif aux études de diagnostic du site réalisé en 1999 à la demande de l'Administration et complété par le volet "exposition santé".		'GDF'
+1870				1870				implantée	Ancienne usine à gaz implantée à VILLEFRANCHE SUR MER depuis 1870 sur une superficie de 4848 m² et dont les bâtiments ont été reconvertis en bureaux - sevices de GDF-(depuis 30 ans), après la cessation d'activité intervenue en 1955.		'VILLEFRANCHE SUR MER', 'sevices de GDF-(depuis'
+2001				2001				acquiert_le_terrain	La commune acquiert le terrain en 2001, une fois le PV de récolement dressé (21/06/2006).		
+2007	01			2007	01			la_construction_d_	La mairie a entrepris la construction d'une école maternelle temporaire fin Janvier 2007.		
+				2001	07			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés de mars à juillet 2001 dans le cadre  de l'Arrêté Préfectoral du 7 septembre 2000 fixant les objectifs et les délais.		

@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				un_suivi_de_la_qualité_des_eaux_souterraines	2001-2012: L'exploitant effectue sur cette période un suivi de la qualité des eaux souterraines		
+2001				2001				effectue	2001-2012: L'exploitant effectue sur cette période un suivi de la qualité des eaux souterraines		
+2012	12	19		2012	12	19		__cessation_d__activité	19 décembre 2012: cessation d'activité de la station service TOTAL.		
+2013				2013				des_travaux_de_réhabilitation	En 2013, des travaux de réhabilitation sont menés par l'exploitant:		
+2001				2001				un_suivi_de_la_qualité_des_eaux_souterraines	2001-2012: L'exploitant effectue sur cette période un suivi de la qualité des eaux souterraines		
+2013	06	25		2013	06	25		ont_été_excavées	Le 25 juin 2013, 66.44 tonnes de terres polluées supplémentaires ont été excavées en plus et envoyées dans un centre de traitement.		
+2014	04	08		2014	04	08		une_visite_d__inspection	8 avril 2014 : une visite d'inspection a été menée sur site.		
+				2013	04	30		__investigations_complémentaires	- du 22 au 30 avril 2013: investigations complémentaires au droit de l'ancien parc à cuves ELF ANTAR		'cuves ELF ANTAR'
+2010	12			2010	12			des_investigations_complémentaires_sont_menées	Suite à cet accident, des investigations complémentaires sont menées par l'exploitant en décembre 2010:		
+				2013	03	20		__travaux_de_réhabilitation	- du 26 février au 20 mars 2013: travaux de réhabilitation de la phase n°2		
+2001	12			2001	12			est_reprise	Décembre 2001: changement d'exploitant, l'activité est reprise par CARAUTOROUTES.		'CARAUTOROUTES'
+2008				2008				__détection	2008: détection d'une fuite de SP95 sur une cuve et la canalisation associée.	'SP95'	
+2000				2000				__réalisation	2000: à l'initiative de l'exploitant, réalisation d'un diagnostic environnemental initial		
+2001				2001				des_travaux_de_réhabilitation	2001: L'exploitant effectue pendant sept mois des travaux de réhabilitation, finalement non adaptés et arrêtés.		
+1980	01			1980	01			__reprise	Janvier 1980: reprise de l'exploitation par la S.		'la S.'
+2012				2012				effectue	2001-2012: L'exploitant effectue sur cette période un suivi de la qualité des eaux souterraines		
+				2013	01	25		__travaux_de_réhabilitation	- du 7 au 25 janvier 2013: travaux de réhabilitation de la phase n°1		
+2011				2011				__fin	2011: fin du titre d'occupation du domaine autoroutier de CARAUTOROUTES et transfert d'activités de CARAUTOROUTES à TOTAL.		'autoroutier de CARAUTOROUTES', 'CARAUTOROUTES', 'TOTAL'
+				2013	02	21		__réalisation_de_sondages	- du 13 au 21 février 2013: réalisation de sondages et piézairs au droit de l'ancien parc à cuves ELF ANTAR		'cuves ELF ANTAR'

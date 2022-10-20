@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01			2010	01			Les_opérations_de_terrassement	Les opérations de terrassement (excavation et stockage des terres souillées) et le traitement des terres contaminées en centre agréé ont eu lieu en janvier 2010.		
+1973				1973				est_implantée	La société HERCULES est implantée depuis 1973 sur le site de Centr'Alp à Voreppe.		'La société HERCULES'
+2009	05	26		2009	05	26		l__arrêt_définitif	Par lettre du 26 mai 2009, la société HERCULES a notifié au préfet de l'Isère l'arrêt définitif de ses activités industrielles à compter du 1er octobre 2009 sur le site de Voreppe.		'la société HERCULES'
+2009	09	29		2009	09	29		a_transmis	HERCULES a transmis le 29 septembre 2009 un dossier comprenant notamment les résultats d'un diagnostic environnemental effectué en avril, juin et juillet 2009.		'HERCULES'
+2012	07	27		2012	07	27		des_servitudes_conventionnelles	C'est ainsi que des servitudes conventionnelles au profit de l'état ont été signées le 27 juillet 2012.		
+								a_transmis	HERCULES a transmis le 29 septembre 2009 un dossier comprenant notamment les résultats d'un diagnostic environnemental effectué en avril, juin et juillet 2009.		'HERCULES'
+2009	10	1		2009	10	1		l__arrêt_définitif	Par lettre du 26 mai 2009, la société HERCULES a notifié au préfet de l'Isère l'arrêt définitif de ses activités industrielles à compter du 1er octobre 2009 sur le site de Voreppe.		'la société HERCULES'
+								un_diagnostic_environnemental	HERCULES a transmis le 29 septembre 2009 un dossier comprenant notamment les résultats d'un diagnostic environnemental effectué en avril, juin et juillet 2009.		'HERCULES'
+2009	07			2009	07			a_transmis	HERCULES a transmis le 29 septembre 2009 un dossier comprenant notamment les résultats d'un diagnostic environnemental effectué en avril, juin et juillet 2009.		'HERCULES'
+2009	07			2009	07			un_diagnostic_environnemental	HERCULES a transmis le 29 septembre 2009 un dossier comprenant notamment les résultats d'un diagnostic environnemental effectué en avril, juin et juillet 2009.		'HERCULES'

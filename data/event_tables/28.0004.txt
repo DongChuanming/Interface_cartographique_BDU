@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_réalisée	L'étape A du diagnostic (étude historique et documentaire) a été réalisée en 2001.		
+1960				1990				a_été_affecté	Le dépôt a été affecté au stockage de déchets urbains et de déchets industriels solides et liquides de 1960 à 1990.	'déchets industriels solides'	
+2010	09	16		2010	09	16		a_été_lancée	Un appel d'offre pour la réalisation d'une campagne de suivi des eaux souterraines a été lancée le 16 septembre 2010 mais n'a pas abouti.		

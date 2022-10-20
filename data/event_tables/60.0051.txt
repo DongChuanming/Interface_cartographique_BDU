@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								l__excavation	Néanmoins, l'excavation et l'évacuation des matériaux pollués aux fins d'élimination dans un centre autorisé à cet effet ont eu lieu en septembre-octobre 2001.		
+1996				1996				a_cessé	La sucrerie de Bresles a cessé de produire du sucre en 1996.		
+2001	10			2001	10			l__excavation	Néanmoins, l'excavation et l'évacuation des matériaux pollués aux fins d'élimination dans un centre autorisé à cet effet ont eu lieu en septembre-octobre 2001.		
+2001	01			2001	01			deux_campagnes_d__investigations	Après pompage et traitement des PCB réalisés en janvier 2001, deux campagnes d'investigations ont été menées sur le terrain, au droit de 3 zones potentiellement suspectes.	'PCB'	
+2001	01			2001	01			traitement_des_PCB_réalisés	Après pompage et traitement des PCB réalisés en janvier 2001, deux campagnes d'investigations ont été menées sur le terrain, au droit de 3 zones potentiellement suspectes.	'PCB'	
+2002	01			2002	01			a_remis	La Société SAINT-LOUIS SUCRE a remis cette étude en janvier 2002.		'La Société SAINT-LOUIS SUCRE'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	12	08		1992	12	08		déclaration	Les dépôt était réglementé par récépissé de déclaration du 8 décembre 1992.		
+2013	07			2013	07			ont_été_éliminées	Les cuves ont été éliminées en juillet 2013. les canalisations aériennes utilisées pour le chargement/déchargement des carburants ont été éliminées.	'carburants'	
+				2012				a_été_exploité	Un dépôt aérien de carburant d'un volume total de 80 m3 a été exploité jusqu'en 2012.	'carburant'	
+2013	07			2013	07			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en juillet 2013.		
+2013	11			2013	11			Des_travaux_d__excavation	Des travaux d'excavation des terres polluées de la zone de rétention des cuves ont été réalisés en novembre 2013 (456.9 t de terres excavées).		
+1992	12	08		1992	12	08		était_réglementé_par	Les dépôt était réglementé par récépissé de déclaration du 8 décembre 1992.		

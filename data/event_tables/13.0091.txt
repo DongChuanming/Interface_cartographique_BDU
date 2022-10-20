@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08	23		2009	08	23		a_été_placée_en_liquidation_judiciaire	*La société LEGRE MANTE a été placée en liquidation judiciaire le 23/8/2009.		'* La société LEGRE MANTE'
+2001	11	14		2001	11	14		AP_de_mise_en_demeure	*L'ESR prescrite par l'AP du 16/06/1999 a été remise en Décembre 2001 suite à AP de mise en demeure du 14/11/2001.		"L' ESR"
+2009	08	20		2009	08	20		de_mise_en	L'AP de mise en demeure du 20/8/2009 impose, entre autres, au mandataire judiciaire des mesures d'interdiction d'accès au site, la purge de la station de traitement et l'élimination des déchets.	'des déchets'	
+1982	02	11		1982	02	11		a_été_autorisé	* L'établissement a été autorisé par l'AP du 11/02/1982. la société LEGRE MANTE a été placée en liquidation judiciaire le 23/8/2009		'la société LEGRE MANTE'
+2003				2003				est_mis_en_place	Un suivi piézométrique est mis en place depuis le 3°trim 2003 afin d'aviser de l'impact éventuel sur les eaux souterraines ( pas d'anomalies).		
+2001	12			2001	12			a_été_remise	*L'ESR prescrite par l'AP du 16/06/1999 a été remise en Décembre 2001 suite à AP de mise en demeure du 14/11/2001.		"L' ESR"
+2012				2012				signer	Depuis lors, un projet de réaménagement porté par la société Oceanis Promotion a conduit le Préfet à signer deux arrêtés relatifs à la réhabilitation du site en 2012.		'la société Oceanis Promotion', 'le Préfet'
+2017				2017				ont_depuis_été_abandonnés	Les projets immobiliers correspondant ont depuis été abandonnés courant 2017 (le permis de construire sur la zone C ayant par ailleurs été annulé par la justice administrative).		
+2017	09	20		2017	09	20		la_réalisation_d_	Le Préfet a prescrit par arrêté du 20/09/2017 à la SFPTM la réalisation d'une interprétation de l'état des milieux (IEM) et d'un nouveau plan de gestion.		'Le Préfet', 'la SFPTM'
+								est_mis_en_place	Un suivi piézométrique est mis en place depuis le 3°trim 2003 afin d'aviser de l'impact éventuel sur les eaux souterraines ( pas d'anomalies).		
+2012				2012				un_projet_de_réaménagement	Depuis lors, un projet de réaménagement porté par la société Oceanis Promotion a conduit le Préfet à signer deux arrêtés relatifs à la réhabilitation du site en 2012.		'la société Oceanis Promotion', 'le Préfet'
+2009	08	23		2009	08	23		a_été_placée_en_liquidation_judiciaire	* L'établissement a été autorisé par l'AP du 11/02/1982. la société LEGRE MANTE a été placée en liquidation judiciaire le 23/8/2009		'la société LEGRE MANTE'

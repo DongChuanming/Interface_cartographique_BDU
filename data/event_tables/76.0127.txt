@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				ont_été_détectées	Depuis 2002 (42 campagnes), des teneurs élevées (jusqu'à 450 µg/l) ont été détectées aux 2ème et 3ème trimestres 2007 dans la rivière.		
+2002				2002				sont_régulièrement_détectés	Des pics sont régulièrement détectés en PZ3 et PZ4 depuis 2002.		
+2007				2007				ont_été_détectées	Depuis 2002 (42 campagnes), des teneurs élevées (jusqu'à 450 µg/l) ont été détectées aux 2ème et 3ème trimestres 2007 dans la rivière.		
+2012	04			2012	04			La_dernière_campagne_réalisée	La dernière campagne réalisée en avril 2012 met en évidence :		
+2001	03			2001	03			a_été_remis	Le rapport définitif a été remis par l'exploitant fin mars 2001.		
+								ont_été_détectées	Depuis 2002 (42 campagnes), des teneurs élevées (jusqu'à 450 µg/l) ont été détectées aux 2ème et 3ème trimestres 2007 dans la rivière.		
+2002				2002				a_été_relevé	Depuis 2002, le pic le plus élevé a été relevé en 2002 à 6 µg/l.		

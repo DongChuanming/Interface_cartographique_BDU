@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	07	25		1997	07	25		a_été_autorisée_à_exploiter	La société VALRECOISE a été autorisée à exploiter un stockage d'huiles usagées de 550 m3 par arrêté préfectoral du 25 juillet 1997.	'huiles usagées'	'La société VALRECOISE'
+1999	01	07		1999	01	07		il_a_été_imposé	Par arrêté préfectoral du 7 janvier 1999, il a été imposé à la société VALRECOISE une surveillance trimestrielle de la nappe souterraine pour rechercher en particulier les hydrocarbures totaux.	'hydrocarbures totaux'	'la société VALRECOISE'
+2004				2004				envisage	L'exploitant envisage de faire mettre en conformité ce raccordement défectueux par les propriétaires courant 2004.		
+2010	05	25		2010	05	25		a_reçu	La société a reçu un agrément datant du 25 mai 2010, pour le ramassage des huiles usagées.	'huiles usagées'	
+2002	12			2002	12			un_pic	Après un pic en décembre 2002 en hydrocarbures totaux sur le piézomètre C1, la situation reste stable.	'hydrocarbures totaux'	
+2003	04			2003	04			a_procédé	Par conséquent, la société a procédé à un curage total de l'ouvrage (avril 2003) et entrepris une démarche auprès des propriétaires du terrain.		
+2004	02	02		2004	02	02		du_contrôle	Ce point a été abordé avec l'inspection des installations classées lors du contrôle du 2 février 2004.		
+2004	02	02		2004	02	02		a_été_abordé	Ce point a été abordé avec l'inspection des installations classées lors du contrôle du 2 février 2004.		
+1997	07			1997	07			a_fait_réaliser_trois_forages	A la demande de l'inspection des installations classées et avant le début d'exploitation, la société VALRECOISE a fait réaliser trois forages de contrôle de la qualité des eaux souterraines en juillet 1997.		'la société VALRECOISE'

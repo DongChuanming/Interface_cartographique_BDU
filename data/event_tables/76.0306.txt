@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03	16		1999	03	16		Une_visite	Une visite du site a été réalisée le 16 mars 1999 constatant l'enlèvement des accumulateurs.		
+1999	03			1999	03			Une_relance	Une relance de l'exploitant, non suivi d'effets, a été faite en mars 1999.		
+1998	10	06		1998	10	06		d__une_visite	Lors d'une visite du site le 6 octobre 1998, les éléments suivants ont été observés:		

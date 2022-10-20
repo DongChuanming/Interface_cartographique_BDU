@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	17		2008	01	17		a_été_vendu	IL a été vendu le 17 janvier 2008 pour y installer un centre de tri postal.		
+2001	11			2001	11			ont_été_remises	Les études ont été remises en  mars 2001 et novembre 2001.		
+2006	11	29		2006	11	29		a_déclaré_sa_cessation_d__activité	L'exploitant a déclaré sa cessation d'activité le 28 février 2007 suite à la liquidation judiciaire ordonnée par jugement du Tribunal de Commerce du 29/11/2006.		
+2001	03			2001	03			ont_été_remises	Les études ont été remises en  mars 2001 et novembre 2001.		
+2007	09			2007	09			L__état_des_lieux	L'état des lieux a été réalisé en septembre 2007.		
+2007	12	12		2007	12	12		est_mis_en_demeure_sous	Par arrêté du 12 décembre 2007, le mandataire judiciaire est mis en demeure sous délai de 1 mois de fournir le mémoire de cessation d'activité, précisant notamment :		
+2007	09	26		2007	09	26		Le_rapport_de_diagnostic	Le rapport de diagnostic de GINGER du 26 septembre 2007 confirme les conclusions ci-dessus et recommande l'enlévement de l'effluent liquide huileux contenu dans la fosse bétonnée à proximité de l'angle Nord-Est du bâtiment de production.		'GINGER'
+2007	02	28		2007	02	28		a_déclaré_sa_cessation_d__activité	L'exploitant a déclaré sa cessation d'activité le 28 février 2007 suite à la liquidation judiciaire ordonnée par jugement du Tribunal de Commerce du 29/11/2006.		
+								est_mis_en_demeure_sous	Par arrêté du 12 décembre 2007, le mandataire judiciaire est mis en demeure sous délai de 1 mois de fournir le mémoire de cessation d'activité, précisant notamment :		

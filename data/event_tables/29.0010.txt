@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				Une_analyse	Une analyse des risques résiduaires (ARR) début 2008 confirme la compatibilité de la l'état du site (présence d'une pollution résiduelle) avec les usages envisagés (activités tertiaires, stationnement, tête de ligne de bus).		
+1996	03	26		1996	03	26		autorise	L'arrêté préfectoral du 13 janvier 1987, complété par l'arrêté préfectoral du 26 mars 1996, autorise la société GROUPEMENT PETROLIER DE BREST à exploiter un dépôt d'hydrocarbures.	"d' hydrocarbures"	'la société GROUPEMENT PETROLIER DE BREST'
+				2009				se_dégrade	La surveillance mise en place montre que la qualité des eaux se dégrade après 2009 :		
+1968				1968				existe	Le dépôt d'hydrocarbures existe depuis 1968.	'hydrocarbures'	
+2002	01	03		2002	01	03		La_déclaration	La déclaration de cessation d'activité est datée du 3 janvier 2002.		
+1996				1996				Une_étude_de_sol	Une étude de sol et un pompage avec rabattement de la nappe ont été réalisés en 1996 mais seulement une partie de la pollution a été récupérée.		
+2005				2005				De_nouvelles_investigations_de_terrain	De nouvelles investigations de terrain, suivant un maillage plus fin ont été conduites au cours de l'année 2005.		
+2010	11	26		2010	11	26		Un_procès_verbal_de_récolement	Un procès verbal de récolement du 26 novembre 2010 encadre la cessation d'activité.		
+2003				2003				un_diagnostic_des_sols	Dans le cadre de la cessation d'activité, un diagnostic des sols a été réalisé au cours du printemps 2003.		
+				2008	03			Les_travaux_de_bioremédiation	Les travaux de bioremédiation sur site ont été réalisés entre juillet 2006 et mars 2008.		
+2004	07			2004	07			Une_étude_détaillée_des_risques	Une étude détaillée des risques (EDR) a été réalisé en juillet 2004.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				durant_l_	La société Les Fermetures Pontilles a cessé ses activités durant l'année 2010.		'La société Les Fermetures Pontilles'
+2012	05	23		2012	05	23		a_sollicité	Le 23/05/2012, la SARL SOGIFI a sollicité l'avis de la DREAL pour une demande de permis de construire sur l'ancien site de la société Les Fermetures Pontilles (parcelle BK 311)dans le cadre d'un projet de construction d'un immeuble résidentiel, d'une surface commerciale et de deux niveaux de sous-sol sur la parcelle BK 311.		'la SARL SOGIFI', 'la DREAL', 'la société Les Fermetures Pontilles'
+2012	07	17		2012	07	17		Un_diagnostic_environnemental	Un diagnostic environnemental a été effectué le 17/07/2012.		
+2012	10	18		2012	10	18		Un_diagnostic_environnemental_complémentaire	Un diagnostic environnemental complémentaire et un plan de gestion, ont été effectués le 18/10/2012.		
+1964	10	08		1964	10	08		de_déclaration	Elle bénificiait d'un récépissé de déclaration du 8/10/1964 pour une cabine d'application de peinture, du 23/05/1967 pour une cuve d'essence et du 28/07/1967 pour une cuve de mazout.	"d' essence", 'mazout'	
+2010				2010				a_cessé	La société Les Fermetures Pontilles a cessé ses activités durant l'année 2010.		'La société Les Fermetures Pontilles'
+1978				1978				possède	La SARL SOGIFI possède le site depuis 1978.		'La SARL SOGIFI'

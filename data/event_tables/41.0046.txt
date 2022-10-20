@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1948				2003				autorisation	La société SAGANA a exploité une installation classée soumise à autorisation sur le site de 1948 à 2003.		'La société SAGANA'
+1920				1920				construit	Le site est constitué d'un bâtiment industriel  à l'état de friche construit en 1920 et d'une superficie de 3121 m2.		
+2007				2007				a_été_préempté	C'est dans ce contexte que le site a été préempté par la ville de Blois en 2007.		
+2009				2009				Un_diagnostic_initial	Un diagnostic initial réalisé par le bureau d'études GINGER en 2009 mettait en évidence l'existence d'une pollution des sols principalement en hydrocarbures et en chrome (10 sondages réalisés) et recommandait la réalisation d'un diagnostic approfondi.	'hydrocarbures', 'chrome'	'GINGER'
+2012				2012				a_été_remis	Suite à ce diagnostic, un plan de gestion en vue d’un usage d’habitations a été remis par SOCOTEC en 2012.		'SOCOTEC'
+2010				2010				La_déclaration	La déclaration de cessation d'activité a été effectuée en 2010.		
+2011	02	02		2011	02	02		la_réalisation_d__investigations	Par arrêté du 2 février 2011, le Préfet a prescrit la réalisation d'investigations complémentaires en vue de délimiter la pollution et de définir un plan de gestion de cette dernière.		'le Préfet'

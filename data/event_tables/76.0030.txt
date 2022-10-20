@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				L__Étude_Simplifiée_des_Risques	L'Étude Simplifiée des Risques réalisée en 2006 a permis de classer le site en classe 3 :« site banalisable-compatible avec son usage actuel ».		
+1993				1993				un_traitement_partiel	Le site a fait l'objet d'un traitement partiel au cours du 1er semestre 1993.		
+1995				1995				Une_étude_réalisée	Une étude réalisée par ANTEA en 1995 met en évidence l'existence de zones polluées par les hydrocarbures.	'hydrocarbures'	'ANTEA'
+1970				1970				a_été_construit	Le dépôt du Havre a été construit à partir de 1970 sur un site de 20 hectares précédemment vierge situé sur la zone industrialo portuaire du Havre.		
+								un_traitement_partiel	Le site a fait l'objet d'un traitement partiel au cours du 1er semestre 1993.		

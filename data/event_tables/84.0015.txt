@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12	30		2004	12	30		a_été_envoyé	* Le rapport parcellaire a été envoyé à la DRIRE le 30/12/2004 : celui-ci satisfait aux exigences du protocole.		'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'

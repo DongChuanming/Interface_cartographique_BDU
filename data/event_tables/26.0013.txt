@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	19		2007	06	19		a_transmis	Par envoi du 19 juin 2007, la société SOLYSTIC a transmis un document réalisé par la société ERM et intitulé : « Surveillance de la qualité des eaux – Propositions et recommandations ».		'la société SOLYSTIC', 'la société ERM'
+1855				1855				fondé	Un nombre important de sociétés se sont succédées sur ce site depuis la création d'une usine d'armement fondé en 1855 par l'Etat Français (cartoucherie, armement jusqu'en 1964 - reconversion vers l'électronique – mécanique de grande précision jusqu'en 1974 - machines de tri postal depuis).		
+1999	02	24		1999	02	24		une_Évaluation_Simplifiée_des_Risques	Le site sur lequel a été prescrite une Évaluation Simplifiée des Risques (ESR) le 24 février 1999, occupe la moitié de la superficie du site historique de l'Ancienne Cartoucherie au centre de la ville de Bourg-lès-Valence.		
+2000	03	14		2000	03	14		une_Evaluation_Simplifiée_des_Risques	Conformément aux critères de la circulaire du 3 avril 1996 relative aux études de sol, une Evaluation Simplifiée des Risques a été transmise le 16 novembre 1999, et traduite dans sa seconde mouture le 14 mars 2000.		
+2008				2017				se_poursuit_à	De 2008 à 2017, la surveillance se poursuit à un rythme semestriel sur les paramètres tétrachloroéthylène, trichloroéthylène, cis-1,2-dichloroéthylène, chlorure de vinyle.	'paramètres tétrachloroéthylène', 'trichloroéthylène', 'cis-1,2-dichloroéthylène', 'chlorure', 'vinyle'	
+1999	11	16		1999	11	16		une_Evaluation_Simplifiée_des_Risques	Conformément aux critères de la circulaire du 3 avril 1996 relative aux études de sol, une Evaluation Simplifiée des Risques a été transmise le 16 novembre 1999, et traduite dans sa seconde mouture le 14 mars 2000.		
+2008				2008				se_situent	Les résultats montrent que le piezo MWB est le plus impacté avec des valeurs qui se situent depuis 2008 pour le tétrachloréthylène entre 66 µg/L et 150 µg/L.	'le tétrachloréthylène'	
+2017				2017				a_sollicité	L'inspection a sollicité l'exploitant en 2017 afin qu'il procède à une enquête sur les usages de l'eau en aval hydraulique immédiat du site ainsi qu'une vérification de la pertinence de l'implantation actuelle des piézomètres.		
+2018				2018				s__est_engagé_à_mener	L'exploitant s'est engagé à mener ces deux actions en 2018.		
+2017				2017				Les_mesures	Les mesures de 2017 confirment toujours cette situation.		
+2007	10	18		2007	10	18		ont_été_actées	Ces nouvelles modalités ont été actées par arrêté préfectoral du 18/10/2007.		
+1995				1995				a_été_démantelée	L'activité de Traitement de Surface à l'origine de la pollution par les solvants chlorés a été démantelée en 1995.	'chlorés'	

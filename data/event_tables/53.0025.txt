@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981				1981				est_devenue_une_société_anonyme	L’entreprise Chapellière a été créée en 1966 et est devenue une société anonyme en 1981.		
+1993				1993				sont_soumis_à_autorisation	Les établissements Chapellière sont soumis à autorisation depuis 1993 (récépissé de déclaration 93-186 du 17 novembre 1993) pour leur installation de stockage de céréales (rubrique 2160), située rue du docteur Cumin sur la zone artisanale de Javron-les-Chapelles, dans la limite maximale de 15 000 m3.		'Les établissements Chapellière'
+1981				1981				a_été_créée	L’entreprise Chapellière a été créée en 1966 et est devenue une société anonyme en 1981.		
+1966				1966				a_été_créée	L’entreprise Chapellière a été créée en 1966 et est devenue une société anonyme en 1981.		

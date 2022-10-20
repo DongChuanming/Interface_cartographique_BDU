@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	05	19		2016	05	19		a_procédé_à_une_visite_d__inspection	Le 19 mai 2016, l’Inspection a procédé à une visite d’inspection du site.		
+2010	11	30		2010	11	30		a_prononcé_la_liquidation_judiciaire	Le tribunal de commerce d'Epinal a prononcé la liquidation judiciaire de la société le 30 novembre 2010.		

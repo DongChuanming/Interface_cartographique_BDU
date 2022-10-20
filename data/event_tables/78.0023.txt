@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				Des_travaux_d__imperméabilisation	Des travaux d'imperméabilisation du site d'ITON SEINE ont été réalisés en 2009 afin de limiter les infiltrations et de mieux protéger la nappe souterraine.		
+2002				2002				Des_mesures_sont_réalisées	Des mesures sont réalisées depuis 2002 sur ces piézomètres, elles mettent en évidence une pollution en hydrocarbures et métaux imputables en partie aux anciennes activités pétrochimiques de la zone.	'hydrocarbures', 'métaux'	

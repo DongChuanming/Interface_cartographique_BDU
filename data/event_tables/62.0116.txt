@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03			2005	03			ont_été_mis_en_place	- Trois piézomètres ont été mis en place en limite de propriété du site en mars 2005.		
+2007	10			2007	10			La_campagne_de_surveillance	La campagne de surveillance de la qualité de la nappe effectuée en octobre 2007 a mis en évidence la présence de propiconazole et de tébuconazole, de tensioactifs anioniques et de cyperméthrine dissoute.	'propiconazole', 'tébuconazole', 'tensioactifs anioniques', 'cyperméthrine'	
+1950				1950				a_été_créée	- La société SARBOIS a été créée en 1950.		'La société SARBOIS'
+2011				2011				Mise_aux_normes	- Mise aux normes du réseau piézométrique conformément à l'APMD du 09/08/2010 réalisé en 2011. (ajout d'un piézomètre et surélévation des têtes de piézomètres).		
+2011				2011				réalisé	- Mise aux normes du réseau piézométrique conformément à l'APMD du 09/08/2010 réalisé en 2011. (ajout d'un piézomètre et surélévation des têtes de piézomètres).		
+2003	05			2003	05			impose_la_constitution	- Suite aux résultats de l'étude hydrogéologique réalisée en mai 2003,   un arrêté préfectoral en date du 26/03/2003 impose la constitution d'un réseau piézométrique.		
+2003	05			2003	05			étude_hydrogéologique_réalisée	- Suite aux résultats de l'étude hydrogéologique réalisée en mai 2003,   un arrêté préfectoral en date du 26/03/2003 impose la constitution d'un réseau piézométrique.		

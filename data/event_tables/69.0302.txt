@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	26		2008	06	26		Un_diagnostic_approfondi	Un diagnostic approfondi (rapport du 21 janvier 2008 complété le 26 juin 2008) a été réalisé et transmis au préfet le 1er juillet 2008.		
+1948				1948				des_activités_de_mélange_et_de_préparation_d__huiles_minérales_et_de_graisses	Sur ce site, implanté 51 avenue Sidoine Apollinaire sur la commune de Lyon dans le 9ème arrondissement, l'entreprise BEAUFRERE ET COMPAGNIE exploitait depuis 1948 des activités de mélange et de préparation d'huiles minérales et de graisses.		'BEAUFRERE ET COMPAGNIE'
+2008	07	1		2008	07	1		Un_diagnostic_approfondi	Un diagnostic approfondi (rapport du 21 janvier 2008 complété le 26 juin 2008) a été réalisé et transmis au préfet le 1er juillet 2008.		
+1965	12	28		1965	12	28		de_déclaration	- un stockage aérien d'environ 650 m3 d'huile (activité non classée) et enterré de 12 m3 de liquides inflammables de 2ième catégorie (récépissé de déclaration du 28 décembre 1965) ;	'huile', 'liquides inflammables'	
+2008	04	10		2008	04	10		à_une_réunion	Dans ce contexte et suite à une réunion du 10 avril 2008 entre les HCL, le bureau d'études et l'inspection des installations classées, des investigations complémentaires ont été menées afin de mieux évaluer les volumes de terres contaminées.		'les HCL'
+1961	10	19		1961	10	19		de_déclaration	- l'application de vernis dans le cadre de reconditionnement de fûts métalliques (récépissé de déclaration du 19 octobre 1961).	'fûts métalliques'	
+2007				2007				est_régulièrement_réalisée	La surveillance de la nappe est régulièrement réalisée depuis fin 2007 à l'aide de 3 piézomètres (PZ1 : en amont et PZ2 et PZ3 : en aval).		
+2010	07	27		2010	07	27		a_été_transmis	Le rapport du 09 juillet 2009 a été transmis au préfet le 27 juillet 2010.		'préfet'
+1948				1948				exploitait	Sur ce site, implanté 51 avenue Sidoine Apollinaire sur la commune de Lyon dans le 9ème arrondissement, l'entreprise BEAUFRERE ET COMPAGNIE exploitait depuis 1948 des activités de mélange et de préparation d'huiles minérales et de graisses.		'BEAUFRERE ET COMPAGNIE'
+								ont_cessé	Ces activités ont cessé dans les années 1990 et depuis l'entreprise BEAUFRERE ET COMPAGNIE n'existe plus.		'BEAUFRERE ET COMPAGNIE'

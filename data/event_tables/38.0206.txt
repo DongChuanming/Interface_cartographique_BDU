@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03			2011	03			extraites	- les deux cuves enterrées de FOD destinées à alimenter le four de recuit ont été neutralisées et extraites en mars 2011 ;	'de FOD'	
+2009				2009				a_été_démantelé	- le four de traitement thermique a été démantelé en 2009 ;		
+2011	03	23		2011	03	23		a_été_établi	* Un rapport de pose de piézomètres et de campagne d'analyses sur les eaux souterraines a été établi le 23/03/2011.		
+2011	04	26		2011	04	26		Un_diagnostic	* Un diagnostic de sol complémentaire a été établi le 26/04/2011, dans le cadre de la vente de ces terrains.		
+2008	10	15		2008	10	15		6_prélèvements_ont_été_réalisés	* Au niveau des eaux souterraines, 6 prélèvements ont été réalisés le 15/10/2008, sur 3 piézomètres implantés en amont de la partie nord du site (PZ2Al, PZ3Al, PZ4Al), sur deux piézomètres en aval hydraulique de la partie nord et implantés sur le site de la société CATERPILLAR (PZ3Cat, PZ5Cat) et sur le puits box radio, implanté sur site en aval hydraulique de la partie nord.		'le site de la société CATERPILLAR'
+1989	08	08		1989	08	08		bénéficie_d_	La société bénéficie d'un arrêté préfectoral d'autorisation d'exploiter du 08/08/1989.		
+2008	10	08		2008	10	08		des_investigations_de_terrains	Le mémoire de cessation d'activités fait la synthèse des investigations de terrains effectuées le 08/10/2008.		
+2008	02			2008	02			ont_été_retirés	- les cadres d'oxygène associés à l'installation HVOF ont été retirés en février 2008 ;	"les cadres d' oxygène"	'HVOF'
+1997				1997				ont_été_neutralisées	- le box radio et les sources radioactives associées ont été neutralisées et démantelées en 1997 ;		
+2009				2009				le_cadre_des_travaux_de_démolition	- l'installation de revêtement par pulvérisation de métal fondu a été démantelée dans le cadre des travaux de démolition menés en 2009 ;		
+2008	06	24		2008	06	24		a_été_neutralisée	- la cuve de propane a été neutralisée et évacuée le 24/06/2008.	'de propane'	
+2010	08			2010	08			a_été_neutralisée	- la cuve enterrée de fioul située à proximité de l'infirmerie a été neutralisée et évacuée hors site en août 2010 ;	'de fioul'	
+2011	02			2011	02			et_transférées	- les installations de sablage et d'application de peinture ont été démontées et transférées en février 2011 sur un autre site d'ALSTOM.		'ALSTOM'
+2008	10	08		2008	10	08		10_sondages_ont_été_réalisés	* 10 sondages ont été réalisés le 08/10/2008, jusqu'à 3 m de profondeur :		

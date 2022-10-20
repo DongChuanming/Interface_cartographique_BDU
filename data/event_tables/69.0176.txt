@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								être_traitées_en_centre_d__enfouissement_technique	Les terres concernées, représentant environ 4 500 tonnes, ont été excavées en 2001, puis septembre/octobre 2003, avant d'être traitées en centre d’enfouissement technique (CET) de classe 1 (Société France Déchets 54 Jeandelaincourt).		'CET', '( Société France Déchets'
+2003	10			2003	10			être_traitées_en_centre_d__enfouissement_technique	Les terres concernées, représentant environ 4 500 tonnes, ont été excavées en 2001, puis septembre/octobre 2003, avant d'être traitées en centre d’enfouissement technique (CET) de classe 1 (Société France Déchets 54 Jeandelaincourt).		'CET', '( Société France Déchets'
+2001				2001				ont_été_excavées	Les terres concernées, représentant environ 4 500 tonnes, ont été excavées en 2001, puis septembre/octobre 2003, avant d'être traitées en centre d’enfouissement technique (CET) de classe 1 (Société France Déchets 54 Jeandelaincourt).		'CET', '( Société France Déchets'
+2001	04	10		2001	04	10		le_diagnostic_de_sols	Faisant suite à la cessation d'activité, le diagnostic de sols a été réalisé le 10/04/2001 par la Société ATE.		'la Société ATE'
+2004	03			2004	03			évaluation_simplifiée_des_risques	A l'issue des travaux, l'évaluation simplifiée des risques (ESR) a été réalisée en mars 2004.		
+				2006	11	09		La_surveillance_a_débuté	La surveillance a débuté le 26/05/2005 jusqu'au 09/11/2006.		

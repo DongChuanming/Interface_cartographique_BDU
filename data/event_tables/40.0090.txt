@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05			2007	05			La_campagne_de	La campagne de mai 2007 montre l'absence d'impact avec une DCO en diminution < 32 mg/L.	'diminution'	
+2006	07			2006	07			préfectoral_du_12	L'arrêté préfectoral du 12 juillet 2006 autorise l'extension des installations de vernissage de la société FP Bois.		
+2006	05	05		2006	05	05		pollués_par_les	L'évaluation de la quantité de sols pollués par les hydrocarbures est communiquée à la DRIRE le 5 mai 2006 et s'élève à 725 m3 en retenant le seuil de 1000 mg/kg.	'quantité de sols pollués'	
+2006	08			2006	08			réaliser_les	Le 22 septembre 2005, l'exploitant s'engage à faire réaliser les travaux de dépollution des sols en août 2006.	"s' engage à faire"	
+1000				1000				pollués_par_les	L'évaluation de la quantité de sols pollués par les hydrocarbures est communiquée à la DRIRE le 5 mai 2006 et s'élève à 725 m3 en retenant le seuil de 1000 mg/kg.	'quantité de sols pollués'	
+2006	10			2006	10			La_campagne	La campagne d'Octobre 2006 montre un léger marquage de la nappe par la  DCO (entre 21 et 69 mg/l) et les Hydrocarbures (entre 50 et 90 µg/l).		
+2007	08			2007	08			Les_campagnes	Les campagnes de Août 2007, mai et novembre 2008, et juin 2009 confirme cette situation satisfaisante.		
+2013				2013				La_campagne_de	La campagne de 2013 confirme la situation qui est satisfaisante.		
+								pollués_par_les	L'évaluation de la quantité de sols pollués par les hydrocarbures est communiquée à la DRIRE le 5 mai 2006 et s'élève à 725 m3 en retenant le seuil de 1000 mg/kg.	'quantité de sols pollués'	
+								FP_Bois_depuis_2003_sur_la_commune_de	Scierie exploitée par la société FP Bois depuis 2003 sur la commune de Mimizan (40).		
+2010				2010				La_Campagne_d__avril	La Campagne d'avril 2010 montre que, dans leur ensemble, les valeurs de la conductivité, de la température et de la DCO sont représentatives d'un milieu de bonne qualité.		

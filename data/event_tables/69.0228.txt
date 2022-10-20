@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_investigations_de_sols	Les investigations de sols ont également été réalisées par la société SOGREAH, les 28 et 29 juillet 2009.		'la société SOGREAH'
+2010	03			2010	03			ont_été_mis_en_place	Conjointement à la première campagne, 2 piézomètres complémentaires (Pz8 et Pz9) ont été mis en place en mars 2010, en limite aval du site.		
+1969				1969				a_démarré_ses_activités	La société ATELIERS AS, filiale de HOLDING TEXTILE HERMES, a démarré ses activités en 1969 sur le site.		'La société ATELIERS AS', 'HOLDING TEXTILE HERMES'
+2009				2009				établi	Le plan de gestion, établi en 2009, est donc confirmé, à savoir :		
+2009	11			2009	11			ont_été_implantés	En novembre 2009, 7 nouveaux piézomètres ont été implantés à 5 m de profondeur pour caractériser l'extension de la pollution dans les eaux souterraines.		
+2009	07	29		2009	07	29		Les_investigations_de_sols	Les investigations de sols ont également été réalisées par la société SOGREAH, les 28 et 29 juillet 2009.		'la société SOGREAH'
+2010	03			2010	03			une_campagne_de_mesures	Un suivi semestriel des eaux souterraines a donc été instauré, et confié à la société SOGREAH, avec une campagne de mesures en mars 2010 et l'autre en octobre 2010.		'la société SOGREAH'
+2008	10			2008	10			Des_investigations_complémentaires	Des investigations complémentaires sur les eaux souterraines ont donc été menées, par BURGEAP, via les ouvrages du site, en octobre 2008.		'BURGEAP'
+1990				1990				réalisés	- F1, F2 et F3 sont d'anciens ouvrages réalisés en 1990 pour la reconnaissance des sols,		
+				2010	03			Les_campagnes_d__analyses	Les campagnes d'analyses d'eaux souterraines, réalisées entre juillet 2009 et mars 2010 par la société SOGREAH, montrent une contamination aux solvants chlorés (TCE et PCE majoritairement), entre 34 et 70 µg/l, supérieure à la limite de qualité des eaux destinées à la consommation humaine (10 µg/l).	'solvants chlorés', 'TCE', 'PCE'	'la société SOGREAH'
+2010	10			2010	10			a_donc_été_instauré	Un suivi semestriel des eaux souterraines a donc été instauré, et confié à la société SOGREAH, avec une campagne de mesures en mars 2010 et l'autre en octobre 2010.		'la société SOGREAH'
+2011				2011				des_campagnes_de_mesures_trimestrielles	Conformément aux recommandations données par le bureau d'étude SOGREAH, chargé des suivis sur le site, des campagnes de mesures trimestrielles des épaisseurs de flottants, et semestrielles des concentrations en hydrocarbures, ont été mises en place sur l'année 2011.	'hydrocarbures'	"le bureau d' étude SOGREAH"
+2007	03			2007	03			a_été_mise_en_évidence	Une contamination de la nappe par des solvants chlorés a été mise en évidence en mars 2007 et la pollution retrouvée sur le site n'est donc pas forcément imputable à l'Atelier AS.	'des solvants chlorés'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Etude_détaillée_des_risques	- Etude détaillée des risques (EDR) pour un usage industriel, établie en 2003 par le bureau d’études GEOSUM.		'GEOSUM'
+2014				2014				souhaite_cesser	En 2014, la société GENERAL ELECTRIC souhaite cesser la surveillance des eaux souterraines prescrite par l'arrêté préfectoral du 17 juillet 2002.		'la société GENERAL ELECTRIC'
+2001				2001				a_cessé	L'activité a cessé en 2001 sur le site de Nancy, du fait de son déménagement sur la commune de Champigneulles (54).		
+1989	04	28		1989	04	28		était_soumis_à_autorisation	Ce site était soumis à autorisation au titre de la réglementation ICPE (Installations Classées pour la Protection de l'Environnement) par le biais de l'arrêté préfectoral du 28 avril 1989.		
+2011				2011				a_racheté	En 2011, la société GENERAL ELECTRIC a racheté l'usine de fabrication de Champigneulles à ALSTOM MOTEURS.		'la société GENERAL ELECTRIC', 'ALSTOM MOTEURS'
+2001	12			2001	12			Evaluation_simplifiée_des_risques	- Evaluation simplifiée des risques (ESR) en décembre 2001 par LCDI.		'LCDI'
+2001				2001				phase	- Etude historique (phase A en 2001) par le bureau d’études LCDI,		'LCDI'
+2003	11	06		2003	11	06		__ont_été_prises	Des servitudes conventionnelles privées (inscrite à l'acte de vente)  visant à restreindre l'usage de certains secteurs du site en regard de la contamination des sols, ont été prises le 06 novembre 2003 entre l'ancien exploitant et le nouveau propriétaire (Etablissement Public Foncier de Lorraine EPFl).		'( Etablissement Public Foncier de Lorraine EPFl'
+1898				1898				a_démarré_son_activité	Le site est une ancienne usine de fabrication de machines électriques (dynamo, moteurs, groupes électrogènes, transformateurs) qui a démarré son activité 1898.		
+2008				2008				ont_été_rétrocédés	Les terrains ont été rétrocédés à la ville de Nancy en 2008 qui gère l'occupation du site.		
+2002	07	17		2002	07	17		a__t__elle_été_prescrite	Ainsi, par arrêté préfectoral du 17 juillet 2002, une surveillance semestrielle des eaux souterraines a-t-elle été prescrite (3 piézomètres, 1 en amont et 2 en aval immédiat des sols pollués) sans aucune autre mesure de gestion.		

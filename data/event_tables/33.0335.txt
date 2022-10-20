@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	31		2010	12	31		informe	Dans son courrier du 17/12/2012, l'exploitant informe la préfecture de la cessation d'activité de son site intervenue le 31/12/2010.		
+2015	06			2016	12			Les_travaux_complémentaires_de_dépollution	Les travaux complémentaires de dépollution des sols et des eaux souterraines et des suivis périodiques de l'état des milieux ont eu lieu de juin 2015 à décembre 2016.		
+2017	10			2017	10			une_nouvelle_campagne_de_suivi	Conformément à la demande de la DREAL 33, une nouvelle campagne de suivi de la qualité des eaux souterraine sera réalisée par SERPOL en octobre 2017.		'la DREAL 33', 'SERPOL'
+2010	12	31		2010	12	31		informe	L'exploitant informe la préfecture par courrier en date du 17/12/2012 de la cessation d'activité du site au 31/12/2010.		
+2001				2001				est_intervenue	Une fuite est intervenue en 2001.		
+2010	12	31		2010	12	31		la_cessation_d__activité	L'exploitant informe la préfecture par courrier en date du 17/12/2012 de la cessation d'activité du site au 31/12/2010.		
+				2015	07	08		Première_campagne	Première campagne du 23 juin au 08 juillet 2015		
+2013	03	08		2013	03	08		notifie_la_cessation_d__activité	Le préfet notifie la cessation d'activité le 08/03/2013.		'Le préfet'
+2001				2001				est_intervenue	- Une fuite est intervenue en 2001.		
+				2015	12	08		Troisième_campagne	Troisième campagne du 30 novembre au 08 décembre 2015		
+2015				2015				s__engage_à_démarrer_la_dépollution_de	TOTAL s'engage à démarrer la dépollution de la nappe début 2015.		'TOTAL'
+1980	08	06		1980	08	06		de_déclaration	Les installations étaient autorisées par le récépissé de déclaration du 06/08/1980.		
+2016	05			2016	05			la_campagne_de_réception	Le rapport de fin de travaux de janvier 2017, montre que la campagne de réception de mai 2016 met en évidence un net abattement des teneurs en hydrocarbures adsorbés dans les sols laissé en place lors du démantèlement, à hauteur de:	'hydrocarbures'	
+2010	04			2010	04			un_diagnostic_environnemental	Différents documents étaient joints à cette déclaration, et notamment un diagnostic environnemental d'avril 2010 rédigé par A.		
+1980	08	06		1980	08	06		étaient_autorisées_par	Les installations étaient autorisées par le récépissé de déclaration du 06/08/1980.		
+2015	07			2015	07			au_traitement_ISCO	Diminution globale de l’intensité des effets rebond constatée sur les ouvrages impactés, après chaque campagne d’injection, indiquant ainsi que la majeure partie des hydrocarbures piégés dans les sols et dans la zone de attement depuis plusieurs années a pu être remobilisée et abattue grâce au traitement ISCO mis en place depuis juillet 2015.	'hydrocarbures'	
+2016	06			2016	06			disparition_pérenne	Depuis la dernière campagne de traitement, l’évolution des concentrations en hydrocarbures et BTEX est positive avec une nette diminution des teneurs sur tous les ouvrages et notamment sur PZ3 (disparition pérenne de la phase flottante depuis juin 2016 et des teneurs inférieures aux valeurs de référence depuis novembre 2016).	'hydrocarbures', 'BTEX', 'phase flottante'	
+2012	12	17		2012	12	17		informe	L'exploitant informe la préfecture par courrier en date du 17/12/2012 de la cessation d'activité du site au 31/12/2010.		
+2010	12	31		2010	12	31		la_cessation_d__activité	Dans son courrier du 17/12/2012, l'exploitant informe la préfecture de la cessation d'activité de son site intervenue le 31/12/2010.		
+				2015	10	1		Deuxième_campagne	Deuxième campagne du 21 septembre au 1er octobre 2015		
+				2011	07	22		Ces_travaux_se_sont_déroulés	Ces travaux se sont déroulés du 30 juin au 22 juillet 2011.		
+2012	12	20		2012	12	20		La_campagne_du	La campagne du 20 décembre 2012 confirme l'impact constaté lors de campagnes précédentes pour le paramètre : Hydrocarbures Totaux.	'Hydrocarbures Totaux'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01			2012	01			a_été_réalisé	Un diagnostic préliminaire de pollution des sols et des dallages bétons du site a été réalisé 18/12/2006 par le bureau d'études INGEOS, a été transmis par la société CERIM, courant janvier 2012.		'INGEOS', 'la société CERIM'
+1999	07	23		1999	07	23		ont_été_imposées	Dans sanctions administratives ont été imposées par arrêté préfectoral du 08/10/1999, à la société BOSONNET pour le non respect de l'arrêté préfectoral du 23/07/1999.		'la société BOSONNET'
+1996	11	19		1996	11	19		dépose_le_bilan	Le 19/11/1996, la société BOSONNET dépose le bilan.		'la société BOSONNET'
+1998				1998				sont_rachetées	En 1998, elles sont rachetées par la société ADEMIS qui devient par la suite BOSONNET INDUSTRIE.		'la société ADEMIS', 'BOSONNET INDUSTRIE'
+1990	09	07		1990	09	07		de_déclaration	La société BOSONNET bénéficiait d'un récépissé de déclaration du 07/09/1990.		'La société BOSONNET'
+1990	09	07		1990	09	07		bénéficiait	La société BOSONNET bénéficiait d'un récépissé de déclaration du 07/09/1990.		'La société BOSONNET'
+2012	05	14		2012	05	14		a_été_établi	Une diagnostic environnemental complémentaire a été établi par la société ANTEA et transmis à la DREAL le 14/05/2012.		'la société ANTEA', 'la DREAL'
+1949				1949				a_été_exploité	Le site est la propriété de la famille BOSONNET depuis 1925 et a été exploité à des fins industrielles depuis 1949 avec des activités de décolletage, frappe à froid et fabrication de machines à dégraisser (mécanique et usinage).		'la famille BOSONNET'
+2006	12	18		2006	12	18		Un_diagnostic_préliminaire_de_pollution_des_sols	Un diagnostic préliminaire de pollution des sols et des dallages bétons du site a été réalisé 18/12/2006 par le bureau d'études INGEOS, a été transmis par la société CERIM, courant janvier 2012.		'INGEOS', 'la société CERIM'
+1925				1925				est_la_propriété_de	Le site est la propriété de la famille BOSONNET depuis 1925 et a été exploité à des fins industrielles depuis 1949 avec des activités de décolletage, frappe à froid et fabrication de machines à dégraisser (mécanique et usinage).		'la famille BOSONNET'
+2000	05			2000	05			a_cessé_toute	Suite à la liquidation judiciaire menée par l'administrateur judiciaire Maitre BARBEY, la société BOSONNET INDUSTRIE a cessé toute activité industrielle a cessé sur le site depuis mai 2000.		'Maitre BARBEY', 'la société BOSONNET INDUSTRIE'

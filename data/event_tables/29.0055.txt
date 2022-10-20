@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01			2010	01			Les_diagnostics_environnementaux	Les diagnostics environnementaux de juin 2009 et janvier 2010 mettent en évidence une pollution générale des eaux (sels dissous) due :	'sels'	
+2009	06			2009	06			Les_diagnostics_environnementaux	Les diagnostics environnementaux de juin 2009 et janvier 2010 mettent en évidence une pollution générale des eaux (sels dissous) due :	'sels'	
+2008	09			2008	09			est_devenu	Le SITOM est devenu Société VALCOR Valorisation Cornouailles en septembre 2008.		'Le SITOM', 'devenu Société VALCOR Valorisation Cornouailles'
+1987	04	27		1987	04	27		a_été_autorisé	Le SICOM du Sud-Est Finistère a été autorisé à exploiter un incinérateur d'ordures ménagères par arrêté préfectoral modifié du 27 avril 1987.		'Le SICOM du Sud-Est Finistère'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_été_supprimé	Le procédé de cuivrage, sans doute à l'origine de la pollution au cuivre, a été supprimé en 2000.	'cuivre'	
+2016	08			2016	08			des_analyses_réalisées	Les résultats des analyses réalisées en mars 2015 et août 2016 sur les sols ont mis en évidence :		
+1973				1973				a_été_créé	Le site a été créé en 1973, sur d'anciens terrains agricoles.		
+2016				2016				est_toujours_en_exploitation	Il occupe environ 2 hectares et est toujours en exploitation en 2016.		
+2014	01	31		2014	01	31		La_réalisation_d__un_diagnostic_de_pollution	La réalisation d'un diagnostic de pollution du site a été réalisé par l'exploitant dans le cadre de la prescription par arrêté préfectoral complémentaires du 31 janvier 2014.		
+2015	03			2015	03			des_analyses_réalisées	Les résultats des analyses réalisées en mars 2015 et août 2016 sur les sols ont mis en évidence :		

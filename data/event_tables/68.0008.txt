@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_autorisée	En 1995 et 1996, la ville de Mulhouse a été autorisée, par voie d'autorisation temporaire à stocker et réaliser le traitement biologique des nouvelles terres polluées découvertes lors des travaux préalables à la construction du Parc des Expositions.		
+1989	05			1989	05			mis_en_service	Le fonctionnement des 2 puits de fixation (mis en service en mai 1989 et décembre 1990) et les dépollutions successives du site ont permis de diviser par 10 les concentrations au niveau du site et par 100 à l'aval.		
+2008	09			2009				a_repris	La ville de Mulhouse a repris une surveillance des eaux souterraines entre septembre 2008 et juillet 2009		
+1982				1982				a_fait_l__objet	Depuis 1982, la société SPCM a fait l'objet, pour la remise en état de son site, de 14 arrêtés préfectoraux.		'la société SPCM'
+1982				1982				ont_été_éliminées	Depuis 1982, près de 200 000 tonnes de terres polluées par des produits organiques ont été éliminées en décharge de classe 1.	'produits organiques'	
+1995				1995				a_été_autorisée	En 1995 et 1996, la ville de Mulhouse a été autorisée, par voie d'autorisation temporaire à stocker et réaliser le traitement biologique des nouvelles terres polluées découvertes lors des travaux préalables à la construction du Parc des Expositions.		
+1990	12			1990	12			mis_en_service	Le fonctionnement des 2 puits de fixation (mis en service en mai 1989 et décembre 1990) et les dépollutions successives du site ont permis de diviser par 10 les concentrations au niveau du site et par 100 à l'aval.		
+2008	05	23		2008	05	23		restrictions	Par arrêté préfectoral du 23 mai 2008, les usages de la nappe et les pompages ont fait l'objet de restrictions.		
+2009				2009				Les_dernières_teneurs_mesurées	Les dernières teneurs mesurées à l'aval du site en 2009 sont de l'ordre de la centaine de µg/L en polluants organiques et de l'ordre du µg/L au niveau de l'ancien champ captant d'Illzach.	'polluants organiques'	
+2008	05	23		2008	05	23		ont_été_prises	Des restrictions d'usage des eaux souterraines ont été prises par arrêté préfectoral du 23 mai 2008.		

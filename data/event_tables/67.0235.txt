@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1918				1918				Le_fonçage	Le fonçage du puits s'est déroulé en 1918.		
+1962				1962				fermeture_du_puits	Il a été utilisé comme décharge de produits chimiques entre 1962 (fermeture du puits) et 1974 suite à un effondrement partiel à proximité immédiate du puits.	'de produits chimiques'	
+1933				1934				a_été_repris	Il a été repris entre 1933 et 1934 pour atteindre sa profondeur définitive de 395,6 mètres.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'BRGM'
+1962				1962				a_été_utilisé	Il a été utilisé comme décharge de produits chimiques entre 1962 (fermeture du puits) et 1974 suite à un effondrement partiel à proximité immédiate du puits.	'de produits chimiques'	

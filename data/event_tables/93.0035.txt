@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				exploite_à	Après une succession de sociétés spécialisées dans ces activités, la société Schweppes exploite à son tour le site puis y cesse ses activités en 1997.		'la société Schweppes'
+2016	04	22		2016	04	22		acté	Suite aux éléments reçus le 10/03/2016 et à une visite du 01/04/2016 , l'inspection a acté le 22/04/2016 que:		
+1997				1997				cesse_ses_activités	Après une succession de sociétés spécialisées dans ces activités, la société Schweppes exploite à son tour le site puis y cesse ses activités en 1997.		'la société Schweppes'
+				2001				est_mise_en_place	À la fin des travaux, une surveillance de la qualité des eaux souterraines est mise en place jusqu’en 2001.		
+2001	03			2001	03			obtient	En mars 2001, la société Vetura obtient l'autorisation préfectorale d’exploiter sur le site une activité de stockage de vêtements.		'la société Vetura'
+2012	08			2012	08			cesse_ses_activités	Vetura cesse ses activités en août 2012.		'Vetura'
+2014	01	08		2014	01	08		Vetura_notifie_la_mise_à_l__arrêt_définitif	La société Vetura notifie la mise à l’arrêt définitif de ses activités au préfet le 8 janvier 2014.		'La société Vetura'
+1998				1998				un_diagnostic_environnemental	En 1998, après la cessation d’activités de Schweppes sur le site, un diagnostic environnemental a été effectué.		
+1999				1999				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 1999 par excavation des terres polluées et envoi des terres polluées en traitement biologique vers un centre agréé.		
+2016	04	01		2016	04	01		à_une_visite	Suite aux éléments reçus le 10/03/2016 et à une visite du 01/04/2016 , l'inspection a acté le 22/04/2016 que:		
+2016	03	10		2016	03	10		Elle_transmet	Elle transmet une proposition d’aménagement du site ainsi qu’une étude historique et documentaire le 10/03/2016.		
+1962				1962				sont_présentes	Depuis 1962, des activités de production de boissons non alcoolisées sont présentes sur le site.		

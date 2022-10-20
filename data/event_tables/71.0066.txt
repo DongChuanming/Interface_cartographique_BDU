@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	08	10		2010	08	10		du_tribunal_de_commerce	La clôture de la procédure de liquidation judiciaire de CERI ANTIROUILLE a été prononcée par jugement du tribunal de commerce de Lyon le 10 août 2010.		'CERI ANTIROUILLE'
+2004				2004				la_notification_de_celle_ci	En particulier, aucune évaluation de l'état environnemental du site n'a été réalisée entre la cessation d'activité de 2002 et la notification de celle-ci à l'Inspection en 2004.		
+1989				1989				s__était_installée	La société Antirouille s'était installée sur ce site en 1989 afin d'exercer une activité de revêtement de peinture sur pièces métalliques ; l'activité a perduré avec exploitation par la société CERI ANTIROUILLE S.		'La société Antirouille', 'la société CERI ANTIROUILLE S.'
+2004				2004				a_été_réalisée	En particulier, aucune évaluation de l'état environnemental du site n'a été réalisée entre la cessation d'activité de 2002 et la notification de celle-ci à l'Inspection en 2004.		
+2005	04	15		2005	04	15		évaluation_simplifiée_des_risques	Le 15 avril 2005, une évaluation simplifiée des risques (ESR) a été transmise par le liquidateur judiciaire.		
+2010	08	10		2010	08	10		La_clôture_de_la_procédure_de_liquidation_judiciaire	La clôture de la procédure de liquidation judiciaire de CERI ANTIROUILLE a été prononcée par jugement du tribunal de commerce de Lyon le 10 août 2010.		'CERI ANTIROUILLE'
+2006	10	19		2006	10	19		a_été_transmis	Un rapport sur la "vérification de la qualité des sols et des eaux souterraines" a été transmis en conséquence aux services de l'Etat le 19 octobre 2006.		
+2006	08	31		2006	08	31		a_été_réalisée	Elle a été réalisée le 31 août 2006. 9 tonnes de terres ont été excavées et évacuées en filière agréée, avec remblaiement par des matériaux sains.		
+2002	08			2002	08			à_la_mise_en_liquidation_judiciaire	 jusqu'à la mise en liquidation judiciaire de celle-ci en août 2002.		
+2002				2004				des_opérations_de_mise_en_sécurité	., des opérations de mise en sécurité avaient été effectuées entre 2002 et 2004 (évacuation de déchets inertes et non dangereux, élimination de sables contaminés restés en surface).		
+2002				2002				cessation_d__activité	En particulier, aucune évaluation de l'état environnemental du site n'a été réalisée entre la cessation d'activité de 2002 et la notification de celle-ci à l'Inspection en 2004.		
+2004				2004				étaient_avertis_tardivement	Au début de l'année 2004, les services de l'État étaient avertis tardivement de la cessation d'activité de cette société, constatant à cette occasion que les démarches réglementaires n'avaient pas été réalisées.		
+2006	10	19		2006	10	19		fin_de_travaux_transmis	Un rapport de fin de travaux transmis à la préfecture le 19 octobre 2006 comporte le compte-rendu de ces opérations de dépollution et les résultats des analyses de sols en parois et en fond de fouille.		

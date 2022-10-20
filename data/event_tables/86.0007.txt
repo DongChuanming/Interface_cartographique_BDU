@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			une_étude_historique	En Mars 2002, une étude historique de la décharge interne a été effectuée par le groupe ANTEA.		'ANTEA'
+2002	11			2002	11			des_investigations_complémentaires	En Novembre 2002, des investigations complémentaires et une Évaluation Simplifiée des Risques ont suivi la première étude de Mars.  Il apparaît que  les eaux de la nappe et les sols peuvent être considérés comme sources secondaires potentielles de pollution.		
+1981				1981				est_à_nouveau_rachetée	Puis en 1981, elle est à nouveau rachetée et devient la société ALDEVIENNE qui appartiendra successivement à plusieurs groupes anglais.		'la société ALDEVIENNE'
+1993				1996				ont_été_entreposés	Enfin de 1993 à 1996, dans une moindre mesure, des résidus liés à la fabrication de l'aluminium ont été entreposés.		
+1996				1996				a_été_totalement_arrêtée	La mise en décharge de produits de process a été totalement arrêtée depuis 1996.		
+1968				1968				prend_possession	En 1968, la société SOFRAMECA prend possession du site pour exercer une activité d'affinage de métaux de récupération.		'la société SOFRAMECA'
+2004	06			2004	06			ont_été_réalisés	Suite à l'arrêté du 3 août 2001 relatif aux prélèvements et à la consommation d'eau des ICPE, deux piézomètres de surveillances des eaux souterraines ont été réalisés en juin 2004, après une étude hydrogéologique.		
+2008	03			2008	03			a_été_reprise	En mars 2008, l'activité a été reprise par la société DECONS.		'la société DECONS'
+1935				1935				devait_accueillir	Le site de la société ALDEVIENNE devait accueillir dès 1935 une poudrerie d'état.		'la société ALDEVIENNE'

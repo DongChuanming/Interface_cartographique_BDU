@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				investigations_supplémentaires	- investigations supplémentaires en 2012 en liaison avec les travaux de réhabilitation.		
+1996				1996				ont_été_retrouvés	Dès 1996, des HCT et des HAP ont été retrouvés près du gazomètre n°2 de l'ancienne usine sur une surface estimée alors de 100 à 150 m².  Depuis, les HAP sont toujours quantifiés dans les sols vers 3 à 4 m de profondeur.	'HCT', 'des HAP', 'les HAP'	
+2010	01			2010	01			__diagnostic	- diagnostic par ATI SERVICE en janvier 2010,		
+1999	05			1999	05			Évaluation_Simplifiée_des_Risques	- Évaluation Simplifiée des Risques (ESR) par DAMES & MOORE en mai 1999 concluant au classement du site en catégorie 1 "nécessitant des investigations supplémentaires",		'DAMES & MOORE'
+				2008				Les_diagnostics	Les diagnostics jusqu'en 2008 ont permis de constater que les zones suivantes étaient impactées :		
+2008				2008				ont_plus_été_détectés	Des hydrocarbures, HAP, PCB et composés chlorés ont été retrouvés dans les sols de la zone 4, mais ils n'ont plus été détectés en 2008.	'hydrocarbures', 'HAP', 'PCB', 'composés chlorés'	
+2013	07	02		2013	07	02		les_mesures_de_réhabilitation	A la date du 2 juillet 2013, les mesures de réhabilitation du site se poursuivent.		
+2011	05	24		2011	05	24		a_déclaré_la_cessation_des_activités	L'exploitant a déclaré la cessation des activités du site en juin 2008 (récépissé n° 4776/11/40 du 24 mai 2011).		
+2008	01			2008	01			diagnostic	- diagnostic pour la gestion et l'aménagement du site en janvier 2008,		
+1998				1998				son_rachat	. DEHOUSSE exploitait le site avant son rachat en 1998 par le groupe allemand KNORR-BREMSE dont FREINRAIL est une de ses filiales.		'DEHOUSSE', 'le groupe allemand KNORR - BREMSE', 'FREINRAIL'
+2008	06			2008	06			a_déclaré_la_cessation_des_activités	L'exploitant a déclaré la cessation des activités du site en juin 2008 (récépissé n° 4776/11/40 du 24 mai 2011).		
+2008				2008				ont_été_retrouvés	Des hydrocarbures, HAP, PCB et composés chlorés ont été retrouvés dans les sols de la zone 4, mais ils n'ont plus été détectés en 2008.	'hydrocarbures', 'HAP', 'PCB', 'composés chlorés'	
+1853				1952				exploitée_par	La partie Est et Sud-Est du site avait accueilli une usine à gaz exploitée par Gaz de France de 1853 à 1952 (fiche BASOL n°64.0042).		'Gaz de France'
+1996	06			1996	06			__diagnostic_de_sol	- diagnostic de sol en juin 1996 par IDE Environnement et ses investigations complémentaires,		'IDE Environnement'
+2012				2012				Les_investigations_menées	Les investigations menées en 2012 ont permis de déterminer l'origine de cette pollution.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	03	13		1998	03	13		un_jugement	L'ensemble de cette procédure a été annulée par un jugement du tribunal administratif de Grenoble (13 mars 1998).		'tribunal administratif de Grenoble'
+1997	12	1		1997	12	1		réalisé	A noter que l'analyse de la nappe au droit du site réalisé le 1er décembre 1997 n'a pas mis en évidence de pollution par le PCB.	'le PCB'	
+1997	01	07		1997	01	07		a_été_dressé	Un procès-verbal a été dressé le 7 janvier 1997 à l'encontre de M.		
+1998	07	22		1998	07	22		un_arrêté	Après accord du MATE (20 juillet 1998), le Préfet de la Drôme a pris un arrêté en date du 22 juillet 1998 fixant les travaux à réaliser et confiant à l'ADEME leur exécution.		'MATE', 'le Préfet', 'la Drôme'
+1998	07	20		1998	07	20		Après_accord	Après accord du MATE (20 juillet 1998), le Préfet de la Drôme a pris un arrêté en date du 22 juillet 1998 fixant les travaux à réaliser et confiant à l'ADEME leur exécution.		'MATE', 'le Préfet', 'la Drôme'
+1996	11			1996	11			la_liquidation_judiciaire	Lors de la liquidation judiciaire (novembre 1996) de la société GASCON ELECTRO DISTRIBUTION (entreprise spécialisée dans les travaux électriques) sont restés sur le site du siège de la société :		'la société GASCON ELECTRO DISTRIBUTION', 'la société :'
+1998	11	26		1998	11	26		a_été_présenté_devant	Le compte rendu d'intervention terminée (pompage et élimination de tous les PCB liquides) établi par l'ADEME a été présenté devant le comité de gestion DIS du 26 novembre 1998.	'PCB', 'liquides'	
+1998	03	13		1998	03	13		a_été_annulée	L'ensemble de cette procédure a été annulée par un jugement du tribunal administratif de Grenoble (13 mars 1998).		'tribunal administratif de Grenoble'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				les_campagnes_réalisées	-la poursuite du suivi de la qualité de l'eau pour confirmer l'absence de teneur dans le temps (les campagnes réalisées en 2006 et 2007 n'ont pas détecté de pollution).		
+2004	11			2004	11			une_inspection	Cette entreprise avait fait l'objet d'une inspection en novembre 2004 au cours de laquelle il avait été constaté que des déchets liquides étaient entreposés en grande quantité dans des conditions non satisfaisantes (à l'air libre et sans rétention).	'des déchets liquides'	
+2008				2008				une_régularisation_générale	Les installations de Mecad ont fait l'objet d'une régularisation générale des activité instruite au cours de l'année 2008.		
+2010				2010				de_la_dernière_campagne	Lors de la dernière campagne de 2010, tous les composés analysés étaient inférieurs aux seuils de quantification.	'composés'	
+2006				2006				les_campagnes_réalisées	-la poursuite du suivi de la qualité de l'eau pour confirmer l'absence de teneur dans le temps (les campagnes réalisées en 2006 et 2007 n'ont pas détecté de pollution).		
+2011	06			2011	06			a_émis	Le CODERST a émis un avis favorable à l'unanimité en juin 2011.		'Le CODERST'
+2008				2008				au	Les installations de Mecad ont fait l'objet d'une régularisation générale des activité instruite au cours de l'année 2008.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				est_réalisée	En 2011, la surveillance de la qualité des eaux souterraines est réalisée à partir de contrôles semestriels sur quatre piézomètres situés en aval hydraulique de l'établissement et de contrôles annuels sur trois piézomètres situés l'un en aval lointain et deux en amont hydraulique de l'établissement.		
+2005	01	05		2005	01	05		une_expertise	L’AP du 05/01/2005 prescrit une expertise des conditions de suivi des eaux souterraines et une Evaluation Simplifiée des Risques sur les parties du site non équipées d'étanchéité de fond de casier.		
+2000	12	04		2000	12	04		autorisée_par_arrêté_codificatif	Cette décharge d'ordures ménagères et déchets industriels banals, autorisée par arrêté codificatif du 04/12/2000.	'déchets industriels banals'	
+1984				1984				Les_travaux_de_confinement	Les travaux de confinement des résidus de HCH dans une capsule d'argile étanche ont été réalisés durant l'hiver 1983-1984.	'résidus de HCH'	
+2012	01	23		2012	01	23		est_actuellement_en_exploitation	Le site est actuellement en exploitation et réglementé par l'arrêté préfectoral d'autorisation du 23 janvier 2012.		
+1983				1983				durant_l_	Les travaux de confinement des résidus de HCH dans une capsule d'argile étanche ont été réalisés durant l'hiver 1983-1984.	'résidus de HCH'	
+1983				1983				Les_travaux_de_confinement	Les travaux de confinement des résidus de HCH dans une capsule d'argile étanche ont été réalisés durant l'hiver 1983-1984.	'résidus de HCH'	
+								contrôles_semestriels	En 2011, la surveillance de la qualité des eaux souterraines est réalisée à partir de contrôles semestriels sur quatre piézomètres situés en aval hydraulique de l'établissement et de contrôles annuels sur trois piézomètres situés l'un en aval lointain et deux en amont hydraulique de l'établissement.		
+1984				1984				durant_l_	Les travaux de confinement des résidus de HCH dans une capsule d'argile étanche ont été réalisés durant l'hiver 1983-1984.	'résidus de HCH'	

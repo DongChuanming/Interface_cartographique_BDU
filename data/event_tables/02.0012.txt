@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				des_travaux_de_confinement	Durant l’année 2009, des travaux de confinement ont été réalisés.		
+1993				1999				des_études	La société Antéa a réalisé des études sur l'ancien site de Rhône-Poulenc de 1993 à 1999.		'La société Antéa', 'Rhône - Poulenc'
+2003	01	15		2003	01	15		a_été_finalisée	Arrivée à son terme, la surveillance des eaux souterraines a été finalisée par un rapport intitulé "Chauny-Zone est Bilan de la surveillance de la nappe alluviale" en date du 15 janvier 2003.		
+1997				1997				est_devenue_propriétaire	La ville de Chauny qui est devenue propriétaire des terrains en friche en 1997, compte vendre ses terrains.		
+1997				1997				compte_vendre	La ville de Chauny qui est devenue propriétaire des terrains en friche en 1997, compte vendre ses terrains.		
+								le_soin_de_contrôler	Dans le cadre de l'arrêté préfectoral du 26 février 1997, la société RHONE POULENC a confié à la société ANTEA le soin de contrôler la qualité des eaux souterraines de l'ancienne usine sur une période de 5 ans avec une fréquence semestrielle de prélèvements		'la société RHONE POULENC', 'la société ANTEA'
+1820				1985				ont_été_exercées	Sur ce terrain ont été exercées des activités chimiques de 1820 à 1985.		
+1997	02	26		1997	02	26		le_soin_de_contrôler	Dans le cadre de l'arrêté préfectoral du 26 février 1997, la société RHONE POULENC a confié à la société ANTEA le soin de contrôler la qualité des eaux souterraines de l'ancienne usine sur une période de 5 ans avec une fréquence semestrielle de prélèvements		'la société RHONE POULENC', 'la société ANTEA'
+1914				1914				a_été_rasé	En 1914, le site a été rasé et le sol naturel a été rehaussé d'un mètre avec les débris.		

@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				s__achever	Les travaux de réhabilitation ont débuté en 1999 pour s’achever en 2006-2007 :		
+1999	09			1999	09			évaluation_simplifiée_des_risques	Le diagnostic initial et l'évaluation simplifiée des risques effectués en septembre 1999 sont parvenus à l’IIC le 29 novembre 1999 qui a rendu son avis le 4 août 2000.		'IIC'
+1996	04	03		1996	04	03		a_prescrit	Durant la période de fonctionnement de l'incinérateur, les mâchefers d'incinération ayant été enfouis sans précaution particulière sur le site même et les activités exercées étant susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, sur proposition de l’inspection des installations classées (IIC), un arrêté préfectoral complémentaire du 17 février 1999, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant de réaliser un diagnostic initial et une évaluation simplifiée des risques sur ce site dans un délai de six mois.		
+2006	06	06		2006	06	06		déclaration	L’ouverture de la déchetterie est intervenue le 3 novembre 2007, un récépissé de déclaration en date du 6 juin 2006 réglemente cette activité.		
+2012	01			2012	01			ont_été_réduites	Les deux dernières campagnes de surveillance de la qualité de  la nappe, en janvier 2012 et août 2013, ont été réduites à l'analyse d'un puits situé en aval hydraulique sur les 3 prévus initialement.		
+2000	11	30		2000	11	30		a_été_arrêté	L’incinérateur a été arrêté le 30 novembre 2000.		
+1973				1973				était_utilisé	Ce site, d’une superficie d’environ 2h, était utilisé avant 1973 comme décharge de déchets inertes.	'décharge de déchets inertes'	
+2005	12	28		2005	12	28		un_mémoire_de_cessation_d__activité	Le SIVOM a déposé officiellement un mémoire de cessation d’activité le 28 décembre 2005.		'Le SIVOM'
+2013	08			2013	08			ont_été_réduites	Les deux dernières campagnes de surveillance de la qualité de  la nappe, en janvier 2012 et août 2013, ont été réduites à l'analyse d'un puits situé en aval hydraulique sur les 3 prévus initialement.		
+2013	09			2013	09			a_également_été_curé	Le bassin actuel de récupération a également été curé en septembre 2013 et les terres évacuées en filière autorisée.		
+2006				2006				s__achever	Les travaux de réhabilitation ont débuté en 1999 pour s’achever en 2006-2007 :		
+2000	08	04		2000	08	04		a_rendu_son_avis	Le diagnostic initial et l'évaluation simplifiée des risques effectués en septembre 1999 sont parvenus à l’IIC le 29 novembre 1999 qui a rendu son avis le 4 août 2000.		'IIC'
+1973	12	20		1973	12	20		étaient_autorisées_par	Les installations étaient autorisées par l’arrêté préfectoral du 20 décembre 1973.		
+1999				1999				s__achever	Les travaux de réhabilitation ont débuté en 1999 pour s’achever en 2006-2007 :		
+2005	12			2005	12			cessation_d__activité_remis	D’autre part, le dossier de cessation d’activité remis en décembre 2005 était accompagné d’une demande d’ouverture de déchetterie sur une partie du site de l’ancien incinérateur.		
+2013	12	05		2013	12	05		a_donc_été_établi	Un procès-verbal de récolement final a donc été établi par l’IIC le 5 décembre 2013 qui recommande d'inscrire dans les documents d'urbanisme la zone de stockage des mâchefers.	'mâchefers'	'IIC'
+1973				1973				A_compter_de	A compter de 1973, il a accueilli une unité incinérant pour le compte du SIVOM (ex SICTOM) de Villefranche de Lauragais les ordures ménagères provenant des communes du canton de Villefranche de Lauragais et de Nailloux.		'SIVOM', 'SICTOM'
+1999				1999				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont débuté en 1999 pour s’achever en 2006-2007 :		
+2007	11	03		2007	11	03		L__ouverture_de	L’ouverture de la déchetterie est intervenue le 3 novembre 2007, un récépissé de déclaration en date du 6 juin 2006 réglemente cette activité.		
+2013	08			2013	08			Les_deux_dernières_campagnes_de_surveillance	Les deux dernières campagnes de surveillance de la qualité de  la nappe, en janvier 2012 et août 2013, ont été réduites à l'analyse d'un puits situé en aval hydraulique sur les 3 prévus initialement.		
+1999	11	29		1999	11	29		a_rendu_son_avis	Le diagnostic initial et l'évaluation simplifiée des risques effectués en septembre 1999 sont parvenus à l’IIC le 29 novembre 1999 qui a rendu son avis le 4 août 2000.		'IIC'
+1999	11	29		1999	11	29		Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques effectués en septembre 1999 sont parvenus à l’IIC le 29 novembre 1999 qui a rendu son avis le 4 août 2000.		'IIC'
+2000	08	04		2000	08	04		Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques effectués en septembre 1999 sont parvenus à l’IIC le 29 novembre 1999 qui a rendu son avis le 4 août 2000.		'IIC'
+2002				2002				a_été_lancée	Concernant les eaux souterraines, la surveillance de la qualité de la nappe a été lancée en 2002. 6 campagnes ont été menées de façon irrégulière sur les 10 dernières années.		
+2012	01			2012	01			Les_deux_dernières_campagnes_de_surveillance	Les deux dernières campagnes de surveillance de la qualité de  la nappe, en janvier 2012 et août 2013, ont été réduites à l'analyse d'un puits situé en aval hydraulique sur les 3 prévus initialement.		

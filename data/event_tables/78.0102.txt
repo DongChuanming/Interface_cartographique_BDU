@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12			2011	12			Le_diagnostic	Le diagnostic des sols et des eaux souterraines a été transmis au mois de décembre 2011.		
+1926				2010				a_été_exploité	Le site a été exploité de 1926 à 2010.		
+2000				2000				a_été_installée	La troisième ligne de production a été installée puis mise en service en 2000.		
+1975				1975				ont_été_mises_en_service	Elles comportaient 3 lignes de fabrication de film alimentaire dont les 2 plus anciennes ont été mises en service en 1975 et 1978.		
+2010	10	28		2010	10	28		a_été_déposé_en_préfecture	Le dossier de cessation d'activité de la société a été déposé en préfecture le 28 octobre 2010.		
+1926				1926				est_exploité	Le site se situe  en amont de zones fortement urbanisées.  Le site est exploité depuis 1926.  Deux captages d'alimentation en eau portable  sont situés à proximité du site  (quelques centaines de mètres), dont  1 en aval hydraulique.		
+2011	02	24		2011	02	24		des_prescriptions	L'analyse du dossier de cessation d'activité a conduit M. le Préfet des Yvelines à imposer par arrêté complémentaire n° 11-068/DRE en date du 24 février 2011 des prescriptions concernant :		'le Préfet des Yvelines'
+2011	09	26		2011	09	26		la_visite	En se basant sur les constats de la visite du 26 septembre 2011, et sur l'analyse des bilans transmis les 21 octobre 2011 et 10 janvier 2012, l'inspection des installations classées considère que la mise en sécurité du site est effective.		
+1978				1978				ont_été_mises_en_service	Elles comportaient 3 lignes de fabrication de film alimentaire dont les 2 plus anciennes ont été mises en service en 1975 et 1978.		
+2000				2000				mise_en_service	La troisième ligne de production a été installée puis mise en service en 2000.		

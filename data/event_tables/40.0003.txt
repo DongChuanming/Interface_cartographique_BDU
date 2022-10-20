@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				pollution	Lors de la fermeture de PHARMALANDES, en 1989,une pollution du sol et de la nappe est constatée.		'PHARMALANDES'
+								La_campagne	La campagne du 2ème semestre 2001 montre l'absence d'impact des sulfures, la mesure de ce paramètre est abandonnée pour les campagnes suivantes.	'sulfures'	
+1996				1996				progressivement_été_supprimés	Au regard du suivi des eaux souterraines mis en place depuis 1996, certains paramètres comme les  composés organo halogénés, les chlorures et les sulfates ont progressivement été supprimés du programme de surveillance.	'les   composés organo halogénés', ', les chlorures', 'les sulfates'	
+2008	05	13		2008	05	13		se_rendraient_sur_place	L'exploitant a convenu avec le bureau d'études URS France que 2 techniciens se rendraient sur place dans la première semaine de janvier 2010 pour procéder à la mise en sécurité des piézomètres selon les prescriptions de l'arrêté du 13 mai 2008.		'URS France'
+2011				2011				la_dernière_campagne_de_relevés	Le 21/12/2009, l'exploitant déclare que 2 piézos seront conservés en l'état, encapuchonnés et cadenassés, pour la dernière campagne de relevés prévue en 2011, les conventions avec les propriétaires concernés sont en cours.		
+2005				2005				déclare_ne_plus_être_propriétaires	En 2005, St Gobain déclare ne plus être propriétaires des terrains d'emprise de l'ancienne papeterie de Roquefort.		'St Gobain'
+2010	01			2010	01			se_rendraient_sur_place	L'exploitant a convenu avec le bureau d'études URS France que 2 techniciens se rendraient sur place dans la première semaine de janvier 2010 pour procéder à la mise en sécurité des piézomètres selon les prescriptions de l'arrêté du 13 mai 2008.		'URS France'
+1989				1989				réhabilite	Cette même année 1989, la Cellulose du Pin réhabilite les deux grandes lagunes de traitement des eaux résiduaires de la papeterie.	'eaux résiduaires'	'la Cellulose du Pin'
+1975				1975				a_atteint	La production a atteint 125 t/j en 1975.		
+2001				2001				La_campagne	La campagne du 2ème semestre 2001 montre l'absence d'impact des sulfures, la mesure de ce paramètre est abandonnée pour les campagnes suivantes.	'sulfures'	
+2003	04	08		2003	04	08		La_Campagne_du	La Campagne du 08 avril 2003 montre un impact stable pour les paramètres Na et DCO en C3 (au droit du site), mais inférieur aux valeurs de constat d'impact pour un usage non sensible.	'Na', 'DCO'	
+2013	11	07		2013	11	07		la_dernière_campagne_de_mesures	Selon la dernière campagne de mesures du 7 novembre 2013 :		
+2015	08	10		2015	08	10		a_été_suspendu	La surveillance des eaux a été suspendu par l'arrêté préfectoral complémentaire du 10/08/2015.		
+2001				2001				ayant_conduit_à_leur_suppression	- des concentrations en composés organohalogénés faibles entre 1996 et 2000, ayant conduit à leur suppression du programme analytique en 2001,	'composés organohalogénés'	
+2001				2001				Le_bilan_des_deux_campagnes	Le bilan des deux campagnes de 2001 montre qu'il n'y a plus de concentration significative en Chlorures, Sulfates et Composés Organohalogénés.	'Chlorures', 'Sulfates', 'Composés Organohalogénés'	
+2013	11	07		2013	11	07		la_dernière_campagne_de_mesures	Selon la dernière campagne de mesures du 7 novembre 2013 :		
+1996				1996				mis_en_place	Au regard du suivi des eaux souterraines mis en place depuis 1996, certains paramètres comme les  composés organo halogénés, les chlorures et les sulfates ont progressivement été supprimés du programme de surveillance.	'les   composés organo halogénés', ', les chlorures', 'les sulfates'	
+1994				1994				Les_études_remises	Les études remises en 1994 et 1995 classe le site dans la catégorie "à surveiller" selon l'usage du moment.		
+1978	06	28		1978	06	28		ferme_l__usine	La Cellulose du Pin cesse son activité et ferme l'usine le 28 juin 1978, puis vend  ou loue une partie des bâtiments et terrain à des PME, dont Pharmalandes en 1984.		'La Cellulose'
+2009	12	21		2009	12	21		déclare	Le 21/12/2009, l'exploitant déclare que 2 piézos seront conservés en l'état, encapuchonnés et cadenassés, pour la dernière campagne de relevés prévue en 2011, les conventions avec les propriétaires concernés sont en cours.		
+1995				1995				Les_études_remises	Les études remises en 1994 et 1995 classe le site dans la catégorie "à surveiller" selon l'usage du moment.		
+2002	10			2002	10			Les_analyses_réalisées	Les analyses réalisées en octobre 2002 ne confirment pas l'augmentation des hydrocarbures hors site.	'hydrocarbures'	
+1993				1993				Les_travaux_de_décontamination	Les travaux de décontamination du sol ont été terminés en 1993.		
+2001				2001				ayant_conduit_à_leur_suppression	- des teneurs en chlorures et sulfates inférieures aux valeurs de référence pour l'eau de consommation entre 1996 et 2000, ayant conduit à leur suppression du programme analytique en 2001,	'chlorures', 'sulfates'	
+1992				1994				fait_évacuer	De 1992 à 1994, elle fait évacuer et traiter les déchets résultant du fonctionnement de la papeterie.		
+2005	07	21		2005	07	21		La_campagne_du	La campagne du 21 juillet 2005 confirme la tendance observée en 2003.		
+2011				2011				a_prescrit_une_campagne	Suite au CODERST DU 08/04/2008, l'arrêté du 13 mai 2008 a prescrit une campagne en 2011 en période de basse eaux sur les 3 piézomètres ci-dessus.		

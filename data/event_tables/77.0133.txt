@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								2001_constatant	Suite à une visite d’inspection effectuée le 26 avril 2001 constatant que des déchets étaient toujours présents sur le site dans des conditions ne garantissant pas l’absence de risque de pollution, une nouvelle procédure de consignation a été engagée.		'constatant que des déchets'
+								01_DAI_2IC	Ainsi, l’arrêté préfectoral n°01 DAI 2IC 167 du 19 juillet 2001 a demandé à la société PROGALVA de consigner la somme de 60 979 € répondant du montant de l’élimination des déchets restant sur le site.	'la société PROGALVA'	
+								__l__arrêté_préfectoral_n_	Ainsi, l’arrêté préfectoral n°01 DAI 2IC 167 du 19 juillet 2001 a demandé à la société PROGALVA de consigner la somme de 60 979 € répondant du montant de l’élimination des déchets restant sur le site.	'la société PROGALVA'	

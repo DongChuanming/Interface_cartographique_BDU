@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	10	22		2001	10	22		ont_été_extraits	- la vidange de la cuve : les remblais souillés par des goudrons ont été extraits le 22/10/2001.	'goudrons'	
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquels les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maitrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le ministère de l' Environnement", 'Gaz de France'
+2001	10	24		2001	10	24		a_été_remblayée	- la remise en état du terrain : la cuve a été remblayée le 24/10/2001.		
+2001	10	22		2001	10	22		ont_été_extraits	Environ 1 m3 de goudrons ont été extraits de la cuve le 22/10/2001.	'goudrons'	
+								ont_été_démolies	Les installations de l'usine ont été démolies dans les années 1960.		
+1960				1961				construit	Actuellement le terrain est occupé par une agence EDF-GDF Service (ERDF) (bâtiments administratifs et techniques construit entre 1960 et 1961).		'une agence EDF', '- GDF Service ( ERDF'
+2000	05			2000	05			a_été_transmis	Suite à une étude d'investigations réalisée par le bureau d'études ATE en mai 2000, un rapport de fin d'opération sur l'ancienne usine à gaz de la Tour du Pin a été transmis à la DREAL le 21/01/2004.		'ATE', 'la DREAL'
+1866				1959				a_accueilli	Le site a accueilli de 1866 à 1959 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2004	01	21		2004	01	21		a_été_transmis	Suite à une étude d'investigations réalisée par le bureau d'études ATE en mai 2000, un rapport de fin d'opération sur l'ancienne usine à gaz de la Tour du Pin a été transmis à la DREAL le 21/01/2004.		'ATE', 'la DREAL'

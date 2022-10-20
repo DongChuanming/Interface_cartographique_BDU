@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02	05		2009	02	05		un_arrêté_interpréfectoral	Les teneurs en PCB observées ont conduit les Préfets de Haute-Saône et du Doubs a prendre le 05 février 2009 un arrêté interpréfectoral portant interdiction de la pêche en vue de la consommation de toutes espèces de poisson sur un tronçon de la rivière Ognon, allant du barrage de Montferney sur la rivière et du moulin de Montferney sur le bief de dérivation au barrage de Montbozon sur la rivière et au moulin de Montbozon sur le bief de dérivation.	'PCB'	
+2015	05			2015	05			La_première_campagne_de_surveillance	La première campagne de surveillance des sols et des sédiments a eu lieu en mai 2015.		
+2011	05			2011	05			a_été_remis	Le rapport final de l'interprétation de l'état des milieux (IEM) a été remis en mai 2011.		
+2012	01	03		2012	01	03		ont_été_signés	Les arrêtés de travaux d'office et d'occupation temporaire ont été signés le 03 janvier 2012, pour une durée de 12 mois.		
+1998				1998				a_cessé	L'activité a cessé en 1998 (mise en liquidation de la société).		
+				2011	08	06		a_été_prorogé	L'arrêté préfectoral d'occupation temporaire a été prorogé le 01 septembre 2010 jusqu'au 06 août 2011.		
+								ont_été_signés	Les arrêtés de travaux d'office et d'occupation temporaire ont été signés le 03 janvier 2012, pour une durée de 12 mois.		
+2008				2008				a_été_alertée	Au printemps 2008, l'inspection a été alertée d'une pollution aux PCB détectée dans une mare à Montagney-Servigney.	'PCB'	
+2003				2003				a_été_acheté	Le site a été acheté par la société Interval en 2003.		'la société Interval'
+2011	05	11		2011	05	11		s__est_rendue	L'inspection s'est rendue sur le site le 11 mai 2011 afin de procéder au récolement des travaux de confinement provisoire réalisés.		
+2010	09	01		2010	09	01		a_été_prorogé	L'arrêté préfectoral d'occupation temporaire a été prorogé le 01 septembre 2010 jusqu'au 06 août 2011.		
+1998				2003				avoir_disparu	Au vu des informations disponibles, ce transformateur semble avoir disparu entre 1998 et 2003, avant la mise en vente du site.		
+1973				1998				a_exercé	La société Reverdy y a exercé entre 1973 et 1998 une activité de broyage de substances végétales, soumise à autorisation au titre des ICPE.		'La société Reverdy'
+2013	04			2013	04			Les_études_prescrites	Les études prescrites ont été remises par l'ADEME en avril 2013.		
+2013	10	04		2013	10	04		ont_été_signés	Les arrêtés de travaux d'office et d'occupation temporaire ont été signés le 4 octobre 2013 pour une durée de 5 ans.		
+1998				1998				n__a_jamais_fait_réactiver	Elle n'a jamais fait réactiver l'alimentation électrique du site, coupée en 1998.		
+				2014	11	06		Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont eu lieu du 15 octobre au 6 novembre 2014.		
+								ont_été_signés	Les arrêtés de travaux d'office et d'occupation temporaire ont été signés le 4 octobre 2013 pour une durée de 5 ans.		
+2009	08	06		2009	08	06		ont_été_signé	Un arrêté préfectoral de travaux d'office, complété par un arrêté préfectoral d'occupation temporaire, ont été signé le 06 août 2009.		
+1973				1998				une_activité_de_broyage_de_substances_végétales	La société Reverdy y a exercé entre 1973 et 1998 une activité de broyage de substances végétales, soumise à autorisation au titre des ICPE.		'La société Reverdy'
+2008	09			2009	09			différentes_investigations	Entre septembre 2008 et septembre 2009, différentes investigations ont été réalisées sur le site et dans les cours d'eau et plans d'eau alentours afin de caractériser la pollution.		

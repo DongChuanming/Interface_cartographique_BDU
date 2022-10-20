@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				Une_étude_de_sol	Une étude de sol et une ESR (évaluation simplifiée des risques) ont été menées en 2000 dans le cadre de la circulaire du 3 avril 1996 du Ministère de l'Environnement.		
+1989				1989				est_autorisé_à_être_exploité	Le site est autorisé à être exploité depuis 1989.		
+1998	11	13		1998	11	13		a_été_autorisée_à_exploiter	La société AFC a été autorisée à exploiter une fonderie de fonte à graphite sphéroïdal par arrêté préfectoral modifié du 13 novembre 1998.		'La société AFC'

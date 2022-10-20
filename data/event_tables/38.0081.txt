@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	31		2012	05	31		à_été_rédigé	Un arrêté préfectoral complémentaire à été rédigé en date du 31/05/2012 (arrêté n°2012152-0064) afin d'imposer :		
+2001	11	20		2001	11	20		une_demande	Dans le cadre de la diversification de son activité, cette société a déposé en date du 20/11/2001 une demande d'autorisation visant à étendre l'activité "métaux" à d'autres matériaux (bois, papiers, cartons, plastiques...).		
+1988				1988				sont_implantés	LAURENT qui sont implantés sur le site depuis 1988.		'LAURENT'
+1988	05	31		1988	05	31		est_réglementée	La société est réglementée au titre des installations classées pour la protection de l'environnement par arrêté préfectoral du 31 mai 1988.		
+1997	11			1997	11			la_mise_à_jour	- la mise à jour de l'étude d'impact réalisée au mois de novembre 1997,		
+1997	11			1997	11			réalisée	- la mise à jour de l'étude d'impact réalisée au mois de novembre 1997,		
+1997	10			1997	10			a_été_créée	La société JACQUIER INDUSTRIE a été créée en octobre 1997.		'La société JACQUIER INDUSTRIE'
+2016	08	26		2016	08	26		a_été_radié_du_registre_du_commerce	L'exploitant a été radié du registre du commerce le 26/08/2016 (SIRET : 449 200 963 00030).		

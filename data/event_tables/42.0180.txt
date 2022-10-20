@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02	11		2013	02	11		établi_par	A ce CCTP est annexé un diagnostic de sols établi par SOCOTEC en date du 11 février 2013.		'SOCOTEC'
+1990				1990				construction_d_	1979 – 1996 : stockage de véhicules, construction d’un patit atelier de réparation mécanique (1990) et apparition de l’auvent de l’aire de dépollution et extension du batiment.		
+2015	01	22		2015	01	22		a_transmis	L’EPORA a transmis à l’inspection, le 22 janvier 2015, un cahier des clauses techniques particulières, relative à la future démolition du site anciennement exploité par les Etablissements PEYRACHE.		'L’ EPORA', 'les Etablissements PEYRACHE'
+1989	10	11		1989	10	11		était_soumis_à_autorisation	Ce site était soumis à autorisation et réglementé par arrêté préfectoral du 11 octobre 1989.		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	15		2008	02	15		Une_visite	Une visite de l'inspection des installations classées, réalisée le 15 février 2008, a permis de constater la présence de  résidus de l'exploitation de la scierie et de produits susceptibles de générer une pollution des eaux ou du sol :		
+2008	10	29		2008	10	29		de_la_visite	Lors de la visite du 29 octobre 2008, l'inspection des installations classées a remarqué que le site est clôturé mais que l'accès au site reste possible (par dessus le grillage) et qu'aucun travaux de remise en état n'a été engagé.		
+1990	04			1990	04			a_pu_redémarrer	En avril 1990, la scierie a pu redémarrer sa production.		
+2004				2004				a_alors_été_effectué	Un suivi de la qualité des eaux a alors été effectué en 2003, 2004, 2005 et 2006 ainsi que des analyses dans le bassin d'eau pluviale en aval de la scierie.		
+2008	02	15		2008	02	15		de_la_visite	De plus, cette visite a permis de constater que des reliquats de l'ancienne scierie et produits polluants, présents lors de la visite du 15 février 2008, sont toujours sur site :	'produits polluants'	
+1988	06			1988	06			le_fonds_de_commerce_à	En juin 1988, Monsieur Barbereau vend le fonds de commerce à M.		
+2006	09			2006	09			ne_sont_plus_réalisées	Par ailleurs, cette visite a permis de constater que les analyses sur la qualité des eaux souterraines en aval du site ne sont plus réalisées depuis septembre 2006 malgré le stockage de produits de traitement du bois restant sur site.		
+2003				2003				a_alors_été_effectué	Un suivi de la qualité des eaux a alors été effectué en 2003, 2004, 2005 et 2006 ainsi que des analyses dans le bassin d'eau pluviale en aval de la scierie.		
+2006				2006				a_alors_été_effectué	Un suivi de la qualité des eaux a alors été effectué en 2003, 2004, 2005 et 2006 ainsi que des analyses dans le bassin d'eau pluviale en aval de la scierie.		
+1989	12			1989	12			__a_créé	En décembre 1989, Jean-Pascal Pelloquin  a créé une Société à Responsabilité Limitée pour exploiter à son tour la scierie.		'Jean-Pascal Pelloquin'
+2007	08	08		2007	08	08		a_été_placée_en_liquidation_judiciaire	La SARL Exploitation Forestière a été placée en liquidation judiciaire depuis le 8 août 2007.		'La SARL Exploitation Forestière'
+2005				2005				a_alors_été_effectué	Un suivi de la qualité des eaux a alors été effectué en 2003, 2004, 2005 et 2006 ainsi que des analyses dans le bassin d'eau pluviale en aval de la scierie.		
+1989	01			1989	01			dépose_son_bilan	En janvier 1989, l'entreprise dépose son bilan, seize personnes sont licenciées et les installations laissées à l'abandon.		
+1951				1951				Créée	Créée en 1951 par Monsieur Robert Barbereau, cette scierie a longtemps été la principale entreprise de Soullans.		'Robert Barbereau'
+2016	06	1		2016	06	1		Cette_liquidation_a_été_clôturée	Cette liquidation a été clôturée le 1er juin 2016 pour insuffisance d'actifs.		

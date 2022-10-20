@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				a_du_être_abandonné	Un premier puits a du être abandonné en 1982.		
+1976				1976				a_cessé	Cette pratique a cessé en 1976.		
+1999				1999				Le_compte_rendu_triennal	Le compte rendu triennal de 1999 et son complément de mai 2000 font état de teneurs en ammonium sur le puits abandonné présentant une tendance à la baisse.	'ammonium'	
+1993				1993				Une_étude_hydrogéologique	Une étude hydrogéologique a été engagée dès 1993 par l'industriel.		

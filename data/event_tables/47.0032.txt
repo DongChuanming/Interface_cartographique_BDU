@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10			2012	10			La_campagne_d_	La campagne d'octobre 2012 montre des teneurs anormales en pesticides au droit de PZ2 avec une valeur en propiconazole supérieure à la limite de qualité de l'eau destinée à la consommation humaine.	'pesticides', 'propiconazole'	
+2004	06			2004	06			Les_études_ont_été_remises	Les études ont été remises en juin 2004 (étape A) et mai 2005 (étape B et ESR).		
+2004	02			2004	02			ont_été_installés	En février 2004, deux piézomètres ont été installés en aval du site pour la surveillance des eaux souterraines.		
+2015	03			2015	03			de_la_campagne	Lors de la campagne de mars 2015, les résultats montrent un dépassement de la valeur limite de qualité dans l’eau destinée à la consommation humaine en propiconazole sur les piézomètres PZ1 et PZ2.	'propiconazole'	
+2013	05			2013	05			La_campagne_de	La campagne de mai 2013 montre des teneurs anormales en pesticides au droit de PZ2 avec une valeur en propiconazole supérieure à la limite de qualité des eaux brutes pour la production d'eau de consommation humaine et avec une valeur en pesticides totaux supérieure à la limite de qualité de l'eau destinée à la consommation humaine.	'pesticides', 'propiconazole', 'pesticides totaux'	
+1985				1985				explosion_d__un_transformateur	- explosion d'un transformateur en pyralène due à la foudre (environ 1985).	'pyralène'	
+1989	11	29		1989	11	29		sont_autorisées	Ces activités sont autorisées par l'arrêté préfectoral du 29 novembre 1989.		

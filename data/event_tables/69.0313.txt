@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971				1971				s__être_implantée	La société SCHINDLER est la première industrie à s'être implantée sur le site, en 1971.		'La société SCHINDLER'
+2010	09	17		2010	09	17		est_rachetée	En 2004, l'activité de SCHINDLER est rachetée par la société RENOLIFT qui exploitera le site jusqu'à sa cessation d'activité, le 17/09/2010.		'SCHINDLER', 'la société RENOLIFT'
+2010	11			2010	11			Une_étude_complémentaire_à_été_réalisé	Une étude complémentaire à été réalisé par le BUREAU VERITAS en novembre 2010. 13 sondages ont été réalisés et des échantillons ont été prélevés dans les eaux souterraines.		'le BUREAU VERITAS'
+2004	06			2004	06			Un_Premier_diagnostic	Un Premier diagnostic des sols a été réalisé par la société AD ENVIRONNEMENT lors du rachat de l'activité par RENOLIFT, en juin 2004. 4 sondages ont alors été implantés sur le site et équipés en piézomètres.		'la société AD ENVIRONNEMENT', 'RENOLIFT'
+2010	09	17		2010	09	17		cessation_d__activité	En 2004, l'activité de SCHINDLER est rachetée par la société RENOLIFT qui exploitera le site jusqu'à sa cessation d'activité, le 17/09/2010.		'SCHINDLER', 'la société RENOLIFT'
+2004	12	27		2004	12	27		La_reprise_de	La reprise de l'activité a été autorisé par l'arrêté préfectoral du 27/12/2004.		
+2004				2004				est_rachetée	En 2004, l'activité de SCHINDLER est rachetée par la société RENOLIFT qui exploitera le site jusqu'à sa cessation d'activité, le 17/09/2010.		'SCHINDLER', 'la société RENOLIFT'

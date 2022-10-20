@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				a_été_réalisée	Celle ci a été réalisée par Suez Remediation au premier trimestre 2017.		'Suez Remediation'
+2017	03			2017	03			transmis	Le rapport, transmis en mars 2017 à l'inspection, conclut qu'au regard de l'évaluation qualitative effectuée (schéma conceptuel) aucun risque sanitaire n'est présent sur et hors site.		
+2003	04			2003	04			a_été_réalisée	La pose d'un piézomètre(amont) en dehors du site a été réalisée en avril 2003, des analyses ont été effectuées en juin.		
+								existe	Stockage d'hydrocarbures et de gaz,ce dépôt existe depuis plus de 50 ans.	'hydrocarbures'	
+2016				2016				est_en_augmentation	Ainsi lors des campagnes d'analyse 2016, la teneur en hydrocarbures mesurée est en augmentation au niveau de ces 2 piezomètres, bien qu'elle reste encore bien inférieure à l'impact observé en PZ3 (partie centrale du site).	'hydrocarbures'	
+								a_été_réalisée	La pose d'un piézomètre(amont) en dehors du site a été réalisée en avril 2003, des analyses ont été effectuées en juin.		
+2009	01			2009	01			a_été_arrêtée	Cette unité a été arrêtée en janvier 2009 en raison de la faiblesse des quantités récupérées à cette dernière date.		
+2013	09			2013	09			a_été_installé	Un écrémeur passif a été installé dans ce piézomètre en septembre 2013.		
+2006	04			2006	04			réalisées_en	Un piézomètre a été réimplanté(PZ1bis) en mars 2006, les analyses réalisées en avril 2006 indiquent la présence d'une phase organique flottante, des mesures correctives ont été demandées, cette situation étant confirmée avec les résultats des analyses de juin 2007.	'une phase organique flottante'	
+1998	03	23		1998	03	23		évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite à l'exploitant par arrêté préfectoral du 23 mars 1998.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1955				1955				a_été_foré	Il a été foré en 1955 et bouché en 1992.		
+1995	08	11		1995	08	11		ont_fait_l__objet	Ces installations ont fait l'objet en 1994 de dossiers de délaissement de travaux miniers considérés acquis par l'Administration par courrier du 11/08/1995.		
+1994				1994				ont_fait_l__objet	Ces installations ont fait l'objet en 1994 de dossiers de délaissement de travaux miniers considérés acquis par l'Administration par courrier du 11/08/1995.		
+1992				1992				bouché	Il a été foré en 1955 et bouché en 1992.		

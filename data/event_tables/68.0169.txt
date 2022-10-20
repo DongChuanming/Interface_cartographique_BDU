@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1954				1954				a_repris_l__activité	La nouvelle sablière a repris l’activité en 1954.		
+				1988				a_fait_l__objet	Elle a fait l’objet de remblaiements jusqu’en 1988 par des matériaux de démolition et des déblais de fouilles.		
+1977				1977				a_cessé_ses_activités	La gravière a cessé ses activités en 1977.		
+1950				1950				Les_débuts_de	Les débuts de l’exploitation date de 1950, par la société France-Suisse.		'la société France - Suisse'
+1991	03			1991	03			sont_réalisés	Des prélèvements d'eau souterraine sont réalisés en mars 1991 (basses-eaux) et août 1991 (hautes-eaux).		
+1991				1991				sont_détenus	En 1991, la majeure partie des terrains sont détenus par la société CIBA-BEIGY (basée à Huningue).		'la société CIBA', 'BEIGY'

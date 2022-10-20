@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	26		2005	01	26		Liquidation_judiciaire_prononcée	Liquidation judiciaire prononcée le 26/01/2005 par Maitre Dominique GUERIN (Bayonne).		'Maitre Dominique GUERIN'
+2004	01			2004	01			a_été_remise	L'étape A a été remise en janvier 2004 et l'étape B en octobre 2004.		
+								inspection	Aucune inspection n'a été réalisée sur le site depuis le début des années 2000.		
+2004				2004				Le_diagnostic	Le diagnostic d'ANTEA de 2004 ne fait pas état de travaux nécessaires.		
+2005	10	19		2005	10	19		__a_transmis	Par courrier du 19 octobre 2005, le liquidateur judiciaire  a transmis le justificatif de		
+2004	10			2004	10			a_été_remise	L'étape A a été remise en janvier 2004 et l'étape B en octobre 2004.		
+2003	11	20		2003	11	20		sa_cessation_définitive_d__activité	Le 8 avril 2004, la Société NICOLAS notifie au préfet sa cessation définitive d'activité depuis le 20/11/2003.		'la Société NICOLAS'
+2004				2004				ont_été_détectés	En cas de changement d'usage, il est nécessaire de réaliser des investigations complémentaires dans les zones où ont été détectés du Bore et des hydrocarbures en 2004 lors de l'ESR, à savoir :	'Bore', 'hydrocarbures'	
+2004				2004				__effectuées_en	Des sondages à la tarrière effectués par ANTEA dans le rapport B et des analyses de sols  effectuées en 2004, il ressort des concentration en chlorophènol qui restent très faibles.	'en chlorophènol'	'ANTEA'
+2005				2005				Tous_les_enlèvements	Tous les enlèvements de déchets ont été effectués en 2005.		
+1992	12	11		1992	12	11		a_été_signé	Jacques Labeyrie a exploiter une scierie avec traitement de bois a été signé le 11 décembre 1992.		
+2004	04	08		2004	04	08		sa_cessation_définitive_d__activité	Le 8 avril 2004, la Société NICOLAS notifie au préfet sa cessation définitive d'activité depuis le 20/11/2003.		'la Société NICOLAS'

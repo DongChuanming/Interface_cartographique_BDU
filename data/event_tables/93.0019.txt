@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				L__élimination	L’élimination des déchets restant sur le site a lieu en 2005.		
+2006	12	22		2006	12	22		une_déclaration	Après une demande de l’inspection des installations classées, la commune envoie une déclaration de cessation d’activités qui est enregistrée le 22/12/2006.		
+1994				1994				Une_analyse	Une analyse des sols et de la nappe est effectuée en 1994, suivie par un diagnostic de dépollution en 1995.		
+1986				1986				a_cessé_son_activité	A la suite de plusieurs demandes de régularisation de sa situation, la société a cessé son activité en 1986.		
+				1973				a_exploité	La société SNCC a exploité sur ce site des activités de récupération et de traitement de liquides inflammables sur le site jusqu’en 1973.	'liquides inflammables'	'La société SNCC'
+2016	12	22		2016	12	22		un_courrier	Compte tenu de la situation, sur proposition de l'inspection le 20/12/2016, le préfet a transmis le 22/12/2016 un courrier au propriétaire  avec copie au maire pour rappeler notamment:		'le préfet'

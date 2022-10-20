@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				un_diagnostic_des_sols	Le dossier de cessation d’activités contient notamment un diagnostic des sols (datant de 2009), un rapport de fin de travaux (GRS VALTECH), un rapport de démolition du centre de stockage et les bordereaux de suivi des déchets.		'GRS VALTECH'
+2001	07	30		2001	07	30		a_prévenu	La SRRHU a prévenu la DREAL de cet accident le 30/07/2001.		'La SRRHU', 'la DREAL'
+2013	07	10		2013	07	10		Une_excavation	Une excavation des terres polluées dans ces deux zones a eu lieu le 10/07/2013 et le 23/07/2012.		
+				2012	07	23		Une_excavation	Une excavation des terres polluées dans ces deux zones a eu lieu le 10/07/2013 et le 23/07/2012.		

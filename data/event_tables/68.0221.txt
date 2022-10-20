@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2010	05			a_pris_fin	La fabrication de papier a commencé au milieu du XIX° siècle et a pris fin en mai 2010.		
+2015	03			2015	03			a_été_délivré	Le procès-verbal de fin de travaux a été délivré en mars 2015 pour un usage industriel.		
+2011	03			2011	03			ont_été_mises_en_liquidation_judiciaire	Les Papeteries de Turckheim ont été mises en liquidation judiciaire en mars 2011.		'Les'
+2012				2012				délégué	Les deux sites ont été mis en sécurité par l’État sous maîtrise d’ouvrage délégué à l’ADEME en 2012 par l'élimination des transformateurs au PCB et des déchets dangereux.	'PCB', 'des déchets dangereux'	

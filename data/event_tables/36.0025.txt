@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12	17		2009	12	17		ainsi_que	Afin d'assurer l'élimination des principales sources de pollution identifiées lors du diagnostic, des travaux de dépollution ont été effectués les 23 et 24 novembre 2009 ainsi que le 17 décembre 2009.		
+2009	11	24		2009	11	24		des_travaux_de_dépollution	Afin d'assurer l'élimination des principales sources de pollution identifiées lors du diagnostic, des travaux de dépollution ont été effectués les 23 et 24 novembre 2009 ainsi que le 17 décembre 2009.		
+2009	07			2009	07			Un_diagnostic	Un diagnostic de la qualité du sous-sol est réalisé en juillet 2009.		
+2006				2006				une_modification	Suite à une modernisation du site, une modification des installations de compression a eu lieu en 2006.		
+								Le_remblaiement	Le remblaiement et le compactage des zones de travaux a été réalisé les 4 et 5 janvier 2010.		
+2010	01			2010	01			a_été_effectuée	Au vu des ces résultats, une analyse des risques sanitaires résiduels a été effectuée en janvier 2010.		
+								des_travaux_de_dépollution	Afin d'assurer l'élimination des principales sources de pollution identifiées lors du diagnostic, des travaux de dépollution ont été effectués les 23 et 24 novembre 2009 ainsi que le 17 décembre 2009.		
+2010	01	05		2010	01	05		Le_remblaiement	Le remblaiement et le compactage des zones de travaux a été réalisé les 4 et 5 janvier 2010.		

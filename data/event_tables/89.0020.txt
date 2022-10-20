@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	05		2010	05	26		Ces_travaux_se_sont_déroulés	Ces travaux se sont déroulés du 5 mai 2010 au 26 mai 2010.		
+2005	08			2005	08			avoir_réalisé_de_surveillance	La société ESSO a indiqué ne pas avoir réalisé de surveillance de la qualité des eaux souterraines depuis août 2005.		'La société ESSO'
+2012	01	30		2012	01	30		a_reçu_le_rapport	30 janvier 2012: l'inspection des installations classées a reçu le rapport des travaux de dépollution des phases I et II.		
+2010	05			2010	05			un_contrat_de_3_ans	L'entretien et la garantie des plantations font l'objet d'un contrat de 3 ans à partir de mai 2010.		
+2010	05			2010	05			sont_en_cours_de_réhabilitation	Les berges sont en cours de réhabilitation depuis mai 2010.		
+2001	12	31		2001	12	31		cesse_son_activité	Par courrier du 18 décembre 2001, l'usine des Liants Routiers de Bourgogne cesse son activité le 31 décembre 2001.	'Liants'	'Routiers de Bourgogne'
+1930				1930				été_construite	L' Usine Bitume et Émulsions (UBE)a été construite en 1930.	'Bitume'	'UBE)a'
+1997				1997				sont_exploitées	Jusqu'en 1997, l'usine et ses installations sont exploitées moyennant différentes réorganisations des stockages (bitume, goudrons, Fuel domestiques, pétrole,produit fini).	'bitume', 'goudrons', 'Fuel domestiques', 'pétrole'	
+2007				2007				Les_travaux_de_dépollution_commencent	Les travaux de dépollution commencent en 2007 et se finissent en 2009.		
+2010	05	26		2010	05	26		a_été_fait	Un procès verbal de constat de fin de travaux a été fait le 26 mai 2010 par huissier de justice.		
+2002				2002				un_diagnostic_approfondi	L'inspection des installations classées a demandé en 2002 un diagnostic approfondi avec pour objectif:		
+2001	12	18		2001	12	18		cesse_son_activité	Par courrier du 18 décembre 2001, l'usine des Liants Routiers de Bourgogne cesse son activité le 31 décembre 2001.	'Liants'	'Routiers de Bourgogne'
+2011	04	21		2011	04	21		une_visite_d__inspection	21 avril 2011: une visite d'inspection est réalisée afin de vérifier l'effective réalisation de l'ensemble des travaux de réhabilitation du site et des berges de l'Yonne.		
+								a_été_arrêtée	L'usine a été arrêtée en novembre et décembre 2001.		
+1997				1997				mutation_notifie_le_changement	En 1997, un récépissé de mutation notifie le changement d'exploitant.		
+2005	12	23		2005	12	23		propose_un_planning_d__excavation	Le 23 décembre 2005, la société ESSO SAF propose un planning d'excavation des terres afin de supprimer la source de pollution des eaux souteraines.		'la société ESSO SAF'
+2009				2009				Les_travaux_de_dépollution_commencent	Les travaux de dépollution commencent en 2007 et se finissent en 2009.		
+1956				1956				est_autorisée_à_augmenter	En 1956, la Société anonyme Française ESSO standard est autorisée à augmenter sa capacité de stockage d'hydrocarbures.	'hydrocarbures'	'la Société anonyme Française ESSO standard'
+2001	12			2001	12			a_été_arrêtée	L'usine a été arrêtée en novembre et décembre 2001.		

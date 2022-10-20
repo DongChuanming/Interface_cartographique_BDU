@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	02		2007	08	02		a_été_pris	L’arrêté préfectoral correspondant a été pris le 2 août 2007.		
+2013	02			2013	02			a_transmis	L’EPORA a transmis, en février 2013, à l’inspection le rapport présentant le plan de gestion envisagé ainsi que l’analyse des risques résiduels (ARR) nécessaire à la validation du plan de gestion.		'L’ EPORA'
+2016	01	22		2016	01	22		une_visite	L’inspection a effectué, le 22 janvier 2016, une visite du site avec l'EPORA, la DRAC, la mairie de Saint-Chamond propriétaire du site et le bureau d’études Socotec afin de faire le point sur les suites à donner dans le cadre de la réhabilitation du site.		"l' EPORA", 'la DRAC', 'la mairie de Saint-Chamond', 'Socotec'
+2006	04			2006	04			une_évaluation_de_la_qualité_des_sols	Les parcelles n° 363, 364 et 366 sur lesquelles étaient présentes les cuves de fuel, d'essence et la chaudière ont été l'objet d'une évaluation de la qualité des sols en avril 2006 qui n'a pas mis en avant de contaminations du site liées aux activités de teinturerie de la société.	'fuel', 'essence'	
+2005	07			2005	07			a_été_transmise	L'ESR a été transmise en juillet 2005 complétée par une étude hydrogéologique qui a conclu à l'absence de nappe souterraine pérenne.		
+2007	05			2007	05			Le_diagnostic_approfondi	Le diagnostic approfondi a été remis en mai 2007.		
+2005	01			2005	01			Une_campagne_de_sondage	Une campagne de sondage effectuée en janvier 2005 a révélé des sources de pollution à l'arsenic, au chrome, au cuivre et au trichloréthylène.	'arsenic', 'chrome', 'cuivre', 'trichloréthylène'	
+2011	02			2011	02			a_fait_procéder	Dans un courrier à la DRAC, en date du 28 mars 2011, l’inspection indique que l’EPORA a fait procéder à de nouvelles analyses des gaz du sol en février 2011.		'la DRAC'
+2011	01	04		2011	01	04		de_la_réunion	Lors de la réunion du 4 janvier 2011, il a été indiqué que études et travaux à venir sont :		
+2010	10	06		2010	10	06		a_décidé	Lors de la réunion du 6 octobre 2010, la mairie a décidé de poursuivre la réhabilitation du site sur un projet d'habitations individuelles et collectives.		
+2009	09			2009	09			de_la_réunion	Lors de la réunion de septembre 2009, les services de la DDASS et de la DREAL ont établi la liste des risques résiduels et mettant en évidence des contraintes d’aménagement.		'les services de la DDASS', 'la DREAL'
+2016	04	29		2016	04	29		vise	Au 29/04/2016, le projet de réhabilitation du site vise la construction de logements individuels et collectifs.		
+2009	04	30		2009	04	30		a_été_destinataire	Le 30 avril 2009, l’inspection a été destinataire de l’ARR adressée par le bureau d’études ANTEA.		'ANTEA'
+2005				2005				a_déménagé	Cette société a déménagé et regroupé l'ensemble de ses activités sur un autre site à Saint-Chamond en 2005.		
+2005	02	10		2005	02	10		a_informé	La société TDI a informé le 10 février 2005 le Préfet de la cessation de ses activités.		'La société TDI', 'le Préfet'
+								a_été_vendue	Une partie du site (parcelles n° 45, 322, 359, 360, 361, 363, 364, 365, 366, 401, 402, 403 et 404) a été vendue dans les années 1990 et les installations qui étaient présentes (cuves aériennes de fuel, d'essence et la chaudière) démolies.	'aériennes de fuel', 'essence'	
+2010	12	21		2010	12	21		a_été_radiée_du_registre_du_commerce	La société TDI a été radiée du registre du commerce le 21/12/2010 (SIRET : 421 713 819 00025).		'La société TDI'
+2005	07	1		2005	07	1		a_été_pris	L’arrêté préfectoral correspondant a été pris le 1er juillet 2005.		
+2009	09			2009	09			ont_établi	Lors de la réunion de septembre 2009, les services de la DDASS et de la DREAL ont établi la liste des risques résiduels et mettant en évidence des contraintes d’aménagement.		'les services de la DDASS', 'la DREAL'
+2006	08	24		2006	08	24		a_été_pris_le	L’arrêté préfectoral correspondant a été pris le 24 août 2006.		
+2010	10	06		2010	10	06		de_la_réunion	Lors de la réunion du 6 octobre 2010, la mairie a décidé de poursuivre la réhabilitation du site sur un projet d'habitations individuelles et collectives.		
+2009	12	08		2009	12	08		a_informé	Monsieur le préfet de la Loire, par courrier du 8 décembre 2009, a informé le porteur du projet maison d'accueil des handicapés sur l'impossibilité d'implanter ce projet au droit de l'ancien site TDI à Saint-Chamond.		'le préfet de la Loire', 'TDI'
+2008	01			2008	01			évaluation_quantitative_des_risques_sanitaires	Lors de cette réunion, la DDASS a présenté l’évaluation quantitative des risques sanitaires de janvier 2008 qui a conclu à la présence d’un risque résiduel nécessitant des aménagements particuliers.		'la DDASS'

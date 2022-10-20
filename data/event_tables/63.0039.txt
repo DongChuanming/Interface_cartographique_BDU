@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_cessé	Cet établissement qui traitait des traverses de chemin de fer à la créosote depuis le début du XXème siècle, a cessé son activité au cours des années 1970.		
+								a_cessé	L'activité à l'origine de cette pollution est relativement ancienne puisque celle-ci a cessé dans les années 1970.		
+2010	01			2010	01			vers_le_sud_ouest___jusqu__à_sa_découverte_fortuite	La pollution a migré selon le sens d'écoulement des eaux souterraines (vers le sud-ouest) jusqu'à sa découverte fortuite en janvier 2010, à plus de 400 m en aval de l'ancien site industriel.		
+2010	06			2010	06			Une_étude_a_alors_été_confiée	Une étude a alors été confiée en juin 2010 au centre d'étude technique de l'équipement.		

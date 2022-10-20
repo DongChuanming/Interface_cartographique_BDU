@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	17		2003	12	17		a_cessé_ses_activités	Elle a cessé ses activités le 17/12/2003.		
+2005	04			2005	04			un_contrôle_environnemental	Au cours du retrait des cuves en avril 2005, un contrôle environnemental a été effectué auquel était joint un certificat d'extraction et un rapport de suivi d'extraction des cuves.		
+2004	10	04		2004	10	04		a_adressé	Le 04/10/2004, la société TOTAL FRANCE a adressé les certificats d'extraction et de destruction de 4 réservoirs ainsi qu'un rapport de diagnostic des sols et des eaux souterraines.		'la société TOTAL FRANCE'
+2005	04			2005	04			du_retrait_des_cuves	Au cours du retrait des cuves en avril 2005, un contrôle environnemental a été effectué auquel était joint un certificat d'extraction et un rapport de suivi d'extraction des cuves.		
+2007	10	18		2007	10	18		prend_acte	Le 18/10/2007, la préfecture de l'Isère prend acte de la cessation définitive d'activité de la société TOTAL FRANCE "Relais de Saint-Quentin-Fallavier".		'la préfecture', 'la société TOTAL FRANCE'
+2004	11	18		2004	11	18		a_été_délivré	Le 18/11/2004, un récépissé de déclaration de cessation d'activité a été délivré à la société TOTAL FRANCE.		'la société TOTAL FRANCE'

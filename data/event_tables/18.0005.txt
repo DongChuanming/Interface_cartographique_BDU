@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				furent_déplacés	Après la nationalisation en 1946, le site fut aménagé afin d'y accueillir les services de EDF-GDF qui, en 1972, furent déplacés dans la zone industrielle de l'Aujonière.		'les services de EDF - GDF'
+1946				1946				Après_la_nationalisation	Après la nationalisation en 1946, le site fut aménagé afin d'y accueillir les services de EDF-GDF qui, en 1972, furent déplacés dans la zone industrielle de l'Aujonière.		'les services de EDF - GDF'
+1995	05			1995	05			un_diagnostic	Afin de connaître plus précisément l'importance et l'étendue de cette pollution, un bureau d'études a réalisé un diagnostic des parcelles 601 et 602, dont le rapport date de mai 1995.		

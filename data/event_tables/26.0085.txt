@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09	27		2016	10	18		Les_travaux_mis_en_œuvre	Les travaux mis en œuvre entre le 27/09/2016 et le 18/10/2016 ont permis d'éliminer la source de pollution aux hydrocarbures mise en évidence lors du diagnostic environnemental.	'hydrocarbures'	
+2015	12			2015	12			Le_résultats_des_investigations	Le résultats des investigations réalisées en décembre 2015 ont révélé un impact en cuivre et en hydrocarbures sur les sols qui comblent actuellement la lagune, sur une hauteur d'au moins 4 mètres.	'cuivre', 'hydrocarbures'	'la lagune'
+								a_été_utilisée	Cette lagune a été utilisée durant une dizaine 'années entre la fin des années 80 et le début des années 90.		

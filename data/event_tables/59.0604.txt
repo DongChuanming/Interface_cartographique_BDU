@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_été_démantelé	Le dépot d'oxygène liquide appartenait à la société AIR LIQUIDE et a été démantelé en 2003 par cette même société.	'oxygène'	'la société AIR LIQUIDE'
+2003				2003				ont_cessé	Ces activités ont cessé en 2003.		
+2017				2017				la_construction_des_bâtiments	Le projet n'est pas encore achevé (2017) mais la construction des bâtiments a débuté.		

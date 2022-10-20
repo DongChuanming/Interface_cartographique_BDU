@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1947				1947				a_été_occupé	Avant 1947, le site a été occupé par une fabrique de bouteilles puis par une briqueterie.		
+1997				1997				cesse	L'utilisation de l'amiante cesse en 1997 au niveau de l'atelier de rectification et de regarnissage des presses relevant de la rubrique 1160.		
+2003	06			2003	06			est_dépoussiéré	Le local de regarnissage et de rectification est dépoussiéré en juin 2003.		
+1982				1982				est_mis_en_place	En 1982, un dispositif de dépoussiérage est mis en place et généralisé pour les ateliers de garnissage et de rectification des presses.		
+2008	01	10		2008	01	10		et_du	Papeterie autorisée par arrêté préfectoral du 20/08/1993 et du 10/01/2008.		
+1932				1932				A	A partir de 1932, on pratique le blanchiment de la pâte à papier par le chlore.	'chlore'	
+1997				1997				est_remplacée_par	A partir de 1997, l'amiante est remplacée par un matériau polymérique de marque NOMEX.	'amiante', 'un matériau polymérique'	'de marque NOMEX'
+2006	05	31		2006	05	31		est_réalisé	Le Dossier Technique Amiante est réalisé le 31 mai 2006.		'Amiante'

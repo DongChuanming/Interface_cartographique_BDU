@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	29		2000	12	29		Un_arrêté_préfectoral_de_dépollution	Un arrêté préfectoral de dépollution et de surveillance a été signé le 29/12/2000.		
+1999	12			1999	12			Un_diagnostic_de_pollution	Un diagnostic de pollution a été fait en décembre 1999 à la demande de la Mairie, en vue de la vente du terrain.		'la Mairie'
+1990				1990				ayant_cessé_ses_activités	Ancienne teinturerie (installation classée soumise à déclaration) ayant cessé ses activités en 1990.		
+2000	07			2000	07			Un_contrat_de_vente	Un contrat de vente avec MORGAN a été signé en juillet 2000.		'MORGAN'

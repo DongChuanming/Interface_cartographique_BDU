@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_déjà_procédé	La CUD a déjà procédé à la vidange d'un plan d'eau pollué, à l'enlèvement de terres polluées et la mise en place de drains (juin - décembre 2007).		'La CUD'
+2007	12			2007	12			a_déjà_procédé	La CUD a déjà procédé à la vidange d'un plan d'eau pollué, à l'enlèvement de terres polluées et la mise en place de drains (juin - décembre 2007).		'La CUD'
+1999	06	14		1999	06	14		est_fermé	Le site est fermé depuis le 14 juin 1999.		

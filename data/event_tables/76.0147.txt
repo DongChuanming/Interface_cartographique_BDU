@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03			2013	03			informe	En mars 2013, la société TCAR informe l'inspection d'une nouvelle pollution de sols sur le site.		'la société TCAR'
+2013	03			2013	03			a_été_implanté	Suite à l'incident survenu en mars 2013, un nouveau piézomètre (PZF) a été implanté dans l'axe de fuite potentielle de la pollution vers la Clairette afin de permettre le déclenchement d'une action pertinente, si nécessaire.		'PZF', 'Clairette'
+2014	06			2014	06			la_campagne_de	Résultats de la campagne de juin 2014 :		
+2014	09			2014	09			la_campagne_de	Résultats de la campagne de septembre 2014 :		
+				2014	12			est_programmé	Le suivi global des eaux souterraines du site est programmé pour durer jusqu'en décembre 2014 et se compose des éléments suivants :		
+2013	12			2013	12			la_campagne_de	Résultats de la campagne de décembre 2013 :		
+2013	07			2013	07			la_campagne_de	Résultats de la campagne de juillet 2013 :		
+2013	03			2013	03			l__incident	- L'absence d'impact significatif sur la qualité des eaux souterraines suite à l'incident de mars 2013 (endommagement d'un réseau d'eaux de nettoyage et d'égouttures de carburants) ;	'carburants'	
+2013	07	08		2013	07	08		Trois_campagnes_de_surveillance	Trois campagnes de surveillance, successives, ont été menées le 8 juillet 2013, le 27 août 2013 et le 27 septembre 2013 sur les piézomètres PZB, PZC et PZF.		
+2014	03			2014	03			la_campagne	Résultats de la campagne de mars 2014 :		
+								réalimenté	Depuis janvier 2013, les mesures semblent s'équilibrer autour de 45 cm ; entre le 5 juin et le 1 juillet, l'ouvrage ne s'est pas réalimenté, seul un film a été mesuré lors du 1er juillet.		
+2014				2014				la_campagne_du	Les conclusions de la campagne du  troisième trimestre 2014 sont les suivantes :		
+2014	07	1		2014	07	1		s__est_très_peu_réalimenté	Depuis le 1er juillet 2014, l'ouvrage s'est très peu réalimenté (9 cm en 2 mois) laissant penser un tarissement de la source ;		
+2013	05			2013	05			une_nouvelle_campagne_de_surveillance	Au travers d'une nouvelle campagne de surveillance des eaux souterraines (mai 2013), la concentration en HCT dans PZA est nettement inférieure (0,276 mg/l) et la concentration en Xylènes reste du même ordre (2 µg/l) mais inférieure à la valeur guide définie par l'OMS.	'HCT', 'Xylènes'	'PZA'
+2013	08	27		2013	08	27		Trois_campagnes_de_surveillance	Trois campagnes de surveillance, successives, ont été menées le 8 juillet 2013, le 27 août 2013 et le 27 septembre 2013 sur les piézomètres PZB, PZC et PZF.		
+2003				2003				a_été_mise_en_place	Début 2003, devant la persistance d'irisations visibles dans le bac collecteur sur la rive de la Clairette une surveillance de la nappe souterraine a été mise en place (arrété préfectoral du 21 août 2002).		
+2001	05	14		2001	05	14		la_découverte	Réalisation d'une étude diagnostic d'une pollution aux hydrocarbures, suite à la découverte le 14 mai 2001 d'une émergence de gasoil à proximité de la "Clairette".	'hydrocarbures', 'gasoil'	

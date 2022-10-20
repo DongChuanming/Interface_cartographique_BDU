@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01	21		1997	01	21		a_été_imposé	Dans le cadre de la reprise des activités, il a été imposé à l’exploitant par arrêté préfectoral complémentaire du 21 janvier 1997, des prescriptions relatives :		
+2016	03	25		2016	03	25		La_visite_d__inspection	La visite d'inspection du 25 mars 2016  a permis de constater :		
+1985	09	26		1985	09	26		__dépôt_d__oxygène_liquide	• 26 septembre 1985 : dépôt d'oxygène liquide de 50 m3		
+1976	10	19		1976	10	19		dépôt_de_polystyrène_expansé	• 19 octobre 1976 : dépôt de polystyrène expansé	'polystyrène'	
+1996				1996				a_été_reprise_par_cession_totale	Elle a été reprise par cession totale de l'entreprise par la société SICOVER INDUSTRIES en 1996.		'la société SICOVER INDUSTRIES'
+1852				1852				créé	Le site, créé en 1852, a exercé une activité de production de verre.		
+1996	11	19		1996	11	19		a_informé	Par courrier du 19 novembre 1996, l’exploitant a informé le Préfet du changement d’exploitant et des activités conservées.		'le Préfet'
+1991	04	08		1991	04	08		une_déclaration_d__arrêt	Le four autorisé par l'arrêté préfectoral de 1986 a fait l'objet d'une déclaration d'arrêt le 8 avril 1991.		
+2016	03	25		2016	03	25		La_visite_d__inspection	La visite d'inspection du 25 mars 2016 a acté la mise en sécurité du site.		
+2016	12	20		2016	12	20		demande_formulée	Compte tenu de la présence de pollutions résiduelles sur le site, une procédure d'instauration de servitudes d'utilité publiques est en cours (demande formulée le 20 décembre 2016) sur ces terrains et concerne les restrictions d’usage suivantes :		
+2016	12	20		2016	12	20		Les_éléments_de_récolement	Les éléments de récolement des travaux menés ont été transmis par courrier en date du 20 décembre 2016.		
+2013	03	15		2013	03	15		l__arrêt_des_activités	Par courrier du 15 mars 2013, Maître MIQUEL a notifié au Préfet l'arrêt des activités.		'Maître MIQUEL'
+1995				1995				a_été_placée_en_redressement_judiciaire	La société SICOVER a été placée en redressement judiciaire en 1995.		'La société SICOVER'

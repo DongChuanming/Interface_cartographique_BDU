@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	07	17		2014	07	17		la_visite	Comme suite à la visite d’inspection du 17/07/2014, le rapport de l’Inspection en date du 25/09/2014 apporte les principales conclusions suivantes :		
+2006	05	22		2006	05	22		Réalisation_d__un_diagnostic_environnemental	- Réalisation d'un diagnostic environnemental étape A: étude historique et documentaire, le 22/05/2006.		
+				2009				Évacuation	- Évacuation des cendres par valorisation en BTP progressive jusqu'en 2009.		
+2008	10	17		2008	10	17		Réalisation_d__un_diagnostic_de_qualité_environnemental	- Réalisation d'un diagnostic de qualité environnemental des sols et des eaux souterraines le 17/10/2008.		
+2010				2010				traitement_par	- Travaux: en 2010, traitement par biopile des terres polluées issues des excavations, sur la parcelle d'emprise de l'ancien stockage de cendre.		
+2010				2010				Travaux	- Travaux: en 2010, traitement par biopile des terres polluées issues des excavations, sur la parcelle d'emprise de l'ancien stockage de cendre.		
+2010	03	16		2010	03	16		Réalisation_d__une_étude_hydrogéologique	- Réalisation d'une étude hydrogéologique le 16/03/2010.		
+2009	06	08		2009	06	08		Travaux__	- Travaux: le 8 juin 2009 sur la parcelle n°7282: excavation terres polluées, dépollution de la nappe par pompage avec mise en place de boudins d'absorption des hydrocarbures résiduels, remblaiement et mise en place d'une couche de terre végétale.	'hydrocarbures'	
+1991				1991				la_fermeture	A la fermeture du site en 1991, les plusieurs centaines de milliers de tonnes de cendres restantes ont fait l'objet d'une étude de sol pour recenser une éventuelle pollution du site.		
+2005	04			2005	04			mise_en_place	- Surveillance mise en place en avril 2005 par 6 piézomètres.		
+2009	09	04		2009	09	04		Réalisation_d__investigations	- Réalisation d'investigations complémentaires sur les eaux souterraines et sur les gazs du sol, le 04/09/2009.		
+2009	07			2009	07			Fin_d__évacuation_du_stock_de_cendres	- Fin d'évacuation du stock de cendres en juillet 2009.		
+2009	04	08		2009	04	08		Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic de l'état des sols, le 08/04/2009.		
+								l__évacuation	- Arrêté préfectoral du 12/04/2007 imposant des prescriptions complémentaires pour la remise en état du site, notamment l'évacuation des cendres du site sous 5 ans.		

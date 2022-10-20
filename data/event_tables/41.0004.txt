@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	10			1996	10			a_mis_en_évidence	En octobre 1996, une étude d'impact sur la santé et l'environnement a mis en évidence l'absence de risque sur la santé et les eaux souterraines captées pour le captage AEP en aval du site.		
+1997	10			1997	10			Une_analyse	Une analyse, réalisée en octobre 1997, a montré que les hydrocarbures présents ne sont pas lixiviables.	'hydrocarbures'	
+1995				1995				l__arrêt_de_la_production	Suite à l'arrêt de la production en 1995, tous les bâtiments ont été vidés et tous les produits et déchets liquides ont été éliminés en centre de traitement agréé.		
+2003				2003				inscription_au_Plan_Local_d__Urbanisme	Les terrains libérés par la cessation d'activité ne peuvent être affectés qu'à un usage strictement industriel (inscription au Plan Local d'Urbanisme en 2003).		
+1996	02			1996	02			a_demandé_la_réalisation_d__un_diagnostic	En février 1996, la société Akcros a demandé la réalisation d'un diagnostic de l'état de pollution du site.		'la société Akcros'
+1998	06			1998	06			a_été_arrêtée	La surveillance des eaux souterraines a été arrêtée en juin 1998 car une surveillance du site assurée pendant trois ans après la fermeture a mis en évidence la diminution marquée de l'impact sur la nappe, rendant le site banalisable.		
+1995	12	31		1995	12	31		a_été_arrêtée	La production y a été arrêtée le 31 décembre 1995.		
+1995				1995				ont_été_vidés	Suite à l'arrêt de la production en 1995, tous les bâtiments ont été vidés et tous les produits et déchets liquides ont été éliminés en centre de traitement agréé.		
+1996				1998	06			Le_suivi_effectué	Le suivi effectué entre 1996 et juin 1998 sur les sols a montré que la pollution sur la zone contaminée par des hydrocarbures ne se déplace quasiment pas.	'hydrocarbures'	

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984				1990				aurait_été_exploitée	La décharge aurait été exploitée durant 6 ans, de 1984 à 1990 et n’aurait reçu que des matériaux inertes avec localement des ordures ménagères et des cadavres d’animaux.	'des ordures ménagères'	
+2006	04			2006	04			l__étude_réalisée	Par transmission du 02/04/2008, le SEMOCTOM a fait parvenir à la Préfecture l’étude réalisée en Avril 2006 par la société ANTEA.		'le SEMOCTOM', 'société ANTEA'
+								aurait_été_exploitée	La décharge aurait été exploitée durant 6 ans, de 1984 à 1990 et n’aurait reçu que des matériaux inertes avec localement des ordures ménagères et des cadavres d’animaux.	'des ordures ménagères'	
+2008	04	02		2008	04	02		l__étude_réalisée	Par transmission du 02/04/2008, le SEMOCTOM a fait parvenir à la Préfecture l’étude réalisée en Avril 2006 par la société ANTEA.		'le SEMOCTOM', 'société ANTEA'

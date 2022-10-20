@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	04		2008	01	04		De_nouveaux_pompages	De nouveaux pompages et nettoyages du puits ont été réalisés en date du 31/12/2007 et 04/01/2008.		
+1974	09	11		1974	09	11		L__installation_est_soumise_à_déclaration	L’installation est soumise à déclaration depuis 1974 (récépissé du 11/09/1974).		
+2006	11	16		2006	11	16		a_cessé_son_activité	La station service gérée par la SARL OGER Père et fils a cessé son activité sur le site depuis le 16 novembre 2006.		'la SARL OGER Père'
+1974				1974				L__installation_est_soumise_à_déclaration	L’installation est soumise à déclaration depuis 1974 (récépissé du 11/09/1974).		
+2015	07	13		2015	07	13		Un_courrier	Un courrier en date du 13/07/2015 de la part de l’avocat représentant la SARL OGER indique que des travaux de comblement du puits pollué ont été réalisés par l’entreprise Sanitra Fourrier.		'la SARL OGER', 'entreprise Sanitra Fourrier'
+2006	11	09		2006	11	09		a_été_pris	L'arrêté municipal d'interdiction d'utiliser l'eau pour un usage sensible a été pris en date du 09/11/2006.		
+2010	04	06		2010	04	06		Une_nouvelle_mesure	Une nouvelle mesure des eaux du puits a été réalisée en date du 06/04/2010.		
+								débute_l__exploitation	L’entreprise familiale OGER Père et fils (SARL), débute l’exploitation de la station service dans les années 60.		'familiale OGER Père'
+2011	02	28		2011	02	28		une_mesure_a_été_réalisée	En sortie de filtre, une mesure a été réalisée en date du 28/02/2011 ; la teneur est de 60µg/L.		
+1963				1963				cuve_enfouie	- une cuve enfouie de 3 m³ gas-oil (datant de 1963)	'gas - oil'	
+2006	10	16		2006	10	16		ont_été_réalisées	*Des mesures ont été réalisées sur l'eau du puits (prélèvement effectué le 16/10/2006).		
+1974	09	11		1974	09	11		récépissé	L’installation est soumise à déclaration depuis 1974 (récépissé du 11/09/1974).		
+2007	12	31		2007	12	31		De_nouveaux_pompages	De nouveaux pompages et nettoyages du puits ont été réalisés en date du 31/12/2007 et 04/01/2008.		
+2007	06			2007	06			ont_été_indemnisés	Les frais ont été indemnisés ultérieurement (juin 2007) par l’exploitant selon les éléments transmis par son avocat par courrier du 25/02/2008.		
+2006	11	17		2006	11	17		aux_pompages	Des factures relatives aux pompages du puits pollué effectués le 17/11/2006, le 04/12/2006, le 02/03/2007 et le 25/06/2007 et les bordereaux de suivi de déchets d'hydrocarbures en date du 15/11/2006 et du 04/12/2006 ont été également transmis .	"déchets d'", 'hydrocarbures'	
+2006	11	15		2006	11	15		au_nettoyage	L’exploitant a transmis par courrier du 24/07/2007, les factures relatives au nettoyage, dégazage et neutralisation des trois cuves réalisés en date du 15/11/2006 par Sanitra Fourrier.		'Sanitra Fourrier'
+2006	11	07		2006	11	07		Un_courrier	*Un courrier en date du 07/11/2006 a été transmis par l'ARS pour informer le maire de la commune et lui proposer d'interdire l'utilisation de l'eau de la nappe.		
+2008	01	10		2008	01	10		Des_analyses_effectuées	Des analyses effectuées en date du 10/01/2008 dans 3 puits à proximité montrent une teneur inférieure à 50µg/L dans l’ensemble des puits à l’exception de celui pollué : teneur de 3900µg/L.		
+2009	09	24		2009	09	24		un_traitement_par_charbon_actif	L’exploitant a mis en place le 24/09/2009 un traitement par charbon actif des eaux du puits.	'charbon actif'	
+2006	10	16		2006	10	16		prélèvement_effectué	*Des mesures ont été réalisées sur l'eau du puits (prélèvement effectué le 16/10/2006).		
+2006	11	09		2006	11	09		Une_visite	* Une visite d’inspection des Installations Classées en date du 9 novembre 2006 de la station service a conduit à proposer un arrêté de mesures d'urgences portant notamment sur la réalisation de contrôles d’étanchéité des installations et d'investigations sur l’état des sous-sols (sols et eaux souterraines).		
+2006	11	16		2006	11	16		la_cessation_d__activités	Par courrier reçu le 22/11/2006, la société a notifié la cessation d’activités de sa station service à partir du 16/11/2006.		'la société'

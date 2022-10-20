@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			a_interdit	Sur proposition du Préfet, le maire d'Avermes a interdit l'usage des eaux souterraines au droit de l'habitation, par arrêté municipal en avril 2014.		'Préfet'
+1963				1963				s__installe	En 1963, la société Emile CHAUVAT s'installe sur le site, elle devient en 1980, JPM, et en 1997, filiale du groupe suédois ASSA  ABLOY.		'la société Emile CHAUVAT', 'JPM', 'groupe suédois ASSA   ABLOY'
+1997				1997				filiale	En 1963, la société Emile CHAUVAT s'installe sur le site, elle devient en 1980, JPM, et en 1997, filiale du groupe suédois ASSA  ABLOY.		'la société Emile CHAUVAT', 'JPM', 'groupe suédois ASSA   ABLOY'
+2013	12			2013	12			analyses_remis	Les rapports et analyses remis en décembre 2013, puis en mars 2014, ont mis en évidence que les eaux souterraines en aval étaient marqués par des solvants chlorés (trichloréthylène, tétrachloréthylène).	'chlorés', 'trichloréthylène', 'tétrachloréthylène'	
+1980				1980				s__installe	En 1963, la société Emile CHAUVAT s'installe sur le site, elle devient en 1980, JPM, et en 1997, filiale du groupe suédois ASSA  ABLOY.		'la société Emile CHAUVAT', 'JPM', 'groupe suédois ASSA   ABLOY'
+2013				2013				a_fermé	Suite à une décision de son groupe ASSA ABLOY, l'usine a fermé en 2013.		'ASSA ABLOY'
+				2014	05	26		De_nouvelles_mesures_effectuées	De nouvelles mesures effectuées du 19 au 26 mai 2014 ont confirmé les premières valeurs: 8µg/m3 pour le TCE et 1991µg/m3 pour le PCE (1435µg/m3 dans la chambre des enfants).	'TCE', 'PCE'	
+2014	06	16		2014	06	16		a_été_mise_en_service	Cette installation a été mise en service le 16 juin 2014.		
+								remis_en	Un nouveau rapport, remis en mai par JPM, a confirmé que les eaux du puits et du bassin étaient polluées.		'JPM'

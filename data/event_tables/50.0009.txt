@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	09			2002	09			une_évaluation	Suite à l'incendie de septembre 2002, un arrêté de mesures d'urgence du 11 octobre 2002 a notamment imposé une évaluation de la pollution de la dalle béton et des sols et un renforcement de la surveillance des eaux souterraines.		
+2003	07			2003	07			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés d'avril à juillet 2003.		
+2002	09			2002	09			l__incendie_de	Suite à l'incendie de septembre 2002, un arrêté de mesures d'urgence du 11 octobre 2002 a notamment imposé une évaluation de la pollution de la dalle béton et des sols et un renforcement de la surveillance des eaux souterraines.		
+2001	04			2001	04			a_été_transmise	Cette dernière étude a été transmise fin avril 2001 et a conduit à la réalisation de 3 piézomètres supplémentaires (en plus des 3 piézomètres et du puits déjà présents sur le site).		
+2002	04			2002	04			a_été_signalée	Indépendamment, une pollution par du trichloroéthylène a été signalée à l'inspection des installations classées, en avril 2002, sur les puits et les piézomètres précités.	'du trichloroéthylène'	
+2002				2002				un_pompage	Depuis fin 2002, en raison de la présence en aval d'un captage d'alimentation en eau potable, un pompage des eaux souterraines est effectué.		
+								Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés d'avril à juillet 2003.		
+1974				1974				Créée	Créée en 1974, installation spécialisée dans les traitements de surface à façon et plus particulièrement les dépôts de zinc allié pour le secteur automobile.	'zinc'	
+2002	11			2002	11			La_campagne_de_prélèvements_des_sols	La campagne de prélèvements des sols a eu lieu début novembre 2002.		
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'

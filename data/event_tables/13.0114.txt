@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				L__activité	L'activité de la raffinerie ESSO débute en 1965 sur une ancienne zone marécageuse.		'la raffinerie ESSO'
+2006	09			2006	09			Des_mesures	Des mesures sur les sols en périphérie du site industriel ont été entreprises dans le cadre de l'action plomb, engagée au plan national (Septembre 2006).	'plomb'	
+2010	10	18		2010	10	18		est_autorisé	L'établissement est autorisé par AP du 27/12/93, 19/10/2004, 24/06/2005, 18/10/2010.		
+2000	04			2000	04			ont_classé	L'ESR et le diagnostic initial prescris par AP du 16/06/99 ont classé le site en catégorie 2 pour l'ensemble des milieux : eau superficielle, eau souterraine, air, sol (Avril 2000).		
+2007	10	25		2007	10	25		est_renversé	Le 25/10/2007, un wagon contenant une citerne de gasoil s'est renversé suite a une collision avec un train, le contenu de la citerne s'est renversé sur le site.	'gasoil'	
+2004				2008				Des_diagnostics	Des diagnostics réalisés chaque années de 2004 à 2008 sur le milieu de rejet montrent (campagne de 2008) que dans les sédiments, des teneurs élevées sont retrouvées pour les hydrocarbures totaux et HAP.	'hydrocarbures totaux', 'HAP'	
+								par_AP	L'ESR et le diagnostic initial prescris par AP du 16/06/99 ont classé le site en catégorie 2 pour l'ensemble des milieux : eau superficielle, eau souterraine, air, sol (Avril 2000).		
+2004	10	19		2004	10	19		est_autorisé	L'établissement est autorisé par AP du 27/12/93, 19/10/2004, 24/06/2005, 18/10/2010.		
+								est_autorisé	L'établissement est autorisé par AP du 27/12/93, 19/10/2004, 24/06/2005, 18/10/2010.		
+2005	06	24		2005	06	24		est_autorisé	L'établissement est autorisé par AP du 27/12/93, 19/10/2004, 24/06/2005, 18/10/2010.		
+2006	11	14		2006	11	14		Un_incendie_s__est_déclaré	Un incendie s'est déclaré sur le site le 14/11/2006 qui n'a eu aucun effet hors site, cependant, les conséquences sont lourdes pour l'exploitant qui a du réaliser des améliorations sur le réseau « Slop ».		
+2008				2008				campagne	Des diagnostics réalisés chaque années de 2004 à 2008 sur le milieu de rejet montrent (campagne de 2008) que dans les sédiments, des teneurs élevées sont retrouvées pour les hydrocarbures totaux et HAP.	'hydrocarbures totaux', 'HAP'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			révélées	- Dans le cadre de la cessation d'activité de l'unité de phosphatation du site Acument, des investigations ont été réalisées sur les sols en juin 2008, lesquelles ont révélées la présence d'une pollution de sol en hydrocarbures, arsenic et manganèse.	'hydrocarbures', 'arsenic', 'manganèse'	
+1949				1949				spécialisé	- Site spécialisé dans la fabrication de visserie et de boulonnerie depuis 1949.		
+2008	06			2008	06			des_investigations_ont_été_réalisées	- Dans le cadre de la cessation d'activité de l'unité de phosphatation du site Acument, des investigations ont été réalisées sur les sols en juin 2008, lesquelles ont révélées la présence d'une pollution de sol en hydrocarbures, arsenic et manganèse.	'hydrocarbures', 'arsenic', 'manganèse'	

@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05			2008	05			la_campagne___de_suivi_et_de_contrôle	Le cabinet d’étude a présenté les conclusions de la campagne  de suivi et de contrôle des teneurs en nickel dans les sols et végétaux réalisée en mai 2008.	'en nickel'	
+1999	04			1999	04			plan	Il apparaît que les concentrations de nickel dans le sol sont du même ordre de grandeur que les résultats des campagnes de 2007 et 1999 (campagne réalisée dans le cadre du plan d'épandage SETE d'avril 1999).		'SETE'
+2005				2005				est_mis_en_place	Dès 2005, un accord amiable entre l’exploitant et les riverains est mis en place (indemnisation avec paiement de facture d'eau annuelle)		
+2004	06			2004	06			il_est_procédé	En juin 2004, il est procédé à l’excavation et l’évacuation de 675 tonnes de bougies (ancien étang remblayé par des bougies et remblais divers) sur l’actuelle zone de déchets.		
+2004	05			2004	05			Cette_étude_remise	Cette étude remise en mai 2004, aboutissait à un classement en 1 (site nécessitant des investigations profondes) et recommandait de ne plus occuper l'habitation et de dépolluer la zone où avait été utilisé les machines de dégraissage au trichloréthylène.	'trichloréthylène'	
+2007				2007				ont_alors_été_pris	Deux arrêtés ont alors été pris le 22 juillet 2007 :		
+2004	03			2004	03			une_excavation	Cette zone a fait l’objet d’une excavation des terres contaminées en TCE (80 m3 ) en mars 2004 et l’exploitant a procédé à la notification d’expulsion des locataires de la maison en s’engageant a ne plus louer cette dernière.		
+2007	10	1		2007	10	1		un_avis	Risques sanitaires : L'AFSSA, consultée, a rendu un avis le 1er octobre 2007.	'AFSSA'	
+2007	07			2007	07			une_cartographie	A la demande et sous la contrôle des services de l'Etat, l’exploitant a réalisé, en juillet 2007, dans un rayon de 500 mètre autour de son établissement, une cartographie des zones susceptibles d'avoir été impactées, des prélèvement d'eau (19), de sols (65) et de végétaux (148), ainsi qu'une modélisation des rejets accidentels et une évaluation des risques sanitaires par inhalation lors de l'incident.		
+								est_réalisé	De juin à septembre 04, un traitement par venting des terres contaminées en TCE est réalisé pendant 4 mois sur un tertre in situ (diminution des concentrations de 400 mg/kg à 0,8 mg/kg).	'TCE'	
+2007	06			2007	06			survenue_au_moins_de	Historique : la pollution au nickel survenue au moins de juin 2007 est due à un dysfonctionnement du ventilateur d'extraction des gaz issus des bains de traitement de surface.	'au nickel'	
+2002	05			2002	05			Etude___diagnostic	Etude/diagnostic de mai 2002 : les investigations menées sur le site de l'usine et à l'aval de celui-ci montrent :		
+2008	02			2008	02			injection	- injection d'oxydant* (permanganate) in-situ dans la zone source entre février 2008 et  décembre 2010.	"injection d' oxydant *", 'permanganate'	
+								ont_alors_été_pris	Deux arrêtés ont alors été pris le 22 juillet 2007 :		
+2010	12			2010	12			injection	- injection d'oxydant* (permanganate) in-situ dans la zone source entre février 2008 et  décembre 2010.	"injection d' oxydant *", 'permanganate'	
+2007	06			2007	06			Accident_de	Accident de juin 2007		
+1999				1999				campagnes	Il apparaît que les concentrations de nickel dans le sol sont du même ordre de grandeur que les résultats des campagnes de 2007 et 1999 (campagne réalisée dans le cadre du plan d'épandage SETE d'avril 1999).		'SETE'
+2007				2007				campagnes	Il apparaît que les concentrations de nickel dans le sol sont du même ordre de grandeur que les résultats des campagnes de 2007 et 1999 (campagne réalisée dans le cadre du plan d'épandage SETE d'avril 1999).		'SETE'
+2003	08	1		2003	08	1		a_repris	La société BERU TDA a repris les activités de la société Johnson Controls Automotive Electronics le 1er août 2003 ; cette dernière avait succédé à la société SAGEM à Chazelles sur Lyon.		'La société BERU TDA', 'la société Johnson Controls Automotive Electronics', 'à la société SAGEM'
+2004	05			2004	05			est_inhabitée	La maison d'habitation située à proximité et qui était occupée par un salarié de l'entreprise est inhabitée depuis mai 2004 (procédure d’expulsion).		

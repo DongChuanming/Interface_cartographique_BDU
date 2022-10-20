@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	09			1998	09			Remise_d__un_mémoire	Remise d'un mémoire de cessation d'activité en date de septembre 1998.		
+1989	07	07		1989	07	07		avait_été_prescrit	Un premier plan de suivi de la qualité des eaux souterraines avait été prescrit par arrêté préfectoral du 7 juillet 1989.		
+								créée	Centrale thermique, créée au début des années 1960, fonctionnant au charbon et au gaz de 1971 à 1978.		
+1998	05	04		1998	05	04		La_cessation_définitive_d__activité	La cessation définitive d'activité date du 4 mai 1998.		
+2005	06	1		2005	06	1		Vente	Vente de la quasi totalité du site à la CAMVS, le 1er juin 2005.		'la'

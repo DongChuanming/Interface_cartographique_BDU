@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	29		2008	01	29		Transmise	Transmise le 29 janvier 2008, elle démontre que les risques liés à la pollution résiduelles sont acceptables pour un usage du site de logements avec jardins et deux niveaux de sous-sol.		
+				2007	10	03		Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés entre le 16 juillet et le 3 octobre 2007.		
+2005				2005				un_diagnostic	En 2005, l'exploitant a fait réaliser un diagnostic du site.		
+2007	04			2007	04			évaluation_détaillée_des_risques	En avril 2007, il transmet une évaluation détaillée des risques portant sur le milieu "eaux".		
+2008	12	09		2008	12	09		a_été_imposé	Par arrêté préfectoral du 9 décembre 2008, il a été imposé à l'exploitant le suivi de la qualité des eaux souterraines au droit du site.		
+2004	01	31		2004	01	31		a_arrêté	La société Mayssonnier a arrêté ses activités le 31 janvier 2004, les différents bains de traitement ont été enlevés en octobre 2004.		'La société Mayssonnier'
+2004	10			2004	10			a_arrêté	La société Mayssonnier a arrêté ses activités le 31 janvier 2004, les différents bains de traitement ont été enlevés en octobre 2004.		'La société Mayssonnier'
+								accueillait	Le site accueillait un atelier de traitement de surface (traitement de pièces métalliques dans des bains) depuis les années 1960.		
+2013	10	21		2013	10	21		a_transmis	L'exploitant a transmis le bilan quadriennal 2009-2013 de la surveillance des eaux souterraines au droit du site par courrier daté du 21/10/2013.		
+2014	08			2014	08			arrêter_le	L'exploitant a été autorisé à arrêter le suivi des eaux souterraines en août 2014.		

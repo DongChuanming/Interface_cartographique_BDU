@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	06			1993	06			__nettoyage	- en juin 1993 : nettoyage et extraction d'une ancienne cuve à goudron, sous la conduite de la société SERPOL ;	'goudron'	'la société SERPOL'
+				1995	03	14		Les_travaux_de_décontamination	Les travaux de décontamination ont été réalisés du 27 février au 14 mars 1995.		
+								ont_été_démantelées	Les installations de l'usine ont été démantelées dans les années 60, après l'arrêt de la production de l'usine et la réhabilitation du site a eu lieu en 1995.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+				1985				a_servi_de	Par la suite, le site a servi de stockage de gaz propane jusqu’en 1985.		
+1994	03			1994	03			__rédaction_d_	- en mars 1994 : rédaction d'un rapport par la société GEOCLEAN, comportant une étude historique des activités du site ainsi qu'une étude documentaire géologique et hydrogéologique ;		'la société GEOCLEAN'
+1994	10			1994	10			__rédaction	- en octobre 1994 : rédaction d'un rapport final d'étude par la société GEOCLEAN, consécutif aux investigations de terrain réalisées.		'la société GEOCLEAN'
+1993	05			1993	05			remblayée	Les investigations ont permis de mettre en évidence la présence de cinq puits perdus, de canalisations, de fosses d'épurateurs, d'une cuve enterrée au niveau du boulodrome et d'une fosse à goudron (vidée, nettoyée et non remblayée en mai 1993).		
+1995				1995				la_réhabilitation_du_site	Les installations de l'usine ont été démantelées dans les années 60, après l'arrêt de la production de l'usine et la réhabilitation du site a eu lieu en 1995.		

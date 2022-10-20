@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	22		1999	07	22		a_Pris_possession	Cette dernière a Pris possession de la SA DECROIX STFA le 22 juillet 1999, et y a exercé les mêmes activités.		'la SA DECROIX STFA'
+2011	05	11		2011	05	11		un_mémoire	Suite à la liquidation judiciaire de la société Tissage de Gravigny, cette société, représentée par un liquidateur judiciaire, a déposé le 11 mai 2011 un mémoire concernant les actions engagées en application du code de l’environnement.		'la société Tissage'
+1959	10			1959	10			l__exploitation	Ce site, d'une surface de 3220 m2 environ dont 1780 m2 bâti, a accueilli l'exploitation d'un tissage d'octobre 1959 à mai 2000.		
+2000	05			2000	05			l__exploitation	Ce site, d'une surface de 3220 m2 environ dont 1780 m2 bâti, a accueilli l'exploitation d'un tissage d'octobre 1959 à mai 2000.		

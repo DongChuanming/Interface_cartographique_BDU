@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1938				1938				était_exercée	Une activité de teinturerie de fil était exercée depuis 1938 à cet endroit.		
+2003	10	31		2003	10	31		La_cessation_d__activité	La cessation d'activité a été déclarée le 31 octobre 2003.		
+1938				1938				Une_activité_de_teinturerie_de_fil	Une activité de teinturerie de fil était exercée depuis 1938 à cet endroit.		

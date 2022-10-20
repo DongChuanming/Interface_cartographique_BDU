@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				la_campagne_de	L'inspection des installations classées a reçu les résultats de la surveillance de la qualité des eaux souterraines de la campagne de début 2011		
+2006				2006				la_campagne_de	L'inspection des installations classées a reçu les résultats d'analyses des eaux souterraines de la campagne de début 2006.		
+1999	02	12		1999	02	12		Un_diagnostic_initial_des_sols	Un diagnostic initial des sols et une évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 12/02/1999.		
+2006				2006				résultats_d__analyses	L'inspection des installations classées a reçu les résultats d'analyses des eaux souterraines de la campagne de début 2006.		
+1987	02	24		1987	02	24		autorisée_par	Teinturerie autorisée par arrêté préfectoral n° 87/677 en date du 24/02/1987 pour une capacité maximale de production de 12 t/j, complété par l'arrêté préfectoral du 26/05/10.		'Teinturerie'

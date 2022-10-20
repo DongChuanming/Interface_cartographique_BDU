@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1920				1920				activité_première	L'activité première, déclarée en 1920, était le dépôt d'os (rubrique 325) et de chiffons (rubrique 128).		
+2003				2003				n__a_pas_été_complétée	Elle n'a pas été complétée par l'exploitant, ce dernier a vendu les terrains à la Mairie d'Ivry-sur-Seine en 2003.		
+1999	12	16		1999	12	16		Une_déclaration_de_cessation_définitive_d__activité	Une déclaration de cessation définitive d'activité a été effectuée le 16 décembre 1999.		
+1986				1986				L__arrêt_des_activités_de	L’arrêt des activités de la société NUGIER a été constaté en 1986.		'la société NUGIER'
+2012	03	19		2012	03	19		a_émis	Par courrier du 19 mars 2012, la Préfecture a émis un avis favorable à la demande de permis de construire du groupe scolaire.		'la Préfecture'
+2017	05	19		2017	05	19		a_été_envoyé	En l'absence de réponse de la Mairie, un courrier de relance a été envoyé le 19 mai 2017 par la Préfecture.		'la Mairie', 'la Préfecture'
+2008	05	30		2008	05	30		Une_visite_d__inspection_a_été_effectuée	Une visite d'inspection a été effectuée le 30/05/2008, elle a permis de constater que le terrain était abandonné, (terrain en friche).		
+2011	08			2011	08			a_été_saisie	L'inspection des installations classées a été saisie, en août 2011, pour avis, sur une demande de permis de construire sur ces terrains.		
+1986				1986				L__arrêt_des_activités	L’arrêt des activités a été constaté en 1986.		

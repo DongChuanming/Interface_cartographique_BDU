@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	03			2018	03			une_nouvelle_campagne_d__investigation_réalisée	Ce rapport fait suite à une nouvelle campagne d’investigation réalisée en mars 2018 à partir du dispositif suivant :		
+1973	12	11		1973	12	11		déclaration_d__une_installation_classée	Elle bénéficiait, à ce titre d'un récépissé de déclaration d'une installation classée en date du 11 décembre 1973.		
+2018	03			2018	03			la_campagne_Envirosol	Les données retenues sont celles de la campagne Envirosol de mars 2018.		
+2004				2004				de_l__étude	– 17 sondages jusqu’à 4 mètres de profondeur afin de délimiter les impacts identifiés lors de l’étude de 2004,		
+2004				2004				__17_sondages	– 17 sondages jusqu’à 4 mètres de profondeur afin de délimiter les impacts identifiés lors de l’étude de 2004,		
+				2018	04	20		les_travaux_d__excavation	les travaux d’excavation des terres polluées ont été réalisés par l’entreprise SOTERLY entre le 16 et le 20 avril 2018.		'SOTERLY'
+								la_mise_en_place_d__une_surveillance	Elle recommande de vérifier l’impact des travaux de réhabilitation sur la qualité des eaux souterraines et la mise en place d’une surveillance pendant 4 ans sur un rythme semestriel, les composants à analyser étant les HCT, BTEX, COHV et HAP.	'les HCT', 'BTEX', 'COHV', 'HAP'	
+				2004				exploitait	La société Appia Leman Emulsions exploitait jusqu'en 2004, sur son site de Voglans, une unité de fabrication d'émulsions routières de bitume relevant du régime de la déclaration au titre des rubriques n° 206 (garage de véhicules), 6 (dépôt d'acétylène), 33 bis (compression d'air), 255 (stockage de carburant) de la nomenclature des installations classées.	'bitume', 'acétylène', 'carburant'	'La société Appia Leman Emulsions'
+2005	02	10		2005	02	10		Une_étude_de_sols	Une étude de sols, des eaux souterraines et une évaluation simplifiée des risques, réalisée par la société GAUTHEY sise 210 rue Aristide BERGES à La Ravoire, a été transmise à l’inspection des installations classées le 10 février 2005.		'la société GAUTHEY', 'Aristide BERGES'
+2014	03			2014	03			des_travaux_de_maintenance	en mars 2014: 4.1 mg/l en HCT sur Pz3, aucune anomalie n’ayant été constatée sur les autres paramètres et les autres piézomètres (des travaux de maintenance avaient, semble-t-il, été effectués en mars 2014 sur Pz3).		
+2005	02	10		2005	02	10		a_été_transmis	Le 10 février 2005, un dossier de cessation d'activité a été transmis à l'inspection des installations classées.		
+2004	03	02		2004	03	02		a_été_démantelée	En février mars 2004, l'usine a été démantelée.		

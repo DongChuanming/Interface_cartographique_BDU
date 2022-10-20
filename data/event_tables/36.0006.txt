@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			a_été_mise_à_jour	L'ESR a été mise à jour en juin 2002  et conclut toujours à un site en classe 2 c'est à dire à surveiller.		"L' ESR"
+2001	06			2001	06			a_fait_procéder	En juin 2001, la société a fait procéder à l'enlèvement de la citerne enterrée de fuel et des terres contaminées avoisinantes ainsi qu'au décapage et à l'élimination des sédiments pollués du fossé.	'de fuel'	
+2006	06			2006	06			ont_été_démantelés	En juin 2006, les 4 fours fonctionnant au fioul ont été démantelés et remplacés par deux fours à induction.	'fioul'	
+1998				1998				un_diagnostic_initial	A la demande de l'industriel, un diagnostic initial "sites et sols pollués" a été réalisé en 1998.		
+2004	10	26		2004	10	26		des_prélèvement_de_terre_ont_été_effectués	Le 26 octobre 2004, des prélèvement de terre ont été effectués afin d'analyser leur teneur en arsenic et  en plomb.	'arsenic', 'en plomb'	
+2000	10			2000	10			a_transmis	L'exploitant a transmis, en octobre 2000,  une première Évaluation Simplifiée des Risques (ESR) prescrite par l'arrêté préfectoral du 11 août 2000 .		
+1910				1910				l__exploitation_a_commencée	Le site dont l'exploitation a commencée en 1910, est implanté dans la plaine alluviale de "la Théols", au lieu-dit "la forge de Reblay" sur le territoire de la commune de Sainte-Lizaigne.		

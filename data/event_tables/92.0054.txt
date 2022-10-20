@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_mise_en	Fin 1998, des analyses contradictoires ayant été diligentées par le LCPP (Laboratoire Central de la Préfecture de Police), à la demande de l'inspection des installations classées, une pollution importante par métaux dans le sol a été mise en évidence.		'la Préfecture de Police'
+				2014				a_été_réalisée	La surveillance a été réalisée jusqu'en 2014.		
+2014	03	03		2014	03	03		obligation_de_surveillance	L'obligation de surveillance de la nappe été abrogée par l'arrêté du 03/03/2014.		
+1996				1996				Arrêt_des_activités	Arrêt des activités en 1996.		
+1998				1998				des_analyses	Fin 1998, des analyses contradictoires ayant été diligentées par le LCPP (Laboratoire Central de la Préfecture de Police), à la demande de l'inspection des installations classées, une pollution importante par métaux dans le sol a été mise en évidence.		'la Préfecture de Police'
+2003	08	04		2003	08	04		a_été_pris	Un arrêté prescrivant une surveillance piézomètrique deux fois par an a été pris le 04/08/2003.		
+2001	08	31		2001	08	31		la_réalisation_d__un_diagnostic_approfondi	L'administration n'a pas validé les résultats et a prescrit le 31/08/2001 la réalisation d'un diagnostic approfondi et la surveillance piézomètrique.		
+2000	11	06		2000	11	06		a_été_transmise	Une ESR (Étude Simplifiée des Risques) a été transmise le 06/11/2000, classant le site en classe 3 (banalisable).		
+1990	06	16		1990	06	16		a_demandé_l__arrêt_des_activités	L'arrêté d'autorisation de cet établissement ayant été annulé par décision du Tribunal Administratif (TA), en date du 16/06/1990, un arrêté préfectoral du 13/04/1995 a demandé l'arrêt des activités et la remise en état du site.		'Tribunal Administratif'
+1990	06	16		1990	06	16		L__arrêté_d__autorisation	L'arrêté d'autorisation de cet établissement ayant été annulé par décision du Tribunal Administratif (TA), en date du 16/06/1990, un arrêté préfectoral du 13/04/1995 a demandé l'arrêt des activités et la remise en état du site.		'Tribunal Administratif'

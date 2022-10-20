@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985	01	10		1985	01	10		a_été_signé	Un récépissé de déclaration de l'activité a été signé en date du 10 janvier 1985.		
+2002	09	11		2002	09	11		a_cessé_définitivement	L'activité a cessé définitivement en 2002 (récépissé de déclaration de cessation d'activité, en date du 11/09/2002).		
+2002				2002				a_cessé_définitivement	L'activité a cessé définitivement en 2002 (récépissé de déclaration de cessation d'activité, en date du 11/09/2002).		

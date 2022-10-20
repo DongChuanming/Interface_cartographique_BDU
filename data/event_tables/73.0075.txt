@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	25		2003	02	25		la_cessation	La société 2C a été mise en demeure de déclarer la cessation de certaines activités anciennement exercées dans ses locaux par arrêté préfectoral du 25 février 2003.		'La société 2C'
+1999	12	31		1999	12	31		est_devenue_propriétaire_d_	La société 2C CELLIER CHAUDRONNERIE, filiale du groupe ICBT, est devenue propriétaire d'une partie du site et a déclaré avoir repris l'ensemble des activités classées de Grésy sur Aix au 31/12/1999.		'La société 2C CELLIER CHAUDRONNERIE', 'groupe ICBT'
+2003	09	11		2003	09	11		a_été_transmise	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques a été transmise à l'administration le 11/09/2003.		

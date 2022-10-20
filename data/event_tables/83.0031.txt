@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Un_diagnostic_de_sol	Un diagnostic de sol a été réalisé d'urgence et a été édité le 11/12/01.		
+								a_été_édité	Un diagnostic de sol a été réalisé d'urgence et a été édité le 11/12/01.		
+2015	09			2015	09			de_la_dernière_campagne_de_mesure	Lors de la dernière campagne de mesure de septembre 2015, les observations terrain ont permis de constater l'absence d'indices caractéristiques de la présence d'hydrocarbures (irisations, couleur, odeur).	'hydrocarbures'	
+2016	09			2016	09			la_campagne	Cette teneur est néanmoins repassée sous le seuil fixé lors des prélèvements de la campagne de septembre 2016.		
+2001	12	13		2001	12	13		a_été_mis_en_place	Un procédé d'extraction triple phases a été mis en place (13/12/2001) avec 2 aiguilles de Venting et 17 aiguilles de traitement.		
+2008	12			2008	12			travaux_de_modernisation	Dans le cadre de travaux de modernisation de la station service en Décembre 2008, les ilots volucompteur et les tuyauteries d'alimentation ont été extraits, un nouveau séparateur d'hydrocarbures a été installé. 35,680 tonnes de terres polluées ont été envoyées en filière de traitement biologique hors site.	'hydrocarbures'	
+2001	11	09		2001	11	09		a_porté_plainte_contre_X	La commune a porté plainte contre X le 09/11/2001.		'La commune'
+2008	12			2008	12			ont_été_extraits	Dans le cadre de travaux de modernisation de la station service en Décembre 2008, les ilots volucompteur et les tuyauteries d'alimentation ont été extraits, un nouveau séparateur d'hydrocarbures a été installé. 35,680 tonnes de terres polluées ont été envoyées en filière de traitement biologique hors site.	'hydrocarbures'	
+2004				2004				43_campagnes_de	Depuis 2004, 43 campagnes de suivi de la qualité souterraine sur 8 ouvrages ont été réalisées.		
+2009	12			2009	12			ne_font	En Décembre 2009, 3 aiguilles de traitement ne font plus l'objet d'analyses du fait des teneurs très faibles en polluants relevées sur ces ouvrages.		
+2000	04	03		2000	04	03		de_déclaration	Un récépissé de déclaration en date du 03/04/2000 a été délivré à l'exploitant.		
+2016	03			2016	03			La_campagne	La campagne de mars 2016 a mis en évidence une teneur en benzène supérieure aux objectifs de 2001 au droit de AT9.	'benzène'	

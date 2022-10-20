@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10			2004	10			un_diagnostic_initial	En octobre 2004, un diagnostic initial est réalisé par SOCOTEC. 7 sondages sont réalisés.		'SOCOTEC'

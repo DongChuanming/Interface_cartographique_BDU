@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	20		2003	10	20		L__étude_remise	L'étude remise le 20/10/2003 classe le site en catégorie 2 (site à surveiller).		
+2010	11	04		2010	11	04		La_déclaration	La déclaration de changement d’exploitant a été faite par ONYX AQUITAINE au profit de RIC Environnement le 04/11/2010.		'ONYX AQUITAINE', 'RIC Environnement'
+								Les_deux_campagnes_d__analyses	Les deux campagnes d'analyses réalisées en 2009 (Mai et Décembre) montrent notamment un impact en métaux, PCB et hydrocarbures dans les eaux souterraines superficielles ainsi que dans les eaux de surface (notamment en aval hydraulique du site).	'métaux', 'PCB', 'hydrocarbures'	

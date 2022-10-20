@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2012				Des_opérations_de_dépollution	Des opérations de dépollution  par pompage,stripping,venting et traitement) ont été réalisées jusqu'à début 2012 permettant de récupérer et traiter l'essentiel du cyclohexane perdu.	'du cyclohexane'	
+2002	12			2002	12			se_sont_déversées	En décembre 2002 suite à la rupture d'une canalisation d'approvisionnement d'un atelier en cyclohexane environ 1000 tonnes de ce produit se sont déversées et ont contaminées les sols et les eaux souterraines au droit du site.	'cyclohexane', 'ce produit'	
+								avaient_mis_en_évidence	Des investigations réalisées dans les années 2000, avaient mis en évidence une source de pollution résiduelle sous un ancien atelier démantelé dont les sols avaient été décapés (présence de Bromoéthane).	'Bromoéthane'	
+								Des_investigations_réalisées	Des investigations réalisées dans les années 2000, avaient mis en évidence une source de pollution résiduelle sous un ancien atelier démantelé dont les sols avaient été décapés (présence de Bromoéthane).	'Bromoéthane'	
+2012	10	23		2012	10	23		La_dépollution	La dépollution et les mesures de suivies sont prescrites par arrêté préfectoral du 23 octobre 2012.		

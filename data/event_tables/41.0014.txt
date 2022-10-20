@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				Devient	Devient THALES AVIONICS en 2001.		'Devient THALES AVIONICS'
+1999	06	24		1999	06	24		a_été_prescrite	La surveillance de la qualité des eaux souterraines a été prescrite par arrêté préfectoral du 24 juin 1999.		
+1998				1998				de_travaux_de_démantèlement	Lors de travaux de démantèlement de l'atelier de traitement en 1998, une détérioration  de l'étanchéité de la fosse de rétention des effluents a été observée.	'de rétention des effluents'	
+1999				1999				a_été_investigué	L'état de pollution du sous-sol et des eaux souterraines au droit de son site a été investigué en 1999 (7 piézomètres et 8 sondages).		
+1998				1998				une_détérioration___de_l__étanchéité_de_la_fosse_de_rétention	Lors de travaux de démantèlement de l'atelier de traitement en 1998, une détérioration  de l'étanchéité de la fosse de rétention des effluents a été observée.	'de rétention des effluents'	
+1999				1999				réalisées	Résultats des études réalisées en 1999		
+1984				1984				ont_été_inertées	D'autre part, deux cuves à gazole enterrées, de 20.000 litres chacune, ont été inertées avec du sable en 1984 et laissées en place.	'gazole'	

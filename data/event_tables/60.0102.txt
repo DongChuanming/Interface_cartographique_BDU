@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				reprend	L'activité du site (identique à celle de GOUX) reprend en 2009 avec la création de la société DUO METAL.		'GOUX', 'la société DUO METAL'
+2007				2007				Ces_études	Ces études, réalisées en 2007 et complétées en 2009, mettent en évidence les éléments suivants :		
+1855				1969				était_occupé_par	De 1855 à 1969 le site était occupé par une sucrerie.		
+2007				2007				L__activité	L'activité de la société GOUX cesse en 2007 lors de la liquidation judiciaire de l'entreprise.		'la société GOUX'
+2009				2009				et_complétées	Ces études, réalisées en 2007 et complétées en 2009, mettent en évidence les éléments suivants :		
+1971				1971				installe	En 1971 la société GOUX installe une usine de nettoyage de fûts métalliques.		'la société GOUX'
+2008				2008				est_intervenue	L'ADEME est intervenue au titre de l'urgence impérieuse au premier semestre 2008.		

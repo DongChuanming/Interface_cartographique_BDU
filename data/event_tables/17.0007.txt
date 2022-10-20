@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_mise_en_liquidation_judiciaire	TRIAXE Industries a été mise en liquidation judiciaire en 1996, laissant sur place des déchets et des terres polluées autour de l'usine.		'TRIAXE Industries'
+2004	03	26		2004	03	26		La_mise_en_oeuvre	La mise en oeuvre de ces obligations a, de plus, été rappelée à la CDA par l'inspection, par courrier du 26 mars 2004.		
+2005	10			2006	10			Des_travaux_de_dépollution	Des travaux de dépollution ont eu lieu sur le site entre octobre 2005 et octobre 2006.		
+2003	05	23		2003	05	23		ont_été_imposées	Ces prescriptions ont été imposées à la collectivité par arrêté préfectoral du 23 mai 2003.		
+2010				2010				l__extension	En 2010, ont été constatées l'extension de la zone impactée par les PCB et l'augmentation des teneurs vers l'extérieur de l'ancienne emprise de l'aire de stockage.	'PCB'	
+				1991				exploités_successivement	Anciens établissements SIMCA, exploités successivement par Christler, Talbot et Peugeot jusqu'en 1991, puis la société TRIAXE Industries a repris, dans ces locaux, l'activité d'équipementier automobile (amortisseurs).		'SIMCA', 'Christler , Talbot', 'la société TRIAXE Industries'
+2006	10	31		2006	10	31		Une_visite	Une visite de l'inspection des installations classées en date du 31 octobre 2006 a permis de constater la réalisation des travaux.		
+2001	07			2001	07			Une_étude	Une étude sur la qualité des eaux souterraines a été réalisée en juillet 2001.		
+2005				2005				un_diagnostic_approfondi	En 2005, ont été réalisés par la CDA un diagnostic approfondi en matière d'étude de sols et une Etude Détaillée des Risques .		
+2009				2009				des_travaux_d_	En 2009 des travaux d'évacuation de terres polluées par des PCB, ainsi que le démantèlement de l'aire de stockage ont été effectué.	'des PCB'	

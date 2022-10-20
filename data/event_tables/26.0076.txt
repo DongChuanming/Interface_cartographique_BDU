@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03	14		2012	03	14		a_brûlé	Celui-ci a brûlé dans la nuit du 13 au 14 mars 2012.		
+2005				2005				devenue	Il est exploitée depuis 1976, tout d'abord par la SIC (société industrielle de chromage) devenue en 2005 TMD (traitement des métaux dauphinois).		'la SIC', 'TMD'
+2006				2006				avait_été_créé	Un nouvel atelier avait été créé en 2006.		
+2012	03	14		2012	03	14		une_étude_de_sols	Suite à l'incendie du 14 mars 2012, une étude de sols a été réalisée en 2 temps : tout d'abord les extérieurs, puis lorsque les risques d'effondrement des bâtiments ont été écartés par leur déconstruction partielle, un diagnostic sous dalle a été effectué.		
+1976				1976				est_exploitée	Il est exploitée depuis 1976, tout d'abord par la SIC (société industrielle de chromage) devenue en 2005 TMD (traitement des métaux dauphinois).		'la SIC', 'TMD'
+								a_brûlé	Celui-ci a brûlé dans la nuit du 13 au 14 mars 2012.		
+2012	03	14		2012	03	14		l__incendie	Suite à l'incendie du 14 mars 2012, une étude de sols a été réalisée en 2 temps : tout d'abord les extérieurs, puis lorsque les risques d'effondrement des bâtiments ont été écartés par leur déconstruction partielle, un diagnostic sous dalle a été effectué.		
+2012	03	14		2012	03	14		un_diagnostic_sous_dalle_a_été_effectué	Suite à l'incendie du 14 mars 2012, une étude de sols a été réalisée en 2 temps : tout d'abord les extérieurs, puis lorsque les risques d'effondrement des bâtiments ont été écartés par leur déconstruction partielle, un diagnostic sous dalle a été effectué.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				2001				ont_produit	La société ANTEA et le Laboratoire régional des Ponts et Chaussées de Strasbourg ont produit plusieurs rapports entre 1999 et 2001 : étude complémentaire de stabilisation, étude des contraintes environnementales et solutions de réhabilitation.		'La société ANTEA', 'le Laboratoire régional des Ponts et Chaussées de Strasbourg'
+2012				2012				a_été_mis_en_surveillance	Le terril a été mis en surveillance d'un point de vue géotechnique et environnemental fin 2012 sur demande de la DREAL Alsace.		'la DREAL Alsace'
+2012				2012				ont_été_rasés	Les batiments de l'ancien carreau ont été rasés en 2012.		
+1985				1985				Une_étude_de_stabilité	Une étude de stabilité a été menée dès 1985 par le BRGM (rapport BRGM 85 SGAL 061).		'le BRGM', 'BRGM'
+2012				2012				rasés	Il se trouve entouré de parcelles agricoles et des anciens batiments miniers (rasés en 2012).		

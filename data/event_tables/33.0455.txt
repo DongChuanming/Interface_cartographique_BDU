@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	01			2017	01			des_travaux_complémentaires_de_dépollution	Le Préfet de la Gironde, un rapport de suivi environnemental des travaux complémentaires de dépollution de janvier 2017, le rapport de surveillance semestrielle des eaux souterraines de mai 2017 et un dossier de demande de servitude d’utilité publique concernant l’ancienne station-service AS24, ZI Alfred Daney, Avenue Tourville sur la commune de Bordeaux.		'service AS24'
+				2014	07	21		ont_été_démantelées	Lors de travaux réalisés du 08 au 21 juillet 2014, toutes les installations pétrolières ont été démantelées à savoir :		
+2016	10			2016	10			procédant_à_deux_campagnes_annuelles_de_prélèvements_et_d__analyses	L’exploitant a répondu à l’article 6 en procédant à deux campagnes annuelles de prélèvements et d'analyses en février 2016, octobre 2016 et mai 2017 sur les piézomètres Pz1 et Pz3.		
+2016	02			2016	02			procédant_à_deux_campagnes_annuelles_de_prélèvements_et_d__analyses	L’exploitant a répondu à l’article 6 en procédant à deux campagnes annuelles de prélèvements et d'analyses en février 2016, octobre 2016 et mai 2017 sur les piézomètres Pz1 et Pz3.		
+2014				2014				a_cessé	La station-service a cessé son activité début 2014.		
+2015	10	13		2015	10	13		reçoit	Le 13/10/2015, l'inspection reçoit les propositions de mesures de gestion par l'exploitant.		
+2017	05			2017	05			procédant_à_deux_campagnes_annuelles_de_prélèvements_et_d__analyses	L’exploitant a répondu à l’article 6 en procédant à deux campagnes annuelles de prélèvements et d'analyses en février 2016, octobre 2016 et mai 2017 sur les piézomètres Pz1 et Pz3.		
+2014	06	17		2014	06	17		rapport	Dans le cadre de la cessation d'activité de la station service, INOVADIA a réalisé le diagnostic de l'état des milieux (rapport du 17/06/2014).		
+				2014	07	21		de_travaux_réalisés	Lors de travaux réalisés du 08 au 21 juillet 2014, toutes les installations pétrolières ont été démantelées à savoir :		
+2017	05	04		2017	05	04		La_dernière_campagne_de_surveillance	La dernière campagne de surveillance des eaux souterraines réalisé le 04 mai 2017 a permis de mettre en évidence :		
+2014	06	17		2014	06	17		le_diagnostic	Dans le cadre de la cessation d'activité de la station service, INOVADIA a réalisé le diagnostic de l'état des milieux (rapport du 17/06/2014).		

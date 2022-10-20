@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_écrit	Suite à la visite de février 2018, le préfet a écrit le 26/02/18		'le préfet'
+2013	06	12		2013	06	12		procède_à_une_visite	L’inspection des installations classées procède à une visite du site le 12 juin 2013 et constate alors que la mise en sécurité du site n’est pas effective.		
+2014	11	05		2014	11	05		ont_été_informés	Par courrier du 5 novembre 2014 et du 27 janvier 2017, les propriétaires des terrains ont été informés de la situation et de leur responsabilité du fait de la présence de déchets dangereux sur le terrain.	'la présence de déchets dangereux'	
+2017	01	27		2017	01	27		ont_été_informés	Par courrier du 5 novembre 2014 et du 27 janvier 2017, les propriétaires des terrains ont été informés de la situation et de leur responsabilité du fait de la présence de déchets dangereux sur le terrain.	'la présence de déchets dangereux'	
+2014	09	24		2014	09	24		a_pris	Sur proposition de l’inspection, le préfet a pris le 24 septembre 2014 un arrêté de consignation à l’encontre du mandataire représentant la société THOMET, pour la mise en sécurité du site.		'le préfet', 'la société THOMET'
+2018	01			2018	01			un_diagnostic	L’Inspection des installations classées a reçu en janvier 2018 un diagnostic (daté de décembre 2017) de l'état du sol au droit du site, qui a été réalisé par un tiers qui s'intéresse à l'achat du site.		
+2013	02	12		2013	02	12		la_transmission	Il indique également que la transmission effectuée le 12 février 2013 a bien valeur de notification de cessation d’activité et il précise qu’il a par ailleurs lancé la consultation au sujet de l’usage futur le 31 mai 2013.		
+2016	06	03		2016	06	03		a_été_informée	Par courrier du 3 juin 2016 et du 7 avril 2017, la mairie a été informée de la situation.		
+2016				2016				a_indiqué	En 2016 la DDFIP a indiqué au préfet que les sommes n'ont pas été consignées car la liquidation judiciaire était impécunieuse		'la DDFIP', 'préfet'
+2015	02	26		2015	02	26		autres_visites_d__inspection	D'autres visites d’inspection ont eu lieu le 27 mars 2014, le 26 février 2015, le 8 avril 2016,  23 janvier 2017 et le 9 février 2018.		
+2018	02			2018	02			à_la_visite	Suite à la visite de février 2018, le préfet a écrit le 26/02/18		'le préfet'
+2013	01			2013	01			est_placée_en_liquidation_judiciaire	En janvier 2013, la société THOMET est placée en liquidation judiciaire et cesse ses activités sur le site.		'la société THOMET'
+2018	02			2018	02			a_écrit	Suite à la visite de février 2018, le préfet a écrit le 26/02/18		'le préfet'
+2014	03	27		2014	03	27		autres_visites_d__inspection	D'autres visites d’inspection ont eu lieu le 27 mars 2014, le 26 février 2015, le 8 avril 2016,  23 janvier 2017 et le 9 février 2018.		
+2013	05	31		2013	05	31		la_consultation	Il indique également que la transmission effectuée le 12 février 2013 a bien valeur de notification de cessation d’activité et il précise qu’il a par ailleurs lancé la consultation au sujet de l’usage futur le 31 mai 2013.		
+2017	04	07		2017	04	07		a_été_informée	Par courrier du 3 juin 2016 et du 7 avril 2017, la mairie a été informée de la situation.		
+				2017	01	23		autres_visites_d__inspection	D'autres visites d’inspection ont eu lieu le 27 mars 2014, le 26 février 2015, le 8 avril 2016,  23 janvier 2017 et le 9 février 2018.		
+2017	01	27		2017	01	27		a_envoyé	L’Inspection a envoyé au liquidateur le 27/01/2017 son rapport faisant état de la situation (mise en sécurité non effective car le site n'est pas clos et qu'il y a toujours des déchets dangereux) et lui demandait d’indiquer l’état l’impécuniosité de l’affaire.	'des déchets dangereux'	
+2013	07	11		2013	07	11		est_notifié	Le 11 juillet 2013, un arrêté préfectoral de mis en demeure est notifié au mandataire et lui impose de procéder (ès-qualités) à la mise en sécurité du site et à la notification de la cessation d’activité de la société THOMET.		'la société THOMET'
+2017	12			2017	12			un_diagnostic	L’Inspection des installations classées a reçu en janvier 2018 un diagnostic (daté de décembre 2017) de l'état du sol au droit du site, qui a été réalisé par un tiers qui s'intéresse à l'achat du site.		
+2016	04	08		2016	04	08		autres_visites_d__inspection	D'autres visites d’inspection ont eu lieu le 27 mars 2014, le 26 février 2015, le 8 avril 2016,  23 janvier 2017 et le 9 février 2018.		

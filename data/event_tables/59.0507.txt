@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				a_été_reprise	A partir de 1994 et jusqu'à la fermeture, l'exploitation a été reprise par la S.		'la S.'
+2010				2010				Les_diagnostics_de_sols	Diagnostics de sols: Les diagnostics de sols réalisés en 2009 et 2010 par la société Ginger Environnement pour le compte de la SNC CALOIN ont montré:		'la société Ginger Environnement', 'la SNC CALOIN'
+1921				2002				a_exploité	La société CALOIN a exploité depuis 1921 jusqu'à 2002 un atelier de mécanique générale au 7, place de l'Europe à Dunkerque, quartier de Malo-les-bains.		'La société CALOIN'
+2009				2009				Les_diagnostics_de_sols	Diagnostics de sols: Les diagnostics de sols réalisés en 2009 et 2010 par la société Ginger Environnement pour le compte de la SNC CALOIN ont montré:		'la société Ginger Environnement', 'la SNC CALOIN'
+1921				1961				a_été_exploitante	La société ATELIERS LOUIS CALOIN a été exploitante de 1921 à 1961.		'La société ATELIERS LOUIS CALOIN'
+1961				1994				a_été_reprise	De 1961 à 1994, l'exploitation a été reprise par la société SNC CALOIN.		'la société SNC CALOIN'

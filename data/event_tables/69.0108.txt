@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	22		2011	07	22		Une_étude_historique	Une étude historique et documentaire a été établie le 22/07/2011.		
+2001	12	18		2001	12	18		a_été_transmis	L'ESR a été transmis à la DRIRE le 18/12/2001.		"L' ESR", 'la DRIRE'
+2006	02	21		2006	02	21		a_été_prescrit	Un arrêté préfectoral, prescrivant les paramètres à mesurer ainsi que la fréquence de ces mesures, a été prescrit le 21/02/2006 par Monsieur le Préfet du Rhône suite aux propositions de l'inspection.		'le Préfet du Rhône'
+2010	12			2010	12			a_remis_son_bilan_de_fonctionnement	L'exploitant a remis son bilan de fonctionnement de son établissement en décembre 2010.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	15		2011	04	15		Un_diagnostic_de_pollution_des_sols_réalisé	Un diagnostic de pollution des sols réalisé par l’APAVE en mars 2011 a été transmis à l’inspection des installations classées le 15 avril 2011.		'APAVE'
+2013	02	12		2013	02	12		à_transmis	L’exploitant à transmis à l’inspection des installations classées le 12 février 2013 un dossier complémentaire :		
+2013	05	22		2013	05	22		est_délivré_à	Par courrier du 22 mai 2013, un récépissé de déclaration de cessation définitive d’activité est délivré à M.		
+2012	07	27		2012	07	27		dossier_complémentaire_de_dépollution_réalisé	L’exploitant à transmis à l’inspection des installations classées le 27 juillet 2012 un dossier complémentaire de dépollution réalisé par la société ORTEC :		'la société ORTEC'
+2012	08	1		2012	08	1		à_une_visite	Suite à une visite du site le 1er août 2012, l’inspection des installations classées demande, dans son rapport du  2 août 2012 :		
+2011	03			2011	03			Un_diagnostic_de_pollution_des_sols_réalisé	Un diagnostic de pollution des sols réalisé par l’APAVE en mars 2011 a été transmis à l’inspection des installations classées le 15 avril 2011.		'APAVE'
+1984	07	03		1984	07	03		déclaration	Il disposait d'un récépissé de déclaration du 3 juillet 1984.		

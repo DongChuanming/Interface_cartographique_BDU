@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	06	06		2014	06	06		une_visite	Suite à sa mise en liquidation, une visite a été réalisée le 06 juin 2014 par l'Inspection des Installations Classées pour contrôler la mise en sécurité des installations, et notamment des installations de traitement de surfaces.		
+2014	10			2014	10			ont_été_pris	Le représentant de l'ancien exploitant n'ayant pas déféré aux mises en demeure, des arrêtés de consignation ont été pris en octobre 2014 et juillet 2015.		
+1969				1969				exploitait	La société PROFILEST exploitait depuis 1969 une usine de métallurgie et de transformation de l'aluminium sur la commune d'OTTANGE (57).		'La société PROFILEST'
+2015	07			2015	07			ont_été_pris	Le représentant de l'ancien exploitant n'ayant pas déféré aux mises en demeure, des arrêtés de consignation ont été pris en octobre 2014 et juillet 2015.		
+2014	03	13		2014	03	13		a_été_placée_en_liquidation_judiciaire	Par jugement du Tribunal de Grande Instance de THIONVILLE en date du 13 mars 2014, la société PROFILEST a été placée en liquidation judiciaire.		'THIONVILLE', 'la société PROFILEST'
+2016	03	08		2016	03	08		a_constaté	Par ordonnance en date du 08 mars 2016, le Tribunal de Grande Instance de Thionville a constaté l’impécuniosité de la liquidation judiciaire de la société PROFILEST.		'le Tribunal de Grande Instance', 'de Thionville', 'la société PROFILEST'
+2016	04			2016	04			La_visite	La visite d'inspection d'avril 2016 a permis de dresser les constats suivants :		
+2014	09	03		2014	09	03		n__avait_été_transmis	Au 03 septembre 2014, aucun justificatif du respect des dispositions de l’arrêté préfectoral d’urgence du 12 juin 2014 n’avait été transmis à l’Inspection.		
+1998	12	29		1998	12	29		étaient_réglementées	Au titre de la législation sur les ICPE, ces installations étaient réglementées par l’arrêté préfectoral daté du 29 décembre 1998.		
+2014	03	13		2014	03	13		Par_jugement	Par jugement du Tribunal de Grande Instance de THIONVILLE en date du 13 mars 2014, la société PROFILEST a été placée en liquidation judiciaire.		'THIONVILLE', 'la société PROFILEST'

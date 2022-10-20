@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a	Depuis 2013, le site a un usage commercial.		
+2012				2012				a_cessé	L’activité de stockage et de distribution de carburant a cessé fin 1997 et l’activité de commercialisation et d’entretien mécanique de véhicules à moteur a cessé en 2012.	'carburant'	
+2013				2013				avoir_retiré	Au vu du plan national sur les PCB le propriétaire devrait l'avoir retiré en 2013.	'PCB'	
+2012				2012				était_encore_présent	En 2012, le transformateur aux PCB était encore présent sur le site.	'PCB'	
+1997				1997				a_cessé	L’activité de stockage et de distribution de carburant a cessé fin 1997 et l’activité de commercialisation et d’entretien mécanique de véhicules à moteur a cessé en 2012.	'carburant'	

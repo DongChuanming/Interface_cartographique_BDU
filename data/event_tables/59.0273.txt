@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	03		2006	05	03		Réalisation_d__une_étude_hydrogéologique	- Réalisation d'une étude hydrogéologique le 03/05/2006.		
+2001	12	10		2001	12	10		d__une_évaluation_simplifiée_des_risques	- Réalisation d'une étude de sols phase B, et d'une évaluation simplifiée des risques, le 10/12/2001.		
+2000	06	13		2000	06	13		Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols phase A, le 13/06/2000.		
+2005	11	17		2005	11	17		est_réglementée	- Son activité est réglementée par l’arrêté préfectoral d'autorisation du 17/11/2005.		
+2001	08			2001	08			mise_en_place	- Surveillance piézométrique mise en place depuis août 2001.		
+2008	12	02		2008	12	02		Réalisation_d__une_étude_de	- Réalisation d'une étude de vulnérabilité et enquête de proximité: 02/12/2008.		
+2005				2005				Élimination_de_transformateurs	- Élimination de transformateurs PCB en 2005.	'PCB'	
+2001	12	10		2001	12	10		Réalisation	- Réalisation d'une étude de sols phase B, et d'une évaluation simplifiée des risques, le 10/12/2001.		

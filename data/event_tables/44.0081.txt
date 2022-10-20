@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	04	08		1999	04	08		était_autorisée_à_stocker	Depuis 1999, la société était autorisée à stocker des céréales sur le site par récépissé de déclaration du 8 avril 1999.		
+1999				1999				était_autorisée_à_stocker	Depuis 1999, la société était autorisée à stocker des céréales sur le site par récépissé de déclaration du 8 avril 1999.		
+2017				2017				a_pris_fin	Ce suivi des eaux souterraines a pris fin en 2017.		
+2012				2012				des_investigations_complémentaires	Les teneurs mesurées lors des investigations complémentaires de 2012 étant inférieures à la limite de quantification, l'exploitant a proposé de laisser les terres impactées au PCB sur place.	'PCB'	
+								a_été_réalisée	A noter qu'une activité d'extraction de protéines issues de poils de cochons a été réalisée pendant 6 mois autour des années 1989-1990.		
+2010	09			2010	09			Un_diagnostic_initial	Un diagnostic initial de la qualité des sols et des eaux souterraines a été réalisé en septembre 2010: 34 sondages de sols ont été effectués.		
+1989				1989				s__est_achevée	L'activité laiterie s'est achevée en 1989.		
+1999	04	08		1999	04	08		de_déclaration	Depuis 1999, la société était autorisée à stocker des céréales sur le site par récépissé de déclaration du 8 avril 1999.		
+2015	02	02		2015	02	02		a_été_imposé	Par arrêté préfectoral du 2 février 2015, il a été imposé à l’exploitant la surveillance des eaux souterraines au droit de son établissement pendant une période de deux ans.		
+1896				1896				a_débuté_son_activité	La laiterie de la société COLARENA a débuté son activité sur le site de Fresnay en Retz en 1896.		'la société COLARENA'
+2018	06			2018	06			de_nouvelles_investigations_des_sols	Dans le cadre de la cessation définitive des activités du site, de nouvelles investigations des sols ont été menées en juin 2018. 30 points de sondage ont été réalisés sur la base d’un maillage systématique aléatoire avec des mailles de l’ordre de 1000 m2.		
+2011	11	25		2011	11	25		a_déclaré_cette_cessation	L'exploitant a déclaré cette cessation le 25 novembre 2011.		
+1985	05	09		1985	05	09		étaient_réglementées	Les activités de la société étaient réglementées par les arrêtés préfectoraux des 5 avril 1976 et 9 mai 1985.		
+1990				1990				a_été_réalisée	A noter qu'une activité d'extraction de protéines issues de poils de cochons a été réalisée pendant 6 mois autour des années 1989-1990.		
+1976	04	05		1976	04	05		étaient_réglementées	Les activités de la société étaient réglementées par les arrêtés préfectoraux des 5 avril 1976 et 9 mai 1985.		
+1989				1989				ont_cessé	La activités liées à la laiterie ont cessé en 1989.		
+2013	01			2013	01			Des_investigations_complémentaires_dans_les_sols_ont_été_réalisées	Des investigations complémentaires dans les sols ont été réalisées en janvier 2013: 14 points de prélèvements répartis aux abords des deux zones polluées identifiées en 2010 et 2 sondages au droit de la zone de stockage ouest et du local transformateur.		
+1989				1989				a_été_réalisée	A noter qu'une activité d'extraction de protéines issues de poils de cochons a été réalisée pendant 6 mois autour des années 1989-1990.		

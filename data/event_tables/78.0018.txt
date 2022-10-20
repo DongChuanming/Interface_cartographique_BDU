@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	30		2007	10	30		a_imposé	Le 30/10/2007, le préfet des Yvelines a imposé à SHELL DIRECT par arrêté de prescriptions complémentaires, la mise en œuvre de travaux de confinement dans un délai maximum de 6 mois, un programme de surveillance de la qualité des eaux souterraines au droit du site et la mise en place de restrictions d’usages compte tenu de la pollution des terres et de la nappe d'eau souterraine en hydrocarbures.	'hydrocarbures'	'le préfet des Yvelines', 'SHELL DIRECT'
+1992				1992				ont_cessé	Les activités ont cessé en 1992.		
+1995				1995				a_été_mis_en_évidence	En 1995, une pollution des eaux par des hydrocarbures a été mis en évidence au niveau d'un puits à usage privé, situé dans une propriété voisine du site.	'hydrocarbures'	
+2008				2008				ont_été_évacuées_vers	Courant 2008, près de 500 tonnes de terres souillées ont été évacuées vers des biocentres et des centres d'enfouissement techniques.		
+				2015				s__est_poursuivie	La surveillance de la qualité des eaux souterraines s'est poursuivie jusqu'en 2015.		
+1994				1994				des_travaux	- percement d'une cuve encore remplie lors des travaux de démantèlement des installations en 1994		
+2012	04	24		2012	04	24		a_institué	Par arrêté préfectoral du 24 avril 2012, Monsieur le Préfet des Yvelines a institué des servitudes d'utilité publique au droit du site.		'le Préfet des Yvelines'

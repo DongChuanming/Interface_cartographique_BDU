@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				un_dépôt_de_bilan	Après un dépôt de bilan en 1997, la société cesse ses activités sur le site.		
+1997				1997				cesse	Après un dépôt de bilan en 1997, la société cesse ses activités sur le site.		
+1999	03			1999	03			un_diagnostic_de_l__état_des_sols	En mars 1999, un diagnostic de l'état des sols est effectué pour le compte du propriétaire du site.		
+2001	06	26		2001	06	26		l__arrêté_préfectoral_complémentaire_de_dépollution	Cet arrêté est par la suite remplacé par l’arrêté préfectoral complémentaire de dépollution du 26/06/2001.		
+1999				2000				l__enlèvement	Entre 1999 et 2000, le propriétaire du site procède à l’enlèvement des déchets encore présents qui permettent de mettre le site en sécurité.		
+2002	01	25		2002	01	25		encadrant_sa_remise_en_état_est_portée_à_la_connaissance	Le 25 janvier 2002, l’existence d’une source de pollution sur le site et d’un arrêté préfectoral complémentaire encadrant sa remise en état est portée à la connaissance des services d’urbanisme de la mairie de Pantin par lettre préfectorale.		
+1997	06	11		1997	06	11		est_notifié	Dans le cadre de la cessation d'activité (liquidation judiciaire), un arrêté préfectoral encadrant les travaux de dépollution est notifié au liquidateur judiciaire (en tant que représentant ès-qualités de l’exploitant) le 11/06/1997.		
+2001	05	31		2001	05	31		est_notifié	Le 31/05/2001, un arrêté préfectoral complémentaire de dépollution est notifié au liquidateur judiciaire.		

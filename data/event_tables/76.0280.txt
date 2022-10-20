@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_construit	Le site comprend également un bâtiment séparé dédié au stockage des produits chimiques dangereux et des déchets dangereux, ainsi qu'un local abritant le système de sprinklage ; ces deux bâtiments sont situés sur le côté Est du bâtiment principal. le bâtiment principal a été construit en 1998.	'produits chimiques dangereux', 'déchets dangereux'	
+2011	10	15		2011	10	15		La_cessation_des_activités	La cessation des activités du site a été annoncée par l'exploitant au 15/10/2011.		
+2012	07			2012	07			de_la_dernière_visite_sur_site	Lors de la dernière visite sur site (juillet 2012), les dalles en béton constituant les sols des bâtiments sont apparues en bon état, en particulier les sols des ateliers et des zones de stockage des matières premières et des substances dangereuses.	'substances dangereuses'	
+2011	07			2011	07			un_audit_environnemental	Dans le cadre de la cessation des activités du site, un audit environnemental a été réalisé en juillet 2011 et joint au dossier de cessation d'activité.		

@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12			2010	12			ont_été_démantelées	Les infrastructures pétrolières et les constructions ont été démantelées en décembre 2010 et janvier 2011.		
+2010	03			2010	03			au_droit_des	Une surveillance semestrielle puis trimestrielle de la qualité des eaux souterraines a été réalisée d'août 2008 à février 2011, au droit des piézomètres présents sur l'ancienne station-service TOTAL, et depuis mars 2010 au droit des piézomètres PZ1 et PZ3 de l'ancienne station-service.		'service TOTAL'
+2010	10			2010	10			a_été_intégré_à_la_surveillance	Un puits particulier (noté P2) a été intégré à la surveillance en octobre 2010, suite à la réalisation d'une enquête de proximité.		
+2008				2016				ont_été_menés	Plusieurs études et travaux ont été menés entre 2008 et 2016 sur le site par l’exploitant dans le cadre de la cessation.		
+2007	08			2007	08			Un_diagnostic_des_sols_préalables_aux_travaux_de_modernisation	Un diagnostic des sols préalables aux travaux de modernisation, a été réalisé en août 2007 au droit de l'ancienne station-service TOTAL.		'service TOTAL'
+2010	08	31		2010	08	31		a_ouvert	Elle a ouvert le 1er décembre 1955 et cessé son activité le 31 août 2010.		
+2011	02			2011	02			a_été_réalisée	Une surveillance semestrielle puis trimestrielle de la qualité des eaux souterraines a été réalisée d'août 2008 à février 2011, au droit des piézomètres présents sur l'ancienne station-service TOTAL, et depuis mars 2010 au droit des piézomètres PZ1 et PZ3 de l'ancienne station-service.		'service TOTAL'
+2011	01			2011	01			ont_été_démantelées	Les infrastructures pétrolières et les constructions ont été démantelées en décembre 2010 et janvier 2011.		
+2011	09			2015	03			a_été_mise_en_place	Une surveillance de la qualité des eaux souterraines a été mise en place entre septembre 2011 et mars 2015.		
+2016	01			2016	01			a_comblé	L’exploitant a cessé la surveillance et a comblé les piézomètres en janvier 2016.		
+2010	08	31		2010	08	31		et_cessé	Elle a ouvert le 1er décembre 1955 et cessé son activité le 31 août 2010.		
+2010	12			2011	02			ont_été_excavées	Entre décembre 2010 et février 2011, 1395 tonnes de terres impactées ont été excavées et évacuées dans un centre de traitement. 23 m³ d’eaux hydrocarburées ont été pompées puis évacuées.		
+2010	05			2010	05			Une_étude_historique_a_été_réalisée	Une étude historique a été réalisée en mai 2010 (étude historique et schéma conceptuel), établissant une synthèse de l'ensemble des études précédemment réalisées au droit du site.		
+1955	12	1		1955	12	1		a_ouvert	Elle a ouvert le 1er décembre 1955 et cessé son activité le 31 août 2010.		
+2010	10			2010	10			Un_diagnostic	Un diagnostic des sols, des eaux souterraines et de l'eau du robinet a été réalisé dans le cadre de la fermeture de l'ancienne station-service en octobre 2010.		
+2016	01			2016	01			a_cessé_la_surveillance	L’exploitant a cessé la surveillance et a comblé les piézomètres en janvier 2016.		
+2012	08			2015	02			a_été_mis_en_place	Un dispositif passif d’oxygénation a été mis en place au droit du piézomètre PzE entre août 2012 et février 2015.		
+2008	08			2008	08			a_été_réalisée	Une surveillance semestrielle puis trimestrielle de la qualité des eaux souterraines a été réalisée d'août 2008 à février 2011, au droit des piézomètres présents sur l'ancienne station-service TOTAL, et depuis mars 2010 au droit des piézomètres PZ1 et PZ3 de l'ancienne station-service.		'service TOTAL'

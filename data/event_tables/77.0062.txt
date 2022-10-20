@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								impose_la_réalisation	C'est pourquoi l'arrêté préfectoral du 26 janvier 2009 impose la réalisation, sous un délai de 12 mois, d'un diagnostic de l'état du sol et des eaux souterraines au droit du site.		
+1994				1994				une_étude_hydrogéologique	Suite à un arrêté préfectoral, l'exploitant a déposé en 1994 une étude hydrogéologique montrant que la pollution ne nécessitait pas de travaux immédiats mais la réalisation d'une surveillance piézométrique.		
+1973				1973				créée	. (Société de Traitements Électrolytiques Normalisés) créée en 1973, implantée dans la zone industrielle d'Ozoir-la-Ferrière, fait partie du groupe DYNEL proposant, par spécialités, des applications de la famille des traitements de surface.		'groupe DYNEL'
+2014	10			2014	10			analyses	Les derniers résultats d'analyses d'octobre 2014 mettent en évidence que la concentration en nickel est supérieure à la limite fixée par le décret n°2001-1220 ( Décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles) au droit des piézomètres situés à proximité des activités de traitement de surface et en amont du site.	'nickel'	
+2010	02			2010	02			Un_diagnostic	Un diagnostic de l'état des sols a été transmis en février 2010.		
+1999	03	23		1999	03	23		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 23 mars 1999.		
+1992	07	26		1992	07	26		un_incendie_survenu	Ce site a fait l'objet d'une pollution de la nappe phréatique à la suite d'un incendie survenu le 26 juillet 1992.		
+2004	06			2004	06			suivi_hydrogéologique	Ainsi un suivi hydrogéologique est mis en place depuis juin 2004.		
+1992	07	26		1992	07	26		une_pollution	Ce site a fait l'objet d'une pollution de la nappe phréatique à la suite d'un incendie survenu le 26 juillet 1992.		
+								la_transmission	L'inspection des installations classées a demandé à l'exploitant la transmission des rapports d'analyses de 2015 et 2016 par le courrier du 23/06/16.		

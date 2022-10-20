@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1980				dépôt_de_bilan	Les Laboratoires CHAMPIN ont cessé leur activité en 1980, ainsi que la Société PROSYNTHO (dépôt de bilan fin 1980).		'Les Laboratoires CHAMPIN', 'la Société PROSYNTHO'
+2012				2012				Une_étude_historique	Une étude historique et un début de diagnostic sont finalement réalisés en 2012 pour le compte du SAVITON.		'du SAVITON'
+2007	02	1		2007	02	1		est_resté_en_l_	Le 1er février 2007, le site est resté en l'état : les grilles sont grandes ouvertes, la clôture est quasi inexistante et les bâtiments sont de plus en plus en ruine.		
+2009				2009				est_donné	Un avis défavorable est donné à la demande sur permis d'urbanisme à cet acquéreur en aout 2009.		
+1982	01	29		1982	01	29		a_elle_même_déposé_son_bilan	Le fonds de commerce a été confié en location gérance à la Société STPC VITTER, qui a elle-même déposé son bilan le 29 janvier 1982 (contrat de gérance résilié par le tribunal de commerce de Paris le 15 février 1982).		'la Société STPC VITTER'
+1980				1980				ont_cessé	Les Laboratoires CHAMPIN ont cessé leur activité en 1980, ainsi que la Société PROSYNTHO (dépôt de bilan fin 1980).		'Les Laboratoires CHAMPIN', 'la Société PROSYNTHO'
+2016				2016				est_intervenue	L’ADEME est intervenue en 2016 pour :		
+2009	02			2009	02			débroussaille_les_lieux	En février 2009, un potentiel acquéreur du site débroussaille les lieux, remet en état le portail et le grillage et souhaite restaurer le bâtiment.		
+2013	04	10		2013	04	10		se_rend_à_nouveau	Le 10 avril 2013, l'inspection des installations classées se rend à nouveau sur le site.		
+2014	12			2014	12			L__intervention	L’intervention de l’ADEME sur ce site à responsable défaillant a été accordée par le préfet de région le 18 décembre 2014.		'le préfet de région'
+								L__intervention	L’intervention de l’ADEME sur ce site à responsable défaillant a été accordée par le préfet de région le 18 décembre 2014.		'le préfet de région'
+1982	05			1982	05			a_été_abandonnée_en_l_	L'usine a été abandonnée en l'état, fin mai 1982.		

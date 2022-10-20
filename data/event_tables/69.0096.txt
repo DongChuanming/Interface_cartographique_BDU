@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Le_diagnostic_initial	Le diagnostic initial (1ère partie de l'étude de sols) a été transmis le 19/04/99.		
+2001	07	25		2001	07	25		L__instruction	L'instruction de l'étape B de l'évaluation simplifiée des risques, remise à l'administration le 25 juillet 2001, a été réalisée.		
+2000	12	31		2000	12	31		une_étude_des_sols	En application de l'arrêté préfectoral du 12 août 1998, une étude des sols doit être remise au 31 décembre 2000.		
+1998	08	12		1998	08	12		une_étude_des_sols	En application de l'arrêté préfectoral du 12 août 1998, une étude des sols doit être remise au 31 décembre 2000.		

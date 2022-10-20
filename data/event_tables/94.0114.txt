@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	10	22		2013	10	22		par_courrier	Une note technique sur le suivi des travaux de dépollution a été transmise par courrier du 22/10/2013.		
+2006				2011				Plusieurs_diagnostics_environnementaux	Plusieurs diagnostics environnementaux ont été réalisés entre 2006 et 2011.		
+				2013	07	04		Les_travaux_d__excavation	Les travaux d’excavation de la source A ont été réalisés du 1er au 4 juillet 2013 et ceux de la source B le 5 juillet 2013.		
+2008	07	31		2008	07	31		pour_une_cessation_effective	La cessation des activité a été déclarée, le 30 octobre 2008, pour une cessation effective à la date du 31 juillet 2008.		
+2014				2014				a_été_construit	L'ensemble immobilier a été construit par la société COGEDIM en 2014-2015.		'la société COGEDIM'
+2013	05	21		2013	05	21		a_jugé	Suite à l’examen du plan de gestion et de la note technique relative au suivi des travaux de dépollution, l’inspection des installations classées a jugé que ces études ne répondaient pas totalement aux demandes faites dans son rapport du 21/05/2013.		
+2015				2015				a_été_construit	L'ensemble immobilier a été construit par la société COGEDIM en 2014-2015.		'la société COGEDIM'
+2013	10	22		2013	10	22		a_été_transmise	Une note technique sur le suivi des travaux de dépollution a été transmise par courrier du 22/10/2013.		
+								de_faire_réaliser	Il a également été demandé à l’exploitant de faire réaliser, dans un délai d’1 mois, des analyses d’air intérieur dans les logements présents sur le site et à l’extérieur du site au droit du piézair Pg5, au 58 rue Etienne Dolet, l’absence de diffusion des solvants chlorés à partir du site n’étant pas prouvée (sauf à ce que des éléments probants soient apportés pour justifier du caractère superflu de ces mesures).	'solvants chlorés'	
+2014	01	08		2014	01	08		a_été_signé	L'arrêté préfectoral a été signé le 08/01/2014.		
+2008	07	31		2008	07	31		La_cessation_des_activité	La cessation des activité a été déclarée, le 30 octobre 2008, pour une cessation effective à la date du 31 juillet 2008.		
+2013	07	01		2014	06	17		Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés entre le 01/07/2013 et le 17/06/2014.		
+2008	10			2008	10			La_cessation_des_activité	La cessation des activité a été déclarée, le 30 octobre 2008, pour une cessation effective à la date du 31 juillet 2008.		
+2014	05			2014	05			Des_investigations_complémentaires_hors_site_ont_été_réalisées	Des investigations complémentaires hors site ont été réalisées en mai 2014 (rapport transmis le 10/07/2014), afin de délimiter le panache de pollution dans les eaux souterraines et les gaz du sol. 3 piézomètres (Pz5, Pz6 et Pz7) et 3 piézairs (Pg3, Pg4, Pg5) ont été mis en place en dehors du site.	'Pg3'	
+1979				1979				s__est_implantée	La Société Anonyme de Fabrications Électroniques (SAFEL) s’est implantée à CACHAN en 1979.		'La Société Anonyme de Fabrications Électroniques', 'SAFEL'
+2013	01	22		2013	01	22		a_été_délivré	Le récépissé de cessation d’activité a été délivré le 22/01/2013.		
+								La_cessation_des_activité	La cessation des activité a été déclarée, le 30 octobre 2008, pour une cessation effective à la date du 31 juillet 2008.		
+2014	07	10		2014	07	10		Les_études_transmises	Les études transmises par SAFEL en date du 10/07/2014 n'ont pas permis de lever le doute sur la présence ou non d’une pollution résiduelle sur le site.		'SAFEL'
+2012	11	30		2012	11	30		__a_été_réalisé	Un rapport relatif aux investigations complémentaires sur les eaux souterraines et les gaz du sol et incluant le plan de gestion a été réalisé le 30/11/2012 et un complément a été transmis par courrier du 14/10/2013.		
+2014	07	10		2014	07	10		a_été_transmis	Le rapport de fin de travaux a été transmis par courrier du 10/07/2014.		
+2013	10	14		2013	10	14		__a_été_réalisé	Un rapport relatif aux investigations complémentaires sur les eaux souterraines et les gaz du sol et incluant le plan de gestion a été réalisé le 30/11/2012 et un complément a été transmis par courrier du 14/10/2013.		
+2014	07	10		2014	07	10		rapport_transmis	Des investigations complémentaires hors site ont été réalisées en mai 2014 (rapport transmis le 10/07/2014), afin de délimiter le panache de pollution dans les eaux souterraines et les gaz du sol. 3 piézomètres (Pz5, Pz6 et Pz7) et 3 piézairs (Pg3, Pg4, Pg5) ont été mis en place en dehors du site.	'Pg3'	

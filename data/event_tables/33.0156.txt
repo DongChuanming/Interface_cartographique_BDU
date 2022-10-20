@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				La_cessation_définitive_d__activité	La cessation définitive d'activité est intervenue en 2007.		
+								de_nettoyer_les_installations	- dans un délai de 15 jours, de nettoyer les installations et d’évacuer les déchets stockés sur le site,		
+2008	10			2008	10			est_remise	Une ARR est remise en octobre 2008 et conclu que l'état des sols après les travaux est compatible avec l'usage de type résidentiel qui est prévus.		
+2007				2007				Les_campagnes_de	Les campagnes de 2007 et 2008 montrent un impact en Propiconazole (2 et 1,1 µg/l), Tébuconazole ( 0,78 et 0,38 µg/l) en juin 2007 et mai 2008.	'Propiconazole', 'Tébuconazole'	
+2007	06			2007	06			sont_excavées	Les terres polluées sont excavées en juin 2007 et envoyées en avril 2008 en décharge de classe 1 SECHE 53 Changé (301 tonnes).		
+2008				2008				Les_campagnes_de	Les campagnes de 2007 et 2008 montrent un impact en Propiconazole (2 et 1,1 µg/l), Tébuconazole ( 0,78 et 0,38 µg/l) en juin 2007 et mai 2008.	'Propiconazole', 'Tébuconazole'	
+2007	04			2007	04			Le_diagnostic	Le diagnostic réalisé en avril 2007 dans le cadre de la cessation d'activité révèle la présence d'une pollution localisée par les pesticides autour du bac de trempage et d'hydrocarbures au niveau de la cuve aérienne.	'les pesticides', 'hydrocarbures'	
+2008	04			2008	04			et_envoyées	Les terres polluées sont excavées en juin 2007 et envoyées en avril 2008 en décharge de classe 1 SECHE 53 Changé (301 tonnes).		

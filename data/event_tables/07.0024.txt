@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								procéder_à	- procéder à la surveillance semestrielle des eaux souterraines sur une période de 4 ans, comme il s’y est engagé ;		
+2013	06	19		2013	06	19		est_délivré_par	Par courrier du 19 juin 2013, un récépissé de déclaration de cessation d’activité est délivré par le Préfet à M.		'le Préfet'
+2010	12			2010	12			7_sondages	7 sondages en décembre 2010 ont mis en évidence les pollutions suivantes dans les sols :		
+								surveillance_semestrielle	- procéder à la surveillance semestrielle des eaux souterraines sur une période de 4 ans, comme il s’y est engagé ;		
+2011	08	24		2011	08	24		Un_diagnostic_approfondi_de_pollution_des_sols	Un diagnostic approfondi de pollution des sols, des eaux souterraines et superficielles a été réalisé par DEKRA Conseil le 24 août 2011 sur demande de M.		'DEKRA Conseil'
+2006	03	08		2006	03	08		a_déposé_le_bilan	Un récépissé de déclaration du 24 décembre 2002 avait été délivré à la société NEW MAILLE STOP qui n'est autre que la dénomination commerciale ; alors que la société qui exploitait le site était la SAS ARDEMAILLE, qui a déposé le bilan le 8 mars 2006.		'la société NEW MAILLE STOP', 'la SAS ARDEMAILLE'
+2002	12	24		2002	12	24		de_déclaration	Un récépissé de déclaration du 24 décembre 2002 avait été délivré à la société NEW MAILLE STOP qui n'est autre que la dénomination commerciale ; alors que la société qui exploitait le site était la SAS ARDEMAILLE, qui a déposé le bilan le 8 mars 2006.		'la société NEW MAILLE STOP', 'la SAS ARDEMAILLE'

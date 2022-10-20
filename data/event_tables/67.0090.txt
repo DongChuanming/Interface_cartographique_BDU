@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10			2009	10			La_campagne_de_prélèvements_effectués	La campagne de prélèvements effectués en octobre 2009 a mis en évidence une concentration en COT encore élevée malgré une baisse par rapport à celle observée lors des campagnes précédentes.	'COT'	
+1999				1999				La_mise_en_place_de_la_surveillance	La mise en place de la surveillance en 1999 a permis de découvrir une pollution de la nappe par des hydrocarbures des solvants chlorés, du manganèse.	'hydrocarbures des solvants chlorés', 'manganèse'	
+2012				2012				Des_dépassements	Des dépassements des valeurs limites de qualité des eaux brutes ont été constatées lors des campagnes de prélèvement en 2012 pour les paramètres suivants: sulfates, carbone, hydrocarbures totaux.	'sulfates', 'carbone', 'hydrocarbures totaux'	

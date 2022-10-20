@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1945				1945				était_exploité	Une ancienne gravière était exploité dés 1945 sur les parcelles à l'ouest du site.		
+2001	09	27		2001	09	27		ont_été_remis	Deux rapports d'analyses ont été remis à l'Inspection des Installations Classées par Mr Pierre Louis en date du 27/09/2001.		'Mr Pierre Louis'
+1998				1998				Une_étude_de_sol	Une étude de sol et une évaluation simplifiée de risques a été réalisée en 1998 suivant la méthodologie nationale applicable.		
+1996	12	02		1996	12	02		a_été_prescrite	Celle ci a été prescrite par arrêté préfectoral du 02 décembre 1996.		
+1954				1954				occupait_déjà	Elle s'est progressivement étendue vers l'est et, en 1954, occupait déjà la moitié du site.		
+1965				1971				a_été_utilisé	Entre 1965 et 1971, le site a été utilisé pour la pesée des camions provenant d'autres carrière.		
+1960				1960				été_entièrement_exploité	En 1960 le site été entièrement exploité et la gravière commençait également à affecter la parcelle voisine à l'est du site.		
+1972				1972				Le_remblaiement	Le remblaiement a débuté en 1972 pour se terminer en 1996.		
+1994				1994				a_été_remblayé_durant_l_	En ce qui concerne le site, il a été remblayé durant l'année 1994.		
+1965				1965				L__arrêt	L'arrêt de l'exploitation s'est fait en 1965.		
+1996				1996				Le_remblaiement	Le remblaiement a débuté en 1972 pour se terminer en 1996.		

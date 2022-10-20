@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04	22		2003	04	22		un_rapport	L'inspection des installations classées a donc transmis un rapport et un projet d'arrêté de servitudes d'utilité publique en date du 22 avril 2003 afin de limiter l'utilisation du site aux scénarios envisagés.		
+2000	04	07		2000	04	07		ont_été_fixées	Suite au dossier de cessation d'activité déposé par la société Mueller, des préscriptons ont été fixées par arrêté préfectoral du 7 avril 2000.		'la société Mueller'
+2004	04	13		2004	04	13		a_été_pris	L'arrêté préfectoral instaurant les servitudes d'utilité publique a été pris le 13 avril 2004.		
+2002	06	18		2002	06	18		L__étude	L'étude correspondante a été remise à Monsieur le préfet de l'Oise le 18 juin 2002 et conclu sur un risque acceptable pour les scénarios envisagés : réalisation d'un parking ; réalisation d'un espace vert autour du parking ; réalisation d'un bâtiment industriel.		'le préfet'
+1999				1999				a_cessé_son_activité	Desnoyers) a cessé son activité en 1999.		
+1999				1999				a_racheté	Le syndicat mixte a racheté le site en 1999.		'Le syndicat mixte'

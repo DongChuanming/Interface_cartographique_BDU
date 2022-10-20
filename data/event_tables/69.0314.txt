@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	29		2007	08	29		à_la_cessation_d__activité	Suite à la cessation d'activité de RENAULT le 29/08/2007, le site a été découpé en 6 îlots :		'RENAULT'
+2013	02	14		2013	02	14		la_dernière	Durant la dernière (du 14/02/2013), une pollution en HAP est apparu, notamment en :	'HAP'	
+2011	02			2011	02			s__est_tenue	Une seconde phase de travaux s'est tenue au mois de février 2011 permettant d'atteindre des teneurs en HCT inférieures aux seuils de détection.	'HCT'	
+2011	01			2011	01			Les_travaux_d__extraction	Les travaux d’extraction ont été réalisé au mois de janvier 2011.		
+2009	03	27		2009	03	27		Une_nouvelle_campagne_d__analyse	Une nouvelle campagne d'analyse a donc été menée par SOCOTEC le 27/03/2009.		'SOCOTEC'

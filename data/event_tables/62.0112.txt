@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1907				1940				a_accueilli	Il a accueilli pendant 43 ans, entre 1907 et 1940, une usine fabriquant du gaz à partir de la distillation de la houille.		
+2006	03	02		2006	03	02		Les_travaux_de_vidangage	Les travaux de vidangage des cuves à goudron situées sur la parcelle Gaz de France c'est terminé le 2 mars 2006.		'Gaz de France'
+1950				1980				ont_été_démantelées	Les installations de l'usine à gaz ont été démantelées entre 1950 et 1980.		
+								a_accueilli	Il a accueilli pendant 43 ans, entre 1907 et 1940, une usine fabriquant du gaz à partir de la distillation de la houille.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz, entre le Ministère de l'Environnement et Gaz de France, signé le 25 Avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'

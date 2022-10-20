@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				est_nommé_mandataire_judiciaire	Maître BOUFFARD est nommé mandataire judiciaire, repris ensuite par la SELARL Christophe MANDON en 2004.		'Maître BOUFFARD', 'la SELARL', 'Christophe MANDON'
+2006	06	13		2006	06	13		document_transmis	Le document transmis le 13/06/2006 amène à considérer que le classement en 1 résultant du calcul de l'ESR et la surveillance des eaux souterraines n'est pas justifié et qu'il n'y a pas lieu de poursuivre les mesures en ce sens.		
+2011	11			2011	11			ont_été_bouché	Les piézomètres PZ1 et Pz5 ont été bouché dans les règles de l'art par TEREO en novembre 2011.		'TEREO'
+2004	09	15		2004	09	15		la_purge_du_forage	En dehors de la mise en sécurité du site partiellement réalisée, aucun travaux de dépollution n'a été mené en dehors de la purge du forage, le 15/09/2004, dans lequel on a observé une couche de flottant, de l'évacuation des déchets dangereux et de l'inertage des cuves enterrées.	'flottant', 'déchets dangereux'	
+2005	09	05		2005	09	05		et_complétées	Les études sont remises le 04/11/2004 et complétées le 05/09/2005.		
+2012	11	27		2012	11	27		transmet	Le 27/11/2012, Maître Mandon transmet le mémoire définitif de cessation d'activité rédigé par Ecotom et daté de fevrier 2012.		'Ecotom'
+2008	09			2008	09			fait_réaliser_les_travaux	En Septembre 2008, le mandataire liquidateur fait réaliser les travaux suivants :		
+2012				2012				transmet	Le 27/11/2012, Maître Mandon transmet le mémoire définitif de cessation d'activité rédigé par Ecotom et daté de fevrier 2012.		'Ecotom'
+2003				2011				l__inertage_des_cuves_enterrées	Au vu de ce mémoire, le 07/12/2012, l'inspection considère que suite à l'enlèvement des déchets et de l'inertage des cuves enterrées entre 2003 et 2011, l'enjeu principal du site reste la sécurité des personnes pouvant pénétrer sur le site.		
+2010	04	12		2010	04	12		les_travaux_d__achèvement_de_la_clôture	Le 12/04/2010, les travaux d'achèvement de la clôture sont achevés.		
+2009	01	24		2009	01	24		Les_tempêtes_Klaus	Les tempêtes Klaus du 24/01/2009 et Xynthia du 27/02/2010 accentue l'état de délabrement des bâtiments.	'Klaus'	'Xynthia'
+2008	09			2008	09			La_campagne_d__analyses	La campagne d'analyses de juillet et septembre 2008 montrent l'absence d'impact dans les PZ4 et PZ5 pour les 3 paramètres hydrocarbures totaux, pentachlorophénol et Carbendazime.	'hydrocarbures totaux', 'pentachlorophénol', 'Carbendazime'	
+2011	07	1		2011	07	1		et_l__incendie	Le site est une friche industrielle sur laquelle les bâtiments sont en place, mais fortement dégradés suites aux nombreux actes de vandalisme, les deux tempêtes  successives et l'incendie du 1er/07/2011.		
+2007	07	31		2007	07	31		Cabanac_informe	Le 31/07/2007, le Maire de Cabanac informe le Préfet d'un accident par chute de toiture sur une personne ayant pénétré sur le site.		'le Maire', 'le Préfet'
+2012				2012				rédigé	Le 27/11/2012, Maître Mandon transmet le mémoire définitif de cessation d'activité rédigé par Ecotom et daté de fevrier 2012.		'Ecotom'
+2004	01	10		2004	01	10		la_campagne	Les résultats de la campagne du 10/01/2004 montre que la nappe est impactée par les hydrocarbures et les pentachlorophénols.	'hydrocarbures', 'les pentachlorophénols'	
+2005	09	05		2005	09	05		sont_remises	Les études sont remises le 04/11/2004 et complétées le 05/09/2005.		
+2011	02	18		2011	02	18		des_voleurs	Le 18/02/2011, la Gendarmerie interpelle des voleurs de ferrailles sur le site.		
+2007	03	27		2007	03	27		transmet	Le 27/03/2007, Maître Mandon transmet le Second mémoire de cessation d'activité.		
+2002	09	20		2002	09	20		cesse_définitivement	Le 20/09/2002, l’activité de traitement de bois cesse définitivement.		
+2011	02	28		2011	02	28		Un_nouveau_vol	Un nouveau vol est constaté le 28/02/2011. la gendarmerie recommande de creuser un fossé pour éviter l'entrée des camions.		
+2004	11	04		2004	11	04		sont_remises	Les études sont remises le 04/11/2004 et complétées le 05/09/2005.		
+								La_campagne_d__analyses	La campagne d'analyses de juillet et septembre 2008 montrent l'absence d'impact dans les PZ4 et PZ5 pour les 3 paramètres hydrocarbures totaux, pentachlorophénol et Carbendazime.	'hydrocarbures totaux', 'pentachlorophénol', 'Carbendazime'	
+2005	12	05		2005	12	05		Ecotom_transmet	Le 05/12/2005, Ecotom transmet le premier mémoire de cessation d'activité.		'Ecotom'
+2007	06	19		2007	06	19		demande	Le 19/06/2007, l'inspection demande au mandataire, l'exécution des travaux complémentaires et des précisions sur le mémoire.		
+2012	02			2012	02			rédigé	Le 27/11/2012, Maître Mandon transmet le mémoire définitif de cessation d'activité rédigé par Ecotom et daté de Février 2012.		'Ecotom'
+2011	06	1		2011	06	1		un_incendie_se_déclare	Le 1er/06/2011 un incendie se déclare dans le bâtiment 28.		
+2011	12	1		2011	12	1		les_derniers_travaux_de_fermeture	Le 1er/12/2011, les derniers travaux de fermeture du site suite à l'incendie sont achevés.		
+2012	11	27		2012	11	27		transmet	Le 27/11/2012, Maître Mandon transmet le mémoire définitif de cessation d'activité rédigé par Ecotom et daté de Février 2012.		'Ecotom'
+2010	02	27		2010	02	27		Les_tempêtes_Klaus	Les tempêtes Klaus du 24/01/2009 et Xynthia du 27/02/2010 accentue l'état de délabrement des bâtiments.	'Klaus'	'Xynthia'
+2005	12	07		2005	12	07		La_visite	La visite d'inspection du 07/12/2005 permet de constater une situation très dégradée vis à vis des règles élémentaires de sécurité et de protection de l'environnement.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			ont_été_évacués	Ces déchets ont été évacués, en décembre 2001, vers un centre d'enfouissement autorisé à les recevoir.		
+1993				1993				Recherche	Recherche de solution depuis 1993.		
+1990				1990				a_été_constitué_illégalement	Ce dépôt a été constitué illégalement en 1990-1991 par le gérant de la société TRI par importation de déchets.		'le gérant de la société TRI'
+2002	12			2002	12			15_prélèvements_et_analyses_de_sols	En décembre 2002, 15 prélèvements et analyses de sols ont été réalisés à l'emplacement du tas.		
+1991				1991				a_été_constitué_illégalement	Ce dépôt a été constitué illégalement en 1990-1991 par le gérant de la société TRI par importation de déchets.		'le gérant de la société TRI'

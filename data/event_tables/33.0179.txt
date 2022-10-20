@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	10		2008	01	10		doit	Une servitude dont la procédure est laissée au choix du propriétaire doit être instituée avant le 10 janvier 2008.		
+2007	01	25		2007	01	25		ces_travaux_de_dépollution	L'exploitant a réalisé ces travaux de dépollution le 25/01/2007.		
+2004	04	20		2004	04	20		le_diagnostic_des_sols	En vu de la cession du site pour un usage de commerce, le diagnostic des sols a été réalisé le 20/04/2004 sur l'initiative de la SCI Vaillant, propriétaire des terrains.		'la SCI Vaillant'
+1984	12	06		1984	12	06		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 06 décembre 1984.		
+2013	07	10		2013	07	10		La_visite_de_récolement	La visite de récolement des travaux de dépollution été effectuée le 10/07/2013 s'appuyant sur les documents suivants :		
+2008	08	07		2008	08	07		a_été_remis	Le rapport final de fin de travaux a été remis le 07/08/2008.		
+2004	04	20		2004	04	20		a_cessé_définitivement_son_activité	Ce site a cessé définitivement son activité le 20 avril 2004.		
+2008				2008				ont_été_construits_sur_les_terrains	Le super marché ALDI MARCHE et un parking ont été construits sur les terrains en 2008.		'Le super marché ALDI'
+2005	07	07		2005	07	07		L__évaluation_remise	L'évaluation remise les 28/04/2005 et 7/07/2005 précise l'étendue et l'importance des sources de pollution essentiellement constituées de métaux lourds, d'hydrocarbures et de PCB.	'métaux lourds', 'hydrocarbures', 'PCB'	
+2005	04	28		2005	04	28		L__évaluation_remise	L'évaluation remise les 28/04/2005 et 7/07/2005 précise l'étendue et l'importance des sources de pollution essentiellement constituées de métaux lourds, d'hydrocarbures et de PCB.	'métaux lourds', 'hydrocarbures', 'PCB'	
+2008	01	10		2008	01	10		être_instituée	Une servitude dont la procédure est laissée au choix du propriétaire doit être instituée avant le 10 janvier 2008.		

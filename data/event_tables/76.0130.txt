@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_cessé	L'activité de cette société exercée depuis 1959 (fabrication de matériels informatiques) a cessé en 1998.		
+1999	10			1999	10			a_été_réalisée	Une ESR a été réalisée en octobre 1999.		
+1999				1999				a_vendu	UNISYS a vendu le site à la SCI du moulin de l’Austreberthe en 1999.		
+1986				1986				fusionna	Entre temps, la société Burroughs fusionna avec la société Sperry en 1986 et devint alors Unysis.		'la société Burroughs', 'la société Sperry'
+				2003				mesurées	Les concentrations mesurées jusqu'en 2003 étaient pour la plupart proche des seuils de détection.		
+				2008	11			être_établie	À la suite de la déclaration de cessation d'activité, l'arrêté préfectoral du 11 octobre 2000 a prescrit la mise en place d'une surveillance de la qualité des eaux souterraines devant être établie jusqu'en novembre 2008.		

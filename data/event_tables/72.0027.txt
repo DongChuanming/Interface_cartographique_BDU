@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				a_été_reprise_sous_le_nom	En 1986, l’activité a été reprise sous le nom de BELIPA.		'BELIPA'
+				2013	05	1		a_été_renouvelée	Par jugement en date du 31 octobre 2012, le tribunal a prononcé une conversion du redressement judiciaire en liquidation judiciaire avec le maintien de l’activité de la société BELIPA pour une période de 3 mois qui a été renouvelée jusqu’au 1er mai 2013.		'la société BELIPA'
+2010	12			2010	12			L__arrêt	L’arrêt de l’activité de production de panneaux de particules a eu lieu en décembre 2010.	'panneaux de particules'	
+2014	12	18		2014	12	18		a_déclaré_la_cessation_définitive_d__activité	Le 18 décembre 2014, le mandataire judiciaire a déclaré la cessation définitive d’activité de la société BELIPA.		'la société BELIPA'
+2013	09			2014	12			ont_été_évacuées	Au total, 887 tonnes de déchets ont été évacuées et traitées de septembre 2013 à décembre 2014.		
+1983				1983				a_été_délivré	En 1983, un arrêté préfectoral d’autorisation d’exploiter a été délivré à l'exploitant LA BELINOISE qui a maintenu son activité sous règlement judiciaire jusqu’en 1986.		'LA BELINOISE'
+				2013	05	1		a_prononcé_une_conversion	Par jugement en date du 31 octobre 2012, le tribunal a prononcé une conversion du redressement judiciaire en liquidation judiciaire avec le maintien de l’activité de la société BELIPA pour une période de 3 mois qui a été renouvelée jusqu’au 1er mai 2013.		'la société BELIPA'
+2013	09	12		2013	09	12		ont_été_déposés	Le 12 septembre 2013, deux requêtes ont été déposés afin de mandater :		
+								a_prononcé_une_conversion	Par jugement en date du 31 octobre 2012, le tribunal a prononcé une conversion du redressement judiciaire en liquidation judiciaire avec le maintien de l’activité de la société BELIPA pour une période de 3 mois qui a été renouvelée jusqu’au 1er mai 2013.		'la société BELIPA'
+				1986				a_maintenu	En 1983, un arrêté préfectoral d’autorisation d’exploiter a été délivré à l'exploitant LA BELINOISE qui a maintenu son activité sous règlement judiciaire jusqu’en 1986.		'LA BELINOISE'
+1977				1977				une_scierie	En 1977, une scierie (société SOPANEC) a été construite sur le site.		'société SOPANEC'
+1978				1978				a_été_arrêtée	En 1978, l’activité de scierie a été arrêtée et reprise par les meubles GAUTIER.		'les meubles GAUTIER'
+2014	12	18		2014	12	18		a_déclaré_la_cessation_définitive	Le 18 décembre 2014, le mandataire judiciaire a déclaré la cessation définitive d’activité et a communiqué le mémoire de cessation d’activité.		
+2015	06	23		2015	06	23		a_été_remis_dans	Selon l’inspection des installations classées, suite à la visite du 23 juin 2015, le site a été remis dans un état tel qui ne présente aucun risque pour les personnes et l’environnement, pour un usage industriel.		
+2012	10	31		2012	10	31		a_prononcé_une_conversion	Par jugement en date du 31 octobre 2012, le tribunal a prononcé une conversion du redressement judiciaire en liquidation judiciaire avec le maintien de l’activité de la société BELIPA pour une période de 3 mois qui a été renouvelée jusqu’au 1er mai 2013.		'la société BELIPA'
+2015	06	23		2015	06	23		à_la_visite	Selon l’inspection des installations classées, suite à la visite du 23 juin 2015, le site a été remis dans un état tel qui ne présente aucun risque pour les personnes et l’environnement, pour un usage industriel.		
+2015	10	19		2015	10	19		a_été_effectué	Un récépissé de notification de mise à l’arrêt définitif a été effectué en date du 19 octobre 2015		
+								a_été_renouvelée	Par jugement en date du 31 octobre 2012, le tribunal a prononcé une conversion du redressement judiciaire en liquidation judiciaire avec le maintien de l’activité de la société BELIPA pour une période de 3 mois qui a été renouvelée jusqu’au 1er mai 2013.		'la société BELIPA'
+1980				1980				a_été_construite	En 1980, une chaufferie a été construite sur le site.		

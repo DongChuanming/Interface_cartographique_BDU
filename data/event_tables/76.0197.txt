@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09			2009	09			Investigations_complémentaires	- Investigations complémentaires, Évaluation Quantitative des Risques Sanitaires et plan de gestion (HPC – septembre 2009)	'Sanitaires'	
+2007	03			2007	03			Diagnostic_approfondi	- Diagnostic approfondi et Évaluation Quantitative des Risques Sanitaires (HPC – mars 2007)		'Risques Sanitaires'
+2002	12	10		2002	12	10		La_liquidation_judiciaire_de	La liquidation judiciaire de la société a été prononcée le 10 décembre 2002.		
+1982	06	30		1982	06	30		était_autorisée	La société GASLY était autorisée au titre de la réglementation sur les Installations Classées pour la Protection de l'Environnement (ICPE) à exercer ses activités de teinture et d'ennoblissement textile par arrêté préfectoral du 30 juin 1982.		'La société GASLY'
+								a_accueilli	Il a accueilli des activités industrielles de teinturerie et d'ennoblissement textile depuis la fin du 19ème siècle.		
+								s__est_implantée	La société GASLY s'est implantée sur le site avec les mêmes activités au début des années 1900.		'La société GASLY'

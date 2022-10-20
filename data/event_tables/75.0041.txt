@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2017				a_exploité	Le dernier exploitant de la station-service est la société ENI FRANCE qui a exploité à partir de 2002 jusqu'en 2017, date de sa cessation d'activité.		'la société ENI FRANCE'
+2019	03			2019	03			sol_réalisé	Un diagnostic de sol réalisé en mars 2019 à l’aide de 3 sondages positionnés en limite du site au droit de la piste cyclable de l’avenue Kennedy a mis en évidence un impact en hydrocarbures (maximum : 10 100 mg/kg), BTEX (maximum : 3 930 mg/kg), MTBE (maximum : 4,35 mg/kg) et ETBE (maximum : 1 890 mg/kg) entre 3 et 5 m de profondeur.	'hydrocarbures', ', BTEX', ') , MTBE', ') et ETBE'	
+				2017	09			Les_travaux_de_démantèlement	Les travaux de démantèlement des installations pétrolières et de retrait ponctuel des sols impactés ont été menés de juillet à septembre 2017.		
+2018	11			2018	11			Des_investigations_complémentaires_réalisées	Des investigations complémentaires réalisées en novembre 2018 ont mis en évidence un impact résiduel :		
+2017	06	30		2017	06	30		la_cessation_d__activité	Le 30 juin 2017, l'exploitant a notifié la cessation d'activité.		
+1972				1972				a_construit	TOTAL a construit et exploité une station-service dès 1972.		'TOTAL'
+2018	01	08		2018	05	18		Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site ont été réalisés entre le 8 janvier 2018 et le 18 mai 2018.		
+2017	01			2017	01			Un_sondage	Un sondage réalisé en janvier 2017 lors de l’installation du piézomètre PZ5 sur l’autre trottoir de l’avenue Kennedy avait présenté des valeurs en hydrocarbures C10-C40 proches des seuils de quantification et aucun autre composé n’avait été quantifié.	'hydrocarbures C10-C40'	

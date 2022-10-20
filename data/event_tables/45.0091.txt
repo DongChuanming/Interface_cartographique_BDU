@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_été_construit	Certains équipements ont été réalisés : les voies ont été aménagées (rue Jeanne Champillou et rue Pierre Émile Rossignol) et l'Espace Anne Franck a été construit en 2012.		
+2001	10	10		2001	10	10		a_racheté	En date du 10 octobre 2001, la ville de Saint Jean de Braye a racheté le terrain.		'la ville de Saint Jean de Braye'
+2001				2001				la_fermeture_de_l__établissement	Aucune cessation d’activités n’a été déclarée à la préfecture suite à la fermeture de l’établissement en 2001.		
+2012				2012				ont_été_réalisés	Certains équipements ont été réalisés : les voies ont été aménagées (rue Jeanne Champillou et rue Pierre Émile Rossignol) et l'Espace Anne Franck a été construit en 2012.		
+2009	09	21		2009	09	21		Le_diagnostic	Le diagnostic du 21 septembre 2009 fait état d'une pollution aux hydrocarbures et estime la quantité de terre polluées à 615 tonnes.	'hydrocarbures'	
+1937				2001				a_accueilli	Il a accueilli de 1937 à fin 2001 une activité de découpage et d’emboutissage de métaux à froid par choc mécanique, d’estampage, d’emboutissage, de matriçage et forgeage de métaux à chaud, par choc mécanique, avec un stockage de 20 000 litres de fioul, pour lequel il bénéficiait d’un arrêté préfectoral d’autorisation en date du 6 août 1937.	'fioul'	

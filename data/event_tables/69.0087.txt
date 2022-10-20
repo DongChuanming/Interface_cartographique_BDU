@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	10	18		2016	10	18		a_été_pris	Un arrêté de servitude d'utilités publiques a été pris le 18/10/2016.		
+2001				2001				a_été_renforcé	Un suivi piézométrique, effectué depuis 1978, a été renforcé en 2001 par l'implantation de deux nouveaux piézomètres.		
+1999				1999				La_fin	La fin de l'arrêt d'exploitation en 1999 a été suivie d'un réaménagement de la décharge par mise en place d'une couverture bombée constituée principalement d'une couche d'argile de faible perméabilité.		
+				1970				a_été_utilisé	Le site de la FOUILLOUSE a été utilisé jusqu'en 1970 pour l'extraction de granulats destinés à la construction du réseau autoroutier de l'est de l'agglomération lyonnaise.		'la FOUILLOUSE'
+1978				1978				a_été_renforcé	Un suivi piézométrique, effectué depuis 1978, a été renforcé en 2001 par l'implantation de deux nouveaux piézomètres.		

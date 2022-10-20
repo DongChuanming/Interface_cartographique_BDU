@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	09		1996	04	09		signé	Cette activité fait l'objet d'un arrêté d'autorisation signé le 09/04/1996, mis à jour le 19/01/1998 et complété le 21/11/2001.		
+1998	01	19		1998	01	19		mis_à_jour	Cette activité fait l'objet d'un arrêté d'autorisation signé le 09/04/1996, mis à jour le 19/01/1998 et complété le 21/11/2001.		
+2003	05	14		2003	05	14		a_été_signé	Suite à ces investigations, un arrêté préfectoral a été signé le 14/05/2003 en vue d'imposer au groupe ARNAUD la réalisation d'une étude de sol et d'une Évaluation Simplifiée des Risques (ESR).		'groupe ARNAUD'
+2004	11	01		2006	11	28		4_campagnes_ont_été_réalisées	4 campagnes ont été réalisées entre le 01/11/2004 et le 28/11/2006.		
+2004	04	08		2004	04	08		a_été_complétée	La première phase de ces études a été rendue le 01/08/2003 et a été complétée le 08/04/2004. 2 sondages ont été réalisés jusqu'à 7 m de profondeur.		
+				1989	11			est_alors_une_nouvelle_fois_reprise	L'activité est alors une nouvelle fois reprise par la société BALLON jusqu'en novembre 1989.		'la société BALLON'
+1966	03			1966	03			a_repris	A partir de mars 1966, la société BOIS GEDRIL a repris l'activité exercée sur le site.		'la société BOIS GEDRIL'
+1988	03			1988	03			Sa_cessation_d__activité	Sa cessation d'activité a été donnée au mois de mars 1988.		
+2003	08	01		2003	08	01		La_première_phase_de_ces_études_a_été_rendue	La première phase de ces études a été rendue le 01/08/2003 et a été complétée le 08/04/2004. 2 sondages ont été réalisés jusqu'à 7 m de profondeur.		
+				2006	09	12		Elle_exercera	Elle exercera jusqu'au 12/09/2006, date de la notification de sa cessation d'activité.		
+2006	03	27		2006	03	27		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 27/03/2006 en vue d'imposer la surveillance de la qualité des eaux souterraines au droit du site.		
+2003	01			2003	01			rachète	Le groupe ARNAUD rachète le site et son activité en janvier 2003.		'Le groupe ARNAUD'

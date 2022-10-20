@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	08	30		2004	08	30		Réalisation_d__un_diagnostic_approfondi	- Réalisation d'un diagnostic approfondi et d'une EDR, le 30 août 2004, pour les deux projets (lycée horticole et éco quartier), il existe un risque pour la santé humaine.		
+1928				1928				Crée	- Crée en 1928, les activités des Engrais Battaille sont liées à la fabrication, au mélange, stockage, ensachage et la distribution d'engrais sous différentes formes: PK, NPK divers, nitrate...	'PK', 'NPK divers', 'nitrate'	'des Engrais Battaille'
+1997	12			1997	12			Déclaration	- Déclaration de cessation d'activité à compter de fin décembre 1997.		
+1998	04			1998	04			une_étude_préliminaire	- Réalisation d'une étude préliminaire du sol et des eaux souterraines en avril 1998, qui met en évidence la présence de zinc et d'HAP dans les sols.	'zinc', 'HAP'	
+2001	01			2001	01			Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques en janvier 2001, site en classe 2 (à surveiller).		

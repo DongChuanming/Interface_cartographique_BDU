@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	30		2008	06	30		a_été_transmis	Un dossier de cessation d'activité a été transmis en date du 30/06/2008.		
+				2007				exploitait	La société SNECMA MOTEURS (Société Nationale d'Etude et de Construction de Moteurs d'Avion) exploitait jusqu'en 2007 un terrain militaire localisé en partie Nord de la base aérienne d'Istres et appartenant à l'Etat, sur lequel elle a exercé des activités d'essais d'engins propulsés, de stockage et de destruction de produits explosibles.	'produits explosibles'	'La société SNECMA MOTEURS', "Société Nationale d' Etude et de Construction de Moteurs d' Avion"
+2011	04	14		2011	04	14		Le_récolement	Le récolement des travaux a été effectué le 14/04/2011.		
+2005				2005				intègre	L'établissement est rattaché à SNECMA MOTEURS le 01/01/2000 qui intègre le groupe SAFRAN  en 2005.		'SNECMA MOTEURS', 'le groupe SAFRAN'
+2008	04	18		2008	04	18		Un_contrôle	Un contrôle de radioactivité du 18/04/2008 de la zone du bâtiment « banc 5 » a mis en évidence un niveau de radioactivité comparable au bruit de fond géochimique.		
+2010	10			2010	10			ont_été_excavées	Les travaux se sont déroulés en Octobre 2010, 74 tonnes de terres ont été excavées et envoyées en Installation de Stockage de Déchets Dangereux. 3 transformateurs PCB ont été éliminés.	'Déchets Dangereux', 'PCB'	
+1954				1954				a_été_exploité	Le site a été exploité depuis 1954 par la Société Européenne de Propulsion par Réaction (AP du 31/03/1969) qui est devenu SEP par sa fusion avec la division Engins Espace de la Snecma.		'la Société Européenne de Propulsion par Réaction', 'SEP', 'la division Engins Espace', 'la Snecma'

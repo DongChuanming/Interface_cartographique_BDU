@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1908				1908				correspond_à	Ce site correspond à l'emprise d'une usine de production et de stockage d'engrais azotés et phosphatés créée en 1908.	'engrais azotés'	
+1908				1908				ont_été_exercées	Sur ce terrain ont été exercées depuis 1908 des activités industrielles diverses (fabrication d'acides sulfurique, d'engrais, …).	'sulfurique'	
+2010	05	19		2010	05	19		un_diagnostic_approfondi	- un diagnostic approfondi et une évaluation quantitative des risques sanitaires en date du 19 mai 2010,		
+2012	03			2012	03			ont_été_proposées	Des mesures de gestion ont été proposées par l'exploitant dans le cadre d'un premier plan de gestion en mars 2012.  Celui-ci a fait l'objet d'une tierce expertise qui a conduit à la remise d'un plan de gestion actualisé en avril 2014 (comprenant notamment des nouvelles analyses des sols et de la nappe sur 2013 et 2014).		
+2016	08	30		2016	08	30		a_été_pris	Un second arrêté instituant des servitudes d'utilité publique à l'extérieur du site a été pris le 30 août 2016.		
+2012	03			2012	03			__a_institué	Un arrêté préfectoral du 30 janvier 2014  a institué des servitudes d'utilité publique au droit du site, en se basant sur le plan de gestion de mars 2012.		
+2017	02			2017	02			a_été_transmis	Le rapport de fin de travaux est a été transmis à l'inspection en février 2017.		
+2009	07			2009	07			a_porté_à_notre_connaissance	En juillet 2009, l'exploitant a porté à notre connaissance la présence d'eau acide (pH : 2,85) dans un prélèvement à partir d'un piézomètre.		
+2000	05	12		2000	05	12		doit	En application de l'arrêté préfectoral du 12 mai 2000, l'exploitant doit réaliser un contrôle semestriel de la qualité des eaux souterraines par prélèvement dans 4 piézomètres.		
+2011	03	02		2011	03	02		une_évaluation_complémentaire	- une évaluation complémentaire de la qualité des eaux souterraines du 02 mars 2011,		
+2010	11			2010	11			réalisé_dans_le_cadre_de	- un diagnostic des sols réalisé dans le cadre de l'implantation des voies routières de raccordement au pont Flaubert de novembre 2010,		
+2010	11			2010	11			de	- un diagnostic des sols réalisé dans le cadre de l'implantation des voies routières de raccordement au pont Flaubert de novembre 2010,		
+2014	04			2014	04			actualisé	Des mesures de gestion ont été proposées par l'exploitant dans le cadre d'un premier plan de gestion en mars 2012.  Celui-ci a fait l'objet d'une tierce expertise qui a conduit à la remise d'un plan de gestion actualisé en avril 2014 (comprenant notamment des nouvelles analyses des sols et de la nappe sur 2013 et 2014).		
+2014				2014				la_nappe_sur	Des mesures de gestion ont été proposées par l'exploitant dans le cadre d'un premier plan de gestion en mars 2012.  Celui-ci a fait l'objet d'une tierce expertise qui a conduit à la remise d'un plan de gestion actualisé en avril 2014 (comprenant notamment des nouvelles analyses des sols et de la nappe sur 2013 et 2014).		
+2012	03	13		2012	03	13		une_étude_avant_projet_de_traitement	- une étude avant projet de traitement des eaux souterraines acides du 13 mars 2012,		
+2006				2006				a_fourni	L'exploitant a fourni le 17 août  2006 à monsieur le Préfet, une note relative à la cessation d'activité du site.		'monsieur le Préfet'
+2010	05	19		2010	05	19		à_une_visite_d__inspection	Notamment, les bordereaux des déchets radiologiquement ont été fournis (par courrier RETIA du 17/06/2010, suite à une visite d'inspection du 19/05/2010).		'RETIA'
+2014	05			2016	06			Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site se sont déroulés de mai 2014 à fin juin 2016.		
+								a_fourni	L'exploitant a fourni le 17 août  2006 à monsieur le Préfet, une note relative à la cessation d'activité du site.		'monsieur le Préfet'
+2017	04	19		2017	04	19		Le_procès_verbal_de_récolement	Le procès-verbal de récolement du site a été dressé par l'inspection le 19 avril 2017: il signe l'achèvement des travaux de réhabilitation conformément aux objectifs fixés, lesquels permettent d'assurer la compatibilité de l'usage futur des terrains avec l'état des terrains.		
+2016	04	1		2016	04	1		arrêté	L'arrêté du 1er avril 2016 a encadré la réalisation des travaux de réhabilitation et a fixé l'ensemble des objectifs de réhabilitation pour les zones sources identifiées.		
+2013				2013				la_nappe_sur	Des mesures de gestion ont été proposées par l'exploitant dans le cadre d'un premier plan de gestion en mars 2012.  Celui-ci a fait l'objet d'une tierce expertise qui a conduit à la remise d'un plan de gestion actualisé en avril 2014 (comprenant notamment des nouvelles analyses des sols et de la nappe sur 2013 et 2014).		
+1908				1908				créée	Ce site correspond à l'emprise d'une usine de production et de stockage d'engrais azotés et phosphatés créée en 1908.	'engrais azotés'	

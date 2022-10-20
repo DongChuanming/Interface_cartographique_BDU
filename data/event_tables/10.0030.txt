@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	08			2010	08			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en août 2010 au niveau de l'atelier de traitement de surface.		
+2009	12			2009	12			a_été_produit	UN plan de gestion a été produit par l'exploitant en décembre 2009.		
+1999	02	12		1999	02	12		Un_diagnostic_initial_des_sols	Un diagnostic initial des sols et une évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 12/02/1999.		
+2004	07			2004	07			ont_été_réalisés	Les piézomètres ont été réalisés fin juillet 2004.		
+								La_dépollution	La dépollution et la remise en état du site ont été encadrés par Arrêté préfectoral complémentaire du 10/05/11.		
+2001	06	21		2001	06	21		étape_B_du_diagnostic_initial	L'étape B du diagnostic initial et l'évaluation simplifiée des risques ont été adressés à l'inspection des installations classées le 21 juin 2001.		
+2010	11			2010	11			a_été_mis_en_place	Un pilote de dépollution concernant les polluants chlorés a été mis en place en novembre 2010.	'les polluants chlorés'	
+2008	04			2008	04			prescrit_la_réalisation_d__une_EDR	L'APC du 16 avril 2007 prescrit la réalisation d'une EDR avant avril 2008.		'APC'
+2001	10	25		2001	10	25		ont_été_recus	Ces compléments ont été recus le 25/10/2001.		
+2009				2009				ont_été_annotées	L'ensemble des activités industrielles du site ont été annotées en 2009.		

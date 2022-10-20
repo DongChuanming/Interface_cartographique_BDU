@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	04	11		2005	04	11		sont_remis	Les rapport d'étape A et B sont remis les 28 septembre 2004 et 11 avril 2005.		
+2005	2004			2005	2004			du_diagnostic	L'étude hydrogéologique menée à l'appui du diagnostic de 2004/2005 montre que le site est implanté sur des argiles et, en conséquence, il n'existe pas de nappe.		
+2007	02	26		2007	02	26		est_autorisée	Cette installation est autorisée par l'arrêté préfectoral du 11 février 1998 modifié le 26/02/2007.		
+1986				2004				ont_été_utilisés	De 1986 à 2004, des produits à base Cuivre, Chrome et Arsenic ont été utilisés.	'Cuivre', 'Chrome', 'Arsenic'	
+2008	02	19		2008	02	19		Le_rapport_de_visite	Le rapport de visite du 19 février 2008 indique qu'un piézomètre a été installé en aval de l’installation en mai 2005 et qu'aucune présence d’eau n’a été relevée lors des campagnes.		
+2005	05			2005	05			a_été_installé	Le rapport de visite du 19 février 2008 indique qu'un piézomètre a été installé en aval de l’installation en mai 2005 et qu'aucune présence d’eau n’a été relevée lors des campagnes.		
+2004	09	28		2004	09	28		sont_remis	Les rapport d'étape A et B sont remis les 28 septembre 2004 et 11 avril 2005.		

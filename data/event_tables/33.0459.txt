@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	09	05		2014	09	05		la_cessation_d__activité	Par courrier du 5 septembre 2014, la SELARL MALMEZAT-PRAT a déclaré, à Monsieur le Préfet de la Gironde, la cessation d'activité de l’établissement SOBODEC FRANCE PRODUCTION à Artigues-Près-Bordeaux, dont elle a en charge la liquidation.		'la SELARL MALMEZAT - PRAT', 'le Préfet', 'la Gironde', 'SOBODEC FRANCE PRODUCTION'
+2014	09			2014	09			a_été_mise_en_liquidation	La société SOBODEC FRANCE PRODUCTION a été mise en liquidation en septembre 2014.		'La société SOBODEC FRANCE PRODUCTION'
+2015	04	14		2015	04	14		m_de_profondeur	10 sondages à la tarière mécanique sur chenille (identifiés S1 à S10) ont été réalisés jusqu’à 4 m de profondeur le 14/04/2015 à proximité de ces zones.		
+2015	04	03		2015	04	03		est_neutralisée	La station est neutralisée depuis le 3 avril 2015.		
+								Le_chantier_a	Le chantier a duré 9 semaines, la station a fonctionné pendant 7 semaines pendant lesquelles une analyse hebdomadaire des rejets en sortie de station a été réalisée.		
+2015	05	29		2015	05	29		a_fourni_par_courriers	La SELARL MALMEZAT-PRAT a fourni par courriers du 29 mai 2015 et 9 juin 2015 le bilan du fonctionnement de la STEP durant le chantier.		'La SELARL MALMEZAT - PRAT'
+2005				2005				l__enlèvement_d__un_transformateur	Enfin, le bilan environnemental, réalisé en juin 2014 par la société GALTIER dans le cadre de la cessation d’activité du site, mentionne l’enlèvement d’un transformateur aux PCB en 2005.	'PCB'	'la société GALTIER'
+2004				2004				l__incendie	- l’activité industrielle de traitement de surface et notamment la zone ayant subie l’incendie de 2004.		
+2014	11	20		2014	11	20		de_l__inspection	Lors de l’inspection du 20 novembre 2014, la dalle béton au droit de la chaufferie et zone compresseurs nous a alertés par la présence d’hydrocarbures.	'hydrocarbures'	
+								a_été_réalisée	Le chantier a duré 9 semaines, la station a fonctionné pendant 7 semaines pendant lesquelles une analyse hebdomadaire des rejets en sortie de station a été réalisée.		
+2015	06	16		2015	06	16		Le_procès_verbal_de_récolement	Le procès-verbal de récolement a été dressé par l'inspection le 16/06/2015 et conclut que :		
+2014	11	20		2014	11	20		a_alertés	Lors de l’inspection du 20 novembre 2014, la dalle béton au droit de la chaufferie et zone compresseurs nous a alertés par la présence d’hydrocarbures.	'hydrocarbures'	
+2005				2005				mentionne	Enfin, le bilan environnemental, réalisé en juin 2014 par la société GALTIER dans le cadre de la cessation d’activité du site, mentionne l’enlèvement d’un transformateur aux PCB en 2005.	'PCB'	'la société GALTIER'
+2015	04	22		2015	04	22		précise	De même, par courrier du 22 avril 2015, Bordeaux Métropole précise ne pas être opposé à cette proposition au regard du PLU actuel.		'Bordeaux Métropole'
+2015	03	18		2015	03	18		a_répondu_favorablement_à	Par courrier du 18 mars 2015, la société AUSTRA a répondu favorablement à la proposition d’usage de type industriel.		'la société AUSTRA'
+2014	06			2014	06			réalisé	Enfin, le bilan environnemental, réalisé en juin 2014 par la société GALTIER dans le cadre de la cessation d’activité du site, mentionne l’enlèvement d’un transformateur aux PCB en 2005.	'PCB'	'la société GALTIER'
+2014	09	05		2014	09	05		Par_courrier	Par courrier du 5 septembre 2014, la SELARL MALMEZAT-PRAT a déclaré, à Monsieur le Préfet de la Gironde, la cessation d'activité de l’établissement SOBODEC FRANCE PRODUCTION à Artigues-Près-Bordeaux, dont elle a en charge la liquidation.		'la SELARL MALMEZAT - PRAT', 'le Préfet', 'la Gironde', 'SOBODEC FRANCE PRODUCTION'

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1920				1920				construit	Le site construit en 1920 par une société qui fabriquait des mandrins porte forêt a été occupé entre 1974 et 1994 par des sociétés fabriquant des freins à tambour puis entre 1994 et 1998 par une fabrique de céréales qui a été ravagée par un incendie.		
+1974				1994				a_été_occupé	Le site construit en 1920 par une société qui fabriquait des mandrins porte forêt a été occupé entre 1974 et 1994 par des sociétés fabriquant des freins à tambour puis entre 1994 et 1998 par une fabrique de céréales qui a été ravagée par un incendie.		

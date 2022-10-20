@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				L___Étude_Détaillée_des_Risques	L' Étude Détaillée des Risques réalisée en 2002 conclue au classement de la SEREP en catégorie 2 : « site à surveiller » notamment par rapport aux risques sur les eaux souterraines pour les usages non AEP, les eaux superficielles et le sol.		
+1998				1998				ont_été_implantés	Quatre piézomètres ont été implantés sur le site en 1998 notamment au niveau des cuvettes de rétention des stockages.		
+2010	12	07		2010	12	07		est_agréé	L'établissement est agréé pour le traitement des huiles usagées par arrêté préfectoral du 7 décembre 2010.		
+2011	02			2011	02			Lors_de_la_dernière_campagne	Lors de la dernière campagne en février 2011 la teneur en plomb était de 0,02 mg/l.	'plomb'	
+				2010				ont_toujours_été_inférieures	En effet, les teneurs en plomb enregistrées au droit de l'ouvrage PZ D ont toujours été inférieures à la valeur seuil de 0,01 mg/l jusqu'en 2010.	'plomb'	
+2011	02			2011	02			Lors_de_la_dernière_campagne	Lors de la dernière campagne en février 2011 la teneur en plomb était de 0,12 mg/l.	'plomb'	
+2002				2002				du_diagnostic_de_sol_Phase_B_réalisé	Lors du diagnostic de sol Phase B réalisé en 2002, les analyses effectuées sur les eaux souterraines au droit des 4 piézomètres ont montrées uniquement la présence de teneurs en polluants supérieures aux Valeurs de Constats d'Impacts (VCI) dans un seul piézomètre: l'ouvrage PZC; avec des teneurs de nickel de l'ordre de 110 µg/l au lieu de 50 µg/l et des teneurs en hydrocarbures totaux (HCT) de l'ordre de 100 µg/l au lieu de 10 µg/l.	'nickel', 'hydrocarbures totaux', 'HCT'	
+2005	02			2005	02			ont_été_réalisées	Les analyses complémentaires ont été réalisées en février 2005, l'interprétation des résultats obtenus grâce à ces analyses a mis en évidence la présence de 2 zones de pollution.		
+2011	02			2011	02			de_la_dernière_campagne	Lors de la dernière campagne en février 2011 la teneur en plomb était de 0,26 mg/l.	'plomb'	
+2005	02			2005	02			a_mis_en_évidence	Les analyses complémentaires ont été réalisées en février 2005, l'interprétation des résultats obtenus grâce à ces analyses a mis en évidence la présence de 2 zones de pollution.		

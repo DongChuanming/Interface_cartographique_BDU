@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	02	04		1999	02	04		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 4 février 1999.		
+2010	11			2010	11			La_campagne_de	La campagne de novembre 2010 met en évidence une diminution des teneurs en zinc et fer en amont et en aval.	'zinc', 'fer'	

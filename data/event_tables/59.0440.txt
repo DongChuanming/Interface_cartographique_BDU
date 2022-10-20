@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								avait_été_mise_à_l__arrêt	Auparavant, l'aciérie exploitée par la société Vallourec à Anzin sur le terrain mitoyen du site AESV avait été mise à l'arrêt vers la fin des années 80.		'la société Vallourec', 'AESV'
+2011				2011				Projet	Projet en 2011: construction d'immeubles de bureaux et commerces (Cybercentre).		
+2000				2000				L__exploitation	L'exploitation du site AESV a cessé en 2000 lorsque la société Vallourec, pour rationaliser son outil de production, a décidé de rapatrier à la Tuberie de Saint-Saulve les activités jusqu'alors exercées en cette usine.		'AESV', 'la société Vallourec', 'la Tuberie'
+2003	10			2003	10			a_été_excavée	Cette poche de pollution (ainsi que l'ensemble des terres souillées par elle) a été excavée et éliminée en CET de classe 1 en octobre 2003.		
+2004	05			2004	05			Travaux	Travaux en mai 2004: confinement de la zone polluée au plomb , nettoyages divers (traces d'huiles, vidange d'une fosse).	'plomb'	

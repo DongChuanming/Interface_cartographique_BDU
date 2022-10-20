@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09	17		1999	09	17		la_cessation_d__activité	Elle a donc déclaré la cessation d'activité du site de Sinsat le 17 septembre 1999.		
+1991	09	16		1991	09	16		réglementée	L'entreprise est réglementée par l'arrêté préfectoral du 16 septembre 1991.		
+2001	05	04		2001	05	04		La_remise_en_état	La remise en état du site a été demandée par courrier de la préfecture en date du 04/05/2001.		
+1998				1998				a_relancé	L'IIC a relancé l'exploitant en 1997 et 1998.		
+2001	03	08		2001	03	08		a_cessé_toute_activité	L'entreprise a cessé toute activité le 08/03/2001.		
+2003	03	13		2003	03	13		a_transmis_officieusement	Par télécopie du 13 mars 2003, le cabinet GESTER a transmis officieusement à l'IIC des propositions techniques d'actions qu'il a proposées à l'exploitant.		'le cabinet GESTER'
+2018	07	19		2018	07	19		de_la_visite	Lors de la visite du 19 juillet 2018, l'inspection a constaté la réutilisation des bâtiments par des activités à caractère industriel.		
+1997				1997				a_relancé	L'IIC a relancé l'exploitant en 1997 et 1998.		
+2006	06	30		2006	06	30		a_été_mis_en_liquidation_judiciaire	Malgré les relances du 20 avril 2004 et du 30 juin 2006, l'exploitant qui s'était replié sur un atelier à Vicdessos a été mis en liquidation judiciaire.		
+1996	04	03		1996	04	03		a_prescrit	Cependant, compte tenu que l'ensemble des activités exercées sur le site (et pas seulement la cuve de stockage d'effluents) sont susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, un arrêté préfectoral complémentaire du 10 novembre 2000, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant de réaliser un diagnostic initial et une évaluation simplifiée des risques sur l'ensemble de ce site dans un délai de six mois.	"cuve de stockage d' effluents"	
+2000	01	27		2000	01	27		a_constaté	L'IIC a constaté le 27 janvier 2000 que le site de Sinsat n'était plus occupé et qu'il faisait l'objet d'une mise à la vente ou à la location.		'IIC'
+2002	02	13		2002	02	13		a_été_reçue	La phase B du diagnostic environnemental a été reçue le 13 février 2002 et a fait l'objet d'une lettre d'observations en date du 14 février 2003.		
+2003	03	13		2003	03	13		Par	Par télécopie du 13 mars 2003, le cabinet GESTER a transmis officieusement à l'IIC des propositions techniques d'actions qu'il a proposées à l'exploitant.		'le cabinet GESTER'
+1988				1988				créée	Entreprise artisanale de mécanique et de travail des métaux, créée en 1988 (SAREM) et comportant une activité d'electro-zingage.		
+2001	09	07		2001	09	07		L__étude_a_été_déposée	L'étude a été déposée à l'inspection des installations classées et a fait l'objet d'un examen qui a donné lieu à une lettre d'observations en date du 07/09/2001.		

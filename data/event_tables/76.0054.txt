@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				La_première_campagne_de_mesure	La première campagne de mesure de 1994 avait mis en évidence la présence de 3 zones contaminées :		
+1998	03			1998	03			a_donné_lieu_à	Le suivi de la qualité de la nappe opéré durant quatre années a donné lieu à un rapport final en mars 1998 a permis de constater la résorption de la pollution.		
+1994	12			1994	12			a_cessé	Depuis décembre 1994, la société KIWI France (SARA-LEE/DE FRANCE) a cessé les activités qu'elle exerçait sur son site de Sotteville lès Rouen.		'la société KIWI France', 'SARA - LEE / DE FRANCE'
+1994				1996				plusieurs_études	dans le cadre de la remise en état du site, plusieurs études visant à caractériser l'état des sols et des eaux souterraines ont été réalisées entre 1994 et 1996 et finalisées par une Evaluation simplifiée des risques.		
+1996				1996				les_investigations_complémentaires_conduites	les investigations complémentaires conduites en 1996 ont montré, après vidanges des cuves enterrées, qu'il n'existait plus sur le site de source de contamination.		
+				1994				a_exploité	La société KIWI a exploité sur ce site une usine de fabrication de cirages jusqu'en 1994.		'La société KIWI'

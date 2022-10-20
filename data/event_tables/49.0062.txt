@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	23		2003	06	23		ont_été_demandés_par_courrier	Des compléments ont été demandés par courrier du 23 juin 2003 qui est resté sans suite.		
+2014	09			2014	09			un_diagnostic_des_sols_réalisé	Notamment, un diagnostic des sols réalisé par la société SEREA en septembre 2014 a été joint à cette notification.		'la société SEREA'
+2002	07	18		2002	07	18		les_installations	Puis, la société Cholet bus a déclaré le 18 juillet 2002 sous la dénomination CGFTE Cholet les installations suivantes :		'la société Cholet bus', 'CGFTE Cholet'
+2017	05	11		2017	05	11		____située	Par courrier du 11 mai 2017, la société « Cholet bus » située au 1, rue de Langeais à Cholet a notifié sa cessation d'activités.		'la société « \xa0 Cholet bus'
+1974	07	1		1974	07	1		a_été_délivré_par	Un récépissé de déclaration a été délivré par la préfecture de Maine-et-Loire le 1er juillet 1974 au nom de Transports Urbains de Cholet pour l’exploitation d’un garage et d’un poste de distribution de carburant.	'carburant'	'la préfecture de Maine-et-Loire', 'Transports Urbains de Cholet'
+2014	09			2014	09			Le_diagnostic_des_sols_réalisé	Le diagnostic des sols réalisé par la société SEREA en septembre 2014 met en évidence des teneurs en hydrocarbures supérieures à la valeur seuil de 500mg/Kg de MS sur trois zones :	'hydrocarbures'	'la société SEREA'

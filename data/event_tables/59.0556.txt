@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957				1998				a_rejeté	- De 1957 à 1998, Air Liquide a rejeté le lait de chaux directement dans l'ancienne carrière (quantité estimée: 480 000 m3)	'lait de chaux'	'Air Liquide'
+1957				1957				exploitée	- Ancienne carrière de calcaires exploitée avant 1957 pour l'industrie sidérurgique locale.		

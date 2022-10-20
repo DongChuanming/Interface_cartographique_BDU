@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2003	02	18		est_intervenue_sur_le_site	La société SERPOL est intervenue sur le site entre le 5 et le 18 février 2003 afin de retirer les terres contaminées en hydrocarbures.	'hydrocarbures'	'La société SERPOL'
+2002	02	04		2002	02	04		a_été_envoyé	Un dossier de cessation d'activité a été envoyé à l'inspection des installations classées en date du 04/02/2002.		
+2002	02	04		2002	02	04		cessation_d__activité	Le dossier de cessation d'activité du 04/02/2002 comprenait une étude des sols.		
+1953				1953				est_par_la_suite_racheté	Il est par la suite racheté en 1953 par la société GUITEL qui y exercera un activité de fabrication de caoutchouc et de matière plastique jusqu'en 2002.	'caoutchouc'	'la société GUITEL'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__pour_la_remise_en_état_de	En conséquence, l’exploitant est tenu de respecter, pour la remise en état de son site, les dispositions des anciens articles R.512-74 et L. 512-12-1 du Code de l’Environnement.		
+								janvier_2010__	L’exploitant a notifié au Préfet le 26 novembre 2009 la cessation d’activité pour le 31 janvier 2010.		'L’ exploitant a notifié'
+1972	01	02		1972	01	02		9215_3_du	La Société TOTAL bénéficie d’un récépissé de déclaration n° 9215/3 du 02 janvier 1972 pour l’exploitation d’une station-service dénommée « Relais de Saint-Eloy » sur le territoire de la commune de METZ.		'déclaration n°', 'Saint-Eloy » sur le territoire'
+								2009_la_cessation	L’exploitant a notifié au Préfet le 26 novembre 2009 la cessation d’activité pour le 31 janvier 2010.		'L’ exploitant a notifié'
+								notifié_au_Préfet	L’exploitant a notifié au Préfet le 26 novembre 2009 la cessation d’activité pour le 31 janvier 2010.		'L’ exploitant a notifié'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				était_à_vocation_agricole	Avant 1987, cette parcelle était à vocation agricole.		
+1987				1987				a_démarré	-Ensuite la société à étendu ses activités en implantant une seconde usine; la construction des bâtiments de tuileries des flandres a démarré en 1987 et s'est achevée en 1989.		
+1989				1989				s__est_achevée	-Ensuite la société à étendu ses activités en implantant une seconde usine; la construction des bâtiments de tuileries des flandres a démarré en 1987 et s'est achevée en 1989.		
+2003	01	1		2003	01	1		Site_industriel_à_l__arrêt	Site industriel à l'arrêt depuis le 1er janvier 2003 et dont l'activité a potentiellement pu conduire à une pollution des sols par des hydrocarbures (HAP, HCT), BTEX, des métaux, et Baryum.	'hydrocarbures', 'HAP', 'HCT', 'BTEX', 'des métaux', 'Baryum'	
+1999				1999				L__étude_menée	L'étude menée en 1999 a permis d'établir que les risques de pollution des sols étaient faibles au regard de :		
+1989				1989				l__activité_récente	- l'activité récente du site (depuis 1989)		
+1852				1852				implanté_à	- La société Woestelandt comprenait uniquement le site des Céramiques, implanté à Nieurlet depuis 1852.		'La société Woestelandt'
+1989				1989				a_démarré	-Ensuite la société à étendu ses activités en implantant une seconde usine; la construction des bâtiments de tuileries des flandres a démarré en 1987 et s'est achevée en 1989.		

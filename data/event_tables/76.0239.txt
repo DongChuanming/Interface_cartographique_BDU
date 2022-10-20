@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04	04		2013	04	04		A_cette_période___un_constat_de_pollution	A cette période, un constat de pollution des eaux prélevées au niveau des forages de la Chapelle a été communiqué à l'administration, ce qui a motivé l'arrêté de mesure d'urgence du 04 avril 2013.		
+1973				1986				exploitation_d__un	De 1973 à 1986, pour le secteur 11, exploitation d'un dépôt pétrolier par la société ESSO.	'société ESSO .'	
+1919				1959				exploitation	De 1919 à 1959, pour les secteurs 9 et 10, exploitation d'une usine de production de matières colorantes (Période Khulman - Francolor).		
+3930				3930				__l___des_valeurs	Un dépassement important (3930 mg/l) des valeurs guides  pour les sulfates (200 mg/l pour les eaux brutes) est observé au niveau du piézomètre PZ9 (secteur 9) dans les prélèvements des mois de juin et décembre 2013, sans que l'exploitant ne rapproche cet impact d'une source identifiée.	'200 mg / l pour les eaux brutes'	'mois de juin'

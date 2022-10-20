@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	19		2006	10	19		Une_déclaration	Une déclaration de cessation d'activité a été transmise à la préfecture le 19 octobre 2006.		
+2009				2009				un_démantèlement	Le site a fait l'objet d'un démantèlement et d'une dépollution en 2009 et 2010.		
+2002				2002				à_la_reprise_des_activités	Différents exploitants se sont succédés à la suite jusqu'à la reprise des activités en 2002 par la société Worex.		'la société Worex'
+1968				1968				a_été_exploité	Sur ce site d'une superficie d'environ 700 m2, a été exploité depuis 1968 un dépôt de produits pétroliers avec une capacité de stockage de 180 m3 (3 x 60 m3).	'de produits pétroliers'	
+2012	04	04		2012	04	04		a_reçu	L'inspection des installations classées a reçu le 04 avril 2012:		
+2010				2010				un_démantèlement	Le site a fait l'objet d'un démantèlement et d'une dépollution en 2009 et 2010.		

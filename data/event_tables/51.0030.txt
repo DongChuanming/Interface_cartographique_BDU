@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02	17		1998	02	17		ont_été_enlevées	30 m3 de terres polluées par des huiles en zone R7 ont été enlevées et éliminées le 17/02/1998.	'des huiles'	
+1998	03	16		1998	03	16		Etude_de_sols_prescrite	Etude de sols prescrite par arrêté préfectoral du 16 mars 1998.		
+1999	04	06		1999	04	06		Rapport_final_reçu	Rapport final reçu le 6 avril 1999.		

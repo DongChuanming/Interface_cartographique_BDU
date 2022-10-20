@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				L__élimination	- L'élimination des goudrons par incinération à la centrale d'Hornaing a été réalisée en 2001.	'goudrons'	
+1998	09			1998	09			__diagnostic_approfondi	- En septembre 1998: diagnostic approfondi des bassins à goudrons, ainsi qu'une ESR et EDR qui classent le site en classe 1: à investiguer.	'goudrons'	
+2007	07	12		2007	07	12		récolement	- PV de récolement du 12/07/2007 des travaux de remise en état des marais à goudrons du terril 205 des anciennes cokeries de Drocourt.		
+1972				1980				était_envoyée_dans	- De 1972 à 1980, une partie des eaux de la cokerie était envoyée dans le bassin à l'est du terril 205; ces eaux comprenaient les eaux ammoniacales venant des colonnes de distillation, les eaux de décantation et des eaux pluviales.	'eaux ammoniacales'	

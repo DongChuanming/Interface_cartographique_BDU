@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	09		2006	01	09		a_été_transmis	Le dossier de cessation d’activité a été transmis à l’inspection des installations classées le 9 janvier 2006.		
+2010	10	14		2010	10	14		a_été_signé	En outre, un arrêté préfectoral prescrivant des servitudes d’utilité publique a été signé le 14 octobre 2010.		
+2007	04	05		2007	04	05		a_alors_été_signé	Un arrêté préfectoral complémentaire visant à prescrire une surveillance de la qualité des eaux souterraines a alors été signé le 5 avril 2007.		
+1997				2006				des_diagnostics	L’exploitant a fait réaliser des diagnostics des sols de son site de 1997 à 2006.		
+				2011	12			des_investigations_complémentaires	Entre septembre et décembre 2011, des investigations complémentaires ont été réalisées au droit de 5 zones sources potentielles identifiées lors des diagnostics précédents.		
+2006				2006				est_réalisé	Un suivi semestriel des eaux souterraines est réalisé depuis 2006.		

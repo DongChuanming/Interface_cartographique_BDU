@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_ensuite_procédé	Le BRGM a ensuite procédé, en 1996, à une première évaluation du site, confirmant la nature des terres de filtration et la présence de solvants liquides.		'Le BRGM'
+2005	07			2005	07			Une_nouvelle_caractérisation_des_dépôts_enfouis	Une nouvelle caractérisation des dépôts enfouis a été effectuée en Juillet 2005.		
+								ce_réaménagement	La préfecture avait pris acte au début des années 70 de ce réaménagement.		
+1965				1970				ont_été_effectués	Ces dépôts ont été effectués de 1965 à 1970 pendant la période d'exploitation de ce site (autorisée par arrêté préfectoral du 26/09/1964) jusqu'à sa fermeture, en 1971 (décision du 15/07/1970 de l'autorité préfectorale).		
+								avait_pris_acte	La préfecture avait pris acte au début des années 70 de ce réaménagement.		
+1970	07	15		1970	07	15		décision	Ces dépôts ont été effectués de 1965 à 1970 pendant la période d'exploitation de ce site (autorisée par arrêté préfectoral du 26/09/1964) jusqu'à sa fermeture, en 1971 (décision du 15/07/1970 de l'autorité préfectorale).		
+1994				1994				a_fait_procéder_par	En attendant de progresser sur la difficile question de la responsabilité du site, la DRIRE a fait procéder par le BRGM en 1994, à un premier diagnostic du site.		'la DRIRE', 'le BRGM'
+2014				2014				a_demandé	A la suite de nouvelles visites de l'inspection sur site début 2014, la DREAL a demandé à l'Ademe d'évaluer le coût de la mise en sécurité du site.		'la DREAL'
+1971				1971				à_sa_fermeture	Ces dépôts ont été effectués de 1965 à 1970 pendant la période d'exploitation de ce site (autorisée par arrêté préfectoral du 26/09/1964) jusqu'à sa fermeture, en 1971 (décision du 15/07/1970 de l'autorité préfectorale).		
+2014				2014				de_nouvelles_visites	A la suite de nouvelles visites de l'inspection sur site début 2014, la DREAL a demandé à l'Ademe d'évaluer le coût de la mise en sécurité du site.		'la DREAL'

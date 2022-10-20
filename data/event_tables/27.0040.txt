@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01			2010	01			une_demande_de_Certificat_d__Urbanisme	Un projet de reconversion du site pour un usage commercial fait l'objet d'une demande de Certificat d'Urbanisme (CU) en janvier 2010.		
+2005	03	09		2005	03	09		est_demandée	A la suite de ces constats, la mise en place de restrictions d'usage est demandée par arrêté préfectoral du 09 mars 2005.		
+1999	12	29		1999	12	29		La_cessation_d__activité	La cessation d'activité est intervenue le 29 décembre 1999, à la suite d'un placement en liquidation judiciaire.		
+2007	12	11		2007	12	11		des_arrêtés_de_travaux_d_	L'exploitant étant défaillant, l'intervention de l'ADEME est sollicitée et des arrêtés de travaux d'office et d'occupation temporaire des lieux sont pris les 11 décembre 2007 (clôture) et 14 mars 2008 (élimination des déchets) afin de permettre son intervention.		
+1992	07	31		1992	07	31		utilise_quant_à_elle_officiellement	La société Fonderie de Vernon utilise quant à elle officiellement le site depuis le 31 juillet 1992, date de l'arrêté préfectoral d'autorisation.		'La société Fonderie de Vernon'
+2002				2002				une_Evaluation_Simplifiée_des_Risques	Le liquidateur a fait procéder à l'enlèvement d'un certain volume de déchets et à l'élaboration d'un diagnostic sur l'état du site par la société ANTEA avec une Evaluation Simplifiée des Risques (ESR) en 2002 et une étude des sols.		'la société ANTEA'
+2008	09			2008	09			La_vente_des_terrains	La vente des terrains de la fonderie à la société FONCAR (activité de commerce de gros de bois et de matériaux de construction) s'effectue en septembre 2008.		'la société FONCAR'

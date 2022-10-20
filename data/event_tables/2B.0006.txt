@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				qui_ont_été_démantelés	.F. a exploité à partir de 1962 et jusqu’en 2012, dans l’enceinte de la zone réservée de l’aéroport de Bastia-Poretta, des installations pétrolières et des stockages d’hydrocarbures, qui étaient soumis à la législation des installations classées pour la protection de l’environnement et qui ont été démantelés en 2012 par la société ESSO S.	'hydrocarbures'	'la société ESSO S.'
+2014	03			2014	03			a_été_transmis	Un rapport de fin travaux en ce sens a été transmis à l’inspection des installations classées de Haute-Corse en mars 2014 et décembre 2016.		
+2010				2016				ont_été_menées	Les différentes phases d’investigation qui ont été menées sur les milieux souterrains entre 2010 et juillet 2016 ont montré la présence d’un impact dans les sols.		
+2010				2016				investigations_du_milieu_souterrain_menées	Le plan de gestion environnemental fait suite aux investigations du milieu souterrain menées entre 2010 et 2016.		
+2016	12			2016	12			a_été_transmis	Un rapport de fin travaux en ce sens a été transmis à l’inspection des installations classées de Haute-Corse en mars 2014 et décembre 2016.		
+2013				2013				a_été_démantelé	Le site a été démantelé durant l’année 2013.		
+				2012				a_exploité	.F. a exploité à partir de 1962 et jusqu’en 2012, dans l’enceinte de la zone réservée de l’aéroport de Bastia-Poretta, des installations pétrolières et des stockages d’hydrocarbures, qui étaient soumis à la législation des installations classées pour la protection de l’environnement et qui ont été démantelés en 2012 par la société ESSO S.	'hydrocarbures'	'la société ESSO S.'
+2007	02	08		2007	02	08		a_donc_transmis	.F. a donc transmis un plan de gestion conformément à la circulaire du 8 février 2007.		
+1969	02	10		1969	02	10		a_été_autorisée_à_exploiter	.F. a été autorisée à exploiter le dépôt d’hydrocarbures sur le site de l’aéroport de Bastia-Poretta complété par les arrêtés du 12 septembre 1966 et du 10 février 1969.	'hydrocarbures'	

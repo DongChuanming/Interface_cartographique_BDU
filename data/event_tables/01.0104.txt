@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12	04		2007	12	04		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été délivré le 4 décembre 2007 à l'exploitant.		
+2006	06	1		2006	06	1		son_rapport	Dans son rapport du 1er juin 2006, l'inspection des installations classées propose au Préfet de l'Ain de demander des compléments au dossier.		
+1991	03	18		1991	03	18		__Elle_a_obtenu_un	La société COGEMOULE (ex JAUD) a exploité à Groissiat, parc industriel sud, lieu-dit "Nerciat", une unité de conception et de fabrication de moules par des procédés d'usinage et d'électroérosion.  Elle a obtenu un récépissé de déclaration le 18 mars 1991 pour l'activité de travail mécanique des métaux.		'La société COGEMOULE', 'JAUD'
+2007	11	08		2007	11	08		a_transmis	Par courrier du 8 novembre 2007, l'exploitant a transmis au préfet le rapport, en date du 9 octobre 2007, établit par le bureau d'études CSD AZUR, suite aux dernières interventions effectuées sur le site en septembre 2007.		'CSD AZUR'
+2006	02	15		2006	02	15		de_la_visite	Au cours de la visite du site effectuée le 15 février 2006 par l'inspection des installations classées, il a été constaté que certains bâtiments n'avaient pas été nettoyés.		
+2006	02			2006	02			est_réutilisé	Depuis février 2006, le site est réutilisé par la société BEABA, pour des activités de stockage de produits de puériculture notamment.		'la société BEABA'
+2004	12	29		2004	12	29		a_été_transmis	Un dossier de cessation d'activité a été transmis à l'inspection des installations classées le 29 décembre 2004.		
+2005	12	14		2005	12	14		les_courriers	Le dossier de cessation d'activité présenté par la société COGEMOULE, complété par les courriers du 15 novembre et du 14 décembre 2005.		'la société COGEMOULE'
+2005	10			2005	10			a_été_identifiée	- l'origine de la pollution a été identifiée en octobre 2005, date à laquelle le déshuileur (responsable de cette pollution) a été découvert et purgé ;		
+								les_courriers	Le dossier de cessation d'activité présenté par la société COGEMOULE, complété par les courriers du 15 novembre et du 14 décembre 2005.		'la société COGEMOULE'
+2006	08	03		2006	08	03		a_fourni	Par courrier en date du 3 août 2006, l'exploitant a fourni les compléments d'information suivants :		
+2007	09	24		2007	09	24		de_la_visite	Lors de la visite du 24 septembre 2007 par l'inspection des installations classées, il a été constaté la réalisation des travaux de réhabilitation listés ci-dessus.		
+2007	09			2007	09			aux_dernières_interventions	Par courrier du 8 novembre 2007, l'exploitant a transmis au préfet le rapport, en date du 9 octobre 2007, établit par le bureau d'études CSD AZUR, suite aux dernières interventions effectuées sur le site en septembre 2007.		'CSD AZUR'

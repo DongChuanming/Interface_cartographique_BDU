@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05	24		2007	05	24		une_visite	Lors d'une visite d'inspection des installations diligentée le 24/05/2007, la présence d’un bac de traitement du bois par trempage avait été relevée.		
+2004	11	15		2004	11	15		Les_études_réalisées	Les études réalisées le 15/11/2004 et remises le 22/12/2004 ont classé le site en 3 "banalisable" pour l'usage du moment sans toutefois remettre en question la surveillance des eaux souterraines (cf II).		
+1991				2003				relevaient_de	(1)En effet, les activités exercées relevaient de la directive SEVESO de 1991 à 2003 au regard des quantités de pentoxyde d’arsenic utilisées pour procéder au traitement du bois.	'pentoxyde d’ arsenic'	
+1991	02	11		1991	02	11		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 11/02/1991.		
+2004	12	22		2004	12	22		et_remises	Les études réalisées le 15/11/2004 et remises le 22/12/2004 ont classé le site en 3 "banalisable" pour l'usage du moment sans toutefois remettre en question la surveillance des eaux souterraines (cf II).		

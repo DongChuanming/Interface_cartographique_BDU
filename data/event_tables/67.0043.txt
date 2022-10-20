@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02			2004	02			a_été_rendu	Le dossier de surveillance des eaux souterraines a été rendu en février 2004. 4 piezomètres sont disposés sur le site.		
+2014				2014				Une_recherche	Une recherche de l'origine de cette anomalie ainsi qu'une étude visant à la mise à jour  des paramètres de surveillance des eaux souterraines sont prévues pour fin 2013-courant 2014.		
+2013				2013				Une_recherche	Une recherche de l'origine de cette anomalie ainsi qu'une étude visant à la mise à jour  des paramètres de surveillance des eaux souterraines sont prévues pour fin 2013-courant 2014.		
+2003	10			2003	10			Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques a été rendue en octobre 2003.		
+2010				2012				l__étude	En octobre 2013, l’étude des données d’autosurveillance des eaux souterraines de 2010 à 2012 indique des teneurs anormales notamment en fer pour l'emprise du site.	'fer'	
+2013				2013				sont	Une recherche de l'origine de cette anomalie ainsi qu'une étude visant à la mise à jour  des paramètres de surveillance des eaux souterraines sont prévues pour fin 2013-courant 2014.		
+2014				2014				sont	Une recherche de l'origine de cette anomalie ainsi qu'une étude visant à la mise à jour  des paramètres de surveillance des eaux souterraines sont prévues pour fin 2013-courant 2014.		
+2005	10			2005	10			fourniture_du___diagnostic	Fin octobre 2005, fourniture du "diagnostic métaux dans les sols" suite à l'APC du 01/08/05.		

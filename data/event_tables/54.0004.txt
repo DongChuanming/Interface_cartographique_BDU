@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1952				1952				a_disparue	L'arrêt de la production sur ce site est antérieur à 1952, la société-mère implantée à Bouxviller dans le Bas-Rhin a disparue en 1958.		
+1958				1958				a_disparue	L'arrêt de la production sur ce site est antérieur à 1952, la société-mère implantée à Bouxviller dans le Bas-Rhin a disparue en 1958.		
+1982				1982				sont_réalisés	En 1982, des prélèvements d’eau sont réalisés par le BRGM pour le compte de l’agence nationale pour l’élimination et la récupération des déchets (ANRED, ancêtre de l’ADEME).	'des déchets'	'le BRGM'
+2007	05	15		2007	05	15		jugement	Les arrêtés préfectoraux imposant aux propriétaires cette surveillance ont été déférés par ces derniers au Tribunal Administratif de Nancy qui les a annulés par jugement du 15 mai 2007.		
+1972				1972				est_percée	En 1972, à l’occasion de travaux, une cuve est percée et environ 300 m3 d’eau, contenant de l’ordre de 50 mg/l de cyanures libres et 1200 mg/l de cyanures complexés, rejoignent la Meurthe où plusieurs tonnes de poissons morts sont retrouvées sur plus de 8 kilomètres.	'cyanures', 'cyanures'	
+2010				2014				a_été_réalisée_semestriellement	La surveillance des eaux souterraines a été réalisée semestriellement entre 2010 et 2014.		
+1952				1952				L__arrêt_de	L'arrêt de la production sur ce site est antérieur à 1952, la société-mère implantée à Bouxviller dans le Bas-Rhin a disparue en 1958.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				de_mesure_du_2nd	La campagne de mesure du 2nd semestre 2009 montre une absence d'impact par les hydrocarbures mais révèle un léger impact par les HAP au niveau de PZ2 (0,012 µg/L), les mesures sur les autres piézomètres étant inférieures au seuil de détection.		
+								Hormis_lors_de_la_campagne	Hormis lors de la campagne du 1er semestre 2008 où un pic à 0,3 mg/L a été constaté au niveau de PZ2, tous les résultats étaient inférieurs au seuil de détection.	'constaté au niveau de PZ2 , tous'	
+2008				2008				Hormis_lors_de_la_campagne	Hormis lors de la campagne du 1er semestre 2008 où un pic à 0,3 mg/L a été constaté au niveau de PZ2, tous les résultats étaient inférieurs au seuil de détection.	'constaté au niveau de PZ2 , tous'	
+2006	03	15		2006	03	15		Le_récépissé_n__14529	Le récépissé n°14529 du 15 mars 2006 prend acte de cette modification.		'Le récépissé', 'de cette modification .'

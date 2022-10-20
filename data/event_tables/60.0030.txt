@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1996				a_exercé_sur	La société IDEAL STANDARD a exercé sur le site jusqu'en 1996 des activités de traitement de surfaces de robinetterie et tuyauterie flexible pour installations sanitaires.		'La société IDEAL STANDARD'
+1997				1997				a_été_abrogé	L'exploitant ayant revendu depuis 1997 une partie du site à plusieurs sociétés et dans le cadre de la nouvelle autorisation (2004), les restrictions d'usages doivent donc être reprises pour le nouvel acquereur.  L'AP de 1997 a été abrogé.		
+2004				2004				la_nouvelle_autorisation	L'exploitant ayant revendu depuis 1997 une partie du site à plusieurs sociétés et dans le cadre de la nouvelle autorisation (2004), les restrictions d'usages doivent donc être reprises pour le nouvel acquereur.  L'AP de 1997 a été abrogé.		
+								déclaration_en_préfecture	La société espagnole DISFLEX devient gérante du site en juillet 1996 puis la rachète en 1997 (déclaration en préfecture du 19/03/98).		'La société espagnole DISFLEX'
+				1996				des_activités_de_traitement_de_surfaces	La société IDEAL STANDARD a exercé sur le site jusqu'en 1996 des activités de traitement de surfaces de robinetterie et tuyauterie flexible pour installations sanitaires.		'La société IDEAL STANDARD'
+1997				1997				rachète	La société espagnole DISFLEX devient gérante du site en juillet 1996 puis la rachète en 1997 (déclaration en préfecture du 19/03/98).		'La société espagnole DISFLEX'
+1996	07			1996	07			devient_gérante	La société espagnole DISFLEX devient gérante du site en juillet 1996 puis la rachète en 1997 (déclaration en préfecture du 19/03/98).		'La société espagnole DISFLEX'

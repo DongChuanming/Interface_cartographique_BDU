@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				sont_effectuées	Des mesures périodiques de la qualité des eaux sont effectuées depuis 1992 dans les 4 piézométres entourant le site.		
+2000				2000				a_été_renforcée	Suite à l'évaluation simplifiée des risques réalisée en 2000, la surveillance des eaux a été renforcée: fréquence semestrielle, analyses complémentaires des BTEX (benzène, toluène, éthylbenzène, xylène) et MTBE (composé oxygéné de l'essence sans plomb), suivi sur 5 piézométres .	'BTEX', 'benzène', 'toluène', 'éthylbenzène', 'xylène', 'MTBE', 'essence sans plomb'	
+1972				1972				a_été_construit	Le dépôt a été construit en 1972 dans la zone industrielle de LONGVIC en bordure du canal de Bourgogne.		

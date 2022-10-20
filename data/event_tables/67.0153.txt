@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	15		2001	11	15		une_première_réunion	Ce fait a retardé la mise en oeuvre de l'expertise, pour laquelle une première réunion a eu lieu le 15 Novembre 2001.		
+2012	09	28		2012	09	28		a_été_signé	Un arrêté préfectoral instituant des servitudes d'utilité publiques a été signé le 28 septembre 2012.		
+2008	07			2008	07			ont_été_éliminés	Les derniers fûts de déchets ont été éliminés en juillet 2008.		
+2010				2010				ont_été_excavées	Fin 2010, deux zones polluées, correspondant au secteur siccatif et à la zone de lavage, ont été excavées et remblayées par des terres non polluées.		
+2001	11	27		2001	11	27		l__arrêté	Le 30 janvier 2002 un arrêté préfectoral a été pris pour mettre en demeure le mandataire liquidateur d'exécuter l'arrêté du 27 novembre 2001.		
+2002	07	05		2002	07	05		a_décidé	En fait, cette procédure n'a pas abouti car suite à un courrier du mandataire-liquidateur le président du TA a décidé le 5 Juillet 2002 de donner acte à la société PEINTURES ROBET du désistement de sa requête.		'le président du TA', 'la société PEINTURES ROBET'
+2002	08	09		2002	08	09		il_a_alors_été_demandé	Par arrêté préfectoral du 9 Août 2002, il a alors été demandé à l'administrateur judiciaire de réaliser des investigations complémentaires de terrain afin de définir l'impact réel de la pollution constatée.		
+2004	01	26		2004	01	26		a_été_pris	L'arrêté préfectoral de consignation de fonds a été pris le 26 janvier 2004.		
+2008				2008				a_racheté	La SARL SIMMOGEST a racheté le site en 2008.		'La SARL SIMMOGEST'
+2002	01	30		2002	01	30		a_été_pris	Le 30 janvier 2002 un arrêté préfectoral a été pris pour mettre en demeure le mandataire liquidateur d'exécuter l'arrêté du 27 novembre 2001.		
+2001	06			2001	06			ont_été_arrêtées_définitivement	Suite à la mise en liquidation judiciaire de la société exploitante en Juin 2001, les activités ont été arrêtées définitivement avant que la délocalisation n'ait lieu.		
+1999	04			1999	04			une_visite_d__inspection	Suite à la demande du nouveau dirigeant en vue de la construction de la nouvelle usine, une visite d'inspection de l'établissement existant a eu lieu en Avril 1999.		
+2001	06			2001	06			la_mise_en_liquidation_judiciaire	Suite à la mise en liquidation judiciaire de la société exploitante en Juin 2001, les activités ont été arrêtées définitivement avant que la délocalisation n'ait lieu.		
+2005				2005				évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée au second semestre 2005.		
+2011	09	08		2011	09	08		La_cessation_d__activité	La cessation d'activité du site a été annoncée le 8 septembre 2011.		
+2005				2005				a_été_géré	La société Peintures ROBET ayant été liquidée, le site a été géré depuis 2005 par le propriétaire, la SCI FARFADET.		'La société Peintures ROBET', 'la SCI FARFADET'
+2001	02			2001	02			Une_requête_en_référé	Une requête en référé a été déposée en Février 2001 par la société PEINTURES ROBET auprès du Tribunal Administratif (TA), pour solliciter la nommination d'un expert judiciaire afin de rechercher et identifier l'ensemble des personnes concernées par la pollution.		'la société PEINTURES ROBET', 'du Tribunal Administratif'
+2011	04			2011	04			a_été_comblé	En avril 2011, le puits du site a été comblé.		
+2001	04	04		2001	04	04		a_été_ouverte	Par ailleurs, une procédure de redressement judiciaire a été ouverte le 4 Avril 2001 et le Tribunal de Commerce de Bourges a prononcé la mise en liquidation judiciaire de la société PEINTURES ROBET S.		'le Tribunal de Commerce de Bourges', 'la société PEINTURES ROBET S.'

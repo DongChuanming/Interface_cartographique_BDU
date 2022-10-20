@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				La_liquidation_de	La liquidation de la société exploitante n'a été connue de l'inspection des installations classées qu'en 2014.		
+1995	03	27		1995	03	27		du_dossier_de_demande	L'étude du dossier de demande d'autorisation déposé le 27 mars 1995 et du rapport de l'inspection du 18 octobre 1995 présenté au "comité départemental d'hygiène" en séance du 8 novembre 1995 et de la demande d'extension du 30 mars 2000 indique que :		
+2000				2000				est_augmentée	En 2000, après notification à la préfecture et avis de l'inspection, la capacité de stockage de l'établissement est augmentée grâce à un nouveau bâtiment au Nord des précédents (modification non substantielle).		
+1995	11	08		1995	11	08		la_demande_d__extension	L'étude du dossier de demande d'autorisation déposé le 27 mars 1995 et du rapport de l'inspection du 18 octobre 1995 présenté au "comité départemental d'hygiène" en séance du 8 novembre 1995 et de la demande d'extension du 30 mars 2000 indique que :		
+2000	03	30		2000	03	30		la_demande_d__extension	L'étude du dossier de demande d'autorisation déposé le 27 mars 1995 et du rapport de l'inspection du 18 octobre 1995 présenté au "comité départemental d'hygiène" en séance du 8 novembre 1995 et de la demande d'extension du 30 mars 2000 indique que :		
+								était_exploité	Le site était exploité depuis les années 1960 pour le travail du bois et l'application de peinture.		
+1978				1978				un_incendie_important	- que le site a connu un incendie important en 1978.		
+2014	03	04		2014	03	04		de_la_visite	Lors de la visite du 04/03/2014, l'inspection a constaté que plusieurs bâtiments avaient été démolis (le bâtiment de stockage de produits finis/expédition/entretien et le bâtiment les ateliers de finition et d'usinage).		

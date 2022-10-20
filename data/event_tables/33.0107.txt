@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			La_campagne_d__analyses	La campagne d’analyses des eaux souterraines de mars 2002 met en évidence des concentrations non négligeables en formol et en hydrocarbures dans un piézomètre, les deux autres piézomètres sont secs et dégradés.	'formol', 'hydrocarbures'	
+1996	06	25		1996	06	25		La_visite	La visite du 25 juin 1996 de l'Inspecteur des Installations Classées mettait en évidence des pratiques environnementales pouvant être à l'origine de pollutions sur le site provenant notamment du fait que les eaux industrielles (constituées des eaux de lavage des encolleuses) étaient rejetées dans le milieu naturel (puits perdu).	'eaux industrielles'	
+								demande_la_mise_en_place_de_nouveaux_piézomètres	Le 05/12/2005, la DRIRE demande la mise en place de nouveaux piézomètres et des résultats d'analyses sous 1 mois.		'la DRIRE'
+2005	12	05		2005	12	05		demande_la_mise_en_place_de_nouveaux_piézomètres	Le 05/12/2005, la DRIRE demande la mise en place de nouveaux piézomètres et des résultats d'analyses sous 1 mois.		'la DRIRE'
+1998	10	28		1998	12	22		La_réalisation_du_diagnostic	La réalisation du diagnostic a été menée du 28 octobre 1998 au 22 décembre 1998.		
+2015	11	20		2015	11	20		est_remis	le mémoire de remise en état est remis le 20/11/2015.		
+2016	03	15		2016	03	15		Le_PV_de_récolement	Le PV de récolement de l'inspection de l'environnement est dressé le 15/03/2016.		
+2013	07	30		2013	07	30		La_campagne_d__analyses	La campagne d'analyses des eaux souterraines du 30/07/2013 montre l'absence d'impact sur la nappe.		
+2013	07	31		2013	07	31		La_cessation_d__activité	La cessation d'activité est déclarée le 31 juillet 2013.		

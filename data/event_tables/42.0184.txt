@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984	07	11		1984	07	11		est_délivré	Un arrêté préfectoral d’autorisation d’exploiter est délivré à TAR le 11 juillet 1984.		'TAR'
+1978				1978				devient	En 1978, le site devient la propriété de la société Teintures et Apprêts de Roanne.		'la société Teintures et Apprêts'
+2013	12	19		2013	12	19		l__inspection	Dans le cadre de la mise en sécurité du site, l’inspection dans son rapport du 13 janvier 2014 établit suite à l’inspection du 19 décembre 2013 a demandé à l’exploitant de :		
+1959	07			1959	07			est_racheté	En juillet 1959, le site est racheté par la société SABGIL devenue société GILLET-THAON en décembre 1959.		'la société SABGIL', 'devenue société GILLET - THAON'
+1959				1959				appartenait_à	Avant 1959, le site appartenait à la S.		
+2012	04	27		2012	04	27		la_cessation_des	La société TEINTURE ET APPRETS DE ROANNE a indiqué le 27 avril 2012 à madame la Préfète de Loire la cessation des activités du site fin juillet 2012.		'La société TEINTURE', 'ET APPRETS DE ROANNE', 'la Préfète de Loire'
+2012	07			2012	07			la_cessation_des	La société TEINTURE ET APPRETS DE ROANNE a indiqué le 27 avril 2012 à madame la Préfète de Loire la cessation des activités du site fin juillet 2012.		'La société TEINTURE', 'ET APPRETS DE ROANNE', 'la Préfète de Loire'
+1929				1929				est_faite	En 1929, une demande d’exploiter une teinturie de soie artificielle est faite sur le site.		
+2015	03	18		2015	03	18		une_visite	Suite à une visite d’inspection le 18 mars 2015 et à la reception d’analyses de sols, l’inspection, dans son rapport du 26 mars 2018, propose à monsieur le Préfet de la Loire après avis du conseil départemental de l’environnement et des risques sanitaires de prendre un arrêté préfectoral complémentaire afin de fixer les modalités d’analyses complémentaires, de surveillance, d’étude d’interprétation de l’état des milieux, de plan de gestion compatible avec l’usage futur du site et les pollutions identifiées (sol et eaux souterraines) présentant les travaux à réaliser.		'le Préfet', 'la Loire'

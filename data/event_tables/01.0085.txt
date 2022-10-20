@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05			2012	05			un_diagnostic	La société TSA a remis en mai 2012 un diagnostic de l'état du site.		'La société TSA'
+2010				2010				a_été_découvert	A l'occasion de travaux de voiries et réseaux divers réalisées dans le cadre de la construction d'une école maternelle sur le territoire de la commune de VILLIEU-LOYES-MOLLON, il a été découvert en 2010 des terres polluées aux hydrocarbures.	'hydrocarbures'	'VILLIEU'
+2015	09	22		2015	09	22		ont_été_fixées	A cet effet, des restrictions d'usage ont été fixées, via une servitude d'utilité publique instituée par arrêté préfectoral du 22 septembre 2015.		

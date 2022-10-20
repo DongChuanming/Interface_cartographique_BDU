@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	06		2005	12	06		est_fourni	Le plan d'échantillonnage est fourni le 6 décembre 2005.		
+2001	09	27		2001	09	27		La_cessation_définitive_d__activité	La cessation définitive d'activité est déclarée le 27 septembre 2001.		
+								a_prescrit_ce_diagnostic	L'arrêté du 24 août 2005 a prescrit ce diagnostic à l'échéance de 3 mois a été proposé au Préfet le 19 juillet 2005.		
+2009	03			2009	03			est_en_cours_de_rédaction	L'arrêté préfectoral est en cours de rédaction avec un passage prévisible au CODERST de mars 2009.		
+2005	07	19		2005	07	19		a_été_proposé	L'arrêté du 24 août 2005 a prescrit ce diagnostic à l'échéance de 3 mois a été proposé au Préfet le 19 juillet 2005.		
+2006	02	08		2006	02	08		est_dressé	Le rapport de récolement partiel des travaux de réhabilitation est dressé le 08/02/2006 par la DRIRE.		'la DRIRE'
+2005				2005				Des_analyses_complémentaires_à_celles_réalisées	Des analyses complémentaires à celles réalisées pour le diagnostic de 2002 sur la qualité des sols au droit de l'ancienne usine et de l'ancienne zone mâchefers sont réalisées en 2005.		
+2009	01	16		2009	01	16		est_dressé	Le procès-verbal de récolement définitif est dressé par la DRIRE le 16/01/2009.		'la DRIRE'
+2005	12	28		2005	12	28		est_remis	Le rapport final est remis le 28 décembre 2005, il reste à compléter notamment par le niveau de risque.		
+2002				2002				le_diagnostic	Des analyses complémentaires à celles réalisées pour le diagnostic de 2002 sur la qualité des sols au droit de l'ancienne usine et de l'ancienne zone mâchefers sont réalisées en 2005.		

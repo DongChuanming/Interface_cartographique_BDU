@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12	10		2015	12	10		Inspection_valide	Par courrier daté du 10 décembre 2015, L'Inspection valide la solution de gestion proposée par le bureau d’études BURGEAP, à savoir la surveillance renforcée des eaux souterraines, mais sous réserve :		'BURGEAP'
+2011	06			2011	06			La_campagne_de	La campagne de juin 2011 montre :		
+2014	04			2014	04			Les_campagnes_d_	Les campagnes d'avril 2014, octobre 2014 et avril 2015 confirment les impacts en chrome total et chrome hexavalent en aval du site (PZ4).	'chrome total', 'chrome hexavalent'	
+2015	04			2015	04			Les_campagnes_d_	Les campagnes d'avril 2014, octobre 2014 et avril 2015 confirment les impacts en chrome total et chrome hexavalent en aval du site (PZ4).	'chrome total', 'chrome hexavalent'	
+2014	10			2014	10			Les_campagnes_d_	Les campagnes d'avril 2014, octobre 2014 et avril 2015 confirment les impacts en chrome total et chrome hexavalent en aval du site (PZ4).	'chrome total', 'chrome hexavalent'	
+1970				1970				L__implantation	L'implantation des premières entreprises sur la zone remonte à 1970.		
+1977				1977				abandonne	En 1977, le Groupe Duffour abandonne l'exploitation du site.		'le Groupe Duffour'
+2000	10	05		2000	10	05		Les_études_remises	Les études remises le 05/10/2000 ne révèlent pas d'impact des sols ni de la nappe.		
+2007				2009				Les_campagnes	Les campagnes de 2007 à 2009 montrent une situation stable avec toutefois la présence de chrome* entre 0,05 et 0,3 mg/l et d'aluminium** entre 0,2 et 3,7 mg/l (valeurs limites eaux potables * 0,05 mg/l, ** 0,2 mg/l).	'chrome', 'aluminium'	
+2013	11	13		2013	11	13		a_été_établi	Au vu de ces impacts, un arrêté préfectoral a été établi en date du 13 novembre 2013, afin de remédier à la pollution constatée.		

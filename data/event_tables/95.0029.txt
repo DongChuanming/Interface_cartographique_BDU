@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	11	13		2002	11	13		a_été_pris	.M, un arrêté préfectoral a été pris le 13 novembre 2002 pour demander à T.		
+2007	05			2007	05			son_bilan_décennal_de_fonctionnement_déposé	Dans le cadre de son bilan décennal de fonctionnement déposé en mai 2007, TSM a demandé à pouvoir arrêter cette surveillance de la qualité des eaux souterraines.		
+1983				1983				Ces_études	Ces études, datant de 1981 et de 1983 démontraient qu'il y avait une pollution au chrome hexavalent sur le site de T.	'chrome hexavalent'	
+1981				1981				Ces_études	Ces études, datant de 1981 et de 1983 démontraient qu'il y avait une pollution au chrome hexavalent sur le site de T.	'chrome hexavalent'	
+1976				1976				a_repris	En 1976, elle a repris le site qui était exploité depuis 1935 par la société NOBEL BOZEL pour les mêmes activités.		'la société NOBEL BOZEL'
+2002	12	30		2002	12	30		ont_été_remises	Ces études complètes ont été remises le 30 décembre 2002.		
+1935				1935				était_exploité	En 1976, elle a repris le site qui était exploité depuis 1935 par la société NOBEL BOZEL pour les mêmes activités.		'la société NOBEL BOZEL'
+2003				2003				au	La synthèse des résultats de surveillance transmis depuis 1999 a montré que la qualité des eaux souterraines au droit du site est stable depuis au moins 2003.		
+2013	03	19		2013	03	19		mesurées	Les concentrations mesurées le 19 mars 2013 sont inférieures au seuil de détection (0,01 mg/l pour le  Cr6+ et le chrome total et 0,5 µg/l pour le perchloréthylène).	'le   Cr6', 'et le chrome total', 'pour le perchloréthylène'	
+2007	05			2007	05			a_demandé_à_pouvoir_arrêter_cette_surveillance	Dans le cadre de son bilan décennal de fonctionnement déposé en mai 2007, TSM a demandé à pouvoir arrêter cette surveillance de la qualité des eaux souterraines.		
+1983				1983				Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés en 1983 et depuis cette date, aucun dépassement des concentrations maximales admissibles en chrome n'a été relevé hormis celui identifié le 23/11/1998.	'chrome'	
+1975				1975				le_traitement	Il est à noter que depuis 1975 le traitement des effluents issus des procédés industriels de T.	'effluents'	

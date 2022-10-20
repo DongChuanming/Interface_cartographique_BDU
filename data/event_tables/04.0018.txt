@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1990				a_été_exploité	Le site a été exploité entre 1969 et 1990, pour le stockage et la distribution de produits pétroliers tels que supercarburant, essence, gasoil et fioul domestique.	'produits pétroliers', 'supercarburant', 'gasoil', 'fioul'	
+2009	04			2009	04			Une_ARR	Une ARR a été réalisée en Avril 2009 (imposé par APC du 28/01/2009), elle préconise l'interdiction de l'usage des eaux souterraines sur 6 des 7 zones délimitées dans le site ainsi que la poursuite de la surveillance semestrielles de la nappe qui a l'issue des travaux de dépollution est toujours polluée en hydrocarbures.	'hydrocarbures'	
+2010	10	07		2010	10	07		portant_constitution_de_SUP_a_été_signé	Un AP portant constitution de SUP a été signé le 07/10/2010, les usages des parcelles 3,4,141,169,204 et 205 de la section AL et 167 de la section AZ sont restreints notamment en ce qui concerne l'utilisation des eaux souterraines.		
+2010	05	11		2010	05	11		a_été_délivré	Le PV de recollement a été délivré le 11/05/2010.		
+2012				2012				La_prochaine_campagne_doit_être_réalisée	La prochaine campagne doit être réalisée en Aout 2012 conformément au plan de gestion du 30/08/2007.		
+2007	12	17		2007	12	17		Les_travaux_de_dépollution	Les travaux de dépollution ont commencé le 17/12/2007 et se sont achevés le 21/10/2008.		
+2008	10			2008	10			ont_été_remblayées	La réception a été prononcée et les terres traitées ont été remblayées sur le site en Octobre 2008.		
+				2006	05			a_entièrement_été_démantelé	Le site a entièrement été démantelé entre Février et Mai 2006.		
+2008	10	21		2008	10	21		se_sont_achevés	Les travaux de dépollution ont commencé le 17/12/2007 et se sont achevés le 21/10/2008.		
+2007	06			2007	06			a_été_réalisée	Une EQRS a été réalisée en Juin 2007, l'excavation de terres dans certaines zones du site est nécessaire.		
+2008	10			2008	10			a_été_prononcée	La réception a été prononcée et les terres traitées ont été remblayées sur le site en Octobre 2008.		
+2012	01			2012	01			La_dernière_campagne_de	La dernière campagne de suivi des eaux souterraines a été réalisée en Janvier 2012 et monter l'absence d'impact en hydrocarbure sur 2 piézomètres.	'hydrocarbure'	
+2008	10	21		2008	10	21		Les_travaux_de_dépollution	Les travaux de dépollution ont commencé le 17/12/2007 et se sont achevés le 21/10/2008.		
+2006	12			2006	12			Un_diagnostic_approfondi	Un diagnostic approfondi a été réalisé en Décembre 2006.		
+2009				2009				en_diminution	Les concentrations en hydrocarbures dans le 3ème piézomètres sont en diminution depuis 2009.	'hydrocarbures'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	07	03		1997	07	03		de_la_visite	Constat lors de la visite du 03/07/1997 : Exploitation dans des conditions non-conforme, pas de rétention, canalisation d'évacuation non identifiée => participation plus ou moins directement à la pollution chronique de la nappe	'nappe'	
+1997	10	08		1997	10	08		Arrêt	Arrêt de l'activité de dépolissage par l'exploitant (courrier du 08/10/1997)		
+1997	07	03		1997	07	03		d__une_visite	Défaut d'autorisation constaté lors d'une visite du 03/07/1997 :		

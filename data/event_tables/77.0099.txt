@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	29		2004	09	29		a_sollicité	M. le Préfet de Seine-et-Marne a sollicité le 29 septembre 2004 M. le Ministre de l'écologie et du développement durable sur ce dossier et lui demande l'autorisation de mandater l'Agence de la Maîtrise de l'Energie et de l'Environnement, pour mettre en sécurité le site.		'le Préfet', 'le Ministre', "l' Agence de la Maîtrise de l' Energie"
+2007	05	15		2007	05	15		a_été_transmis	Un rapport d'intervention a été transmis au service d'inspection le 15 mai 2007.		
+2005	08	31		2005	08	31		un_arrêté_chargeant	- le 31 août 2005 un arrêté chargeant l’ADEME de la réalisation de travaux d’office, en application de l’article L. 514-1 du Code de l’environnement et de la loi « déchets » du 13 juillet 1992.	'déchets'	
+2002	01	21		2002	01	21		a_été_mise_en_liquidation_judiciaire	La société ROBBE Frères a été mise en liquidation judiciaire le 21 janvier 2002.		'La société ROBBE Frères'
+				2006	11	24		est_intervenue_sur_site	L'ADEME est intervenue sur site du 04 septembre au 24 novembre 2006.		
+2005	03	09		2005	03	09		a_rendu	Le 9 mars 2005, la Commission nationale des aides « sites et sols pollués » de l’ADEME a rendu un avis favorable à l’attribution d’une somme de 353 000 euros pour les travaux.		

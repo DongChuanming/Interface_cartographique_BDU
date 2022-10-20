@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	09		2001	11	09		a_mandaté	Suite à un arrêté préfectoral du 9 novembre 2001, BP France a mandaté la Société SERPOL pour la réalisation de travaux de réhabilitation.		'BP France', 'la Société SERPOL'
+1982				1982				démantelé	Il a été implanté en 1915 et démantelé en 1982, sa capacité de stockage était alors d'environ 14 500 m3.		
+1999	02			1999	02			a_été_occupé_puis_vendu	Le site a été occupé puis vendu en février 1999 à des particuliers constitués en SCI.		
+1915				1915				a_été_implanté	Il a été implanté en 1915 et démantelé en 1982, sa capacité de stockage était alors d'environ 14 500 m3.		
+2005				2005				Le_traitement_a_démarré	Le traitement a démarré en février 2003 pour s'achever début 2005.		
+2003	02			2003	02			Le_traitement_a_démarré	Le traitement a démarré en février 2003 pour s'achever début 2005.		
+2002	04			2002	04			Neuf_campagnes_de_prélèvements_et_d__analyses	Neuf campagnes de prélèvements et d’analyses des eaux souterraines ont eu lieu depuis avril 2002 (suivi des hydrocarbures totaux, des BTEX et des HAP).	'hydrocarbures totaux', 'BTEX', 'HAP'	
+2002	04			2002	04			Les_travaux	Les travaux, démarrés en avril 2002, ont consisté en :		

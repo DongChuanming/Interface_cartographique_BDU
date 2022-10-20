@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Les_campagnes_de	Les campagnes de 2007 à 2010 montrent une baisse significative des concentrations en chlorés, qui ne se retrouvent plus que sur le PZ5 (somme de 3,5 µg/l).	'chlorés'	
+1996				1996				la_découverte_de_terrains_impactés	A la suite de la découverte de terrains impactés par les PCB en 1996, la SFCME a pris l'initiative d'excaver les terres impactées.	'PCB'	'la SFCME'
+1995	08	11		1995	08	11		est_autorisé	L'établissement est autorisé par l'arrêté préfectoral du 11/08/1995.		
+1996	09			1996	09			Le_second_diagnostic	Le second diagnostic mené en septembre 1996 localise plus précisément l'extension de la contamination des sols en surface et en profondeur.		
+2006				2006				Les_campagnes_de_2002	Les campagnes de 2002 à 2006 confirment la présence fluctuante de PCB en PZ1 de 0,05 µg/l à 0,17 µg/l et l'apparition de traces de PCB en PZ3 en 2003.	'PCB', 'PZ1', 'PCB', 'PZ3'	
+2007				2007				Les_campagnes_de	Les campagnes de 2007 à 2010 montrent une baisse significative des concentrations en chlorés, qui ne se retrouvent plus que sur le PZ5 (somme de 3,5 µg/l).	'chlorés'	
+2000				2000				ont_été_arrêtées	Les activités de traitement de surface électrolytique et de peinture ont été arrêtées en 2000.		
+1996				1996				initiative_d__excaver	A la suite de la découverte de terrains impactés par les PCB en 1996, la SFCME a pris l'initiative d'excaver les terres impactées.	'PCB'	'la SFCME'
+2003				2003				l__apparition	Les campagnes de 2002 à 2006 confirment la présence fluctuante de PCB en PZ1 de 0,05 µg/l à 0,17 µg/l et l'apparition de traces de PCB en PZ3 en 2003.	'PCB', 'PZ1', 'PCB', 'PZ3'	
+2001				2001				du_démantèlement	Lors du démantèlement des installations de traitement de surface en 2001, le diagnostic de sols mené par GEOCLAEAN ne montre pas d'impact particulier en métaux lourds, PCB et Hydrocarbures mesurés en 2 points des zones TTS et "Karcher".	'métaux lourds', 'PCB', 'Hydrocarbures', 'Karcher'	'GEOCLAEAN'
+1996				1996				découverte	En 1996, lors des travaux d'aménagement de la zone de stockage des déchets et des produits chimiques de l'usine concernant une surface de 500 à 600 m², un contamination des terrains par des PCB est découverte.	'stockage des déchets', 'des produits chimiques', 'PCB'	
+1983				1983				ayant_cessé	Cette contamination résulte probablement d'une ancienne activité de fabrication de transformateurs ayant cessé en 1983.		
+1996	06			1996	06			étude_GEOCLEAN	L'étude GEOCLEAN de juin 1996 montre que des concentrations en PCB sont observées en 2 points (180 et 8400 mg/kg) sur les 10 sondages exécutés.	'PCB'	'GEOCLEAN'

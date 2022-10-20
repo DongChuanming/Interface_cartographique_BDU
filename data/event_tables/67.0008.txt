@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				terminée	Phase terminée en 2002.		
+2000				2000				terminée	Phase terminée en 2000.		
+2008	10			2008	10			une_demande_de_cessation	En octobre 2008, la société Raffinerie de Strasbourg a soumis au préfet une demande de cessation de la barrière hydraulique située en aval hydraulique de son ancien site de Herrlisheim et de passage à une surveillance semestrielle allégée (mesure des hydrocarbures totaux sur 3 piézomètres seulement).	'hydrocarbures totaux'	'la société Raffinerie', 'de Strasbourg'
+								l__issue_d__une_nouvelle_période	A l'issue d'une nouvelle période de 18 mois, l'arrêté du 23/11/2004 prévoit que l'exploitant puisse solliciter la levée complète ou partielle de la surveillance des eaux souterraines.		
+2001				2001				terminée	Phase terminée en  2001.		
+2004	11	23		2004	11	23		lève	L'arrêté préfectoral complémentaire du 25 octobre 2010 lève les obligations relatives à la protection de la nappe en aval hydraulique du site des anciennes installations industrielles exploitées par la société Raffinerie de Strasbourg à Herrlisheim-Drusenheim, faites par l'arrêté préfectoral complémentaire du 23 novembre 2004.		'la société Raffinerie', 'de Strasbourg'
+2011	10	13		2011	10	13		La_réalisation_des_travaux_nécessaires_à_cet_effet	La réalisation des travaux nécessaires à cet effet à été confirmée par courrier en date du 13 octobre 2011.		
+2007				2007				a_procédé	Par ailleurs, la société Raffinerie de Strasbourg a procédé au cours du 1er semestre 2007 à l'enlèvement des 2 pipelines reliant le site à la chambre à vanne de La Wantzenau.		'la société Raffinerie', 'de Strasbourg'
+2003				2003				terminée	Phase terminée en 2003.		
+1994				1994				Un_diagnostic_approfondi	Un diagnostic approfondi, de tout le site, a été réalisé fin 1994, complété par des études spécifiques sur des zones ponctuelles.		
+1995				1995				terminée	Phase terminée en 1995.		
+1963				1984				ont_été_exploitées	Les installations de raffinage ont été exploitées entre 1963 et 1984.		
+2004	11	23		2004	11	23		ont_été_fixés_par_arrêté	Les conditions de surveillance du site et le protocole d'arrêt de la barrière hydraulique ont été fixés par arrêté du 23/11/2004.		
+								a_procédé	Par ailleurs, la société Raffinerie de Strasbourg a procédé au cours du 1er semestre 2007 à l'enlèvement des 2 pipelines reliant le site à la chambre à vanne de La Wantzenau.		'la société Raffinerie', 'de Strasbourg'
+2010	05	06		2010	05	06		une_demande_de_levée_de_l__obligation_de_surveillance	Au vu des résultats favorables de la surveillance nappe, la société Raffinerie de Strasbourg a déposé le 6 mai 2010 une demande de levée de l'obligation de surveillance.		'la société Raffinerie', 'de Strasbourg'
+2004	10	12		2004	10	12		ont_été_instituées	Des servitudes d'utilité publique ont été instituées par arrêté du 12/10/2004.		
+1997				1997				terminée	Phase terminée en 1997.		

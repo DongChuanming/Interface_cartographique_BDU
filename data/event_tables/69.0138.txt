@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				à_priori	Le terrain a été utilisé à priori depuis au moins 1986 par divers exploitants pour l'exercice d'activités de récupération de déchets divers (ferrailles, véhicules, pneumatiques, déchets banals, industriels ou urbains), toujours sans autorisation.		
+1995	06	20		1995	06	20		ont_été_contestées	Ces sanctions ont été contestées en tribunal administratif le 20/06/1995 mais confirmées par le jugement du 24/01/1996.		
+1997	03	13		1997	03	13		Un_dossier_de_demande	Un dossier de demande d'autorisation d'exploiter a été rédigé le 13/03/1997 par Mr OSI.		'Mr OSI'
+1986				1989				était_loué_à	Entre 1986 et ocobre 1989, le site était loué à Mr PALLESCHI puis il a été loué jusqu'à la fin de l'année 1990 par le Mr BERARDIER avant d'être exploité par Mr CABANATE jusqu'en 1993.		'Mr PALLESCHI', 'le Mr BERARDIER', 'Mr CABANATE'
+1998	05	18		1998	05	18		a_été_signé	Un arrêté de rejet de la demande a été signé le 18/05/1998 pour incompatibilité avec le POS, et car le terrain est situé dans le périmètre de protection rapproché d'un captage d'eau potable.		
+				1990				a_été_loué	Entre 1986 et ocobre 1989, le site était loué à Mr PALLESCHI puis il a été loué jusqu'à la fin de l'année 1990 par le Mr BERARDIER avant d'être exploité par Mr CABANATE jusqu'en 1993.		'Mr PALLESCHI', 'le Mr BERARDIER', 'Mr CABANATE'
+				1993				a_été_loué	Entre 1986 et ocobre 1989, le site était loué à Mr PALLESCHI puis il a été loué jusqu'à la fin de l'année 1990 par le Mr BERARDIER avant d'être exploité par Mr CABANATE jusqu'en 1993.		'Mr PALLESCHI', 'le Mr BERARDIER', 'Mr CABANATE'

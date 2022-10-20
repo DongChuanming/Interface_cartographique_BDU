@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04	29		2008	04	29		a_fait_l__objet_d_	Cette campagne a fait l'objet d'un rapport rédigé en date du 29/04/2008.		
+2008	02	21		2008	02	21		un_courrier	Elle a signalé l’arrêt de son activité par le biais d'un courrier daté du 21/02/2008.		
+1977	07	12		1977	07	12		exerce	La société AVIA exerce une activité de vente de carburants autorisée par l'arrêté préfectoral du 12/07/1977.	'carburants'	'La société AVIA'
+2008	02	21		2008	02	21		l__arrêt_de	Elle a signalé l’arrêt de son activité par le biais d'un courrier daté du 21/02/2008.		
+2008	02			2008	02			Un_premier_diagnostic_des_sols	Un premier diagnostic des sols a été rédigé par la société SERPOL en février 2008. 8 sondages ont alors été réalisés et 3 piézomètres ont été implantés.		'la société SERPOL'
+2008	04	01		2008	04	01		ont_fait_l__objet_d_	Ces travaux ont fait l'objet d'un rapport rédigé en date du 01/04/2008.		
+2008	08	28		2008	08	28		un_courrier	L'Inspection des Installations Classées a demandé par le biais d'un courrier daté du 28/08/2008 la réalisation d'études complémentaires et d'un suivi périodiques de la qualité des eaux souterraines.		

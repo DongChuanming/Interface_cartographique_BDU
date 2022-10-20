@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11	17		2004	11	17		des_analyses_ont_été_réalisées	Pour l'année 2004 des analyses ont été réalisées le 30 mars 2004 et le 17 novembre 2004.		
+1993				1993				a_mis_en_place	Début 1993, la société DSM a mis en place une pompe immergée en fond de forage ayant pour rôle de créer un cône de rabattement de façon à être en mesure d'écrémer le toluène à l'aide d'une autre pompe de surface.	'toluène'	'la société DSM'
+1993	12			1993	12			les_inondations_survenues	Après les inondations survenues en décembre 1993, deux piézomètres supplémentaires ont été implantés en bordure de la rivière Aisne, à la demande de l'inspection des installations classées, dans le but de vérifier l'évolution de la nappe de polluants par rapport à cette rivière.		
+2004				2004				des_analyses_ont_été_réalisées	Pour l'année 2004 des analyses ont été réalisées le 30 mars 2004 et le 17 novembre 2004.		
+1995				1995				a_été_arrêté	En 1995, la quantité de polluants récupérée dans le puits de pompage ayant chuté, le pompage a été arrêté.	'polluants'	
+2004				2004				l_	Pour l'année 2004 des analyses ont été réalisées le 30 mars 2004 et le 17 novembre 2004.		
+1992	08	20		1992	08	20		constatait_la_disparition	Le 20 août 1992, on constatait la disparition d'environ 20 m3 de toluène de ce réservoir.	'toluène'	
+								a_procédé	Suspectant une fuite, la société a procédé le 21 août à l'inspection de la cuve après vidange et a découvert deux perforations sur une soudure entre la virole et le fond de la cuve.		
+2004	03	30		2004	03	30		des_analyses_ont_été_réalisées	Pour l'année 2004 des analyses ont été réalisées le 30 mars 2004 et le 17 novembre 2004.		
+1998	10	27		1998	10	27		ont_été_prescrits	Un suivi de l'évaluation de la qualité des eaux souterraines ainsi que la réalisation d'une étude documentaire ont été prescrits par arrêté préfectoral en date du 27 octobre 1998.		
+1992	07	21		1992	07	21		a_transféré	Le 21 juillet 1992, la société DSM a transféré 32 m3 de toluène dans un réservoir enterré à simple paroi.	'toluène'	'la société DSM'

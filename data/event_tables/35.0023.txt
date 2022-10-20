@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04			2007	04			un_diagnostic_de_pollution_des_sols__	Le dossier de cessation d'activité comporte un diagnostic de pollution des sols (avril 2007) qui met en évidence deux sources-sol de pollution et une migration vers les eaux souterraines :		
+1970	04			1970	04			a_été_autorisée_à_fonctionner	La station service a été autorisée à fonctionner dès avril 1970 (premier récépissé de déclaration) puis par arrêté préfectoral du 30 mars 1977.		
+1970	04			1970	04			premier_récépissé_de_déclaration	La station service a été autorisée à fonctionner dès avril 1970 (premier récépissé de déclaration) puis par arrêté préfectoral du 30 mars 1977.		
+2008				2008				de_diagnostic_environnemental	Un rapport complémentaire de diagnostic environnemental réalisé en 2008 montre une baisse significative en polluants dans les eaux souterraines.		
+2009	12			2009	12			Des_mesures_ont_donc_été_faites	Des mesures ont donc été faites en décembre 2009 sur les eaux de surface, en aval de l'ancienne station service.		
+2009				2012				a_subit_de_nombreux_travaux_de_voiries	Ainsi, de 2009 à 2012, cette zone a subit de nombreux travaux de voiries et de remaniement des terres.		
+1977	03	30		1977	03	30		a_été_autorisée_à_fonctionner	La station service a été autorisée à fonctionner dès avril 1970 (premier récépissé de déclaration) puis par arrêté préfectoral du 30 mars 1977.		
+2012				2012				ont_pu_se_stabiliser	Les travaux étant dorénavant terminée, les eaux souterraines ont pu se stabiliser en 2012.		
+2009	03			2009	03			Une_campagne_de_mesures	Une campagne de mesures des eaux souterraines a été réalisée en mars 2009 et met en évidence de fortes teneurs en HCT, BTEX et HAP pour le piézomètre S12 (plan-cartographique-35.0023--3.pdf) et dans une moindre concentration, voire inférieures aux limites de quantification, dans les autres piézomètres.	'HCT', 'BTEX', 'HAP'	
+1980	12	12		1980	12	12		a_été_complété	Cet arrêté a été complété par un deuxième arrêté du 12 décembre 1980, pour l'extension de l'activité.		
+				2007	06			a_exploité	La société des Pétroles SHELL a exploité cette station jusqu’en juin 2007.		'La société des Pétroles SHELL'
+2009	04			2009	04			des_travaux_de_dépollution	Au vu de ces résultats, des travaux de dépollution ont été réalisé en avril 2009, permettant de traiter les sources sols à l'origine de l'impact des eaux souterraines :		

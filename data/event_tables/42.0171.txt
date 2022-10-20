@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a_été_constatée	- En 2013, une pollution par hydrocarbures a été constatée dans le bief souterrain dans sa partie conservée sous les bâtiments de l’usine, avec transfert vers le Botoret (irisations).	'hydrocarbures'	
+2014	09	19		2014	09	19		a_déclaré_par_courrier	L’exploitant a déclaré par courrier du 19 septembre 2014 l’arrêt des installations Classées pour la Protection de l’Environnement du site à compter du 1er septembre 2014.		
+1959				1959				a_ensuite_été_occupé	Le site a ensuite été occupé à partir de 1959 par Modern-Tubes puis Eurosit, pour la fabrication de meubles de bureau.		'Modern - Tubes puis Eurosit'
+1872				1872				construction_d_	Vers 1872, construction d’une usine de fabrication de casquettes et filature.		
+1997				1997				pollution	- En 1997, pollution du Botoret par des phosphates.	'phosphates'	
+2015	11	10		2015	11	10		un_contrôle_a_été_mené	Dans son rapport du 8 décembre 2015, l’inspection indique qu’un contrôle a été mené sur site en date du 10 novembre 2015.		
+2015	12			2015	12			Il_a_été_demandé_de_transmettre	Il a été demandé de transmettre à l’inspection avant fin décembre 2015 un dossier de cessation d’activité complété, conforme aux articles R512-39-1 à R512-39-3.		
+1988				1988				devient_propriété	En 1988, le site devient propriété du groupe ALTRAD Equipement à la suite du rachat de la société VITO.		'groupe ALTRAD Equipement', 'la société VITO'
+								a_été_réalisée	L’extension en partie Est a été réalisée dans les années 1970.		
+1955				1959				sont_arrêtées	Entre 1955 et 1959, les activités sont arrêtées et l’usine abandonnée.		

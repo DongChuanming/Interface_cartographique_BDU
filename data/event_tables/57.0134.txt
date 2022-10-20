@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09			2009	09			__venting_1___a_été_en	Une première installation dénommée "venting 1" a été en fonctionnement de novembre 2007 à juin 2008 puis de septembre 2009 à novembre 2013.		
+2013	11			2013	11			__venting_1___a_été_en	Une première installation dénommée "venting 1" a été en fonctionnement de novembre 2007 à juin 2008 puis de septembre 2009 à novembre 2013.		
+								venting_2___a_été_mise_en_place	En octobre 2012, l'installation dénommée "venting 2" a été mise en place avec 6 nouveaux puits de venting auxquels ont été raccordés, en novembre 2013 lors de l'arrêt du venting 1, les 6 puits encore productifs du venting 1.		
+2013	11			2013	11			venting_2___a_été_mise_en_place	En octobre 2012, l'installation dénommée "venting 2" a été mise en place avec 6 nouveaux puits de venting auxquels ont été raccordés, en novembre 2013 lors de l'arrêt du venting 1, les 6 puits encore productifs du venting 1.		
+2007	11			2007	11			__venting_1___a_été_en	Une première installation dénommée "venting 1" a été en fonctionnement de novembre 2007 à juin 2008 puis de septembre 2009 à novembre 2013.		
+2008	06			2008	06			__venting_1___a_été_en	Une première installation dénommée "venting 1" a été en fonctionnement de novembre 2007 à juin 2008 puis de septembre 2009 à novembre 2013.		

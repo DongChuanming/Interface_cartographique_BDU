@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				est_exploité	Le site est exploité depuis 1994 par la société BODYCOTE HIT, et est reprise par la société DAM.		'la société BODYCOTE HIT', 'la société DAM'
+2007				2007				ne_nécessite_pas	Compte tenu des résultats de l’ensemble des campagnes d’analyses réalisées depuis 2007, le site ne nécessite pas la mise en place d’une surveillance des eaux souterraines.		
+2010	12			2010	12			De_nouvelles_investigations_ont_été_réalisées	De nouvelles investigations ont été réalisées en décembre 2010. 5 sondages complémentaires ont été effectués en périphérie de la station de traitement des eaux et 10 analyses ont été réalisées à raison d'une analyse par tranche de 1 mètre.		
+2014	03			2014	03			a_été_réalisé	Un complément à cet état des lieux a été réalisé en mars 2014 suite à la demande de l'inspection des installations classées (réalisation d’une campagne de prélèvements d’eau sur les 2 piézomètres et les 3 puits présents sur le site afin de mesurer les métaux).	'métaux'	
+2009	12	21		2009	12	21		La_cessation_définitive_d__activité	La cessation définitive d'activité a été déclarée le 21 décembre 2009.		
+2010	06			2010	06			un_diagnostic	Concernant l'état des sols et des eaux souterraines, un diagnostic a été réalisé en juin 2010. ce diagnostic conclut à l’absence d’impact significatif de l’activité de DAM sur les sols et eaux souterraines au droit du site.		'DAM'
+2016	03	10		2016	03	10		de_sa_visite	Lors de sa visite du 10 mars 2016, l’inspection des installations classées a constaté que les ateliers, les annexes techniques et les bureaux sont vidés et nettoyés.		

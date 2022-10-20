@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	10		2006	07	10		a_été_pris	Un arrêté de consignation a été pris en date du 10 juillet 2006 à l’encontre de la commune de Gensac pour l’établissement du dossier de remise en état susvisé.		
+2006	12	18		2006	12	18		fait_parvenir	Par transmission du 18 décembre 2006, la Préfecture de Gironde fait parvenir à l'inspection l'étape A de du diagnostic initial et de l'évaluation simplifiée des risques (ESR) pour le site de Rocanguille.		'la Préfecture de Gironde'
+1999				1999				dépôt_de_déchets_verts	La Mairie de Gensac a exploité sur le territoire de sa commune, au lieu-dit « Rocanguille » un dépôt de déchets verts depuis la fin 1999.		'La Mairie'
+2005	10	04		2005	10	04		a_été_mise_en	Par arrêté préféctoral du 4 octobre 2005, la Mairie de Gensac a été mise en demeure de déposer un dossier de remise en état comprenant une ESR pour ce site.		

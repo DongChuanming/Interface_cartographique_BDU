@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	10			2016	10			est_occupé	Actuellement le site est occupé par la société SERBE depuis octobre 2016.		'la société SERBE'
+2014	02	28		2014	02	28		La_mise_en_liquidation_judiciaire	La mise en liquidation judiciaire de la société a été prononcée le 28 février 2014.		
+1972				1972				a_débuté	La société PRECIOHM a débuté son activité en 1972 afin d'y exploiter une usine de fabrication de circuits imprimés.		'La société PRECIOHM'
+2013	04	12		2013	04	12		a_cessé_son_activité	Elle a cessé son activité le 12 avril 2013.		

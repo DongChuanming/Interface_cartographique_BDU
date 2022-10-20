@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	08	24		Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés du 17 au 24 août 2011.		
+2011	02	18		2011	02	18		la_cessation_d__activité_notifiée	Suite à la cessation d'activité notifiée le 18 février 2011 à M. le Préfet de l'Yonne, La SARL WOLCK a confié la fermeture technique et administrative à un cabinet de conseil.		'le Préfet', 'La SARL WOLCK'
+2011	03			2011	03			a_fait_procéder	Celui-ci a fait procéder à un diagnostic des sols en mars 2011.		
+2012	03	30		2012	03	30		donne_récépissé	Le 30 mars 2012, M. le Préfet de l'Yonne donne récépissé à la SARL WOLCK de sa déclaration faisant part de sa cessation d'activité.		"le Préfet de l' Yonne", 'la SARL WOLCK'
+2011	02	18		2011	02	18		la_cessation_des_activités_notifiée	Avant la cessation des activités notifiée le 18 février 2011 de la SARL WOLCK, les infrastructures suivantes avaient été répertoriées:		'la SARL WOLCK'

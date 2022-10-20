@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07			2011	07			évacué_hors_site	Le transformateur aux PCB a été démantelé et évacué hors site en juillet 2011.	'PCB'	
+2010	12	09		2010	12	09		15_sondages_ont_été_réalisés	15 sondages ont été réalisés (S1 à S15) le 09/12/2010.		
+2011	02			2011	02			appartenaient_à	Le tènement et les locaux appartenaient à la société Copernic-Finances (la société PORTE n'était que locataire du site), qui a cédé le site à la société LOTI OUEST courant février 2011.		'la société Copernic - Finances', 'la société PORTE', 'la société LOTI OUEST'
+2011	11	14		2011	11	14		Une_visite_d__inspection	Une visite d'inspection a été effectuée le 14/11/2011.		
+2011	07			2011	07			a_été_démantelé	Le transformateur aux PCB a été démantelé et évacué hors site en juillet 2011.	'PCB'	

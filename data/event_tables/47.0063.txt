@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	02		2012	04	02		a_été_signé	Cet arrêté préfectoral a été signé le 02 avril 2012.		
+2012	06	14		2012	06	14		Lors_de_la_visite	Lors de la visite du site du 14 juin 2012:		
+1983	12	06		1983	12	06		a_été_créé	L'établissement a été créé par la société GUITARD et FORT et autorisé en premier lieu le 6 décembre 1983.		'la société GUITARD', 'FORT'
+2012	03			2012	03			un_diagnostic_complémentaire	En mars 2012, un diagnostic complémentaire sur les sols et les eaux souterraines est réalisé par ANTEA.		'ANTEA'
+				2013	01	09		Les_travaux_de_confinement	Les travaux de confinement des 2 zones impactées (nord -est du site et ouest) ont été réalisés du 7 au 9 janvier 2013.		
+2012	06	14		2012	06	14		du	Lors de la visite du site du 14 juin 2012:		
+2012	06	28		2012	06	28		De_nouvelles_investigations_ont_été_demandées	De nouvelles investigations ont été demandées à CMS par courrier du 28 juin 2012.		
+1988				1988				a_été_créée	. Chromage Mécanique Services a été créée en 1988 et obtenu un récépissé de changement d'exploitant en sa faveur le 8 avril 1988.		'Chromage Mécanique Services'
+2014	05	28		2014	05	28		La_visite	La visite d'inspection du 28/05/2014 a permis de constater que :		
+								a_été_créée	. Chromage Mécanique Services a été créée en 1988 et obtenu un récépissé de changement d'exploitant en sa faveur le 8 avril 1988.		'Chromage Mécanique Services'
+1983	12	06		1983	12	06		autorisé_en_premier_lieu	L'établissement a été créé par la société GUITARD et FORT et autorisé en premier lieu le 6 décembre 1983.		'la société GUITARD', 'FORT'
+2013	01	22		2013	01	22		la_cessation_d__activité	Suite à la cessation d'activité du 22/01/2013, à la liquidation de l'entreprise CMS et à la visite d'inspection du 8 juillet 2013, l'arrêté préfectoral du 18 septembre 2013 a mis le mandataire liquidateur en demeure d'exécuter les mesures suivantes sous 2 mois :		
+2011	09	15		2011	09	15		a_été_présenté	Un projet de prescriptions a été présenté au CODERST du 15 septembre 2011 pour encadrer les conditions de gestion du site pollué.		
+2009	04	07		2009	04	07		Un_second_prélèvement_a_été_effectué	Un second prélèvement a été effectué par l'exploitant le 7 avril 2009 lors d'une averse de pluie.		
+2009	03	24		2009	03	24		L__inspection	L'inspection du  24 mars 2009 a permis de mettre en évidence la buse terminale d'une première canalisation de laquelle s'écoule un liquide jaune sans odeur particulière et une deuxième canalisation de laquelle s'écoule un liquide de couleur foncée à forte odeur d'eaux sanitaires.		
+								obtenu	. Chromage Mécanique Services a été créée en 1988 et obtenu un récépissé de changement d'exploitant en sa faveur le 8 avril 1988.		'Chromage Mécanique Services'
+2009	04	07		2009	04	07		des_échantillons_prélevés	Les analyses des échantillons prélevés les 24 mars et 7 avril 2009 révèlent notamment la présence de chrome total en teneurs respectives de 213 mg/l et 152 mg/l.	'chrome total'	
+2012	02	10		2012	02	10		la_première_campagne_d__analyses	Les résultats de la première campagne d'analyses du 10 février 2012 dans 2 piézomètres (PZ1 dans l'atelier et PZ2 à l'extérieur) montrent la présence de chrome au droit des 2 ouvrages avec des teneurs 3 fois plus élevées au droit de PZ2.	'chrome'	
+				2012	11	16		Les_travaux_d__excavation	Les travaux d'excavation du pré voisin ont été réalisés du 13 au 16 novembre 2012.		
+								des_échantillons_prélevés	Les analyses des échantillons prélevés les 24 mars et 7 avril 2009 révèlent notamment la présence de chrome total en teneurs respectives de 213 mg/l et 152 mg/l.	'chrome total'	
+								a_prescrit	l'arrêté préfectoral du 18 septembre 2013 a prescrit au mandataire liquidateur sous 15 jours, d'éliminer dans une installation dûment autorisée les produits dangereux et déchets présents sur le site, de supprimer les risques d'incendie et d'explosion et d'interdire efficacement l'accès au site.	'les produits dangereux'	
+2013	07	08		2013	07	08		a_mis	Suite à la cessation d'activité du 22/01/2013, à la liquidation de l'entreprise CMS et à la visite d'inspection du 8 juillet 2013, l'arrêté préfectoral du 18 septembre 2013 a mis le mandataire liquidateur en demeure d'exécuter les mesures suivantes sous 2 mois :		
+2010	03	03		2010	03	03		a_fait_l__objet_d_	L'activité de dégraissage et nettoyage de surface de métaux par des solvants organiques a fait l'objet d'un récépissé daté du 3 mars 2010.	'des solvants organiques'	
+2013	07	08		2013	07	08		et_à_la_visite	Suite à la cessation d'activité du 22/01/2013, à la liquidation de l'entreprise CMS et à la visite d'inspection du 8 juillet 2013, l'arrêté préfectoral du 18 septembre 2013 a mis le mandataire liquidateur en demeure d'exécuter les mesures suivantes sous 2 mois :		
+1988				1988				obtenu	. Chromage Mécanique Services a été créée en 1988 et obtenu un récépissé de changement d'exploitant en sa faveur le 8 avril 1988.		'Chromage Mécanique Services'
+2009	03			2009	03			son_raccordement_au_réseau_public	En ce qui concerne la deuxième canalisation (eaux usées), l'exploitant a effectué son raccordement au réseau public fin mars 2009.		
+2013	01	22		2013	01	22		est_placée_en_liquidation_judiciaire	La société est placée en liquidation judiciaire le 22/01/2013, maître STUTZ est nommée mandataire liquidateur.		'maître STUTZ'

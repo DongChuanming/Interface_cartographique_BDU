@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				bouché	Ancien puits injecteur exploité par la sté TEPF sur la commune d'Abidos (64) foré en 1952 et bouché en 1993.		'la sté TEPF'
+1995	08	11		1995	08	11		le_délaissement_des_installations_LA048	La DRIRE a considéré le délaissement des installations LA048 et son réseau de collectes associées jusqu'à la jonction du manifold M5-LS (après nettoyage et mise en sécurité) comme acquis le 11/08/1995.		'La DRIRE'
+1952				1952				foré	Ancien puits injecteur exploité par la sté TEPF sur la commune d'Abidos (64) foré en 1952 et bouché en 1993.		'la sté TEPF'

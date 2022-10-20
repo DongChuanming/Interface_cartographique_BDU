@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09			2005	09			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en septembre 2005.		
+2005				2005				a_cessé_son_activité	La société a cessé son activité en 2005.		
+2002	07			2002	07			Les_analyses	Les analyses de juillet 2002 mettent en évidence un faible impact de la nappe de surface par le diuron.	'diuron'	
+1996	12	16		1996	12	16		a_été_autorisée_à_exploiter	La société DELACROIX SA a été autorisée à exploiter des entrepôts de stockage de produits agro pharmaceutiques ou de grandes cultures et jardin par arrêté préfectoral (modifié) du 16 décembre 1996.		'La société DELACROIX SA'
+2004	10			2004	10			Le_diagnostic_environnemental_réalisé	Le diagnostic environnemental réalisé en octobre 2004 et février 2005, dans le cadre de la cessation d'activité, a mis en évidence :		
+2005	02			2005	02			Le_diagnostic_environnemental_réalisé	Le diagnostic environnemental réalisé en octobre 2004 et février 2005, dans le cadre de la cessation d'activité, a mis en évidence :		

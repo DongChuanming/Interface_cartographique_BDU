@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_été_produite	La première a été produite en 2003 pour le compte de la société SOFISERVICE, qui est l'ayant droit de la société des HAUTS FOURNEAUX DE ROUEN.		'la société SOFISERVICE', 'la société des HAUTS FOURNEAUX DE ROUEN'
+2003				2003				Les_investigations	Les investigations de 2003 ont montré la présence d’un impact dans les eaux souterraines au droit des lagunes.		
+2018				2018				a_été_produite	La seconde a été produite en 2018 pour le compte de la société RUBIS TERMINAL.		'la société RUBIS TERMINAL'

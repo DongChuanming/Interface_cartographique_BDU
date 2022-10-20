@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				l__apparition	- pour les éléments traces métalliques : l’apparition de concentrations significatives en 2008 pour l’arsenic et en 2009 pour le zinc, puis une tendance nette à la diminution pour ces deux paramètres.	'les éléments traces métalliques', 'arsenic', 'le zinc'	
+1962	02	10		1962	02	10		a_été_autorisée_à_exercer	La société VERON a été autorisée à exercer une activité d'effilochage de textiles et activité annexes (telles que blanchisserie, cassage des métaux, dépôt d'os et papiers usagés) par arrêté préfectoral du 10 février 1962.		'La société VERON'
+2007	01	25		2007	01	25		a_été_autorisée_à_exercer	La société Romi Recyclage a été autorisée à exercer, sur le site, une activité de transit de déchets industriels par arrêté préfectoral 25 janvier 2007.	'déchets industriels'	'La société Romi Recyclage'
+2003	04			2003	04			a_déclaré_sa_cessation_d__activité	La SNC Les Baudières a déclaré sa cessation d'activité en avril 2003.		'La SNC Les Baudières'

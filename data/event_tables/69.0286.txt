@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09	29		2011	09	29		Un_dossier_de_demande_d_	Un dossier de demande d'autorisation a été transmis le 29/09/2011 et complété le 26/12/2012 et le 11/02/2013.		
+2000	11	30		2000	11	30		Son_activité	Son activité était axée sur les travaux de chaudronnerie mécano-soudure et a fait l'objet d'un arrêté préfectoral d'autorisation signé le 30/11/2000.		
+2011	07	01		2011	07	01		Une_étude_de_l__état_des_sols_a_été_réalisée	Une étude de l'état des sols a été réalisée le 01/07/2011.		
+2012	12	26		2012	12	26		Un_dossier_de_demande_d_	Un dossier de demande d'autorisation a été transmis le 29/09/2011 et complété le 26/12/2012 et le 11/02/2013.		
+2005	01	13		2005	01	13		Plusieurs_inspections	Plusieurs inspections ont été réalisées ( le 13/01/2005, 05/04/2005, 10/01/2006,14/09/2006) sur le site REGEMAT en fonctionnement et le constat a été que la société REGEMAT stocke un volume de déchets plus important que le volume autorisé.		'REGEMAT', 'la société REGEMAT'
+2003				2003				rachète	En 2003, REGEMAT rachète le site pour y exercer une activité de transit et de tri de déchets non dangereux et de stockage de benne, autorisé par l'arrêté préfectoral du 14/05/2003.	'déchets non dangereux'	'REGEMAT'
+2000	11	30		2000	11	30		signé	Son activité était axée sur les travaux de chaudronnerie mécano-soudure et a fait l'objet d'un arrêté préfectoral d'autorisation signé le 30/11/2000.		
+2006	01	10		2006	09	14		Plusieurs_inspections	Plusieurs inspections ont été réalisées ( le 13/01/2005, 05/04/2005, 10/01/2006,14/09/2006) sur le site REGEMAT en fonctionnement et le constat a été que la société REGEMAT stocke un volume de déchets plus important que le volume autorisé.		'REGEMAT', 'la société REGEMAT'
+2009	09	01		2009	09	01		à_une_visite_d__inspection	Suite à une visite d'inspection le 01/09/2009, l'inspection des installations classées indique que la majorité des déchets a été évacuée.		
+				2013	02	11		Un_dossier_de_demande_d_	Un dossier de demande d'autorisation a été transmis le 29/09/2011 et complété le 26/12/2012 et le 11/02/2013.		
+2000	11	30		2000	11	30		les_travaux_de_chaudronnerie_mécano_soudure	Son activité était axée sur les travaux de chaudronnerie mécano-soudure et a fait l'objet d'un arrêté préfectoral d'autorisation signé le 30/11/2000.		
+2005	03	14		2005	03	14		ont_été_prises	Des sanctions administratives ont été prises contre l'exploitant le 14/03/2005, afin qu'il respecte les dispositions de l'arrêté du 14/05/2003.		
+2006	10	19		2006	10	19		a_été_prononcée	Le 19/10/2006, la liquidation judiciaire de la société REGEMAT a été prononcée.		'la société REGEMAT'
+2008	08	04		2008	08	04		déclare_exploiter	Le 04/08/2008, la société EPUR RHONE-ALPES déclare exploiter le site, succédant à la société REGEMAT dont seules les activités de transit et de tri de déchets industriels banals étaient autorisées par l'arrêté préfectoral du 14/05/2003.	'déchets industriels'	'la société EPUR RHONE - ALPES', 'la société REGEMAT'
+				2013	02	11		complété	Un dossier de demande d'autorisation a été transmis le 29/09/2011 et complété le 26/12/2012 et le 11/02/2013.		
+2012	12	26		2012	12	26		complété	Un dossier de demande d'autorisation a été transmis le 29/09/2011 et complété le 26/12/2012 et le 11/02/2013.		
+2012	11	30		2012	11	30		de_la_campagne	Lors de la campagne du 30/11/2012, aucun dépassement des seuils n'a été décelé.		
+2005	04	05		2005	04	05		Plusieurs_inspections	Plusieurs inspections ont été réalisées ( le 13/01/2005, 05/04/2005, 10/01/2006,14/09/2006) sur le site REGEMAT en fonctionnement et le constat a été que la société REGEMAT stocke un volume de déchets plus important que le volume autorisé.		'REGEMAT', 'la société REGEMAT'
+1973				1973				a_été_exploité	Le site a été exploité depuis 1973 par la société CMC COUTURIER.		'la société CMC COUTURIER'
+2008	07	22		2008	07	22		transmet	Le 22/07/2008, la société EPUR RHONE-ALPES transmet un échéancier d'évacuation des déchets et des travaux à réaliser sur le site.		'la société EPUR RHONE - ALPES'
+2007	05	16		2007	05	16		La_visite_d__inspection	La visite d'inspection du 16/05/2007 a conduit à la prise de sanction contre le liquidateur judiciaire de la société REGEMAT.		'la société REGEMAT'
+2007	02	06		2007	02	06		La_visite	La visite d'inspection du 06/02/2007, a mis en évidence que :		
+2006	10	19		2006	10	19		est_déclarée_en_liquidation_judiciaire_par_jugement	REGEMAT est déclarée en liquidation judiciaire par jugement du tribunal de commerce de Villefranche-Tarare en date du 19/10/2006.		'REGEMAT'
+				2011	11	25		ont_été_implantés_sur_site	En plus des piézomètres PZ3 et PZ2 (aval hydraulique) existants, les piézomètres PZ1 bis et PZ4 (amont) ont été implantés sur site du 23 au 25 novembre 2011.		
+2011	12	01		2011	12	01		Les_campagnes_ont_été_effectuées	Les campagnes ont été effectuées le 01/12/2011 et le 30/11/2012.		
+				2012	11	30		Les_campagnes_ont_été_effectuées	Les campagnes ont été effectuées le 01/12/2011 et le 30/11/2012.		
+2000	11	30		2000	11	30		était_axée_sur	Son activité était axée sur les travaux de chaudronnerie mécano-soudure et a fait l'objet d'un arrêté préfectoral d'autorisation signé le 30/11/2000.		
+2008	08	22		2008	08	22		a_fait_l__objet_d_	Ce changement d'exploitant a fait l'objet d'un récépissé de déclaration de changement d'exploitant du 22/08/2008.		

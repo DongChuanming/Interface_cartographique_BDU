@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10	25		2002	10	25		a_été_remise	La phase 2, l'étude diagnostic du site et étude de sols a été remise à l'inspection le 25 octobre 2002.		
+1990	12	14		1990	12	14		Débordement_d_	- Débordement d'une citerne de fioul domestique le 14 décembre 1990.	'fioul domestique'	
+1978				1978				est_repris	Le site est repris en 1978 par la Cie Industrielle des Techniques Nouvelles puis en 1988 par T.		'la Cie Industrielle des Techniques Nouvelles'
+1960				1960				exploité	Entreprise de travail des métaux (fabrication de grilles métalliques) avec un atelier de traitement de surface exploité depuis 1960 par les Ets LAEDERICH.		'les Ets LAEDERICH'
+2000	09	12		2000	09	12		a_été_remise	La phase A de l'étude, réalisation d'une étude historique et d'une synthèse des données disponibles sur l'environnement du site a été remise le 12 septembre 2000 et validée par l'inspection.		
+								transitaient_dans	Avant l'installation d'une station d'épuration, à la fin des années 1990, les eaux de rinçages courants, après neutralisation et précipitation de l' hydroxyde ferrique transitaient dans une lagune de décantation avant rejet au ruisseau.	'hydroxyde ferrique'	
+1999	11	08		1999	11	08		__Pollution	- Pollution, le 8 novembre 1999, du Rabodeau par du fuel provenant d'une cuve inutilisée mais ni vidée ni inertée.	'fuel'	

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				Élimination	- Élimination d'une partie des transfos PCB en 2008.	'PCB'	
+2007				2007				l__étude_documentaire	- Après relance de l'inspection des installations classées, l'étude documentaire et historique a été réalisée fin 2006 - début 2007 et a permis d'identifier des sources potentielles de pollution.		
+2012	03	22		2012	03	22		Réalisation	- Réalisation d'un mémoire de cessation totale d'activité d'une briqueterie, en date du 22/03/2012.		
+2006				2006				l__étude_documentaire	- Après relance de l'inspection des installations classées, l'étude documentaire et historique a été réalisée fin 2006 - début 2007 et a permis d'identifier des sources potentielles de pollution.		
+				2008				Élimination	- Élimination d'une partie des déchets et évacuation entre avril et juillet 2008: 1600 T de déchets non dangereux éliminés.	'déchets non dangereux'	
+2007	05	09		2007	05	09		__Diagnostic_initial	- Diagnostic initial de qualité des sols: investigations sur les sols et les eaux souterraines en date du 09/05/2007.		
+2010	04			2010	04			Cessation_d__activité	- Cessation d'activité fin avril 2010.		

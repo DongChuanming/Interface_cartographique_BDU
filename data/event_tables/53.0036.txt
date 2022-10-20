@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09	18		2006	09	18		a_déclaré_la_cessation_de_son_activité	Monsieur Patrice VENANCE a déclaré la cessation de son activité le 18 septembre 2006.		'Monsieur Patrice VENANCE'
+2006	04			2006	04			un_diagnostic_de_sol	Un bureau d'étude a réalisé en avril 2006 un diagnostic de sol.		
+1988	07	13		1988	07	13		délivré_par	Par récépissé de changement d’exploitant délivré par la préfecture de la Mayenne le 13 juillet 1988, monsieur Patrice VENANCE a succédé à la SARL SOS AUTO (Monsieur GARNIER) pour l’exploitation de cette installation.		'Patrice VENANCE', 'la SARL SOS AUTO', 'Monsieur GARNIER'

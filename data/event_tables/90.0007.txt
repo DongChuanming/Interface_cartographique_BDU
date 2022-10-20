@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11			2001	11			rapports	- rapports de mars 2001 et novembre 2001 relatifs à l'étude de sols (diagnostic initial et évaluation simplifiée des risques),		
+2013	05			2013	05			a_été_remis	Un plan de gestion a été remis en mai 2013, dans l'objectif de définir les mesures de gestion nécessaires pour gérer les terres polluées par les hydrocarbures et les remblais contaminés par des métaux et des hydrocarbures excavés dans le cadre des travaux de réaménagement du site (démolition de bâtiments vétustes, réhabilitation de bâtiments anciens, construction de locaux neufs et amélioration de la desserte routière du site).	'hydrocarbures', 'des métaux', 'hydrocarbures'	
+2006	06			2006	06			le_rapport	A ce jour, l’exploitant a remis le rapport suivant (juin 2006) : diagnostic approfondi portant sur les milieux eaux souterraines et eaux superficielles ; traitement de la phase flottante.		
+2007	01	24		2007	01	24		a_été_communiquée	L’étude détaillée des risques (EDR) a été communiquée à l'inspection le 24 janvier 2007.		
+2011				2011				a_fait_l__objet	Dans le cadre du rachat des terrains par la SODEB et des travaux de restructuration de la zone industrielle des Forges, le site a fait l'objet en 2011 d'un état des lieux de la pollution des sols.		'la SODEB', 'Forges'
+2001	03			2001	03			rapports	- rapports de mars 2001 et novembre 2001 relatifs à l'étude de sols (diagnostic initial et évaluation simplifiée des risques),		

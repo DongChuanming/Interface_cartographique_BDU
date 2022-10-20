@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	16		1999	12	16		l__arrêt_total_de_ses_activités	Suite à l'arrêt total de ses activités le 16 décembre 1999, la société SOGETEX a transmis un dossier de cessation d'activité.		'la société SOGETEX'
+				2001				a_exploité	La société SOGETEX a exploité à Erstein, jusqu'à la fin de l'année 2001, une unité spécialisée dans le travail de la laine et la production de fils teints, autorisée par AP du 10/01/1980 au nom de la filature de laine peignée d'Erstein.		'La société SOGETEX'
+2006	10			2006	10			a_été_mise	Lors des travaux d'aménagement du site, une zone polluée par des hydrocarbures (qui n'avait pas été identifiée lors de la procédure de cessation d'activité) a été mise en évidence en octobre 2006.	'hydrocarbures'	
+								ont_été_exercées	Ces activités ont été exercées sur le site depuis la fin du 19ème siècle.		
+2003	04	14		2003	04	14		une_évaluation_détaillée_des_risques_de_pollution	L'évaluation ayant conduit à la nécessité d'investigations complémentaires (classe 1), une évaluation détaillée des risques de pollution a été imposée par arrêté complémentaire du 14 avril 2003.		
+2007	06	28		2007	06	28		la_réalisation_d__investigations	Le Préfet a prescrit par arrêté du 28 juin 2007 à la Sogetex la réalisation d'investigations complémentaires.		'Le Préfet', 'la Sogetex'
+2004	12	13		2004	12	13		procès_verbal_de_récolement	Le procès-verbal de récolement a été dressé le 13 décembre 2004.		
+2002	08	21		2002	08	21		a_été_prescrite	Cependant, celui-ci n'étant pas complet et au vu des résultats d'analyses des eaux souterraines, une ESR a été prescrite par arrêté complémentaire le 21 août 2002.		
+1999	12	16		1999	12	16		a_transmis	Suite à l'arrêt total de ses activités le 16 décembre 1999, la société SOGETEX a transmis un dossier de cessation d'activité.		'la société SOGETEX'

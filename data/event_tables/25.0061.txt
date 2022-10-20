@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	12			2013	12			s__est_terminé	Le chantier de démolition a commencé en juin 2011 et s'est terminé en décembre 2013.		
+2013				2013				Le_diagnostic_réalisé	Le diagnostic réalisé en 2013 a consisté en la réalisation de 8 sondages.		
+2008	11			2008	11			réalisé	Le diagnostic complémentaire réalisé en novembre 2008 a pour but de préciser les extensions des pollutions identifiées.		
+1986				1986				est_rachetée	En 1986, la société est rachetée par le groupe PEUGEOT JAPY.		'le groupe PEUGEOT JAPY'
+2005	11	21		2005	11	21		La_cessation_définitive_d__activité	La cessation définitive d'activité a été notifiée par courrier du 21 novembre 2005, avec un mémoire sur l'état du site.		
+2006	05			2006	05			a_été_arrêtée	L'activité a été arrêtée en mai 2006.		
+2014				2014				d__éliminer	De cette démolition, il a été demandé à l'exploitant d'éliminer au cours du deuxième trimestre 2014 20 m3 de terres souillées mises en sécurité sous bâche et 80 m3 de bétons souillés entreposés sous bâche.		
+				2006				est_arrêtée	En janvier 2004, l'activité de peinture est arrêtée sur le site, une activité de production de trains arrières de véhicules citroën est réalisée sur le site jusqu'au premier semestre 2006.		'citroën'
+2013	12			2013	12			Le_chantier_de_démolition	Le chantier de démolition a commencé en juin 2011 et s'est terminé en décembre 2013.		
+2011	06			2011	06			Le_chantier_de_démolition	Le chantier de démolition a commencé en juin 2011 et s'est terminé en décembre 2013.		
+2005				2005				diagnostics_réalisés	Un plan de gestion réalisé conformément à la méthodologie du Ministère de l’Écologie, du Développement durable et de l’Énergie, reprenant l’ensemble des résultats obtenus dans les divers diagnostics réalisés depuis 2005, devra être réalisé.		
+2012	01			2012	01			a_donc_demandé	L'inspection a donc demandé des compléments à l'exploitant par courrier de janvier 2012.		
+2004	01			2004	01			est_arrêtée	En janvier 2004, l'activité de peinture est arrêtée sur le site, une activité de production de trains arrières de véhicules citroën est réalisée sur le site jusqu'au premier semestre 2006.		'citroën'
+2006	11			2006	11			Un_diagnostic_de_pollution_de_sols	Un diagnostic de pollution de sols a été réalisé en novembre 2006.		
+2011	11			2011	11			Un_diagnostic_de_pollution_de_sols	Un diagnostic de pollution de sols a été réalisé en novembre 2011.		
+1928				1928				était_exploité	Le site était exploité depuis 1928.		

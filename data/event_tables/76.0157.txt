@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10			2007	10			Une_EDR	Une EDR (Évaluation détaillée des risques) réalisée en octobre 2007 présente l'existence de risques liés à la présence de remblais pollués (HCT, HAP, métaux lourds, PCBs).	'HCT', 'HAP', 'métaux lourds', 'PCBs'	
+2002	09	13		2002	09	13		est_mise_en_demeure	La société est mise en demeure le 13 septembre 2002 de mettre en sécurité le site et de réaliser les études de sol nécessaires à la réutilisation du site.		'La société'
+2001	02			2001	02			Un_Pré_diagnostic	Un Pré-diagnostic du site est réalisé en février 2001.		
+				1945				a_été_dans_un_premier_temps_exploité	Ce site, d'une surface d'environ 3 ha, a été dans un premier temps exploité par la compagnie française des Ferrailles après 1945.		'la compagnie française des Ferrailles'
+2003	02			2003	02			Un_diagnostic_environnemental_initial	Un diagnostic environnemental initial et une évaluation simplifiée des risques sont réalisés en février 2003.		
+2004	03			2004	03			la_déclaration	la déclaration de cessation d'activité est réalisée en mars 2004.		
+2003	05			2003	05			cède	En mai 2003, la société Cofrafer cède le terrain à L'établissement public de base seine (EPBS, désormais EPFN).		'la société Cofrafer', 'EPFN'
+2009	06			2009	06			est_remise	Une analyse des risques résiduels est remise en juin 2009.		
+1960				2001				__a_exploité	Puis la société COFRAFER, spécialisée dans le travail des métaux (production  et négoce de diverses pièces destinées à la construction mécanique, au bâtiment, à l'industrie automobile...), a exploité ce site de 1960 à 2001.		'la société COFRAFER'

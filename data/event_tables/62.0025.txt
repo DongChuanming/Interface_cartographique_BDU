@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				est_créée	- En 1990, est créée la SARL WAUTHIER frères dont l'activité concerne la vidange de fosses septiques des particuliers.		'la SARL WAUTHIER frères'
+1955				1955				curage	- Depuis 1955, l'activité de l'entreprise consistait essentiellement au curage des fosses d'aisances.		
+1990	05			1990	05			Travaux_réalisés	- Travaux réalisés en mai 1990:		
+1989				1989				__arrêt	- En 1989, arrêt des dépôts de déchets dans la fosse précitée.	'dépôts de déchets'	
+1975				1975				s__est_orientée	- Vers 1975, l'activité s'est orientée peu à peu vers le monde industriel avec notamment le curage des fonds de cuves de fiouls lourds.	'fiouls lourds'	
+2002	05	23		2002	05	23		Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques en date du 23/05/2002, révélant une pollution sols et eaux souterraines, notamment la présence de flottants dans la nappe d'eau souterraine.	'la présence de flottants'	

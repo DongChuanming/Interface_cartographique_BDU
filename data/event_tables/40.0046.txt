@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11			2010	11			se_sont_déroulés	Conformément à l'arrêté complémentaire du 13/10/2009, les travaux d'excavation des terres polluées se sont déroulés fin novembre 2010.		
+2006	09			2006	09			a_remplacé	L’exploitant a remplacé le produit de préservation BUSAN 1308 par le BUSAN 1321 en septembre 2006.		'produit de préservation BUSAN', 'le BUSAN 1321'
+2007	07			2007	07			débordement	L'exploitant pense que l'origine provient du débordement du produit hors de la zone de rétention lors de l'opération d'échange du produit de traitement (BUSAN 1321 en INTACE B3315) en juillet 2007.		'BUSAN 1321', 'INTACE B3315'
+2008	01	04		2008	01	04		demande	Le 04/01/2008, la DRIRE demande le rapport d'accident à l'exploitant avec les mesures correctives prises ou à prendre.		'la DRIRE'
+								Les_travaux_d__excavation	Les travaux d'excavation se sont déroulés les 22 et 23 novembre 2010.		
+2011	02	16		2011	02	16		une_analyse	L'exploitant a réalisé une analyse des risques résiduaires (rapport FCBA du 16 février 2011) concluant sur un risque acceptable.		
+2007	11	20		2007	11	20		La_campagne_d__analyses	La campagne d'analyses des eaux souterraines du 20/11/2007 révèle des traces de Propiconazole (0,57 ug/l) au niveau du piézomètre PZ2.	'Propiconazole'	
+2002	07	08		2002	07	08		L__étude_remise	L'étude remise le 8 juillet 2002 classe le site en 3 "banalisable" pour l'usage du moment.		
+1916				1916				a_été_créée	Elle a été créée en 1916 et a pratiqué jusqu'en 1955 une activité de distillation de résine de pin (gemme).	'résine de pin'	
+								a_remplacé	La Montoise du bois a remplacé le produit de préservation BUSAN 1321 par le B3315 d'INTACE en août 07.		'produit de préservation BUSAN 1321', "B3315 d' INTACE"
+2009	12	11		2009	12	11		L__étude	L'étude du 11/12/2009 met en évidence la présence d'une zone de pollution de 3 m au droit des cuves de trempage.		
+2008	01	04		2008	01	04		demande	Le 04/01/2008, la DRIRE demande le rapport d'accident à l'exploitant avec les meusures correctives prises ou à prendre.		'la DRIRE'
+2010	11	23		2010	11	23		Les_travaux_d__excavation	Les travaux d'excavation se sont déroulés les 22 et 23 novembre 2010.		
+2007	11	20		2007	11	20		La_campagne	La campagne du 20/11/2007 révèle des traces de Propiconazole (0,57 ug/l) au niveau du piézomètre PZ2, probablement dû à un débordement du produit hors de la zone de rétention lors de l'échange du produit de traitement (BUSAN 1321 en INTACE B3315) (opération réalisée en juillet 2007.	'Propiconazole'	'BUSAN 1321', 'INTACE B3315'

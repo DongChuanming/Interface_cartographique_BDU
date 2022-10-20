@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			a_pris_les_mesures	En conséquence, en juin 2008, l’exploitant a pris les mesures suivantes:		
+2008	02			2008	02			ont_mis_en_évidence	Dans les sols, des investigations, en février 2008, ont mis en évidence un impact en hydrocarbure dans la zone de battement de la nappe sur la partie Est de la station.	'hydrocarbure'	
+								des_2_campagnes_de_prélèvement_suivantes	Cet impact a été confirmé lors des 2 campagnes de prélèvement suivantes (mars et avril 2008).		
+2013	09			2013	09			confinement_est_remis_en_service	Suite à la remontée de la concentration en BTEX (129 µg/L) au niveau du piézomètre PZ2, notamment en raison de la présence de benzène à une concentration de 94.7 µg/L, le dispositif de confinement est remis en service en septembre 2013.	'BTEX', 'benzène'	
+2013	11			2013	11			des_travaux_d__assainissement	En novembre 2013, des travaux d'assainissement réalisés le long d'une voirie longeant le site mettent à jour une pollution du sol aux hydrocarbures.	'hydrocarbures'	
+2008	10			2008	10			39_campagnes_de_mesures	En mars 2012, la société TOTAL tire le bilan suivant des 39 campagnes de mesures qui ont été réalisées sur ce site depuis octobre 2008 :		'la société TOTAL'
+2012	07			2012	07			arrête	La société TOTAL arrête le dispositif de confinement en juillet 2012 tout en continuant à réaliser le suivi piézométrique du site.		'La société TOTAL'
+2008	02			2008	02			des_investigations	Dans les sols, des investigations, en février 2008, ont mis en évidence un impact en hydrocarbure dans la zone de battement de la nappe sur la partie Est de la station.	'hydrocarbure'	
+2008	04			2008	04			des_2_campagnes_de_prélèvement_suivantes	Cet impact a été confirmé lors des 2 campagnes de prélèvement suivantes (mars et avril 2008).		

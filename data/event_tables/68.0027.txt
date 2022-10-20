@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				une_demande	En 1999, une demande de permis de construire a été déposée par la Mairie de Huningue pour le projet du « triangle ».		
+1930				1930				a_racheté	La société Plasco a racheté en 1930 les locaux pour y conduire des activités de moulage de matières plastiques et de production de mousse de polyuréthane.	'mousse de polyuréthane'	'La société Plasco'
+								un_diagnostic_approfondi	Dès 1996, un diagnostic approfondi et une étude de risques ont été décidés et prescrits par arrêtés préfectoraux (AP du 13 et 20 janvier 1997).		
+1968				1968				a_transféré	En 1968, la société Plasco a transféré ses activités sur un autre site à Huningue.		'la société Plasco'
+1996				1996				un_diagnostic_approfondi	Dès 1996, un diagnostic approfondi et une étude de risques ont été décidés et prescrits par arrêtés préfectoraux (AP du 13 et 20 janvier 1997).		
+1879				1879				____ont_débuté	Les activités sur le site dit « Frossard » ont débuté en 1879 avec la société Lindenhof und Weyl exploitant une unité de distillation de goudrons.	'de goudrons'	'avec la société Lindenhof'
+1929				1929				fut_dissoute	A cette société a succédé la Sté Frossard, Rebert & Cie, qui fut dissoute en 1929.		'la Sté Frossard'
+1998	08			1999	09			un_suivi	Par ailleurs, la société BURGEAP a réalisé entre août 1998 et septembre 1999 un suivi de la piézométrie et de la qualité des eaux souterraines.		'la société BURGEAP'
+1881				1881				reconnaître_un_impact	De nombreuses informations ont permis de reconnaître un impact de cette activité sur les sols et les eaux souterraines et superficielles dès 1881.		
+1997	12			1997	12			__établi	Le Rapport  établi en décembre 1997 par BURGEAP, relatif à l’étude documentaire et historique, investigations, étude d’impact, évaluation des risques pour l’ancien site Lindenhof, Frossard, Rebert et Cie, Plasco à Huningue a permis de mettre en évidence :		'par BURGEAP', ', Plasco'
+1997	01	20		1997	01	20		un_diagnostic_approfondi	Dès 1996, un diagnostic approfondi et une étude de risques ont été décidés et prescrits par arrêtés préfectoraux (AP du 13 et 20 janvier 1997).		

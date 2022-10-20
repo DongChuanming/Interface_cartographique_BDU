@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	02			1999	02			créent	En février 1999, à la demande de la Drire, les établissements Merle créent un forage en aval de leur atelier.		'Drire', 'les établissements Merle'
+1981				1981				un_important_débordement	Elle retrace l'historique avec notamment un important débordement en 1981.		
+2000	10			2000	10			est_déposée	L'étude est déposée en octobre 2000.		
+1997				1997				a_été_mise_en_liquidation_judiciaire	Début 1997, la société Entretube Marfa située au 5 rue Galilée, a été mise en liquidation judiciaire laissant derrière elle des déchets.		'la société Entretube Marfa'
+2004	01	22		2004	01	22		a_fait_connaître	Après examen de l'EDR, l'inspection a fait connaître au responsable de ce site ses remarques sur la présente étude, par courrier du 22 janvier 2004.		
+1991				1991				repris	Atelier de traitement de surfaces situé dans la zone industrielle (ZAC de Belle Aire) d'Aytré, repris en 1991 par un nouveau propriétaire (de la société) et mis en conformité.		

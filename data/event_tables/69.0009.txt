@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				a_cessé_son_activité	Elle a cessé son activité depuis 1994.		
+1965				1965				Des_augmentations	Des augmentations successives de 470 m3 et 770 m3 ont eu lieu successivement en 1965 et 1973 (stockages aériens et en fosses).		
+1973				1973				Des_augmentations	Des augmentations successives de 470 m3 et 770 m3 ont eu lieu successivement en 1965 et 1973 (stockages aériens et en fosses).		
+								déversement	- Mars 83 : déversement de toluène lors d'un déchargement d'un camion citerne.	'toluène'	
+1950				1950				Une_exploitation	Une exploitation sur ce site a eu lieu depuis 1950.		
+1993				1993				a_été_créée	La société GAZECHIM a été créée en 1993.		'La société GAZECHIM'
+1995	06			1995	06			L__étude_transmise	L'étude transmise en juin 1995 montre que le sol est effectivement pollué par différents composés organiques volatils (COV)(cétones, alcools, benzène, toluène, éthylbenzène, xylène, composés aromatiques chlorés et non chlorés)	'composés organiques volatils', 'COV)(cétones', 'alcools', 'benzène', 'toluène', 'éthylbenzène', 'xylène', 'composés aromatiques chlorés', 'non chlorés'	
+1996	12			1996	12			traité	En décembre 1996, le site était entièrement traité (Analyses de sol : Toluène : 2,7 mg/kg ; xylène 14 mg/kg ; autres valeurs < seuil de détection)	'Toluène', 'xylène'	
+2002	11	04		2002	11	04		a_proposé	l'administration a proposé le 04 novembre 2002 de lever la surveillance imposée, subsiste uniquement la tracabilité écrite dans le contrat de vente, soit des restrictions conventionnelles entre parties		'parties'
+1996	06			1996	06			à	Un traitement par "venting" (biodégradation des terres) des sols pollués a été réalisé à partir de juin 1996.		
+								Des_actions_successives	Des actions successives de l'administration ont eu lieu (Arrêtés préfectoraux des 10/04/86 ; 07/07/93) .		

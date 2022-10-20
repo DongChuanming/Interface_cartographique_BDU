@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				Les_mesures_analytiques_de	Les mesures analytiques de 2002 à 2016 confirment la présence d'un impact sur les eaux souterraines pour :		
+2012	08			2012	08			Des_campagnes_ponctuelles	Des campagnes ponctuelles de mesures de la qualité des eaux superficielles sur la rivière du Gouët ont été réalisées (dernière campagne : août 2012).		
+2005	11			2005	11			a_été_réactualisée	Suite à ces conclusions, l'ESR a été réactualisée en novembre 2005 et a abouti à un classement du site en 2 (site à surveiller).		
+1991	01			1991	01			a_amélioré	En janvier 1991, l'exploitant a amélioré sa station de détoxication par l’installation de résines échangeuses d'ions, lui permettant de respecter les valeurs seuils de rejets autorisés.		
+2002				2002				Les_mesures_analytiques_de	Les mesures analytiques de 2002 à 2016 confirment la présence d'un impact sur les eaux souterraines pour :		
+2013	08			2013	08			ont_été_mis_en_place	En août 2013, des écrémeurs passifs ont été mis en place dans les deux piézomètres présentant une phase flottante (Pz2 et Pz8).		
+1917				1917				est_transféré	En 1917, une fabrique de visserie y est transféré.		
+2007	03			2007	03			arrêt	Un nouvel arrêté préfectoral du 14 janvier 2009 porte sur les modifications apportées à l'installation : arrêt de traitement de surface avec du cadmium (mars 2007), suppression d'un appareil contenant des PCB, cessations de certaines activités et réaménagement de l'activité de traitement de surface.	'cadmium', 'des PCB'	
+								Deux_campagnes_supplémentaires_de_mesures	Deux campagnes supplémentaires de mesures sur les eaux souterraines ont été réalisées en mars et juillet 2005 et ont mis en évidence la présence de COHV et de métaux.	'COHV', 'métaux'	
+1850				1850				existe	Le site occupé par la société Blanc Aéro Technologie existe depuis 1850 (fabrique de lin).		'la société Blanc'
+2005	07			2005	07			Deux_campagnes_supplémentaires_de_mesures	Deux campagnes supplémentaires de mesures sur les eaux souterraines ont été réalisées en mars et juillet 2005 et ont mis en évidence la présence de COHV et de métaux.	'COHV', 'métaux'	

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				une_baisse	La dernière campagne de mesure de Février 2012 indique que l'eau de la nappe à un caractère saumâtre, une baisse des teneurs en HAP et BTEX depuis respectivement 2007 et 2005, une stabilisation de la teneur en Arsenic.	'HAP', 'BTEX', 'Arsenic'	
+								les_travaux_de_réhabilitation	. du 13/07/93, les travaux de réhabilitation sont achevés (6 millions F), effectués dans le cadre des objectifs définis par l'A.		
+2005				2005				une_baisse	La dernière campagne de mesure de Février 2012 indique que l'eau de la nappe à un caractère saumâtre, une baisse des teneurs en HAP et BTEX depuis respectivement 2007 et 2005, une stabilisation de la teneur en Arsenic.	'HAP', 'BTEX', 'Arsenic'	
+1962				1962				arrêt	Il s'agit d'une ancienne usine de distillation de goudrons de houille et d'une unité de fabrication d'engrais (arrêt en 1962).	'goudrons de houille'	
+2012	02			2012	02			La_dernière_campagne_de_mesure	La dernière campagne de mesure de Février 2012 indique que l'eau de la nappe à un caractère saumâtre, une baisse des teneurs en HAP et BTEX depuis respectivement 2007 et 2005, une stabilisation de la teneur en Arsenic.	'HAP', 'BTEX', 'Arsenic'	
+2000				2000				a_été_détecté	En 2000, lors de travaux de reconnaissance géotechnique pour la construction de la futur ZA (pose de VDR) dite de "Malebarge II", il a été détecté une pollution résiduelle du sol et de la nappe en HAP et hydrocarbures.	'HAP', 'hydrocarbures'	

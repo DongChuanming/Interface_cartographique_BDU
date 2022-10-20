@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	18		2003	12	18		partiel_du_contre_fossé_a_été_effectué	A la demande du Service des Voies Navigables de France, un curage partiel du contre fossé a été effectué le 18 décembre 2003 et le 8 janvier 2004.		'Navigables de France'
+2004	01	08		2004	01	08		partiel_du_contre_fossé_a_été_effectué	A la demande du Service des Voies Navigables de France, un curage partiel du contre fossé a été effectué le 18 décembre 2003 et le 8 janvier 2004.		'Navigables de France'
+1997	03			1997	03			Les_travaux_de_curage	Les travaux de curage ont été réalisés d'août 1996 à mars 1997.		
+1996	08			1996	08			Les_travaux_de_curage	Les travaux de curage ont été réalisés d'août 1996 à mars 1997.		

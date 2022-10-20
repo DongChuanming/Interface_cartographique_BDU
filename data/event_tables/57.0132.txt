@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03			2005	03			Etude	- Etude LECES RC/L 10287 réalisée en mars 2005 – Etape B du diagnostic initial et évaluation simplifiée des risques de l’ancienne PLATINERIE de HAYANGE ;		
+2006	09			2006	09			Etude	- Etude LECES RC 12089 réalisée en septembre 2006 – Friche de LA PLATINERIE de HAYANGE – Diagnostic approfondi et Evaluation Simplifiée des Risques ;		'LA PLATINERIE de HAYANGE'
+2004				2004				la_campagne_de_prélèvements	Les paramètres analysés sont les mêmes que ceux analysés lors de la campagne de prélèvements de 2004.		
+				1938				a_été_exploitée	La platinerie a été exploitée avec certitudes à partir du XIXème siècle jusqu'en 1938, il n'a pas été possible de retracer l'historique complet de ce site.		
+2000	06			2000	06			référencé	- des teneurs en hydrocarbures supérieures au fond géochimique local défini dans le rapport du BRGM référencé BRGM/RP-50158-Fr de juin 2000, notamment dans les remblais au niveau de la cisaille à largets, de la cisaille à tôles, de la rectifieuse à cylindres, du train à chaud, de la station électrique et des cuves à fioul ;	'hydrocarbures', 'cylindres', 'fioul'	'BRGM référencé BRGM'
+2004	05			2004	05			réalisée	- Etude LECES RC/L 9711 réalisée en mai 2004 – Etape A du diagnostic initial de LA PLATINERIE de HAYANGE ;		'LA PLATINERIE', 'HAYANGE'
+2005				2005				Les_investigations_réalisées	Les investigations réalisées en 2005 ont consisté en des prélèvements et analyses d’échantillons correspondant au sol et aux remblais sidérurgiques du site.		
+2012	04	18		2012	04	18		ont_été_imposées	Des mesures complémentaires de remise en état ont été imposées à l'ancien exploitant par arrêté préfectoral du 18/04/2012.		
+2006	01			2006	01			Etude	- Etude Séchaud Environnement RC/L 11414 réalisée en janvier 2006 – Etude hydrogéologique et hydraulique – Validation du projet d’aménagement du site.		
+2006	01			2006	01			Une_étude_hydrogéologique	Une étude hydrogéologique a donc été réalisée en janvier 2006 afin de statuer sur la recevabilité de ce projet d’aménagement et plus particulièrement d’évaluer l’impact potentiel des pollutions constatées des sols sur la FENSCH à ciel ouvert.		
+2006	09			2006	09			des_investigations_complémentaires_de_sols	En septembre 2006, des investigations complémentaires de sols ont été réalisées. 32 sondages complémentaires, d’une profondeur moyenne de 2 m, ont été réalisés au niveau des sources potentielles de pollution précitées.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	03	14		2017	03	14		la_mise_en_sécurité	L'inspection de l'environnement a constaté la mise en sécurité au titre du code de l'environnement le 14/03/2017.		
+2016	12	06		2016	12	06		a_notifié_sa_cessation_d__activité	L'exploitant a notifié sa cessation d'activité par courrier du 6/12/2016.		
+1996				2014				études_environnementales	Le site a fait l'objet d'études environnementales entre 1996 et 2014 qui ont permis d'identifier la présence d'une contamination des sols par des solvants chlorés, solvants monoaromatiques et hydrocarbures volatils, ainsi qu'une faible contamination des eaux souterraines par des solvants chlorés et monoaromatiques.	'des solvants chlorés', 'solvants monoaromatiques', 'hydrocarbures volatils', 'solvants chlorés', 'monoaromatiques'	

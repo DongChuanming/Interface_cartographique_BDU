@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				une_Évaluation_simplifiée_des_risques	En 2000, une Évaluation simplifiée des risques a été réalisée en application de la circulaire du 3 avril 1996.		
+2013	04			2013	04			a_informé	En avril 2013, l'exploitant de l'établissement VOSGES INJECTION BOIS a informé le préfet de son projet de cession d'une partie de son terrain (terrains ayant servi au stockage de bois non traités ou traités, notamment à la créosote, aux sels métalliques cuivre-chrome-arsenic et mercure).	'créosote', 'sels métalliques cuivre - chrome - arsenic', 'mercure'	'établissement VOSGES INJECTION BOIS'
+2012	05			2012	05			une_étude_de_pollution_des_sols	Dans le cadre de la cession d'une partie des installations ayant accueillies le stockage de bois traité et non traité, une étude de pollution des sols et de la nappe a été réalisée en mai 2012.		

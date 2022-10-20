@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				des_travaux_de_réaménagement_de	Travaux de dépollution : En 1982/83, des travaux de réaménagement de la zone ont été réalisés.		
+2009	10			2009	10			La_campagne_de_prélèvements_effectuées	La campagne de prélèvements effectuées au mois d'octobre 2009 a mis en évidence		
+2007	11	09		2007	11	09		devient	Le 9 novembre 2007, EMCP devient EMCF (EXXONMOBIL CHEMICAL FRANCE), avant sa fusion avec les 2 autres branches de la société : SOCABU et EMCF pour ne donner plus qu'une seule unité principale portant le nom d'EMCF. (Site général consultable sur la fiche BASOL n° 76.0193).		'EMCP', 'EMCF ( EXXONMOBIL CHEMICAL FRANCE', 'la société \xa0 : SOCABU et EMCF', "d' EMCF"
+1990				1990				a_été_nivelé	En 1990, lors de la construction de l'usine EXXON MOBIL CHEMICAL POLYMERES, le terrain occupé par les anciens lagunages a été nivelé.		'EXXON MOBIL CHEMICAL POLYMERES'

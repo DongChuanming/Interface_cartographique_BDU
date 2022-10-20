@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_fabrication_de_farine_de_blé	Le site était spécialisé dans la fabrication de farine de blé depuis le début du 20ème siècle.		
+								était_spécialisé_dans	Le site était spécialisé dans la fabrication de farine de blé depuis le début du 20ème siècle.		

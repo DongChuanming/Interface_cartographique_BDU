@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				ont_cessé	Les activités ont cessé en 2002 suite à une liquidation prononcée par le Tribunal de Commerce d'Avesnes sur Helpe.		'le Tribunal de Commerce'
+1887				1887				a_été_créée_sur_le_site	Ancienne fonderie et atelier de construction de robinetterie industrielle qui a été créée sur le site en 1887 par la famille MIROUX.		'MIROUX'
+2007	11	08		2007	11	08		une_réunion_de_concertation	Le 8 novembre 2007 une réunion de concertation a eu lieu en Mairie.		
+2010	06	09		2010	06	09		L__inspection_réalisée	L’inspection réalisée le 09 juin 2010 a permis de faire les constats suivants :		
+2005	06			2005	06			remise	Les déchets n'ont pas été enlevés, mais la première étape de l'étude des sols (phase A - diagnostic initial) a été effectuée et remise en juin 2005.		
+2008	02	29		2008	02	29		se_trouve	Selon le Plan de Prévention des Risques d’Inondation (PPRI) de la vallée de la Solre approuvé par arrêté préfectoral du 29 février 2008, le site se trouve classé en champ d’expansion des crues d’aléa faible pour une partie du site et d’aléa moyen pour l’autre partie et l’ex-atelier de peintures est considéré en zone partiellement urbanisée d’aléa faible.		'la Solre'
+2006	08			2006	08			ont_été_remise	La phase B et l'ESR ont été remise en août 2006.		"l' ESR"
+2005	06			2005	06			a_été_effectuée	Les déchets n'ont pas été enlevés, mais la première étape de l'étude des sols (phase A - diagnostic initial) a été effectuée et remise en juin 2005.		
+2008				2008				rachète	L’EPF rachète le site en 2008 pour le compte de la municipalité afin de réalisé la phase 1 de mise en sécurité.		'L’ EPF'

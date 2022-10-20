@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	14		2006	04	14		informe	Le 14/04/2006, l'exploitant informe la DRIRE d'une pollution intervenue en 2002.		'la DRIRE'
+2007	01	17		2007	01	17		propose	La DRIRE propose le 17/01/2007 de faire dépolluer les sols et la nappe.		'La DRIRE'
+2012	02	16		2012	02	16		Lors_de_la_visite_d__inspection	Lors de la visite d'inspection du 16/02/2012, l'exploitant a présenté et remis les rapports de suivi de la qualité de la nappe réalisés les 18/05/2011 et 02/11/2011.		
+2006	06	16		2006	06	16		Les_analyses_réalisées	Les analyses réalisées au 16/06/2006 montrent que les concentrations en hydrocarbures et en BTEX au droit des piézomètres et des puits sont dans une dynamique générale de diminution.	'hydrocarbures', 'BTEX'	
+2002				2002				d__une_pollution	Le 14/04/2006, l'exploitant informe la DRIRE d'une pollution intervenue en 2002.		'la DRIRE'
+2011	05	18		2011	05	18		réalisés	Lors de la visite d'inspection du 16/02/2012, l'exploitant a présenté et remis les rapports de suivi de la qualité de la nappe réalisés les 18/05/2011 et 02/11/2011.		
+2007	07			2007	07			du_suivi	Cependant lors du suivi de Juillet 2007, on observe une augmentation importante de la teneur en vapeurs d’hydrocarbures au droit de l’ouvrage RS8 et un retour des irisations au droit de certains ouvrages (notamment sur RS2, RS12, RS14, RS13).	'vapeurs d’ hydrocarbures'	
+2006	07			2008	07			a_été_fonctionnelle	L'unité de réhabilitation a été fonctionnelle de Juillet 2006 à Juillet 2008.		
+2011	11	02		2011	11	02		réalisés	Lors de la visite d'inspection du 16/02/2012, l'exploitant a présenté et remis les rapports de suivi de la qualité de la nappe réalisés les 18/05/2011 et 02/11/2011.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				a_repris	La récupération des métaux se faisait depuis le début du XX eme siécle sur une portion de la zone par les sociétés "Comptoir des métaux Sud-Est" puis FLACHER dont METALISERE a repris les activités en 1970.		'les sociétés " Comptoir des métaux Sud-Est " puis FLACHER'
+1940				1960				était_occupée	Auparavant, la zone était occupée par les Établissements Julien GIRARD, dont l'activité consistait à récupérer des papiers et des cartons entre 1940 et 1960.		'les Établissements Julien GIRARD'
+2004	02	13		2004	02	13		une_surveillance_des_eaux_souterraines	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+1944				1944				été_utilisée_pour	A partir de 1944, la zone été utilisée pour stocker du matériel des entreprises adjacentes (comme du bois pour le chauffage et des graviers).		
+2004	02	13		2004	02	13		fait_l__objet_d_	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+1970				2000				était_une_société	METALISERE était une société spécialisée dans le récupération des ferrailles et métaux non ferreux industriels, qui a exercé son activité entre les années 1970 et 2000.	'métaux non ferreux industriels'	
+1967				1967				logement_à_l__étage_a_été_construit	Un grand batiment ayant abrité des garages ainsi qu'un logement à l'étage a été construit en 1967 pour l'usage de la DDE.		'la DDE'
+1970				1970				se_faisait	La récupération des métaux se faisait depuis le début du XX eme siécle sur une portion de la zone par les sociétés "Comptoir des métaux Sud-Est" puis FLACHER dont METALISERE a repris les activités en 1970.		'les sociétés " Comptoir des métaux Sud-Est " puis FLACHER'

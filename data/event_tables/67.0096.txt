@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1974				déversés	Le puit V renferme 15900 m3 de déchets déversés entre 1972 et 1974.		
+1975	1965			1975	1965			déversés	Ces puits posent un problème double car ils ont été comblé en partie par des déchets liquides déversés dans les années 1965/1975.	'déchets liquides déversés'	
+1962	05			1963	01			ont_été_fermés	Les puits ont été fermés par une dalle de surface entre mai 1962 et janvier 1963.		
+1972				1972				ont_été_déversés	Dans le puit II, 35000 m3 de déchets ont été déversés avant 1972.		
+1921				1921				a_été_foncé	Le puits V qui servait de puits de sortie d’air au puits II a été foncé en 1921.		
+1918				1918				a_été_foncé	Le puits Le Bel (puits II) a été foncé au cours de l’année 1918 et repris entre 1933 et 1934 pour atteindre sa profondeur définitive.		
+2010				2010				des_travaux_d__instrumentation	En 2010, le BRGM/DRP/DPSM a réalisé des travaux d’instrumentation des puits, par la mise en place d’une sonde piézométrique pour chacun d'eux associée à un automate de télégestion et de transmission, pour suivre l’évolution du réservoir minier.		'le BRGM / DRP / DPSM'
+1998	08			1998	08			Des_travaux	Des travaux ont été menés sur les puits en août 1998, qui consistaient en :		
+2010				2010				la_mise_en_conformité	En 2010, le BRGM/DRP/DPSM/UTAM Est, qui s’est vu confier la gestion des exutoires de gaz de mines, a fait réaliser la mise en conformité d’après la note « Instruction exutoires de gaz de mine 01/2009 – Analyse de risque et principes  d’installation ».		'le BRGM / DRP / DPSM / UTAM Est'

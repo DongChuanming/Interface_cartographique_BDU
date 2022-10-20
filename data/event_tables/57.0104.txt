@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								2011_qui	- l'arrêté préfectoral n°2011-DLP/BUPE-461 du 7 décembre 2011 qui prescrit la remise d’un plan de gestion visant à la remise en état du site.		
+								intérêts	A ce titre, il incombe à la société RETIA de placer le site dans un état tel qu'il ne puisse porter atteinte aux intérêts mentionnés à l'article L.511-1 du code de l'environnement et qu'il permette un usage futur du site comparable à la dernière période d'exploitation du site (à savoir un usage industriel).		'A ce titre , il incombe', "mentionnés à l' article L.511"
+2009	03	04		2009	03	04		est_venue_aux	La société RETIA est venue aux droits de l'ancien et dernier exploitant du site ; le changement d'exploitant a été acté par le Préfet de Moselle en date du 4 mars 2009.		"droits de l' ancien"

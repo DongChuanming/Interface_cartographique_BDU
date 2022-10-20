@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	09			2002	09			du_diagnostic_initial	* Étape B du diagnostic initial (réalisé en septembre 2002 par APAVE)		
+								17_sondages_dans_le_sol_ont_été_réalisés	17 sondages dans le sol ont été réalisés (A1 à A17) les 29 et 30/10/2001.		
+2003	12	31		2003	12	31		__Diagnostic_approfondi	* Diagnostic approfondi (transmis à la Préfecture le 31/12/2003)		
+2005	01	05		2005	01	05		établie	* L'EDR ressource en eau (établie le 05/01/2005 par ATOS Environnement)		'ATOS Environnement'
+2001	12	03		2001	12	03		a_été_évacué	- le transformateur PCB a été évacué le 03/12/2001 par la société ONYX et détruits par la société LABO SERVICES.	'PCB'	'la société ONYX', 'la société LABO SERVICES'
+2003	06	12		2003	06	12		son_rapport	Par conséquent, suite à son rapport du 12/06/2003, l'inspection des Installations classées a demandé à M. le Préfet de l'Isère d'une part, d'imposer une surveillance de la nappe sur site et en dehors du site, d'autre part, de demander la réalisation d'un diagnostic approfondi et d'une Étude Détaillée des Risques (EDR) santé et eaux.		'le Préfet'
+2005	12	21		2005	12	21		ont_été_réalisées	Les campagnes ont été réalisées le 21/09/2005, 21/12/2005, 08/03/2006 et 13/06/2006.		
+2004	07	30		2004	07	30		a_été_émis	Le 30/07/2004, l'arrêté préfectoral n°2004-10099 a été émis, imposant à la société KNAUF des travaux et objectifs de dépollution ainsi que l’établissement d'un complément de l'EDR.		'la société KNAUF'
+2005	01	28		2005	01	28		Rapport_de_travaux_de_dépollution	* Rapport de travaux de dépollution (établi le 21/12/2004 par ORTEC - transmis le 28/01/2005)		'ORTEC'
+2000	12	31		2000	12	31		L__arrêt_définitif	L'arrêt définitif d'exploitation est effectif depuis le 31 décembre 2000 sur le site de La Frette.		
+2002	04	23		2002	04	23		Les_prélèvements_ont_été_effectués	Les prélèvements ont été effectués le 23/04/2002.		
+				2004	11	05		des_sols_contaminés	Les travaux de dépollution ont consisté en l'excavation et l'évacuation en biocentre ORSEM à Lançon de Provence (13), des sols contaminés entre le 02 et le 05/11/2004.		
+				2004	07	30		Les_campagnes_ont_été_réalisées	Les campagnes ont été réalisées le 22/01/2004, 30/04/2004, 30/07/2004, 03/11/2004.		
+2002	10	08		2002	10	08		a_été_transmis	Le mémoire de cessation d'activités a été transmis le 08/10/2002 à la Préfecture.		
+2003	10	07		2003	10	07		a_été_signé	Ce projet a été signé et a été acté par arrêté préfectoral n°2003-10963 du 07/10/2003.		
+2005	09	21		2005	09	21		ont_été_réalisées	Les campagnes ont été réalisées le 21/09/2005, 21/12/2005, 08/03/2006 et 13/06/2006.		
+2001	10	30		2001	10	30		17_sondages_dans_le_sol_ont_été_réalisés	17 sondages dans le sol ont été réalisés (A1 à A17) les 29 et 30/10/2001.		
+2002	09			2002	09			Étude_Simplifiée_des_Risques	* Étude Simplifiée des Risques (ESR) (établie par le bureau d'études APAVE en septembre 2002)		'APAVE'
+				2004	04	30		Les_campagnes_ont_été_réalisées	Les campagnes ont été réalisées le 22/01/2004, 30/04/2004, 30/07/2004, 03/11/2004.		
+2003	03			2003	03			établi	* Un volet Santé d'EDR a été lancé pour valider les objectifs de dépollution (sols) en fonction des scénarios d'exposition potentiels sur ce site. (établi en mars 2003 - transmis à la préfecture le 31/12/2003)		
+				2002	12	12		Les_investigations_ont_été_menées	Les investigations ont été menées du 9 au 12/12/2002.		
+2003	07	03		2003	07	03		est_passé	Le 03/07/2003, un projet d'arrêté préfectoral imposant la réalisation d'un diagnostic approfondi, d'une EDR et la surveillance des eaux souterraines est passé en CDH.		
+2004	11	03		2004	11	03		Les_campagnes_ont_été_réalisées	Les campagnes ont été réalisées le 22/01/2004, 30/04/2004, 30/07/2004, 03/11/2004.		
+2004	12	21		2004	12	21		Rapport_de_travaux_de_dépollution	* Rapport de travaux de dépollution (établi le 21/12/2004 par ORTEC - transmis le 28/01/2005)		'ORTEC'
+2003	02	13		2003	02	13		Une_réunion	Une réunion s'est tenue le 13/02/2003 entre l'inspection et les responsables de la société KNAUF afin de leur faire part des remarques sur la présente étude.		'la société KNAUF'
+2002	07			2002	07			a_fait_procéder	A la demande de la DREAL, suite à l'ESR établie en juillet 2002, la société KNAUF a fait procéder à l'installation de 2 ouvrages supplémentaires, PZ4 et PZ5, puis PZ6 et PZ7.		'la DREAL', 'la société KNAUF'
+2004	01	22		2004	01	22		Les_campagnes_ont_été_réalisées	Les campagnes ont été réalisées le 22/01/2004, 30/04/2004, 30/07/2004, 03/11/2004.		
+				2006	03	08		ont_été_réalisées	Les campagnes ont été réalisées le 21/09/2005, 21/12/2005, 08/03/2006 et 13/06/2006.		
+1986	10	09		1986	10	09		Elle_bénéficiait	Elle bénéficiait de récépissés de déclaration n°25722 du 08/09/1997, n°24948 du 11/03/1994 et n°21849 du 09/10/1986.		
+2006	06	13		2006	06	13		ont_été_réalisées	Les campagnes ont été réalisées le 21/09/2005, 21/12/2005, 08/03/2006 et 13/06/2006.		
+				2002	10	19		ont_été_implantés	Au niveau des eaux souterraines, 3 piézomètres ont été implantés PZ3 en amont hydraulique et PZ2 et PZ1 en aval hydraulique du 15 au 19/10/2002.		

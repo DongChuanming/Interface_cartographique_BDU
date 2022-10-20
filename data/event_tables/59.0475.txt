@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Travaux	- Travaux en 2006: excavation des terres polluées aux PCB, dégazage, inertage et évacuation de cuves et évacuation des déchets.	'PCB'	
+2002				2002				est_détenu	Le foncier est détenu depuis 2002 par la SARL Lamartine.		'la SARL Lamartine'
+1961				1961				devient	En 1961, le site devient la propriété de COURTEAUX TEXTILES puis en 1991, la filature est rachetée par le Groupe MOSSLEY BADIN.		'COURTEAUX TEXTILES', 'le Groupe MOSSLEY BADIN'
+1991				1991				est_rachetée	En 1961, le site devient la propriété de COURTEAUX TEXTILES puis en 1991, la filature est rachetée par le Groupe MOSSLEY BADIN.		'COURTEAUX TEXTILES', 'le Groupe MOSSLEY BADIN'
+2002	10			2002	10			Rebouchage	- Rebouchage du puit présent sur le site en octobre 2002.		
+2007	02	09		2007	02	09		Réalisation_d__une_Analyse_des_risques_résiduels	- Réalisation d'une Analyse des risques résiduels le 09/02/2007.		
+1900				1900				a_été_créée	La Filature d’HELLEMMES a été créée vers 1900 et fut exploitée par la Société DELEBART MALLET.		'la Société DELEBART MALLET'
+2009				2009				Travaux_de_dépolution	- Travaux de dépolution en 2009: excavation des terres polluées aux PCB détectées suite à l'ARR.	'PCB'	
+2001	01	22		2001	01	22		est_en_liquidation_judiciaire	La société est en liquidation judiciaire depuis le 22 janvier 2001.		
+2010	02	23		2010	02	23		Dépôt_d_	- Dépôt d'un permis de construire pour la crèche, le 23/02/2010.		
+2007	01	24		2007	01	24		__Procès_verbal_de_récolement	- Procès verbal de récolement pour un usage industriel, le 24/01/2007.		
+2006	09			2006	09			cessation_d__activité	- Mémoire de cessation d'activité en septembre 2006.		

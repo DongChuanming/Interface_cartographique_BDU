@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	28		2009	01	28		en_fait_alors_acquisition	La scierie SILLAT en fait alors acquisition le 28/01/2009.		'La scierie SILLAT'
+2009				2009				La_mise_en_sécurité	La mise en sécurité du site a été effective au mois d'aout 2009.		
+2007	03	03		2007	03	03		la_cessation_d__activité	Par un courrier du 22/03/2007, Maitre Daniel Bourguignon en sa qualité de mandataire judiciaire a notifié au Préfet la cessation d'activité des Papeteries de la Gorge à compter du 03/03/2007.		'Papeteries de la Gorge'
+2009	03			2009	03			ont_été_réalisés	Neuf sondages ont été réalisés au mois de mars 2009.		
+2011	01	04		2011	01	04		a_été_rédigé	Le 04/01/2011, un rapport de recevabilité du dossier de cessation d'activité a été rédigé par l'inspection des installations classés.		
+2009	01			2009	01			ont_été_vendus_aux_enchères	Les locaux du site ainsi que les terrains ont été vendus aux enchères au mois de janvier 2009.		

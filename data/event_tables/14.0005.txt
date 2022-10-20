@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_fait_l__objet_d_	Le traitement de la situation des terrains ayant accueilli des usines à gaz a fait l’objet d’un Protocole d’accord entre le Ministère de l’Environnement et la société Gaz de France, en tant que propriétaire foncier, en date du 25 avril 1996 et ce pour une durée de 10 ans.		'le Ministère', 'la société Gaz', 'de France'
+2004				2004				travaux_de_réhabilitation	Le site a fait l'objet de travaux de réhabilitation en 2004.		
+2003	01			2003	01			un_dossier	Dans le cadre du changement d'usage du site en vue d'un usage résidentiel, la société GDF a présenté, en janvier 2003, un dossier présentant un plan de gestion des pollutions présentes.		'la société GDF'
+2004				2004				Les_travaux_d__excavation	Les travaux d'excavation des terres polluées et de remblaiement de ces zones par du tout-venant calcaire ont été réalisés en début d'année 2004 et ont notamment conduit à l'excavation d'environ 430 tonnes de terres polluées.		
+1995	09			1995	09			la_neutralisation	Gaz de France a entrepris en septembre 1995 la neutralisation de ces cuves et le traitement des terres souillées : au total, 763 tonnes de matériaux souillés ont été éliminées.		'Gaz de France'
+2004	06	08		2004	06	08		confirme	Dans son rapport de fin de travaux du 8 juin 2004, la société GDF confirme le respect des seuils de dépollution qui étaient visés.		'la société GDF'
+2004	06	08		2004	06	08		son_rapport	Dans son rapport de fin de travaux du 8 juin 2004, la société GDF confirme le respect des seuils de dépollution qui étaient visés.		'la société GDF'
+				2009				s__est_poursuivie	La surveillance des eaux souterraines s'est poursuivie jusqu'en 2009.		
+1967				1984				ont_également_accueilli	Les terrains ont également accueilli une activité de stockage de liquides inflammables entre 1967 et 1984 (fiche BASIAS BNO1400905).	'liquides inflammables'	
+1881				1951				a_accueilli	Ce terrain, d'une superficie d'environ 23700 m² et situé à l'Est de Saint Aubin sur mer, a accueilli de 1881 à 1951, une usine fabriquant du gaz à partir de la distillation de la houille.		
+1984				1984				ont_été_détruits	En 1984, les locaux administratifs et les locaux d'exploitation du district d'EDF GDF ont été détruits.		"d' EDF GDF"
+1994	08			1994	08			un_diagnostic_approfondi	Dans le cadre d'un projet de réaménagement interne pour les besoins d'EDF et de Gaz de France, ce site a fait l'objet  d'un diagnostic approfondi en août 1994.		'EDF', 'Gaz de France'

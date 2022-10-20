@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	11	07		2005	11	07		Une_extension	Une extension par création d'une 2ème scierie (appelée scierie Sud), également avec traitement des bois a été autorisée par l'arrêté préfectoral du 7 novembre 2005.		
+2004	05	06		2004	05	06		La_campagne_d__analyses	La campagne d'analyses du 6 mai 2004 révèle la présence de trace de Propiconazole sur le PZ2 aval à une teneur de 0,23 µg/l.	'Propiconazole'	
+2014	10			2014	10			La_campagne_d_	La campagne d'octobre 2014 montre des teneurs élevées en Propiconazole (70 mg/l), traceur du produit de traitement, notamment en PZ2, localisé à l'aval des de la scierie « Nord ».	'Propiconazole', 'PZ2'	
+2004				2004				le_diagnostic_des_milieux	Lors de la visite d'inspection du 17/04/2015, il a été demandé à l'exploitant, compte-tenu des modalités d'exploitation des installations de traitement et de la persistance de l'impact des produits de traitement sur les eaux souterraines, d'actualisé le diagnostic des milieux réalisé en 2004 et 2005.		
+2004				2004				Le_diagnostic_initial_de_l__état_des_sols	Le diagnostic initial de l'état des sols et de la nappe a été réalisé en 2004 sur le site Nord uniquement, le site Sud n'étant pas encore en service.		
+1985				1985				exploitée	Scierie de pin destiné à la fabrication de planches pour palettes avec traitement du bois exploitée depuis 1985 par la S.		
+2005				2005				le_diagnostic_des_milieux	Lors de la visite d'inspection du 17/04/2015, il a été demandé à l'exploitant, compte-tenu des modalités d'exploitation des installations de traitement et de la persistance de l'impact des produits de traitement sur les eaux souterraines, d'actualisé le diagnostic des milieux réalisé en 2004 et 2005.		
+2012	05	02		2012	05	02		Cette_demande	Cette demande avait d'ailleurs été faite lors de la précédente inspection du 02 mai 2012.		
+2009	10	30		2009	10	30		La_campagne_du	La campagne du 30/10/2009 sur le pluvial donne les résultats suivants :		
+2010	12			2010	12			La_campagne_de	La campagne de décembre 2010, montre des teneurs conformes aux valeurs limites sur l'ensemble des paramètres pour le rejet Sud.		
+2015	04	17		2015	04	17		Lors_de_la_visite_d__inspection	Lors de la visite d'inspection du 17/04/2015, il a été demandé à l'exploitant, compte-tenu des modalités d'exploitation des installations de traitement et de la persistance de l'impact des produits de traitement sur les eaux souterraines, d'actualisé le diagnostic des milieux réalisé en 2004 et 2005.		
+1994	04	20		1994	04	20		a_été_autorisée	La première installation (appelée scierie Nord) a été autorisée par l'arrêté préfectoral du 20 avril 1994.		

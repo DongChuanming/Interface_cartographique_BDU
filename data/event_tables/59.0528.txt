@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05			2007	05			__Traitement	- Traitement de la nappe: en mai 2007 par injection d'oxydant qui a pour effet de dégrader les substances organiques.	'oxydant', 'substances organiques'	
+2005	06			2005	06			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en juin 2005 par ANTEA.		'ANTEA'
+2004	01			2004	01			Réalisation_d__un_diagnostic_initial	- Réalisation d'un diagnostic initial par Tauw en janvier 2004		
+2010				2010				de_construction_d__une_structure	- Projet de construction d'une structure d'accueil d'adultes handicapés en aout 2010 et d'habitats sur le site.		
+2006	06			2006	06			Cessation_d__activité	- Cessation d'activité en juin 2006		
+2009	12			2009	12			Réalisation_d__une_Analyse_des_risques_résiduels	- Réalisation d'une Analyse des risques résiduels en décembre 2009.		

@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	01			1992	01			a_été_vendu	Cette société a ensuite été mise en liquidation judiciaire et le site a été vendu par le mandataire-liquidateur, en janvier 1992, à la SCI A.		'la SCI A.'
+				2003				une_analyse_annuelle	Celles-ci ont fait l'objet d'une analyse annuelle jusqu'en 2003 ; les résultats ne nécessitaient pas d'actions complémentaires.		
+2011	09	06		2011	09	06		la_liquidation_a_été_clôturée	De plus, d’après les informations dont dispose l'inspection des installations classées la liquidation a été clôturée pour insuffisance d’actifs le 5 septembre 2011 et la société AUTO ECO a été radiée le 6 septembre 2011.		'la société AUTO ECO'
+1998	09	09		1998	09	09		a_pris_acte	Par courrier du 9 septembre 1998, M. le Préfet de Seine-et-Marne a pris acte du changement d’exploitant au profit de la SARL AUTO ECO.		'le Préfet', 'la SARL AUTO ECO'
+1993				1993				D__importants_travaux_de_dépollution	D'importants travaux de dépollution ont été effectués en 1991, 1992 et 1993, sous la responsabilité de la SCI A.		
+2011	07	19		2011	07	19		Une_inspection_inopinée	Une inspection inopinée a été réalisée le 19 juillet 2011.		
+2010	07			2010	07			a_été_déclarée_en_cessation_d__activité	La société AUTO ECO a été déclarée en cessation d'activité en juillet 2010.		'La société AUTO ECO'
+1989				1989				Un_diagnostic	Un diagnostic sur l'état de contamination du site a été effectué par l'ANRED en 1989.		
+1991	04	30		1991	04	30		les_mesures_de_remise_en_état_du_site	Le 30 avril 1991, un arrêté préfectoral a prescrit au mandataire-liquidateur les mesures de remise en état du site.		
+1993				1993				suivis	Ceux-ci ont consisté en un traitement sur place des terres et gravats souillés suivis d'une évacuation en décharge contrôlée et d'un traitement de la nappe phréatique, suivis en 1993 d'une évacuation en centre d'enfouissement technique de classe 1 de 2200 tonnes de terres polluées supplémentaires.		
+2010	09	23		2010	09	23		a_signer	Celle-ci a conduit M. le Préfet de Seine-et-Marne a signer, le 23 septembre 2010, l'arrêté préfectoral de mise en demeure n°10 DRIEE 036.		'le Préfet', '10 DRIEE 036'
+2010	11	15		2010	11	15		Une_nouvelle_inspection	Une nouvelle inspection a été réalisée le 15 novembre 2010.		
+2010	09	20		2010	09	20		Une_inspection_a_été_réalisée	Une inspection a été réalisée le 20 septembre 2010.		
+2010	07	15		2010	07	15		a_informé	Par courrier du 15 juillet 2010, le mandataire en charge de la liquidation judiciaire de la SARL AUTO ECO a informé l'inspection des installations classées de la cessation d'activité de la société AUTO ECO.		'la SARL AUTO ECO', 'la société AUTO ECO'
+2011	09	05		2011	09	05		la_liquidation_a_été_clôturée	De plus, d’après les informations dont dispose l'inspection des installations classées la liquidation a été clôturée pour insuffisance d’actifs le 5 septembre 2011 et la société AUTO ECO a été radiée le 6 septembre 2011.		'la société AUTO ECO'
+1992				1992				D__importants_travaux_de_dépollution	D'importants travaux de dépollution ont été effectués en 1991, 1992 et 1993, sous la responsabilité de la SCI A.		
+1948				1986				a_exploité	La société Sopaluna a exploité sur ce site de 1948 à 1986 une usine de régénération d'huiles.		'La société Sopaluna'
+1991				1991				D__importants_travaux_de_dépollution	D'importants travaux de dépollution ont été effectués en 1991, 1992 et 1993, sous la responsabilité de la SCI A.		

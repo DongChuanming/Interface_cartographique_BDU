@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09	01		2011	09	01		avait_été_déposé	Un nouveau dossier de demande d'autorisation d'exploiter avait été déposé en Préfecture le 14/04/2007 mais la société a cessé ses activités le 01/09/2011.		
+2007	04	14		2007	04	14		avait_été_déposé	Un nouveau dossier de demande d'autorisation d'exploiter avait été déposé en Préfecture le 14/04/2007 mais la société a cessé ses activités le 01/09/2011.		
+2012	04	11		2012	04	11		a_été_établi	Un mémoire de cessation d'activités a été établi le 11/04/2012.		
+2011	09	01		2011	09	01		a_cessé_ses_activités	Un nouveau dossier de demande d'autorisation d'exploiter avait été déposé en Préfecture le 14/04/2007 mais la société a cessé ses activités le 01/09/2011.		
+1985	04	19		1985	04	19		a_bénéficié	Elle a bénéficié d'un récépissé de déclaration datant du 05/12/1975 puis d'un arrêté préfectoral d'autorisation d'exploiter du 15/12/1980 modifié par arrêté du 19/04/1985.		

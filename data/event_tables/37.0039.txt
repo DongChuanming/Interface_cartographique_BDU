@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été mené au droit du site par la société GMEP en juin et août 2012.		'la société GMEP'
+2012	08			2012	08			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été mené au droit du site par la société GMEP en juin et août 2012.		'la société GMEP'
+1971				1971				l__exploitation	Plusieurs pollutions ont eu lieu lors de l'exploitation de ce site depuis 1971.		
+				2011	12			avaient_été_collectés	Concernant l'évacuation des déchets et des produits dangereux, la société ARFEO a indiquée que tous les déchets avaient été collectés lors de la cessation d'activité du site (entre juillet et décembre 2011), or certains déchets résultant de l'ancienne exploitation n'ont pas été évacués (présence d'un conteneur GRV rempli d'un produit liquide inconnu).	'des produits dangereux', 'un produit liquide inconnu'	'la société ARFEO'

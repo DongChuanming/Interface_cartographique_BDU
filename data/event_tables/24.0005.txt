@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968	12	13		1968	12	13		a_été_autorisé	Le dépôt a été autorisé le 13 décembre 1968 au nom des Ets Beguerie et Fils.		
+2007	02	12		2007	02	12		récépissé_de_déclaration	L'installation a été modifiée par le démantèlement des anciens bacs et la mise en place de 4 nouveaux bacs aériens de 100 m3 unitaire sur rétention (le site relève désormais du régime de la déclaration (récépissé de déclaration du 12 février 2007).		
+2011	08	17		2011	08	17		a_été_mis_en_service	Cette déchetterie a été mis en service le 17 août 2011.		
+				1999	08	17		ont_été_remises	L'étape A du diagnostic initial et l'étape B ont été remises le 01/04/1999 et le 17/08/1999.		
+2013	03	20		2013	03	20		la_dernière_campagne_de_suivi	Suite à la dernière campagne de suivi des eaux souterraines en date du 20/03/2013, le bureau d'étude dans ses conclusions préconise l'arrêt des campagnes de suivi compte tenu que:		
+2011	09	22		2011	09	22		La_campagne_du	La campagne du 22 septembre 2011 montre que la baisse des concentrations se poursuit avec des HCTX de 120 µg/l au maximum(absence de HAP et de BTEX).	'HCTX', 'HAP', 'BTEX'	
+2003	04			2003	04			La_campagne_d_	La campagne d'avril 2003 montre un impact faible par les hydrocarbures.	'hydrocarbures'	
+2007	02	12		2007	02	12		la_déclaration	L'installation a été modifiée par le démantèlement des anciens bacs et la mise en place de 4 nouveaux bacs aériens de 100 m3 unitaire sur rétention (le site relève désormais du régime de la déclaration (récépissé de déclaration du 12 février 2007).		
+2008	11	14		2008	11	14		Cette_étude_remise	Cette étude remise le 14 novembre 2008, conclut à l’absence de pollution significative des sols et de la nappe alluviale de la Dordogne située à  4,5 mètres environ de profondeur au droit du terrain d’emprise.		
+1998	10	19		1998	10	19		ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par l'arrêté du 19 octobre 1998.		
+2006	08	22		2006	08	22		La_cessation_définitive_d__activité	La cessation définitive d'activité est déclarée le 22 août 2006.		
+								ont_totalement_disparus	Le bilan de l'évolution de la pollution de 1999 à 2006 montre que sur les 4 dernières années les BTEX ont totalement disparus et que les HAP et HCTX sont parfois détectés mais avec des concentrations inférieures aux valeurs de constat d'impact pour un usage sensible, voire non détectables.	'BTEX', 'les HAP', 'HCTX'	
+2002	01	10		2002	01	10		a_ensuite_été_vendu	Le dépôt a ensuite été vendu à la Sté Total puis à la société Soft en 1988,puis à  ALVEA le 10 janvier 2002.		'la Sté Total', 'la société Soft', '  ALVEA'
+2003	11	24		2003	11	24		évaluation_Simplifiée_des_Risques_remise	L'évaluation Simplifiée des Risques remise le 24 novembre 2003 classe le site en 2 "à surveiller" pour le milieu "eaux souterraines pour d'autres usages que l'AEP".		
+2008	01			2008	01			un_diagnostic_des_sols	La cessation partielle d'activité du site de Bergerac et la libération d'une partie des terrains ont amené l'exploitant à réaliser un diagnostic des sols en janvier 2008 pour préparer le mémoire de réhabilitation des terrains.		
+1988				1988				a_ensuite_été_vendu	Le dépôt a ensuite été vendu à la Sté Total puis à la société Soft en 1988,puis à  ALVEA le 10 janvier 2002.		'la Sté Total', 'la société Soft', '  ALVEA'
+1999	04	01		1999	04	01		ont_été_remises	L'étape A du diagnostic initial et l'étape B ont été remises le 01/04/1999 et le 17/08/1999.		

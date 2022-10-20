@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				AU_cours	AU cours de l'été 2016, le dispositif de sparging/venting a été mis en place puis le débit diminué (arrêté du 19 août 2016).		
+1995				1995				Différentes_études_ont_été_menées	Différentes études ont été menées sur le site depuis 1995 : études historiques, diagnostics de sol et de nappe, étude sur la faisabilité d'une barrière hydraulique et en avril 2012 une synthèse historique et un diagnostic environnemental.		
+1956				2012				a_exploité	La société CADDIE a exploité sur son site de Schiltigheim, de 1956 à 2012, des installations de fabrication de caddies, chariots à bagages, ….		'La société CADDIE'
+2012	07	09		2012	07	09		a_été_placée_en_liquidation_judiciaire	Elle a été placée en liquidation judiciaire le 9 juillet 2012.		
+2016				2016				a_été_mis_en_place	AU cours de l'été 2016, le dispositif de sparging/venting a été mis en place puis le débit diminué (arrêté du 19 août 2016).		
+1993				1993				a_été_détectée	En 1993, une pollution de la nappe par des composés organo-halogénés volatils (COHV), dont du tétrachloroéthylène, a été détectée sur le puits d'alimentation en eau industrielle (AEI) du site.	'des composés organo - halogénés volatils', 'COHV', 'du tétrachloroéthylène'	
+2016	08	19		2016	08	19		a_été_mis_en_place	AU cours de l'été 2016, le dispositif de sparging/venting a été mis en place puis le débit diminué (arrêté du 19 août 2016).		

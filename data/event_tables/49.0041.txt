@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	20		2008	06	20		Un_transfert	Un transfert de l’exploitation a été acté le 20 juin 2008 au nom de Madame DESFONTAINES anne-Marie gérante de la station-service TOTAL.		'Madame DESFONTAINES', 'service TOTAL'
+2012	03	31		2012	03	31		a_cessé	La station-service TOTAL a cessé son activité le 31 mars 2012.		'service TOTAL'
+2012	01	24		2012	01	24		Cette_mise_à_l__arrêt_définitif	Cette mise à l’arrêt définitif a été notifiée le 24 janvier 2012.		
+1960				1960				Les_premières_activités	Les premières activités de la station-service ont commencé vers 1960.		
+2009	11			2009	11			Un_premier_diagnostic_environnemental	Un premier diagnostic environnemental a été réalisé en novembre 2009.		
+2014	07			2014	07			Les_opérations_de_démantèlement	Les opérations de démantèlement et de réhabilitation, effectuées en juillet 2014, ont permis l’élimination en centre de traitement agrée de 1950 tonnes de sols impactés par des hydrocarbures.	'hydrocarbures'	
+2011	06			2011	06			ont_mis_en	Des investigations complémentaires sur les eaux souterraines, réalisées en décembre 2010, puis en juin 2011, ont mis en évidence :		
+2014				2014				a_été_poursuivie	La surveillance des eaux souterraines a été poursuivie en 2014, 2015, 2016 et 2017.		
+2016				2016				a_été_poursuivie	La surveillance des eaux souterraines a été poursuivie en 2014, 2015, 2016 et 2017.		
+2015	03	09		2015	03	09		a_été_déposé	Un dossier de cessation d’activité a été déposé en préfecture du Maine-et-Loire, le 9 mars 2015.		
+2014				2014				des_travaux_complémentaires	En 2014, des travaux complémentaires de démantèlement des installations pétrolières (extraction des cuves sous l'ancienne piste de distribution et des tuyauteries associées) et la gestion des éventuelles terres impactées ont été réalisés.		
+2013				2013				Des_investigations_complémentaires	Des investigations complémentaires ont été menées en 2013 sur les milieux des eaux souterraines, sols et gaz des sols afin de délimiter plus précisément les impacts constatés (13 sondages, suivi de 8 piezomètres et 3 piezairs).		
+2015	04			2015	04			l__apparition	l’apparition de teneurs en BTEX dans le puits utilisé par la station de lavage avec une teneur max en benzène de 197 µg/L en avril 2015.	'BTEX', 'benzène'	
+								a_commencé_son_activité	La station service a commencé son activité dans les années 1960.		
+2012				2012				un_diagnostic_environnemental	En 2012, la société TOTAL Marketing France a mandaté un bureau d’étude pour la réalisation un diagnostic environnemental au droit du site en vue de déterminer la qualité des milieux dans le cadre de la cessation d’activités de la station-service.		'la société TOTAL Marketing France'
+2017				2017				a_été_poursuivie	La surveillance des eaux souterraines a été poursuivie en 2014, 2015, 2016 et 2017.		
+2015				2015				a_été_poursuivie	La surveillance des eaux souterraines a été poursuivie en 2014, 2015, 2016 et 2017.		
+1968	05	30		1968	05	30		a_été_autorisé_à_exploiter	Monsieur George Mérand a été autorisé à exploiter et à procéder à l’extension du stockage de liquides inflammables existant sous couvert d’un récépissé en date du 30 mai 1968.	'liquides inflammables'	
+2012	07			2012	07			Les_opérations_de_démantèlement	Les opérations de démantèlement et de réhabilitation, effectuées en juillet 2012, ont permis l’enlèvement des installations pétrolières (réservoirs n°1, 2, 3 et 4), ainsi que l’excavation de 67,2 tonnes de terres impactées par des hydrocarbures et leur élimination au centre de traitement agréé.	'hydrocarbures'	

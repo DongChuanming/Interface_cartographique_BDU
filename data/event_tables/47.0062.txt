@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				les_diagnostics	En effet, les diagnostics de sols réalisés jusqu'à présent en 1995, 1999 et 2010 ne permettent pas de conclure à  l'adéquation de l'état des sols avec l'usage plus sensible prévu		
+2006				2006				ont_été_vendus	Lors de la cession de FUMEL TECHNOLOGIE à Fumel D, les terrains ont été vendus à la société FUMEL ENERGIE en 2006.		'FUMEL TECHNOLOGIE', 'Fumel D', 'la société FUMEL ENERGIE'
+2005				2005				a_été_transférée	La surveillance périodique des eaux souterraines du secteur des anciens hauts fourneaux a été transférée à l’entreprise Fumel Énergie Verte dans le cadre de la reprise du barrage sur le Lot, à l’automne 2005.		
+1995				1995				les_diagnostics	En effet, les diagnostics de sols réalisés jusqu'à présent en 1995, 1999 et 2010 ne permettent pas de conclure à  l'adéquation de l'état des sols avec l'usage plus sensible prévu		
+2016	07	07		2016	07	07		Actualisation	Actualisation au 07/07/2016 : Construction du SDIS sur la parcelle 442 et aucune dépollution sur la parcelle 441 (friche).		'SDIS'
+1988				1988				la_suppression	Au cours des années, des suppressions d'activités et des restructurations sont intervenues, dont la suppression des hauts fourneaux en 1988.		
+2006				2006				a_acheté	IL est projeté la construction d'un centre de secours du SDIS sur une partie des terrains de  4675 m2 sur Les 51706 m2 que compte la zone que FUMEL ENERGIE a acheté à Fumel Technologie en 2006.		'SDIS', 'que FUMEL ENERGIE'
+2005				2005				la_reprise	La surveillance périodique des eaux souterraines du secteur des anciens hauts fourneaux a été transférée à l’entreprise Fumel Énergie Verte dans le cadre de la reprise du barrage sur le Lot, à l’automne 2005.		
+2006				2006				la_construction_d_	IL est projeté la construction d'un centre de secours du SDIS sur une partie des terrains de  4675 m2 sur Les 51706 m2 que compte la zone que FUMEL ENERGIE a acheté à Fumel Technologie en 2006.		'SDIS', 'que FUMEL ENERGIE'
+2010	08	04		2010	08	04		a_émis_un_avis_défavorable	Le 04/08/2010, la DREAL a émis un avis défavorable sur le certificat d'urbanisme à cause de la pollution des sols et l'usage sensible futur envisagé.		'la DREAL'
+2010				2010				les_diagnostics	En effet, les diagnostics de sols réalisés jusqu'à présent en 1995, 1999 et 2010 ne permettent pas de conclure à  l'adéquation de l'état des sols avec l'usage plus sensible prévu		
+1999	09	30		1999	09	30		Les_études_remises	Les études remises le 30 septembre 1999 concluent :		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2012				a_exploité	La société TOTAL a exploité jusqu’en 2012 une station service au 198 cours Lafayette dans le 3e arrondissement de Lyon.		'La société TOTAL'
+2012	01	30		2012	01	30		la_cessation_d__activité	Le 30 janvier 2012, TOTAL a déclaré la cessation d’activité de l’installation, qui a été fermée et démantelée la même année.		'TOTAL'
+2017	03	22		2017	03	22		son_rapport	La DREAL a acté de la fin des travaux dans son rapport du 22 mars 2017.		'La DREAL'
+2017	03	22		2017	03	22		a_acté	La DREAL a acté de la fin des travaux dans son rapport du 22 mars 2017.		'La DREAL'
+2008	02			2008	02			a_transmis	En février 2008, TOTAL a transmis des résultats des contrôles sur les sols et les eaux souterraines qui montraient un impact important :		
+2013	12	03		2013	12	03		a_imposé	Après l'arrêt de la station, par l’arrêté du 3 décembre 2013, la préfecture du Rhône a imposé à TOTAL :		'la préfecture du Rhône', 'TOTAL'
+				2016	09	12		ont_été_réalisés	Ces travaux ont été encadrés par un arrêté préfectoral complémentaire du 10 novembre 2015 (modifié le 18 novembre 2015) et ont été réalisés du 24 mai au 12 septembre 2016.		
+2013	12	03		2013	12	03		l__arrêté	Après l'arrêt de la station, par l’arrêté du 3 décembre 2013, la préfecture du Rhône a imposé à TOTAL :		'la préfecture du Rhône', 'TOTAL'
+2015	11	18		2015	11	18		modifié_le	Ces travaux ont été encadrés par un arrêté préfectoral complémentaire du 10 novembre 2015 (modifié le 18 novembre 2015) et ont été réalisés du 24 mai au 12 septembre 2016.		

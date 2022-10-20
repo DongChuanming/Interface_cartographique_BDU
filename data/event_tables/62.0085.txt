@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	29		1998	12	29		et_remise	Etude de sols - Phase A imposée par arrêté préfectoral du 23 septembre 1998 et remise par l'industriel le 29 décembre 1998.		
+2004				2005				a_été_relativement_importante	Au niveau du 3ème piézomètre, la teneur en plomb est a été relativement importante (en moyenne 300-400 µg Pb/l) entre début 2004 et mi-2005.	'plomb est'	
+2006				2006				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2006		'-Etablissement IPPC'
+2004				2004				a_également_été_mis_en_place	Un 4 ème piézomètre a également été mis en place fin 2004 afin de mieux cibler la pollution.		

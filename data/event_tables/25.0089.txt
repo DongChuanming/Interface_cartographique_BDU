@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				une_nouvelle_analyse	En 1986, une nouvelle analyse d'eaux usées du site a détecté ces composés.		
+1930				1930				auraient_débuté	Les activités des Établissements STRUCHEN auraient débuté dès 1930.		'STRUCHEN'
+								a_donc_été_mis_en_demeure_de_prendre_les_dispositions_qui_s__imposent	L'exploitant a donc été mis en demeure de prendre les dispositions qui s'imposent dans un délai de 3 mois.		
+1987				1987				ont_été_évacués	Les déchets produits par l'activité de galvanoplastie (800 L de bains) ont été évacués lors de la cessation de cette activité, ils ont été éliminés par TREDI en 1987.	'Les déchets'	'TREDI'
+								a_évacué	Chimirec Centre Est a évacué et éliminé les déchets et les produits dangereux (environ 9 tonnes) du site en février et mars 2014.	'les déchets', 'les produits dangereux'	'Chimirec'
+2014	04	25		2014	04	25		a_été_réalisé	Un mémoire de notification de cessation d'activité a été réalisé par Semaco Environnement le 25/04/2014.		'Semaco Environnement'
+2014	03			2014	03			a_évacué	Chimirec Centre Est a évacué et éliminé les déchets et les produits dangereux (environ 9 tonnes) du site en février et mars 2014.	'les déchets', 'les produits dangereux'	'Chimirec'
+2014	02	05		2014	02	05		a_été_éliminé	Le 5/02/2014, le transformateur a été éliminé.		
+2014	03			2014	03			Des_investigations_sur_les_sols	Des investigations sur les sols et les gaz souterrains ont été menées sur le site par EnvirEauSol en mars 2014 (rapport du 24/04/2014).		
+2013	10			2013	10			ont_été_vendus	En octobre 2013, les machines et outils présents sur le site ont été vendus à l'occasion d'une vente aux enchères.		
+1992	06	01		1992	06	01		a_été_délivré	Les activités de galvanoplastie des Établissements STRUCHEN ont cessé en 1986 et le récépissé de cessation de cette activité a été délivré le 1/06/1992.		'Établissements STRUCHEN'
+1986				1986				ont_cessé	Les activités de galvanoplastie des Établissements STRUCHEN ont cessé en 1986 et le récépissé de cessation de cette activité a été délivré le 1/06/1992.		'Établissements STRUCHEN'
+2014	12			2014	12			Des_investigations	Des investigations sur l'air ambiant ont été réalisées en décembre 2014 par EnvirEauSol (rapport du 19/01/2015).		
+2013	04	16		2013	04	16		a_été_nommée_liquidateur_judiciaire	Le 16/04/2013, la SCP GUYON-DAVAL a été nommée liquidateur judiciaire des Établissements STRUCHEN.		'la SCP GUYON - DAVAL', 'Établissements STRUCHEN'
+2014	04	24		2014	04	24		Des_investigations_sur_les_sols	Des investigations sur les sols et les gaz souterrains ont été menées sur le site par EnvirEauSol en mars 2014 (rapport du 24/04/2014).		
+2015	02	23		2015	02	23		un_rapport	Le 23/02/2015, Semaco Environnement a réalisé un rapport sur la compatibilité de l'état environnemental avec un usage industriel.		
+1998				1998				ont_informé	En 1998, les Établissements STRUCHEN ont informé l'inspection des installations classées de leur projet d'extension de leur usine.		'les Établissements STRUCHEN'

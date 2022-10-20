@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				a_acquis	La société AMSU, Ateliers Métallurgiques de Saint-Urbain a acquis ce site en 1972 et y a fabriqué des arbres de transmission et des barres anti-devers jusqu'en 2000.	'Ateliers Métallurgiques'	'La société AMSU', 'de Saint-Urbain'
+				2000				a_acquis	La société AMSU, Ateliers Métallurgiques de Saint-Urbain a acquis ce site en 1972 et y a fabriqué des arbres de transmission et des barres anti-devers jusqu'en 2000.	'Ateliers Métallurgiques'	'La société AMSU', 'de Saint-Urbain'
+2000	06			2000	06			un_diagnostic_environnemental	Suite à l'arrêt des activités un diagnostic environnemental du site a été réalisé en juin 2000.		
+2003	07			2003	07			ont_été_excavées	Cette zone a été traitée en juillet 2003, 39 tonnes de bétons et terres ont été excavées et dirigées vers un centre de traitement.		
+				2001	08			ont_été_excavées	Cette zone a été traitée entre avril et août 2001, 240 tonnes de terres ont été excavées et dirigées vers un centre de traitement biologique.		
+2004	11	19		2004	11	19		est_imposée	Cette surveillance est imposée par arrêté préfectoral du 19/11/2004.		
+2003	05	12		2003	05	12		une_étude_historique	ALLEVARD REJNA a remis le 12 mai 2003 une étude historique et de vulnérabilité du site.		'ALLEVARD REJNA'

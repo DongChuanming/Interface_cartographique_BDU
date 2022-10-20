@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	10	21		2014	10	21		un_diagnostic_de_sol	Suite à une inspection du site constatant des traces de pollutions superficielles le 21 octobre 2014, un diagnostic de sol a été demandé la société ROTH.		'la société ROTH'
+1975				1975				est_exploité	Le site, d'une surface d'environ 1 ha, situé dans une zone pavillonnaire et d'activité, est exploité depuis 1975 par la société Roth, spécialisée dans le fabrication de corps d'accumulateurs hydropneumatiques et de bouteilles destinées à la plongée sous marine.		'la société Roth'
+2015	12	16		2015	12	16		diagnostic_environnemental	L'exploitant a remis le 16 décembre 2015 un "diagnostic environnemental du milieu souterrain"		
+2014	10	21		2014	10	21		constatant	Suite à une inspection du site constatant des traces de pollutions superficielles le 21 octobre 2014, un diagnostic de sol a été demandé la société ROTH.		'la société ROTH'

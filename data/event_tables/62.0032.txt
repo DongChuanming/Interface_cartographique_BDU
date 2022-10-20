@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09			2007	09			Mise_en_place_de	- Mise en place de 5 piézomètres en septembre 2007.		
+1992				1992				achevée	Démolition des derniers bâtiments du site achevée fin 1992.		
+1996				1996				réalisée	- Étude approfondie de l'état du site et de son impact réalisée en 1996.		
+2008	01	21		2008	01	21		a_été_imposé	- Un plan de surveillance des eaux souterraines a été imposé à l'exploitant par arrêté préfectoral du 21/01/2008.		
+2007	02			2007	02			Travaux_de_couverture	- Travaux de couverture de la zone polluée aux PCB, évacuation des terres contenant des métaux en proportion importante, début février 2007.	'PCB'	
+2009				2009				remis	- Dossier de demande d'institution de servitudes d'utilité publique remis en aout 2009.		
+1988				1988				Déclaration_de_cessation_d__activité	- Déclaration de cessation d'activité: début 1988.		
+1992				1992				Démolition_des_derniers_bâtiments_du_site	Démolition des derniers bâtiments du site achevée fin 1992.		
+2007	12			2007	12			Rapport_d__investigations	- Rapport d'investigations et travaux de réhabilitation complémentaires en décembre 2007.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12			2000	12			est_réalisé	Un suivi de la qualité des eaux souterraines est réalisé depuis décembre 2000 au moyen de deux piézomètres en amont et en aval du site.		
+1999	11			1999	11			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été rendue en novembre 1999.		
+2002	03	05		2002	03	05		de_la_visite	Lors de la visite du 5 mars 2002, il est constaté que les démolitions ont été totalement réalisées, le site est entièrement clôturé.		
+2005	10	27		2005	10	27		de_la___visite	Lors de la  visite du 27 octobre 2005 de ce site réalisée l’inspection des installations classées , il avait été constaté que la zone de pesée subsistante sur le site était utilisée par la société LAUBACH.		'par la société LAUBACH'
+2011	11	24		2011	11	24		de_la_visite	Lors de la visite du 24 novembre 2011, aucun usage n’a été constaté sur le site qui est à l’état de friche.		
+2005	10	27		2005	10	27		appartient_à	A la date du 27 octobre 2005, le terrain appartient à la CCAL mais reste suivi par BI.		'la CCAL'

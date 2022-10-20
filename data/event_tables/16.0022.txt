@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	02		2006	05	02		a_été_produit	Un mémoire de cessation d'activité a été produit le 2 mai 2006.		
+2006	11			2006	11			l__élimination	En outre, les investigations de sols complémentaires par auscultation électromagnétique d'août 2006 ont abouti à l'excavation et l'élimination en novembre 2006 d'un peu plus de 1 700 bouteilles de gaz ayant contenu de l'acétylène ou d'autres gaz comprimés.	'acétylène'	
+2011				2011				ont_été_démolis	Tous les bâtiments ont été démolis au cours de l'année 2011.		
+2005	05	15		2005	05	15		La_cessation_d__activité	La cessation d'activité a été notifiée le 15 mai 2005 à la Préfecture de Charente.		'la Préfecture de Charente'
+2005	06			2005	06			ont_été_évacuées	Les cuves enterrées d'acétone ainsi que les cuves d'hydrocarbures ont été évacuées en juin 2005.	'hydrocarbures'	
+2005	11			2005	11			effectués	Les analyses des prélèvements effectués en novembre 2005, ont permis de détecter la présence de composés en aluminium et manganèse, en aval du site.	'aluminium', 'manganèse'	
+2013				2013				Les_travaux_de_prolongement_de_la_clôture_existante	Les travaux de prolongement de la clôture existante ainsi que le comblement des piézomètres conformément aux règles de l'art ont été effectués au cours du second semestre 2013.		
+2006	08			2006	08			auscultation_électromagnétique_d_	En outre, les investigations de sols complémentaires par auscultation électromagnétique d'août 2006 ont abouti à l'excavation et l'élimination en novembre 2006 d'un peu plus de 1 700 bouteilles de gaz ayant contenu de l'acétylène ou d'autres gaz comprimés.	'acétylène'	
+2006	08			2006	08			effectués	Les douze sondages complémentaires effectués en août 2006 ont permis de détecter une anomalie de concentration en hydrocarbures au niveau d'un sondage à 1.5 m de profondeur.	'hydrocarbures'	
+2006	08			2006	08			lors_de_la_campagne_d_	Les analyses des prélèvements effectués dans les piézomètres lors de la campagne d'août 2006 montrent dans un piézomètre une concentration en manganèse supérieure à la référence de qualité dans les eaux destinées à la consommation humaine.	'manganèse'	
+2013	02	11		2013	02	11		Une_visite_de_site_menée	Une visite de site menée le 11 février 2013 a permis de constater une mise en sécurité partielle du site (absence de clôture sur quelques dizaines de mètres) et la présence des 5 piézomètres non rebouchés.		
+2007	01	12		2007	01	12		un_rapport	Le mémoire de cessation du mai 2006 a ainsi été complété par un rapport daté du 12 janvier 2007 présentant les investigations complémentaires menées dans les sols et les eaux souterraines.		
+1943				1943				__a_été_acheté	Le site, d'une superficie de 19 003 m²,  a été acheté en 1943.		
+2005	11			2005	11			Les_analyses	Les analyses des prélèvements effectués en novembre 2005, ont permis de détecter la présence de composés en aluminium et manganèse, en aval du site.	'aluminium', 'manganèse'	

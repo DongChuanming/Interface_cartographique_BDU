@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				a_été_rachetée	L'installation a été rachetée en 1986 par le GIE SAvoies Enrobés, rachat accompagné d'un bail commercial concernant le foncier.		'le GIE SAvoies Enrobés'
+1987				1987				a_remplacé	La puissance de la centrale a été augmentée en 1986 (de 45 à 100 t/h), et le GPL a remplacé le fioul lourd pour l'alimentation, en 1987.	'GPL', 'fioul lourd'	
+1999	12			1999	12			a_cessé	Toute activité a cessé à la fin du mois de décembre 1999, et la centrale a été démontée à la fin de l'année 2000.		
+1986				1986				a_été_augmentée	La puissance de la centrale a été augmentée en 1986 (de 45 à 100 t/h), et le GPL a remplacé le fioul lourd pour l'alimentation, en 1987.	'GPL', 'fioul lourd'	
+1995				1995				a_été_mise_en_veille	A la suite de la baisse des marchés, cette centrale a été mise en veille dès 1995.		
+2000				2000				a_cessé	Toute activité a cessé à la fin du mois de décembre 1999, et la centrale a été démontée à la fin de l'année 2000.		
+2001				2001				a_fait_l__objet	L'ensemble des secteurs contaminés a fait l'objet d'excavations, en aout 2001, pour atteindre le seuil de dépollution fixé pour les hydrocarbures totaux à 1000 mg/kg.	'hydrocarbures totaux'	
+2001	05			2001	05			a_été_présentée	La déclaration de fin d'activité a été présentée en mai 2001.		
+2002	02			2002	02			a_été_excavé	Finalement, ce point a été excavé en février 2002.		

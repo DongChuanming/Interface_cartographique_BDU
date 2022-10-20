@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	17		2006	07	17		La_visite_d__inspection	La visite d'inspection réalisée le 17 juillet 2006 n'a permis d'identifier aucun trace de pollution en fond de fouille et sur les flancs.		
+1933				1993				exploité	Ancien dépot d'hydrocarbures exploité de 1933 à 1993 pollué par des hydrocarbures.	'hydrocarbures', 'hydrocarbures'	
+2003				2003				Les_sondages_réalisés	Les sondages réalisés en 2003 n'ont mis en évidence aucune pollution (< 100 mg/kg).		
+2003				2003				des_investigations_complémentaires	Dans le cadre du projet de réaménagement, AMIENS AMENAGEMENT a fait réaliser en 2003 des investigations complémentaires à la demande de l'inspection des installations classées.		'AMIENS AMENAGEMENT'
+2003	11	18		2003	11	18		annulé	L'arrêté préfectoral du 15 novembre 1999 qui imposait des travaux de remise en état du site sur la parcelle HT 304 et demandait la mise en place de servitudes d'utilité publique, a été attaqué par TOTAL au tribunal administratif et annulé le 18 novembre 2003 pour vice de procédure.		
+1999				1999				3_prélèvements_réalisés	3 prélèvements réalisés en 1999 sur ces parcelles avaient mis en évidence des teneurs en hydrocarbures supérieures à la limite acceptable pour considérer le site comme "banalisable" (192 mg/kg - 110 mg/kg - 155 mg/kg).	'hydrocarbures'	

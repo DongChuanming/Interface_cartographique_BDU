@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				Des_investigations_réalisées	Des investigations réalisées en 2007 ont permis de localiser une source de contamination en Hydrocarbures Aromatiques Polycycliques (HAP) dans les sols.	'Hydrocarbures Aromatiques Polycycliques', 'HAP'	
+2004				2004				a_également_été_mise_en_place	Une surveillance des eaux souterraines a également été mise en place à partir de 2004.		
+2012	01			2012	01			les_analyses	Par ailleurs, les analyses de janvier 2012 réalisées au droit du site mettent en évidence des hydrocarbures à des teneurs largement supérieures à la valeur réglementaire et la présence de phtalates en concentration importante.	'hydrocarbures', 'phtalates'	
+1996				1996				a_été_délaissée	Jugé inadapté aux activités de l’entreprise, l’usine de LE SAULCY a été délaissée en 1996 au profit d’une nouvelle usine implantée sur le territoire de la commune de La CHAPELLE-DEVANT-BRUYERES.		'SAULCY', 'La CHAPELLE-DEVANT-BRUYERES'
+1996	07	12		1996	07	12		l__arrêt_définitif	L’exploitant a notifié l’arrêt définitif de l’usine de LE SAULCY par courrier en date du 12 juillet 1996.		'SAULCY'
+2008	12	30		2008	12	30		a_été_placée_en_liquidation_judiciaire	La société YERAMEX International a été placée en liquidation judiciaire, par jugement du tribunal de commerce de SAINT-DIE en date du 30 décembre 2008.		'La société YERAMEX International'
+2012	11			2012	11			une_intervention	Aussi, compte tenu de l'absence de responsable solvable, une intervention de l'ADEME a été accordée par le Préfet de région en novembre 2012 pour mettre en sécurité le site.		'le Préfet'

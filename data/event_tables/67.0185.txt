@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								devient	Le 14 janvier la société METALIFER devient le nouvel exploitant du site 3, rue de Cherbourg à STRASBOURG Port Du Rhin.		'la société METALIFER'
+2010	10	13		2010	10	13		des_analyses_effectuées	Les résultats des analyses effectuées le 13 octobre 2010 pour contrôler les eaux souterraines ont mis en évidence un dépassement de la valeur seuil "eau potable" (0.05 mg/L) pour le manganèse dans le Pz2 (aval) avec une concentration de 0.25 mg/L.	'le manganèse'	
+				2012	08	29		est_complété	Cet AP est complété depuis par les AP complémentaires du 2 août 2000, du 29 août 2012, 28 décembre 2012.		
+2000	08	02		2000	08	02		est_complété	Cet AP est complété depuis par les AP complémentaires du 2 août 2000, du 29 août 2012, 28 décembre 2012.		

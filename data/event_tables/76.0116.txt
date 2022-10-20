@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05	09		2001	05	09		a_été_remis	Un complément d'étape B a été remis le 9 mai 2001.		
+2000	12	06		2000	12	06		a_été_remise	L’étape B a été remise le 6 décembre 2000.		
+2001	07			2001	07			L__évaluation_des_risques	L'évaluation des risques a été remise début juillet 2001.		
+2000	07	03		2000	07	03		une_évaluation_simplifiée_des_risques	Par arrêté préfectoral en date du 3 juillet 2000, une évaluation simplifiée des risques a été demandée par l'administration.		
+1946								se_sont_succédées	La liste des polluants recherchés dans la nappe et dans les sols est très importante dans la mesure où de nombreuses productions se sont succédées de 1946 à nos jours.	'polluants'	
+2000	09	29		2000	09	29		a_été_remise	L'étape A a été remise le 29 septembre 2000.		
+1946	02	11		1946	02	11		a_fait_l__acquisition	RHONE POULENC en a fait l'acquisition le 11 février 1946.		'RHONE POULENC'

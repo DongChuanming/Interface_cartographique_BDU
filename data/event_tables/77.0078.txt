@@ -1,6 +1,6 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1972	04	27		1972	04	27			ont_été_autorisés	Les_Etablissements_BRUN							
-2000	06	06		2000	06	06			la_cessation_de_leur_activités			ont_déclaré					
-2000				2003					__ont_montré								
-2004	02	28		2004	02	28			La_réponse_obtenue								
-2017	08	24		2017	08	24			relance_a_été_transmis	Un_courrier							
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11			2003	10			des_prélèvements_ponctuels	Par la suite, des prélèvements ponctuels pratiqués au niveau d’un piézomètre, entre novembre 2000,  mai 2001 et octobre 2003, ont montré une diminution des concentrations en pentachlorophénol (de 180 µg/l à < 0,5 µg/l - sur les deux derniers résultats) et une absence d’impact en rivière du Loing au droit du site pour ce même polluant (teneur pentachlorophénol < 0,5 µg/l).	'en pentachlorophénol', 'teneur pentachlorophénol'	
+2000	06	06		2000	06	06		ont_été_autorisés_par	Les Etablissements BRUN ont été autorisés par arrêté préfectoral (n° 72 DAGR 2EC 80 en date du 27 avril 1972 rectifié le 17 mai 1972) à exploiter un atelier où l’on travaille le bois comportant un stock de bois de plus de 75 m3, et ont déclaré la cessation de leur activités le 6 juin 2000.		'Les Etablissements BRUN'
+2017	08	24		2017	08	24		a_été_transmis	Un courrier de relance a été transmis à la Société par courrier préfectoral du 24 août 2017.		'la Société'
+2000	06	06		2000	06	06		ont_déclaré_la_cessation_de_leur_activités	Les Etablissements BRUN ont été autorisés par arrêté préfectoral (n° 72 DAGR 2EC 80 en date du 27 avril 1972 rectifié le 17 mai 1972) à exploiter un atelier où l’on travaille le bois comportant un stock de bois de plus de 75 m3, et ont déclaré la cessation de leur activités le 6 juin 2000.		'Les Etablissements BRUN'
+2004	10	04		2004	10	04		a_été_demandé_par_courrier	La réponse obtenue en date du 28 février 2004 n'étant de nature suffisante, il a été rappelé au détenteur sa responsabilité au titre du code civil, et il lui a été demandé par courrier du 4 octobre 2004 de proposer des actions afin d'éviter un usage sensible de cette parcelle de terrain.		

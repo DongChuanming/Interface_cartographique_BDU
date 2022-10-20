@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				de_la_mise_en_service	Lors de la mise en service en 2000, le site était autorisé à récupérer des déchets de papier et carton.		
+2011	03	22		2011	03	22		modifié	Le site a été régulièrement mis en fonctionnement par arrêté préfectoral d'autorisation du 23/08/2000 modifié le 22/03/2011 pour une activité de dépollution des véhicules hors d’usage (VHU) et de tri des métaux.		
+2000				2000				était_autorisé	Lors de la mise en service en 2000, le site était autorisé à récupérer des déchets de papier et carton.		
+								a_été_réalisée	Et l’activité de dépollution de VHU a été réalisée des années 80 aux années 90.		
+2016	03	24		2016	03	24		19_sondages_sont_réalisés	19 sondages sont réalisés le 24/03/2016 sur l’ensemble du site (stockage de métaux) et aux abords des zones de traitement des effluents (séparateur d’hydrocarbures) et de l’ancienne zone de dépollution de véhicules hors d’usage (VHU). (voir plan-cartographique-44.0164--2.pdf)	'effluents', 'hydrocarbures', 'véhicules hors d’ usage'	

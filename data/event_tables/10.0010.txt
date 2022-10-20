@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	02	02		1999	02	02		a_été_rejetée	Cette requête a été rejetée par décision du 2 février 1999.		
+1999	03			1999	03			Un_diagnostic_initial	Un diagnostic initial du site a été adressé en mars 1999.		
+2003				2003				la_visite	L'inspection des installations classées a proposé suite à la visite de 2003 de relancer par courrier le propriétaire afin que celui-ci respecte ses obligations.		
+				1997				ont_déposé_de_manière_illégale	Les Cristalleries Royales de Champagne ont déposé de manière illégale dans une décharge communale des boues issues de la station de traitement des effluents de l'usine à partir de 1973 et jusqu'en 1997.	'effluents'	'Les Cristalleries'
+2000	02	17		2000	02	17		a_demandé	Par arrêté du 17 février 2000, le préfet de l'Aube a demandé à l'industriel de clôturer la décharge, de mettre en place un dispositif de surveillance des eaux souterraines et de faire réaliser un diagnostic approfondi devant déboucher sur des propositions de remise en état du site, conformément à l'arrêté ministériel du 18 novembre 1992 relatif aux installations de stockage de déchets dangereux.	'déchets dangereux'	'le préfet'
+1999	03			1999	03			Le_diagnostic_initial	Le diagnostic initial a été remis à l'inspection des installations classées de la DRIRE en mars 1999.		'la DRIRE'
+2000	12	14		2000	12	14		est_remise	Dans le cadre de la régularisation administrative de cet établissement, une ESR est remise le 14 décembre 2000.		

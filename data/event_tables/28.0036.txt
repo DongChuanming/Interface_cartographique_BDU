@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07			2009	07			a_été_réalisé	Un plan de gestion a été réalisé en juillet 2009.		
+2002	07			2002	07			s__est_déroulée	Deux piézomètres ont été installés en juin 2002 (un en amont du site, l'autre en aval) et la première campagne analytique s'est déroulée en juillet 2002.		
+2002	06			2002	06			ont_été_installés	Deux piézomètres ont été installés en juin 2002 (un en amont du site, l'autre en aval) et la première campagne analytique s'est déroulée en juillet 2002.		
+2009	07			2009	07			un_diagnostic_de_pollution_des_sols	Dans le cadre de sa cessation d'activité, un diagnostic de pollution des sols a été réalisé par MTH et remis à l'administration en juillet 2009.		'MTH'
+2007				2007				est_rachetée	Cette dernière est rachetée en 1993 par le groupe Nord Hélio Service, puis par le groupe JANOSCHKA en 2007.		'le groupe Nord Hélio Service', 'le groupe JANOSCHKA'
+2002	09	25		2002	09	25		Le_diagnostic_approfondi	Le diagnostic approfondi et l'évaluation détaillée des risques ont été remis au service d'inspection le 25 septembre 2002.		
+2009				2009				est_transférée	En 2009, l'activité est transférée dans un autre bâtiment de la zone d'activité.		
+2003				2003				Les_campagnes_de	Les campagnes de suivi de la qualité des eaux souterraines depuis 2003 montrent :		
+2012	10	23		2012	10	23		de_l__inspection	Lors de l'inspection du 23 octobre 2012, il a été noté l'absence de traitement des eaux pluviales par un déboucheur-déshuileur, comme demandé lors d'une précédente inspection.		
+2005	09			2005	09			Une_évaluation_détaillée_des_risques	Une évaluation détaillée des risques pour la santé humaine dans la cadre d'un usage industriel du site a été réalisée en septembre 2005.		
+1993				1993				est_rachetée	Cette dernière est rachetée en 1993 par le groupe Nord Hélio Service, puis par le groupe JANOSCHKA en 2007.		'le groupe Nord Hélio Service', 'le groupe JANOSCHKA'
+2012	11	28		2012	11	28		est_institué	Le 28 novembre 2012 est institué un arrêté préfectoral de servitudes d'utilité publique sur la parcelle ZK 735, pour limiter l'usage du sol et du sous sol.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				ont_été_détruites	Les dernières structures hors sol ont été détruites en 1994.		
+1916	04			1916	04			ayant_démarré_ses_activités	Sur ce site d'une surface de 0,8 ha a été exploité une ancienne distillerie de goudrons ayant démarré ses activités en avril 1916 pour le compte de la S.	'goudrons'	'la S.'
+1952				1952				est_arrêté	Le site devient un simple dépôt de goudrons qui est arrêté en 1952.	'goudrons'	
+1927				1927				La_production_cesse	La production cesse vers 1927.		

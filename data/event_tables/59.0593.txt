@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				__développement	- 1963 à 2001 : développement du T.		
+2015	08			2015	08			ont_été_réalisés	Dans le cadre de la pré-requalification des secteurs GMG et AS/PS et plus généralement de l’ensemble de la nouvelle parcelle 000BK1, des travaux de gestion de la pollution ont été réalisés d’août 2014 à août 2015.		
+2001	12			2001	12			la_production	En décembre 2001, la production de T.		
+1970				1970				a_été_démantelé	L'atelier de traitement d'uranium a été démantelé vers 1970.		
+2000	07	1		2000	07	1		a_été_créée	Puis a été créée le 1er juillet 2000 une filiale RHODIA INTERMEDIAIRES qui a intégré les activités de l’usine de SAINT-ANDRE.		'RHODIA INTERMEDIAIRES'
+1914				1914				est_vidée	- 1914 à 1918 : l'usine est vidée de son contenu par réquisitions successives ;		
+				2006				n_	La zone n'était jusqu’en 2006 plus utilisée que pour la production d'énergie et des matières premières utiles à la fabrication du T.		
+1996				1996				une_étude_réalisée	- Zone de l'embranchement ferroviaire et du site DESMARAIS (dépôt d'essence de 1000 m3) : une étude réalisée par ATE en 1996 montre une pollution des sols par l'arsenic, le plomb, le zinc et les hydrocarbures sur la zone DESMARAIS ; les piézomètres montrent une légère présence de métaux dans la nappe alluviale et la faible mobilisation de ceux-ci.	'arsenic', 'le plomb', 'zinc', 'hydrocarbures', 'métaux'	'DESMARAIS', 'DESMARAIS'
+1993				1993				ont_été_démolis	Le bâtiment " bicarbonate" et les structures de la synthèse d'ammoniac ont été démolis en 1993.	"synthèse d' ammoniac"	'" bicarbonate "'
+2001				2001				la_fabrication_du_T_	Jusque la fin de l’année 2001, elle était spécialisée dans la fabrication du T.		
+1963				1965				avaient_été_démantelés	Les bâtiments de l'ancienne synthèse avaient été démantelés entre 1963 et 1965.		
+1994	1993			1994	1993			a_été_démolie	La plupart des bâtiments a été démolie en 1993/1994.		
+1914				1914				__industrialisation	- 1849 à 1914 : industrialisation de l'acide sulfurique et de ses dérivés (sulfates notamment) ainsi que de la fabrication entre autres de l'acide nitrique, des silicates et des superphosphates, du chlorure de chaux, de la soude, du chlorure de baryum, des sels de baryte ;	'acide sulfurique', 'ses dérivés', 'sulfates notamment', 'acide nitrique', 'silicates', 'superphosphates', 'chlorure', 'soude', 'chlorure de baryum', 'sels de baryte'	'de chaux'
+1849				1849				__industrialisation	- 1849 à 1914 : industrialisation de l'acide sulfurique et de ses dérivés (sulfates notamment) ainsi que de la fabrication entre autres de l'acide nitrique, des silicates et des superphosphates, du chlorure de chaux, de la soude, du chlorure de baryum, des sels de baryte ;	'acide sulfurique', 'ses dérivés', 'sulfates notamment', 'acide nitrique', 'silicates', 'superphosphates', 'chlorure', 'soude', 'chlorure de baryum', 'sels de baryte'	'de chaux'
+1963				1963				__développement	- 1963 à 2001 : développement du T.		
+1963				1963				ont_été_construites	.I. ont été construites en 1963 par la société DEKACHIMIE, selon le procédé américain DUPONT DE NEMOURS.		'la société DEKACHIMIE', 'DUPONT DE NEMOURS'
+1999				1999				Une_étude_spécifique_réalisée	Une étude spécifique réalisée par l'AINF en 1999 n'a pas révélé de rayonnements résiduels supérieurs aux normes sanitaires.		
+2014	08			2014	08			ont_été_réalisés	Dans le cadre de la pré-requalification des secteurs GMG et AS/PS et plus généralement de l’ensemble de la nouvelle parcelle 000BK1, des travaux de gestion de la pollution ont été réalisés d’août 2014 à août 2015.		
+1973				1973				et_étendues	Elles ont été autorisées par arrêté préfectoral du 25 juillet 1962 modifié le 25 mars 1963 et étendues en 1973 (arrêté préfectoral du 4 septembre 1970) pour une capacité nominale de production de 140 t/j de T.		
+1918				1918				est_vidée	- 1914 à 1918 : l'usine est vidée de son contenu par réquisitions successives ;		
+1998	01	1		1998	01	1		est_devenue	La société RHONE POULENC CHIMIE est devenue RHODIA CHIMIE depuis le 1er janvier 1998.		'La société RHONE POULENC CHIMIE', 'RHODIA CHIMIE'
+2001				2001				de_l_	Jusque la fin de l’année 2001, elle était spécialisée dans la fabrication du T.		
+2001				2001				était_spécialisée_dans	Jusque la fin de l’année 2001, elle était spécialisée dans la fabrication du T.		

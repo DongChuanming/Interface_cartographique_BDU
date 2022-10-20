@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02	09		2004	02	09		la_fin	L’inspecteur des installations classées a pu constater sur place le 9 février 2004 la fin des travaux de dépollution.		
+2003	10			2003	10			une_nouvelle_campagne_de_sondages_complémentaires_réalisée	La dépollution a été réalisée après une nouvelle campagne de sondages complémentaires réalisée en octobre 2003.		
+2000	09			2000	09			la_surface_du_site	- de dépolluer la surface du site (pour septembre 2000),		
+1994				1996				a_exploité	La société VTN a exploité, de 1994 à 1996, sur le site, une installation de traitement thermique des métaux.		'La société VTN'

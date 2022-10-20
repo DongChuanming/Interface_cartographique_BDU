@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	07		2003	07	07		a_informé	Le 07 juillet 2003, M. le Directeur de la société TARKETT SOMMER, a informé M. le Préfet de la Drôme de la cessation de ses activités classées.		'le Directeur de la société TARKETT SOMMER', 'le Préfet de la Drôme'
+2003				2003				Le_bilan_des_analyses	Le bilan des analyses depuis 2003 montre :		
+2004	05	18		2004	05	18		ont_été_réclamés	Des éléments complémentaires ont été réclamés le 18 mai 2004 par l’inspection des Installations classées, à M. le Président de la société TARKETT S.		'le Président de la société TARKETT S.'
+2003				2003				Le_bilan	Le bilan du suivi de la qualité de la nappe phréatique au droit du site de la société ABRISO, effectué depuis 2003, permet de conclure à :		'la société ABRISO'
+2009				2009				La_dernière___campagne	La dernière  campagne de 2009 met en évidence :		
+2004	07	05		2004	07	05		a_été_pris	Un arrêté préfectoral relatif à la surveillance des eaux souterraines du site a été pris par M.le Préfet de la Drôme  le 05 juillet 2004 .		'M.le Préfet', 'de la Drôme'
+2013	02	19		2013	02	19		est_la_propriété_de	Au 19/02/2013, le site est la propriété de la société ABRISO France.		'la société ABRISO France'

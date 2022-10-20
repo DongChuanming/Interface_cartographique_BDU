@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Un_diagnostic	Un diagnostic a été réalisé en 2010 par le bureau d'études AMDE.		'AMDE'
+2011	12			2013	07			exploitée	Ancienne station-service exploitée de décembre 2011 à juillet 2013.		'service'
+				2013	11			Les_travaux_de_démantèlement	Les travaux de démantèlement ont été réalisés entre octobre et novembre 2013 :		
+2016	09			2016	09			Les_campagnes_de_surveillance	Les campagnes de surveillance de la qualité des eaux souterraines effectuée en mai et septembre 2016 ont permis de:		
+								Les_campagnes_de_surveillance	Les campagnes de surveillance de la qualité des eaux souterraines effectuée en mai et septembre 2016 ont permis de:		
+2016	05	16		2016	05	16		a_été_installé	Le 16 mai 2016, un piézomètre complémentaire a été installé en aval hydraulique des anciennes pistes de distribution.		

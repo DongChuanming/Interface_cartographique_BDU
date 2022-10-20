@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_cessé	Durant l'été 2009 l'entreprise ISOROY a cessé son activité.		
+2011	10	07		2011	10	07		a_été_co_signée	Sur proposition de l'inspection, un arrêté préfectoral imposant à l'ancien exploitant une surveillance pérenne de la qualité des eaux souterraines a été signé le 29 juillet 2011, et une convention de restrictions d'usages a été co-signée par le Préfet et le propriétaire du site le 7 octobre 2011.		'le Préfet'
+2009				2009				a_cessé	Elle a cessé toute activité sur le site de Châtellerault au cours de l'année 2009.		
+2007				2007				d__identifier	Cette étude avaient permis d'identifier deux sources de contamination qui ont conduit à des travaux de dépollution en 2007.		
+1960				1960				a_débuté	En 1960, la société MERCLE a débuté les premières activités industrielles du site.		'la société MERCLE'
+2012	01	25		2012	01	25		a_été_transférée	Par arrêté du 25 janvier 2012, la surveillance des eaux souterraines a été transférée à la Communauté d'Agglomération du Pays Châtelleraudais.		'la Communauté'
+2011	10	07		2011	10	07		a_été_signé	Sur proposition de l'inspection, un arrêté préfectoral imposant à l'ancien exploitant une surveillance pérenne de la qualité des eaux souterraines a été signé le 29 juillet 2011, et une convention de restrictions d'usages a été co-signée par le Préfet et le propriétaire du site le 7 octobre 2011.		'le Préfet'
+2016	06	15		2016	06	15		a_été_reçu	Le 15 juin 2016, un rapport sur la surveillance des eaux souterraines a été reçu par les services de l'inspection		
+2006				2006				Des_premières_études_de_sols	Des premières études de sols avait été réalisées dès 2006 ont permis de mettre en évidence la présence d'hydrocarbures dans les sols, d'arsenic, de COHV.	'hydrocarbures', 'arsenic', 'COHV'	
+2011	12	19		2011	12	19		Cette_acquisition	Cette acquisition s'est concrétisée le 19 décembre 2011 par la signature d'un acte authentique.		
+2007				2007				ont_conduit_à_des_travaux_de_dépollution	Cette étude avaient permis d'identifier deux sources de contamination qui ont conduit à des travaux de dépollution en 2007.		
+2011	07	11		2011	07	11		a_été_validé	Le PV de recollement des opérations en état a été validé le 11 juillet 2011 finalisant ainsi la cessation d'activité.		
+2011	07	29		2011	07	29		a_été_signé	Sur proposition de l'inspection, un arrêté préfectoral imposant à l'ancien exploitant une surveillance pérenne de la qualité des eaux souterraines a été signé le 29 juillet 2011, et une convention de restrictions d'usages a été co-signée par le Préfet et le propriétaire du site le 7 octobre 2011.		'le Préfet'
+1983				1983				a_repris	La société ISOROY a repris les activités de la société MESCLE en 1983.		'La société ISOROY', 'la société MESCLE'
+2014	04	22		2014	04	22		a_été_pris	Un arrêté préfectoral complémentaire relatif à la surveillance des eaux souterraines a été pris le 22 avril 2014.		

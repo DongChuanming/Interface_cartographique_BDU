@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	09	04		2008	09	04		s__est_rendu	Le 4 septembre 2008, l'inspecteur des installations classées s'est rendu sur le site afin de visiter les lieux et de procéder à un prélèvement des eaux souterraines.		
+2009	03			2009	03			a_transmis	En mars 2009, l'exploitant a transmis un dossier présentant les investigations réalisées. 45 échantillons de sols ont été prélevés entre 0.1 et 3 m de profondeurs.		
+1986				1986				décidé	Le suivi piézométrique n’a pas mis en évidence d’impact significatif sur la qualité des eaux souterraines d’où l’allègement des modalités de suivi décidé en 1986.		
+1975				1975				ont_été_déversés	En 1975, des déchets industriels liquides ont été déversés dans la partie à ciel ouvert et des fûts de déchets industriels ont été stockés dans les galeries souterraines.	'déchets industriels liquides'	
+				1976	09	14		Des_opérations_d__évacuation_vers	Des opérations d’évacuation vers le centre autorisé SARP INDUSTRIE à LIMAY (78) des déchets (323 fûts et 48 bidons) et de terres polluées ont été réalisées du 08 au 14 septembre 1976.		'SARP INDUSTRIE'

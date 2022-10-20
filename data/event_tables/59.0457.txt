@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03	14		2000	03	14		__réalisation	-14/03/2000: réalisation d'un diagnostic environnemental et d'un projet de réhabilitation		
+1997	11	21		1997	11	21		__remise	-21/11/1997: remise du dossier de cessation d'activité de l'amiante	'amiante'	
+2004	07	28		2004	07	28		_Réalisation_d__un_dossier_de_demande	-Réalisation d'un dossier de demande d'autorisation d'exploiter: le 28 juillet 2004 (activité de fabrication de plaques ondulées en fibre-ciment)		
+2001	10	08		2001	10	08		__travaux_de_réhabilitation	-8/10/2001: travaux de réhabilitation: démolition des bétons, excavations des terres, démantèlement des machines, remblaiement et évacuation des déchets		
+								_Dépôt_d_	-Dépôt d'un dossier de demande d'institution de servitudes d'utilité publique le 03/05/06		
+1996				1996				a_cessé	Depuis 1996, cette activité a cessé et les produits sont dorénavant fabriqués à partir d'autres catégories de fibres.		
+1997				1997				__réalisation_d__analyses_souterraines	-aout 1997: réalisation d'analyses souterraines (2 piézomètres)		
+1996				1996				__cessation_d__activité	-1996: cessation d'activité		
+2011	03	25		2011	03	25		instaurant	-Arrêté préfectoral instaurant les servitudes d'utilité publique le 25/03/2011		

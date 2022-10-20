@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1870				1990				exploitée	Il a accueilli une zone d'activités pyrotechniques exploitée de 1870 à 1990 pour la fabrication de canons et de munitions diverses.		
+1997	07			1997	07			des_sondages_supplémentaires_ont_été_réalisés	En juillet 1997, des sondages supplémentaires ont été réalisés à la demande de l'administration afin de caractériser les sols dans la zone contaminée.		
+1997	11	25		1997	11	25		est_prescrit_par	Un contrôle semestriel de la qualité des eaux souterraines en aval du site est prescrit par arrêté préfectoral du 25 novembre 1997.		
+2013	04	05		2013	04	05		de_la_visite	Lors de la visite du 05 avril 2013, il a été constaté dans les sols une présence significative d'organohalogènes volatils et d'hydrocarbure.	'organohalogènes', 'hydrocarbure'	
+2005				2005				a_construit	En 2005, la mairie a construit sur le site un hangar et une zone de stockage.		
+1997	11	25		1997	11	25		Un_contrôle_semestriel_de_la_qualité_des_eaux_souterraines	Un contrôle semestriel de la qualité des eaux souterraines en aval du site est prescrit par arrêté préfectoral du 25 novembre 1997.		
+2002				2002				a_été_fait	Un porter à connaissance du maire de Bourges a également été fait, afin que des servitudes d'usage soient inscrites au plan local d'urbanisme (PLU) de la commune au niveau du périmètre de confinement, ce qui a été fait en 2002.		
+2010	06	10		2010	06	10		Après_une_visite	Après une visite du site le 10 juin 2010, l'agent à recommandé dans son rapport d'entretenir et réhabilité les piézomètres, ainsi que l'entretient du terrain par la fauches des herbes et des graminée pour des raisons de sécurité incendie.		
+1999	09			1999	09			est_foré	Un piézomètre est foré en septembre 1999.		
+1996	10			1996	10			un_diagnostic	En octobre 1996, dans le cadre d'un projet de revente du terrain en lotissement industriel, un diagnostic du site a été réalisé et complété en janvier 1997 par une campagne d'analyses des sols.		
+1997	01			1997	01			complété	En octobre 1996, dans le cadre d'un projet de revente du terrain en lotissement industriel, un diagnostic du site a été réalisé et complété en janvier 1997 par une campagne d'analyses des sols.		
+2001				2006				Le_suivi	Le suivi de la qualité des eaux souterraines entre 2001 et 2006 a montré des teneurs en cuivre, en mercure et en plomb inférieures aux valeurs de référence.	'cuivre', 'mercure', 'plomb'	
+1997	11			1997	11			est_déterminé	En novembre 1997, un périmètre de confinement des terres polluées est déterminé.		
+2006				2006				il_a_été_décidé	Depuis 2006, il a été décidé d'instaurer une surveillance semestrielle des eaux souterraines.		
+1997	04			1997	04			des_investigations_complémentaires	A la demande de l'administration, des investigations complémentaires ont été menées en avril 1997 pour caractériser la nappe coulant à l'aplomb du site et évaluer les possibilités de transfert des polluants.	'des polluants'	

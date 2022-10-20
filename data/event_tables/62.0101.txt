@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1880				1955				a_accueilli	Il a accueilli de 1880 à 1955 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1958				1958				la_neutralisation	Ces diagnostics effectués par un bureau d'études à la demande de Gaz de France, ont mis en évidence trois cuves à goudron dont la neutralisation a été effectuée en 1958, et des zones faiblement contaminées qui devront être prises en compte dans le cadre d'un éventuel réaménagement du site.	'goudron'	'Gaz de France'
+								ont_été_démantelées	Lea installations de l'usine ont été démantelées dans les années 50 et 60.		

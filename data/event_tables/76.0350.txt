@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015	10	07		Les_travaux	Les travaux au droit de la zone 2 (ancienne zone de traitement) se sont déroulés du 7 septembre au 7 octobre 2015.		
+								abrite	Depuis les années 30, le site abrite une activité de scierie.		
+								une_activité_de_scierie	Depuis les années 30, le site abrite une activité de scierie.		
+								Les_travaux	Les travaux au droit de la zone 1 (parcelle AI 212, ancien réservoir de fioul) ont eu lieu les 20 et 21 juillet 2015.	'fioul'	
+2015	07	21		2015	07	21		Les_travaux	Les travaux au droit de la zone 1 (parcelle AI 212, ancien réservoir de fioul) ont eu lieu les 20 et 21 juillet 2015.	'fioul'	
+2012	02			2012	02			Un_diagnostic	Un diagnostic de l'état des milieux a été réalisé sur le site en février 2012, et a mis en évidence la présence de zones impactées par des pesticides (chlorophénols, pesticides organochlorés et organoazotés), des hydrocarbures et du naphtalène dans les sols, et des composés semi-volatils dans l'air du sol.	'des pesticides', 'chlorophénols', 'pesticides organochlorés', 'organoazotés', 'hydrocarbures', 'du naphtalène', 'des composés semi-volatils'	
+2013	04			2013	04			a_été_établi	Un plan de gestion a été établi en février - avril 2013 dans le cadre d'un projet industriel/tertiaire.		
+2013	06	26		2013	06	26		bénéficie_d_	Le site n'est plus en activité, et l'exploitant bénéficie d'un récépissé de cessation d'activités, en date du 26/06/2013.		
+								a_été_établi	Un plan de gestion a été établi en février - avril 2013 dans le cadre d'un projet industriel/tertiaire.		

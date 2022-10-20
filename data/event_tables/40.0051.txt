@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	21		2003	07	21		un_incendie_a_détruit	Lors d’une opération d’enlèvement de matériel, effectuée le 21 juillet 2003, un incendie a détruit l’atelier de sciage et les machines restantes.		
+2016	03	30		2016	03	30		la_déclaration	Le 30 mars 2016, la déclaration de fin d'activité est actée officiellement par la DREAL.		'la DREAL'
+2002				2002				avait_décidé	En 2002, avec l'arrêt des activités et la liquidation de la SARL MIRAMBET, ce dernier avait décidé de revendre le matériel de sciage.		'la SARL MIRAMBET'
+2011	01			2011	01			a_été_transmis	Le rapport de cessation d'activité a été transmis en janvier 2011.		
+2010				2010				L__inspection_du	L'inspection du 16 févier 2010 et le suivi des actions de l'exploitant en réponse aux observations de l'inspecteur ont montré que l'exploitant avait procédé à :		
+								L__inspection_du	L'inspection du 16 févier 2010 et le suivi des actions de l'exploitant en réponse aux observations de l'inspecteur ont montré que l'exploitant avait procédé à :		
+2009	06	17		2009	06	17		a_été_rendu	L'ESR a été rendu le 17 juin 2009.		"L' ESR"
+2010	10	29		2010	10	29		ont_été_enlevées	Les terres souillées ont été enlevées le 29 octobre 2010.		
+2000				2000				du_décès	Lors du décès de Jean Pierre MIRAMBET en 2000, la gérance a été poursuivie par son fils Philippe.		'Jean Pierre MIRAMBET'
+2010	02	16		2010	02	16		l__inspection	La réalisation de ces mesures a été constatée pendant l'inspection du 16 février 2010 et par la suite (voir 2 - MISE EN SÉCURITÉ et 3 - TRAVAUX).		'SÉCURITÉ', 'TRAVAUX'
+2010	09	10		2010	09	10		déclare	Le 10 septembre 2010, Philippe MIRAMBET déclare que l'excavation des terres souillées par les hydrocarbures a été réalisée.	'hydrocarbures'	'Philippe MIRAMBET'
+1993	02	01		1993	02	01		était_autorisée	Cette installation était autorisée par l'arrêté préfectoral du 7 mai 1980, complété par l'arrêté préfectoral du 1 février 1993.		
+2007	09	28		2007	09	28		a_constaté	Dans le cadre du programme annuel d’inspection de la DRIRE AQUITAINE, le 28 septembre 2007, l'inspecteur a constaté sur le site et en la présence de Philippe MIRAMBET :		'la DRIRE AQUITAINE', 'Philippe MIRAMBET'
+2003	07	21		2003	07	21		une_opération	Lors d’une opération d’enlèvement de matériel, effectuée le 21 juillet 2003, un incendie a détruit l’atelier de sciage et les machines restantes.		
+2003	04	02		2003	04	02		les_investigations_concernant	- que les investigations concernant l’état du sol et de la nappe, demandées par arrêté préfectoral du 2 avril 2003, n’avaient pas été lancées.		
+2000				2000				a_été_poursuivie	Lors du décès de Jean Pierre MIRAMBET en 2000, la gérance a été poursuivie par son fils Philippe.		'Jean Pierre MIRAMBET'
+2010	12	30		2010	12	30		a_été_transmis	Le dossier de fin d'activité a été transmis à la DREAL par Jean-Pierre Mirambet le 30 décembre 2010.		'la DREAL', 'Jean-Pierre Mirambet'

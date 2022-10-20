@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11	21		2000	11	21		Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols phase A: 21/11/2000.		
+2006	05	29		2006	05	29		Investigations_de_terrains	- Investigations de terrains faisant suite au plan d’échantillonnage de décembre 2005, à la date du 29/05/2006.		
+2006	05	29		2006	05	29		plan_d__échantillonnage	- Investigations de terrains faisant suite au plan d’échantillonnage de décembre 2005, à la date du 29/05/2006.		
+2005	12			2005	12			plan_d__échantillonnage	- Investigations de terrains faisant suite au plan d’échantillonnage de décembre 2005, à la date du 29/05/2006.		
+2015	12	31		2015	12	31		imposée	- Fermeture réglementaire imposée pour le 31/12/2015 avec un fonctionnement limité à 20 000 heures.		
+1970				1970				exploitée	- Activité: centrale thermique exploitée depuis 1970, autorisée par Arrêté Préfectoral du 04/11/2008.		
+2000				2000				installation_de	- En 2000, installation de 4 piézomètres (contrôles 3/ans).		
+2006	04			2006	04			évaluation_simplifiée_des_risques	- Étude de sols phase B et évaluation simplifiée des risques remis en avril 2006, révèle une pollution des sols et des eaux souterraines.		

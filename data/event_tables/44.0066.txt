@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	11	07		2013	11	07		La_déclaration	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 7 novembre 2013, la date de cessation totale des activités ayant été fixée au mois de janvier 2014.		
+2014	01			2014	01			a_été_effectuée	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 7 novembre 2013, la date de cessation totale des activités ayant été fixée au mois de janvier 2014.		
+1985				1985				a_été_construite	La station de criblage de charbon a été construite en 1985 sur ces terrains.	'charbon'	
+2014	02	28		2014	02	28		La_visite_réalisée	La visite réalisée le 28 février 2014, a permis de valider la mise en œuvre des derniers engagements de l’exploitant vis-à vis de l’inspection.		
+2014	01			2014	01			La_déclaration	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 7 novembre 2013, la date de cessation totale des activités ayant été fixée au mois de janvier 2014.		

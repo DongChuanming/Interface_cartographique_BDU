@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	03		2011	11	03		a_été_rejetée	Cet arrêté a fait l'objet d'une demande d'annulation au Tribunal Administratif de Rouen le 14 septembre 2009 qui a été rejetée le 3 novembre 2011.		'Tribunal Administratif de Rouen'
+1967	01	10		1967	01	10		a_été_autorisée_par	La société des Carrières et Sablières Herouard a été autorisée par l'arrêté préfectoral du 10/01/1967.		'La société des Carrières'
+1996				2000				ont_été_effectuées	En terme de suivi de la décharge, une surveillance semestrielle des eaux souterraines a été imposée en particulier par l'article 5 de l'arrêté préfectoral du 10/01/1996 et des analyses ont été effectuées, notamment de 1996 à 2000.		
+1948				1985				a_été_exercée	De 1948 à 1985 a été exercée sur le terrain de M.		
+1993	09	01		1993	09	01		L__apport_des_déchets_à_été_arrêté	L'apport des déchets à été arrêté le 01/09/1993.		
+1967				1967				un_comblement	La fouille a fait l'objet d'un comblement à partir de 1967, par des matières diverses (déchets industriels banals et ordures ménagères).		
+2003	05			2003	05			ont_été_effectuées	En mai 2003, des analyses complémentaires ont été effectuées par l'exploitant à la demande de l'inspection, suite à une inquiétude exprimée par une association sur un excès de leucémie sur la région de Gaillon (incluant la commune de Saint-Pierre la Garenne).		
+2008	04	07		2008	04	07		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 07/04/2008.		
+2009	07	17		2009	07	17		a_été_pris	Le 17 juillet 2009, un arrêté préfectoral complémentaire relatif à la réhabilitation et au suivi de la décharge a été pris.		
+1996				2000				a_été_imposée_en	En terme de suivi de la décharge, une surveillance semestrielle des eaux souterraines a été imposée en particulier par l'article 5 de l'arrêté préfectoral du 10/01/1996 et des analyses ont été effectuées, notamment de 1996 à 2000.		
+2013	05	07		2013	05	07		ont_été_contrôlées	Les dispositions de cet arrêté ont été contrôlées le 7 mai 2013.		

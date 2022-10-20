@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	13		2010	12	13		Un_audit_environnemental	Un audit environnemental ainsi qu'un diagnostic des sols ont été transmis à l'administration le 13/12/2010.		
+1981				1981				est_spécialisé	Elle est spécialisé depuis 1981 dans la fabrication d'outillages diamantés de polissage, dressage et meules (usinage des pièces et traitement de surface).		
+2012	01	05		2012	01	05		a_été_remis	Un rapport d'investigations complémentaires des sols a été remis le 05/01/2012 à l'administration.		
+2010	10	13		2010	10	13		ont_été_prises	Des sanctions administratives ont été prises à l'encontre de la société DIAMIX le 13/10/2010.		'la société DIAMIX'

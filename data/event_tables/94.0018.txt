@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10			2003	10			a_été_réalisé	Un plan de réhabilitation a été réalisé en octobre 2003.		
+2003	01			2003	01			une_EDR	SHELL a transmis un diagnostic approfondi datée de décembre 2002 et une EDR (Étude Détaillée des Risques) de janvier 2003.		'SHELL'
+2004	04			2005	03			des_travaux_d__excavation	Entre avril 2004 et mars 2005 des travaux d'excavation ont été réalisés afin d'abaisser les teneurs en hydrocarbures totaux dans les terres.	'hydrocarbures totaux'	
+2003	11	17		2003	11	17		a_poursuivi_les_analyses	Conformément à la condition 30 de l’arrêté préfectoral du 17 novembre 2003, la Société des Pétroles SHELL a poursuivi les analyses sur les eaux souterraines de son ancien dépôt pétrolier à l’issue des travaux de réaménagement du site.		'la Société des Pétroles SHELL'
+2002	12			2002	12			un_diagnostic_approfondi	SHELL a transmis un diagnostic approfondi datée de décembre 2002 et une EDR (Étude Détaillée des Risques) de janvier 2003.		'SHELL'
+2002	03			2002	03			un_arrêt_définitif_de	La SOCIETE DES PETROLES SHELL qui exploitait un dépôt pétrolier, sur un terrain de 31 650 m², situé en bord de Seine à Choisy-le-Roi, a transmis une déclaration de cessation d'activité le 04/07/2001 pour un arrêt définitif de l'activité du site en mars 2002.		'La SOCIETE DES PETROLES SHELL'
+2002	02	28		2002	02	28		Les_travaux_de_démantèlement	Les travaux de démantèlement ont débuté le 28/02/2002.		
+2001	07	04		2001	07	04		une_déclaration	La SOCIETE DES PETROLES SHELL qui exploitait un dépôt pétrolier, sur un terrain de 31 650 m², situé en bord de Seine à Choisy-le-Roi, a transmis une déclaration de cessation d'activité le 04/07/2001 pour un arrêt définitif de l'activité du site en mars 2002.		'La SOCIETE DES PETROLES SHELL'
+1999				1999				un_diagnostic_initial	Le terrain a fait l'objet d'un diagnostic initial et d'une ESR (Étude Simplifiée des Risques) en 1999 ayant conclu à la notation du site en classe 2 pour les eaux souterraines.		
+2003	09			2003	09			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en septembre 2003 avec le traitement des BTEX au moyen d'une extraction double phase comprenant 62 puits d'extraction.	'BTEX'	
+2014	08			2014	08			Les_2_campagnes_de_mesures	Les 2 campagnes de mesures ont été réalisées en août 2014 et mai 2015.		
+2015	05			2015	05			Les_2_campagnes_de_mesures	Les 2 campagnes de mesures ont été réalisées en août 2014 et mai 2015.		
+2007				2007				de_nouvelles_investigations	En 2007, du fait d’un accès à cette zone rendu possible, de nouvelles investigations (7 sondages) ont été réalisées sous l’emprise de la future école maternelle, au droit de la partie non terrassée lors des travaux de dépollution ; il a été mis en évidence la présence d’un point impacté par des HCT et des BTEX à des concentrations supérieures aux seuils définies dans l’ERS (Étude des risques sanitaires), entre 2 et 3 mètres de profondeur.	'des HCT', 'des BTEX'	
+2007	10			2007	10			Les_analyses_transmises	Les analyses transmises datant d'octobre 2007 ont montré que les teneurs en polluants étaient toutes inférieures aux limites de quantification, pour tous les piézomètres.		
+2004	09			2004	09			a_également_été_fournie	Une EDR eau a également été fournie en septembre 2004.		
+2003	07	25		2003	07	25		a_été_imposée	La surveillance de la nappe a été imposée l'arrêté préfectoral du 25/07/2003.		

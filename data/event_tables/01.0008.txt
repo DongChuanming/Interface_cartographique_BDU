@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_intervenu	Le rapport final de la société spécialisée qui est intervenu daté du 30/01/97 a mis en évidence que les concentrations en solvant dans les sols répondaient aux exigences des objectifs de qualité definies par arrêté préfectoral du 14/06/96.		
+1996	04	22		1996	04	22		Une_pollution	Une pollution du sous-sol, par un déversement accidentel de 7 000 litres de solvant souillés a eu lieu le 22 avril 1996.	'solvant souillés'	
+1993				1993				est_implantée	Cette société est implantée sur le parc industriel de la plaine de l'Ain depuis 1993.		

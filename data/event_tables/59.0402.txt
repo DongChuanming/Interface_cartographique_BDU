@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	12		2003	02	12		La_réduction	La réduction de l'activité a conduit à la délivrance d'un nouvel arrêté préfectoral d'autorisation en date du 12 février 2003.		
+1999				1999				a_été_à_l__origine	Jusqu'en 1999 le site a été à l'origine de rejets notables de plomb (538 kg en 1996 d'après le recensement annuel de la DRIRE).	'plomb'	'la DRIRE'
+1999				1999				Des_études_menées	Des études menées sur le site à partir de 1999 ont montré la  necessité d'une surveillance des eaux souterraines.		
+2003	08			2003	08			est_parvenu	Le dossier d'enquête publique sur la mise en place de servitudes est parvenu à la DRIRE en août 2003; il a fait l'objet d'un rapport en cdh sur la proposition de servitude.		'la DRIRE'
+								La_visite_d__inspection	La visite d'inspection du 29/06/04 a permis de constater la bonne réalisation des travaux visant à une meilleure gestion des eaux et la modification du process pour rendre compatibles les rejets liquides avec l'objectif de qualité de l'Escaut (en particulier, au niveau des sulfates) et éviter les inondations de la cour (qui conduisent à une dégradation de la qualité des eaux rejetées).	'sulfates'	
+				2003	05	28		ont_été_imposées	Des restrictions d'usage de certaines parcelles environnantes du site ont été imposées par voie d'arrêrté préfectoral du 27/05/04 suite à une procédure d'enquête publique qui s'est déroulée du 28 avril au 28 mai 2003.		
+2001	03			2001	03			Cette_étude_a_été_remise	Cette étude a été remise en mars 2001.		
+1999				1999				a_arrêté	METALEUROP devenu RECYLEX en 2007 a arrêté en 1999 cette activité.		'METALEUROP devenu RECYLEX'
+1996				1996				investigations	Une action regroupant plusieurs services de l'état a débuté et suite à l'analyse des courbes d'isoconcentrations modélisées à partir d'une analyse des sols datant de 1996, une sélection de parcelles présentant des risques a fait l'objet  d'investigations.		
+				2003	05	28		une_procédure_d__enquête_publique	Des restrictions d'usage de certaines parcelles environnantes du site ont été imposées par voie d'arrêrté préfectoral du 27/05/04 suite à une procédure d'enquête publique qui s'est déroulée du 28 avril au 28 mai 2003.		
+2006	09	29		2006	09	29		Une_campagne_de_prélèvement	Une campagne de prélèvement d'échantillons de sol a eu lieu le 29/09/2006, révélant une pollution au plomb des sols du site et au alentour.	'plomb'	
+1881				1999				a_exploité	METALEUROP a exploité entre 1881 et 1999 une unité de réduction, d'affinage et de lingotage de zinc sur le site d'Escaudoeuvres.		'METALEUROP'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				Les_travaux_se_sont_terminés	Les travaux se sont terminés en 1972.		
+1973				1973				est_entré_en_activité	Le site est entré en activité en 1973 (travail des métaux et traitement de surface).		
+1975				1975				a_été_construit	Un troisième bâtiment a été construit en 1975.		
+2007				2007				est_à_l__arrêt	Le site est à l'arrêt depusi l'été 2007.		
+1965				1965				a_été_racheté	En 1965, le site a été racheté et les ateliers ont été rénovés.		
+1965				1965				a_accueilli	Le site de la société Ateliers Siccardi a accueilli avant 1965 des installations de forges et de fonderies.		'la société Ateliers Siccardi'
+1975				1986				a_été_exploitée	Entre 1975 et 1986, une décharge a été exploitée à l'ouest de l'atelier C (construit en 1975).		
+1975				1975				construit	Entre 1975 et 1986, une décharge a été exploitée à l'ouest de l'atelier C (construit en 1975).		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_implantée	La société Chaussures LABELLE est implantée sur le site depuis les années 1850.		'La société Chaussures LABELLE'
+2007	03	05		2007	03	05		la_prise_d_	Ainsi, une visite d'inspection réalisée le 26 janvier 2006 a abouti à la prise d'un arrêté préfectoral de mise en demeure le 5 mars 2007 afin de faire respecter les dispositions réglementaires du code de l'environnement relatives à la cessation d'activité.		
+2006	01	26		2006	01	26		une_visite_d_	Ainsi, une visite d'inspection réalisée le 26 janvier 2006 a abouti à la prise d'un arrêté préfectoral de mise en demeure le 5 mars 2007 afin de faire respecter les dispositions réglementaires du code de l'environnement relatives à la cessation d'activité.		

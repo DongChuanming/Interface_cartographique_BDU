@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	15		2004	09	15		un_nouvel_arrêté	Cette situation, augmentée de lacunes manifestes dans le bilan des émissions de COV et des incertitudes pesant sur les mesures de réduction retenues a conduit à un nouvel arrêté complémentaire, du 15 septembre 2004 prescrivant notamment :	'COV'	
+2005	07	13		2005	07	13		un_dispositif_de_dépollution	Par arrêté préfectoral du 13 juillet 2005, un dispositif de dépollution et de traitement global de la nappe a été imposé à l'exploitant ainsi que la réalisation d'études complémentaires spécifiques à la résorption de pollutions résiduelles des terres de certains secteurs du site.		
+2006	03			2006	03			Le_dispositif_de_dépollution	Le dispositif de dépollution la nappe comprenant 3 puits de pompage à l'extérieur du site et des puits de pompage en aval immédiat du site,  est en place depuis fin mars 2006.		
+2007	05			2007	05			réalisée	L'arrêté du 11 janvier 2007 a demandé le test de traitements à la source et le renforcement de la barrière hydraulique à l'aval du site (réalisée en mai 2007).		
+2003	11	18		2003	11	18		a_été_remise	cette étude a été remise en préfecture le 18/11/2003.		
+2007	05			2007	05			a_demandé_le_test_de	L'arrêté du 11 janvier 2007 a demandé le test de traitements à la source et le renforcement de la barrière hydraulique à l'aval du site (réalisée en mai 2007).		
+1993				1993				Les_études_environnementales	Les études environnementales réalisées depuis 1993 mettent en évidence une pollution des sols et des eaux souterraines au droit du site PPC, notamment dans le secteur des ateliers bromés organiques.		'PPC'
+1993				1995				Des_travaux_de_réfection_des_sols	Des travaux de réfection des sols et des égouts ont été réalisés entre 1993 et 1995.		
+2004	02			2004	02			la_campagne_de_mesures	Concernant ce dernier point, la campagne de mesures a été effectuée en février 2004 et renouvelée à l’été.		

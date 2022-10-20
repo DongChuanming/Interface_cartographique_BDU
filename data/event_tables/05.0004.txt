@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				va_s__arrêter	* Cette activité de traitement de surface va s'arrêter fin 2006 et l'exploitant à entrepris la procédure de cessation d'activité.		
+2001				2001				à_partir_de	Celle -ci a été réduite à partir de fin 2001 et l'activité est recentrée sur la fabrication des antennes paraboliques.		
+2006				2006				na_s__arrêter	'activité de traitement de surface na s'arrêter fin 2006.		
+2007				2007				es_cuves_nettoyées	es cuves nettoyées vont être démontée dans le deuxiéme semestre 2007.		
+2001				2001				s__est_réduite	*  L'activité de traitement de surface s'est réduite à  fin 2001, sous une durée d'une semaine par mois ; l'essentiel de l'activité est recentrée sur la fabrication des antennes paraboliques.		

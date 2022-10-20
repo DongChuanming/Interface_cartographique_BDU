@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			_Un_Diagnostic_Approfondi	-Un Diagnostic Approfondi a été réalisé (Décembre 2001).		
+1999	10			1999	10			_Des_campagnes_d__investigation_de_terrain	-Des campagnes d'investigation de terrain ont été menées en octobre 1999:		
+2003	01	24		2003	01	24		_EDR_réalisée	-EDR réalisée le 24/01/2003 et remise à l'administration.		
+1989	02			1989	02			fermé	- Ancien dépôt d'hydrocarbures fermé en février 1989, exploité par une société qui a disparu (liquidation judiciaire).	'hydrocarbures'	
+1999	05			1999	05			_Une_étude_historique_a_été_remise	-Une étude historique a été remise en Mai 1999.		

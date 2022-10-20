@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2010				a_été_réalisée	Aucune investigation n'a été réalisée ultérieurement, alors que le site a été exploité jusqu'en 2010.		
+2014	12			2014	12			__a_arrêté	Le dernier exploitant, la société "Les ateliers de Badan"  a arrêté ses activités industrielles fin 2010 et a été liquidé en décembre 2014.		'la société " Les ateliers de Badan'
+2010				2010				__a_arrêté	Le dernier exploitant, la société "Les ateliers de Badan"  a arrêté ses activités industrielles fin 2010 et a été liquidé en décembre 2014.		'la société " Les ateliers de Badan'
+2004	06	22		2004	06	22		a_été_pris	À la suite de ces investigations, un arrêté complémentaire a été pris le 22/06/2004, pour poursuivre la surveillance de la qualité des eaux souterraines pendant 3 ans.		
+1944				1944				est_remis_en_état	Bombardé en 1944, le site est remis en état (rotonde reconstruite en 1945) puis exploité par la SNCF jusqu’en 1972, les activités de triage étant alors transférées à la gare de Sibelin.		
+1998	08	12		1998	08	12		Une_étude_globale_de_la_situation_environnementale	Une étude globale de la situation environnementale du site a été demandée par arrêté préfectoral du 12/08/1998.		
+1881				1881				la_mise_en_service	Le site ferroviaire de Grigny date de la fin du XIXe siècle, avec la mise en service en 1881 de la « rotonde de Grigny » par  la compagnie des chemins de fer de Paris à Lyon et à la Méditerranée.		'par   la compagnie des chemins de fer de Paris'
+2014	12			2014	12			et_a_été_liquidé	Le dernier exploitant, la société "Les ateliers de Badan"  a arrêté ses activités industrielles fin 2010 et a été liquidé en décembre 2014.		'la société " Les ateliers de Badan'
+2000				2004				ont_été_transmis	En réponse à cette demande, plusieurs rapports ont été transmis à l’inspection par l’exploitant et le propriétaire du site (SIDEP à l’époque) entre 2000 et 2004.		'SIDEP'

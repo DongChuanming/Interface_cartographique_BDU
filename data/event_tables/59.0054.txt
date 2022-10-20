@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				____travaux_de_déconstruction_des_bâtiments	-2002 : travaux de déconstruction des bâtiments contenant de fortes teneurs en sulfate de chrome VI	'en sulfate de chrome VI'	
+2004	04	20		2004	04	20		____réalisation_d__un_diagnostic_approfondi	-20 avril 2004 : réalisation d'un diagnostic approfondi de la friche DAMETA à Villers-Sire-Nicole et investigations complémentaires, modélisation et évaluation simplifiée des risques		'la friche DAMETA'
+1993				1993				____étude_de_sols_initiale	-1993 : étude de sols initiale sous maîtrise d'ouvrage de l'EPF		"l' EPF"
+2007	06	29		2007	06	29		_	-29 juin 2007 : proposition AMREF de traitement environnemental du site, proposition de couverture → cahier des charges		'proposition AMREF'
+2005	06	08		2005	06	08		____mise_en_sécurité	-8 juin 2005 : mise en sécurité du site :nettoyage, reconnaissances, condamnation d'un puits, neutralisation de fosse, dépollution des sols, élimination de déchets.		

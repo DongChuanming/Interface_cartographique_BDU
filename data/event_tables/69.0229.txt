@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	06	05		2019	06	05		a_été_prise_le	Cette SUP a été prise le 5 juin 2019.		
+2013	05	06		2013	05	06		a_été_transmis	Un mémoire de cessation d’activité a été transmis le 6 mai 2013 et complété le 23 septembre 2013.		
+2011	08	26		2011	08	26		a_imposé	Par arrêté préfectoral du 26 août 2011, le préfet du Rhône a imposé à l'exploitant :		'le préfet du Rhône'
+2013	04	16		2013	04	16		a_déclaré_la_cessation_d__activité	L’exploitant a déclaré la cessation d’activité du site le 16 avril 2013 et a transmis par la suite un  mémoire de cessation et un plan de gestion des pollutions courant 2013.		
+2013	09	23		2013	09	23		complété	Un mémoire de cessation d’activité a été transmis le 6 mai 2013 et complété le 23 septembre 2013.		
+2000				2000				un_diagnostic	En 2000, dans le cadre de la réfection de la dalle béton de l'ancienne zone de régénération du pyralène, un diagnostic a été réalisé (15 prélèvements) et a mis en évidence une pollution de la dalle béton par des PCB (1 747 mg/kg en valeur max) et des HCT (60 000 mg/kg en valeur max).	'pyralène', 'des PCB', 'des HCT'	
+2013	07	16		2013	07	16		complété_le	Un plan de gestion a également été transmis le 6 mai 2013 et complété le 16 juillet 2013.		
+2002	06			2002	06			un_diagnostic_de_sol_approfondi	En juin 2002, un diagnostic de sol approfondi, ainsi qu'une EDR (Étude Détaillée des Risques) ont été réalisés.		
+1960				2013				a_exploité	La société Daffos & Baudassé a exploité de 1960 à 2013 une installation de retraitement d’huiles usagées (contenant des PCB) au 61 rue Decomberousse à Villeurbanne.	'PCB'	'La société Daffos'
+2013	04	16		2013	04	16		la_cessation_d__activité_par_courrier	L’exploitant a informé le préfet du Rhône la cessation d’activité par courrier du 16 avril 2013 (récépissé du 23 avril 2013).		'le préfet du Rhône'
+2013	09	23		2013	09	23		a_été_transmis	Un mémoire de cessation d’activité a été transmis le 6 mai 2013 et complété le 23 septembre 2013.		
+2013	04	23		2013	04	23		la_cessation_d__activité_par_courrier	L’exploitant a informé le préfet du Rhône la cessation d’activité par courrier du 16 avril 2013 (récépissé du 23 avril 2013).		'le préfet du Rhône'
+2013	07	16		2013	07	16		a_également_été_transmis	Un plan de gestion a également été transmis le 6 mai 2013 et complété le 16 juillet 2013.		
+2013	05	06		2013	05	06		a_également_été_transmis	Un plan de gestion a également été transmis le 6 mai 2013 et complété le 16 juillet 2013.		
+2013				2013				a_déclaré_la_cessation_d__activité	L’exploitant a déclaré la cessation d’activité du site le 16 avril 2013 et a transmis par la suite un  mémoire de cessation et un plan de gestion des pollutions courant 2013.		
+2016	08	26		2016	08	26		a_proposé	Dans son rapport du 26 août 2016, l’Inspection des installations classées a proposé au préfet du Rhône d’acter la cessation d’activité du site et proposait un projet de servitude d’utilité publique dans l’optique de procéder aux consultations prévues à l’article L.515-12 du code de l’environnement.		
+2014	01	27		2014	01	27		a_encadré_les_mesures_de_réhabilitation	Le Préfet du Rhône a encadré les mesures de réhabilitation du site par un arrêté préfectoral du 27 janvier 2014.		'Le Préfet du Rhône'

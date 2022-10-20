@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			une_investigation	Dans le cadre d'un projet de construction légère de la Direction des Transports GDF, Gaz de France a réalisé une investigation dans la zone des fondations futures en juin 2002.		'la Direction des Transports GDF', 'Gaz de France'
+1892				1892				La_construction_de_l__usine	La construction de l'usine fabricant du gaz à partir de la distillation de la houille remonte à 1892.		
+2001				2001				Leur_recherche_faite	Leur recherche faite sur le site en 2001 a permis de découvrir une grande cuve compartimentée en 4 éléments dont 3 contenaient des goudrons.	'goudrons'	
+2002				2002				Les_travaux_de_vidange	Les travaux de vidange ont été faits en 2002. 81 tonnes de goudrons et gravats souillés on été extraits et éliminés en centres agréés.		
+2000				2000				l__étude_historique	Conformément aux engagements du protocole, l'étude historique a été réalisée en 2000.		
+1962				1980				ont_été_démantelées	Les installations de l'usine ont été démantelées entre 1962 et 1980.		

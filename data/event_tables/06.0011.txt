@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1947				1947				exploitée	La société Aluchrome a repris en 1983 l'activité de traitement de surface anciennement exploitée par la société SAMP depuis 1947.		'La société Aluchrome', 'la société SAMP'
+1983				1983				a_repris	La société Aluchrome a repris en 1983 l'activité de traitement de surface anciennement exploitée par la société SAMP depuis 1947.		'La société Aluchrome', 'la société SAMP'
+1997	05	05		1997	05	05		une_procédure_administrative	Le site a fait l'objet d'une procédure administrative de régularisation complète, aboutissant à l'arrêté d'exploitation actuel (5 mai 1997).		
+2002				2002				la_mise_en_place_d__un_suivi_piézométrique	Dès à présent, l'étude remise recommande la mise en place d'un suivi piézométrique qui en place depuis fin 2002 (mesures semestrielles - 2 puits) et porte sur les métaux lourds.  Pas d'anomalies constatées dans les eaux souterraines en date du 23/06/2009.	'métaux lourds'	
+2002				2002				en_place	Dès à présent, l'étude remise recommande la mise en place d'un suivi piézométrique qui en place depuis fin 2002 (mesures semestrielles - 2 puits) et porte sur les métaux lourds.  Pas d'anomalies constatées dans les eaux souterraines en date du 23/06/2009.	'métaux lourds'	
+1997	05	05		1997	05	05		a_fait_l__objet_d_	L'établissement a fait l'objet d'une régularisation par arrêté préfectoral en date du 5 mai 1997.		
+2001	05	28		2001	05	28		ont_été_remises	Après Arrêté Préfectoral de mise en demeure du 28 mai 2001, les phase A et B de l'ESR ont été remises : le site est en classe 2.		"l' ESR"
+1999	04	26		1999	04	26		a_été_soumis	Ce site a été soumis à ESR du fait  de son activité (traitement de surface) par l'APC du 26/04/1999.		

@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	10	27		2015	10	27		a_été_remis	Le 27 octobre 2015 a été remis le rapport portant sur l'IEM et le Plan de Gestion		
+2018	09	30		2018	09	30		de_transmettre	Par courrier du 19 juillet 2018, l'Inspection des Installations Classées demande à l'exploitant de transmettre, avant le 30 septembre 2018, un plan de gestion avec deux propositions de dépollution des terrains hors site pollués au plomb :	'plomb'	
+2017	09	21		2017	09	21		la_réalisation_des_compléments	Au vu des résultats, l'Inspection des Installations Classées a demandé à l'exploitant par courrier datant du 21 septembre 2017, la réalisation des compléments suivants :		
+2006				2006				La_construction	La construction date de 2006.		
+								Les_boues_ont_été_collectées	Les boues ont été collectées le 14/12/11 et acheminées vers un centre de traitement agréé adapté le 15/12/11.		
+2014	04	03		2014	04	03		les_boues_de_décantation	Au 03/04/2014, les boues de décantation de la lagune de décantation des eaux ont été curées et les deux liners ont été découpés.	'la lagune de décantation'	
+2011	10	14		2011	10	14		le_mémoire_de_cessation_d__activité	Le 14/10/2011, l’exploitant transmet le mémoire de cessation d’activité.		
+2019				2019				Les_travaux_devraient_être_finalisés	Les travaux devraient être finalisés d'ici fin 2019.		
+1993				1993				aurait_été_remplacé	Selon l'étude historique menée, le plomb aurait été remplacé en 1993 par de l’étain pour la fabrication des capsules.	'plomb', 'étain'	
+2016	08	31		2016	08	31		arrêté	L'arrêté du 31/08/2016 prescrit la remise d'un dossier comportant les éléments prévus à l'article L515-9 du code de l'environnement, afin d'instituer sur le site, des servitudes d'utilité publique, qui devraient être instituées courant 2020.		
+2019				2019				va_être_réalisée	Une première phase d'excavation a été réalisée et une deuxième phase va être réalisée d'ici fin 2019.		
+1991	12	20		1991	12	20		étaient_soumises_à_autorisation	Les activités ci-après étaient soumises à autorisation au titre de la réglementation des installations classées pour la protection de l’environnement et réglementées par l’arrêté préfectoral du 14 juin 1974 modifié le 20 décembre 1991.		
+2014	03	04		2014	03	04		effectuée_le	Un rapport d’inspection de la DREAL (effectuée le 4 mars 2014) demande des éléments complémentaires.		'la DREAL'
+1968				1968				exploitée	Ancienne installation de fabrication de capsules métalliques pour les bouteilles de vins et de spiritueux exploitée depuis 1968 et en dernier lieu (2000) par la société SPARFLEX au 1 Champs des Arnauds 33230 Abzac.		'la société SPARFLEX'
+1968				1968				et_en_dernier_lieu	Ancienne installation de fabrication de capsules métalliques pour les bouteilles de vins et de spiritueux exploitée depuis 1968 et en dernier lieu (2000) par la société SPARFLEX au 1 Champs des Arnauds 33230 Abzac.		'la société SPARFLEX'
+2020				2020				arrêté	L'arrêté du 31/08/2016 prescrit la remise d'un dossier comportant les éléments prévus à l'article L515-9 du code de l'environnement, afin d'instituer sur le site, des servitudes d'utilité publique, qui devraient être instituées courant 2020.		
+								adapté	Les boues ont été collectées le 14/12/11 et acheminées vers un centre de traitement agréé adapté le 15/12/11.		
+2016				2016				Cette_étude_a_été_réalisée	Cette étude a été réalisée dans le courant de l’été 2016 et a fait l’objet d’un		
+2007				2007				y_réside	- le propriétaire de la maison y réside seul depuis 2007.		
+2016	08	31		2016	08	31		L__arrêté	L'arrêté du 31 août 2016 prescrit, à l'échéance de 6 mois, les travaux d'excavation des sols du site impactés par le plomb jusqu'à une teneur de 200 mg/kg et au remblaiement de la fouille avec des matériaux naturels.	'plomb'	
+1949				1949				a_été_construite	- savoir si l’habitation a été construite ou non avant 1949 (pour les effets cumulés en plomb) ;	'plomb'	
+								L__arrêté	L'arrêté du 31 août 2016 prescrit, à l'échéance de 6 mois, les travaux d'excavation des sols du site impactés par le plomb jusqu'à une teneur de 200 mg/kg et au remblaiement de la fouille avec des matériaux naturels.	'plomb'	
+2017	02			2017	02			Des_investigations_complémentaires_ont_donc_été_réalisées	Des investigations complémentaires ont donc été réalisées en février 2017 en bordure immédiate des plus proches habitations (lotissement rue du Palet).		

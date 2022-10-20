@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	25		2001	07	25		étape_B_du_diagnostic_initial	L'étape B du diagnostic initial et l'évaluation simplifiée des risques ont été remis le 25/07/2001.		
+1999	02	15		1999	02	15		Le_diagnostic_initial_de_sols	Le diagnostic initial de sols et l'évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 15/02/1999 dans le cadre de la circulaire du 3 avril 1996.		
+2000	03	13		2000	03	13		ont_été_complétées	Les dispositions de l'arrêté d'autorisation ont été complétées par celles de l'arrêté du 13 mars 2000.		

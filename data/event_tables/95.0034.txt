@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				cessation_d__activité	Cette société, qui n'existe plus depuis au moins 1997, n'a pas déclaré sa cessation d'activité.		
+								la_découverte	Toutefois, suite à la découverte de terres noirâtres au cours de travaux d'affouillement au début des années 2000, des sondages ont été effectués.		
+								est_maintenu_dans_son_état	Il est maintenu dans son état du début des années 2000 et son accès est limité.		
+2001	01			2001	01			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques réalisée en janvier 2001 à la demande de l'OPAC de l'Oise a montré une pollution des sols par des métaux lourds (dont en certains endroits du mercure et de l'arsenic), des sulfates et des hydrocarbures.	'des métaux lourds', 'mercure', 'arsenic', 'des sulfates', 'hydrocarbures'	
+1997				1997				n__existe_plus	Cette société, qui n'existe plus depuis au moins 1997, n'a pas déclaré sa cessation d'activité.		
+2002	08	05		2002	08	05		des_prescriptions_techniques_conservatoires	Par arrêté préfectoral du 5 août 2002, des prescriptions techniques conservatoires visant à la mise en sécurité du site (clôture) et à la surveillance des eaux souterraines ont été imposées à l'OPAC de L'OISE.		
+2003				2003				sols_réalisée	Une étude de vulnérabilité et de diagnostic des sols réalisée en 2003 à la demande de l'OPAC de l'Oise précise les points suivants :		
+								des_sondages	Toutefois, suite à la découverte de terres noirâtres au cours de travaux d'affouillement au début des années 2000, des sondages ont été effectués.		

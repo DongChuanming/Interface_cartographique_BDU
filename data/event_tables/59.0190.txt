@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			a_donc_été_menée	Une étude de sols - phase B a donc été menée en juin 1999.		
+1998	09	04		1998	09	04		une_étude_historique_des_sols	En septembre 1998, conformément à l'arrêté préfectoral du 4 septembre 1998, une étude historique des sols - phase A a été réalisée sur ce site.		
+1998	09			1998	09			une_étude_historique_des_sols	En septembre 1998, conformément à l'arrêté préfectoral du 4 septembre 1998, une étude historique des sols - phase A a été réalisée sur ce site.		

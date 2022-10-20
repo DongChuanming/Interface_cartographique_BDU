@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	05			1995	05			mise_en_évidence	Pollution du sol mise en évidence en avril-mai 1995, sur initiative du propriétaire.		
+2003	11	25		2003	11	25		Le_PV_de_récolement	Le PV de récolement a été dressé le 25 novembre 2003.		
+1991				1991				arrêtée	Activité arrêtée en 1991.		
+2003				2003				Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont déroulés en 2003.		
+1999				2003				s__est_déroulé	Le suivi piézomètrique s'est déroulé de 1999 à 2003 et a maintenant cessé.		
+								a_été_pris	Un nouvel arrêté préfectoral a été pris le 01/10/02 abrogeant celui de 1996 et impose :		
+1996				1996				a_été_pris	Un nouvel arrêté préfectoral a été pris le 01/10/02 abrogeant celui de 1996 et impose :		
+								mise_en_évidence	Pollution du sol mise en évidence en avril-mai 1995, sur initiative du propriétaire.		

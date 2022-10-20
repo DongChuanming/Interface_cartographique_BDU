@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07			2012	07			a_été_placée_en_liquidation_judiciaire	En juillet 2012, la société a été placée en liquidation judiciaire.		
+1994				1994				des_investigations	En outre, des investigations ont été réalisées sur le site pour le compte de l’établissement Public Foncier Lorrain en 1994.		
+								est_présente	La verrerie-cristallerie de Portieux, créée en 1690, est présente sur le site de la commune de Portieux depuis le début des années 1700.		
+2017				2017				une_intervention	Afin de mettre en sécurité le site de la cristallerie et d'évaluer si le site a un impact environnemental en dehors de son emprise, le ministère de l'environnement a accepté, en 2017, une intervention de l'ADEME sur ce site.		
+2009	08	27		2009	08	27		est_autorisée_à_les_exercer	La société Faïence et Cristal de France est autorisée à les exercer, au titre de la législation ICPE, par arrêté préfectoral n°1319/2004 du 2 juin 2004 modifié par l’arrêté préfectoral complémentaire n° 1999/2009 du 27 août 2009.		'La société Faïence', 'Cristal de France'
+1690				1690				créée	La verrerie-cristallerie de Portieux, créée en 1690, est présente sur le site de la commune de Portieux depuis le début des années 1700.		

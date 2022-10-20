@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_été_liquidé	La société a été liquidé le 15 mai 2007 et ses installations de production ont été démantelées en 2008.		
+1974				1974				a_débuté	L'activité du site ISP a débuté en 1974.		
+2010	02	16		2010	02	16		a_transmis	Suite à la demande de l'inspection des installations classées par courrier du 2 avril 2009, le liquidateur judiciaire de la société ISP a transmis un mémoire de cessation d'activité le 16 février 2010, complété le 9 septembre 2010, par le schéma conceptuel.		'la société ISP'
+1989				1989				procédait_à	Jusqu'en 1989, il procédait à la fabrication de mousses, notamment polyuréthanes issues de la polymérisation de polyols et d'isocyanates.	'mousses', 'notamment polyuréthanes', 'polyols', 'isocyanates'	
+2006	10	03		2006	10	03		à_été_mis_en_redressement_judiciaire	Le 3 octobre 2006, la société INTERNATIONALE DU SIEGE PELLETEY possédant l'établissement d'Evron à été mis en redressement judiciaire.		'la société INTERNATIONALE DU SIEGE PELLETEY'
+2009	04	02		2009	04	02		a_transmis	Suite à la demande de l'inspection des installations classées par courrier du 2 avril 2009, le liquidateur judiciaire de la société ISP a transmis un mémoire de cessation d'activité le 16 février 2010, complété le 9 septembre 2010, par le schéma conceptuel.		'la société ISP'
+1978	07	31		1978	07	31		déclaration	La société bénéficiait également d'un récépissé de déclaration du 31 juillet 1978 pour ses installations de combustion et de fabrication de matières plastiques.		
+1978	07	31		1978	07	31		exploitait	La société exploitait en particulier une activité d'emploi de liquides inflammables soumise à autorisation et réglementée par l'arrêté préfectoral du 31 juillet 1978.	'liquides inflammables'	
+1989				1989				la_fabrication_de_mousses	Jusqu'en 1989, il procédait à la fabrication de mousses, notamment polyuréthanes issues de la polymérisation de polyols et d'isocyanates.	'mousses', 'notamment polyuréthanes', 'polyols', 'isocyanates'	
+2010	10	21		2010	10	21		Une_visite	Une visite des inspections des installations classées du site en date du 21 octobre 2010 a permis de constater que tous les produits dangereux n'avaient pas été évacués.	'les produits dangereux'	
+2008				2008				ont_été_démantelées	La société a été liquidé le 15 mai 2007 et ses installations de production ont été démantelées en 2008.		
+2007	05	15		2007	05	15		a_été_liquidé	La société a été liquidé le 15 mai 2007 et ses installations de production ont été démantelées en 2008.		
+2013	08	27		2013	08	27		la_liquidation	Le 27 août 2013, la liquidation de la société INTERNATIONALE DU SIEGE PELLETEY a été clôturée pour insuffisance d'actif.		'la société INTERNATIONALE DU SIEGE PELLETEY'
+2010	10	13		2010	10	13		a_cédé	Par acte notarié, du 13 octobre 2010, le liquidateur a cédé une partie des actifs de la société ISP à la communauté de communes du Pays d'Evron et à la société Energy Service.		'la société ISP', "la communauté de communes du Pays d' Evron", 'la société Energy Service'

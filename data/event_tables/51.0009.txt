@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	15		2005	06	15		un_mémoire_de_cessation_reçu	L'hydrogéologue agréé a rendu son avis en février 2005, suite à quoi la société a produit un mémoire de cessation reçu le 15 juin 2005 reprenant les préconisations de réhabilitations de l'hydrogéologue agréé.		
+2005	02			2005	02			a_rendu	L'hydrogéologue agréé a rendu son avis en février 2005, suite à quoi la société a produit un mémoire de cessation reçu le 15 juin 2005 reprenant les préconisations de réhabilitations de l'hydrogéologue agréé.		
+2004	06	10		2004	06	10		a_transmis	Le rapport relatif à ces études a été examiné par l'inspection des installations classées qui a transmis, par courrier en date du 10 juin 2004, ses remarques afin d'obtenir des compléments ou des précisions sur certains points.		
+2004	06	28		2004	06	28		est_prévue	Une nouvelle réunion technique est prévue le 28 juin 2004 pour discuter du DA et de l'EDR.		
+2007				2007				doivent_être_menés_au	Les travaux de réhabilitation doivent être menés au cours du premier semestre 2007.		
+2003	06	30		2003	06	30		Une_réunion	Une réunion s'est tenue le 30 juin 2003 regroupant l'exploitant et son bureau d'études ainsi que l'inspection des installations classées afin de discuter de l'EDR demandée par l'arrêté du 17 avril 2003.		
+2002	06			2002	06			Les_analyses_effectuées	Les analyses effectuées en juin 2002 montrent des concentrations importantes en aval du site.		
+2003				2003				l__acte_de_cautionnement	Le 1er mars 2004, la société SOGESSAE a communiqué à la préfecture de la Marne l'acte de cautionnement pour la période 2003-2005 conformément aux prescriptions de l'arrêté préfectoral complémentaire n°2003.		'la société SOGESSAE'
+				2010				semestrielle	semestrielle jusqu’en 2010 ;		
+2005				2005				l__acte_de_cautionnement	Le 1er mars 2004, la société SOGESSAE a communiqué à la préfecture de la Marne l'acte de cautionnement pour la période 2003-2005 conformément aux prescriptions de l'arrêté préfectoral complémentaire n°2003.		'la société SOGESSAE'
+				2035				la_constitution_de_garanties_financières	la constitution de garanties financières jusqu’en 2035		
+2001	05			2001	05			de_la_visite	Lors de la visite d'inspection de mai 2001, il a été constaté plusieurs non respects à l'arrêté d'autorisation.		
+1924				1924				Implantation	Implantation en 1924 d'une usine de poudrette qui devient une déposante de fosses d'aisance et boues de curage de réseaux vers 1946.	'poudrette'	
+2001	08	06		2001	08	06		ont_donc_été_demandés_par_courrier	Des compléments ont donc été demandés par courrier le 6 août 2001 à l'exploitant.		
+2001	05	16		2001	05	16		une_évaluation_simplifiée_des_risques	Parallèlement, une évaluation simplifiée des risques a été remise le 16 mai 2001 par l'exploitant à l'inspection des installations classées.		
+1991	02	22		1991	02	22		est_autorisée_par_arrêté	L'activité est autorisée par arrêté du 22 février 1991 pour 3 000 m3/an.		
+2004	04	27		2004	04	27		le_diagnostic_approfondi	Le 27 avril 2004, la société SOGESSAE a transmis à l'inspection des installations classées le diagnostic approfondi (DA) et l'EDR.		'la société SOGESSAE'
+2003	07	21		2003	07	21		une_proposition_technique	Le 21 juillet 2003, la société SOGESSAE a transmis pour avis à l'inspection des installations classées une proposition technique d'EDR-eau (et partie santé).		'la société SOGESSAE'
+2004	05	24		2004	05	24		Une_visite	Une visite du site a été réalisée le 24 mai 2004 pour vérifier le respect des prescriptions de l'arrêté préfectoral du 17 avril 2003.		
+2004	03	1		2004	03	1		l__acte_de_cautionnement	Le 1er mars 2004, la société SOGESSAE a communiqué à la préfecture de la Marne l'acte de cautionnement pour la période 2003-2005 conformément aux prescriptions de l'arrêté préfectoral complémentaire n°2003.		'la société SOGESSAE'
+2004	04	15		2004	04	15		Une_réunion	Une réunion technique a eu lieu le 15 avril 2004 à la sous-préfecture d'Epernay pour discuter du périmètre d'isolement de la déposante.		
+2004	07	02		2004	07	02		a_été_repoussée	Cette réunion a été repoussée le 2 juillet 2004.		
+2003	10	02		2003	10	02		a_communiqué	Après examen de celle-ci, l'inspection des installations classées a communiqué ses observations le 2 octobre 2003 à la société.		

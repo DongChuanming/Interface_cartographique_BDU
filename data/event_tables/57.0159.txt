@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03			2005	03			l__évacuation	En mars 2005, l'évacuation et le traitement de 75 tonnes de pneumatiques a été réalisée.		
+2008	04	04		2008	04	04		de_la_visite	Au cours de la visite du 4 avril 2008 il a été constaté que la clôture mise en place autour du site où sont entreposés les pneumatiques (environ 1000t) est en mauvais état et sur certains secteurs complètement dégradée, ce qui n'assure pas son isolement vis ç vis des tiers.	'pneumatiques'	
+2003	03	20		2003	03	20		a_été_destinataire	L'exploitant a été destinataire d'un arrêté de mise en demeure le 6 janvier 2003 et d'un arrêté de consignation le 20 mars 2003.		
+2001				2001				a_constitué	. (matériels industriels de NEBING) a constitué (fin 2001 et en toute illégalité) un stock de pneus.	'pneus'	'matériels industriels de NEBING'
+2002	07	03		2002	07	03		a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire le 3 juillet 2002.		
+2003	01	06		2003	01	06		un_arrêté_de_mise_en_demeure	L'exploitant a été destinataire d'un arrêté de mise en demeure le 6 janvier 2003 et d'un arrêté de consignation le 20 mars 2003.		

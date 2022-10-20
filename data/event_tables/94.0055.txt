@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05			2005	05			Ces_études_devaient_être_transmises	Ces études devaient être transmises à la Préfecture avant la fin du mois de mai 2005.		
+2013	07			2013	07			Les_opérations_de_venting	Les opérations de venting sur site et hors site (dégazage final) se sont terminées en juillet 2013.		
+2007				2007				La_liquidation_judiciaire_étant_close	La liquidation judiciaire étant close en 2007, l'ADEME a été chargée par les arrêtés préfectoraux du 14/05/2007 et du 07/09/2007 au titre de l'urgence impérieuse de définir les sources de pollution du site et de proposer un plan d'investigation hors site.		
+2015	09			2015	09			ont_été_réalisées	Quatre campagnes de suivi des milieux ont été réalisées en avril 2015, septembre 2015, février 2016 et juillet 2016.		
+2001	10	26		2001	10	26		a_été_notifié	Un arrêté portant réglementation complémentaire a été notifié à l’exploitant le 26/10/2001.		
+2015	04			2015	04			ont_été_réalisées	Quatre campagnes de suivi des milieux ont été réalisées en avril 2015, septembre 2015, février 2016 et juillet 2016.		
+2012	08			2012	08			Les_excavations_sur_site	Les excavations sur site se sont terminées fin août 2012.		
+2003	06			2003	06			ont_été_enlevés	Ils ont été enlevés au mois de juin 2003 pour permettre à la société GTB de réaliser les travaux de mise en conformité.		'la société GTB'
+2004	04	03		2004	04	03		ont_été_remises	Les études ont été remises à la Préfecture du Val de Marne le 03/04/2004.		
+2005	01	12		2005	01	12		l__ouverture_de_la_liquidation_judiciaire	Le tribunal de commerce de Créteil a prononcé le 12/01/2005 l'ouverture de la liquidation judiciaire de la société GTB.		'Le tribunal de commerce de Créteil', 'la société GTB'
+2016				2016				durant_l_	Les ouvrages de suivi des milieux (piézomètres et piézairs) ont été rendus inaccessibles durant l’été 2016 par un chantier de construction de la parcelle voisine.		
+2016	02			2016	02			ont_été_réalisées	Quatre campagnes de suivi des milieux ont été réalisées en avril 2015, septembre 2015, février 2016 et juillet 2016.		
+2002	03			2002	03			sont_apposés	Suite au non-respect de l’arrêté de suspension, des scellés sont apposés au mois de mars 2002 sur la seule machine de nettoyage à sec présente dans l’atelier.		
+1983				2004				a_été_exploitée	Une activité de nettoyage à sec a été exploitée sur ce site de 1983 à 2004, en dernier lieu par la société GTB.  Cette activité était classée à autorisation, avec le bénéfice des droits acquis, sous la rubrique 2345 - Nettoyage à sec, dégraissage - de la nomenclature des installations classées.		'la société GTB'
+2007				2007				a_été_chargée	La liquidation judiciaire étant close en 2007, l'ADEME a été chargée par les arrêtés préfectoraux du 14/05/2007 et du 07/09/2007 au titre de l'urgence impérieuse de définir les sources de pollution du site et de proposer un plan d'investigation hors site.		
+2010	10	16		2010	10	16		a_été_engagé	Afin de s’assurer de l’efficacité des travaux réalisés, un suivi des milieux et de l’exposition des riverains (gaz des sols, eaux d’infiltration et qualité de l’air intérieur) a été engagé conformément à l’arrêté préfectoral du 16/10/2010.		
+2011				2011				Deux_campagnes_de_mesures	Deux campagnes de mesures dans les différents milieux ont été effectuées en 2011, avant le démarrage des travaux (état initial).		
+2005	02	27		2005	02	27		de_mise_en_demeure_a_été_pris	L'arrêté préfectoral n'ayant pas été respecté, un procès-verbal a été dressé le 21/12/2005 et un arrêté préfectoral de mise en demeure a été pris le 27/02/2005 fixant un nouveau délai d'un mois pour déterminer la source de pollution ainsi que son étendue sur le site et à l'extérieur du site et effectuer une surveillance des eaux.		
+2009				2009				Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés en 2009.		
+2012	02			2012	02			Les_travaux_de_dépollution_ont_commencé	Les travaux de dépollution ont commencé fin février 2012.		
+2005	12	21		2005	12	21		a_été_dressé	L'arrêté préfectoral n'ayant pas été respecté, un procès-verbal a été dressé le 21/12/2005 et un arrêté préfectoral de mise en demeure a été pris le 27/02/2005 fixant un nouveau délai d'un mois pour déterminer la source de pollution ainsi que son étendue sur le site et à l'extérieur du site et effectuer une surveillance des eaux.		
+2008				2008				ont_été_démolis	Les bâtiments ont été démolis en 2008.		
+2010				2010				a_été_remis	Le plan de gestion finalisé détaillant la solution retenue pour les travaux a été remis fin 2010.		
+2000				2000				une_plainte	Suite à une plainte des riverains fin 2000, des teneurs anormales en tetrachloroéthylène (PCE) ont été mesurées dans les caves et lieux de vie de trois pavillons situés impasse Germinal.	'tetrachloroéthylène', 'PCE'	
+2005	01	12		2005	01	12		a_été_mise_en_liquidation_judiciaire	La société GTB a été mise en liquidation judiciaire le 12/01/2005 et radiée du registre du commerce des sociétés le 30/05/2007.		'La société GTB'
+2012	07	05		2012	07	05		a_été_prorogé	Compte tenu d'aléa de chantier et notamment de la découverte d'un câble électrique sous tension sur le site, le délai de l'arrêté préfectoral précité a été prorogé par celui du 5 juillet 2012.		
+2005	05	18		2005	05	18		nom	Un nouvel arrêté préfectoral portant réglementation complémentaire a été pris le 18/05/2005 au nom du liquidateur judiciaire.		
+2005	05	18		2005	05	18		a_été_pris	Un nouvel arrêté préfectoral portant réglementation complémentaire a été pris le 18/05/2005 au nom du liquidateur judiciaire.		
+2016	07			2016	07			ont_été_réalisées	Quatre campagnes de suivi des milieux ont été réalisées en avril 2015, septembre 2015, février 2016 et juillet 2016.		
+2000				2000				ont_été_mesurées	Suite à une plainte des riverains fin 2000, des teneurs anormales en tetrachloroéthylène (PCE) ont été mesurées dans les caves et lieux de vie de trois pavillons situés impasse Germinal.	'tetrachloroéthylène', 'PCE'	
+2016				2016				ont_été_rendus_inaccessibles	Les ouvrages de suivi des milieux (piézomètres et piézairs) ont été rendus inaccessibles durant l’été 2016 par un chantier de construction de la parcelle voisine.		

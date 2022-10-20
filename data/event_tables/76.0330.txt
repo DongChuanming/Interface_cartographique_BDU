@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	12	15		2014	12	15		transmission	Par transmission en date du 15 décembre 2014 reçue le 19 décembre 2014, Me Thibaut CAMBIER a adressé à l’inspection pour le compte de M.		'Me Thibaut CAMBIER'
+2014	12	19		2014	12	19		a_adressé	Par transmission en date du 15 décembre 2014 reçue le 19 décembre 2014, Me Thibaut CAMBIER a adressé à l’inspection pour le compte de M.		'Me Thibaut CAMBIER'
+2015	01			2015	01			son_rapport	Dans son rapport de janvier 2015 référencé A78323/A, le bureau d’étude ANTEA conclut :		'ANTEA'

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	05			2000	05			L__étude	L'étude susvisée a été déposée en mai 2000, elle proposait le classement du site au niveau 3, c'est-à-dire celui d'un site banalisable.		
+2000	08			2000	08			ont_été_déposés	Ceux-ci ont été déposés en août 2000.		

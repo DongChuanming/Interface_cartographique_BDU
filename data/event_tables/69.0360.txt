@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975	11	25		1975	11	25		a_été_autorisé	VIDEOCOLOR a été autorisé à poursuivre l'exploitation de l'usine de fabrication de tubes cathodiques par arrêté préfectoral du 25 novembre 1975.	'tubes cathodiques'	'VIDEOCOLOR'
+1998	09	1		1998	09	1		Un_rapport	Un rapport du 1er septembre 1998 du cabinet BERTRAND indique que les dalles et parois contaminées aux PCB ont été décontaminées ou enlevées (la concentration résiduelle maximale est de 9,1 mg/kg MS dans les dalles).	'PCB'	'BERTRAND'
+1994	02	02		1994	02	02		Une_visite	Une visite du site réalisée le 2 février 1994 par l'inspection des installations classées a permis de constater que les transformateurs aux PCB ainsi que l'ensemble des produits sur le site avaient été évacués.	'PCB'	
+1997	02	07		1997	02	07		transmis	Un rapport transmis le 7 février 1997 par la société GEP, intitulé "diagnostic environnemental", présente un tableau d'analyses de sol (14 sondages) et d'eaux (3 piézomètres) réalisées sur le site.		'la société GEP'
+1989				1989				a_a_priori_cessé_ses_activités	Elle a a priori cessé ses activités vers 1989 sans faire l'objet d'une déclaration de cessation d'activités.		

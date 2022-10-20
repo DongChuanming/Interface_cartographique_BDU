@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								un_incendie_dans_la	Suite à un incendie dans la nuit du 9 au 10 septembre 2002, l’Inspection des installations classées s’est rendue sur le site de Moreuil.		
+2003	06			2003	06			Cette_étude_a_été_reçue	Cette étude a été reçue en juin 2003, classant le site en catégorie 2, c’est-à-dire à surveiller.		
+2002	09	10		2002	09	10		un_incendie_dans_la	Suite à un incendie dans la nuit du 9 au 10 septembre 2002, l’Inspection des installations classées s’est rendue sur le site de Moreuil.		
+2002	09	10		2002	09	10		s__est_rendue	Suite à un incendie dans la nuit du 9 au 10 septembre 2002, l’Inspection des installations classées s’est rendue sur le site de Moreuil.		
+								s__est_rendue	Suite à un incendie dans la nuit du 9 au 10 septembre 2002, l’Inspection des installations classées s’est rendue sur le site de Moreuil.		

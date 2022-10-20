@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2013	10			ont_été_réalisés	Le propriétaire souhaitant vendre son terrain dans le cadre d'un projet immobilier (petit immeuble), des investigations et travaux complémentaires ont été réalisés entre juillet et octobre 2013.		
+1965				1965				a_été_ajoutée	Le dépôt comprenait à l'origine 4 cuves partiellement enfouies pour une capacité de 110 m3; une citerne supplémentaire de 50 m3 a été ajoutée en 1965.		
+2011	01			2011	01			a_été_reprise	Cette société a été reprise par un nouvel actionnaire domicilié dans l'Aisne en 2000, puis a fait l'objet d'une liquidation, pour être finalement radiée en janvier 2011.		
+2000				2000				a_été_reprise	Cette société a été reprise par un nouvel actionnaire domicilié dans l'Aisne en 2000, puis a fait l'objet d'une liquidation, pour être finalement radiée en janvier 2011.		
+2009	05			2010	01			une_étude	Face à cette situation, le propriétaire du site a fait réaliser, entre mai 2009 et janvier 2010, une étude.		
+2009	11			2009	11			ont_été_extraites	Les trois citernes encore en place ont été extraites en novembre 2009; elles ne présentaient aucune trace de perforation ni corrosion. 12 prélèvements ont été réalisés sur les sables situés autour des cuves excavées, et des teneurs élevées en hydrocarbures ont été relevées. 32 tonnes de terres polluées ont été excavées et expédiées en centre de traitement.	'hydrocarbures'	
+2008	02	02		2008	02	02		a_déclaré_la_fin_de_son_activité	La société Thusy a déclaré la fin de son activité le 2 février 2008.		'La société Thusy'

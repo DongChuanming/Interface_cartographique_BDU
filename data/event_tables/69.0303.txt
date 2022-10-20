@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	27		2010	05	27		la_cessation_de_son_activité	TCM annonce la cessation de son activité sur le site le 27/05/2010.		'TCM'
+2010	05	27		2010	05	27		annonce	TCM annonce la cessation de son activité sur le site le 27/05/2010.		'TCM'
+1983				1986				se_renomme	Entre 1983 et 1986, elle se renomme YUMBA S.		'YUMBA S.'
+1966				1966				ont_commencé	Les premières activités industrielles ont commencé en 1966 avec l'implantation de la société YUMBO.		'la société YUMBO'
+1970				1970				devient	En 1970, suite à son rachat, elle devient INTERNATIONAL HARVESTOR.		'INTERNATIONAL HARVESTOR'
+2002				2002				Un_premier_diagnostic_des_sols	Un premier diagnostic des sols a été réalisé en 2002 par la société BREUIL Consultant (futur DEKRA CONSEIL HSE) à la demande de la direction de l'époque.		'la société BREUIL Consultant', 'DEKRA CONSEIL HSE'
+2010	02			2010	02			Ce_diagnostic_a_été_réalisé	Ce diagnostic a été réalisé par la société DEKRA en février 2010.		'la société DEKRA'
+2008	10	27		2008	10	27		est_signé	Un récépissé de changement d'exploitant est signé le 27/10/2008.		
+1989				1989				est_racheté	En 1989, DROSSER est racheté par le groupe FUROKAWA LOADERS S.		'DROSSER', 'le groupe FUROKAWA LOADERS S.'
+1945				1945				un_usage_agricole	En 1945, le site était essentiellement utilisé pour un usage agricole.		
+2002	09	20		2002	09	20		Un_récépissé_de_déclaration	Un récépissé de déclaration est signé le 20/9/2002 autorisant la société FUROKAWA à exploiter une installation d'application, de cuisson, sechage de vernis, et peinture sur support quelconque (metal, bois, papier, textile, cuir, plastique).	'cuir', 'plastique'	'la société FUROKAWA'

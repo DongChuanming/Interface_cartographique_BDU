@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	10	06		1992	10	06		la_rupture	Le 6 octobre 1992, la rupture d'une durite sous pression alimentant le groupe électrogène de l'hôpital, a conduit au déversement d'environ 18 m3 de fioul domestique.	'fioul domestique'	
+1994				1994				Toute_surveillance_a_été_levée	Toute surveillance a été levée courant 1994 après avis des experts intervenant dans ce dossier.		
+				1993	12			a_été_réalisé	Un suivi de la qualité des eaux de la nappe et du contre canal a été réalisé ainsi qu'un traitement du sol au droit de l'incident par bioventing entre juin et décembre 1993.		
+				1993	12			un_traitement	Un suivi de la qualité des eaux de la nappe et du contre canal a été réalisé ainsi qu'un traitement du sol au droit de l'incident par bioventing entre juin et décembre 1993.		

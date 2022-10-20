@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				la_surveillance_des_eaux_souterraines	Depuis 1999, l'exploitant poursuit la surveillance des eaux souterraines et il n'y a pas de dépassements observés des normes de référence relative aux eaux souterraines.		
+1997	05	02		1997	05	02		est_imposée	Une surveillance des eaux est imposée à la société Marx Spaenlin Sometalor par un autre arrêté préfectoral complémentaire n°950717 du 2 mai 1997, selon une fréquence semestrielle.		'la société Marx Spaenlin Sometalor'
+2005	01			2005	01			a_été_rendu	Un mémoire de cessation d'activité a été rendu le 31 janvier 2005; ce mémoire conclut que :		
+1995	05	02		1995	05	02		a_rappelé_aux	La Sté MARX SPAENLIN SOMETALOR a rappelé aux divers propriétaires des terrains de l'ancien site des ferrailleurs, par courrier du 24/08/01, les dispositions de l'article 5 ( voir ci-dessus) de son arrêté préfectoral de prescriptions complémentaires du 02/05/1995.		'La Sté MARX SPAENLIN SOMETALOR'
+2001	08	06		2001	08	06		a_été_dressé	Un procès verbal de récolement a été dressé le 06/08/2001.		
+1996				1996				Des_travaux_de_dépollution	Des travaux de dépollution (enlèvement des terres polluées)ont été réalisés en 1995 et 1996.		
+1995				1995				Des_travaux_de_dépollution	Des travaux de dépollution (enlèvement des terres polluées)ont été réalisés en 1995 et 1996.		
+1995	03	09		1995	03	09		a_confirmé_par_écrit	Le propriétaire des terrains a confirmé par écrit le 09/03/1995 la vocation industrielle des terrains.		
+								a_été_rendu	Un mémoire de cessation d'activité a été rendu le 31 janvier 2005; ce mémoire conclut que :		
+1999				1999				poursuit	Depuis 1999, l'exploitant poursuit la surveillance des eaux souterraines et il n'y a pas de dépassements observés des normes de référence relative aux eaux souterraines.		
+1970				1970				occupé	Site occupé depuis 1970 par les 3 ferrailleurs, et repris par MARX SPAENLIN SOMETALOR en 1993/1994.	'ferrailleurs'	'MARX SPAENLIN SOMETALOR'
+1998				1998				Des_travaux_de_dépollution	Des travaux de dépollution et d'excavation ont été réalisés en 1998.		
+1995	02			1995	02			a_été_remis	Lors de la cessation d'activité déclarée par le dernier exploitant: la Sté MARX SPAENLIN SOMETALOR, un diagnostic des sols a été réalisé, et le mémoire a été remis en février 1995.		'la Sté MARX SPAENLIN SOMETALOR'
+2011				2011				est_toujours_effectuée	La surveillance est toujours effectuée en 2011 sur un piézomètre amont et deux piézomètres à l'aval hydraulique sur différents paramètres (pH, demande chimique en oxygène, carbone organique totaux, hydrocarbures totaux dissous, métaux lourds, HAP, BTEX, PCB, [...], sans détecter d'anomalies.	'oxygène', 'carbone organique totaux', 'hydrocarbures totaux', 'métaux lourds', 'HAP', 'BTEX', 'PCB'	

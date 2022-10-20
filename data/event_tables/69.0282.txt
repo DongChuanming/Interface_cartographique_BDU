@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12			2012	04			a_été_effectuée	Une surveillance de la qualité des eaux souterraines a été effectuée sur PZ1, PZ2 et PZ3 depuis décembre 2007 à avril 2012.		
+2013				2013				Les_premières_investigations_effectuées	Les premières investigations effectuées par ERM début 2013 montrent :		'ERM'
+2012	04	10		2012	04	10		la_dernière_campagne	A la dernière campagne datant du 10/04/2012, un impact en Nickel est avéré au droit de PZ3 à 260 µg/L.	'Nickel'	
+2012	11	07		2012	11	07		a_demandé	Suite à la notification de cessation d'activité, l'inspection des installations classées a demandé le 07/11/2012 de compléter les investigations précédentes par les zones non investiguées.		
+								a_notifié_sa_cessation_d__activité	L'exploitant a notifié sa cessation d'activité le 05/07/12.		
+2008	12			2008	12			Une_étude_faisant_un_premier_inventaire	Une étude faisant un premier inventaire de l'état du milieu a été réalisée en décembre 2008.		

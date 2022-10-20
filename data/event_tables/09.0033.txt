@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05	19		2009	05	19		La_liquidation_judiciaire_de	La liquidation judiciaire de la société a été prononcée le 19 mai 2009 par le Tribunal de commerce de Toulouse.		
+2013	05	30		2013	05	30		Une_visite	Une visite de l'inspection en date du 30 mai 2013 a permis de constater la mise en sécurité du site et le réemploi des bâtiments par les sociétés Vertex (récupération et tri de textiles) et Ariège Bois Construction (fabricant de maisons en bois).		'les sociétés Vertex'
+1995	07	28		1995	07	28		du	Cet arrêté a été complété par les arrêtés du 4 août 1994 et du 28 juillet 1995.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	08	01		2002	08	01		a_fait_réaliser_une_Evaluation_Simplifiée_des_Risques	Dans le cadre d'une démarche de requalification urbaine, l'Etablissement Public Foncier de Lorraine(EPFl) a fait réaliser une Evaluation Simplifiée des Risques qui a été remise à l'inspection le 01 août 2002.		'Lorraine(EPFl'
+2010				2010				a_fait_parvenir	En 2010, l'EPFL a fait parvenir à l'inspection des installations classées les synthèses des travaux exécutés (notamment, confinement de terres polluées) sur la partie du site comportant une résidence pour personnes âgées et un orphelinats.		
+2007				2007				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été menés par l'EPFl en 2006 et 2007 pour la partie du site comprenant désormais une résidence pour personnes âgées et un orphelinat.		
+2003	03			2003	03			Les_dernières_analyses	Les dernières analyses, de mars 2003, démontrent qu'il n'y a aucune contamination des eaux souterraines.		
+2003	06			2003	06			Risques_a_été_remise	L'Evaluation Détaillée des Risques a été remise en juin 2003.		
+2010				2010				a_indiqué	L'inspection a indiqué en 2010 qu'il y avait lieu de mettre en place une surveillance des eaux souterraines et de solliciter la mise en place de restrictions d'usage.		
+2006				2006				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été menés par l'EPFl en 2006 et 2007 pour la partie du site comprenant désormais une résidence pour personnes âgées et un orphelinat.		
+2010				2010				non_reconvertie	Sur la partie non reconvertie en 2010 concernée par des pollutions métalliques, un plan de gestion devra être établi en cas de nouvel usage du site.	'métalliques'	

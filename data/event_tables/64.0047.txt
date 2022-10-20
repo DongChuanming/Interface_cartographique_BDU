@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				L__étude_détaillée_des_risques	L'étude détaillée des risques réalisée en 1998 montre que la décharge n'engendre pas d'impact sur la nappe, la base des déchets se situant par ailleurs dans la zone non saturée et hors de battement de la nappe.		
+2008				2008				campagne	Les résultats des campagne de 2007 et du premier trimestre 2008 montrent une situation satisfaisante :		
+2009	09	11		2009	09	11		en_basses_eaux	La campagne du 11/09/2009 en basses eaux (alimentation par le Gave, idem mars 2009) montre l'absence d'impact des métaux et des chlorés.	'métaux', 'chlorés'	
+2007				2007				doublement	- doublement de la valeur en 1,1,1-trichloroéthane au droit de P4 entre le premier et le deuxième semestre 2007, maintien à un niveau équivalent au premier semestre 2008;	'1,1,1-trichloroéthane'	
+1995				1995				n__a_pas_été_reprise_dans_la_cession	Elle a été exploitée de 1960 à 1990 environ et n'a pas été reprise dans la cession en 1995 à Pardies Acétiques, devenue depuis ACETEX CHIMIE.		'Pardies Acétiques', 'ACETEX CHIMIE'
+2004				2004				Le_bilan_de_la_surveillance	Le bilan de la surveillance depuis 2004 confirme une situation stable et satisfaisante.		
+1960				1990				a_été_exploitée	Elle a été exploitée de 1960 à 1990 environ et n'a pas été reprise dans la cession en 1995 à Pardies Acétiques, devenue depuis ACETEX CHIMIE.		'Pardies Acétiques', 'ACETEX CHIMIE'
+2007				2007				campagne	Les résultats des campagne de 2007 et du premier trimestre 2008 montrent une situation satisfaisante :		
+1983				1987				a_servi_de_bassin_de_décantation	La lagune située au sud de la décharge a servi de bassin de décantation pour les eaux de lavage des ateliers d'acétylène et  d'AVM de 1983 à 1987.	'acétylène'	"d' AVM"

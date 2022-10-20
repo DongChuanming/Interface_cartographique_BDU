@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	26		2010	03	26		et_l_	Ce mémoire de fin de travaux à été jugé recevable et l’inspection a dressé un procès-verbal de récolement le 26/03/2010.		
+2008	11	20		2008	11	20		Un_rapport_final_de_remise_en_état_du_site	Un rapport final de remise en état du site a été transmis le 20/11/2008.		
+2003	03			2003	03			France_a	UNILEVER BESTFOOD France a informé la Préfecture des Hauts-de-Seine de la fermeture de son usine d’Asnières au mois de juin 2002 et a transmis en mars 2003 un mémoire sur l’état du site et les mesures prévues de remise en l’état.		
+2002	06			2002	06			France_a	UNILEVER BESTFOOD France a informé la Préfecture des Hauts-de-Seine de la fermeture de son usine d’Asnières au mois de juin 2002 et a transmis en mars 2003 un mémoire sur l’état du site et les mesures prévues de remise en l’état.		

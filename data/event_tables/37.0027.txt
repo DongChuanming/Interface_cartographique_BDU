@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								totale_de_3380	D'une surface totale de 3380 m²,il est délimité par des jardins et espaces verts au nord, par le quai de portillon puis la Loire au sud, des habitations à l'ouest et un couvent avec espaces verts à l'est.		
+1967	02	23		1967	02	23		__Exploitation	- 23/02/1967:Exploitation d'un dépôt de 20 000 l de fuel domestique		'l de fuel domestique'
+1997	03	24		1997	03	24		Utilisation_d__un	- 24/03/1997 : Utilisation d'un transformateur PCB	'PCB'	

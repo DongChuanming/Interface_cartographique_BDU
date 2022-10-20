@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1846				1914				a_accueilli	Il a accueilli de 1846 à 1914-18 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1846								a_accueilli	Il a accueilli de 1846 à 1914-18 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2005	04			2005	04			Une_étude_d_	Une étude d'Avril 2005 a permis de définir 5 zones à traiter dans le cadre du projet de construction de logement collectifs.		
+1995				1995				Un_diagnostic_initial	Un diagnostic initial a été réalisé en 1995 suivi d'un diagnostic approfondi en 2000 en raison d'un projet de cession partielle.		
+2001	01			2001	01			de_nouvelles_analyses_ont_été_réalisées	Dans le cadre du projet de cession de la partie Ouest du site à la Mairie d'Armentières, de nouvelles analyses ont été réalisées en janvier 2001.		
+1921				1921				a_été_reconstruit	En 1921, seul un gazomètre y a été reconstruit pour la distribution (approvisionnement depuis Lille).		
+2000				2000				un_diagnostic_approfondi	Un diagnostic initial a été réalisé en 1995 suivi d'un diagnostic approfondi en 2000 en raison d'un projet de cession partielle.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'

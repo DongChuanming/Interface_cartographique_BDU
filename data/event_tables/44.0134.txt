@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015				a_été_exploitée	Celle-ci a été créée en 1985 et a été exploitée jusqu’en 2015.		
+				2015				a_été_créée	Celle-ci a été créée en 1985 et a été exploitée jusqu’en 2015.		
+1985				1985				a_été_créée	Celle-ci a été créée en 1985 et a été exploitée jusqu’en 2015.		

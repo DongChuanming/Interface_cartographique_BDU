@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11			2010	11			la_visite	Les sources de pollution ne sont toujours pas identifiées et il a été demandé à l'exploitant, suite à la visite de novembre 2010, de :		
+2001	12	17		2001	12	17		est_réalisé	Cette surveillance est réalisé au travers d'un réseau de trois piézomètres depuis le 17 décembre 2001.		
+								Les_investigations_de	Les investigations de novembre et décembre 2007 ont permis de :		
+2008				2008				la_dernière_étude	- transmettre des éléments de réponse relatifs aux hypothèses émises dans la dernière étude de 2008.		
+2001	07	25		2001	07	25		Evaluation_simplifiée_des_risques	L'Evaluation simplifiée des risques (ESR) a été remise à l'inspection le 25 juillet 2001.		
+2007	12			2007	12			Les_investigations_de	Les investigations de novembre et décembre 2007 ont permis de :		
+2008	11			2008	11			a_donné	Le BRGM a donné son avis sur la potentialité de pollution des eaux souterraines au droit du site FERCO en novembre 2008.		'Le BRGM', 'FERCO'
+2012				2012				l_	Les résultats d’analyses de l’année 2012 et du 1er trimestre 2013 montrent l’absence d’impact des installations de la société FERCO sur les eaux souterraines.		'la société FERCO'
+2007				2007				Les_investigations	Les investigations de 2007 n'ont pas mis en évidence une source de contamination des sols en amont de PZ1 et PZ4.		
+2012				2012				analyses	Les résultats d’analyses de l’année 2012 et du 1er trimestre 2013 montrent l’absence d’impact des installations de la société FERCO sur les eaux souterraines.		'la société FERCO'
+2004				2004				a_été_détectée	En effet, en 2004, une contamination aux HC a été détectée sur le PZ amont PZ3.	'HC'	

@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02	21		2013	02	21		a_transmis	L’industriel a transmis par courrier du 21 février 2013, les documents relatifs à l’élimination de ces déchets par la société VEOLIA PROPRETE de Chaingy.		'la société VEOLIA PROPRETE', 'de Chaingy'
+2013	03	14		2013	03	14		du_contrôle	Lors du contrôle du 14 mars 2013, l’inspection des installations classée a constaté l’enlèvement des déchets précédemment stockés près du puisard.		
+2012	11	20		2012	11	20		et_envoyé_pour_valorisation	L’extincteur a été pris en charge par la société SOA de Chaingy le 19 novembre 2012 et envoyé pour valorisation chez la société SMAB (département de l’Yonne) le 20 novembre 2012.		'la société SOA', 'la société SMAB'
+								Deux_campagnes_d__analyses	Deux campagnes d’analyses ont été effectuées en juin et en décembre 2012.		
+2003	07	31		2003	07	31		étaient_réglementées	Ses activités étaient réglementées par les arrêtés préfectoraux des 18 juin 1985 et 13 mai 1993 et par les arrêtés préfectoraux complémentaires des 31 juillet 2003, 2 mai 2005, 23 juillet 2007 et 18 août 2008.		
+2012	11	20		2012	11	20		de_l__inspection	Lors de l’inspection du 20 novembre 2012, l’inspection des installations classées a constaté la présence d’un tas de déchets recouvert d’une bâche plastique à proximité de la zone du puisard.		
+2013	03	14		2013	03	14		a_constaté	Le 14 mars 2013, l’inspection des installations classées a constaté que le fond de la fosse était exempt de tout liquide.		
+2011	05			2012	02			Le_traitement_des_gaz_du_sol	b) Le traitement des gaz du sol par venting au droit de la fosse ayant contenu 20.000 litres de trichloroéthylène et au droit de la zone de décapage a été réalisé de mai 2011 à février 2012.	'trichloroéthylène'	
+2012	11	20		2012	11	20		du_précédent_contrôle	Lors du précédent contrôle du site (20 novembre 2012), l’inspection des installations classées avait constaté la présence :		
+				2007	07	23		étaient_réglementées	Ses activités étaient réglementées par les arrêtés préfectoraux des 18 juin 1985 et 13 mai 1993 et par les arrêtés préfectoraux complémentaires des 31 juillet 2003, 2 mai 2005, 23 juillet 2007 et 18 août 2008.		
+2008	04	15		2008	04	15		a_déclaré	Par courrier du 15 avril 2008, la société EPTA RACK a déclaré au Préfet du Loiret que la cessation définitive de ses activités interviendrait au 5 mai 2008 et a précisé que l’usage futur du site serait un usage industriel.		'la société EPTA RACK'
+2012	11	20		2012	11	20		Lors	Lors du précédent contrôle du site (20 novembre 2012), l’inspection des installations classées avait constaté la présence :		
+2007	08	03		2007	08	03		a_été_notifié	Un récépissé de changement d’exploitant a été notifié le 3 août 2007.		
+2013	03	14		2013	03	14		Contrôle	Contrôle du 14 mars 2013 :		
+2008	05	05		2008	05	05		a_déclaré	Par courrier du 15 avril 2008, la société EPTA RACK a déclaré au Préfet du Loiret que la cessation définitive de ses activités interviendrait au 5 mai 2008 et a précisé que l’usage futur du site serait un usage industriel.		'la société EPTA RACK'
+2012	12			2012	12			Deux_campagnes_d__analyses	Deux campagnes d’analyses ont été effectuées en juin et en décembre 2012.		
+2012	11	20		2012	11	20		du_contrôle	Lors du contrôle du 20 novembre 2012, l’inspection des installations classées avait constaté la présence d’effluents dans le fond de la fosse.	'effluents'	
+2012	11	20		2012	11	20		avait_constaté	Lors du contrôle du 20 novembre 2012, l’inspection des installations classées avait constaté la présence d’effluents dans le fond de la fosse.	'effluents'	
+2007				2007				a_repris_le_l__exploitation	En 2007, la société EPTA RACK a repris le l'exploitation du site.		'la société EPTA RACK'
+				2005	05	02		étaient_réglementées	Ses activités étaient réglementées par les arrêtés préfectoraux des 18 juin 1985 et 13 mai 1993 et par les arrêtés préfectoraux complémentaires des 31 juillet 2003, 2 mai 2005, 23 juillet 2007 et 18 août 2008.		
+2008	05	05		2008	05	05		la_cessation_définitive_de_ses_activités	Par courrier du 15 avril 2008, la société EPTA RACK a déclaré au Préfet du Loiret que la cessation définitive de ses activités interviendrait au 5 mai 2008 et a précisé que l’usage futur du site serait un usage industriel.		'la société EPTA RACK'
+2011	03			2011	03			Le_curage	Le curage du puisard a été réalisé en mars 2011.		
+2013	03	14		2013	03	14		l__enlèvement_des_déchets_précédemment_stockés	Lors du contrôle du 14 mars 2013, l’inspection des installations classée a constaté l’enlèvement des déchets précédemment stockés près du puisard.		
+2012	11	20		2012	11	20		a_constaté	Lors de l’inspection du 20 novembre 2012, l’inspection des installations classées a constaté la présence d’un tas de déchets recouvert d’une bâche plastique à proximité de la zone du puisard.		
+2012	11	19		2012	11	19		a_été_pris_en_charge	L’extincteur a été pris en charge par la société SOA de Chaingy le 19 novembre 2012 et envoyé pour valorisation chez la société SMAB (département de l’Yonne) le 20 novembre 2012.		'la société SOA', 'la société SMAB'
+2012	11	22		2012	11	22		ont_été_pris_en_charge	Les bidons et le fût ont été pris en charge par cette même société le 22 novembre 2012 et envoyés pour incinération à la société SARP INDUSTRIES à la même date.		'la société SARP INDUSTRIES'
+1965				1965				a_commencé_à_exploiter	La société ALSER a commencé à exploiter le site en 1965.		'La société ALSER'
+2013	02			2013	02			ont_été_excavées	Les terres ont été excavées sur une surface d’environ 12 m² et jusqu’à une profondeur d’1 mètre au refus sur le calcaire compact en février 2013 par la société ARCADIS.		'la société ARCADIS'

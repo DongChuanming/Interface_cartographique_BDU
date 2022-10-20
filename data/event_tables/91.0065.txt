@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				plusieurs_campagnes_d__analyses	Enfin, plusieurs campagnes d'analyses des gaz des sols et de l'air ambiant dans le bâtiment administratif ont été menées depuis 2010.		
+2014				2014				ont_été_détectés	- une diminution des concentrations en hydrocarbures volatils et de toluène : en 2013 ces composés ont été détectés sous forme de trace tandis qu'ils n'ont pas été détectés en 2014.	'hydrocarbures volatils', 'toluène', 'composés'	
+2012				2012				réalise_une	Afin d'évaluer le degré de contamination potentielle de la rivière de l'Orge à partir du panache de pollution identifié dans la nappe alluviale, depuis 2012, l'exploitant réalise une surveillance des eaux de surface et de sédiments (deux échantillons, un en amont du site et un en aval).		
+2000				2000				Les_études	Les études,déposées début 2000, classent le site au niveau 2 : c'est-à-dire celui d'un site nécessitant la mise en place d'une surveillance des eaux souterraines.		
+				2016	02	05		La_dernière_campagne_d__analyses	La dernière campagne d'analyses sur les eaux souterraines a eu lieu du 3 au 5 février 2016 et a mis en évidence les éléments suivants.		
+2015	10			2015	10			une_EQRS	Suite à cette campagne d'analyses des gaz des sols et d'air ambiant, l'exploitant a fait réaliser en octobre 2015 une EQRS (Evaluation Quantitative des Risques Sanitaires).	'Sanitaires'	
+1998	10	28		1998	10	28		la_réalisation_d__un_diagnostic_de_sol	Par arrêté préfectoral du 28 octobre 1998, la société Vernis Jacquelin s'est vu prescrire la réalisation d'un diagnostic de sol et une ESR (Evaluation Simplifiée des Risques).		'la société Vernis Jacquelin'
+2001	02	12		2001	02	12		a_été_prescrite	Celle-ci a été prescrite par arrêté préfectoral du 12 février 2001.		
+2014	08			2014	08			la_dernière_campagne_d_	Les résultats de la dernière campagne d'août 2014 sont les suivants :		
+2013				2013				ont_été_détectés	- une diminution des concentrations en hydrocarbures volatils et de toluène : en 2013 ces composés ont été détectés sous forme de trace tandis qu'ils n'ont pas été détectés en 2014.	'hydrocarbures volatils', 'toluène', 'composés'	

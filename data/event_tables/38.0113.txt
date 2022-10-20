@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	03		2005	02	03		a_été_rédigé	Un arrêté préfectoral a été rédigé en date du 03/02/2005.		
+1982				1989				a_été_exploitée	Entre 1982 et 1989, une ancienne gravière située au nord de la zone concernée a été exploitée en tant que décharge sauvage.		
+2008	05	15		2008	05	15		ont_de_nouveau_été_prélevés	Des échantillons d'eaux et de sols ont de nouveau été prélevés et font l'objet d'un rapport rédigé par SOCOTEC en date du 15/05/2008.		'SOCOTEC'
+2003	06	30		2003	06	30		Les_études_demandées	Les études demandées ont été rédigées en date du 30/06/2003 par la société SOCOTEC. 8 sondages ont alors été réalisés et 3 piézomètres ont été implantés.		'la société SOCOTEC'
+2010	10	15		2010	10	15		14_campagnes_de_suivi	Au 15/10/2010, 14 campagnes de suivi de la qualité des eaux souterraines et superficielles ont été réalisées.		
+2006	02	07		2006	02	07		ont_également_été_observées	De fortes concentrations de Plomb ont également été observées durant deux des campagnes avec un maximum de 32 µg/l le 07/02/2006.	'Plomb'	
+2002	10			2002	10			a_fait_procéder	La société RECYCLING France a fait procéder en octobre 2002 à des prélèvements et des analyses de sols et d’eaux souterraines dans le cadre de l'agrandissement de son site.		'La société RECYCLING France'
+2004	03	25		2004	03	25		rédigé	Celles-ci ont été effectuées et décrites dans un rapport rédigé le 25/03/2004 par le bureau d'étude SOCOTEC.		'SOCOTEC'
+1992	12	04		1992	12	04		signé	Elle bénéficie pour cela d'un arrêté préfectoral d'autorisation signé le 04/12/1992.		
+2003				2003				est_arrêtée	Cette activité est arrêtée à la fin de l'année 2003.		
+2003	12	10		2003	12	10		2_campagnes_de	Entre temps, 2 campagnes de suivi des eaux souterraines et superficielles avaient été menées les 10/12/2003 et 04/02/2004. 2 piézomètres supplémentaires avaient été implantés sur le site à cet effet.		
+2003	06	30		2003	06	30		effectuées	La nouvelle ESR a confirmé les recommandations effectuées le 30/06/2003 en augmentant la fréquence de suivi des eaux souterraines de semestrielle à trimestrielle.		'ESR'
+2005	09	14		2005	09	14		Le_diagnostic_approfondi	Le diagnostic approfondi et l'EDR ont été réalisés et font l'objet d'un rapport rédigé le 14/09/2005.		
+2004	02	04		2004	02	04		2_campagnes_de	Entre temps, 2 campagnes de suivi des eaux souterraines et superficielles avaient été menées les 10/12/2003 et 04/02/2004. 2 piézomètres supplémentaires avaient été implantés sur le site à cet effet.		
+1992				1992				le_loue	.I ARCAM achète le terrain et le loue à la société MARRA en 1992.		'société MARRA'
+2003	02			2003	02			ont_été_fournis	Les résultats ont été fournis à l’Inspection des Installations Classées en février 2003.		

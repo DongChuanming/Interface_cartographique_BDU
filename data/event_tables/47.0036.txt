@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09			2003	09			a_été_enlevé	Il semblerait que la source de pollution provienne d'un bain de traitement de bois qui contenait de l'arsenic et qui a été enlevé en septembre 2003.	'arsenic'	
+2007				2007				déclare	L'exploitant déclare le 19 mai 2008 qu'aucune campagne n'a été réalisée en 2006 et en 2007.		
+2008	05	19		2008	05	19		déclare	L'exploitant déclare le 19 mai 2008 qu'aucune campagne n'a été réalisée en 2006 et en 2007.		
+2007				2007				n__a_été_réalisée	L'exploitant déclare le 19 mai 2008 qu'aucune campagne n'a été réalisée en 2006 et en 2007.		
+1991	04	22		1991	04	22		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 22 avril 1991.		
+2006				2006				n__a_été_réalisée	L'exploitant déclare le 19 mai 2008 qu'aucune campagne n'a été réalisée en 2006 et en 2007.		
+2006				2006				déclare	L'exploitant déclare le 19 mai 2008 qu'aucune campagne n'a été réalisée en 2006 et en 2007.		

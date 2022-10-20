@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	07		2003	07	07		un_rapport_d__intervention	Le 07/07/2003, l'ancien exploitant (TOTAL) transmet un rapport d'intervention (réalisé par AMDE) ainsi que les bordereaux de suivi de déchets et indique avoir procédé aux travaux prévus par l'arrêté préfectoral du 28/01/2003.		'( TOTAL', 'AMDE'
+2003	03			2003	03			est_mis_en_place	Ce dernier précise que suite à cet incident, un programme de formation des chauffeurs-livreurs est mis en place (mars 2003) afin d'adapter les comportement des chauffeurs aux situations d'urgence.		
+2002	05	24		2002	05	24		est_délivré	Le 24/05/2002, un nouveau récépissé est délivré à TOTAL suite à la modification des stockages et la réorganisation des postes de distribution.		
+2003	01	30		2003	01	30		Le_diagnostic_remis	Le diagnostic remis le 30/01/2003 montre l'absence d'impact sur les sols, les eaux souterraines et les eaux superficielles suite à l'accident.		
+1996	03	27		1996	03	27		la_déclaration	Le 27/03/1996, la déclaration et le récépissé autorisent TOTAL FRANCE à exploiter cette station service.		'TOTAL FRANCE'
+2003	01	08		2003	01	08		un_épandage_accidentel	Le 08/01/2003, lors d’une opération de dépotage, un épandage accidentel de gazole dans le milieu naturel survient.	'gazole'	

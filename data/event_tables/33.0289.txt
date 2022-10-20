@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	08		2010	09	08		pu_être	Les prélèvements du 08/09/2010 n'ont pu être analysés.		
+2004	02	23		2004	02	23		action_nationale_de_résorption	Cette décharge est inscrite dans l'action nationale de résorption des décharges de déchets ménagers et assimilés, autorisées ou non autorisées, introduite par la circulaire du Ministère de l’Écologie et du Développement Durable du 23/02/2004.		
+2005	05	19		2005	05	19		exploitant_dépose	Le 19/05/2005, l'exploitant dépose son dossier de cessation d'activité.		", l' exploitant dépose son dossier de"
+2004	02	23		2004	02	23		est_inscrite	Cette décharge est inscrite dans l'action nationale de résorption des décharges de déchets ménagers et assimilés, autorisées ou non autorisées, introduite par la circulaire du Ministère de l’Écologie et du Développement Durable du 23/02/2004.		

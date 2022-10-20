@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				Des_travaux_de_réhabilitation	Des travaux de réhabilitation des fosses à goudron ont été réalisés en été 2013 permettant de traiter une majeure partie des sources sols de pollution.		
+1868				1972				a_accueilli	Le site a accueilli de 1868 à 1972 les Usines Municipales de Colmar fabriquant du gaz à partir de la distillation de la houille.		
+1972				1972				fut_arrêtée	En 1972, la production du gaz fut arrêtée suite à l'arrivée du gaz naturel.		
+2016				2016				autosurveillance	Les résultats d'autosurveillance de 2016 ont révélé un dépassement de la norme de potabilité pour le cyanure au droit de l'ouvrage amont.	'cyanure'	

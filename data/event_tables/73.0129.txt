@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07	22		2004	07	22		par_courrier	L'ancien exploitant (Arkema) a transmis, par courrier du 22 juillet 2004, un dossier de cessation d'activité.		'( Arkema'
+2004	08	20		2004	08	20		Une_inspection_sur_site	Une inspection sur site du 20/08/2004 a confirmé cet état des lieux.		
+2004	07	22		2004	07	22		a_transmis	L'ancien exploitant (Arkema) a transmis, par courrier du 22 juillet 2004, un dossier de cessation d'activité.		'( Arkema'
+1992	12			1992	12			a_cessé	L'activité industrielle a cessé sur le site en décembre 1992.		
+1996	05	20		1997	12	31		Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont déroulés du 20 mai 1996 au 31 décembre 1997 avec pour objectifs des teneurs en métaux lourds inférieures aux seuils C des valeurs guides hollandaises 1990.	'métaux lourds'	
+1993	10			1994	03			L__étude_diagnostic	L'étude diagnostic de l'état de contamination de l'usine de Premont, réalisée entre octobre 1993 et mars 1994, a mis en évidence les éléments suivants :		
+1989	07	21		1989	07	21		était_réglementée	Elle était réglementée par l'arrêté préfectoral cadre du 21 juillet 1989.		
+2005	06	06		2005	06	06		Un_procès_verbal_de_récolement	Un procès-verbal de récolement a été délivré à la société ARKEMA le 06/06/2005.		'la société ARKEMA'
+								Le_suivi	- Le suivi des drains sur 7 ans n'a pas montré d'anomalie sur le paramètre concerné, à savoir chrome total ; notamment aucune valeur n'est supérieure à la valeur seuil de l'époque.	'chrome total'	
+1893				1893				ont_été_exploitées_tour	Des activités chimiques fondées sur la consommation de grandes quantités d'électricité produite localement ont été exploitées tour à tour depuis 1893, date de construction de l'usine.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	08		2010	04	08		a_donc_déclaré_la_cessation_de_ses_activités	La société Raymond PETIT & FILS a donc déclaré la cessation de ses activités le 08/04/2010 au préfet de la Somme.		'La société Raymond PETIT & FILS', 'préfet de la Somme'
+2011	01	24		2011	01	24		s__est_donc_rendue	L ‘inspection s’est donc rendue pour la dernière fois sur le site le 24/01/2011.		
+2011	10	03		2011	10	03		transmis	Par courrier en date du 19/09/2011 transmis le 03/10/2011 au Préfet, la société Raymond PETIT & FILS adressait un plan de gestion et les justificatifs de la mis en sécurité du site.		'la société Raymond PETIT & FILS'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_contrôles_analytiques_réalisés	Les contrôles analytiques réalisés au fond de la fouille et sur les parois ont montré que les teneurs en hydrocarbures étaient comprises entre 35 et 300 mg/kg.		
+								__la_présence_d__hydrocarbures	- la présence d’hydrocarbures C10-C40, à proximité de la cuve aérienne de stockage de fioul (sondage S3 = 1100 mg/kg) et du distributeur de carburants (sondage S5 = 9900 mg/kg) ;		
+								la_cuve	- la présence d’hydrocarbures C10-C40, à proximité de la cuve aérienne de stockage de fioul (sondage S3 = 1100 mg/kg) et du distributeur de carburants (sondage S5 = 9900 mg/kg) ;		
+								au_fond_de_la_fouille	Les contrôles analytiques réalisés au fond de la fouille et sur les parois ont montré que les teneurs en hydrocarbures étaient comprises entre 35 et 300 mg/kg.		

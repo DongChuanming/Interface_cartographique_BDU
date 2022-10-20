@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				ont_été_découvertes	Dans ce secteur, en 1992, lors de la construction de nouveaux bâtiments, des cuves de plusieurs m3 ont été découvertes, dont certaines contenaient des goudrons surmontés d'eau.	'goudrons'	
+								a_accueilli	Il a accueilli pendant 95 ans, de 1834 à 1929, une usine fabricant du gaz à partir de la distillation de la houille.		
+1950				1975				ont_été_démantelées	Les installations ont été démantelées entre les années 1950 et 1975, date du démantèlement du dernier gazomètre.		
+								est_maintenue_en_état_de_fonctionnement	Entre 1929 et les années 1950, l'usine est maintenue en état de fonctionnement tout en étant alimentée en gaz riche par feeders.		
+1834				1929				a_accueilli	Il a accueilli pendant 95 ans, de 1834 à 1929, une usine fabricant du gaz à partir de la distillation de la houille.		

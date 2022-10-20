@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	06	17		1997	06	17		a_été_prescrite	La surveillance du site a été prescrite par l'arrêté préfectoral du 17/06/1997.		
+2001	09	10		2001	09	10		analyses	Les résultats d'analyses des eaux souterraines des 10/09/2001, 09/09/2002 et 23/10/2003 montrent une situation satisfaisante.		
+2000	12	20		2000	12	20		ont_été_remises	Les études ont été remises le 17/12/1999 et complétée le 20/12/2000.		
+1999	12	17		1999	12	17		ont_été_remises	Les études ont été remises le 17/12/1999 et complétée le 20/12/2000.		
+2000	12	20		2000	12	20		complétée	Les études ont été remises le 17/12/1999 et complétée le 20/12/2000.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ne_reçoit_plus	Celui-ci ne reçoit plus depuis le milieu de l'année 2003 les effluents aqueux des ateliers, qui sont rejetés directement par canalisations dans le Rhône distant d'environ 2,5 km.	'les effluents aqueux'	
+1978				1978				est_exploité	Le site est exploité depuis 1978 par un atelier de traitement de surfaces, et a également accueilli dans une partie des locaux une activité de teinturerie (ex établissements LAMY et SOTEGI).		'LAMY', 'SOTEGI'
+2005	12	12		2005	12	12		L__étude_historique	L'étude historique a été transmise à l'administration le 29/09/2003 et complétée par un diagnostic initial et une évaluation simplifiée des risques le 12 décembre 2005.		
+2010	10	10		2010	10	10		a_fourni_une_Évaluation_quantitative	L'exploitant a fourni une Évaluation quantitative des risques sanitaires » du 10 octobre 2010.		
+2012				2012				a_demandé	L'inspection a demandé en 2012 à l'exploitant de reprendre la surveillance des eaux souterraines.		
+2010	10			2010	10			a_remis	L'exploitant a remis un plan de gestion en octobre 2010.		
+2003	04	01		2003	04	01		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques (ESR) devait être transmise à l'administration au plus tard le 01/04/2003.		
+2001				2001				il_a_été_demandé	A l'occasion de la modification et de la restructuration des ateliers de production en 2001, il a été demandé à la société RES par arrêté préfectoral du 25 juin 2001 de réaliser une étude de sol sur l'ensemble du site, y compris au niveau des locaux récemment acquis exploités antérieurement par la teinturerie.		
+2001				2001				la_modification	A l'occasion de la modification et de la restructuration des ateliers de production en 2001, il a été demandé à la société RES par arrêté préfectoral du 25 juin 2001 de réaliser une étude de sol sur l'ensemble du site, y compris au niveau des locaux récemment acquis exploités antérieurement par la teinturerie.		
+2003	09	29		2003	09	29		L__étude_historique	L'étude historique a été transmise à l'administration le 29/09/2003 et complétée par un diagnostic initial et une évaluation simplifiée des risques le 12 décembre 2005.		
+2003	04	01		2003	04	01		ESR___devait_être_transmise	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques (ESR) devait être transmise à l'administration au plus tard le 01/04/2003.		

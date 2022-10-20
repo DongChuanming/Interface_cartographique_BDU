@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				__projet	En 2009: projet de dépôt de terre végétale sur la totalité du site (550 000 Tonnes) avant mise en place de servitudes d'utilité publique.		
+1997				1997				effectuée	- Etude diagnostique approfondie de la friche effectuée en 1997-1998 dans le cadre d'un programme de recherches du Ministère de l'Environnement		
+1983				1983				____Études_de_sols_réalisées	- Études de sols réalisées par le BRGM à la demande de la DRIRE en 1982 et 1983.		'par le BRGM', 'de la DRIRE'
+1989				1989				a_été_complètement_démantelée	La friche a été complètement démantelée en 1989 et recouverte avec les débris de démolition (20 cm de terres calcaires ont également été réparties sur le sol de l'ancienne usine à zinc et plomb pour fixer les métaux) et par la suite des boues de dragage de la Scarpe ont été déposées sur le site de l'ancienne usine d'acide (SPCT).	'plomb', 'acide', 'SPCT'	
+2005				2005				ont_été_achevées	Ces études ont été achevées au printemps 2005.		
+1998				1998				effectuée	- Etude diagnostique approfondie de la friche effectuée en 1997-1998 dans le cadre d'un programme de recherches du Ministère de l'Environnement		
+1982				1982				____Études_de_sols_réalisées	- Études de sols réalisées par le BRGM à la demande de la DRIRE en 1982 et 1983.		'par le BRGM', 'de la DRIRE'

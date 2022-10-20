@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				des_relevés_piézométriques	Le bilan 2016 des relevés piézométriques indique des résultats stables par rapport à 2015 à l'exception d'une augmentation de la concentration en trichloroéthylène au niveau d'un piézomètre aval qui n'est pas observée sur les autres piézomètres en aval.	'trichloroéthylène'	
+2001	10	11		2001	10	11		met_en_œuvre	Par arrêté préfectoral du 11 octobre 2001, l’exploitant met en œuvre un suivi de sept polluants à travers 6 piézomètres.		
+2002	04	19		2002	04	19		la_mise_en_œuvre_d__un_stripping	Le préfet de l’Essonne a également prescrit le 19 avril 2002 par arrêté préfectoral complémentaire la mise en œuvre d’un stripping.		'Le préfet'
+2002	06			2002	06			stripping_est_effectif	Le traitement des eaux polluées par stripping est effectif depuis juin 2002.		
+2001	02	05		2001	02	05		ont_été_déposées	Elles ont été déposées le 5 février 2001.		
+2017				2017				est_surveillé	Ce point est surveillé en 2017.		

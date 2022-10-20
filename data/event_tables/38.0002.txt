@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1999	09			Des_travaux_de_réaménagement	Des travaux de réaménagement de la décharge ont été menés jusqu'en septembre 1999 (couverture terre végétale, nettoyage et mise en place de clôture).		
+2005	07	06		2005	07	06		Une_première_campagne_de_prélèvement_a_été_effectuée	Une première campagne de prélèvement a été effectuée le 06/07/2005 sur 10 sondages.		
+2005	07	22		2005	07	22		Une_deuxième_campagne_a_été_effectuée	Une deuxième campagne a été effectuée le 22/07/2005 sur 9 sondages.		
+				1999				une_activité_de_production_d__acier	Les Aciéries BONPERTUIS ont exercé une activité de production d'acier jusqu'en 1999.		'Les Aciéries BONPERTUIS'
+				1998				a_reçu	Une décharge interne, d'une superficie d'environ 1 hectare, se trouve également sur le site et a reçu jusqu'en 1998, les déchets solides provenant de l'aciérie.	'les déchets solides'	
+2007	12	18		2007	12	18		a_débuté	La surveillance des eaux souterraines a débuté le 18/12/2007.		
+2006	09	29		2006	09	29		a_été_transmis	Le rapport d'étude sur les végétaux a été transmis à l'administration le 29/09/2006.		
+1991				1991				Une_étude_hydrogéologique	Une étude hydrogéologique a été réalisée en 1991, par par le Laboratoire d’Etudes et de Contrôle de l’Environnement Sidérurgique pour contrôler l'impact de la décharge sur les eaux superficielles (La Fure) et souterraines, par des analyses en amont et en aval de la décharge.		'Sidérurgique'
+				1999				ont_exercé	Les Aciéries BONPERTUIS ont exercé une activité de production d'acier jusqu'en 1999.		'Les Aciéries BONPERTUIS'
+1978	06	08		1978	06	08		est_réglementée	L'entreprise est réglementée par l'arrêté préfectoral d'autorisation d'exploiter du 08/06/1978.		

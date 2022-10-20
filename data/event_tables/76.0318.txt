@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2013				été_décelé	Entre février et juillet 2013, aucun indice organoleptique d’impact n’avait été décelé.		
+2011	11			2012	01			Les_travaux_de_démantèlement_des_installations_pétrolières	Les travaux de démantèlement des installations pétrolières et d'excavation des sols impactés ont été réalisés entre novembre 2011 et janvier 2012.		
+2014	01			2014	01			a_été_décelé_lors	Aucun indice organoleptique d’impact n’a été décelé lors de la campagne de janvier 2014.		
+2012	09	14		2012	09	14		le_rapport_de_suivi	- le rapport de suivi de la qualité de la nappe et des gaz du sol après travaux de fermeture et analyse des risques résiduels de la société EGIS référencé W0584P01 du 14/09/2012.		'société EGIS'
+2012	02			2012	02			avaient_été_observés	Un caractère irisé de l’eau ainsi que des fortes odeurs d’hydrocarbures avaient été observés en février 2012 au droit du piézomètre PZ2.	'hydrocarbures'	
+2013	10			2013	10			la_campagne	Concernant le piézomètre PZ2, la présence de BTEX, et notamment du benzène (87 μg/L) décelée lors de la campagne d’octobre 2013 n’est plus détectée lors de la campagne de janvier 2014.	'BTEX', 'benzène'	
+2014	01			2014	01			de_la_campagne	Lors de la campagne de janvier 2014, une légère odeur d’hydrocarbures, similaire à celle ressentie en février puis octobre 2013, a été décelée.	'odeur d’ hydrocarbures'	
+2012				2012				avait_été_observée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+2012	04			2012	04			la_campagne_de_prélèvements	Les indices d’impact perçus en février 2012 au droit du piézomètre PZ5 (odeur d’hydrocarbures) n’ont plus été ressentis depuis la campagne de prélèvements d’avril 2012.	'hydrocarbures'	
+2012	10			2012	10			n__a_plus_été_perçue	Cette odeur n’a plus été perçue depuis la campagne d’octobre 2012.		
+2013	06			2013	06			avait_été_observée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+2012	06	11		2012	06	11		a_informé	Par courriers en date du 27 juin 2011 complété le 11 juin 2012, la société TOTAL a informé monsieur le préfet de Seine-Maritime de son souhait de cesser complètement les activités de distribution de carburant à cette adresse et a transmis :	'carburant'	'la société TOTAL', 'le préfet de Seine - Maritime'
+2013	06			2013	06			n__avait_plus_été_décelée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+2012	10			2012	10			la_campagne_d_	Cette odeur n’a plus été perçue depuis la campagne d’octobre 2012.		
+2014	01			2014	01			n__est_plus_détectée	Concernant le piézomètre PZ2, la présence de BTEX, et notamment du benzène (87 μg/L) décelée lors de la campagne d’octobre 2013 n’est plus détectée lors de la campagne de janvier 2014.	'BTEX', 'benzène'	
+								avait_été_observée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+2013	10			2013	10			a_été_décelée	Lors de la campagne de janvier 2014, une légère odeur d’hydrocarbures, similaire à celle ressentie en février puis octobre 2013, a été décelée.	'odeur d’ hydrocarbures'	
+								des_deux_campagnes_de_prélèvement	Une odeur de matière organique avait été décelée lors des deux campagnes de prélèvement de février et avril 2012 dans le piézomètre PZ1.	'odeur de matière organique'	
+2012	10			2012	10			avait_été_observée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+								a_été_décelée	Lors de la campagne de janvier 2014, une légère odeur d’hydrocarbures, similaire à celle ressentie en février puis octobre 2013, a été décelée.	'odeur d’ hydrocarbures'	
+2011	01			2011	01			Différentes_campagnes	Différentes campagnes (neuf depuis janvier 2011) menées au travers des piézomètres installés conduisent à :		
+								n__avait_plus_été_décelée	Une teneur similaire en benzène avait été observée en 2012 à la même époque (octobre 2012 : 141 μg/L), puis n’avait plus été décelée en février et juin 2013.	'benzène'	
+2012	04			2012	04			des_deux_campagnes_de_prélèvement	Une odeur de matière organique avait été décelée lors des deux campagnes de prélèvement de février et avril 2012 dans le piézomètre PZ1.	'odeur de matière organique'	
+2014	01			2014	01			la_campagne	Aucun indice organoleptique d’impact n’a été décelé lors de la campagne de janvier 2014.		
+1984				1984				a_accueilli	Depuis 1984, le site a accueilli différents exploitants exerçant des activités de stockage et de distribution de carburants.	'carburants'	
+2014	01			2014	01			a_été_décelée	Lors de la campagne de janvier 2014, une légère odeur d’hydrocarbures, similaire à celle ressentie en février puis octobre 2013, a été décelée.	'odeur d’ hydrocarbures'	
+2014	01			2014	01			la_campagne	Concernant le piézomètre PZ2, la présence de BTEX, et notamment du benzène (87 μg/L) décelée lors de la campagne d’octobre 2013 n’est plus détectée lors de la campagne de janvier 2014.	'BTEX', 'benzène'	
+2012	04			2012	04			n__ont_plus_été_ressentis	Les indices d’impact perçus en février 2012 au droit du piézomètre PZ5 (odeur d’hydrocarbures) n’ont plus été ressentis depuis la campagne de prélèvements d’avril 2012.	'hydrocarbures'	

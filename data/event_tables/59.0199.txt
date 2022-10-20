@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06			2001	06			à_un_rapport_d__étude_des_sols	Suite à un rapport d'étude des sols phase A (documentaire) de juin 2001,la pollution potentielle inhérente aux anciennes activités (avant 1993)et aux activités actuelles (après 1993) a été définie.		
+2009	12	23		2009	12	23		une_actualisation_complète	- l'arrêté préfectoral d'autorisation du 03/11/2003 a fait l'objet d'une actualisation complète en vue de prendre en compte la directive IPPC, l'arrêté préfectoral complémentaire date du 23/12/2009		'IPPC'
+								impose_une_étude_des_sols	- site en activité visé par la circulaire du 3 avril 1996 qui impose une étude des sols sur les sites en activité : APC du 04/09/98 prescrivant une étude de sols phase A et une EDR		
+1993	11	03		1993	11	03		un_arrêté_préfectoral_d__autorisation	-L'activité de la société SAPROTEC a fait l'objet d' un arrêté préfectoral d'autorisation d'exploiter en date du 03 novembre 1993		'la société SAPROTEC'

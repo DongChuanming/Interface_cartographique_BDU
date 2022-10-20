@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Une_étude	Une étude réalisée en 1998 a permis la modélisation de la pollution.		
+2007				2007				La_dépollution___pompage	La dépollution (pompage) est stoppée début 2007 dans la mesure où la concentration en toluène dans la nappe est de 6,5 mg/l et donc en-dessous de la limite fixée à 10 mg/l.	'toluène'	
+1996				1996				a_été_découverte	La pollution a été découverte en 1996 lors du rachat du site.		
+2008	08			2008	08			La_campagne_de_surveillance	La campagne de surveillance d'août 2008 permet de constater que les concentrations en toluène sont toujours inférieures au seuil règlementaire et qu'aucun impact des activités actuelles du site n'est observé sur la qualité des eaux souterraines.	'toluène'	
+2000	02			2000	02			la_réalisation_d__une_étude_d__impacts	En février 2000 un arrêté préfectoral impose à la Société d'Applications Routières la réalisation d'une étude d'impacts de la pollution du sous-sol et d'un mémoire sur les mesures de réhabilitation envisageables.		"la Société d' Applications Routières"

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				absorbée	Dans les années 1980, ce site a été cédé à la société Lambert et Cie, elle-même absorbée en 1992 par la société CPE.		'la société Lambert', 'la société CPE'
+2007	09			2007	09			Des_travaux_complémentaires_de_reconnaissance	Des travaux complémentaires de reconnaissance de l’état du sous sol du site se sont déroulés en septembre 2007.		
+2011	09	05		2011	09	05		transmission	Par transmission en date du 05 septembre 2011, la société CPE ENERGIES souhaitait mettre fin au suivi de la qualité des eaux souterraines compte tenu des résultats conformes des analyses.		'la société CPE ENERGIES'
+2015	10	29		2015	10	29		a_été_portée_à_la_connaissance	Cette situation a été portée à la connaissance du maire de la commune par courrier préfectoral du 29 octobre 2015.		
+2008	03	06		2008	03	06		était_tenue	Par arrêté préfectoral n° 680/2008 du 06 mars 2008, la société CPE ENERGIES était tenue d’assurer durant quatre ans un suivi de la qualité des eaux souterraines au niveau des trois piézomètres « Pz1 à Pz3 ».		'la société CPE ENERGIES'
+2007	07			2011	03			analyses_effectuées	L’examen des résultats d’analyses effectuées de juillet 2007 à mars 2011 mettait en évidence au droit de l’ensemble des ouvrages :		
+1995				1995				a_été_évacuée	Ce dépôt n'est plus exploité depuis des années et la citerne d'hydrocarbures a été évacuée en 1995.	'hydrocarbures'	
+2006	09			2006	09			Un_diagnostic_environnemental	Un diagnostic environnemental du site a été réalisé en septembre 2006.		
+2011	09	05		2011	09	05		souhaitait	Par transmission en date du 05 septembre 2011, la société CPE ENERGIES souhaitait mettre fin au suivi de la qualité des eaux souterraines compte tenu des résultats conformes des analyses.		'la société CPE ENERGIES'
+2011	09	29		2011	09	29		a_autorisé	Aussi, par courrier en date du 29 septembre 2011, Monsieur le Préfet de Vosges a autorisé la société CPE ENERGIES à mettre fin au suivi piézométrique prescrit par l‘arrêté préfectoral du 06 mars 2008.		'le Préfet de Vosges', 'la société CPE ENERGIES'
+2007	07			2007	07			une_campagne_d__évaluation	Compte tenu de la présence de ces souillures résiduelles, une campagne d’évaluation de la qualité des eaux souterraines au droit du site a été mise en œuvre en juillet 2007 par l’implantation de 3 piézomètres nommés « Pz1 à Pz3 ».		
+								a_été_cédé	Dans les années 1980, ce site a été cédé à la société Lambert et Cie, elle-même absorbée en 1992 par la société CPE.		'la société Lambert', 'la société CPE'

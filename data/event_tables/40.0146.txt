@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				a_été_abandonnée	Cette activité a été abandonnée en 1985.		
+2013	07	12		2013	07	12		ont_été_mises_à_l__arrêt	Les activités de la société PROGAREIN ont été mises à l'arrêt le 12 juillet 2013.		'la société PROGAREIN'
+2010	09	24		2010	09	24		Cette_activité_perdura	Cette activité perdura jusqu'en septembre 2010 avec la liquidation judiciaire de la société NAVARRE à partir du 24/09/2010.		'la société NAVARRE'
+1978	05	29		1978	05	29		étaient_autorisées	Les activités étaient autorisées par arrêté préfectoral du 29 mai 1978.		
+2011	05	26		2011	05	26		avait_envisagé_de_reprendre	La société PROGAREIN avait envisagé de reprendre cette activité et un changement d'exploitant a été acté par Mr le Préfet par courrier du 26/05/2011.		'La société PROGAREIN', 'Mr le Préfet'
+1905				1905				a_été_créée	La société Bertrand NAVARRE a été créée à Garein en 1905, à l'origine pour exercer une activité de distillation de gemme et fabrication notamment d'essence de térébenthine et de colophane.	'essence', 'térébenthine'	'La société Bertrand NAVARRE'
+				2010	09			Cette_activité_perdura	Cette activité perdura jusqu'en septembre 2010 avec la liquidation judiciaire de la société NAVARRE à partir du 24/09/2010.		'la société NAVARRE'
+1946				1946				a_débutée	Parallèlement, une activité de fabrication de charbon de bois a débutée en 1946.	'charbon de bois'	
+2011	01			2011	01			sont_poursuivies	Lorsque PROGAREIN reprend l'exploitation en janvier 2011, seules les activités de production de mastic et glu et de conditionnement du goudron sont poursuivies.	'mastic', 'glu', 'goudron'	'PROGAREIN'
+2013	10	24		2013	10	24		Une_visite_d__inspection	Une visite d'inspection a donc été effectuée le 24 octobre 2013 pour statuer sur la remise en état du site.		
+2013	12	17		2013	12	17		est_envoyée	Une lettre est envoyée le 17 décembre 2013 à Me Dominique GUERIN, liquidateur de la société NAVARRE pour lui rappeler ses obligations de mise en sécurité du site.		'Me Dominique GUERIN', 'la société NAVARRE'
+								Cette_cessation	Cette cessation a été déclarée à la préfecture des Landes le 08 août .		
+2011	01	10		2011	01	10		déclare_avoir_repris_l__activité	Dans son courrier du 15/04/2011, la SARL PROGAREIN déclare avoir repris l'activité des Ets NAVARRE depuis le 10 janvier 2011 pour ce qui concerne l'activité de production de mastic et glu, et le conditionnement de goudron.	'mastic', 'glu', 'goudron'	'la SARL PROGAREIN', 'des Ets NAVARRE'
+2011	05	19		2011	05	19		Un_état_des_lieux	Un état des lieux du 19/05/2011 signé par le bailleur et la gérante de la société PROGAREIN stipule déjà la présence de ces déchets incombant à l'ancien exploitant.	'ces déchets incombant'	'la société PROGAREIN'
+2012	11			2012	11			a_été_démontée	Cette installation n'a jamais redémarré et a été démontée en novembre 2012.		

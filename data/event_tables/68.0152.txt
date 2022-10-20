@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	11	15		2016	11	15		La_visite	La visite du 15 novembre 2016 a permis de constater que les installations avaient été mises en sécurité.		
+2010	06			2010	06			cesse	En juin 2010, la société cesse ses activités.		
+2010	05			2010	05			change_de_dénomination	En mai 2010, la société change de dénomination de raison sociale en SAS ANHYDRITE MINERALE France.		'SAS ANHYDRITE MINERALE France'
+1970				1970				a_exploité	La société MAXIT a exploité un établissement industriel de fabrication de chaux et d'enduits de parement à partir de 1970.		'La société MAXIT'

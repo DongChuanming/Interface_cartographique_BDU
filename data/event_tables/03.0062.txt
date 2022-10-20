@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019				2019				conduit_un_diagnostic	En 2017 - 2019, dans le cadre d'un projet d’aménagement de parking, la commune de Montluçon, propriétaire du site depuis 1996, conduit un diagnostic des sols et une évaluation des risques sanitaires sur un partie du terrain (3010 m²/15280 m²)		
+1996				1996				conduit_un_diagnostic	En 2017 - 2019, dans le cadre d'un projet d’aménagement de parking, la commune de Montluçon, propriétaire du site depuis 1996, conduit un diagnostic des sols et une évaluation des risques sanitaires sur un partie du terrain (3010 m²/15280 m²)		
+2007				2007				La_cessation_d__activité	La cessation d'activité d'AGIS Applications Industrielles est prononcée en 2007.		"d' AGIS Applications"
+1872				1872				la_création	Usine de fabrication de bougies et de cires dont la création remonte à 1872 par la famille Troubat, la Société Générale des Cires Françaises prend ensuite la dénomination de Société Générale de Chimie Française en 1972 puis de Diamantine en 1989.	'cires'	'la Société Générale des Cires Françaises', 'Société Générale de Chimie Française', 'Diamantine'
+2000	06			2000	06			Le_démantèlement	Le démantèlement et dégazage des installations (cuves, tuyauteries, ferrailles) ont été réalisés en juin 2000.		
+2000	04			2000	04			La_cessation_d__activité	La cessation d'activité a été prononcée en avril 2000.		
+1995				1998				ont_été_transférées	Les activités ont été transférées, entre 1995 et 1998, vers un autre site de la commune de Montluçon.		
+2017				2017				conduit_un_diagnostic	En 2017 - 2019, dans le cadre d'un projet d’aménagement de parking, la commune de Montluçon, propriétaire du site depuis 1996, conduit un diagnostic des sols et une évaluation des risques sanitaires sur un partie du terrain (3010 m²/15280 m²)		

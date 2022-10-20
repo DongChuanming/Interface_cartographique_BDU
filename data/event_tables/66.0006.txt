@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				2000				ont_fonctionné	Ces installations ont fonctionné de 1972 à 2000.		
+2002	01	03		2002	01	03		La_4eme_analyse_effectuée	La 4eme analyse effectuée le 03 janvier 2002 confirme la régression de tous les paramètres mesurés qui sont soit en limite ou sous le seuil de détection.		
+1999				1999				cessation_d__activité_émise	Dans le cadre d'une déclaration de cessation d'activité émise fin 1999, l'inspecteur des installations classées a demandé la réalisation d'un diagnostic.		
+1999	03	31		1999	03	31		Le_diagnostic	Le diagnostic, remis le 31/03/1999, a mis en évidence des concentrations élevées en hydrocarbures autour des cuves enterrées et du décanteur.	'hydrocarbures'	
+1999				1999				la_réalisation_d__un_diagnostic	Dans le cadre d'une déclaration de cessation d'activité émise fin 1999, l'inspecteur des installations classées a demandé la réalisation d'un diagnostic.		

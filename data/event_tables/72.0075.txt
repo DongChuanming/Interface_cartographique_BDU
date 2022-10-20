@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_repris	UADEC, puis à partir de 1998 par Mme Béatrice SALLE qui a repris la même activité.		'UADEC', 'Béatrice SALLE'
+2010	10	18		2010	10	18		l__abandon_du_site	Lors d'une visite d'inspection du 18 octobre 2010, il a été constaté l'abandon du site par l'exploitant.		
+2014	03	20		2014	03	20		de_la_visite	Lors de la visite du 20 mars 2014, il a été constaté une nouvelle activité sur le site.		
+1996	07	1		1996	07	1		a_été_exploité	Le site a été exploité depuis le 1er juillet 1996 par M.		
+2010	10	18		2010	10	18		d__une_visite_d__inspection	Lors d'une visite d'inspection du 18 octobre 2010, il a été constaté l'abandon du site par l'exploitant.		
+2006				2006				aurait_cessé	L'activité du site aurait cessé en 2006, le site a été nettoyé ensuite.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				devient	En 2006 SOLLAC devient ARCELORMITTAL Méditerranée « Site de Fos-sur-mer ».	'de Fos-sur-mer'	'SOLLAC devient ARCELORMITTAL Méditerranée'
+1973				1973				est_entré_en_service	Ce site en activité est implanté à Fos sur une superficie de 900 ha depuis la création de la zone industrialo-portuaire et est entré en service en 1973.		
+2009	11	18		2009	11	18		a_été_condamné_à_une_amende_de	Le 18/11/2009, ARCELORMITTAL a été condamné à une amende de 55 000 € par le TC d'Aix en Provence.		'ARCELORMITTAL', "le TC d' Aix"
+2008	02	12		2008	02	12		a_été_signé	Un AP de mesures d'urgence a été signé le 12/02/2008 afin d'encadrer le nettoyage des zones souillées et la réalisation d'études permettant de ne pas reproduire cet incident.		
+2012				2012				sera_actualisé	Le réseau piézométrique sera actualisé courant 2012.		
+2009	07	07		2009	07	07		est_autorisé_par	Le site est autorisé par les AP du 17/12/2001, 4/07/2006, 16/01/2008, 07/07/2009.		
+2008	02	05		2008	02	05		a_eu_lieu	Le 5/02/2008, un rejet de fioul lourd dans le milieu naturel (Darse Sud) a eu lieu sur le site à cause d'une ouverture inopinée d'une soupape sur le circuit hydrocarbures liquides.	'fioul lourd', 'hydrocarbures liquides'	
+2010	05			2010	05			a_été_remise	Une analyse critique sur le réseau de surveillance en place a été remise en Mai 2010.		

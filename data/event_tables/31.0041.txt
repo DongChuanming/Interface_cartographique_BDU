@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				Installée	Installée depuis 1990 sur la zone industrielle du Grand Joffrery à Muret (31), sur une superficie de 3500m², la société SOVAMEP est spécialisée dans la récupération et la valorisation des métaux.		'la société SOVAMEP'
+1996	04	03		1996	04	03		a_été_retenue	Compte tenu des risques de pollution potentiels du sous-sol liés à l'activité de récupération et de valorisation de métaux, l'entreprise SOVAMEP a été retenue par l'inspection des installations classées, dans le cadre de l'application de la circulaire du 3 avril 1996, pour faire l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques.		'entreprise SOVAMEP'
+2011	12	23		2011	12	23		a_été_mise_en_place	Cette surveillance, effectuée via un réseau de 2 piézomètres, a été mise en place en 2008 et a été intégrée dans l'arrêté préfectoral du 22 octobre 2009 puis du 23 décembre 2011.		
+2001	05			2001	05			Une_étude_des_sols	Une étude des sols a été établie en mai 2001.		
+2017				2017				Les_campagnes_effectuées	Les campagnes effectuées depuis 2017 confirment la présence de nickel (valeurs comprises entre 6,09 µg/l et 12,25 µg/l) et montrent des teneurs en plomb inférieures aux limites de quantification du laboratoire.	'nickel', 'plomb'	
+2008				2008				a_été_mise_en_place	Cette surveillance, effectuée via un réseau de 2 piézomètres, a été mise en place en 2008 et a été intégrée dans l'arrêté préfectoral du 22 octobre 2009 puis du 23 décembre 2011.		
+2014				2014				ont_été_relevées	Dès 2014, des fluctuations ont été relevées sur le plomb et le nickel.	'plomb', 'nickel'	

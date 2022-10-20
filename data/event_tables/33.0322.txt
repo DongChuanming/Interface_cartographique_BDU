@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	24		2006	07	24		produit_un_diagnostic_environnemental_complémentaire	L'exploitant produit un diagnostic environnemental complémentaire le 24 juillet 2006.		
+2011				2011				fait_procéder	En 2011, dans le cadre de la cessation d'activité, l'exploitant fait procéder à l'excavation de plus de 892,4 t de terres souillées suite à la démolition de l'aire de distribution et des aires de dépotage.		
+2011	06			2011	06			la_campagne	Elle montre une amélioration de la qualité des eaux souterraines par rapport à la campagne de juin 2011 avec :		
+				2011	06			fait_procéder_au_démantèlement	De mai à juin 2011, dans le cadre de la cessation d'activité, l'exploitant fait procéder au démantèlement de l'ensemble des installations : deux réservoirs aériens de 40 m3, un réservoir enterré de 15 m3, un séparateur d'hydrocarbures et l'ensemble de tuyauteries.	'hydrocarbures'	
+2011	06			2011	06			Une_campagne_de_mesures	Une campagne de mesures de la qualité des eaux souterraines a également été réalisée en juin 2011 au droit de trois ouvrages (Pz B en amont, Pz A et Pz C en aval).		
+2006	11	28		2006	11	28		la_cessation_d__activité	Le 28 novembre 2006, la société AS 24 déclare la cessation d'activité de cette station-service.		'la société AS 24'
+2005				2005				Les_travaux_d__excavation	Les travaux d'excavation des terres souillées en 2005 et en 2011 n'ont pas permis de traiter les sources de pollution suivantes :		
+2015	04	03		2015	04	03		apporte_quelques_précisions	L'exploitant est informé du projet d'arrêté début 2015 et apporte quelques précisions le 03/04/2015.		
+2013	10	09		2013	10	09		est_remis	Le dossier est remis le 09/10/2013.		
+2015				2015				est_informé	L'exploitant est informé du projet d'arrêté début 2015 et apporte quelques précisions le 03/04/2015.		
+1997	10	27		1997	10	27		a_fait_l__objet_de	La station-service a fait l'objet de récépissés de déclaration pour l'exploitation d'installations classées sous les rubriques 1432 (stockage de liquides inflammables) et 1434 (distribution de liquides inflammables), les 27 octobre 1997 et 22 février 2000.	'liquides inflammables', 'liquides inflammables'	
+2011	09	27		2011	09	27		un_diagnostic_complémentaire	Le 27 septembre 2011, l'exploitant a produit un diagnostic complémentaire et une Analyse des Risques Résiduels (ARR) qui doit être réalisée sur la base d'un schéma conceptuel et accompagnée de mesures de gestion en découlant.		
+2015	04	03		2015	04	03		est_informé	L'exploitant est informé du projet d'arrêté début 2015 et apporte quelques précisions le 03/04/2015.		
+2007	04			2007	04			Des_campagnes_d__analyses	Des campagnes d'analyses de la qualité des eaux souterraines sont réalisées en octobre 2006, avril 2007, décembre 2010 : elles mettent en évidence l'absence d'évolution des concentrations mesurées dans les eaux souterraines.		
+2005	04	29		2005	04	29		ont_été_excavées	Les 28 et 29 avril 2005, 98,86 t de terres ont été excavées et envoyée vers un centre de classe 1 de Champteusse/Baconne (49) pour être traitées par biodégradation aérobie.		
+2011	12			2011	12			Une_nouvelle_campagne_de_mesures	Une nouvelle campagne de mesures est réalisée en décembre 2011, suite aux travaux de démantèlement et d'excavation, au droit de trois piézomètres (PZA en aval et PZB et PZC en amont).		'PZC'
+2005				2005				est_identifiée	- pour les sols, que la zone polluée est identifiée et délimitée (en 2005),		
+2005	06	28		2005	06	28		un_diagnostic	Le 28 juin 2005, l'exploitant transmet à l'Inspection des Installations Classées (IIC) un diagnostic des sols et de la nappe qui confirme des impacts significatifs en hydrocarbures totaux dans les sols au droit des appareils de distribution.	'hydrocarbures totaux'	
+								ont_été_excavées	Les 28 et 29 avril 2005, 98,86 t de terres ont été excavées et envoyée vers un centre de classe 1 de Champteusse/Baconne (49) pour être traitées par biodégradation aérobie.		
+2005	04	26		2005	04	26		le_dysfonctionnement	Le 26 avril 2005, le dysfonctionnement d'un clapet anti-siphon entraine un déversement accidentel d'hydrocarbures au droit de l'établissement.	'hydrocarbures'	
+2000	02	22		2000	02	22		a_fait_l__objet_de	La station-service a fait l'objet de récépissés de déclaration pour l'exploitation d'installations classées sous les rubriques 1432 (stockage de liquides inflammables) et 1434 (distribution de liquides inflammables), les 27 octobre 1997 et 22 février 2000.	'liquides inflammables', 'liquides inflammables'	
+2011	06	29		2011	06	29		Une_campagne_d__analyse	Une campagne d'analyse de l'air du sol a été menée le 29 juin 2011.		
+2010	12			2010	12			Des_campagnes_d__analyses	Des campagnes d'analyses de la qualité des eaux souterraines sont réalisées en octobre 2006, avril 2007, décembre 2010 : elles mettent en évidence l'absence d'évolution des concentrations mesurées dans les eaux souterraines.		
+2006	10			2006	10			Des_campagnes_d__analyses	Des campagnes d'analyses de la qualité des eaux souterraines sont réalisées en octobre 2006, avril 2007, décembre 2010 : elles mettent en évidence l'absence d'évolution des concentrations mesurées dans les eaux souterraines.		
+2011				2011				Les_travaux_d__excavation	Les travaux d'excavation des terres souillées en 2005 et en 2011 n'ont pas permis de traiter les sources de pollution suivantes :		
+2011	06			2011	06			une_campagne_de_mesures	A l'issue de ces travaux, une campagne de mesures de la pollution des sols a été réalisée en juin 2011.		

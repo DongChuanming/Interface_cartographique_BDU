@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	13		1999	07	13		a_été_constatée	Dans le cadre du contrôle de toutes les mégisseries de Graulhet par la DREAL Midi-Pyrénées le 13 juillet 1999, la présence de déchets a été constatée sur le site dans la partie qui était occupée par la SARL FRANSCUIRS .		'la DREAL Midi', 'la SARL FRANSCUIRS'
+2006	12	13		2006	12	13		Un_diagnostic_environnemental	Un diagnostic environnemental du site a été réalisé le 13 décembre 2006.		
+1982	07	14		1982	07	14		s__est_substituée	Par récépissé de changement d'exploitant, en date du 14 juillet 1982, la société Mégisserie OCCITANE s'est substituée à la SARL IMBERT.		'la société Mégisserie OCCITANE', 'la SARL IMBERT'
+				1998				a_succédé	- la SARL SOVIMA a succédé à la société CUIRS ECO jusqu'en 1998,		'la SARL SOVIMA', 'la société CUIRS ECO'
+2007	10	11		2007	10	11		la_réalisation	Suite à une inspection de la DREAL Midi-Pyrénées du 11 octobre 2007, il a été constaté la réalisation des travaux de dépollution et d'enlèvement des terres polluées (112 tonnes de terres).		'la DREAL Midi'
+1996	04	30		1996	04	30		L__exploitation	L'exploitation du site s'est arrêtée le 30 avril 1996, mais l'arrêt de l'activité n'a pas été déclaré par l'exploitant.		
+2010	02	19		2010	02	19		a_été_signé	Un PV de recollement du site a été signé le 19 février 2010.		
+1999	11	23		1999	11	23		informé	Par courrier du 23 novembre 1999, Jean Christian CALVEL (propriétaire du site)a informé la Préfecture de l'évacuation des fûts entreposés (huile de nourriture et tanins synthétiques).	'tanins synthétiques'	'Jean Christian CALVEL', 'la Préfecture'
+2007				2007				les_analyses	Mais les analyses des eaux souterraines de 2007 ont permis de confirmer la présence de traces de tétrachloroéthylène et de trichloroéthylène.	'tétrachloroéthylène', 'trichloroéthylène'	
+2005	04	08		2005	04	08		a_été_mise_en_liquidation	La SARL FRANSCUIRS a été liquidée en 1998, la SARL SOVIMA a arrêté son activité en 1998 et la société DERAYAGE SERVICE a été mise en liquidation le 8 avril 2005.		'La SARL FRANSCUIRS', 'la SARL SOVIMA', 'la société DERAYAGE SERVICE'
+2008				2008				a_été_revendu	Le site a été revendu à la mairie de GRAULHET en 2008.		
+2010	02	08		2010	02	08		une_demande	Le 8 février 2010, la mairie de Graulhet a déposé une demande de permis de démolir afin de détruire totalement l'ancienne usine (atelier de pigmentation).		
+2005	04	08		2005	04	08		a_été_nommé	Suite au redressement judiciaire de la société DERAYAGE SERVICE, un administrateur judiciaire a été nommé le 8 avril 2005.		'la société DERAYAGE SERVICE'
+1999	11	08		1999	11	08		a_été_signé	Il a été signé le 8 novembre 1999 afin d'évacuer les déchets dans un délai de 15 jours.		
+1995	06			1995	06			s__installe_en_location	- la société DERAYAGE SERVICE s'installe en location à partir de juin 1995 pour exercer les activités de dérayage, veloutage, retaillage sur une partie du site.		'la société DERAYAGE SERVICE'
+2005	10	26		2005	10	26		d__une_inspection	Lors d'une inspection le 26 octobre 2005, les inspecteurs ont constaté la présence de produits chimiques et de bidons dans un bâtiment de la société, laissé à l'abandon.	'produits chimiques'	
+				1998	10	31		a_réalisé_les_opérations	- la SARL FRANSCUIRS a réalisé les opérations de mégisserie et de tannerie jusqu'au 31 octobre 1998,		'la SARL FRANSCUIRS'
+				1996				a_réalisé_les_opérations	- la SARL CUIRS ECO a réalisé les opérations de pigmentation des peaux jusqu'en 1996,		'la SARL CUIRS ECO'
+2008				2008				Des_investigations_sur_les_sols	Des investigations sur les sols ont été menées en 2008 sur les parcelles voisines et la parcelle 243.		
+1998				1998				a_été_liquidée	La SARL FRANSCUIRS a été liquidée en 1998, la SARL SOVIMA a arrêté son activité en 1998 et la société DERAYAGE SERVICE a été mise en liquidation le 8 avril 2005.		'La SARL FRANSCUIRS', 'la SARL SOVIMA', 'la société DERAYAGE SERVICE'
+1999	07	13		1999	07	13		contrôle	Dans le cadre du contrôle de toutes les mégisseries de Graulhet par la DREAL Midi-Pyrénées le 13 juillet 1999, la présence de déchets a été constatée sur le site dans la partie qui était occupée par la SARL FRANSCUIRS .		'la DREAL Midi', 'la SARL FRANSCUIRS'
+1965	06	15		1965	06	15		exercer	Le site était anciennement exploité par la société SARL IMBERT, autorisée depuis le 15 juin 1965 et le 23 juillet 1979 à exercer des activités de mégisserie, tannerie et teinture de peaux.		'la société SARL IMBERT'
+				1979	07	23		exercer	Le site était anciennement exploité par la société SARL IMBERT, autorisée depuis le 15 juin 1965 et le 23 juillet 1979 à exercer des activités de mégisserie, tannerie et teinture de peaux.		'la société SARL IMBERT'

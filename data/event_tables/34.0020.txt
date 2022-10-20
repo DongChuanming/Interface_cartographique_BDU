@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				effectuées	Lors du contrôle des eaux souterraines effectuées en 2000 sur le réseau de piézomètres implantés depuis 1973 sur le site, la société IBM a détecté une pollution des eaux souterraines par des COV, principalement du trichloréthylène en bordure du bâtiment B1 où se trouvait l'atelier de traitement de surface.	'COV', 'du trichloréthylène'	'la société IBM'
+2004	01			2004	01			évaluation_détaillée_des_risques	Une évaluation détaillée des risques (EDR) a été remise en janvier 2004.		
+2010	09			2010	09			sont_opérationnelles	Les installations sont opérationnelles depuis septembre 2010 et ont été optimisées en 2017.		
+2017				2017				ont_été_optimisées	Les installations sont opérationnelles depuis septembre 2010 et ont été optimisées en 2017.		
+2019	04			2019	04			site_transmis	Un arrêté préfectoral complémentaire a été signé le 28/10/2019 afin d'encadrer la remise en état du site sur la base de l'actualisation du plan de gestion du site transmis en avril 2019.		
+2017				2017				sont_opérationnelles	Les installations sont opérationnelles depuis septembre 2010 et ont été optimisées en 2017.		
+2019	04			2019	04			l__actualisation_du_plan_de_gestion	Un arrêté préfectoral complémentaire a été signé le 28/10/2019 afin d'encadrer la remise en état du site sur la base de l'actualisation du plan de gestion du site transmis en avril 2019.		
+2019	10	28		2019	10	28		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 28/10/2019 afin d'encadrer la remise en état du site sur la base de l'actualisation du plan de gestion du site transmis en avril 2019.		
+2001	05	30		2001	05	30		Une_étude_des_sols	Une étude des sols et une évaluation simplifiée des risques ont été demandées par arrêté préfectoral du 30 mai 2001, la pollution constatée étant limitée à l'intérieur du site.		
+2012				2012				démoli	Des investigations complémentaires ont été réalisées à partir de 2006 afin de mieux caractériser la pollution (investigations sur les eaux souterraines et mise en place de piézomètres supplémentaires, investigations des sous-sols au droit de l'ancienne station d'épuration du site démantelée en 2008, mesures des gaz du sols, investigation des sols au droit de l'ancien bâtiment B1 démoli en 2012).		
+1970				1978				a_été_exploitée	Une activité de traitement de surface pour la photogravure de cartes et circuits imprimés y a été exploitée de 1970 à 1978.		

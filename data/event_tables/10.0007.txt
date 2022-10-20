@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	06			2011	06			a_été_transmis	Un projet d'arrêté de servitudes d'utilité publique a été transmis pour avis en juin 2011 aux services de l'Etat, à la municipalité de Barberey St Sulpice, au propriétaire et à l'exploitant  ; il a été signé le 16 janvier 2012.		
+1964				1964				construit	Le dépôt construit en 1964 était implanté sur des alluvions dans lequel circule une nappe à une profondeur de 1 à 3 mètres.		
+2009				2009				Les_mesures_réalisées	Les mesures réalisées en 2009 confirment cette atténuation, les teneurs en hydrocarbures sont très faibles et voisines des seuils de quantification du laboratoire.	'hydrocarbures'	
+2001	01	25		2001	01	25		de_la_première_évaluation_simplifiée_des_risques	Lors de la première évaluation simplifiée des risques en date du 25 janvier 2001, des teneurs en hydrocarbures comprises entre 25 et 60 mg/kg dans les sols sur 4 sondages et de 14 à 84 mg/l dans les eaux ont été détectés sur 2 piézomètres.	'hydrocarbures'	
+1994				1994				a_remis	Un diagnostic du sous-sol a été effectué par le bureau d'étude GEOSTOCK qui a remis un rapport en 1994.		'GEOSTOCK'
+2001	01	25		2001	01	25		ont_été_détectés	Lors de la première évaluation simplifiée des risques en date du 25 janvier 2001, des teneurs en hydrocarbures comprises entre 25 et 60 mg/kg dans les sols sur 4 sondages et de 14 à 84 mg/l dans les eaux ont été détectés sur 2 piézomètres.	'hydrocarbures'	
+2009				2009				La_campagne_de_surveillance	La campagne de surveillance des eaux souterraines de 2009 a mis en évidence la présence d'une pollution de la nappe par les hydrocarbures au droit des anciennes voies ferrées (2 anciennes sources-sol).	'hydrocarbures'	
+2012	01	16		2012	01	16		a_été_signé	Un projet d'arrêté de servitudes d'utilité publique a été transmis pour avis en juin 2011 aux services de l'Etat, à la municipalité de Barberey St Sulpice, au propriétaire et à l'exploitant  ; il a été signé le 16 janvier 2012.		
+2010	07	12		2010	07	12		Des_investigations_complémentaires	Des investigations complémentaires et le maintien de la surveillance des Eaux Souterraines ont donc été demandées et sont encadrées par un Arrêté Préfectoral Complémentaire du 12 juillet 2010.		
+1994				1994				démantelé	Ancien dépôt de carburant démantelé en 1994.	'carburant'	
+2011	03			2011	03			a_été_remis	Un mémoire de réhabilitation a été remis en mars 2011.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	12			2013	12			est_en_redressement_judiciaire	La société est en redressement judiciaire depuis décembre 2013.		
+2014	11	12		2014	11	12		Un_contrôle_inopiné	Un contrôle inopiné a été réalisé le 12 novembre 2014 afin de vérifier la qualité physico-chimique des rejets des eaux pluviales dans le milieu.		
+2011				2013				trois_contrôles_inopinés	A cet effet, de 2011 à 2013, trois contrôles inopinés des eaux de surface ont été effectués.		
+1994	02	11		1994	02	11		a_été_autorisée_à_exploiter	La société Armoricaine de Broyage (devenue GROUPE LE FLOCH) a été autorisée à exploiter une installation spécialisée dans la récupération, le broyage et le stockage de véhicules hors d’usage ainsi que de déchets de métaux ferreux/non ferreux et d’alliages par arrêté préfectoral du 11 février 1994.	'déchets de métaux ferreux'	'La société Armoricaine', 'de Broyage', 'devenue GROUPE LE FLOCH'

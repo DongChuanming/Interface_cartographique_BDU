@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02			1998	02			à_sa_fermeture	Cette usine créée en 1898 pour la fabrication de véhicules a progressivement orienté son activité vers la fabrication de moteurs diesels jusqu'à sa fermeture en février 1998.		
+1968				1968				créée	Ce site est divisé en deux usines A (origine du site de production) et B (créée en 1968 et non polluée).		
+1998	02			1998	02			a_progressivement_orienté	Cette usine créée en 1898 pour la fabrication de véhicules a progressivement orienté son activité vers la fabrication de moteurs diesels jusqu'à sa fermeture en février 1998.		
+1898				1898				créée	Cette usine créée en 1898 pour la fabrication de véhicules a progressivement orienté son activité vers la fabrication de moteurs diesels jusqu'à sa fermeture en février 1998.		

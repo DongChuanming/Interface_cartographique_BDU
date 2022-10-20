@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09			2005	09			Des_campagnes_de_mesures	Des campagnes de mesures ont été réalisées en septembre 2005 et mars 2006.		
+2000	12			2000	12			ont_été_remis_respectivement	Ces documents ont été remis respectivement en décembre 2000 et juillet 2004.		
+2005	04	13		2005	04	13		La_mise_en_place_d__une	La mise en place d'une surveillance des eaux souterraines, la réalisation d'une étude technico-économique, d'un diagnostic approfondi et d'une évaluation détaillée des risques ont été prescrites par arrêté préfectoral en date du 13 avril 2005.		
+2010	04			2010	04			a_été_rachetée	La société Demarais Industries a été rachetée fin avril 2010 par le groupe Altia suite à un redressement judiciaire.		'La société Demarais Industries', 'groupe Altia'
+1975				1975				est_implantée_sur_le_site_actuel	La société DEMARAIS INDUSTRIES est implantée sur le site actuel depuis 1975 en zone industrielle de la commune de Montoire sur le Loir.		'La société DEMARAIS INDUSTRIES'
+2000				2000				a_cessé	La pratique qui consiste à envoyer les eaux de rinçage des pièces dans le puisard a cessé en 2000.		
+2005	09			2005	09			a_été_mise_en_place	La surveillance des eaux souterraines a été mise en place en septembre 2005.		
+2006				2006				la_surveillance	Les résultats de la surveillance de fin 2006 traduisant une migration de la pollution vers l'aval hydraulique du site.		
+2006	03			2006	03			Des_campagnes_de_mesures	Des campagnes de mesures ont été réalisées en septembre 2005 et mars 2006.		
+2012	03			2012	03			La_campagne_de_mesures	La campagne de mesures de la qualité des eaux souterraines de mars 2012 met en évidence un dépassement notable des valeurs seuil de l'arrêté ministériel du 11/01/2007 relatif à la qualité des eaux de consommation, notamment sur le trichloroéthylène au-niveau de l'ancien puisard non comblé.	'trichloroéthylène'	
+2006	03	27		2006	03	27		Le_diagnostic_approfondi	Le diagnostic approfondi et l'Evaluation Détaillée des Risques (EDR) ont été transmis au Préfet de Loir et Cher le 27 mars 2006.	'Préfet'	
+2004	07			2004	07			ont_été_remis_respectivement	Ces documents ont été remis respectivement en décembre 2000 et juillet 2004.		
+1999	07	16		1999	07	16		la_réalisation_d__un_diagnostic_initial	Par arrêté préfectoral du 16 juillet 1999, Monsieur le Préfet de Loir-et-Cher a imposé à la société DEMARAIS INDUSTRIES la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques.		'le Préfet de Loir-et-Cher', 'la société DEMARAIS INDUSTRIES'
+2005				2005				Le_curage	Le curage du puisard a été effectué fin 2005.		

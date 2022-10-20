@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				plusieurs_études_ont_été_réalisées	Depuis 1999, plusieurs études ont été réalisées afin de déterminer les contextes géologique et hydrogéologique du site puis définir les modalités de réaménagement adaptées.		
+1998				1998				étude_hydrogéologique	L'étude hydrogéologique réalisée en 1998 conclut à la présence d’une nappe sous la décharge située à une profondeur de l’ordre de 15 mètres, sumontée par des matériaux peu perméables.		
+1999				1999				Son_suivi_réalisé	Son suivi réalisé depuis 1999 montre que malgré une amplitude de battement d’environ 6 mètres, la nappe est située à une altimétrie inférieure à celle des déchets d’après les informations dont nous disposons sur les caractéristiques de leur enfouissement.		
+2004				2004				une_étude_de_réhabilitation	Puis, sur la base d'investigations de terrain, une étude de réhabilitation du site a été réalisée en 2003 et 2004 par la société ARCADIS pour le compte de la commune de Faverges.		'la société ARCADIS'
+2010	05	27		2010	05	27		d__une_visite_effectuée	Lors d'une visite effectuée le 27 mai 2010, l'inspection des installations classées a constaté que les travaux prescits par l'arrêté préfectoral du 3 septembre 2004 avaient été réalisés.		
+2003				2003				une_étude_de_réhabilitation	Puis, sur la base d'investigations de terrain, une étude de réhabilitation du site a été réalisée en 2003 et 2004 par la société ARCADIS pour le compte de la commune de Faverges.		'la société ARCADIS'
+1994				1994				a_été_arrêtée	L'installation d'incinération a été arrêtée en 1994 et le bâtiment qui l'abritait, doté d'une fosse, a été utilisé comme quai de transfert d'ordures ménagères, afin de permettre leur regroupement avant leur expédition vers les installations de traitement.		
+1999				1999				a_été_créée	En 1999 une déchetterie a été créée sur un terrain attenant.		
+2003				2003				ont_été_excavées_et_envoyé_dans	Préalablement à la réhabilitation globale du site, en 2003, les terres souillées par des huiles, constituant un "point chaud" ont été excavées et envoyé dans des filières de traitement autorisées.	'des huiles'	
+				1977				a_reçu	L'installation a reçu des déchets en vrac jusqu'en 1977, date de mise en service, à proximité immédiate, d'un incinérateur d'ordures ménagères.		

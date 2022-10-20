@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03			2002	12			ont_été_extaits	Entre mars 2000 et décembre 2002, environ 22 kg de perchloroéthylène ont été extaits de la nappe.	'perchloroéthylène'	
+2011				2011				ont_été_pompés	En 2011, 47 900 m3 d'eau ont été pompés et traité avec des teneurs moyennes en perchloroéthylène d'environ 7,9µ/l.	'perchloroéthylène'	
+2002	12			2002	12			une_étude	Sur les recomandations d'une étude de décembre 2002, établissant un bilan de fonctionnement de l'unité de dépollution, un quatrième puits de pompage sera mis en place .		
+2006				2006				contrôles	Les résultats des contrôles auxquels il a été procédé en 2006 sont encourageants : des teneurs de moins de 30 µg/l en tétrachloréthylène ont été observées sur tous les prélèvements.	'tétrachloréthylène'	
+2000	03	28		2000	03	28		mis_en_place	Le traitement mis en place le 28/03/2000 a alors consisté en un pompage de la nappe dans 3 puits de dépollution, avec passage dans un décanteur/déshuileur puis à travers une unité à charbon actif.	'charbon actif'	

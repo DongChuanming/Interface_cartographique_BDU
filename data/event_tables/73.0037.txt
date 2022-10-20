@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11	02		1998	11	02		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 02/11/1998.		
+2018	10	10		2018	10	10		réglementé_par	Il est réglementé par un arrêté préfectoral du 10/10/2018.		
+2016				2016				rachetée	CARBONE SAVOIE est une société présente depuis 1897, filiale à 100% du groupe UCAR de 1997 à 2006; ALCAN en 2006; RIO TINTO de 2007 à 2016, rachetée en 2016 par le groupe ALANDIA (actionnaire majoritaire), spécialisée dans la fabrication des cathodes en carbone et en graphite, utilisées dans la fabrication et la maintenance des cuves d'électrolyse de l'aluminium.	'carbone', 'graphite', 'aluminium'	'CARBONE SAVOIE', 'groupe UCAR', 'ALCAN', 'RIO TINTO', 'le groupe ALANDIA'
+2003	01	15		2003	01	15		Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques ont été transmis à l'administration le 15/01/2003.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03	17		2005	03	17		des_travaux_de_dépollution	A la suite de quoi, des travaux de dépollution (écrémage d'une couche de flottants sur le toit de la nappe) ont été prescrits par arrêté du 17 mars 2005.		
+1923				1923				a_été_créé	Le site du Complexe du Port Aux Pétroles a été créé en 1923.	'Pétroles'	
+								la_rupture_d_	Sur le site de SES, la rupture d'un pipe le 12/11/99, avec échapement de 43m3 de super plombé a provoqué la prise d'un AP d'urgence de ce même jour.	'super plombé'	'SES'

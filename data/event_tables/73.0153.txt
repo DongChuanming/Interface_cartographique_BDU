@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				transférée	Le responsable actuel du site est la société Péchiney Bâtiment (responsabilité transférée en 2005 de Péchiney Electrométallurgie - PEM à Péchiney Bâtiment).		'la société Péchiney Bâtiment', 'Péchiney Electrométallurgie', 'PEM', 'Péchiney Bâtiment'
+1997				1997				aux_études_d__impact_menées	L’action de l’administration sur ce site est lié d’une part aux études d’impact menées en 1997 dans le cadre du projet de création d’un plan d’eau à l'aval immédiat du site, et d’autre part aux interrogations concernant l’origine de la pollution en arsenic et mercure relevée dans le Doron de Bozel depuis 1993.	'arsenic', 'mercure'	'Bozel'
+								par_courrier	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'
+								L__étude_historique	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'

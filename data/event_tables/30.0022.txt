@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07			1998	07			La_dernière_analyse_effectuée	La dernière analyse effectuée en juillet 1998 sur un prélèvement de ses eaux n'a pas atteint le seuil de détection de 10µg/l en indice phénol.	'phénol'	
+								_la_réalisation_du_diagnostic_approfondi	-la réalisation du diagnostic approfondi sous 8 mois		
+1998	05			1998	05			devient_propriété_de	Ce crassier devient propriété de la commune d'Alès en mai 1998 et cesse peu après de recevoir des dépôts.		
+2002				2002				étude_simplifiée_des_risques	L'étude simplifiée des risques a été remise en 2002 .		
+2007				2007				ont_été_achevés	Ces travaux ont été achevés en 2007.		
+								remise_en_état	-la réalisation de l'ESR après remise en état sous 16 mois .		"l' ESR"
+1991				1998				exploitée	Ancienne décharge de résidus de fonderie d'acier exploitée de 1991 à 1998 régularisée par arrêté préfectoral du 28/11/1991 et ayant changé d'exploitant suite à dépôt de bilan en 1995.		
+1995				1995				et_ayant_changé	Ancienne décharge de résidus de fonderie d'acier exploitée de 1991 à 1998 régularisée par arrêté préfectoral du 28/11/1991 et ayant changé d'exploitant suite à dépôt de bilan en 1995.		
+2003				2003				ont_été_adressés	Un document de synthèse des diagnostics environnementaux et un mémoire de remise en état ont été adressés à l'administration enseptembre 2003 .		

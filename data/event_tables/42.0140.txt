@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09	28		2011	09	28		ont_été_transmis	Le rapport d’exécution de l’enlèvement des déchets et le diagnostic de la qualité des sols et des eaux souterraines ont été transmis à l’inspection des installations classées le 28 septembre 2011.		
+1968				1968				a_été_occupé	Le site a été occupé depuis 1968 par diverses entreprises ayant une activité liée au travail du bois.		
+2010	01			2010	01			et_mise_en_liquidation	L’entreprise CMF, placée en redressement judiciaire en février 2009, et mise en liquidation en janvier 2010, a pour liquidateur Maître Chrétien.		'CMF'
+2010	01	27		2010	01	27		Une_déclaration_de_cessation_d__activité	Une déclaration de cessation d’activité aurait été adressée à la préfecture le 27 janvier 2010, mais ni la préfecture ni l’inspection des installations classées n’ont de trace de cette déclaration.		
+2012	04	05		2012	04	05		a_adressé_un_courrier	Pour faire suite à ce rapport, la société MSE a adressé un courrier à l'inspection en date du 05 avril 2012.		'la société MSE'
+1989	02	06		1989	02	06		a_été_autorisée_par	L’entreprise CMF (Charpentes et Menuiseries Foreziennes), a été autorisée par AP du 6 février 1989 à exercer une activité de découpe et traitement des bois et charpentes.	'Charpentes'	'CMF'
+2009	02			2009	02			placée_en_redressement_judiciaire	L’entreprise CMF, placée en redressement judiciaire en février 2009, et mise en liquidation en janvier 2010, a pour liquidateur Maître Chrétien.		'CMF'
+2012	08			2012	08			ont_été_transmis	Le plan de gestion et l'Analyse des Risques Résiduels (ARR) ont été transmis en août 2012.		
+2009	02			2009	02			a_été_placée_en_redressement_judiciaire	Cette dernière a été placée en redressement judiciaire en février 2009, et a été mise en liquidation en janvier 2010.		
+2010	01			2010	01			a_été_mise_en_liquidation	Cette dernière a été placée en redressement judiciaire en février 2009, et a été mise en liquidation en janvier 2010.		

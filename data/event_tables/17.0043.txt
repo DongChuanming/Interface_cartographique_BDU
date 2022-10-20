@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	30		2008	06	30		activité_a_cessé	Toute activité a cessé le 30 juin 2008.		
+2010	08	13		2010	08	13		Le_premier_dossier_de_cessation_de_avril	Le premier dossier de cessation de avril 2010 avait été reçu à la préfecture le 13 août 2010 proposant un usage futur d'espace verts.		
+2009				2009				de	Deux campagnes de prélèvements de sol ont été réalisées en 2009 puis en 2015.		
+2010	08	13		2010	08	13		2010_avait_été	Le premier dossier de cessation de avril 2010 avait été reçu à la préfecture le 13 août 2010 proposant un usage futur d'espace verts.		
+2015				2015				de	Deux campagnes de prélèvements de sol ont été réalisées en 2009 puis en 2015.		

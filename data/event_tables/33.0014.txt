@@ -1,0 +1,34 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06	26		2015	06	26		remise	L'étude ANTEA remise le 26/06/2015 montre l'usage sensible de la nappe en aval hydraulique par 2 puits situés en zone d'habitations à environ 500m du site SAFT.		'ANTEA', 'SAFT'
+								la_mis_en_œuvre_des_mesures	- la mis en œuvre des mesures de gestion avec l'objectif de supprimer tout transfert de pollution hors du site, sous 12 mois,		
+2008	06	13		2008	06	13		propose_la_réalisation_d__un_diagnostic_complémentaire	Le 13 juin 2008, l'exploitant propose la réalisation d'un diagnostic complémentaire de l'état de contamination par les COHV et l'établissement d'un bilan "coût/avantage", mais repousse le délai de remise à octobre 2008.	'les COHV'	
+2007	10	24		2007	10	24		prescrit	Au vu des résultats de suivi de la qualité des eaux souterraines, et considérant qu'il subsiste une ou plusieurs sources de pollution chlorée responsable de la dégradation de la qualité de la nappe, l'arrêté préfectoral du 24 avril 2007 prescrit, à l'échéance du 24 octobre 2007, l'étude de caractérisation de l'état de contamination des milieux et la proposition d'une solution de gestion pour supprimer les sources de pollution, désactiver ou maîtriser les voies de transfert et traiter la nappe.	'pollution chlorée'	
+2018	03	27		2018	03	27		ont_été_changés	Les CA air et eau ont été changés le 27 mars 2018.		
+								l__actualisation	- l'actualisation du plan de gestion, sous 8 mois,		
+2000	10	24		2000	10	24		L__étude_remise	L'étude remise le 24 octobre 2000, classe le site en "1" pour 2 sources primaires pour le contact sol et une source pour l'eau souterraine non utilisée pour la consommation.		
+2003	12			2003	12			La_campagne	La campagne de septembre et décembre 2003 montre la présence persistante de solvants chlorés au delà de la valeur de constat d'impact dans les piézomètres P2 et P3.	'chlorés'	
+2016	01	29		2016	01	29		est_remis	Le plan de gestion est remis le 29/01/2016 qui comprend :		
+2017	09			2017	09			La_campagne	La campagne "basses eaux" de septembre 2017 a donné les résultats suivants:		
+2017	11	30		2017	11	30		ont_été_mis_en_place	En vue d'améliorer les résultats de la qualité d'eau traitée, trois filtres à CA eau ont été mis en place le 30 novembre 2017.		
+2007	12	20		2007	12	20		remis	Le rapport remis le 20/12/2007 ne répond pas à l'objectif de l'arrêté ci-dessus.		
+2013				2013				l_	Pour l'année 2013, les résultats d'analyses des eaux souterraines sont les suivants:		
+2010				2010				ont_été_installés	3 piézomètres captant la nappe des sables de façon spécifique ont été installés en sept. 2010.		
+2011	09			2011	09			le_diagnostic	En septembre 2011, la CUB a remis à la DREAL, le diagnostic des terrains SNCF concernés, réalisé par Néodyme en octobre 2010.		'la CUB', 'la DREAL', 'Néodyme'
+								__ont_diminué	Globalement, les teneurs en COHV contenues dans les eaux brutes  ont diminué depuis le démarrage de la barrière jusqu'en octobre et semblent se stabiliser depuis.	'COHV'	
+2015	05			2015	05			Les_prélèvement_réalisés	Les prélèvement réalisés en mai 2015 montrent l'absence d'impact dans ces puits.		
+1995				1995				complété	Le rapport du cabinet CERAG en décembre 1993, complété en 1995, démontre que les valeurs observées, bien qu'élevées, sont "conformes à celles d'un sol à usage industriel et ne nécessitent pas de travaux de dépollution pour le moment et que les valeurs en limite du site sont de nature à écarter tout risque de transfert à l'extérieur du site".		
+								Les_dernières_campagnes_de	Les dernières campagnes de mai et septembre 2006 ainsi que les campagnes menées en 2007 pour les besoins de la caractérisation des milieux susvisée, montre la persistance de produits chlorés sur tous les points et notamment en P2 et P3bis.	'produits chlorés'	
+1985	09	05		1985	09	05		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 5 septembre 1985.		
+								La_campagne	La campagne de septembre et décembre 2003 montre la présence persistante de solvants chlorés au delà de la valeur de constat d'impact dans les piézomètres P2 et P3.	'chlorés'	
+								la_délimitation	- la délimitation et la caractérisation du panache dépollution des nappes sur site et hors site, sous 6 mois,		
+2013	03	04		2013	03	04		le_diagnostic_complémentaire	Le 04/03/2013, l'exploitant remet à l'inspection, le diagnostic complémentaire et propose les mesures de gestion suivantes :		
+2010	10			2010	10			le_diagnostic	En septembre 2011, la CUB a remis à la DREAL, le diagnostic des terrains SNCF concernés, réalisé par Néodyme en octobre 2010.		'la CUB', 'la DREAL', 'Néodyme'
+2011	03			2011	03			est_remis	Le rapport final du diagnostic est remis en mars 2011.		
+2017	10			2017	10			ont_été_testées	Durant le mois d'octobre 2017, afin d'éviter le colmatage des filtres à CA eaux par le fer, 2 technologies de filtres ont été testées sur l'installation après la colonne de stripping: un filtre magnétique et un filtre à cartouche. le premier s'est révélé inefficace et le second fut saturé en moins de 24h. la filtration complémentaire a été arrêté.	'fer'	
+2006	09			2006	09			Les_dernières_campagnes_de	Les dernières campagnes de mai et septembre 2006 ainsi que les campagnes menées en 2007 pour les besoins de la caractérisation des milieux susvisée, montre la persistance de produits chlorés sur tous les points et notamment en P2 et P3bis.	'produits chlorés'	
+2017	06			2017	06			ont_été_lancés_en_continu	Les installations de traitement ont été lancés en continu fin juin 2017.		
+2007				2007				les_campagnes_menées	Les dernières campagnes de mai et septembre 2006 ainsi que les campagnes menées en 2007 pour les besoins de la caractérisation des milieux susvisée, montre la persistance de produits chlorés sur tous les points et notamment en P2 et P3bis.	'produits chlorés'	
+2010				2010				La_campagne_de	La campagne de nov. 2010 montre que :		
+1993				1993				Des_travaux_d__aménagement	Des travaux d'aménagement ont été réalisés en 1993, notamment en matière de prévention des pollutions accidentelles et le long de la conduite d'évacuation des eaux résiduaires vers l'égout collectif.		
+2018	02			2018	02			La_campagne_des_hautes_eaux	La campagne des hautes eaux de février 2018 a permis de suivre l’évolution de 3 zones sources composées principalement de chloroéthènes, au sein des alluvions récentes essentiellement.	'chloroéthènes'	
+2011	03			2011	03			est_remis	Le rapport final BURGEAP daté du 30/08/2010 est remis à la DREAL en mars 2011.		'BURGEAP', 'la DREAL'

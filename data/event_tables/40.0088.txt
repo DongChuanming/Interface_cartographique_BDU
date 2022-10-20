@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	20		2010	04	20		informe	Le 20/04/2010, la société CASTRA informe la DREAL qu'elle a quitté le site en 1992.		'la société CASTRA', 'la DREAL'
+1992				1992				a_quitté_le_site	Le 20/04/2010, la société CASTRA informe la DREAL qu'elle a quitté le site en 1992.		'la société CASTRA', 'la DREAL'
+1987	11	05		1987	11	05		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 5 novembre 1987.		

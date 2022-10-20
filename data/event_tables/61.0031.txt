@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	06	17		2013	06	17		Une_seconde_réunion_publique	Une seconde réunion publique s'est tenue le 17 juin 2013 à Caligny lors		
+				2008	03	14		une_campagne_de_prélèvements_atmosphériques	En vue de mettre en évidence une éventuelle dispersion des fibres d’amiante libre dans l’environnement du site, une campagne de prélèvements atmosphériques a été réalisée entre le 4 et le 14 mars 2008.	'fibres'	
+2006	11			2006	11			Des_prélèvements_ont_été_diligentés	Des prélèvements ont été diligentés en novembre 2006 en vue de déterminer les sources de pollution contenant de l’amiante : la présence de fibres d’amiante sur le site a été confirmée sous une forme liée, dans les plaques servant de faux plafonds et sous une forme libre, à l’état de poussières dans un ancien local de filtration ainsi que dans les déchets de filature déposés le long du Noireau.	'amiante'	
+2014				2014				Les_travaux_pourraient_débuter	Les travaux pourraient débuter en 2014.		
+2012				2012				a_invité	A l’issue de ce retour défavorable, le Ministère de l’Ecologie a invité Valeo à l’été 2012 à reconsidérer sa stratégie de mise en sécurité.		'le Ministère de l’ Ecologie', 'Valeo'
+2010				2010				a_débuté	Le programme des travaux de mise en sécurité a débuté en 2010 avec le site d'Andouillé.		
+2006	03			2006	03			Une_première_visite	Une première visite du site a été réalisée en mars 2006.		
+1840				1840				construite	Ancienne filature de coton construite au lieu-dit "Le Pont" vers 1840.		
+2008	07	1		2008	07	1		Des_prélèvements_d__eau_ont_donc_été_réalisés	Des prélèvements d'eau ont donc été réalisés par la DDASS (devenue ARS) le 1er juillet 2008 afin de déterminer la présence de fibres au niveau de l'eau du Noireau et de l'eau traitée en sortie de la station.		'la DDASS'
+1955				1955				est_ensuite_racheté	Le site est ensuite racheté par la société Ferodo en 1955 qui cesse l'activité industrielle en 1957.		'la société Ferodo'
+1904				1904				A	A partir de 1904, la Société Française de l'Amiante rachète le site et se lance dans la production de fils et tresses à base d'amiante.	'amiante'	"la Société Française de l' Amiante"
+2006	12			2006	12			un_prélèvement	La présence de déchets d’amiante à proximité du bief a conduit à réaliser un prélèvement d’eau dans le bief en décembre 2006 : aucune fibre détectée.		
+2008	10	08		2008	10	08		ont_été_réalisés	En complément, des prélèvements et analyses de sédiments dans le bief et le Noireau ont été réalisés le 8 octobre 2008 : les quatre points investigés sont exempts de fibres.		
+1957				1957				est_ensuite_racheté	Le site est ensuite racheté par la société Ferodo en 1955 qui cesse l'activité industrielle en 1957.		'la société Ferodo'
+2012	03			2012	03			une_première_réunion_publique_s_	Concernant le site de Caligny, une première réunion publique s’est tenue en mars 2012 lors de laquelle les riverains / élus n’ont pas accueilli favorablement le projet de mise en sécurité proposé par Valeo.		'Valeo'
+2008				2008				Une_nouvelle_campagne_de_prélèvement_de	Une nouvelle campagne de prélèvement de l'eau du Noireau a également été effectuée (prélèvement ARS, financement DREAL) confirmant les résultats de 2008.		
+2008	03			2008	03			la_campagne_de_prélèvements_atmosphériques_réalisée	En revanche, les résultats de la campagne de prélèvements atmosphériques réalisée début mars 2008 mettent en évidence l’absence de fibres au niveau des trois points d’observation installés.		
+2009				2009				a_été_signé	Un protocole d’accord national a été signé en 2009 entre le Ministère de l’Ecologie et la société Valeo en vue de mettre en sécurité quatre anciens sites industriels présentant une problématique liée à l’amiante, situés sur les communes de Andouillé (53), Caligny (61), Rocray (61) et Saint Clair de Halouze (61).	'amiante'	'le Ministère de l’ Ecologie', 'la société Valeo'

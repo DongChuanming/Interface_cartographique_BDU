@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	30		2001	11	30		Réalisation_de_deux_diagnostics	Réalisation de deux diagnostics des sols (22/05/1996 et 30/11/2001) révélant une pollution des sols par les hydrocarbures.	'hydrocarbures'	
+1996	05	22		1996	05	22		Réalisation_de_deux_diagnostics	Réalisation de deux diagnostics des sols (22/05/1996 et 30/11/2001) révélant une pollution des sols par les hydrocarbures.	'hydrocarbures'	
+1980	04	25		1980	04	25		déclaration	L'établissement dispose de récépissés de déclaration du 25 avril 1980 pour des installations de stockage et distribution de liquides inflammables et du 11 août 1998, pour une installation de distribution de GPL-C.	'liquides inflammables', 'distribution de GPL - C.'	
+2002	02	28		2002	02	28		un_certificat_de_dégazage	- un certificat de dégazage et de ferraillage (28 février 2002) ;		
+2000	12	22		2000	12	22		a_déclaré	Par courrier en date du 22 décembre 2000, l'exploitant a déclaré en Préfecture du Nord l'existence d'un stockage de gaz inflammables liquéfiés, d'un minimum de 6 t.	'gaz inflammables liquéfiés'	
+2002	02			2002	02			réalisés	- un rapport de travaux réalisés en février 2002, lors du démantèlement de la station service et de l'excavation des terres polluées et évacuation en centre de bio traitement.		
+2002	02	14		2002	02	14		l__arrêt_définitif	L'exploitant a déclaré, par courrier en date du 14 février 2002, l'arrêt définitif des installations classées de sa station service de l'avenue Alfred Motte à Roubaix.		

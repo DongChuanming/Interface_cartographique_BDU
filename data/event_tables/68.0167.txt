@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1963				qui_a_commencé_à_remblayer	de Binningen  qui a commencé à remblayer entre 1962 et 1963 jusqu'à 1974 avec du matériau de démolition.		
+1984				1984				fait_construire_le_collège	En 1984 la commune de Saint Louis fait construire le collège georges FORLEN en contrebas du terrain qu'elle a racheté.		'le collège georges FORLEN'
+1961				1962				autorisation_de_remblayer	de Binningen a obtenu entre 1961 et 1962 l'autorisation de remblayer le terrain qu'elle a acquise, avec du matériau de démolition .		
+				1974				qui_a_commencé_à_remblayer	de Binningen  qui a commencé à remblayer entre 1962 et 1963 jusqu'à 1974 avec du matériau de démolition.		

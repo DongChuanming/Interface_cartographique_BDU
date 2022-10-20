@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	18		2006	04	18		l__enquête_publique_prescrite	l'enquête publique prescrite par arrêté préfectoral du 18.04.2006 pour une durée de 1 mois, a eu lieu du 09.05.2006 au 09.06.2006.		
+								l__enquête_publique_prescrite	l'enquête publique prescrite par arrêté préfectoral du 18.04.2006 pour une durée de 1 mois, a eu lieu du 09.05.2006 au 09.06.2006.		
+2003	12	16		2003	12	16		la_cessation_d__activité	-16/12/2003 annonce de la cessation d'activité du site.		
+2004	11	08		2004	11	08		le_démantèlement_de_ses_installations	M le Préfet du Pas-de-Calais a, par arrêté complémentaire du 08.11.2004,imposé le démantèlement de ses installations et le traitement des zones polluées,		'le Préfet du Pas-de-Calais'
+2007				2007				_Démantèlement	-Démantèlement et dépollution (excavation et évacuation des terres polluées)en 2007.		
+2006	09			2006	09			une_étude	-Réalisation d'une étude de la teneur en plomb et cadmium autour de l'usine COMILOG en septembre 2006 par Tauw Environnement, qui a montré la présence en quelques point d'un dépassement du gond pédochimique naturel en plomb, mais n'ayant pas d'impact observable sur la qualité des sols environnants.	'plomb', 'cadmium', 'plomb'	'COMILOG'
+2006	05	09		2006	06	09		l__enquête_publique_prescrite	l'enquête publique prescrite par arrêté préfectoral du 18.04.2006 pour une durée de 1 mois, a eu lieu du 09.05.2006 au 09.06.2006.		
+2000				2000				un_investissement	En effet, en 2000, COMILOG a effectué un investissement de 180 MF pour le doublement de capacité de son haut fourneau n°7 (passage de 350 t/j à 700 t/j) et la mise en place d'installations de traitement des effluents (mise en place d'une épuration sèche).	'effluents'	'COMILOG'
+2004				2004				_Evacuation	-Evacuation de produits restants sur le site, courant 2004.		
+2003	12	16		2003	12	16		la_cessation_d__activité_partielle	Le 16.12.2003, la société COMILOG a annoncé la cessation d'activité partielle de son usine.		'la société COMILOG'

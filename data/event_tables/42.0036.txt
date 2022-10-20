@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	08		2004	06	08		un_certificat_administratif	M. le Trésorier Payeur Général de la Loire a établi, le 8 juin 2004, un certificat administratif constatant l’insolvabilité définitive de la société Prat, un rapport de l'inspection des installations classées en date du 17 octobre 2005, constatant que la somme de 295,64 € effectivement recouvrée était insuffisante pour engager le diagnostic de pollution, a proposé de lever la procédure de consignation engagée.		'la Loire', 'la société Prat'
+								Un_prélèvement_d__eau_a_été_réalisé	Un prélèvement d'eau a été réalisé le 13/11/97 par l'inspection à partir d'un puits de 7 m de profondeur situé dans un vestiaire initialement utilisé pour la production de vapeur d'eau de la chapellerie. les résultats montrent une concentration en hydrocarbures : 14,5 g/l et des métaux, notamment du nickel : 150 mg/l.	'hydrocarbures', 'métaux', 'nickel'	
+1948				1948				abrite	Ce site situé sur une ancienne chapellerie abrite un atelier de traitement de surface depuis 1948.		
+1998	04	28		1998	04	28		est_pris	Un nouvel arrêté de consignation d'un montant de 15 242 € est pris à l'encontre de la société Prat par arrêté du 30 mai 2002 pour la réalisation de l'étude de sol prescrite par l'arrêté du 28 avril 1998.		'la société Prat'
+1999	08			1999	08			a_cessé_son_activité	La Société Prat a cessé son activité en août 1999.		'La Société Prat'
+1999	08	23		1999	08	23		mise_en_demeure	Une étude du sol et des eaux souterraines est demandée à l'exploitant par arrêté préfectoral du 28 avril 1998, puis par mise en demeure du 23 août 1999.		
+1999	01	21		1999	01	21		a_été_vendu_à	Le site a été vendu à la société Midac le 21 janvier 1999 en vertu du jugement rendu le 20 janvier 1999 par le tribunal de commerce de Montbrison.		'la société Midac'
+1999	10			1999	10			Une_visite	Une visite de la DRIRE en octobre 1999 a permis de constater que le matériel était enlevé et que le site n'était plus exploité.		'la DRIRE'
+1999	08	23		1999	08	23		est_demandée	Une étude du sol et des eaux souterraines est demandée à l'exploitant par arrêté préfectoral du 28 avril 1998, puis par mise en demeure du 23 août 1999.		
+2002	06	21		2002	06	21		Un_nouvel_arrêté_en	Un nouvel arrêté en date du 21 juin 2002 impose à M.		
+1999	01	20		1999	01	20		du_jugement	Le site a été vendu à la société Midac le 21 janvier 1999 en vertu du jugement rendu le 20 janvier 1999 par le tribunal de commerce de Montbrison.		'la société Midac'

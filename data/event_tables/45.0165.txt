@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	11	16		2016	11	16		de_la_visite_d__inspection	Lors de la visite d’inspection du 16 novembre 2016, il a été constaté que le stockage de déchets métalliques, imprégnés d’huile de coupe, n’était pas aménagé pour la récupération des éventuels liquides épandus et des eaux météoriques souillés.	'stockage de déchets métalliques', 'des éventuels liquides épandus'	
+2004				2004				a_été_reprise	Celle de 4 MBq a été reprise par le fournisseur CEA de Saclay en 2004 et la seconde par CISBIO Saclay en 2011.		'le fournisseur CEA', 'CISBIO Saclay'
+1998	03	09		1998	03	09		sont_soumises_à_autorisation	Les activités exercées par la société VERRERIES DE LA CHAPELLE (fabrication de verre) sont soumises à autorisation au titre de la réglementation ICPE par arrêté préfectoral du 9 mars 1998.		'la société VERRERIES DE LA CHAPELLE'
+2018	10	12		2018	10	12		de_l__inspection	Lors de l'inspection du 12 octobre 2018, il a été constaté que le stockage de déchets métalliques avait été mis en conformité.	'stockage de déchets métalliques'	
+2011				2011				a_été_reprise	Celle de 4 MBq a été reprise par le fournisseur CEA de Saclay en 2004 et la seconde par CISBIO Saclay en 2011.		'le fournisseur CEA', 'CISBIO Saclay'
+2017	05			2017	05			Les_investigations_menées	Les investigations menées sur les sols, les gaz de sol, l’air ambiant et les eaux souterraines en mai 2017, et faisant l’objet du rapport du 07 juin 2017 montrent :		
+2016	01	14		2016	01	14		à_la_remise	Suite à la remise du rapport de base IED le 14 janvier 2016, Monsieur le Préfet du Loiret, par arrêté préfectoral du 20 octobre 2016, a demandé à l’exploitant :		'le Préfet'
+2018	10	12		2018	10	12		a_été_constaté	Lors de l'inspection du 12 octobre 2018, il a été constaté que le stockage de déchets métalliques avait été mis en conformité.	'stockage de déchets métalliques'	
+2016	10	20		2016	10	20		est_réglementé	Le site est réglementé par l’arrêté préfectoral du 20 octobre 2016.		
+2017	06	07		2017	06	07		rapport	Les investigations menées sur les sols, les gaz de sol, l’air ambiant et les eaux souterraines en mai 2017, et faisant l’objet du rapport du 07 juin 2017 montrent :		
+2018	07	24		2018	07	24		Un_diagnostic_des_sols	Un diagnostic des sols daté du 24 juillet 2018 a été transmis par l'exploitant et est en cours d'examen par l'inspection des installations classées.		
+2004	12	31		2004	12	31		devient	Par récépissé de déclaration de cession du 31 décembre 2004, la société DURALEX International France devient l’exploitant de l’usine pour fabriquer des articles en verre (verres, tasses, vaisselle, plats, …) obtenu par la fusion entre le sable et le calcaire en présence de carbonate de soude.	'carbonate de'	'la société DURALEX International France'
+2015				2015				ont_toutefois_été_pris_en_charge	Ces déchets ont toutefois été pris en charge en 2015.		
+1927								a_accueilli	Le site a accueilli de 1927 à nos jours une activité de vinaigrerie (1927-1930) puis de parfumerie (1930-1934) puis de verrerie (1940-à nos jours).		

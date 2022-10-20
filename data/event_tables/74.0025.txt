@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	20		1999	12	20		Le_diagnostic_initial	Le diagnostic initial a été transmis à l'Administration le 20 décembre 1999.		
+1998	08	19		1998	08	19		L__étude_de_sol	L'étude de sol a été imposée à l'exploitant par arrêté préfectoral du 19 août 1998.		
+1914				1914				était_pratiqué_sur	Le stockage d'hydrocarbures était pratiqué sur ce site depuis 1914.	'hydrocarbures'	
+2011				2011				a_été_complétement_démantelée	La zone de stockage a été complétement démantelée en 2011 et 2012.		
+2001	03	08		2001	03	08		a_été_transmise	L'ESR a été transmise le 8 mars 2001.		
+2010	08	20		2010	08	20		a_cessé_totalement_son_activité	Le dépôt a cessé totalement son activité le 20 août 2010.		
+1998				1998				est_surveillée	La qualité des eaux souterraines au droit du site est surveillée depuis 1998 au moyen de 5 ouvrages, avec une périodicité semestrielle.		
+2012				2012				a_été_complétement_démantelée	La zone de stockage a été complétement démantelée en 2011 et 2012.		

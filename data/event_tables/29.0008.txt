@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_mis_en_place_un_traitement_par_stabilisation	En 2001, l'exploitant a mis en place un traitement par stabilisation avec liant hydraulique associé à une barrière d'étanchéité active ceinturant le site.		
+1978				1978				a_été_construite	La station de déballastage a été construite en 1978.		
+2003	06	11		2003	06	11		Une_visite_de_récolement	Une visite de récolement du site a été menée le 11 juin 2003.		
+2017	05			2017	05			La_surveillance	La surveillance de mai 2017 des eaux d'exhaures met en évidence de faibles teneurs en HC C10-C40, somme des HAP (6), indice phénol, arsenic, cadmium, chrome, mercure, plomb, sélénium, zinc au niveau des portes filtrantes, excepté pour l'une d'entre elle (dépassement pour l'arsenic).	'HC C10-C40', 'HAP', 'indice phénol', 'arsenic', 'cadmium', 'chrome', 'mercure', 'plomb', 'sélénium', 'zinc', 'arsenic'	
+1999	03			1999	03			a_été_mise_en_place	Une station d'épuration (STEP) des eaux, interne au site, a été mise en place en mars 1999.		
+2014				2014				est_en_cours_de_démantèlement	En 2014, la STEP interne est en cours de démantèlement.		
+2016				2016				un_transfert_de_matériaux	En 2016, un transfert de matériaux vers l'ancienne station de déballastage a entraîné une remobilisation d'hydrocarbures vers le merlon.	'hydrocarbures'	

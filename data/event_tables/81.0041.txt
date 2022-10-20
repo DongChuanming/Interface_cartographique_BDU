@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	08	31		2015	08	31		a_donné_son_accord	Ces travaux de mise en sécurité représentant un montant estimé de 140 000 € TTC le préfet de région a donné son accord à leur réalisation le 31 août 2015.		
+2015	12	1		2015	12	1		ont_été_signés	Les arrêtés préfectoraux prescrivant les travaux et autorisant l'occupation temporaire des terrains pour leur réalisation ont été signés le 1er décembre 2015.		
+2008	12	19		2008	12	19		a_été_notifié	A la suite de la mise en liquidation de la société MOLINA le 10 juin 2008, un arrêté préfectoral de mise en demeure a été notifié au liquidateur le 19 décembre 2008, demandant l'évacuation et l'élimination des produits dangereux et des déchets présents sur le site, et d'en interdire l'accès.	'des produits dangereux'	'la société MOLINA'
+2004	12	15		2004	12	15		est_soumise_à	La société MOLINA est soumise à l'arrêté préfectoral d'autorisation d'exploiter une unité de reconditionnement d'emballages plastiques et métalliques usagés du 15 décembre 2004.		'La société MOLINA'
+2004	12	30		2004	12	30		Des_arrêtés_de_mise_en_demeure	Des arrêtés de mise en demeure pour non-respect des prescriptions techniques d'exploitation (déchets interdits, limitation des quantités, capacités de rétention...) ont été notifiés à l'exploitant le 30 décembre 2004 et le 19 juin 2007.		
+2009	11	26		2009	11	26		a_été_signé	Suite à celui-ci, un arrêté de consignation d'un montant de 25 600 € TTC a été signé le 26 novembre 2009.		
+2008	06	10		2008	06	10		a_été_notifié	A la suite de la mise en liquidation de la société MOLINA le 10 juin 2008, un arrêté préfectoral de mise en demeure a été notifié au liquidateur le 19 décembre 2008, demandant l'évacuation et l'élimination des produits dangereux et des déchets présents sur le site, et d'en interdire l'accès.	'des produits dangereux'	'la société MOLINA'
+2011	10	06		2011	10	06		Une_visite_d__inspection_a_été_réalisée	Une visite d'inspection a été réalisée le 6 octobre 2011 afin de procéder à un état des lieux, en vue de demander l'intervention de l'ADEME.		
+2008	06	10		2008	06	10		la_mise_en_liquidation	A la suite de la mise en liquidation de la société MOLINA le 10 juin 2008, un arrêté préfectoral de mise en demeure a été notifié au liquidateur le 19 décembre 2008, demandant l'évacuation et l'élimination des produits dangereux et des déchets présents sur le site, et d'en interdire l'accès.	'des produits dangereux'	'la société MOLINA'
+2008	03	14		2008	03	14		le	) le 7 janvier 2008 et le 14 mars 2008.		
+2017				2017				ont_été_programmés	Les travaux ont été programmés par l'ADEME en 2017		
+								faisait_suite_à	Cette exploitation faisait suite à celle de mégisseries depuis les années 1960.		
+2008	06	10		2008	06	10		a_été_mise_en_liquidation	La société a été mise en liquidation le 10 juin 2008.		
+2008	01	02		2008	01	02		ont_été_suspendues	Le dernier arrêté n'étant pas respecté et au vue de la situation environnementale déplorable du site, les activités ont été suspendues par arrêté en date du 2 janvier 2008.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	08	02		2019	08	02		un_rapport_de_cessation_d__activité	La cessation d'activité a fait l'objet d'une instruction par l'inspection des installations classées se soldant par un rapport de cessation d'activité du 2 août 2019.		
+1999	08	25		1999	08	25		de_déclaration	Les activités relevaient du régime de la déclaration au titre de la législation des installations classées et ont fait l'objet d'un récépissé de déclaration du 25 août 1999.		
+2019	08	02		2019	08	02		une_instruction	La cessation d'activité a fait l'objet d'une instruction par l'inspection des installations classées se soldant par un rapport de cessation d'activité du 2 août 2019.		
+2018	10			2019				Une_étude_historique	Une étude historique et des diagnostics de pollution des sols et de l’air ambiant ont été réalisés entre octobre 2018 et juillet 2019.		
+1999	08	25		1999	08	25		relevaient	Les activités relevaient du régime de la déclaration au titre de la législation des installations classées et ont fait l'objet d'un récépissé de déclaration du 25 août 1999.		
+2019	01	21		2019	01	21		La_cessation_d__activité	La cessation d’activité de la station service a été notifiée en date du 21 janvier 2019.		

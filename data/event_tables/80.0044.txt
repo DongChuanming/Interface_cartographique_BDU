@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10			1999	10			a_fait_l__objet	L'usine haute a fait l'objet d'une cessation d'activité en octobre 1999.		
+2001	07	20		2001	07	20		a_été_mise_en_liquidation	L'usine basse était exploitée par la société Bonduel Die Casting, devenue Eclair Prim Die Casting ; cette société a été mise en liquidation le 20 juillet 2001.		'la société Bonduel Die Casting', 'Eclair Prim Die Casting'
+2004	02	12		2004	02	12		a_engagé_les_travaux_de_dépollution	La liquidation a été close. la société SCI TDB propriétaire du site a engagé les travaux de dépollution afin de respecter l'arrêté du 12 février 2004.		'la société SCI TDB'
+2003	03			2003	03			Une_mesure	Une mesure de la qualité de la nappe a été réalisée en mars 2003.		

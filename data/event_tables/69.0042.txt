@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1918				1918				créé	Ce site créé en 1918 sur des terres agricoles a connu diverses activités.		
+1996	04	03		1996	04	03		une_étude_de_sol_a_été_prescrite	Par arrêté préfectoral du 12/08/1998 une étude de sol a été prescrite en application de la circulaire 03/04/1996.		
+2003	08			2003	08			Deux_campagnes_sur_les_eaux_souterraines	Deux campagnes sur les eaux souterraines ont été effectuées en juin et août 2003.		
+2003	08			2003	08			analyses	Les résultats d'analyses d’août 2003 montrent :		
+2012	10			2012	10			elle_atteignait	Au mois d'octobre 2012, elle atteignait 4,06 m.		
+								Deux_campagnes_sur_les_eaux_souterraines	Deux campagnes sur les eaux souterraines ont été effectuées en juin et août 2003.		
+2012	10			2012	10			a_été_réalisée	La dernière en date a été réalisée au mois d'octobre 2012.		
+2000	03			2000	03			Le_diagnostic	Le diagnostic des sols/eaux souterraines et évaluation simplifiée des risques ont été transmis à l'administration en mars 2000.		
+2000	03			2000	03			une_étude	Ce site initialement classé 2 "à surveiller" par une étude de mars 2000 a été reclassé 1 par le BRGM, dans les rapports de juillet et octobre 2001.		'le BRGM'
+2002	04	09		2002	04	09		Cette_étude_établie	Cette étude établie le 09/04/2002, conclut à un site "à surveiller", classe 2, comme initialement diagnostiqué pour la rubrique eau souterraine à usage AEP.		
+2003	06			2003	06			21_campagnes_de_suivi	Depuis le mois de juin 2003, 21 campagnes de suivi de la qualité des eaux souterraines ont eu lieu sur l'ensemble de la zone industrielle de Collonges au Mont D'or.		
+								exploite	La société RHODIA SILICES exploite le site depuis les années 1984.		'La société RHODIA SILICES'
+2004	06	21		2004	06	21		Un_diagnostic_approfondi	Un diagnostic approfondi a été établi le 21/06/2004 par RHODIA.		'RHODIA'

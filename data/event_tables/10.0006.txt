@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_signé_à_l_	Le 16/2/98 un arrêté préfectoral de mise en demeure est signé à l'encontre du mandataire judiciaire.		
+2006	09			2006	09			Une_nouvelle_étude_de_sols	Une nouvelle étude de sols réalisée en septembre 2006 par les propriétaires du terrain montre une source de pollution en BTEX dans le sol et le dépassement des valeurs de constat d'impact pour un usage sensible pour les hydrocarbures et BTEX présents dans les eaux souterraines.	'BTEX', 'hydrocarbures', 'BTEX'	
+2001	09	24		2001	09	24		les_opérations_de_liquidation_judiciaire	Un fax du 23/05/2003 indique que les opérations de liquidation judiciaire ont été clôturées pour insuffisance d'actif le 24/09/2001.		
+								est_mise_en_redressement_judiciaire	Le 15/12/97 la société est mise en redressement judiciaire.		
+2003				2003				devait	Le site ayant été vendu par le liquidateur judiciaire début 2003, la procédure de consignation devait être relancée.		
+								est_signé	Le 26/5/98 un arrêté préfectoral est signé pour lancer une procédure de consignation des sommes nécessaires à la réalisation des études.		
+2003				2003				ayant_été_vendu	Le site ayant été vendu par le liquidateur judiciaire début 2003, la procédure de consignation devait être relancée.		

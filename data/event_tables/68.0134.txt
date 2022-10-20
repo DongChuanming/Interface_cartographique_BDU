@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	05	27		2015	05	27		__a_réceptionné	Depuis le 27 mai 2015 la DREAL  a réceptionné la proposition d'institution de servitudes d'utilité publique du site de la PUPA.		'la DREAL', 'de la PUPA'
+2008	11			2008	11			du_dernier_contrôle_réalisé	S'agissant du dernier contrôle réalisé (Novembre 2008):		
+2007	07	06		2007	07	06		L__APS	L'APS du 6 juillet 2007 impose poursuite de la surveillance de la qualité des eaux souterraines, amélioration du réseau de surveillance, remise au préfet d'une étude de caractérisation de la pollution.		
+2007	08			2007	08			des_derniers_contrôles	lors des derniers contrôles de août 2007		
+2010	03	23		2010	03	23		Devenu	Devenu depuis le 23 mars 2010 la M2A (Mulhouse Alsace Agglomération)		'la M2A'
+2007				2007				Les_opération_de_dépollution	Les opération de dépollution de gaz de sol ont commencé mi 2007.		
+2007				2007				les_opérations_de_pompage	Compte tenu de la diminution trés importante du "surnageant" les opérations de pompage ont été arrêtées début 2007.	'surnageant'	
+2005	10	06		2005	10	06		impose	l'APS du 6 octobre 2005, impose à l'exploitant:		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				Les_travaux_devraient_être_achevés	Les travaux devraient être achevés en 2016 pour un usage futur mixte commercial et de service de la ZAC du centre		
+1999	03	03		1999	03	03		Cette_étude	Cette étude en date du 3 mars 1999, n'a été transmise à la DRIRE Midi-Pyrénées que le 8 mars 2000.		'la DRIRE Midi'
+2005	05			2005	05			Ces_études_ont_été_réalisée	Ces études ont été réalisée par la commune de Decazeville avec le soutien de l'ADEME en mai 2005, dans le cadre de la réhabilitation de la zone du centre (la parcelle concernée faisant partie de cette zone).		
+2000	03	08		2000	03	08		Cette_étude	Cette étude en date du 3 mars 1999, n'a été transmise à la DRIRE Midi-Pyrénées que le 8 mars 2000.		'la DRIRE Midi'

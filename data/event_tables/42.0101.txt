@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				l__objet	Le site a été remis en état et a été l'objet de servitudes conventionnelles au profit de l'état en 1991.		
+1990				1990				L__exploitation	L'exploitation de la décharge de la société MIDAC a cessé ses activités en 1990.		'la décharge de la société MIDAC'
+1974	10	29		1974	10	29		a_été_autorisée	L'exploitation a été autorisée par arrêté préfectoral du 29 octobre 1974.		

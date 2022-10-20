@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08			2007	08			Réalisation_d__un_diagnostic_approfondi	- Réalisation d'un diagnostic approfondi en août 2007 qui confirme la pollution des sols et des eaux souterraines.		
+2005	08	19		2005	08	19		Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques en date du 19/08/2005.		
+1993				1993				de_la_pollution	- Etude diagnostique de la pollution du site réalisée en 1993.		
+2006				2006				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2006		'IPPC'
+1999				1999				Poursuite_des_essais_de_traitement	- Poursuite des essais de traitement sur pilote industriel de dénitrification en 1999.	'dénitrification'	
+2007	08			2007	08			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en août 2007.		
+1897				1897				mise_en_service	- Site faisant partie d'une usine de fabrication d'engrais et d'acide nitrique mise en service en 1897.	'acide nitrique'	
+2010				2010				ont_été_cédées_à	- Courant 2010, les activités de la société GPN ont été cédées à la société MAXAM.		'la société GPN', 'la société MAXAM'
+2007	10			2007	10			Réalisation_d__un_diagnostic_approfondi	- Réalisation d'un diagnostic approfondi en octobre 2007.		
+2007	03	20		2007	03	20		approuvé	- PPRT (Plan de Prévention des Risques Technologiques) approuvé le 20/03/2007.		
+1995				1995				faite	- Etude de faisabilité de la dénitrification in-situ de la nappe faite en 1995.		

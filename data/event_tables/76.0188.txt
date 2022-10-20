@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1916				1947				est_occupé	De 1916 jusqu'à 1947, le site est occupé par la Fonderie de Lorraine (au départ, production d'obus).		'la Fonderie'
+2004	09	17		2004	09	17		l__exploitation	La société ISOVER a définitivement cessé l'exploitation de ces installations le 17 septembre 2004.		'La société ISOVER'
+2004	11			2004	11			a_transmis	En novembre 2004, l'exploitant a transmis un dossier de cessation d'activité définitive.		
+2005	06	23		2005	06	23		a_été_prescrit	Cependant, afin de vérifier notamment les hypothèses de dégradation des composés azotés, il a été prescrit, par arrêté préfectoral du 23 juin 2005, une surveillance trimestrielle des eaux souterraines et la présentation, au terme d'une année de suivi, d'un rapport proposant une poursuite de la surveillance si besoin en était.	'composés azotés'	
+2001				2001				fermée	IL faut noter que la décharge interne du site, d'une surface de 12 ha, et fermée fin 2001, fait l'objet d'une fiche séparée (76.0028).		
+2005	03			2005	03			une_évaluation_simplifiée_des_risques	Puis, une évaluation simplifiée des risques (ESR) a été réalisée en mars 2005.		
+2007	05	29		2007	05	29		de_cette_visite	Le rapport de suivi de cette visite du 29 mai 2007 fait office de procès-verbal de récolement.		
+2007	04	26		2007	04	26		Une_inspection	Une inspection de la DRIRE a été réalisée le 26 avril 2007.		'la DRIRE'
+1916				1916				a_été_exploité_industriellement	Ce site, situé en bordure de Seine sur un terrain d'une surface de 16.67 ha, a été exploité industriellement depuis 1916.		
+								est_prescrit	Un suivi qualitatif des eaux souterraines pour les composés azotés est prescrit, pour une durée de 4 ans (éventuellement renouvelable) sur les différentes formes de l'azote, par arrêté préfectoral complémentaire du 30 octobre 2007.	'composés azotés', 'azote'	
+2006	11	16		2006	11	16		une_étude_détaillée_des_risques	Les hypothèses de dégradation des produits nitrés n'ayant pas été vérifiées (dégradation des composés azotés pas aussi rapide que prévue), une étude détaillée des risques (EDR) pour la santé a été prescrite par arrêté préfectoral du 16/11/2006.	'produits nitrés', 'composés azotés'	

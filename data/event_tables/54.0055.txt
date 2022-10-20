@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 2011 sur ce secteur afin de remettre le site en état avec un usage industriel.		
+2003	02	20		2003	02	20		Evaluation_simplifiée_des_risques_réalisée	L'Evaluation simplifiée des risques réalisée pour l'ensemble du site de l'usine de Pont à Mousson (usine, bassins et décharge interne) a été remise à la DRIRE le 20 février 2003.		'la DRIRE'
+1992	11	20		1992	11	20		une_étude_remise	Selon une étude remise à la DRIRE le 20 novembre 1992 les produits générés par l'usine et déposés en décharge sont:		'la DRIRE'
+2010				2010				Arrêt_de	Arrêt de l'activité de goudronnage en 2010		

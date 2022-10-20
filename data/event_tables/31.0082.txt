@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03			2015	03			Des_mesures_complémentaires_ont_été_réalisées	Des mesures complémentaires ont été réalisées en mars 2015 et juillet 2015 pour connaître l'étendue de la contamination des eaux souterraines et l'évolution des concentrations en chrome VI.	'chrome VI'	
+2011				2011				a_commencé_cette_surveillance_semestrielle	L'exploitant a commencé cette surveillance semestrielle en 2011.		
+2014	01			2014	01			la_réalisation_d__une_étude	En janvier 2014, le préfet a prescrit à l'exploitant la réalisation d'une étude de l'interprétation des milieux afin de déterminer si cette pollution sortait des limites du site.		'le préfet'
+2015	10			2015	10			a_été_testée	Une barrière hydraulique a été testée en octobre 2015 afin de stopper le transfert de pollution dans la nappe phréatique.		
+2014				2014				a_été_curé	Le fond de cuve a été curé au niveau des fuites en 2014 sur 15 cm.		
+2012				2012				a_été_détectée	En 2011, 2012 et 2013, une contamination des eaux souterraines au droit du site en chrome VI a été détectée puis confirmée.	'chrome VI'	
+2015				2015				a_également_été_ajouté	Un 6ème piézomètre, en aval hydrogéologique et hors site (à 250 m), a également été ajouté aux campagnes trimestrielles de suivi des eaux souterraines à partir de fin 2015.		
+2015	09			2015	09			ont_été_transmises	Elles ont été transmises à l'IIC en septembre 2015.		
+2011				2011				a_été_détectée	En 2011, 2012 et 2013, une contamination des eaux souterraines au droit du site en chrome VI a été détectée puis confirmée.	'chrome VI'	
+2013				2013				a_été_détectée	En 2011, 2012 et 2013, une contamination des eaux souterraines au droit du site en chrome VI a été détectée puis confirmée.	'chrome VI'	
+2014	11			2014	11			Cette_étude_a_été_remise_en	Cette étude a été remise en novembre 2014 par l'exploitant.		
+2017	07			2017	07			est_surveillé	Un 7ème, toujours en aval hydrogéologique et hors site (à environ 350 m) est surveillé depuis juillet 2017.		
+2015	07			2015	07			Des_mesures_complémentaires_ont_été_réalisées	Des mesures complémentaires ont été réalisées en mars 2015 et juillet 2015 pour connaître l'étendue de la contamination des eaux souterraines et l'évolution des concentrations en chrome VI.	'chrome VI'	

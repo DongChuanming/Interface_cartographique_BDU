@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981				1981				a_définitivement_cessé	L’activité a définitivement cessé en 1981 et les infrastructures ont été démantelées en 1984 et 1985.		
+								a_exploité	La Société SACILOR a exploité une cokerie jusqu’au début des années 1980 sur le territoire de la commune d’HOMECOURT.		'La Société SACILOR'
+1985				1985				ont_été_démantelées	L’activité a définitivement cessé en 1981 et les infrastructures ont été démantelées en 1984 et 1985.		
+2011				2011				a_mis_en_évidence	En 2011, une nouvelle visite sur site a mis en évidence la présence de coulures de goudron en provenance de ce site, via les barbacanes ressortant au niveau du tunnel.		
+2013				2013				des_études	En application de l'arrêté préfectoral n°2010-683, l'ayant-droit de l'ancien et dernier exploitant a transmis début 2013 des études relatives à l'impact du site de l'ancienne cokerie sur la Ramévaux et à l'inspection du tunnel de la Ramévaux.		
+								a_été_canalisé	Ce cours d’eau a été canalisé dans les années 1920 lors de la création de la plate-forme qui a accueilli la cokerie, par remblaiement de la vallée au moyen de laitiers.		
+								les_travaux_réalisés	Force est de constater que les travaux réalisés dans les années 1990 sur la structure du tunnel de la Ramévaux se révèlent aujourd’hui insuffisants pour contenir la pollution du site de l’ancienne cokerie et prévenir la contamination des eaux de la Ramévaux.		
+								De_nombreuses_études_ont_été_réalisées	De nombreuses études ont été réalisées sur ce site et des travaux de traitement de la pollution sur certaines zones ont été menées dans les années 2000.		
+								des_travaux_de_traitement	De nombreuses études ont été réalisées sur ce site et des travaux de traitement de la pollution sur certaines zones ont été menées dans les années 2000.		
+								des_travaux_de_mise_en_sécurité	Dans les années 1990, des travaux de mise en sécurité ont été entrepris en raison du mauvais état général du tunnel (effondrement partiel) et des risques engendrés pour les riverains (entrave au bon écoulement des eaux).		
+1922				1980				exploitée	L'étude diagnostique de cette ancienne cokerie, exploitée de 1922 à 1980, fait apparaître que 9 ha sur 30 sont pollués par des métaux, cyanures, HAP.	'métaux', 'cyanures', 'HAP'	
+1990				1990				des_travaux_de_traitement	De nombreuses études ont été réalisées sur ce site et des travaux de traitement de la pollution sur certaines zones ont été menées dans les années 1990-2000 :		
+2000				2000				des_travaux_de_traitement	De nombreuses études ont été réalisées sur ce site et des travaux de traitement de la pollution sur certaines zones ont été menées dans les années 1990-2000 :		
+1984				1984				ont_été_démantelées	L’activité a définitivement cessé en 1981 et les infrastructures ont été démantelées en 1984 et 1985.		
+								des_travaux_de_réfection_du_tunnel	Des suintements sont également observés sur les parois du tunnel, aux endroits où le crépi, mis en œuvre sur les parois lors des travaux de réfection du tunnel dans les années 1990, se délite.		

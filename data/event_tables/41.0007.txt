@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				délivré	Un ensemble immobilier de 12 pavillons avec garages accolés avec jardins privatifs et un espace vert commun (permis de construire délivré en 2000).		
+1995				1995				La_cessation_d__activité	La cessation d'activité de la tannerie exploitée par la société NORDFURS a été découverte en 1995 à l'occasion d'une visite de surveillance de l'inspection des installations classées.		'la société NORDFURS'
+				1993				a_exploité	La société NORDFURS a exploité une tannerie sur ce site jusqu'en 1993.		'La société NORDFURS'
+1993				1993				le_rachat	L'ancien exploitant a fait connaître le rachat en 1993 du site par la SCI LES TANNEURS.		'la SCI LES TANNEURS'
+1995				1995				notifié	Un arrêté notifié à la société NORDFURS en 1995 a imposé la remise en état du site.		'la société NORDFURS'
+2005				2005				a_été_prescrites	Une surveillance de la qualité des eaux souterraines a été prescrites en 2005 à la SCCV le hameau des tanneurs pour s'assurer de l'absence d'impact différé.		
+1996				1996				Une_mise_en_demeure_de_remettre	Une mise en demeure de remettre le site en état a donc été notifiée à la SCI LES TANNEURS en 1996.		'la SCI LES TANNEURS'
+1998				1998				le_constat_de_mise_en_sécurité	En 1998, le constat de mise en sécurité du site a pu être effectué. *		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03			2003	03			a_été_reçue	Cette étude a été reçue en mars 2003.		
+2001	12			2001	12			Les_investigations_menées	Les investigations menées en décembre 2001 sur le site par la Société WOREX ont comporté des prélévements de sols et d'eaux souterraines.		'la Société WOREX'
+2003				2003				a_mis_en_place	En 2003, l'exploitant a mis en place un réseau piézométrique afin de suivre les éventuels effets de la pollution sur la qualité des eaux souterraines à l'extérieur du site.		

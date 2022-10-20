@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1992				s__est_poursuivie	L'exploitation s'est poursuivie jusqu'en 1992 après de nombreux changements et extensions d'activités.		
+1929				1929				a_été_créée	En 1929, la société CHIGNARD-DELFAU a été créée.		'la société CHIGNARD - DELFAU'
+2014	11	21		2014	11	21		a_été_pris	Un arrêté préfectoral de mise en demeure a été pris, le 21 novembre 2014, afin que les prescriptions relatives à la cessation d'activité de cette installation classée soient effectuées.		
+1941				1941				a_fait_l__objet_d_	La société CHIGNARD-DELFAU a fait l'objet d'un arrêté d'autorisation en 1941.		'La société CHIGNARD - DELFAU'
+2015	01	21		2015	01	21		a_demandé	Le 21 janvier 2015, le propriétaire a demandé l'annulation de l'arrêté préfectoral de mise en demeure car il n'est pas le dernier exploitant connu du site.		
+2015	06	05		2015	06	05		demande	Dans un courrier du 5 juin 2015, l'ARS demande que des mesures de gestion des risques soient prises urgemment.		
+2015	09	03		2015	09	03		une_visite	Lors d'une visite de l'Inspection le 3 septembre 2015, un dépôt illégal de déchets non inertes a été identifié sur le site.	'déchets non inertes'	
+2016	06	19		2016	06	19		a_été_abrogé	Le 19 juin 2016, l'arrêté préfectoral de mise en demeure a été abrogé.		
+1986				1986				a_été_créée	En 1986, la société SNC DELFAU & Cie a été créée.		'la société SNC DELFAU'
+2015	06	05		2015	06	05		un_courrier	Dans un courrier du 5 juin 2015, l'ARS demande que des mesures de gestion des risques soient prises urgemment.		
+2016	02	12		2016	02	12		a_été_fourni	Le 12 février 2016, un rapport sur la gestion des déchets sur le site a été fourni par l'IC.		
+2015	09	03		2015	09	03		a_été_identifié	Lors d'une visite de l'Inspection le 3 septembre 2015, un dépôt illégal de déchets non inertes a été identifié sur le site.	'déchets non inertes'	
+2004	11			2004	11			Une_étude_de	Une étude de la qualité des sols a été réalisée en novembre 2004.		
+1899				1899				L__occupation	L'occupation de ce site de 4 ha a commencé en 1899 par l'exploitation d'un dépôt de vidanges.		
+1987				1987				a_transmis	Elle a transmis ses activités à différentes sociétés dès 1987.		

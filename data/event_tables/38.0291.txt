@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02	18		2015	02	18		es_investigations_de_sols	es investigations de sols se sont déroulées le 18/02/2015.		
+2008	01			2008	01			n__avaient_pas_été_autorisées	Toutefois elles n'avaient pas été autorisées par le préfet de l'Isère, le dossier de demande d'autorisation remis par la sté n'ayant pas été jugé recevable par l'inspection des installations classées en janvier 2008.		'le préfet'
+2013	09			2013	09			ont_également_été_démantelés	Ces équipements ont également été démantelés avant le placement en liquidation judiciaire en septembre 2013, conduisant ainsi à l’arrêt total et définitif des activités industrielles de la société RAYPRINT sur ce site.		'la société RAYPRINT'
+2013	01	14		2013	01	14		a_procédé_à_l__arrêt_progressif	Depuis lors, la société RAYPRINT a procédé à l’arrêt progressif de ses activités industrielles et à l’élimination des déchets et des produits dans une filière agréée, tel que constaté par l’inspection des installations classées dans son rapport de visite en date du 14 janvier 2013.		'la société RAYPRINT'
+2006				2006				construit	La société RAYPRINT était implantée sur la zone des Vouillands dans un bâtiment construit en 2006.		'La société RAYPRINT'

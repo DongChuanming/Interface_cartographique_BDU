@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				est_alimentée_par	Depuis l’été 1992, la communauté de communes est alimentée par les puits de Corcelle, en bordure de la rivière d’Ain, et les puits du marais de Bellignat ont été abandonnés.		
+2003				2003				a_cessé	L’activité a cessé en 2003 (liquidation judiciaire prononcée le 28/03/2003).		
+1986				1986				a_été_fondée	La société GARCIA a été fondée en 1977, le premier récépissé de déclaration au titre des ICPE a été délivré en 1986.		'La société GARCIA'
+2004	10	15		2004	10	15		son_courrier	- rapport "Diagnostic initial – Rapport d'étape A" réalisé par AIN GEOTECHNIQUE, remis le 19 octobre 2004 par l'office notarial de Maîtres CLERC, PEROZ, COIFFARD joint à son courrier du 15 octobre 2004.		'AIN GEOTECHNIQUE', 'Maîtres CLERC , PEROZ'
+2003	09	15		2003	09	15		L__acte_de_cession	L'acte de cession a été régularisé le 15 septembre 2003.		
+2003	03	28		2003	03	28		a_cessé	L’activité a cessé en 2003 (liquidation judiciaire prononcée le 28/03/2003).		
+2003	08	1		2003	08	1		a_autorisé	Par ordonnance rendue le 1er août 2003, le Juge-Commissaire a autorisé Maître DESPRAT à céder à la société ATP le fonds de commerce de pièces plastiques qui dépendait de l'actif de la liquidation judiciaire de la SA GARCIA.		'Maître DESPRAT', 'la société ATP', 'la SA GARCIA'
+1996	02	07		1996	02	07		a_exploité	La société GARCIA, spécialisée dans la décoration, le vernissage et la peinture de pièces plastiques a exploité à Groissiat un établissement autorisé au titre des installations classées pour la protection de l’environnement par l’arrêté préfectoral du 7 février 1996.		'La société GARCIA'
+2005	02	28		2005	02	28		une_réunion	Suite à une réunion qui s’est tenue dans les locaux de la DRIRE le 28 février 2005, Me.		'la DRIRE'
+2003	07	18		2003	07	18		une_étude_de_sol	Par arrêté préfectoral du 18 juillet 2003, il a été prescrit à la société GARCIA, représentée par Maître DESPRAT, désigné en qualité de liquidateur, une étude de sol dans l'emprise des terrains de son établissement de GROISSIAT.		'la société GARCIA', 'Maître DESPRAT'
+2004	03	1		2004	03	1		devait_être_remis	Le rapport d'étape A tel que défini dans l'arrêté préfectoral devait être remis au plus tard le 1er décembre 2003 et le rapport final au plus tard le 1er mars 2004.		
+1977				1977				a_été_fondée	La société GARCIA a été fondée en 1977, le premier récépissé de déclaration au titre des ICPE a été délivré en 1986.		'La société GARCIA'
+2003	05			2003	05			Un_premier_audit_environnemental	Un premier audit environnemental a été réalisé en mai 2003 par AIN GEOTECHNIQUE à la demande de Monsieur GARCIA.		'AIN GEOTECHNIQUE', 'Monsieur GARCIA'
+2003	12	1		2003	12	1		devait_être_remis	Le rapport d'étape A tel que défini dans l'arrêté préfectoral devait être remis au plus tard le 1er décembre 2003 et le rapport final au plus tard le 1er mars 2004.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	24		2007	10	24		un_courrier	Suite à cette visite, l'inspection des installations classées a demandé dans un courrier du 24 octobre 2007 à la Communauté de Communes Arve et Salève de réaliser le dossier de recollement décrivant l'ensemble des conditions de réhabilitation du site.		'la Communauté de Communes Arve'
+1973				1973				exploitée	- la décharge, exploitée depuis 1973.		
+2007	10	12		2007	10	12		Une_visite_de_récolement	Une visite de récolement du 12 octobre 2007 par l'inspection des installations classées a permis de constater que les travaux de réhabilitation ont été réalisés et limités au strict minimum compte-tenu de l'instabilité des terrains très marquée dans cette zone.		
+2003				2007				a_été_exploitée	Elle a été exploitée jusqu'en 1989 et réhabilitée entre 2003 et 2007.		
+2001	12			2001	12			un_rapport_d__étude	Le site a fait l'objet d'un rapport d'étude du cabinet GEO ARVE, finalisé en décembre 2001, ayant pour objet de faire l'historique du site, caractériser le milieu et les pollutions engendrées, et définir les mesures de réaménagement.		'GEO ARVE'
+2003				2007				en_1989_et_réhabilitée	Elle a été exploitée jusqu'en 1989 et réhabilitée entre 2003 et 2007.		
+2003	11			2003	11			un_dossier_d__Avant_Projet_de_réhabilitation	GEOS INGENIEURS CONSEILS SA a réalisé un dossier d'Avant-Projet de réhabilitation en novembre 2003, sur la base des principes entérinés par l'inspection des installations classées.		'GEOS INGENIEURS CONSEILS SA'

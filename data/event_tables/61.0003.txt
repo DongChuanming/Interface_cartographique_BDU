@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_débuté	Le programme des travaux de mise en sécurité de ces sites a débuté en 2010.		
+1995	03			1995	03			une_visite	En mars 1995, une visite de l'inspection des installations classées a acté la réalisation des travaux.		
+1990	03			1990	03			les_mesures	Afin de garantir l’intégrité du dépôt de déchets d'amiante par rapport au risque de dispersion, les mesures suivantes ont été réalisées, en mars 1990 :		
+2009				2009				a_été_signé	Un protocole d’accord national a été signé, en 2009, entre le Ministère de l’Ecologie et la société Valéo en vue de la mise en sécurité de quatre anciens sites industriels présentant une problématique liée à l’amiante, situés sur les communes de Andouillé (53), Caligny (61), Rocray (61) et Saint Clair de Halouze (61).		'le Ministère', 'la société Valéo'
+1995	03			1995	03			la_réalisation_des_travaux	En mars 1995, une visite de l'inspection des installations classées a acté la réalisation des travaux.		
+1928				1986				a_été_utilisée	L’amiante a été utilisée de 1928 à 1986, date de cessation de l'activité industrielle de Ferodo.		'Ferodo'
+1995				1995				a_pas_été_remaniée	En juillet 2006, une visite d'inspection a permis de constater que depuis 1995 la zone de stockage des déchets n'a pas été remaniée.		
+1928				1928				Acquise	Acquise en 1928 par Ferodo, l’usine était spécialisée dans la fabrication de résines crésoliques et phénoliques, matières premières de la fabrication des garnitures de friction.	'résines crésoliques', 'phénoliques'	'Ferodo'
+1994				1994				est_vendue_à	En 1994, la majeure partie des terrains comprenant les bâtiments industriels est vendue à un particulier qui y entrepose du matériel divers.		
+2008				2008				a_été_réalisé	Un rapport sur l'état du site a été réalisé en 2008.		

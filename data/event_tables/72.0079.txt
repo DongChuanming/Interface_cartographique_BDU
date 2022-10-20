@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984	07	25		1984	07	25		un_déversement_accidentel	- un déversement accidentel de l’ordre de 300 litres d’huiles minérale (paraffine) a eu lieu le 25/07/1984 ;	'huiles minérale', 'paraffine'	
+				1966	11	29		ont_eu_lieu	Plusieurs extensions du site ont eu lieu les : 19/07/1962; 08/06/1965; 29/11/1966; 06/02/1970.		
+1979				1991				ont_été_enregistrées	De nombreuses plaintes de riverains du site ont été enregistrées entre 1979 et 1991 concernant le bruit et les fumées générées par le site, ainsi que les déversements de paraffine, d'hydrocarbures et d'ordures dans les eaux de la rivière du Même.	'paraffine', 'hydrocarbures'	
+1962	07	19		1962	07	19		ont_eu_lieu	Plusieurs extensions du site ont eu lieu les : 19/07/1962; 08/06/1965; 29/11/1966; 06/02/1970.		
+1990	06	19		1990	06	19		avait_été_émis	Le 19 juin 1990 un procès verbal avait été émis afin de déterminer l'origine de la pollution.		
+1991				1991				est_neutralisée	- en 1991 une cuve enterrée contenant un mélange d’huile et d’eau est neutralisée par l’exploitant.	'mélange d’ huile'	
+				1965	06	08		ont_eu_lieu	Plusieurs extensions du site ont eu lieu les : 19/07/1962; 08/06/1965; 29/11/1966; 06/02/1970.		
+1957				1957				s__implante	En 1957, une entreprise de pharmaceutique s’implante sur le site.		
+				1970	02	06		ont_eu_lieu	Plusieurs extensions du site ont eu lieu les : 19/07/1962; 08/06/1965; 29/11/1966; 06/02/1970.		
+1938				1938				est_occupé_par	En 1938, le site est occupé par l’ancienne cidrerie LEGOUT.		
+2015				2015				a_déclaré	Concernant les transformateurs, l’exploitant a déclaré en 2015 qu’ils devaient être éliminés par une société agréée.		
+1979				1979				est_reprise_par	D’abord exploité par BORNIER & BURNET, l’activité est reprise par GODARD (entreprise BURNET) en 1979, puis par MAHUT en 1986.		'BORNIER & BURNET', 'GODARD', 'entreprise BURNET', 'MAHUT'

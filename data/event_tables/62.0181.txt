@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02	20		2012	02	20		Dépôt_d__un_dossier	- Dépôt d'un dossier de SUP par la Communauté Urbaine d'Arras le 20/02/2012.		'la Communauté Urbaine'
+1965				1998				a_exploité	- Le district d'Arras a exploité entre les années 1965 et 1998 une décharge de déchets ménagers et assimilés au lieu dit "La Brêche".		
+2005				2005				Excavation_des_déchets	- Excavation des déchets au Nord du site, pose d'une géomembrane au centre du site et la partie Sud a été recouverte par des matériaux inertes sur une hauteur de 6m, travaux réalisés courant 2005.		
+2002	07			2002	07			__dépôt_d_	- En juillet 2002: dépôt d'un dossier émettant des propositions de servitudes.		
+2005				2005				__travaux_réalisés	- Excavation des déchets au Nord du site, pose d'une géomembrane au centre du site et la partie Sud a été recouverte par des matériaux inertes sur une hauteur de 6m, travaux réalisés courant 2005.		
+								Inspection	- Inspection du site 4 fois par ans par la société Aggeris, laboratoire indépendant, pour la CUA.		'la société Aggeris', 'la CUA'

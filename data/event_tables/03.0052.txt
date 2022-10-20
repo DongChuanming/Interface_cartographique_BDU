@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	31		2012	01	31		est_placée_en_liquidation_judiciaire	L’entreprise est placée en liquidation judiciaire le 24 janvier 2008 et cette liquidation prend fin le 31 janvier 2012.		
+2008	04	02		2008	04	02		est_réalisé	Le 2 avril 2008 est réalisé une campagne de sondages, prélèvements et analyses de sol.		
+2008	01	24		2008	01	24		est_placée_en_liquidation_judiciaire	L’entreprise est placée en liquidation judiciaire le 24 janvier 2008 et cette liquidation prend fin le 31 janvier 2012.		
+2018	05	31		2018	05	31		est_pas_informée	Au jour du 31/05/2018, la DREAL n'en est pas informée.		'la DREAL'
+2010	03			2010	03			une_campagne_complémentaire_de_sondages_prélèvements	En mars 2010, une campagne complémentaire de sondages prélèvements et analyses de sols est réalisée. 6 sondages sont effectués, et 3 piézomètres implantés.		
+2012	01	31		2012	01	31		cette_liquidation	L’entreprise est placée en liquidation judiciaire le 24 janvier 2008 et cette liquidation prend fin le 31 janvier 2012.		

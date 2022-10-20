@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	25		2003	07	25		a_été_signé	L'arrêté préfectoral a été signé le 25 juillet 2003.		
+2004	03	23		2004	03	23		la_réalisation_d__un_diagnostic_initial	Suite à la mise en évidence d'un impact du site sur la nappe phréatique en tri et tétrachloroéthylène, la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur l'ensemble du site a été imposée par arrêté préfectoral du 23 mars 2004.	'tri et tétrachloroéthylène'	
+1999	08	03		1999	08	03		a_perdu_subitement	En effet, le 3 août 1999, une cuve contenant 23 m3 de perchlorure de fer a perdu subitement son contenu.	'perchlorure de fer'	
+2008	10	21		2008	10	21		est_redevenue	Compte tenu de la tendance à la baisse des teneurs en tri et tétrachloroéthylène dans les eaux souterraines, la fréquence des analyses est redevenue semestrielle par arrêté préfectoral du 21 octobre 2008.	'tri et tétrachloroéthylène'	

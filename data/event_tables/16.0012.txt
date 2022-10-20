@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	11			2003	11			a_été_transmis	Le rapport complémentaire de l'étude de sols et de l'étude hydrogéologique a été transmis à l'inspection, en novembre 2003.		
+1963				1963				installée	Le groupe SAINT GOBAIN (SGE) exploite à Châteaubernard une verrerie industrielle installée depuis 1963 sur ce site d'une superficie de 36 hectares.		'Le groupe SAINT GOBAIN', 'SGE'
+2010				2010				est_devenue	SGE est devenue en 2010 VERALIA		'SGE', 'VERALIA'
+2002	12			2002	12			à_une_réunion_entre	Suite à une réunion entre la DRIRE et SAINT GOBAIN EMBALLAGES en décembre 2002, il a été rappelé que la mise en place d'au moins trois piézomètres était indispensable pour apporter les précisions nécessaires sur le contexte hydrogéologique.		'la DRIRE', 'SAINT GOBAIN EMBALLAGES'
+2003	07	04		2003	07	04		d__une_visite_d__inspection	Lors d'une visite d'inspection le 4 juillet 2003, il a pu être constaté que 3 piézomètres d'une profondeur de 30 mètres étaient en cours de réalisation.		
+2002	08	30		2002	08	30		a_précisé	Ainsi, par courrier du 30 août 2002, l'inspection des installations classées a précisé que la mise en oeuvre d'une surveillance de la qualité des eaux souterraines était nécessaire et qu'elle ne devait pas être différée par la réalisation d'investigations complémentaires.		
+2003	09	01		2003	09	01		est_mis_en_place	Un suivi des eaux souterraines au niveau des piézomètres est mis en place depuis 01/09/2003.		
+2002	05	27		2002	05	27		a_été_remise	L'étape A de l'étude de sols a été remise par l'exploitant le 27 mai 2002.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été imposé à l'exploitant de cette unité, à titre préventif.		

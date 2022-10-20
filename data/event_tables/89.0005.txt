@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1950				1950				a_exploité	De 1950 à 2003, la commune de Tonnerre a exploité une décharge communale dite "décharge des corbeaux" sur le territoire de sa commune.		'Tonnerre'
+2005				2005				une_étude_préalable	La ville de Tonnerre a fait réaliser une étude préalable à la réhabilitation de la décharge en 2005.		'Tonnerre'
+2004	02	06		2004	02	06		une_visite_inopinée	6 février 2004: une visite inopinée de la décharge est effectuée par l'inspection des installations classées.		
+2003				2003				a_exploité	De 1950 à 2003, la commune de Tonnerre a exploité une décharge communale dite "décharge des corbeaux" sur le territoire de sa commune.		'Tonnerre'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03			2004	03			réalise	La société TOTAL FRANCE réalise depuis mars 2004 une surveillance des eaux souterraines deux fois par an.		'La société TOTAL FRANCE'
+2006	07			2006	07			des_travaux_de_récupération	En juillet 2006, suite au déversement d'un trop plein du réservoir du groupe électrogène de la station-service, des travaux de récupération de produits et de nettoyage ont été entrepris.		
+2005				2005				sont_mise_en_place	De nouvelles installations sont mise en place en 2005 fonctionnant désormais sous le régime de la déclaration.		
+2005	01	13		2005	01	13		est_délivré	Le récépissé de déclaration est délivré le 13 janvier 2005.		

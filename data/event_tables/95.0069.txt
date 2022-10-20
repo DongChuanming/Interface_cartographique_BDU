@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03			2013	03			Les_dernières_analyses_de_nappe	Les dernières analyses de nappe ont été réalisées en mars 2013.		
+2013				2013				ont_été_évacuées	Les terres contaminées par des PCB et des hydrocarbures ont été évacuées du site courant 2013.	'des PCB', 'hydrocarbures'	
+1947				2006				exercé	La Société SIRC CHARGROS a, de 1947 à 2006, exercé sur le site d’ERAGNY SUR OISE une activité de fabrication et réparation de radiateurs automobiles.		'La Société SIRC CHARGROS'
+2009				2009				les_mesures	En conclusion, le bureau d’études qui a réalisé les mesures de 2009 préconise :		
+2005	12	31		2005	12	31		a_fermé	Le site a fermé le 31 décembre 2005.		
+2012	02			2012	02			ont_été_transmis	Des analyses complémentaires et une étude de risque sanitaire ont été transmis à l'inspection des installations classées en février 2012.		
+2009				2009				Les_analyses_réalisées	Les analyses réalisées en 2006 et 2009 montrent une pollution des sols en métaux (cadmium, cuivre, plomb, zinc) :	'métaux', 'cadmium', 'cuivre', 'plomb', 'zinc'	
+2016	02			2016	02			a_reçu	L’inspection des installations a reçu en février 2016 un dossier de demande de servitudes d’utilité publique.		
+2006				2006				Les_analyses_réalisées	Les analyses réalisées en 2006 et 2009 montrent une pollution des sols en métaux (cadmium, cuivre, plomb, zinc) :	'métaux', 'cadmium', 'cuivre', 'plomb', 'zinc'	
+1947				2006				une_activité_de_fabrication_et_réparation_de_radiateurs	La Société SIRC CHARGROS a, de 1947 à 2006, exercé sur le site d’ERAGNY SUR OISE une activité de fabrication et réparation de radiateurs automobiles.		'La Société SIRC CHARGROS'

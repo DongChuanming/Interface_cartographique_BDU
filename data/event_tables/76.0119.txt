@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10	26		2000	10	26		a_mis_en_demeure	Un arrêté préfectoral date du 26 octobre 2000 a mis en demeure l'exploitant de		
+2000	09	25		2000	09	25		un_incendie	Le 25 septembre 2000, le site a été l'objet d'un incendie.		
+2002	03			2002	03			l__actualisation	Mars 2002, l'actualisation de L'ESR (liée à la révision faite par le MATE de		'le MATE'
+2001	01			2001	01			évaluation_simplifiée_des_risques_ESR	L’évaluation simplifiée des risques(ESR) a été remise en janvier 2001.		

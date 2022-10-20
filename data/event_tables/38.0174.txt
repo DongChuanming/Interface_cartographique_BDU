@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09	29		2011	09	29		a_adressé	La propriétaire du site envisageant un usage résidentiel de celui-ci, c'est dans ce cadre que la société BEAL Recyclage a adressé à la préfecture de l'Isère, le 29 septembre 2011, une nouveau dossier de mise a jour de l'analyse des risques résiduels.		'la société BEAL Recyclage'
+2003	05	1		2003	05	1		a_informé	Par courrier du 30 janvier 2004, l'exploitant a informé la préfecture de l'Isère de la cessation de ses activités au 1er mai 2003.		
+2012	01	18		2012	01	18		la_visite_d__inspection	Dans son rapport du 19 janvier 2012, l'inspection des installations classées indique que suite à la visite d'inspection réalisée le 18 janvier 2012 en compagnie de Mme BEAL (propriétaire des terrains):		'Mme BEAL'
+2004	12	14		2004	12	14		deux_études_de_sols	Dans ce contexte, deux études de sols ont été réalisées et remis à l'inspection des installations classées les 14 décembre 2004 et 6 mars 2005.		
+2005				2005				les_investigations_des_sols	- les investigations des sols sur les BTEX et les hydrocarbures en 2004 puis sur les HAP en 2005.	'BTEX', 'hydrocarbures', 'HAP'	
+2010	10	14		2010	10	14		un_courrier	A la suite de ces études, l'exploitant a été informé par un courrier de la préfecture de l'Isère datant du 14 octobre 2010 que M. le Préfet prenait acte de la cessation d'activités classées et que le site pouvait donc être réaménagé pour un usage industriel, artisanal, bureaux ou voiries.		'le Préfet prenait'
+2005	03	06		2005	03	06		deux_études_de_sols	Dans ce contexte, deux études de sols ont été réalisées et remis à l'inspection des installations classées les 14 décembre 2004 et 6 mars 2005.		
+2003	05	1		2003	05	1		la_cessation_de_ses_activités	Par courrier du 30 janvier 2004, l'exploitant a informé la préfecture de l'Isère de la cessation de ses activités au 1er mai 2003.		
+2004	01	30		2004	01	30		a_informé	Par courrier du 30 janvier 2004, l'exploitant a informé la préfecture de l'Isère de la cessation de ses activités au 1er mai 2003.		
+2004				2004				les_investigations_des_sols	- les investigations des sols sur les BTEX et les hydrocarbures en 2004 puis sur les HAP en 2005.	'BTEX', 'hydrocarbures', 'HAP'	

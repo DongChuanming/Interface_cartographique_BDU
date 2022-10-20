@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1931				furent_extrait	Ces deux métaux, principalement le zinc, furent extrait jusqu'en 1931, puis vers 1937 et enfin de 1943 à 1953 date à laquelle a eu lieu l'arrêt définitif de l'exploitation.	'le zinc'	
+1993				2003				une_exploitation_autorisée	Une zone de dépôt de stérile demeure depuis l'arrêt des exploitations et a fait l'objet d'une exploitation autorisée de 1993 à 2003.		
+2008				2008				Une_campagne_de	Une campagne de dépistage du saturnisme infantile a été menée pendant le premier semestre 2008.		
+1903				1903				fut_attribuée	La première concession fut attribuée en 1903 à la S.		'la S.'

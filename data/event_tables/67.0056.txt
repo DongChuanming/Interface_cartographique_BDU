@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								un_arrêté	Le préfet a pris le 28/03/00, en application de l'article 18 de la loi du 03/01/92, un arrêté prescrivant à la société ONATRA, représentée par son mandataire liquidateur Maître ZUCCHI, les travaux de dépollution avec l'objectif de ramener la concentration de tétrachlorure de carbone à 2µg/l.	'tétrachlorure de carbone'	'Le préfet', 'la société ONATRA'
+2006				2006				de_dépollution_fonctionnent	Deux sites de dépollution fonctionnent depuis 2006 (pompage de l’eau et filtration sur charbon actif).	'charbon actif'	
+								les_travaux_de_dépollution	Le préfet a pris le 28/03/00, en application de l'article 18 de la loi du 03/01/92, un arrêté prescrivant à la société ONATRA, représentée par son mandataire liquidateur Maître ZUCCHI, les travaux de dépollution avec l'objectif de ramener la concentration de tétrachlorure de carbone à 2µg/l.	'tétrachlorure de carbone'	'Le préfet', 'la société ONATRA'
+1992				1992				a_été_mis_en_évidence	Le tétrachlorure de carbone a été mis en évidence en 1992 au niveau des puits de captage d'eau potable de Erstein, 6 km en aval.	'Le tétrachlorure de carbone'	
+1970	12	11		1970	12	11		est_renversé	Le 11 décembre 1970, un camion citerne de la société ONATRA, transportant du tétrachlorure de carbone, s'est renversé à la sortie Nord de Benfeld.	'tétrachlorure', 'de carbone'	'camion citerne', 'la société ONATRA'
+								a_été_constaté	L'état de carence a été constaté, suite à la réponse négative du liquidateur en date du 04/04/00.		
+2006	01	30		2006	01	30		a_été_pris	Un arrêté préfectoral a été pris le 30 janvier 2006,		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				a_acquis	En 1994, elle a acquis et englobé l'entreprise voisine SIDEV qui fabriquait des encres.		'SIDEV'
+2006	08			2006	08			évaluation_détaillée_des_risques_sanitaires	Une évaluation détaillée des risques sanitaires prenant en compte un futur usage sensible, d'août 2006, conclut :		
+2001	10	08		2001	10	08		__a_été_mise_en_liquidation_judiciaire	La société DEVOISSELLE  a été mise en liquidation judiciaire le 08 octobre 2001.		'La société DEVOISSELLE'
+1960				1960				a_implanté	Sur des terrains maraichers, la société DEVOISSELLE a implanté en 1960 une usine de cartonnages et emballages.		'la société DEVOISSELLE'
+2004	02	03		2004	02	03		ont_été_demandées	Les mesures de remise en état du site ont été demandées par arrêté préfectoral du 03 février 2004.		

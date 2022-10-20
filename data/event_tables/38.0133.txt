@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	11	25		2002	11	25		Une_Etude_Simplifiée_des_Risques	Une Etude Simplifiée des Risques (ESR) a été réalisé par la SADE sur le site en date du 25/11/2002.		'la SADE'
+2007				2007				a_donc_demandé	En 2007, l'inspection des installations classés a donc demandé l'arrêt du suivi des eaux compte tenu de l'absence de pollution sur plusieurs relevés consécutifs.		
+2004	05			2007	04			Huit_campagnes_ont_été_réalisées	Huit campagnes ont été réalisées entre mai 2004 et avril 2007.		
+2003	12			2003	12			Un_diagnostic_initial	Un diagnostic initial de l'état du sous sol ainsi qu'une Évaluation Détaillée des Risques ont été réalisés par la société ANTEA au mois de décembre 2003.		'la société ANTEA'

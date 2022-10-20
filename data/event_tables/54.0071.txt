@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	15		2001	11	15		ont_été_remises	Ces études ont été remises à l'inspection le 15 novembre 2001.		
+1999				1999				réhabilitation_paysagère_faites	Les études, réalisées par un organisme agréé, de réhabilitation paysagère faites en 1999 montrent les qualités géologiques du terrain, l'absence d'écotoxicité des cendres et l'absence d'influence sur les eaux superficielles et souterraines.		
+1963				1963				fût_créé	Il fût créé en 1963, sur une surface de 75 ha dont 25 sont recouverts de cendres.		
+2011	11	04		2011	11	04		Lors_de_la_visite_d__inspection	Lors de la visite d'inspection du 04 novembre 2011, l'exploitant a indiqué qu'un point en interne a été fait sur les résultats d'analyses d'eaux dont il dispose depuis 2003 pour le plomb et depuis 2011 pour le chrome et les hydrocarbures, et qu'aucun dépassement de seuil n'a été détecté.	'plomb', 'le chrome', 'hydrocarbures'	

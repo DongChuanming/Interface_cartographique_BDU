@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	09			2002	09			une_activité_de_fabrication_de_pièces_mécaniques_usinées	La société SOCLA a exercé sur le site de septembre 1996 à septembre 2002 une activité de fabrication de pièces mécaniques usinées (corps de vannes, axes et papillons) destinées à la robinetterie.		'La société SOCLA'
+2002	09	25		2002	09	25		La_déclaration_de_fin_d__activité	La déclaration de fin d'activité effectuée le 25 septembre 2002 était accompagnée d'un diagnostic de pollution.		
+1996	09			2002	09			a_exercé	La société SOCLA a exercé sur le site de septembre 1996 à septembre 2002 une activité de fabrication de pièces mécaniques usinées (corps de vannes, axes et papillons) destinées à la robinetterie.		'La société SOCLA'

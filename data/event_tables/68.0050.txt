@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				une_pollution	En 1992 s'est produit une pollution de la nappe par de l'acide phosphochromique.	'phosphochromique'	
+2008	02			2008	02			des_travaux_de_terrassement	En février 2008, des travaux de terrassement au droit d'une ancienne station de filtration d'un laminoir ont mis à jour une pollution aux hydrocarbures. 148 tonnes de terres ont été excavées et traitées hors du site. 20 m3 d'eau polluée ont également été pompé.	'hydrocarbures'	
+1967				1967				inaugurée	L'usine, inaugurée en 1967, fabrique des produits laminés en aluminium.		
+2007	01			2007	01			a_été_remise	Cette EDR a été remise en janvier 2007.		
+2006	02	14		2006	02	14		a_été_signé	Un arrêté préfectoral prescrivant une Etude Détaillée des Risques a été signé le 14 février 2006 afin de mieux caractériser les sources de pollution et de s'assurer de l'efficacité de la barrière hydraulique.		

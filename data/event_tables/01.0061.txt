@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								complétée	Cette ESR a été déposée à la DRIRE le 8/11/04 et complétée le 23/12/04.		'la DRIRE'
+1998	05	19		1998	05	19		est_autorisée_à_exploiter	Par un arrêté préfectoral du 19 mai 1998, la société WEBER & BROUTIN FRANCE est autorisée à exploiter, sur le territoire de la commune de Servas, un établissement élaborant et conditionnant des produits finis ou semi-finis pour le second œuvre du bâtiment et le génie civil tels que : enduits, mortiers, produits d'isolation, de protection…		'la société WEBER & BROUTIN FRANCE'
+2007	02			2007	02			a_cessé	Au regard des résultats d'analyses d'eaux souterraines, l'exploitant a cessé le pompage/stripping en février 2007.		
+2004	03	31		2004	03	31		effectue_un	Le 31 mars 2004, une société de livraison étrangère effectue un dépotage d'essence de térébenthine dans la cuve de 30 m3.	'essence', 'térébenthine'	
+								__création_de	- le 22/04, création de 7 piézomètres d'une profondeur de 3 à 4 mètres, travaux définis lors d'une réunion du 19/04.		
+								des_prélèvements	- le 26/04, des prélèvements d'eau dans ces 7 piézomètres et de terre dans le parc à cuves et dans le ru.		
+								a_validé	La DRIRE a validé cette ESR le 24/01/05 par un courrier à l'industriel.		'La DRIRE'
+2006				2006				ont_été_évacuées	Fin 2006, les cuves et la quasi-totalité des terres souillées ont été évacuées.		
+2008	05	20		2008	05	20		à_été_ramenée_à	Par arrêté préfectoral complémentaire du 20 mai 2008, la fréquence d'analyse des eaux souterraines à été ramenée à une fréquence semestrielle.		
+								a_été_déposée	Cette ESR a été déposée à la DRIRE le 8/11/04 et complétée le 23/12/04.		'la DRIRE'
+								la_réalisation_d__une_Evaluation_Simplifiée_des_Risques_ESR	Un arrêté préfectoral complémentaire du 20/08/04 a imposé à la société WEBER ET BROUTIN FRANCE la réalisation d'une Evaluation Simplifiée des Risques(ESR) dans un délai de 6 mois et la surveillance des eaux souterraines à partir des 7 piézomètres installés (une mesure mensuelle en hydrocarbures totaux et en essence de térébenthine).	'hydrocarbures totaux', 'essence', 'térébenthine'	'la société WEBER ET BROUTIN FRANCE'

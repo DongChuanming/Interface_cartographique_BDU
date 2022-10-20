@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03			2010	03			la_cessation_totale_de_ses_activités	La société BOSCH a déclaré la cessation totale de ses activités en mars 2010.		'société BOSCH'
+1992				1996				a_été_mise_en_oeuvre	De l'amiante y a été mise en oeuvre de 1992 à 1996 pour produire des matériaux de friction.		
+1998				2008				plusieurs_campagnes_d__investigations	Entre 1998 et 2008, plusieurs campagnes d'investigations ont été menées sur l'ensemble du site afin de déterminer l'état éventuel de contamination du sous-sol.		

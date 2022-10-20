@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	13		2009	11	13		un_incident	Le 13 novembre 2009, un incident a affecté ce transformateur (contenance>30L): environ 80kg d'huile ont été déversés dans le sol.	'huile'	
+2009	11	26		2009	11	26		a_prescrit	Compte tenu du contexte et du type d’incident, le Préfet a prescrit, par arrêté préfectoral du 26 novembre 2009, les mesures d'urgence portant sur les travaux et investigations à mener afin de garantir dans les meilleurs délais les intérêts visés à l’article L.511-1 du Code de l’Environnement.		'le Préfet'
+2009	11	13		2009	11	13		l__incident_survenu	Dans son rapport de juin 2012, l'Inspection des Installations Classées indique que ERDF a répondu aux exigences de l’arrêté préfectoral du 26 novembre 2009 prescrivant des analyses complémentaires à la suite de l’incident survenu le 13 novembre 2009 sur un transformateur à CHÂTEAU SALINS.		'ERDF'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	03	31		1996	03	31		a_fermé	La société a fermé le 31 mars 1996 et a été racheté par la société TARGOR.		'La société', 'la société TARGOR'
+1968				1968				implante	En 1958, la société ETHYLENE PLASTIQUE, filiale des Charbonnages de France, implante à Lillebonne la première unité industrielle de production de polyéthylène sur éthylène pétrochimique qui prend le nom de la Société Éthylène Plastique de Normandie (SEPN) pour devenir CDF CHIMIE en 1968.	'polyéthylène', 'éthylène', 'la Société Éthylène'	'la société ETHYLENE PLASTIQUE', 'Charbonnages de France', 'Plastique de Normandie', 'CDF CHIMIE'
+1996	05			1996	05			Un_diagnostic_de_sol_réalisé	Un diagnostic de sol réalisé en mai 1996 suite à la fermeture de l'usine, a montré que celle-ci avait générée une pollution des sols et des sous-sols du site.		
+1992				1992				devient	Enfin, en 1992, l'usine devient ELF ATOCHEM.		'ELF ATOCHEM'
+1997	04	14		1997	04	14		un_rapport_final	Les travaux de dépollution du site ont fait l'objet d'un rapport final du 14 avril 1997.		
+1996	09	06		1996	09	06		a_été_imposée	Suite à ces études, la réhabilitation a été imposée par arrêté préfectoral du 06/09/1996.		
+1995	10	23		1996	10	23		les_travaux_de_réhabilitation	les travaux de réhabilitation de l'usine de la société ELF ATOCHEM ont été réalisés du 23 octobre 1995 au 23 octobre 1996 et le traitement des eaux souterraines s'est poursuivi jusqu'en décembre 1996;		'la société ELF ATOCHEM'
+1996	01	31		1996	01	31		prélèvements_effectués	Ces sondages ont été complétés par 5 prélèvements effectués le 31 janvier 1996 dans le fond de la fosse bordant le sud de l'usine .		
+1958				1958				implante	En 1958, la société ETHYLENE PLASTIQUE, filiale des Charbonnages de France, implante à Lillebonne la première unité industrielle de production de polyéthylène sur éthylène pétrochimique qui prend le nom de la Société Éthylène Plastique de Normandie (SEPN) pour devenir CDF CHIMIE en 1968.	'polyéthylène', 'éthylène', 'la Société Éthylène'	'la société ETHYLENE PLASTIQUE', 'Charbonnages de France', 'Plastique de Normandie', 'CDF CHIMIE'
+1996	02			1996	02			avait_été_mis_en_place	Un système d'écrémage avait été mis en place dès le mois de février 1996 avant l'arrêt de l'activité.		
+				1996	12			s__est_poursuivi	les travaux de réhabilitation de l'usine de la société ELF ATOCHEM ont été réalisés du 23 octobre 1995 au 23 octobre 1996 et le traitement des eaux souterraines s'est poursuivi jusqu'en décembre 1996;		'la société ELF ATOCHEM'
+1996	12	10		1996	12	10		excavées	Pour compléter des contrôles, 3 sondages à la pelle mécanique ont été réalisés en bordure des zones excavées le 10 décembre 1996.		

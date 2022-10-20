@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_arrêtées	Les activités sur le site ont été arrêtées vers mars-avril 2011.		
+2011	08	08		2011	08	08		a_proposé	8 août 2011: l'inspection des installations classées a proposé un projet d'arrêté préfectoral portant sur la mise en demeure de Maître CARLO de respecter la notification de cessation d'activité de la société ACIER POLI.		'Maître CARLO', 'la société ACIER POLI'
+2011	04			2011	04			ont_été_arrêtées	Les activités sur le site ont été arrêtées vers mars-avril 2011.		
+2011	01	25		2011	01	25		a_prononcé_l__ouverture_d__une_procédure_de_redressement_judiciaire	25 janvier 2011: le tribunal de commerce de Sens a prononcé l'ouverture d'une procédure de redressement judiciaire à l'égard de la société ACIER POLI. (l’administrateur judiciaire est chargé d'assister ou de remplacer les dirigeants d'entreprise en difficulté et d'en préparer le redressement.		'le tribunal de commerce de Sens', 'la société ACIER POLI'
+2011	03	22		2011	03	22		la_liquidation_judiciaire	22 mars 2011: la liquidation judiciaire est prononcée par jugement.		
+2011	11	28		2011	11	28		la_cessation_totale	28 novembre 2011: Maître CARLO déclare à M. le Préfet de l'Yonne la cessation totale de l'activité de la SAS ACIER POLI.		'Maître CARLO', 'le Préfet', 'la SAS ACIER POLI'

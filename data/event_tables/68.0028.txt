@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1838				1928				a_été_exploitée	Site de l'ancienne usine à gaz de Mulhouse fermée en 1946, elle a été exploitée de 1838 à 1928.		
+1999	07	1		1999	07	1		ont_été_instituées	Des servitudes d’utilité publique ont été instituées sur le parking par l’arrêté préfectoral du 1er juillet 1999.		
+1946				1946				fermée	Site de l'ancienne usine à gaz de Mulhouse fermée en 1946, elle a été exploitée de 1838 à 1928.		

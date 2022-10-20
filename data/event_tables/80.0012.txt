@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1983				l__infiltration_en_nappe	L'étude documentaire prescrite par arrêté préfectoral du 13 janvier 1998 a confirmé l'infiltration en nappe de 1965 à 1983 d'une		
+1984				1984				Les_infiltrations	Les infiltrations ont cessé en 1984.		
+1965				1965				est_utilisée	Cette ancienne sucrerie de betteraves est utilisée depuis 1965 pour des activités de chimie en relation avec la séparation et la		
+2001	06	15		2001	06	15		Cette_étude_a_été_reçue	Cette étude a été reçue le 15 juin 2001 classant le site en catégorie 2 c'est-à-dire à surveiller.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_exploité	La Société RASCHIG SAS (ex bakélite de Bezons) a exploité à partir de 1998, une installation de fabrication de résines synthétiques et matières à mouler.	'résines synthétiques'	'La Société RASCHIG SAS'
+2006	04	03		2006	04	03		une_inspection_a_été_diligentée	Par ailleurs, le 03 avril 2006, une inspection a été diligentée sur le site dans le cadre de l'action nationale ministérielle relative à la caractérisation d'anciens sites d'exploitation ou de transformation d'amiante.	'amiante'	
+2005	05	30		2005	05	30		La_dernière_campagne_d__analyses_reçue	La dernière campagne d'analyses reçue le 30 mai 2005 montre :		
+				1986				a_pu_être_utilisé	L'amiante a pu être utilisé jusqu'en 1986 en renforcement de certaines poudres à mouler.	"L' amiante"	
+								au	L'arrêté préfectoral de 2003 ne prévoit plus la transmission des résultats au delà de 4 ans.		
+								Le_début_de_l__exploitation	Le début de l'exploitation de ce site remonte à environ 70 ans ; depuis plusieurs sociétés se sont succédées sur le site.		
+2008	05	13		2008	05	13		ont_été_transmis	Les derniers résultats d'analyse ont été transmis le 13 mai 2008.		
+2002				2002				une_évaluation_simplifiée_des_risques	Dans le cadre de sa cessation d'activités, l'exploitant a réalisé une évaluation simplifiée des risques avec le cabinet URS dames & MOORE au cours de l'été 2002.		'le cabinet URS dames'

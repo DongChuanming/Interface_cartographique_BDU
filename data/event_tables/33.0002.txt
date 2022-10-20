@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			Les_dernières_analyses_effectuées	Les dernières analyses effectuées par ANTEA en mars 2002 confirment une stabilisation de la teneur en carbone organique particulaire.	'carbone organique particulaire'	
+1960				1960				est_implantée	Cette usine est implantée depuis 1960 sur la presqu'île d'Ambès à proximité d'un stockage de gaz combustible liquifié (société COBOGAL).		'société COBOGAL'
+2002	03			2002	03			Les_analyses	Les analyses effectuées en mars 2002 montrent par rapport à la campagne d'analyses précédente (septembre 2001), une stabilisation du pH et du carbone organique particulaire pour les deux piézomètres.	'carbone organique'	
+2005				2005				Les_analyses_effectuées	Les analyses effectuées en 2005 permettent de constater un retour dans la zone de bruit de fond des teneurs en MES.		
+2001	09			2001	09			la_campagne_d__analyses	Les analyses effectuées en mars 2002 montrent par rapport à la campagne d'analyses précédente (septembre 2001), une stabilisation du pH et du carbone organique particulaire pour les deux piézomètres.	'carbone organique'	
+2000	04			2000	04			Les_analyses_effectuées	Les analyses effectuées en avril 2000 montrent une augmentation des teneurs en matières en suspension, en matières volatiles et en carbone organique.	'carbone organique'	

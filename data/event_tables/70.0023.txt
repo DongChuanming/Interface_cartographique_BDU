@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1980				est_installée	 Société Métallurgique de Gray est installée sur la commune d'Arc Les Gray depuis 1980.		'  Société Métallurgique'
+2009				2009				ont_été_remises	Ces 3 études ont été remises à l'inspection durant l'été 2009 en respectant les délais fixés.		
+2011	01	14		2011	01	14		Les_dernières_analyses	Les dernières analyses des eaux souterraines (14 janvier 2011) font état d'une nette diminution de la hauteur du flottant (de 1,5 m à 3 cm).		

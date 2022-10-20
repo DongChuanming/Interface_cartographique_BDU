@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				2010				Le_suivi_de	Le suivi de la qualité des eaux souterraines entre 1995 et 2010 montre :		
+2008				2008				devient_exploitant	SIMPLY MARKET devient exploitant de l'installation en 2008.		'SIMPLY MARKET'
+1999				1999				est_réalisée	Une évaluation simplifiée des risques est réalisée en 1999, elle est complétée en 2000 par une étude modélisant les écoulements de la nappe.		
+1994	09			1994	09			a_été_observée	Une perte de supercarburant plombé, évaluée à 5 000 L a été observée en septembre 1994 à la suite d’une comparaison des volumes physiques mesurés et des volumes comptables du produit.	'supercarburant plombé'	
+1991				1991				a_exploité	La société TOTAL FINA FRANCE a exploité la station service à partir de 1991.		'La société TOTAL FINA FRANCE'
+1995				1999				s__améliore	Entre 1995 et 1999, la qualité des eaux s'améliore.		
+1995				1995				Un_diagnostique_de_pollution	Un diagnostique de pollution est réalisé en 1995.		
+2000				2000				est_réalisée	Une évaluation simplifiée des risques est réalisée en 1999, elle est complétée en 2000 par une étude modélisant les écoulements de la nappe.		
+1999	11	03		1999	11	03		a_succédé_en	La société ATAC a succédé en tant qu’exploitant le 03 novembre 1999.		'La société ATAC'

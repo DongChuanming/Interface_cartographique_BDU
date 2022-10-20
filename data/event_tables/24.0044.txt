@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				Les_campagnes	Les campagnes de 2008, 2009, 2010 et 2011 n'ont montrées aucun impact sur la nappe.		
+2012	01			2012	01			sollicite_l__abandon	En janvier 2012, le maire de Boulazac sollicite l'abandon du suivi piézo / qualité des ES au droit de l'ancien site Boulazac Fer.		'le maire de Boulazac'
+2009				2009				Les_campagnes	Les campagnes de 2008, 2009, 2010 et 2011 n'ont montrées aucun impact sur la nappe.		
+2009				2009				est_autorisée	La société SITA est autorisée depuis 2009 à exploiter sur l'ancien site (hors dôme de déchets résultant de l'arrêté préfectoral de 2006) un centre de transit de DIB.		'La société SITA', 'DIB'
+2004	12	29		2004	12	29		prescrit_les_travaux_suivants_de_dépollution	L'arrêté préfectoral du 29 juin 2004 prescrit les travaux suivants de dépollution, de réhabilitation et de surveillance du site de Boulazac à l'échéance du 29 décembre 2004 :		
+1993	11	12		1993	11	12		cesse_définitivement	Cette activité cesse définitivement le 12 novembre 1993 sans que le site n’ait été remis en état.		
+2006	12	13		2006	12	13		est_tenue	Par arrêté du 13 décembre 2006, elle est tenue de procéder aux travaux de remise en état et de surveillance de la nappe.		
+2004				2004				l__étude_hydraulique_préalable	- l’étude hydraulique préalable en 2004,		
+2008				2008				Les_campagnes	Les campagnes de 2008, 2009, 2010 et 2011 n'ont montrées aucun impact sur la nappe.		
+2006				2006				ont_été_effectuées_depuis_la_prescription	A l'appui de sa demande, il joint les analyses qui ont été effectuées depuis la prescription de l'AP de travaux de 2006.		
+2004				2004				mis_en_place	- le maintien des trois piézomètres mis en place en 2004.		
+2006				2006				acquière	En 2006, la commune de Boulazac acquière le site de Boulazac-Fers.		'la commune de Boulazac'
+1993				1993				prononce	En 1993, le jugement du tribunal de commerce de Périgueux prononce la liquidation judiciaire de la SARL exploitante et nomme un mandataire liquidateur.		
+1999	06	25		1999	06	25		ordonne	Par arrêté du 25 juin 1999, le préfet ordonne au liquidateur de consigner la somme de 100 000 francs pour mener des travaux de remise en état du terrain.		'le préfet'
+2008	01	31		2008	01	31		informe	Le 31/01/2008, le Maire de Boulazac informe la DRIRE de l'achèvement des travaux dont le chantier s'est déroulé de la manière suivante :		'le Maire de Boulazac', 'la DRIRE'
+2005				2005				la_définition	- la définition du programme de travaux de réhabilitation en 2005,		
+2006				2006				a_été_remis_en_état	Le site a été remis en état suivant les prescriptions de l'AP de 2006.		
+1996	12			1996	12			Un_pré_diagnostic	Un pré-diagnostic effectué en décembre 1996 met en évidence la présence de divers dépôts sauvages de déchets sur le site.	'dépôts sauvages de déchets'	
+2000				2000				une_étude_de_faisabilité_réalisée	- une étude de faisabilité réalisée en 2000,		
+2010				2010				Les_campagnes	Les campagnes de 2008, 2009, 2010 et 2011 n'ont montrées aucun impact sur la nappe.		
+2000	12	11		2000	12	11		est_abandonné_au_profit	Faute d’actifs, le recouvrement est abandonné au profit du propriétaire du terrain par arrêté du 11 décembre 2000.		

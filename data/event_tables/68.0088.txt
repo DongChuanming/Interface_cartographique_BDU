@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			remblais	Des EDR santé, eaux (29/01/2004), métaux (avril 2004), solvants chlorés(23/10/2002+juin 2004), remblais sous-jacents aux scories (avril 2004), ressources en eau (mai 2004), effets cumulatifs (septembre 2004) ont été produites.	'métaux', 'solvants chlorés(23/10/2002+juin'	
+2001	07	20		2001	07	20		a_été_réalisée	Une ESR a été réalisée pour le 20/07/2001 par FIMALAC qui met en évidence :		
+2006	03	20		2006	03	20		ont_été_finalisées	Ces servitudes ont été finalisées dans le cadre de l'acte de vente entre la Sté FIMALAC et la SERM le 20 mars 2006.		'la Sté FIMALAC', 'la SERM'
+1840				1840				Elles_auraient_été_mises_en_place	Elles auraient été mises en place en 1840-1880 pour réhausser les terrains d'une zone marécageuse.		
+								a_cessé_son_activité	- des activités de traitement thermique et traitement de surface, le dernier exploitant est la société MAT qui a cessé son activité en 09/93, l'industriel n'existe plus.		'la société MAT'
+2001	09	03		2001	09	03		a_été_signalé	Par ailleurs, et dans le cadre du permis de lotir, il a été signalé à la Ville de Mulhouse le 03/09/2001 les dispositions à prendre par les aménageurs pour éviter notamment toute possibilité de mise en contact des scories avec les éventuels occupants du site.		'la Ville'
+1880				1880				Elles_auraient_été_mises_en_place	Elles auraient été mises en place en 1840-1880 pour réhausser les terrains d'une zone marécageuse.		
+2004	10	13		2004	10	13		a_été_réactualisée	Cette information a été réactualisée le 13 octobre 2004.		

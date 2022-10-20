@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11			1998	11			Des_investigations_complémentaires	Des investigations complémentaires ont été réalisées en novembre 1998.		
+								a_été_exploité	Un dépôt d'hydrocarbures y a été exploité de 1925 jusqu'aux années 1990.	'hydrocarbures'	
+2007	02			2007	02			Les_campagnes_de_surveillance	Les campagnes de surveillance des eaux souterraines réalisées ensuite (février 2007, juillet 2007) indiquent une dégradation de la qualité de l'eau en amont hydraulique où toutes les teneurs mesurées (hydrocarbures et BTEX) sont supérieures aux valeurs de constat d'impact pour un usage non sensible.	'hydrocarbures', 'BTEX'	
+2007	07			2007	07			Les_campagnes_de_surveillance	Les campagnes de surveillance des eaux souterraines réalisées ensuite (février 2007, juillet 2007) indiquent une dégradation de la qualité de l'eau en amont hydraulique où toutes les teneurs mesurées (hydrocarbures et BTEX) sont supérieures aux valeurs de constat d'impact pour un usage non sensible.	'hydrocarbures', 'BTEX'	
+2003				2003				a_prescrit_la_réalisation_de_travaux	En 2003, un arrêté préfectoral a prescrit la réalisation de travaux :		
+2006	03			2006	03			un_diagnostic_approfondi	La société DMS, ayant succédé à DCA, a communiqué en mars 2006 un diagnostic approfondi du site, complété en septembre 2006 par une évaluation des risques pour la santé humaine concluant à un risque acceptable pour le scénario "inhalation de l'air du sol, dans les bâtiments", seul scénario retenu.		'La société DMS', 'DCA'
+1997	04			1997	04			Une_campagne_de_mesures	Une campagne de mesures a été menée en avril 1997 montrant la présence d'hydrocarbures dans le sous-sol du site.	'hydrocarbures'	
+2007	02			2007	02			a_été_remis	Un diagnostic complémentaire a été remis en février 2007.		

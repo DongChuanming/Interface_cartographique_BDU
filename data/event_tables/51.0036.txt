@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		l__étude_de_sols_a_été_prescrite	Dans le cadre de l'application de la circulaire du 3 avril 1996, compte-tenu du fonctionnement des installations, l'étude de sols a été prescrite par arrêté préfectoral du 29 novembre 2000.		
+2006	07	12		2006	07	12		a_été_enregistrée	Le 12 juillet 2006, une fuite d'acide chlorhydrique d'environ 150 L a été enregistrée.	'acide chlorhydrique'	
+1998	04	16		1998	04	16		La_dernière_visite	La dernière visite du site le 16 avril 1998 avait pour objet l'étude des déchets.		
+2002	12	11		2002	12	11		ont_été_remises	La phase B et l'étude simplifiée des risques ont été remises le 11 décembre 2002.		
+2001	11	23		2001	11	23		a_été_remis	Le diagnostic initial a été remis le 23 novembre 2001.		
+2007	11	05		2007	11	05		à_un_contrôle_inopiné	Les résultats d'autosurveillance suite à un contrôle inopiné du 05 novembre 2007 indique une conformité des eaux de surface.		
+2000	11	29		2000	11	29		l__étude_de_sols_a_été_prescrite	Dans le cadre de l'application de la circulaire du 3 avril 1996, compte-tenu du fonctionnement des installations, l'étude de sols a été prescrite par arrêté préfectoral du 29 novembre 2000.		

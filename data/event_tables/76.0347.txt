@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	03	26		2019	03	26		une_seconde	Une 1ère phase d'enlèvement de déchets a alors été réceptionnée par l'Ademe le 06 novembre 18 avec l'évacuation de 170 t, puis une seconde le 26 mars 2019 avec l'évacuation de 40 tonnes supplémentaires.		
+2017	07	12		2017	07	12		était_toujours_opérationnel	Le dispositif anti-intrusion (alimenté électriquement) était toujours opérationnel à la date du 12 juillet 2017.		
+								d__enlèvement_de_déchets_a_alors_été_réceptionnée	Une 1ère phase d'enlèvement de déchets a alors été réceptionnée par l'Ademe le 06 novembre 18 avec l'évacuation de 170 t, puis une seconde le 26 mars 2019 avec l'évacuation de 40 tonnes supplémentaires.		

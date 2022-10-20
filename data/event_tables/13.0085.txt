@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04			2000	04			remise	. du 16/06/1999 a été réalisé pour l'ensemble de la plateforme de Lavéra et remise en avril 2000; le site est en classe2.		'Lavéra'
+2001	01	16		2001	01	16		Une_étude_spécifique	* Une étude spécifique sur l'impact occasionné par la mise en oeuvre de mercure à l'atelier d'éléctrolyse a été prescrite par AP du 16/01/2001 et remise courrant 2002; elle ne met pas en évidence d'impact sanitaire et mentionne des teneurs dans les sols de 0.14 mg/kg.	'mercure'	
+								implanté	* Site en activité implanté depuis le début des années  1960. sur la commune de Martigues - La vera à l'intérieur du complexe pétrochimique de LAVERA d'une superficie de 142 ha.	'complexe pétrochimique'	'de LAVERA'

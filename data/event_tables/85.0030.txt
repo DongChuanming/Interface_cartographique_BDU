@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05			2012	05			La_mise_à_l__arrêt_définitif	La mise à l'arrêt définitif de l'établissement de SACHADIS a été notifiée au préfet de la Vendée en mai 2012.		'SACHADIS', 'préfet de la Vendée'
+2013	08			2013	08			Un_diagnostic_de_pollution	Un diagnostic de pollution, portant sur l'état des sols et des eaux souterraines au droit des anciennes installations, a été effectué en août 2013.		
+1975	05	06		1975	05	06		de_déclaration	La société SACHADIS dispose d'un récépissé de déclaration du 6 mai 1975 pour une activité de stockage et de distribution de liquides inflammables aux Sables-d'Olonne.	'liquides inflammables'	'La société SACHADIS'

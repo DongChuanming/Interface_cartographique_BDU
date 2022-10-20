@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04			2008	04			un_diagnostic	Suite à l'incident, un diagnostic a été réalisé en avril 2008.		
+2011				2011				mis_en_place	Cette pollution des eaux souterraines reste toutefois circonscrite au site puis que les ouvrages de surveillance mis en place en 2011 en aval latéral n'ont pas démontré d'extension de la pollution.		
+1988				1988				Station_service_exploitée	Station service exploitée depuis 1988 sous l'enseigne TOTAL.	'TOTAL'	
+2007	12	05		2007	12	05		déclare	Le 5 décembre 2007, l'exploitant déclare une pollution liée à une fuite de carburant au niveau d'une cuve d'essence sans plomb 98.	'carburant', 'essence sans plomb 98'	

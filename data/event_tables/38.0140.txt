@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	12		2005	12	12		a_été_émis	L'arrêté préfectoral n°2005-15278 a été émis le 12/12/2005, imposant M.		
+2006				2006				a_pris_la_suite	Courant 2006, le syndic FONCIA l'Immobilière de Bourgoin, a pris la suite de M.		'le syndic FONCIA'
+2005	04	06		2005	04	06		a_été_effectuée	La surveillance des eaux souterraines a été effectuée à partir du du 06/04/2005.		
+2004	10	01		2004	10	01		a_été_géré	Le transformateur a été géré hors site le 01/10/2004.		
+2004	10	28		2004	10	29		une_deuxième_phase_d__excavation	Les limites de pollution aux PCB n'ayant pas pu être déterminées, une deuxième phase d'excavation a été effectuée du 28/10/2004 au 29/10/2004.	'PCB'	
+2004	09	16		2004	09	16		une_visite	Suite aux plaintes du voisinage liées aux fortes odeurs dégagées, une visite du site a été effectuée par M. le Sous-Préfet de la Tour du Pin et de M. le Maire de Creys Mépieu le 16/09/2004.		'le Sous-Préfet', 'de la Tour du Pin', 'le Maire'
+1986	12	18		1986	12	18		était_exploité_sur	Un transformateur contenant du PCB était exploité sur le site par l'AUBERGE le COURRAY, qui bénéficiait d'un récépissé de déclaration n°22079 en date du 18/12/1986.	'Un transformateur contenant du PCB'	"l' AUBERGE le COURRAY"
+2004	10	08		2004	10	08		ont_été_envoyés_en_centre_de_traitement	Les déchets industriels spéciaux présents sur le site ont été envoyés en centre de traitement le 08/10/2004.	'Les déchets industriels spéciaux'	
+2004	10	07		2004	10	08		La_première_phase_d__excavation	La première phase d'excavation s'est déroulée du 07/10/2004 au 08/10/2004.		
+2005	03	21		2005	03	21		a_été_émis	L'arrêté préfectoral n°2005-02706 a été émis le 21/03/2005, imposant M.		
+2004	09	16		2004	09	16		les_deux_analyses_effectuées	Il en est de même pour les deux analyses effectuées par la Mairie dès l'origine de la pollution, les 16/09/2004 et 08/11/2004.		'la Mairie'
+2004	11	09		2004	11	09		a_été_établi	Un rapport concernant les travaux d'excavation de terres pollués a été établi par le bureau d'études LISEC le 09/11/2004.		'LISEC'
+2004	12	21		2004	12	21		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 21/12/2004.		
+2004	10	04		2004	10	04		fournir_une_étude_détaillée_des_risques	TRILLAT de fournir une étude détaillée des risques pour la santé humaine et la ressource en eau, permettant de justifier l'absence de risques présentés par les terres polluées laissées en place ou de fournir les justificatifs concernant le respect des objectifs de dépollution fixés par l'arrêté préfectoral du 04/10/2004.		'TRILLAT'
+2004	09	15		2004	09	15		Un_diagnostic_des_sols	Un diagnostic des sols a été effectué le 15/09/2004 par le bureau d'études LISEC.		'LISEC'
+2004	11	08		2004	11	08		les_deux_analyses_effectuées	Il en est de même pour les deux analyses effectuées par la Mairie dès l'origine de la pollution, les 16/09/2004 et 08/11/2004.		'la Mairie'

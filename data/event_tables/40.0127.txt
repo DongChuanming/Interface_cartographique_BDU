@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	05		2008	03	05		de_l__inspection	Lors de l’inspection du 5 mars 2008, il est constaté que la zone de distribution de carburants n’est pas étanche et qu’elle est manifestement polluée aux hydrocarbures.	'carburants', 'hydrocarbures'	
+2009	12			2009	12			demande_des_analyses	a DRIRE demande des analyses de faisabilité de ce traitement avant fin décembre 2009.		'a DRIRE'
+2004	05	05		2004	05	05		sont_réglementées	Les installations sont réglementées par les arrêtés types associés aux rubriques précitées mais également à l’arrêté préfectoral de prescriptions complémentaires applicables aux installations soumises à déclaration mettant en œuvre des substances végétales et des produits organiques naturels en date du 5 mai 2004.	'substances végétales', 'des produits organiques'	

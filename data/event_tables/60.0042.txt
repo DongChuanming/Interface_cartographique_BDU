@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957				1957				a_été_reconverti	Après 1957, le site a été reconverti en station d'air propané utilisant une partie des anciennes structures de l'usine à gaz.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de cinq classes de priorité pour lesquelles les engagements de gaz de France ont fait l'objet d'un protocole d'accords relatifs à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+				1957	07			a_été_réalisée	La production de gaz de houille a été réalisée sur le site jusqu'en juillet 1957.		

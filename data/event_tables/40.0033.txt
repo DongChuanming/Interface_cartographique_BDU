@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	10		2003	02	10		a_été_remis	Le rapport d'étape B et l'ESR, daté du 14 septembre 2001 a été remis le 10 février 2003.		"l' ESR"
+1940				1940				ont_été_créés	Les Ets Charles DUVICQ ont été créés en 1940 pour fabriquer des bouchons de liège.		'Les Ets Charles DUVICQ'
+2000	07	18		2000	07	18		a_été_remis	Le rapport d'étape A a été remis le 7 février 2000 et a fait l'objet de demande de compléments le 18 juillet 2000.		
+2003	09	11		2003	09	11		Les_analyses_réalisées	Les analyses réalisées le 11/09/2003 montre des concentrations inférieures aux valeurs de constat d'impact usage sensible sauf pour le plomb dans un piézomètre.	'plomb'	
+1998				1998				informait	En 1998, lors de l'instruction du dossier d'enquête publique de régularisation, l'association de protection de l'environnement SEPANSO informait l'administration de la présence potentielle de fûts et de bidons enfouis dans le terrain de PIERRE IDEES et sans doute en provenance de l'activité DUVICQ.		'SEPANSO', 'PIERRE IDEES', 'DUVICQ'
+2000	07	18		2000	07	18		a_fait_l__objet	Le rapport d'étape A a été remis le 7 février 2000 et a fait l'objet de demande de compléments le 18 juillet 2000.		
+2000	02	07		2000	02	07		a_été_remis	Le rapport d'étape A a été remis le 7 février 2000 et a fait l'objet de demande de compléments le 18 juillet 2000.		
+2000	06	30		2000	06	30		prescrit_le_diagnostic_initial	L'arrêté préfectoral d'autorisation du 16 septembre 1999 prescrit le diagnostic initial et l'évaluation simplifiée des risques sur l'emprise du  site DUVICQ et du site PIERRE IDEES, à du 30 juin 2000.		'site DUVICQ', 'site PIERRE IDEES'
+				2003	10	16		Les_travaux_sont_exécutés	Les travaux sont exécutés du 13 au 16 octobre 2003.		

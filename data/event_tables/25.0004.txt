@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1990	04	1		a_été_tenue_par	- la surveillance des eaux du captage d'eau potable de Dambenois, la société a été tenue par arrêté préfectoral du 23 janvier 1990 d'analyser les eaux du captage tous les 15 jours jusqu'au 1er Avril 1990.		'la société'
+1988	11			1989	01			été_déposés	Les déchets minéraux produits, contenant une forte proportion d'aluminuim et d'autres métaux ont, suite à des difficultés de réception par l'entreprise de récupération, été déposés de novembre 1988 à janvier 1989 sur les terrains de la commune de Dambenois au lieu dit "Les Longes Vaux".	'Les déchets minéraux', 'aluminuim'	
+1989				1989				enlèvement_achevé	- l'enlèvement des déchets, enlèvement achevé dans sa globalité fin 1989		

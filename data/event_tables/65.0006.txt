@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	08		2001	11	08		a_été_transmise	Quant à la partie de l'étude devant être réalisée directement par SPEM AERO, elle a été transmise à la DRIRE Midi-Pyrénées le 8 novembre 2001 et a fait l'objet d'un rapport de la DRIRE le 01/03/02 qui acte le classement sans suite sous réserve de l'étude complémentaire à la charge de la société Soulé.		'SPEM AERO', 'la DRIRE Midi - Pyrénées', 'la DRIRE', 'la société Soulé'
+2003				2003				a_été_remise	L'étude SOULE a été remise au premier trimestre 2003.		
+2002	11	1		2002	11	1		remise	* au 1er novembre 2002, remise du rapport final de synthèse des deux étapes A et B et de la notation ESR du site.		
+2001	11	1		2001	11	1		remise	* au 1er novembre 2001, remise d'un rapport à l'issue de l'étape A de type documentaire, consignant le résultat des actions entreprises et proposant si nécessaire, un programme d'investigations légères de terrain,		
+2001	08	03		2001	08	03		a_été_transmis	Le rapport de l'étape A demandé à SOULE a été transmis à la DRIRE Midi-Pyrénées le 3 août 2001, laquelle a transmis ses observations le 23 octobre 2001.		'la DRIRE Midi - Pyrénées'
+2001	08	03		2001	08	03		a_transmis	Le rapport de l'étape A demandé à SOULE a été transmis à la DRIRE Midi-Pyrénées le 3 août 2001, laquelle a transmis ses observations le 23 octobre 2001.		'la DRIRE Midi - Pyrénées'
+1989				1989				créé	Atelier de traitement de surfaces créé en 1989.		
+2001	10	23		2001	10	23		a_transmis	Le rapport de l'étape A demandé à SOULE a été transmis à la DRIRE Midi-Pyrénées le 3 août 2001, laquelle a transmis ses observations le 23 octobre 2001.		'la DRIRE Midi - Pyrénées'

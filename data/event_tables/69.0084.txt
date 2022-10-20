@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	01	25		1996	01	25		La_première_s__est_tenue	La première s'est tenue le 25/01/1996. 31 sondages ont été réalisés et 4 puits d'observations ont été implantés.		
+1999	11	29		1999	11	29		a_été_remis	Il a été remis au Préfet le 29 novembre 1999.		
+2003	03	18		2003	03	18		a_été_signé	L'arrêté préfectoral instituant des servitudes d'utilité publique a été signé le 18 mars 2003.		
+1997	09	30		1997	09	30		a_eu_lieu	La seconde campagne a eu lieu le 30/09/1997. 36 sondages ont été réalisés lors de cette phase.		
+1999	02	03		1999	02	03		4_campagnes_ont_été_menées	Le traitement a été couplé à un suivi de la qualité des eaux souterraines. 4 campagnes ont été menées le 03/02/1999, le 24/02/1999, le 10/06/1999 et le 17/09/1999.		
+1999	09	17		1999	09	17		4_campagnes_ont_été_menées	Le traitement a été couplé à un suivi de la qualité des eaux souterraines. 4 campagnes ont été menées le 03/02/1999, le 24/02/1999, le 10/06/1999 et le 17/09/1999.		
+				2002	10	16		L__enquête_publique	L'enquête publique s'est déroulée du  16 septembre au 16 octobre 2002.		
+2012	07			2012	07			la_dernière_s__est_tenue	19 campagnes ont été réalisées dont la dernière s'est tenue au mois de juillet 2012.		
+								Le_traitement_s_	Le traitement s'est poursuivi pendant 8 mois.		
+1998				1998				Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques (ESR) ont été menés en 1998 par la société  à la demande de l'administration.		
+1999	12	15		1999	12	15		à_été_atteint	Un maximum à été atteint le 15/12/1999 avec une valeur de près de 3 600 mg/l.		
+2003	01	16		2003	01	16		a_été_soumise	Une version remaniée du projet de prescriptions a été soumise à Monsieur le Préfet par l'administration le 16 janvier 2003.		'le Préfet'
+								ont_commencé	Les activités industrielles ont commencé sur le site au début du 20ème siècle.		
+1989				1989				a_été_fermé	Le site a été fermé en 1989 et ses activités ont déménagé sur la commune de l'Isle d'Abeau.		
+1999				1999				a_été_mis_en_place	Un système de traitement biologique a été mis en place sur le site en 1999.		
+1983	12	27		1983	12	27		Fabrication_d__équipements_électriques_pour	- Fabrication d'équipements électriques pour l'automobile, fonderie d'aluminium, traitement thermique des métaux par la société PARIS-RHÔNE (Arrêté d'autorisation d'exploiter du 27/12/1983).	"d' aluminium"	'la société PARIS - RHÔNE'

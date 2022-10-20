@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	24		2003	06	24		Visite_de_récolement	- Visite de récolement de fin des travaux de remise en état du site effectuée le 24/06/2003.		
+1995	12	29		1995	12	29		__Diagnostic_environnemental	- Diagnostic environnemental du site, réalisé le 29/12/1995.		
+1835				1835				ont_été_créées	- Les Usines Métallurgiques de Marquise ont été créées en 1835 par les Frères Pinart.	'Métallurgiques'	'de Marquise', 'les Frères Pinart'

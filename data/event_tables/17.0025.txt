@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	04		2007	07	04		ont_été_adressés	Les compléments ont été adressés le 04 juillet 2007.		
+2007	02			2007	02			réalisé_lors_des_investigations	- à côté du sondage ST10, réalisé lors des investigations de février 2007 et dont les prélèvements de sols n’avaient pas fait l’objet d’analyses.		
+2007	09			2007	09			Ces_travaux_ont_eu_lieu	Ces travaux ont eu lieu à la fin du mois d'août et au début du mois de septembre 2007.		
+								avait_demandé_par_courrier	L'inspection des installations classées avait demandé par courrier du 8 juin des investigations complémentaires à l’extérieur du bâtiment :		
+1989				1989				a_été_exploité_sous_le_régime	Le site a été exploité sous le régime de la déclaration par le laboratoire JONCHERY depuis 1989 et racheté en 1994 par les Laboratoire Fujifilm.		'le laboratoire JONCHERY'
+2006	12	15		2006	12	15		a_cessé	Ce site a cessé son activité le 15 décembre 2006 dans le cadre d'un redéploiement stratégique du groupe Fujifilm.		
+1994				1994				racheté	Le site a été exploité sous le régime de la déclaration par le laboratoire JONCHERY depuis 1989 et racheté en 1994 par les Laboratoire Fujifilm.		'le laboratoire JONCHERY'
+2007	06	07		2007	06	07		a_été_transmis	Le dossier de cessation d'activités a été transmis le 07 juin 2007.		
+								Ces_travaux_ont_eu_lieu	Ces travaux ont eu lieu à la fin du mois d'août et au début du mois de septembre 2007.		

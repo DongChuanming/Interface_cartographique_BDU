@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01	26		2010	01	26		la_cessation_des_activités_exploitées	Sur le plan administratif, la société PACOFA a déclaré au Préfet la cessation des activités exploitées sur le site de HALLUIN, et a transmis un mémoire de cessation d'activité le 26 janvier 2010.		'la société PACOFA'
+2007	01	31		2007	01	31		cesse_définitivement	- l'activité du site cesse définitivement le 31 janvier 2007.		
+								prennent_le_nom_de_PACOFA	- les établissements Verkindere prennent le nom de PACOFA vers les années 1960 et, en plus de la fabrication de papier couché, s'ajoute alors la production de papier imprimé en flexographie et héliographie,		'les établissements Verkindere', 'PACOFA'
+2010	01	26		2010	01	26		mémoire_de_cessation_d__activité	Sur le plan administratif, la société PACOFA a déclaré au Préfet la cessation des activités exploitées sur le site de HALLUIN, et a transmis un mémoire de cessation d'activité le 26 janvier 2010.		'la société PACOFA'
+2005	10			2005	10			reprend_progressivement	Les bâtiments touchés sont démolis et l'activité reprend progressivement à partir d'octobre 2005,		

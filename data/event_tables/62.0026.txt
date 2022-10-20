@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	18		2000	12	18		a_été_réalisé	Un dossier a été réalisé en date du 18/12/2000.		
+								et_réactualisée	- Etude d'impact approfondie du site réalisée en 1996 et réactualisée en 97.		
+								des_mesures_prises_en	- Réalisation d'une Évaluation Simplifiée des Risques à titre de validation des mesures prises en avril 97 : site en classe 2 (site à surveiller)		
+1996				1996				réalisée	- Etude d'impact approfondie du site réalisée en 1996 et réactualisée en 97.		
+1990				1990				Implantation_d_	- Implantation d'une installation de destruction de déchets industriels spéciaux (SOTRENOR) en 1990.	'déchets industriels spéciaux'	'( SOTRENOR'
+1960				1960				Construction_de	- Construction de la centrale en 1960.		
+1994	06			1994	06			Réalisation_d__une_analyse_historique	- Réalisation d'une analyse historique et d'un diagnostic de la pollution en juin 1994.		
+1999				1999				mise_en_place	- Surveillance des eaux souterraines mise en place depuis 1999.		
+1993				1993				__Etude_des_sols_initiale_réalisée	- Etude des sols initiale réalisée en 1993.		

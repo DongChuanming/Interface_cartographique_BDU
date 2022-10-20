@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12	09		2011	12	09		devient	Le 9/12/2011, suite à un changement de raison sociale, PECHINEY CRV devient CONSTELLIUM CRV.		'PECHINEY CRV', 'CONSTELLIUM CRV'
+2007	04			2007	04			a_sollicité_l__assistance	PECHINEY a sollicité l'assistance de la société INGEOS en avril 2007 pour réaliser un diagnostic des sols à proximité d'un des bâtiments au sud du site. 7 sondages ont été réalisés lors de cette étude.		'PECHINEY', 'la société INGEOS'
+2003	01			2003	01			Cette_étude_a_été_réalisée	Cette étude a été réalisée durant le mois de janvier 2003 et a souligné le fait que les deux bassins de décantation recueillant les eaux industrielles usées et les eaux pluviales du site n'étaient pas étanches.		
+1965				1965				a_été_construite	L'unité PECHINEY CRV a été construite en 1965, sur une zone à vocation agricole, la zone industrielle était alors inexistante.		'PECHINEY CRV'

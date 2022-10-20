@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				était_présente	La société SERRE ANDRIEU était présente à cette adresse depuis 1985 et y a exercé principalement des activités de regroupement et découpe de métaux.		'La société SERRE ANDRIEU'
+2017	12			2017	12			la_cessation_totale_d__activité	L’exploitant avait annoncé depuis 2014 la cessation totale d'activité sur ce site, qui a eu lieu en décembre 2017.		
+2017				2017				ont_été_évacués	Notamment, les déchets ont été évacués fin 2017.		
+2018	03	05		2018	03	05		a_été_déposé_par_courrier	Le dossier de cessation d'activité comprenant un diagnostic et proposant des mesures de gestion a été déposé par courrier du 05/03/2018.		
+2014				2014				la_cessation_totale_d__activité	L’exploitant avait annoncé depuis 2014 la cessation totale d'activité sur ce site, qui a eu lieu en décembre 2017.		
+2017	12			2017	12			a_eu_lieu	L’exploitant avait annoncé depuis 2014 la cessation totale d'activité sur ce site, qui a eu lieu en décembre 2017.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	04	10		1997	04	10		a_transmis	Le 10/04/1997, la société Simon BIGART a transmis les résultats d'analyse réalisés par IRH.		'la société Simon BIGART', 'IRH'
+				1995	04			ont_été_réalisées	De janvier à avril 1995 des mesures ont été réalisées pour évaluer et traiter la pollution.		
+1994	12	19		1994	12	19		a_été_renversé	Le 19/12/1994, un transformateur contenant du pyralène a été renversé.	'pyralène'	

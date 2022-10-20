@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	30		2002	01	30		évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été remise à la DRIRE (maintenant DREAL) le 30 janvier 2002.		'la DRIRE', 'DREAL'
+2003	04	25		2003	04	25		Une_campagne_d__analyse	Une campagne d'analyse a été réalisée le 25 avril 2003.		
+2003	01			2003	01			La_mise_en_place_du	La mise en place du suivi piézométrique a été effective en janvier 2003.		
+2003	03	18		2003	03	18		la_réalisation_d__une_étude_détaillée_des_risques	Par arrêté préfectoral du 18 mars 2003, le Préfet a imposé à la SNCF la réalisation d'une étude détaillée des risques afin de définir le type de dépollution à mettre en place.		'le Préfet'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08	23		2000	08	23		Le_diagnostic_initial	Le diagnostic initial ainsi que l'ESR ont été communiqués le 23 août 2000 et complétés en novembre 2000 suite à une réunion technique en septembre 2000.		
+2000				2000				Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en mars 2016 : celui-ci confirme les conclusions de celui mené en 2000.		
+2000	09			2000	09			Le_diagnostic_initial	Le diagnostic initial ainsi que l'ESR ont été communiqués le 23 août 2000 et complétés en novembre 2000 suite à une réunion technique en septembre 2000.		
+2000	11			2000	11			complétés	Le diagnostic initial ainsi que l'ESR ont été communiqués le 23 août 2000 et complétés en novembre 2000 suite à une réunion technique en septembre 2000.		
+2016	03			2016	03			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en mars 2016 : celui-ci confirme les conclusions de celui mené en 2000.		
+								pris	Un arrêté préfectoral pris le 27/11/01, impose une surveillance semestrielle de la qualité des eaux souterraines et de la Seine, ainsi qu'en sortie des séparateurs à hydrocarbures.	'hydrocarbures'	

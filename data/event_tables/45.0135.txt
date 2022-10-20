@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04	24		2014	04	24		a_été_autorisée	Par arrêté préfectoral d'enregistrement du 24 avril 2014, la société La Rétrospective a été autorisée à poursuivre l'exploitation d'un centre de dépollution et de démontage de véhicules hors d'usage ( VHU ), situé au lieu " Les stations " RN 7 à Fontenay sur Loing.		'la société La Rétrospective', 'VHU'
+								a_également_délivré	Cet arrêté préfectoral a également délivré l’agrément à cette société pour exercer cette activité pour une durée de 6 ans.		
+2016	01	14		2016	01	14		les_constats	Lors de la visite d'inspection du 14 janvier 2016, l'inspection des installations a effectué les constats suivants:		
+2009	11			2009	11			un_incendie	De plus le site a fait l'objet d'un incendie en novembre 2009 qui a détruit la partie stockage des pièces détachées du bâtiment.		
+2009	11			2009	11			a_détruit	De plus le site a fait l'objet d'un incendie en novembre 2009 qui a détruit la partie stockage des pièces détachées du bâtiment.		
+2016	01	14		2016	01	14		de_la_visite	Lors de la visite d'inspection du 14 janvier 2016, l'inspection des installations a effectué les constats suivants:		

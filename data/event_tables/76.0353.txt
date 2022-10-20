@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09			2014	01			Les_travaux_de_traitement_des_sols_pollués	Les travaux de traitement des sols pollués de la zone AGQ se sont déroulés de septembre 2013 à janvier 2014. la surface traitée est de 1 077 m².		
+2013	03			2013	03			est_réalisée	Une tierce expertise du plan de gestion est réalisée en mars 2013.		
+2012	07			2012	07			Les_études_au_laboratoire	Les études au laboratoire réalisées à partir d'échantillons de sols issus du site en juillet 2012, confirment la faisabilité d'un traitement par stabilisation-solidification des sols de la zone AGQ afin d'obtenir :		
+2014	09			2014	09			ont_été_curés	Les égouts pouvant contenir de l'arsenic ont été curés en septembre 2014.	'arsenic'	
+2010	04	16		2010	04	16		a_sollicité	Dans le cadre de la cessation d'activité de l'ancien atelier AGQ (fabrication d'ammoniac) du secteur sud de l'usine, l'exploitant a sollicité un bureau d'étude pour la réalisation d'un diagnostic de l'état des sous-sol (investigations complémentaires) complétée par l'élaboration d'un schéma conceptuel et d'un plan de gestion (16 avril 2010).	'ammoniac'	
+2014	02			2014	02			une_mise_à_jour	En février 2014, une mise à jour du plan de gestion a été réalisée par un bureau d'étude.		

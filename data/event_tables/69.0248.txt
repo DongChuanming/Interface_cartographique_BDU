@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08	30		2011	08	30		une_visite_inopinée	Suite à une visite inopinée de l'inspection des installations classées (le 30 août 2011), un arrêté préfectoral en date de 10 octobre 2011 a mis en demeure l'exploitant de produire le dossier de cessation d'activité.		
+2001	06			2001	06			réalisait	Le garage Lugdunum réalisait depuis juin 2001 des activités de distribution de carburant sur le site du 149 rue Francis de Pressensé à Villeurbanne.	'carburant'	'Le garage Lugdunum'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11	16		1998	11	16		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 16/11/1998.		
+2003	06	27		2003	06	27		a_prescrit	En conséquence, par arrêté du 27 juin 2003, le Préfet de la Savoie a prescrit à l'exploitant une surveillance de la qualité des eaux de surface, en l'occurence le Bénétant.		'le Préfet', 'la Savoie'
+2012	10	09		2012	10	09		Les_dernières_mesures_faites	Les dernières mesures faites le 09/10/2012 par CTC Environnement sont conformes aux valeurs limites fixées.		'CTC Environnement'
+2002	07			2002	07			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été remise en juillet 2002.		

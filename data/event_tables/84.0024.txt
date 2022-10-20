@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	28		2009	01	28		Par_courrier	Par courrier du 28 janvier 2009, Madame le sous-préfet de Carpentras avait fait connaître au maire d’Entraigues qu’elle n’était pas favorable à la vente de cette propriété, tant que les travaux de sécurisation et de remise en état du site préconisés par le bureau d’étude ne seraient pas réalisés.		
+2015	06	11		2015	06	11		Une_dernière_visite_d__inspection	Une dernière visite d’inspection a été effectuée le 11 juin 2015.		
+2009	09	08		2009	09	08		a_procédé_à_une_visite	L’inspection des installations classées a procédé à une visite du site le 8 septembre 2009.		
+2008	12	19		2008	12	19		a_constaté	Par jugement en date du 19 décembre 2008, le tribunal de grande instance de Carpentras a constaté l’impécuniosité de la procédure collective (le liquidateur n’était ainsi pas tenu de payer la créance environnementale sur les deniers de la procédure collective).		
+2008	11	18		2008	11	18		a_été_transmis	Le dossier de cessation d’activité a été transmis à la sous-préfecture de Carpentras le 18 novembre 2008.		
+2015	09	30		2015	09	30		_le_nettoyage	-le nettoyage de la cuve de la station service serait effectué avant le 30 septembre 2015,		
+2015	09			2015	09			nettoyée	-les fûts avaient été enlevés de la cuve de rétention, qui serait nettoyée au mois de septembre 2015,		
+2009	01	28		2009	01	28		avait_fait_connaître	Par courrier du 28 janvier 2009, Madame le sous-préfet de Carpentras avait fait connaître au maire d’Entraigues qu’elle n’était pas favorable à la vente de cette propriété, tant que les travaux de sécurisation et de remise en état du site préconisés par le bureau d’étude ne seraient pas réalisés.		
+2006	04	04		2006	04	04		étaient_autorisées	Ses activités étaient autorisées par un arrêté préfectoral du 15/11/1982 et par celui du 04/04/2006.		
+2007	11	09		2007	11	09		a_arrêté_son_activité	Le site a arrêté son activité le 9 novembre 2007 (jugement du tribunal de grande instance de Carpentras).		
+2014	12	29		2014	12	29		a_été_transmis	Ce courrier a été transmis à la société CEREALIS le 29 décembre 2014.		'la société CEREALIS'
+2015	09			2015	09			serait_mise_en_sécurité	-la fosse située à proximité des bureaux serait mise en sécurité en septembre 2015,		
+2015	07	09		2015	07	09		a_indiqué	Par courrier du 9 juillet 2015, la société CEREALIS a indiqué que :		'la société CEREALIS'

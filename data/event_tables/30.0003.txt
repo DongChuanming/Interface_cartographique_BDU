@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				une_étude	- une étude pour l’optimisation et le renforcement de la barrière hydraulique (sept 2014).		
+								ont_été_éliminées_en_filière_agréée	Les terres polluées excavées ont été éliminées en filière agréée en février et mars 2012.		
+2014	05			2014	05			_un_diagnostic_environnemental	-un diagnostic environnemental (mai 2014),		
+1992				1992				a_été_détecté	En 1992, du MOC a été détecté dans le captage Alimentation en Eau Potable (AEP) du village de Gallargues, situé à environ 850 m au sud-ouest de l’usine, en aval hydraulique du site.	'MOC'	
+1993				1993				A	A partir de 1993, une barrière hydraulique a été mise en place par étapes sur le site afin de minimiser la migration potentielle du MOC en aval du site.	'MOC'	
+2012				2012				un_diagnostic_complémentaire_du_sol	- un diagnostic complémentaire du sol (sept 2012)		
+2012	03			2012	03			ont_été_éliminées_en_filière_agréée	Les terres polluées excavées ont été éliminées en filière agréée en février et mars 2012.		
+1962				1962				Exploité	Exploité depuis 1962, le site s’étend sur une superficie d’environ 13 hectares en bordure de la route départementale n°142, du chemin départemental n° 742 et de la voie ferrée (axe Nîmes – Montpellier) au sud de la commune  d'Aigues-Vives, en zone agricole.		
+1992				1992				Une_étude_destinée_à_déterminer	Une étude destinée à déterminer l'origine de la pollution a été engagée par ANTEA à la demande de CIBA-GEIGY dès 1992.		'ANTEA', 'CIBA - GEIGY'
+2008	06	02		2008	06	02		a_été_faite	Une présentation montrant l'efficacité de la barrière hydraulique et les résultats de la surveillance des eaux souterraines a été faite à la CLIC le 2 juin 2008.		

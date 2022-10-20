@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				a_fait_enlever	En 1991, la DRIRE a fait enlever des transformateurs ayant contenu des PCB.	'PCB'	'la DRIRE'
+2001	03			2001	03			Lors_d__une_visite	Lors d'une visite en mars 2001, l'inspection a constaté la présence d'autres fûts, dans un autre secteur de cette ancienne usine.		
+1999	12	28		1999	12	28		la_tempête	A la suite de la tempête du 28 décembre 1999 qui a entraîné l'effondrement d'une partie de la toiture, les services d'incendie et de secours de Charente-Maritime ainsi qu'une association ont attiré l'attention du Préfet sur les risques de pollution de la Seudre.		'de Charente - Maritime'
+								fermée	Ancienne papeterie en voie de délabrement, fermée depuis les années 1980.		

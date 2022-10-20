@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12	21		2001	12	21		L__étude_de_sols	L'étude de sols du 21 décembre 2001 conclut à la nécessité de réaliser une surveillance de la qualité des eaux souterraines au droit du site.		
+2018	01			2018	01			un_mémoire_de_réhabilitation	Aujourd'hui, dans le cadre de la cessation totale des activités sur le site, l'exploitant a transmis un mémoire de réhabilitation (plan de gestion + évaluation des risques sanitaires résiduels) en janvier 2018.		
+								est_réalisée	Depuis le début des années 2000, une surveillance de la qualité des eaux souterraines au droit du site est réalisée.		

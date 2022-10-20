@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983	09	12		1983	09	12		est_soumis_à_la_réglementation	L'établissement est soumis à la réglementation des Installation Classée pour la Protection l'Environnement (ICPE) depuis le 12/09/1983.		
+2009	10	15		2009	10	15		a_été_racheté	Le site appartenant anciennement à la société BARDET a été racheté par la société Providenc'Immo le 15 octobre 2009.		'la société BARDET'
+2011	03	07		2011	03	07		le_diagnostic_de_pollution_des_sols	Le 7 mars 2011, le diagnostic de pollution des sols et l'analyse "coûts-bénéfices" a été réalisé par le bureau d'étude BURGEAP.		'BURGEAP'
+2011	06	16		2011	06	16		s__est_finalement_engagée_à_excaver	Le 16 juin 2011, la société Providenc'Immo s'est finalement engagée à excaver et transférer en biocentre l'intégralité des terres polluées.		"la société Providenc'"
+2006	03			2006	03			a_demandé_la_mise_en_sécurité	Dans le cadre de la cessation d'activité déposée par la société BARDET en mars 2006, l'administration a demandé la mise en sécurité du site.		'la société BARDET'
+2009	10	15		2009	10	15		propriétaire	Le 12 avril 2011, au vu de la solution de réhabilitation choisie, l'inspection de la DREAL a demandé à Providenc'Immo (nouveau propriétaire depuis le 15 octobre 2009) de réaliser une Analyse des Risques Résiduels (ARR) et de déposer un dossier de servitudes d'utilité publique au Préfet.		
+2013	04	11		2013	04	11		le_cessation_d__activité	En conséquence, le cessation d'activité a été enregistrée le 11 avril 2013.		
+2009	10	15		2009	10	15		le	Le 12 avril 2011, au vu de la solution de réhabilitation choisie, l'inspection de la DREAL a demandé à Providenc'Immo (nouveau propriétaire depuis le 15 octobre 2009) de réaliser une Analyse des Risques Résiduels (ARR) et de déposer un dossier de servitudes d'utilité publique au Préfet.		
+2006	03			2006	03			la_cessation_d__activité_déposée	Dans le cadre de la cessation d'activité déposée par la société BARDET en mars 2006, l'administration a demandé la mise en sécurité du site.		'la société BARDET'
+2008				2008				Des_mesures_ont_été_prise	Des mesures ont été prise en 2008 afin de mettre en sécurité le site : dégazage des cuves, évacuation des déchets, dangereux ou non, ainsi que la résiliation de l'abonnement EDF.		

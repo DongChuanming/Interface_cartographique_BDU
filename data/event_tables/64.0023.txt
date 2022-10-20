@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10			2007	10			a_cessé	Il a cessé son activité en octobre 2007.		
+1999	04	13		1999	04	13		sont_autorisées	Les installations sont autorisées par L'arrêté préfectoral du 21/11/1994 complété par l'arrêté du 13/04/1999.		
+2010	11	22		2010	11	22		Le_diagnostic_remis	Le diagnostic remis le 22/11/2010 identifie des sources de pollution sur le site constituées :		
+1951				1951				a_été_créé	Ce dépôt a été créé en 1951 et sa capacité est de 38 000 m3.		
+								__dernière_implantation	A partir des années 1950 la RAFFINERIE DU MIDI s’installe sur le site (1ère  installation en 1951) et développe ses activités jusqu’au début des années 1970 (dernière implantation d’un bac – le 42- en 1973).		'la RAFFINERIE DU MIDI'
+2010	11	22		2010	11	22		remis	Le plan de gestion remis le 22/11/2010 fait état des scénarios de gestion retenus par le bureau d'études suivants :		
+								et_développe_ses_activités	A partir des années 1950 la RAFFINERIE DU MIDI s’installe sur le site (1ère  installation en 1951) et développe ses activités jusqu’au début des années 1970 (dernière implantation d’un bac – le 42- en 1973).		'la RAFFINERIE DU MIDI'
+2007	12			2007	12			la_cessation_définitive_d__activité	Suite à la cessation définitive d'activité en décembre 2007, ces restrictions d'usages seront probablement revues, au besoin, en cas de pollution résiduelle laissée en place, une fois les travaux de dépollution achevés.		
+2009	10	31		2009	10	31		le_diagnostic_des_milieux	sur proposition de la DRIRE du 12/01/2009, l'arrêté préfectoral du 31/03/2009 prescrit à l'exploitant le diagnostic des milieux et la remise du plan de gestion à l'échéance du 31/10/2009.		'la DRIRE'
+								d__installer	Avant valider les techniques de traitement à mettre en place, l'exploitant a proposé d'installer un pilote durant le 1er trimestre 2013.		
+1951				1951				__1ère___installation	A partir des années 1950 la RAFFINERIE DU MIDI s’installe sur le site (1ère  installation en 1951) et développe ses activités jusqu’au début des années 1970 (dernière implantation d’un bac – le 42- en 1973).		'la RAFFINERIE DU MIDI'
+1999	03	15		1999	03	15		Les_études_remises	Les études remises le 15 mars 1999 classe en 2 "à surveiller" pour l'usage du moment.		
+2007	12			2007	12			La_cessation_d__activité	La cessation d'activité est effective depuis décembre 2007.		
+								s__installe	A partir des années 1950 la RAFFINERIE DU MIDI s’installe sur le site (1ère  installation en 1951) et développe ses activités jusqu’au début des années 1970 (dernière implantation d’un bac – le 42- en 1973).		'la RAFFINERIE DU MIDI'
+2013				2013				d__installer	Avant valider les techniques de traitement à mettre en place, l'exploitant a proposé d'installer un pilote durant le 1er trimestre 2013.		
+2007	12			2007	12			sont_vidées	Depuis décembre 2007, les installations du  dépôt pétrolier sont vidées, dégazées et nettoyées.		
+2008				2008				Le_démantèlement_des_installations	Le démantèlement des installations est réalisé en 2008.		

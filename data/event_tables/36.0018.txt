@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02			2004	04			a_procédé	Entre février 2003 et avril 2004, la commune de Châteauroux, propriétaire des terrains a procédé :		'la commune de Châteauroux'
+1972				1972				a_fait_l__objet_d_	En 1972, la société anonyme des établissements de Balsan a fait l'objet d'un arrêté préfectoral.		'la société anonyme des établissements de Balsan'
+2001	01			2001	01			est_mis_en_sécurité	En janvier 2001, le site est mis en sécurité par la mise en œuvre d'une interdiction d'accès à toute personne non spécifiquement autorisée et par l'affichage de l'interdiction formelle de pénétrer.		
+2000	10			2000	10			est_mise_en_redressement_judiciaire	En octobre 2000, la société BALSAN est mise en redressement judiciaire.		'la société BALSAN'
+1983				1983				arrête_ses_activités	En 1983, elle arrête ses activités sur Châteauroux pour les poursuivre à Arthon.		
+2005	05	25		2005	05	25		Une_étude_diagnostique	Une étude diagnostique et une évaluation simplifiée des risques (ESR) ont été remises le 25 mai 2005, concluant à un site de type 2.		
+2002	03			2002	03			La_visite	La visite d'inspection de mars 2002 confirme le délabrement du site et insiste sur les risques de chutes ou d’effondrement de ces structures.		

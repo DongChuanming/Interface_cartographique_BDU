@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	10	19		1995	10	19		un_visite_d__inspection	Lors d'un visite d'inspection du 19 octobre 1995, l'inspecteur constate que les travaux de dépollution sont en cours.		
+1995	07			1995	07			une_étude_hydrogéologique	En juillet 1995, Total transmet une étude hydrogéologique et des propositions de décontamination du sol. lesquelles ?		
+				2007	08	30		Les_campagnes_suivantes	Les campagnes suivantes des 04/04/2007 et du 30/08/2007 montrent la disparition de cet impact.		
+2007	04	04		2007	04	04		Les_campagnes_suivantes	Les campagnes suivantes des 04/04/2007 et du 30/08/2007 montrent la disparition de cet impact.		
+2006	05	30		2006	05	30		La_campagne	La campagne du 30 mai 2006 révéle l'impact ponctuel de la nappe en deux points(6300 mg/l en hydrocarbures totaux).	'hydrocarbures totaux'	

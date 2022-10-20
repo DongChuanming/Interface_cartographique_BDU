@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2007				a_montré_un_abattement	L'évolution des teneurs en polluants dans la nappe profonde a montré un abattement important de la pollution entre 2003 et 2007.	'polluants'	
+								de_travaux_de_terrassement	Lors de travaux de terrassement en juin/juillet 2007, dans le cadre de la création d'un complexe culturel sur le site, un volume de 13 300 m3 de terres a été évacué.		
+2003	05	26		2003	05	26		des_travaux_de_remise_en_état	Ainsi, par arrêté préfectoral du 26 mai 2003, le préfet des Yvelines a prescrit des travaux de remise en état et des mesures de surveillance du site.		'le préfet des Yvelines'
+2015	06			2015	06			a_délivré	A l'issue du rapport des installations classées en juin 2015, Monsieur le préfet des Yvelines a délivré le récépissé de cessation d'activité le 11 juin 2015.		'le préfet des Yvelines'
+2003				2003				Les_travaux_de_remise_en_état_réalisés	Les travaux de remise en état réalisés en 2003 ont consisté en la destruction d'un bâtiment (A) sous lequel d'importantes pollutions avaient été diagnostiquées.		
+1998				1998				un_diagnostic_de_pollution	Dans le cadre de la cessation d'activité, un diagnostic de pollution a été réalisé en 1998.		
+2009	04	15		2009	04	15		un_bilan	Par courrier du 15 avril 2009, la société LINDE HOLDING a transmis un bilan de la dépollution de l'ancien site Fenwick.		'la société LINDE HOLDING'
+2015	06	11		2015	06	11		a_délivré	A l'issue du rapport des installations classées en juin 2015, Monsieur le préfet des Yvelines a délivré le récépissé de cessation d'activité le 11 juin 2015.		'le préfet des Yvelines'
+2007	07			2007	07			a_été_évacué	Lors de travaux de terrassement en juin/juillet 2007, dans le cadre de la création d'un complexe culturel sur le site, un volume de 13 300 m3 de terres a été évacué.		

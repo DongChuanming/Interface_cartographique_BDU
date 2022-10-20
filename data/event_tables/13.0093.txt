@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			un_diagnostic_initial_complémentaire	En Juillet 2002 un diagnostic initial complémentaire ainsi qu'une réactualisation de l'ESR ont été effectués.		"l' ESR"
+2005	02	01		2005	02	01		a_cessé_ses_activités	Le site a cessé ses activités le 1/02/2005 et a été classé jusqu'à sa fermeture SEVESO II seuil bas.		
+2007	03	09		2007	03	09		Les_travaux	Les travaux (encadrés par l'AP du 25/09/2006) ont commencé en Janvier 2007 par l'installation du dispositif de dépollution des eaux souterraines (traitement effectif depuis le 9/03/2007).		
+2005	06			2005	06			Un_EDR_a_été_effectuée	Un EDR a été effectuée en Juin 2005.		
+2000	05	26		2000	05	26		le_diagnostic_initial	Le 10/07/2000, l'étude historique a été remise et le 26/05/2000 le diagnostic initial ainsi que l'ESR ont été fournis (AP du 16/06/1999).		
+2009	01	30		2009	01	30		Ces_travaux_ont_été_réalisé	Ces travaux ont été réalisé et une visite de recollement a été effectuée le 30/01/2009.		
+2009	01	30		2009	01	30		une_visite_de_recollement_a_été_effectuée	Ces travaux ont été réalisé et une visite de recollement a été effectuée le 30/01/2009.		
+2002	10	24		2002	10	24		a_été_formulée	Une demande d'extension de stockage d'acide sulfurique a été formulée le 24/10/2002.	'acide sulfurique'	
+2005	08	11		2005	08	11		a_été_remis	Le dossier de cessation d'activité a été remis le 11/08/2005 et le récépissé de cessation d'activité le 23/08/2005.		
+2005	08	23		2005	08	23		a_été_remis	Le dossier de cessation d'activité a été remis le 11/08/2005 et le récépissé de cessation d'activité le 23/08/2005.		
+2007	03	09		2007	03	09		traitement_effectif	Les travaux (encadrés par l'AP du 25/09/2006) ont commencé en Janvier 2007 par l'installation du dispositif de dépollution des eaux souterraines (traitement effectif depuis le 9/03/2007).		
+2000	07	10		2000	07	10		a_été_remise	Le 10/07/2000, l'étude historique a été remise et le 26/05/2000 le diagnostic initial ainsi que l'ESR ont été fournis (AP du 16/06/1999).		
+2007	03	09		2007	03	09		l__installation_du_dispositif_de_dépollution	Les travaux (encadrés par l'AP du 25/09/2006) ont commencé en Janvier 2007 par l'installation du dispositif de dépollution des eaux souterraines (traitement effectif depuis le 9/03/2007).		
+2005	02	01		2005	02	01		a_cessé	Depuis le 1/02/2005, le site LBC1 a cessé toutes ses activités.		
+				2007	05			les_travaux	Du mois d'Avril au mois de Mai 2007, les travaux concernant les sols pollués ainsi que l’évacuation des déchets ont été effectués.		
+								qui_abroge	. Du 23/04/92 (qui abroge les AP du 31/12/1968, du 24/04/1970, du 8/10/1979 et du 7/11/1988).		
+								a_été_dressé	Après 9 mois de traitement, un bilan des travaux a été dressé.		
+2007	01			2007	01			Les_travaux	Les travaux (encadrés par l'AP du 25/09/2006) ont commencé en Janvier 2007 par l'installation du dispositif de dépollution des eaux souterraines (traitement effectif depuis le 9/03/2007).		

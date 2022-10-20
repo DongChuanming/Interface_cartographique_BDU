@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				un_dépassement	Des prélèvements menés en 2008-2009 montrent, respectivement, un dépassement de cette limite de qualité pour l'arsenic en 2008, et pour le plomb en 2008 et 2009.	'arsenic', 'plomb'	
+1999	10			1999	10			a_été_demandé	Fin Octobre 1999, en fonction des conclusions du diagnostic, il a été demandé à l'industriel de proposer des solutions techniques pour dépolluer le site.		
+2000	04			2000	04			__les_travaux_ont_débuté	Après appel d'offres et désignation des entreprises retenues, les travaux ont débuté fin Avril 2000. 546 tonnes de terres polluées ont été excavées et traitées dans un établissement autorisé dans le département de l'Essonne.		
+2008				2008				un_dépassement	Des prélèvements menés en 2008-2009 montrent, respectivement, un dépassement de cette limite de qualité pour l'arsenic en 2008, et pour le plomb en 2008 et 2009.	'arsenic', 'plomb'	
+2000	01			2000	01			a_validé	Début Janvier 2000, l'administration a validé la proposition de méthodologie de dépollution (excavation, évacuation et traitement en centre spécialisé des terres polluées) et a établi un protocole des opérations de dépollution.		
+1999	06			1999	06			Des_prélèvements_et_analyses	Des prélèvements et analyses effectués en Mars et en Juin 1999 ont confirmé une pollution des terres par des hydrocarbures sur un secteur et une contamination des eaux de la nappe superficielle s'écoulant à l'aplomb du site.	'hydrocarbures'	
+2009				2009				Des_prélèvements_menés	Des prélèvements menés en 2008-2009 montrent, respectivement, un dépassement de cette limite de qualité pour l'arsenic en 2008, et pour le plomb en 2008 et 2009.	'arsenic', 'plomb'	
+								Des_prélèvements_et_analyses	Des prélèvements et analyses effectués en Mars et en Juin 1999 ont confirmé une pollution des terres par des hydrocarbures sur un secteur et une contamination des eaux de la nappe superficielle s'écoulant à l'aplomb du site.	'hydrocarbures'	
+2008				2008				Des_prélèvements_menés	Des prélèvements menés en 2008-2009 montrent, respectivement, un dépassement de cette limite de qualité pour l'arsenic en 2008, et pour le plomb en 2008 et 2009.	'arsenic', 'plomb'	
+1999	07			1999	07			réalisés	.R.) réalisés en Juillet 1999 ont été complétés.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12			2002	12			__avant_d__être_cédées	Les parcelle considérées (EV105, EV206, EV 232 ex EV207) ont fait partie  de l'emprise d'une ancienne usine de production d'électricité ( 1909 à 1958)  et de production de gaz (distillation de houille)(1931 à 1969) avant d'être cédées à la société EIFFAGE en décembre 2002.		'cédées à la société EIFFAGE'
+				2015	11			les_mesures_réalisées	- malgré cela, les mesures réalisées par les 3 piézomètres entre juillet 2012 et novembre 2015 mettent en évidence des teneurs en COHV et PCB et ponctuellement en nickel dépassant les limites de potabilité qui sont liés, d'après le rapport, aux activités anciennes et actuelles exercées sur le site par EDF.	'COHV', 'PCB', 'nickel'	
+2004	08	26		2004	08	26		présentée	Cette tierce expertise présentée le 26 août 2004, n’a pas remis en cause la méthodologie appliquée pour la réalisation de l’ERS ainsi que ses conclusions.		
+								présenté	Une Évaluation des Risques Sanitaires (ERS) a été réalisé et présenté en avril 04 par EDF (ancien propriétaire).		'EDF'
+2016				2016				a_transmis	En 2016, EDF a transmis un bilan quadriennal de suivi des eaux souterraines du site.		
+2003	11	20		2003	11	20		Un_diagnostic_des_sols_a_été_fourni	Un diagnostic des sols a été fourni le 20/11/2003, permettant de confirmer la présence d'une pollution au PCB du à la présence d'un ancien poste de transformation d'électricité.	'PCB'	

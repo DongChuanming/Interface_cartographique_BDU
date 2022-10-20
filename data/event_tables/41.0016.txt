@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02			2003	02			ont_été_présentées	Les conclusions des études préalables ont été présentées à l'administration en février 2003.		
+								avoir_été_exploitée	Elle semble avoir été exploitée à un rythme variable au cours des 30 dernières années (le diagnostic fait état d’apports de déchets en 1966).		
+2009	07			2009	07			a_été_présenté	Un projet d'arrêté préfectoral a été présenté au CODERST (Conseil Départemental de l'Environnement et des Risques Sanitaires et Technologiques) en juillet 2009, et un dossier de demande d'instauration de SUP a été déposé en décembre 2009.		'CODERST', "Conseil Départemental de l' Environnement"
+2009	12			2009	12			d__instauration_de_SUP_a_été_déposé	Un projet d'arrêté préfectoral a été présenté au CODERST (Conseil Départemental de l'Environnement et des Risques Sanitaires et Technologiques) en juillet 2009, et un dossier de demande d'instauration de SUP a été déposé en décembre 2009.		'CODERST', "Conseil Départemental de l' Environnement"
+2006	02	09		2006	02	09		une_étude_détaillée_des_risques	Le 9 février 2006, l'inspection des installations classées a demandé une étude détaillée des risques sur la santé et les eaux souterraines.		
+2009				2009				a_été_fermé	Un puits de particulier a été fermé en 2009, et l'habitation a été raccordée au réseau d'eau potable.		
+2006	10	13		2006	10	13		a_rappelé	Le préfet de Loir-et Cher en a rappelé la nécessité au Maire par courrier du 13 octobre 2006.		'Le préfet de Loir'
+2006				2006				l__interdiction	Fin 2006, l'interdiction de puisage des eaux souterraines à des fins d'usages sensibles a été rappelée aux détenteurs des puits les plus proches situés à l'aval de la décharge, en même temps que leur sont communiqués les résultats des contrôles sur la qualité des eaux au niveau de leurs puits.		
+2011				2011				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont eu lieu courant 2011, la réception des travaux est datée du 30/10/2011.		
+2008	05	30		2008	05	30		ont_été_présentés_lors_d_	Les conclusions du diagnostic complémentaire et de l'évaluation des risques sanitaires, suivis de propositions de mesures de réhabilitation de l'ancienne décharge (rapport du 01/02/2008) ont été présentés lors d'une réunion datée du 30/05/2008.		
+2011	10	30		2011	10	30		Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont eu lieu courant 2011, la réception des travaux est datée du 30/10/2011.		

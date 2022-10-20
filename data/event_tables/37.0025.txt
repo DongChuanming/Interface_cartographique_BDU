@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_étude_réalisée	Dans une étude réalisée en 2005, le bureau d’études SERPOL, missionné par la société TOTAL, a précisé la vulnérabilité du milieu environnant la station service.		'SERPOL', 'la société TOTAL'
+2007	12	10		2007	12	10		la_cessation_de_ses_activités	Par courrier du 10 décembre 2007, l’exploitant a notifié à Monsieur le Préfet d’Indre-et-Loire la cessation de ses activités depuis le 1er août 2006.		'le Préfet'
+2008				2008				INVESTIGATIONS_MENEES	INVESTIGATIONS MENEES DE 2006 A 2008		
+2009				2009				INVESTIGATIONS_MENEES	INVESTIGATIONS MENEES EN 2009		
+2009				2009				Les_investigations_réalisées	Les investigations réalisées en 2009 ont donc permis de confirmer les hypothèses sur lesquelles l’analyse des risques résiduels a été élaborée et, par conséquent, ses conclusions : il n’y a pas de dépassements des seuils réglementaires, pour un immeuble collectif à usage d’habitation (avec parking souterrain et espaces verts) et une maison individuelle (avec jardin et sans potager), qui seraient implantés au droit des zones contaminées.		
+2007	12	20		2007	12	20		a_pris_acte	Par courrier du 20 décembre 2007, Monsieur le Préfet a pris acte de la cessation d’activité.		'le Préfet'
+2009	11	25		2009	11	25		a_fait_procéder	Par conséquent, le 25 novembre 2009, l’exploitant a fait procéder à l’implantation d’un piézomètre entre l’emplacement de l’ancienne cuve de SP98 et le mur des habitations voisines .	'de SP98'	
+2006	08	1		2006	08	1		la_cessation_de_ses_activités	Par courrier du 10 décembre 2007, l’exploitant a notifié à Monsieur le Préfet d’Indre-et-Loire la cessation de ses activités depuis le 1er août 2006.		'le Préfet'
+1985	08	25		1985	08	25		a_été_autorisée_à_exploiter	La société TOTAL a été autorisée à exploiter les installations de la station service située 163 avenue Maginot sur la commune de Tours, par récépissés n°10487 du 13 mars 1972 et n°12710 du 25 août 1985.		'La société TOTAL'
+2005				2005				a_précisé	Dans une étude réalisée en 2005, le bureau d’études SERPOL, missionné par la société TOTAL, a précisé la vulnérabilité du milieu environnant la station service.		'SERPOL', 'la société TOTAL'
+2009	09	22		2009	09	22		la_réalisation_d__investigations_complémentaires	De fait, par arrêté préfectoral complémentaire n°18651 du 22 septembre 2009, il a été prescrit la réalisation d’investigations complémentaires afin de préciser les sources de pollution à proximité et/ou au droit du site et des habitations riveraines ainsi que le contexte hydrogéologique local.		
+2006				2006				INVESTIGATIONS_MENEES	INVESTIGATIONS MENEES DE 2006 A 2008		

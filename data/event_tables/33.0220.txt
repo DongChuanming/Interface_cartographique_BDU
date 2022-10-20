@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	27		2013	09	27		informe	Le 27/09/2013, le maire d'Etauliers informe la DREAL que les travaux ci-dessus ont été exécutés et que le site a fait l'objet d'une plantation de pins.		'la DREAL'
+2006	06	06		2006	06	06		L__étude_effectuée	L'étude effectuée par le bureau d'études ANTEA a été remise le 6 juin 2006.		'ANTEA'
+1972				1999				a_accueilli	Le site a accueilli des déchets de 1972 à 1999.		
+2005	10	04		2005	10	04		a_demandé_par_courrier	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, Monsieur le Préfet a demandé par courrier du 4 octobre 2005 à la Mairie d’Etauliers de déposer un dossier de remise en état comprenant une Étude Simplifiée des Risques (ESR).		'le Préfet'

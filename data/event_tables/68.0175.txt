@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988	05	24		1988	05	24		est_contrôlée	Cette eau chargée en fines particules est contrôlée conformément aux prescriptions de l'AP du 24/05/1988.		
+1951				1951				__déclaration	En 1951: déclaration d'ouverture d'une carrière à Hégenheim et Bourgfelden (pas encore rattaché à Saint-Louis) formulée par Hans OESCH (ancien nom de Kies A.		'Hans OESCH', 'Kies'
+								à_exploiter	. à exploiter et remblayer pour une durée déterminée de 10 ans.		
+								remblayer_pour_une_durée_déterminée	. à exploiter et remblayer pour une durée déterminée de 10 ans.		
+1988	05	24		1988	05	24		renouvelle	AP du 24/05/1988 renouvelle l'autorisation (après étude d'impact) d'exploiter et de remblayer au bénéfice de la société Kies A.		'la société Kies A.'

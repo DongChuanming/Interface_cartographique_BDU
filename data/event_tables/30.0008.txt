@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05	17		2001	05	17		a_été_fournie	Cette analyse critique a été fournie le 17/05/2001.		
+2003				2003				Les_travaux_de_confinement	Les travaux de confinement et d'évacuation des terres polluées ont été réalisés en 2003.		
+2004	12			2004	12			Une_EDR_actualisée	Une EDR actualisée a été transmise en décembre 2004.		
+2000	03	22		2000	03	22		Cette_évaluation	Cette évaluation a été remise le 22/03/2000.		
+1998	04	01		1998	04	01		la_cessation_d_	A la cessation d'activité (1/4/1998), il a été constaté que le sol présente localement des concentrations anormales en plomb.	'plomb'	
+2003	07	02		2003	07	02		ont_été_fournis	Des éclaircissements et compléments ont été demandés lors d' une réunion tenue le 19/06/2001 ; ils ont été fournis le 02/07/2003.		
+1998	03	05		1998	03	05		a_été_présenté	L'ESR a été présenté le 5/3/1998.		"L' ESR"

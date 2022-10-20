@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1945				1945				est_occupé_par	En 1945 il est occupé par l'armée allemande et est utilisé comme dépôt de munitions pour l'armée de l'air.		
+1869				1869				sera_terminé	Ce fort sera terminé en 1869.		
+1945				1945				est_détruit	Suite au retrait de l'armée nazie, le dépôt est détruit en aout 1945.		
+1959				1959				est_cédé	Le site est cédé aux ÉTABLISSEMENTS LENNE en 1959. il est alors utilisé comme dépôt de résidus de production de l'affinerie de Villeurbanne et reçoit :		'ÉTABLISSEMENTS LENNE'
+2001	02			2001	02			rachète	La Mairie de Genas rachète le site aux ETS LENNE en février 2001 et projette d'y implanter des lotissements.		'La Mairie', 'ETS LENNE'
+1864				1864				l__implantation	La première activité sur le site remonte à 1864 avec l'implantation de l'Armée française et la construction du Fort de Genas.		
+1997	06	30		1997	06	30		ESR___ont_été_réalisés	Suite à la demande de l'administration par arrêté préfectoral du 02/12/1996, un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) ont été réalisés et transmis le 30/06/1997.		

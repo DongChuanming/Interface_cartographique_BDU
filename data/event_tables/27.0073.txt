@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04			2009	04			La_cessation_d__activité	La cessation d'activité est effectuée en avril 2009 (déclaration par courrier du 17 août 2009).		
+2009	08	17		2009	08	17		déclaration_par_courrier	La cessation d'activité est effectuée en avril 2009 (déclaration par courrier du 17 août 2009).		
+1985				1985				rachète	La société Blagden Packaging la rachète en 1985, puis la cède à GREIF en 2007.		'La société Blagden Packaging la', 'GREIF'
+1978				1978				a_été_construite	L'usine a été construite en 1978 par la société "Tôlerie Rhodaniennes SA" sur un terrain agricole.		'la société " Tôlerie Rhodaniennes SA'
+2009	06	29		2009	06	29		ont_fait_l__objet_d_	Le site est situé dans le périmètre de protection éloigné des captages AEP de la commune de Val-de-Reuil situés à environ 800 mètres (le périmètre de protection rapproché vient manger un coin du site mais n'englobe pas les bâtiments ; les périmètres de protection ont fait l'objet d'un arrêté de DUP le 29 juin 2009).		
+2007				2007				rachète	La société Blagden Packaging la rachète en 1985, puis la cède à GREIF en 2007.		'La société Blagden Packaging la', 'GREIF'
+2009	08	17		2009	08	17		La_cessation_d__activité	La cessation d'activité est effectuée en avril 2009 (déclaration par courrier du 17 août 2009).		
+2007				2007				la_cède	La société Blagden Packaging la rachète en 1985, puis la cède à GREIF en 2007.		'La société Blagden Packaging la', 'GREIF'
+2009	09	04		2009	09	04		une_étude_réalisée	L'exploitant a transmis le 4 septembre 2009 à madame la préfète de l'Eure une étude réalisée par le cabinet ANTEA relative à la cessation d'activité du site.		'la préfète', "de l' Eure", 'le cabinet ANTEA'

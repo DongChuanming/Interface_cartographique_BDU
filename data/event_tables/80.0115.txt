@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	10			2016	10			a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire en octobre 2016.		
+2011	11			2011	11			ont_été_éliminés	Les trois transformateurs contenant des PCB présents sur le site ont été éliminés en novembre 2011.	'des PCB'	
+								à	Le site a accueilli des activités textiles à partir du milieu des années 1930.		
+								a_accueilli	Le site a accueilli des activités textiles à partir du milieu des années 1930.		
+				2011				était_utilisé	Le trichloroéthylène était utilisé depuis les années 1960 et jusqu'en 2011 pour le lavage de la laine.	'Le trichloroéthylène'	
+1989				1989				ont_été_autorisées_en_dernier_lieu	Les installations de traitement de laine animale destinée aux industries du tapis et de l'ameublement ont été autorisées en dernier lieu par arrêté préfectoral du 21 octobre 1980 et reprises par la SAS GAUDEFROY en 1989.	'laine animale'	'par la SAS GAUDEFROY'
+								ont_été_autorisées_en_dernier_lieu	Les installations de traitement de laine animale destinée aux industries du tapis et de l'ameublement ont été autorisées en dernier lieu par arrêté préfectoral du 21 octobre 1980 et reprises par la SAS GAUDEFROY en 1989.	'laine animale'	'par la SAS GAUDEFROY'
+1980				1980				ont_été_autorisées_en_dernier_lieu	Les installations de traitement de laine animale destinée aux industries du tapis et de l'ameublement ont été autorisées en dernier lieu par arrêté préfectoral du 21 octobre 1980 et reprises par la SAS GAUDEFROY en 1989.	'laine animale'	'par la SAS GAUDEFROY'

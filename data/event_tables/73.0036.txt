@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_mise_à_l__arrêt	Le site exploitait (autorisé par l'AP du 25 mars 1996) une décharge interne (stockage des sables de quartz, des réfractaires usés, des fonds de four et des déchets de démolition) qui a été mise à l'arrêt en 2005.		
+1996	03	25		1996	03	25		élabore	L'usine élabore du silicium métal affiné obtenu par électro-fusion (autorisée par l'AP du 25 mars 1996).	'silicium'	
+				2011	09	20		__campagnes	Selon le rapport de synthèse des mesures environnementales de 2011 (campagnes du 19-20 septembre 2011 et du 12-13 décembre 2011) sur 3 piézomètres pour les eaux souterraines, une contamination aux sulfates (390 mg/L) est relevée sur 2 analyses.	'sulfates'	
+2009				2009				La_campagne_de_mesures	La campagne de mesures de 2009 sur les eaux souterraines sur 3 piézomètres montre des contaminations en : sulfates (379 mg/L), fer (249 µg/L), manganèse (65  µg/L).	'sulfates', 'fer', 'manganèse'	
+								une_surveillance_des_sols_tous_les	- une surveillance des sols tous les 5 ans sur 5 stations pour les paramètres : arsenic, cadmium, mercure, plomb, nickel, aluminium, vanadium.	'arsenic', 'cadmium', 'mercure', 'plomb', 'nickel', 'aluminium', 'vanadium'	
+								__campagnes	Selon le rapport de synthèse des mesures environnementales de 2011 (campagnes du 19-20 septembre 2011 et du 12-13 décembre 2011) sur 3 piézomètres pour les eaux souterraines, une contamination aux sulfates (390 mg/L) est relevée sur 2 analyses.	'sulfates'	
+1998	11	04		1998	11	04		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 04/11/1998.		
+1999	06			1999	06			a_été_finalisée	Cette étude qui comprend un diagnostic et une étude Evaluation Simplifiée des Risques a été finalisée en juin 1999.		

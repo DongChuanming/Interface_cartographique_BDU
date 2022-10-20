@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	04			2017	04			a_notifié_la_cessation_d_	Il a notifié la cessation d’activité au préfet en avril 2017.		'préfet'
+2017	07	26		2017	07	26		Le_remblaiement	Le remblaiement de la fouille a été réalisé le 26 juillet 2017 avec des granulats présents sur le site.		
+2015	03			2015	03			Le_diagnostic_environnemental	Le diagnostic environnemental du site, réalisé en mars 2015, a permis de mettre en évidence, à l’emplacement du tambour-malaxeur-sécheur une contamination des sols par des hydrocarbures totaux entre 0 et 1 m de profondeur.	'hydrocarbures totaux'	
+				2017	07	26		Les_travaux_de_gestion	Les travaux de gestion des terres polluées se sont déroulés du 28 juin au 26 juillet 2017.		
+2007	10	12		2007	10	12		avait_été_autorisée	Une centrale d’enrobage à chaud de matériaux routiers exploitée par la société APPIA Enrobés y avait été autorisée par arrêté préfectoral le 12 octobre 2007.	'la'	'société APPIA Enrobés'
+2013				2013				l__exploitation	L’exploitant a indiqué que l’exploitation de la centrale d’enrobage a été arrêtée début 2013.		
+2017	08	30		2017	08	30		de_la_visite	Lors de la visite du 30 août 2017 l'inspection des installations classées a constaté que le site est clôturé et 2 portails sont installés (entrée-sortie).		

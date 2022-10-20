@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	04		2010	06	04		se_sont_achevés	Les travaux de reprise des résidus de broyage ont démarré le 26 octobre 2009 et se sont achevés le 4 juin 2010.		
+2009				2009				Les_investigations_menées	Les investigations menées en 2009 ont permis de déterminer l’épaisseur des déchets, ainsi que la nature du terrain naturel qui est constitué de calcaires.		
+2009	10	26		2009	10	26		Les_travaux_de_reprise	Les travaux de reprise des résidus de broyage ont démarré le 26 octobre 2009 et se sont achevés le 4 juin 2010.		
+2012	03			2012	03			Un_diagnostic_environnemental	Un diagnostic environnemental accompagné de propositions de mesures de gestion du site a été transmis en mars 2012 par la société GDE à l'inspection des installations classées et est en cours d'instruction.		'la société GDE'
+2002				2003				avoir_procédé_à	La société Guy Dauphin Environnement (GDE) a reconnu sa responsabilité en indiquant avoir procédé à des dépôts de déchets sur ce site entre 2002 et 2003.		'La société Guy Dauphin Environnement', 'GDE'
+2010	01	1		2010	01	1		a_procédé_à	L'inspection des installations classées, service de la DRIRE devenue DREAL depuis le 1er janvier 2010, a procédé à des investigations permettant de confirmer la présence de RBA sur le site à Versainville.		'la DRIRE devenue DREAL', 'RBA'
+				2009	09			les_campagnes_de_prélèvements_menées	- en matière d’eaux souterraines : les campagnes de prélèvements menées de juillet à septembre 2009 sur les trois ouvrages implantés autour du site ne mettent pas en évidence d’impact spécifique lié au dépôt de RBA,	'RBA'	
+2001				2001				exploitée	Brocante exploitée depuis 2001 par Monsieur GAUTIER.		'GAUTIER'

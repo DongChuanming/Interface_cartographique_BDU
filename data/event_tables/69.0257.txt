@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01			2011	01			ont_été_démantelées	Une cuve de rétention d'eaux souillées par des produits chimiques et une cuve de rétention d'eau ont été démantelées en janvier 2011.		
+2009				2009				est_vendue_à	En 2009, la partie ouest du site (parcelle AZ 79) est vendue à un tiers (pour la mise en place d'un mini golf et d'un centre de bien-être).		
+								a_déclaré_cesser	La société CLARIANT SERVICES (FRANCE) a déclaré cesser ses activités le 20/12/10.		'La société CLARIANT SERVICES ( FRANCE'
+1973	11	16		1973	11	16		a_été_acté	Un récépissé de déclaration a été acté le 16/11/1973 par la société SANDOZ, pour l'installation de stockage d'hydrocarbures.	"d' hydrocarbures"	'la société SANDOZ'
+2010	12			2010	12			un_nouveau_diagnostic	L'étude de sol effectuée en mars 2009 a nécessité un nouveau diagnostic qui a été réalisé en décembre 2010.		
+2010	12			2010	12			a_nécessité	L'étude de sol effectuée en mars 2009 a nécessité un nouveau diagnostic qui a été réalisé en décembre 2010.		
+2009	03			2009	03			un_diagnostic_sol	Dans le cadre de cette vente, un diagnostic sol a été effectué en mars 2009.		
+2009	03			2009	03			L__étude_de_sol	L'étude de sol effectuée en mars 2009 a nécessité un nouveau diagnostic qui a été réalisé en décembre 2010.		
+								Les_premiers_prélèvements_effectués	Les premiers prélèvements effectués le 25/03/11, montrent :		

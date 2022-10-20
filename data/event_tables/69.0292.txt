@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	08		2006	06	08		a_été_remis	. a été remis à l'Inspection des Installations Classées en date du 08/06/2006.		
+2007	10	20		2007	10	20		ont_fait_l__objet_d_	Le diagnostic approfondi et le contrôle de la qualité des eaux souterraines ont fait l'objet d'un rapport commun, rédigé par SOCOTEC le 20/10/2007.		'SOCOTEC'
+2007				2007				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont eu lieu dans le courant de l'année 2007.		
+1973	02	09		1973	02	09		a_fait_l__objet_d_	Cette activité a fait l'objet d'un arrêté préfectoral d'autorisation d’exploiter, commun à toutes les parcelles, daté du 09/02/1973.		
+2007	01			2007	01			a_débuté	Un suivi de la qualité des eaux souterraines a débuté sur le site au mois de janvier 2007.		
+2005	09	21		2005	09	21		Le_rapport_a	Le rapport a été remis à l'Administration en date du 21/09/2005.		
+2007	02	28		2007	02	28		signé	Ce suivi a fait l'objet d'un arrêté préfectoral signé en date du 28/02/2007 et imposant des campagnes bimestrielles sur 3 ouvrages jusqu'à la fin des travaux de construction du Centre Pénitentiaire.		'Centre Pénitentiaire'
+2008	11			2008	11			12_campagnes_ont_été_réalisées	12 campagnes ont été réalisées dont la dernière a eu lieu au mois de novembre 2008. les analyses ont montré des contaminations ponctuelles en :		
+2008	11			2008	11			la_dernière_a_eu_lieu	12 campagnes ont été réalisées dont la dernière a eu lieu au mois de novembre 2008. les analyses ont montré des contaminations ponctuelles en :		
+2001				2004				L__opération_de_remblayage	L'opération de remblayage a eu lieu sur le site entre 2001 et 2004.		
+2009	05	02		2009	05	02		a_été_inauguré	Le centre pénitentiaire de Lyon-Corbas a été inauguré le 2 mai 2009 et est toujours en activité à ce jour.		

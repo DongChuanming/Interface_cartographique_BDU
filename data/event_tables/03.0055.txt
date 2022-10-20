@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	11	31		1993	11	31		a_été_dissoute	Cette société a été dissoute le 31 novembre 1993, il semble que le dernier exploitant Mr Claude RODDE ait quitté le territoire français, laissant le site de production à l’état de friche industrielle.		'Mr Claude RODDE'
+				1992	08			à_fonctionné	Cette petite unité de production de bordures de jardin, balustrades et en béton à fonctionné jusqu’en août 1992.		
+								un_acte_de_mise_en_demeure	Aucune remise en état n’ayant été faite, un acte de mise en demeure du 30/04/98 a fait obligation à la date indiquée d’enlever les déchets encore présents et de caractériser l’état de la pollution du site.		
+1997	09	18		1997	09	18		a_été_établi	Un procès verbal d’enquête a été établi le 18 septembre 1997 par les services de la DDAS à la suite d’une pollution des sols et de la nappe.		'les services de la DDAS'

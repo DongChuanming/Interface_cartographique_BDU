@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				__arrêt_du_traitement	En 1983: arrêt du traitement au sulfate de cuivre.	'sulfate', 'cuivre'	
+1958				1958				__arrêt	En 1958: arrêt du traitement KYAN, au profit d'un traitement aux sels types Cuivre-Chrome et Arsenic (CCA).	'Cuivre - Chrome', 'Arsenic', 'CCA'	'KYAN'
+1936				1936				apparaît	L'activité de traitement de bois apparaît en 1936.		
+1923				1923				est_en_activité	Le site est en activité depuis 1923 (travail du bois).		
+1997				1997				ont_été_installés	En lieu et place des anciennes installations, de nouveaux autoclaves ont été installés en 1997 ; les dispositifs de rétention sont conformes.		
+2006				2006				a_été_remise	Cette EDR a été remise fin 2006.		
+2006	09	07		2006	09	07		a_remis_son_diagnostic_approfondi	L’exploitant a remis son diagnostic approfondi et son étude détaillée des risques le 7 septembre 2006 (rapport STOGREAH CONSULTANTS n° 1730785 d’août 2006).		'STOGREAH CONSULTANTS'
+1946				1946				et_remis_en_état	Le site est touché pendant la guerre et remis en état en 1946.		
+2003	03	13		2003	03	13		mise_en_demeure	Prescrits par AP du 31/07/98, le diagnostic initial a été complété suite à mise en demeure du 13/03/2003 ; il conclut à la nécessité de poursuivre la surveillance des eaux souterraines et d'effectuer des investigations complémentaires dans les sols.		

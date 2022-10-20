@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	16		2003	01	16		la_réalisation_d__une_évaluation_simplifiée_des_risques	L'administration a prescrit par arrêté préfectoral du 16 janvier 2003, la réalisation d'une évaluation simplifiée des risques, qui a été remise le 22 juillet 2003.		
+2001				2001				Des_investigations_de_terrain	Des investigations de terrain ont été menées durant l'année 2001 sur ce site.		
+1969				1996				a_été_exercée	L'activité de fabrication d'asphalte, abandonnée aujourd'hui, y a été exercée de 1969 à 1996.	'asphalte'	
+2003	07	22		2003	07	22		la_réalisation_d__une_évaluation_simplifiée_des_risques	L'administration a prescrit par arrêté préfectoral du 16 janvier 2003, la réalisation d'une évaluation simplifiée des risques, qui a été remise le 22 juillet 2003.		
+1934				1934				l__objet	Ce site a été l'objet, depuis au moins 1934, d'un dépôt de 30 m3 environ de liquides inflammables.	'liquides inflammables'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				arrêtée	Dans les années 1960, GAZ DE FRANCE disposait de ces parcelles situées dans une ancienne carrière pour y déposer des résidus d’épuration de gaz de l’ancienne station de MONTOY LA MONTAGNE, exploitation arrêtée en 1972.		'GAZ DE FRANCE', 'LA MONTAGNE'
+								disposait_de	Dans les années 1960, GAZ DE FRANCE disposait de ces parcelles situées dans une ancienne carrière pour y déposer des résidus d’épuration de gaz de l’ancienne station de MONTOY LA MONTAGNE, exploitation arrêtée en 1972.		'GAZ DE FRANCE', 'LA MONTAGNE'
+1995	11			1995	11			a_transmis	La société GDF a transmis, en novembre 1995, le dossier des ouvrages exécutés.		'La société GDF'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1933				1933				ont_exploité_successivement	Les entreprises BROSSETTE ont exploité successivement des activités de forge et de fonderie, de démantèlement d’épaves / casse automobile puis de stockage d’acéthylène depuis 1933.	'acéthylène'	'Les entreprises BROSSETTE'
+2012	04			2012	04			cède	En avril 2012, la société WOLSELEY cède la totalité du site au groupe Saint-Gobain afin de pérenniser les activités de commerce de gros de fourniture pour les sanitaires, la plomberie et le chauffage, non classées au titre des ICPE et existantes depuis les années 1980.		'la société WOLSELEY', 'groupe Saint-Gobain'
+2015	11			2015	11			Des_investigations_ont_été_réalisées	Des investigations ont été réalisées en novembre 2015 par le biais de 15 sondages carottés des sols.		
+2016	01			2016	01			La_cessation_d__activité	La cessation d’activité a été notifiée en janvier 2016.		

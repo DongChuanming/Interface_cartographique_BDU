@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	11	03		1999	11	03		a_été_notifié	Un arrêté préfectoral de remise en état a été notifié le 3/11/1999.		
+1999				1999				a_été_atteinte	La limite de la technique de dépollution de la nappe a été atteinte fin 1999 ; le site a ensuite été placé sous surveillance piézométrique.		
+				2000	03			Les_travaux_d__écrémage	Les travaux d'écrémage des hydrocarbures dans la nappe entre juillet 1999 et mars 2000 ont permis d'extraire 225 litres.	'hydrocarbures'	
+1999				1999				postérieur_au_chantier	-Un reliquat hydrocarburé "huileux" de 0.6 à 1 m dans la nappe (profondeur:10m) décrit comme étant un ressuyage postérieur au chantier de 1998-1999.		
+1996	12	31		1996	12	31		a_exercé_sur	La Société GRISET a exercé sur ce site, implanté en centre ville, une activité de travail mécanique des métaux soumise à la législation relative aux installations classées (laminage lubrifié) jusqu'à sa cessation le 31/12/1996.		'La Société GRISET'
+2011				2011				Des_études_des_sols	Des études des sols et de nappe ont été faites en 2011.		
+1996	12	31		1996	12	31		à_sa_cessation	La Société GRISET a exercé sur ce site, implanté en centre ville, une activité de travail mécanique des métaux soumise à la législation relative aux installations classées (laminage lubrifié) jusqu'à sa cessation le 31/12/1996.		'La Société GRISET'
+1996	12	31		1996	12	31		une_activité_de_travail_mécanique_des_métaux	La Société GRISET a exercé sur ce site, implanté en centre ville, une activité de travail mécanique des métaux soumise à la législation relative aux installations classées (laminage lubrifié) jusqu'à sa cessation le 31/12/1996.		'La Société GRISET'
+1997	06	19		1997	06	19		radiée_du_registre_du_commerce	La société GRISET basée à Aubervilliers a été radiée du registre du commerce le 19/06/1997 et la société mère a été radiée le 10 avril 2012.		'La société GRISET'
+1998	04			1998	04			a_entrepris_la_dépollution	La société GRISET a entrepris la dépollution de la nappe par pompage (puits de pompage installés en avril 1998).		'La société GRISET'
+2012	04	10		2012	04	10		radiée_du_registre_du_commerce	La société GRISET basée à Aubervilliers a été radiée du registre du commerce le 19/06/1997 et la société mère a été radiée le 10 avril 2012.		'La société GRISET'
+1998				1998				postérieur_au_chantier	-Un reliquat hydrocarburé "huileux" de 0.6 à 1 m dans la nappe (profondeur:10m) décrit comme étant un ressuyage postérieur au chantier de 1998-1999.		

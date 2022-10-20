@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05	20		2009	05	20		a_été_acté	Le changement d’exploitant a été acté par arrêté préfectoral du 20 mai 2009, au profit de la société RMSN.		'la société RMSN'
+2009	04	30		2009	04	30		a_cessé_son_activité	La société RMSN a cessé son activité à compter du 30 avril 2009, date à laquelle la société a été radiée.		'La société RMSN'
+2016	12	30		2016	12	30		a_été_dressé	Un procès-verbal de récolement actant de la cessation d'activité a été dressé le 30 décembre 2016.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_cessé	L'activité a cessé en 2001 suite à la mise en liquidation judiciaire de la société SOTRAITAL, exploitant du site depuis 1994.		'la société SOTRAITAL'
+								Ces_travaux_ont_eu_lieu	Ces travaux ont eu lieu en septembre et octobre 2006 et ont été réalisées par l'entreprise SERPOL (69).		'SERPOL'
+2005	04	07		2005	04	07		a_alors_saisi	Monsieur le Préfet a alors saisi le MEDD par courrier du 17 décembre 2004 qui a donné son accord, par courrier du 7 avril 2005, pour charger l'ADEME de la réalisation des travaux de mise en sécurité du site.		'le Préfet', 'le MEDD'
+2004	09	22		2004	09	22		un_état_des_lieux_réalisé	Suite à un état des lieux réalisé le 22 septembre 2004, l'inspection des installations classées a demandé au préfet d'engager la procédure prévue par la circulaire du 7 juin 1996 applicable aux sites pollués dont les responsables sont défaillants.		
+2006	10			2006	10			Ces_travaux_ont_eu_lieu	Ces travaux ont eu lieu en septembre et octobre 2006 et ont été réalisées par l'entreprise SERPOL (69).		'SERPOL'
+1970				1970				a_accueilli	Ce site a accueilli une activité de traitement de surface des métaux depuis 1970.		
+2004	09	22		2004	09	22		a_demandé	Suite à un état des lieux réalisé le 22 septembre 2004, l'inspection des installations classées a demandé au préfet d'engager la procédure prévue par la circulaire du 7 juin 1996 applicable aux sites pollués dont les responsables sont défaillants.		

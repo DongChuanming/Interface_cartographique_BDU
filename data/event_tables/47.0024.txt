@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03	01		2013	03	01		la_mise_en	Suite à la mise en demeure du 01 mars 2013 relative à la cessation d'activité et à l'élimination des déchets, la SA Brangé doit transmettre au préfet un dossier de notification de cessation complet après travaux.		'la SA Brangé'
+2012	04			2012	04			La_campagne_d_	La campagne d'avril 2012 donne les résultats suivants:		
+2001	11	10		2001	11	10		L__étude_remise	L'étude remise le 10 novembre 2001 et ses compléments de mars 2002 montrent que le site BRANGE ne présenterait pas, à priori, de risque majeur de pollution malgré la présence de sources sols en métaux.	'métaux'	
+2002	12	03		2002	12	03		a_été_modifiée	Par l'arrêté du 03 décembre 2002, cette surveillance a été modifiée pour prendre en compte le puits privé situé à l'aval et ajouter les polluants identifiés.		
+2010	10			2010	10			est_vérifiée	Globalement, en octobre 2010, l'absence d'impact significatif est vérifiée pour le piézomètre amont Pz1.		
+2011	09	22		2011	09	22		est_mise_en_demeure	SA BRANGE est mise en demeure le 22 septembre 2011 d'enlever et évacuer les véhicules hors d'usage, les déchets d'équipements électriques et électroniques et les déchets dangereux.	"les déchets d'", 'les déchets dangereux'	'SA BRANGE'
+2013	09			2013	09			de_déchets_et_métaux_stockés	Le 1er/10/2014 l'inspection constate que la quasi totalité 46 000 m3 estimés de déchets et métaux stockés en septembre 2013 a été évacuée.		
+2013	11	08		2013	11	08		notifie_la_cessation_définitive_d__activité	Le 08/11/2013, la Société Brangé notifie la cessation définitive d'activité du site de Souliès.		'la Société Brangé'
+2014	10	1		2014	10	1		ont_été_évacués	Au 1er octobre 2014, tous les déchets ont été évacués.		
+2011	10			2011	10			La_campagne_d_	La campagne d'octobre 2011 donne les résultats suivants:		
+2002	12	03		2002	12	03		des_travaux_d__imperméabilisation	Par arrêté du 03 décembre 2002, des travaux d'imperméabilisation des aires de stockages des déchets ont été prescrits à l'échéance de fin 2003 afin de pouvoir récolter les eaux de ruissellement.		
+2005	09	06		2005	09	06		met_en_demeure	L'arrêté du 06/09/2005 met en demeure la SA Brangé de déposer une nouvelle étude d'impact du site.		'la SA Brangé'
+2013	03	01		2013	03	01		est_mise_en_demeure	SA BRANGE est mise en demeure le 01 mars 2013 de respecter les dispositions du protocole du 17 novembre 2008 relatives à son engagement de cesser toute activité sur le site de "Souliès" à Bias et doit donc éliminer dans un délai maximal de 4 mois tous les déchets encore présents.	'les déchets'	'SA BRANGE'
+2013	02	28		2013	02	28		La_campagne	La campagne du 28 février 2013 montre une situation satisfaisante en amélioration.		
+								éliminer_dans	SA BRANGE est mise en demeure le 01 mars 2013 de respecter les dispositions du protocole du 17 novembre 2008 relatives à son engagement de cesser toute activité sur le site de "Souliès" à Bias et doit donc éliminer dans un délai maximal de 4 mois tous les déchets encore présents.	'les déchets'	'SA BRANGE'
+2009	03			2009	03			est_déposé	Le dossier de cessation d'activité du site de Souilles est déposé en mars 2009.		
+2010	10			2010	10			se_sont_stabilisées	Mêmes résultats pour la concentration en Nickel, elles sont en dessous de la limite de qualité (5 mg/L) puisqu'elles se sont stabilisées à 0.075 mg/L en octobre 2010.	'Nickel'	
+2003				2003				échéance_de	Par arrêté du 03 décembre 2002, des travaux d'imperméabilisation des aires de stockages des déchets ont été prescrits à l'échéance de fin 2003 afin de pouvoir récolter les eaux de ruissellement.		
+2007	10	09		2007	10	09		est_délivrée_par_arrêté	L'autorisation est délivrée par arrêté du 09 octobre 2007.		
+2013	11			2013	11			a_été_fourni	Un dossier de notification de cessation d'activité a été fourni novembre 2013.		
+2014	02			2014	02			La_campagne	La campagne de février 2014 confirme les résultats de la campagne précédente c'est-à-dire l'absence d'impact significatif avec des concentrations en polluant inférieures à leur limite respective de qualité pour l'ensemble des paramètres et pour les trois ouvrages de contrôle (Pz1 en amont, Pz2 en aval et puits de zimmer éloignéde la zone).		
+2010	10			2010	10			se_sont_stabilisées	Les teneurs en Nickel se sont stabilisées en octobre 2010 à 0.005 mg/L ce qui est très satisfaisant (la limite de qualité étant 0.05 mg/L).	'Nickel'	
+2007	06	28		2007	06	28		est_levée_partiellement	La suspension est levée partiellement par arrêté préfectoral le 28 juin 2007 puis totalement le 09 janvier 2009 pendant une période transitoire en vue du transfert d'activité sur le site de Brocas à Bias.		
+								Cette_étude_doit_être_remise	Cette étude doit être remise dans le délai de 3 mois à l'issue de l'évacuation des déchets du site.		

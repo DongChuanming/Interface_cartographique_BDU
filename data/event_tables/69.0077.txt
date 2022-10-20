@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_transmise	L’étape A de l’étude de sol a été transmise fin 98 et a montré la nécessité de mises de structures complémentaires par forages au droit des stockages et unités de traitement des gaz.		
+2012	01	30		2012	01	30		Par_transmission	Par transmission en date du 30 janvier 2012, l'exploitant a remis à l'inspection un plan de gestion accompagné de l'ensemble des analyses de sol.		
+								la_transmission	Le site s’est vu imposer par Arrêté Préfectoral du 12/08/98 la transmission d’une étude de sol conformément à la circulaire du 03/04/96.		
+2012	01	30		2012	01	30		a_remis	Par transmission en date du 30 janvier 2012, l'exploitant a remis à l'inspection un plan de gestion accompagné de l'ensemble des analyses de sol.		
+2011				2011				70_sondages_ont_été_réalisés	Au total, 70 sondages ont été réalisés par l'exploitant au cours de l'année 2011 :		

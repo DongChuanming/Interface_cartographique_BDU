@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				ont_démarré	Les essais ont démarré au cours de l’été 2012 et se sont poursuivis  jusqu’au printemps 2013.		
+2008	10	09		2008	10	09		a_été_réalisé	Un plan de gestion révisé a été réalisé par TOTAL le 09/10/2008.		'TOTAL'
+2013				2013				la_disparition	A noter, pour le 1er trimestre 2013, la disparition de la phase flottante sur les PZ1, PZ4 et PZ9 ainsi que la diminution des teneurs en xylènes et éthylbenzène.	'flottante', 'xylènes', 'éthylbenzène'	
+2016	05			2016	05			a_été_transmis	Un plan de gestion a été transmis en décembre 2015, complété en février et mai 2016.		
+								la_disparition	A noter, pour le 1er trimestre 2013, la disparition de la phase flottante sur les PZ1, PZ4 et PZ9 ainsi que la diminution des teneurs en xylènes et éthylbenzène.	'flottante', 'xylènes', 'éthylbenzène'	
+2005				2005				ont_été_identifiés	Les rapports de suivi de la qualité de la nappe d’eau souterraine du 3e trimestre 2011 au 1er trimestre 2013, montrent que depuis 2005, plusieurs sens d’écoulement de la nappe ont été identifiés.		
+2008				2008				cela_a_retardé_la_mise_en_œuvre	Mais le site devant être inclus dans un vaste projet de réaménagement de la ville d'Ivry, dont le détail n'était pas arrêté en 2008, cela a retardé la mise en œuvre du plan de gestion par rapport à la définition précise des objectifs de réhabilitation.		
+2017	04			2017	04			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en avril 2017.		
+2015	11			2015	11			Des_investigations_complémentaires_ont_été_réalisés	Des investigations complémentaires ont été réalisés en novembre 2015 dans les eaux souterraines et les gaz du sol, en limite du site.		
+2005	05			2005	05			a_cessé_ses_activités	Le site a cessé ses activités en septembre 2004 et un mémoire de cessation d'activité a été déposé en mai 2005.		
+2007				2007				Une_diagnostic_approfondi_déposé	Une diagnostic approfondi déposé par TOTAL en 2007 a mis en évidence une pollution des sols et de la nappe par des hydrocarbures et des BTEX.	'hydrocarbures', 'des BTEX'	'TOTAL'
+2011				2013				Les_rapports_de_suivi	Les rapports de suivi de la qualité de la nappe d’eau souterraine du 3e trimestre 2011 au 1er trimestre 2013, montrent que depuis 2005, plusieurs sens d’écoulement de la nappe ont été identifiés.		
+				2013				ont_démarré	Les essais ont démarré au cours de l’été 2012 et se sont poursuivis  jusqu’au printemps 2013.		
+2016	06	22		2016	06	22		a_été_pris	Un arrêté préfectoral a été pris le 22/06/2016 afin d'encadrer la réalisation des travaux de dépollution.		
+2019	03	13		2019	03	13		a_été_réalisée	Une nouvelle visite d’inspection a été réalisée le 13/03/2019, il a été constaté que la partie Ouest du site, constituée du futur Cours Sud, était soit réhabilitée, soit en cours de remblaiement.		
+2013	09	12		2013	09	12		a_été_transmise	Elle a été transmise le 12/09/2013.		
+2005	05			2005	05			a_été_déposé	Le site a cessé ses activités en septembre 2004 et un mémoire de cessation d'activité a été déposé en mai 2005.		
+1985	08	07		1985	08	07		Une_expertise_judiciaire	Une expertise judiciaire a été réalisée par ordonnance de référé du 7 août 1985.		
+				2018	06	26		Des_inspections	Des inspections ont été réalisées le 14/06/2017 et le 26/06/2018 afin de faire le point sur les travaux en cours.		
+								Les_rapports_de_suivi	Les rapports de suivi de la qualité de la nappe d’eau souterraine du 3e trimestre 2011 au 1er trimestre 2013, montrent que depuis 2005, plusieurs sens d’écoulement de la nappe ont été identifiés.		
+2015	12			2015	12			a_été_transmis	Un plan de gestion a été transmis en décembre 2015, complété en février et mai 2016.		
+								a_été_transmis	Un plan de gestion a été transmis en décembre 2015, complété en février et mai 2016.		
+2017	06	14		2017	06	14		Des_inspections	Des inspections ont été réalisées le 14/06/2017 et le 26/06/2018 afin de faire le point sur les travaux en cours.		
+2004	09			2004	09			a_cessé_ses_activités	Le site a cessé ses activités en septembre 2004 et un mémoire de cessation d'activité a été déposé en mai 2005.		
+1985	07	23		1985	07	23		des_analyses	Le 23/07/1985, des analyses d'eau sur un captage d'AEP en Seine proche ont montré une pollution importante par des hydrocarbures.	'hydrocarbures'	
+2006				2006				ont_été_démantelés	Tous les bâtiments et réservoirs de stockage ont été démantelés en 2006.		

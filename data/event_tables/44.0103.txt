@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_démarré_ses_activités	L'entreprise BRIAND INDUSTRIES a démarré ses activités sur le site en avril 1983 et les a cessées en 2009.		'BRIAND INDUSTRIES'
+2011				2011				d__ores_et_déjà_vendue	Concernant la partie est (d’ores et déjà vendue en 2011 pour un usage d’habitations), il a été constaté la présence d’un impact en métaux lourds avec notamment des fortes teneurs en plomb, cadmium et arsenic.	'métaux lourds', 'plomb', 'cadmium', 'arsenic'	
+1983	04			1983	04			a_démarré_ses_activités	L'entreprise BRIAND INDUSTRIES a démarré ses activités sur le site en avril 1983 et les a cessées en 2009.		'BRIAND INDUSTRIES'
+2009				2009				les_a_cessées	L'entreprise BRIAND INDUSTRIES a démarré ses activités sur le site en avril 1983 et les a cessées en 2009.		'BRIAND INDUSTRIES'
+								L__implantation	L’implantation en partie ouest d’une partie de l’atelier de tôlerie, de chaudronnerie et de mécano-soudure remonte aux années 1970.		
+2008				2008				Plusieurs_diagnostics	Plusieurs diagnostics de pollution des sols ont été réalisés en 2008 et en 2012.		
+2012				2012				Plusieurs_diagnostics	Plusieurs diagnostics de pollution des sols ont été réalisés en 2008 et en 2012.		
+2011				2011				a_été_vendu	Concernant la partie est, composée uniquement d'un bâtiment, ce dernier a été vendu en 2011 pour un usage d'habitation.		

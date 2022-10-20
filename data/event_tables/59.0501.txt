@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1996				ont_exploité	Sur ce site les établissements Claude Desfontaine ont exploité jusqu'en 1996 des installations de traitement chimique des métaux avec mise en oeuvre de cadmium		'les établissements Claude Desfontaine', 'cadmium'
+1996	12	31		1996	12	31		mettant_en_demeure	31/12/1996 AP mettant en demeure les établissements Claude Desfontaine de déclarer la cessation d'activité et d'effectuer la remise en état du site conformément aux dispositions réglementaires		'les établissements Claude Desfontaine'
+1998	06	11		1998	06	11		mettant_en	11/06/1998 AP mettant en demeure les établissements Claude Desfontaine de respecter l'AP complémentaire précité		'les établissements Claude Desfontaine'

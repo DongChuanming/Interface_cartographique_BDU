@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	31		2009	10	31		de_la_cessation_d__activité	27 juillet 2009: La société EXIDE informe de la cessation d'activité de son usine d'Auxerre à compter de la date du 31 octobre 2009.		'La société EXIDE'
+2011				2011				est_poursuivie	En 2011, la surveillance est poursuivie pendant une période de 4 ans pour analyser la concentration en plomb dans l'eau, les sédiments et les organismes vivants.	'plomb'	
+								est_poursuivie	En 2011, la surveillance est poursuivie pendant une période de 4 ans pour analyser la concentration en plomb dans l'eau, les sédiments et les organismes vivants.	'plomb'	
+2009	07	27		2009	07	27		informe	27 juillet 2009: La société EXIDE informe de la cessation d'activité de son usine d'Auxerre à compter de la date du 31 octobre 2009.		'La société EXIDE'
+2000	03	04		2000	03	04		Incendie	1) Incendie le 4 mars 2000		
+2000	05	15		2000	05	15		réaliser_l__étape_A_du_diagnostic_initial	10 février 1999 : Arrêté préfectoral demandant de réaliser l'étape A du diagnostic initial avant le 15 mai 2000 puis après définition du contenu de l'étape B et accord de l'inspecteur des installations classées pour la protection de l'environ(ESR)nement, de réaliser l'étape B et l'Etude Simplifiée des Risques  avant le 15 novembre 2000.		
+2000				2000				les_investigations	Sur la base des résultats d'analyses, les investigations de 2000 ont mis en évidence trois zones sources de pollution des sols en plomb.	'plomb'	
+2000				2000				cessation_d__activité	Depuis 2000 et jusqu'à la cessation d'activité, aucune anomalie notable n'a été mise en évidence.		

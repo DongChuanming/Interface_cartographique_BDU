@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08	17		2011	08	17		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 17 août 2011.		
+2007	09	26		2007	09	26		a_déposé	La société SARL MARTIN BOIS a déposé ce dossier le 26 septembre 2007 en vue de poursuivre l'exploitation d'installations de travail et de traitement du bois sur le territoire de la commune du Pian-Médoc.		'La société SARL MARTIN BOIS'
+1980	11	27		1980	11	27		étaient_autorisées	Les installations étaient autorisées par l'arrêté préfectoral du 27 novembre 1980.		
+2004	11	15		2004	11	15		est_remise	L'ESR est remise le 15 novembre 2004.		

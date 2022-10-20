@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09	13		2007	09	13		garantissant	La servitude conventionnelle au profit de l'état a été signée en date du 13/09/2007 garantissant les restrictions d'usage sur le site.		
+								Les_résultats_des_prélèvements	Les résultats des prélèvements de mai et août 2010 n'ont montré aucune anomalie sur la concentration en cyanure des eaux.	'cyanure'	
+2010	08			2010	08			Les_résultats_des_prélèvements	Les résultats des prélèvements de mai et août 2010 n'ont montré aucune anomalie sur la concentration en cyanure des eaux.	'cyanure'	
+2004	10	22		2004	10	22		a_transmis	Dans le cadre de la cessation d'activité, la Société Boisson a transmis le 22 octobre 2004 à l'inspection, un diagnostic initial et une évaluation simplifiée des risques (ESR).		'la Société Boisson'
+2005	05	17		2005	05	17		a_été_pris	L’arrêté préfectoral correspondant a été pris le 17/05/2005.		
+2010	08	09		2010	08	09		les_prélèvements	Les résultats des analyses des teneurs en cyanure, pour les prélèvements du 17/05/2010 et du 09/08/2010, ont montré des teneurs en cyanure inférieures à la valeur seuil de qualité des eaux brutes destinées à la consommation humaine (arrêté du 11/01/2007).	'cyanure', 'cyanure'	
+2010	05	17		2010	05	17		les_prélèvements	Les résultats des analyses des teneurs en cyanure, pour les prélèvements du 17/05/2010 et du 09/08/2010, ont montré des teneurs en cyanure inférieures à la valeur seuil de qualité des eaux brutes destinées à la consommation humaine (arrêté du 11/01/2007).	'cyanure', 'cyanure'	
+2006	12			2006	12			Une_évaluation	Une évaluation des risques sanitaires résiduels a été établie en décembre 2006.		
+2005	07	20		2005	07	20		a_débuté	La surveillance des eaux souterraines a débuté le 20/07/2005 pour les métaux, les HCT, l'indice phénol et le cyanure.	'les métaux', 'les HCT', 'phénol', 'cyanure'	
+2006	06			2006	06			Des_travaux_de_traitements	Des travaux de traitements on été effectués en juin 2006.		
+2010	05	07		2010	05	07		a_été_dressé	Un procès verbal de constatation des travaux de réhabilitation a été dressé par le CODERST, le 07/05/2010.		'le CODERST'
+2007	09	13		2007	09	13		a_été_signée	La servitude conventionnelle au profit de l'état a été signée en date du 13/09/2007 garantissant les restrictions d'usage sur le site.		

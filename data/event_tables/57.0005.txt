@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1981				exploitée	Dépôt de déchets industriels et urbains liquides et solides (boues d'origines carbochimiques et pétrochimiques, gravats, polymères et acides) dans une ancienne lagune de décantation exploitée jusqu'en 1981,la quantité de déchets ainsi déversés est estimée entre 120 000 et 160 000 m3 sur 2.5 hectares.	'Dépôt de déchets industriels', 'urbains liquides', 'boues', 'carbochimiques'	
+1956				2003				Zone_exploitée	Zone exploitée entre 1956 et 2003.		
+1985				1985				forage_de_dépollution_fonctionne	Le dépôt est confiné et un forage de dépollution fonctionne depuis 1985.		
+1905				1905				a_démarré	L'industrie chimique a démarré en 1905 sur le site de Carling/St-Avold avec la création de l'industrie de la houille.		
+2007	07	27		2007	07	27		la_mise_en_oeuvre_de	Suite à la réalisation de ces investigations, la mise en oeuvre de mesures de gestion a été imposée par arrêté préfectoral du 27 juillet 2007, modifié par arrêté préfectoral du 23 novembre 2009.		
+2009	11	23		2009	11	23		la_mise_en_oeuvre_de	Suite à la réalisation de ces investigations, la mise en oeuvre de mesures de gestion a été imposée par arrêté préfectoral du 27 juillet 2007, modifié par arrêté préfectoral du 23 novembre 2009.		
+1970				1970				a_été_abandonnée	Vers 1970, la carbochimie a été abandonnée pour la pétrochimie.		
+1907				1907				a_été_utilisé	Le dépôt du triangle a été utilisé depuis 1907 pour y déposer des déchets divers.		

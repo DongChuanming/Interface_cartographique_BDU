@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10			1999	10			a_été_déposé	En octobre 1999 un dossier de demande d'autorisation a été déposé concernant la révision de la nature des produits acceptés sur le site et des conditions d'acceptation ainsi que la prise en compte des modifications apportées à la ligne de traitement des effluents gazeux.	'effluents'	
+1993	05	07		1993	05	07		un_arrêté	Le 7 mai 1993, un arrêté d'exploiter la ligne briquetage et la ligne waelz a été signé par le Préfet.		'le Préfet'
+1992	10	19		1992	10	19		a_été_délivré	Le 19 octobre 1992, un récépissé de succession a été délivré à RECYTECH S.		'RECYTECH S.'
+2000				2000				Une_étude_sol	Une étude sol a été réalisée en 2000 dans le cadre de la circulaire du 18 avril 1996 et imposée par arrêté préfectoral		
+1993	05	07		1993	05	07		abroge_l__arrêté	Un arrêté d'autorisation d'exploiter a été signé le 31 janvier 2001 et abroge l'arrêté du 07 mai 1993.		
+2012	08			2012	08			a_été_déplacé	Lors de cette opération un piézomètre a été déplacé en août 2012.		
+1983				1992				a_été_reprise	De 1983 à 1992, SUREX a été reprise par PENARROYA et devient SUREX-PENARROYA, spécialisée dans le traitement des matières industrielles résiduelles.		'SUREX', 'PENARROYA', 'SUREX - PENARROYA'
+1993	05	07		1993	05	07		a_été_signé	Un arrêté d'autorisation d'exploiter a été signé le 31 janvier 2001 et abroge l'arrêté du 07 mai 1993.		
+1978				1978				exploitait	Jusqu'en 1978 : Surex filiale du groupe des Houillères du Bassin du Nord-Pas-de-Calais exploitait les schistes miniers sur le site.		'Surex', 'groupe des Houillères'
+2001	01	31		2001	01	31		a_été_signé	Un arrêté d'autorisation d'exploiter a été signé le 31 janvier 2001 et abroge l'arrêté du 07 mai 1993.		

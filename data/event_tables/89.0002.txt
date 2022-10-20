@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				une_pollution_liée	Ce sont des cendres et mâchefers non complètement refroidis en provenance des fours de pyrolyse de l'usine qui sont à l'origine d'un incendie et d'une pollution liée du ru de CERCE en 1988, puis de reprises de foyers de combustion notamment en 1990 .	'cendres'	
+2010				2010				Une_étude_préliminaire	Une étude préliminaire des sols et sous-sols a été réalisée en 2010 sur l'ensemble du site.		
+1988				1988				est_arrivée_à_saturation	La décharge est arrivée à saturation en 1988.		
+1977	03	11		1977	03	11		a_reçu	La décharge qui couvre 1,5 ha a reçu entre le 11/03/1977 (date de l'autorisation d'exploiter) et 1998 environ 10 000 tonnes de matières usagées à base de caoutchouc en provenance de l'usine de fabrication de pneumatiques rechappés d'AVALLON.	'matières usagées', 'caoutchouc'	
+1989				1989				est_fermée	Elle est fermée depuis 1989; une couverture végétale du site ayant été réalisée.		
+2000	02	03		2000	02	03		ont_été_imposées	Afin de suivre l'évolution du site, des mesures ont été imposées à l'exploitant par arrêté préfectoral complémentaire en date du 3 février 2000.		

@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1943				1943				ne_s__est_implanté	La fonderie DURANTON ne s'est implanté sur le site qu'en 1943 et travaillait alors exclusivement le bronze.		'La fonderie DURANTON'
+2006	07	31		2006	07	31		a_cessé_ses_activités_de_manière_définitive	La société RENCAST a cessé ses activités de manière définitive le 31/07/2006.		'La société RENCAST'
+2008				2008				le_nettoyage_complet_du_site	3 - En 2008, l'Inspection a imposé au liquidateur de la société RENCAST le nettoyage complet du site et la réalisation de sondages complémentaires (arrêté préfectoral du 02/07/2008).		'la société RENCAST'
+1940				1940				a_été_acheté	Le site a été acheté par la société DURANTON en 1940.		'la société DURANTON'
+2006	05	02		2006	05	02		notifications_de_changement	- partie nord du site (37 000m²) : SAINT JEAN INDUSTRIE (puis sa filiale VMT) pour ce qui est de l'activité de moulage par gravité (notifications de changement d'exploitant daté du 02/05/2006 et régularisation le 06/08/2007) ;		'SAINT JEAN INDUSTRIE', 'sa filiale VMT'
+2016	03	03		2016	03	03		les_contrôles_réalisés_sur_site	Les rapports envoyés à l’Inspection ainsi que les contrôles réalisés sur site les 23 février 2011 et 3 mars 2016 ont montré qu’une grande partie de la mise en sécurité des installations avait été réalisée :		
+2008	07	23		2008	07	23		a_été_placée_en_liquidation_judiciaire	Elle a été placée en liquidation judiciaire le 23/07/2008 (Maitre DUBOIS) et a été radiée le 1er février 2012.		
+2016	01	14		2016	01	14		est_également_placée_en_liquidation_judiciaire	VMT est également placée en liquidation judiciaire le 12/02/2009 (Maitre NOIRAIX-PEY) et a été radiée le 14 janvier 2016.		'VMT', 'NOIRAIX - PEY'
+2011	02	23		2011	02	23		les_contrôles_réalisés_sur_site	Les rapports envoyés à l’Inspection ainsi que les contrôles réalisés sur site les 23 février 2011 et 3 mars 2016 ont montré qu’une grande partie de la mise en sécurité des installations avait été réalisée :		
+2005	07			2005	07			déclare	En juillet 2005, FDS déclare son dépôt de bilan.		'FDS'
+2000	09	26		2000	09	26		un_marquage	Ainsi qu'un marquage en fer dans les eaux souterraines (maximum à 630 µg/l le 26/09/2000).	'fer'	
+2008				2008				un_diagnostic	4 – Le bureau d’étude CSD AZUR a réalisé en 2008 un diagnostic sur la partie nord du site (VMT) qui a conclu à une pollution de sols en métaux et à l’absence d’impact significatif sur les eaux souterraines :	'métaux'	'CSD AZUR'
+2009	02	12		2009	02	12		est_également_placée_en_liquidation_judiciaire	VMT est également placée en liquidation judiciaire le 12/02/2009 (Maitre NOIRAIX-PEY) et a été radiée le 14 janvier 2016.		'VMT', 'NOIRAIX - PEY'
+1998	08	12		1998	08	12		la_réalisation_d__une_étude_de_sol	1 - Le 12 août 1998, une arrêté préfectoral a imposé à l'exploitant la réalisation d'une étude de sol, lors que l'installation était toujours en fonctionnement.		
+2006				2006				__une_étude_environnementale	2 - En 2006 à la suite de la cessation d'activité de la société RENCAST, le bureau d'étude TAUW ENVIRONNEMENT a réalisé pour le compte de FDS SA (propriétaire du site) une étude environnementale des sols et des eaux souterraines.		'la société RENCAST', 'TAUW ENVIRONNEMENT', 'FDS SA'
+2012				2012				Une_campagne_de_mesure	6 – Une campagne de mesure de la qualité des gaz du sol a été réalisée en 2012 sur deux piezairs implantés au droit du magasin de réception/zone à déchet (VMT).		
+1940				1943				a_été_réquisitionné_par_l_	Entre 1940 et 1943, le site a été réquisitionné par l'armée.		
+2009	04	22		2009	04	22		Un_diagnostic_complémentaire_de_l__état_des_sols_a	En réponse, Un diagnostic complémentaire de l'état des sols a été réalisé par la société NORISKO le 22/04/2009.		'la société NORISKO'
+				1970				s__est_ensuite_progressivement_étendue	Le site s'est ensuite progressivement étendue jusqu'en 1970, date de fusion avec la société SICFOND.		'la société SICFOND'

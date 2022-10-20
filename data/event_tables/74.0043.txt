@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_reprise	La fabrication des moteurs sur le site a été reprise à la fin de l’année 1996 par la société ECOMAG.		'la société ECOMAG'
+2008	11	20		2008	11	20		Un_autre_diagnostic	Un autre diagnostic a été réalisé le 20 novembre 2008 par BURGEAP pour le compte de la société AKERYS PROMOTION (11 sondages de sols ; implantation de 2 nouveaux piézomètres).		'BURGEAP', 'la société AKERYS PROMOTION'
+1999				1999				a_mis_fin_à_ses_activités	La société ECOMAG a été placée en liquidation judiciaire et a mis fin à ses activités en 1999 (informations communiquées en 2002/2003 par le mandataire, Maître Chatel Louroz).		'La société ECOMAG'
+2008				2008				avait_été_recommandé	Le rapport INGEOS ne correspond pas véritablement à un "plan de gestion" conforme à la méthodologie définie par le ministère de l’environnement et tel qu’il avait été recommandé par BURGEAP en 2008.		'INGEOS', 'BURGEAP'
+								Une_visite	Une visite du site a été effectuée le 14/02/14.		
+								a_été_adressé	Un rapport a été adressé par la DREAL au préfet le 9/01/15 pour faire le point sur la situation et notamment synthétiser l'ensemble des connaissances disponibles sur l'état du site.		'la DREAL', 'préfet'
+2011				2011				est_aujourd_hui_réalisé	L'ensemble immobilier "Orre 1" est aujourd'hui réalisé au 23 rue des Tournelles à Ville-la-Grand : les 116 appartements ont été livrés en 2011.		
+2012	09			2012	09			a_été_communiqué	Ce rapport a été communiqué en septembre 2012 à l'inspection des installations classées, sur sa demande, directement par le bureau d'études.		

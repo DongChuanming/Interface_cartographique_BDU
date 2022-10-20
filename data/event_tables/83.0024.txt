@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	17		2010	03	17		La_dernière_campagne_de_mesure	La dernière campagne de mesure s'est effectué le 17/03/2010 montre une amélioration des teneurs en MTBE sur trois piézomètres et la dégradation des eaux au droit de PZD avec apparition de Benzène à des teneurs significatives, une hausse des MTBE et des hydrocarbures.	'MTBE', 'Benzène', 'MTBE', 'hydrocarbures'	'PZD'
+2005	05			2005	05			Un_diagnostic_du_site_a_été_réalisé	Un diagnostic du site a été réalisé en Mai 2005.		

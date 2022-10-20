@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02	25		2009	02	25		a_été_délivré	Un récépissé a été délivré le 25 février 2009.		
+2012	07	27		2012	07	27		a_été_fait	Un mémoire de réhabilitation a été fait le 27 juillet 2012 et complété le 21 décembre 2012.		
+2008	09			2008	09			a_fait_l__objet	Cette société a fait l'objet d'une liquidation judiciaire en septembre 2008 et maître FROELICH est alors désigné liquidateur judiciaire.		'maître FROELICH'
+2009	03			2009	03			L__activité	L'activité a redémarré mi- mars 2009 pour s'arrêter définitivement au mois de mai 2010.		
+2011	06	20		2011	06	20		rédigé	Le 7 juillet 2011, Maître Koch, chargé de la liquidation des Papeteries de Turckheim, a transmis un rapport rédigé le 20 juin 2011, relatif à la mise en sécurité du site.		
+2010	05			2010	05			a_redémarré	L'activité a redémarré mi- mars 2009 pour s'arrêter définitivement au mois de mai 2010.		
+2005	12	12		2005	12	12		Une_déclaration_de_changement_d__exploitant	Une déclaration de changement d’exploitant au profit de la société MEYLAN 50, a été adressée au préfet le 12 décembre 2005 et a fait l’objet d’un récépissé le 14 décembre 2005.		'la société MEYLAN 50'
+2012	12	21		2012	12	21		complété	Un mémoire de réhabilitation a été fait le 27 juillet 2012 et complété le 21 décembre 2012.		
+2004	10	12		2004	10	12		a_été_autorisée	Cette société a été autorisée par l’arrêté préfectoral du 30 octobre 1987, du 18 avril 1995 et du 12 octobre 2004.		
+2015	03			2015	03			a_été_délivré	Le procès-verbal de fin de travaux a été délivré en mars 2015 pour un usage industriel.		
+2004	10	12		2004	10	12		du	Cette société a été autorisée par l’arrêté préfectoral du 30 octobre 1987, du 18 avril 1995 et du 12 octobre 2004.		
+2005	12	14		2005	12	14		Une_déclaration_de_changement_d__exploitant	Une déclaration de changement d’exploitant au profit de la société MEYLAN 50, a été adressée au préfet le 12 décembre 2005 et a fait l’objet d’un récépissé le 14 décembre 2005.		'la société MEYLAN 50'
+1862				1862				exploitait	La société André SCHERB exploitait sur une partie de ce site une papeterie depuis 1862.		'La société André SCHERB'
+2012	12	21		2012	12	21		a_été_fait	Un mémoire de réhabilitation a été fait le 27 juillet 2012 et complété le 21 décembre 2012.		
+2011	07	07		2011	07	07		a_transmis	Le 7 juillet 2011, Maître Koch, chargé de la liquidation des Papeteries de Turckheim, a transmis un rapport rédigé le 20 juin 2011, relatif à la mise en sécurité du site.		
+1845				1845				exploitait	La papeterie SCHWINDENHAMMER puis AUSSEDAT- REY exploitait l’autre partie du site depuis 1845.		'SCHWINDENHAMMER', 'AUSSEDAT- REY'
+2009	01	26		2009	01	26		a_déclaré_reprendre	Par lettre en date du 26 janvier 2009, la société Papeteries de Turckheim a déclaré reprendre les activités de MEYLAN 50.		'la société Papeteries de Turckheim'
+2005	12	14		2005	12	14		a_fait_l__objet_d_	Une déclaration de changement d’exploitant au profit de la société MEYLAN 50, a été adressée au préfet le 12 décembre 2005 et a fait l’objet d’un récépissé le 14 décembre 2005.		'la société MEYLAN 50'
+2010	05			2010	05			L__activité	L'activité a redémarré mi- mars 2009 pour s'arrêter définitivement au mois de mai 2010.		
+2012				2012				Les_opérations_d__enlèvement	Les opérations d'enlèvement ont eu lieu en 2012.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04	20		2014	04	20		Un_diagnostic_environnemental	Un diagnostic environnemental a également été réalisé, le 20 avril 2014.		
+2006	07	18		2006	07	18		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 18 juillet 2006.		
+1957				2006				soumises_à_autorisation	La société POLYTITAN a exploité sur le territoire de la commune de Vineuil Saint Firmin, des installations classées soumises à autorisation entre 1957 et 2006.		'La société POLYTITAN'
+2016	05	24		2016	05	24		un_arrêté_de_SUP_a_été_pris	Afin de garder en mémoire l’existence de pollution et de conserver l’usage non sensible du site, un arrêté de SUP a été pris en date du 24 mai 2016.		
+2008	11			2008	11			a_été_établi	Concernant l’état du site, un premier rapport a été établi en novembre 2008.		
+2006				2006				La_cessation_d__activité	La cessation d’activité du site date de 2006.		

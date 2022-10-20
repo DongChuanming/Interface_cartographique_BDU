@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Des_travaux_d__évacuation	Des travaux d'évacuation des terres polluées ont été réalisés les 1 et 2 mars 1997.		
+1997	03	02		1997	03	02		Des_travaux_d__évacuation	Des travaux d'évacuation des terres polluées ont été réalisés les 1 et 2 mars 1997.		
+1956				1992				effectuait_des_travaux_de	L'exploitant du site "Ancien Etablissement PELLET" effectuait des travaux de traitements de surface (ICPE soumise à autorisation) de 1956 à 1992 date à laquelle il a cessé son activité.		'Ancien Etablissement PELLET'

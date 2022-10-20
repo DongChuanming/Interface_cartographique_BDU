@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				est_implanté	Le site SCORI EST (ex Watco Ecoservice - WEA) est implanté à l'intérieur du complexe sidérurgique UNIMETAL Gandrange depuis 1988, sur une emprise d'environ 2 hectares.		'Le site SCORI EST', 'Watco Ecoservice - WEA', 'sidérurgique UNIMETAL Gandrange'
+2000	10	12		2000	10	12		a_été_prescrit	Par arrêté préfectoral du 12 octobre 2000, il a été prescrit  la réalisation d'une évaluation simplifiée des risques (ESR) compte tenu de l'activité exercée.		
+2006				2006				a_mis_en_service	L'entreprise a mis en service en 2006 une unité de fluidification des déchets pâteux, en partie automatisé en 2012.		
+2003	09	02		2003	09	02		a_été_réalisée	Le 02 septembre 2003 une ESR spécifique au site et aux activités de Watco Ecoservices a été réalisée.		'Watco Ecoservices'
+2001	08	30		2001	08	30		a_été_remise	Le 30 août 2001, l'étape A de cette étude, l'étude historique, a été remise à l'inspection.		

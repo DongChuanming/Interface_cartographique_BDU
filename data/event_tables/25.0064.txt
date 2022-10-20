@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	07		2010	12	07		La_liquidation_judiciaire_de	La liquidation judiciaire de la société a été prononcée le 7 décembre 2010, avec cessation définitive d'activité au 24 décembre 2010.		
+2013	07	29		2013	07	29		complétée	Une notification de cessation d'activité a été reçue en préfecture le 19 septembre 2011, puis complétée le 29 juillet 2013.		
+2014	04	30		2014	04	30		a_été_délivré	Récépissé de cessation d'activité a été délivré le 30 avril 2014.		
+2014	01	27		2014	01	27		ont_été_remis	Un plan de gestion et un mémoire de réhabilitation ont été remis le 27 janvier 2014.		
+2011	09	19		2011	09	19		Une_notification_de_cessation_d__activité	Une notification de cessation d'activité a été reçue en préfecture le 19 septembre 2011, puis complétée le 29 juillet 2013.		
+2013	08	20		2013	08	20		a_été_transmis	Le mémoire de cessation d'activité a été transmis le 20 août 2013.		
+2010	12	24		2010	12	24		avec_cessation_définitive_d__activité	La liquidation judiciaire de la société a été prononcée le 7 décembre 2010, avec cessation définitive d'activité au 24 décembre 2010.		
+2011	09	1		2011	09	1		Une_inspection_réalisée	Une inspection réalisée par l'inspection des ICPE le 1er septembre 2011, dans le prolongement de la cessation définitive d'activité, a révélé la présence de produits et déchets dangereux au sein de l'installation, dont certains liquides stockés en l'absence de dispositifs de rétention et présentant de fait un risque de pollution.	'déchets dangereux'	
+2013	12	04		2013	12	04		a_été_reçu	Le bilan de l'enlèvement des déchets a été reçu le 4 décembre 2013.		

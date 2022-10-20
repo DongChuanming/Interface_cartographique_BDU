@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09	13		1999	09	13		L__étude_rendue	L'étude rendue le 13 septembre 1999 a mis en évidence une pollution par super 95 très localisée et a permis de déterminer l'origine du sinistre, à savoir une fuite sur un volucompteur.	'super 95'	
+1999	07	06		1999	07	06		décidait	Après avis de la MISE le 6 juillet 1999, le préfet décidait de demander à STOC l'engagement d'une étude hydrogéologique sous son site.		'le préfet', 'STOC'
+1999	04	14		1999	04	14		transmettait	Le 14 avril 1999, la mairie de Montélimar transmettait à la DRIRE la plainte d'un habitant demeurant rue du 11 novembre 1918.		'DRIRE'
+				2000	07			s__est_déroulée	Celle-ci s'est déroulée jusqu'à fin juillet 2000.		

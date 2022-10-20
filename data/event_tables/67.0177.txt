@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07	08		2004	07	08		le_stockage_et_la_manipulation	Les activités, réglementées par AP du 2 juillet 1991 complété par arrêté du 8 juillet 2004, nécessitent le stockage et la manipulation de produits toxiques ou polluants pouvant éventuellement nuire à la qualité de l'eau de la nappe phréatique en cas de contamination.	'produits toxiques', 'polluants'	
+1989				1989				est_implantée	La société EKS INTERNATIONAL SAS, anciennement EK FRANCE est implantée depuis 1989 sur le site de l'ancienne usine BAUMLIN.		'La société EKS INTERNATIONAL SAS', 'EK FRANCE', 'BAUMLIN'
+2011	04	11		2011	04	11		analyse_hydrogéologique	Les résultats de l'analyse hydrogéologique du 11/04/2011 montrent :		
+2004	07	08		2004	07	08		nécessitent	Les activités, réglementées par AP du 2 juillet 1991 complété par arrêté du 8 juillet 2004, nécessitent le stockage et la manipulation de produits toxiques ou polluants pouvant éventuellement nuire à la qualité de l'eau de la nappe phréatique en cas de contamination.	'produits toxiques', 'polluants'	

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	08			2002	08			a_été_fermé	En août 2002, l'incinérateur a été fermé suite à la non mise en conformité demandée.		
+2002	08			2002	08			a_été_mis_à_l__arrêt	L'incinérateur a été mis à l'arrêt en août 2002, après apposition de scellés sur les fours.		
+2002	11			2002	11			rapport	Une étude intitulée "Etude du principe de réaménagement du dépôt de mâchefers" a cependant été réalisée avec l'appui du bureau d'étude ANTEA (rapport novembre 2002).		'ANTEA'
+2004	10			2004	10			délivrance_d_	Depuis, le site accueille une station de transit pour ordures ménagères exploitée par le SIEEOM suite à la délivrance d'un arrêté préfectoral d'autorisation en octobre 2004.		'le SIEEOM'
+2004	10			2004	10			accueille	Depuis, le site accueille une station de transit pour ordures ménagères exploitée par le SIEEOM suite à la délivrance d'un arrêté préfectoral d'autorisation en octobre 2004.		'le SIEEOM'
+2000	07			2000	07			a_été_dressé	Suite au non respect de l'échéance, un procès-verbal a été dressé à l'encontre de l'exploitant en juillet 2000.		

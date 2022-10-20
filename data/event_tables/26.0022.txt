@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	04		2008	03	04		déclare	Par courrier du 4 mars 2008, Mr Jean-Bernard VESCOVI déclare à la préfecture :		'Mr Jean-Bernard VESCOVI'
+1999	09	07		1999	09	07		il_est_demandé	Toutes les procédures à l'encontre du propriétaire s'étant avérées infructueuses, le 7 septembre 1999, il est demandé au Ministère de l'Environnement l'autorisation de la mise en œuvre de la procédure de travaux d'office.		
+1998	11	23		1998	11	23		arrêté_de	- arrêté de consignation du 23 novembre 1998.		
+1999	09	07		1999	09	07		Toutes_les_procédures	Toutes les procédures à l'encontre du propriétaire s'étant avérées infructueuses, le 7 septembre 1999, il est demandé au Ministère de l'Environnement l'autorisation de la mise en œuvre de la procédure de travaux d'office.		
+1994				1994				sont_restés_sur_le_terrain	En 1994, après la liquidation de l'entreprise, les pneus, environ 2 500 m3, sont restés sur le terrain et la végétation a peu à peu envahi les stocks.	'les pneus'	
+1999	09	07		1999	09	07		autorisation	Toutes les procédures à l'encontre du propriétaire s'étant avérées infructueuses, le 7 septembre 1999, il est demandé au Ministère de l'Environnement l'autorisation de la mise en œuvre de la procédure de travaux d'office.		

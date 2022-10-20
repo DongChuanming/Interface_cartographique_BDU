@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_été_remise	* l'ESR prescrite par l'AP DU 16/06/1999 a été remise en mars  2002 avec retard et suite à un AP de mise en demeure ( 05/12/2001- document initial perdu ).		"l' ESR"
+2001	12	05		2001	12	05		a_été_remise	* l'ESR prescrite par l'AP DU 16/06/1999 a été remise en mars  2002 avec retard et suite à un AP de mise en demeure ( 05/12/2001- document initial perdu ).		"l' ESR"
+1997				1997				rachetée	Il s'agissait d'une entreprise familiale rachetée en 1997 par le groupe CALDER (germano-anglais).		'le groupe CALDER'
+								a_été_remise	* l'ESR prescrite par l'AP DU 16/06/1999 a été remise en mars  2002 avec retard et suite à un AP de mise en demeure ( 05/12/2001- document initial perdu ).		"l' ESR"

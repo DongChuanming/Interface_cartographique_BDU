@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				est_assurée	La surveillance semestrielle des eaux souterraines est assurée depuis 2001 dans 3 piézomètres pour les paramètres.......		
+2012	12	20		2012	12	20		La_cessation_d__activité	La cessation d'activité le 28 novembre 2012 (récépissé de cessation du 20 décembre 2012).		
+2012	11	28		2012	11	28		La_cessation_d__activité	La cessation d'activité le 28 novembre 2012 (récépissé de cessation du 20 décembre 2012).		
+2011	04	15		2011	04	15		a_été_lancée	En vue de la cessation d'activité, la procédure de définition de l'usage a été lancée le 15/04/2011 auprès de de la communauté de communes Nive-Adour.		'la communauté de communes Nive - Adour'
+1998	12	23		1998	12	23		l__arrêté	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, le diagnostic initial et l'évaluation simplifiée des risques (ESR) ont été prescrits par l'arrêté du 23/12/1998 avec les échéances suivantes :		
+1917				1917				a_commencé	La première a commencé en 1917 avec l'exploitation d'une soudière par la SA « LA SOUDE FRANCAISE ».		'la SA « \xa0 LA SOUDE FRANCAISE'

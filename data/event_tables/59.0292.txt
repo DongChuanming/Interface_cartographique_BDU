@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				était_utilisé_pour	En 2009, il était utilisé pour les besoins de Gaz de France (dépôt de matériel, poste de détente et bureaux).		'Gaz de France'
+2005	12			2005	12			Deux_analyses	Deux analyses des eaux souterraines ont été réalisées en janvier 2002 et décembre 2005 par trois piézomètres et ont permis de confirmer la présence de pollution dans les eaux souterraines.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2003				2003				Des_travaux_ont_eu_lieu	Des travaux ont eu lieu en 2003: vidange et comblement des cuves, élimination des eaux, goudrons et remblais souillés et cyanurés.	'goudrons', 'cyanurés'	
+2002	01			2002	01			Deux_analyses	Deux analyses des eaux souterraines ont été réalisées en janvier 2002 et décembre 2005 par trois piézomètres et ont permis de confirmer la présence de pollution dans les eaux souterraines.		
+2009				2009				construction_de_logements	En 2009, projet de construction de logements sur le site.		
+2005	01			2005	01			Réalisation_d__une_étude_hydrogéologique	Réalisation d'une étude hydrogéologique en janvier 2005.		

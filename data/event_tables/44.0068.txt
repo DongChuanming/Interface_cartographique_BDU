@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	25		2011	11	25		Par_transmission	Par transmission du 25 novembre 2011, la société PBN a fait parvenir à l'inspection des installations classées un dossier de cessation d'activités de la centrale d'enrobage  pour les activités exercées sur la commune de Petit Mars.		'la société PBN'
+2013				2013				a_été_repris	Le site a été repris en 2013 par une filiale du groupe PBN, Eiffage Travaux publics ouest d'Ancenis (le terrain a été mis en location).		'groupe PBN', 'Eiffage Travaux publics ouest'
+2012	07			2012	07			__phase	- la prolongation du traitement et la dissociation du thermopile en 10 andains (phase 3- janvier 2012 à juillet 2012) ;		
+2011	11	25		2011	11	25		a_fait_parvenir	Par transmission du 25 novembre 2011, la société PBN a fait parvenir à l'inspection des installations classées un dossier de cessation d'activités de la centrale d'enrobage  pour les activités exercées sur la commune de Petit Mars.		'la société PBN'
+1999	03	23		1999	03	23		a_fait_l__objet_d_	Cette activité a fait l'objet d'un récépissé de déclaration en date du 23 mars 1999.		
+1999				1999				était_occupé_par	Avant le démarrage de l'activité du site en 1999, le site était occupé par des parcelles agricoles.		
+1999				1999				ont_été_mis_en_place	Un atelier de fabrication d'émulsion et de bitume fluxé ont été mis en place en 1999.	'bitume'	
+2010				2010				Le_démantèlement_partiel_des_cuves	Le démantèlement partiel des cuves de l'atelier de fabrication d'émulsion a lieu en 2009 et 2010.		
+2011	12	01		2011	12	01		la_mise_en_stock_des_terres	- l'excavation des matériaux reconnus comme impactés et la mise en stock des terres en 5 andains pour la création d'une thermopile (phase 1-décembre 2011) ;		
+2005				2005				est_déplacé	Le parc à liants de la centrale d'enrobage est déplacé en 2005 et les cuves mobiles sont remplacées par des cuves aériennes fixes sur rétention.		
+2008				2008				changent_de_source_d__alimentation	En 2008,  la chaudière à huile thermique et le bruleur du tambour sécheur-enrobeur de la centrale d'enrobage changent de source d'alimentation: passage au fioul domestique (FOD) pour la chaudière à huile thermique et au fioul pour le bruleur au gaz naturel.	'au fioul domestique', '( FOD', 'au fioul'	
+2013	03	18		2013	03	18		Une_visite_de_terrain	Une visite de terrain, réalisée en date du 18 mars 2013 par l'inspection des installations classées sur le site a permis de constater que les zones identifiées par le diagnostic ont bien été traitées conformément au plan de gestion proposé.		
+2009				2009				Le_démantèlement_partiel_des_cuves	Le démantèlement partiel des cuves de l'atelier de fabrication d'émulsion a lieu en 2009 et 2010.		
+2012	09	04		2012	09	04		le_chargement_des_matériaux	- le chargement des matériaux et l'évacuation et leur prise en charge en ISDND (phase 4-septembre 2012).		
+2007				2007				__arrête_son_activité	En 2007, l'atelier de fabrication d'émulsion arrête son activité.		
+2006				2006				les_constructions	En 2006, les constructions de la lagune et du séparateur hydrocarbures ont lieu.		
+2000				2000				a_été_mise_en_service	En 2000, une centrale d’enrobés à chaud et à froid a été mise en service.		
+1999	03	23		1999	03	23		déclaration	Cette activité a fait l'objet d'un récépissé de déclaration en date du 23 mars 1999.		
+2000	02	28		2000	02	28		est_émis	Un arrêté préfectoral d'autorisation d'exploiter est émis le 28 février 2000 au nom de la S.		'la S.'
+2012	01			2012	01			__phase	- la prolongation du traitement et la dissociation du thermopile en 10 andains (phase 3- janvier 2012 à juillet 2012) ;		
+								__phase	- la prolongation du traitement et la dissociation du thermopile en 10 andains (phase 3- janvier 2012 à juillet 2012) ;		

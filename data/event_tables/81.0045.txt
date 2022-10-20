@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				Les_travaux_ont_finalement_été_réalisés	Les travaux ont finalement été réalisés en 2015 et 2016.		
+2009	01	27		2009	01	27		a_été_signé	Suite à la visite d'inspection du 15 décembre 2008, un arrêté préfectoral de mise en demeure a été signé le 27 janvier 2009 afin d'imposer la mise en sécurité du site (évacuation et élimination des produits dangereux et des déchets présents).	'des produits dangereux'	
+2008	12	15		2008	12	15		a_été_signé	Suite à la visite d'inspection du 15 décembre 2008, un arrêté préfectoral de mise en demeure a été signé le 27 janvier 2009 afin d'imposer la mise en sécurité du site (évacuation et élimination des produits dangereux et des déchets présents).	'des produits dangereux'	
+2008	10	24		2008	10	24		a_été_mise_en_liquidation	La société SOGECUIR SARL a été mise en liquidation le 24 octobre 2008.		'La société SOGECUIR SARL'
+2010	02	10		2010	02	10		un_arrêté_de_consignation	S'en est suivi un arrêté de consignation de sommes du 10 février 2010 pour un montant total de 45 000 € TTC.		
+1965	06	05		1965	06	05		a_été_autorisée_à_exploiter	La société ARMENGAUD Frères et Compagnie SA a été autorisée à exploiter une mégisserie par un premier arrêté préfectoral en date du 5 juin 1965.		'La société ARMENGAUD Frères'
+2010	10	04		2010	10	04		__réalisée	 du 4 octobre 2010, réalisée conjointement avec l'ADEME et le mandataire de justice, l'estimation de la mise en sécurité du site est estimée à 480 000 € TTC (comprend l'élimination des déchets, les analyses de sols, les opérations de nettoyage de sols, la mesure en arsenic des eaux du puits de la propriété voisine...).	'en arsenic'	
+2008	10	24		2008	10	24		a_été_mise_en_liquidation	La société a été mise en liquidation le 24 octobre 2008.		
+1906				1906				aurait_démarré	L'activité de tannage des cuirs aurait démarré sur ce site dès 1906.		
+2011	05	17		2011	05	17		a_sollicité_une_intervention	Par courrier du 17 mai 2011, Madame la Préfète du Tarn a sollicité une intervention de l'ADEME au vue de la situation environnementale du site.		'Madame la Préfète du Tarn'
+2011	07	20		2011	07	20		ont_été_signés	Un arrêté de travaux d'office ADEME et d'occupation temporaire des sols ont été signés le 20 juillet 2011.		
+1995	12			1995	12			a_eu_un_changement	En décembre 1995, il y a eu un changement d'exploitant au bénéfice de la société SOGECUIR SARL.		'la société SOGECUIR SARL'
+2009	10			2009	10			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en octobre 2009 (avec pose de 2 piézomètres).		
+2016				2016				Les_travaux_ont_finalement_été_réalisés	Les travaux ont finalement été réalisés en 2015 et 2016.		
+2008	12	15		2008	12	15		la_visite_d__inspection	Suite à la visite d'inspection du 15 décembre 2008, un arrêté préfectoral de mise en demeure a été signé le 27 janvier 2009 afin d'imposer la mise en sécurité du site (évacuation et élimination des produits dangereux et des déchets présents).	'des produits dangereux'	

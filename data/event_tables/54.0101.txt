@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				le	Maître XXX a transmis des résultats de surveillance pour le 1er semestre 2013.		
+								le	Maître XXX a transmis des résultats de surveillance pour le 1er semestre 2013.		
+2004	11			2004	11			ont_été_nettoyés	Les réservoirs ont été nettoyés, les bidons et les fûts ont été évacués par une entreprise spécialisée en novembre 2004.		
+2004	02	24		2004	02	24		a_prononcé_la_liquidation_judiciaire	Par jugement du 24 février 2004, le Tribunal de Commerce de Nancy a prononcé la liquidation judiciaire de l'entreprise.		'le Tribunal de Commerce de Nancy'
+2012	04			2012	04			la_visite	Suite à la visite d'avril 2012, l'inspection des installations classées a demandé à Me XXX, ès-qualité mandataire liquidateur de la société PASEK France, de transmettre tout élément justifiant la bonne élimination des produits et déchets présents sur le site au moment de la cessation d'activité et de transmettre les résultats de la surveillance prescrite par arrêté préfectoral n° 2004/271 du 22/02/2006.		'la société PASEK France'
+2013				2013				a_transmis	Maître XXX a transmis des résultats de surveillance pour le 1er semestre 2013.		
+2004	03			2004	03			Le_diagnostic_environnemental	Le diagnostic environnemental a été effectué en mars 2004, celui-ci a révélé l’existence de 4 réservoirs à hydrocarbures enterrés, la présence de fûts et bidons contenant divers produits.	'hydrocarbures'	
+								a_transmis	Maître XXX a transmis des résultats de surveillance pour le 1er semestre 2013.		

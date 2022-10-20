@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04	24		2007	04	24		un_nouveau_rapport	Le 24 avril 2007, un nouveau rapport "Diagnostic approfondi : étude historique et étude de vulnérabilité", nommé également E.		
+1996	02	12		1996	02	12		sont_autorisées	Ces installations sont autorisées par l'arrêté préfectoral du 12 février 1996.		
+2006	09	19		2006	09	19		__le	 le 19 septembre 2006 a confirmé la présence d'une nappe d’accompagnement de l'Agout sur le site.		
+2006	03			2006	03			a_été_mis_en_liquidation_judiciaire	Le site a été mis en liquidation judiciaire courant mars 2006 avec reprise partielle du site par une nouvelle société dénommée Sté Nouvelle de Pelleterie Française.		'une nouvelle société dénommée Sté Nouvelle de Pelleterie Française'
+2010	02	09		2010	02	09		Ces_travaux_de_dépollution	Ces travaux de dépollution étaient en cours le 9 février 2010.		

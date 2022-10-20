@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	10			2014	10			a_demandé	Face à l’évolution de la méthodologie nationale relative aux sites et sols pollués (circulaires de février 2007), l’inspection a demandé en octobre 2014 à la société SADAC de fournir une nouvelle étude intégrant la réalisation d’un plan de gestion et d’une étude quantitative des risques sanitaires pour un usage futur du terrain de type industriel.		'la société SADAC'
+2014	10			2014	10			a_demandé	l’inspection a demandé en octobre 2014 à la société SADAC de fournir une étude intégrant la réalisation d’un plan de gestion et d’une étude quantitative des risques sanitaires pour un usage futur du terrain de type industriel.		'la société SADAC'
+2015	07			2015	07			cette_étude	La société SADAC a fourni cette étude en juillet 2015 (rapport Socotec Ref.		'SADAC', 'Socotec'
+2015	07			2015	07			a_fourni	La société SADAC a fourni cette étude en juillet 2015.		'La société SADAC'
+2017	06	02		2017	06	02		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 2 juin 2017.		
+1892				1955				a_accueilli	Il dispose d’un historique industriel substantiel puisque préalablement à la fabrication de pièces composites par la société SADAC, il a accueilli une manufacture de velours et de peluches entre 1892 et 1955.		'la société SADAC'

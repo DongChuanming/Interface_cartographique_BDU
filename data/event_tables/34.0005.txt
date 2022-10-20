@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01			2000	01			remis	Cette évaluation a été complétée par un projet de réhabilitation remis en janvier 2000.		
+2018	04	23		2018	04	23		ont_été_prescrites	Ces restrictions ont été prescrites par arrêté préfectoral du 18 avril 2018 puis enregistrées et publiées au Service Public Foncier le 23/04/2018.		
+								a_été_transmise	L'EDR a été transmise le 24/05/05.		
+2008				2008				ont_été_enlevées	Ces dalles de béton ont été enlevées durant le premier semestre 2008.		
+2010	06			2010	06			avancement_du_chantier_a_été_établi	Un rapport d'avancement du chantier a été établi en juin 2010.		
+2010	09			2010	09			du_chantier_a_été_établi	Un nouveau rapport d'avancement du chantier a été établi en septembre 2010.		
+2016	06	22		2016	06	22		Une_visite_de	Une visite de ce chantier a été réalisée le 22 juin 2016 par l'inspection des installations classées de la DREAL.		'la DREAL'
+1998				1998				ont_été_démantelées	Les installations ont été démantelées en 1998 laissant en place les assises en béton des réservoirs et certains enrobés des voiries.		
+2011	10			2011	10			des_investigations_de_terrains	En octobre 2011, des investigations de terrains ont été réalisées pour caractériser l'état du site à l'issue des phases de chantier de dépollution menées jusqu'à présent.		
+2012	11			2012	11			Des_travaux_de_réaménagement	Des travaux de réaménagement (régalage des bétons concassés des anciennes assises) ont été réalisés en novembre 2012.		
+2017	01	26		2017	01	26		une_visite_d__inspection	Puis, une visite d'inspection en date du 26 janvier 2017 a permis de constater que l'exploitant avait satisfait à ses obligations.		
+								d__une_réunion_de_présentation	A la suite d'une réunion de présentation du 20/10/05, des solutions technico-économiques de réhabilitation du site ont été proposées.		
+2012	07	19		2012	07	19		Une_visite_de	Une visite de ce nouveau chantier a été réalisée le 19 juillet 2012 par l'inspection des installations classées de la DREAL.		'la DREAL'
+2017	06	30		2017	06	30		Un_PV_de_récolement	Un PV de récolement au sens de l'article R.512-39-3 a été établi le 30 juin 2017.		
+								se_sont_déroulés	Ces actions se sont déroulés aux 2ème et 3ème trimestres 2012.		
+2010	01	27		2010	01	27		Une_première_visite	Une première visite du chantier a été effectuée le 27 janvier 2010 par l'inspection des installations classées de la DREAL.		'DREAL'
+2000	01			2000	01			Cette_évaluation_a_été_complétée	Cette évaluation a été complétée par un projet de réhabilitation remis en janvier 2000.		
+2014	04	22		2014	04	22		ont_fait_l__objet	Ces travaux ont fait l'objet le 22 avril 2014, d'un PV de récolement au sens de l'article R.512-39-3.		
+2012				2012				se_sont_déroulés	Ces actions se sont déroulés aux 2ème et 3ème trimestres 2012.		
+2008	10			2008	10			Le_chantier_de_dépollution	Le chantier de dépollution a débuté en octobre 2008.		
+2012				2012				ont_été_engagées	Des actions complémentaires ont été engagées en 2012 par TOTAL pour traiter  ces mailles récalcitrantes.		
+				2010	09			a_été_mises_en_oeuvre	De juin à septembre 2010, une nouvelle phase de travaux de dépollution a été mises en oeuvre, consistant en un traitement biologique et physique des sables coquillés impactés, par malaxage et ensemencement des terrains en place ou décaissement des horizons les plus impactés et constitution d'andains avec retournement et ensemencement régulier.		
+2010	10			2010	10			les_travaux	En octobre 2010, les travaux se sont focalisés à pomper et à traiter les eaux des fouilles les plus chargées.		
+2016	06			2016	06			Des_travaux_complémentaires_de_réhabilitation	Des travaux complémentaires de réhabilitation ont été réalisés en juin 2016 en périphérie extérieure du site, sur une petite bande de terres de 75 m2 située sur le chemin de halage.		
+2011	06	15		2011	06	15		une_nouvelle_visite	Dans ce cadre, une nouvelle visite du chantier a été effectuée le 15 juin 2011 par l'inspection des installations classées de la DREAL.		'la DREAL'
+2010	12			2011	08			a_été_mise_en_œuvre	De mi-décembre 2010 à août 2011, une nouvelle phase de traitement in-situ a été mise en œuvre, consistant en une biostimulation et à insuffler de l'air, via les drains du site.		
+1930				1935				construit	Le site construit entre 1930 et 1935 a été exploité pour des activités de stockage et de distribution d'alcools (jusqu'en 1960) puis de produits pétroliers de type essence avec ou sans plomb et gazoles.	'plomb', 'gazoles'	
+1999	06			1999	06			évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été demandée par la DRIRE et remise en juin 1999.		'la DRIRE'
+2003	04			2003	04			Le_diagnostic_approfondi	Le diagnostic approfondi réalisé en avril 2003 confirme la pollution et la présence de flottants au centre du site.		
+2007				2007				ont_ensuite_été_transmis	Différents rapports (diagnostic complémentaire des sols, mise à jour de l'évaluation détaillée des risques) ont ensuite été transmis fin 2007.		
+2001	05	30		2001	05	30		Un_diagnostic_approfondi_des_sols	Un diagnostic approfondi des sols et une étude détaillée des risques (EDR)ont été demandés par la DRIRE en date du 30 mai 2001.		'la DRIRE'

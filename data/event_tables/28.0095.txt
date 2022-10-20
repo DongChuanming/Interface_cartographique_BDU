@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Ces_travaux	Ces travaux ont eu lieu les 08 et 09 décembre 2015.		
+2016	02	03		2016	02	03		a_déclaré_la_cessation_d__activité	Suite au transfert de ces activités, l'exploitant a déclaré la cessation d'activité de ce site le 3 février 2016.		
+2015	12	09		2015	12	09		Ces_travaux	Ces travaux ont eu lieu les 08 et 09 décembre 2015.		
+1989	07	20		1989	07	20		de_déclaration	La société BENEFAN, exploitée sous l'enseigne " INTERMARCHE", sise avenue de la Beauce, a bénéficié d'un récépissé de déclaration du 20 juillet 1989 pour les activités de station de service.		'La société BENEFAN', 'INTERMARCHE'
+2010	10	04		2010	10	04		indique	Par courrier du 4 octobre 2010, l'exploitant indique avoir transféré ces activités situées avenue de la Beauce à La Loupe sur un nouveau site avenue de la Beauce - impasse de la cerisaie à La Loupe.		
+2008	11	17		2008	11	17		a_dressé	Le 17 novembre 2008, la gendarmerie de la Loupe a dressé un procès verbal à la société BENEFAN pour une pollution du réseau d'eaux pluviales par des hydrocarbures en provenance de la station de service.	'hydrocarbures'	'la société BENEFAN'
+2009				2009				a_été_identifiée	Une fuite au niveau de la pompe de gasoil a été identifiée en 2009 par l'exploitant suite au procès verbal dressé par la gendarmerie de La Loupe.	'gasoil'	
+2008				2008				l__investigation_des_sols	Le diagnostic environnemental et l’investigation des sols effectués en 2008 révèle :		
+2011	06			2011	06			un_démantèlement	Après l’arrêt de l’exploitation, la station service a fait l’objet d’un démantèlement par la société MADIC en juin 2011.		'la société MADIC'

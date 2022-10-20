@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	12	31		1991	12	31		la_cessation_d__activité_intervenue	A la suite de la cessation d'activité intervenue le 31 décembre 1991 (placement de la société en liquidation judiciaire, maître GUERIN est nommé liquidateur), un arrêté préfectoral est pris le 8 mars 1993 afin d'encadrer la remise en état du site.		'maître GUERIN'
+1998	06			1998	06			acquisition_finalement_intervenue	Dans le cadre du rachat du terrain par l'Établissement Public de Basse-Seine (devenu EPFN en 2004) pour le compte de la commune de Pont-Audemer (acquisition finalement intervenue en juin 1998), un diagnostic initial du sol est réalisé fin 1996 par l'APAVE.		"l' Établissement Public"
+1996				1996				un_diagnostic_initial_du_sol	Dans le cadre du rachat du terrain par l'Établissement Public de Basse-Seine (devenu EPFN en 2004) pour le compte de la commune de Pont-Audemer (acquisition finalement intervenue en juin 1998), un diagnostic initial du sol est réalisé fin 1996 par l'APAVE.		"l' Établissement Public"
+1995				1995				Les_travaux_visant_à_évacuer	Les travaux visant à évacuer les déchets sont finalisés en 1995.		
+1957	11	18		1957	11	18		est_régi	Le site de la Fonderie des Ardennes est régi par l'arrêté préfectoral du 18 novembre 1957.		'la Fonderie des Ardennes'
+2010	09			2010	09			émet_en_conséquence_un_avis_défavorable	Consulté sur ce projet dans le cadre d'un dossier loi sur l'eau, l'inspection des installations classées émet en conséquence un avis défavorable en septembre 2010.		
+2009				2009				Des_travaux_de_dépollution	Des travaux de dépollution sont engagés en 2009 par l'EPFN avec un financement partiel de l'ADEME dans le cadre du plan de relance.		
+1993	03	08		1993	03	08		est_pris	A la suite de la cessation d'activité intervenue le 31 décembre 1991 (placement de la société en liquidation judiciaire, maître GUERIN est nommé liquidateur), un arrêté préfectoral est pris le 8 mars 1993 afin d'encadrer la remise en état du site.		'maître GUERIN'
+2010	05			2010	05			Les_travaux_de_dépollution	Les travaux de dépollution sont achevés en mai 2010 sous la conduite de l'EPFN.		"l' EPFN"
+2010	04	21		2010	04	21		Une_visite_d__inspection	Une visite d'inspection réalisée le 21 avril 2010 atteste du traitement de l'ensemble des déchets.		

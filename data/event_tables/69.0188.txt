@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				les_études_de	Les principales substances et concentrations mesurées par les études de 2013 et 2014 reprises dans le rapport d’ARTELIA « Diagnostic de sol de la zone 65 », sont :		'd’ ARTELIA'
+2003	01			2003	01			a_été_mise_en_place	La surveillance des eaux souterraines a été mise en place en janvier 2003:		
+2009	10	12		2009	10	12		La_campagne_du	La campagne du 12/10/2009 réalisée par BURGEAP montre des teneurs au dessus des valeurs seuils de l'arrêté ministériel du 11/01/2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine:		'BURGEAP'
+2013				2013				les_études_de	Les principales substances et concentrations mesurées par les études de 2013 et 2014 reprises dans le rapport d’ARTELIA « Diagnostic de sol de la zone 65 », sont :		'd’ ARTELIA'
+2005	11	14		2005	11	14		ont_été_réalisés	PZ12, PZ13, PZ14, PZ15 et PZ16 ont été réalisés le 14/11/2005 et intégrés au suivi de la qualité des eaux souterraines.		
+2012				2012				__démantelées	Suite à l’arrêt des activités sur la zone « Aire de mélange » et Préparation de carburants spéciaux, démantelées en 2012, des investigations "sols" ont été menées.	'de carburants spéciaux'	
+1969	01	23		1969	01	23		a_été_autorisé	Il a été autorisé par arrêté préfectoral du 23/01/1969.		
+2015	10	06		2015	10	06		s__est_rendue	L'inspection s'est rendue sur le site le 6 octobre 2015 pour faire le point sur les dispositions sites et sols pollués.		
+2003	04	18		2003	04	18		a_informé	Le 18 avril 2003, le CReS a informé l'inspection des installations classées de la présence d'hydrocarbures libres à la surface de son puits de pompage d'eau industrielle.	'hydrocarbures'	'le CReS'
+2003	09			2004	11			bimestrielle	bimestrielle de septembre 2003 à novembre 2004 au droit de PZ1, PZ2, PZ3 et du puits du CRES ;		'CRES'
+2008				2008				est_passé_à	A partir de 2008, le suivi est passé à une fréquence semestrielle.		
+2011				2011				a_été_placé	Un écrémeur d'hydrocarbures a été placé sur le puits de pompage d'eau industrielle au cours de l'été 2011.	'hydrocarbures'	
+2008	02			2008	02			__Synthèse_hydrogéologique	Les conclusions de l’étude intitulée « Synthèse hydrogéologique du site », février 2008, A 49458/B ANTEA, indiquent que la présence du pompage du puits CReS (débit moyen de 80 m3/h) peut jouer le rôle de barrière hydraulique et empêcher une dispersion hors site des concentrations présentes dans l’eau souterraine.		'/ B ANTEA', 'puits CReS'
+2005	05	12		2005	05	12		a_été_établi	Le rapport du diagnostic initial et de l'ESR a été établi le 12/05/2005.		
+2008	02			2008	02			rapport_de_synthèse_hydrogéologique	Un rapport de synthèse hydrogéologique du site a été établi en février 2008 par ANTEA.		'ANTEA'
+2015	09	08		2015	09	08		de_l__inspection	Lors de l’inspection du 8 septembre 2015, plusieurs cartes piézométriques ont été présentées avec un débit de pompage au puits CReS de 3,5 m3/h en moyenne.		'CReS'
+2012	11			2012	11			la_campagne_de	Lors de la campagne de septembre et novembre 2012 sur PZ1, PZ2 et PZ3, le CReS indique qu'au vu des résultats, l'absence d'HCT au niveau de PZ1 (amont) et PZ3 (aval) montre toujours le confinement de la lentille dans le périmètre de CRES, que la mise en place d'un écrémeur a permis la baisse des teneurs en HCT et BTEX malgré la présence de flottant.	'HCT', 'la lentille', 'HCT', 'BTEX', 'la présence de flottant'	'le CReS', 'CRES'
+								la_campagne_de	Lors de la campagne de septembre et novembre 2012 sur PZ1, PZ2 et PZ3, le CReS indique qu'au vu des résultats, l'absence d'HCT au niveau de PZ1 (amont) et PZ3 (aval) montre toujours le confinement de la lentille dans le périmètre de CRES, que la mise en place d'un écrémeur a permis la baisse des teneurs en HCT et BTEX malgré la présence de flottant.	'HCT', 'la lentille', 'HCT', 'BTEX', 'la présence de flottant'	'le CReS', 'CRES'

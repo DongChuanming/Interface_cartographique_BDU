@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								prescrit_ce_diagnostic	L'arrêté préfectoral du 30 novembre 2005 prescrit ce diagnostic à l'échéance de 3 mois.		
+2009	04	14		2009	04	14		La_campagne_du	La campagne du premier semestre 2009 à été réalisée le 14 avril 2009...		
+2007	01	05		2007	01	05		suivi_annuel_environnemental	Le paramètre plomb a été intégré au suivi annuel environnemental de l'installation déjà réalisé pour les dioxines et furannes et prescrit par l'arrêté préfectoral du 05/01/2007.	'plomb', 'dioxines', 'furannes'	
+2006				2006				Un_suivi_effectué	Un suivi effectué en 2006 ne traduit pas la présence d'une pollution.		
+2006	03	1		2006	03	1		Le_diagnostic_plomb_a_été_fourni	Le diagnostic plomb a été fourni le 1er mars 2006.		
+2009				2009				La_campagne_du	La campagne du premier semestre 2009 à été réalisée le 14 avril 2009...		

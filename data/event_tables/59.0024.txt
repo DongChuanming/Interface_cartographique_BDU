@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12			2005	12			__campagne	Absence d'hydrocarbures sur l'ensemble des piézomètres pour la première fois depuis août 2003. (campagne de décembre 2005)	'hydrocarbures'	
+1998	05			1998	05			traitement	- traitement des 2 zones de décembre 1996 à mai 1998.		
+1994				1994				__Investigations_approfondies	- Investigations approfondies du site menées en 1994.		
+1999	04			1999	04			Etude_simplifiée_des_risques_transmise	- Etude simplifiée des risques transmise en avril 1999 classe le site en classe 2.		
+				2014	09			des_travaux_de_modernisation	La station a subi des travaux de modernisation  de Mars à Septembre 2014 : mise à jour des canalisations, mise en place de bacs de rétention des déchets, ….	'de rétention des déchets'	
+2015	01			2015	01			La_dernière_campagne	La dernière campagne de Janvier 2015 montre des teneurs en hydrocarbures et BTEX inférieures aux seuils de quantification du laboratoire à l’exception d’un piézomètre qui présente une teneur en hydrocarbures totaux de 44 µg/L.	'hydrocarbures', 'BTEX', 'hydrocarbures totaux'	
+1993				1993				déversés	- Sol et sous-sol de la station-service pollués par de l'essence sans plomb (21 m3 déversés en 1993).	'essence sans plomb'	
+2013	11			2013	11			des_travaux_d__installation_d__une_nouvelle_cuve_ont_été_menés	En Novembre 2013, des travaux d’installation d’une nouvelle cuve ont été menés.		
+2003	08			2003	08			première_fois	Absence d'hydrocarbures sur l'ensemble des piézomètres pour la première fois depuis août 2003. (campagne de décembre 2005)	'hydrocarbures'	
+2003	08			2003	08			Absence	Absence d'hydrocarbures sur l'ensemble des piézomètres pour la première fois depuis août 2003. (campagne de décembre 2005)	'hydrocarbures'	
+1996				1996				reconstruite	- station reconstruite en 1996		
+1996	12			1996	12			traitement	- traitement des 2 zones de décembre 1996 à mai 1998.		
+1993				1993				__Etude_des_sols_initiale_réalisée	- Etude des sols initiale réalisée en 1993.		

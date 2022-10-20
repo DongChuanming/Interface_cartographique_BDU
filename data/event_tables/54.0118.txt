@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			rapport_LECES_d_	Dans le cadre de la vente du site, le propriétaire a fait réaliser un diagnostic de pollution des sols (rapport LECES d'août 2013).		
+2012				2012				a_informé	En 2012, le liquidateur judiciaire a informé le Préfet que la procédure collective était impécunieuse.		'le Préfet'
+2013	08			2013	08			un_diagnostic_de_pollution_des_sols	Dans le cadre de la vente du site, le propriétaire a fait réaliser un diagnostic de pollution des sols (rapport LECES d'août 2013).		
+2010	07			2010	07			Cessation_d__activité_déclarée	Cessation d'activité déclarée au Préfet en juillet 2010 dans le cadre de la procédure collective.		

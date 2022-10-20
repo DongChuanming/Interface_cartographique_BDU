@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015				exploitait	La société SCHNEIDER ELECTRIC exploitait jusquen 2015, à SAINT CYR SUR MENTHON, un atelier de fabrication de pièces en résines époxydiques, utilisées dans la fabrication d'appareillages moyenne tension.	'résines époxydiques'	'La société SCHNEIDER ELECTRIC', 'SAINT CYR SUR MENTHON'
+2011	10			2011	10			a_transmis	En octobre 2011, l'exploitant a transmis à l'inspection un rapport d'investigations complémentaires visant à déterminer l'étendue de la zone polluée, dans le cadre d'une démarche volontaire de dépollution.		
+2012	03	02		2012	03	02		La_réalisation_des_travaux	La réalisation des travaux, ainsi que la réalisation d'investigations à l'extérieur du site (IEM), ont été encadrés par arrêté préfectoral de prescriptions spéciales du 02 mars 2012.		
+2004	12	08		2004	12	08		a_été_prescrit	Suite à l'examen de l'ESR, il a été prescrit à l'exploitant, par arrêté préfectoral du 08 décembre 2004, une surveillance trimestrielle de la qualité des eaux souterraines.		
+2003				2003				l__état_des_sol_réalisé	Un diagnostic de l'état des sol réalisé en 2003 avait mis en évidence la présence de trichloréthylène dans les eaux souteraines.	'trichloréthylène'	
+2003	11	05		2003	11	05		une_étude_de_sol	Dans ce contexte, une étude de sol, comprenant notamment une Evaluation Simplifiée des Risques (ESR) été prescrite par arrêté préfectoral du 05 novembre 2003.		

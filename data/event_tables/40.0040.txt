@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								cuve_enterrée	1. retrait de l’ancienne cuve enterrée de fioul domestique et analyse des terres aux abords (résultats : concentrations en hydrocarbures inférieures aux valeurs de définition source sol) ;		'ancienne'
+								Installation	Installation de stockage et d'incinération d'ordures ménagères exploitée par le SITCOM Côte Sud des Landes sur la commune de Messanges (40).		
+								de_fioul_domestique_et_analyse	1. retrait de l’ancienne cuve enterrée de fioul domestique et analyse des terres aux abords (résultats : concentrations en hydrocarbures inférieures aux valeurs de définition source sol) ;		'ancienne'

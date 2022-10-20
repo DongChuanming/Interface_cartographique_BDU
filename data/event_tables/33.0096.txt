@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1890				1890				a_produit	CEyye usine à gaz a produit,  de 1890 et 1960, du gaz à partir de la distillation de la houille, soit pendant 70 ans.		
+1960				1960				a_produit	CEyye usine à gaz a produit,  de 1890 et 1960, du gaz à partir de la distillation de la houille, soit pendant 70 ans.		
+1960				1960				ont_été_démolies	A partir de 1960, toutes les infrastructures ont été démolies et le site a servi de lieu de stockage d'air propané.		
+2000	05			2000	05			a_été_traité	Le site a été traité en mai 2000 conformément à l'arrêté préfectoral ci-dessus.		
+2000	05	25		2000	05	25		Les_analyses_réalisées	Les analyses réalisées le 25 mai 2000 sur l'eau de nappe montrent une amélioration.		
+1994				1994				ont_été_réalisés	Le port autonome de Bordeaux souhaitant acquérir le terrain pour la réalisation d'une plateforme de retournement des camions, un diagnostic initial suivi d'un diagnostic approfondi ont été réalisés en 1994.		'Le port autonome de Bordeaux'
+2001	06	21		2001	06	21		Le_procès_verbal_de_récolement	Le procès-verbal de récolement a été dressé par la DRIRE le 21 juin 2001.		'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maitrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le ministère de l' Environnement", 'Gaz de France'
+								a_produit	CEyye usine à gaz a produit,  de 1890 et 1960, du gaz à partir de la distillation de la houille, soit pendant 70 ans.		
+1994	09			1994	09			Ces_diagnostics	Ces diagnostics, présentés en septembre 1994 à la DRIRE, effectués par un bureau d'études, à la demande de Gaz de France ont mis en évidence la présence d'une cuve à goudrons et d'une pollution diffuse constituée d'hydrocarbures dont le niveau est compatible avec l'usage actuel et futur prévu.	'goudrons', 'hydrocarbures'	'la DRIRE', 'Gaz de France'

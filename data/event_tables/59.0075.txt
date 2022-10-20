@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1969				a_été_exploitée	L'autre parcelle a été exploitée jusqu'en 1969 par la société EXPERT BEZANCON devenue RIPOLIN et désormais dans le giron d'ATOFINA.		'la société EXPERT BEZANCON devenue RIPOLIN', "d' ATOFINA"
+2001	07			2001	07			Réalisation_d__une_étude_d__évaluation	Réalisation d'une étude d'évaluation des pollutions industrielles en juillet 2001		
+2008				2008				Dépôt	Dépôt d'un permis de construire en 2008 pour de l'habitat.		
+1985				1985				un_incendie	L'entrepôt a fait l'objet d'un incendie en 1985.		
+2003	01			2003	01			Réalisation_d__une_évaluation_simplifiée_des_risques	Réalisation d'une évaluation simplifiée des risques et d'un diagnostic approfondi en janvier 2003		
+2001	09			2001	09			Réalisation_d__un_diagnostic_initial	Réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques en septembre 2001		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	10			1997	10			révélé_une_pollution_des_sols	- Etude de sol phase A, parc à minerais en octobre 1997 qui a révélé une pollution des sols.		
+								Réalisation_d_	- Réalisation d'un diagnostic de pollution étape A et B + évaluation simplifiée des risques en février 2006, le site est en classe 2 (à surveiller).	'de pollution étape'	
+1997	10			1997	10			A___parc	- Etude de sol phase A, parc à minerais en octobre 1997 qui a révélé une pollution des sols.		
+2006	02			2006	02			Réalisation_d_	- Réalisation d'un diagnostic de pollution étape A et B + évaluation simplifiée des risques en février 2006, le site est en classe 2 (à surveiller).	'de pollution étape'	

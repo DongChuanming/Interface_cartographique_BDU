@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Les_fouilles_et_sondages	- Les fouilles et sondages réalisés en 2000 et 2006 mettent en évidence des remblais d'origine sidérurgique sur une épaisseur de 2 à plus de 3m.		
+2007	12	27		2007	12	27		de_la_visite	Lors de la visite du 27 décembre 2007, il est constaté que  les bâtiments sont pratiquement intégralement vidés.		
+2000				2000				l__installation	Lors de l'installation de la Société RECYCLAGE 2000, le terrain avait été déclaré stable, cependant l'inspection a pu constater de nombreux tassements de terrain, le gérant de la société parlant même d'avoir comblé une faille d'environ une dizaine de mètres.		'la Société RECYCLAGE 2000 ,'
+2000				2000				Les_fouilles_et_sondages	- Les fouilles et sondages réalisés en 2000 et 2006 mettent en évidence des remblais d'origine sidérurgique sur une épaisseur de 2 à plus de 3m.		
+2006				2006				L__expertise_des_sols_réalisée	L'expertise des sols réalisée en 2006 dans le cadre de la cessation d'activité apporte les éléments suivants :		
+2000				2000				avait_été_déclaré_stable	Lors de l'installation de la Société RECYCLAGE 2000, le terrain avait été déclaré stable, cependant l'inspection a pu constater de nombreux tassements de terrain, le gérant de la société parlant même d'avoir comblé une faille d'environ une dizaine de mètres.		'la Société RECYCLAGE 2000 ,'
+1998	03			1998	03			est_installé	Depuis mars 1998, la SARL RECYCLAGE 2000 est installé sur l'ancien site industriel 3 rue des forges.		'la SARL RECYCLAGE 2000'
+2007	12	31		2007	12	31		prévient	Par courrier du 26 juillet 2007, la Société RECYCLAGE 2000 prévient la Préfecture de la Moselle que l'arrêt de ses activités est prévu pour le 31 décembre 2007.		'la Société RECYCLAGE 2000', 'la Préfecture de la Moselle'
+2007	07	26		2007	07	26		prévient	Par courrier du 26 juillet 2007, la Société RECYCLAGE 2000 prévient la Préfecture de la Moselle que l'arrêt de ses activités est prévu pour le 31 décembre 2007.		'la Société RECYCLAGE 2000', 'la Préfecture de la Moselle'

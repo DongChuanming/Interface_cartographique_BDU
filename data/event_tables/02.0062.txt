@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01			2010	01			a_constaté	Lors d'une inspection en janvier 2010, l'inspection des installations classées a constaté que les prescriptions de cet arrêté n'étaient pas respectées.		
+2010	08	16		2010	08	16		a_été_signé_le	L'arrêté a été signé le 16 août 2010.		
+2010	01			2010	01			d__une_inspection	Lors d'une inspection en janvier 2010, l'inspection des installations classées a constaté que les prescriptions de cet arrêté n'étaient pas respectées.		
+2011	09			2011	09			a_été_signée	Le liquidateur de la société ayant indiqué qu'il ne disposait pas de fonds pour solder cette consignation, l’acceptation d'admission en non-valeur a été signée en septembre 2011 par la DDFIP de l'Aisne.		'la DDFIP'
+1997				1997				un_changement	L'activité a été autorisée par arrêté préfectoral de 1955 (au nom de Bigner Schmid Laurent) par la suite en 1997 un changement d'exploitant a eu lieu au profit de la société BSL Industrie .		'Bigner Schmid', 'la société BSL Industrie'
+2003				2003				Des_diagnostics	Des diagnostics et analyses de sols ont été réalisés en 2003 et 2006 ils mettent en évidence la présence de métaux lourds (essentiellement dans des remblais de type mâchefers), de solvants chlorés, d'hydrocarbures totaux et de PCB.	'métaux lourds', 'solvants chlorés', 'hydrocarbures totaux', 'PCB'	
+2010	06	30		2010	06	30		Une_visite	Une visite du site a ensuite eu lieu le 30 juin 2010.		
+2002				2002				la_cessation_d__activité	Le site a été construit en 1995 et jusqu'à la cessation d'activité en 2002, la chaudronnerie a toujours été la principale activité exercée sur le site.		
+2002	04			2002	04			la_liquidation_judiciaire	La société BSL industrie a connu des difficulté financières et la liquidation judiciaire a été prononcée en avril 2002.		'La société BSL industrie'
+2010	03	09		2010	03	09		a_été_signé	L'arrêté a été signé le 09 mars 2010.		
+1995				1995				a_été_construit	Le site a été construit en 1995 et jusqu'à la cessation d'activité en 2002, la chaudronnerie a toujours été la principale activité exercée sur le site.		
+2006				2006				Des_diagnostics	Des diagnostics et analyses de sols ont été réalisés en 2003 et 2006 ils mettent en évidence la présence de métaux lourds (essentiellement dans des remblais de type mâchefers), de solvants chlorés, d'hydrocarbures totaux et de PCB.	'métaux lourds', 'solvants chlorés', 'hydrocarbures totaux', 'PCB'	

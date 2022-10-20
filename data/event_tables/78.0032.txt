@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	09		2001	02	09		Une_nouvelle_étude_simplifiée_des_risques	Une nouvelle étude simplifiée des risques a été remise le 9 février 2001 et propose un classement du site au niveau 2, c'est-à-dire celui d'un site nécessitant la mise en place d'une surveillance des eaux souterraines.		
+2008				2008				Les_analyses	Les analyses en effectuées 2008 ont montré que les mesures étaient inférieures à la limite de détection, la concentration en hydrocarbures totaux étant inférieure à 0,04 mg/l.	'hydrocarbures totaux'	
+1998	02	25		1998	02	25		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 25 février 1998.		
+1999	01	30		1999	01	30		a_été_réalisée	Une première étude de sols a été réalisée et déposée le 30 janvier 1999.		

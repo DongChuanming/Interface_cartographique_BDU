@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05	28		2008	05	28		a_été_remise	L'étape B de l'ESR a été remise le 28 mai 2008.		"l' ESR"
+2009	04	04		2009	04	04		la_prise	Elle n'était pas complète et la prise en compte des observations a été faite le 4 avril 2009.		
+2003	02			2003	02			a_cessé	Cette activité illégale a cessé en février 2003 suite à l’action de la DRIRE.		'la DRIRE'
+				1987				a_été_exploitée	L'ancienne décharge a été exploitée jusqu’en 1987.		
+1990				1990				ont_débuté	Les dépôts de déchets sauvages ont débuté vers 1990.	'déchets sauvages'	
+2006	05	19		2006	05	19		a_été_remise	L’étape A de l'ESR a été remise le 19 mai 2006.		
+2001				2001				du_recensement_des_anciennes_décharges	L’emprise du dépôt a été estimée, par le bureau d’étude SAUNIER TECHNA lors du recensement des anciennes décharges en 2001, à une surface comprise entre 10.000 à 50.000 m², sur une profondeur de 2 à 5 mètres.		'SAUNIER TECHNA'
+2002	11			2002	11			a_été_adressée	En novembre 2002, une plainte a été adressée à la Préfecture concernant une reprise des activités d’exploitation de la gravière et d’un comblement avec des déchets (ménagers, pneumatiques, gravats...).		'la Préfecture'

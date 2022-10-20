@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				achevée	- Deuxième phase de travaux achevée fin 2004 : traitement des terres par désorption thermique.		
+2003	03			2003	03			Travaux_d__excavation	- Travaux d'excavation des terres polluées réalisés et terminés en mars 2003.		
+2004	12			2004	12			s__est_achevé	- Le traitement des terres par désorption thermique a duré une année et s'est achevé en décembre 2004 (démarrage lié à l'obtention de l'autorisation préfectorale temporaire : AP du 02/12/2003, renouvelé le 06/08/2004).		
+2005	01			2005	01			__Remise	- Remise du dossier de cessation d'activité en janvier 2005.		
+2003	03			2003	03			de_tri_des_terres_achevés	- Travaux d'excavation et de tri des terres achevés en mars 2003 ( 100 000 t).		
+1993				1993				réalisée	- Étude des sols initiale réalisée en 1993.		

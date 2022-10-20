@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				qu__un_forage	La surveillance des eaux souterraines a été réalisé sur deux piézomètres, ainsi qu'un forage en 2012.		
+1980	11	19		1980	11	19		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 19 novembre 1980.		
+2005	07			2005	07			L__étude	L'étude a été remise en juillet 2005.		
+2012				2012				a_été_réalisé	La surveillance des eaux souterraines a été réalisé sur deux piézomètres, ainsi qu'un forage en 2012.		

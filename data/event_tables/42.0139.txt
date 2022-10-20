@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10			2005	10			lors_des_travaux_de_réhabilitation	La société LISEC a conclu que cette contamination des eaux pouvait être liée aux terres polluées laissées en place lors des travaux de réhabilitation d’octobre 2005 et a préconisé la réalisation d’une EDR Santé en raison des risques sanitaires potentiels encourus par les usagers du site.		'La société LISEC'
+								Le_diagnostic_complémentaire_réalisé	Le diagnostic complémentaire réalisé en octobre et novembre 2007 par la société SERAPIS a concerné la partie ouest du site.		'la société SERAPIS'
+2006	10			2006	10			Ces_travaux_réalisés	Ces travaux réalisés en octobre 2006 font suite à une demande de la société Thévenin & Ducrot Distribution.		'la société Thévenin'
+2005	11			2005	11			Rapport_de_réhabilitation	Rapport de réhabilitation du dépôt par la société LISEC de novembre 2005 :		'la société LISEC'
+1970				2005				date_de_cessation_d__activité	La société Thévenin & Ducrot Distribution a exploité le site sous enseigne AVIA entre 1970 et 2005, date de cessation d’activité du dépôt pétrolier.		'La société Thévenin', 'Ducrot Distribution', 'AVIA'
+								la_mise_en_place	D’après les informations récoltées auprès de différents interlocuteurs sur site, la mise en place du dépôt pétrolier date des années 1950.		
+2005	09			2005	09			ont_été_démantelés	Les 2 cuves enterrées de 50 m3 et 40 m3, les volucompteurs, les pompes, le séparateur et les réseaux d’hydrocarbures enterrés ont été démantelés et évacués en septembre 2005.	'hydrocarbures'	
+2007	11			2007	11			Le_diagnostic_complémentaire_réalisé	Le diagnostic complémentaire réalisé en octobre et novembre 2007 par la société SERAPIS a concerné la partie ouest du site.		'la société SERAPIS'
+2005	10			2005	10			Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont déroulés en octobre 2005 et ont consisté en l’excavation et l’évacuation en centre de traitement de 200 tonnes environ de terres polluées.		
+2005	10			2005	10			des_travaux_d_	- Des remblais sur une épaisseur de 1 à 2 m environ, constitués par un mélange varié de limons, sables, graviers et blocs, mis en place notamment à l’issue des travaux d’octobre 2005.		
+2006	10			2006	10			d_	Rapport de mise en place de piézomètres et de prélèvements d’eaux par la société LISEC d’octobre 2006 :		'la société LISEC'
+2007	11			2007	11			s__être_déplacés	- le panache d’hydrocarbures C10-C40 et la lentille de flottant ne semblent pas s’être déplacés depuis novembre 2007,	'panache d’', 'hydrocarbures C10-C40', 'la lentille de flottant'	
+2005	10			2005	10			a_été_vendu_à	Après une phase de travaux de réhabilitation menée par la société LISEC en octobre 2005, le site où était situé le dépôt a été vendu à un particulier pour un usage sensible d’habitation et d’activités tertiaires.		'la société LISEC'
+2005	08			2005	08			rapport_de_diagnostic_de_sols	Ces travaux font suite au rapport de diagnostic de sols d’août 2005.		
+2005	09			2005	09			évacués	Les 2 cuves enterrées de 50 m3 et 40 m3, les volucompteurs, les pompes, le séparateur et les réseaux d’hydrocarbures enterrés ont été démantelés et évacués en septembre 2005.	'hydrocarbures'	
+2005	10			2005	10			les_travaux_de_réhabilitation	- l’absence d’hydrocarbures dans la zone de PZ1 et PZ2 est confirmée donc que les travaux de réhabilitation d’octobre 2005 réalisés dans cette zone ont été efficaces,	'hydrocarbures'	
+2006	10			2009	03			ont_diminué	- les concentrations en hydrocarbures C10-C40 dans les eaux au droit de PZ7 ont diminué entre octobre 2006 et mars 2009.	'hydrocarbures C10-C40'	
+				2010	05	27		Les_travaux_de_dépollution	Les travaux de dépollution ont été effectués du 27 avril au 27 mai 2010.		
+								écrémer	- Action 1 : écrémer le flottant pendant 1 mois et limiter la diffusion à l’extérieur du site par la pose de 4 puits de pompage de diamètre 400 mm équipés d’écrémeuses au droit de la zone impactée par le flottant,	'flottant'	
+2005				2005				les_travaux_de_réhabilitation	Une terrasse a été construite après les travaux de réhabilitation de 2005 en bordure de la maison d’habitation en partie nord du site.		

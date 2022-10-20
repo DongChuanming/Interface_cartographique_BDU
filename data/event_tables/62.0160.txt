@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04			2008	04			_Cessation	-Cessation d'activité hydrocarbures en avril 2008.	'-Cessation'	
+								_Évacuation_des_déchets	-Évacuation des déchets: 13 et 14/02/2008.		
+2006	09			2006	09			_Évacuation	-Évacuation,nettoyage et inertage de cuves enterrées servant au stockage d'hydrocarbures en septembre 2006 et février 2008.	'hydrocarbures'	
+2008	02			2008	02			_Évacuation	-Évacuation,nettoyage et inertage de cuves enterrées servant au stockage d'hydrocarbures en septembre 2006 et février 2008.	'hydrocarbures'	
+2007				2007				_Cessation	-Cessation d'activité charbon en 2007.		
+2008	02	14		2008	02	14		_Évacuation_des_déchets	-Évacuation des déchets: 13 et 14/02/2008.		
+2007	12	24		2007	12	24		_Note_de_présentation	-Note de présentation des résultats des investigations complémentaires et de l'étude historique, le 24/12/2007, par Royal Haskoning.		
+2005	04	18		2005	04	18		_Réalisation_d__un_diagnostic_environnemental	-Réalisation d'un diagnostic environnemental par Royal Haskoning, le 18/04/2005.		'Royal Haskoning'
+2007	11	19		2007	11	19		_Arrêté	-Arrêté préfectoral complémentaire du 19/11/2007 prescrivant la mise en sécurité du site.		

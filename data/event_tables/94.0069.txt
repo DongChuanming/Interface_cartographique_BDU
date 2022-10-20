@@ -1,9 +1,11 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1956									était_exploité_pour								
-1994				1995					a_été_réalisée	l__étanchéité							
-1987	04	21		1987	04	21		l__arrêté_préfectoral_n__87_1756	a_été_régulièrement_autorisée	L__exploitation_de_cette_activité							
-2011	10	24		2011	10	24		le_gérant_des_Établissements_D_NTONELLI	La_notification			a_été_effectuée					
-2011	10	24		2011	10	24		le_gérant_des_Établissements_D_NTONELLI	a_adressé								
-2011	12	08		2011	12	08		l__inspection_des_installations_classées	Une_visite	site		a_été_effectuée					
-2012	01	24		2012	01	24		la_Préfecture_du_Val_de_Marne	a_été_délivré	Le_récépissé							
-2011	11	24		2011	11	24			Le_diagnostic_de_pollution								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				se_sont_succédés	Différents exploitants se sont succédés, jusqu'à la reprise en 1994, par la société D.		'la société D.'
+2011	12	08		2011	12	08		Une_visite_du_site_a_été_effectuée	Une visite du site a été effectuée par l’inspection des installations classées, le 08/12/2011.		
+1994				1995				a_été_réalisée	Entre 1994 et 1995, l'étanchéité de l'ensemble du site a été réalisée, un séparateur d'hydrocarbures au niveau de l'aire de lavage et un débourbeur/déshuileur ont été mis en place.	'hydrocarbures'	
+1987	04	21		1987	04	21		L__exploitation	L'exploitation de cette activité a été régulièrement autorisée par l’arrêté préfectoral n° 87/1756 du 21/04/1987.		
+2011	10	24		2011	10	24		La_notification_de_cessation_d__activité	La notification de cessation d'activité a été effectuée, le 24/10/2011, par le gérant des Établissements D.		'Établissements D.'
+2012	01	24		2012	01	24		a_été_délivré	Le récépissé de cessation d’activité a été délivré, par la Préfecture du Val-de-Marne, le 24/01/2012.		'la Préfecture'
+2012	01	24		2012	01	24		a_demandé	Sur proposition de l’inspection des installations classées, le préfet a demandé des compléments sur le plan de gestion dans le courrier préfectoral du 24/01/2012.		'le préfet'
+1994				1994				à_la_reprise	Différents exploitants se sont succédés, jusqu'à la reprise en 1994, par la société D.		'la société D.'
+2011	11	24		2011	11	24		Le_diagnostic_de_pollution	Le diagnostic de pollution du 24/11/2011 a mis en évidence deux sources de pollution en métaux (plomb, cuivre et zinc), d'extension limitée (0,2 m à 0,5 m de profondeur), qui ne peuvent pas être directement corrélées avec la dernière période d'exploitation.  Concernant les eaux souterraines, il est mentionné qu’une teneur en nickel, supérieure à la valeur de référence a été mise en évidence dans les eaux souterraines sous-jacentes au site.	'métaux', 'plomb', 'cuivre', 'zinc', 'en nickel'	
+1956				1956				était_exploité	Le site était exploité pour des activités de casses automobiles et/ou stockage de véhicules depuis 1956.		

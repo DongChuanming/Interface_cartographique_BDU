@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09			2001	09			Deux_campagnes_de_surveillance	Deux campagnes de surveillance des eaux souterraines ont été réalisées par la société SAKOSTA (bureau d'études) en septembre 2001 et en septembre 2002.		'la société SAKOSTA'
+2005	10	28		2005	10	28		est_aujourd_hui_gérée	La société civile immobilière de Messempré, propriétaire du terrain est aujourd'hui gérée par maître BOURBOULOUX en tant que mandataire judiciaire depuis le 28 octobre 2005.		'La société'
+2009	12	11		2009	12	11		a_été_notifié	Un nouvel arrêté préfectoral complémentaire a été notifié le 11 décembre 2009 à Maître BECHERET en qualité de mandataire judiciaire représentant la société Profilés et Tubes de l'Est, dernier exploitant du site de Messempré.		'Maître BECHERET', 'la société Profilés', 'et Tubes'
+2010	08	16		2010	08	16		a_été_fourni	Un mémoire de réhabilitation associé à un plan de gestion de la décharge a été fourni le 16 août 2010.		
+2011	07	13		2011	07	13		le_rapport_de_pose	Le 13 juillet 2011, la société SEMACO (bureau d'études mandatée par exploitant) a fourni le rapport de pose de deux piézomètres complémentaires (PZA et PZB) en plus de PZ1 et PZ2.	'PZB'	'la société SEMACO'
+2004	01	14		2004	01	14		a_été_notifié	Cet arrêté a été notifié à l'exploitant, le 14 janvier 2004.		
+2006	06	12		2006	06	12		a_été_notifié	.C a été notifié à la société AVERYS le 12 juin 2006.		'la société AVERYS'
+2010	11	17		2010	11	17		a_été_fournie	Une notice géologique et hydrogéologique a été fournie le 17 novembre 2010.		
+2011	02	21		2011	02	21		un_courrier_a_été_envoyé	Le 21 février 2011, un courrier a été envoyé à Maître BECHERET pour demander la pose d'au moins 1 piézomètre supplémentaire pour confirmer ou infirmer la présence de nappes phréatiques et pour faire un point sur l'état de contamination.		'Maître BECHERET'
+1998	05	13		1998	05	13		Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques (rapport daté du 26/08/1998) ont été réalisés par GEOCLEAN (bureau d'études) suite à l'arrêté préfectoral du 13 mai 1998.		'GEOCLEAN'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	02	10		2000	02	10		Les_études_remises	Les études remises le 10 février 2000 classent les site en 2 "à surveiller".		
+								l__incendie_s__est_déclaré	l'incendie s'est déclaré vers 13 h 30 durant la pause méridienne.		
+2006	03	26		2006	03	26		Les_dernières_analyses	Les dernières analyses en date du 26 mars 2006 font toutefois apparaitre une évolution de la teneur en Zn sur le piezomètre n° 2, le dépassement constaté nécessitant des investigations complémentaires.	'Zn'	
+2014				2014				INCENDIE_DU	3 - INCENDIE DU 11 SEPTEMBRE 2014		'INCENDIE'
+								INCENDIE_DU	3 - INCENDIE DU 11 SEPTEMBRE 2014		'INCENDIE'
+								L__incendie_a_été_éteint	L'incendie a été éteint vers 4h00 du matin du 12/09, les pompiers ont levé leur dispositif vers 9h00.		
+								et	Les activités exercées sur ce site ayant pu être à l'origine d'une pollution potentielle du sol et du sous-sol,un diagnostic initial et une évaluation simplifiée des risques prescrits par l'arrêté du 11/12/1998 avec l'échéance du 31/12/98 pour la remise de l'étape A et du 30/06/99 pour la remise de l'étape B.		

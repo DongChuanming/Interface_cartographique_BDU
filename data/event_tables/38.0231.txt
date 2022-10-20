@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	08		2005	01	08		a_mis_en_place	Conformément à l'arrêté préfectoral d'autorisation d'exploiter du 08/10/1998, la société EZT SARL a mis en place la surveillance des eaux souterraines depuis le 08/01/2005.		'la société EZT SARL'
+2011	02	28		2011	02	28		a_été_placée_en_liquidation_judiciaire_par	La société EZT SARL a été placée en liquidation judiciaire par le Tribunal de Commerce de Vienne le 28/02/2011.		'La société EZT SARL', 'le Tribunal de Commerce de Vienne'
+1998	10	08		1998	10	08		bénéficiait	La société bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter du 08/10/1998.		

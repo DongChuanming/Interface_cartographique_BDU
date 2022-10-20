@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	22		1996	04	22		a_été_remis	Ce dossier a été remis en date du 22 avril 1996 puis complété le 13/05/1996.		
+1996	05	13		1996	05	13		a_été_remis	Ce dossier a été remis en date du 22 avril 1996 puis complété le 13/05/1996.		
+1996	05	13		1996	05	13		complété	Ce dossier a été remis en date du 22 avril 1996 puis complété le 13/05/1996.		
+1998	07	01		1998	07	01		sa_cessation_d__activité	Maitre Brigitte PENT-WEILLER, en sa qualité de mandataire judiciaire, déclare sa cessation d'activité de la société par un courrier daté du 01/07/1998.		'Maitre Brigitte PENT - WEILLER'
+1998	06	09		1998	06	09		est_mise_en_redressement_judiciaire	IMPRIMA est mise en redressement judiciaire le 09/06/1998.		'IMPRIMA'
+2005	01	06		2005	01	06		l__exploitation	L'arrêté préfectoral du 06/01/2005 autorise l'exploitation du site par MAVIFLEX.		'MAVIFLEX'
+1998	06			1998	06			Un_diagnostic_environnemental	Un diagnostic environnemental a été réalisé sur le site en juin 1998 par la société UCB qui détenait alors la parcelle attenante au site, coté ouest. 10 sondages ont été réalisés sur l'ensemble de la zone d'investigations.		'la société UCB'
+1998				1998				fusionne	Les sociétés STIL Ennoblissement et SITEX fusionne en 1998 formant la société IMPRIMA.		'Les sociétés STIL Ennoblissement', 'la société IMPRIMA'
+2003	04			2003	04			dépose_un_dossier_de_demande_d__autorisation	En avril 2003, la société MAVIFLEX dépose un dossier de demande d'autorisation d'exploiter.		'la société MAVIFLEX'
+1998	03	06		1998	03	06		Une_demande_d_	Une demande d'autorisation est déposée le 06/03/1998 par cette société.		

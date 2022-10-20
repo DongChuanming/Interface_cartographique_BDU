@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	26		2003	02	26		range_en	Au terme de l'étude de sol en date du 26 février 2003, le site se range en classe 2 pour le milieu eaux souterraine et pour le milieu sol.		
+1970	06			1970	06			s__est_implanté	La société Nadella s'est implanté sur ce site d'une surface de 50 500 m2 en juin 1970.		'La société Nadella'
+1984				1984				à_cessé	Cette pratique à cessé en 1984.		
+2001				2001				a_été_repris	Le site NADELLA a été repris par TORRINGTON (du groupe ingersoll-bond) en 2001, repris lui même en février 2002 par le groupe TIMKEN, et finalement par la société KOYO Beraings Vierzon en ... .		'Le site NADELLA', 'TORRINGTON', 'le groupe TIMKEN', 'la société KOYO Beraings Vierzon'
+2001				2001				une_étude_de_sol	A la suite de la reprise de l'activité du site par la société TORRINGTON en 2001, une étude de sol a été réalisée.		'la société TORRINGTON'
+2002				2002				a_décidé	Malgré le classement en simple surveillance, la société TORRINGTON a décidé en 2002 d’enlever une partie des contaminants : des boues métalliques stockées sur un talus.		'la société TORRINGTON'
+2001				2001				la_reprise	A la suite de la reprise de l'activité du site par la société TORRINGTON en 2001, une étude de sol a été réalisée.		'la société TORRINGTON'
+2002	02			2002	02			a_été_repris	Le site NADELLA a été repris par TORRINGTON (du groupe ingersoll-bond) en 2001, repris lui même en février 2002 par le groupe TIMKEN, et finalement par la société KOYO Beraings Vierzon en ... .		'Le site NADELLA', 'TORRINGTON', 'le groupe TIMKEN', 'la société KOYO Beraings Vierzon'

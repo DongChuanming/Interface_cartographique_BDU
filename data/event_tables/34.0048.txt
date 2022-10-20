@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05	28		2007	05	28		établie	- Diagnostic environnemental de la station-service établie le 28 mai 2007		
+								a_contenu	Le réservoir de GO de 7,5 m3 a contenu jusqu’en dans les années 1980 du FOD ;	'FOD'	
+2007	07	31		2007	07	31		établie	- Suivi d’extraction des cuves établie le 31 juillet 2007		
+1956				2007				service_exploitée	Ce site en zone urbaine a été occupée par une station service exploitée entre 1956 et 2007.		
+2008	05	20		2008	05	20		établi	- Évaluation Quantitative des Risques Sanitaires (EQRS) établi le 20 mai 2008.	'Sanitaires'	
+1956				1956				mis_en_service	- 4 réservoirs enterrés mis en service en 1956 : 1 réservoir (R1) de SP98 (15 m3), 1 réservoir (R2) de SP95 (15 m3), 2 réservoirs de GO (R3 : 15 m3 et R4 : 7,5 m3).	'SP98', 'SP95', 'GO'	
+2007	04	23		2007	04	23		La_cessation_d__activité	La cessation d'activité a été notifiée en préfecture de l'Hérault le 23 avril 2007.		
+2007				2007				Des_travaux_de_démantèlement	Des travaux de démantèlement et d’extraction des cuves d’hydrocarbures ont été effectués en 2007.	'hydrocarbures'	

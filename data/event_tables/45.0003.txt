@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				des_analyses_ont_été_réalisées	Depuis l'abandon de la ressource en 1992, des analyses ont été réalisées en 1998 à la demande de la DRIRE (Direction Régionale de l'Industrie, de la Recherche et de l'Environnement).		'la DRIRE', "Direction Régionale de l' Industrie , de la Recherche et de l' Environnement"
+1992	03			1992	03			est_apparue	Une pollution par le mercure est apparue en mars 1992.	'mercure'	
+1998	06			1998	06			sont_arrêtées	Les analyses sont arrêtées depuis juin 1998.		
+1992				1992				l__abandon_de_la_ressource	Depuis l'abandon de la ressource en 1992, des analyses ont été réalisées en 1998 à la demande de la DRIRE (Direction Régionale de l'Industrie, de la Recherche et de l'Environnement).		'la DRIRE', "Direction Régionale de l' Industrie , de la Recherche et de l' Environnement"

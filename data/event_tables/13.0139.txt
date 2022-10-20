@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	02			2011	02			un_diagnostic_environnemental	En Février 2011, un diagnostic environnemental a été réalisé.		
+1910				1910				fondée	L'usine des Papeteries Etienne, fondée en 1910 était alors spécialisée dans la production de papier de presse destiné aux journaux du Sud de la France.		
+2010	04	27		2010	04	27		dossier_de_mise_en_sécurité	Un dossier de mise en sécurité a été rédigé le 27/04/2010.		

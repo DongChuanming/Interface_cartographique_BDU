@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	05		2001	02	05		a_été_imposée	La surveillance de ces 3 sources a été imposée par arrêté préfectoral en date du 05 février 2001.		
+1989				1989				a_été_fermé	Le broyeur a été fermé en 1989 et depuis cette date, les ordures ménagères sont envoyées vers l'UIOM de Pontarlier.	'les ordures ménagères'	
+2002				2005				effectuée	Au vu notamment des résultats de la surveillance effectuée entre 2002 et 2005 ainsi que de l'enlèvement des déchets industriels qui avaient été mis en évidence à la faveur de l'étude simplifiée des risques qui avait été menée, l'arêtée préfectoral du 5 février 2001 imposant cette surveillance a été abrogé (arrêté du 4 mai 2006).		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08			2011	08			ont_été_transférées	Ces installations d'incinération ont été transférées à SOBEGI Environnement en août 2011.		'SOBEGI Environnement'
+1975				1975				fut_créée	Elle fut créée en 1975.		
+2009				2009				des_études_hydro___géologiques	A partir de 2009, dans le cadre de la recherche des causes d'une pollution de la Baïse (pollution au Fer, As, Mn ainsi que MCB et méthyl tert-butyl éther), des études hydro-géologiques ont été réalisées.	'Fer', 'As', 'Mn', 'MCB', 'méthyl tert - butyl éther'	
+2000	12			2000	12			a_été_remise	L'ESR a été remise en décembre 2000.		"L' ESR"

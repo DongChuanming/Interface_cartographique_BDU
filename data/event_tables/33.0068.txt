@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02			2007	02			des_campagnes_d_	Les analyses réalisées sur PZ3bis ont identifié la présence ponctuelle d'hydrocarbures dissous (fraction C10-C40) lors des campagnes d'aout 2006 et de février 2007.	'hydrocarbures', 'C10-C40'	
+2006				2006				Les_analyses_réalisées_sur	Les analyses réalisées sur PZ3bis ont identifié la présence ponctuelle d'hydrocarbures dissous (fraction C10-C40) lors des campagnes d'aout 2006 et de février 2007.	'hydrocarbures', 'C10-C40'	
+2007	09			2007	09			est_apparu_ponctuellement	Du benzène est apparu ponctuellement en juillet 2004, aout 2005 et septembre 2007 au droit de P3.	'Du benzène'	
+2004				2004				est_vérifiée	Depuis 2004, la présence d'hydrocarbures dissous est vérifiée au droit des ouvrages PZ2 et P3 avec des teneurs pouvant dépasser les valeurs guide.	'hydrocarbures'	
+2007	02			2007	02			Les_analyses_réalisées_sur	Les analyses réalisées sur PZ3bis ont identifié la présence ponctuelle d'hydrocarbures dissous (fraction C10-C40) lors des campagnes d'aout 2006 et de février 2007.	'hydrocarbures', 'C10-C40'	
+2007	02	23		2007	02	23		la_perte	Par courrier du 23 février 2007, l'exploitant déclare la perte de gazole au niveau d'une cuve fuyarde localisée au voisinage de P3 et PZ3bis, le 21 février 2007.	'gazole'	
+2000	06			2000	06			Ces_investigations_sont_réalisées	Ces investigations sont réalisées en juin 2000.		
+2004	07			2004	07			est_apparu_ponctuellement	Du benzène est apparu ponctuellement en juillet 2004, aout 2005 et septembre 2007 au droit de P3.	'Du benzène'	
+1995				1995				une_fuite	En 1995,suite à une fuite sur un raccord de cuve enterrée une pollution du sous-sol et de la nappe par hydrocarbures est décelée par l'exploitant.	'hydrocarbures'	
+2007	02	22		2007	02	22		pompé_le_produit	Il indique également avoir stoppé, mis en sécurité et pompé le produit le 22 février 2007.		
+1999	11			1999	11			La_campagne_de	La campagne de novembre 1999 ne montre pas de présence d'hydrocarbures  surnageants mais révèle une persistance de valeurs d'explosivité plus ou moins importantes en 2 points de sols de la zone investiguée.	'hydrocarbures   surnageants'	
+2014	09			2014	09			la_dernière_campagne	TOTAL demande la suspension de la surveillance périodique après la dernière campagne de septembre 2014 et la remise du rapport quadriennal à l'inspection.		
+2001	04	27		2001	04	27		évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques du site, transmise le 27 avril 2001 classe le site en 2 "à surveiller".		
+2007	03	08		2007	03	08		des_prélèvements_ont_été_effectués	Puis, afin de vérifier la présence ou l'absence de produit dans PZ3bis et P3, des prélèvements ont été effectués le 8 mars 2007.		
+2012	04			2012	04			Les_campagnes_réalisées	Les campagnes réalisées en septembre 2011 et avril 2012 montrent que seule PZ2 (piézo aval) est impacté en benzène ( de 10 à 20 µg/l). les autres ouvrages ne présentent aucune trace en hydrocarbures dissous et BTEX.	'benzène', 'hydrocarbures', 'BTEX'	
+2006				2006				des_campagnes_d_	Les analyses réalisées sur PZ3bis ont identifié la présence ponctuelle d'hydrocarbures dissous (fraction C10-C40) lors des campagnes d'aout 2006 et de février 2007.	'hydrocarbures', 'C10-C40'	
+1996	04	10		1996	04	10		communique	L'exploitant communique le rapport de fin de travaux le 10 avril 1996 et considère que les objectifs de dépollution de la nappe sont atteints.		
+2007	03	02		2007	03	02		la_cessation_d__activité	La société TOTAL a notifié le 2 mars 2007 au Préfet de Gironde la cessation d'activité de la station service.		'La société TOTAL'
+2007	02	21		2007	02	21		la_perte	Par courrier du 23 février 2007, l'exploitant déclare la perte de gazole au niveau d'une cuve fuyarde localisée au voisinage de P3 et PZ3bis, le 21 février 2007.	'gazole'	
+1990	04	19		1990	04	19		a_été_délivré	Un récépissé de déclaration a été délivré à l'exploitant le 19/04/1990.		
+2011	09			2011	09			Les_campagnes_réalisées	Les campagnes réalisées en septembre 2011 et avril 2012 montrent que seule PZ2 (piézo aval) est impacté en benzène ( de 10 à 20 µg/l). les autres ouvrages ne présentent aucune trace en hydrocarbures dissous et BTEX.	'benzène', 'hydrocarbures', 'BTEX'	
+2005				2005				est_apparu_ponctuellement	Du benzène est apparu ponctuellement en juillet 2004, aout 2005 et septembre 2007 au droit de P3.	'Du benzène'	

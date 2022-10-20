@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06			2005	06			un_rapport_de_diagnostic_initial	Un mémoire de cessation d'activités (datant du 21/12/2007) et un rapport de diagnostic initial (de juin 2005) a été transmis au Préfet le 16/01/2008.		
+2006				2006				Des_visites_d__inspection	Des visites d'inspection effectuées en 2004 et 2006 ont mis en évidence un manque de gestion des déchets du site.		
+2007	10	04		2007	10	04		d__une_visite_d__inspection	Lors d'une visite d'inspection en date du 04/10/2007, la société Neuville Industries (propriétaire du site) s'est substituée au liquidateur judiciaire pour répondre aux obligations réglementaires de la société SANGLAR INDUSTRIES (élimination de déchets).		'la société Neuville Industries', 'la société SANGLAR INDUSTRIES'
+2006	10	09		2006	10	09		la_cessation_d__activités	La liquidation judiciaire a été prononcée le 28/09/2006 et la cessation d'activités de la société date du 09/10/2006, date du dernier délai de poursuite des activités autorisées par le tribunal.		
+2008	01	16		2008	01	16		a_été_transmis	Un mémoire de cessation d'activités (datant du 21/12/2007) et un rapport de diagnostic initial (de juin 2005) a été transmis au Préfet le 16/01/2008.		
+2016	06	07		2016	06	07		une_visite_d__inspection	La DREAL a réalisé une visite d'inspection le 7 juin 2016 qui a conduit à demander différents compléments, liés à la pollution de l'air ambiant, la poursuite de la surveillance des eaux souterraines et la mise à jour des propositions de SUP.		'La DREAL'
+2009	06	12		2009	06	12		Les_analyses_des_sols_ont_été_effectuées	Les analyses des sols ont été effectuées le 12/06/2009 montrent des teneurs supérieures aux valeurs guide en vigueur à l'époque, notamment :		
+2006	10	09		2006	10	09		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 28/09/2006 et la cessation d'activités de la société date du 09/10/2006, date du dernier délai de poursuite des activités autorisées par le tribunal.		
+2007	09			2007	09			L__analyse	L'analyse des eaux souterraines a été effectuée sur le puits industriel et deux piézomètres en novembre 2011 et en septembre 2007.		
+2016	10			2016	10			a_transmis	En octobre 2016, Neuville Industrie a transmis à l'inspection des installations classées :		'Neuville Industrie'
+2011	11			2011	11			L__analyse	L'analyse des eaux souterraines a été effectuée sur le puits industriel et deux piézomètres en novembre 2011 et en septembre 2007.		
+2006	10	09		2006	10	09		a_cessé_ses_activités	La société SANGLAR a cessé ses activités le 09/10/2006.		'La société SANGLAR'
+2006	09	28		2006	09	28		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 28/09/2006 et la cessation d'activités de la société date du 09/10/2006, date du dernier délai de poursuite des activités autorisées par le tribunal.		
+2010				2015				a_fait_réaliser_des_travaux_d__excavation_au_niveau	Entre 2010 et 2015, Neuville Industrie a fait réaliser des travaux d'excavation au niveau des différents points chauds identifiés pour aboutir à un site compatible avec un sage de type industriel.		
+2016	01			2016	01			a_transmis	En janvier 2016, Neuville Industrie a transmis à l'inspection des installations classées :		'Neuville Industrie'
+								le_traitement_par_venting	* le traitement par venting durant environ 6 mois (mais les phtalates ne seraient pas traités) ;	'les phtalates'	
+2011	03	25		2011	03	25		a_été_établi	Un rapport contenant un diagnostic approfondi, un plan de gestion, une ARR et une IEM a été établi le 25/03/2011.		
+2009	09	16		2009	09	16		Les_analyses_ont_été_effectuées	Les analyses ont été effectuées le 16/09/2009 et montrent des teneurs dans les sols en 1,1-dichloroéthane jusqu'à 0,53 mg/kg.	'1,1-dichloroéthane'	
+2004				2004				Des_visites_d__inspection	Des visites d'inspection effectuées en 2004 et 2006 ont mis en évidence un manque de gestion des déchets du site.		

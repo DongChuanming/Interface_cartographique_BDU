@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1918				1918				Le_fonçage	Le fonçage du puits s'est déroulé en 1918-1919.		
+1932				1932				a_été_repris	Il a été repris en 1932 pour atteindre sa profondeur actuelle de 410,7 mètres.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'BRGM'
+1919				1919				Le_fonçage	Le fonçage du puits s'est déroulé en 1918-1919.		

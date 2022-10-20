@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05			2011	05			sont_détectés	Seuls des hydrocarbures sont détectés sur le piézomètre amont lors de la campagne de mai 2011.	'hydrocarbures'	
+2010	11			2010	11			confirmées	Lors de la campagne de novembre 2010, les teneurs non négligeables de propiconazole sont confirmées au droit du piézomètre aval PZC (0,296 µg/l).	'propiconazole'	
+2011	05			2011	05			de_la_campagne	Seuls des hydrocarbures sont détectés sur le piézomètre amont lors de la campagne de mai 2011.	'hydrocarbures'	
+2008	11			2008	11			la_campagne_de_mesure	Seules des traces de propiconazole sont mesurées au droit d'un piézomètre aval (PZC) lors de la campagne de mesure de novembre 2008.	'propiconazole'	
+2012	11			2012	11			la_campagne_de_mesures	Aucun paramètre recherché n'est détecté dans les piézomètres du site et le forage lors de la campagne de mesures de novembre 2012.		
+2007	12	03		2007	12	03		un_certificat_de_destruction	Le 05 décembre 2007, la société VEOLIA PROPRETE délivre à la société POUMEYRAU un certificat de destruction d'une cuve de fuel (date de prise en charge : 03/12/2007).	'de fuel'	'la société VEOLIA PROPRETE', 'la société POUMEYRAU'
+1945				1945				exploitée	Usine de sciage, de rabotage et de traitement du bois exploitée depuis 1945 par la société POUMEYRAU, entreprise familiale, sur la commune de Salles (33).		'la société POUMEYRAU'
+2007	12	05		2007	12	05		un_certificat_de_destruction	Le 05 décembre 2007, la société VEOLIA PROPRETE délivre à la société POUMEYRAU un certificat de destruction d'une cuve de fuel (date de prise en charge : 03/12/2007).	'de fuel'	'la société VEOLIA PROPRETE', 'la société POUMEYRAU'
+1996				1996				est_utilisé	Depuis 1996, le XYLOPHENE AS est utilisé dans 2 bacs remplacés à l’identique.	'XYLOPHENE AS'	
+2009	11			2009	11			de_la_campagne	Lors de la campagne de novembre 2009, seules des traces de propiconazole sont décelées sur un piézomètre aval (PZC).	'propiconazole'	
+2010	11			2010	11			de_la_campagne	Lors de la campagne de novembre 2010, les teneurs non négligeables de propiconazole sont confirmées au droit du piézomètre aval PZC (0,296 µg/l).	'propiconazole'	
+2009	04			2009	04			sont_de_nouveau_détectés	Les hydrocarbures sont de nouveau détectés sur le piézomètre amont (PZA) et un (PZB) des piézomètres avals lors de la campagne d'avril 2009.	'hydrocarbures'	
+2010	05			2010	05			la_campagne_de_mesures	Du plomb est détecté sur les 3 piézomètres lors de la campagne de mesures de mai 2010.	'plomb'	
+1986				1986				a_été_créée	Une nouvelle zone de trempage, équipée de 2 bacs métalliques de 12 000 litres chacun, posés sur rétention béton et dans un hangar couvert, a été créée en 1986.		
+2008	06			2008	06			la_campagne_de_mesures	Les hydrocarbures ne sont pas détectés sur les 3 piézomètres lors de la campagne de mesures de juin 2008.	'hydrocarbures'	
+2008	06			2008	06			n__avaient_plus_été_détectés	A noter la détection dans le forage de traces d'hydrocarbures (qui n'avaient plus été détectés depuis juin 2008) ainsi que de propiconazole pour la première fois (0,16 µg/l).	'hydrocarbures', 'propiconazole'	
+1983	01	25		1983	01	25		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 25 janvier 1983.		
+2007	06	28		2007	06	28		émet	Le 28 juin 2007, la société Canopée Environnement émet une facture relative au traitement de 1,78 tonne de terres souillées.		'la société Canopée Environnement'
+2013	03			2013	03			de_la_campagne	Du propiconazole est de nouveau détecté sur un (PZC)piézomètre aval lors de la campagne de mars 2013.	'Du propiconazole'	'PZC)piézomètre'
+2010	05			2010	05			est_détecté	Du plomb est détecté sur les 3 piézomètres lors de la campagne de mesures de mai 2010.	'plomb'	
+2007	02			2007	02			la_campagne_de_mesures	La présence d'hydrocarbures est décelée sur le piézomètre situé en amont hydraulique du site (PZA) lors de la campagne de mesures de février 2007.	'hydrocarbures'	
+2005	11	04		2005	11	04		sont_remises	les études sont remises le 4 novembre 2005 et le 24 avril 2006.		
+2007	08			2007	08			La_campagne_de_mesures	La campagne de mesures d'août 2007 confirme la présence d'hydrocarbures sur le piézomètre amont (PZA).	'hydrocarbures'	
+2009	04			2009	04			de_la_campagne_d_	Les hydrocarbures sont de nouveau détectés sur le piézomètre amont (PZA) et un (PZB) des piézomètres avals lors de la campagne d'avril 2009.	'hydrocarbures'	
+1983				1986				le_traitement	De 1983 à 1986, le traitement du bois était effectué au chlorophénol, dans une fosse béton semi-enterrée, d’environ 9 000 litres, située en bordure du bâtiment de la scierie.	'chlorophénol'	

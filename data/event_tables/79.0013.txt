@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09	11		2000	09	11		a_été_imposé	Par arrêté complémentaire du 11 septembre 2000, il a été imposé au mandataire de procéder à la mise en sécurité des installations (notamment d'hexane et d'ammoniac), à l'enlèvement des déchets et produits potentiellement polluants et à l'établissement d'une étude des sols.	'hexane', 'ammoniac', 'produits potentiellement polluants'	
+2006	05			2006	05			Visite_réalisée	Visite réalisée en mai 2006.		
+2000	09	28		2000	09	28		a_remis	Maître SAINT MARTIN a remis le 28 septembre 2000 la première partie de l'étude de sol (étape A) demandée.		'Maître SAINT MARTIN'
+2003	06	02		2003	06	02		a_donc_proposé	L'inspection a donc proposé le 2/06/2003 à Monsieur le préfet d'imposer à la CCL:		'le préfet', 'la CCL'
+2004	03	23		2004	03	23		a_été_remise	L'ESR a été remise le 23/03/2004.		
+				2000	06			Exploitation	Exploitation des deux ateliers d'extraction d'huile jusqu'en juin 2000.		
+2000	06	07		2000	06	07		une_procédure_de_liquidation_judiciaire	Le 7 juin 2000 une procédure de liquidation judiciaire a été engagée à l'encontre de la société PCO.		'la société PCO'
+2002	04	29		2002	04	29		une_visite	Suite à une visite du 29/04/2002, l'inspection a dressé un procès-verbal et a proposé au Préfet d'une part d'engager une procédure de consignation pour enlever les déchets et poursuivre l'étude de sols, et d'autre part de mettre en demeure le liquidateur de respecter l'arrêté du 18/05/2001 imposant la surveillance piézométrique du site.	'les déchets'	
+2003	07	28		2003	07	28		arrêté	Suite à l'arrêté d'urgence du 7/07/2003 et à l'arrêté complémentaire du 28/07/2003, la CCL, propriétaire du site, a procédé à l'évacuation des déchets dangereux et d'une grande partie des huiles ainsi qu'à l'installation de piézomètres pour assurer la surveillance des eaux souterraines.	'des déchets dangereux', 'des huiles'	'la CCL'
+2000	12	28		2000	12	28		a_demandé	Par lettres des 23 octobre 2000 et 28 décembre 2000, l'inspection a demandé au mandataire de transmettre les justificatifs de réalisation des travaux imposés.		
+2000	10	23		2000	10	23		a_demandé	Par lettres des 23 octobre 2000 et 28 décembre 2000, l'inspection a demandé au mandataire de transmettre les justificatifs de réalisation des travaux imposés.		
+2001	02	09		2001	02	09		Une_visite_effectuée	Une visite effectuée le 09/02/2001 a permis de constater que les déchets et produits susceptibles de polluer n'avaient pas été enlevés.		
+								Cet_acte___signé	Cet acte, signé le 30/10/02, précise que le site a été cédé à la CCL pour un euro avec obligation pour l'acquéreur de prendre à sa charge les frais de dépollution des terrains et immeubles bâtis, sans aucun recours ultérieur contre la liquidation judiciaire tant de la SCI SANAM, propriétaire, que de la SA PCO, dernier exploitant.		'la CCL', 'la SCI SANAM', 'la SA PCO'
+2001	05	18		2001	05	18		l__arrêté_du	Suite à une visite du 29/04/2002, l'inspection a dressé un procès-verbal et a proposé au Préfet d'une part d'engager une procédure de consignation pour enlever les déchets et poursuivre l'étude de sols, et d'autre part de mettre en demeure le liquidateur de respecter l'arrêté du 18/05/2001 imposant la surveillance piézométrique du site.	'les déchets'	
+2006	03			2006	03			ne_sont_plus_transmis	Les résultats de la surveillance des eaux souterraines et superficielles ne sont plus transmis depuis Mars 2006.		
+2003	05	23		2003	05	23		Une_visite	Une visite a été réalisée le 23/05/2003.		
+1987				1987				a_été_créé	Le premier atelier a été créé en 1987 et le second en 1992.		

@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03			2008	03			des_deux_campagnes_de_mesures___campagnes	En avril 2008, l'exploitant a transmis les résultats des deux campagnes de mesures (campagnes d'août 2007 et de mars 2008).		
+2007	08			2007	08			a_transmis	En avril 2008, l'exploitant a transmis les résultats des deux campagnes de mesures (campagnes d'août 2007 et de mars 2008).		
+2010	07	27		2010	07	27		a_pris_acte	Par courrier du 27 juillet 2010, M. le Préfet de Seine-et-Marne a pris acte du changement d'exploitant au profit de la société MEURANT TS.		'le Préfet', 'la société MEURANT TS'
+1999	02	04		1999	02	04		a_demandé	Au regard du contexte environnemental du site, de la nature de ses activités et de la mauvaise gestion des produits, la DRIRE a demandé à la société MEURANT d’établir un diagnostic initial et une évaluation simplifiée des risques par arrêté préfectoral en date du 04 février 1999.		'la DRIRE', 'la société MEURANT'
+1999	03	25		1999	03	25		a_été_autorisée_à_poursuivre_l__exploitation	La société MEURANT Père et Fils a été autorisée à poursuivre l’exploitation d’un atelier de traitement de surfaces à CHELLES, par arrêté préfectoral en date du 25 mars 1999.		'La société MEURANT Père', 'CHELLES'
+2013	02	26		2013	02	26		a_notifié_sa_cessation_d__activité	La société BERTHOLLET a notifié sa cessation d'activité le 26 février 2013.		'La société BERTHOLLET'
+2007	06	13		2007	06	13		imposant_le_respect	Cette inspection a amené M. le Préfet de Seine-et-Marne à prendre l'arrêté préfectoral de mise en demeure n°11 DRIEE 054 du 15 avril 2011 imposant le respect, dans un délai de trois mois, des articles 3.2.2 et 3.3 de l'arrêté préfectoral complémentaire du 13 juin 2007.		'le Préfet', 'DRIEE'
+2015	12	28		2015	12	28		a_informés	La société BERTHOLLET AMM INDUSTRIE de MONTREUIL-SOUS-BOIS ayant été déclarée en liquidation judiciaire le 28 décembre 2015, son liquidateur judiciaire (SELARL BALLY) nous a informés que le site de CHELLES n'était pas inclus dans la liquidation.		'La société BERTHOLLET AMM INDUSTRIE', 'SELARL BALLY', 'CHELLES'
+2010	12	06		2010	12	06		une_réunion	En l'absence de réponse à la lettre préfectorale du 24 juin 2009, une réunion sur site a été organisée le 6 décembre 2010.		
+2009	06	24		2009	06	24		une_réunion	En l'absence de réponse à la lettre préfectorale du 24 juin 2009, une réunion sur site a été organisée le 6 décembre 2010.		
+2010	04	27		2010	04	27		Une_inspection	Une inspection a été réalisée le 27 avril 2010.		
+2010	06			2010	06			la_campagne	Les résultats de la campagne de juin 2010 mettaient en évidence la présence d'arsenic, de nickel, de tétrachloroéthylène, de trichloroéthylène et de plomb en concentrations supérieures aux valeurs de référence avec une baisse de la teneur en PCE.	'arsenic', 'nickel', 'tétrachloroéthylène', 'trichloroéthylène', 'plomb', 'PCE'	
+2008	04			2008	04			a_transmis	En avril 2008, l'exploitant a transmis les résultats des deux campagnes de mesures (campagnes d'août 2007 et de mars 2008).		
+2011	11	17		2011	11	17		a_pris_acte	Par courrier du 17 novembre 2011, M. le Préfet de Seine-et-Marne a pris acte du changement d'exploitant au profit de la société BERTHOLLET AMM INDUSTRIE.		'le Préfet', 'la société BERTHOLLET AMM INDUSTRIE'
+2014	05	23		2014	05	23		a_transmis	Par courrier du 23 mai 2014, l'exploitant a transmis un rapport d'actualisation de l'état des milieux et un plan de gestion du site.		
+1963				1963				sont_présentes	Des activités de traitement de surface, utilisant notamment des solvants organo-chlorés, sont présentes sur le site depuis 1963.	'des solvants organo', 'chlorés'	
+2008	03			2008	03			a_transmis	En avril 2008, l'exploitant a transmis les résultats des deux campagnes de mesures (campagnes d'août 2007 et de mars 2008).		
+2012	06	27		2012	06	27		un_incendie_survenu	A la suite d'un incendie survenu dans l'atelier le 27 juin 2012, l'établissement a définitivement cessé ses activités.		
+2009	06	24		2009	06	24		a_été_demandé	Suite à cette inspection il a été demandé à l'exploitant de faire réaliser une nouvelle campagne de mesures sur les eaux souterraines et d'apporter des réponses à la lettre préfectorale du 24 juin 2009.		
+2011	10	11		2011	10	11		a_été_transmise	En l'absence de réponse à l'arrêté préfectoral de mise en demeure, une lettre de relance a été transmise à l'exploitant le 11 octobre 2011.		
+2003				2006				des_investigations_complémentaires	De 2003 à 2006, l'exploitant a réalisé des investigations complémentaires des sols et a remis en cause la nécessité d'une surveillance des eaux souterraines.		
+2011	04	13		2011	04	13		une_inspection_inopinée	L'exploitant n'ayant toujours pas apporté de réponse, une inspection inopinée a été réalisée le 13 avril 2011.		
+2011	11	04		2011	11	04		le_changement	Par courrier du 4 novembre 2011, la société BERTHOLLET AMM INDUSTRIE a déclaré le changement d'exploitant.		'la société BERTHOLLET AMM INDUSTRIE'
+2007	08			2007	08			des_deux_campagnes_de_mesures___campagnes	En avril 2008, l'exploitant a transmis les résultats des deux campagnes de mesures (campagnes d'août 2007 et de mars 2008).		
+2012	06	27		2012	06	27		a_définitivement_cessé_ses_activités	A la suite d'un incendie survenu dans l'atelier le 27 juin 2012, l'établissement a définitivement cessé ses activités.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			est_réalisée	Dans le cadre de ce projet d'aménagement (parking sans sous-sol), une analyse des risques résiduels est réalisée et transmis à l'inspection des installations classées en novembre 2011.		
+1929				1929				l__exploitation	- En 1929, l'exploitation du site débute avec la Compagnie Industrielle des Pétroles SA.		'la Compagnie Industrielle des Pétroles SA'
+				2005	06	28		Des_travaux_de_démantèlement	Des travaux de démantèlement des installations de l'ancien dépôt se sont déroulés du 13 au 28 juin 2005. ils consistaient en:		
+2006				2006				destine	En 2006, la commune de Monéteau destine le site aux usages suivants:		
+				2005	07	07		Ce_diagnostic	Ce diagnostic a été réalisé du 4 au 7 juillet 2005. 17 sondages ont été réalisés et 6 piézomètres au total ont été installés.		
+				2005				a_été_exploité	Le site est actuellement propriété de BP FRANCE et a été exploité par Trottier Escribe jusqu'en 2005 en tant que dépôt pétroliers soumis à Déclaration au titre de la nomenclature des installations classées pour la protection de l'environnement.		'BP FRANCE', 'Trottier Escribe'
+2001	09			2001	09			un_diagnostic_préliminaire_des_sols	En septembre 2001, un diagnostic préliminaire des sols a été réalisé.		
+1955				1990				est_réalisée_par	- De 1955 à 1990, l'exploitation est réalisée par une filiale de MOBIL (Marceaux et Cie SARL).		'MOBIL', 'Marceaux'
+2005	06	17		2005	06	17		notifie_sa_cessation_totale_des_activités	Le 17 juin 2005, l'exploitant notifie sa cessation totale des activités.		

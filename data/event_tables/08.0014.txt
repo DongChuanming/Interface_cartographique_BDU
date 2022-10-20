@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Le_diagnostic_initial_remis	Le diagnostic initial remis fin 1998 a mis en évidence la présence de fûts (isocyanates, liquides chlorés, de graisses, de goudrons...), de plaques de bitume, de liquides suspects dans les fosses...	'isocyanates', 'liquides chlorés', 'goudrons', 'bitume'	
+2003	07	23		2003	07	23		a_communiqué	Par courrier du 23 juillet 2003, la société Bail Industrie a communiqué à l'inspection les propositions d'un bureau d'études relatives à la mise en place d'un réseau de surveillance des eaux souterraines.		'la société Bail Industrie'
+2005	08	25		2005	08	25		les_rapports_du	Par les rapports du 25 août 2005 (Avis favorable du CDH d'Octobre 2005) et du 16 janvier 2006, l'inspection des installations classées a proposé par A.		
+2003	10	08		2003	10	08		a_fait_part	Par courrier en date du 8 octobre 2003, l'inspection des installations classées a fait part de ses remarques à la société et lui a demandé que la surveillance soit effective dans un délai d'un mois au plus tard et que les résultats d'analyses lui sont transmis dès réception.		
+2006	01	16		2006	01	16		a_proposé	Par les rapports du 25 août 2005 (Avis favorable du CDH d'Octobre 2005) et du 16 janvier 2006, l'inspection des installations classées a proposé par A.		
+								est_notifié	Un arrêté préfectoral complémentaire est notifié par le préfet le 24 aout 2006.		'préfet'
+1999	04			1999	04			ont_été_demandées	Des investigations complémentaires ont été demandées par l'inspection des installations classées à l'exploitant en avril 1999.		
+2003	05	23		2003	05	23		a_donc_été_relancé_par_courrier	L'exploitant n'ayant jamais transmis à l'inspection des installations classées une proposition de mise en place de cette surveillance, il a donc été relancé par courrier du 23/05/2003.		
+2006				2006				est_notifié	Un arrêté préfectoral complémentaire est notifié par le préfet le 24 aout 2006.		'préfet'
+2006	04			2006	04			Une_réunion_technique	Une réunion technique avec l'exploitant s'est tenue au mois d'avril 2006 afin de discuter des investigations complémentaires à engager suivant les zones concernées.		
+1999	11			1999	11			ont_été_fournis	Les compléments ont été fournis par l'exploitant à l'inspection des installations classées en novembre 1999.		
+2008	10	20		2008	10	20		annule	Le 20 octobre 2008 le tribunal administratif de Chalons en Champagne annule l'arrêté préfectoral du préfet des Ardennes du 24 aout 2006.		'le tribunal administratif', 'préfet des Ardennes'
+1987				1987				a_cessé	Le site qui s'étend sur une surface de 25 ha sur les communes de SEDAN et de GLAIRE, a cessé son activité en 1987.		
+2002	09	23		2002	09	23		la_mise_en_place_d__une	L'inspection a demandé à l'ancien exploitant BAIL INDUSTRIE la mise en place d'une surveillance des eaux souterraines par courrier en date du 23 septembre 2002.		'BAIL INDUSTRIE'

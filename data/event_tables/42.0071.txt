@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	28		2008	02	28		n__ont_ni_été_réalisés	1 - L’ensemble des travaux et l'étude prévus par les articles 7 et 8 de l’arrêté préfectoral du 18 juillet 2006, et repris par l’arrêté de mise en demeure du 28 février 2008, n’ont ni été réalisés, ni même été initiés.		
+2005				2005				Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été réalisés par la société SOGREAH en 2003 et 2005.		'la société SOGREAH'
+2011	04	21		2011	04	21		reçu	Son avis, reçu le 21 avril 2011, définit deux scénarios de dépollution et les coûts associés.		
+2003				2003				a_été_imposé	Suite à l’apparition de la pollution aux hydrocarbures dans la cave de l'habitation, il a été imposé depuis 2003 à la SA.	'hydrocarbures'	
+2005				2005				aucune_mesure_de_dépollution	Depuis 2005, aucune mesure de dépollution n'a été  réalisée par la société FERRAPIE.		'par la société FERRAPIE'
+2008	10	13		2008	10	13		transmis	Suite à cette inspection, un procès verbal a été dressé et transmis le 13/10/2008 au Procureur de la République pour non justification de cessation d’activité et poursuite de l’exploitation d’une installation classée non conforme à une mise en demeure.		'la République'
+2003				2003				Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été réalisés par la société SOGREAH en 2003 et 2005.		'la société SOGREAH'
+2003	04	23		2003	04	23		Arrêtés	- Arrêtés du 23/04/2003 et 02/07/2003 : mesures d’urgence de dépollution et réalisation d’un diagnostic approfondi des sols et d’une étude détaillée des risques		
+2005				2005				déménagé	La société FERRAPIE a dépollué en 2004 la partie de son site impactée par la fuite en hydrocarbures et huiles de vidange et déménagé en 2005 après avoir vendu son terrain mais sans avoir réalisé ni la cessation d'activité de l'installation ni les travaux de dépollution de la maison.	'hydrocarbures'	'La société FERRAPIE'
+2004				2004				a_dépollué	La société FERRAPIE a dépollué en 2004 la partie de son site impactée par la fuite en hydrocarbures et huiles de vidange et déménagé en 2005 après avoir vendu son terrain mais sans avoir réalisé ni la cessation d'activité de l'installation ni les travaux de dépollution de la maison.	'hydrocarbures'	'La société FERRAPIE'
+2009	05	10		2009	05	10		un_courrier	La société FERRAPIE, suite à l'arrêté de consignation, représentée par son avocat, a rédigé un courrier le 10 mai 2009, demandant à monsieur le Préfet de la Loire un recours gracieux à cet arrêté préfectoral de consignation.		'La société FERRAPIE', 'le Préfet de la Loire'
+2003	07	02		2003	07	02		Arrêtés	- Arrêtés du 23/04/2003 et 02/07/2003 : mesures d’urgence de dépollution et réalisation d’un diagnostic approfondi des sols et d’une étude détaillée des risques		
+2010	10	19		2010	10	19		une_inspection_sur_site_a_été_réalisée	En dernier lieu, une inspection sur site a été réalisée le 19 octobre 2010 en présence d'un membre de l'ADEME et de France Domaine.		'France Domaine'
+2004				2004				Une_mesure	Une mesure d’air intérieur, dans l’habitation, a été réalisée en 2004 par l’INERIS.		
+2003				2003				s__est_déclarée	En 2003, une fuite de gasoil et d’huile de vidange s’est déclarée sur le site de FTA.	'gasoil'	'FTA'

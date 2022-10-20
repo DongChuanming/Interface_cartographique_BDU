@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			L__étude_de_sol	L'étude de sol (diagnostic initial et évaluation simplifiée des risques) a été remise en novembre 2004.		
+2008	10			2008	10			a_terminé	L'exploitant a terminé en octobre 2008 l'ensemble des travaux demandés et préconisés dans les études réalisées.		
+				2001				a_été_menée	Une activité de traitement thermique a été menée sur le site jusqu'en 2001.		
+2010	10	26		2010	10	26		La_dernière_campagne_de_surveillance	La dernière campagne de surveillance de la qualité des eaux souterraines et superficielles a été effectuée le 26 octobre 2010.		

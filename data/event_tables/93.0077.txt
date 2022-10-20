@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				démantèlement_des_cuves_de_stockage	En 2003, l’exploitant procède au démantèlement des cuves de stockage et du séparateur d’hydrocarbures.	'hydrocarbures'	
+2003	12	04		2003	12	04		un_arrêté_préfectoral_de_dépollution	Le 04/12/2003, un arrêté préfectoral de dépollution est notifié à la société BP.		'la société BP'
+2003				2003				effectue_alors_un_diagnostic_complémentaire	L’exploitant effectue alors un diagnostic complémentaire des eaux souterraines et des sols en 2003.		
+1970				2003				a_exploité	La société BP a exploité sur le site une station service de 1970 à 2003, date à laquelle la société a cessé son activité.		'La société BP'
+2008	04			2008	04			Une_ARR	Une ARR (analyse des risques résiduels) est alors réalisée en avril 2008.		
+1998	10			1998	10			Un_diagnostic_initial_des_sols	Un diagnostic initial des sols est réalisé par le bureau d’études ATI Services en octobre 1998, celui-ci révèle une pollution aux hydrocarbures et aux BTEX (benzène, toluène, éthylbenzène, xylène) de l’air du sol sur la partie centrale du site (aire de distribution).	'hydrocarbures', 'BTEX', 'benzène', 'toluène', 'éthylbenzène', 'xylène'	
+2009				2009				réalise_un_écrémage	Afin d’atteindre le seuil prescrit par l’arrêté préfectoral du 04/12/2003, l’exploitant réalise un écrémage de la phase surnageante de la nappe en 2009 et effectue un suivi de la nappe (de façon semestrielle jusqu’en 2014) qui se poursuit encore actuellement.		
+2004				2006				réalise_des_travaux_de_dépollution	Entre 2004 et 2006, l’exploitant réalise des travaux de dépollution sur le site.		

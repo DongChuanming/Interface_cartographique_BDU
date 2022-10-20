@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_été_réhabilitée	La décharge Village a été réhabilitée en 2006 par Aluminium Pechiney conformément à l’article 1 de l’arrêté préfectoral du 26 septembre 2006 relatif au réaménagement, servitudes et garanties financières concernant la décharge dite « du Village ».		'Aluminium Pechiney'
+2006	10			2010	09			Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont été réalisés entre octobre 2006 et septembre 2010 et ont compris :		
+2016	06	20		2016	06	20		Une_visite	Une visite a été réalisée le 20 juin 2016 pour récoler les travaux de réhabilitation.		
+2005	09			2005	09			Un_diagnostic_approfondi	Un diagnostic approfondi de l'ancienne décharge dite du "Village" a été effectué en septembre 2005 et a montré la présence de métaux, de cyanures, de fluorures et de HAP.	'métaux', 'cyanures', 'fluorures', 'HAP'	
+2016	11	16		2016	11	16		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été délivré le 16 novembre 2016.		
+1908				1972				ont_été_déposés	De 1908 à 1972, les résidus de production de l’usine et les matériaux de démolition provenant de celle-ci ont été déposés dans la Décharge « Village ».		
+2016	08	04		2016	08	04		un_dossier_de_demande	L'exploitant a déposé un dossier de demande d'institution de servitudes d'utilité publique le 4 août 2016.		
+2005	06			2005	06			Un_autocontrôle	Un autocontrôle de la qualité des eaux du Vicdessos et des eaux souterraines est réalisé depuis juin 2005 à une fréquence semestrielle au droit de cet ancien site industriel.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								de_déclaration	La station service TOTAL à Bonson a fait l'objet d'un récépissé de déclaration du 7 septembre 1979 réglementant une activité de stockage et de distribution de liquides inflammables (rubriques n° 253 et 261 bis de la nomenclature).	'de liquides inflammables'	'La station service TOTAL'
+1979	09	07		1979	09	07		de_déclaration	- il ne vise pas l'ensemble du site qui a fait l'objet du récépissé de déclaration du 7 septembre 1979 (la zone de distribution avec boutique et volucompteurs n'est pas reprise) ;		
+2010	05	21		2010	05	21		a_été_transmis	Un dossier de cessation d'activité a été transmis le 21/05/2010.		
+2009	01	15		2009	01	15		a_cessé_son_activité	Un courrier, de l'exploitant, du 13/11/2009 indique que la station service TOTAL relais de CROZIER a cessé son activité depuis le 15/01/2009.		'la station service TOTAL relais de CROZIER'
+1979				1979				de_déclaration	La station service TOTAL à Bonson a fait l'objet d'un récépissé de déclaration du 7 septembre 1979 réglementant une activité de stockage et de distribution de liquides inflammables (rubriques n° 253 et 261 bis de la nomenclature).	'de liquides inflammables'	'La station service TOTAL'

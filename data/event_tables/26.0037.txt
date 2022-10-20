@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09			2001	09			Un_diagnostic	Un diagnostic des sols et des eaux souterraines a été réalisé en août et septembre 2001 dans la zone de l'ancienne conduite fuyarde.		
+2001	06	14		2001	06	14		a_été_mis_en	Par AP du 14 juin 2001, l'exploitant a été mis en demeure :		
+2002	07			2002	07			Les_dernières_analyses_réalisées	Les dernières analyses réalisées fin juillet 2002 font état d'une baisse significative des concentrations en BTEX et en hydrocarbures dissous dans les piézomètres 4 et 5 situés au sud de la conduite fuyarde et l'augmentation de ces mêmes paramètres dans les piézomètres 2 et 3 situés au nord et au nord-ouest.	'BTEX', 'hydrocarbures'	
+2005				2005				avait_pas_été_révélée	Les analyses réalisées en 2006 montrent une concentration toujours importante dans le piezo1 qui n'avait pas été révélée en 2005.	'piezo1'	
+2001	03			2001	03			Des_appels	Des appels d'air récurrents sur le pompe en libre service de "super 98" ainsi que des écarts significatifs dans les jaugeages mensuels ont permis de détecter fin mars 2001 une fuite sur le tuyau qui assure la liaison entre la cuve de "super 98" et la pompe libre service.		
+								Un_diagnostic	Un diagnostic des sols et des eaux souterraines a été réalisé en août et septembre 2001 dans la zone de l'ancienne conduite fuyarde.		
+2008	01			2008	01			Les_dernières_analyses_réalisées	Les dernières analyses réalisées en janvier 2008 donnent les résultats suivants :		
+2006				2006				Les_analyses_réalisées	Les analyses réalisées en 2006 montrent une concentration toujours importante dans le piezo1 qui n'avait pas été révélée en 2005.	'piezo1'	

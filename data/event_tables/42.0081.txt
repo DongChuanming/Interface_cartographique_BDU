@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01			2006	01			3_campagnes_de_surveillance	Seules 3 campagnes de surveillance des eaux souterraines ont été réalisées par le liquidateur en août et décembre 2005 et janvier 2006 afin de répondre aux prescriptions de l'arrêté pré-cité.		
+								3_campagnes_de_surveillance	Seules 3 campagnes de surveillance des eaux souterraines ont été réalisées par le liquidateur en août et décembre 2005 et janvier 2006 afin de répondre aux prescriptions de l'arrêté pré-cité.		
+2005	12			2005	12			3_campagnes_de_surveillance	Seules 3 campagnes de surveillance des eaux souterraines ont été réalisées par le liquidateur en août et décembre 2005 et janvier 2006 afin de répondre aux prescriptions de l'arrêté pré-cité.		
+2001	06	21		2001	06	21		a_été_placée_en_liquidation_judiciaire_par_jugement	La société SA Supervox Automotiv a été placée en liquidation judiciaire par jugement du tribunal de commerce de Saint-Etienne du 21 juin 2001.		'La société SA Supervox Automotiv'
+2001				2001				la_cessation_d__activité	Il n'a pas été l’objet d’investigations au moment de la cessation d’activité de 2001 car il avait déjà été vendu,		
+2004	08	03		2004	08	03		Le_diagnostic	Le diagnostic et l'ESR du 3 août 2004 transmis par le liquidateur n'ont porté que sur les bâtiments 2,3,4 et 5.		
+2005	04	07		2005	04	07		a_été_pris	L’arrêté préfectoral correspondant a été pris le 7 avril 2005 à l'encontre de l'exploitant représenté par un mandataire judiciaire avec un délai de réalisation de 5 mois.		
+1984				1984				construits	- les bâtiments n° 2, 3 et 4 construits en 1984 sont occupés respectivement par les sociétés Plastirol, Emballégo, Imexo, Beecom Direct, L’Atelier (bâtiment 3) et le centre technique communautaire Ondaine (bâtiment 4).		'les sociétés Plastirol', 'Beecom Direct', 'le centre technique communautaire Ondaine'
+2011	10	12		2011	10	12		la_liquidation	Par jugement du TA du 12 octobre 2011, la liquidation a été clôturée  pour insuffisance d'actif.		

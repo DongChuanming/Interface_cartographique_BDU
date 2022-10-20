@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12			2015	12			des_travaux_d__évacuation	• assurer le contrôle de l’état du site à l’issue des travaux d’évacuation (prélèvements d’échantillons de sols résiduels au niveau du fond de forme en décembre 2015).		
+2015	06			2015	06			a_été_détectée	En juin 2015, lors de la réalisation de fouilles archéologiques au droit de l’école Cour de Lorraine située 21 rue des Franciscains à Mulhouse, préalablement à des travaux d'agrandissement des locaux, la présence de mercure à l’état pur a été détectée.	'mercure'	
+2015	12			2015	12			prélèvements	• assurer le contrôle de l’état du site à l’issue des travaux d’évacuation (prélèvements d’échantillons de sols résiduels au niveau du fond de forme en décembre 2015).		
+2015	10			2015	10			prélèvements	• assurer le contrôle de l’état des terres stockées (prélèvements d’échantillons de terres en octobre 2015, au niveau des différents tas),		

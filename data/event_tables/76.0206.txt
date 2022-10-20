@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								sont_remis	Ces rapports études sont remis (respectivement au 8 juin et 22 mai 2007).		
+2004				2004				Cette_étude	Cette étude (rapport d'étape A - Aout 2004 et rapport d'étape B - Avril 2005)concluait à la nécessité d'investigations complémentaires (classe 1).		
+2005	04			2005	04			nécessité_d__investigations_complémentaires	Cette étude (rapport d'étape A - Aout 2004 et rapport d'étape B - Avril 2005)concluait à la nécessité d'investigations complémentaires (classe 1).		
+2007	05	22		2007	05	22		sont_remis	Ces rapports études sont remis (respectivement au 8 juin et 22 mai 2007).		
+2006	03	07		2006	03	07		Une_évaluation_détaillée_et_un_diagnotic_approfondi	Une évaluation détaillée et un diagnotic approfondi ont été prescrits par arrêté préfectoral complémentaire en date du 7 mars 2006.		
+2003	11	19		2003	11	19		une_étude_de_sol	Compte tenu des activités exercées, une étude de sol par le biais d'une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 19 novembre 2003.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				diagnostic	L'étude hydrogéologique réalisée pour les besoins du diagnostic de 2005 a montré l'absence de nappe au droit du site.		
+2005	01	19		2005	01	19		Les_études_remises	Les études remises le 19/01/2005 classe le site en III, "banalisable" pour les usages du moment.		
+1981	12	30		1981	12	30		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 30/12/1981.		

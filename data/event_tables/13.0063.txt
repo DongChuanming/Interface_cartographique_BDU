@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07			2000	07			ESR_prescrite	L'ESR prescrite par l'arrêté préfectoral du 16/06/2000 a été remise à la DRIRE en juillet 2000.		'la DRIRE'
+2011	05	02		2011	05	02		exploité_par	C'est un site est en activité, exploité par FLUXEL depuis le 2/05/2011 (date de la déclaration écrite) et est autorisé par les AP du 23/11/1999, 22/11/2004, .		'FLUXEL'

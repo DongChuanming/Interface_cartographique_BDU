@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08			2011	08			__travaux_de_confinement	- En août 2011: travaux de confinement des boues de la lagune.		
+2012	12			2012	12			réalisé	- Dossier d'ouvrage exécuté: confinement de la lagune, réalisé en décembre 2012.		'la lagune'
+2007	07			2007	07			Le_diagnostic_environnemental	- Le diagnostic environnemental de juillet 2007 a mis en évidence la présence d'anomalies dans les sols par les métaux, hydrocarbures et COHV.	'métaux', 'hydrocarbures', 'COHV'	
+2011	04			2011	04			Réalisation_d_	- Réalisation d'une interprétation des milieux en juin 2010, mis à jour en avril 2011, recommandant un confinement pour la zone sulfaterie et la zone lagune.	'sulfaterie'	'lagune'
+2010	06			2010	06			Réalisation_d_	- Réalisation d'une interprétation des milieux en juin 2010, mis à jour en avril 2011, recommandant un confinement pour la zone sulfaterie et la zone lagune.	'sulfaterie'	'lagune'
+2008	10			2008	10			Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic de la tuberie, en octobre 2008, lequel met en évidence:		

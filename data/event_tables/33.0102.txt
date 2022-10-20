@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09	20		2000	09	20		étude_remise	L'étude remise le 20/09/2000 classe le site en 2 « à surveiller » pour les milieux eaux souterraines et sol et pour les usages du moment.		
+2012	02			2012	02			La_campagne_de	La campagne de Février 2012 laisse apparaître une concentration de 1,5 µg/l de Trichloréthylène en PZ2.	'Trichloréthylène', 'PZ2'	
+1996				1996				a_cessé	Cette activité a cessé en 1996 pour ce qui concerne l'utilisation de PCB et PCT.	'PCB', 'PCT'	
+1993	10	04		1993	10	04		a_été_autorisé	Le site CEGELEC Maintenance et Services, anciennement LABORDE KUPFER REPELEC puis ALSTHOM, a été autorisé, par l'arrêté préfectoral du 04/10/1993.		'Le site CEGELEC Maintenance', 'et Services', 'LABORDE KUPFER REPELEC puis ALSTHOM'
+2000				2000				réviser_le_diagnostic	Dans ces conditions, il y a lieu de réviser le diagnostic réalisé en 2000 pour vérifier ces hypothèses et remettre en place un piézomètre à l'amont hydraulique du site.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	06	20		2018	06	20		a_rédigé	L’inspection a rédigé, le 20 juin 2018, le procès-verbal de récolement et propose de prendre acte de la réhabilitation de l’ancien site pour un usage type industriel ou commercial.		
+2017				2017				a_racheté	En 2017, la société LIDL a racheté les installations.		'la société LIDL'
+2017	10			2017	10			a_communiqué_un_diagnostic	En octobre 2017, l’exploitant a communiqué un diagnostic sur l’état des sols au droit du site qui conclut à une pollution par HAP et HCT sur certaines parties du site.	'HAP', 'HCT'	
+2017	08	23		2017	08	23		a_été_constaté	Lors de l’inspection du 23 août 2017, il a été constaté que le site était entièrement clôturé et que l’extérieur ne présentait pas d’anomalie particulière ni de dépôt de déchets.	'dépôt de déchets'	
+2017	06	26		2017	06	26		a_déclaré_la_cessation_définitive_de_son_activité	Par courrier du 26 juin 2017, Bernard VILLERET a déclaré la cessation définitive de son activité, effective depuis mars 2004 en vue du rachat de son terrain par la société LIDL.		'Bernard VILLERET', 'la société LIDL'
+1980				2004				a_accueilli	Il a accueilli de 1980 à 2004 une activité de dépôt de véhicules hors d’usage et de récupération de certains éléments commercialisables sur les véhicules en vue de la vente, autorisée par l’arrêté préfectoral du 18 février 1980.		
+2017	08	23		2017	08	23		de_l__inspection	Lors de l’inspection du 23 août 2017, il a été constaté que le site était entièrement clôturé et que l’extérieur ne présentait pas d’anomalie particulière ni de dépôt de déchets.	'dépôt de déchets'	
+2018	04	20		2018	04	20		de_l__inspection	Lors de l’inspection du 20 avril 2018, il a été constaté que les terres polluées avaient été excavées et évacuées vers un centre de traitement agréé.		
+2004	03			2004	03			vue	Par courrier du 26 juin 2017, Bernard VILLERET a déclaré la cessation définitive de son activité, effective depuis mars 2004 en vue du rachat de son terrain par la société LIDL.		'Bernard VILLERET', 'la société LIDL'
+2017	10	05		2017	10	05		s__est_engagée	Par courrier du 05 octobre 2017, la société LIDL, devenue propriétaire du site, s’est engagée :		'la société LIDL'
+2018	05	18		2018	05	18		a_communiqué	La société LIDL a communiqué, le 18 mai 2018, le rapport de fin de travaux de réhabilitation du site après excavation des terres polluées.		'La société LIDL'

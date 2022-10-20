@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03			2011	03			des_analyses_complémentaires_de_sols	Suite aux compléments demandés par l'inspection des installations classées, des analyses complémentaires de sols de mars 2011 ont mis en évidence deux nouveaux hot spot que Rhodia envisage de traiter par excavation.		'Rhodia'
+1986				1986				a_été_mis_en_évidence	L'impact hors site a été mis en évidence en 1986 au niveau des champs captant d'eau potable du Nord de l'agglomération de Mulhouse.		
+2011				2011				les_pompages	En 2011, les pompages sur site ont été complétés afin de stopper plus efficacement le transfert de la pollution vers les eaux souterraines en aval du site.		
+2008	05	23		2008	05	23		a_été_pris	Afin de renouveler l'information sur l'existence de ce panache de pollution, un arrêté préfectoral de restriction d'usages des eaux souterraines a été pris le 23 mai 2008.		
+1976				1976				une_fuite_de_NCB_survenue	Il a été attribué majoritairement à une fuite de NCB survenue en 1976 et estimée à environ 300 tonnes.	'NCB'	
+								la_fermeture_partielle_du_champ_captant	La pollution de la nappe phréatique d’Alsace, au Nord de l’agglomération mulhousienne, par des composés chlorés, dont les polluants les plus importants sont les chloronitrobenzènes (NCB), ont conduit à la fermeture totale du champ captant d’Illzach, et à la fermeture partielle du champ captant de Kingersheim dans les années 80.	'des composés chlorés', 'les polluants', 'les chloronitrobenzènes', 'NCB'	
+1986				1986				ont_été_mises_en_oeuvre	Depuis 1986 des démarches visant à confiner le panache de pollution des eaux souterraines ont été mises en oeuvre.		
+2007				2007				En_cessation_d__activité	En cessation d'activité depuis 2007, le site aura une vocation industrielle ou logistique.		
+2007				2007				une_vocation_industrielle_ou_logistique	En cessation d'activité depuis 2007, le site aura une vocation industrielle ou logistique.		
+2007				2007				aura	En cessation d'activité depuis 2007, le site aura une vocation industrielle ou logistique.		

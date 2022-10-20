@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			détectée	En juillet 2002, une pollution des nappes est détectée.		
+2002	07			2008	12			est_mise_en_place	De juillet 2002 à décembre 2008, une surveillance des eaux souterraines est mise en place, 12 prélèvements sont faits.		
+2004				2004				démantèlement_total	Après démantèlement total de la station en 2004, deux autres sources de pollution aux hydrocarbures sont identifiées : le parc de cuves et le séparateur d’hydrocarbures.	'hydrocarbures', 'hydrocarbures'	
+2005	07	13		2005	07	13		la_cessation_d__activité	Le 13 juillet 2005, la cessation d’activité est déclarée.		
+2002				2002				un_premier_diagnostic	Dès 2002, un premier diagnostic des sols et des eaux souterraines est initié par le cabinet ARCADIS (anciennement GESTER).		'ARCADIS', 'GESTER'
+2004				2004				sont_identifiées	Après démantèlement total de la station en 2004, deux autres sources de pollution aux hydrocarbures sont identifiées : le parc de cuves et le séparateur d’hydrocarbures.	'hydrocarbures', 'hydrocarbures'	

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02			2010	02			Le_diagnostic_réalisé	Le diagnostic réalisé par BURGEAP de février 2010 montre :		'BURGEAP'
+2012	10	18		2012	10	18		a_été_mis_en_place	Un piézomètre de 21 mètres de profondeur (PZ9) a été mis en place le 18/10/2012.		
+2014	09	30		2014	09	30		découvre	Le 30/09/2014, l'exploitant découvre a présence de« billes de mercure », situées au fond d’un ancien regard, dans le cadre de travaux de terrassement du projet dit « Drain ouverts versant Nord » (« DOVN »).	'billes de mercure'	
+2011	02	21		2011	02	21		terres_sont_en_cours	Le 21/02/2011, des travaux d'excavation des terres sont en cours.		
+2010	01			2010	01			le_chantier_de_démolition	A l'issue de la découverte du mercure en janvier 2010, le chantier de démolition a été arrêté, des mesures, notamment de pollution de l'air, ont été réalisées.		
+2010	02			2010	02			du_diagnostic	BURGEAP recommande lors du diagnostic de février 2010, le contrôle de la qualité des eaux souterraines au droit du site à une fréquence semestrielle sur trois piézomètres (PZ2, PZ4 et PZ6) pour une durée minimale de quatre ans.		'BURGEAP'
+2009	10			2009	10			découvre_une_pollution_des_sols	En octobre 2009, lors de la réalisation de travaux préparatoire à la mise en place d'un bassin de 1000 m3 pour le confinement des eaux d'extinction d'incendie, l'exploitant découvre une pollution des sols par les métaux et les hydrocarbures.	"eaux d' extinction d' incendie", 'les métaux', 'hydrocarbures'	
+2010	02			2010	02			le_contrôle	BURGEAP recommande lors du diagnostic de février 2010, le contrôle de la qualité des eaux souterraines au droit du site à une fréquence semestrielle sur trois piézomètres (PZ2, PZ4 et PZ6) pour une durée minimale de quatre ans.		'BURGEAP'
+2010				2010				Les_travaux_ont_été_effectués	Les travaux ont été effectués en 2010 avec l'évacuation de :		
+2010	01			2010	01			a_été_découverte	Par ailleurs, et sans que le lien avec la zone de construction du bassin soit établi, à l'occasion de travaux réalisés près de l'ancien bâtiment administratif du site, en janvier 2010, une pollution par le mercure a été découverte.	'mercure'	
+2010	01			2010	01			la_découverte_du_mercure	A l'issue de la découverte du mercure en janvier 2010, le chantier de démolition a été arrêté, des mesures, notamment de pollution de l'air, ont été réalisées.		
+2010	01			2010	01			à_l__occasion	Par ailleurs, et sans que le lien avec la zone de construction du bassin soit établi, à l'occasion de travaux réalisés près de l'ancien bâtiment administratif du site, en janvier 2010, une pollution par le mercure a été découverte.	'mercure'	

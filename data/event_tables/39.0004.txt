@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	01			1998	01			faisait_savoir	En janvier 1998 le ministère de l'environnement faisait savoir que le site ne pouvait bénéficier du Fonds National prévu à cet effet pour les sites orphelins et qu'il revenait à la commune en tant que détenteur du site d'en assurer la prise en charge; des accompagnements financiers étant envisageables par ailleurs.		
+1994				1994				__est_propriétaire_des_lieux	La commune  est propriétaire des lieux depuis 1994.		
+1994	02	28		1994	02	28		a_constaté	Le 28 février 1994 la gendarmerie a constaté la présence sur site d'un transformateur au pyralène éventré.	'pyralène'	
+1949				1987				a_accueilli	Le site a accueilli entre 1949 et 1987 l'usine de fabrication de meubles de l'usine Bulabois.		
+2003	10			2003	10			Des_prélèvements_ponctuels	Des prélèvements ponctuels sur les eaux souterraines ont toutefois été réalisés en octobre 2003 en aval du site.		

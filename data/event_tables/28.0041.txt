@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								sont_définis	Dans le courant des années 1990, des lots à bâtir sont définis et le site est peu à peu urbanisé.		
+2005	02			2005	02			Le_diagnostic_approfondi_de_pollution_des_sols	Le diagnostic approfondi de pollution des sols et l'évaluation détaillée des risques pour la santé humaine ont été réalisés en février 2005.		
+2005	03			2005	03			ont_été_demandés	Des compléments ont été demandés en mars 2005.		
+2007	03			2007	03			Les_travaux	Les travaux portant sur les 3 parcelles habitées se sont terminés en mars 2007.		
+2003	09			2003	09			ont_mis_en	En septembre 2003, des investigations supplémentaires menées sur 5 parcelles du quartier de la Mare aux Moines ont mis en évidence des anomalies dans les sols en HCT, métaux lourds et HAP.	'HCT', 'métaux lourds', 'HAP'	
+2005	09			2005	09			Une_Etude_Détaillée_des_Risques	Une Etude Détaillée des Risques (EDR) a été remise aux services de l'état en septembre 2005.		
+2007	06			2007	06			se_sont_achevés	Ils se sont achevés en juin 2007.		
+2002	10			2002	10			ont_été_réalisés	En octobre 2002, huit sondages ont été réalisés sur les terrains de la SEM, deux sur une parcelle contiguë au Nord Ouest, propriété de la ville de Chartres et un sur une parcelle contiguë au Sud-Est, destinée à la construction de logements.		

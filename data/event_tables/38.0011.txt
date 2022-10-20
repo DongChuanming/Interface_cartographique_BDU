@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a_été_construit	Début 2013, un seul bâtiment a été construit.		
+1917				1917				a_été_créé	Le site a été créé en 1917.		
+2007	07	26		2007	07	26		a_été_soumise	La servitude a été soumise à l'avis des membres du CODERST en date du 26 juillet 2007.		'CODERST'
+								a_été_signé	L'arrêté de servitude (SUP) a été signé la 8 aout 2007.		
+				2007	04	12		a_été_instituée	Une SUP a été instituée et soumis à enquete publique du 12 mars au 12 avril 2007.		
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 01/12/1998.		
+2004				2004				a_cessé	Le site a cessé ses activités courant 2004.		
+2005				2005				les_analyses_effectuées	Seuls de l’arsenic, du chrome et du manganèse ont été retrouvés dans les analyses effectuées en 2005.	'arsenic', 'chrome', 'manganèse'	
+2007				2007				a_été_signé	L'arrêté de servitude (SUP) a été signé la 8 aout 2007.		
+2004	11			2004	11			a_cessé	La société STAHL a cessé son activité fin novembre 2004.		'STAHL'
+2005	12	20		2005	12	20		un_dossier	S'agissant d'un établissement soumis à autorisation avec servitudes (AS), la société TOURMALINE REAL ESTATE a déposé le 20 décembre 2005 un dossier de demande d'autorisation de changement d’exploitant.		'la société TOURMALINE REAL ESTATE'
+2000	12			2000	12			a_été_transmise	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques a été transmise à l'administration en décembre 2000 .		
+2005	02	03		2005	02	03		a_été_adressée	Une demande de compléments concernant l'EDR a été adressée à l'exploitant par courrier daté du 3 février 2005.		
+2003	01	31		2003	01	31		a_été_signé	L'arrêté prefectoral a été signé le 31 janvier 2003.		

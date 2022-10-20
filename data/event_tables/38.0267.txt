@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12			2009	12			Une_campagne_de_prélèvement_a_été_effectuée	Une campagne de prélèvement a été effectuée en décembre 2009.		
+2009	10			2009	10			Les_travaux_ont_débuté	Les travaux ont débuté en octobre 2009.		
+2009	06	04		2009	06	04		ont_été_réalisé	6 sondages ont été réalisé le 04/06/2009 :		
+1966	09	20		1966	09	20		de_déclaration	Le site bénéficiait d'un récépissé de déclaration n°13728 du 20/09/1966 pour un dépôt de liquide inflammables.	'liquide inflammables'	
+2009	09			2009	09			a_été_réalisé	Un rapport sur l'état des lieux des sols a été réalisé par le bureau d'études SITA Remédiation en septembre 2009.		'SITA Remédiation'

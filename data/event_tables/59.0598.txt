@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	27		2006	06	27		__achat	- 27 juin 2006: achat du terrain par la société HLM « Notre Logis »		'la société HLM'
+								a_informé	La Sté BJT INDUSTRIES a informé Monsieur le Préfet du Nord de la reprise d’exploitation des activités de la Sté BODEZ ET FILS, au 248 rue de la Lys à Halluin, et au 221, rue de la Lys : il a été donné acte de cette déclaration respectivement les 16/03/04 et 27/07/05.		'La Sté BJT INDUSTRIES', 'le Préfet', 'la Sté BODEZ ET FILS'
+								__jugement	Le Tribunal de Commerce de Roubaix-Tourcoing, a placé la Société en liquidation judiciaire (jugement du 16/06/05) ; le liquidateur désigné est Maître Jérôme THEETTEN, à MARCQ-EN-BAROEUL.		'Le Tribunal de Commerce de Roubaix', 'Maître Jérôme THEETTEN'
+2004				2004				l__identification	Le premier rapport, d'octobre 2007 rend compte de travaux de dépollution suite à l'identification en 2004 d'une source de pollution constituée de scories contenant des métaux lourd présente dans les remblais.	'des métaux lourd'	
+2007				2007				__travaux_de_dépollution	- 2007: travaux de dépollution effectués par la société « Notre logis » (rapport d'intervention rédigé par la société Taw Environnement le 1er octobre 2007);		'la société Taw'
+2007	10	1		2007	10	1		__travaux_de_dépollution	- 2007: travaux de dépollution effectués par la société « Notre logis » (rapport d'intervention rédigé par la société Taw Environnement le 1er octobre 2007);		'la société Taw'
+2009	10	13		2009	10	13		__clôture_de_la_liquidation_judiciaire	- 13 octobre 2009: clôture de la liquidation judiciaire pour insuffisance d'actif (jugement du tribunal de commerce de Roubaix-Tourcoing).		'de commerce de Roubaix'

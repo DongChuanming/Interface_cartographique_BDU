@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				La_valorisation	La valorisation des sables usagés en technique routière a permis de diminuer la taille du dépôt de plus de 200000t en 2002 à 50000t en 2010	'sables usagés'	
+2003				2003				le	Pour le second semestre 2003 les analyses indiquent, pour les 3 pièzomètres, des concentrations en Hydrocarbures Totaux < 100µg/l (seuil limite de détection de l'appareil de mesure) pour une V.	'Hydrocarbures Totaux'	
+1998	03			1998	03			ont_été_mis_en_place	Trois piézomètres ont été mis en place en mars 1998 sous le crassier.		
+2002				2002				La_valorisation	La valorisation des sables usagés en technique routière a permis de diminuer la taille du dépôt de plus de 200000t en 2002 à 50000t en 2010	'sables usagés'	
+1998				1998				Les_analyses_réalisées	Les analyses réalisées, en 1998 n'ont mis en évidence aucun impact sur les eaux souterraines.		
+2010	12			2010	12			un_nouveau_dossier	La société a déposé en décembre 2010 un nouveau dossier de demande d'autorisation d'exploiter pour mettre à jour sa situation administrative.		

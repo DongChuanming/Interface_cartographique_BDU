@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				ont_été_apportés	Des compléments ont été apportés en 2013, 2014, 2015 et 2017.		
+2013				2013				ont_été_apportés	Des compléments ont été apportés en 2013, 2014, 2015 et 2017.		
+2008				2008				A	A partir de 2008, la société SBG a fait dresser un état des lieux des pollutions pouvant potentiellement impacter son site compte tenu des activités passées.		'la société SBG'
+1992	03	20		1992	03	20		a_été_autorisée_à_exploiter	La société SBG a été autorisée à exploiter une installation de traitement de surface des métaux et de galvanisation par arrêté préfectoral du 20 mars 1992.		'La société SBG'
+2008				2008				a_transféré	En 2008, la société a transféré ses activités (SBG2) sur un terrain jouxtant le site initialement exploité afin de remplacer les anciennes installations.		'la société', '( SBG2'
+2014				2014				ont_été_apportés	Des compléments ont été apportés en 2013, 2014, 2015 et 2017.		
+2017				2017				ont_été_apportés	Des compléments ont été apportés en 2013, 2014, 2015 et 2017.		
+2011	10			2011	10			La_cessation_d__activité	La cessation d'activité de la première installation (SBG1) a été notifiée en octobre 2011.		'SBG1'
+2008				2008				est_mis_en_place	Le suivi est mis en place depuis 2008 :		
+2008				2008				un_état_des_lieux	A partir de 2008, la société SBG a fait dresser un état des lieux des pollutions pouvant potentiellement impacter son site compte tenu des activités passées.		'la société SBG'
+1977				1977				exerce_ses_activités	Cependant, l'établissement exerce ses activités depuis 1977.		

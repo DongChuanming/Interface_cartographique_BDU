@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12			2006	12			Un_diagnostic_approfondi	Un diagnostic approfondi et une étude sanitaire ont été réalisés en décembre 2006.		
+2007	01	30		2007	01	30		est_arrêté	A la suite d'une expropriation pour cause d'utilité publique (reconstruction du Lycée Michel Anguier), le site est arrêté le 30 janvier 2007.		
+1946				1946				a_été_exploité	Il a été exploité par la société VERSTRAETE dès 1946.		'la société VERSTRAETE'
+2006	02			2006	02			Une_première_étude_de_sols	Une première étude de sols a été réalisée en février 2006 (ESR).		

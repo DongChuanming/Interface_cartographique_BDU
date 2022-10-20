@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1997				a_été_utilisé	Le site (8 hectares environ) a été utilisé en partie par les Chantiers de l'Atlantique de 1976 jusqu'en 1997.		
+2001				2001				Les_analyses_réalisées	Les analyses réalisées en 2001 et 2002 n'ont pas mis en évidence de pollution des eaux souterraines par les polluants précités.	'les polluants'	
+2002				2002				Les_analyses_réalisées	Les analyses réalisées en 2001 et 2002 n'ont pas mis en évidence de pollution des eaux souterraines par les polluants précités.	'les polluants'	
+1998	04	28		1998	04	28		a_été_pris	Un arrêté préfectoral a été pris le 28/04/1998 au titre de la loi sur l'eau pour autoriser le remblaiement et fixer les prescriptions relatives au suivi des eaux qui sera pris en charge par le Port Autonome.		'le Port Autonome'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	04			1992	04			La_fuite_a_été_découverte	La fuite a été découverte en avril 1992 et la pollution détectée en septembre 1993 dans le puits de captage d'eau potable de la ville de Longvic qui a dû être condamné.		
+1992	09			1992	09			Les_travaux_de_réparation_et_de_modernisation	Les travaux de réparation et de modernisation de la station service ont débutés en septembre 1992.		
+1994				1994				Les_études_réalisées	Les études réalisées en 1994 et complétées en 1995 confirment qu'aucune dépollution du sol ni de la nappe n'est justifiée.		
+1992				1992				une_fuite	C'est la station service de distribution de carburants de la grande surface LECLERC de Marsannay construite en 1987 qui est à l'origine d'une fuite d'essence sans plomb en 1992.	'carburants', 'essence sans plomb'	
+1993	09			1993	09			détectée	La fuite a été découverte en avril 1992 et la pollution détectée en septembre 1993 dans le puits de captage d'eau potable de la ville de Longvic qui a dû être condamné.		
+2005	12	31		2005	12	31		une_explosion	Au 31 décembre 2005, il s'est produit une explosion au niveau des cuves de stockage de carburant.	'carburant'	
+2007	08			2007	08			Les_dernières_analyses	Les dernières analyses d'août 2007 montre l'absence de pollution.		
+1995				1995				complétées	Les études réalisées en 1994 et complétées en 1995 confirment qu'aucune dépollution du sol ni de la nappe n'est justifiée.		
+2013	08			2013	08			a_fourni	A la demande de l'Inspection des installations classées, l'exploitant a fourni un bilan quadriennal de la surveillance des eaux souterraines en août 2013.		
+2000				2000				a_été_allégé	Un suivi régulier de la qualité des eaux de la nappe réalisée depuis 1998 sur 5 piézomètres a été allégé en 2000.		

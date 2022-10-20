@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02			2012	02			Dans_son_rapport_du_17	Dans son rapport du 17 février 2012, CSD Ingénieurs conclut que suite aux investigations, il a été découvert un impact significatif sur la qualité des remblais et ponctuellement sur le terrain naturel (teneurs significatives en COHV et HCT).	'investigations'	
+								novembre_2014	Une réunion en présence de l'exploitant et du bureau d'études SOCOTEC a eu lieu le 12 novembre 2014 pour examiner le respect de l'arrêté préfectoral du 23 avril 2014.		'pour examiner le respect'
+2013	10			2013	10			du_24	L’inspection considère, dans son rapport du 24 octobre 2013, que les prescriptions de l’arrêté préfectoral de mise en demeure ne sont que partiellement respectées.		
+								préfectoral_du_23_avril_2014__	Une réunion en présence de l'exploitant et du bureau d'études SOCOTEC a eu lieu le 12 novembre 2014 pour examiner le respect de l'arrêté préfectoral du 23 avril 2014.		'pour examiner le respect'

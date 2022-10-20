@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05			2004	05			a_été_découverte	Une pollution aux solvants chlorés a été découverte en mai 2004 sur le piézomètre se situant en amont hydraulique du site ; l'origine de cette pollution n'a pas été identifiée.	'chlorés'	
+1962				1962				implantée	Usine implantée à Cormelles-le-Royal, depuis 1962, dans les murs d'une ancienne fabrique d'explosifs, sur un site d'une superficie totale de 232 800 m2.		
+								débute	La fabrication des fours micro-ondes débute dans les années 80.		
+2002	01			2002	01			a_été_transmis	Le diagnostic initial a été transmis en janvier 2002.		
+1996	04	03		1996	04	03		a_été_sélectionné	Étant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie (devenue DREAL), dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie', 'devenue DREAL'
+2001				2001				a_cessé	Le site a cessé son activité au second semestre 2001.		
+2003	12			2003	12			a_vendu	L'EPBS (Établissement Public de Basse Seine), devenue propriétaire du terrain, a vendu le site à la SHEMA en décembre 2003, qui a ensuite revendu certains terrains et locaux a différentes sociétés.		"L' EPBS", 'la SHEMA'
+2009				2009				a_racheté	En 2009, la ville de Cormelles le Royal a racheté une partie du terrain à la SHEMA (parcelles AK 37 - 38 - 41 - 50 - 68 - 69 - 70 - 93 - 116) avec pour projet la construction de logements.		'la SHEMA'
+1998				1998				a_été_centralisée	En 1998, la totalité de cette fabrication, auparavant répartie entre le site de Cormelles et celui de Carpiquet, a été centralisée sur le site de Cormelles.		'Carpiquet'
+2004	04	30		2004	04	30		ont_été_instituées	Des servitudes d'utilité publique ont été instituées par arrêté préfectoral du 30 avril 2004.		
+2003	03			2003	03			a_finalement_été_transmise	Elle a finalement été transmise en mars 2003, complétée par de nouvelles investigations au droit des secteurs potentiellement pollués, après enlèvement des machines et équipements industriels.		
+2003	12			2003	12			a_ensuite_revendu_certains_terrains	L'EPBS (Établissement Public de Basse Seine), devenue propriétaire du terrain, a vendu le site à la SHEMA en décembre 2003, qui a ensuite revendu certains terrains et locaux a différentes sociétés.		"L' EPBS", 'la SHEMA'

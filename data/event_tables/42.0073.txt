@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977	08	05		1977	08	05		Le_fonctionnement_de	Le fonctionnement de la décharge a été autorisée par arrêté du 5 août 1977.		
+2001	12	21		2001	12	21		La_fermeture_de	La fermeture de l'UIOM étant effective le 21 décembre 2001, le Préfet de la Loire demandait à la Communauté de Communes du Pays de St-Bonnet-le-Chateau, par arrêté du 21 mars 2002, une étude d'évaluation quantitative des risques sanitaires.		'le Préfet de la Loire', 'la Communauté de Communes', 'St - Bonnet'
+1981	10	27		1981	10	27		l__incinérateur	L'installation de l'Unité d'Incinération d'Ordures Ménagères (UIOM) s'est faite dans les années 80 pour remplacer la décharge. l'incinérateur a été autorisé par l'arrêté préfectoral du 27 octobre 1981.		
+1966				1966				L__ouverture	L'ouverture de la décharge des Bœufs remonte à 1966.		
+2001	12	21		2001	12	21		a_été_mis_à_l__arrêt_définitif	Le 21 décembre 2001, l'incinérateur a été mis à l’arrêt définitif.		
+2002	03	26		2002	03	26		était_déposé	Parallèlement à ces démarches, était déposé, le 26 mars 2002 à la préfecture, un projet concernant l'installation d'une station de transit pour ordures ménagères et autres résidus urbains au droit du site de l'incinérateur.	'ordures ménagères', 'résidus urbains'	
+2002	10	14		2002	10	14		a_été_signé	Un arrêté préfectoral de mise en demeure a été signé le 14 octobre 2002 afin de faire respecter l'arrêté préfectoral du 21 mars 2002 sous un délai d'un mois.		
+1981				1981				un_incinérateur	Elle disposait, implanté sur les communes d'Estivareilles et de Luriecq, d'un terrain sur lequel un incinérateur d'ordures ménagères était installé depuis 1981 sur une plate-forme surplombant l'ancienne décharge d'OM des Boeufs.		
+								L__installation	L'installation de l'Unité d'Incinération d'Ordures Ménagères (UIOM) s'est faite dans les années 80 pour remplacer la décharge. l'incinérateur a été autorisé par l'arrêté préfectoral du 27 octobre 1981.		
+2005	03	23		2005	03	23		son_rapport	Dans son rapport du 23 mars 2005, l'inspection rappelait que  l'incinérateur a été démoli et qu'un quai de transfert a été construit à sa place.		

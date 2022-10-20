@@ -1,11 +1,12 @@
-IYear	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1959									était_installée	La_société_BRODARD_GRAPHIQUE							
-1998									appartenait___au								
-1998				1998					ont_été_cédées								
-2009	11	23		2009	11	23		le_Tribunal_de_Commerce_de_Meaux	l__ouverture	d__une_procédure		a_prononcé					
-2010	07	05		2010	07	05			un_autre_jugement								
-2010	07	07		2010	07	07		Le_site	a_été_déclaré_en_cessation_d__activité								
-2012	07			2012	07			Le_liquidateur_judiciaire	a_déclaré								
-2010	09	09		2010	09	09			a_été_envoyé								
-2011	07			2011	07				n__était_plus_alimenté	le_site							
-2011	12			2011	12				Les_réponses_envoyées	le_liquidateur_judiciaire							
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	07	05		2010	07	05		un_autre_jugement	Par un autre jugement en date du 5 juillet 2010, le Tribunal de Commerce de Meaux, a converti la procédure en liquidation judiciaire et a nommé un liquidateur judiciaire.		'le Tribunal de Commerce de Meaux'
+1998				1998				ont_été_cédées	Les activités de façonnage (reliure des cahiers par agrafage ou collage) ont été cédées en 1998 à un professionnel pour créer la société NOUVELLE BROCHURE qui devient locataire d’une partie des bâtiments et des équipements de BRODARD GRAPHIQUE.		'la société NOUVELLE BROCHURE', 'BRODARD GRAPHIQUE'
+2009	11	23		2009	11	23		a_prononcé_l__ouverture_d__une_procédure_de_redressement_judiciaire	Par jugement en date du 23 novembre 2009, le Tribunal de Commerce de Meaux, a prononcé l’ouverture d’une procédure de redressement judiciaire à l’égard de la Société BRODARD GRAPHIQUE.		'le Tribunal de Commerce de Meaux', 'la Société BRODARD GRAPHIQUE'
+2011	07			2011	07			n__était_plus_alimenté_en	En juillet 2011, le site n'était plus alimenté en eau, électricité et en gaz.		
+2010	07	05		2010	07	05		a_converti	Par un autre jugement en date du 5 juillet 2010, le Tribunal de Commerce de Meaux, a converti la procédure en liquidation judiciaire et a nommé un liquidateur judiciaire.		'le Tribunal de Commerce de Meaux'
+1998				1998				appartenait___au	L’entreprise appartenait  au groupe MAURY, spécialisé dans l’impression, depuis 1998.		'au groupe MAURY'
+2012	07			2012	07			a_déclaré	Le liquidateur judiciaire a déclaré en juillet 2012 ne plus posséder aucun fond.		
+1998				1998				l__impression	L’entreprise appartenait  au groupe MAURY, spécialisé dans l’impression, depuis 1998.		'au groupe MAURY'
+2010	07	07		2010	07	07		a_été_déclaré_en_cessation_d__activité	Le site a été déclaré en cessation d'activité le 7 juillet 2010.		
+1959				1959				était_installée	La société BRODARD GRAPHIQUE était installée depuis 1959 sur la zone industrielle de Coulommiers.		'La société BRODARD GRAPHIQUE'
+1998				1998				__spécialisé_dans	L’entreprise appartenait  au groupe MAURY, spécialisé dans l’impression, depuis 1998.		'au groupe MAURY'

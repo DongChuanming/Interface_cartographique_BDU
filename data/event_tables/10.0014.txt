@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1973				est_opérationnel	En 1973, l'atelier et traitement de surface est opérationnel et en fonction.		
+1972				1972				est_occupé	Le site est occupé depuis 1972 par l'entreprise Création Richard, usine gérée par les parents de M.		
+2007	08	22		2007	08	22		ont_été_totalement_arrêtées	Au 22/08/2007, les activités de RICA ont été totalement arrêtées, à l'exception de l'atelier peinture qui est exploité à présent par "Richard Créations".		'RICA'
+1989				1989				l__agrandissement	La seule modification apportée est l'agrandissement de RICA au niveau de l'atelier de peinture en 1989.		
+2009				2009				a_finalement_été_liquidée	La société a finalement été liquidée fin 2009.		
+1981				1981				début_d__exploitation	1972 à 1981: début d'exploitation, grande activité sans station d'épuration.		
+1973				1973				a_été_créée_en	RICA a été créée en 1973, par M.		'RICA'
+1996	04	03		1996	04	03		Le_diagnostic_initial_de_sols	Le diagnostic initial de sols et l'évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 14/05/1998 dans le cadre de la circulaire du 03/04/1996.		
+1989				1989				s__est_rajouté_aux_activités	Un atelier de peinture en poudre et liquide s'est rajouté aux activités de l'usine en 1989.		
+1972				1972				début_d__exploitation	1972 à 1981: début d'exploitation, grande activité sans station d'épuration.		
+1973				1973				créé	Traitement de surface créé en 1973.		
+1999	12	07		1999	12	07		Le_diagnostic_initial_et_l__évaluation_simplifiée_des_risques	Le diagnostic initial et l'évaluation simplifiée des risques rédigés par le cabinet LISEC ont été remises le 7/12/1999.		'le cabinet LISEC'
+1998	05	14		1998	05	14		Le_diagnostic_initial_de_sols	Le diagnostic initial de sols et l'évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 14/05/1998 dans le cadre de la circulaire du 03/04/1996.		

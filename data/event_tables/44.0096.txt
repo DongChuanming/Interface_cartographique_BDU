@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	05		2003	06	05		a_été_autorisée	La nouvelle décharge a été autorisée par arrêté du 5 juin 2003.		
+1988				1988				exploite	La société FMGC exploite, depuis 1988, une unité de fabrication de contrepoids de fontes pour  des chariots élévateurs, des grues, des engins de chantiers....		'La société FMGC'
+2001				2001				autorisée	L'ancienne décharge, autorisée en 2001, correspond à une zone de 1,4 ha sur laquelle était entreposée illégalement des déchets de l'activité de la fonderie.		

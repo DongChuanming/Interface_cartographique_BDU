@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				Une_analyse_des_eaux_souterraines	Une analyse des eaux souterraines en  2007 a montré que :		
+2004	12			2004	12			la_réalisation_d__un_diagnostic	Dans le cadre du projet de réaménagement du site, la Préfecture du Cher a imposé en décembre 2004 la réalisation d'un diagnostic de l'état de pollution du site et d'une évaluation simplifiée des risques (ESR).		'la Préfecture'
+				2005	05	20		un_premier_temps	Des travaux de dépollution des sols ont été réalisés dans un premier temps du 17 au 20 mai 2005, et dans un second temps du 26 au 30 juin 2006 où 310 tonnes de terres souillées par des hydrocarbures ont été évacuées en vue d’un traitement biologique.	'hydrocarbures'	
+2005	03	18		2005	03	18		de_mise_à_l__arrêt_définitif	Ces analyses ont prouvé que le site répond aux demandes de remise en état du récépissé de mise à l'arrêt définitif du 18 mars 2005.		
+2005	02	09		2005	02	09		de_6_sondages_de_sol	Dans le cadre du diagnostic, une campagne d'investigation a été menée en se basant sur la réalisation de 6 sondages de sol, réalisés le 9 février 2005, et sur celle de prélèvements d'eau souterraine.		
+2001				2001				n__est_plus_en_activité	Le site n'est plus en activité depuis 2001.		
+1932				1932				ont_eu_lieu	Des activités de distribution de carburants, garage automobile et lavage de voitures ont eu lieu sur le site à partir de 1932.	'carburants'	
+				2005	05	20		Des_travaux_de_dépollution	Des travaux de dépollution des sols ont été réalisés dans un premier temps du 17 au 20 mai 2005, et dans un second temps du 26 au 30 juin 2006 où 310 tonnes de terres souillées par des hydrocarbures ont été évacuées en vue d’un traitement biologique.	'hydrocarbures'	
+2005	02	09		2005	02	09		la_réalisation	Dans le cadre du diagnostic, une campagne d'investigation a été menée en se basant sur la réalisation de 6 sondages de sol, réalisés le 9 février 2005, et sur celle de prélèvements d'eau souterraine.		

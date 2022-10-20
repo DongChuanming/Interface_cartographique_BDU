@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				étant_réalisée	- l’absence d’impact des RBA sur la qualité des eaux souterraines (la surveillance des eaux souterraines étant réalisée depuis 1990, elle a révélé pour l'ensemble des paramètres analysés que les eaux souterraines à l'aval hydraulique immédiat de la décharge ne présentent pas de traces de pollution.).		
+				1988				a_été_comblé	Le site a fait l’objet de l’exploitation d’une sablière jusqu’à 6 m de profondeur avant les années 1970, puis a été comblé par des RBA jusqu’en 1988 par différents exploitants (volume stocké d’environ 180 000 m3).		
+2003	06			2003	06			a_été_réalisé	Le dossier de cessation d’activité de la décharge a été réalisé en juin 2003.		
+1993				1993				a_déposé	En 1993-1994, la Société ESKA a déposé 4 000 t de RBA et 55 t de terres saines dans la partie Ouest du site, soit environ 6 000 m3 de matériaux.		'la Société ESKA'
+2003	02			2003	02			Des_études_de_sol	Des études de sol ont été réalisées en février 2003.		
+1994				1994				a_déposé	En 1993-1994, la Société ESKA a déposé 4 000 t de RBA et 55 t de terres saines dans la partie Ouest du site, soit environ 6 000 m3 de matériaux.		'la Société ESKA'
+								l__exploitation	Le site a fait l’objet de l’exploitation d’une sablière jusqu’à 6 m de profondeur avant les années 1970, puis a été comblé par des RBA jusqu’en 1988 par différents exploitants (volume stocké d’environ 180 000 m3).		
+2011				2011				de_la_visite	Lors de la visite de l'inspection en 2011, il est constaté les points suivants :		
+1994				1994				a_cessé	La Société ESKA a cessé son activité sur la décharge de MARLY depuis 1994.		'La Société ESKA'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				a_été_construite	En 1993, la déchetterie de Saint Aubin de Blaye a été construite sur l’ancienne décharge.		
+1991				1991				fermée	Le site de l’ancienne décharge communale non autorisée (fermée en 1991) se trouve à environ 1,3 km au Sud-Ouest du centre ville de Saint Aubin de Blaye et à 300 – 400 m des hameaux des Amelins et du Champs des Chailles.		
+1993				1993				est_installée	Depuis 1993, une déchetterie est installée sur les parcelles appartenant au SMICVAL, ce qui a entraîné des travaux sur le site (aplanissement de l’ensemble du site et création d’un deuxième niveau de terrain).		
+2001				2001				aurait_accueilli	Selon l’étude SAUNIER TECHNA de 2001, cette installation, aurait accueilli des déchets toxiques en quantité dispersées, des déchets industriels spéciaux, des carcasses de voiture, des encombrants, des matériaux inertes et des déchets agricoles.	'des déchets toxiques', 'des déchets industriels spéciaux', 'matériaux inertes'	'SAUNIER TECHNA'

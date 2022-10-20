@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_cessé_toute_activité	L'usine a cessé toute activité en 1998 suite à un arrêté de suspension en date du 30 décembre 1998.		
+								la_réalisation_dans	Aussi, sur proposition de la DRIRE Midi-Pyrénées, un arrêté préfectoral du 13 août 1999 a imposé au SIDEL la réalisation dans un délai de 6 mois d'une étude de sols sur la totalité du site d'exploitation de l'usine d'incinération.		'la DRIRE Midi - Pyrénées'
+2000	12			2000	12			a_été_relancé	L'exploitant a été relancé en décembre 2000.		
+								d__une_étude_de_sols	Aussi, sur proposition de la DRIRE Midi-Pyrénées, un arrêté préfectoral du 13 août 1999 a imposé au SIDEL la réalisation dans un délai de 6 mois d'une étude de sols sur la totalité du site d'exploitation de l'usine d'incinération.		'la DRIRE Midi - Pyrénées'
+1998	12	30		1998	12	30		a_été_pris	Compte tenu du non respect des prescriptions réglementaires et sur proposition de la DRIRE Midi-Pyrénées, un arrêté préfectoral a été pris le 30 décembre 1998 suspendant le fonctionnement de l'installation à compter du 28 février 1999.		'la DRIRE Midi - Pyrénées'
+2000	03			2000	03			L__étude	L'étude réalisée en mars 2000 conclut à l'absence d'impact significatif sur les eaux souterraines, mais à un possible impact sur le sol.		
+								ayant_transité	Compte tenu du volume de mâchefers y ayant transité pendant 9 ans et des résultats de l'analyse précitée, le site était donc susceptible d'avoir été à l'origine de pollutions ponctuelles ou diffuses des sols qu'il convenait d'identifier.		
+1999	02	28		1999	02	28		a_été_pris	Compte tenu du non respect des prescriptions réglementaires et sur proposition de la DRIRE Midi-Pyrénées, un arrêté préfectoral a été pris le 30 décembre 1998 suspendant le fonctionnement de l'installation à compter du 28 février 1999.		'la DRIRE Midi - Pyrénées'
+1998	12	30		1998	12	30		a_cessé_toute_activité	L'usine a cessé toute activité en 1998 suite à un arrêté de suspension en date du 30 décembre 1998.		

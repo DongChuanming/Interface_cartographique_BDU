@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1956	10	01		1956	10	01		fut_arrêtée	Elle fut arrêtée le 01 octobre 1956.		
+2015	04			2015	04			a_été_neutralisé	Le piézomètre PZE a été neutralisé en avril 2015.		
+2013	07	04		2013	07	04		a_été_installé	La campagne de juillet 2013 a intégré un nouveau piézomètre implanté sur la voie publique, au Nord du site propriété de GDF SUEZ : il s'agit du piézomètre PZE qui a été installé le 4 juillet 2013 en aval du piézomètre PZ2.		'GDF SUEZ'
+2015	04			2015	04			la_campagne	Le sens d'écoulement n'a pas pu être confirmé lors de la campagne d'avril 2015.		
+2015	04			2015	04			ont_pu_être_prélevés	En raison de l'inaccessibilité des piézomètres PZ3 et PZ2, seuls les ouvrages PZ4 et PZD ont pu être prélevés pendant la campagne d'avril 2015.		
+2006	03	29		2006	03	29		a_transmis	Conformément à l'arrêté préfectoral du 29 mars 2006, la société GDF SUEZ a transmis les résultats des différentes campagnes relatives au suivi de la qualité des eaux souterraines.		'la société GDF SUEZ'
+1995				1995				un_audit_environnemental	En 1995, la société Gaz de France a remis un audit environnemental regroupant les recherches historiques et documentaires ainsi que l'ensemble des travaux effectués, les résultats d'analyses et leur interprétation.		'la société Gaz de France'
+2013	07			2013	07			La_campagne	La campagne de juillet 2013 a intégré un nouveau piézomètre implanté sur la voie publique, au Nord du site propriété de GDF SUEZ : il s'agit du piézomètre PZE qui a été installé le 4 juillet 2013 en aval du piézomètre PZ2.		'GDF SUEZ'
+1995				1995				réalisé	- d'investigations complémentaires pour s'assurer de la cohérence du diagnostic réalisé dans le cadre du projet d'aménagement avec celui réalisé en 1995.		
+2008				2008				analyses_du_suivi	Les résultats des analyses du suivi de 2008 et 2009 de la nappe des eaux souterraines ont mis en évidence des teneurs élevées pour les paramètres benzène et HAP au droit de 2 ouvrages (PZ2 et PZ4).	'benzène', 'HAP'	
+2011	04			2011	04			des_analyses	Pour répondre à la demande de la DRIEE, des analyses de la qualité de l'air du sol ont été réalisées en avril 2011.		'la DRIEE'
+2014	10			2014	10			un_nivellement	En octobre 2014, un nivellement a été réalisé sur l'ensemble des ouvrages.		
+2012	11			2012	11			a_confirmé	Suite aux réunions organisées avec la DRIEE en juillet 2011 et en novembre 2012, la société GDF SUEZ a confirmé la réalisation :		'la DRIEE', 'la société GDF SUEZ'
+2004				2004				une_étude_hydrogéologique	En 2004, la société Gaz de France a remis une étude hydrogéologique, accompagnée d'une nouvelle proposition d'implantation de piézomètres et des résultats d'une première campagne d'analyse de la qualité des eaux souterraines.		'la société Gaz de France'
+1890				1956				a_été_exploitée	Cette usine a été exploitée de 1890 à 1956 pour l'éclairage et le chauffage de la ville de Chelles et des communes voisines.		
+1963				1963				a_été_vendue_à	Une partie du site a été vendue à une entreprise industrielle en 1963.		
+1890	01	27		1890	01	27		a_été_démarrée	Elle a été démarrée le 27 janvier 1890 par la Société Anonyme d’Éclairage et de Chauffage par le gaz.		'la Société Anonyme'
+1912				1912				fut_reprise	L'usine fut reprise en 1912 par la Société Industrielle du Gaz et de l’Électricité et par la société Gaz de France en 1946.		'la Société Industrielle du Gaz', 'la société Gaz de France'
+2009				2009				analyses_du_suivi	Les résultats des analyses du suivi de 2008 et 2009 de la nappe des eaux souterraines ont mis en évidence des teneurs élevées pour les paramètres benzène et HAP au droit de 2 ouvrages (PZ2 et PZ4).	'benzène', 'HAP'	
+2014	10			2014	10			La_campagne_d_	La campagne d'octobre 2014 montre que le sens d'écoulement des eaux souterraines est inversé.		
+1999				1999				une_étude_détaillée_des_risques	Aussi, dans le cadre d'un projet immobilier, une étude détaillée des risques a été réalisée en 1999 sous la responsabilité de la société Gaz de France.		'la société Gaz de France'
+2006	03	29		2006	03	29		a_été_signé	L'arrêté de prescriptions complémentaires imposant à la société Gaz de France la réalisation d'un réseau piézométrique et la surveillance semestrielle des eaux souterraines au droit du site a été signé par Monsieur le Préfet de Seine et Marne le 29 mars 2006.		'la société Gaz', 'de France', 'le Préfet'

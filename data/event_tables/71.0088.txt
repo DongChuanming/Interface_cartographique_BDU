@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				1er_décembre	L’intervention a eu lieu le 1er décembre 2000 et a consisté en la réalisation de 6 forages à la tarière mécanique jusqu’à la profondeur maximale de 7,50 m.		'la réalisation', 'tarière mécanique'
+1996				1996				autorisé_à_stocker_des_déchets	En 1996 , cette société est autorisé à stocker des déchets ménagers spéciaux.	'spéciaux .'	'cette société est autorisé'
+2000				2000				L__intervention_a_eu_lieu_le	L’intervention a eu lieu le 1er décembre 2000 et a consisté en la réalisation de 6 forages à la tarière mécanique jusqu’à la profondeur maximale de 7,50 m.		'la réalisation', 'tarière mécanique'

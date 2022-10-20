@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	11			2003	11			ont_été_transmises	Des observations ont été transmises à l'exploitant en novembre 2003 concernant des teneurs significatives en solvant dans les résultats d'analyses des eaux souterraines.	'solvant'	
+2002	10	02		2002	10	02		a_été_remis	Le rapport final a été remis le 2 octobre 2002.		

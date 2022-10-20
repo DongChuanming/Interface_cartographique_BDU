@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	23		2010	09	23		L__arrêt_de	L'arrêt de l'activité a été constaté  le 23 septembre 2010 par l'inspection des installations classées.		
+2012	09	20		2012	09	20		une_mise_en_demeure	Le préfet a effectué une mise en demeure n°2012264-002 du 20 septembre 2012, compte tenu du futur usage résidentiel du site avec les abords proches de l'habitation en pelouse et le reste du site, comme terrain attenant.		'Le préfet'
+2011	02	24		2011	02	24		une_notification_de_cessation_d__activité	Le 24 février 2011, une notification de cessation d'activité a été réalisée accompagnée d'un changement d'usage en un terrain résidentiel.		
+2011	02			2011	02			des_investigations_sur_les_sols	Les résultats des investigations sur les sols de février 2011 ont mis en évidence :		
+1999				1999				a_été_autorisée	L'entreprise LEFAUCHEUR a été autorisée en 1999 par arrêté préfectoral n°99.3163 à exploiter un  dépôt de ferrailles et de véhicules hors d'usage  (VHU) dont le stockage maximum est de 70 VHU.		'LEFAUCHEUR'
+1991				2003				a_exercé_les_mêmes_activités	Le site a exercé les mêmes activités entre 1991 et 2003, à savoir : stockage de différents métaux (ferraille mêlée, platinage, cuivre, fonte, aluminium...), stockage d'épaves de véhicules automobiles et agricoles, stockage de matériel agricole de culture.	'cuivre', 'aluminium'	
+2011	03	04		2011	03	04		__a_été_vendu	Le site  a été vendu le 4 mars 2011 à des particuliers.		

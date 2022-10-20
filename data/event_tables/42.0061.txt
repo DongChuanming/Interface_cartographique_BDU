@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	05	16		1997	05	16		a_été_mise_en_redressement_judiciaire	La société a été mise en redressement judiciaire le 16 mai 1997 et un plan de cession total a été prononcé le 11 mars 1998.		
+2013	03	21		2013	03	21		a_porté_à_connaissance	Par courrier du 21 mars 2013, la DDPP a porté à connaissance du maire du Chambon Feugerolles les éléments à prendre en compte dans le règlement d'urbanisme.		'la DDPP'
+1998	03	11		1998	03	11		a_été_mise_en_redressement_judiciaire	La société a été mise en redressement judiciaire le 16 mai 1997 et un plan de cession total a été prononcé le 11 mars 1998.		
+2003	06			2003	06			Le_diagnostic_approfondi_transmis	Le diagnostic approfondi transmis en juin 2003 montre :		
+2009	03	24		2009	03	24		a_pris_acte	Par rapport du 24 mars 2009, l'Inspection des installations classées a pris acte de la cessation d'activité notamment au regard de l'avancement de la réhabilitation et des éléments portés à sa connaissance.		
+1998	03	11		1998	03	11		a_été_prononcé	La société a été mise en redressement judiciaire le 16 mai 1997 et un plan de cession total a été prononcé le 11 mars 1998.		
+2008	02	1		2008	02	1		transmis	La société d'équipement du département de la Loire (SEDL)a transmis le 1er février 2008 un dossier de cessation d'activité, la surveillance des eaux souterraines et un dossier de réalisation de servitudes.		'La société', 'la Loire', 'SEDL)a'
+1850				1961				ayant_exploité	L’Étude Simplifiée des Risques (ESR) a permis de découvrir une seconde zone de pollution aux métaux lourds due à l'activité d'une boulonnerie ayant exploité le site de 1850 à 1961.	'métaux lourds'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986	11	04		1986	11	04		exerçait	Elle exerçait sous le régime de l\'Arreté préfectoral du 04/11/1986.		
+2003	01	13		2003	01	13		a_été_mise_en_liquidation_judiciaire	Cependant, la société ACE-BCI a été mise en liquidation judiciaire le 13 janvier 2003.		'la société ACE - BCI'
+1998				1998				a_acquis	La société SARL ACE-BCI à Ballancourt sur Essonne (locataire des terrains où elle exerçait ses activités) a acquis en 1998 les activités de la société ATELIERS de BALLANCOURT qui exploitait ce site depuis 1984.		'La société SARL ACE - BCI', 'la société ATELIERS de BALLANCOURT'
+2010	05			2010	05			la_dernière_campagne	Les eaux issues du puits présent sur le site sont utilisées pour alimenter un bassin à poissons : lors de la dernière campagne de mai 2010, la qualité de celles-ci ne présentaient pas d\'anomalies (seul un paramètre était légèrement supérieur à la valeur limite utilisée dans le cadre de l\'eau potable).		
+2000	07	20		2000	07	20		prescrivant_a_été_signé	L\'arrêté préfectoral les prescrivant a été signé le 20/07/2000.		
+2003	06			2003	06			a_fait_évacuer	Le liquidateur a fait évacuer du site en juin 2003 les déchets et produits chimiques suivants :	'les déchets', 'produits chimiques'	
+2004	10	22		2004	10	22		a_juridiquement_disparu	La société ACE-BCI a juridiquement disparu le 22 octobre 2004.		'La société ACE - BCI'
+2004	01			2004	01			es_points_ont_été_rappelés	es points ont été rappelés au liquidateur en janvier 2004.		
+2001	10	17		2001	10	17		Un_premier_diagnostic	Un premier diagnostic a été présenté pour avis le 17/10/2001.		
+2003	01	13		2003	01	13		a_été_mise_en_liquidation_judiciaire	La société ACE-BCI a été mise en liquidation judiciaire le 13 janvier 2003.		'La société ACE - BCI'
+1984				1984				a_acquis	La société SARL ACE-BCI à Ballancourt sur Essonne (locataire des terrains où elle exerçait ses activités) a acquis en 1998 les activités de la société ATELIERS de BALLANCOURT qui exploitait ce site depuis 1984.		'La société SARL ACE - BCI', 'la société ATELIERS de BALLANCOURT'

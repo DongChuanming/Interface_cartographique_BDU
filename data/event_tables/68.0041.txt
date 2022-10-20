@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	22		1999	12	22		nommait	Le 22 décembre 1999 le TGI nommait Me TRENSZ chargé de la liquidation.		'Me TRENSZ'
+2000	09	11		2000	09	11		L__évacuation_des_déchets_a_eu_lieu	L’évacuation des déchets a eu lieu le 11 septembre 2000.		
+2007	10	19		2007	10	19		a_été_pris	un arrêté préfectoral de restriction de l'usage de l'eau a été pris le 19 octobre 2007.		
+1998	12	1		1998	12	1		Un_contrôle_de	Un contrôle de la situation avait été imposé par arrêté préfectoral du 1er décembre 1998.		
+2004	06			2004	06			L__évaluation_détaillée_des_risques	L’évaluation détaillée des risques de juin 2004 a montré des concentrations dans les sols en chrome total (max 64 mg/kg), en chrome VI (max 2,2 mg/kg), en nickel (max 131 mg/kg) et en cyanures (max 0,37 mg/kg).	'chrome total', 'chrome VI', 'nickel', 'cyanures'	
+2005	05			2005	05			La_campagne_de_prélèvements_et_d__analyses	La campagne de prélèvements et d'analyses des eaux souterraines de mai 2005 a montré les résultats suivants :		
+1968				1968				est_implantée	La société METALLO s'y est implantée, dès 1968.		'La société METALLO'
+2003				2003				la_pollution	Des travaux de dépollution in situ ont été engagés afin de résorber la pollution de la nappe et des sols en 2003.		
+2000	01	24		2000	01	24		était_pris	Le 24 janvier 2000, un arrêté de consignation était pris à l'encontre de la société METALLO représentée par Me TRENSZ, liquidateur de la société.		'la société METALLO', 'Me TRENSZ'
+1998	06			1998	06			a_cessé	Elle a cessé son activité de traitement de surfaces en juin 1998 et la partie mécanique en août 1998.		
+1999	03	25		1999	03	25		nommait	Le 25 mars 1999 le TGI de Mulhouse nommait Me MULHAUPT comme administrateur provisoire.		'le TGI de Mulhouse', 'Me MULHAUPT'
+1998	08			1998	08			a_cessé	Elle a cessé son activité de traitement de surfaces en juin 1998 et la partie mécanique en août 1998.		

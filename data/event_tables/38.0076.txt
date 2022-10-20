@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	11		2005	05	11		a_été_réalisée	L'ESR a été réalisée par le groupe GED et remise le 11/05/2005.		'le groupe GED'
+2001				2001				La_réalisation_d__investigations	La réalisation d'investigations complémentaires et d'une Étude Simplifiée des Risques (ESR) sur la partie restante du site a été proposée par l'inspection des installations classés au Conseil Départemental d'Hygiène début 2001.		"Conseil Départemental d' Hygiène"
+2001	04	24		2001	04	24		ont_été_prises	La certitude de l'évacuation des déchets n'ayant pas été obtenue, des sanctions administratives ont été prises à l'encontre de la société SIRA en date du 24/04/2001.		'la société SIRA'
+1998				1998				Le_début_de	Le début de la surveillance a eu lieu en 1998.		
+1978				1978				constituée_sur	Cette société était installée sur une plateforme industrielle constituée sur l'ancienne rotonde de la gare de ST RAMBERT d'Albons depuis 1978.		"ST RAMBERT d' Albons"
+1992				1992				a_été_détectée	Une contamination des sols en Arsenic (44,7 mg/kg) a été détectée en 1992, suite à des plaintes de voisinages relayées par la FRAPNA.	'Arsenic'	'la FRAPNA'

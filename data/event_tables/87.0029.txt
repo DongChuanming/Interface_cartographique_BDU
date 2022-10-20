@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_cessé	- cette activité a cessé au cours du second semestre 2012.		
+1917				1917				Les_premières_activités_identifiées	Les premières activités identifiées sur le site datent de 1917 (raffinage électrolytique de cuivre).	'cuivre'	
+1950				1950				fondée	Les activités de la Compagnie Générale d’Électricité du Palais (CGEP) fondée en 1950 étaient :		'la Compagnie Générale d’ Électricité du Palais', 'CGEP'
+1999				1999				une_étude_des_sols	Lors de cet arrêt d'activité en 1999, CGEP a fait réaliser une étude des sols et un diagnostic sites et sols pollués.		'CGEP'
+1999				1999				cesse	En 1999, la CGEP cesse son activité.		'la CGEP'

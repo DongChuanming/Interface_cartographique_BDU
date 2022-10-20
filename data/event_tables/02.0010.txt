@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2003				a_fait_l__objet	Entre 2002 et 2003, le suivi de la qualité des eaux souterraines a fait l’objet de plusieurs rapports concluant que les teneurs en hydrocarbures totaux au forage SNCF sont en baisse (descendant en dessous du seuil de détection).	'hydrocarbures totaux'	

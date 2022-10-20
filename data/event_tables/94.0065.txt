@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	08		2011	11	08		a_été_prescrite	La surveillance des eaux souterraines sur les 6 piézomètres existants et selon une périodicité trimestrielle a été prescrite par arrêté préfectoral le 08/11/2011.		
+2009	03			2011	03			la_remise_en_état_du_site	Une surveillance des eaux souterraines a été menée semestriellement durant toute la durée de la remise en état du site de mars 2009 à mars 2011.		
+2011	10			2011	10			Des_campagnes_trimestrielles	Des campagnes trimestrielles de suivi des eaux souterraines ont été réalisées d'octobre 2011 à juillet 2013.		
+2010	11			2010	11			a_cessé	Le reste du site, dont l'activité a cessé en novembre 2010, a été restitué le 30 mai 2011.		
+2010	11			2010	11			a_été_restitué	Le reste du site, dont l'activité a cessé en novembre 2010, a été restitué le 30 mai 2011.		
+				2009	10			6_mois_de_traitement	Les objectifs de dépollution (4000 mg/kg MS en hydrocarbure C10-C40 et 500 mg/kg MS en hydrocarbures C10-C16) ont été atteints pour tous les lots traités en 6 mois de traitement, de mai à octobre 2009 (lot 4-1, 1045 m3) et de juin à décembre 2010 (1000 m3).	'hydrocarbure C10-C40', 'hydrocarbures C10-C16'	
+2013	07			2013	07			Des_campagnes_trimestrielles	Des campagnes trimestrielles de suivi des eaux souterraines ont été réalisées d'octobre 2011 à juillet 2013.		
+2011	05	30		2011	05	30		a_été_restitué	Le reste du site, dont l'activité a cessé en novembre 2010, a été restitué le 30 mai 2011.		
+2009	03			2011	03			a_été_menée	Une surveillance des eaux souterraines a été menée semestriellement durant toute la durée de la remise en état du site de mars 2009 à mars 2011.		
+2009	08			2009	08			ont_été_restitués	Les 2 premiers, qui n'abritaient plus d'activité, ont été restitués à Ports de Paris fin août 2009 (4-1) et fin avril 2010 (4C) et sont destinés à ne faire qu'une parcelle pour un projet en cours d'élaboration.		'Ports de Paris'
+2008				2008				un_diagnostic_environnemental_approfondi	A l'occasion de la cessation d'activité programmée, l'exploitant a fait réaliser un diagnostic environnemental approfondi des sols et sous-sols en 2008.		

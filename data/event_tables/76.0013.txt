@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								superficie_de	Le site d'une superficie de 59 hectares, dont seuls 23 hectares ont été exploités industriellement, est constitué de l'usine et des aires de stockage (12 hectares : zone 3), d'une zone de lagunes de décantation et d'épandage des terres et sous produits de l'activité (8 hectares : zone 1) et de la partie proches des berges (3 hectares : zone 2).		'hectares , dont seuls 23 hectares'
+								Puis_un_arrêté_préfectoral_du	Puis un arrêté préfectoral du 18 octobre 2001 a imposé :		'Puis un arrêté préfectoral'
+								2001	Puis un arrêté préfectoral du 18 octobre 2001 a imposé :		'Puis un arrêté préfectoral'
+								Au_vu_des	Au vu des résultats de l'ESR (classe 1), un arrêté préfectoral du 28 novembre 2003 a imposé la réalisation d'une EDR concernant la partie usine.		

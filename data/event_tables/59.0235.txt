@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			Mise_en_place_du	Mise en place du suivi de la qualité des eaux souterraines par 4 piézomètres en mars 2002.		
+1995				1995				la_parcelle_BE_498_ont_été_démantelées	La société FCB a cessé ses activités sur le site de Denain en 1986; les installations sises sur la parcelle BE 498 ont été démantelées en 1995		'La société FCB'
+1996				1998				d__études_de_diagnostic	Site qui a fait l'objet d'études de diagnostic de pollution des sols et des eaux souterraines de 1996 à 1998, puis d'actionS de traitement en 2000 et 2001: excavation et évacuation des terres polluées ( AP du 07/02/2000 imposant l'élimination des sources de pollution du site)		
+1986				1986				a_cessé_ses_activités	La société FCB a cessé ses activités sur le site de Denain en 1986; les installations sises sur la parcelle BE 498 ont été démantelées en 1995		'La société FCB'
+2005	04			2005	04			Réalisation_d__une_évaluation_détaillée_des_risques	Réalisation d'une évaluation détaillée des risques en avril 2005.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03			2006	03			notification_de_cessation_d__activité	L'activité de station service a été exercée de 1971 (date de récépissé de déclaration de la préfecture) à mars 2006 (notification de cessation d'activité).		
+2012	09			2012	09			a_été_détectée	Après analyse par le bureau d'études GMEP en septembre 2012, une pollution des terres en hydrocarbures a été détectée au niveau de la surface d'exploitation.	'hydrocarbures'	'GMEP'
+2014				2014				Une_analyse	Une analyse des risques résiduels (ARR) a été réalisée en 2014 qui recommande au regard de la présence de certains polluants (plomb, Nickel) :	'polluants', 'plomb', 'Nickel'	
+2012	09			2012	09			a_été_réalisé	A la demande de la DREAL,  un diagnostic de pollution du sol et sous-sol a été réalisé en septembre 2012 au niveau du périmètre d'exploitation de l'ancienne activité de station service.		'la DREAL'
+2014	02			2014	02			Une_EQRS_a_été_menée	Une EQRS a été menée en février 2014 et a démontré la présence de polluants de type :	'polluants'	
+2014				2014				analyses	L'eau d'un puits situé à 50 mètres en aval hydraulique du site, considéré comme vulnérable, a fait l'objet d'analyses en 2014.		
+1971				1971				a_été_exercée	L'activité de station service a été exercée de 1971 (date de récépissé de déclaration de la préfecture) à mars 2006 (notification de cessation d'activité).		
+2012	09			2012	09			Après_analyse	Après analyse par le bureau d'études GMEP en septembre 2012, une pollution des terres en hydrocarbures a été détectée au niveau de la surface d'exploitation.	'hydrocarbures'	'GMEP'

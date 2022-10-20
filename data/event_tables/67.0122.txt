@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1997				exploitées	De même, une partie des lixiviats échappe au drainage des alvéoles exploitées entre 1991 et 1997.		
+1977				1977				a_été_autorisé	Le SICTOM de Sélestat (devenu Smictom d'Alsace Centrale) a été autorisé en 1977 à exploiter un centre d'enfouissement technique de classe II à Châtenois.		'Le SICTOM'
+2001				2001				seuls_encombrants	Depuis 2001, l'exploitation est restreinte aux seuls encombrants, ordures ménagères issues de la poubelle brune et refus de tri et de compsotage.	'ordures ménagères', 'poubelle brune'	
+1997				1997				a_été_jugée	Avant 1997, l'étanchéité passive des argiles a été jugée suffisante.		
+2006				2006				ont_été_forés	Courant 2006, des puits de pompage ont été forés sur le site afin de pomper les lixiviats qui stagnaient sur le site.		

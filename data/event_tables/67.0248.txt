@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				Les_diagnostic	Les diagnostic du site réalisés en 2009 et 2010 ont mis en évidence :		
+2016	02	11		2016	02	11		La_visite_d__inspection	La visite d'inspection du 11 février 2016 a permis de constater que le site n'est pas totalement mis en sécurité (tas de déchets du pulpeur), un projet d'arrêté de consignation a été proposé au préfet.		'préfet'
+2017	08	04		2017	08	04		La_visite_d__inspection	La visite d'inspection du 4 août 2017 (en présence de la mairie) conduit au même constat.		
+2010				2010				Les_diagnostic	Les diagnostic du site réalisés en 2009 et 2010 ont mis en évidence :		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	06			2009	06			un_diagnostic_complémentaire_du_sol	En vue de l'implantation d'une société d'ingénierie dans le bâtiment B9 (bureaux et parking), un diagnostic complémentaire du sol a été réalisé en juin 2009 au niveau de la tranchée des réseaux eau et électricité du projet.		
+2006				2006				ont_été_mises_en_place	En 2006, afin de garantir un usage futur du site compatible avec la pollution résiduelle existante sous le dallage du bâtiment B9, des servitudes conventionnelles au profit de l'Etat ont été mises en place.		
+2003	06			2003	06			des_investigations_complémentaires_de_terrain	Dans le cadre d'un projet d'aménagement sur le site B3 (complexe cinématographique avec centre de conférences), des investigations complémentaires de terrain ont été réalisées en juin 2003.		
+2005				2005				a_été_réalisé	Le confinement dans une alvéole aménagée sur le site de terres polluées par des métaux lourds et des composés organo-halogénés volatils a été réalisé durant le premier semestre 2005.	'des métaux lourds', 'composés'	
+1958				1958				est_racheté	En 1958, il est racheté par la société CASE qui y fabrique des chargeurs mobiles jusqu'à la fin de l'année 1995.		'la société CASE'
+1879				1879				a_été_exploité	Le site, situé au centre de la commune de Vierzon, a été exploité à partir de 1879 par la Société Française de Matériels Agricoles et Industriels, pour la fabrication de machines agricoles.		'la Société Française de Matériels Agricoles'
+1996				1996				une_étude_de_caractérisation	Dans le cadre de la mise à l'arrêt des activités classées, une étude de caractérisation de l'état du site a été réalisée en 1996.		

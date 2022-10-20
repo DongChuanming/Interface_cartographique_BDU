@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Les_opérations_de_démantèlement	Les opérations de démantèlement avaient débuté dès début 2006.		
+				1993				le_nettoyage_à_sec	Les principales activités exercées étaient le déroulage et cerclage des bobines ; le lavage et l’essorage des bobines et tapis ; la teinture des bobines ; et le nettoyage à sec jusqu’en 1993.		
+1993				1993				a_racheté	La société RLST a racheté en 1993 une partie du site exploité alors par la société MASQUELIER pour reprendre l’exploitation de l’activité blanchisserie.		'La société RLST', 'la société MASQUELIER'
+2012	10			2013	06			Des_opérations_de_traitement	Des opérations de traitement des sols ont été effectuées entre octobre 2012 et juin 2013.		
+2009				2009				a_été_remis	Un Plan de gestion a été remis à M. le préfet du Nord par l'exploitant en 2009 ; il prévoit une remise en état du site compatible avec un usage futur de type industriel.		'le préfet'
+2014	03			2014	03			campagne	Le dernier rapport (campagne de mars 2014) apporte, pour la nappe de la craie, les principales conclusions suivantes :		
+1952				1952				des_aménagements_effectués	Les bâtiments dataient de 1952 avec des aménagements effectués en 1959 ; ils occupaient une surface couverte de 1 640 m2 sur une parcelle de 3 000 m2.		
+2013	07	15		2013	07	15		Le_traitement_a_débuté	Le traitement a débuté le 15 juillet 2013 et est toujours en cours.		
+1959				1959				des_aménagements_effectués	Les bâtiments dataient de 1952 avec des aménagements effectués en 1959 ; ils occupaient une surface couverte de 1 640 m2 sur une parcelle de 3 000 m2.		
+2004				2004				ont_cessé_progressivement	Les activités ont cessé progressivement à partir de 2004 pour cesser définitivement début 2006.		
+2006				2006				ont_cessé_progressivement	Les activités ont cessé progressivement à partir de 2004 pour cesser définitivement début 2006.		

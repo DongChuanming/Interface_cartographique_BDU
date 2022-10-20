@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	05	05		2014	05	05		le_mémoire_de_cessation_d__activité	Par courrier en date du 5 mai 2014, l’exploitant a transmis au préfet le mémoire de cessation d’activité comprenant un diagnostic de l’état des sols.		
+2014	05	05		2014	05	05		Cette_mise_à_l__arrêt_définitif	Cette mise à l’arrêt définitif a été notifiée le 5 mai 2014 par la transmission d’un dossier de cessation d’activité.		
+2010	01	31		2010	01	31		a_cessé_définitivement_ses_activités	Le 31 janvier 2010, l’établissement GUIET Pierre a cessé définitivement ses activités 13 rue des Mauges au FUILET.		'GUIET Pierre'
+2014	04			2014	04			Les_investigations_de_terrain	Les investigations de terrain réalisées en avril 2014 ont été effectuées au droit de ces sources potentielles de pollution.		
+1976	07	13		1976	07	13		exploitait	L’établissement Guiet Pierre exploitait un dépôt de liquides inflammables situé 13 rue des Mauges, au FUILET, sous couvert d'un arrêté préfectoral d’autorisation du 13 juillet 1976.	'dépôt de liquides inflammables'	'Guiet Pierre', 'FUILET'

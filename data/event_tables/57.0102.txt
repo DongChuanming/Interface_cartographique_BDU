@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				des_travaux_de_reconnaissances	En 2007, des travaux de reconnaissances complémentaires ont été menés afin de connaître de façon  très précise l’état de contamination des terres de ce site.		
+2005				2005				Des_analyses_des_eaux_souterraines	Des analyses des eaux souterraines en 2005, 2006 et 2007 ont été réalisées.		
+1920				1995				a_accueilli	De 1920 à 1995 ce site a accueilli des activités, soumises à la législation sur les installations classées pour la protection de l'environnement, de stockage et de négoce d'huiles industrielles et de graisses et également de récupération d'huiles usagées.		
+1988				1988				a_racheté	Le dernier exploitant de ces activités est la société SIGHI-BARADE qui a racheté le site en 1988.		'la société SIGHI - BARADE'
+2007				2007				Des_analyses_des_eaux_souterraines	Des analyses des eaux souterraines en 2005, 2006 et 2007 ont été réalisées.		
+2006				2006				Des_analyses_des_eaux_souterraines	Des analyses des eaux souterraines en 2005, 2006 et 2007 ont été réalisées.		
+								différentes_études_ont_été_menées	Dans le cadre d'un projet de reconversion du site, dans les années 2000, différentes études ont été menées par la ville accompagnée, dans sa démarche, par l’Établissement Public Foncier de Lorraine (EPFL).		
+2004				2004				un_diagnostic_environnemental	En 2004, un diagnostic environnemental des sols a été réalisé et a mis en évidence deux sources de pollution en hydrocarbures aromatiques polycycliques (HAP), hydrocarbures totaux (HCT) et plomb, correspondant aux emplacements de l'ancien bâtiment principal et du stockage de produits finis.	'hydrocarbures aromatiques polycycliques', 'HAP', 'hydrocarbures totaux', 'HCT', 'plomb'	
+2005	12	20		2005	12	20		Ces_travaux_se_sont_terminés	Ces travaux se sont terminés le 20 décembre 2005.		

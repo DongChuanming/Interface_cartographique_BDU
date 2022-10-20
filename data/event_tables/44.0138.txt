@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				missionne	En 2014, la SCI ORVAULT PENTECOTE propriétaire du site missionne un bureau d'études afin d'évaluer l'impact éventuel de l'activité des Transports Beziau sur l'environnement.		'la SCI ORVAULT PENTECOTE', 'des Transports Beziau'
+2016	12			2016	12			des_travaux_de_réhabilitation_des_sols	Entre juin 2015 et octobre 2016 des travaux de réhabilitation des sols sont menés (rapport de décembre 2016) comme suit :		
+2015	06			2016	10			des_travaux_de_réhabilitation_des_sols	Entre juin 2015 et octobre 2016 des travaux de réhabilitation des sols sont menés (rapport de décembre 2016) comme suit :		
+1995				1995				s__installe	La SA Transports Beziau s'installe sur la commune d'Orvault en 1995 pour y exploiter un entrepôt couvert et une installation de distribution de gazole.	'gazole'	'La SA Transports Beziau'
+2014				2014				des_travaux_de_dépollution	A la suite de ces constats, en 2014 des travaux de dépollution ont été effectués pour dépolluer les 2 zones identifiées comme polluées par les hydrocarbures comme suit :	'hydrocarbures'	

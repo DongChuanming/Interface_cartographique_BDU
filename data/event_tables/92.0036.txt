@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_été_mise_en_place	Une surveillance des eaux souterraines a été mise en place en 2000-2001.		
+2001				2001				a_été_mise_en_place	Une surveillance des eaux souterraines a été mise en place en 2000-2001.		
+2004				2004				a_été_transféré	Le dossier a été transféré aux archives départementales en 2004.		
+1996	07	20		1996	07	20		a_été_radiée	La société LES CABLES DE LYON (renommée ALCATEL CABLES) a été radiée le 20/07/1996.		'La société LES CABLES DE LYON', 'renommée ALCATEL CABLES'
+2000				2000				sont_occupés_par	Depuis 2000, les bâtiments de bureaux sont occupés par le siège social de la société BIC.		'la société BIC'
+1986				1986				cessation_déclarée	Ancien site de production "Les Cables de Lyon" (ICPE à autorisation, confection de cables par enduction), dont les activités ont cessé en 1980 (cessation déclarée en 1986) et où a été construit le siège social de la Sté ALCATEL (immeuble de bureaux uniquement).		'Les Cables de Lyon', 'la Sté ALCATEL'
+1980				1980				dont_les_activités_ont_cessé	Ancien site de production "Les Cables de Lyon" (ICPE à autorisation, confection de cables par enduction), dont les activités ont cessé en 1980 (cessation déclarée en 1986) et où a été construit le siège social de la Sté ALCATEL (immeuble de bureaux uniquement).		'Les Cables de Lyon', 'la Sté ALCATEL'
+2002				2002				ont_été_rappelées	Les recommandations des études ont été rappelées à l'exploitant en 2002.		
+1998				1998				un_diagnostic_initial	Dans le cadre d'une succession, ALCATEL a effectué en 1998 un diagnostic initial du site.		'ALCATEL'

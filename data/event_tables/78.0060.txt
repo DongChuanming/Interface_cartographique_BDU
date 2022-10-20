@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				exploitait	La société SEAM, qui exploitait l'installation depuis 1990, a été mise en liquidation judiciaire le 5 avril 2005.		'La société SEAM'
+2004	09			2004	09			L__étude_a_été_réalisée	L'étude a été réalisée en septembre 2004 et concluait que plusieurs zones pouvaient présenter un potentiel d'impact sur les sols et sur la nappe souterraine.		
+2007	10	18		2007	10	18		a_été_engagée_AP	Suite à une mise en demeure restée infructueuse, une procédure de consignation pour la mise en sécurité du site (évacuation et élimination des déchets) pour un montant de 330000 Euros a été engagée(AP du 18 octobre 2007).		
+2005	04	05		2005	04	05		a_été_mise_en_liquidation_judiciaire	La société SEAM, qui exploitait l'installation depuis 1990, a été mise en liquidation judiciaire le 5 avril 2005.		'La société SEAM'
+2011	01			2011	01			a_été_réalisée	La fin de la mise en sécurité du site a été réalisée fin janvier 2011 (nettoyage des installations et évacuation des déchets).		
+2008	10	23		2008	10	23		a_demandé	Compte tenu de l'insolvabilité du responsable, le Préfet a demandé au ministère chargé de l'écologie l'autorisation de charger l'ADEME de réaliser la mise en sécurité du site (lettre du 23 octobre 2008).		'le Préfet'
+1990				1990				a_été_mise_en_liquidation_judiciaire	La société SEAM, qui exploitait l'installation depuis 1990, a été mise en liquidation judiciaire le 5 avril 2005.		'La société SEAM'
+2003	03			2003	03			une_évaluation_simplifiée_des_risques	Lorsque le site était en activité, une évaluation simplifiée des risques avait été prescrite en mars 2003.		
+2011	01			2011	01			nettoyage_des_installations	La fin de la mise en sécurité du site a été réalisée fin janvier 2011 (nettoyage des installations et évacuation des déchets).		
+1974				2005				a_été_exploitée	Sur ce site, une usine de fabrication de klaxon a été exploitée de 1974 à 2005.		

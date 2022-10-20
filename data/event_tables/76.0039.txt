@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				en_place	En 2012, étaient ainsi en place les ouvrages P6c, P6d, P7, P8, P9 et P10.		
+2014	12			2014	12			ont_été_mis_en_place	Puis en décembre 2014, sur la périphérie de la zone polluée, sept ouvrages de surveillance additionnels ont été mis en place – P11 à P17.		
+1991				1991				site_identifiée	* Concernant la pollution au nord-ouest du site identifiée fin 1991 :		
+2011				2011				a_été_constaté	Puis, lors de la campagne d'analyse de la qualité des eaux souterraines réalisée pendant l'été 2011, il a été constaté la présence de surnageant au sein du piézomètre PZ6b.	'surnageant'	
+2007				2007				des_remontées	Lors des travaux de terrassement liés à la construction du bâtiment de la salle de contrôle blastproof en 2007, des remontées d’hydrocarbures avaient été observées.	'hydrocarbures'	
+2007				2007				des_travaux_de_terrassement	Lors des travaux de terrassement liés à la construction du bâtiment de la salle de contrôle blastproof en 2007, des remontées d’hydrocarbures avaient été observées.	'hydrocarbures'	
+1991				1991				a_été_identifiée	Fin 1991, au nord-ouest du site, à une centaine de mètres du canal de Tancarville, a été identifiée une zone polluée.		
+2007				2007				site_identifiée	* Concernant la pollution au nord-est du site identifiée en 2007 :		
+2012	03			2012	03			a_été_constatée	De plus, suite de fortes intempéries en mars 2012, la présence d’irisations a été constatée dans les eaux de canal de Tancarville.		
+2013	03			2013	03			a_été_remplacée	En mars 2013, l’unité de pompage et écrémage a été remplacée.		
+2007				2007				a_été_identifiée	En 2007, au nord-est du site, a été identifiée une seconde zone polluée.		
+2007				2007				aux_travaux_réalisés	Elle peut être liée aux travaux réalisés en 2007 sur la salle de contrôle.		
+2012	10			2013	03			le_pompage	Entre octobre 2012 et mars 2013, le pompage et écrémage du flottant a été réalisé sur les ouvrages P6c et P6d.		
+2013	03			2013	03			se_poursuivent_sur	Depuis mars 2013, les opérations de traitement du flottant se poursuivent sur les ouvrages P6c, P7, P8 et P10.		
+2011				2011				la_campagne_d__analyse	Puis, lors de la campagne d'analyse de la qualité des eaux souterraines réalisée pendant l'été 2011, il a été constaté la présence de surnageant au sein du piézomètre PZ6b.	'surnageant'	

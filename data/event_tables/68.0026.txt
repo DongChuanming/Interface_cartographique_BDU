@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				implanté	La dépollution de la nappe se poursuit avec un puits de fixation implanté en 2001 (413-2-399) à l'aval du terril et un autre en 2002 au pied du terril (413-2-419).		
+2003				2006				une_dissoution_accélérée	Le tas n°1, situé le plus à l'Est a fait l'objet d'une dissoution accélérée de 2003 à 2006.		
+2012				2012				doivent_remettre	Les MDPA doivent remettre un rapport de fin de travaux en 2012.		'Les MDPA'
+2011				2011				ont_été_remodelés	Les tas n°2 et 3 ont été remodelés en 2011.		
+1923				1974				4_78_millions_de_tonnes_de_résidus_de_traitement	Sur ce terril ont été déposé entre 1923 et 1974 environ 4,78 millions de tonnes de résidus de traitement du minerai de potasse, dont 1,51 Mt de chlorure de sodium.	'potasse', 'chlorure', 'sodium'	
+2008				2008				remodelé	Ce premier tas remodelé en 2007-2008 est aujourdh'ui bien végétalisé.		
+2001				2010				a_été_traité_par_dissolution_accélérée	Le terril Anna a été traité par dissolution accélérée de 2001 à 2010.		
+2007				2007				remodelé	Ce premier tas remodelé en 2007-2008 est aujourdh'ui bien végétalisé.		

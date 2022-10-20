@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05	15		2002	05	15		a_été_prescrite	Par arrêté du 15 mai 2002, une surveillance semestrielle de la qualité des eaux du lac Bleu utilisées pour la baignade a été prescrite à la commune de Saint-Rémy-de-Maurienne sur les paramètres suivants : chrome, zinc, cuivre et HCT.  Cette surveillance exercée périodiquement n'a pas montré d'anomalies particulières.	'chrome', 'zinc', 'cuivre', 'HCT'	

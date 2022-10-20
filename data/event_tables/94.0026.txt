@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	10	06		1998	10	06		a_été_transmis	Le diagnostic a été transmis au Préfet le 6 octobre 1998.		'Préfet'
+2003	11			2003	11			Ces_investigations_ont_été_réalisées	Ces investigations ont été réalisées en novembre 2003 et l'exploitant a procédé à une évaluation simplifiée des risques du site (ESR).		
+1998	04			1998	04			a_plus	Depuis avril 1998, il n'y a plus d'activité de réparation sur le secteur atelier.		
+2002	07	1		2002	07	1		il_a_été_imposé	C'est pourquoi, par arrêté préfectoral complémentaire du 1er juillet 2002, il a été imposé à l'exploitant de réaliser des investigations de sols et d'eaux souterraines dans le cadre de l'étape B du diagnostic initial.		
+1969				1969				créé	Celui-ci est formé d'un secteur atelier et d'un secteur maintenance créé en 1969 à proximité de l'atelier.		
+1924				1924				exploite	Depuis 1924, la SNCF exploite un établissement de révision de locomotives et d'automotrices électriques de banlieue à Vitry sur Seine.		

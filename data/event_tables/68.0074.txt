@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01	08		2001	01	08		la_réalisation_d__un_diagnostic_initial	Le site est soumis à la réalisation d'un diagnostic initial et d'une ESR par AP du 08/01/2001.		
+2006	03			2006	03			a_été_effectuée	Une proposition d'implantation du réseau a été effectuée en mars 2006.		
+2006	06			2006	06			nettes_diminutions	Les évolutions de concentrations résumés dans le rapport de la campagne de décembre 2009 montre de nettes diminutions des concentrations en solvant chlorés sur les piézomètres amont et aval du site depuis juin 2006.	'solvant chlorés'	
+2009	12			2009	12			la_campagne	Les évolutions de concentrations résumés dans le rapport de la campagne de décembre 2009 montre de nettes diminutions des concentrations en solvant chlorés sur les piézomètres amont et aval du site depuis juin 2006.	'solvant chlorés'	
+2002	12	24		2002	12	24		a_été_remise_en	L'ESR a été remise en 24/12/2002.		"L' ESR"
+2002	01			2002	01			a_été_remis	Le rapport d'étape a été remis en janvier 2002, et a fait l'objet d'observations.		

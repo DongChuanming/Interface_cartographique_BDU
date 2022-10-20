@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				sont_à_l__arrêt	Société dont les activités sont à l'arrêt depuis 2010.		
+1999				1999				ont_été_cédées	De plus, en 1999, les activités de métallisation de pièces plastiques par voie chimique et de plasturgie ont été cédées à la Société Plastiques du Val de Seine contrôlée par la Société PLASTEURE SA.		'la Société Plastiques du Val', 'de Seine', 'la Société PLASTEURE SA'
+2001	07			2001	07			L__étude_remise	L'étude remise en juillet 2001 préconisait des études complémentaires.		
+2004				2004				a_confirmé	2004 a confirmé le classement du site en catégorie 2, soit site à surveiller.		
+2011	05	04		2011	05	04		Les_mesures	Les mesures dans les eaux souterraines (04/05/2011) mettent en évidence des concentrations inférieures aux seuils de quantification excepté des traces de tétrachloroéthylène sur le piézomètre n°2 (0.7µg/l).	'tétrachloroéthylène'	
+1996				1996				a_été_arrêté	En effet, en 1996, l'atelier de fabrication de circuits imprimés a été arrêté et les deux bâtiments F et G ont été cédés à la Société AUTOLIV ELECTRONIC SAS.		'la Société AUTOLIV ELECTRONIC SAS'
+1954				1954				se_sont_succédées	Depuis 1954, de nombreuses activités réglementées par 19 actes administratifs se sont succédées sur le site de SAINT ETIENNE DU ROUVRAY.		'SAINT ETIENNE DU ROUVRAY'
+2002	10			2002	10			a_été_remise	Le rapport d'étude a été transmis a été remise en octobre 2002.		
+2005	08	1		2005	08	1		a_été_prescrit	En conséquence, il a été prescrit par arrêté préfectoral en date du 1er août 2005 une surveillance semestrielle des pollutions en hydrocarbures totaux, trichloréthylène et tétrachloréthylène dans les eaux souterraines.	'hydrocarbures totaux', 'trichloréthylène', 'tétrachloréthylène'	
+2001	01	08		2001	01	08		a_fait_l__objet	La société SAGEM a fait l'objet en date du 8 janvier 2001 d'un arrêté		'société SAGEM'

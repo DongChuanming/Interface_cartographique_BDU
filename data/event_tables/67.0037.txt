@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				Les_opérations	Les opérations d’enlèvement des déchets dangereux ont été réalisées au courant de l’été 2015.	'des déchets dangereux'	
+1998				1998				étaient_réglementées	Les installations de traitement de surface étaient réglementées par un arrêté d'autorisation du 16 janvier 1998.		
+								étaient_réglementées	Les installations de traitement de surface étaient réglementées par un arrêté d'autorisation du 16 janvier 1998.		
+2015	10	08		2015	10	08		La_réception_des_travaux_a	La réception des travaux a été prononcée en date du 8 octobre 2015.		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	19		2006	04	19		a_été_signé_dans	Un arrêté préfectoral a été signé dans ce sens le 19/04/2006.		
+2009	09	02		2009	09	02		des_investigations_complémentaires	Dans le cadre de la cessation, des investigations complémentaires ont été réalisés par le bureau d’étude BG INGENIEURS CONSEILS le 02/09/2009.		'BG INGENIEURS CONSEILS'
+2010	01	22		2010	01	22		ont_ensuite_été_proposés	Des mesures de gestion ont ensuite été proposés le 22/01/2010.		
+2012	03	20		2012	03	20		Le_mémoire_de_recollement_a_été_rédigé_par	Le mémoire de recollement a été rédigé par BG en date du 20/03/2012.		
+1995				1995				Le_premier_diagnostic	Le premier diagnostic du site a été établi par la société CLIFFORD CHANCE en 1995. 5 sondages ont alors été réalisés jusqu'à une profondeur de 3m.		'la société CLIFFORD CHANCE'
+1982	08	10		1982	08	10		a_été_acté	Une régularistation administrative a été acté par l'arrêté préfectoral d'autorisation d'exploiter du 10/08/1982.		
+2009	04	30		2009	04	30		Elle_cesse	Elle cesse son activité sur le site le 30/04/2009.		
+2006	05			2009	06			Le_suivi_s__est_donc_effectuée	Le suivi s'est donc effectuée trimestriellement entre les mois de mai 2006 et de juin 2009.		
+2012	12			2012	12			a_été_réalisée	La dernière campagne a avoir été renseignée a été réalisée au mois de décembre 2012.		
+2010	06	10		2011	09	08		a_même_augmenté	La fréquence des campagnes a même augmenté entre le 10/06/2010 et le 08/09/2011 pour devenir mensuelle.		
+2005	12			2005	12			a_proposé	L’inspection des installations classées a proposé en décembre 2005 au Préfet d’imposer la mise en place d’un réseau de surveillance des eaux souterraines et des analyses trimestrielles sur des COHV (Composés Organiques Halogénés Volatils), les BTEX (Benzène, Toluène, Ethylbenzène, et Xylène), les HCT (HydroCarbures Totaux), l'arsenic et le nickel.	'COHV', 'Composés Organiques Halogénés Volatils', 'les BTEX', 'Benzène', 'Toluène', 'Ethylbenzène', 'Xylène', 'les HCT', 'HydroCarbures Totaux', 'arsenic', 'nickel'	
+2000	05	16		2000	05	16		Le_diagnostic_initial	Le diagnostic initial (1ère partie de l'étude des sols) a été transmis le 16/05/2000.		
+1914				1914				L__implantation	L'implantation de la société GIVAUDAN LAVIROTTE s'est effectuée sur le site en 1914.		'la société GIVAUDAN LAVIROTTE'
+2006				2009				ont_été_réalisées	En incluant les campagnes effectuées entre 2006 et 2009, 33 campagnes de suivi ont été réalisées sur le site.		
+2010	07	07		2011	07	25		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés du 07/07/2010 au 25/07/2011.		

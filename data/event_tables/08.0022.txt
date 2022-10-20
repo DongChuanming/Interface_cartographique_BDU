@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								site_en_classe	L'évaluation simplifiée des risques conclut au classement du site en classe 2 (à surveiller).		'au classement du'
+								simplifiée_des_risques_conclut	L'évaluation simplifiée des risques conclut au classement du site en classe 2 (à surveiller).		'au classement du'

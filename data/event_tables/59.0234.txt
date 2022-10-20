@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10	30		2012	10	30		Arrêt_définitif	- Arrêt définitif de Selnor le 30 octobre 2012, de Elcobrant le 31/01/2005.		'Selnor', 'Elcobrant'
+2005	01	31		2005	01	31		Elcobrant_le	- Arrêt définitif de Selnor le 30 octobre 2012, de Elcobrant le 31/01/2005.		'Selnor', 'Elcobrant'
+1999	12	29		1999	12	29		remise_du_rapport	- remise du rapport le 29 décembre 1999 (étude de sol par SODETEG); Propositions d'investigations complémentaires pour le classement du site (analyses de prélèvements d'eaux et d'échantillons de sols)		'SODETEG'
+2005	10			2005	10			__travaux	- Octobre 2005: travaux: retrait des cuves, évacuation des déchets vers un centre de traitement (134 Tonnes) et nivellement des terres.		
+2004	03			2004	03			Réalisation_d__une_Evaluation_simplifiée_des_risques	- Réalisation d'une Evaluation simplifiée des risques en mars 2004.		
+2012	10	31		2012	10	31		Cessation_d__activité_définitif	- Cessation d'activité définitif de SELNOR communiquée, le 31/10/2012		'SELNOR'

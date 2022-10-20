@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02			2009	02			Les_études_transmises	Les études transmises en février 2009 montrent l'absence de pollution et l'absence de nécessité d'actions correctives.		
+1980	07	31		1980	07	31		est_autorisée	L'exploitation des installations est autorisée par l’arrêté préfectoral du 31 juillet 1980.		
+								L__inspection	L’inspection réalisée les 26 et 27 mai 2008 sur le site permet d’établir que la pollution a effectivement été générée par cette société.		
+2009	02			2009	02			Ces_études_transmises	Ces études transmises en février 2009 montrent l'absence de pollution et l'absence de nécessité d'actions correctives.		
+2008	05	27		2008	05	27		L__inspection	L’inspection réalisée les 26 et 27 mai 2008 sur le site permet d’établir que la pollution a effectivement été générée par cette société.		

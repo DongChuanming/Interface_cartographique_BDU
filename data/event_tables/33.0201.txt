@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1991				a_accueilli	Le site a accueilli des déchets de 1962 à 1991, date depuis laquelle le site ne reçoit plus d’ordures ménagères.		
+2005	10	21		2005	10	21		L__étude_remise	L'étude remise le 21/10/2005 et complétée le 30/08/2006 conclut à l'impact avéré du sol et de la nappe.		
+2003	09	04		2003	09	04		demande_la_remise_en_état_du_site	Le 04/09/2003, la DRIRE demande la remise en état du site.		'la DRIRE'
+2003	09	03		2003	09	03		La_visite	La visite d'inspection du 03/09/2003 a permis de constater une situation très dégradée vis à vis des règles élémentaires de sécurité et de protection de l'environnement.		
+2009	04			2009	04			Le_travaux_se_sont_déroulés	Le travaux se sont déroulés d'Octobre 2008 à Avril 2009.		
+2006	08	30		2006	08	30		complétée	L'étude remise le 21/10/2005 et complétée le 30/08/2006 conclut à l'impact avéré du sol et de la nappe.		
+2008	10			2008	10			Le_travaux_se_sont_déroulés	Le travaux se sont déroulés d'Octobre 2008 à Avril 2009.		
+2004	01	01		2004	01	01		relèvent_de	Le 01/01/2004, la gestion du site relèvent de la compétence de la Communauté de Communes du Bassin d’Arcachon Nord (COBAN).		'la Communauté de Communes du Bassin d’ Arcachon'
+2009	09			2009	09			a_été_remis	Le dossier des ouvrages exécutés a été remis à l'inspection en Septembre 2009.		
+2004	10	21		2004	10	21		Une_seconde_visite_d__inspection	Une seconde visite d'inspection du 21/10/2004 a permis de constater que les déchets déposés sur le site étaient encore présents et que les terrains concernés avaient visiblement fait l'objet de nouveaux dépôts.	'les déchets'	

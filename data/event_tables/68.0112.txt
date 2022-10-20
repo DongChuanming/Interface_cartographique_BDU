@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	28		2004	06	28		a_fait_l__objet_d_	Une demande de création d'une faculté et bibliothèque de sciences économiques, sociales et juridiques, un centre d'art contemporain, des archives municipales et une maison de quartier a fait l'objet d'un avis en date du 28 juin 2004.		
+2003	08	22		2003	08	22		a_fait_l__objet_de_courriers	Ceci a fait l'objet de courriers préfectoraux des 19 juin et 22 août 2003, adressés à la Ville de Mulhouse, la SERM et FIMALAC.		'la SERM', 'FIMALAC'
+2004	03			2004	03			a_été_produit	Un rapport final sur le diagnostic et suivi des matériaux relatif au bâtiment (amiante) a été produit en mars 2004.		
+2008				2008				un_réaménagement	En 2008, la parcelle du parvis de la cathédrale a fait l'objet d'un réaménagement en espace de promenade avec des zones recouvertes en espace verts.		
+2003	09	17		2003	09	17		Un_rapport_d__investigation	Un rapport d'investigation des terrains sous le bâtiment (une partie des terrains du secteur B) a été adressé au préfet le 17 septembre 2003 (rapport "Expertise environnementale" du 13 novembre 2001).		'préfet'
+2003	05	15		2003	05	15		a_été_adressé	Un rapport d'information a été adressé au préfet le 15/05/2003.		'préfet'
+				2004	05	17		Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés du 09/02 au 17/05/2004 pour excaver les scories et sables de fonderie présents.		
+2008	02			2008	02			a_été_remis	En février 2008, un rapport caractérisant la pollution résiduelle après travaux et les risques sanitaires associés a été remis aux autorités compétentes.		
+								a_fait_l__objet_de_courriers	Ceci a fait l'objet de courriers préfectoraux des 19 juin et 22 août 2003, adressés à la Ville de Mulhouse, la SERM et FIMALAC.		'la SERM', 'FIMALAC'

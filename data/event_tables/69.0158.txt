@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01			2002	01			a_été_définitivement_arrêtée	L’exploitation a été définitivement arrêtée en janvier 2002.		
+1987				1987				une_activité_de_fabrication_d__émulsions_de_bitume	La société LES ÉMULSIONS DE FEYZIN, filiale de la société EXXONMOBIL, Division Bitumes, exploitait depuis 1987 une activité de fabrication d’émulsions de bitume avec les dépôts de matières premières et produits finis associés.	'Bitumes', 'bitume'	'La société LES ÉMULSIONS DE FEYZIN', 'la société EXXONMOBIL'
+1987				1987				exploitait	La société LES ÉMULSIONS DE FEYZIN, filiale de la société EXXONMOBIL, Division Bitumes, exploitait depuis 1987 une activité de fabrication d’émulsions de bitume avec les dépôts de matières premières et produits finis associés.	'Bitumes', 'bitume'	'La société LES ÉMULSIONS DE FEYZIN', 'la société EXXONMOBIL'

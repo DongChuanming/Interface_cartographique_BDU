@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1980				exploite	La société SPIC exploite une unité d’application de fabrication de peinture industrielle depuis 1980 date de sa création sur la commune de Céton.		'La société SPIC'
+1990				1990				un_changement	A l’occasion d’un changement de direction en 1990, l'entreprise, spécialisée dans le domaine du militaire, s’est diversifiée dans le domaine du médical.		
+1990				1990				s__est_diversifiée	A l’occasion d’un changement de direction en 1990, l'entreprise, spécialisée dans le domaine du militaire, s’est diversifiée dans le domaine du médical.		

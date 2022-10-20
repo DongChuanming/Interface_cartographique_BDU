@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				reprend	En 1996, la société BOSCH Système de freinage reprend le site et implante son activité d'usinage de cylindres de roues en aluminium qui utilise notamment des solvants chlorés pour le nettoyage des pièces neuves jusqu'en 2002.	'solvants chlorés'	'la société BOSCH Système'
+2013				2017				Des_travaux_de_dépollution	Des travaux de dépollution ont été menés sur l'emprise de l'ancienne usine de 2013 à 2017 pour les sols et l’air du sol et en 2018 pour les eaux souterraines lors de plusieurs phases de travaux :		
+2015	06			2015	06			renivellement_du_terrain	- renivellement du terrain effectué en fin juin 2015,		
+2018				2018				Des_travaux_de_dépollution	Des travaux de dépollution ont été menés sur l'emprise de l'ancienne usine de 2013 à 2017 pour les sols et l’air du sol et en 2018 pour les eaux souterraines lors de plusieurs phases de travaux :		
+2018	03	19		2018	03	19		a_été_établi	Suite aux travaux engagés pour traiter les sols et l’air du sol, un rapport de fin de travaux et de mise à jour de l’analyse des risques résiduels a été établi en date du 19/03/2018 (rapport HPC-I8130083a).		
+2010	10			2010	10			cesse_son_activité	La société BOSCH cesse son activité sur ce site à compter d'octobre 2010.		'La société BOSCH'
+1964				1964				est_implantée	En 1964, une usine de fabrication de pièces et de liquides de freins hydrauliques est implantée au sein des bâtiments existants.		
+2013				2013				des_investigations	L'exploitant a réalisé des investigations dans les sols et les eaux souterraines en 2013.		
+2011				2011				a_été_réalisé	Un plan de gestion a été réalisé en 2011 puis mis à jour en 2013 afin de réhabiliter le site pour un usage futur de type non sensible artisanal/tertiaire/libéral.		
+2015				2015				l__issue_de_cette_première_phase_de_travaux	- à l’issue de cette première phase de travaux en 2015, une pollution profonde s’étendant de 4 à 20 m de profondeur dans le sol (polluants concernés : hydrocarbures et solvants chlorés) a été découverte.	': hydrocarbures et solvants chlorés'	
+2015	04			2015	04			reprises	- reprises de quelques spots de pollution par excavation en avril 2015 : environ 1000 tonnes de terres évacuées,		
+1964				1964				était_présente	Avant 1964, une activité de fabrication de chaussures était présente.		
+2018				2018				Les_travaux_engagés_pour_traiter	Les travaux engagés pour traiter les eaux souterraines en 2018 ont pour objectif de diminuer l’impact de la pollution présent dans la nappe.		
+2015				2015				__a_été_découverte	- à l’issue de cette première phase de travaux en 2015, une pollution profonde s’étendant de 4 à 20 m de profondeur dans le sol (polluants concernés : hydrocarbures et solvants chlorés) a été découverte.	': hydrocarbures et solvants chlorés'	
+2018				2018				Les_rapports_de_surveillance	Les rapports de surveillance de la qualité des eaux souterraines de 2018 ont permis de vérifier l’efficacité du traitement par bio-Atténuation Naturelle Dynamisée (BAND) mis en œuvre en début 2018 sur site.		'BAND'
+2019	05	14		2019	05	14		a_été_établi	Le procès-verbal de constat d’achèvement de travaux a été établi le 14 mai 2019.		
+2010	10			2010	10			à_compter_d_	La société BOSCH cesse son activité sur ce site à compter d'octobre 2010.		'La société BOSCH'
+2014				2014				terminé	- excavation d’environ 10 000 tonnes de terres – terminé fin 2014,		

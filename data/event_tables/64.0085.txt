@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11	15		2004	11	15		Les_campagnes_du	Les campagnes du 15/11/2004 et février 2005 révèlent un impact de la nappe par les hydrocarbures, les solvants chlorés, le Manganèse et l'ammonium.	'hydrocarbures', 'les solvants chlorés', 'le Manganèse', 'ammonium'	
+2005	02			2005	02			Les_campagnes_du	Les campagnes du 15/11/2004 et février 2005 révèlent un impact de la nappe par les hydrocarbures, les solvants chlorés, le Manganèse et l'ammonium.	'hydrocarbures', 'les solvants chlorés', 'le Manganèse', 'ammonium'	
+								Les_campagnes_d_	Les campagnes d'avril et novembre 2009 montrent l'absence d'impact par les solvants et les HCTX.	'solvants', 'les HCTX'	
+2005	11			2005	11			L__évaluation_détaillée_des_risques	L'évaluation détaillée des risques pour la santé humaine a été réalisée en novembre 2005 dans le cadre du dossier d'autorisation d'exploiter.		
+2005	11			2005	11			Le_rapport_remis	Le rapport remis en novembre 2005 confirme l'impact de la nappe au droit du site par le Trichloréthylène et ses produits de décomposition et l'Aluminium.	'le Trichloréthylène', 'ses produits de décomposition', 'Aluminium'	
+2009	08	19		2009	08	19		est_autorisée	L'exploitation est autorisée par l'arrêté préfectoral du 23 avril 1991, actualisé par l'arrêté du 19/08/2009.		
+2009	04	15		2009	04	15		La_campagne	La campagne du 15/04/2009 révèle des concentrations élevées en fer dans 3 piezos à l'aval ainsi qu'un impact par le Mn, le 111 Trichloréthane et le trichloréthylène, en baisse toutefois.	'fer', 'le Mn', 'le 111 Trichloréthane', 'le trichloréthylène'	
+2002	12			2002	12			l__évaluation_simplifiée_des_risques_remis	Le diagnostic initial et l'évaluation simplifiée des risques remis en décembre 2002 mettent en évidence une source potentielle de sols pouvant être contaminés suites à des déversements chroniques anciens et à des stockages de produits sans rétention.		
+2009	11			2009	11			Les_campagnes_d_	Les campagnes d'avril et novembre 2009 montrent l'absence d'impact par les solvants et les HCTX.	'solvants', 'les HCTX'	

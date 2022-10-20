@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	02			2000	02			__travaux_terminés	Terres polluées par les sels (cuivre, chrome et arsenic) : traitées par le procédé de stabilisation/solidification, travaux terminés en février 2000.	'cuivre', 'chrome', 'arsenic'	
+2009	07	1		2009	07	1		ont_été_instituées_par_acte_notarié	Les servitudes ont été instituées par acte notarié daté du 1er juillet 2009 et publié à la conservation des hypothèques de TOURNON le 28 Août 2009 sous le numéro 000241.		
+1998				1998				étude_détaillée_des_risques	Cette étude détaillée des risques a été réalisée en 1998.		
+2001				2001				à_quelques_constats	Suite à quelques constats d'impact début 2001 des opérations de pompage (rabattement de nappe) se sont déroulées.		
+1999				1999				travaux_terminés	Terres polluées par la créosote : traitées par le procédé de biodégradation sous serre, travaux terminés en 1999.	'créosote'	
+1908				1908				est_implantée_sur	Cette société est implantée sur ce site depuis 1908.		
+1995				1995				a_cessé	out traitement des bois a cessé en 1995.		

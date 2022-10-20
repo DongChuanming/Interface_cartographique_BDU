@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				2009				a_exercé	De 1974 à 2009, la société PREVOST a exercé au droit du site des activités potentiellement polluantes (traitements de surfaces) sur un terrain d'environ 5 800 m² dont environ 3 400 m² couverts.		'la société PREVOST'
+2014	01			2014	01			est_intervenue_en_urgence_impérieuse	En janvier 2014, l’ADEME est intervenue en urgence impérieuse pour prévenir tout risque de mélange de produits cyanurés et de produits acides sur le site.	'produits cyanurés', 'produits acides'	
+2014	03	27		2014	03	27		préconise_l__évacuation	Dans son rapport du 27 mars 2014, l'inspection préconise l’évacuation de l'ensemble des déchets au regard de leur toxicité, et de la dégradation du bâtiment.		
+2015	02	02		2015	02	02		a_été_pris	Le 2 février 2015, un arrêté a été pris chargeant l’ADEME de faire exécuter les travaux de mise en sécurité du site.		
+2016	02			2016	02			étaient_attendus	Des camions de pompage et de récupération des déchets étaient attendus pour le vendredi 12 février 2016 pour une prise en charge des déchets encore présents sur le site.		
+2013	12	23		2013	12	23		ont_été_signés	L'arrêté de travaux d'office en situation d'urgence impérieuse ainsi que l'arrêté d'occupation des lieux ont été signés le 23 décembre 2013.		
+2009	12			2009	12			a_été_déclarée_en_liquidation_judiciaire	En décembre 2009, la société PREVOST, dûment autorisée par l'arrêté préfectoral du 08 juillet 1996 modifié, a été déclarée en liquidation judiciaire.		'la société PREVOST'
+								est_prévue	La fin des travaux est prévue pour semaine 7.		
+2013	12	20		2013	12	20		a_donné	Par courrier du 20 décembre 2013, le ministère a donné son accord pour une intervention de l'ADEME concernant l'évacuation de 30 T de produits cyanurés et des acides pour un coût estimé à 30 000 euros TTC.	'produits cyanurés', 'des acides'	'le ministère'
+2016	02	11		2016	02	11		s__est_rendue	L’inspection s’est rendue sur le site le 11 février 2016 sur information de l’ADEME pour constater l’avancement des travaux réalisés par les sociétés TRIADIS et VALVERT.		'les sociétés TRIADIS et VALVERT'
+2010	08	06		2010	08	06		a_été_signé	L'arrêté préfectoral de mise en demeure a été signé le 6 août 2010.		
+								étaient_attendus	Des camions de pompage et de récupération des déchets étaient attendus pour le vendredi 12 février 2016 pour une prise en charge des déchets encore présents sur le site.		
+2010	10	14		2010	10	14		a_été_signé_le	L'arrêté préfectoral complémentaire a été signé le 14 octobre 2010.		
+2013	02	19		2013	02	19		Une_visite_d__inspection	Une visite d'inspection, en date du 19 février 2013 a permis de faire le point sur les travaux à engager dans le cadre de la mise en sécurité du site.		

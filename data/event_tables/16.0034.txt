@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	03	10		1993	03	10		a_été_reçu	Un récépissé d'autorisation d'exploiter a été reçu par SOPPEC le 10 mars 1993.		'SOPPEC'
+2003				2003				une_étude_de_sols	Ce site a fait l’objet d’une étude de sols et d’une étude de risque sanitaire (ERS) en 2002 et 2003.		
+2016	09			2016	09			a_été_demandé	L'inspection a été demandé à l'exploitant de déposer un dossier de demande de Servitudes d'Utilités Publiques pour septembre 2016.		
+2016	11			2016	11			une_interprétation	En novembre 2016 a eut lieu une interprétation de l'état des milieu dont le résumé est le suivant  :		
+2002				2002				une_étude_de_sols	Ce site a fait l’objet d’une étude de sols et d’une étude de risque sanitaire (ERS) en 2002 et 2003.		
+2015	12	17		2015	12	17		a_été_transmis	A ce titre, un porter à connaissance sur les restrictions d'usages a été transmis à la mairie de Nersac le 17 décembre 2015.		
+2003				2003				l__étude_de_vulnérabilité_menée	Conformément à la recommandation du bureau d’études Egis Structures Environnement, il a été demandé de mettre à jour l’étude de vulnérabilité menée en 2003, dans le but de recenser toutes les cibles potentielles, avec notamment le recensement des captages d’eaux souterraines aux alentours du site.		'Egis Structures Environnement'

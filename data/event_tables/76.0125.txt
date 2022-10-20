@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__inspection	- 08/06/08 : inspection constatant la réalisation de 10 sondages sur toute la partie Nord du site (terrain le plus récent) ; deux pollutions ponctuelles ont été identifiées (hydrocarbures et plomb),	'hydrocarbures', 'plomb'	
+								Trois_diagnostics	Trois diagnostics de pollution de sols ont été réalisés, la phase 1 en décembre 1995, la phase 2 en mars 1996 et la phase 3 en juillet 1996.		
+2009	03	12		2009	03	12		complétée_par_courrier	Concernant la problématique de pollution des sols, l'exploitant a remis une proposition de mesures de gestion en juillet 2008, complétée par courrier du 12/03/2009.		
+2009	07			2009	07			Une_analyse	Une analyse de l'eau du robinet du site a été réalisée en juillet 2009 et conclut à une eau non contaminée en composés organiques volatils et hydrocarbures totaux.	'composés organiques volatils', 'hydrocarbures totaux'	
+2008	10	07		2008	10	07		a_été_transmis	Ce plan a été transmis le 07/10/2008.		
+1995	12			1995	12			Trois_diagnostics	Trois diagnostics de pollution de sols ont été réalisés, la phase 1 en décembre 1995, la phase 2 en mars 1996 et la phase 3 en juillet 1996.		
+2009	03	12		2009	03	12		a_remis	Concernant la problématique de pollution des sols, l'exploitant a remis une proposition de mesures de gestion en juillet 2008, complétée par courrier du 12/03/2009.		
+2008	05			2008	05			Une_étude_de_vulnérabilité	Une étude de vulnérabilité du site a été transmise en mai 2008.		

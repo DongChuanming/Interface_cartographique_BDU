@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12	15		2009	12	15		Une_visite_sur_site_a_été_effectuée	Une visite sur site a été effectuée le 15 décembre 2009 par l’inspection afin de vérifier la mise en sécurité du site et l’enlèvement des déchets.		
+2011	06	27		2011	07	11		ont_été_réalisés	Ils ont été réalisés du 27 juin 2011 au 11 juillet 2011.		
+2007	02	08		2007	02	08		guide	Une analyse des risques résiduels a été menée conformément au guide intitulé « Démarche d’analyse de risques résiduels » en date du 8 février 2007.		
+1934				1934				accueille	Depuis 1934, le site accueille des installations de stockage de combustibles divers.	'combustibles'	
+2007	02	08		2007	02	08		intitulé	Une analyse des risques résiduels a été menée conformément au guide intitulé « Démarche d’analyse de risques résiduels » en date du 8 février 2007.		

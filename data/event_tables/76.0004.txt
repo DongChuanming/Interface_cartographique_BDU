@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__constat_d_	- Mai 95 : constat d'une pollution radioactive suite à un contrôle radiologique succinct réalisé par la DRIRE sur l'atelier d'acide phosphorique (suite à une pollution détectée en Rhône-Alpes),	'phosphorique'	'la DRIRE'
+1999	10			1999	10			le_démontage	- Réalisation d'un guide méthodologique relatif aux actions à mener pour le démontage de l'atelier d'acide phosphorique version 6 en octobre 1999 par la Société Grande Paroisse.	'acide phosphorique'	'la Société Grande Paroisse'
+								Cartographie	- Cartographie des zones contaminées réalisée par l'APAVE (rapport 18/10/95 complété le 28/11/95 puis le 15/04/96).		'APAVE'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	13		2007	07	13		la_cessation_des_activités	L'exploitant a notifié la cessation des activités du site le 13 juillet 2007.		
+2004	09			2004	09			a_réalisé_un_diagnostic_initial	La société a réalisé un diagnostic initial et une évaluation simplifiée des risques en septembre 2004 complété par un diagnostic approfondi sur les sols en décembre 2004.		'La société'
+2004	12			2004	12			a_réalisé_un_diagnostic_initial	La société a réalisé un diagnostic initial et une évaluation simplifiée des risques en septembre 2004 complété par un diagnostic approfondi sur les sols en décembre 2004.		'La société'

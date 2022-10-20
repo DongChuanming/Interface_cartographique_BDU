@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07			2016	07			a_été_transmis	Le suivi quadriennal de surveillance de la qualité des eaux souterraines d'octobre 2012 à octobre 2015 a été transmis par l'exploitant en juillet 2016.		
+1999	10	07		1999	10	07		ont_été_instituées	Ces servitudes ont été instituées par arrêté préfectoral du 7 octobre 1999.		
+1993				1993				a_cessé_définitivement	Cet ancien site de production de plaques d'amiante-ciment a cessé définitivement toute production en 1993.	'amiante - ciment'	

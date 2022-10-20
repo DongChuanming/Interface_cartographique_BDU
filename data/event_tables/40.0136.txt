@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				Les_sondages_e_sols	Les sondages e sols réalisés en 2005 lors du rachat du site par le groupe SONAE avaient démontré l'absence d'impact en HAP et BTEX (seul un sondage à révélé un impact en hydrocarbures).	'HAP', 'BTEX', 'hydrocarbures'	'le groupe SONAE'
+2016	10	24		2016	10	24		est_en_cours_de_liquidation_judiciaire	La société est en cours de liquidation judiciaire depuis le 24 octobre 2016.		
+2016	12	20		2016	12	20		Une_inspection_a_été_réalisée	Une inspection a été réalisée par la DREAL le 20 décembre 2016 à la suite d’une demande du liquidateur judiciaire Maître Legrand dans le cadre de la cessation d’activité du site.		'la DREAL'

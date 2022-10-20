@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				réalisé	audit environnemental réalisé en 1996 par l'ADEME révèle une polution importante des sols de l'usine et des lagunes.		
+1996				1996				Diagnostic_environnemental	Diagnostic environnemental réalisé par GEOSTOCK en 1996 : campagne d'investigations des sols, concentrations en éléments toxiques importantes dans les sols environnant les lagunes	'éléments toxiques', 'les'	'GEOSTOCK', 'lagunes'
+2003	02	21		2003	02	21		du	Arrêté préfectoral du 21 février 2003 prescrivant :		

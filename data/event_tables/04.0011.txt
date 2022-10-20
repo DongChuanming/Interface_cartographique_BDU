@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				une_dernière_campagne_de_surveillance	A la demande de la DRIRE, une dernière campagne de surveillance a été effectuée en 2006.		'la DRIRE'
+2007				2007				a_été_acceptée	Celle-ci a été acceptée en 2007, le site ne nécessite plus d'action spécifique de la part de l'administration chargée de la réglementation des installations classées et basculera dans la base de données BASIAS.		
+2000				2000				à_l_	* Ces prescriptions ont été respectées et les travaux effectués à l'été 2000.		
+2000				2000				ont_été_respectées	* Ces prescriptions ont été respectées et les travaux effectués à l'été 2000.		
+2000				2000				les_travaux_effectués	* Ces prescriptions ont été respectées et les travaux effectués à l'été 2000.		
+1955	07			1955	07			est_implantée	Cette ancienne usine à gaz est implantée à DIGNE depuis 1871 sur une superficie d'environ 5500 m² et a cessé son activité en juillet 1955.		
+1871				1871				est_implantée	Cette ancienne usine à gaz est implantée à DIGNE depuis 1871 sur une superficie d'environ 5500 m² et a cessé son activité en juillet 1955.		
+1995				1998				un_diagnostic_approfondi	*  Ce site, au demeurant de petite taille, a d'abord fait l'objet d'un diagnostic approfondi (équivalent à ESR et EDR) entre 1995 et 1998.		'à ESR'
+1955	07			1955	07			a_cessé_son_activité	Cette ancienne usine à gaz est implantée à DIGNE depuis 1871 sur une superficie d'environ 5500 m² et a cessé son activité en juillet 1955.		

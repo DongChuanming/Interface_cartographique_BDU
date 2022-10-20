@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1993				est_occupé_par	A partir de 1977 et jusqu'en 1993, le site est occupé par une station-service.		
+1993				1993				est_occupé	Depuis 1993, le site est occupé par un garage automobile.		
+1923				1977				était_occupé_par	Entre 1923 et 1977, le site était occupé par des habitations en bordure de la route de Clisson à Nantes.		
+				2014				a_exploité	Le garage a exploité une cabine de peinture jusqu'en 2014.		

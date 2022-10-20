@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	14		2008	11	14		un_dossier_de_cessation	La société LA MURE BIANCO a déposé un dossier de cessation d'activité pour son site de la rue Prosper Mérimée le 14 novembre 2008.		'La société LA MURE BIANCO'
+				2008	11	18		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés du 23 octobre au 18 novembre 2008.		
+2008	09			2008	09			un_diagnostic	A la demande de l'exploitant, un diagnostic de sol et des eaux souterraines a été réalisé en septembre 2008 par la société SITA Remediation.		'la société SITA Remediation'
+2001	08			2001	08			compléter_un_diagnostic_préliminaire_des_sols	L'objectif de cette étude était de compléter un diagnostic préliminaire des sols réalisé en août 2001 par la société SERPOL et de s'assurer de l'état de la qualité des sols et des eaux souterraines au droit du site.		'la société SERPOL'
+2008	09			2008	09			rapport_de_diagnostic	Le rapport de diagnostic de septembre 2008 a conclu à la necessité :		

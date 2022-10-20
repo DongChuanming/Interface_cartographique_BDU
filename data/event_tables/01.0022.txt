@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05			2004	05			est_en_place	La surveillance des eaux souterraines est en place depuis janvier 2003 à l'exception du piézomètre supplémentaire dans la nappe des cailloutis mis en place en mai 2004.		
+2007	03	13		2007	03	13		a_été_demandé	Il a été demandé à l'exploitant, par arrêté préfectoral du 13 mars 2007, de mettre en œuvre les travaux préconisés par le bureau d'étude en ce qui concerne les sols, ainsi que le colmatage du suintement au niveau du puits de pompage.		
+2001	01	19		2001	01	19		a_été_remise	L'ESR complète a été remise le 19/01/2001.		
+2010	02	09		2010	02	09		bénéficie_d__une_autorisation_d__exploiter_actualisée	Elle bénéficie d'une autorisation d'exploiter actualisée en dernier lieu le 9 février 2010.		
+2005	01	11		2005	01	11		Le_diagnostic_approfondi	Le diagnostic approfondi a été remis le 11 janvier 2005.		
+2004	05			2004	05			a_été_mis_en_place	Le piézomètre complémentaire dans la nappe profonde a été mis en place en mai 2004.		
+2008	12	08		2008	12	08		Le_prélèvement_réalisé	Le prélèvement réalisé le 8 décembre 2008 a montré de légères traces en amont (0,01 µg/L).		
+2004	05			2004	05			mis_en_place	La surveillance des eaux souterraines est en place depuis janvier 2003 à l'exception du piézomètre supplémentaire dans la nappe des cailloutis mis en place en mai 2004.		
+1999	09	28		1999	09	28		Le_diagnostic_initial	Le diagnostic initial a été transmis par la société le 28 septembre 1999.		
+2008	01	07		2008	01	07		a_envoyé_un_courrier	Suite à cela, l'inspecteur des installations classées a envoyé un courrier le 7 janvier 2008, concernant un déversement accidentel ayant eu lieu le 14 août 2006.		
+2009	06			2009	06			des_mesures_ont_été_réalisées_ensuite	Pour les piézomètres A et B, des mesures ont été réalisées ensuite en juin 2009.		
+2006	08	14		2006	08	14		un_déversement_accidentel	Suite à cela, l'inspecteur des installations classées a envoyé un courrier le 7 janvier 2008, concernant un déversement accidentel ayant eu lieu le 14 août 2006.		
+2003	01			2003	01			est_en_place	La surveillance des eaux souterraines est en place depuis janvier 2003 à l'exception du piézomètre supplémentaire dans la nappe des cailloutis mis en place en mai 2004.		
+2007	12			2007	12			a_été_envoyée	L'IEM a été envoyée à l'inspection en décembre 2007.		
+2008	11			2008	11			ont_été_installés	Deux ouvrages piézométriques ont été installés en amont (A) et en aval hydraulique (B) de cette zone (en novembre 2008).		
+2007	06	13		2007	06	13		ont_été_remis	Le rapport de fin de travaux et l'analyse des risques résiduels ont été remis le 13 juin 2007.		

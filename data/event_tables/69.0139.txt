@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05	26		2008	05	26		délivré	Par courrier du 11/06/2008, la société informe la préfecture sur son obtention du certificat de conformité VHU délivré par ECOPASS le 26/05/2008.		'la société informe la préfecture', 'ECOPASS'
+2004	07	01		2004	07	01		succède_à	Elle succède à la société GACHON depuis le 01/07/2004.		'la société GACHON'
+								Trois_campagnes_de_surveillance	Trois campagnes de surveillance de la qualité des eaux souterraines ont été effectuées (avril et décembre 2005, ainsi que mai 2006), ainsi que dans les sédiments du Nizerand.		
+2008	05	26		2008	05	26		informe	Par courrier du 11/06/2008, la société informe la préfecture sur son obtention du certificat de conformité VHU délivré par ECOPASS le 26/05/2008.		'la société informe la préfecture', 'ECOPASS'
+2005	12			2005	12			a_été_décelé	Aucun impact n'a été décelé au niveau des eaux en avril et décembre 2005.		
+1982	03	22		1982	03	22		est_autorisé	L'établissement est autorisé et réglementé par arrêté préfectoral du 22 mars 1982.		
+2011	10	14		2011	10	14		a_été_constatée	Le 14/10/2011, une pollution aux HCT dans la rivière Nizerand a été constatée au niveau de la société EPUR Rhône-Alpes.	'HCT'	'la société EPUR Rhône - Alpes'
+2004	05	27		2004	05	27		ont_été_remises	Les études correspondantes ont été remises et complétées en dernier lieu, le 27/05/2004.		
+2007	05	02		2007	05	02		bénéficie_d_	Le 02/05/2007, la société bénéficie d'un arrêté préfectoral d'autorisation d'exploiter pour son activité de dépollution et de démontage de véhicules hors d'usage et de travail mécanique des métaux.		
+2005	02	23		2005	02	23		de_déclaration	Le changement d'exploitant a fait l'objet d'une déclaration en date du 15/02/2005 et d'un récépissé de déclaration du 23/02/2005.		
+								a_été_décelé	Aucun impact n'a été décelé au niveau des eaux en avril et décembre 2005.		
+2006	05			2006	05			Trois_campagnes_de_surveillance	Trois campagnes de surveillance de la qualité des eaux souterraines ont été effectuées (avril et décembre 2005, ainsi que mai 2006), ainsi que dans les sédiments du Nizerand.		
+2005	12			2005	12			Trois_campagnes_de_surveillance	Trois campagnes de surveillance de la qualité des eaux souterraines ont été effectuées (avril et décembre 2005, ainsi que mai 2006), ainsi que dans les sédiments du Nizerand.		
+2005	10	06		2005	10	06		a_informé	Par courrier, la société a informé l'administration que les terres polluées au chlorobenzène ont été enlevées, évacuées et traitées par désorption thermique à partir du 06/10/2005.	'chlorobenzène'	
+2006	02	06		2006	02	06		a_été_transmis	Le rapport de fin de travaux a été transmis à l'administration le 06/02/2006.		
+2005	02	15		2005	02	15		une_déclaration	Le changement d'exploitant a fait l'objet d'une déclaration en date du 15/02/2005 et d'un récépissé de déclaration du 23/02/2005.		

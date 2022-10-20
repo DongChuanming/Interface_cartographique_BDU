@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				façon_à_permettre	L'ancien immeuble de la société HACHETTE LIVRE a été rasé en 2012 de façon à permettre la construction du nouveau siège social de la société.		'la société HACHETTE LIVRE'
+				2003				a_exploité	Elle a exploité jusqu'en 2003 un dépôt de liquide inflammable soumis à déclaration sous la rubrique 1432.2.b de la nomenclature des installations classées.	'liquide inflammable'	
+2016	10			2016	10			a_transmis	En octobre 2016, la société HACHETTE LIVRE a transmis un rapport de fin de travaux.		'la société HACHETTE LIVRE'
+2012				2012				a_été_démoli	Courant 2012, l'immeuble de la société HACHETTE LIVRE a été démoli pour reconstruction.		'la société HACHETTE LIVRE'
+2004				2012				ont_continué_à_être_écrémées	De fin 2004 à 2012, les eaux souterraines ont continué à être écrémées de façon manuelle au niveau de 2 ouvrages situés à proximité des cuves lors des campagnes de surveillance.		
+2012				2012				a_été_rasé	L'ancien immeuble de la société HACHETTE LIVRE a été rasé en 2012 de façon à permettre la construction du nouveau siège social de la société.		'la société HACHETTE LIVRE'
+2008	04			2008	04			une_diminution_de	- Puis, une diminution de l'épaisseur avec quelques pics notamment en avril 2008 (106 cm).		
+2003	07			2003	07			a_déclaré	Début juillet 2003, la société HACHETTE LIVRE a déclaré un incident sur ses cuves de fioul qui présentaient des fissures.	'fioul'	'la société HACHETTE LIVRE'
+2012	05			2012	05			de_la_dernière_campagne	L'inspection a estimé que c'était l'occasion pour la société HACHETTE LIVRE de procéder à des travaux de dépollution complémentaires car, lors de la dernière campagne de mai 2012, l'épaisseur de flottant mesurée était encore significative (24 cm).		'la société HACHETTE LIVRE'
+2014				2014				a_transmis	Courant 2014, la société HACHETTE LIVRE a transmis une interprétation de l'état des milieux hors site et une analyse des risques résiduels sur et hors site.		'la société HACHETTE'
+2012	07			2012	07			Un_bilan	Un bilan de la surveillance des eaux souterraines a été transmis par la société HACHETTE LIVRE à l'inspection en juillet 2012.		'la société HACHETTE LIVRE'
+2005	07			2005	07			une_augmentation_significative	- Dans un premier temps, une augmentation significative de l'épaisseur de flottant juste après l'arrêt du traitement (jusqu'à 149 cm en juillet 2005),		

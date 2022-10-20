@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				ses_2_usines_METAL_DEPLOYE_à	En 2001, le groupe Vallourec a cédé ses 2 usines METAL DEPLOYE à un groupe d'investisseur: ICM Group.		'le groupe Vallourec', 'usines METAL DEPLOYE', 'ICM Group'
+2001	02			2001	02			a_été_définitivement_arrêtée	Depuis février 2001, l'installation en cause a été définitivement arrêtée et il ne subsiste plus à ce jour d'installation de traitement de surface sur ce site.		
+2003				2003				a_cédé	Ce dernier a cédé en 2003 l'activité "résistance" à un groupe Italien TELEMA.		'Italien TELEMA'
+2010				2010				un_bilan_quadriennal	A la demande de l'Inspection des installations classées, l'exploitant a réalisé un bilan quadriennal sur la période 2010-2013.		
+2002	07	11		2002	07	11		a_été_signé	11 juillet 2002: un arrêté préfectoral imposant à l'exploitant la surveillance des eaux souterraines (y compris en aval du site) a été signé.		
+2006	03	13		2006	03	13		ont_été_prises	13 mars 2006: suites aux différentes cessions/réorganisations du site, des mesures complémentaires portant sur les modalités de la surveillance de la qualité des eaux souterraines ont été prises:		
+2013				2013				un_bilan_quadriennal	A la demande de l'Inspection des installations classées, l'exploitant a réalisé un bilan quadriennal sur la période 2010-2013.		

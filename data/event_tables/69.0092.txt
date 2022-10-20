@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02			2008	02			a_été_rédigé	Le dernier a été rédigé au mois de février 2008.		
+1990	01	31		1990	01	31		la_concentration_maximale	Sur l'ensemble des 29 dernières années la concentration maximale en HCT a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du Port Édouard Herriot), elle était alors de 64 260 mg/l.	'HCT'	
+1978				1978				est_réalisé	Un suivi piézométrique global du Complexe Pétrolier (sur les hydrocarbures) est réalisé depuis 1978.	'hydrocarbures'	
+				2005	06	09		a_ensuite_progressivement_diminué	La concentration a ensuite progressivement diminué jusqu'au 09/06/2005 où elle atteignait 3,5 mg/l.		
+1969				1969				a_démarré_sur	Le stockage d'essence a démarré sur le site en 1969.	'essence'	
+2005	09	20		2005	09	20		sont_réglementés	Les SPR sont réglementés par l'arrêté préfectoral du 19/06/1998, mis à jour le 20/09/2005.		'Les SPR'
+1996				1996				Une_étude_globale	Une étude globale de la pollution du Complexe Pétrolier a été réalisée en 1996, elle montre une pollution globale de la zone pétrolière liée en partie aux faits de guerre.		'Complexe Pétrolier'
+								Cette_étude_globale	Cette étude globale a été demandée en s'appuyant sur les travaux préparatoires de la circulaire du 03/04/96.		

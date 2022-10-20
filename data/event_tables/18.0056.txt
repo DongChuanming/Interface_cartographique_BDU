@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12	20		2011	12	20		la_cessation_d__activité	Le 20 décembre 2011, la société à déclaré la cessation d'activité du site situé rue des Varennes.		
+2011	12	20		2011	12	20		ont_été_soit_vendus	Depuis l'arrêt de l'activité du 20 décembre 2011, les machines et les stocks ont été soit vendus, soit déménagés sur l'autre site rue Pelletier Doisy.		
+1962				1979				déclare_avoir	Entre 1962 et 1979, l'entreprise déclare avoir utilisé du plomb dans son procédé.	'plomb'	

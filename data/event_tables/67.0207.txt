@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	09	30		1997	04	03		ont_été_réalisés	Ils ont été réalisés du 30 septembre 1996 au 3 avril 1997.		
+2010	11			2010	11			Le_mémoire_de_réhabilitation	Le mémoire de réhabilitation du site en date de novembre 2010 fait état de la présence de zones polluées au droit du site et met en place des restrictions d'usages par servitudes d'utilité publique.		
+2013	09	30		2013	09	30		a_été_signé	Le procès verbal clôturant la procédure cessation d'activité de la société WIMETAL à Wissembourg a été signé le 30 septembre 2013.		'la société WIMETAL'
+2008				2008				Des_travaux_de_réhabilitation	Des travaux de réhabilitation du site ont été réalisés en 2008.		
+2013	06	06		2013	06	06		a_été_vendu_à	Le site a été vendu à la société COPPERLINES K. le 06 juin 2013.		'la société COPPERLINES K.'
+2013	09	30		2013	09	30		le_procès_verbal_de_récolement	La procédure de mise en sécurité du site a été clôse, le procès verbal de récolement a été établi le 30 septembre 2013.		
+2010	11			2010	11			a_été_réalisé	Un mémoire de réhabilitation a été réalisé en novembre 2010.		
+2008	01	31		2008	01	31		a_cessé_d__exploiter	La société a cessé d'exploiter ses activités le 31 janvier 2008.		
+1995				1995				Travaux_de_dépollution	Travaux de dépollution de la nappe : 1995-1997.		
+1996	07	04		1996	07	04		ont_été_effectuées	Les opérations ont été effectuées dans le cadre de l'arrêté préfectoral du 4 juillet 1996.		
+2008				2008				D__autres_travaux_de_dépollution	D'autres travaux de dépollution ont été effectués en 2008.		
+1997				1997				Travaux_de_dépollution	Travaux de dépollution de la nappe : 1995-1997.		

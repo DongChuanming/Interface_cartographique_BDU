@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				devient	En 1965, cette société devient les établissements CHEVALIER SAFIR.		'les établissements CHEVALIER SAFIR'
+								la_mise_à_l__arrêt_de_ses_activités_survenues	Par courrier en date du 16 janvier 2015, l’exploitant a fait part de la mise à l’arrêt de ses activités survenues au 4ème trimestre 2014.		
+2014				2014				a_fait_part	Par courrier en date du 16 janvier 2015, l’exploitant a fait part de la mise à l’arrêt de ses activités survenues au 4ème trimestre 2014.		
+1815				1815				est_présente	L’activité industrielle y est présente depuis 1815, historiquement au nom des Etablissements GUILOTTE pour la fabrication de ressorts à lame.		'des Etablissements GUILOTTE'
+2015	01	16		2015	01	16		a_fait_part	Par courrier en date du 16 janvier 2015, l’exploitant a fait part de la mise à l’arrêt de ses activités survenues au 4ème trimestre 2014.		
+2014				2014				la_mise_à_l__arrêt_de_ses_activités_survenues	Par courrier en date du 16 janvier 2015, l’exploitant a fait part de la mise à l’arrêt de ses activités survenues au 4ème trimestre 2014.		
+								a_fait_part	Par courrier en date du 16 janvier 2015, l’exploitant a fait part de la mise à l’arrêt de ses activités survenues au 4ème trimestre 2014.		

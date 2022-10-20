@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12	19		2002	12	19		La_cessation_d__activité	La cessation d'activité a été actée le 19/12/2002.		
+2001	08	31		2001	08	31		le_Directeur_transmet	En date du 31/08/2001, le Directeur transmet un dossier de demande de cessation d'activité à la Préfecture.		'la Préfecture'

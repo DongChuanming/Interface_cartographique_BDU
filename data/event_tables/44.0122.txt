@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	03			2016	03			Les_résultats_communiqués	Les résultats communiqués en mars 2016 démontrent un fort abattement du zinc permettant d’arriver à la conformité (≤ 2 mg/l) : valeurs limites de l’arrêté d’autorisation.	'zinc'	
+2014				2014				a_été_mise_en_demeure	En 2014, sur proposition de l’inspection des installations classées, la SNG a été mise en demeure de mettre en conformité ses rejets d’eaux pluviales (EP) qui présentent des concentrations en zinc anormalement élevées.		'la SNG'
+1973				1973				Depuis_son_implantation	Depuis son implantation sur le site en 1973, la société a fait l’objet de rachats et a connu une croissance continue.		
+2015	07			2015	07			10_sondages_de_sol	Dans ce cadre 10 sondages de sol ont été réalisés en juillet 2015 :		
+2012				2012				a_été_réalisée	En 2012, une extension a été réalisée sur le site pour installer les activités de peinture (hall peinture).		
+2016				2016				de_nouvelles_investigations	De plus, afin de mieux caractériser l’origine de la présence de Trichloréthylène dans les eaux souterraines et son impact, la SNG a programmé de nouvelles investigations dans les sols et la nappe souterraine durant l’été 2016.	'Trichloréthylène'	'la SNG'
+2015	10			2015	10			un_dispositif_de_traitement	La SNG a mis en place, en octobre 2015, un dispositif de traitement de ses effluents sur 1 des 3 rejets, celui correspondant aux eaux de pompage des sous-sols des ateliers.	'ses effluents'	'La SNG'
+2015	07			2015	07			du_diagnostic_de_sol	Les analyses réalisées dans le cadre du diagnostic de sol de juillet 2015 ont mis en évidence :		
+2017	12			2017	12			est_opérationnelle	Une station fixe qui traite les eaux pluviales et les eaux de pompage rejetées au milieu naturel est opérationnelle depuis le mois de décembre 2017.		
+2002	06	21		2002	06	21		a_été_délivré	Cet investissement a fait l’objet d’une nouvelle demande d’autorisation d’exploiter et un arrêté préfectoral a été délivré le 21 juin 2002.		
+1999				1999				a_procédé_à	En 1999, la société a procédé à une augmentation de sa capacité de production.		

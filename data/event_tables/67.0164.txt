@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				la_réalisation_d__un_diagnostic_des_sols	En 2005, dans le cadre du Plan National Santé Environnement, l'exploitant s'est vu prescrire par le préfet la réalisation d'un diagnostic des sols portant sur la présence de métaux au droit et dans l'environnement du site.		
+2012				2012				Le_démantèlement	Le démantèlement de l'ancienne pomperie a conduit en 2012 à éliminer 61 tonnes de terres polluées par des hydrocarbures, des BTEX et des HAP.	'hydrocarbures', 'des BTEX', 'HAP'	
+1968				1968				a_débuté	La production de transmissions automobiles a débuté sur le site en 1968.		
+2004				2004				a_fait_procéder	En 2004, l'exploitant a fait procéder à un diagnostic des réseaux enterrés d'évacuation des eaux qui se sont avérés dégradés.		
+2015				2015				sera_complétée	Le réseau  de surveillance de la nappe sera complétée en 2015 sur ce secteur.		
+2008				2008				a_cédé	En 2008, la société Général Motors a cédé une partie de ses terrains n'ayant pas fait l'objet d'une occupation industrielle.		'la société Général Motors'
+2011	12			2011	12			établi	Le rapport de contrôle de la qualité des sols après démantèlement de la station service, établi en décembre 2011, conclut à l'absence d'impact sur les sols.		

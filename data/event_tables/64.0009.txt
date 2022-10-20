@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				L__étude	L'étude d'impact et les propositions de réhabilitation ont été remises en 1994.		
+2001				2001				réhabilité	L'arrêté du 26/05/2008 annule et remplace l'arrêté du 10/07/2006 et  prescrit des travaux de captage, de traitement et de contrôle du biogaz sous l'emprise de l'aire de maturation des mâchefers et du massif de déchets réhabilité en 2001, à l'échéance du 26/05/2009.		
+1999	12	31		1999	12	31		éxécution_des_travaux_de_réhabilitation	Le Préfet a ordonné par arrêté du 4 octobre 1994, la fermeture de la décharge et l'éxécution des travaux de réhabilitation qui devaient s'achever le 31 décembre 1999.		'Le Préfet'
+2004	12			2004	12			La_réhabilitation	La réhabilitation du site a été initiée en avril 2002 et s'est achevée en décembre 2004.		
+1994	10	04		1994	10	04		la_fermeture_de	Le Préfet a ordonné par arrêté du 4 octobre 1994, la fermeture de la décharge et l'éxécution des travaux de réhabilitation qui devaient s'achever le 31 décembre 1999.		'Le Préfet'
+1995				1998				ont_été_réalisées	Cinq phases de réhabilitation ont été réalisées entre 1995 et 1998 (création des aires de maturation des mâchefers et de compostage des déchets verts, aménagement du talus sud et couverture de la zone nord-ouest du site).		
+				2001	12			ont_été_exploités	Les deux derniers casiers ont été exploités jusqu'en décembre 2001.		
+2002	04	11		2002	04	11		lance	Le 11 avril 2002, le Président de la Communauté d'Agglomération de Pau, Maire de Pau, lance le comité de pilotage pour la réhabilitation "définitive" de la décharge de Lescar.		"le Président de la Communauté d' Agglomération de Pau", 'Maire de Pau', 'Lescar'
+				1975				ont_été_déposés	Des ordures ménagères et autres déchets industriels plus ou moins "banals" ont été déposés dans cette décharge jusqu'en 1975, date à laquelle le four d'incinération a été installé.		
+2002	04			2002	04			La_réhabilitation	La réhabilitation du site a été initiée en avril 2002 et s'est achevée en décembre 2004.		
+2004	12			2004	12			s__est_achevée	La réhabilitation du site a été initiée en avril 2002 et s'est achevée en décembre 2004.		
+1994	10	04		1994	10	04		il_a_été_prescrit	Par arrêté n° 94/IC/175 du 4 octobre 1994, il a été prescrit les mesures de réhabilitation de la décharge ainsi que la date de fermeture au 31 décembre 1999.		
+2006	07	10		2006	07	10		l__arrêté	L'arrêté du 26/05/2008 annule et remplace l'arrêté du 10/07/2006 et  prescrit des travaux de captage, de traitement et de contrôle du biogaz sous l'emprise de l'aire de maturation des mâchefers et du massif de déchets réhabilité en 2001, à l'échéance du 26/05/2009.		
+1999	12	31		1999	12	31		la_fermeture_de	Le Préfet a ordonné par arrêté du 4 octobre 1994, la fermeture de la décharge et l'éxécution des travaux de réhabilitation qui devaient s'achever le 31 décembre 1999.		'Le Préfet'
+1999	12	31		1999	12	31		la_date_de_fermeture	Par arrêté n° 94/IC/175 du 4 octobre 1994, il a été prescrit les mesures de réhabilitation de la décharge ainsi que la date de fermeture au 31 décembre 1999.		
+2004	12			2004	12			La_réhabilitation	La réhabilitation du site s'achève en décembre 2004 par la mise en place d'une couverture étanche, la gestion des biogaz (récupération et brûlage), la gestion des lixiviats et des eaux de ruissellement, la végétalisation et les aménagements paysagers.		
+				2001	12			ont_cependant_été_exploités	Les deux derniers casiers ont cependant été exploités jusqu'en décembre 2001.		
+1999	12	31		1999	12	31		il_a_été_prescrit	Par arrêté n° 94/IC/175 du 4 octobre 1994, il a été prescrit les mesures de réhabilitation de la décharge ainsi que la date de fermeture au 31 décembre 1999.		
+2002				2007				à_procédé	De 2002 à 2007, l'exploitant à procédé à 2 campagnes annuelles.		

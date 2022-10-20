@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								préfectoral_en	Un second arrêté préfectoral en date du 29 décembre 2005 encadre depuis les modalités de dépollution imposées à l'exploitant du site, tout en maintenant la suspension d'exploitation.	"suspension d' exploitation"	
+								Un_second_arrêté	Un second arrêté préfectoral en date du 29 décembre 2005 encadre depuis les modalités de dépollution imposées à l'exploitant du site, tout en maintenant la suspension d'exploitation.	"suspension d' exploitation"	
+2005	10	28		2005	10	28		a_été_suspendue	L'exploitation a continué jusqu'en 2005, où elle a été suspendue par arrêté préfectoral d'urgence du 28 octobre 2005 suite à un accident (fuite importante d'hydrocarbures identifiée sur une des cuves dans la nappe phréatique).	'continué'	

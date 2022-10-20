@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12	10		2015	12	10		a_été_dissoute	La ZAC a été dissoute le 10 décembre 2015.		
+2004	10	04		2004	10	04		a_été_pris_dans	Un arrêté a été pris dans ce sens le 4 octobre 2004 envers la SAS BUIRE Aménagement.		'la SAS BUIRE Aménagement'
+2003	06	30		2003	06	30		Le_diagnostic_initial	Le diagnostic initial a été réalisé le 30/06/2003 par la SAS BUIRE AMENAGEMENT dont les deux actionnaires sont GECINA et la Lyonnaise de Banque.		'la SAS BUIRE AMENAGEMENT', 'GECINA', 'la Lyonnaise de Banque'
+2006	11	07		2006	11	07		a_été_remis	Le rapport final de l'EDR a été remis en date du 07/11/2006.		
+2004	11			2009	11			des_campagnes_de_surveillance	Au total, des campagnes de surveillance de la qualité des eaux souterraines ont été rapportées à l'Inspection des Installations Classées entre novembre 2004 et novembre 2009.		
+								avaient_déjà_été_retirés	2 200 tonnes de matériaux pollués avaient déjà été retirés du site entre les mois de janvier et février 2005.		
+2006	05			2006	05			ont_été_observées	Lors de ces campagnes, des dépassement permanent des valeurs guides dictées par l'arrêté du 17/12/2008 ont été observées en Tétrachloréthylène (maximum à 56 µg/l en novembre 2004, 39 µg/l en mai 2006).	'Tétrachloréthylène'	
+2009				2009				La_dernière_mesure	La dernière mesure de 2009 faisait toujours état d'une contamination de la nappe au tétrachloroéthylène (57 µg/l).	'tétrachloroéthylène'	
+2004				2004				suspension_de	La surveillance a ensuite été arrêtée (suspension de l'arrêté de 2004).		
+2004				2004				a_ensuite_été_arrêtée	La surveillance a ensuite été arrêtée (suspension de l'arrêté de 2004).		
+2005	05			2005	05			un_décaissement_complet	- Pour la zone d'implantation du groupe scolaire, un décaissement complet du niveau de remblais contaminés jusqu'au toit des matériaux sains (2 m de profondeur) a été réalisé en mai 2005.		
+2005	02			2005	02			avaient_déjà_été_retirés	2 200 tonnes de matériaux pollués avaient déjà été retirés du site entre les mois de janvier et février 2005.		
+2015				2015				a_été_terminée	La ZAC de la BUIRE, débuté en 2004, a été terminée en 2015, par SAS BUIRE Aménagement.		'BUIRE', 'SAS BUIRE Aménagement'

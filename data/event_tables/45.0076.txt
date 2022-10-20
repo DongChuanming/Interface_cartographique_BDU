@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_repris	La société FAMAR FRANCE a repris en 2001, le site précédemment exploité par la société NOVARTIS.		'La société FAMAR FRANCE', 'société NOVARTIS'
+2013	12	26		2013	12	26		récépissé	Par courrier du 22 novembre 2012, le directeur la société FAMAR FRANCE informe de la cessation d'activité de son site au cours du premier semestre 2013, celle-ci a été actée par récépissé préfectoral du 26 décembre 2013.		'le directeur la société FAMAR FRANCE'
+2013	09	06		2013	09	06		le_contrôle	Par le contrôle du site le 6 septembre 2013, l’inspection des installations classées a établi les constats suivants :		
+2013				2013				informe	Par courrier du 22 novembre 2012, le directeur la société FAMAR FRANCE informe de la cessation d'activité de son site au cours du premier semestre 2013, celle-ci a été actée par récépissé préfectoral du 26 décembre 2013.		'le directeur la société FAMAR FRANCE'
+2013	09	06		2013	09	06		les_constats	Par le contrôle du site le 6 septembre 2013, l’inspection des installations classées a établi les constats suivants :		
+2001	04	09		2001	04	09		a_été_notifié	Un récépissé de changement d'exploitant a été notifié le 9 avril 2001.		
+2012	11	22		2012	11	22		informe	Par courrier du 22 novembre 2012, le directeur la société FAMAR FRANCE informe de la cessation d'activité de son site au cours du premier semestre 2013, celle-ci a été actée par récépissé préfectoral du 26 décembre 2013.		'le directeur la société FAMAR FRANCE'

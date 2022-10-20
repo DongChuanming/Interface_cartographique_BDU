@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03			2010	03			n__est_plus_en_activité	Depuis la liquidation judiciaire de l'ancien exploitant en mars 2010, le site n'est plus en activité.		
+2013				2013				Un_diagnostic_environnemental	Un diagnostic environnemental plus complet a été réalisé en 2013.		
+2005	04			2005	04			Un_premier_diagnostic	Un premier diagnostic en avril 2005, limité aux emplacement de stockage d'hydrocarbures avait montré la présence d'hydrocarbures au droit des cuves.	'hydrocarbures', 'hydrocarbures'	
+1954				1954				est_occupé	Le site d'une superficie d'environ 3,5 ha. est occupé depuis 1954 par une activité d'imprimerie.		
+2010	03			2010	03			la_liquidation_judiciaire	Depuis la liquidation judiciaire de l'ancien exploitant en mars 2010, le site n'est plus en activité.		

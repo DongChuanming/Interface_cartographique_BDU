@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				ont_ainsi_été_implantés	Elle recommande de compléter le réseau piézomètrique aval afin de préciser le panache de pollution. 7 nouveaux piézomètres ont ainsi été implantés début 2004.		
+2004	06			2004	06			a_été_réalisée	Une étude complémentaire sur les eaux souterraines a été réalisée en mai-juin 2004.		
+2000	03			2000	03			__ont_été_mesurées_lors_de	D’importantes valeurs en arsenic  (> 5 mg/l) ont été mesurées lors de cette étude en mars 2000 en aval immédiat de la décharge.	'arsenic'	
+2003	04			2003	04			a_été_remise	L'ESR a été remise en avril 2003.		
+								a_été_réalisée	Une étude complémentaire sur les eaux souterraines a été réalisée en mai-juin 2004.		
+1995				1995				Une_étude_de_vulnérabilité	Une étude de vulnérabilité a défini un nouveau réseau de surveillance des eaux souterraines en 1995.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				ont_subi_une_dépollution_par_biodégradation	La DRIRE a donné son accord pour que les terres autrefois polluéees et qui ont subi une dépollution par biodégradation depuis 1998, soient réparties sur une partie du site afin de permettre une réhabilitation.		'La DRIRE'
+1990				1990				a_été_fermé	Ce dépôt a été fermé en 1990, sans déclaration de fermeture et contrôle des sols.		
+								__l__issue_de_la_visite	 l'issue de la visite réalisée le 27/10/04, il est apparu qu'une partie des terrains avaient été construits par AMIS.		
+1998				1998				terres_autrefois_polluéees	La DRIRE a donné son accord pour que les terres autrefois polluéees et qui ont subi une dépollution par biodégradation depuis 1998, soient réparties sur une partie du site afin de permettre une réhabilitation.		'La DRIRE'
+1998	05			1998	05			l__excavation	En mai 1998, la société AMIS a procédé à l'excavation  des terres ayant une teneur en hydrocarbures supérieure à 2500 mg/kg , à leur traitement biologique  sur site, et au pompage de la couche d'hydrocarbures flottant sur la nappe.	'en hydrocarbures', "d' hydrocarbures"	'la société AMIS'

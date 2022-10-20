@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				se_développe	En 1983 se développe une activité d'imprimerie, exercée par la société Jean Didier Heliogravure, puis Quebecor et enfin H2D.		'la société Jean Didier Heliogravure', 'Quebecor', 'H2D.'
+2017				2017				Plusieurs_phases_d__investigation_de_terrain	Plusieurs phases d'investigation de terrain ont été réalisées en 2010 et 2017 par la société EACM et en 2013 par la société Galtier.		'la société EACM', 'la société Galtier'
+2010				2010				Plusieurs_phases_d__investigation_de_terrain	Plusieurs phases d'investigation de terrain ont été réalisées en 2010 et 2017 par la société EACM et en 2013 par la société Galtier.		'la société EACM', 'la société Galtier'
+2013	12			2013	12			Des_opérations_de_mise_en_sécurité	Des opérations de mise en sécurité du site ont été réalisées en novembre-décembre 2013.		
+								accueille	Au début des années 1900, le site accueille une activité de fonderie et de forge pour la construction de voies de chemin de fer et de locomotives à vapeur (Compagnie de Fives, devenue Fives-Cail-Lille puis Fives-Cail-Babcock).		'Compagnie de Fives', 'Fives - Cail', 'Fives', 'Cail - Babcock'
+								seront_démolies_progressivement	Les infrastructures seront démolies progressivement à partir des années 1970.		
+								Des_opérations_de_mise_en_sécurité	Des opérations de mise en sécurité du site ont été réalisées en novembre-décembre 2013.		
+2012	06	27		2012	06	27		a_été_mise_en_liquidation	L'entreprise H2D a été mise en liquidation le 27 juin 2012.		'H2D'
+								une_activité_de_fonderie	Au début des années 1900, le site accueille une activité de fonderie et de forge pour la construction de voies de chemin de fer et de locomotives à vapeur (Compagnie de Fives, devenue Fives-Cail-Lille puis Fives-Cail-Babcock).		'Compagnie de Fives', 'Fives - Cail', 'Fives', 'Cail - Babcock'
+2009				2009				a_de_plus_été_installée	Une rotative offset à séchage thermique a de plus été installée en 2009.		

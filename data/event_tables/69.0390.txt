@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1955				1955				exploitait	La société EGIC exploitait depuis 1955 sur la commune de Saint-Genis-Laval une usine de conception et d’assemblage de matériel électrique réglementée par l’arrêté d’autorisation du 9 juillet 1981 (notamment pour les installations de traitement de surface et de peinture).		'La société EGIC'
+2011	07			2011	07			a_remis	En juillet 2011, l’exploitant a remis un bilan quadriennal de surveillance des eaux souterraines réalisée entre 2007 et 2010.		
+2008	07	11		2008	07	11		a_proposé	Par ailleurs, l'exploitant a proposé les servitudes conformément à son arrêté du 11 juillet 2008.		
+2009	02			2009	02			a_remis	En février 2009, l’exploitant a remis son rapport final de fin de travaux de dépollution.		
+2008	07	11		2008	07	11		a_été_pris	En conséquence, un deuxième arrêté complémentaire a été pris le 11 juillet 2008 pour :		
+2007	05	02		2007	05	02		a_été_pris	Dans ce cadre, un premier arrêté complémentaire a été pris le 2 mai 2007 pour conduire de nouvelles investigations et imposer une surveillance trimestrielle de la nappe souterraine sur les paramètres COHV et HCT.	'COHV', 'HCT'	
+2009	05			2009	05			a_été_complété	Ce rapport a été complété en mai 2009 par :		
+2007				2010				réalisée	En juillet 2011, l’exploitant a remis un bilan quadriennal de surveillance des eaux souterraines réalisée entre 2007 et 2010.		
+2007	05	02		2007	05	02		a_été_maintenue	Au regard des résultats transmis, et compte tenu du maintien en place d’une pollution résiduelle en COHV dans le sous-sol, la surveillance a été maintenue par l'arrêté complémentaire du 11/04/2018 modifiant l'arrêté du 2 mai 2007, ceci afin de s’assurer de l’efficacité des mesures de remise en état mises en œuvre.	'COHV'	
+2008				2008				sparging_a_été_mené_sur_l_	Un traitement des sols pollués par venting et sparging a été mené sur l’année 2008.		
+2006	11	28		2006	11	28		a_fourni	Dans le cadre de la cessation d'activité de son site de production de matériel électrique, la société EGIC a fourni au préfet le 28 novembre 2006, un dossier de cessation d’activité comprenant les bordereaux d'élimination des déchets dangereux présents sur le site.	'des déchets dangereux'	'la société EGIC'

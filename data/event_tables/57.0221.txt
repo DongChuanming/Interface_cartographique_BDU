@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07	24		2009	07	24		a_pris_le_nom	Suite à un plan de cession établi en juillet 2009, la société PIMEST a pris le nom de PIMEST ANTI-CORROSION le 24 juillet 2009.		'la société PIMEST', 'PIMEST ANTI-CORROSION'
+2014	08			2014	08			Une_visite	Une visite de l'inspection des installations classées, en août 2014, a permis de constater que le site présentait, dans son état actuel, d’importants risques pour la sécurité publique et pour l’environnement, enjeux protégés par le Code de l’Environnement :		
+2014	03			2014	03			un_incendie_s__est_produit	Il convient de noter qu’un incendie s’est produit sur le site en mars 2014 ;		
+2015	03			2015	03			la_réalisation_d__une_intervention	En mars 2015, le ministère en charge de l'environnement a donc autorisé la réalisation d'une intervention de l'ADEME sur ce site pour le mettre en sécurité.		'le ministère'
+2004	02	1		2004	02	1		a_déclaré	Par courrier du 22 décembre 2005, la société PIMEST a déclaré avoir cessé son activité sur le site de BOULANGE depuis le 1er février 2004.		'la société PIMEST'
+2009	07			2009	07			a_pris_le_nom	Suite à un plan de cession établi en juillet 2009, la société PIMEST a pris le nom de PIMEST ANTI-CORROSION le 24 juillet 2009.		'la société PIMEST', 'PIMEST ANTI-CORROSION'
+2012	12	04		2012	12	04		a_été_mise_en_redressement_judiciaire_par_jugement	Cette société a été mise en redressement judiciaire par jugement du tribunal de commerce de BRIEY du 4 décembre 2012.		
+2013	07	18		2013	07	18		a_été_convertie	Cette procédure a été convertie en liquidation judicaire par jugement du 18 juillet 2013.		
+2015	04	10		2015	04	10		a_pris	Le Préfet de Moselle a pris, en date du 10 avril 2015, un arrêté préfectoral de travaux d'office pour confier à l'ADEME la réalisation des travaux suivants :		'Le Préfet de Moselle'
+2009	07			2009	07			à_un_plan_de_cession_établi	Suite à un plan de cession établi en juillet 2009, la société PIMEST a pris le nom de PIMEST ANTI-CORROSION le 24 juillet 2009.		'la société PIMEST', 'PIMEST ANTI-CORROSION'
+2005	12	22		2005	12	22		a_déclaré	Par courrier du 22 décembre 2005, la société PIMEST a déclaré avoir cessé son activité sur le site de BOULANGE depuis le 1er février 2004.		'la société PIMEST'
+2004	02	1		2004	02	1		avoir_cessé_son_activité	Par courrier du 22 décembre 2005, la société PIMEST a déclaré avoir cessé son activité sur le site de BOULANGE depuis le 1er février 2004.		'la société PIMEST'

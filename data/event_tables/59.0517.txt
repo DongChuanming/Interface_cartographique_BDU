@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				des_diagnostics	Un plan d’investigation a été établi à partir des diagnostics réalisés en 2004 et 2008 par le bureau d’étude SOCOTEC.		'SOCOTEC'
+2004				2004				a_déménagé_ses_activités	Une régularisation administrative était en cours lorsqu’en 2004, la société a déménagé ses activités sur un nouveau site sur la zone industrielle de ROUBAIX EST.		'ROUBAIX'
+2015	02			2015	02			_Le_rapport_de_réception_des_travaux_de_dépollution	-Le rapport de réception des travaux de dépollution et ARR à dater de Février 2015.		
+2012	10	08		2012	10	08		Début_des_travaux_de_dépollution	Début des travaux de dépollution des sols le 08 Octobre 2012.		
+2008				2008				des_diagnostics	Un plan d’investigation a été établi à partir des diagnostics réalisés en 2004 et 2008 par le bureau d’étude SOCOTEC.		'SOCOTEC'
+2013	10			2013	10			Fin_du_comblement	Fin du comblement des zones excavées par les matériaux concassés en mi-octobre 2013.		
+2013	07			2013	07			Fin_des_travaux_de_dépollution	Fin des travaux de dépollution et évacuation des terres excavées en juillet 2013.		
+2008	12	19		2008	12	19		Cette_cessation_d__activité	Cette cessation d’activité a été notifiée auprès de M. le préfet le 19 Décembre 2008.		'le préfet'
+2013	08			2013	08			réalisé	Le rapport d’intervention d’Août 2013 réalisé par Sévêque précise les mesures de gestion retenues :		'Sévêque'
+1947				1947				a_été_créée	La société SOCATEX a été créée en 1947 et a exploité dès 1948 une unité de fabrication de caoutchouc cellulaire sur le site de FOREST sur MARQUE.	'caoutchouc cellulaire'	'La société SOCATEX', 'FOREST sur MARQUE'
+2008	12	19		2008	12	19		par_courrier	Déclaration de cessation d'activité de SOCATEX par courrier du 19 décembre 2008.		'SOCATEX'
+2013	02			2013	02			réalisé	-Le rapport d’étude datant de Février 2013 réalisé par Sévèque Environnement sur l’élaboration du plan de gestion de la pollution dans le cadre d’un changement d’usage		
+2013	07	1		2013	07	1		ont_fusionné	Au 1er Juillet 2013, les deux sociétés INTEREP et SOCATEX ont fusionné et ont conservé la raison sociale INTEREP.		'les deux sociétés INTEREP', 'SOCATEX', 'sociale INTEREP'
+2013	07			2013	07			évacuation_des_terres_excavées	Fin des travaux de dépollution et évacuation des terres excavées en juillet 2013.		
+1948				1948				a_exploité	La société SOCATEX a été créée en 1947 et a exploité dès 1948 une unité de fabrication de caoutchouc cellulaire sur le site de FOREST sur MARQUE.	'caoutchouc cellulaire'	'La société SOCATEX', 'FOREST sur MARQUE'
+2013	10	23		2013	10	23		l__analyse_des_risques_résiduels	-Le rapport des travaux de dépollution et de la réévaluation du plan de gestion, ainsi que l’analyse des risques résiduels à dater du 23/10/2013.		
+2008				2008				HAP_a_été_identifiée	Zone de la cuve à fuel habitations : une source de pollution aux hydrocarbures totaux et dans une moindre mesure par les HAP a été identifiée en 2004 et 2008 à partir de 2 m de profondeur mais cette source n’a pas été recoupée lors des dernières investigations.	'fuel habitations', 'aux hydrocarbures totaux', 'par les HAP'	
+2004				2004				HAP_a_été_identifiée	Zone de la cuve à fuel habitations : une source de pollution aux hydrocarbures totaux et dans une moindre mesure par les HAP a été identifiée en 2004 et 2008 à partir de 2 m de profondeur mais cette source n’a pas été recoupée lors des dernières investigations.	'fuel habitations', 'aux hydrocarbures totaux', 'par les HAP'	
+2008	12	19		2008	12	19		Déclaration	Déclaration de cessation d'activité de SOCATEX par courrier du 19 décembre 2008.		'SOCATEX'

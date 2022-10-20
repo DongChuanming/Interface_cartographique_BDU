@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_réalisé	Dans le cadre d'un projet de réhabilitation du site, un plan de gestion a été réalisé en 2010 avec des propositions de travaux à effectuer : une loupe d'hydrocarbures est présente sur les eaux souterraines du site.	'hydrocarbures'	
+1993				1993				Démantelés	Démantelés en 1993, les terrains font partis du domaine public maritime et sont concédés à la CCI de St Malo.		'la CCI de St Malo'
+1945				1945				ont_été_datés	Les hydrocarbures ont été datés, en fonction de leur teneur en soufre, aux alentours de 1945.	'hydrocarbures', 'soufre'	
+								créé	Ancien dépôt d’hydrocarbures, créé dans les années 1930, comportant 4 réservoirs d’une capacité totale de 3900m3 (FOD -fioul domestique- et gazole).	'hydrocarbures', 'FOD -fioul', 'gazole'	
+2012				2012				des_opérations_de_pompage	Ainsi, des opérations de pompage/écrémage in situ ont été mises en œuvre début 2012 afin de traiter de la nappe.		
+2009	12	30		2009	12	30		a_été_retirée	Par avenant au cahier des charges de la CCI du 30 décembre 2009, la parcelle concernée a été retirée de la concession d'outillage public du port de Saint-Malo.		'la CCI'

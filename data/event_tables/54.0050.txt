@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1872				1979				constitué_par	Crassier constitué par la Société des Hauts Fourneaux de la Chiers entre 1872 et 1979.		'la Société des Hauts Fourneaux'
+2001	05			2001	05			évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) est remise à la DRIRE en mai 2001.		'la DRIRE'
+1996	04	18		1996	04	18		est_soumise_à_autorisation	La société est soumise à autorisation par l'arrêté préfectoral du 18 avril 1996.		
+1983				1983				est_exploité	Depuis 1983, le site est exploité par la Société Lorraine de revalorisation (SLR) pour la valorisation extérieure de déchets de métaux et de déchets non dangereux.	'déchets non dangereux'	'la Société Lorraine de revalorisation'

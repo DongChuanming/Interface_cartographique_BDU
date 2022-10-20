@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962	03	28		1962	03	28		a_exercé	La société Grande Paroisse a exercé des activités de fabrication d'engrais sur ce site depuis l'arrêté préfectoral d'autorisation du 28/03/1962.		'La société Grande Paroisse'
+2001	10	26		2001	10	26		l__étude_des_sols	Pour le site de Grand-Quevilly, l’étude des sols a été réalisée le 26/10/2001.		
+2009	01	14		2009	01	14		est_transmis	Le rapport est transmis à l'inspection des installations classées le 14/01/2009, accompagné d'un plan de gestion.		
+2008				2008				ont_été_réalisées	Les résultats des campagnes de suivi des eaux souterraines, reçues fin 2008, ont été réalisées à partir de quatre piézomètres, deux situés au sud-ouest de la zone et deux au sud-est.		
+2007	06	15		2007	06	15		ont_été_cédées	Les installations encore en fonctionnement ont été cédées à la société GPN, suite à l'arrêté préfectoral du 15/06/2007.		'la société GPN'
+2010	01	13		2010	01	13		a_transmis	L'exploitant a transmis les documents complémentaires, notamment un guide d'assainissement radiologique, le 13/01/2010.		
+1989				1989				a_été_rachetée	La zone d'implantation de l'ancienne Société Générale d'Assistance et d'Entretien (SGAE), incluse dans le périmètre de la société Grande Paroisse, a été rachetée par cette dernière en 1989.		"Société Générale d' Assistance", 'SGAE', 'la société Grande Paroisse'
+2009	12	17		2009	12	17		a_demandé_des	Néanmoins, l'inspection a demandé des informations complémentaires, par courrier du 17/12/2009.		
+2003				2003				a_cessé	Une partie des activités a cessé en 2003.		

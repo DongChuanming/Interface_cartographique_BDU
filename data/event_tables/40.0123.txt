@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	08	28		2003	08	28		Un_contrat_de_transaction	Un contrat de transaction est signé le 28 août 2003.		
+2008	03	05		2008	03	05		demande_une_autorisation_d__épandage	Le 5 mars 2008, la société LINDE GAS demande une autorisation d'épandage, accordée par l'arrêté complémentaire du 20 mai 2008.		'la société LINDE GAS'
+2012	06			2012	06			Les_analyses	Les analyses réalisées en juin 2012 sur un seul piézomètre montrent la présence d'un pH 12,3, de calcium, de DCO, de nickel et d'azote.	'calcium', 'DCO', 'nickel', 'azote'	
+2001				2001				a_fait_procéder	Le 17 janvier 2002, un courrier de l'exploitant signale qu'il a fait procéder, en 2001, à l'enlèvement de 752t.		
+2003	10	1		2003	10	1		sont_enlevées	Au 1er octobre 2003, 12 000 t de chaux sont enlevées du site.		
+2012	08	22		2012	08	22		ont_été_évacués	Selon le courrier de l'exploitant du 22 août 2012, tous les déchets ont été évacués du site.	'les déchets'	
+2000	06	30		2000	06	30		est_par_ailleurs_pris	Un arrêté préfectoral de mise en demeure est par ailleurs pris le 30 juin 2000.		
+1992				1992				est_déclarée	est déclarée à la préfecture en 1992.		
+2003	03	27		2003	03	27		Démolition_des_bâtiments	- Démolition des bâtiments et évacuation des gravats (fait le 27 mars 2003.)		
+2004				2004				ont_été_enlevées	Entre le printemps 2004 et le printemps 2006, 6 600 t de chaux ont été enlevées.		
+1978	03	06		1978	03	06		est_autorisée	Cette exploitation est autorisée par l'arrêté du 6 mars 1978.		
+2008	04	05		2008	04	05		demande	Le 5 avril 2008, l'exploitant demande l'autorisation d'épandre chez des agriculteurs de la chaux restante.	'chaux restante'	
+1997	04	15		1997	04	15		une_Étude_Simplifiée_des_Risques	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, une Étude Simplifiée des Risques (ESR) du site est prescrite par l'arrêté préfectoral du 15 avril 1997.		
+2000	03	30		2000	03	30		est_dressé	Un procès verbal est dressé le 30 mars 2000 pour le non respect de l'arrêté préfectoral du 15 avril 1999.		
+2008	12			2011	05			chaux_ont_été_enlevées	Entre décembre 2008 et mai 2011, environ 21 tonnes de chaux ont été enlevées.		
+2006				2006				ont_été_enlevées	Entre le printemps 2004 et le printemps 2006, 6 600 t de chaux ont été enlevées.		
+2001	10			2001	10			transmet	Ce n'est qu'en octobre 2001 que la société LINDE GAS transmet à la DRIRE les résultats de l'ESR effectuée par la Société IDE Environnement.		'la société LINDE GAS', 'la DRIRE', 'la Société IDE Environnement'
+2008	05	20		2008	05	20		demande_une_autorisation_d__épandage	Le 5 mars 2008, la société LINDE GAS demande une autorisation d'épandage, accordée par l'arrêté complémentaire du 20 mai 2008.		'la société LINDE GAS'
+1999	04	15		1999	04	15		est_dressé	Un procès verbal est dressé le 30 mars 2000 pour le non respect de l'arrêté préfectoral du 15 avril 1999.		
+2004				2004				Enlèvement	- Enlèvement des déchets de calcium entreposés sur le terrain de l'ancienne usine AGA( 27000 tonnes entre 2003 et 2004)	'déchets de calcium'	
+2001				2001				absorbe	En 2001, la Société LINDE GAS absorbe la société AGA S.		'la Société LINDE GAS', 'la société AGA S.'

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07	13		2004	07	13		ESR___ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) ont été prescrits par un courrier de la préfecture datant du 13/07/2004.		
+1972				1997				exploitée	Ancienne décharge d'ordures ménagères et déchets assimilés exploitée de 1972 à 1997 par la commune de Carcans.	'ordures'	
+2006	03	07		2006	03	07		est_transmise	Une étude complémentaire est transmise en date du 07/03/2006.		
+1997				1997				A_la_fermeture	A la fermeture de la décharge en 1997, tous les déchets ont été brûlés, le merlon de ceinture du site a été détruit et les matériaux ont été régalés sur les déchets restants (gravats, déchets verts et quelques déchets plastiques).	'quelques déchets plastiques'	
+2013				2013				pendant_l_	La prochaine aura lieu pendant l'hiver 2012-2013.		
+2013				2013				aura_lieu	La prochaine aura lieu pendant l'hiver 2012-2013.		
+2013	2012			2013	2012			Rapport	Rapport de la campagne 2012/2013 non reçu.		
+2012				2012				pendant_l_	La prochaine aura lieu pendant l'hiver 2012-2013.		
+2012				2012				aura_lieu	La prochaine aura lieu pendant l'hiver 2012-2013.		
+1997				1997				ont_été_brûlés	A la fermeture de la décharge en 1997, tous les déchets ont été brûlés, le merlon de ceinture du site a été détruit et les matériaux ont été régalés sur les déchets restants (gravats, déchets verts et quelques déchets plastiques).	'quelques déchets plastiques'	
+2005	03	30		2005	03	30		Une_première_étude_a_été_transmise	Une première étude a été transmise le 30/03/2005 et a fait l'objet d'un certain nombre de remarques de la part de l'Inspection des Installations Classées (IIC) qui demandait des investigations supplémentaires sur les eaux superficielles.		

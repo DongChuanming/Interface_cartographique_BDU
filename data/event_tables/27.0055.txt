@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_cessé_son_activité	Le site a cessé son activité en 2004.		
+2004	01	14		2004	01	14		la_notification_de_cessation_d__activité	A la suite de la notification de cessation d'activité effectuée le 14/01/2004, auprès du préfet de l'Eure, une première Evaluation Simplifiée des Risques a été remise à l'inspection des installations classées, le 16 janvier 2004.		
+2008	09			2008	09			a_appris	En septembre 2008, l'inspection des installations classées a appris le projet de  vente du terrain à la ville de Louviers.		
+2007	10	23		2007	10	23		document	Un document intitulé Evaluation des Risques Sanitaires (ESR) a été remis à l'inspection des installatiosn classées le 07/07/2006, puis un autre, intitulé Evaluation Détaillée des Risques pour la santé le 23/10/2007.		'Risques Sanitaires'
+2009	09	09		2009	09	09		a_remis	Le 09/09/2009, l'exploitant a remis un dossier complémentaire accompagné d'une évaluation des risques sanitaires.		
+2004	01	16		2004	01	16		première_Evaluation_Simplifiée_des_Risques	A la suite de la notification de cessation d'activité effectuée le 14/01/2004, auprès du préfet de l'Eure, une première Evaluation Simplifiée des Risques a été remise à l'inspection des installations classées, le 16 janvier 2004.		
+2005	10	1		2005	10	1		est_tenu_de_remettre_en_état	L'exploitant, ayant cessé son activité avant le 1er octobre 2005, il est tenu de remettre en état son site pour un usage futur industriel.		
+2010	04	21		2010	04	21		de_la_visite_d__inspection	Lors de la visite d'inspection du 21/04/2010, il a été décidé de rédiger le procès-verbal de récolement, l'exploitant ayant fourni l'ensemble des documents demandés.		
+2008	07	17		2008	07	17		a_été_remis	Le dossier final a été remis le 17/07/2008.		
+2010	03	16		2010	03	16		Une_synthèse_des_études_réalisée	Une synthèse des études réalisée sur le site a été remise le 16/03/2010, accompagné du dossier d'instauration de servitudes d'utilité publique.		
+2010	04			2010	04			a_signé_un_compromis_de_vente	La commune a signé un compromis de vente, arrivant à échéance en avril 2010, et  subordonné à la délivrance du procès-verbal de récolement par l'inspection des installations classées.		
+2005	09	02		2005	09	02		a_été_remis	Un deuxième document a été remis à l'inspection des installations classées le 02/09/2005.		
+2005	10	1		2005	10	1		ayant_cessé_son_activité	L'exploitant, ayant cessé son activité avant le 1er octobre 2005, il est tenu de remettre en état son site pour un usage futur industriel.		

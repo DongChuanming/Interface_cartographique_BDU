@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03	08		2004	03	08		ont_été_imposées	Des investigations complémentaires ont été imposées à GTM et FCB, respectivement par AP des 16 janvier 2004 et 8 mars 2004.		'GTM', 'FCB'
+2004	03	07		2004	03	07		une_visite_de_récolement	GTM a effectué les travaux le concernant et une visite de récolement a été effectuée le 7 mars 2004.		'GTM'
+2010	04			2010	04			_Travaux	-Travaux: avril 2010: excavation des matériaux pollués, évacuation en centre agrée, remblaiement avec des matériaux sains.		
+2009	04			2009	04			_Évaluation_de_l__état_environnemental_des_sols	-Évaluation de l’état environnemental des sols en avril 2009.		
+2004	01	16		2004	01	16		ont_été_imposées	Des investigations complémentaires ont été imposées à GTM et FCB, respectivement par AP des 16 janvier 2004 et 8 mars 2004.		'GTM', 'FCB'
+2009	09			2009	09			_Évaluation_quantitative	-Évaluation quantitative des risques sanitaires potentiels en septembre 2009.		
+2004	03	07		2004	03	07		les_travaux	GTM a effectué les travaux le concernant et une visite de récolement a été effectuée le 7 mars 2004.		'GTM'

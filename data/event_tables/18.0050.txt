@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1989				a_exploité	De 1980 à 1989, la société CTSP a exploité un centre de stockage de déchets industriels (gravats, encombrants de déchetterie, déchets industriels non dangereux, ferrailles, etc.,…) au lieu-dit « Les Boubards » sur la commune de SAINT GERMAIN DU PUY.	'déchets industriels', 'déchets industriels non dangereux'	'la société CTSP', 'SAINT GERMAIN DU PUY .'
+2013	01	08		2013	01	08		prévoit	le projet routier de la rocade Est de Bourges prévoit le franchissement de cette ancienne décharge tout en respectant les restrictions d'usage définies par l'arrêté préfectoral du 8 janvier 2013.		'la rocade Est de Bourges'
+1980	11	03		1980	11	03		était_autorisée_par	L’exploitation de ce dépôt était autorisée par l’arrêté préfectoral du 3 novembre 1980.		
+1989	05	29		1989	05	29		La_cessation_d__activité	La cessation d’activité du centre de stockage de déchets exploité par la société CTSP a été actée par l’arrêté préfectoral du 29 mai 1989.		'la société CTSP'

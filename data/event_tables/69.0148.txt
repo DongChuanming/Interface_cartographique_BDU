@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	25		2001	07	25		a_été_signé	L'arrêté préfectoral a été signé le 25 juillet 2001.		
+2004	01	08		2004	01	08		décès_de	Suite au décès de l'ancien responsable du site le 8/01/2004, le site a cessé toute activité.		
+1975	08	20		1975	08	20		a_accueillie	Le site a accueillie la société PEGUERA, gérant d'une activité de démolition de véhicules automobiles et d'un dépôt de ferrailles autorisés par l'arrêté préfectoral du 20 août 1975.		'la société PEGUERA'
+2002	01	28		2002	01	28		ont_été_mises_en_place	Cette étude n'ayant pas été transmise, par arrêté préfectoral du 28 janvier 2002, des sanctions administratives ont été mises en place à l'encontre de la société PEGUERA.		'la société PEGUERA'

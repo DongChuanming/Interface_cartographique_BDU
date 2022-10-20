@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2010				s__est_poursuivie	La surveillance des eaux souterraines s'est poursuivie jusqu'en 2010.		
+2000	07			2000	07			a_fourni_un_diagnostic	En particulier, l'exploitant a fourni un diagnostic du sol et de la nappe en juillet 2000.		
+2005	10	01		2005	10	01		une_cessation_d__activité	S’agissant d’une cessation d’activité antérieure au 01/10/2005, la remise en état devait être réalisée pour un usage comparable à la dernière période d’activité (usage industriel).		
+2002	01			2002	01			a_été_établi	Un diagnostic complémentaire a été établi en janvier 2002.		
+2008				2008				le_procès_verbal_de_récolement	Sur la base des travaux réalisés, de la présence de restrictions d'usage inscrites dans les actes de vente et des conclusions de l'analyse des risques résiduels de 2008, le procès-verbal de récolement daté du 28/08/2009 a été rédigé et transmis à l'exploitant.		
+1999				1999				a_cessé_ses_activités	La société ZSCHIMMER ET SCHWARZ FRANCE a cessé ses activités en 1999 et transmis la notification de cessation d’activité le 19/02/1999, complétée le 01/03/1999 avec la transmission des justificatifs de mise en sécurité du site (enlèvement des déchets, nettoyage de la cuve de fioul…).	'des déchets', 'cuve de fioul'	'La société ZSCHIMMER ET SCHWARZ FRANCE'
+1999	07	01		1999	07	01		La_visite	La visite du 01/07/1999 avait permis à l’inspection des installations classées de constater la mise en sécurité effective du site.		
+2003				2003				L__Evaluation_Détaillée_des_Risques	L'Evaluation Détaillée des Risques (EDR), réalisée en 2003, a conclu, pour les futurs usagers, à l’existence de risques acceptables liés à la présence des polluants dans les eaux souterraines.	'polluants'	
+2003	02			2003	02			Un_diagnostic_approfondi	Un diagnostic approfondi et Evaluation Détaillée des Risques (EDR) ont été fournis en février 2003.		
+2008				2008				a_été_mis_en_place	Compte tenu des teneurs résiduelles en chlorure de vinyle dans les eaux souterraines du site, en 2008, un traitement complémentaire a été mis en place au droit d'un ouvrage présent sur le site.	'chlorure de vinyle'	
+				2008	02			Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont été effectués sur le site jusqu’en février 2008.		
+2009	08	28		2009	08	28		le_procès_verbal_de_récolement	Sur la base des travaux réalisés, de la présence de restrictions d'usage inscrites dans les actes de vente et des conclusions de l'analyse des risques résiduels de 2008, le procès-verbal de récolement daté du 28/08/2009 a été rédigé et transmis à l'exploitant.		
+				1999				exerçait	La société ZSCHIMMER ET SCHWARTZ FRANCE exerçait, jusqu’en 1999, sur le site situé 65 avenue François-Vincent Raspail à ARCUEIL, une activité de fabrication de détergents industriels, soumise à autorisation sous la rubrique 2630.	'détergents industriels'	'La société ZSCHIMMER ET SCHWARTZ FRANCE', 'ARCUEIL'
+2007				2007				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 2007 lors du réaménagement du site et et de la construction des nouveaux bâtiments.		

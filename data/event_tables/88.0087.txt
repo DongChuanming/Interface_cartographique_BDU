@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_réalisée	Une interprétation de l'état des milieux a été réalisée en 2009.		
+1969				1969				a_été_construit	Le site a été construit en 1969 au 6 rue de Xay à GOLBEY.		
+2003				2003				a_réalisé	Dans le cadre de sa certification environnementale, la société a réalisé, à partir de 2003, des études sur l'état des sols de l'usine de GOLBEY ; études motivées par l'utilisation, sur le site, de lubrifiants à base d'hydrocarbures et de produits de dégraissage.	'hydrocarbures'	'GOLBEY'

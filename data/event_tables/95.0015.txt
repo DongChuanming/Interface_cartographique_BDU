@@ -1,8 +1,8 @@
-D Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1947				1947				La_société_CHIMEX	a_repris	le_site							
-2004				2004				CHIMEX	a_abandonné	son_activité_de_production							
-1998				1998					a_mis_en_évidence								
-1996				1996					a_été_détectée	Une_anomalie							
-2006	11			2006	11			un_arrêté_préfectoral_complémentaire	ont_été_réactualisées	les_modalités							
-2007	04	23		2007	04	23		un_arrêté_préfectoral_complémentaire	ont_été_réactualisées	les_modalités							
-2004	10			2004	10				indique_que								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	11			2007	11			a_arrêté	Deux captages sont localisés sur le site pour l'approvisionnement en eau industrielle de l'usine (fabrication d'eau déminéralisée) mais l'exploitant a arrêté l'usage du puits de forage n°2 en novembre 2007 (puits rebouché) pour n'utiliser que le réseau public d'eaux potables (sauf utilisation marginale de quelques centaines de mètres cubes par an).		
+2004				2004				a_abandonné	Fin 2004, CHIMEX a abandonné son activité de production proprement dite pour ne garder qu'une activité d'atelier pilote conduisant à une forte réduction des quantités de produits chimiques stockés et fabriqués sur le site (production annuelle de l'ordre de 3,5 tonnes contre plus de 500 tonnes en 2003).	'produits chimiques'	'CHIMEX'
+2004	10			2004	10			étude_hydrogéologique	En effet, l'étude hydrogéologique (société ANTEA - octobre 2004) indique que "les teneurs ne correspondent pas à l'introduction de Fer et de Manganèse dans le sous-sol, mais qu'elles résultent plutôt d'une modification de l'équilibre chimique de l'eau due à la présence de tourbe.	'Fer', 'Manganèse', 'la présence de tourbe'	'société ANTEA'
+1998				1998				a_mis_en_évidence	Une campagne de prélèvements de sol a mis en évidence en 1998 des indices de contamination par des organochlorés, des composés organiques aromatiques et du zinc à des teneurs proches des seuils de référence.	'des organochlorés', 'des composés organiques aromatiques', 'du zinc'	
+1996				1996				a_été_détectée	Une anomalie sur le chloroforme a été détectée en 1996 dans la nappe des calcaires grossiers au niveau du site.	'le chloroforme'	
+2006	11			2006	11			ont_été_réactualisées	Suite à l'arrêt de la production industrielle du site et à la disparition programmée des pompages d'eaux à usage industriel en nappe, les modalités de surveillance des eaux souterraines ont été réactualisées en novembre 2006 par un arrêté préfectoral complémentaire du 23 avril 2007.		
+1947				1947				a_repris	La société CHIMEX, filiale de l'OREAL, a repris le site en 1947.		'La société CHIMEX', "l' OREAL"

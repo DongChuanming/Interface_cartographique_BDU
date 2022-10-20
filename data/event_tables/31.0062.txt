@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	26		2010	05	26		a_informé	Le 26 mai 2010 la société TISSEO a informé l'inspection des installations classées de la découverte d'une fuite sur une canalisation enterrée de gasoil alimentant un poste de remplissage de bus.	'gasoil alimentant'	'la société TISSEO'
+2010	12	10		2010	12	10		un_diagnostic_approfondi	Le 10 décembre 2010, l'exploitant a adressé à l'inspection des installations classées un diagnostic approfondi ainsi qu'un plan de gestion.		
+2011	07	08		2011	07	08		a_été_signé	Un arrête préfectoral complémentaire encadrant les opérations de dépollution a été signé par le Préfet le 8 juillet 2011.		'le Préfet'
+2010	06	16		2010	06	16		a_pris	Le Préfet a pris un arrêté préfectoral d'urgence le 16 juin 2010 afin d'imposer à l'exploitant :		'Le Préfet'
+2016				2016				Les_campagnes_effectuées	Les campagnes effectuées depuis 2016 révèlent des teneurs inférieures aux seuils fixés pour les BTEX et hydrocarbures au droit de la zone de fuite et en sortie de site.	'BTEX', 'hydrocarbures'	
+2010	07	12		2010	07	12		un_diagnostic_initial_de_pollution	Le 12 juillet 2010 l'exploitant a adressé à l'inspection des installations classées un diagnostic initial de pollution ainsi que les justificatifs de l'élimination des terres polluées excavées autour de la canalisation fuyarde.		
+2014	10			2014	10			fin_de_travaux_transmis	Le rapport de fin de travaux transmis à l'inspection en octobre 2014 fait apparaître le bilan suivant :		
+2018	01			2018	01			__sur_la_campagne	Pour les HAP, les teneurs mesurées sont faibles : sur la campagne de janvier 2018, dépassement sur le piézomètre PZ3 situé en sortie de site (valeur comprise entre 0,177 et 0,237 µg/l pour une valeur de référence de 0,1 µg/l).	'les HAP'	
+1990	02	19		1990	02	19		de_déclaration	La Société TISSEO exploite le dépot de bus "Atlanta" installé au nord de la ville de Toulouse depuis la délivrance des récépissés de déclaration du 19 février 1990 et du 15 juillet 2002 sur une superficie de 37,8ha.		'La Société TISSEO'
+2014	04			2014	04			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d'avril 2012 à avril 2014.		
+2012	04			2012	04			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d'avril 2012 à avril 2014.		
+								une_visite	Le 1er juin, une visite des installations a été effectuée par l'inspection des installations classées.		
+2007	02	08		2007	02	08		la_nécessité_de	Ce diagnostic initial concluait à la présence de terres fortement impactées (teneur en hydrocarbures maximales de 32 000 mg/kg) et à la nécessité de réaliser des investigations complémentaires notamment sur la nappe souterraine ainsi qu'un plan de gestion, en application des circulaires du 8 février 2007.	'hydrocarbures'	

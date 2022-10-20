@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06			1998	06			Le_diagnostic_initial	Le diagnostic initial et l'évaluation des risques sont réalisée en juin 1998 classant le site en classe 2 "à surveiller" pour les eaux souterraines à usage AEP et les sols.		
+1999				1999				Les_analyses	Les analyses réalisées en périodes de hautes et basses eaux sur 4 puits en 1999 et 2000, montrent une bonne stabilité dans le temps dans une nappe à usage non AEP (présence de fer).	'fer'	
+1986	10			1986	10			du_dépôt_de_bilan	A la suite du dépôt de bilan en octobre 1986, la société a été placée en liquidation judiciaire.		
+1996				1996				des_prélèvements	Lors de la démolition des bâtiments en 1996, des prélèvements de sol et d'eau de nappe ont été réalisés, révélant la présence de pentachlorophénates de sodium.	'pentachlorophénates de sodium'	
+1995				1995				les_revend	La ville du Teich achète les terrains en 1990 puis les revend à la SA HLM L'HABITATION ECONOMIQUE en 1995.		'La ville du Teich', "la SA HLM L' HABITATION ECONOMIQUE"
+1996				1996				de_la_démolition_des_bâtiments	Lors de la démolition des bâtiments en 1996, des prélèvements de sol et d'eau de nappe ont été réalisés, révélant la présence de pentachlorophénates de sodium.	'pentachlorophénates de sodium'	
+1990				1990				achète	La ville du Teich achète les terrains en 1990 puis les revend à la SA HLM L'HABITATION ECONOMIQUE en 1995.		'La ville du Teich', "la SA HLM L' HABITATION ECONOMIQUE"
+2000				2000				Les_analyses	Les analyses réalisées en périodes de hautes et basses eaux sur 4 puits en 1999 et 2000, montrent une bonne stabilité dans le temps dans une nappe à usage non AEP (présence de fer).	'fer'	

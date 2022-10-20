@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09			2004	09			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en septembre 2004.		
+2002	12			2002	12			Des_travaux_de_dépollution	Des travaux de dépollution ont eu lieu en décembre 2002. 250 tonnes de terres ont été excavées et évacuées pour élimination dans un centre de traitement biologique autorisé.		
+2003	04			2003	04			une_pollution	En avril 2003, le contrôle a révélé une pollution des eaux par trois composés organo-halogénés :	'composés organo - halogénés'	
+				2004				est_mis_en_place	Un contrôle semestriel des eaux souterraines est mis en place jusqu'à fin 2004 (soit 3 contrôles).		
+2005	07	07		2005	07	07		La_mise_en_place_d__une_surveillance	La mise en place d'une surveillance de la qualité des eaux souterraines a été prescrite le 7 juillet 2005 par l'arrêté préfectoral n°777.		
+2017	06	14		2017	06	14		Par_jugement	Par jugement du 14 juin 2017, la société BOUGAULT a été mise en liquidation judiciaire par le Tribunal de Commerce de Paris.		'la société BOUGAULT', 'le Tribunal de Commerce de Paris'
+2004	07			2004	07			est_mise_en_place	Une géomembrane est mise en place en juillet 2004 sur le fond de fouille.		
+2014	07			2014	07			des_analyses_ont_été_réalisées	En juillet 2014, des analyses ont été réalisées uniquement depuis le piézomètre implanté sur le site.		
+2003	04			2003	04			le_contrôle	En avril 2003, le contrôle a révélé une pollution des eaux par trois composés organo-halogénés :	'composés organo - halogénés'	
+2017	06	14		2017	06	14		a_été_mise_en_liquidation_judiciaire	Par jugement du 14 juin 2017, la société BOUGAULT a été mise en liquidation judiciaire par le Tribunal de Commerce de Paris.		'la société BOUGAULT', 'le Tribunal de Commerce de Paris'
+2000	03	31		2000	03	31		ont_cessé	Les activités ont cessé le 31 Mars 2000 suite au transfert de l'entreprise dans un nouveau bâtiment de production.		
+2003	01			2003	01			Les_travaux_ont_été_stoppés	Les travaux ont été stoppés en janvier 2003 car une pollution des sols par des produits organo-halogénés a été mise en évidence en fond de fouille.	'halogénés'	

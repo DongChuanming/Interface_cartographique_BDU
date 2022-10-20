@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07			2000	07			ils_ont_commencé	Les travaux de dépollution par pompage-écrémage ont été entrepris par un industriel mitoyen; ils ont commencé en juillet 2000.		
+1902				1955				a_accueilli	Le terrain situé au Nord de la ville de Nanterre, d’une superficie totale de 92530 m2 a accueilli de 1902 à 1955 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+2001	09			2001	09			a_été_neutralisée	Cette cuve a été neutralisée en septembre 2001.		
+2011				2011				L__arrêt_de	L'arrêt de la surveillance des eaux souterraines a été proposé par l'exploitant en 2011 et validé par l'inspection des installations classées.		

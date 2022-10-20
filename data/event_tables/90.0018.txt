@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1947				1947				a_été_créée	L'entreprise MCT a été créée en 1947.		'MCT'
+2009	07			2009	07			a_totalement_cessé	L'activité de ce site a totalement cessé en juillet 2009 et le démontage des ateliers est achevé.		
+2011	02	07		2011	02	07		a_été_signé	Un arrêté de prescriptions spéciales a été signé le 7 février 2011.		
+2009				2009				Le_diagnostic_sols_réalisé	Le diagnostic sols réalisé en 2009 a recherché la présence d'hydrocarbures, de HAP, de PCB, de COVH et de métaux lourds par le biais de 12 sondages au droit des sources potentielles de pollution.	'hydrocarbures', 'HAP', 'PCB', 'COVH', 'métaux lourds'	
+2009				2009				un_diagnostic_complémentaire_au_diagnostic_sols_effectué	Il abroge l'arrêté du 16 janvier 2003 et prescrit à l'exploitant un diagnostic complémentaire au diagnostic sols effectué en 2009.		
+2010	11	04		2010	11	04		a_été_levée	Cette consignation a été levée le 4 novembre 2010, suite à la transmission du diagnostic sol et à la cessation définitive d'activité de l'entreprise (site du 37 faubourg de Montbéliard), qui nécessite la mise en place d'un cadre réglementaire nouveau.		
+								une_étude	L'exploitant doit remettre sous 6 mois une étude d'interprétation de l'état des milieux et une évaluation quantitative des risques, ainsi qu'un plan de gestion si une incompatibilité est révélée entre l'état des milieux et leurs usages.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	11			1995	11			a_été_modifié	Cet arrêté a été modifié en novembre 1995 pour adaptation des périodicités et des paramètres de mesure.		
+								réalisent	Il a cependant préconisé que les exploitants des captages AEP réalisent sur 2 ans des mesures mensuelles sur les chlorures et des mesures semestrielles sur les hydrocarbures.	'chlorures', 'hydrocarbures'	
+1991				1991				a_été_découverte	En 1991, a été découverte une pollution de la nappe des calcaires de Brie et de Champigny par des clorures issus des eaux du Dogger.	'clorures'	
+								__examen_du_forage	mai et juin 1991 : examen du forage,		
+1994	03	18		1994	03	18		la_réalisation_d__un_réseau_de_surveillance	Par arrêté du 18 mars 1994, M. le préfet de Seine-et-Marne a prescrit à l'exploitant la réalisation d'un réseau de surveillance des eaux souterraines avec analyse mensuelle de la qualité des eaux des nappes, notamment des chlorures et des hydrocarbures.	'chlorures', 'hydrocarbures'	'le préfet'
+1991	06			1991	06			__examen_du_forage	mai et juin 1991 : examen du forage,		

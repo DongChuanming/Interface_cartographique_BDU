@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12			2005	12			GOETZENBRUCK_ont_cessé	Les activités de la société SOLA International Inc. sur le territoire de la commune de GOETZENBRUCK ont cessé en décembre 2005.		'la société SOLA International Inc', 'GOETZENBRUCK'
+2012	10	22		2012	10	22		ont_été_instaurées	Des servitudes d'utilité publiques ont été instaurées par l'arrêté préfectoral du 22 octobre 2012.		

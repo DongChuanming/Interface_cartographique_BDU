@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06			2007	06			Les_travaux_d__investigations	Les travaux d'investigations ont été réalisés par la société ICF ENVIRONNEMENT en juin 2007.		'la société ICF ENVIRONNEMENT'
+2004				2004				est_exploité	Depuis 2004, le site est exploité par la société E.		'la société E.'
+2007	07	03		2007	07	03		ont_été_effectués	Les prélèvements d'eau ont été effectués le 3 juillet 2007.		
+2007	08	10		2007	08	10		a_été_transmis	Un dossier de cessation totale d'activité, établi par le bureau d'études COVERADE, a été transmis par l'exploitant à l'inspection des installations classées le 10 août 2007.		'COVERADE'
+2006	05	02		2006	05	02		ont_été_identifiées	Le 2 mai 2006 à l’occasion d’une visite en entreprise certaines pratiques tout à faites illégales d’entreposage de déchets dans des semi-remorques ont été identifiées, sur le site E.	'semi-remorques'	
+2006	07	25		2006	07	25		a_été_vendu_à	Depuis le 25 juillet 2006, le site a été vendu à la SOCIÉTÉ DU DÉPÔT DE SAINT PRIEST (SDSP).		'la SOCIÉTÉ DU DÉPÔT DE SAINT PRIEST'
+2007	09			2007	09			a_été_transmis	Le diagnostic a été transmis à l'administration en septembre 2007.		
+2007	05	29		2007	05	29		a_été_engagée_à_l_	Par arrêté préfectoral du 29 mai 2007, une procédure de consignation de somme (10 000 €) a été engagée à l’encontre de la société ETVS pour la constitution d’un dossier de cessation d’activité et de mise en sécurité du site.		'la société ETVS'
+2004	09	22		2004	09	22		a_obtenu	Le 22 septembre 2004, la société ETVS a obtenu récépissé (référencé n°19817) pour la déclaration qu’elle a effectuée concernant des installations classées relevant des rubriques 98bis.		'la société ETVS'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_émis_un_avis_favorable	Compte tenu de la stabilité des résultats d'analyses, l'inspection a émis un avis favorable à cette demande le 15 decembre 2004.		
+20004	12	10		20004	12	10		a_sollicité_l__allegement	Par courrier du 10 décembre 20004, la société FIMALAC a sollicité l'allegement du programme de surveillance.		'la société FIMALAC'
+1994	02	16		1994	02	16		a_rendu	Il a confié la réalisation à un cabinet spécialisé qui a rendu son rapport le 16 février 1994.		
+2004				2004				a_émis_un_avis_favorable	Compte tenu de la stabilité des résultats d'analyses, l'inspection a émis un avis favorable à cette demande le 15 decembre 2004.		
+								avoir_exploité	La Société LOUYOT, reprise depuis par la Société COMPTOIR LYON ALEMAND LOUYOT, elle même reprise par la société FIMALAC est réputée avoir exploité le site jusqu'au début des années 1960 pour y enfouir des déchets industriels tels des réfractaires usés provenant de ses fours de fusion.	'des déchets industriels', 'réfractaires usés'	'La Société LOUYOT', 'la Société COMPTOIR LYON ALEMAND LOUYOT', 'la société FIMALAC'

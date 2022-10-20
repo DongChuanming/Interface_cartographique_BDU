@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1825				1825				est_exploité	A partir de 1825, le moulin est exploité pour le papier.		
+2006	09			2006	09			_Cessation_d__activité	-Cessation d'activité en septembre 2006		
+2007	12			2007	12			obturation_des_forages_industriels	-Évacuation du matériel et des produits, destruction des bâtiments et obturation des forages industriels en décembre 2007.		
+1840				1840				commence_à_être_exploitée	En 1840, l'activité papetière commence à être exploitée au niveau industriel, le site est ensuite spécialisé dans la fabrication de papiers impression-écriture de hout de gamme.		
+2008	01	25		2008	01	25		_Pv_de_récolement	-Pv de récolement, le 25/01/2008.		
+2006	07			2006	07			remis	-Mémoire de cessation d'activité remis en juillet 2006.		
+2007	02			2007	02			_Diagnostic	-Diagnostic de la qualité des sols et des eaux souterraines suite à la cessation, remis en février 2007.		

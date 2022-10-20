@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				appartient	La société DAVUM, filiale de USINOR de 1948 à 2001, appartient au groupe ARCELOR depuis 2001, via sa filiale BAIL INDUSTRIE.		'La société DAVUM', 'USINOR', 'groupe ARCELOR', 'BAIL INDUSTRIE'
+1978				1978				vend	- En 1978 la société DAVUM vend à AIR LIQUIDE une partie du terrain (parcelle DH 36).		'la société DAVUM', 'AIR LIQUIDE'
+2009	12			2009	12			ne_sont_plus_détectés	Depuis décembre 2009 les métaux ne sont plus détectés sauf le fer et seules des traces d'hydrocarbures ont été mises en évidences.	'métaux', 'le fer', 'hydrocarbures'	

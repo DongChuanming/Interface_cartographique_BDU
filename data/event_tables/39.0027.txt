@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								de_déclaration	- Récépissé de déclaration n°136/96 du 15 juillet 1996 pour les rubriques 2661-1b, 2662-1b et 2940 (transformation et stockage de polymères, application de peintures ou autres produits solvantés) délivré à la S.	'polymères', 'produits solvantés'	'la S.'
+1996	07	15		1996	07	15		de_déclaration	- Récépissé de déclaration n°136/96 du 15 juillet 1996 pour les rubriques 2661-1b, 2662-1b et 2940 (transformation et stockage de polymères, application de peintures ou autres produits solvantés) délivré à la S.	'polymères', 'produits solvantés'	'la S.'

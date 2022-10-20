@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07	02		2012	07	02		Un_incendie_a_détruit	Un incendie a détruit le site le 2 juillet 2012.		
+2013	09			2013	09			Une_étude_a_été_menée	Une étude a été menée en septembre 2013 dans le cadre de la cessation d’activités.		

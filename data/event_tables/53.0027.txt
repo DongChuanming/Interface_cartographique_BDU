@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	23		2009	11	23		un_mémoire_de_cessation_d__activité	Dans le cadre du déménagement d'Inox'Ouest du site de Congrier, la société Inox'Ouest a réalisé un mémoire de cessation d'activité du 23 novembre 2009 comprenant un diagnostic initial.		"Inox' Ouest", "la société Inox' Ouest"
+1976	06	09		1976	06	09		lesquelles_elle_a_obtenu	Elle a déclaré  l'exploitation de bains de décapages (acide nitrique/acide fluorhydrique) et de passivation en 1975, pour lesquelles elle a obtenu une autorisation le 9 juin 1976.	'( acide nitrique', '/ acide fluorhydrique'	
+1968	02	15		1968	02	15		a_obtenu_l__autorisation_d__exploiter	La société INOXYDABLE DE L'OUEST a été créée en 1961 et a obtenu l'autorisation d'exploiter une chaudronnerie le 15 février 1968.		"La société INOXYDABLE DE L' OUEST"
+1968	02	15		1968	02	15		a_été_créée	La société INOXYDABLE DE L'OUEST a été créée en 1961 et a obtenu l'autorisation d'exploiter une chaudronnerie le 15 février 1968.		"La société INOXYDABLE DE L' OUEST"
+1961				1961				a_été_créée	La société INOXYDABLE DE L'OUEST a été créée en 1961 et a obtenu l'autorisation d'exploiter une chaudronnerie le 15 février 1968.		"La société INOXYDABLE DE L' OUEST"
+1998	07	23		1998	07	23		a_fait_l__objet_d_	Son exploitation a fait l'objet d'un arrêté préfectoral complémentaire le 23 juillet 1998.		
+2004	10	25		2004	10	25		a_changé_d_	A partir du 25 octobre 2004, le site a changé d'exploitant, il a commencé à se faire appeler INOX'OUEST.		"INOX' OUEST"
+1881				1881				la_mise_en_exploitation	En 1881, la société Ardoisière de la Gauterie a déclaré la mise en exploitation du site situé sur la commune de Congrier pour l'extraction de matériaux.		'la société Ardoisière de la Gauterie'
+2010	07			2010	07			un_diagnostic_complémentaire_approfondi	Suite au mémoire de cessation d'activité, un diagnostic complémentaire approfondi de pollution de sols et des eaux souterraines a été réalisé en juillet 2010.		
+2010				2010				a_quitté_le_site	L'exploitation a quitté le site de la Gauterie  pour aller s’installer sur un nouveau site situé à Segré en 2010.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	24		2006	05	24		le_rapport	Ce document a fait l'objet d'un certain nombre de remarques de la part de l'Inspection des Installations Classées (IIC) dans le rapport du 24 mai 2006 demandant:		
+1998	12			1998	12			a_été_clôturé	En décembre 1998, le site a été clôturé et un confortement périphérique hétérogène a été mis en place.		
+2008	02	1		2008	02	1		est_soumise	Selon l'arrêté préfectoral du 1er février 2008, l'emprise des dépôts de déchets est soumise aux interdictions suivantes :	'dépôts de déchets'	
+2006	03	23		2006	03	23		ESR___ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) ont été prescrits par l'arrêté préfectoral de mise en demeure du 23 mars 2006.		
+1960				1970				déchets_sauvages	En activité de 1960 à 1970, la décharge Ste Pétronille a accueilli des déchets sauvages jusqu’en 1990.		
+2008	02	1		2008	02	1		est_signé	L'arrêté préfectoral de travaux et fermeture est signé le 1er février 2008.		
+				1990				déchets_sauvages	En activité de 1960 à 1970, la décharge Ste Pétronille a accueilli des déchets sauvages jusqu’en 1990.		
+1960				1970				En_activité	En activité de 1960 à 1970, la décharge Ste Pétronille a accueilli des déchets sauvages jusqu’en 1990.		
+2006	04	25		2006	04	25		a_été_remise_le	Une première étude a été remise le 25 avril 2006.		
+2007	01	17		2007	01	17		Une_étude_complémentaire_a_été_transmise	Une étude complémentaire a été transmise le 17 janvier 2007 à l'IIC afin de répondre aux remarques précédentes.		'IIC'

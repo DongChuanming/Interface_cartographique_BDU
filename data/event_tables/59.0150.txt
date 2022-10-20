@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_disparu	L'exploitant a disparu en 2003.		
+1997				1997				_Cessation_d__activité	-Cessation d'activité en 1997.		
+1998				1998				_Travaux_de_comblement_d_	-Travaux de comblement d'un forage,nettoyage des cuves et enlèvement des déchets présents sur le site en 1998.		
+2003	03			2003	03			mise_a_jour	-Réalisation d'une évaluation simplifiée des risques en juin 1997 par ICF ENVIRONNEMNT et mise a jour en mars 2003.		'ICF ENVIRONNEMNT'
+1997	11			1997	11			avait_déjà_cessé	Lorsque cela a été constaté par l’Inspection des Installations Classées, en novembre 1997, l’activité avait déjà cessé.		
+1997	06			1997	06			_Réalisation_d__une_évaluation_simplifiée_des_risques	-Réalisation d'une évaluation simplifiée des risques en juin 1997 par ICF ENVIRONNEMNT et mise a jour en mars 2003.		'ICF ENVIRONNEMNT'
+2008				2008				a_été_déposé	-En 2008, un projet de construction de logements a été déposé.		

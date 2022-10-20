@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1976				__reconvertie	- En 1976: reconvertie en fabrication de verre creux.		
+1924				1924				crée	- Verrerie crée en 1924 pour la fabrication de verre plat.		
+2005				2005				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2005.		'IPPC'

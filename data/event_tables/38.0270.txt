@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988	06	17		1988	06	17		une_deuxième_série_d__analyse	Le 17/06/1988, une deuxième série d'analyse est réalisée en plusieurs points devant le monastère pour vérifier que la pollution est concentrée uniquement autour de la décharge.		
+1988	06	14		1988	06	14		est_évacué_du_site	Le 14/06/1988, le transformateur est évacué du site par la société SEPROL.		'la société SEPROL'
+1988	07	04		1988	07	06		a_été_effectuée	- au niveau de la dalle de stockage (sondages n°43 et 44): une deuxième intervention a été effectuée pour ôter le reste de pollution (du 04/07/1988 au 06/07/1988) ;		
+1988	06	13		1988	06	13		a_été_prévenue	Le 13/06/1988, la DREAL a été prévenue par la société TREDI de Saint Vulbas, qu'un incident avait eu lieu sur un transformateur au PCB au monastère.	'PCB'	'la DREAL', 'la société TREDI'
+1987	05	07		1987	05	07		de_déclaration	Le site est occupé par le MONASTERE DES SOEURS DE BETHLEEM et bénéficie d'un récépissé de déclaration du 07/05/1987 pour l'emploi de matériel contenant plus de 30 L de PCB.	'PCB'	'le MONASTERE DES SOEURS DE BETHLEEM'
+1988	06	15		1988	06	15		est_établit	Une première phase de reconnaissance est établit le 15/06/1988 afin d'élaborer le plan d’échantillonnage et la prise des échantillons en divers points.		

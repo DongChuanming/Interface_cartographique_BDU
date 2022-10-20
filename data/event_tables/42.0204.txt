@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	05	18		2015	05	18		un_rapport_de_trvaux_de_dépollution	Des travaux ont été effectués sur le site et ont fait l’objet d’un rapport de trvaux de dépollution du 18/05/2015.		
+1983	04	05		1983	04	05		était_réglementée_par_récépissé	. les Tuileries Cancalon était réglementée par récépissé de déclaration du 05/04/1983.		'les Tuileries Cancalon'
+1996	01	29		1996	01	29		était_soumise_à_déclaration_par_récépissé	. SICAL (Jolymousse) était soumise à déclaration par récépissé du 29/01/1996.		'SICAL', 'Jolymousse'
+				2012	01			a_été_acquis	Racheté ensuite par la société SICAL-Jolymousse, qui exerçait des activités de fabrication et rénovation de mobilier sur la partie sud-est du site jusqu’en janvier 2012, il a été acquis par l’EPORA le 31 janvier 2012.		'la société SICAL - Jolymousse', 'l’ EPORA'
+2012	01	31		2012	01	31		a_été_acquis	Racheté ensuite par la société SICAL-Jolymousse, qui exerçait des activités de fabrication et rénovation de mobilier sur la partie sud-est du site jusqu’en janvier 2012, il a été acquis par l’EPORA le 31 janvier 2012.		'la société SICAL - Jolymousse', 'l’ EPORA'
+1983	04	05		1983	04	05		de_déclaration	. les Tuileries Cancalon était réglementée par récépissé de déclaration du 05/04/1983.		'les Tuileries Cancalon'
+2012	01			2012	01			a_demandé	L’EPORA, propriétaire du site depuis janvier 2012, a demandé à CSD Ingénieurs de réaliser un		'L’ EPORA', 'CSD Ingénieurs'
+				1986				a_exploité	La société « Tuileries Cancalon » a exploité le site des anciennes Tuileries de la fin du XVIIIème siècle jusqu’en 1986.		'La société « Tuileries Cancalon'
+2015	10	23		2015	10	23		a_été_signé	Un récepissé de cessation d’activité pour SICAL (Jolymousse) a été signé du 23/10/2015.		'SICAL', 'Jolymousse'
+2015	05	18		2015	05	18		Des_travaux_ont_été_effectués	Des travaux ont été effectués sur le site et ont fait l’objet d’un rapport de trvaux de dépollution du 18/05/2015.		

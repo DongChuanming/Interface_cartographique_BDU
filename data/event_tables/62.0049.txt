@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02	27		2007	02	27		à_la_visite	- Suite à la visite du 27/02/2007 de l'inspection des installations classées, il a été dressé PV de récolement des travaux le 20/06/2007.		
+2003				2003				Travaux_de_remise_en_état_terminés	- Travaux de remise en état terminés début 2003.		
+								à_une_visite	- Suite à une visite du site en date du 12/10/04, les travaux de réhabilitation ont été constatés et il a été demandé une nouvelle cotation ESR pour déterminer le classement de la 2ème partie du site après dépollution + nouvel avis d'un hydrogéologue sur la surveillance de la nappe souterraine.		
+								Cessation_d__activité	- Cessation d'activité depuis juillet 97.		
+2003				2003				a_été_envoyé	- Mémoire de cessation d'activité d'une partie du site a été envoyé mi-2003 : la zone du périmètre de l'audit est en classe 3 pour les milieux "eaux souterraines et superficielles" et "sol", cette partie du site est donc banalisable.		
+2003	10			2003	10			2ème_partie_envoyé	- Mémoire de cessation d'activité de la 2ème partie envoyé en octobre 2003.		
+2007	06	20		2007	06	20		a_été_dressé_PV_de_récolement	- Suite à la visite du 27/02/2007 de l'inspection des installations classées, il a été dressé PV de récolement des travaux le 20/06/2007.		

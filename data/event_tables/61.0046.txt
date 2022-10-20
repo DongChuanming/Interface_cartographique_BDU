@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03	29		2012	03	29		a_été_envoyé	Un courrier a été envoyé par la DREAL à la communauté de communes de Camembert le 29 mars 2012, leur demandant les suites quant aux préconisations et recommandations évoqués dans le plan de gestion.		'la DREAL', 'la communauté de communes'
+1920				1980				se_sont_succédés	Entre 1920 et 1980 plusieurs propriétaires se sont succédés, les fonderies et ateliers d'usinage de Pontchardon (FAP), la société des fonderies de Randonnai et PAMCO.		'la société des fonderies de Randonnai', 'PAMCO'
+2001	04			2001	04			des_analyses_ont_été_réalisées	Suite aux prescriptions de l'arrêté préfectoral d'autorisation d'exploiter d'avril 2001, des analyses ont été réalisées en amont et en aval du crassier.		
+2008	12			2008	12			est_vendu	En décembre 2008, le crassier est vendu à la Communauté de communes de Camembert qui mandate l'EPFN (Établissement Public Foncier de Normandie) pour gérer le traitement et le réaménagement du site.		'la Communauté', "l' EPFN"
+1995				1995				fusionne_avec	En 1995, PAMCO fusionne avec la société CFFC de Rochefort (compagnie française des fontes en coquille), ils deviennent alors la CFFC PAMCO industries du groupe CF2M.		'PAMCO', 'la société CFFC', 'de Rochefort', 'la CFFC PAMCO industries', 'groupe CF2M.'
+1835				1835				a_été_crée	La fonderie a été crée en 1835 sur le site actuel.		
+2010				2010				a_été_fait	Un plan de gestion a été fait en 2010 recommandant comme solution la plus pertinente de maintenir en place les matériaux stockés sous condition de confinement et de réaménagement du terrain.		
+2005				2005				est_mise_en_redressement_judiciaire	En 2005, la fonderie est mise en redressement judiciaire, un plan de reprise par les salariés est proposé sous la forme d'une SCOP (société coopérative ouvrière de production).		

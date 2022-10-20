@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2005	09			a_cessé_ses_activités_progressivement	En raison d’une conjoncture difficile, l’établissement a cessé ses activités progressivement entre fin Juin et Septembre 2005 et a ensuite procédé à une remise en état du site.		
+				2005	12			sont_évacués	-De Mai à Décembre 2005, les différents déchets du site sont évacués et traités dans leur filières de traitement agréées : bois et palette, déchets amiantés, fuel lourd et boues de décantation.	'déchets amiantés', 'fuel lourd'	
+2003	03			2003	03			Une_étude_des_sols_est_réalisée	Mars 2003 : Une étude des sols est réalisée et démontre une pollution aux hydrocarbures localisée et déterminée : dans la chaufferie, dans l’aire de stockage de fioul aérien et dans l’atelier de lavage.	'hydrocarbures', 'fioul aérien'	
+				2005	09			a_ensuite_procédé	En raison d’une conjoncture difficile, l’établissement a cessé ses activités progressivement entre fin Juin et Septembre 2005 et a ensuite procédé à une remise en état du site.		
+2005	06	02		2005	06	02		est_rebouché	-Le forage est rebouché le 02/06/2005.		

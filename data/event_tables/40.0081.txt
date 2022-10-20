@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				un_essai_de_criblage	En 2014, la semaine 37, un essai de criblage a été effectué sur 8700 t de déchets (soit environ 30% de la masse à éliminer).		
+2005	05	11		2005	05	11		le	Les installations sont autorisées par l'arrêté préfectoral du 23 septembre 1996, modifié le 11 mai 2005.		
+2005	05	11		2005	05	11		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 23 septembre 1996, modifié le 11 mai 2005.		
+2004	02	23		2004	02	23		est_inscrite_dans	La décharge interne de TEMBEC TARTAS est inscrite dans l'action nationale de résorption des décharges de déchets ménagers et assimilés, autorisées ou non autorisées, introduite par la circulaire du Ministère de l’Écologie et du Développement Durable du 23 février 2004.		'TEMBEC TARTAS'
+2009				2009				a_été_reforé	Le piézomètre Pi2 a été reforé en 2009 et n'a pas fait l'objet d'analyses pendant la période de 2004 à 2008.		
+2003	02	13		2003	02	13		une_cessation_d__activité_notifiée	Autorisée par l'arrêté du 23 septembre 1996, une décharge interne a fait l'objet d'une cessation d'activité notifiée le 13 février 2003.		
+2008				2008				pas_fait_l__objet	Le piézomètre Pi2 a été reforé en 2009 et n'a pas fait l'objet d'analyses pendant la période de 2004 à 2008.		
+								un_essai_de_criblage	En 2014, la semaine 37, un essai de criblage a été effectué sur 8700 t de déchets (soit environ 30% de la masse à éliminer).		
+2004				2004				pas_fait_l__objet	Le piézomètre Pi2 a été reforé en 2009 et n'a pas fait l'objet d'analyses pendant la période de 2004 à 2008.		
+1996	09	23		1996	09	23		une_cessation_d__activité_notifiée	Autorisée par l'arrêté du 23 septembre 1996, une décharge interne a fait l'objet d'une cessation d'activité notifiée le 13 février 2003.		
+2003	01			2003	01			a_été_rédigé	Un mémoire de cessation d'activité a été rédigé en janvier 2003.		

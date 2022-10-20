@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a_été_vendue	Une partie du terrain, correspondant aux nouvelles parcelles cadastrales section A n° 33, 767, 768 et 769, a été vendue en 2013 à M.		
+2017	12	07		2017	12	07		a_été_dressé	Un procès-verbal de récolement actant de la cessation d'activité a été dressé le 7 décembre 2017.		
+2000	10	18		2000	10	18		a_été_autorisée_à_exploiter	La société SARL LEROY AUTO PIECES, représentée par Monsieur Louis LEPLEL, a été autorisée à exploiter une casse automobile située sur la commune de La Vespière, lieu-dit La Campaugé, par arrêté préfectoral du 18 octobre 2000.		'La société SARL LEROY AUTO PIECES', 'LEPLEL'
+2015	04	27		2015	04	27		a_été_placée_en_liquidation_judiciaire	La société SARL DEPANN' AUTO a été placée en liquidation judiciaire le 11 janvier 2012, cette procédure ayant été clôturée pour insuffisance d’actifs le 27 avril 2015.		'La société SARL DEPANN', "' AUTO"
+2012	01	11		2012	01	11		a_été_placée_en_liquidation_judiciaire	La société SARL DEPANN' AUTO a été placée en liquidation judiciaire le 11 janvier 2012, cette procédure ayant été clôturée pour insuffisance d’actifs le 27 avril 2015.		'La société SARL DEPANN', "' AUTO"

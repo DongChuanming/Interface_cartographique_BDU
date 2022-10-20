@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10			2004	10			la_création_d_	En Octobre 2004, dans le cadre de son projet d'aménagement du site des anciens chantiers navals, la commune de la Seyne sur Mer a commencé la création d'un parking, d'un parc de bord de mer et de divers bâtiments.		'la Seyne', 'sur Mer'
+				1990				ont_été_nettoyés	Après cessation définitive des activités entre l'année 1985 et 1990, les bâtiments industriels ont été nettoyés et démolis.		
+1996	01	04		1996	01	04		ont_été_audités_par	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'
+2004				2004				il_n__y_a_pas_eu	-Jusqu'à courant 2004, il n'y a pas eu de projet de réutilisation de ces terrains, la Société aménageuse MAREPOLIS, ayant été dissoute.		'la Société aménageuse MAREPOLIS'
+1900				1900				datant_d_	Le site est une plateforme d'environ 4 km de long sur 500 m de large en bordure de mer où s'exerçaient les activités de construction navale datant d'avant 1900.		
+1994	05	31		1994	05	31		ont_été_audités_par	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'
+1996				1996				Les_travaux_de_réhabilitation	- Les travaux de réhabilitation de ce site ont été conduits et achevés en 1996.		
+1994	05	31		1994	05	31		fixés	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'
+				1990				Après_cessation_définitive_des_activités	Après cessation définitive des activités entre l'année 1985 et 1990, les bâtiments industriels ont été nettoyés et démolis.		
+1996	01	04		1996	01	04		fixés	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'
+				1995	11	09		ont_été_audités_par	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'
+				1995	11	09		fixés	Les objectifs de décontamination ont été audités par le BRGM et fixés par les AP en date des 31/05/1994, 09/11/1995 et 04/01/1996.		'le BRGM'

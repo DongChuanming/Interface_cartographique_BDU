@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	13		2008	02	13		sont_excavés	Le 13 février 2008, 547,04 tonnes de terres pollués par des hydrocarbures non volatils sont excavés et éliminées.	'hydrocarbures non volatils'	
+2005	07	07		2005	07	07		sont_vidées	Le cuves enterrés sont vidées, dégazées et retirées (certificats du 7 juillet 2005).		
+2008	06	02		2008	06	02		la_poursuite_des_travaux_suivants_de_dépollution	l'arrêté préfectoral du 2 juin 2008 prescrit la poursuite des travaux suivants de dépollution, de réhabilitation et de surveillance :		
+2008	03			2009	03			est_opérationnel	Le traitement est opérationnel de mars 2008 à mars 2009.		
+2005	07	07		2005	07	07		certificats	Le cuves enterrés sont vidées, dégazées et retirées (certificats du 7 juillet 2005).		
+2009	10			2009	10			Des_campagnes_de_prélèvement	Des campagnes de prélèvement d’échantillons d’eau sont réalisées en mars, juin et octobre 2009.		
+1997				2005				exploitée_en_dernier_lieu	Ancienne station-service située 62 avenue Louis Barthou 33 Bordeaux, exploitée en dernier lieu par la Société des Pétroles Shell de 1997 à 2005 sous le récépissé de déclaration (récépissé du 04/2/2004) pour des installations de stockage et de distribution de carburants (rubriques 1432 et 1434).	'carburants'	'la Société des Pétroles Shell'
+2008	02	13		2008	02	13		la_cessation_définitive_d__activité	Le 13/02/2008 la Société des Pétroles Shell déclare la cessation définitive d'activité de la station service.		'la Société des Pétroles Shell'
+2009	10			2009	10			A	A partir d'octobre 2009 vu la persistance de la contamination un nouveau traitement des eaux souterraines est mis en oeuvre.		
+2005	09			2005	09			un_diagnostic_approfondi	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic approfondi est réalisé en septembre 2005.		
+2010	01			2010	01			Les_premiers_résultats	Les premiers résultats de janvier 2010 montrent une légère dégradation de la qualité de l'eau souterraine en hydrocabrures volatils sur Pz1a, Pz3 et Pz5.	'hydrocabrures volatils'	
+2008	06			2008	06			La_campagne_de_prélèvements_réalisée	La campagne de prélèvements réalisée en juin 2008 met en exergue les observations suivantes:		
+2010	10	05		2010	10	05		de_la_campagne	Lors de la campagne du 05/10/2010, l'ensemble des teneurs mesurées sont inférieures à la limite de quantification du laboratoire.		
+								Des_campagnes_de_prélèvement	Des campagnes de prélèvement d’échantillons d’eau sont réalisées en mars, juin et octobre 2009.		

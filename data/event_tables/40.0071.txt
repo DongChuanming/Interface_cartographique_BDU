@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				déclare	Elle déclare en 2008 avoir cessé ces activités depuis 2004.		
+2008	01	03		2008	01	03		Les_campagnes_du	Les campagnes du 15 novembre 2007 et 3 janvier 2008 ne montrent pas d'impact de la nappe par le propiconazole ou par hydrocarbures totaux détectée.	'propiconazole', 'hydrocarbures totaux'	
+2001	07	1		2001	07	1		a_été_autorisée	la société TCB a été autorisée, par l'AP n° 445/2001 du 1er juillet 2001, à exploiter une installation de travail du bois (rubrique 2410 - 600 kW) et une installation de traitement biocide du bois (rubrique 2415 - 7500 litres).		'la société TCB'
+2008	01	10		2008	01	10		les_activités_précitées	Le 10 janvier 2008, la société TCB déclare avoir cessé les activités précitées, en 2004 et ne conserver sue l'activité de négoce.		'la société TCB'
+2008	01	21		2008	01	21		informe	le 21 janvier 2008, la DRIRE informe l'exploitant de ses obligations de cessation d'activité, définies par les articles R.512-74 et suivants du code de l'environnement (et par l'article 6 de l'AP d'autorisation).		'la DRIRE'
+2008				2008				déclare	Elle déclare en 2008 avoir cessé ces activités depuis 2004.		
+2007	11	15		2007	11	15		Les_campagnes_du	Les campagnes du 15 novembre 2007 et 3 janvier 2008 ne montrent pas d'impact de la nappe par le propiconazole ou par hydrocarbures totaux détectée.	'propiconazole', 'hydrocarbures totaux'	
+2010				2010				Les_travaux_de_réhabilitation	Les travaux de réhabilitation n'ont semble-t-il toujours pas été réalisé par l'exploitation malgré plusieurs relances, de la DRIRE en 2008 et du préfet en 2010.		'la DRIRE'
+2004				2004				avoir_cessé	Elle déclare en 2008 avoir cessé ces activités depuis 2004.		
+2004				2004				les_activités_précitées	Le 10 janvier 2008, la société TCB déclare avoir cessé les activités précitées, en 2004 et ne conserver sue l'activité de négoce.		'la société TCB'

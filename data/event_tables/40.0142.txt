@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	08	27		2015	08	27		acte_la_cessation_d__activité	Par un courrier du 27 août 2015, l'inspection des Installations Classées acte la cessation d'activité.		
+2012				2012				La_cessation_d__activité	La cessation d'activité est annoncée en 2012.		
+1995	12	11		1995	12	11		était_soumise_à	La station-service était soumise à l'arrêté préfectoral d'autorisation n°673 du 11 décembre 1995.		
+				2013	11	13		des_travaux_de_démantèlement	Suite à la cessation d'activité, des travaux de démantèlement ont eu lieu du 14 octobre au 13 novembre 2013.		
+2015	08	27		2015	08	27		un_courrier	Par un courrier du 27 août 2015, l'inspection des Installations Classées acte la cessation d'activité.		
+2002				2003				une_fuite_accidentelle	- une fuite accidentelle entre 2002 et 2003 provoqua la fuite de 5000 litres de carburant;	'carburant'	
+2001	10			2001	10			installés	Les 3 piézomètres installés en octobre 2001 sont hors d'eau et inexploitables.		
+				2008	06	05		L__installation	L'installation des 3 nouveaux piézomètres de contrôle a donc été effectuée par AMDE du 3 au 5 juin 2008.		'AMDE'
+2003	04			2003	04			a_été_neutralisée	La canalisation a été neutralisée en avril 2003.		
+				2012	07	17		Un_second_diagnostic_environnemental	Un second diagnostic environnemental est réalisé par AMDE du 09 au 17 juillet 2012 dans le cadre de la fin de concession de la station-service AGIP.		'AMDE', 'service AGIP'
+2002	10			2002	10			repérée	Une pollution accidentelle a été relatée : la fuite sur une tuyauterie d'hydrocarbures reliant la cuve 1 au poste poids lourds, repérée en octobre 2002.	'hydrocarbures'	
+1981				2002				exploitée_par	Ancienne station-service exploitée par la société ELF de 1981 à 2002.		'la société ELF'
+2001	10	22		2001	10	22		Un_premier_diagnostic_environnemental	Un premier diagnostic environnemental a été mené par la société AMDE à la demande de la société ELF le 22 octobre 2001. 7 sondages dont 3 équipés en piézomètre ont été réalisés à une profondeur maximale de 5 mètres au droit du site.		'la société AMDE', 'la société ELF'

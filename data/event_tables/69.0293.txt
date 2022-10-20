@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	01	21		1999	01	21		a_été_remis	Le premier dossier de demande d'autorisation d'exploiter des ATELIERS BOIS SERVICE a été remis à l'Inspection des Installations Classées en date du 21/01/1999.		'des ATELIERS BOIS SERVICE'
+2003	11	24		2003	11	24		a_été_signé	L'arrêté d'autorisation a été signé le 24/11/2003 et imposait aux ATELIERS BOIS SERVICE la mise en place d'une surveillance de la qualité des eaux souterraines à fréquence semestrielle sur au moins deux ouvrages.		
+2001				2001				Une_étude_des_sols	Une étude des sols a donc été réalisée par le bureau d'étude 2IE au mois d'out 2001.		
+2003	11	24		2003	11	24		ont_été_autorisées	Ces activités ont été autorisées par l'arrêté préfectoral du 24/11/2003.		
+2013	01	23		2013	01	23		tombera_en_liquidation_judiciaire	Elle tombera en liquidation judiciaire le 19/04/2011 et sera radiée du registre du commerce le 23/01/2013.		
+2008	05			2008	05			rachète	En mai 2008, la société CHARPENTEC rachète les ATELIERS BOIS SERVICE.		'la société CHARPENTEC', 'les ATELIERS BOIS SERVICE'
+2002	04			2002	04			a_été_rédigé	Suite à plusieurs courriers de l'administration un second dossier a été rédigé au mois d'avril 2002.		
+2011	04	19		2011	04	19		tombera_en_liquidation_judiciaire	Elle tombera en liquidation judiciaire le 19/04/2011 et sera radiée du registre du commerce le 23/01/2013.		

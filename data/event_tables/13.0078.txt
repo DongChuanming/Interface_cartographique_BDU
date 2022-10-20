@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				est_crée	En 1989, la société LINDE GAZ INDUSTRIELS est crée suite à l'éclatement de la filiale AIRGAZ.		'la société LINDE GAZ INDUSTRIELS', 'la filiale AIRGAZ'
+1928				1979				était_gérée_par	* L'usine était gérée par la Société Provençale des Gaz Comprimés (SPGC) de 1928 à 1979.		'la Société Provençale', 'des Gaz Comprimés', 'SPGC'
+1978	04	10		1978	04	10		a_été_autorisé	* L'établissement a été autorisé par l'AP du 10/04/1978.		
+2001				2001				a_cessé	* Toute activité a cessé fin 2001; la procédure de cessation "34-1" s'est confondue avec la réalisation de l'ESR qui a classé le site en catégorie 3.		
+2001				2001				a_cessé	* Ce site implanté à Marseille XVème depuis les années 1920 sur une superficie d'environ 1 900 m2, a cessé son activité en fin 2001.		
+2001	01			2001	01			a_changé	Sa dénomination a changé en Janvier 2001, soit LINDE GAS SA.		'LINDE GAS SA'
+								implanté_à	* Ce site implanté à Marseille XVème depuis les années 1920 sur une superficie d'environ 1 900 m2, a cessé son activité en fin 2001.		
+1979				1979				fusionne	En 1979, la SPGC fusionne avec la société AIRGAZ, société composées des deux firmes allemandes LINDE AG et MESSER GRIESHEIM.		'la SPGC', 'la société AIRGAZ', 'firmes allemandes LINDE AG', 'MESSER GRIESHEIM'
+1995				1995				il_n__y_avait_plus	* Depuis 1995, il n'y avait plus d'installations de fabrication d'acétylène mais seulement de compression et conditionement de gaz de l'air.	'acétylène'	

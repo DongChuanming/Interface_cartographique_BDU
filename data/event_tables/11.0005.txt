@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				fuite_survenue	- fuite survenue à une canalisation souterraine d'essence au niveau des postes de chargement (en 1994) ;	'essence'	
+1999				1999				fuite_sur	- fuite sur une canalisation souterraine de gazole, dans la traversée d'un merlon de cuvette de rétention (1999)	'gazole'	
+1998				1998				pris	Quatre arrêtés préfectoraux, dont deux de mise en demeure, pris en 1998 sur proposition de l'inspecteur des installations classées, ont imposé à l'exploitant :		
+2006	07	20		2006	07	20		cessent	Le matériel de travaux de dépollution est en place fin 2005; les travaux de pompage , traitement et réinjection démarrent début 2006 et cessent le 20 juillet 2006.		
+2005				2005				est_en_place	Le matériel de travaux de dépollution est en place fin 2005; les travaux de pompage , traitement et réinjection démarrent début 2006 et cessent le 20 juillet 2006.		
+2006	07	20		2006	07	20		__les_travaux_de_pompage	Le matériel de travaux de dépollution est en place fin 2005; les travaux de pompage , traitement et réinjection démarrent début 2006 et cessent le 20 juillet 2006.		
+								des_campagnes_mensuelles	Afin de vérifier l'efficacité dans le temps des taux de dépollution, des campagnes mensuelles de contrôle de l'épaisseur du flottant ont été réalisées durant 8 mois entre août 2006 et avril 2007 sur les ouvrages du dispositif de dépollution.		
+2001	06			2001	06			ont_été_présentés	Les conclusions de l'analyse critique ont été présentés en juin 2001.		
+2005				2005				installée	En 2010, DPPLN a renforcé la barrière hydraulique installée en 2005, par une nouvelle barrière hydraulique active composée de 11 puits de fixation , de 5 piézomètres de contrôle et de 2 puits de renforcement piézométrique.		'DPPLN'
+1928				1928				L__urbanisation	L’urbanisation s’est rapprochée du site implanté en 1928.		
+1996	02			1996	02			L__étude_a_été_transmise	L'étude a été transmise en février 1996 et complétée périodiquement jusqu'à présent.		
+1995				1995				une_demande_d__étude_émise	L'existence d'une contamination du sous-sol a été mise en évidence suite à une demande d'étude émise par l'inspecteur des installations classées auprès de l'exploitant en 1995.		
+2006	08			2007	04			des_campagnes_mensuelles	Afin de vérifier l'efficacité dans le temps des taux de dépollution, des campagnes mensuelles de contrôle de l'épaisseur du flottant ont été réalisées durant 8 mois entre août 2006 et avril 2007 sur les ouvrages du dispositif de dépollution.		
+2005				2005				a_renforcé	En 2010, DPPLN a renforcé la barrière hydraulique installée en 2005, par une nouvelle barrière hydraulique active composée de 11 puits de fixation , de 5 piézomètres de contrôle et de 2 puits de renforcement piézométrique.		'DPPLN'
+2010				2010				a_renforcé	En 2010, DPPLN a renforcé la barrière hydraulique installée en 2005, par une nouvelle barrière hydraulique active composée de 11 puits de fixation , de 5 piézomètres de contrôle et de 2 puits de renforcement piézométrique.		'DPPLN'
+2000	01	27		2000	01	27		étude_détaillée_des_risques	L'étude détaillée des risques a été remise par l'exploitant le 27/1/2000.		
+2004	02	16		2004	02	16		a_pris_acte	Par lettre du 16 février 2004, le Préfet de l'Aude a pris acte de l'achèvement des travaux de dépollutions de la zone Gazole (fuite sur canalisation constatée en 1999):plus de flottant, stabilisation des concentrations en polluants à des valeurs faibles.	'Gazole'	'le Préfet'
+1999	02			1999	02			ont_débuté	Une première série de travaux d'urgence ont débuté en février 1999 et se sont poursuivis jusqu'en 2001(pompage et venting dans la zone de l'école et du stade).		
+1999	02			1999	02			a_été_dressé	En février 1999, un procès-verbal a été dressé suite à la fuite de gazole constatée à cette date.	'gazole'	
+2006				2006				__les_travaux_de_pompage	Le matériel de travaux de dépollution est en place fin 2005; les travaux de pompage , traitement et réinjection démarrent début 2006 et cessent le 20 juillet 2006.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				sera_révisé	Le 23/12/2010, l'exploitant informe la DREAL que, suite à l’ensemble des investigations réalisées en 2010, le plan de gestion sera révisé par la société AMDE en Janvier 2011.		'la DREAL', 'la société AMDE'
+2012	04	19		2012	04	19		sont_transmis	Ces documents sont transmis le 19/04/2012.		
+1998	09	25		1998	09	25		le_diagnostic_approfondi	L'arrêté préfectoral du 25/09/1998 prescrit le diagnostic approfondi et l'évaluation détaillée des risques.		
+2010	01	15		2010	01	15		s__engage_à_réaliser_le_diagnostic_complémentaire	Le 02/10/2009, l'exploitant s'engage à réaliser le diagnostic complémentaire sur le site et à proposer son plan de gestion avant le 15/01/2010.		
+				2010	09			sont_réalisées	Dans ce but des campagnes complémentaires sont réalisées de Mars à Septembre 2010.		
+2010	12	23		2010	12	23		informe	Le 23/12/2010, l'exploitant informe la DREAL que, suite à l’ensemble des investigations réalisées en 2010, le plan de gestion sera révisé par la société AMDE en Janvier 2011.		'la DREAL', 'la société AMDE'
+2002	02	20		2002	02	20		L__arrêt_du_traitement_est_alors_décidé	L'arrêt du traitement est alors décidé le 20/02/2002.		
+2012	01			2012	01			la_campagne_de	Ainsi, la campagne de Janvier 2012 confirme un impact significatif sur le site, essentiellement en PCE.		
+2002	10	31		2002	10	31		La_restriction	La restriction d'usage de la nappe (alimentaire, arrosage de potagers...) a été prescrite par l'arrêté municipal du 31/10/2002.		
+1999	03			1999	03			Cette_étude	Cette étude, réalisée en Mars 1999, démontre que le panache de pollution migre hors du site dans la nappe superficielle en direction de la Garonne.		
+2002				2009				Le_suivi_réalisé	Le suivi réalisé à cet effet de 2002 à 2009 a montré que, bien que stabilisée, la pollution demeurait importante.		
+2009	10	02		2009	10	02		s__engage_à_réaliser_le_diagnostic_complémentaire	Le 02/10/2009, l'exploitant s'engage à réaliser le diagnostic complémentaire sur le site et à proposer son plan de gestion avant le 15/01/2010.		
+2011	01			2011	01			sera_révisé	Le 23/12/2010, l'exploitant informe la DREAL que, suite à l’ensemble des investigations réalisées en 2010, le plan de gestion sera révisé par la société AMDE en Janvier 2011.		'la DREAL', 'la société AMDE'
+2002				2002				stabilisée	Depuis 2002, la pollution est stabilisée mais demeure importante.		
+2002	01			2002	01			La_dernière_campagne	La dernière campagne de Janvier 2002 montre la persistance d'une contamination en perchloréthylène au niveau de deux piézomètres à l'aval du site.	'perchloréthylène'	
+2011	11	16		2011	11	16		est_réactivé	Le suivi de la qualité des eaux souterraines est réactivé suite aux prescriptions de l'Arrêté Préfectoral Complémentaire (APC) du 16/11/2011.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				ont_été_démolis	En 2010, les bâtiments ont été démolis et le sol a été terrassé en vue du réaménagement de la zone en complexe cinématographique.		
+2000	06	12		2000	06	12		sa_fin_d__exploitation	Le 12 juin 2000, l'exploitant notifiait sa fin d'exploitation à la DRIRE, sans remise de dossier de cessation d'activité.		'la DRIRE'
+2000	06	12		2000	06	12		la_fin_de_l__exploitation	Le 12 juin 2000, les établissements ESCAPAT Charles et Cie ont notifié la fin de l'exploitation de la mégisserie à la DRIRE, sans remise de dossier de cessation d'activité.		'les établissements ESCAPAT Charles', 'la DRIRE'
+2004	09			2004	09			Ce_pré_diagnostic	Ce pré-diagnostic du site a été réalisé par la société AGE Environnement en septembre 2004.		'la société AGE Environnement'
+2000	04	20		2000	04	20		la_visite	Suite à la visite du site du 20 avril 2000, par l'inspection des installations classées, un procès-verbal de récolement a été établi le 19 février 2001 par la DRIRE, "sous réserve des parties non visibles".		'la DRIRE'
+2001	02	19		2001	02	19		un_procès_verbal_de_récolement	Suite à la visite du site du 20 avril 2000, par l'inspection des installations classées, un procès-verbal de récolement a été établi le 19 février 2001 par la DRIRE, "sous réserve des parties non visibles".		'la DRIRE'
+2007	12	06		2007	12	06		a_été_déposée	Une demande de permis de démolir a été déposée le 06 décembre 2007 par la Mairie de Grraulhet afin de réaliser un complexe cinématographique au droit du site.		'la Mairie de Grraulhet'
+2004	09			2004	09			avait_interrogée	En septembre 2004, la mairie de Graulhet avait interrogée la DRIRE sur un projet de construction d'un pôle enfance sur le site.		'la DRIRE'
+1971	05	04		1971	05	04		étaient_autorisés_à_exploiter	Les établissements ESCAPAT Charles et Cie étaient autorisés à exploiter cette mégisserie par l'arrêté préfectoral d'autorisation du 4 mai 1971.		'Les établissements ESCAPAT Charles'
+2000	06	30		2000	06	30		a_été_rachetée	La société a été placée en liquidation judiciaire et le site a été rachetée le 30 juin 2000 par la commune de Graulhet.		

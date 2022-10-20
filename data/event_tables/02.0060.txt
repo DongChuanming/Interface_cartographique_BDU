@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				des_campagnes	L’analyse des campagnes de 2006 et 2007 montre que la qualité des 3 nappes est dégradée mais ne met pas en évidence un impact du site.		
+2006	01			2006	01			excaver	Les travaux de dépollution ont consisté à excaver 300 m3 de terres contaminées (chrome total) en janvier 2006.	'chrome total'	
+2006				2006				des_campagnes	L’analyse des campagnes de 2006 et 2007 montre que la qualité des 3 nappes est dégradée mais ne met pas en évidence un impact du site.		
+2007	12			2007	12			abrogé	Après le dépôt d'un dossier de cessation d'activité par l'exploitant en décembre 2007, le préfet a par arrêté préfectoral du 01/10/2009 abrogé les garanties financières, imposé la poursuite de la surveillance piézométrique et le dépôt d'un dossier de restrictions d'usage.		'le préfet'
+2007	12			2007	12			le_dépôt_d_	Après le dépôt d'un dossier de cessation d'activité par l'exploitant en décembre 2007, le préfet a par arrêté préfectoral du 01/10/2009 abrogé les garanties financières, imposé la poursuite de la surveillance piézométrique et le dépôt d'un dossier de restrictions d'usage.		'le préfet'
+2005	02	09		2005	02	09		Les_travaux_ont_été_encadrés	Les travaux ont été encadrés par un arrêté préfectoral du 09/02/2005.		
+2000				2000				sont_apparus	En 2000, lors de travaux de construction de l'extension du centre de stockage, des problèmes de stabilité des terrains sont apparus.		

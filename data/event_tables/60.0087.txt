@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				décroître	Les concentrations en CAV/BTEX ont présentés des pics en 2007 (jusqu'à 1094 µg/l) avant de décroître régulièrement en 2008 et 2009.	'CAV / BTEX'	
+2007				2007				a_mis_en_place	Afin d'éviter la propagation d'un panache à l'extérieur du site, l'exploitant a mis en place (en 2007) une barrière hydraulique associée à un système de pompage et traitement (charbon actif).	'charbon actif'	
+2008				2008				ont_présentés_des_pics	Les concentrations en CAV/BTEX ont présentés des pics en 2007 (jusqu'à 1094 µg/l) avant de décroître régulièrement en 2008 et 2009.	'CAV / BTEX'	
+2009				2009				ont_présentés_des_pics	Les concentrations en CAV/BTEX ont présentés des pics en 2007 (jusqu'à 1094 µg/l) avant de décroître régulièrement en 2008 et 2009.	'CAV / BTEX'	
+2007				2007				ont_présentés_des_pics	Les concentrations en CAV/BTEX ont présentés des pics en 2007 (jusqu'à 1094 µg/l) avant de décroître régulièrement en 2008 et 2009.	'CAV / BTEX'	
+2009				2009				décroître	Les concentrations en CAV/BTEX ont présentés des pics en 2007 (jusqu'à 1094 µg/l) avant de décroître régulièrement en 2008 et 2009.	'CAV / BTEX'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	21		2007	10	21		ont_été_contactés	Les gendarmes de GRIGNAN, ont été contactés par monsieur Le Maire de Montjoyer, lui-même informé le 21 octobre 2007 par des chasseurs.		'Les gendarmes de GRIGNAN'
+								ont_constaté	Ces derniers ont constaté la présence du transformateur le 07 juillet et affirment qu’il n’était pas sur les lieux aux environs des mois de mars et avril.		
+2007	11	23		2007	11	23		a_fait_évacuer	Au vu des résultats obtenus, la DRIRE Rhône-Alpes a fait évacuer le transformateur, vendredi 23 novembre 2007 par la société TREDI.		'la DRIRE Rhône - Alpes', 'la société TREDI'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ont_cessées	Les activités de la déposante ont cessées en 2003.		
+1979	05	21		1979	05	21		et_du	Cette déposante était autorisée par l'arrêté préfectoral du 25 novembre 1950 et du 21 mai 1979.		
+1979	05	21		1979	05	21		était_autorisée	Cette déposante était autorisée par l'arrêté préfectoral du 25 novembre 1950 et du 21 mai 1979.		
+2006	03	07		2006	03	07		des_travaux_terrassements	Le rapport des travaux terrassements du 07/03/2006 indique que les travaux ont été réalisés.		
+2009				2009				Les_analyses_effectuées	Les analyses effectuées en 2009 confirment l'impact significatif de l'ancienne déposante de Lucbert: matières azotées, métaux, matières organiques, bactéries.	'matières azotées', 'métaux', 'bactéries'	
+								a_augmenté	La teneur en nitrates a augmenté entre juillet et décembre.		

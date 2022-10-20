@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				Les_investigations	Les investigations se sont déroulées en plusieurs phase depuis 1999 :		
+1998	01	19		1998	01	19		de_déclaration	De plus, la société, objet de la présente description, a donné lieu à un récepissé de déclaration du 19 janvier 1998 pour un transfert partiel des activités autorisées par l'arrêté préfectoral du 3 novembre 1995.		
+2003				2003				a_débuté	Le traitement par pompage des eaux souterraines a débuté le 4 décembre 2001 et s'est terminé en 2003.		
+2001				2001				les_premiers_travaux_de_dépollution	- fin 2001 : les premiers travaux de dépollution du site commencent, à savoir le pompage et le traitement de la nappe par stripping à l'air.		
+2003	11			2003	11			démarrage	- novembre 2003 : démarrage du traitement des eaux souterraines par extraction double phase.		
+1997				1997				ont_été_scindées_en	En 1997, les deux activités ont été scindées en 2 entreprises différentes SUPERFOS et SOMAGIC BARBECUES.		'SUPERFOS', 'SOMAGIC BARBECUES'
+2002				2002				a_été_mis_en_place	Un bac de rétention en inox a été mis en place en 2002 permettant de stopper cette fuite.		
+2004				2008				12_campagnes_de_caractérisation_des_eaux_souterraines	Au total, 12 campagnes de caractérisation des eaux souterraines ont été réalisées de 2004 à 2008 avec pour campagne "témoin" celle faite avant traitement (2003).		
+2001	12			2001	12			a_été_mis_en_œuvre	Suite à une pollution des sols et de la nappe phréatique au droit du site de SOMAGIC BARBECUES, un traitement des sols et des eaux souterraines a été mis en œuvre depuis décembre 2001.		'SOMAGIC BARBECUES'
+2003				2003				s__est_terminé	Le traitement par pompage des eaux souterraines a débuté le 4 décembre 2001 et s'est terminé en 2003.		
+2008	04			2008	04			définition_de_nouveaux_objectifs_de_dépollution	- avril 2008 : définition de nouveaux objectifs de dépollution.		
+2008				2008				a_été_extraite	En 2008, près de 90% de la quantité de solvants chlorés initialement présents a été extraite.	'solvants chlorés'	
+1977				1977				a_débuté	L'activité industrielle du site a débuté en 1977 par la fabrication de seaux plastiques d'emballages.		
+2003				2006				ont_été_extraites	De 2003 à 2006, environ 1695 m3 d'eaux impactées ont été extraites et traitées.		
+2007	12			2007	12			une_étude_quantitative_des_risques_sanitaires	- décembre 2007 : réalisation d'une étude quantitative des risques sanitaires définissant des concentrations maximales admissibles pour les polluants des eaux souterraines (ancienne réglementation en vigueur) ;	'les polluants'	
+1991				1991				s__y_est_développée	En 1991, s'y est développée la fabrication de barbecues.		
+2001	12	04		2001	12	04		a_débuté	Le traitement par pompage des eaux souterraines a débuté le 4 décembre 2001 et s'est terminé en 2003.		
+2006	03			2008	08			ont_été_extraites	De mars 2006 à août 2008, 4781 m3 d'eaux impactées ont été extraites et traitées.		

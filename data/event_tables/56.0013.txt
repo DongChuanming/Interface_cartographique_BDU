@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03			1999	03			une_pollution_accidentelle	Le gérant de la station service a décelé une pollution accidentelle en mars 1999.		
+1999	04			1999	04			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en avril 1999 et a mis en évidence l'existence de pollutions :		
+2003	12	1		2003	12	1		a_été_délivrée	Suite à ces travaux, une notification de cessation d'activité a été délivrée le 1er décembre 2003.		
+2002				2002				traitement_des_vapeurs_par_venting	- traitement des vapeurs par venting en 2002.		
+2002				2002				excavation	- excavation des terres contaminées au-delà de l'emprise des réservoirs et bio-traitement in-situ en 2002 ;		
+1988	01	14		1988	01	14		a_été_délivré	Un récépissé de déclaration a été délivré le 14 janvier 1988 à M.		

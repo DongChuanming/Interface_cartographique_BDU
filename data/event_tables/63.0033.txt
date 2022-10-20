@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03			2006	06			un_diagnostic	Entre mars 2005 et juin 2006, un diagnostic des sols et des eaux souterraines ainsi qu'une évaluation simplifiée des risques sont réalisés.		
+								Les_zones_excavées	Les zones excavées sont comblées et recouvertes de 130 m3 de terre végétale les 22 et 23/01/2007.		
+1974				1974				s__installe	La société SCOF s'installe en 1974 aux lieu dit "les Vergers" à Saint Rémy-sur-Durolle pour y fabriquer des couverts et ustensiles de table de luxe.		'La société SCOF'
+2001	06			2001	06			entreprise_est_mise_en_redressement_judiciaire	L'entreprise est mise en redressement judiciaire en juin 2001.		
+				2006	12	15		Des_travaux_d__évacuation	Des travaux d'évacuation de déchets et d'excavation de boues et de terres polluées sont menés du 13 au 15 décembre 2006.		
+2007	01	23		2007	01	23		Les_zones_excavées	Les zones excavées sont comblées et recouvertes de 130 m3 de terre végétale les 22 et 23/01/2007.		
+2005	11			2005	11			est_implanté	Un réseau de 3 piézomètres est implanté en novembre 2005.		

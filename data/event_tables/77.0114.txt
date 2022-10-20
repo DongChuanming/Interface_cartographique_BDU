@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2000	12			a_été_arrêtée	L’activité sucrerie a été arrêtée après la campagne de septembre - décembre 2000.		
+2009	12	04		2009	12	04		une_prodécure_de_cessation	Les bassins du site, les bassins de décantation ainsi que la station d'épuration ont fait l'objet d'une prodécure de cessation d'activité acté par M.le Préfet de Seine et Marne le 4 décembre 2009.	'les bassins de décantation'	'M.le Préfet', 'de Seine'
+2002				2002				La_fin_des_expéditions	La fin des expéditions de sucre et la vidange totale des silos se sont effectuées au premier trimestre 2002.		
+2007	02	20		2007	02	20		a_pris_acte	Par courrier du 20 février 2007, Mr Le Préfet de Seine-et-Marne a pris acte de la cessation d'activité définitive partielle du site.		'Le Préfet'
+2003	10			2003	10			le_diagnostic	- le diagnostic environnement complémentaire du sous-sol de la partie Ouest du site et évaluation simplifiée des risques (octobre 2003).		
+2006	06	28		2006	06	28		Les_analyses_complémentaires	Les analyses complémentaires effectuées le 28 juin 2006 n'ont pas confirmé la pollution par les hydrocarbures totaux, le plomb et les hydrocarbures aromatiques polycycliques.	'hydrocarbures totaux', 'le plomb', 'hydrocarbures aromatiques polycycliques'	
+2009	12	04		2009	12	04		acté	Les bassins du site, les bassins de décantation ainsi que la station d'épuration ont fait l'objet d'une prodécure de cessation d'activité acté par M.le Préfet de Seine et Marne le 4 décembre 2009.	'les bassins de décantation'	'M.le Préfet', 'de Seine'
+2010				2010				doit_etre	En conclusion de l'étude de 2010, la surveillance doit etre maintenue.		
+2004	01	26		2004	01	26		ont_été_complétés	Ces dossiers ont été complétés le 19 décembre 2003 et le 26 janvier 2004.		
+2014	12			2014	12			L__arrêt_de	L'arrêt de ces activités a eu lieu en décembre 2014.		
+2003	12	19		2003	12	19		ont_été_complétés	Ces dossiers ont été complétés le 19 décembre 2003 et le 26 janvier 2004.		
+2010	05			2010	05			La_campagne_de_surveillance	La campagne de surveillance piézo a été réalisée en mai 2010.		
+2002	12			2002	12			le_diagnostic_environnemental_initial	- le diagnostic environnemental initial du sous-sol et évaluation simplifiée des risques de la partie Est du site de BRAY-SUR-SEINE (décembre 2002),		
+2004	03			2004	03			a_cessé	L'activité de rectification a cessé en mars 2004.		
+								a_été_arrêtée	L’activité sucrerie a été arrêtée après la campagne de septembre - décembre 2000.		

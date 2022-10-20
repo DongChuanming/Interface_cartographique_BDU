@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			la_campagne_d_	Une campagne réalisée en juin 2011 a confirmé les résultats obtenus via la campagne d'avril 2011.		
+2011	06			2011	06			Une_campagne_réalisée	Une campagne réalisée en juin 2011 a confirmé les résultats obtenus via la campagne d'avril 2011.		
+2011	04			2011	04			La_campagne_d__investigations	La campagne d'investigations des eaux souterraines d'avril 2011 a permis de mettre en évidence la présence d'une concentration significative en COHV (PCE et PTE) au droit du captage Legrand.	'COHV', 'PCE et PTE'	
+1893				1893				A	A partir de 1893, à la place d'une ancienne filature, s'implante la tisserie de coton Geoges Lepicard.		
+2015	04			2015	04			des_investigations	En avril 2015, des investigations sur les gaz du sol et les sols sont réalisées.		
+								Une_évaluation_quantitative	Une évaluation quantitative des risques sanitaire (EQRS) a été établie le 17/07/15.		
+2013	07			2013	07			a_été_organisée	Une nouvelle campagne de contrôle des eaux souterraines a été organisée en juillet 2013.		
+2012	05			2012	05			la_campagne_de_prélèvements	Réalisée suite à la demande de la DREAL et pour le compte du Syndicat Intercommunal d'Adduction d'Eau Potable et d'Assainissement (SIAEPA) de la région de Montville, la campagne de prélèvements et d'analyses de mai 2012 a inclus la pose de deux ouvrages complémentaires (piézomètres G et H) afin de capter les eaux souterraines de la nappe de la craie en amont, à l'extérieur (piézomètre G) et au droit du site, sur la rive Ouest du "Cailly" à proximité des ateliers municipaux de Montville (piézomètre H).	'Syndicat'	'SIAEPA'
+1973				1973				commence_son_activité	La société Legrand Normandie commence son activité en 1973.		'La société Legrand Normandie'
+2013	07			2013	07			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en juillet 2013. 14 sondages ont été faits.		

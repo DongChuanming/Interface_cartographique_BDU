@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	12	03		2013	12	03		a_été_mandatée	La société TRIADIS a été mandatée par l’exploitant pour programmer une intervention (élaboration d’un diagnostic, de préconisations, prélèvement d’échantillons des effluents et déchets, élimination) à partir du 3 décembre 2013.		'La société TRIADIS'
+								Des_opérations_d__aération	Des opérations d’aération du bâtiment ont été opérées le 2 décembre 2013 dans la journée puis le 3 décembre couplées à des mesures d’air ambiant au voisinage immédiat pour vérifier l’absence de risque pour les riverains (teneurs mesurées de l’ordre de quelques ppm).		
+2013	12	02		2013	12	02		s__est_rendue	L'inspection des installations classées s'est rendue sur le site le 2 décembre 2013.		
+2013	12	02		2013	12	02		Des_opérations_d__aération	Des opérations d’aération du bâtiment ont été opérées le 2 décembre 2013 dans la journée puis le 3 décembre couplées à des mesures d’air ambiant au voisinage immédiat pour vérifier l’absence de risque pour les riverains (teneurs mesurées de l’ordre de quelques ppm).		
+				2013	12	03		sont_intervenus	Les services incendies sont intervenus jusqu’au 3 décembre 2013 afin de sécuriser le site, durant l’incendie un nuage d’acide cyanhydrique s’est créé à l’intérieur du bâtiment.	'acide cyanhydrique'	
+2013	12	09		2013	12	09		Les_analyses	Les analyses des eaux souterraines du 9 décembre 2013 sur 3 piézomètres et le puits BONDUELLE mettent en évidence les contaminations suivantes :		'BONDUELLE'
+2013	12	1		2013	12	1		un_incendie_s__est_déclaré	Dans la journée du 1er décembre 2013 un incendie s’est déclaré au niveau des lignes 5 et 7 de l’atelier de trempage.		

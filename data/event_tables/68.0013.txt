@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07			2003	07			__rabattement_de_la_nappe	D'autre part, la présence d'hydrocarbures flottants au droit d'un piézomètre, révélée lors de l'étude, a conduit à  mener des opérations de traitement : rabattement de la nappe et écrémage par pompe, qui ont démarré en juillet 2003.	'hydrocarbures'	
+1996	05			1996	05			Le_traitement_par_écrémage	Le traitement par écrémage des hydrocarbures, par bande oléophile mis en place en 1995 s'est achevé en mai 1996.	'hydrocarbures'	
+2002	10	04		2002	10	04		a_été_remise	L'étude a été remise le 4 octobre 2002.		

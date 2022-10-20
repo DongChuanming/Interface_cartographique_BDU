@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	04	19		2015	04	19		la_découverte	Suite à la découverte par des chasseurs le dimanche 19 avril 2015 d’une nappe d’hydrocarbures à proximité de la canalisation DPA Bayon - SPBA Ambès, le SIDPC 33 a appelé l’astreinte régionale DREAL pour l’informer d’une suspicion de fuite de la canalisation.	'hydrocarbures'	'SPBA Ambès', 'le SIDPC 33', 'DREAL'
+2015	07			2015	07			__campagnes	- état résiduel des sédiments des Jalles (campagnes de prélèvements en juillet 2015),		
+2015	04	20		2015	04	20		a_été_confirmée_lors	La présence d’une fuite a été confirmée lors de l’excavation de la canalisation le lundi 20 avril 2015, par la découverte d’un percement sur la génératrice inférieure de l’ouvrage posé à 1 mètre de profondeur.		
+2015	04	20		2015	04	20		La_visite	La visite du 20 avril 2015 a permis de localiser la pollution et l'origine de la fuite.		
+								sont_remis	Le démarrage du traitement est immédiat, le rapport d'incident et le diagnostic sont remis dans le délai de 1 mois.		
+2015	06	26		2015	06	26		est_transmis	Le diagnostic est transmis le 26 juin 2015, il comprend :		

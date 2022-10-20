@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	07		2006	07	07		ont_été_instaurées	De nouvelles restrictions d'usage ont été instaurées par arrêté préfectoral du 7 juillet 2006.		
+1999				1999				L__étude_remise	L’étude remise début 1999 indique que les boues ne relarguent pas et que le risque principal est la remontée de nappe.		
+2005	10	17		2005	10	17		a_informé	Par courrier du 17 octobre 2005, la société DMC Tissus a informé les services de la DRIRE de la mise à jour de zones polluées sur le site de l’ancienne usine DMC Texunion située à Pfastatt lors de travaux de terrassement.		'la société DMC Tissus', 'la DRIRE', 'DMC Texunion'
+2000	08			2000	08			à_la_cessation_d__activité	L’activité du site est restée la même jusqu’à la cessation d’activité qui eu lieu en août 2000.		
+2004				2004				a_donc_été_signé	Il a donc été signé en date du 20 aout 2004 un arrêté préfectoral instituant des servitudes d'utilité publique sur une partie des terrains anciennement occupés par la société DMC.		'la société DMC'
+2003	07	02		2003	07	02		a_présenté	En date du 2 juillet 2003, la société DMC Tissus département Texunion a présenté une demande en vue d’obtenir l’institution de servitudes d’utilité publique pour son ancien site de Pfastatt.		'la société DMC Tissus'
+2001	12	20		2001	12	20		ont_été_transmis	Un mémoire et une note de synthèse réalisée par le bureau d'études Dames et Moore ont été transmis le 20/12/2001 et a été complété en 2002 sur du nombreux points, notamment la côte des hautes eaux et la profondeur de la contamination.		
+2005				2005				découvertes	S'agissant de la pollution aux hydrocarbures découvertes en 2005	'hydrocarbures'	
+2004	12	02		2004	12	02		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été rédigé en date du 2 décembre 2004.		
+1994				1994				Le_diagnostic_approfondi	Le diagnostic approfondi réalisé en 1994 a montré que ces boues contiennent des sulfates, phénols, métaux lourds, AOX et des substances extractibles au chloroforme.	'sulfates', 'phénols', 'métaux lourds', 'AOX', 'chloroforme'	
+2003				2003				a_déposé	L'exploitant a déposé en 2003 un dossier de demande d'instauration de servitudes d'utilité publique.		
+2002				2002				a_été_complété	Un mémoire et une note de synthèse réalisée par le bureau d'études Dames et Moore ont été transmis le 20/12/2001 et a été complété en 2002 sur du nombreux points, notamment la côte des hautes eaux et la profondeur de la contamination.		
+								a_donc_été_signé	Il a donc été signé en date du 20 aout 2004 un arrêté préfectoral instituant des servitudes d'utilité publique sur une partie des terrains anciennement occupés par la société DMC.		'la société DMC'

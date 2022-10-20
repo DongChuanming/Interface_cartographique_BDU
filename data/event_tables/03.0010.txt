@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				a_repris_en_partie	All Chem a repris en partie, en 1991, les activités de la société Pharma Chimie, en limite de la zone industrielle de Montluçon, dans des locaux datant de plus de 50 ans.		'la société Pharma Chimie'
+1998	06	09		1998	06	09		une_évaluation_simplifiée_des_risques	Compte tenu de l'activité exercée, de celles exercées précédemment sur le site, des produits utilisés ou fabriqués, de la sensibilité du milieu, une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 9 juin 1998.		
+2005	02	03		2005	02	03		résultat_de_ces_investigations	Le résultat de ces investigations ont été présentés à la DRIRE le 3 février 2005, il est apparu que la pollution constatée en amont pouvait venir du réseau communal d'eaux usées perforé à proximité du site.		'la DRIRE'

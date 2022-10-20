@@ -1,0 +1,45 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_fait_procéder_à	La société Picoty Autoroutes AVIA a fait procéder à six campagnes de prélèvements en juin, septembre et novembre 2006 et en mars, juin et octobre 2007.		'La société Picoty Autoroutes AVIA'
+2007	06			2007	06			des_investigations_réalisées	Cette augmentation s’accentue au vu des investigations réalisées en juin 2007.		
+				2007	06			s__accentue	Cette augmentation s’accentue entre mars et juin 2007 pour la moitié des paramètres mesurés malgré une diminution du niveau piézométrique.		
+2007	10			2007	10			Le_suivi_d_	Le suivi d'octobre 2007 montre une diminution significative de l'ensemble des paramètres, hormis pour le benzène pour le puits n°1, qui atteint des valeurs équivalentes à celles de septembre 2006.	'le benzène'	
+2007	06			2007	06			s__accentue	Cette augmentation s’accentue au vu des investigations réalisées en juin 2007.		
+1981				1981				a_débuté_ses_activités_sous	La station-service a débuté ses activités sous l’enseigne TOTAL en 1981 et a été autorisée par l’arrêté préfectoral n°12166 du 10 mai 1982.		
+1982	05	10		1982	05	10		a_débuté_ses_activités_sous	La station-service a débuté ses activités sous l’enseigne TOTAL en 1981 et a été autorisée par l’arrêté préfectoral n°12166 du 10 mai 1982.		
+2007	12			2008	03			des_prélèvements_mensuels	- pour les cinq piézomètres, à des prélèvements mensuels (de décembre 2007 à mars 2008),		
+2007	11			2007	11			ont_été_intégré	Dans le cadre des campagnes d’octobre et novembre 2007, les puits en gros diamètres (P1 à P4) ont été intégré aux prélèvements des piézomètres (Pz1 à Pz5).		
+2014	06	11		2014	06	11		a_été_signé	Un arrêté préfectoral de prescription complémentaire encadrant les travaux de dépollution entrepris à l’occasion des travaux de démantèlement de la station-service a été signé le 11 juin 2014.		
+2007	03			2007	03			ont_respectivement_été_ajoutés	Les paramètres MTBE et Naphtalène ont respectivement été ajoutés en novembre 2006 et mars 2007.	'MTBE', 'Naphtalène'	
+2007	10			2007	10			La_première_campagne_de_mesure	La première campagne de mesure d'octobre 2007 montre que les piézomètres situés en aval lointain ne sont pas impactés par la pollution.		
+2004	04			2004	04			a_fait_l__objet_de	Dans le cadre du changement d'exploitant intervenu le 18 décembre 2002, la station service AVIA a fait l’objet de deux études sur les sols et les eaux souterraines en avril 2004 et octobre 2005.		'service AVIA'
+2008	10			2008	10			des_prélèvements_semestriels	- pour les puits à gros diamètres à des prélèvements semestriels (mars et octobre 2008).		
+2013	12	26		2013	12	26		précise	Par courrier du 26 décembre 2013, la société PICOTY AUTOROUTE AVIA précise à la DREAL Aquitaine que des travaux consistant à la réalisation d'une nouvelle station service et au démantèlement de l'ancienne vont être engagés.		'la société PICOTY AUTOROUTE AVIA', 'la DREAL Aquitaine'
+2006	06			2006	06			A	A partir de juin 2006, les paramètres qui ont été analysés sont les suivants : hydrocarbures totaux, Benzène, Toluène, Ethyl-benzène, Xylènes totaux.	'hydrocarbures totaux', 'Benzène', 'Toluène', 'Ethyl - benzène', 'Xylènes totaux'	
+2007	11	28		2007	11	28		de_la_réunion	Lors de la réunion du 28 novembre 2007, la fréquence des prélèvements a été définie :		
+2014	01	22		2014	01	22		Une_inspection	Une inspection a été réalisée le 22 janvier 2014 suite au courrier de l'exploitant du 26 décembre 2013 informant l'inspection du déplacement de la station-service.		
+								ont_été_intégré	Dans le cadre des campagnes d’octobre et novembre 2007, les puits en gros diamètres (P1 à P4) ont été intégré aux prélèvements des piézomètres (Pz1 à Pz5).		
+2006	05	05		2006	05	05		ont_été_remises	Elles ont été remises à la DRIRE le 5 mai 2006.		'la DRIRE'
+2008	07			2008	07			Les_mesures_réalisées	Les mesures réalisées en juillet 2008 montrent pour les piézomètres rapprochés en aval :		
+2002	12	18		2002	12	18		a_fait_l__objet_de	Dans le cadre du changement d'exploitant intervenu le 18 décembre 2002, la station service AVIA a fait l’objet de deux études sur les sols et les eaux souterraines en avril 2004 et octobre 2005.		'service AVIA'
+								le_cadre_des_campagnes_d_	Dans le cadre des campagnes d’octobre et novembre 2007, les puits en gros diamètres (P1 à P4) ont été intégré aux prélèvements des piézomètres (Pz1 à Pz5).		
+2006	11			2006	11			ont_respectivement_été_ajoutés	Les paramètres MTBE et Naphtalène ont respectivement été ajoutés en novembre 2006 et mars 2007.	'MTBE', 'Naphtalène'	
+2006				2006				une_modernisation_des_équipements	En 2001, AVIA a repris la station et a lancé notamment en 2006 une modernisation des équipements.		'AVIA'
+2007	11			2007	11			le_cadre_des_campagnes_d_	Dans le cadre des campagnes d’octobre et novembre 2007, les puits en gros diamètres (P1 à P4) ont été intégré aux prélèvements des piézomètres (Pz1 à Pz5).		
+2007	11	28		2007	11	28		a_été_définie	Lors de la réunion du 28 novembre 2007, la fréquence des prélèvements a été définie :		
+2008	06			2008	06			il_a_été_décidé_que_les_prélèvements_et_analyses_seraient_réalisés	En mai 2008, il a été décidé que les prélèvements et analyses seraient réalisés sur les cinq piézomètres en juin 2008 et d’effectuer un suivi semestriel de ces piézomètres à partir de cette date.		
+2007	03			2007	03			Le_suivi_réalisé	Le suivi réalisé en mars 2007 montre une hausse significative des concentrations de nombreux paramètres.		
+2007	08			2007	08			aucun_traitement	En août 2007, aucun traitement de la nappe et des gaz n’a été réalisé.		
+2007	11			2008	03			Le_suivi_mensuel	Le suivi mensuel de six mois (de novembre 2007 à mars 2008) sur les eaux souterraines a mis en évidence :		
+2006	11			2006	11			a_fait_procéder_à	La société Picoty Autoroutes AVIA a fait procéder à six campagnes de prélèvements en juin, septembre et novembre 2006 et en mars, juin et octobre 2007.		'La société Picoty Autoroutes AVIA'
+2006	05			2006	05			zones_Ouest__	Des travaux d'excavation de terres polluées ont été réalisés en deux phases sur les zones Ouest (avril-mai 2006) et Est du site (septembre-octobre 2006).		
+2008	05			2008	05			il_a_été_décidé_que_les_prélèvements_et_analyses_seraient_réalisés	En mai 2008, il a été décidé que les prélèvements et analyses seraient réalisés sur les cinq piézomètres en juin 2008 et d’effectuer un suivi semestriel de ces piézomètres à partir de cette date.		
+2006				2006				a_été_équipé	Lors de ces travaux, le site a été équipé en 2006 d’un réseau de collecte en vue de la mise en place d’un traitement des eaux souterraines et des gaz du sol.		
+2008	12			2008	12			Les_mesures_réalisées	Les mesures réalisées en décembre 2008 montrent :		
+2007	08	16		2007	08	16		prescrit_la_mise_en_œuvre_de_tout	Au vu des résultats d'analyses des eaux souterraines de 2006 et 2007 et sur proposition de la DRIRE du 16 août 2007, l'arrêté préfectoral du 1er octobre 2007 prescrit la mise en œuvre de tout moyen permettant de maîtriser la pollution en aval hydraulique du site.		'la DRIRE'
+2005	10			2005	10			a_fait_l__objet_de	Dans le cadre du changement d'exploitant intervenu le 18 décembre 2002, la station service AVIA a fait l’objet de deux études sur les sols et les eaux souterraines en avril 2004 et octobre 2005.		'service AVIA'
+								zones_Ouest__	Des travaux d'excavation de terres polluées ont été réalisés en deux phases sur les zones Ouest (avril-mai 2006) et Est du site (septembre-octobre 2006).		
+2001				2001				a_repris	En 2001, AVIA a repris la station et a lancé notamment en 2006 une modernisation des équipements.		'AVIA'
+								des_prélèvements_semestriels	- pour les puits à gros diamètres à des prélèvements semestriels (mars et octobre 2008).		
+2014	04			2014	04			Les_travaux_de_dépollution_ont_démarré	Les travaux de dépollution ont démarré en avril 2014.		
+2007	10			2007	10			a_fait_procéder_à	La société Picoty Autoroutes AVIA a fait procéder à six campagnes de prélèvements en juin, septembre et novembre 2006 et en mars, juin et octobre 2007.		'La société Picoty Autoroutes AVIA'
+				2006	11			des_paramètres_analysés	Une baisse significative des concentrations est enregistrée pour des paramètres analysés de juin à novembre 2006.		

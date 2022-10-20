@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	07			2010	07			a_été_observée	En juillet 2010, une épaisse phase flottante d'hydrocarbures a été observée sur un des piézomètres de surveillance.	'hydrocarbures'	
+1997	03			1997	03			le_démontage_des_installations	L’activité de ce site a cessé en mars 1996 et le démontage des installations s’est terminé en mars 1997.		
+1994	01			1994	01			un_audit_diagnostic	Dans le cadre de la prévision de cette cessation d’activité, un audit diagnostic du sol a été réalisé en janvier 1994.		
+				2002	06			Le_pompage	Le pompage des poches d’hydrocarbures dans les eaux souterraines s'est poursuivi jusqu'en juin 2002.	'hydrocarbures'	
+2005	09			2005	09			transmise	Une évaluation détaillée des risques, étudiant les usages compatibles avec la pollution résiduelle, a également été réalisée et transmise en septembre 2005.		
+1994	09			1994	09			un_traitement_par_écrémage	Face à cette situation, la nappe phréatique a fait l’objet d’un traitement par écrémage dès septembre 1994.		
+1937				1937				exploité	Ancien dépôt d’hydrocarbures liquides d’une capacité de 136 000 m3, exploité depuis 1937, et situé dans le port départemental de Honfleur, sur une zone de remblais qui a été gagnée sur l’embouchure de la Seine.	'd’ hydrocarbures liquides'	
+1979				1979				les_plus_récents	Dépôt constitué de 35 réservoirs dont les plus anciens ont été construits en 1936 et les plus récents en 1979 et d’une superficie de 8,9 hectares.		
+1997	03			1997	03			L__activité	L’activité de ce site a cessé en mars 1996 et le démontage des installations s’est terminé en mars 1997.		
+1999	05	27		1999	05	27		un_diagnostic_approfondi	Conformément à l'arrêté du 27 mai 1999, un diagnostic approfondi de la pollution des sols et de la nappe a été mené suite à cette action de dépollution.		
+2008	03	17		2008	03	17		ont_été_instituées	Des restrictions d'usage sous forme de servitudes d'utilité publique ont été instituées, par arrêté préfectoral du 17 mars 2008, afin de maintenir la compatibilité des usages futurs des terrains avec la pollution résiduelle.		
+1996	03			1996	03			L__activité	L’activité de ce site a cessé en mars 1996 et le démontage des installations s’est terminé en mars 1997.		
+1936				1936				ont_été_construits	Dépôt constitué de 35 réservoirs dont les plus anciens ont été construits en 1936 et les plus récents en 1979 et d’une superficie de 8,9 hectares.		

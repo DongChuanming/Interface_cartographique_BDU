@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	22		2003	10	22		a_été_prescrite	La surveillance a été prescrite par l'arrêté complémentaire du 22 octobre 2003.		
+2005	12	13		2005	12	13		a_été_placée_en_liquidation_judiciaire	La société Steinheil a été placée en liquidation judiciaire le 13 décembre 2005.		'La société Steinheil'

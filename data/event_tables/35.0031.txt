@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	10			2013	10			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés d'octobre 2013 à février 2014.		
+2014	02			2014	02			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés d'octobre 2013 à février 2014.		
+2007	10	27		2007	10	27		un_délibéré	Par un délibéré du 27 octobre 2007 du Tribunal de Commerce d’Alençon, l’immeuble a été déclaré "abandonné" au profit de FRANCE DOMAINE.		'FRANCE DOMAINE'
+2003	07			2003	07			a_eu_lieu	La fin de l'activité a eu lieu fin juillet 2003.		
+1908				1908				a_été_créée	La fonderie de Servon-sur-Vilaine, implantée sur le site d'une ancienne carrière de schiste ardoisier, a été créée en 1908 pour assurer une activité de fonderie de fonte de 2è fusion, à partir de fontes et chutes de ferrailles.		
+2009				2009				a_été_mandatée	En raison de la présence de sables usés de la fonderie, d'une ancienne décharge interne et de vieux bâtiments menaçant la sécurité des personnes en dehors du site, l'ADEME a été mandatée en 2009 pour intervenir sur ce site.		
+2011				2011				Un_diagnostic_environnemental	Un diagnostic environnemental et une étude d'interprétation de l'état des milieux ont été réalisés en 2011 et concluent :		
+								se_sont_succédées	Différentes sociétés (propriétaires et/ou exploitants) se sont succédées depuis les années 1900.		
+2003	06	27		2003	06	27		a_prononcé_la_liquidation_judiciaire	Le 27 juin 2003, le Tribunal de Commerce d'Alençon a prononcé la liquidation judiciaire de la société SONOFOQUE et de sa filiale, la SA FONDERIE DE SERVON.		"le Tribunal de Commerce d' Alençon", 'la société SONOFOQUE', 'la SA FONDERIE DE SERVON'

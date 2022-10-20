@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				mise_en_service	- mise en service de l'entreprise SONOCO sur Haubourdain en 1995.		'SONOCO'
+2010	10	22		2010	10	22		a_été_autorisée	Elle a été autorisée par arrêté préfectoral du 21/05/2001 complété par l'arrêté préfectoral complémentaire du 22/10/2010.		
+2012				2012				a_notifié_sa_cessation_d__activité	L'établissement a notifié sa cessation d'activité début 2012.		
+2012	09	12		2012	09	12		cessation_d__activité_remis	L'ensemble des activités antérieures ont été recensées dans le mémoire de cessation d'activité remis le 12/09/2012 (Dossier EAF 7822 Version 1 du 09 août 2012 N° de Chrono A1373/12/913):		'EAF'

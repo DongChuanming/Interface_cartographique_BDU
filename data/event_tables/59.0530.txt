@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic plomb et amiante en mai 2006 par ARCADIS qui révèle la présence de ces deux polluants sur le site.	'plomb'	'ARCADIS'
+2009	09			2009	09			Dépôt_d__un_permis_de_construire	- Dépôt d'un permis de construire en septembre 2009.		
+2000	04			2000	04			Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols en avril 2000 par Ophrys.		
+2001	01	01		2001	01	01		à_son_rachat	- Filature qui appartenait au groupe DMC, jusqu'à son rachat par COATS au 1 janvier 2001.		'groupe DMC', 'COATS'
+2006	06			2006	06			Cessation_d__activité	- Cessation d'activité en juin 2006.		
+2006	03			2006	03			Réalisation_d__un_diagnostic_de_pollution	- Réalisation d'un diagnostic de pollution des sols et des eaux souterraines en mars 2006 par Ophrys.		
+2006	07	31		2006	07	31		Cessation_totale_d__activité	- Cessation totale d'activité le 31 juillet 2006.		
+2009				2009				Projet_de_construction_de_logements	- Projet de construction de logements, d'un parking et d'espaces verts en 2009.		
+2009	03			2009	03			Réalisation_d_	- Réalisation d'un plan de gestion en mars 2009.		

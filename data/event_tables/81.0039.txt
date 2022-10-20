@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09	07		1999	09	07		est_signé	CARA'S CUIR est mis en liquidation judiciaire en 1994 et un arrêté de mise en demeure est signé le 7 septembre 1999 afin de faire mettre en sécurité le site et d'éliminer des déchets.		"CARA' S CUIR"
+2011	04	21		2011	04	21		les_opérations_de_liquidation_judiciaire	Le 21 avril 2011, les opérations de liquidation judiciaire sont closes pour insuffisance d'actif.		
+2011	11	17		2011	11	17		Deux_arrêtés_préfectoraux_de_travaux	Deux arrêtés préfectoraux de travaux d'office ADEME et d'occupation temporaire des sols sont signés le 17 novembre 2011 afin d'assurer la mise en sécurité du site.		
+1999	09	07		1999	09	07		Arrêté	Arrêté du 7 septembre 1999 mettant en demeure la société CARA'S CUIR de mettre en sécurité le site et d'éliminer des déchets.		"la société CARA' S CUIR"
+2012				2012				__diagnostic_amiante	-au printemps 2012: diagnostic amiante		
+1982	01			1982	01			est_rachetée	La mégisserie du Moulin de la Resse est rachetée par la société CARA'S CUIR en janvier 1982 (changement d'exploitant).		"la société CARA' S CUIR"
+2003	02	28		2003	02	28		a_également_été_mise_en_liquidation	La société Moulin de la Resse a également été mise en liquidation le 28 février 2003.		'La société Moulin de la Resse'
+1984	07	18		1984	07	18		arrêté_de_mise_en_demeure	- arrêté de mise en demeure du 18/07/1984, rappelant l'obligation de mettre en fonctionnement une station d'épuration,		
+1994				1994				est_mis_en_liquidation_judiciaire	CARA'S CUIR est mis en liquidation judiciaire en 1994 et un arrêté de mise en demeure est signé le 7 septembre 1999 afin de faire mettre en sécurité le site et d'éliminer des déchets.		"CARA' S CUIR"
+2016	02	1		2016	02	1		transmission	- 1er février 2016 transmission du rapport de fin de travaux		

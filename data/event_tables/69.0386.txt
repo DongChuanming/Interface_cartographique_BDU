@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01	28		2000	01	28		de_déclaration	La société «Garage Horizon Sud »a exploité un atelier de réparation de véhicules à moteur au 147 boulevard de l’Europe (récépissé de déclaration du 28/01/2000).		'La société « Garage Horizon Sud'
+2004	06	30		2004	06	30		est_cependant_sortie	Cette activité est cependant sortie de la nomenclature ICPE le 30/06/2004.		
+2018				2018				abrite	Le site a été réaménagé et abrite, en 2018, un garage, une station service et des activités commerciales (opticien, restaurant, boulangerie).		
+								a_exploité	La société «Le nouveau garage» a exploité une station service 147/149 boulevard de l’Europe à Pierre-Benite (récépissé de déclaration du 05/12/86).		'La société'
+1993				1993				a_été_racheté_par	Selon l’historique établi dans le cadre de ce diagnostic il apparaît qu’en 1993 «Le Nouveau garage » a été racheté par la société Gallieni Automobiles (fond de commerce).		'la société Gallieni Automobiles'
+								de_déclaration	La société «Le nouveau garage» a exploité une station service 147/149 boulevard de l’Europe à Pierre-Benite (récépissé de déclaration du 05/12/86).		'La société'
+2018				2018				a_été_réaménagé	Le site a été réaménagé et abrite, en 2018, un garage, une station service et des activités commerciales (opticien, restaurant, boulangerie).		
+2012	05			2012	05			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé par l’acquéreur de l’ensemble du site en mai 2012 par le bureau d’études Galtier Environnement.		

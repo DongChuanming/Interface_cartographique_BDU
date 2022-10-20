@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				à_imposer	Elle a conduit à classer le site dans la catégorie à surveiller et à imposer à l'exploitant, en 2002, la mise en place d'une surveillance des eaux souterraines et d'un rabattement de nappe.		
+2008	10			2008	10			des_campagnes	Il ressort de la synthèse des campagnes de suivi 2000-à octobre 2008 que la situation s'améliore.		
+1998				1998				la_réalisation_d__une_étude_simplifiée_des_risques	Considérant la nature des activités exercées et le contexte environnemental, la réalisation d'une étude simplifiée des risques de pollution des sols a été prescrite à l'exploitant en 1998.		
+2000				2000				La_surveillance	La surveillance, effective depuis 2000, porte sur un bilan amont-aval des hydrocarbures totaux, des xylènes, des organochlorés et des métaux (As, Cd, Cr, Ni, Pb), analysés sur 6 piézomètres répartis sur le site.	'hydrocarbures totaux', 'xylènes', 'organochlorés', 'métaux', 'As', 'Cd', 'Cr', 'Ni', 'Pb'	
+2001				2001				L__étude_remise	L'étude remise en 2001 a conclu à la présence de plusieurs zones localisées de pollution des sols (organochlorés, métaux, hydrocarbures) et à un impact constaté au niveau des eaux souterraines.	'organochlorés', 'métaux', 'hydrocarbures'	
+2003				2003				ont_été_arrêtées	Les activités de fonderie jadis exercées sur le site ont été arrêtées en 2003.		
+1912				1912				implanté	L'établissement implanté depuis 1912 est spécialisé dans la construction de véhicules.		

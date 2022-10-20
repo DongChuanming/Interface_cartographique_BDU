@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_remise	- la remise sous 3 mois à l'inspection d'un schéma conceptuel post-travaux et d'une évaluation quantitative des risques résiduels sur site, au regard d'un usage comparable à la dernière période d'exploitation du site (usage industriel),		
+2013	05	06		2013	05	06		l__acte_de_vente	- l'inscription, en cas de vente du site, de restrictions d'usage dans l'acte de vente notarié (inscrites dans l'acte de vente du 06 mai 2013).		
+2013	05	06		2013	05	06		l__acte_de_vente_des_terrains	Ces restrictions d'usage ont été actées dans l'acte de vente des terrains, en date du 06 mai 2013.		
+2013	05	06		2013	05	06		l__inscription	- l'inscription, en cas de vente du site, de restrictions d'usage dans l'acte de vente notarié (inscrites dans l'acte de vente du 06 mai 2013).		
+2012	08			2012	08			des_sols_réalisés	A l'issue des travaux de dépollution des sols réalisés en août 2012, des concentrations résiduelles en hydrocarbures C5-C40, BTEX et HAP subsistent ponctuellement en bords et fond de fouille.	'hydrocarbures C5-C40', 'BTEX', 'HAP'	
+2012	07			2012	07			a_remis	En juillet 2012, l'exploitant a remis à l'Administration un dossier relatif à la cessation définitive d'activité du site en application de l'article R 512-66-1 du Code de l'environnement.		
+2012	09	12		2012	09	12		Les_analyses_réalisées	Les analyses réalisées le 12 septembre 2012 ont révélé un dépassement de la valeur de référence pour les eaux potables en MTBE (15 µg/L) dans le piézomètre aval PZ2 localisé en limite sud-est du site, avec une concentration de 51 µg/L.	'MTBE'	

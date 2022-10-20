@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04			2010	04			a_été_remis	Un dossier technique des dispositions constructives, telles que préconisées à l'issue de la tierce expertise du plan de gestion, a été remis à l'Inspection en avril 2010.		
+2002	09	17		2002	09	17		remise	Celle-ci, remise le 17/09/2002, montre que le risque sanitaire pour les futurs employés est acceptable.		
+2009				2009				La_campagne_de_surveillance	La campagne de surveillance des eaux souterraines de 2009 met en évidence des teneurs en baryum et en arsenic inférieures aux valeurs limites de l'arrêté du 11/01/2007 relatif à la qualité des eaux de consommation.	'baryum', 'arsenic'	
+2009	11	27		2009	11	27		Les_travaux_d__aménagement	Les travaux d'aménagement on été menés en accord avec les dispositions de l'arrêté préfectoral du 27/11/2009.		
+2006	06	23		2006	06	23		d__une_nouvelle_EDR_remise	La partie des terrains concernés par l'implantation future de la société SOBECA (TPLC) a fait l'objet d'un diagnostic approfondi et d'une nouvelle EDR remise le 23 juin 2006.		'la société SOBECA', 'TPLC'
+2009	11	27		2009	11	27		a_été_signé	Ce projet a été reçu favorablement par les membres du CODERST (COnseil Départemental de l'Environnement et des Risques Sanitaires et Technologiques) lors de sa réunion du 22 octobre 2009 et l'arrêté préfectoral a été signé le 27 novembre 2009.		'du CODERST', "COnseil Départemental de l' Environnement"
+2006	06	23		2006	06	23		un_diagnostic_approfondi	La partie des terrains concernés par l'implantation future de la société SOBECA (TPLC) a fait l'objet d'un diagnostic approfondi et d'une nouvelle EDR remise le 23 juin 2006.		'la société SOBECA', 'TPLC'
+2009	03	09		2009	03	09		a_été_signé	Un document contractuel d'assistance au suivi des travaux d'aménagement a été signé entre le tiers expert et TPLC le 9 mars 2009.		
+2006	12			2006	12			Les_analyses_faites	Les analyses faites suite aux prélèvements de la campagne de surveillance des eaux souterraines de décembre 2006, indiquent que les teneurs des paramètres surveillés sont inférieures aux seuils de détection, à l'exception :		
+2008	09	17		2008	09	17		a_été_sollicitée	Aussi, dans la mesure où la solution de réhabilitation proposée ne conduit pas à la suppression des sources de contamination, une tierce expertise a été sollicitée par le Préfet, le 17 septembre 2008, à la demande de l'Inspection des Installations Classées.		'le Préfet'
+2000				2001				Une_étude_a_été_menée	Une étude a été menée entre 2000 et 2001 selon la méthode nationale d'évaluation des risques en vigueur à l'époque :		
+2008	12	15		2008	12	15		a_été_communiquée	L'analyse critique a été communiquée aux services de l'Inspection le 15 décembre 2008.		

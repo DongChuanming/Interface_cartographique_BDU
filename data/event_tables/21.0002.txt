@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				ont_été_construits	En 1991, des immeubles ont été construits sur ce site.		
+1991	03			1991	03			la_détérioration	En mars 1991, il a été constaté la détérioration de deux transformateurs électriques et la présence de pyralène sur une surface recouverte de béton.	'pyralène'	

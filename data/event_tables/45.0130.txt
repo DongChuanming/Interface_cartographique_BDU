@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	03			2016	03			sont_toutefois_repassées	Depuis mars 2016, les concentrations mesurées en Ni et en Pb sont toutefois repassées sous les limites précitées.	'Ni', 'Pb'	
+2015	02	08		2015	02	08		a_imposé	Par arrêté du 8 février 2015, Monsieur le Préfet du Loiret a imposé à la société COPADEX la surveillance des eaux souterraines rencontrées au droit de son site à fréquence semestrielle.		'le Préfet du Loiret', 'la société COPADEX'
+2008				2008				a_acquis	Dans le cadre de l’extension de ses activités, l’exploitant a acquis, en 2008, la parcelle AL 29 précédemment utilisée par l’armée en tant que champ de tir.		
+2015	02	04		2015	02	04		L__évaluation_quantitative_des_risques_sanitaires	L’évaluation quantitative des risques sanitaires, réalisée conformément au titre 10 de l’arrêté préfectoral d’enregistrement du 04 février 2015, montre que les risques sanitaires liés à cette contamination résiduelle sont acceptables pour une exposition des travailleurs fréquentant le bâtiment où était localisée l’ancienne cuve de fioul.	'fioul'	

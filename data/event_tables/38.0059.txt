@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			a_été_pris	Sur la base d'un dossier déposé par la société TOTAL (référence RM/MKF/LOG/DEP/RDP) en juin 2010, un arrêté préfectoral de servitudes d'utilité publique a été pris le 17 juin 2011 sous le n° 2011-168-0075	'DEP'	'la société TOTAL', 'MKF', 'RDP'
+2002	12	02		2002	12	02		une_réunion_s_	Le 2 décembre 2002, une réunion s'est tenue à la Mairie de Fontanil en présence de l'inspection, du maire et de son 1er adjoint et de 3 responsables de la société TOTAL FINA ELF France.		'la société TOTAL FINA ELF France'
+2003	10	14		2003	10	14		une_réunion	Suite au non respect des délais imposés dans l'arrêté préfectoral n° 2003-03900, une réunion a été organisée entre l'inspection et des responsables de la société TOTAL le 14 octobre 2003.		'la société TOTAL'
+				2009				A	A partir de l'automne 2007 jusqu'à l'été 2009, la société TOTAL a mis en place un programme de dépollution du site par voie biologique.		'la société TOTAL'
+				2009				un_programme_de_dépollution	A partir de l'automne 2007 jusqu'à l'été 2009, la société TOTAL a mis en place un programme de dépollution du site par voie biologique.		'la société TOTAL'
+2010				2010				Les_travaux	Les travaux faisant suite à la mise en demeure ont été réalisés au premier semestre 2010 ; à l'appui de ces travaux la société TOTAL a fourni le rapport de la société ENVIRON - 11EIM 10029.		'la société TOTAL', 'la société ENVIRON'
+								a_été_pris	Sur la base d'un dossier déposé par la société TOTAL (référence RM/MKF/LOG/DEP/RDP) en juin 2010, un arrêté préfectoral de servitudes d'utilité publique a été pris le 17 juin 2011 sous le n° 2011-168-0075	'DEP'	'la société TOTAL', 'MKF', 'RDP'
+1998				1998				a_été_constatée	Cette augmentation a été constatée dans un piézomètre depuis 1998.		
+2014	08	11		2014	08	11		reste_réglementé	Le suivi des eaux souterraines reste réglementé (au 11 août 2014) par l'arrêté préfectoral n° 2007-06754 du 1° août 2007.		
+1999	03	17		1999	03	17		a_été_transmis	Le diagnostic initial a été transmis le 17/03/1999.		
+2005	05	06		2005	05	06		Le_démantèlement	Le démantèlement du dépôt a pris fin le 6 mai 2005.		
+2007	08			2007	08			reste_réglementé	Le suivi des eaux souterraines reste réglementé (au 11 août 2014) par l'arrêté préfectoral n° 2007-06754 du 1° août 2007.		
+2000	12	20		2000	12	20		a_été_adressé	Le projet d'ESR a été adressé le 20/12/2000.		"d' ESR"
+2011				2011				a_été_pris	Sur la base d'un dossier déposé par la société TOTAL (référence RM/MKF/LOG/DEP/RDP) en juin 2010, un arrêté préfectoral de servitudes d'utilité publique a été pris le 17 juin 2011 sous le n° 2011-168-0075	'DEP'	'la société TOTAL', 'MKF', 'RDP'
+1966				1966				a_été_construit	Ce dépôt pétrolier a été construit en 1966 avec une capacité de 9 880 m3.		
+1969				1969				ont_porté	Plusieurs extensions ont porté cette capacité à 24 180 m3 depuis 1969.		
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 01/12/1998.		
+2011	06	17		2011	06	17		a_été_pris	Sur la base d'un dossier déposé par la société TOTAL (référence RM/MKF/LOG/DEP/RDP) en juin 2010, un arrêté préfectoral de servitudes d'utilité publique a été pris le 17 juin 2011 sous le n° 2011-168-0075	'DEP'	'la société TOTAL', 'MKF', 'RDP'
+								reste_réglementé	Le suivi des eaux souterraines reste réglementé (au 11 août 2014) par l'arrêté préfectoral n° 2007-06754 du 1° août 2007.		
+2010	07	27		2010	07	27		a_fourni	L'inspection des installations classées a fourni le 27 juillet 2010 le procès verbal de réalisation des travaux en application à l'article R-512-76 du code de l'Environnement.		

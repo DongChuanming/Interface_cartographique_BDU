@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	12			2013	12			a_fait_procéder	En décembre 2013, ANTOINE a fait procéder à une élimination des terres souillés et à son remplacement par des matériaux inertes.		'ANTOINE'
+2015	02			2015	02			ont_été_éliminés	Les quelques déchets restants (bonbonnes de gaz, benne de camion...) ont été éliminés par l'exploitant en février 2015.		
+2014	12	16		2014	12	16		La_visite	La visite d'inspection sur site en date du 16 décembre 2014 a permis à l'inspection des installations classées pour la protection de l'environnement de constater que la remise en état des lieux est quasiment terminée.		
+2008	12	29		2008	12	29		a_fait_part_de_sa_cessation_d__activité_déclarée	La société a fait part de sa cessation d'activité déclarée le 29 décembre 2008.		

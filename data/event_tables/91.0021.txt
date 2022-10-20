@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10			2011	10			de_l__intervention	De manière ponctuelle, la présence de perchloréthylène (PCE, aussi appelé tétrachloroéthylène) a été détectée sur le Pz3 lors de l’intervention d’octobre 2011.	'perchloréthylène', 'PCE', 'tétrachloroéthylène'	
+2011	10			2011	10			a_été_détectée	De manière ponctuelle, la présence de perchloréthylène (PCE, aussi appelé tétrachloroéthylène) a été détectée sur le Pz3 lors de l’intervention d’octobre 2011.	'perchloréthylène', 'PCE', 'tétrachloroéthylène'	
+2009	03	31		2009	03	31		n__utilise_plus	La société Vernet n’utilise plus de trichloréthylène depuis le 31 mars 2009.	'trichloréthylène'	'société Vernet'
+2001	04	05		2001	04	05		a_été_prescrite	Cette surveillance a été prescrite par l'arrêté préfectoral du 5/04/2001.		
+2002				2002				a_toujours_été_détectée	Cette pollution a toujours été détectée depuis l’installation des piézomètres en 2002.		
+1971				1971				est_implantée	Cette société est implantée depuis 1971 dans une zone initialement agricole qui s'est peu à peu urbanisée.		

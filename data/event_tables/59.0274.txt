@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	23		2005	06	23		a_pris	Puis, le 23 juin 2005, Monsieur le Préfet du Nord a pris l’arrêté préfectoral d’intervention d’urgence.		'le Préfet du Nord'
+2005	06	15		2005	06	15		a_donné_son_accord_par	Considérant que la situation rencontrée relevait effectivement de la catégorie des situations « d’urgence impérieuse », le Ministère a donné son accord par télécopie du 15 juin 2005.		
+2005	06	09		2005	06	09		un_état_certifié	Le 9 juin 2005, le liquidateur judiciaire a adressé à la DRIRE un état certifié des comptes de la société Vieux-Condé-Estampage qui nous a amenés à constater qu’il n’était pas en mesure de faire face à ses obligations.		'la DRIRE', 'la société Vieux-Condé-Estampage'
+								d__évacuer	la société est mis en demeure par arrêté du 18 mai 2005, d’évacuer sous 3 jours ces déchets.		
+2006	03	01		2006	03	01		un_arrêté_de_mise_en_péril_pris	Prise d'un arrêté de mise en péril pris par le maire en date du 01/03/2006.		'le maire'
+2005	06	10		2005	06	10		a_sollicité	Par télécopie du 10 juin 2005, la préfecture du Nord a sollicité auprès du Ministère de l’Ecologie et du Développement Durable l’autorisation de pouvoir intervenir en urgence sur ce site.		'la préfecture du Nord'
+2008				2008				acquérir	L'EPF souhaite acquérir le site (en 2008) en vue de démolir les bâtiments et de revaloriser le site.		"L' EPF"
+2005	04	25		2005	04	25		a_prononcé_la_liquidation_judiciaire	Par jugement en date du 25 avril 2005, le tribunal de commerce a prononcé la liquidation judiciaire de la société.		'le tribunal de commerce'
+								a_été_menée	Le 21 juin, une visite du site a été menée par l’ADEME en présence de la DREAL.		'l’ ADEME', 'la DREAL'
+								ont_été_reconditionnés	Les 10 et 11 août 2005, les sels de cyanures ont été reconditionnés de manière adaptée afin de pouvoir être transportés puis éliminés dans une entreprise dûment autorisée.	'sels', 'de', 'cyanures'	
+2005	08	11		2005	08	11		ont_été_reconditionnés	Les 10 et 11 août 2005, les sels de cyanures ont été reconditionnés de manière adaptée afin de pouvoir être transportés puis éliminés dans une entreprise dûment autorisée.	'sels', 'de', 'cyanures'	
+2006	06	19		2006	06	19		Réalisation	Réalisation d'une étude de sols, en date du 19/06/2006.		
+2005	03	22		2005	03	22		a_constaté	Le 22 mars 2005, l'inspection a constaté:		
+2005	06	10		2005	06	10		Par	Par télécopie du 10 juin 2005, la préfecture du Nord a sollicité auprès du Ministère de l’Ecologie et du Développement Durable l’autorisation de pouvoir intervenir en urgence sur ce site.		'la préfecture du Nord'

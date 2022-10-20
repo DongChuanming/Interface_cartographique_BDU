@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				la_cessation_d__activité	Les terrains accueillaient depuis 1962 un dépôt et un stockage de combustibles (fuel et gaz), la cessation d'activité de cette installation classée soumise à déclaration est intervenu en 2014.	'combustibles', 'fuel'	
+1962				1962				accueillaient	Les terrains accueillaient depuis 1962 un dépôt et un stockage de combustibles (fuel et gaz), la cessation d'activité de cette installation classée soumise à déclaration est intervenu en 2014.	'combustibles', 'fuel'	
+2013	06			2013	06			un_diagnostic_environnemental	Dans le cadre de la cessation d'activité, l'exploitant a réalisé un diagnostic environnemental du sous-sol avec rapport d'études en juin 2013.		
+2013	01			2013	01			Les_prélèvements_des_eaux	Les prélèvements des eaux de janvier 2013 indiquent la présence d'hydrocarbures flottant d'une épaisseur du centimètre sur un piézomètre.	'hydrocarbures'	
+2014				2014				accueillaient	Les terrains accueillaient depuis 1962 un dépôt et un stockage de combustibles (fuel et gaz), la cessation d'activité de cette installation classée soumise à déclaration est intervenu en 2014.	'combustibles', 'fuel'	

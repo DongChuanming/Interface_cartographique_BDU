@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			Le_non_respect_des	Le non-respect des dispositions reprises dans ces actes administratifs ont conduit à un arrêté de consignation de somme et un arrêté de mise en demeure du 4 mars 2002.		
+								consignation_par	L'ESR transmise en mai 2002 a permis de lever la consignation par arrêté du 12 juin 2002.	'2002 .'	
+2002	03			2002	03			reprises_dans	Le non-respect des dispositions reprises dans ces actes administratifs ont conduit à un arrêté de consignation de somme et un arrêté de mise en demeure du 4 mars 2002.		
+								reprises_dans	Le non-respect des dispositions reprises dans ces actes administratifs ont conduit à un arrêté de consignation de somme et un arrêté de mise en demeure du 4 mars 2002.		
+								Le_non_respect_des	Le non-respect des dispositions reprises dans ces actes administratifs ont conduit à un arrêté de consignation de somme et un arrêté de mise en demeure du 4 mars 2002.		

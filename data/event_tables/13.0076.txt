@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01			2002	01			ESR_prescrite	* L'ESR prescrite par l'AP du 16/06/1999 a été remise en janvier 2002 et classe le site en catégorie 2.		
+2000	01	03		2000	01	03		__Autorisé	* Autorisé par AP du 26/10/1993 et 03/01/2000.		
+1936				1936				est_implanté	* Ce site en activité est implanté à Marignane depuis 1936 à proximité de l'étang de Berre sur une superficie d'environ 70 ha.		
+1993	10	26		1993	10	26		__Autorisé	* Autorisé par AP du 26/10/1993 et 03/01/2000.		

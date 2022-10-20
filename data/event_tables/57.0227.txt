@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	05	28		2015	05	28		de_la_visite	Lors de la visite du 28 mai 2015, l’Inspection a constaté de très nombreuses traces de souillures au sol dans le bâtiment « polissage », dans le bâtiment « traitement - local technique » ainsi que sur certaines parties extérieures.		
+2011	01	04		2011	01	04		a_été_transmise	La seule étude environnementale réalisée depuis la cessation d’activité a été transmise par le liquidateur judiciaire de la société SOTRALLE, par courrier du 4 janvier 2011.		'la société SOTRALLE'
+1997	12	15		1997	12	15		étaient_soumises_à_autorisation	Ces installations étaient soumises à autorisation au titre de la réglementation sur les ICPE par l’arrêté préfectoral n° 97-AG/2-259 du 15 décembre 1997.		
+2009				2009				a_cessé_définitivement	Suite à sa mise sous liquidation judiciaire, la société SOTRALLE a cessé définitivement son activité en 2009.		'la société SOTRALLE'
+1969	07	08		1969	07	08		était_exploité	L’atelier de travail des métaux était exploité, avant cette date, par Monsieur KIHL, bénéficiaire du récépissé de déclaration n° 8318/3 du 8 juillet 1969.		'KIHL'
+1973				1973				Elle_exploitait	Elle exploitait, depuis 1973, un atelier de travail mécanique des métaux, un atelier de traitement de surface et des installations connexes sur son site de la commune de METZING.		'METZING'
+2015	08			2015	08			une_intervention	Compte tenu de l'ensemble de ces éléments, le ministère en charge de l'environnement a autorisé, en août 2015, une intervention de l'ADEME pour mettre en sécurité ce site.		
+1973				2009				exploitait	La société SOTRALLE exploitait, de 1973 à 2009, des installations soumises à autorisation au titre de la réglementation sur les Installations Classées pour la Protection de l’Environnement (ICPE) sur la commune de METZING.		'La société SOTRALLE'
+2016	01	07		2016	01	07		a_donc_prescrit_la_réalisation_des_travaux_d_	Le Préfet de Moselle a donc prescrit la réalisation des travaux d'office par arrêté préfectoral en date du 07 janvier 2016.		'Le Préfet de Moselle'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	08			1998	08			__validation	- Août 1998 : validation du piège hydraulique avec les forages existants, remodelage des lagunes et mise en place d'une géomembrane.		
+2011	07			2011	07			Réalisation_d__un_plan_de_gestion	- Réalisation d'un plan de gestion en juillet 2011.		
+2006				2006				ayant_fourni_un_bilan_de_fonctionnement	- Établissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2006.		'IPPC'
+2009	05			2009	05			Réalisation_d_	- Réalisation d'une Synthèse des enjeux environnementaux liés aux activités historiques du site en mai 2009.		
+1994				1994				Étude	Étude constatant le faible impact en 1994.		
+								Constat	- Constat en 91 de la présence de traces de Thorium et d'Uranium dans une lagune (lagune Vernay).	'Thorium', 'Uranium'	
+1996	06			1996	06			hiérarchisation	- Juin 1996 : hiérarchisation des priorités.		

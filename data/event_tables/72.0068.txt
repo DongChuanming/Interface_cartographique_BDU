@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	21		2009	01	21		de_la_visite	Lors de la visite de l'inspection des installations classées du 21 janvier 2009, les observations suivantes ont été faites :		
+1974				1974				Autrefois_exploité	Autrefois exploité par la société RADIOHM en 1974, puis en 1984 par la société SEDER (Société d'Exploitation des Etablissements RADHIOM) pour y exercer les mêmes activités.		'la société RADIOHM', 'la société SEDER', 'Etablissements RADHIOM'
+2008	11	04		2008	11	04		une_procédure_de_liquidation_judiciaire	Le 4 novembre 2008, la société SELITH a fait l'objet d'une procédure de liquidation judiciaire suite a un jugement par le tribunal de commerce.		'la société SELITH'
+1984				1984				Autrefois_exploité	Autrefois exploité par la société RADIOHM en 1974, puis en 1984 par la société SEDER (Société d'Exploitation des Etablissements RADHIOM) pour y exercer les mêmes activités.		'la société RADIOHM', 'la société SEDER', 'Etablissements RADHIOM'
+2016	02	24		2016	02	24		d__une_nouvelle_visite	Puis lors d'une nouvelle visite d'inspection du 24 février 2016, il a été observé que :		

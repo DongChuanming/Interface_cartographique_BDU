@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	30		1996	04	30		A	A compter du 30 avril 1996, la dénomination sociale de l'entreprise est devenue LE NIGEN N.		'LE NIGEN N.'
+1996	04	30		1996	04	30		est_devenue	A compter du 30 avril 1996, la dénomination sociale de l'entreprise est devenue LE NIGEN N.		'LE NIGEN N.'
+2002	05			2002	05			Les_deux_campagnes	Les deux campagnes de mesure de qualité des eaux souterraines, réalisées pendant les travaux en avril 2001 puis en mai 2002, n'ont fait apparaître aucune contamination des eaux.		
+1999	08			1999	08			Les_travaux_de_fermeture	Les travaux de fermeture et de mise en sécurité du site ont été réalisés en août 1999.		
+2004	03			2004	03			après_la_campagne	Suite aux résultats relevés lors de la surveillance, cette dernière a été arrêtée après la campagne de mars 2004.		
+2003				2003				est_demandé	Un suivi semestriel est demandé pour l'année 2003, un suivi annuel pour les années suivantes, en période de hautes eaux, sous réserve que l'absence de pollution perdure.		
+1995	04	04		1995	04	04		a_été_autorisée	Par arrêté préfectoral du 4 avril 1995, la société SANLN a été autorisée à poursuivre l'exploitation d'une usine de fabrication et de conditionnement de produits ménagers et cosmétiques, implanté depuis 1971 sur la commune de Saint Florent sur Cher.		'la société SANLN'
+1971				1971				implanté	Par arrêté préfectoral du 4 avril 1995, la société SANLN a été autorisée à poursuivre l'exploitation d'une usine de fabrication et de conditionnement de produits ménagers et cosmétiques, implanté depuis 1971 sur la commune de Saint Florent sur Cher.		'la société SANLN'
+1999	06			1999	06			a_été_stoppée	La fabrication a été stoppée en Juin 1999.		
+				2002	05			a_été_maintenue	L'activité de stockage a été maintenue jusqu'en mai 2002.		
+2001	04			2001	04			Les_deux_campagnes	Les deux campagnes de mesure de qualité des eaux souterraines, réalisées pendant les travaux en avril 2001 puis en mai 2002, n'ont fait apparaître aucune contamination des eaux.		
+2001	03			2002	05			des_travaux_de_dépollution	Entre mars 2001 et mai 2002, des travaux de dépollution ont eu lieu.		
+2004	03			2004	03			a_été_arrêtée	Suite aux résultats relevés lors de la surveillance, cette dernière a été arrêtée après la campagne de mars 2004.		
+2003	03	20		2003	03	20		a_été_demandée	Afin de s'assurer de l'efficacité dans le temps des travaux de dépollution et de l'absence d'impact sur les eaux souterraines, une surveillance périodique a été demandée à l'administrateur judiciaire, par arrêté préfectoral du 20 mars 2003.		

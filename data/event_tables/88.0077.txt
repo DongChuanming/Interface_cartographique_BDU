@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_changé_de_dénomination_sociale	Dans les années 1980, la Société de Compagnie Plastique a changé de dénomination sociale et est devenue YERAMEX International.		'la Société de Compagnie Plastique', 'YERAMEX International'
+								était_autorisé	Ce dépôt était autorisé pour une durée de 15 ans par l’arrêté préfectoral n°205/67 du 04 avril 1967 au nom de la société COPLAC.		'la société COPLAC'
+2012	11			2012	11			une_intervention	Aussi, compte tenu de l'absence de responsable solvable, une intervention de l'ADEME a été accordée par le Préfet de région en novembre 2012 pour mettre en sécurité le site.		'le Préfet'
+1982				1982				échéance_de	A l’échéance de l’autorisation en 1982, la société YERAMEX International a continué à utiliser ce dépôt bien qu’il ne soit plus autorisé.		'la société YERAMEX International'
+2012	01			2012	01			La_campagne_de_surveillance	La campagne de surveillance réalisée en janvier 2012 par le liquidateur judiciaire révèle des teneurs en fer, manganèse, silice, DCO et DBO5 supérieures aux valeurs de gestion de référence.	'fer', 'manganèse', 'silice', 'DCO', 'DBO5'	

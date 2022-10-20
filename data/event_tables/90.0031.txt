@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_été_démantelée	ECLERC a été démantelée fin 2002 et déplacée au sud du site.		'ECLERC'
+1998				1998				Le_diagnostic_des_sols	Le diagnostic des sols de 1998 a mis en évidence l'existence, au droit de l'ancienne station-service, d'une contamination du sous-sol par des hydrocarbures (supercarburant et gazole), principalement sous forme gazeuse et adsorbée, ainsi qu'un risque de migration de la contamination en profondeur et de dégradation des eaux de la Savoureuse.	'des hydrocarbures', 'supercarburant', 'gazole'	
+1998				1998				des_travaux_réalisés	Suite à ce constat, des travaux réalisés en 1998 ont permis d'excaver 35 tonnes de terres polluées.		
+2009	03			2009	03			l__arrêt_de	L'exploitant a demandé en mars 2009 l'arrêt de la surveillance.		
+2000				2003				Des_campagnes_de_surveillance	Des campagnes de surveillance des eaux souterraines ont ensuite été effectuées de manière régulière entre 2000 et 2003.		
+2003				2003				Ces_travaux_réalisés	Ces travaux réalisés en 2003 ont permis d'évacuer un total de 629,3 tonnes de terres polluées par des hydrocarbures.	'hydrocarbures'	
+2007	12			2007	12			La_campagne_de_surveillance	La campagne de surveillance de la qualité des eaux souterraines de décembre 2007 indique un impact résiduel en HAP dans les eaux souterraines.	'HAP'	

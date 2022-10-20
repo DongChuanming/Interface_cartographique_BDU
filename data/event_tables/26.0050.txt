@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	27		2008				Des_travaux_de_réhabilitation	Des travaux de réhabilitation du site ont été réalisés sous la supervision d'un cabinet spécialisé en environnement entre le 27 juin 2008 et le 18 juillet 2008.		
+2013	06			2013	06			La_campagne	La campagne de Juin 2013 :		
+2008	09	08		2008	09	08		a_été_adressé	Le 8 septembre 2008, un dossier relatif à la cessation d’activité de distribution de carburant concernant la station service exploitée par la société THEVENIN DUCROT 393 avenue Victor Hugo à Valence a été adressé pour avis à la DREAL UT Drôme Ardèche.	'carburant'	'la société THEVENIN DUCROT', 'la DREAL UT Drôme'
+2012	04			2012	04			de_la_campagne_d_	La dernière analyse de la campagne d'avril 2012 indique :		
+2012	12			2012	12			Situation	Situation décembre 2012 :		
+2009	04	30		2009	04	30		a_été_transmis	Le 30 avril 2009, un dossier complémentaire comportant le rapport sur la qualité des eaux souterraines au droit du site a été transmis à la DREAL.		'la DREAL'
+2016				2016				a_été_stoppée	La surveillance des eaux souterraines a été stoppée en 2016.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12			2010	12			L__étude_environnemental	L'étude environnemental réalisé en décembre 2010 montre qu'il n'y a pas eu d'impact des activités de Safem sur la qualité du sol, excepté au niveau de la distribution de gasoil, de l'ancien stockage de résine et de la citerne à huiles usées.	'gasoil', 'résine', 'citerne à huiles usées'	'Safem'
+2010	12	20		2010	12	20		a_été_pris	Suite au dépôt en préfecture d'un bilan de fonctionnement en 2007 par Safem, un arrêté préfectoral a été pris le 20 décembre 2010 imposant notamment les prescriptions suivantes :		'Safem'
+1971				1971				exploite	Safem exploite une fonderie à l'Isle d'Espagnac depuis 1971.		'Safem'

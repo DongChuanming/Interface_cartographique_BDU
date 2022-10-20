@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_été_déposé	Un dossier de servitudes d’utilité publique a été déposé en 2006.		
+2014				2014				un_document_de_synthèse	En 2014, à la demande de l’Etat, le BRGM-DPSM a réalisé un document de synthèse relatif à la réalisation des travaux de confinement du gazomètre (rapport « Bassin houiller lorrain - Installations ICPE - Synthèse des travaux de confinement du gazomètre », référencé BRGM/RP-63997-FR et daté de décembre 2014).		'le BRGM - DPSM'
+								A	A compter des années 1950, des activités de fabrication de coke ont été exercées sur le site de Marienau par la société HBL.	'coke'	'la société HBL'
+								ont_été_stockés	Ce site est compris dans l’enceinte de l’ancienne cokerie. 40 000 tonnes de masses épurantes et de déchets des bacs à raclettes de type goudronneux ont été stockés dans l’enceinte du gazomètre dans les années 1989.	'type goudronneux'	
+2004	02	03		2004	02	03		ont_été_transférés	Les activités, droits et obligations de la société HBL ont été transférés à la société Charbonnage de France (CDF) par décret la loi du 03 février 2004.		'la société HBL', 'la société Charbonnage de France', 'CDF'
+2007	12			2007	12			ont_été_instaurées	Des restrictions d'usage conventionnelles au profit de l'Etat ont été instaurées en décembre 2007.		
+1986				1986				ont_cessé_définitivement	Les activités ont cessé définitivement en 1986.		
+2008	09	15		2008	09	15		__a_été_précisée	La surveillance du site, prescrite dans l’arrêté préfectoral  général du 18 décembre 1986, a été précisée par courrier de la DRIRE Lorraine, aujourd’hui DREAL Grand Est, du 15 septembre 2008.		'de la DRIRE Lorraine', 'aujourd’hui DREAL Grand Est'

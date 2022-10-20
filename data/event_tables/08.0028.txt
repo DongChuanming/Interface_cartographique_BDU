@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06	10		1998	06	10		Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques ont été réalisés par le cabinet ANTEA, pour le compte du liquidateur judiciaire en mai 1999, suite à un arrêté préfectoral en date du 10 juin 1998.		'le cabinet ANTEA'
+1994				1994				la_cessation_totale_d__activité	La société a déposé son bilan et la cessation totale d'activité est intervenue en 1994.		
+1999	05			1999	05			Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques ont été réalisés par le cabinet ANTEA, pour le compte du liquidateur judiciaire en mai 1999, suite à un arrêté préfectoral en date du 10 juin 1998.		'le cabinet ANTEA'
+1994				1994				a_déposé_son_bilan	La société a déposé son bilan et la cessation totale d'activité est intervenue en 1994.		

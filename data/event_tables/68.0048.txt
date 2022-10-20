@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10	04		2002	10	04		un_incident_survenu	Suite à ces investigations, l'industriel a signalé que cette pollution est à relier à un incident survenu le 4 octobre 2002, lié à un rupture de flexible.		
+2003	04	07		2003	04	07		a_été_mis_en_place	Suites à ces études, un barrage hydraulique a été mis en place le 7/04/2003.		
+2004				2004				a_acquis	Système U a acquis fin 2004 l’ancien site Nufarm sur lequel la société étend son entrepôt d’épicerie liquide, en construisant un bâtiment constitué de 2 cellules de 6000 m².		'Système U', 'Nufarm'
+1991	02	21		1991	02	21		déclaration	Des récépissés de déclaration du 21 février 1991, du 28 février 1992, du 8 septembre 1993 et du 22 septembre 1995 ont été délivrés à la société CFPI.		'la société CFPI'
+2014	01			2014	01			fin_de_travaux_remis	Le rapport de fin de travaux remis en janvier 2014, comporte un bilan quadriennal de la qualité des eaux souterraines.		
+2004	07			2004	07			Un_traitement_par_venting	Un traitement par venting a été mis en place en juillet 2004.		
+2005	05			2005	05			a_été_arrêté	La barrière hydraulique a été arrêté en mai 2005, les paramètres analysés dans les eaux souterraines étant conformes aux normes de potabilité.		
+1997				1997				a_acquis	La société Nufarm a acquis l’usine de Mulhouse en 1997.		'La société Nufarm'
+2014	08	28		2014	08	28		le_rebouchage	Par arrêté en date du 28 août 2014, le préfet a prescrit le rebouchage des derniers piézomètres alors présents.		'le préfet'
+2008	06			2008	06			sont_redevenues	Depuis juin 2008 les teneurs en trichloroéthylène et tétrachloroéthylène dans les eaux souterraines sont redevenues inférieures aux normes de potabilité.	'trichloroéthylène', 'tétrachloroéthylène'	
+2004				2004				a_cessé	L’usine Nufarm a cessé son activité en 2004.		'Nufarm'
+2001	05			2001	05			Evaluation_simplifiée_des_risques	Les investigations (Evaluation simplifiée des risques de mai 2001 et investigations de juillet 2004 avec 24 sondages) ont fait ressortir des zones pour lesquelles les teneurs en métaux lourds étaient plus élevées que la normale.	'métaux lourds'	
+2012				2012				ont_été_rebouchés	Des puits de pompage ont été rebouchés en 2012.		
+2004	02	24		2004	02	24		Une_inspection_inopinée	Une inspection inopinée du 24 février 2004 a permis de contrôler que l’élimination des déchets industriels était faite conformément à la réglementation.		
+2003				2003				a_été_remis_en_état	Ce réseau d’égout a été remis en état été 2003.		
+2004	07			2004	07			investigations	Les investigations (Evaluation simplifiée des risques de mai 2001 et investigations de juillet 2004 avec 24 sondages) ont fait ressortir des zones pour lesquelles les teneurs en métaux lourds étaient plus élevées que la normale.	'métaux lourds'	
+1970				1970				appartenait	L’usine appartenait depuis 1970 au groupe CFPI et produisait déjà des intermédiaires pour les industries textiles mais aussi chimiques, pharmaceutiques, automobiles et agroalimentaires.		'groupe CFPI'
+2006	08			2009	01			a_été_remise_en_fonctionnement_de_manière_préventive	Cette barrière a été remise en fonctionnement de manière préventive, entre août 2006 et janvier 2009 à l'occasion des travaux de construction d'un entrepôt sur le site par Système U.		
+2006	02			2006	02			Le_traitement_par_venting	Le traitement par venting a été arrêté en février 2006, puisque les analyses réalisées pour l'étude sanitaire ont montrées que les concentrations résiduelles dans les sols n'induisaient pas de risques sanitaires pour un usage industriel.		
+2003	02	20		2003	02	20		a_détecté	Le 20 février 2003, la société CFPI Nufarm a détecté, au travers du suivi piézométrique, la présence de trichloroéthylène à une teneur de 250 µg/l en aval de son établissement.	'trichloroéthylène'	'la société CFPI Nufarm'

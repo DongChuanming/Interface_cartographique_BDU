@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				qui_a_été_rétrocédée	Le fossé « La Cunette » fait partie de l’emprise qui a été rétrocédée à la CAD (Communauté d’Agglomération du Douaisis) en 2006.	'( Communauté'	'rétrocédée à la CAD'
+2006	12			2006	12			Les_travaux_de_curage	Les travaux de curage de ce fossé ont été réalisés en décembre 2006 sous la maîtrise d’ouvrage de la CAD (Communauté d’Agglomération du Douaisis) et sous la maîtrise d’œuvre de l’EPF (Etablissement Public Foncier).		'l’ EPF'
+1996	04	03		1996	04	03		une_étude_des_sols	Sur ce site en activité visé par la circulaire du 3 avril 1996, une étude des sols a été réalisée.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				AP_de_mesures	Suite à une pollution observée (rupture de canalisation) fin 2005,l'AP de mesures d'urgence du 28/12/2005 a demandé à l'exploitant un diagnostic approfondi incluant des sols et de l'état de la nappe, située à 1 m de profondeur (90 cm de flottant: hydrocarbures purs).	'hydrocarbures'	
+2003	02	24		2003	02	24		un_Diagnostic_Initial	Ce dépôt exploité par Shell a fait l'objet d'un Diagnostic Initial ainsi que d'une ESR demandés par APC du 24 Février 2003.		'Shell'
+2003				2003				était_en_place	Une surveillance semestrielle était en place depuis début 2003 sur 3 puits ( 1 en amont - 2 en aval.		
+2008	03			2008	03			Une_ARR_a_été_réalisé	Une ARR a été réalisé en Mars 2008 suite à l'arrêt du traitement, Aucune action corrective supplémentaire n'a été requise.		
+2006				2006				Diagnostic_amiante_négatif	Diagnostic amiante négatif effectué en 2006.		
+2007	07			2007	07			se_sont_achevés	Les travaux de traitement et rabattement de la nappe (pompage, écrémage), ont débuté en mars 2006 et se sont achevés en Juillet 2007.		
+2007	07			2007	07			Les_travaux_de_traitement	Les travaux de traitement et rabattement de la nappe (pompage, écrémage), ont débuté en mars 2006 et se sont achevés en Juillet 2007.		
+2010	01	1		2010	01	1		exploite	La société AVITAIR SA exploite le site depuis le 1er janvier 2010  un récépissé de déclaration de changement d'exploitant lui est fourni en date du 20 Avril 2010.		'La société AVITAIR SA'
+								est_implanté	.M, Groupement pour l'Avitaillement de Marseille, qui est implanté à Marignane depuis le début des années 60 sur des terrains de la Chambre de Commerce à proximité de l’Étang de Berre, sur une superficie de 5 000 m2.		'la Chambre de Commerce'
+2006	03			2006	03			Les_travaux_de_traitement	Les travaux de traitement et rabattement de la nappe (pompage, écrémage), ont débuté en mars 2006 et se sont achevés en Juillet 2007.		
+2005	12	28		2005	12	28		AP_de_mesures	Suite à une pollution observée (rupture de canalisation) fin 2005,l'AP de mesures d'urgence du 28/12/2005 a demandé à l'exploitant un diagnostic approfondi incluant des sols et de l'état de la nappe, située à 1 m de profondeur (90 cm de flottant: hydrocarbures purs).	'hydrocarbures'	
+2004	08	31		2004	08	31		est_autorisé	Le dépôt est autorisé par l'AP du 31/08/2004.		

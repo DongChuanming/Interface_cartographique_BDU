@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03			2015	03			Les_travaux_de_terrassement_ont_débuté	Les travaux de terrassement ont débuté en mars 2015.		
+2012				2012				Des_diagnostics	Des diagnostics (Amiante, études géotechniques, plan de gestion…) ont été réalisés début 2012.	'Amiante'	
+2015	03	12		2015	03	12		ont_déclenché	Lors des opérations d’évacuation des terres et remblais sur le centre de stockage de Lapouyade réalisées le 12 mars 2015, deux semi-remorques sur une trentaine ont déclenché le portique de détection de radioactivité.		
+2015	01			2015	01			ont_été_mis_à_nu	Des vestiges archéologiques ont été mis à nu en janvier 2015.		
+				2012	11			est_intervenu	Des travaux de désamiantage et de démolitions ont été entrepris entre juillet et novembre 2012 puis l’ordre de service des travaux est intervenu en novembre 2014.		
+2014	11			2014	11			est_intervenu	Des travaux de désamiantage et de démolitions ont été entrepris entre juillet et novembre 2012 puis l’ordre de service des travaux est intervenu en novembre 2014.		
+2015	03	18		2015	03	18		restituait_les_résultats_des_premières_investigations	Le 18 mars 2015, le CENBG restituait les résultats des premières investigations aux responsables du chantier et confirmait la pollution du site par du radium 226.	'radium 226'	'le CENBG'
+2016	02	29		2016	02	29		l__étude_documentaire	Le 29/02/2016, la mairie de Bordeaux remet au Préfet, l'étude documentaire ainsi que l'étude de vulnérabilité.	'Préfet'	'la mairie de Bordeaux'
+2014	11			2014	11			Des_travaux_de_désamiantage	Des travaux de désamiantage et de démolitions ont été entrepris entre juillet et novembre 2012 puis l’ordre de service des travaux est intervenu en novembre 2014.		
+2015	03	12		2015	03	12		des_opérations_d__évacuation_des_terres	Lors des opérations d’évacuation des terres et remblais sur le centre de stockage de Lapouyade réalisées le 12 mars 2015, deux semi-remorques sur une trentaine ont déclenché le portique de détection de radioactivité.		
+				2012	11			Des_travaux_de_désamiantage	Des travaux de désamiantage et de démolitions ont été entrepris entre juillet et novembre 2012 puis l’ordre de service des travaux est intervenu en novembre 2014.		

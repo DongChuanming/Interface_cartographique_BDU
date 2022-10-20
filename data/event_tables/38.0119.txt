@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	12		2005	07	12		a_été_reçue	L'ESR a été effectuée par le bureau d’étude ADEP et a été reçue par l'IIC le 12/07/2005.		'ADEP'
+2008	04	02		2008	04	02		la_campagne	Les piézomètres PZ3 et PZ4 (aval) font également parti des ouvrages étudiés à partir de la campagne du 02/04/2008.		
+2005	03			2005	03			a_été_initié	Le suivi de la qualité des eaux souterraines a été initié au mois de mars 2005.		
+								reprend_ensuite	La société BIANCO reprend ensuite le site dans les années 80 tout en en conservant l’activité.		'La société BIANCO'
+2003	12			2003	12			une_campagne_d__analyses	Deux piézomètres ont été positionnés sur le site, ils ont fait l’objet d’une campagne d’analyses en décembre 2003.		
+								L__implantation	L’implantation de l’activité de distribution d’hydrocarbures date des années 1970 avec l’implantation successive des sociétés STELLA et OYO.	'hydrocarbures'	'des sociétés STELLA', 'OYO'
+2003	07			2003	07			4_forages	En juillet 2003, avant que l’incident se produise, 4 forages ont été réalisés sur le site.		
+2008	04	02		2008	04	02		font_également_parti_des_ouvrages_étudiés	Les piézomètres PZ3 et PZ4 (aval) font également parti des ouvrages étudiés à partir de la campagne du 02/04/2008.		
+2004	03			2004	03			de_nouvelles_analyses	En mars 2004, de nouvelles analyses ont été effectuées dans les deux piézomètres.		
+2003	09	30		2003	09	30		ont_été_excavées_puis_transférées	50 tonnes de terres souillées ont été excavées puis transférées en centre de dépollution le 30 septembre 2003.		
+2003	09	29		2003	09	29		Cet_incident	Cet incident s’est produit le 29 septembre 2003, le SDIS a aussitôt été informé.		'le SDIS'
+2005				2005				des_campagnes	Une diminution des concentrations des polluants est observée par rapport aux analyses des campagnes de 2005.	'polluants'	
+								Le_pompage	Le pompage du gasoil a été effectué le 30 septembre au matin par la société SARP Centre Est.	'gasoil'	'la société SARP Centre Est'
+2003	12			2003	12			ont_été_positionnés	Deux piézomètres ont été positionnés sur le site, ils ont fait l’objet d’une campagne d’analyses en décembre 2003.		
+2009	10	30		2009	10	30		Durant_la_dernière_campagne	Durant la dernière campagne, réalisée le 30/10/2009, les Pz0, Pz0bis et Pz1 n’ont pas pu faire l’objet de prélèvements car ils avaient été détruits lors des travaux réalisés sur le site.		
+								l__implantation_successive	L’implantation de l’activité de distribution d’hydrocarbures date des années 1970 avec l’implantation successive des sociétés STELLA et OYO.	'hydrocarbures'	'des sociétés STELLA', 'OYO'
+2008	04			2008	04			réalise_un_nouveau_diagnostic_de_pollution	En avril 2008, INOVADIA réalise un nouveau diagnostic de pollution. 8 sondages de sols et deux piézomètres complémentaires (PZ3 et PZ4) ont été effectués durant ces investigations.		'INOVADIA'

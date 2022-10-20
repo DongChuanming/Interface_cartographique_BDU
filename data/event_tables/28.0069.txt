@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	22		2009	01	22		a_été_mis_en_demeure_de_déposer	Le liquidateur judiciaire a été mis en demeure de déposer le dossier de cessation d'activité et de mise en sécurité du site par l'arrêté préfectorale du 22 janvier 2009.		
+2005	05			2005	05			reprend	En mai 2005, VINYLES PRESS INDUSTRIE (VPI), dont le siège social est au 18 rue des Taillandiers 75011 Paris, reprend l'activité précédemment exercée par la société DISCO FRANCE INDUSTRIE.	'VINYLES'	'PRESS INDUSTRIE ( VPI', 'la société DISCO FRANCE INDUSTRIE'
+1976	02	02		1976	02	02		est_soumise_à	Le 2 février 1976, la société est soumise à un arrêté préfectoral d'autorisation.		
+2015	05	19		2015	05	19		de_nouveaux_constats	Au cours de l'inspection du 19 mai 2015, de nouveaux constats ont été dressés.		
+2008	09	11		2008	09	11		place	Le 11 septembre 2008, le tribunal de commerce de DREUX place la société VPI en liquidation judiciaire et désigne Maître CHAVANE DE DALMASSY en qualité de liquidateur.		'le tribunal de commerce de DREUX', 'la société VPI', 'Maître CHAVANE DE DALMASSY'
+1955				1955				a_débuté_son_activité	DISCO FRANCE INDUSTRIE a débuté son activité en 1955, en fabriquant des disques vinyles 33 et 45 tours.		'DISCO FRANCE'
+2011	05	17		2011	05	17		est_liquidée	Le 17 mai 2011, la société VPI est liquidée.		'la société VPI'
+2012	12	07		2012	12	07		s__est_rendue	Le 7 décembre 2012, l'inspection des installations classées s'est rendue sur le site, en présence du propriétaire du terrain, le gérant de la société SCI JEROPOLO.		'le gérant de la société SCI JEROPOLO'

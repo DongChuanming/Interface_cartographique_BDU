@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1922				1922				a_débuté	- Activité de la société MAXEI a débuté sur le site en 1922 sous le nom de Société d'Eclairage et d'Applications Electriques (SEAE).		'la société MAXEI', "Société d' Eclairage", 'SEAE'
+1997				1997				cesse	- En 1997: la société MAXEI cesse son activité et cède le site à la communauté Urbaine d'Arras.		'la société MAXEI'
+1998	10			1998	10			__Diagnostic_initial_réalisé	- Diagnostic initial réalisé en octobre 1998.		
+2006	05	12		2006	05	12		Réalisation	- Réalisation d'une étude hydrogéologique en vue de la mise en place d'un piézomètre, en date du 12/05/2006.		
+2000	10	04		2000	10	04		Traitement	- Traitement des zones polluées et surveillance des eaux souterraines imposés par arrêté préfectoral du 4 octobre 2000.		

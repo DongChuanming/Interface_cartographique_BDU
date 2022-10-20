@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	11			2016	05			Les_travaux_de_dépollution	Les travaux de dépollution de la zone n°1 ont été réalisés de novembre 2015 à mai 2016.		
+2013	10	30		2013	10	30		la_visite_de_site	Les justificatifs relatifs aux travaux et à l’évacuation des terres polluées en filière adaptée ont été transmis à l’inspection lors de la visite de site du 30 octobre 2013 (cf rapport du 14 mars 2014 de l’inspection).		
+2013	07	26		2013	07	26		établi	* Plan de gestion - établi le 26/07/2013 par SOCOTEC - transmis le 30/07/2013 à la Préfecture)		'SOCOTEC'
+2007	12	21		2007	12	21		sont_soumises_à_autorisation	Ces activités sont soumises à autorisation et sont réglementées par l'arrêté préfectoral du 18/02/1997, complété par l'arrêté préfectoral du 29/09/2000 et des récépissés de déclaration du 13/12/1991, 25/10/2005 et l'arrêté préfectoral du 21/12/2007.		
+2013	07			2013	07			Les_travaux_de_dépollution	Les travaux de dépollution de la zone n°2 (excavation de l’ancienne cuve de fioul et des terres polluées adjacentes) ont été réalisés en juillet 2013.	'fioul'	
+2013				2013				une_analyse	Conformément à l’article 2.4 de l’APC de 2013, le SMIME a fait réaliser une analyse des risques résiduels.		'le SMIME'
+2016	02			2016	02			a_été_complété	Le réseau piézométrique a été complété en février 2016 par 4 nouveaux piézomètres (PZ6 à PZ9) sur demande de l’inspection.		
+2013	05	31		2013	05	31		a_informé	Par courrier du 03/12/2012, la société EVOLUTIF a informé la Préfecture de la cessation de ses activités sur le site  à compter du 31/05/2013.		'la société EVOLUTIF', 'la Préfecture'
+1972				1972				est_exploitée	Depuis 1972, une activité de moulage de matières plastiques est exploitée sur le site, successivement par la société ALLIBERT, la société SAUVAGNAT , la société DRAL et la société EVOLUTIF.		'la société ALLIBERT', 'la société SAUVAGNAT', 'la société DRAL', 'la société EVOLUTIF'
+2013	03	30		2013	03	30		Les_prélèvements_ont_été_réalisés	Les prélèvements ont été réalisés le 30/03/2013.		
+2016	06	06		2016	06	06		a_transmis	Par courriel en date du 6 juin 2016, le SMIME a transmis à l’inspection une attestation de nettoyage de l’ensemble des dalles bétons polluées du site.		'le SMIME'
+2013	01	17		2013	01	17		31_sondages	31 sondages (S1 à S31) ont été réalisés les 15 et 17/01/2013 dont 6 prélèvements de bétons (S10 à S13 et S16 et transformateur) au droit de l'atelier de production et du transformateur.		
+2005	10	25		2005	10	25		des_récépissés	Ces activités sont soumises à autorisation et sont réglementées par l'arrêté préfectoral du 18/02/1997, complété par l'arrêté préfectoral du 29/09/2000 et des récépissés de déclaration du 13/12/1991, 25/10/2005 et l'arrêté préfectoral du 21/12/2007.		
+2013	03	21		2013	03	21		20_sondages	20 sondages (U1 à U20) ont été réalisés les 20 et 21/03/2013 jusqu'à 4 m de profondeur.		
+2012	12	20		2012	12	20		Un_acte_de_vente	Un acte de vente du site a été signé le 20/12/2012 entre la société EVOLUTIF et la société KETTAL.		'la société EVOLUTIF', 'la société KETTAL'
+2016	06	01		2016	06	01		une_demande	Par courrier en date 01 juin 2016, le SMIME a déposé en préfecture une demande d’institution de servitudes d’utilité publique.		'le SMIME'
+1991	12	13		1991	12	13		de_déclaration	Ces activités sont soumises à autorisation et sont réglementées par l'arrêté préfectoral du 18/02/1997, complété par l'arrêté préfectoral du 29/09/2000 et des récépissés de déclaration du 13/12/1991, 25/10/2005 et l'arrêté préfectoral du 21/12/2007.		
+2013				2013				une_surveillance_renforcée	Comme demandé à l’article 3.5 de l’APC de 2013, une surveillance renforcée pendant toute la durée des travaux de réhabilitation a été réalisée à partir de ce réseau, portant la périodicité des analyses d’une fréquence trimestrielle à une fréquence mensuelle.		
+								31_sondages	31 sondages (S1 à S31) ont été réalisés les 15 et 17/01/2013 dont 6 prélèvements de bétons (S10 à S13 et S16 et transformateur) au droit de l'atelier de production et du transformateur.		
+2013	07	30		2013	07	30		transmis	* Plan de gestion - établi le 26/07/2013 par SOCOTEC - transmis le 30/07/2013 à la Préfecture)		'SOCOTEC'
+2014	05			2014	05			une_intervention	Le contrôle des bords et fond de fouilles a fait l’objet d’une intervention complémentaire par la société Socotec en mai 2014 avec la réalisation de 6 nouveaux sondages.		'la société Socotec'
+2013	07	25		2013	07	25		est_émis	L'arrêté préfectoral n°2013206-0011 est émis le 25/07/2013.		
+								20_sondages	20 sondages (U1 à U20) ont été réalisés les 20 et 21/03/2013 jusqu'à 4 m de profondeur.		
+2016	04			2016	04			le_curage	En avril 2016, le curage des galeries présentes au niveau du hall n°8 a également été réalisé. 4,5 tonnes de boues ont été évacuées en centre agréé (BSD fournis).		
+2013	06			2013	06			Ce_nettoyage_a_été_réalisé	Ce nettoyage a été réalisé par la société GROS ENVIRONNEMENT en juin 2013.		'la société GROS ENVIRONNEMENT'

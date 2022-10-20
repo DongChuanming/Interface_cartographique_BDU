@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				1996				a_été_utilisée	L'amiante a été utilisée dans ces produits de 1963 à 1996.	'amiante'	
+2003				2003				ont_été_démantelés	En 2003, les anciens bâtiments ayant contenu de l'amiante ont été démantelés et des bâtiments neufs reconstruits.		

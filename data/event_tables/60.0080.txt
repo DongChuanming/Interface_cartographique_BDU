@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03			2004	03			a_été_trouvée	Après des investigations compléméntaires,en mars 2004, une troisième source a été trouvée.		
+2004	06			2004	06			eaux_souterraines_réalisées	Les analyses des eaux souterraines réalisées en juin 2004 ont mis en avant la présence de polluants dans la nappe phréatique.		
+2004	11	13		2004	11	13		a_remis_une_étude_détaillée_des_risques	L'exploitant a remis une étude détaillée des risques et un diagnostic approfondi au Préfet de l'Oise le 13 novembre 2004.		
+2004	02			2004	02			ont_été_identifiées	En février 2004, deux zones ont été identifiées comme pouvant être partiellement responsables de la recharge en hydrocarbures totaux de la nappe.	'hydrocarbures totaux'	
+2004	06			2004	06			les_dernières_analyses_réalisées	Dans ce documment, l'exploitant indique également que les dernières analyses réalisées en février, mars et juin 2004 mettent en avant les points suivants :		
+								les_dernières_analyses_réalisées	Dans ce documment, l'exploitant indique également que les dernières analyses réalisées en février, mars et juin 2004 mettent en avant les points suivants :		
+2004	07	22		2004	07	22		une_évaluation_simplifiée_des_risques	L'ancien exploitant du site, la société Furtenbach, a remis à l'administration une évaluation simplifiée des risques le 22 juillet 2004.		'la société Furtenbach'

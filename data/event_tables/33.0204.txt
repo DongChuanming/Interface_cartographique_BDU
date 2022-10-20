@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	21		2009	01	21		se_rend_propriétaire	En 2010, la Mairie se rend propriétaire du terrain et décide de se charger des opérations de démolition des bâtiments et de dépollution des terrains conformément à l'arrêté du 21/01/2009.		'la Mairie'
+2008	01	24		2008	01	24		le_rapport_est_remis	Le diagnostic réalisé en octobre 2007 et dont le rapport est remis le 24/01/2008 montre que :		
+2014	01	07		2014	01	07		est_transmis	e rapport de fin de travaux est transmis par Mme le Maire de Belin-Beliet le 07 janvier 2014.		'le Maire de Belin - Beliet'
+2010				2010				a_acheté	La Commune de Belin-Beliet a acheté les terrains en 2010, à la suite d'une mise aux enchères.		
+2007	10			2007	10			Le_diagnostic_réalisé	Le diagnostic réalisé en octobre 2007 et dont le rapport est remis le 24/01/2008 montre que :		
+2010				2010				se_rend_propriétaire	En 2010, la Mairie se rend propriétaire du terrain et décide de se charger des opérations de démolition des bâtiments et de dépollution des terrains conformément à l'arrêté du 21/01/2009.		'la Mairie'
+1927				1927				exploitée	Ancienne fonderie de métaux et alliages ferreux exploitée depuis 1927 par la SA FONDERIES JULIEN DESTANG sur la commune de belin-Beliet, lieu dit le "Courchon" (33).		'la SA FONDERIES JULIEN DESTANG', 'belin - Beliet'
+1995	08	03		1995	08	03		fait_l__objet_du	Le dossier de déclaration du 05 janvier 1994 a fait l'objet du récépissé  en date du 3 août 1995.		
+2007	05	20		2007	05	20		prescrit_au_mandataire_les_mesures	Sur proposition de la DRIRE du 28/11/2006, l'arrêté préfectoral du 20/02/2007 prescrit au mandataire les mesures suivantes à l'échéance du 20/05/2007 :		'la DRIRE'
+2013				2013				du_diagnostic_réalisé_en_fin_de_travaux	A la suite des résultats du diagnostic réalisé en fin de travaux de 2013, aucune restriction d'usage n'est imposée, les résultats d'analyse des sols correspondant à des valeurs de bruit de fond géochimique naturel.		
+2006	07	20		2006	07	20		transmet	Le 20/07/2006, le mandataire transmet le mémoire de cessation d'activité du site.		
+2009	01	21		2009	01	21		exécution_des_arrêtés	Faute d'exécution des arrêtés du 21/01/2009, l'inspection propose le 22 juillet 2011 :		
+2007	02	20		2007	02	20		l__arrêté	Le 01/09/2008, la DRIRE constate que la dépollution des sols pollués par des hydrocarbures, prescrite par l'arrêté du 20/02/2007, n'est pas réalisée.	'hydrocarbures'	'la DRIRE'
+2007	10			2007	10			Les_teneurs_en_plomb_mesurées	Les teneurs en plomb mesurées en octobre 2007 dans 2 puits privatifs localisés, à priori, à l'amont et à l'aval du site, sont de l'ordre de 50 µg/l (la valeur de référence pour l'eau de consommation est passée de 50 µg/l en 2001 à 25 µg/l en 2003).	'plomb'	
+2005	04			2005	04			cesse_son_activité	La fonderie cesse son activité en avril 2005.		
+2009	02	03		2009	02	03		informe	Le 03/02/2009, le mandataire informe le Préfet de la Gironde de l'absence de fonds de la liquidation.		'le Préfet'
+				2013	12			Les_travaux_ont_été_exécutés	Les travaux ont été exécutés de mai à décembre 2013.		
+2005				2005				sols_réalisé	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, le diagnostic des sols réalisé en 2005 fait état de la présence de divers polluants sur le site et notamment d’une contamination par le plomb.	'le plomb'	

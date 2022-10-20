@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	05			2013	05			reçoit	En Mai 2013, l'inspection reçoit le mémoire de cessation d'activité.		
+1958	04	15		1958	04	15		était_tenu	Cet établissement était tenu de respecter les prescriptions de l'arrêté du 23/10/1958 concernant les garages et les dépôts de liquides inflammables (n°206-254 de la nomenclature du décret du 15/04/1958).	'dépôts de liquides inflammables'	

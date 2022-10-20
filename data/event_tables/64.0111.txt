@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				est_programmée	Une visite d'inspection est programmée début 2013 pour constater les travaux.		
+2012				2012				ont_été_réalisés	Programmés pour le second semestre 2010, ils ont été réalisés au 1er semestre 2012.		
+2010				2010				Programmés	Programmés pour le second semestre 2010, ils ont été réalisés au 1er semestre 2012.		
+2009				2009				étaient_encore_réalisés	Des apports étaient encore réalisés en 2009.		
+2010				2010				ont_été_réalisés	Programmés pour le second semestre 2010, ils ont été réalisés au 1er semestre 2012.		
+								ont_été_réalisés	Programmés pour le second semestre 2010, ils ont été réalisés au 1er semestre 2012.		
+2010				2010				ont_cessé	Début 2010, les apports sauvages ont cessé et les déchets dangereux ont été évacués vers des installations dûment autorisées.	'les déchets dangereux'	
+2007				2007				Un_diagnostic_préalable	Un diagnostic préalable a été réalisé en 2007.		

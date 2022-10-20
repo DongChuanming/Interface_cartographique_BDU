@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	18		2006	05	18		a_été_adopté	Ce projet d'arrêté a été adopté le 18 mai 2006.		
+2005	02	15		2005	02	15		La_mise_en_place_de_la	La mise en place de la surveillance de la qualité des eaux souterraines a été prescrite par arrêté préfectoral en date du 15 février 2005.		
+1990	11	27		1990	11	27		étaient_autorisées	Ces activités étaient autorisées par arrêté préfectoral en date du 27 novembre 1990.		
+2002	07	29		2002	07	29		ont_cessé_définitivement	Les activités sur ce site ont cessé définitivement depuis le 29 juillet 2002.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_été_prescrite	Considérant la nature des activités exercées et le contexte environnemental du site, une étude simplifiée des risques de pollution des sols a été prescrite à l'exploitant fin 1999.		
+2013	04			2013	04			la_dernière_campagne_de_surveillance_d_	Les résultats de la dernière campagne de surveillance d'avril 2013 indiquent une amélioration de la situation, avec le passage des concentrations en solvants chlorés sous les seuils du SDAGE.	'chlorés'	
+2000				2000				Les_investigations_conduites	Les investigations conduites courant 2000 mettent en évidence une pollution des eaux souterraines par des hydrocarbures et des solvants halogénés.	'hydrocarbures', 'halogénés'	
+2002				2002				est_effective	La surveillance est effective depuis 2002.		
+2012	06	28		2012	06	28		a_permis_de_constater	Une visite d'inspection a permis de constater le 28 juin 2012 que 2 piézomètres avaient été perdus.		
+1902				1902				activité_de_fonderie	Le site accueille depuis son origine vers 1902, une activité de fonderie d'aciers faiblement alliés.		
+1902				1902				accueille	Le site accueille depuis son origine vers 1902, une activité de fonderie d'aciers faiblement alliés.		
+2001	10	24		2001	10	24		a_été_formalisée	Cette surveillance a été formalisée dans un arrêté préfectoral en date du 24/10/2001, au moyen de 5 piézomètres dont 1 Amont (PZ2) et 2 Aval (PZ1 et PZ5) et 2 Latéraux (PZ3 et PZ4).		

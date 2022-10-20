@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				un_diagnostic	En 2015, un diagnostic de l'état des sols a été réalisé et a donné lieu a un rapport en date du 12/06/2015.		
+				2015	05			a_exploité	La société MICHEL LAVAGE a exploité jusqu’en mai 2015 une installation de lavage de citernes routières sur une parcelle appartenant au Grand Port Maritime du Havre.		'La société MICHEL LAVAGE'
+2015	06	12		2015	06	12		un_diagnostic	En 2015, un diagnostic de l'état des sols a été réalisé et a donné lieu a un rapport en date du 12/06/2015.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				un_diagnostic_approfondi	Elle a été suivie d'un diagnostic approfondi et d'une étude détaillée en 2005, suite notamment à la détection d'une présence localisée d'hydrocarbures dans les eaux souterraines.	'hydrocarbures'	
+2005				2005				d__une_étude_détaillée	Elle a été suivie d'un diagnostic approfondi et d'une étude détaillée en 2005, suite notamment à la détection d'une présence localisée d'hydrocarbures dans les eaux souterraines.	'hydrocarbures'	
+2008				2008				s__étendre	Le site a été autorisé en 2007, puis en 2008 à s'étendre pour les activités de transit et de préparation des déchets pour l'enfouissement en mines ou en décharge de classe I.		
+2003				2003				été_établie	La présence d'hydrocarbures dans les sols n'a pas été établie en aval et en amont des puits ou des valeurs en hydrocarbures dissous avaient été notées en 2003.	'hydrocarbures', 'hydrocarbures'	
+2003				2003				Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été effectuée en 2003.		
+2007				2007				a_été_autorisé	Le site a été autorisé en 2007, puis en 2008 à s'étendre pour les activités de transit et de préparation des déchets pour l'enfouissement en mines ou en décharge de classe I.		

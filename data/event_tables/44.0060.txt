@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	19		2003	06	19		a_été_prescrit	Suite à la cessation d'activité partielle de la société ALSTOM, un arrêté concernant les conditions de remise en état ainsi que les usages potentiels des parcelles DY 21 et 192 du cadastre de 2003 a été prescrit le 19/06/2003.		'la société ALSTOM'
+2019	02	27		2019	02	27		a_été_signé	L'arrêté fixant des SUP a été signé le 27 février 2019.		
+								Une_demande_de	Une demande de Servitudes d'Utilité Publique (SUP) a été déposée le 27/12/17 par la mairie de Nantes concernant le périmètre de l'ancienne parcelle cadastrale DY192 qui accueille notamment l'école supérieure des Beaux-Arts de Nantes Métropole.		'la mairie de Nantes', 'Nantes Métropole'
+2006				2006				a_cessé_partiellement_son_activité	La société ALSTOM a cessé partiellement son activité sur ce site en 2001, puis 2006 et 2007.		'La société ALSTOM'
+1982				1982				exerce_sur	La société Alstom exerce sur cette zone depuis 1982, année où elle reprend les activités de la société ACB.		'La société Alstom', 'la société ACB'
+2004				2004				est_tenue_de_procéder	Selon l'arrêté du 09/08/2004, la société ALSTOM est tenue de procéder au réaménagement de la parcelle n°190 du cadastre de 2004.		'la société ALSTOM'
+2007				2007				est_tenue_de_faire_procéder_au_réaménagement	Selon l’arrêté n°2007/ICPE/238 du 12/11/2007, la société ALSTOM est tenue de faire procéder au réaménagement de la parcelle cadastrée section DY n°191, bâtiments 9 et 10, en 2007 sur laquelle elle cesse l'exploitation d'activités classées (terrain cédés à la société BTM).		'la société ALSTOM', 'la société BTM'
+2007				2007				a_cessé_partiellement_son_activité	La société ALSTOM a cessé partiellement son activité sur ce site en 2001, puis 2006 et 2007.		'La société ALSTOM'
+2001				2001				a_cessé_partiellement_son_activité	La société ALSTOM a cessé partiellement son activité sur ce site en 2001, puis 2006 et 2007.		'La société ALSTOM'
+2003	04	15		2003	04	15		peut_être_utilisée_à	- La parcelle DY 21 peut-être utilisée à des fins d'implantations de logement sous réserve du respect des recommandations formulées par la société ANTEA dans sa note complémentaire du 15/04/2003.		'la société ANTEA'

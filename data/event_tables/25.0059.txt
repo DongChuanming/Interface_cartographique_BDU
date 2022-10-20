@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11	17		2000	11	17		la_déclaration	Le premier récépissé de déclaration date du 12 février 1976 et la déclaration de cessation d'activité du 17/11/2000.		
+2008	05			2008	05			sept_campagnes_de_surveillance_de	Depuis mai 2008, sept campagnes de surveillance de la qualité des eaux ont été réalisées, dont six ont été menées après les travaux de dépollution.		
+1997	12	31		1997	12	31		avait_précédemment_été_exploité	Ce dépôt avait précédemment été exploité depuis les années 1924 par les sociétés MOBIL OIL, COREDIS (filiale de MOBIL OIL puis de BP FRANCE), SOCOTHERM puis SHELL DIRECT (depuis le 31/12/1997).		'les sociétés MOBIL OIL', 'COREDIS', 'MOBIL OIL', 'BP FRANCE', 'SOCOTHERM puis SHELL DIRECT'
+				2000				a_exploité	La société SHELL DIRECT reprise par PETROLES SHELL depuis octobre 2003 a exploité sur le site un dépôt d'hydrocarbures soumis à déclaration jusqu'en 2000.	'hydrocarbures'	'La société SHELL DIRECT', 'PETROLES SHELL'
+1976	02	12		1976	02	12		la_déclaration	Le premier récépissé de déclaration date du 12 février 1976 et la déclaration de cessation d'activité du 17/11/2000.		
+								avait_précédemment_été_exploité	Ce dépôt avait précédemment été exploité depuis les années 1924 par les sociétés MOBIL OIL, COREDIS (filiale de MOBIL OIL puis de BP FRANCE), SOCOTHERM puis SHELL DIRECT (depuis le 31/12/1997).		'les sociétés MOBIL OIL', 'COREDIS', 'MOBIL OIL', 'BP FRANCE', 'SOCOTHERM puis SHELL DIRECT'
+2000	11	17		2000	11	17		cessation_d__activité	Le premier récépissé de déclaration date du 12 février 1976 et la déclaration de cessation d'activité du 17/11/2000.		
+2008	11			2008	11			réalisé	Le plan de gestion réalisé en novembre 2008 montre la nécessité de :		
+				2009	10	07		Les_travaux_de_démantèlement	Les travaux de démantèlement et de réhabilitation du site on été réalisés du 7 septembre au 7 octobre 2009.		
+1993				2001				a_été_propriétaire	La société Shell Direct a été propriétaire et exploitante entre 1993 et 2001 (sous l'enseigne SOCOTHERM DBS) du dépôt pétrolier.		'La société Shell Direct', 'SOCOTHERM DBS'
+2014	02			2014	02			l__arrêt_de_la_surveillance	L'exploitant a demandé en février 2014, l'arrêt de la surveillance de la qualité des eaux souterraines au vu des résultats.		
+				2000				déclaration	La société SHELL DIRECT reprise par PETROLES SHELL depuis octobre 2003 a exploité sur le site un dépôt d'hydrocarbures soumis à déclaration jusqu'en 2000.	'hydrocarbures'	'La société SHELL DIRECT', 'PETROLES SHELL'
+2001				2001				a_ensuite_été_vendu	Le site a ensuite été vendu en 2001 à des particuliers (Monsieur et Madame BOSSERT) qui l'ont revendu quelques années plus tard à Monsieur DROMARD.		'Madame BOSSERT', 'Monsieur DROMARD'
+2010	07			2010	07			Une_Analyse_des_Risques_Résiduels	Une Analyse des Risques Résiduels a été réalisée en juillet 2010 et a conclu que les concentrations résiduelles dans les sols et la nappe au droit de l'ancien dépôt sont compatibles avec le projet de réaffectation de l'emprise foncière pour un usage commercial, artisanal et/ou industriel et ne sont pas susceptibles de générer de risques sanitaires pour les futurs employés susceptibles de travailler sur le site.		
+2007	09			2007	09			Le_diagnostic_initial_des_sols	Le diagnostic initial des sols, réalisé en septembre 2007, a pu mettre en évidence la présence de sources de pollution des sols au droit de :		
+2009	06	24		2009	06	24		ont_été_prescrits	Ils ont été prescrits par l'arrête préfectoral du 24 juin 2009.		

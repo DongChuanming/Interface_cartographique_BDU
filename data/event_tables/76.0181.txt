@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985	06			1985	06			a_acquis	La ville de Barentin a acquis ce site en juin 1985		
+2003	01	13		2003	01	13		Un_Audit	Un Audit accompagné d'une ESR a été réalisé le 13 janvier 2003 pour le compte de la commune.		
+1846				1846				a_été_construite	Une usine à gaz a été construite et exploitée à Barentin, rue Emile Zola en 1846.		
+1965				1965				sont_arrêtées	Les installations sont arrêtées en 1965.		
+1946				1946				sont_attribuées	Ces installations sont attribuées à Électricité de France par nationalisation en 1946 puis transféré à gaz de France en 1952.		'Électricité de France'
+1938				1938				ont_été_arrêtées	Les activités de distillation de la houille ont été arrêtées en 1938.	'houille'	
+1952				1952				transféré	Ces installations sont attribuées à Électricité de France par nationalisation en 1946 puis transféré à gaz de France en 1952.		'Électricité de France'
+1996	04			1996	04			a_pas_été_inscrit	Le site de Barentin n'appartenant pas au patrimoine de GDF en avril 1996, celui-ci n'a pas été inscrit au protocole entre GDF et l'État.		'GDF', 'GDF'

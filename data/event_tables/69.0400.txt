@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	01			2019	01			Investigations	1 - Investigations de janvier 2019		
+2019	01			2019	01			un_diagnostic_de_pollution	CARREFOUR STATIONS SERVICE a fait réaliser par la société EGIS en janvier 2019 un diagnostic de pollution qui a montré la présence d’impacts significatifs en hydrocarbures et BTEX (pseudocumène principalement) au niveau de 3 sondages, avec une pollution maximale de 11 000 mg/kg mesurée entre 2 et 3 mètres de profondeur au niveau de la cuve multi-compartimentée GO de 100 m³.	'hydrocarbures', 'BTEX ( pseudocumène principalement'	'CARREFOUR STATIONS SERVICE', 'la société EGIS'
+2016	05	31		2016	05	31		déclaration	La société CARREFOUR STATIONS SERVICE exploite une station service 145 Avenue Anatole France à Villeurbanne, soumise à déclaration avec contrôle au titre de la réglementation ICPE (déclaration du 31 mai 2016, récépissé n°26028) pour les rubriques 1435.2 et 4734.1.c).		'La société CARREFOUR STATIONS SERVICE'
+2019	05			2019	05			Investigations_complémentaires	2 - Investigations complémentaires de mai 2019		
+2019	05			2019	05			des_investigations_complémentaires	EGIS a réalisé en mai 2019 des investigations complémentaires comportant :		'EGIS'
+2019	03			2019	03			une_rénovation	En mars 2019, l'exploitant a réalisé une rénovation de l'installation, qui a amené à mettre en évidence la présence de pollutions concentrées en hydrocarbures.	'hydrocarbures'	

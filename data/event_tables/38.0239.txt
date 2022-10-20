@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	13		2005	01	13		Une_étude_des_risques_sanitaires	* Une étude des risques sanitaires au droit des futurs bâtiments d'habitation a été établie le 13/01/2005.		
+2006	09	20		2006	09	20		a_été_émis	L'arrêté préfectoral complémentaire a été émis le 20/09/2006, imposant la société NORMABARRE la remise d'un dossier de servitudes pour le site SM2.		'la société NORMABARRE'
+2005	04	28		2005	04	28		a_été_établi	* Le rapport de suivi des travaux d'excavation et d'élimination des terres souillées par des métaux a été établi le 28/04/2005.	'métaux'	
+1977	12	14		1977	12	14		bénéficie	L'établissement bénéficie d'un récépissé de déclaration du 14/12/1977.		
+								a_été_établi	* Un rapport d'investigations de terrain a été établi le 09/09/03.		
+2005	10	06		2005	10	06		a_été_remis	* Un complément à l'EDR a été remis à l'administration le 06/10/2005.		
+2006	01	12		2006	01	12		a_été_établi	* Le complément à l'EDR sur le contrôle de la qualité des sols au droit des trois ouvrages de ré-infiltration des eaux pluviales a été établi le 12/01/2006.		
+2005	02	23		2005	02	23		a_été_établie	* Une EDR a été établie le 23/02/2005.		
+								Les_travaux_se_sont_déroulés	Les travaux se sont déroulés les 6 et 7 octobre 2004.		
+2005	09	29		2005	09	29		La_campagne_de_mesure	La campagne de mesure du mercure gazeux et dans les sols a été réalisée le 29/09/2005.	'mercure'	
+2005	11	15		2005	11	15		a_été_établi	* Le complément à l'EDR sur le mercure a été établi le 15/11/2005.	'mercure'	
+2003	02	05		2003	02	05		Une_étude_historique_a_été_établie	* Une étude historique a été établie le 05/02/2003 par BURGEAP.		'BURGEAP'
+1977	12	14		1977	12	14		déclaration	L'établissement bénéficie d'un récépissé de déclaration du 14/12/1977.		
+2004	09	27		2004	09	27		a_été_établi	* Un rapport d'investigations complémentaire a été établi le 27/09/2004.		
+2004	10	07		2004	10	07		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés les 6 et 7 octobre 2004.		
+2005	01	10		2005	01	10		Un_diagnostic_approfondi	*Un diagnostic approfondi a été établi le 10/01/2005.		
+2005	07	26		2005	07	26		une_réunion	Suite à la remise du diagnostic approfondi et de l'EDR, une réunion s'est tenue le 28/07/2005, au cours de laquelle, l'administration a transmis l'ensemble de ses observations qui ont fait l'objet d'un courrier à BURGEAP le 26/07/2005.		'BURGEAP'
+2005	01	04		2005	01	04		Les_travaux_ont_débuté	Les travaux ont débuté le 04/01/2005.		
+2005	07	28		2005	07	28		une_réunion	Suite à la remise du diagnostic approfondi et de l'EDR, une réunion s'est tenue le 28/07/2005, au cours de laquelle, l'administration a transmis l'ensemble de ses observations qui ont fait l'objet d'un courrier à BURGEAP le 26/07/2005.		'BURGEAP'
+2004	10	26		2004	10	26		a_été_établi	* Un rapport de suivi des travaux d'excavation et d'élimination des terres souillées par les HCT a été établi le 26/10/2004.		'les HCT'
+2006	02	17		2006	02	17		s__est_tenue	Suite à ces compléments, une réunion s'est tenue le 17/02/2006.		
+2010	03	30		2010	03	30		a_été_émis	Suite au rapport de l'inspection datant du 25/01/2008 et du 20/01/2009, L'arrêté préfectoral instituant des servitudes d'utilité publique sur le site SM2 de la société NORMABARRE a été émis le 30/03/2010.		'la société NORMABARRE'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1969				mise_en_service	- Ancienne station service du centre commercial mise en service en 1969 et arrêtée en 1997		
+1997				1997				arrêtée	- Ancienne station service du centre commercial mise en service en 1969 et arrêtée en 1997		
+2000	02			2000	02			Une_évaluation_résiduelle	- Une évaluation résiduelle des risques en février 2000 place le site en classe 3.		
+2001	12	31		2001	12	31		arrêté_complémentaire_réglementant	31/12/2001 arrêté complémentaire réglementant la surveillance des eaux souterraines de la nouvelle station service ;		

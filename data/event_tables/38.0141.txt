@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	11			2005	11			une_excavation_supplémentaire	Cette valeur étant encore supérieure à la valeur seuil fixé en novembre 2005, une excavation supplémentaire a été effectuée jusqu’à obtenir une teneur de HCT en fond de fouille de 40 mg/kg.	'HCT'	
+2007	04	20		2007	04	20		3_campagnes_d__analyses	Compte tenu des fortes teneurs en Plomb détectées dans les eaux souterraines du site, l'Inspection des Installations Classées a demandé la réalisation d'études complémentaires. 3 campagnes d'analyses ont donc été effectuées le 26/03/2007, le 13/04/2007 et le 20/04/2007.	'Plomb'	
+2005	01	01		2005	01	01		cesse_toute_activité	La casse auto SENZANI fait l'objet d'une procédure d'expropriation et cesse toute activité sur le site en date du 01/01/2005.		'La casse auto SENZANI'
+2000	10			2000	10			Cette_étude	Cette étude, réalisée en octobre 2000, a été demandée car la ville souhaitait acheter les terrains pour la construction d’une zone d’activité destinée à l’industrie légère. 8 sondages ont été réalisés lors de ces investigations.		
+2006	11			2006	11			a_été_mené	Une Analyse des risques résiduels a été mené suite à ces travaux en novembre 2006.		
+2007	03	26		2007	03	26		3_campagnes_d__analyses	Compte tenu des fortes teneurs en Plomb détectées dans les eaux souterraines du site, l'Inspection des Installations Classées a demandé la réalisation d'études complémentaires. 3 campagnes d'analyses ont donc été effectuées le 26/03/2007, le 13/04/2007 et le 20/04/2007.	'Plomb'	
+2007	04	13		2007	04	13		_	Compte tenu des fortes teneurs en Plomb détectées dans les eaux souterraines du site, l'Inspection des Installations Classées a demandé la réalisation d'études complémentaires. 3 campagnes d'analyses ont donc été effectuées le 26/03/2007, le 13/04/2007 et le 20/04/2007.	'Plomb'	
+2005	04	08		2005	04	08		a_été_signé	Un procès-verbal de constat de libération et de remise des parcelles a été signé le 08/04/2005 entre l'exploitant et le représentant de la ville d'Echirolles.		"le représentant de la ville d' Echirolles"
+1955				1955				était_exploité	Le site était exploité depuis 1955 par la famille SENZANI.	'SENZANI'	
+2005	01	01		2005	01	01		fait_l__objet_d_	La casse auto SENZANI fait l'objet d'une procédure d'expropriation et cesse toute activité sur le site en date du 01/01/2005.		'La casse auto SENZANI'
+2005	11			2005	11			Un_diagnostic_approfondi	Un diagnostic approfondi des eaux et des sols a été réalisé par SOGREAH au mois de novembre 2005 afin notamment d’estimer l’étendue des contaminations observées.		'SOGREAH'
+2000	02			2000	02			La_première_étude_réalisée	La première étude réalisée sur le site date du mois de février 2000.		

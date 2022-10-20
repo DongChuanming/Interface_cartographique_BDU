@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11			2009	06			Ces_travaux_de_dépollution	Ces travaux de dépollution se sont déroulés de novembre 2008 à juin 2009 pour l'essentiel.		
+2005				2005				arrêta_son_activité	e site arrêta son activité en 2005.		
+1995				1995				devint	La production de piles sur le site de Breintenbach a débuté dans les années 60 avec la création de la société PETRIX qui devint VARTA en 1962 puis PILE d'ALSACE en 1995.		'la société PETRIX', 'VARTA', "PILE d' ALSACE"
+2009	08	12		2009	08	12		s__est_porté_acquéreur	Par acte notarié du 12 août 2009, la commune de Breitenbach s'est porté acquéreur du site.		
+2010	10	08		2010	10	08		a_été_prescrite	Afin de s'assurer de leur efficacité dans le temps, une surveillance des eaux souterraines a été prescrite par arrêté en date du 8 octobre 2010 avec la production tous les deux ans d'un bilan de surveillance des eaux souterraines.		
+1962				1962				devint	La production de piles sur le site de Breintenbach a débuté dans les années 60 avec la création de la société PETRIX qui devint VARTA en 1962 puis PILE d'ALSACE en 1995.		'la société PETRIX', 'VARTA', "PILE d' ALSACE"
+								a_débuté	La production de piles sur le site de Breintenbach a débuté dans les années 60 avec la création de la société PETRIX qui devint VARTA en 1962 puis PILE d'ALSACE en 1995.		'la société PETRIX', 'VARTA', "PILE d' ALSACE"
+2010	10	05		2010	10	05		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été dressé le 5 octobre 2010 afin de clôturer la procédure de cessation d'activité qui prévoyait que l'exploitant remette en état le site pour un usage " industriel et logistique"		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	27		2012	01	27		a_été_imposé	Afin que la suspicion de pollution soit examinée et que les éventuelles mesures de remédiation soient mises en œuvre, il a été imposé à l’exploitant, par arrêté préfectoral n°2012027-0006 du 27 janvier 2012, les mesures permettant d'évaluer la pollution du sol au droit du bâtiment G2 et de maîtriser les risques liés à une éventuelle pollution.		
+2010	07	04		2010	07	04		a_été_démoli	Le bâtiment G2 a été démoli au cours de l’été 2011 car il avait été fortement endommagé par l’incendie du 4 juillet 2010.		
+1974				1974				est_exploitée	Une activité de traitement de surface et de peinture est exploitée sur ce site depuis 1974 par la société de GALVANOPLASTIE Industrielle et en dernier lieu par SGI.		'la société de GALVANOPLASTIE Industrielle', 'SGI'
+2012	08			2012	08			Le_diagnostic	Le diagnostic de l'état des milieux, réalisé en août 2012, a mis en évidence des sols fortement impactés en tétrachloroéthylène dans une zone située au sud-ouest de l'ancien bâtiment G2.	'tétrachloroéthylène'	
+2013	02			2013	02			a_été_installé	Un nouveau piézomètre Pz4 a été installé en février 2013 en aval direct de la zone polluée pour améliorer la connaissance de la qualité des eaux souterraines et faciliter l'interprétation des résultats.		
+				2014	07			Ces_opérations_de_dépollution	Ces opérations de dépollution ont débuté en mars 2013 et se sont poursuivies jusqu'en juillet 2014.		
+				2014	07			se_sont_poursuivies	Ces opérations de dépollution ont débuté en mars 2013 et se sont poursuivies jusqu'en juillet 2014.		
+2010	07	04		2010	07	04		l__incendie	Le bâtiment G2 a été démoli au cours de l’été 2011 car il avait été fortement endommagé par l’incendie du 4 juillet 2010.		
+2009				2009				réalisée_selon	La surveillance de la qualité des eaux souterraines, réalisée selon une fréquence a minima semestrielle depuis 2009, ne permet pas de statuer sur l'impact ou non de la nappe par le tétrachloroéthylène ou par des polluants qui en sont dérivés.	'le tétrachloroéthylène', 'des polluants'	
+2013	03			2013	03			Ces_opérations_de_dépollution	Ces opérations de dépollution ont débuté en mars 2013 et se sont poursuivies jusqu'en juillet 2014.		
+2011				2011				au_cours_de_l_	Le bâtiment G2 a été démoli au cours de l’été 2011 car il avait été fortement endommagé par l’incendie du 4 juillet 2010.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01			2006	01			Une_nouvelle_intervention	Une nouvelle intervention a été réalisé en Janvier 2006 et 188,60 tonnes de terres contaminées ont été envoyées en ISDND.		
+2005	05			2005	05			Les_campagnes_de_prélèvements_de_sols	Les campagnes de prélèvements de sols et d'eaux souterraines en Septembre 2004 et Mai 2005 ont mis en évidence des indices hydrocarbures supérieurs à la Valeur de Définition de Source Sol (VDSS) au droit de l'atelier de moulage/démoulage du béton.	'hydrocarbures'	
+2003	03			2003	03			La_première	La première en Mars 2003 a mis en évidence plusieurs sources de pollutions potentielles : installations de stockage/distribution de fioul, l'atelier de moulage/démoulage de béton et une contamination supposée des eaux souterraines par déversement de produits hydrocarbonés utilisés sur le site.	'fioul', 'produits hydrocarbonés'	
+2004	09			2004	09			Les_campagnes_de_prélèvements_de_sols	Les campagnes de prélèvements de sols et d'eaux souterraines en Septembre 2004 et Mai 2005 ont mis en évidence des indices hydrocarbures supérieurs à la Valeur de Définition de Source Sol (VDSS) au droit de l'atelier de moulage/démoulage du béton.	'hydrocarbures'	
+1985	01	16		1985	01	16		le	Le premier AP d'autorisation date du 22/11/1947 et le dernier du 16/01/1985.		
+2005				2005				a_été_repris	Le site a été repris par ONYX en 2005.		'ONYX'
+2005				2005				à_l__acquisition	Suite à l’acquisition en 2005 d'une partie du site par ONYX (17 715 m²), une mise en sécurité a été effectuée sur les parcelles acquises.		'ONYX'

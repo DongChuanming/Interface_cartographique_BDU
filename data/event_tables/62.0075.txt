@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				pollution	En 1999, pollution de la nappe détectée sur un piézomètre au niveau de la frontière commune à deux établissements: Interor et Synthexim.	'Synthexim'	'Interor'
+2001	04			2001	04			Remise_d__une_étude	Remise d'une étude du sens d'écoulement et de la qualité de la nappe, en avril 2001.		
+1976				1976				crée	Cette société familiale (crée en 1976) fabrique des produits pour l'agrochimie et la pharmacie.		
+2006				2006				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2006		
+2001	10	12		2001	10	12		est_imposée	Cette surveillance des eaux souterraines est imposée dans le cadre de l’arrêté préfectoral d'autorisation du 22/04/1998 et de l'Arrêté préfectoral complémentaire sur la surveillance du 12/10/2001.		
+2001	11			2001	11			Remise	Remise d'une étude de la qualité du sol et des eaux de la nappe, en novembre 2001.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02			1998	02			a_cessé_son_activité	Le site a cessé son activité en février 1998.		
+				1997	02	27		__des_investigations_se_sont_déroulées	A la demande de LANGLOIS CHIMIE, des investigations se sont déroulées du 25 au 27 février 1997, avec la réalisation de 10 sondages et 2 piézomètres (voir plan cartographique 2 partie B).		'CHIMIE'
+1998	02			1998	02			a_été_démantelé	Suite à la cessation d’activité en février 1998, le site a été démantelé, les cuves démontées et évacuées.		
+1999	04	22		1999	04	22		ont_été_déposées	En tout, 269 tonnes de terres souillées y ont été déposées le 22 avril 1999.		
+1999	11	24		1999	11	24		Une_étude_complémentaire	Une étude complémentaire concernant la mesure de la pollution résiduelle dans les sols et dans les eaux souterraines a été fournie par l'exploitant le 24 novembre 1999.		
+2000	03	27		2000	03	27		Ce_suivi	Ce suivi sur 5 piézomètres a été prescrit par arrêté préfectoral du 27/03/2000.		
+1998	02			1998	02			la_cessation_d__activité	Suite à la cessation d’activité en février 1998, le site a été démantelé, les cuves démontées et évacuées.		
+1997	10	28		1997	10	28		Une_Évaluation	Une Évaluation Quantitative des Risques Sanitaires (EQRS) a été effectuée en date du 28 octobre 1997, permettant de classer le site comme nécessitant des investigations approfondies, notamment en ce qui concerne les risques vis-à-vis de la nappe d'eau souterraine.	'Sanitaires'	
+1971				1971				a_été_en_activité	Le site a été en activité à partir de 1971.		

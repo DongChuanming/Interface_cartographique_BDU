@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								une_mise_en	La DRIRE propose au préfet le 16/12/2008 une mise en demeure de la société sous 3 mois de dépolluer les sols impactés.		'La DRIRE'
+2009	02	17		2009	02	17		La_campagne	La campagne du 17 février 2009 confirme cette situation, mais aucun des 3 puits utilisés n'est  à l'aval hydraulique des terres polluées constatées en 2003 et 2004.		
+2007	10	08		2007	10	08		Une_analyse_des_sols_a_été_réalisée	Une analyse des sols a été réalisée le 8 octobre 2007 en parallèle au suivi des eaux souterraines par Tereo.		'Tereo'
+2005	01	21		2005	01	21		a_acheté	La SCI GUYAMIER a acheté les terrains le 21 janvier 2005.		'La SCI GUYAMIER'
+2009				2009				a_complétement_changé	En effet, le sens d'écoulement de la nappe a complétement changé par rapport à octobre 2007 (vers l'Ouest au lieu du Sud-Est) et les puits situés en aval lors des premières analyses ne le sont plus en 2009.		
+2005				2005				a_racheté	En 2005 la société GUYAMIER a racheté la parcelle et y a implanté la société GUYAMIER Transports.		'la société GUYAMIER', 'la société GUYAMIER'
+2003				2003				activité_cesse_définitivement	L'activité cesse définitivement en 2003. la société NEURISSE est placée en liquidation judiciaire dont la procédure sera clôturée le 25 janvier 2006.		'la société NEURISSE'
+2004	05			2004	05			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques, remise en mai 2004, classe toutefois le site en 2 "à surveiller" pour l'usage du moment.		
+2003				2003				La_cessation_d__activité	La cessation d'activité a eu lieu en 2003.		
+2003				2003				terres_polluées_constatées	La campagne du 17 février 2009 confirme cette situation, mais aucun des 3 puits utilisés n'est  à l'aval hydraulique des terres polluées constatées en 2003 et 2004.		
+2004				2004				préconisait	En 2004, la DRIRE préconisait l'enlèvement des terres polluées présentant au moins 1000 mg/kg MS de HCT.	'HCT'	'la DRIRE'
+2007	07	27		2007	07	27		donne_acte	Le 27/07/2007, le Préfet donne acte à la SCI GUYAMIER de sa décision de faire remettre le site en état.		'le Préfet', 'la SCI GUYAMIER'
+2004	08			2004	08			La_campagne_d_	La campagne d'août 2004 montre que la situation est satisfaisante.		
+2009				2009				ne_le_sont_plus	En effet, le sens d'écoulement de la nappe a complétement changé par rapport à octobre 2007 (vers l'Ouest au lieu du Sud-Est) et les puits situés en aval lors des premières analyses ne le sont plus en 2009.		
+2006	01	25		2006	01	25		est_placée_en_liquidation_judiciaire	L'activité cesse définitivement en 2003. la société NEURISSE est placée en liquidation judiciaire dont la procédure sera clôturée le 25 janvier 2006.		'la société NEURISSE'
+2007				2007				des_dernières_analyses	Compte tenu de l'ancienneté de la pollution du site et de la faible teneur en hydrocarbures détectée dans le sol lors des dernières analyses de 2007, il parait peu probable aujourd'hui d'affirmer qu'une pollution aux HCT provient de l'ancienne activité et non de l'activité actuelle.	'hydrocarbures', 'HCT'	
+2007	10			2007	10			La_campagne_d_	La campagne d'octobre 2007 réalisée à partir des 3 puits utilisés, ne montre pas d'impact sur la nappe par les hydrocarbures (< 50 ug/l).	'hydrocarbures'	
+2004				2004				terres_polluées_constatées	La campagne du 17 février 2009 confirme cette situation, mais aucun des 3 puits utilisés n'est  à l'aval hydraulique des terres polluées constatées en 2003 et 2004.		

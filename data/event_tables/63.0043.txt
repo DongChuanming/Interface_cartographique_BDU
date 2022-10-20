@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08	09		2013	08	09		a_déclaré_sa_cessation_d__activité	La société ISEKI FRANCE, repreneur des Ets YVAN BEAL, a déclaré sa cessation d'activité le 9 août 2013.		'La société ISEKI FRANCE', 'des Ets YVAN BEAL'
+								un_premier_diagnostic	La société YVAN BEAL a fait réaliser au 1er semestre 2008, un premier diagnostic des sols, suivi en octobre 2008 et en mars 2010 par des investigations complémentaires (sondages et piézomètres).		'La société YVAN BEAL'
+2016	09			2018	09			cette_démarche_de_surveillance	A l'issue de cette démarche de surveillance, réalisée sur 4 campagnes de prélèvements, de septembre 2016 à septembre 2018, un bilan permettra d'adapter les éventuelles actions à mener et d'élaborer les restrictions d'usage.		
+1967				1967				est_utilisé	Depuis 1967, ce site est utilisé par les Ets YVAN BEAL pour des activités de stockage et négoce de matériels de motoculture.		'les Ets YVAN BEAL'
+2008				2008				un_premier_diagnostic	La société YVAN BEAL a fait réaliser au 1er semestre 2008, un premier diagnostic des sols, suivi en octobre 2008 et en mars 2010 par des investigations complémentaires (sondages et piézomètres).		'La société YVAN BEAL'
+2008	10			2008	10			suivi	La société YVAN BEAL a fait réaliser au 1er semestre 2008, un premier diagnostic des sols, suivi en octobre 2008 et en mars 2010 par des investigations complémentaires (sondages et piézomètres).		'La société YVAN BEAL'
+2014	12			2015	01			Les_travaux_d__excavation	Les travaux d'excavation et de traitement des terres polluées ont été réalisés de décembre 2014 à janvier 2015.		
+2014	07	30		2014	07	30		des_travaux_de_réhabilitation	Par arrêté préfectoral du 30 juillet 2014, des travaux de réhabilitation ont été prescrit à l'exploitant.		

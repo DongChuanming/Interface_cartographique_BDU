@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03			2010	03			Les_dernières_analyses	Les dernières analyses des eaux souterraines en Mars 2010 ne montrent aucune pollution des eaux souterraines, le suivi a été interrompu.		
+2010	11	25		2010	11	25		Les_travaux_d__excavation	Les travaux d'excavation des terres se sont déroulés du 27/10/2010 et se sont terminés le 25/11/2010.		
+2010	11	25		2010	11	25		se_sont_terminés	Les travaux d'excavation des terres se sont déroulés du 27/10/2010 et se sont terminés le 25/11/2010.		
+2000				2000				__a_été_constatée	En 2000, une pollution en hydrocarbures provenant de la société MOTEURS BAUDOIN  a été constatée sur les bords de l'Huveaune à partir de la sortie des canalisations d'eau pluvial.	'hydrocarbures'	'la société MOTEURS BAUDOIN'
+2004	10			2004	10			un_examen	En Octobre 2004, un examen des exigences réglementaires environnementales a été réalisé à l'initiative de l'exploitant.		
+2005	02			2005	02			un_diagnostic_simplifié_de_pollution	En Février 2005, un diagnostic simplifié de pollution des sols permettant d'évaluer l'impact des activités exercées sur le site au niveau du sol a été effectué.		
+1958	04	04		1958	04	04		est_autorisée_par_l__AP	Elle est autorisée par l'AP du 4 avril 1958 et le dernier APC qui lui est applicable date du 11 août 1980.		
+2010	10	27		2010	10	27		Les_travaux_d__excavation	Les travaux d'excavation des terres se sont déroulés du 27/10/2010 et se sont terminés le 25/11/2010.		
+2008	02	18		2008	02	18		AP_d_	Un avis favorable a été donné à cette demande et l'AP d'autorisation a été signé le 18/02/2008.		
+1980	08	11		1980	08	11		date_du	Elle est autorisée par l'AP du 4 avril 1958 et le dernier APC qui lui est applicable date du 11 août 1980.		
+2005				2005				a_été_réalisé	Une ESR a été réalisé en 2005 et classe le site en classe 2 « à surveiller ». 2 piézomètres complémentaires sont installés.		
+2008	10	13		2008	10	13		a_déposé_le_bilan	La société a déposé le bilan le 13/10/2008 et a été mise en liquidation judiciaire.		
+2005				2005				une_étude_complémentaire	Les zones des bancs d'essais et de l'ancienne zone de dégraissage ont fait l'objet d'une étude complémentaire en 2005.		
+1980	08	11		1980	08	11		est_autorisée_par_l__AP	Elle est autorisée par l'AP du 4 avril 1958 et le dernier APC qui lui est applicable date du 11 août 1980.		
+2011	11	30		2011	11	30		a_été_délivré	Le PV de récolement a été délivré le 30/11/2011.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	30		2003	12	30		nettoyée	NB : l'installation de distribution et la cuve de stockage de gazole ont été définitivement arrêtées en 2003 ; la cuve de 60 m3 a été vidée, dégazée et nettoyée le 30/12/2003 et transférée sur un autre site en 2005.	'cuve de stockage de gazole'	
+2005				2005				et_transférée	NB : l'installation de distribution et la cuve de stockage de gazole ont été définitivement arrêtées en 2003 ; la cuve de 60 m3 a été vidée, dégazée et nettoyée le 30/12/2003 et transférée sur un autre site en 2005.	'cuve de stockage de gazole'	
+1999	08			1999	08			a_été_suspendu	Il a été suspendu en août 1999.		
+2005				2005				a_été_vidée	NB : l'installation de distribution et la cuve de stockage de gazole ont été définitivement arrêtées en 2003 ; la cuve de 60 m3 a été vidée, dégazée et nettoyée le 30/12/2003 et transférée sur un autre site en 2005.	'cuve de stockage de gazole'	
+1999	02	09		1999	02	09		a_été_identifié	L'auteur de la pollution, les Ets Dusolier, a été identifié le 09/02/1999.		'les Ets Dusolier'
+1999	02	04		1999	02	04		a_été_détectée	Par suite de la rupture accidentelle de la canalisation enterrée reliant le stockage au distributeur, une pollution due au gasoil a été détectée par les services techniques de la ville le 04/02/1999.	'gasoil'	
+2003				2003				ont_été_définitivement_arrêtées	NB : l'installation de distribution et la cuve de stockage de gazole ont été définitivement arrêtées en 2003 ; la cuve de 60 m3 a été vidée, dégazée et nettoyée le 30/12/2003 et transférée sur un autre site en 2005.	'cuve de stockage de gazole'	

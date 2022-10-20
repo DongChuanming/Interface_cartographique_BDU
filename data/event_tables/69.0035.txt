@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12	19		1996	12	19		a_été_pris	Un arrêté préfectoral a été pris le 19/12/1996 fixant la surveillance des eaux souterraines, les conditions de réalisation des travaux sur le site et sur la constitution d'un dossier de servitudes d'utilité publique.		
+1996	05			1996	05			une_évaluation_simplifiée_des_risques	A la demande de l'inspection, une évaluation simplifiée des risques (ESR) a ensuite été transmise à l’administration en mai 1996.		
+2002	02			2002	02			Les_résultats_de	Les résultats de février 2002 montrent une teneur en HCT de 90 µg/L au droit de PZ6, supérieure à la valeur seuil en vigueur à l'époque.	'HCT'	
+2001				2001				une	5 campagnes de surveillance des eaux ont été effectuées (deux en 1997, une en 2001 et deux en 2002) sur PZ4 (amont hydraulique), PZ6, PZ7 et PZ8 (aval hydraulique).		
+1997				1997				une	5 campagnes de surveillance des eaux ont été effectuées (deux en 1997, une en 2001 et deux en 2002) sur PZ4 (amont hydraulique), PZ6, PZ7 et PZ8 (aval hydraulique).		

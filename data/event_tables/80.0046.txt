@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1924				1924				a_été_créée	Elle a été créée en 1924.		
+								a_été_pris_en	Un arrêté préfectoral a été pris en ce sens le 31/05/02.		
+2013				2013				a_été_établi	un plan de gestion a été établi en juin 2011 et les travaux devrait commencer début 2013.		
+2011	06			2011	06			a_été_établi	un plan de gestion a été établi en juin 2011 et les travaux devrait commencer début 2013.		
+2013				2013				les_travaux_devrait_commencer	un plan de gestion a été établi en juin 2011 et les travaux devrait commencer début 2013.		
+2007				2007				de_nombreuses_études_ont_été_entreprises	Depuis un changement d'actionnaire, intervenu en 2007, de nombreuses études ont été entreprises par l'exploitant pour caractériser l'état de pollution du site.		

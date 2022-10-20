@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1953	07	07		1953	07	07		de_déclaration	- Un réservoir souterrain d'une capacité de 6 000 litres de fuel (récépissé de déclaration du 07/07/1953) ;	'litres de fuel'	
+1969	04	15		1969	04	15		de_déclaration	- Un atelier de fabrication de transcontainers avec fusion de bitumes et asphaltes, emplois de liquides inflammables, application et cuisson des vernis et peintures (récépissé de déclaration du 15/04/1969) ;	'bitumes', 'liquides inflammables'	
+1973	01	26		1973	01	26		Traitement	- Traitement de Wagons de chemins de fer par grenaillage et cabine de peinture (autorisées par l'arrêté préfectoral du 26/01/1973).		
+1986				1986				s__est_arrêtée	L'activité de la SNAV s'est arrêtée sur le site durant l'année 1986.		

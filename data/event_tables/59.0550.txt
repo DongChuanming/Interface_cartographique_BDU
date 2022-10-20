@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04	26		2004	04	26		sont_réglementées	Les activités sont réglementées par l'arrêté préfectoral du 13 septembre 2000 modifié par l'arrêté préfectoral du 26 avril 2004.		
+1998				1998				devient	En 1998, la société Pennel et Flipo devient la société Pennel industrie.		'la société Pennel', 'et Flipo', 'la société Pennel'
+2011	11	29		2011	11	29		a_déposé_un_dossier_de_cessation_d__activité	Après avoir prévenu l'administration de la cessation d'activité par courrier du 7 juin 2010, l'exploitant a déposé un dossier de cessation d'activité le 29 novembre 2011.		
+2003	05			2003	05			est_venue	En mai 2003, l'activité Feuilles Industrielles, Automobile et Bâtiments est venue à Sioen industrie qui crée l'entreprise Pennel automotive.		'Pennel automotive'
+1921				1921				créée	Cette société, créée en 1921, avait pour activité initiale la fabrication de tissus caoutchouc adhésifs.		
+2011				2011				sont_principalement_détectés	- les COHV au niveau de la zone calandrage sont principalement détectés à proximité des fosses, les concentrations les plus importantes étant détectées au niveau du sondage SS situé en limite avec la zone incendie en 2011, en surface et en profondeur.	'COHV'	
+2012	02	24		2012	02	24		a_été_adressé	Le dossier étant recevable, un récépissé de cessation d'activité a été adressé à l'exploitant par Monsieur le Préfet du Nord le 24 février 2012.		'le Préfet du Nord'
+2012	04	18		2012	04	18		Rapport	Rapport du 18 avril 2012 :		
+2013	09			2013	09			identifiées_lors_de_l__étude_terrain_de	les cibles extérieures, identifiées lors de l’étude terrain de septembre 2013, ainsi que de leurs usages des milieux ;		
+1942				1942				a_été_rebouché	Un forage de 116m de profondeur ayant existé sur le site a été rebouché en 1942.		
+2010	06	07		2010	06	07		a_déposé_un_dossier_de_cessation_d__activité	Après avoir prévenu l'administration de la cessation d'activité par courrier du 7 juin 2010, l'exploitant a déposé un dossier de cessation d'activité le 29 novembre 2011.		
+2011				2011				au_niveau_de_la_zone_incendiée	- les hydrocarbures présents au niveau de la zone calandrage doivent également être présents au niveau de la zone incendiée en 2011 ainsi qu'au niveau de l'ancien laboratoire ;	'hydrocarbures'	

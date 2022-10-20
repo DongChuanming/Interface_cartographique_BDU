@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__diagnostic_complémentaire	- diagnostic complémentaire et caractérisation de l’état des milieux dans un délai de 4 mois,		
+2019	11	28		2019	11	28		a_été_pris	D'autre part, un arrêté de servitude d'utilité publique a été pris le 28 novembre 2019 notamment pour assurer la mémoire des pollutions résiduelles ([HCT] > 1000mg/kg dans les sols mesuré en au moins un point, [benzène]=18 mg/m3 mesuré en un point).	'HCT', 'benzène]=18'	
+2015	01	29		2015	01	29		__diagnostic_complémentaire_après_travaux_de_démantèlement	- rapport « diagnostic complémentaire après travaux de démantèlement du 29/01/2015, rapport n°7748-1, SERPOL » ;		', SERPOL'
+2014	06	20		2014	06	20		a_été_signé	L’arrêté préfectoral a été signé le 20/06/2014.		
+2011	11			2011	11			une_campagne_de_prélèvements_par_sondages	Dans le cadre du rapport de cessation de novembre 2011, une campagne de prélèvements par sondages (9 sondages entre 2 et 5 mètres de profondeur) a ainsi été effectuée.		
+2011				2011				diagnostic	La teneur en hydrocarbures adsorbés C10-C40 obtenue en fond de fouille au niveau de l’îlot 6 (E35’, 3 mètres de profondeur) n’est pas en concordance avec les résultats du diagnostic de 2011 qui présentait une baisse des teneurs avec la profondeur (12500 mg/kg MS à 1m de profondeur et 3410  mg/kg MS à 4m de profondeur).	'hydrocarbures', 'C10-C40'	
+2003	08	19		2003	08	19		de_déclaration	La société TOTAL France raffinage a été autorisée à exploiter la station-service par récépissé de déclaration du 19 août 2003.		'La société TOTAL France raffinage'
+2012	10	26		2012	10	26		a_délivré	La préfecture du Rhône a délivré à l’exploitant un récépissé de sa déclaration de cessation d’activité, en date du 26/10/2012.		'La préfecture du Rhône'
+2014	04	08		2014	04	08		Le_rapport	Le rapport de l’inspection du 8 avril 2014 avait pour but d’émettre un avis sur les documents transmis par l’exploitant.		
+2012				2012				ont_été_excavées	Durant l’été 2012, les terres polluées ont été excavées, évacuées, puis traitées par la société Biogenie, selon un procédé de bioremédiation.		'la société Biogenie'
+2011	11			2011	11			un_rapport_de_diagnostic_environnemental	- un rapport de diagnostic environnemental , fait en novembre 2011 par AMDE		'AMDE'
+2003	08			2003	08			exploitait	La société TOTAL France Raffinage exploitait une station-service sur la commune de Bron depuis août 2003.		'La société TOTAL France Raffinage'
+2015	12			2015	12			__Novembre__	- rapport « Travaux de dépollution des sols Novembre/Décembre 2015 », SERPOL n°7748-7, Janvier 2016		'\xa0 » , SERPOL'
+								la_mise_en_place_d__un	- la mise en place d’un réseau piézométrique dans un délai d’1 mois ;		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				sont_excavées	En 2006, 162 tonnes de terres impactées sont excavées.		
+2003				2003				un_diagnostic_initial_des_sols	En 2003, un diagnostic initial des sols a été réalisé concluant à la présence de COHV (composés organo halogénés volatils) et de métaux lourds (arsenic, baryum, plomb et cadmium) à des concentrations supérieures aux valeurs guides Françaises sur 2 à 3 m de profondeur.	'COHV', 'métaux lourds', 'arsenic', 'baryum', 'plomb', 'cadmium'	
+2004				2004				Des_investigations_complémentaires	Des investigations complémentaires ont été menées en 2004 se traduisant par la mise en place de piézomètres et l'identification de plomb, de dichloro et de trichloroéthylène.	'plomb', 'dichloro', 'trichloroéthylène'	
+2006				2006				Le_permis_de_démolir	Le permis de démolir a été exécuté en 2006.		

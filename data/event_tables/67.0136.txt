@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				ont_été_démolis	Les bâtiment du site ont été démolis au cours de l'été 2016, la démolition des dalles et les contrôles des sols effectués sous ces dalles ont montrés des teneurs en polluants faibles, cette démolition n'a pas entrainée de remobilisation des polluants dans la nappe.		
+2007				2007				des_travaux_d__enlèvement	L'exploitant a conduit des travaux d'enlèvement de 8,64 tonnes de terres polluées en 2007.		
+2004				2004				les_travaux_suivants	Suite à un diagnostic de sol effectué par Ate-Geoclean en décembre 2002, l'exploitant a conduit les travaux suivants en 2004.		'Ate - Geoclean'
+2004	12	31		2004	12	31		et_arrêtées	Activités de production de colles exercées sur le site depuis 1957 et arrêtées le 31/12/2004.		
+2016				2016				a_atteint	En 2016, ce traitement a atteint ses limites techniques et a été stoppé.		
+2016				2016				au_cours_de	Les bâtiment du site ont été démolis au cours de l'été 2016, la démolition des dalles et les contrôles des sols effectués sous ces dalles ont montrés des teneurs en polluants faibles, cette démolition n'a pas entrainée de remobilisation des polluants dans la nappe.		
+2002	12			2002	12			à_un_diagnostic_de_sol	Suite à un diagnostic de sol effectué par Ate-Geoclean en décembre 2002, l'exploitant a conduit les travaux suivants en 2004.		'Ate - Geoclean'
+2002	12			2002	12			les_travaux_suivants	Suite à un diagnostic de sol effectué par Ate-Geoclean en décembre 2002, l'exploitant a conduit les travaux suivants en 2004.		'Ate - Geoclean'
+2005	06	28		2005	06	28		La_réalisation_d__un_diagnostic_approfondi	La réalisation d'un diagnostic approfondi a été prescrit par arrêté du 28 juin 2005.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				une_évaluation_simplifiée_des_risques	Conformément à un arrêté préfectoral en date du 01/12/1997, pris en application de la circulaire du 03/04/1996, la société MERSEN a transmis courant 2001 une évaluation simplifiée des risques pour son établissement de Gennevilliers.		'la société MERSEN'
+2002	08	12		2002	08	12		a_été_imposée_par	Elle a été imposée par un arrêté préfectoral complémentaire en date du 12/08/2002.		
+2003				2003				est_effective	La surveillance des eaux souterraines est effective depuis 2003.		
+2007				2007				ont_été_mesurées	Les teneurs les plus fortes ont été mesurées en 2007 (près de 3800 µg/l sur l'un des ouvrages).		
+2005	11	28		2005	11	28		un_diagnostic	Dans le cadre du plan santé/environnement et des priorités nationales, un diagnostic des teneurs en plomb de terrains riverains a été prescrit par arrêté préfectoral du 28/11/2005.	'plomb'	
+2006				2006				Le_diagnostic	Le diagnostic, réalisé en 2006, a mis en évidence des teneurs basses en plomb à l'extérieur du site, toutes inférieures à 250 mg/kg.	'plomb'	

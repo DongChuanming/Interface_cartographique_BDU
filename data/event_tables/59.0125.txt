@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1931				1996				remplacement_des_matériaux	- Exploitation de ce site entre 1931 et 1996, date de remplacement des matériaux en amiante-ciment par des matériaux en fibre-ciment.	'amiante - ciment'	
+1931				1996				Exploitation	- Exploitation de ce site entre 1931 et 1996, date de remplacement des matériaux en amiante-ciment par des matériaux en fibre-ciment.	'amiante - ciment'	
+2004	12			2004	12			avait_été_transmis	Un dossier de fin de travaux de remise en état avait été transmis en préfecture en décembre 2004.		
+								_dépôt_d_	-dépôt d'un dossier de demande d'institution de servitudes d'utilité publique, le 1 aout 2006		
+1996	01	22		1996	01	22		à	-Surveillance des eaux souterraines à partir du 22/01/1996, puis surveillance de l'air autour du site		
+2005	01	20		2005	01	20		a_procédé_à_une_visite	Le 20 janvier 2005, l'inspection des installations classées a procédé à une visite de récolement de la fin de la réhabilitation de l'ancienne décharge en la présence de la société Eternit et de Monsieur le maire de Prouvy.		'la société Eternit'
+2000				2000				Travaux_de_réhabilitation	- Travaux de réhabilitation mis en œuvre en 2000 et 2001:		
+2006				2006				_dépôt_d_	-dépôt d'un dossier de demande d'institution de servitudes d'utilité publique, le 1 aout 2006		
+2001				2001				Travaux_de_réhabilitation	- Travaux de réhabilitation mis en œuvre en 2000 et 2001:		
+2006	05	05		2006	05	05		__comblement	-le 5/05/2006: comblement des 4 piézomètres		

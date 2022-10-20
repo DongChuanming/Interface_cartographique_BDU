@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08			2000	08			Les_contrôles	Les contrôles de la qualité des eaux du captage de Thise conduits en août 2000 dans ce cadre, concluent à une absence d'impact sur ces forages.		
+2002	06			2002	06			a_été_réalisé	Un ensemble de travaux d'excavations a été réalisé en juin 2002 en bordure sud du site. 249 tonnes de terres souillées ont été éliminées.		
+2002	10	21		2002	10	21		un_arrêté	A l'issue de ces travaux, le préfet a pris un arrêté en date du 21 octobre 2002 imposant notamment :		'le préfet'
+1998				1998				a_mis_en_évidence	L'étude simplifiée des risques de pollution, demandée par la DRIRE en 1998, a mis en évidence plusieurs zones représentant des sources de pollution potentielles, toutes liées aux anciennes activités de l'entreprise.		'la DRIRE'
+1963				1963				étendue	A partir de 1922 se développe une activité de stockage et distribution de carburants, étendue en 1963 à la distribution de produits chimiques.	'carburants', 'produits chimiques'	
+1922				1922				se_développe	A partir de 1922 se développe une activité de stockage et distribution de carburants, étendue en 1963 à la distribution de produits chimiques.	'carburants', 'produits chimiques'	
+2001	12	20		2001	12	20		L__étude_détaillée_des_risque	L'étude détaillée des risque a été remise le 20/12/2001.		

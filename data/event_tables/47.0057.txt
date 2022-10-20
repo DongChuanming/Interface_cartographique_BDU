@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				en_chlorures	Lors de la campagne de mai 2014, des teneurs en chlorures insatisfaisantes ont été relevées dans les lixiviats (liquides résiduels provenant de la percolation de l'eau à travers un matériau).		
+2014	05			2014	05			Lors_de_la_campagne	Lors de la campagne de mai 2014, nous constatons des teneurs en ammonium plus élevées en comparaison avec celles mises en évidence lors de la campagne précédente (32.1 mg/L avec un seuil à 4 mg/L).		
+2014				2014				campagne_de_mars	La campagne de mars 2014 met en évidence des teneurs en ammonium élevées par rapport au seuil de l'AM (18.8 mg/L au lieu de 4 mg/L maximum).		
+								arrêté_préfectoral	L'arrêté préfectoral du 07 juin 2011 prescrit la surveillance annuelle de la qualité des sédiments de la Gélise à l'amont et à l'aval du site.	'surveillance annuelle'	
+								__pH___7_4_en_PZ0	- pH : 7.4 en PZ0, 6.6 en PZ1, 6.9 en PZ2, 7.1 en PZ3, 6.8 en PZ4, 6.9 en PZ6, 7 en PZ7, 6.8 en PZ9, 7.1 en PZ10 et 6.9 en PZ11 ;		
+2015	09			2015	09			été_demandé_en	Il a été demandé en septembre 2015 de fournir les analyses suivantes.	'suivantes .'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	10		2010	12	10		Une_première_campagne_d_	Une première campagne d'échantillonnage (15 sondages exploitables (de S1 à S17) sur des profondeurs de 1 à 5 m) a eu lieu le 10 décembre 2010, sur les paramètres suivants :		
+				2012	02	28		ces_travaux	La société SOLEO SERVICE a réalisé ces travaux du 9 au 28 février 2012.		'La société SOLEO SERVICE'
+2012	04	20		2012	04	20		a_transmis	En complément de ce rapport, il a transmis le 20 avril 2012, un dossier, n° IC110310-3 relatif aux prélèvements des sols au droit de l'ancienne cuve compartimentée de 30 000 l de carburant et un dossier n° IC110310-2, de récolement relatif aux travaux de dépollution et d’autre part le 24 janvier 2013 le rapport IC100317 correspondant a l'étude historique et documentaire avec le diagnostic de pollution du sous-sol au droit de la succursale Citroën, réalisé par IDDEA à OLIVET (45160).	'carburant'	'la succursale Citroën', 'IDDEA'
+2011	03			2011	03			des_investigations_de	Au regard des investigations de décembre 2010 et mars 2011, il apparaît que :		
+2011	03			2011	03			une_campagne_d__investigations	Après analyse des premiers résultats, une campagne d'investigations complémentaires a été réalisée en mars 2011, sur les zones ayant fait apparaître des anomalies.		
+2011	12	15		2011	12	15		a_cessé	L'exploitant a cessé ses activités de stockage de liquide inflammables et d'application et séchage de peintures à la date du 15 décembre 2011.	'liquide inflammables'	
+2010	12			2010	12			des_investigations_de	Au regard des investigations de décembre 2010 et mars 2011, il apparaît que :		
+2011	12	15		2011	12	15		sa_cessation_d__activité	L'exploitant a déclare le 15 décembre 2011 sa cessation d'activité.		

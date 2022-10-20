@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	1		2005	02	1		Une_première_visite	Une première visite du site effectuée le 1er février 2005 a permis de constater que les opérations de démantèlement des machines, de nettoyage des sols et d’enlèvement des déchets et résidus du site étaient réalisées.		
+2004	06	14		2004	06	14		sa_cessation	Le 14 juin 2004, la société EUPEC déclare sa cessation d'activité, qui était soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 2 juin 1996.		'la société EUPEC'
+2006	04	27		2006	04	27		Une_seconde_visite	Une seconde visite effectuée le 27 avril 2006 a révélé que le sol de l’ancien stockage de brais était correctement nettoyé, les déchets ayant été éliminés dans une filière autorisée.	'les déchets'	
+2006	05	15		2006	05	15		a_fait_l__objet	Compte tenu des éléments ci-dessus, ce site a fait l'objet, le 15 mai 2006, d'un procès-verbal de récolement par l'inspection des installations classées relatif à la remise en état du site pour un usage industriel.		
+				2003				se_sont_poursuivies	Ces activités se sont poursuivies jusqu'en 2003, date de la fermeture partielle du site.		
+1965				1965				a_été_reconverti	En 1965 le bâtiment a été reconverti pour des activités de parachèvement de tubes en acier (application de revêtements anti-corrosion, résines, peintures et bitumes).		
+1950				1950				implanta	En 1950 la société WENDEL et CIE implanta un train à fil sur ce site.		'la société WENDEL', 'et CIE'

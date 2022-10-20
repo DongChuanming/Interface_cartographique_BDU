@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	11			1992	11			pour_l__implantation_de	 pour l'implantation de deux piézomètres en vue de la surveillance de l'impact des déchets radioactifs sur l'aquifère (novembre 1992 pour l'implantation des piézomètres),		
+2004				2004				__construction_d_	- 2004: construction d'un bâtiment de stockage au droit d'une partie du dépôt enterré avec mise en place des préconisations de l'IRSN, et de la DDASS consultés sur le projet et reprises dans un courrier de M. le Préfet de l'Eure en date du 15/09/2004		'DDASS', "le Préfet de l' Eure"
+2004	09	15		2004	09	15		un_courrier	- 2004: construction d'un bâtiment de stockage au droit d'une partie du dépôt enterré avec mise en place des préconisations de l'IRSN, et de la DDASS consultés sur le projet et reprises dans un courrier de M. le Préfet de l'Eure en date du 15/09/2004		'DDASS', "le Préfet de l' Eure"
+2004				2004				__excavation	- 2004: excavation de 137m3 supplémentaire de terres		
+2005				2005				__remise	-2005: remise par l'exploitant d'une première évaluation des risques sanitaires et environnementaux sousmise à l'avis de l'IIC, de l'IRSN et de la DDASS.		'DDASS'
+1986	11			1986	11			Des_travaux_de_fondation	Des travaux de fondation ont remis à jour en novembre 1986 des dépôts enterrés de résidus solides issus de la production de la Société des Terres Rares, ancien exploitant du site entre 1920 et 1941.	'résidus solides'	'la Société des Terres Rares'
+1920				1949				sont_implantées	Les installations de l'usine ARKEMA à Serquigny sont implantées sur un ancien site industriel, ayant accueilli la Société des Produits Chimiques des Terres Rares (STR) entre 1920 et 1949.	'STR'	'ARKEMA', 'Serquigny', 'la Société des Produits Chimiques des Terres Rares'
+2006				2015				__travaux_de_réhabilitation	- de 2006 à 2015 : travaux de réhabilitation (excavation puis stockage dans une zone dédiée) mis en oeuvre,		
+1986				1986				a_été_excavé	Une partie du dépôt enterré a été excavé en 1986 et stockée sur le site (dépôt aérien).		
+2005				2005				__mise_en_conformité	- 2005: mise en conformité du dépôt aérien vis-àvis des préconisations de l'OPRI	'OPRI'	
+1944				1944				a_cessé	La société des Terres Rares a cessé l'activité à l'origine de ces dépôts en 1944.		'La société des Terres Rares'
+2004				2004				__demande_d__acceptation	- 2004: demande d'acceptation des déchets sur un site ANDRA (Monvilliers): réponse négative de l'ANDRA en date du 13/08/2004		'un site ANDRA', "l' ANDRA"
+2005				2005				une_cartographie_générale_du_site	- 2005: réalisation d'une cartographie générale du site permettant de disposer d'un état radiologique de la totalité du site avec mise en évidence de plusieurs nouvelles zones où les valeurs d'exposition des salariés dépassent les seuils fixés par la Direction Générale de la Santé (0.2µG/h et 1µG/h).		'la Direction Générale de la Santé'
+1987	06			1987	06			Sondages_et	- Sondages et carottages effectués par l'exploitant (juin 1987),		
+2004				2004				à_de_nouveaux_travaux_de_construction	En 2004 suite à de nouveaux travaux de construction au droit du dépôt enterré, une nouvelle quantité de terres (137 m3) a été extraite afin de respecter les seuils d'exposition fixée par la Direction Générale de la Santé.		'la Direction Générale de la Santé'
+								est_autorisé	Le site Arkema est autorisé depuis les années 1950.		'Le site Arkema'

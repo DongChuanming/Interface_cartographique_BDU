@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	10		2011	11	10		un_courrier	ESSO SAF a accompagné ces deux rapports d'un courrier, en date du 10 novembre 2011, de la société ANTEA (consultant environnemental) qui conclut :		'ESSO SAF', 'la société ANTEA'
+2010	12	09		2010	12	09		a_informé	Par courrier en date du 9 décembre 2010, l'exploitant a informé les services de la préfecture de l'arrêt définitif de l'installation.		'les services de la préfecture'
+2008	12			2008	12			Trois_études_ont_été_réalisées	Trois études ont été réalisées en décembre 2006, décembre 2008 et août 2009, relatives à, l'historique du site, à l'impact de l'activité sur les sols et les eaux souterraines, et au suivi d'une première phase de travaux.		
+2012	03	26		2012	03	26		la_cessation_d__activités	Suite au rapport de l'inspection des installations classées fait le 26 mars 2012, la cessation d'activités de la station service Esso a été finalisée.		'la station service Esso'
+2011	01			2011	01			deux_nouvelles_études_ont_été_réalisées	En janvier 2011 et août 2011, deux nouvelles études ont été réalisées, reprenant les travaux complémentaires effectués sur la station :		
+1962				1962				exploite	La société ESSO SAF exploite cette installation depuis 1962.		'La société ESSO SAF'
+2006	12			2006	12			Trois_études_ont_été_réalisées	Trois études ont été réalisées en décembre 2006, décembre 2008 et août 2009, relatives à, l'historique du site, à l'impact de l'activité sur les sols et les eaux souterraines, et au suivi d'une première phase de travaux.		
+1955				2008	12			a_été_exploitée	La station service située à l'angle du boulevard Arthur Verdier et de la rue Brétignère sur le territoire de la commune de La Rochelle (17), a été exploitée de 1955 à décembre 2008.		'La Rochelle ( 17 )'
+2009	08			2009	08			Trois_études_ont_été_réalisées	Trois études ont été réalisées en décembre 2006, décembre 2008 et août 2009, relatives à, l'historique du site, à l'impact de l'activité sur les sols et les eaux souterraines, et au suivi d'une première phase de travaux.		
+2011	08			2011	08			deux_nouvelles_études_ont_été_réalisées	En janvier 2011 et août 2011, deux nouvelles études ont été réalisées, reprenant les travaux complémentaires effectués sur la station :		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				à_cessé	* Ancien atelier de traitement de surface des métaux (95 m3 de bain) situé sur un site entièrement clos en zone industrielle et dont l'activité à cessé fin 1996.		
+2002	03	28		2002	03	28		a_été_clôturée	La liquidation étant impécunieuse, celle-ci a été clôturée le 28 mars 2002, par radiation au greffe du Tribunal de Commerce de TOURS.		'Tribunal de Commerce de TOURS'
+1997	04	14		1997	04	14		l__arrêté_de_mise_en_demeure	Le tribunal administratif d'Orléans a lors de son jugement du 09/03/2000 confirmé l'arrêté de mise en demeure du 14/04/1997.		"Le tribunal administratif d' Orléans"
+1997				1997				a_été_démantelé	L'atelier a été démantelé dans le courant de l'année 1997.		
+2000	03	09		2000	03	09		son_jugement	Le tribunal administratif d'Orléans a lors de son jugement du 09/03/2000 confirmé l'arrêté de mise en demeure du 14/04/1997.		"Le tribunal administratif d' Orléans"
+2001	10	08		2001	10	08		a_fait_procéder	Par arrêté préfectoral du 08 octobre 2001, Monsieur le Préfet d’Indre-et-Loire a fait procéder à une consignation de fonds du liquidateur, à hauteur de 105 000 francs, la somme ne devant être restituée qu’après la réalisation dudit diagnostic.		'le Préfet'

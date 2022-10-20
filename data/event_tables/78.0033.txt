@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				Deux_campagnes_de_prélèvements	Deux campagnes de prélèvements et d'analyses ont été réalisée en 2013 au niveau de deux pièzomètres voisins du site (PZ1 et PZ7) sur les composés organohalogénés volatils, les hydrocarbures aromatiques polycycliques et les hydrocarbures aromatiques :	'les composés organohalogénés volatils', 'les hydrocarbures aromatiques polycycliques', 'les hydrocarbures aromatiques'	
+2013	03	25		2013	03	25		réalisée	- Une réalisée le 25 mars 2013 (hautes eaux).		
+2013	09	26		2013	09	26		réalisée	- une réalisée le 26 septembre 2013 (basses eaux) Pour le piézomètre Pz1, les polluants mesurés sont situés sous la limite de quantification.		
+2003	05	12		2003	05	12		a_été_transmis	Le diagnostic approfondi a été transmis le 12 mai 2003 et complété le 2 août 2003.		
+2002	06	06		2002	06	06		ont_été_transmises	Elles ont été transmises le 6 juin 2002.		
+2013	03	07		2013	03	07		cette_modification	Un arrêté préfectoral complémentaire du 7 mars 2013 concerne cette modification de prescriptions relatives à la surveillance.		
+2003	08	02		2003	08	02		complété	Le diagnostic approfondi a été transmis le 12 mai 2003 et complété le 2 août 2003.		

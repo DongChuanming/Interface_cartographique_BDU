@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	23		2003	10	23		ces_mesures_ont	La DRIRE a proposé des prescriptions visant à poursuivre la surveillance des eaux souterraines et des investigations complémentaires afin de préciser l'étendue de la zone polluée avant traitement. ces mesures ont été prescrites par arrêté préfectoral du 23 octobre 2003.		'La DRIRE'
+2002	10	02		2002	10	02		L__Evaluation_Simplifiée_des_Risques	L'Evaluation Simplifiée des Risques a été remise à la DRIRE par l'ancien exploitant le 02 octobre 2002.		'la DRIRE'
+2004	03	17		2004	03	17		un_diagnostic	L'exploitant a remis à la DRIRE le 17 mars 2004, un diagnostic complémentaire sur la pollution des sols.		'la DRIRE'
+2003	11	20		2003	11	20		a_proposé	Par courrier du 20 novembre 2003, BACCARAT a proposé un plan d'intervention.		'BACCARAT'

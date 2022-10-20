@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1948	03			1948	03			Le_fonçage	Le fonçage du puits a débuté en mars 1948.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'INERIS', 'BRGM'

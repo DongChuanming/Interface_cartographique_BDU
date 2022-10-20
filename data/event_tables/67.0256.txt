@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	04	03		1995	04	03		du	La société a été liquidé par jugement du tribunal du 3 avril 1995.		
+2017	06			2017	06			Des_études_ont_ciblé	Des études ont ciblé la caractérisation des zones sources de la pollution et  transmis à l’administration en juin 2017.		
+1995	04	03		1995	04	03		par_jugement	La société a été liquidé par jugement du tribunal du 3 avril 1995.		
+1973	08	22		1973	08	22		était_soumise_à_autorisation	Elle était soumise à autorisation (arrêté  préfectoral du 10 mars 1971 et du 22 août 1973).		
+1995	05	15		1995	05	15		L__arrêt_des_activité	L’arrêt des activité a eu lieu le 15 mai 1995.		
+1995	04	03		1995	04	03		a_été_liquidé	La société a été liquidé par jugement du tribunal du 3 avril 1995.		
+1973	08	22		1973	08	22		et_du	Elle était soumise à autorisation (arrêté  préfectoral du 10 mars 1971 et du 22 août 1973).		
+1995				2016				a_été_réalisée	L’évacuation de déchets et produits dangereux a été réalisée de 1995 à 2016.		

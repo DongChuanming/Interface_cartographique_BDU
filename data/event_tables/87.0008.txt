@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_diagnostics_et_études_relatifs	Les diagnostics et études relatifs à la décharge interne ont été réalisés préalablement aux années 2000 et ne répondent donc pas aux nouvelles dispositions afférentes aux nouvelles dispositions de gestion des sites et sols pollués entrées en vigueur en 2007.		
+				2005				est_réalisé	Un suivi des eaux souterraines est réalisé jusqu'en 2005 via quatre ouvrages piézométriques.		
+1994	03	18		1994	03	18		a_été_délivré_en	Un arrêté préfectoral d'autorisation lui a été délivré en date du 18 mars 1994.		
+1995				2009				Différentes_investigations_ont_été_menées	Différentes investigations ont été menées sur ces sites de 1995 à 2009 afin d'étudier l'impact que la dépose de déchets, directement sur des terrains naturels, a pu entraîner sur le milieu naturel.		
+1999				1999				ont_définitivement_été_mises_à_l__arrêt	Ses activités ont définitivement été mises à l'arrêt en 1999 et les bâtiments correspondant à l'activité originelle ont été vendue à la société VALDI, tandis que les activités de fonderie sont reprises par la Fonderie de Cuivre du Palais (FCP).		'la société VALDI', 'la Fonderie', 'de Cuivre du Palais'
+1917				1999				a_exploité	La CGEP a exploité de 1917 à 1999 des activités de raffinage électrolytique du cuivre, de fonderie de cuivre et de pyrométallurgie.	'cuivre', 'cuivre'	'La CGEP'
+2007				2007				Un_diagnostic_environnemental	Un diagnostic environnemental réalisé en 2007 concerne ces deux zones.		

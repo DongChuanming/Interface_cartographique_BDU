@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1999				accueillait	Une décharge interne, exploitée entre 1976 et 1999, accueillait les boues de la station d'épuration de la société EPI (voir également fiche BASOL n° 87.0017 pour le site industriel de cette société anciennement exploité à Champagnac-la-Rivière).		'la société EPI'
+2013	03			2013	03			une_nouvelle_campagne	Afin de mettre à jour les modalités de surveillance au droit du site, un bilan quadriennal a été demandé à la Société AIR LIQUIDE WELDING FRANCE, aboutissant à une nouvelle campagne en mars 2013 et donnant lieu à un bilan de l'ensemble de la surveillance daté du 25 avril 2013.		'la Société AIR LIQUIDE WELDING FRANCE'
+2003	03	13		2003	03	13		a_fait_l__objet_d_	Il a fait l'objet d'une demande de compléments le 13 mars 2003.		
+1995				1995				était_alors_effectuée	Depuis 1995, une surveillance de la qualité des eaux souterraines était alors effectuée par un réseau de 5 piézomètres (dont 4 à l'aval hydraulique du site).		
+1976				1999				exploitée	Une décharge interne, exploitée entre 1976 et 1999, accueillait les boues de la station d'épuration de la société EPI (voir également fiche BASOL n° 87.0017 pour le site industriel de cette société anciennement exploité à Champagnac-la-Rivière).		'la société EPI'
+2005	07	28		2005	07	28		Une_inspection	Une inspection du 28 juillet 2005 a permis de constater la réalisation des travaux de réhabilitation prévus par l'arrêté préfectoral du 11 février 2002.		
+2004	05			2004	05			a_eu_clôture	Il y a eu clôture de l'enquête publique en mai 2004.		
+2008				2008				Les_derniers_résultats_de_surveillance	Les derniers résultats de surveillance de la nappe datent de 2008 et montrent la présence de cuivre, de nickel et de zinc dans cette dernière, mais l'impact apparaît limité.	'cuivre', 'nickel', 'zinc'	
+				2006	08			était_réalisée	La surveillance du site, commencée en 1995 (cf. § A ci-dessus) était réalisée, jusqu'en août 2006, par la société SCS.		'la société SCS'
+1976	08	05		1976	08	05		L__activité_de	L'activité de cette décharge fut autorisée par arrêté préfectoral le 5 août 1976.		
+2003	07			2003	07			Un_dossier	Un dossier de demande d'institution de "SUP" (servitudes d'utilité publique) a été déposé en juillet 2003.		
+2013	04	25		2013	04	25		bilan_quadriennal	Afin de mettre à jour les modalités de surveillance au droit du site, un bilan quadriennal a été demandé à la Société AIR LIQUIDE WELDING FRANCE, aboutissant à une nouvelle campagne en mars 2013 et donnant lieu à un bilan de l'ensemble de la surveillance daté du 25 avril 2013.		'la Société AIR LIQUIDE WELDING FRANCE'
+2006	01	12		2006	01	12		a_été_signé	Le projet d'arrêté d'institution de "SUP" proposé en CDH (Conseil départemental d'hygiène) du 17 novembre 2005 a été signé le 12 janvier 2006.		'SUP "'
+				2006	08			a_été_réalisée	La surveillance du site a été réalisée jusqu'en août 2006, par la société SCS.		'la société SCS'
+2003	01	11		2003	01	11		a_été_remis	Un rapport de fin de travaux a été remis à l'inspecteur des Installations Classées le 11 janvier 2003.		

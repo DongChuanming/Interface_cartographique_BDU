@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	13		2011	05	13		avait_demandé_par_courrier	A la suite de l'instruction du plan de gestion établi par SEVEQUE Environnement (référencé 3 59 425 rev A ), l'inspection avait demandé par courrier du 13 mai 2011 des compléments notamment concernant :		'SEVEQUE Environnement'
+1923				1923				a_été_créée	La société COMTEX-CARBONISAGE de MOUVAUX a été créée en 1923 et a exploité une unité de carbonisage de laine sur le site de Mouvaux.		'La société COMTEX - CARBONISAGE', 'de MOUVAUX'
+2007	01			2007	01			Un_premier_diagnostic	Un premier diagnostic a été réalisé en janvier 2007 par le bureau d’étude SOCOTEC (dossier S220018).		'SOCOTEC'
+2011	10			2011	10			a_procédé_à_des_investigations_complémentaires	SEVEQUE Environnement a procédé à des investigations complémentaires en octobre 2011 qui se sont traduites par 26 sondages complémentaires et 20 échantillons analysés.		'SEVEQUE Environnement'
+2007	04			2007	04			Un_diagnostic_complémentaire_a_été_réalisé_en	Un diagnostic complémentaire a été réalisé en avril 2007 par SOCOTEC (S226065).		'SOCOTEC'

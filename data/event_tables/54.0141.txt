@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	04	13		2016	04	13		de_la_réunion	Lors de la réunion du 13 avril 2016, le maître d'ouvrage a apporté la preuve que des travaux ont été réalisés.		
+2016	04	13		2016	04	13		a_apporté	Lors de la réunion du 13 avril 2016, le maître d'ouvrage a apporté la preuve que des travaux ont été réalisés.		
+								m__avez_confirmé	Par message électronique du 23 décembre 2015, photos à l’appui, vous m’avez confirmé la fin des travaux de la première phase relatifs à la  est programmée début janvier.		

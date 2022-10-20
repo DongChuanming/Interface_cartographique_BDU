@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1961				1961				s__est_implanté	Le site s'est implanté à Lillebonne dans la rue Henri Messager en 1961 (arrêté préfectoral en date du 28 novembre 1961) jusqu'en 1988, date à laquelle la société a été rachetée par les salariés, renomée Société Normande de Tuyauterie Flexible et transférée sur le site de la rue Boissière à La Frenaye.		'Normande de Tuyauterie Flexible'
+								a_été_vendu	Le site de Lillebonne a été vendu à la commune de lillebonne dans les années 90.		
+				1988				s__est_implanté	Le site s'est implanté à Lillebonne dans la rue Henri Messager en 1961 (arrêté préfectoral en date du 28 novembre 1961) jusqu'en 1988, date à laquelle la société a été rachetée par les salariés, renomée Société Normande de Tuyauterie Flexible et transférée sur le site de la rue Boissière à La Frenaye.		'Normande de Tuyauterie Flexible'
+				2011				Les_travaux_devraient_commencer	Les travaux devraient commencer courant juillet 2011 jusque fin 2011.		
+2011	07			2011	07			Les_travaux_devraient_commencer	Les travaux devraient commencer courant juillet 2011 jusque fin 2011.		

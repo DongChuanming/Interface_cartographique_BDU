@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1882				2008				a_été_exploité	Le site a été exploité de 1882 à 2008.		
+2006	12			2008	12			Une_première_phase_de_dépollution	Une première phase de dépollution a eu lieu entre décembre 2006 et décembre 2008 sur les zones les plus polluées identifiées lors du diagnostic approfondi.		
+2008	08	21		2008	08	21		a_été_notifiée	Celle-ci a été notifiée par l'exploitant au Préfet le 21 août 2008 et reste à compléter concernant, notamment, l’usage futur du site.		
+2009				2009				a_été_démantelé	L’ensemble des bâtiments et des infrastructures a été démantelé fin 2008 et courant 2009, à l’exception des bâtiments en limite de propriété contigu au mur encerclant le site.		
+2009				2009				Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en 2009 dans le but de caractériser les zones à risques non investiguées lors des diagnostics précédents dans la zone Ouest du site.		
+2013				2013				est_toujours_en_cours	Le traitement des terres polluées de la partie Ouest, commencé en octobre 2010, est toujours en cours en 2013.		
+2007	06	22		2007	06	22		a_été_pris	Un arrêté complémentaire a été pris le 22 juin 2007 fixant les modalités de la cessation définitive d’activité.		
+2000				2000				une_évaluation_simplifiée_des_risques_réalisés	Un diagnostic des sols et une évaluation simplifiée des risques réalisés en 2000 avaient révélé des traces de pollution du sous-sol au droit du site.		
+2002	06	24		2002	06	24		la_mise_en_place_d__une	Cette constatation a conduit à prescrire, par un arrêté préfectoral du 24 juin 2002, la mise en place d’une surveillance des eaux souterraines de la nappe alluviale et de la nappe du Bathonien et la réalisation d'un diagnostic approfondi de pollution.		
+2008				2008				a_été_démantelé	L’ensemble des bâtiments et des infrastructures a été démantelé fin 2008 et courant 2009, à l’exception des bâtiments en limite de propriété contigu au mur encerclant le site.		
+2003				2003				Le_diagnostic_approfondi	Le diagnostic approfondi, réalisé en 2003, a amené à l’identification de zones de pollution.		
+2010	10			2010	10			est_toujours_en_cours	Le traitement des terres polluées de la partie Ouest, commencé en octobre 2010, est toujours en cours en 2013.		

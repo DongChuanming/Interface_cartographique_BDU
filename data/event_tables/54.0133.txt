@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	08	06		2014	08	06		a_été_établi	Dans le cadre de la cessation définitive d'activité, un mémoire de notification de cessation d’activité a été établi le 6 août 2014 par le cabinet SEMACO ENVIRONNEMENT.		'le cabinet SEMACO ENVIRONNEMENT'
+2016	05			2016	05			ont_été_remis	Ces éléments ont été remis à l'inspection en mai 2016 et sont actuellement en cours d'instruction.		
+2014	04			2014	04			a_procédé_à	Le bureau d’étude SEMACO ENVIRONNEMENT a procédé à des investigations de terrain en avril 2014.		'SEMACO ENVIRONNEMENT'

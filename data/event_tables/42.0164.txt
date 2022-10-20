@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1964	07	31		1964	07	31		ayant_donné_lieu	Le site a connu diverses activités soumises à déclaration, ayant donné lieu à des récépissés successifs en dates des 31 juillet 1964, 20 février 1970, 8 avril 1974, 30 octobre 1991 et 19 février 1996.		
+2005				2005				a_repris	La société CHAZOT TRANSPORTS qui a repris le site en 2005, pratique une activité de transports routiers de marchandises et le récépissé de déclaration de mise à l’arrêt définitif a été signé le 05 février 2014.		'La société CHAZOT TRANSPORTS'
+2014	02	05		2014	02	05		a_été_signé	La société CHAZOT TRANSPORTS qui a repris le site en 2005, pratique une activité de transports routiers de marchandises et le récépissé de déclaration de mise à l’arrêt définitif a été signé le 05 février 2014.		'La société CHAZOT TRANSPORTS'
+1996	02	19		1996	02	19		a_connu	Le site a connu diverses activités soumises à déclaration, ayant donné lieu à des récépissés successifs en dates des 31 juillet 1964, 20 février 1970, 8 avril 1974, 30 octobre 1991 et 19 février 1996.		
+1991	10	30		1991	10	30		a_connu	Le site a connu diverses activités soumises à déclaration, ayant donné lieu à des récépissés successifs en dates des 31 juillet 1964, 20 février 1970, 8 avril 1974, 30 octobre 1991 et 19 février 1996.		
+2013	12	31		2013	12	31		a_cessé	- l’activité exercée au titre de la rubrique 2710 a cessé au 31 décembre 2013.		

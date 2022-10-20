@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1954				1954				appartenait_à	Avant 1954, le terrain appartenait à la Société Usinor-Sacilor (activité : crassier).		'la Société Usinor - Sacilor'
+1984				1984				s__est_arrêtée	L'activité s'est arrêtée en 1984 ; les terrains ont servi de stockage de ferrailles jusque 1989, date à laquelle les dépôts ont été enlevés.		
+				1989				stockage_de_ferrailles	L'activité s'est arrêtée en 1984 ; les terrains ont servi de stockage de ferrailles jusque 1989, date à laquelle les dépôts ont été enlevés.		
+				1989				ont_servi_de	L'activité s'est arrêtée en 1984 ; les terrains ont servi de stockage de ferrailles jusque 1989, date à laquelle les dépôts ont été enlevés.		

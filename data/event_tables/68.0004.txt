@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				2000				a_été_traité_par_dissolution_accélérée	Le terril ALEX a été traité par dissolution accélérée de 1989 à 2000.		
+2010				2010				ont_fortement_diminuées	Les concentrations en chlorure dans les eaux souterraines en aval du terril ont fortement diminuées passant de 16 g/L à  9 g/L entre 2000 et 2010.	'chlorure'	
+2000				2000				ont_fortement_diminuées	Les concentrations en chlorure dans les eaux souterraines en aval du terril ont fortement diminuées passant de 16 g/L à  9 g/L entre 2000 et 2010.	'chlorure'	

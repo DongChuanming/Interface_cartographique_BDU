@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06			1998	06			ont_été_arrêtées	Depuis juin 1998 les analyses ont été arrêtées.		
+1983				1983				la_constatation_d__une_pollution	Après la constatation d'une pollution par des solvants chlorés et du chrome hexavalent en 1983, le captage a été abandonné mais est toujours équipé d'une pompe de 12 m3/h.	'chlorés', 'chrome hexavalent'	
+1998				1998				Les_analyses_réalisées	Les analyses réalisées par le BRGM (Bureau de Recherches Géologiques et Minières) à la demande de la DRIRE (Direction Régionale de l'Industrie, de la Recherche et de l'Environnement) en 1998 ont montré la persistance de la pollution par les composés chlorés et la disparition du chrome.	'les composés chlorés', 'chrome'	'le BRGM', 'la DRIRE'

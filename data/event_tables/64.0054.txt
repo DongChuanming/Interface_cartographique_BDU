@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03			2004	03			ont_été_remises	Les études ont été remises en mars 2004.		
+2012	09	06		2012	09	06		exploitée	Scierie avec traitement du bois exploitée depuis le 6 septembre 2012 par la société DISTRIBUTION Installation de MATERIAUX BOIS PANNEAUX (DMBP) sur la commune de Bayonne (64).		'Scierie', 'la société DISTRIBUTION Installation de MATERIAUX BOIS PANNEAUX', 'DMBP'
+2006	09	04		2006	09	04		a_été_transmis	Aucun résultat n'a été transmis le 4 septembre 2006.		
+2006	12	07		2006	12	07		est_autorisée	Cette installation est autorisée par l'arrêté préfectoral du 8 juin 1995 modifié par l'arrêté préfectoral du 7 décembre 2006.		

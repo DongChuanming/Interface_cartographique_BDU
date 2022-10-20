@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	09	10		2015	09	10		a_été_pris	Le 10 septembre 2015, un arrêté préfectoral de mise en demeure a été pris à l'encontre de l'exploitant pour exiger le respect des valeurs limites en matières en suspension dans les rejets aqueux du site dans le cours d'eau des Eaux Claires.		
+2003	04	03		2003	04	03		ont_ensuite_été_mis_en_place	Deux nouveaux piézomètres ont ensuite été mis en place le 31 mars et 3 avril 2003, complétant ainsi le dispositif existant.		
+2007	12			2007	12			ont_été_démantelées	En décembre 2007, 2 cuves de fioul lourd ont été démantelées.	'fioul lourd'	
+1999	02	16		1999	02	16		a_été_autorisée_en_dernier_lieu	L'activité a été autorisée en dernier lieu par arrêté préfectoral du 16 février 1999.		
+2002	03	25		2002	03	25		a_été_remise	La phase A de l'étude de sol a été remise le 25 mars 2002.		
+								ont_ensuite_été_mis_en_place	Deux nouveaux piézomètres ont ensuite été mis en place le 31 mars et 3 avril 2003, complétant ainsi le dispositif existant.		
+2002	07	18		2002	07	18		a_confirmé	Par conséquent, l'inspection a confirmé à l'exploitant, par courrier du 18 juillet 2002, la nécessité de réaliser l'étape B, conformément à la méthodologie du guide BRGM relatif à la gestion des sites (potentiellement) pollués.		'BRGM'
+2005	09	28		2005	09	28		un_nouveau_prélèvement	Le 28 septembre 2005, un nouveau prélèvement d'échantillons d'eau est réalisé.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été imposé à l'exploitant de cette unité, à titre préventif.		
+2015	07	21		2015	07	21		ont_été_relevés	Lors de l'inspection du 21 juillet 2015, six écarts ont été relevés (tels que des dépassements de normes lors des rejets de la station d'épuration dans un cours d'eau voisin).		
+2015	07	21		2015	07	21		l__inspection	Lors de l'inspection du 21 juillet 2015, six écarts ont été relevés (tels que des dépassements de normes lors des rejets de la station d'épuration dans un cours d'eau voisin).		

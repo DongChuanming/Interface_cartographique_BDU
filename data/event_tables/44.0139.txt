@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				sont_arrêtées	En 2017, les activités du site sont arrêtées et le site est inutilisé.		
+2017				2017				été_déterminé	L’usage futur de ce site n’a pas été déterminé par l'exploitant en 2017.		
+2017	06			2017	06			Un_diagnostic_simplifié_de_pollution_des_sols_a_été_réalisé	Un diagnostic simplifié de pollution des sols a été réalisé en juin 2017. 35 sondages de sols à la foreuse mécanique ont été réalisés au plus près des installations potentiellement polluantes préalablement mises en évidence et qui sont liées à l’activité de garage automobile.		
+				1970				est_occupé	Le site est occupé jusqu’en 1970 par des terres agricoles.		
+1999	07	05		1999	07	05		de_déclaration	DIFATLANTIC a fait l’objet de 2 récépissés de déclaration en date du 05/07/1999 et du 30/04/2003 (atelier de réparation et entretien de véhicules et application, cuisson, séchage de vernis, peinture ...).		'DIFATLANTIC'
+1984				1984				est_acquis	En 1984 le garage est acquis par M.		
+1970				1970				est_construit	Un bâtiment est construit en 1970 pour accueillir un garage et une station-service.		
+				2003	04	30		de_déclaration	DIFATLANTIC a fait l’objet de 2 récépissés de déclaration en date du 05/07/1999 et du 30/04/2003 (atelier de réparation et entretien de véhicules et application, cuisson, séchage de vernis, peinture ...).		'DIFATLANTIC'

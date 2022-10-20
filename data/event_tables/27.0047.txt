@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12			2005	12			a_été_transmis	Le bilan piézomètrique a été transmis à l'inspection des installations classées à l'issue des dernières analyses de décembre 2005.		
+2015	08			2015	08			Le_bilan_quadriennal	Le bilan quadriennal fin 2014 est bien transmis à l'inspection ainsi que la nouvelle tierce expertise du BRGM en août 2015.		'BRGM'
+2002	09			2002	09			reprend	La société DELPHI AFTERMARKET France reprend les activités des Amortisseurs De Carbon en septembre 2002, puis ferme le site en novembre 2002.		'La société DELPHI AFTERMARKET France'
+1972				1974				une_fuite	- entre 1972 et 1974, une fuite sur une cuve du traitement de surface entrainant un rejet dans le sol d'environ une tonne de sels de chrome.	'sels'	'de chrome'
+1998				1998				est_détruite_par	Celle-ci est détruite par un incendie en 1998.		
+1966				1966				est_acheté	En 1966, le site est acheté par M.		
+1997	11	03		1997	11	03		de_déclaration	Un autre bâtiment Liteflex pour la fabrication de lames de ressorts en fibres de verre et époxy est construit et réglementé suivant le récépissé de déclaration du 3 novembre 1997.		'Liteflex'
+2010	09			2010	09			a_été_réalisée	Cette tierce expertise a été réalisée par le BRGM en septembre 2010 ; le rapport a conclu a un certain nombre d'incertitudes sur les sources de la pollution initiale et la qualité des piézomètres.		'le BRGM'
+1989				1989				le_rejet_accidentel	- en 1989, le rejet accidentel d'un bain d'acide chromique dans le bassin d'infiltration, en partie étanche.	'acide'	
+2009				2009				le_bilan	Courant 2009, le bilan des 9 années de suivi est transmis à l'inspection avec une demande d'arrêt de la surveillance de la part de DELPHI France, compte tenu de la diminution puis de la stabilité des différents paramètres suivis.		'DELPHI France'
+1990	07	30		1990	07	30		est_installée	Puis, une chaine de chromage de 67 m3 est installée et réglementée par arrêté préfectoral du 30 juillet 1990.		
+2004				2004				est_vendu	Le site est vendu en 2004 et divisé en 5 lots. 3 sociétés occupent le site.		
+1978	11	24		1978	11	24		se_développe	DE CARBON pour la fabrication d'amortisseurs, puis en 1978, l'activité se développe et une activité de traitements de surfaces et peinture sont installés et réglementés par arrêté préfectoral du 24 novembre 1978.		'DE CARBON'
+2002	11			2002	11			ferme	La société DELPHI AFTERMARKET France reprend les activités des Amortisseurs De Carbon en septembre 2002, puis ferme le site en novembre 2002.		'La société DELPHI AFTERMARKET France'
+2005	12			2005	12			des_dernières_analyses	Le bilan piézomètrique a été transmis à l'inspection des installations classées à l'issue des dernières analyses de décembre 2005.		
+1978				1978				se_développe	DE CARBON pour la fabrication d'amortisseurs, puis en 1978, l'activité se développe et une activité de traitements de surfaces et peinture sont installés et réglementés par arrêté préfectoral du 24 novembre 1978.		'DE CARBON'
+2014				2014				Le_bilan_quadriennal	Le bilan quadriennal fin 2014 est bien transmis à l'inspection ainsi que la nouvelle tierce expertise du BRGM en août 2015.		'BRGM'

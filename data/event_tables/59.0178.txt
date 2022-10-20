@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01			2012	01			a_été_revu	- En janvier 2012, l'usage futur du site a été revu: l'exploitant remet le site en état pour un usage industriel selon l'accord pris avec la municipalité, l'EPF et la communauté d'agglo.		"l' EPF"
+2013	01	16		2013	01	16		un_mémoire_environnemental	- 16/01/2013: L'exploitant a remis au préfet un mémoire environnemental en ce sens.		
+2004				2004				sont_déplacées	- En 2004, les activités du site de Ferrière-la-Grande sont déplacées à Jeumont.		
+2000				2000				Évaluation_Simplifiée_des_Risques	- Évaluation Simplifiée des Risques réalisée en 2000. 4 zones ont été testées. la parcelle K 26 est classée en zone 1 (pollution significative par plomb, zinc, fer, cuivre).	'plomb', 'zinc', 'fer', 'cuivre'	
+2012	12	13		2012	12	13		a_été_racheté	- Le site a été racheté par l'EPF, le 13/12/2012.		"l' EPF"
+								Diagnostic_initial_réalisé	- Diagnostic initial réalisé en 99.		
+2007				2007				Diagnostic_de_pollution_des_sols	- Diagnostic de pollution des sols en 2007: teneurs significatives en métaux, HAP et PCB.	'métaux', 'HAP', 'PCB'	

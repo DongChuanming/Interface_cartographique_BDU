@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	05	29		2013	05	29		fin_de_travaux_transmis	L'inspection a rédigé un procès-verbal de récolement le 26 juin 2013, sur la base d'un dossier de fin de travaux transmis le 29 mai 2013.		
+1921				2009				a_été_exploitée	Une activité de fabrication de condensateurs a été exploitée sur ce site de 1921 à 2009 par la société SIC SAFCO.		'la société SIC SAFCO'
+2013	05	29		2013	05	29		un_procès_verbal_de_récolement	L'inspection a rédigé un procès-verbal de récolement le 26 juin 2013, sur la base d'un dossier de fin de travaux transmis le 29 mai 2013.		
+2013	06	26		2013	06	26		un_procès_verbal_de_récolement	L'inspection a rédigé un procès-verbal de récolement le 26 juin 2013, sur la base d'un dossier de fin de travaux transmis le 29 mai 2013.		
+2013	02			2013	02			Des_travaux_d__excavation	Des travaux d’excavation ont été réalisés en février 2013.		
+2011	03	07		2011	03	07		a_notifié_sa_cessation_définitive_d__activité	La société a notifié sa cessation définitive d'activité le 7 mars 2011.		'La société'
+2012	07	30		2012	07	30		a_été_pris	Aussi, un arrêté préfectoral complémentaire a été pris le 30 juillet 2012 afin que la société SIC SAFCO mette en œuvre des travaux pour supprimer les deux zones sources de pollution en PCB identifiées.	'PCB'	'la société SIC SAFCO'

@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1984				des_lessivages_chimiques	L'origine de cette pollution était l'ancienne exploitation de trois fosses dites "fosses butyles" pour le stockage de déchets liquides provenant du lavage des réchauffeurs d'air liés à la période de fonctionnement au fuel de la centrale jusqu'en 1978 et des lessivages chimiques jusqu'en 1984.	'stockage de déchets liquides', 'fuel'	
+2006	01			2006	01			complété	Un dossier de cessation partielle a été déposé le 27/05/2005 par l'exploitant et complété en janvier 2006 et mars 2007.		
+2005	05	27		2005	05	27		a_été_déposé	Un dossier de cessation partielle a été déposé le 27/05/2005 par l'exploitant et complété en janvier 2006 et mars 2007.		
+1978				1978				a_été_utilisé	La zone de stockage "petit emprunt" a servi au stockage des cendres volantes de 1961 à 1978 et le "grand emprunt" a été utilisé à partir de 1978.	'cendres volantes'	
+2009	03			2009	03			bilan_quadriennal	4/ Un bilan quadriennal a été remis en mars 2009 faisant la synthèse de la surveillance des eaux de nappe sur 2005-2008.		
+								ont_été_vidangées	Les cendres de foyer ont été stockées dans le "parc à mâchefers" à côté du "petit emprunt". 3 anciennes fosses de stockage de suies de fioul ont été vidangées dans les années 80 et comblées en 1996 avec des cendres de charbon et de l'argile en surface.	'fioul', 'charbon'	
+2005				2005				a_été_condamné	Les captages AEP les plus proches ne sont pas menacés, seul le puits de forage du site était atteint par la pollution mais il a été condamné en 2005.		
+2011	12	20		2011	12	20		transmis	Les premiers résultats, transmis le 20/12/2011 par EDF, ne mettent pas en évidence d'impact radiologique des parcs à cendres sur la nappe.		'EDF'
+1998	08			1998	08			a_été_traitée	La zone polluée a été traitée d'août 1998 à septembre 1999 par évacuation et tri des terres, remises en place des terres (volume de terres 2000 m3) ; Un arrêté du 29 juillet 1998 a imposé la dépollution de cette zone et indiqué les conditions de surveillance de la nappe.		
+2012	10			2012	10			La_campagne_de_mesures	La campagne de mesures d'octobre 2012 a montré que les résultats restent stables.		
+2005	07	01		2005	07	01		a_été_arrêtée_à_compter	La tranche 2, dernière tranche utilisée, a été arrêtée à compter du 01/07/2005.		
+2002	07	19		2002	07	19		a_été_déposé	Le document final a été déposé le 19 juillet 2002 et propose le classement du site au niveau 2, c'est-à-dire celui d'un site nécessitant une surveillance de la qualité des eaux souterraines.		
+2005				2005				était_atteint_par	Les captages AEP les plus proches ne sont pas menacés, seul le puits de forage du site était atteint par la pollution mais il a été condamné en 2005.		
+2007	03			2007	03			complété	Un dossier de cessation partielle a été déposé le 27/05/2005 par l'exploitant et complété en janvier 2006 et mars 2007.		
+2011	10			2011	10			ont_été_réalisées	Les premières mesures ont été réalisées en octobre 2011.		
+1996				1996				a_mené	2/ Suite au démantèlement de 5 cuves à fuel du centre, EDF a mené en 1996 des études afin de contrôler l'état des sols au niveau de ces installations.	'fuel'	'EDF'
+2012	04	18		2012	04	18		La_deuxième_campagne_a_été_réalisée	La deuxième campagne a été réalisée le 18 avril 2012 et confirme le constat d'absence d'impact radiologique constaté suite au premier contrôle.		
+1996				1996				comblées	Les cendres de foyer ont été stockées dans le "parc à mâchefers" à côté du "petit emprunt". 3 anciennes fosses de stockage de suies de fioul ont été vidangées dans les années 80 et comblées en 1996 avec des cendres de charbon et de l'argile en surface.	'fioul', 'charbon'	
+1999	09			1999	09			a_été_traitée	La zone polluée a été traitée d'août 1998 à septembre 1999 par évacuation et tri des terres, remises en place des terres (volume de terres 2000 m3) ; Un arrêté du 29 juillet 1998 a imposé la dépollution de cette zone et indiqué les conditions de surveillance de la nappe.		
+								a_réalisé	3/ Conformément au programme de diagnostic des sites potentiellement pollués dans le domaine thermique arrêté avec le ministère chargé de l'environnement, EDF a réalisé au 1er semestre 2000 le rapport d'étape A du diagnostic initial du centre de production de Champagne sur Oise.		
+2012	11			2012	11			un_contrôle	Les points de rejet du site (eaux pluviales) ont fait l'objet d'un contrôle en novembre 2012 et ne montrent pas de pollution.		
+2000				2000				a_réalisé	3/ Conformément au programme de diagnostic des sites potentiellement pollués dans le domaine thermique arrêté avec le ministère chargé de l'environnement, EDF a réalisé au 1er semestre 2000 le rapport d'étape A du diagnostic initial du centre de production de Champagne sur Oise.		
+1961				1978				stockage	La zone de stockage "petit emprunt" a servi au stockage des cendres volantes de 1961 à 1978 et le "grand emprunt" a été utilisé à partir de 1978.	'cendres volantes'	
+1961				1978				a_servi_au	La zone de stockage "petit emprunt" a servi au stockage des cendres volantes de 1961 à 1978 et le "grand emprunt" a été utilisé à partir de 1978.	'cendres volantes'	
+2018	11	14		2018	11	14		Les_résultats_transmis	Les résultats transmis au 14 novembre 2018 confirment la stabilité ou la baisse tendancielle des paramètres analysés.		
+1996	05			1996	05			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en mai 1996 par un coût de 1,1 MF).		
+1994				1994				a_été_décelée	1/ Suite à des analyses d'eau de forage internes à la Centrale, une pollution de la nappe par l'ammonium et le sulfate a été décelée en 1994.	'ammonium', 'sulfate'	

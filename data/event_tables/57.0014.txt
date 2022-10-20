@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				sont_redevenues_normales	Les teneurs en PCB dans le réseau d’assainissement sont redevenues normales dès l'année 2000.	'PCB'	
+1998	10			1998	10			Evaluation_simplifiée_des_risques	Une Evaluation simplifiée des risques, réalisée en Octobre 1998, au titre du risque résiduel, classe le site en catégorie 2, à surveiller.		
+				1987				a_exploité	La société FRANCE TRANSFO a exploité jusqu’en 1987 un ancien site industriel situé entre les rues Clovis et Clothilde Aubertin à METZ.		'La société FRANCE TRANSFO'
+								a_été_confiné	Le sous-sol de cette ancienne usine a été confiné au début des années 1990 pour contenir sa contamination aux PCB.	'PCB'	
+1990				1990				Les_travaux_de	Les travaux de confinement réalisés en 1990 ont permis de circonscrire la zone polluée et il est probable que des poches et auréoles de PCB subsistent hors du confinement.	'PCB'	
+1999				1999				détectent	1999 :Des mesures effectuées dans les égouts détectent la présence en faible quantité de PCB dans les eaux usées et les boues de la station d’épuration exploitée par le S.	'PCB'	
+1993				1993				Travaux_de_confinement_réalisés	Travaux de confinement réalisés en 1993.		

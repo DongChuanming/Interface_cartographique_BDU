@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				Exploitation_cessé	Exploitation cessé en 1982.		
+1852				1852				Début_d__exploitation	Début d'exploitation connu : 1852 (fonderie de fonte).		
+2003	01	08		2003	01	08		a_été_racheté	Le site a été racheté par la SARL PMS le 8 janvier 2003, en toute connaissance.		'la SARL PMS'
+2002	11	29		2002	11	29		a_donc_été_pris	Un arrêté préfectoral a donc été pris le 29 novembre 2002 imposant la réalisation de travaux et études à la société ZICKEL DEHAITRE, ancien exploitant et propriétaire.		'la société ZICKEL DEHAITRE'
+2001	10			2001	10			un_diagnostic_environnemental	En octobre 2001, un diagnostic environnemental a été réalisé.		
+2003	07	17		2003	07	17		ont_été_transmis	Un dossier de cessation d'activité ainsi qu'un mémoire sur l'état du site ont été transmis par la préfecture de l'Aisne à l'inspection des installations classées en date du 17 juillet 2003.		'la préfecture'
+2003	02	07		2003	02	07		La_liquidation_judiciaire	La liquidation judiciaire de la SA ZICKEL DEHAITRE a été prononcée le 7 février 2003.		'la SA ZICKEL DEHAITRE'
+2003	09			2003	09			un_diagnostic_approfondi	Suite à la demande de l'inspection, un diagnostic approfondi a été réalisé en septembre 2003.		
+2003				2003				La_mise_en_sécurité	La mise en sécurité du site a été réalisée en 2003 lors de la démolition de l'ensemble des bâtiments.		

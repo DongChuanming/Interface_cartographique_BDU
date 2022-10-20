@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	30		2009	04	30		a_cessé_ses_activités	Ce site a cessé ses activités le 30 avril 2009.		
+2011	02	08		2011	02	08		a_fait	Le 8 février 2011, UNIVAR a fait une proposition technique portant sur une dépollution par biostimulation.		'UNIVAR'
+2007	09			2007	09			il_a_été_demandé	Les concentrations en contaminants ne montrant pas de tendance à la diminution d'après les résultats de 2007, en septembre 2007 il a été demandé par le préfet à l'exploitant, d'étudier la pertinence d'une dépollution supplémentaire.	'contaminants'	'le préfet'
+2013	07			2013	07			Le_traitement_par	Le traitement par biostimulation à débuté à la fin du mois de juillet 2013.		
+2012	01	18		2012	01	18		a_fait	Le 18 janvier 2012, UNIVAR a fait une proposition technique et financière pour la mise en place d'un écrémage actif destiné à éliminer les surnageants d'hydrocarbures présents dans la nappe et traités précedemment par des écrémeurs passifs.	"surnageants d'", 'hydrocarbures'	'UNIVAR'
+2007				2007				il_a_été_demandé	Les concentrations en contaminants ne montrant pas de tendance à la diminution d'après les résultats de 2007, en septembre 2007 il a été demandé par le préfet à l'exploitant, d'étudier la pertinence d'une dépollution supplémentaire.	'contaminants'	'le préfet'
+2003	02	06		2003	02	06		L__étude_remise	L'étude remise le 6 février 2003 conclut à un risque considéré comme acceptable pour les cibles visées. elle recommande toutefois un suivi semestriel pour les solvants chloré et les hydrocarbures aromatiques ( BTEX).	'les solvants chloré', 'hydrocarbures aromatiques', 'BTEX'	
+1997				1997				Les_travaux_de_venting	Les travaux de venting ont débuté en 1997 et la quantité de COV extraite était d'environ 1000 kg fin 1999.	'COV'	
+2009	04	10		2009	04	10		qui_a_été_remis	UNIVAR a alors réalisé un plan de gestion  qui a été remis le 10 avril 2009.		'UNIVAR'

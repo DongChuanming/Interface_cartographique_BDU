@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06	18		2002	06	18		a_été_délivré	Un récépissé de déclaration lui a été délivré le 18 juin 2002.		
+2002	06	12		2002	06	12		Par_déclaration	- Par déclaration en date du 12 juin 2002, la société FTS faisait connaître qu’elle succédait à la société KAPFF.		'la société FTS', 'la société KAPFF'
+2002	06	12		2002	06	12		faisait_connaître	- Par déclaration en date du 12 juin 2002, la société FTS faisait connaître qu’elle succédait à la société KAPFF.		'la société FTS', 'la société KAPFF'
+1984	08	10		1984	08	10		exploitait_à	- La société FTS exploitait à ARRAS un atelier de traitement de surface fonctionnant sous couvert d’un arrêté préfectoral d’autorisation en date du 06 octobre 1975 modifié par un arrêté préfectoral complémentaire en date du 10 août 1984.		'La société FTS'

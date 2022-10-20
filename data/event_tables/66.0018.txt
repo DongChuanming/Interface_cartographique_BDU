@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	10		2003	02	10		a_été_demandée	Une EDR a été demandée par AP du 10 février 2003.		
+1976	07			2000	07			a_été_exploité	L'incinérateur d'ordures ménagères a été exploité de juillet 1976 à juillet 2000.		
+2004	11	08		2004	11	08		a_été_présenté	Le mémoire de cessation d'activité a été présenté le 08 novembre 2004.		

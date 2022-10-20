@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984	07	13		1984	07	13		Les_activités_d__application_de_vernis___de_peinture_et_de_séchage_du_bois	Les activités d'application de vernis, de peinture et de séchage du bois de la société MVM était soumises à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 13 juillet 1984.		'la société MVM'
+1984	07	13		1984	07	13		autorisation	Les activités d'application de vernis, de peinture et de séchage du bois de la société MVM était soumises à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 13 juillet 1984.		'la société MVM'
+2010	09	15		2010	09	15		La_cessation_d__activité	La cessation d'activité a été déclarée le 15 septembre 2010.		
+2010				2010				Le_diagnostic_de_pollution	Le diagnostic de pollution réalisé en 2010 a conduit à détecter trois sources de pollution en hydrocarbures totaux sur le site :	'hydrocarbures totaux'	
+2013	01	22		2013	01	22		de_la_visite_d__inspection	Lors de la visite d'inspection du 22 janvier 2013, il a été constaté que les bâtiments avaient été vidés et que la dalle de l'atelier vernissage a bien été enlevée.		

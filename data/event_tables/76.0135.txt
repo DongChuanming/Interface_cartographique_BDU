@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				dernier_envoi	Jusqu'à présent, aucune trace d'amiante n'a été observée dans les eaux souterraines (dernier envoi en 2007)	'amiante'	
+2000	07			2000	07			est_devenu	Celui-ci a été la propriété de la société ISOVER ST GOBAIN jusqu'en 1987, puis, suite à différentes ventes (CCI Rouen, France Véhicule Industriel), est devenu la propriété de la société SIAM en juillet 2000.	'France Véhicule Industriel'	'la société ISOVER ST GOBAIN', 'CCI Rouen', 'la société SIAM'
+2007				2007				ne_fournit_plus_les_analyses	Par ailleurs la société ne fournit plus les analyses de ces eaux depuis 2007 à la suite d'une demande au préfet de les arrêter.		
+2001	10			2001	10			une_évaluation_simplifiée_des_risques	A la suite de la découverte de la pollution, le site a fait l'objet d'une évaluation simplifiée des risques en octobre 2001.		

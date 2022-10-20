@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2007				Des_investigations_successives	Des investigations successives ont été réalisées sur les sols et les eaux souterraines jusqu'en 2007.		
+2008	01	11		2008	01	11		Le_récolement	Le récolement a été effectué le 11/01/2008.		
+2007				2007				Des_travaux_de_réhabilitation	Des travaux de réhabilitation, dont l'excavation des sources de pollution, ont été réalisées en 2007 dans le cadre du projet d'aménagement porté sur le site (immeubles d'habitation).		
+1855				1855				s__implante	En 1855, les ETS CARTIER FERREOL s'implante sur le site pour une activité de fabrication d'arômes de plantes et de fruits.		'les ETS CARTIER FERREOL'
+2005	12			2005	12			est_cédé_à	Arrêté en décembre 2005 (suite a un incendie), le site est cédé à un promoteur immobilier en vue d'un projet d'aménagement urbain.		
+2004	10			2004	10			Un_diagnostic_de_sol	Un diagnostic de sol a été effectué en Octobre 2004 (équivalent diagnostic initial).		
+1923	01	03		1923	01	03		de_déclaration	Récépissé de déclaration du 3/01/1923 concernant le dépôt d'alcool éthylique	'alcool éthylique'	
+2007				2007				l__excavation	Des travaux de réhabilitation, dont l'excavation des sources de pollution, ont été réalisées en 2007 dans le cadre du projet d'aménagement porté sur le site (immeubles d'habitation).		
+								se_sont_succédées	Les activités de fabrication et de négoce d'essences aromatiques se sont succédées sur le site depuis le milieu du 19e siècle.		

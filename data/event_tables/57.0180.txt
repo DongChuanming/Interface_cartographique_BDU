@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Diagnostic_Approfondi	4) Diagnostic Approfondi et Évaluation Détaillée des Risques (2003 et suivants)		
+2007	11							l__issue_des_travaux_de_dépollution	A l'issue des travaux de dépollution de juillet 2005 et depuis novembre 2007 :		
+2001	04			2001	04			évacuation	- extraction de la cuve d’huiles usagées et évacuation des terres souillées en centre de traitement en avril 2001 (rapport de septembre 2001) ;	'cuve d’ huiles usagées'	
+2003	12	1		2003	12	1		la_cessation_d__activité	L'ancien exploitant a notifié au Préfet la cessation d’activité de la station-service en date du 1er décembre 2003.		
+1977	01	19		1977	01	19		a_exploité	La société TOTAL a exploité une station-service sur le territoire de la commune de METZ, 23 route de Plappeville (Relais de Mésoyers), soumise à déclaration au titre de la législation sur les installations classées pour la protection de l'environnement (ICPE) par le récépissé du 19 janvier 1977.		'La société TOTAL'
+2002	11			2002	11			rapports	- traitement de la zone de contamination résiduelle par bioventing et pompage-traitement de la nappe (rapports de juin 2002 et novembre 2002).		
+2000				2000				Diagnostic_réalisé	1) Diagnostic réalisé en 2000		
+2005	07			2005	07			l__issue_des_travaux_de_dépollution	A l'issue des travaux de dépollution de juillet 2005 et depuis novembre 2007 :		
+2017	02			2017	02			a_transmis	L'ancien exploitant a transmis une demande d'institution de servitudes d'utilité publique en date de février 2017 ; cette demande est actuellement en cours d'instruction par les services de l'inspection des installations classées.		
+2002	06			2002	06			rapports	- traitement de la zone de contamination résiduelle par bioventing et pompage-traitement de la nappe (rapports de juin 2002 et novembre 2002).		
+2001				2001				Extraction	2) Extraction de la cuve d’huiles usagées (2001)	'cuve d’ huiles usagées'	
+2005	05			2005	05			Les_prélèvements	Les prélèvements d’eau souterraine effectués en mai 2005 (après les travaux) ont révélé des teneurs en hydrocarbures pouvant atteindre 34 mg/l.	'hydrocarbures'	
+2000				2000				a_été_traitée	Suite au diagnostic de 2000, la zone de la cuve tri-compartimentée a été traitée par un bioventing associé à un pompage et un traitement de la nappe avec un objectif de dépollution fixé à 5000 mg/kg pour les hydrocarbures présents dans les sols et à 1 mg/l pour les hydrocarbures présent dans les eaux souterraines.	'hydrocarbures', 'hydrocarbures'	
+2000	04			2000	04			d_	- un diagnostic environnemental datant d’avril 2000 réalisé par ATE-GEOCLEAN ;		'ATE - GEOCLEAN'
+2000				2008				des_actions_de_suivi_et_de_dépollution	L'examen de la synthèse environnementale des actions de suivi et de dépollution menées entre les années 2000 et 2008 présente les constats suivants:		
+2000				2000				diagnostic	Suite au diagnostic de 2000, la zone de la cuve tri-compartimentée a été traitée par un bioventing associé à un pompage et un traitement de la nappe avec un objectif de dépollution fixé à 5000 mg/kg pour les hydrocarbures présents dans les sols et à 1 mg/l pour les hydrocarbures présent dans les eaux souterraines.	'hydrocarbures', 'hydrocarbures'	
+2001	04			2001	04			a_été_évacuée	Suite au diagnostic précédent, la cuve d’huiles usagées présente sur le site a été évacuée en avril 2001 et les terres souillées (17,74 tonnes) ont été excavées et envoyées vers un centre de traitement.	'cuve d’ huiles usagées'	

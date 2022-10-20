@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09			2006	09			__réalisé	-Diagnostic sol plomb-cadmium (sur les terrains extérieurs au site) réalisé en septembre 2006 (puis complété en mars 2009), concluant qu'aucune anomalie imputable au site n'a été détectée.	'plomb', 'cadmium'	
+2009	03			2009	03			complété	-Diagnostic sol plomb-cadmium (sur les terrains extérieurs au site) réalisé en septembre 2006 (puis complété en mars 2009), concluant qu'aucune anomalie imputable au site n'a été détectée.	'plomb', 'cadmium'	
+1999	12	22		1999	12	22		_Étude_historique_et_environnementale	-Étude historique et environnementale: en date du 22/12/1999.		
+2010	09			2010	09			_Contrôle_de_la_qualité_des_sols_réalisé	-Contrôle de la qualité des sols réalisé en septembre 2010.		
+2004	03			2004	03			_Étude_de_sols	-Étude de sols de l'usine et ESR: mars 2004, site classe 2 (à surveiller) pour les milieux sols et eaux souterraines.		

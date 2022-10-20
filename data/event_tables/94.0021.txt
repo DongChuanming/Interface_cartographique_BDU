@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09	06		2001	09	06		la_société_Maisons___Alfort_Aménagement	Le terrain anciennement propriété de la SAD a été vendu à la société Maisons-Alfort Aménagement le 06/09/2001.		'SAD', 'la société Maisons - Alfort'
+1997				1997				la_campagne	La localisation des sondages a été déterminée de manière à couvrir les parties du site non investiguées lors de la campagne de 1997.		
+1997				1997				La_première_campagne_de_mesures	* La première campagne de mesures a eu lieu en 1997 alors que la société SAD exploitait toujours son activité de fabrication d’alcool dénaturé et de stockage de matières premières.	'alcool'	'la société SAD'
+2000	12	18		2000	12	18		a_été_pris	* La SAD ayant fait l'objet d'une procédure d'expropriation,un arrêté préfectoral de remise en état a été pris le 18/12/2000 suite à la cessation des activités.		'La SAD'
+2007	07	25		2007	07	25		Un_PV_de_Récolement	Un PV de Récolement a été fait, le 25/07/2007.		
+1999				1999				un_diagnostic_complémentaire_du_site_a_été_réalisé	* En 1999, un diagnostic complémentaire du site a été réalisé.		

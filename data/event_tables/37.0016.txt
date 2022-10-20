@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	08		2010	11	08		a_mis_en_place	Par la suite, l’exploitant a mis en place des bornes délimitant les zones contenant des résidus d’amiante ciment et visées par des servitudes d'utilité publique cadrées par l'arrêté préfectoral n°18897 du 08/11/2010.	'amiante ciment'	
+2010	11	08		2010	11	08		a_institué_des	Par ailleurs, de façon à assurer la pérennité du confinement mis en oeuvre, Monsieur le Préfet d'Indre et Loire a institué des servitudes d'utilité publique par arrêté préfectoral n°18897 du 08/11/2010.		'le Préfet'

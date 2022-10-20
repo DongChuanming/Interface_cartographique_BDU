@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				Des_observations_ont_été_faites	Des observations ont été faites en 1982 sur les rejets de l'usine: les eaux de refroidissement des moules sont réalisés dans les caniveaux, puis sur la partie du terrain où se fait la vidange des tisards ou absorbée par les mâchefers de l'usine, les déchets de verre sont mis en remblai avec les mâchefers sur le terrain.	'les déchets de verre'	
+1884				1884				début_d__exploitation	Cette ancienne verrerie (début d'exploitation en 1884) a cessé ses activités en 1999.		
+1999				1999				a_cessé_ses_activités	Cette ancienne verrerie (début d'exploitation en 1884) a cessé ses activités en 1999.		

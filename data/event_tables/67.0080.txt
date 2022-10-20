@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05			2001	05			L__étude	L'étude a été rendu en mai 2001.		
+2006	03	30		2006	03	30		a_été_mis_en_demeure	Le liquidateur judiciaire a été mis en demeure de respecter cette mise en place, par l'arrêté préfectoral du 30 mars 2006.		
+2003	10			2003	10			entreprise_a_été_placée_en_liquidation_judiciaire	L'entreprise a été placée en liquidation judiciaire en octobre 2003.		
+2010				2010				a_été_effectuée	La mise en place des piézomètres et la surveillance des eaux souterraines a été effectuée en 2009 et en 2010 par le propriétaire du terrain et non l'exploitant.		
+2008	10			2008	10			ont_été_réalisées	En fait elles ont été réalisées en octobre 2008, octobre 2009, juin 2010 et décembre 2010.		
+2000	11	16		2000	11	16		Une_Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques a été demandée par arrêté préfectoral du 16 novembre 2000.		
+2004	09			2004	09			Cette_étude_a_été_produite	Cette étude a été produite en septembre 2004 et préconise la mise en place de deux piézomètres de surveillance.		
+2009	10			2009	10			ont_été_réalisées	En fait elles ont été réalisées en octobre 2008, octobre 2009, juin 2010 et décembre 2010.		
+2010	12			2010	12			ont_été_réalisées	En fait elles ont été réalisées en octobre 2008, octobre 2009, juin 2010 et décembre 2010.		
+2009				2009				a_été_effectuée	La mise en place des piézomètres et la surveillance des eaux souterraines a été effectuée en 2009 et en 2010 par le propriétaire du terrain et non l'exploitant.		
+2010	06			2010	06			ont_été_réalisées	En fait elles ont été réalisées en octobre 2008, octobre 2009, juin 2010 et décembre 2010.		

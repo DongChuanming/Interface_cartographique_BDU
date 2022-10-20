@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				succède	La mégisserie de MIQUELOU succède en 1994 à la S.		'La mégisserie de MIQUELOU'
+1994	04	06		1994	04	06		est_soumis_à	Le site est soumis à l'arrêté d'autorisation d'exploiter du 6 avril 1994.		
+1965				1965				__autorisée_à_exploiter	. Clément VIGUIER et Fils, autorisée à exploiter une usine de mégisserie depuis 1965.		'Clément VIGUIER'
+2010	02	26		2010	02	26		la_liquidation	Par jugement du 26 février 2010, le tribunal de commerce de Castres a prononcé la liquidation de la Mégisserie du MIQUELOU		'le tribunal de commerce de Castres'
+2010	09			2010	09			a_été_proposé	Un projet d'arrêté de consignation de sommes de 26 228 € TTC a été proposé fin septembre 2010, par l'Inspection des installations classées à la préfecture du Tarn.		
+2010	11	29		2010	11	29		d__une_visite_d__inspection	Lors d'une visite d'inspection du 29 novembre 2010, la présence de déchets a été constatée au droit de l'ancien bassin de collecte des eaux de procédés et en sous-sol.		
+2011	02	21		2011	02	21		a_été_signé	Un arrêté de mise en demeure a été signé le 21 février 2011 pour non respect de l'article R. 512-39-1 du code de l'environnement.		
+2010	11	29		2010	11	29		a_été_constatée	Lors d'une visite d'inspection du 29 novembre 2010, la présence de déchets a été constatée au droit de l'ancien bassin de collecte des eaux de procédés et en sous-sol.		
+2010				2010				a_été_racheté	Le site a été racheté en 2010 par Mr ZINI, qui souhaitait y aménager des logements.		'Mr ZINI'

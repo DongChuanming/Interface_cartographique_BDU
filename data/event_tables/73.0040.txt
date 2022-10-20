@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								L__étude_historique	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'
+								par_courrier	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'
+2002	01			2002	01			Examen	° "Examen du contexte environnemental de la zone artisanale de Villard du Planay" (ANTEA – janvier 2002 – A 25861/A ; courrier PEM 21/01/02 ), aboutissant à l’ESR zone artisanale Villard du Planay (ANTEA – février 2002 – A 26240/A ; courrier PEM 5/03/02)		'PEM', 'PEM'
+1989				1989				la_construction_a_été_autorisée	A noter que le site de l'ancienne usine accueille une zone artisanale et résidentielle, dont la construction a été autorisée en 1989.		
+1900				1982				a_été_exploitée	Une unité thermique a été exploitée de 1900 à 1982 et une unité chimique de 1922 à 1969.		
+2005				2005				transférée	Le responsable actuel du site est la société Péchiney Bâtiment (responsabilité transférée en 2005 de Péchiney Electrométallurgie - PEM à Péchiney Bâtiment).		'la société Péchiney Bâtiment', 'Péchiney Electrométallurgie', 'PEM', 'Péchiney Bâtiment'
+1922				1975				a_été_utilisé	Du mercure a été utilisé par le process de l'usine entre 1922 et 1975.	'Du mercure'	
+								ont_été_installés	Les 2 piézomètres ont été installés en juillet 99.		

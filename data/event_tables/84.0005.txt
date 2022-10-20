@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	09	11		1998	09	11		Un_incendie_et_une_explosion_ont_eu_lieu	Un incendie et une explosion ont eu lieu le 11/09/1998 dans un bâtiment contenant du chlorate de sodium, des produits agropharmaceutiques, dont certains toxiques, et des films plastiques.	'chlorate de sodium', 'des produits agropharmaceutiques', 'certains toxiques', 'des films plastiques'	
+1960				1960				est_implanté	Ce site est implanté depuis 1960 sur 5 ha dont 13 500 m² couverts et est exploité par la Coopérative Agricole Provence Languedoc (CAPL).		'la Coopérative'

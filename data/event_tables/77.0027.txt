@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	03	03		1998	03	03		la_réalisation_d__un_diagnostic_initial	Le préfet a prescrit à la société susvisée la réalisation d'un diagnostic initial et une étude simplifiée des risques par arrêté préfectoral en date du 03 mars 1998.		'Le préfet'
+1993	03	22		1993	03	22		Ces_études_attribuent	Ces études attribuent au site la classe 2, c'est-à-dire celle d'un site nécessitant une surveillance des eaux souterraines, d'ores et déjà en place et prescrite par l'arrêté préfectoral du 22 mars 1993.		

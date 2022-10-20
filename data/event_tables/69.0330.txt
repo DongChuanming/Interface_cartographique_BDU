@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	11	15		2012	11	15		a_transmis	Dans le cadre du projet d'aménagement, la société NOAHO a fait réaliser des investigations complémentaires et a transmis à l'administration le 15/11/2012, un dossier relatif à la synthèse des diagnostics de sols et plans de gestion des terres impactées. (cf feuille D) Il ressortait de ce dossier la nécessité de réaliser les travaux suivants.		'la société NOAHO'
+2005	02	08		2005	02	08		a_déclaré_sa_cessation_d__activités	L'exploitant a déclaré sa cessation d'activités le 22/10/2004, complétée le 08/02/2005.		
+2004	10	22		2004	10	22		a_déclaré_sa_cessation_d__activités	L'exploitant a déclaré sa cessation d'activités le 22/10/2004, complétée le 08/02/2005.		
+2013	03	13		2013	03	13		une_visite_de_chantier	Suite à une visite de chantier effectuée par l'inspection le 13/03/2013, il a été constaté :		
+2007	08	07		2007	08	07		a_été_transmis	Ensuite, il a transmis une EDR qui a été transmis le 07/08/2007 et qui présentait des mesures en nappe et dans les gaz de sol.		
+2013	03	08		2013	03	08		du_prélèvement	Les résultats du prélèvement du 04/03/2013 et 08/03/2013, montrent une décroissance des concentrations de polluants.	'polluants'	
+2007	04	24		2007	04	24		un_diagnostic_des_sols	L'exploitant a transmis au Préfet le 24/04/2007, un diagnostic des sols complémentaire qui présente les mesures dans les sols et la nappe (cf feuille D-caractérisation de l'impact).		
+2005	02	15		2005	03	16		Les_travaux_ont_eu_lieu	Les travaux ont eu lieu du 15/02/2005 au 16/03/2005.		
+1998	10	07		1998	10	07		déclaration	Les activités du site étaient soumises à déclaration et bénéficiaient d'un récépissé n°18457 datant du 07/10/1998.		
+2013	03	04		2013	03	04		du_prélèvement	Les résultats du prélèvement du 04/03/2013 et 08/03/2013, montrent une décroissance des concentrations de polluants.	'polluants'	
+2005	03	20		2005	03	20		a_transmis	Dans le cadre de la cessation d'activité de la station-service, la société AVISO-INTERMARCHE a transmis dans un premier temps, les certificats de dégazage de toutes les cuves présentes sur le site, puis un rapport de dépollution du site du 20/03/2005.		'la société AVISO - INTERMARCHE'
+2005	02	16		2005	02	16		a_été_délivré_par	Le récépissé de cessation a été délivré par la Préfecture le 16/02/2005.		'la Préfecture'

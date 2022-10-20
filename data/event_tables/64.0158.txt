@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				a_été_foré	Le puits LA044 a été foré en 1975 et bouché définitivement en 1997.		
+1975				1975				a_été_foré	Le puits LA044 a été foré en 1975 et bouché définitivement en 1997.		
+1997				1997				bouché_définitivement	Le puits LA044 a été foré en 1975 et bouché définitivement en 1997.		

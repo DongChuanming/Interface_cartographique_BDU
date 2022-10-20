@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_campagnes_de_prélèvements	Les campagnes de prélèvements de juin et août 2011 confirmaient un impact de la fuite d'essence sur les eaux souterraines au droit de 3 piézomètres, notamment en hydrocarbures et en BTEX (benzène, toluène, ethylbenzène et xylènes).	'hydrocarbures', 'BTEX', 'benzène', 'toluène', 'ethylbenzène', 'xylènes'	
+1996				1996				Une_campagne_de_sondages	Une campagne de sondages pour délimiter l'étendue des pollutions et une étude hydrogéologique ont été réalisées en 1996.		
+2000				2000				Les_investigations_complémentaires	Les investigations complémentaires réalisées en 2000 dans le cadre de l'ESR demandée par l'administration ont permis de constater la décroissance des concentrations en hydrocarbures dans les sols qui constituent cependant une source potentielle de pollution.	'hydrocarbures'	
+1996				1996				le_débordement	- le débordement d'un bac en 1976 et le percement de tuyauteries ou de flexibles en 1980,1982 et 1996.		
+1982	1980			1982	1980			le_débordement	- le débordement d'un bac en 1976 et le percement de tuyauteries ou de flexibles en 1980,1982 et 1996.		
+1966				1966				une_fuite	- une fuite sur un wagon en 1966,		
+1996	10			1996	10			Un_traitement	Un traitement des sols par biodégradation a été mis en œuvre en octobre 1996 et un suivi semestriel de la qualité des eaux est en place depuis mai 1997.		
+1976				1976				le_débordement	- le débordement d'un bac en 1976 et le percement de tuyauteries ou de flexibles en 1980,1982 et 1996.		
+1953	1934			1953	1934			e_stockage	e stockage d'hydrocarbures s'est développé par étapes successives en 1934,1953 et 1968 .	'hydrocarbures'	
+2011				2011				La_campagne_de_surveillance	La campagne de surveillance du second semestre 2011 a montré une hausse notable de la concentration en hydrocarbures au droit du piézomètre 7; cette augmentation est expliquée par la fuite d'essence de la cuvette.	'hydrocarbures', "fuite d' essence"	
+2011	08			2011	08			Les_campagnes_de_prélèvements	Les campagnes de prélèvements de juin et août 2011 confirmaient un impact de la fuite d'essence sur les eaux souterraines au droit de 3 piézomètres, notamment en hydrocarbures et en BTEX (benzène, toluène, ethylbenzène et xylènes).	'hydrocarbures', 'BTEX', 'benzène', 'toluène', 'ethylbenzène', 'xylènes'	
+1997	05			1997	05			est_en_place	Un traitement des sols par biodégradation a été mis en œuvre en octobre 1996 et un suivi semestriel de la qualité des eaux est en place depuis mai 1997.		
+2001	08	09		2001	08	09		a_prescrit	9 août 2001: l'arrêté préfectoral d'autorisation d'exploiter a prescrit une surveillance des eaux souterraines portant les modalités suivantes:		

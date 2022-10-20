@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10	28		1999	10	28		est_autorisé_par	Le dépôt est autorisé par l'AP du 23/09/1997, l'article sur la protection incendie a été abrogé et remplacé par l'AP du 28/10/1999.		
+								est_implanté	Ce site en activité est implanté à Marignane depuis le début des années 60 sur des terrains de la Chambre de Commerce à proximité de l'Etang de Berre, sur une superficie de 5 000 m2.		'la Chambre de Commerce', 'de Berre'
+2008				2008				a_soupçonné	En 2008, GAM a soupçonné une fuite de carburant sur une tuyauterie enterrée d'emplissage des véhicules avitailleurs suite a un bilan matière entrée /sortie négatif.	'carburant'	'GAM'
+2002				2002				a_été_remise	L'ESR prescrite par AP du 16/06/1999 a été remise en janv 2002.		

@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	15		2010	09	15		a_été_réalisée	Une note technique en vue de l'établissement de servitudes a été réalisée par SITA Remédiation le 15/09/2010.		'SITA Remédiation'
+2001	06			2001	06			conclut_à	La version définitive, parvenue à l'administration en juin 2001, conclut à un classement 2 du site (site à surveiller), pour les eaux souterraines et pour le milieu sols.		
+1991	10	24		1991	10	24		a_été_délivré	Un second récépissé a été délivré le 24/10/1991 pour l'installation d'une cuve aérienne de 25 m3 de résine de polyester et d'une pompe pour en assurer le remplissage ainsi que de containers.	'résine de polyester'	
+				2008	11			Le_traitement_in___situ	Le traitement in-situ des sols et de la nappe a été mis en place courant mai 2006 jusqu'en novembre 2008.		
+								ne_montrent_plus_la_présence_de_phase_libre	A l'issue des campagne de réception et de surveillance (décembre 2009), les ouvrages C4 et C7 ne montrent plus la présence de phase libre depuis respectivement 15 à 18 mois.		
+2002	09			2009	12			a_commencé	La surveillance des eaux souterraines a commencé de septembre 2002 à décembre 2009.		
+				2009	04			sont_détectées	- BTEX : jusqu'en avril 2009, des traces ou de faibles teneurs sont détectées dans la plupart des ouvrages de contrôle, avec essentiellement du toluène et du xylènes.	'toluène', 'du xylènes'	'BTEX'
+				2009	01			sont_mesurées	- COHV : des traces de quelques solvants chlorés sont mesurées sur la plupart des ouvrages jusqu'en janvier 2009.	'quelques solvants chlorés'	'COHV'
+2005	06	20		2005	09	20		a_été_mis_en_place	Un système de venting a été mis en place du 20/06/2005 au 20/09/2005.		
+2000	01	08		2000	01	08		Après_remise_d__une_étude_trop_sommaire	Après remise d'une étude trop sommaire le 08/01/2000, des sanctions administratives ont été imposées le 22/02/2000 à l'exploitant,afin qu'il complète son étude dans un délai de 3 mois.		
+2005	11	09		2005	11	09		a_été_transmise	L'EDR pour les ressources en eaux a été transmise à l'administration le 09/11/2005.		
+2005	11	09		2005	11	09		Le_rapport_de_dégazage	Le rapport de dégazage du sous-sol a été transmis à l'administration le 09/11/2005.		
+1956				1956				s__est_installée	VAISSIERE) s'est installée sur l'ancien site de la Société Chimique et Routière de Gironde au Port Edouard Herriot en 1956.		'VAISSIERE )', 'la Société Chimique et Routière de Gironde'
+2006	02	02		2006	02	02		dotée_d__un_avenant_signé	Une convention portant sur les travaux de traitement des pollutions issues des activités exploitées par UNIVAR affectant les terrains relevant du domaine public fluvial et dont la gestion est confiée à l'état à la CNR, a été signée entre UNIVAR, SITA Remédiation le 19/01/2006, et dotée d'un avenant signé le 02/02/2006.		'UNIVAR', 'la CNR', 'UNIVAR , SITA Remédiation'
+2002	06	03		2002	06	03		a_été_prescrit_à	En parallèle, un arrêté préfectoral relatif à la surveillance des eaux souterraines (hydrocarbures totaux, HAP, COHV, BTEX) et demandant la réalisation d'une EDR sur la santé a été prescrit à l'exploitant le 03/06/2002.	'hydrocarbures totaux', 'HAP', 'COHV', 'BTEX'	
+2002	03	29		2002	03	29		ont_été_prises	Des sanctions administratives ont été prises le 29/03/2002 afin de compléter l'ESR, notamment sur les points suivants :		"l' ESR"
+2010	10	04		2010	10	04		a_été_transmis	Le rapport de fin de travaux a été transmis à l'administration par courrier, le 04/10/2010.		
+1996	07			1996	07			L__étude_globale	L'étude globale réalisée en juillet 1996 sur le complexe pétrolier du Port Edouard Herriot montre cependant que la pollution globale affecte également le site où est implanté la société.		
+1967	12	06		1967	12	06		déclaration	Un premier récépissé de déclaration en date du 06/12/1967 a été délivré pour l'installation d'une citerne enterrée de 7 500 L de gasoil.	'gasoil'	
+2006	05			2006	05			Le_traitement_in___situ	Le traitement in-situ des sols et de la nappe a été mis en place courant mai 2006 jusqu'en novembre 2008.		
+2008	12	23		2009	12	09		ont_été_engagées_après	Conformément à la convention, des campagnes de mesure ont été engagées après l'arrêt des unités de traitement, du 23/12/2008 au 09/12/2009.		
+2009	12			2009	12			A_l__issue_des_campagne_de_réception_et_de_surveillance	A l'issue des campagne de réception et de surveillance (décembre 2009), les ouvrages C4 et C7 ne montrent plus la présence de phase libre depuis respectivement 15 à 18 mois.		
+2004	06	10		2004	06	10		Une_réunion	Une réunion s'est tenue le 10/06/2004, en présence d'UNIVAR, de la CNR, du PEH, de SITA, de BLONDEL et de la DRIRE, en vue de faire le point sur ce dossier et notamment encadrer les travaux de dépollution envisagés par UNIVAR dans le cadre de la réutilisation du site par la CNR, propriétaire des terrains, pour réaliser un nouveau terminal à containers.	'containers'	"d' UNIVAR", 'la CNR', 'du PEH', 'SITA', 'BLONDEL', 'la DRIRE', 'UNIVAR', 'la CNR'
+2009	10	20		2009	10	20		a_été_transmis	Le 20/10/2009, le rapport d'analyse des risques résiduels a été transmis à la DREAL.		'la DREAL'
+2000	02	22		2000	02	22		ont_été_imposées	Après remise d'une étude trop sommaire le 08/01/2000, des sanctions administratives ont été imposées le 22/02/2000 à l'exploitant,afin qu'il complète son étude dans un délai de 3 mois.		

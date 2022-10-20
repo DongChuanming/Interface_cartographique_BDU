@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								atténuation_naturelle_contrôlée	- 2ème phase : atténuation naturelle contrôlée sur une période de 10 ans avec les objectifs de 400 ppm de HAP sur le contenu total des déchets.	'HAP'	
+2010	12			2010	12			Les_prélèvements	Les prélèvements de Mai et Décembre 2010 montrent la présence de traces d’arsenic sur l’ensemble des piézomètres de l’ancien crassier.	'arsenic'	
+2012	01	26		2012	01	26		Le_bilan_du_traitement	Le bilan du traitement, réalisé le 26 janvier 2012, et remis à l'inspection le 7 janvier 2014, montre que l'objectif n'est pas atteint.  En effet, les concentrations observées sont en moyenne de 1950 mg/kg sur le contenu total des déchets.		
+2002	10			2002	10			Campagne_d_	Campagne d’Octobre 2002 :		
+1963				1963				a_cessé	Ancien site de fonderie exploité par Les Forges de l'Adour dont l'activité a cessé en 1963.		"Les Forges de l' Adour"
+2002	05			2002	05			Campagne	Campagne de Mai 2002 :		
+								prescrit	l'arrêté du 19 juin 2000 prescrit la surveillance de la nappe périodiquement et graduellement pendant une durée de 10 ans :		
+1996				1996				Les_travaux_d__aménagement	Les travaux d'aménagement ont été engagés en 1996 pour résorber ces zones polluées.		
+2000	11			2000	11			Campagne	Campagne de novembre 2000 :		
+2000				2000				de_campagnes_de_suivi_sur	La synthèse des résultats réalisée en février 2014 par GRS Valtech fait état de campagnes de suivi sur les zones de l'ancienne cockerie et du crassier sur les années 2000 et 2002 sur une partie des 8 piézomètres.		'GRS Valtech'
+								Les_prélèvements	Les prélèvements de Mai et Décembre 2010 montrent la présence de traces d’arsenic sur l’ensemble des piézomètres de l’ancien crassier.	'arsenic'	
+1995				1995				l__implantation	Lors de l'implantation de l'aciérie ADA en 1995, les études de sols ont montré la présence d'ouvrages enterrés (cuve, canalisations), des dépôts de déchets, notamment des mâchefers provenant des anciennes forges de l'Adour, des zones polluées,etc..	'des dépôts de déchets'	'aciérie ADA'
+2002				2002				de_campagnes_de_suivi_sur	La synthèse des résultats réalisée en février 2014 par GRS Valtech fait état de campagnes de suivi sur les zones de l'ancienne cockerie et du crassier sur les années 2000 et 2002 sur une partie des 8 piézomètres.		'GRS Valtech'

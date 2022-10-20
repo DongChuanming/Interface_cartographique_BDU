@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				le_diagnostic	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, la DRIRE demande en 2004 le diagnostic du sol et de la nappe.		'la DRIRE'
+2006	05	19		2006	05	19		est_clôturée_par_jugement	La procédure est clôturée par jugement du Tribunal de Commerce de Villeneuve sur lot du 19 mai 2006.		'Tribunal de Commerce de Villeneuve'
+2006	05	19		2006	05	19		échappe_à	Vu la clôture de la procédure collective du 19 mai 2006, ce site échappe à la police des installations classées et la responsabilité en revient au propriétaire, c'est-à-dire la SCI  Le Sendoux.		'la SCI   Le Sendoux'
+2000	06	09		2000	06	09		dépose_le_bilan	Le 9 juin 2000, l’entreprise dépose le bilan et le 21 juillet 2000, la liquidation judiciaire est prononcée.		
+2004	09			2004	09			Ce_diagnostic_remis	Ce diagnostic remis en septembre 2004 conclut à la nécessité d’un diagnostic approfondi, notamment en cas de changement d'usage.		
+2000				2000				Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité (évacuation des déchets, mise en place de clôture, signalisation des dangers) ont été menés de façon partielle à la cessation d’activité en 2000.		
+1989	05	29		1989	05	29		est_rachetée	Le 29 mai 1989, cette entreprise est rachetée par la société NOUVELLE MAZARS.		'la société NOUVELLE MAZARS'
+2006	05	19		2006	05	19		est_close	La procédure collective est close le 19 mai 2006.		

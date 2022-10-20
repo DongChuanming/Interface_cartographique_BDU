@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05	31		1999	05	31		Cessation_d_activité	Cessation d\'activité: 31 mai 1999		
+2009	03	17		2009	03	17		cessation_d_activité_remis	mémoire de cessation d\'activité remis le 17 mars 2009.		

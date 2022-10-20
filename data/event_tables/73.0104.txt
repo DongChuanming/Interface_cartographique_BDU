@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	14		2008	01	14		le_diagnostic_réalisé	Le 14 janvier 2008, l'exploitant a transmis le diagnostic réalisé par le bureau d'études EnvirEauSol daté du 2 janvier 2008.		
+2008	01	02		2008	01	02		le_diagnostic_réalisé	Le 14 janvier 2008, l'exploitant a transmis le diagnostic réalisé par le bureau d'études EnvirEauSol daté du 2 janvier 2008.		
+2008	05	22		2008	05	22		envoie	En réponse à l'inspection, l'exploitant envoie son plan de gestion le 22 mai 2008.		
+1990	01	11		1990	01	11		a_bénéficié	Elle a bénéficié de la délivrance d'un récépissé de déclaration par la préfecture le 11 janvier 1990.		'la préfecture'
+2006	10	02		2006	10	02		a_déclaré_l__arrêt_de_l__activité	Le 2 octobre 2006, l'exploitant a déclaré l'arrêt de l'activité de cette installation aux services préfectoraux conformément aux dispositions de l'article R.512-74 du code de l'environnement ; il en a été délivré récépissé le 28 juillet 2008.		
+2008	07	28		2008	07	28		a_envoyé	Le préfet a envoyé le récépissé de cessation d'activité le 28 juillet 2008.		'Le préfet'

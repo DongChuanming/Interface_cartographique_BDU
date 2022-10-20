@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				étude_départementale	L’étude départementale de 2001, réalisée par SAUNIER TECHNA, fait état de dépôts dans la partie Sud du site (pneus, bois, ferrailles) et d’une cuve d’huiles usagées.	'd’ huiles usagées'	'SAUNIER TECHNA'
+1990	08	28		1990	08	28		La_création	La création de la décharge de CAPTIEUX, au lieu-dit "Maharan", a été autorisée par arrêté préfectoral n° 13183 du 28 août 1990, modifié par l'arrêté préfectoral n° 13509 du 20 avril 1993.		'décharge de CAPTIEUX'
+1993	04	20		1993	04	20		La_création	La création de la décharge de CAPTIEUX, au lieu-dit "Maharan", a été autorisée par arrêté préfectoral n° 13183 du 28 août 1990, modifié par l'arrêté préfectoral n° 13509 du 20 avril 1993.		'décharge de CAPTIEUX'
+2004	02	06		2004	02	06		Par_arrêté_de_mise_en	Par arrêté de mise en demeure du 6 février 2004, Monsieur le Préfet demande à la communauté de communes de déposer un dossier de remise en état comprenant une ESR.		'le Préfet'
+2001	01	1		2001	01	1		L__exploitation	L'exploitation du site est assurée depuis le 1er janvier 2001 par la Communauté de Communes de GRIGNOLS et CAPTIEUX.		'la Communauté de Communes de GRIGNOLS', 'CAPTIEUX'
+1990				1999				____a_été_exploitée	La décharge, d’une superficie de 3 ha, située au lieu-dit « Maharan » a été exploitée de 1990 à 1999.		
+2005	11	03		2005	11	03		Un_rapport_de_visite	Un rapport de visite de l’Inspection des Installations Classées en date du 3 novembre 2005 constate l’enlèvement des déchets présents sur cette zone.		
+2006	11	16		2006	11	16		L__étude_demandée	L’étude demandée, réalisée par la société ANTEA, a été transmis à la Préfecture de Gironde le 16 novembre 2006.		'la société ANTEA', 'la Préfecture de Gironde'
+2001	01			2001	01			les_activités_de_collecte_et_de_gestion	Depuis janvier 2001, les activités de collecte et de gestion de la décharge contrôlée ont été reprises par la Communauté de Communes de Captieux et Grignols.		'la Communauté de Communes de Captieux'

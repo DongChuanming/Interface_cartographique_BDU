@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	13		2005	06	13		ont_été_demandées	Des analyses complémentaires ont été demandées par l'Inspection des Installations Classées le 13 juin 2005.		
+2006	05	29		2006	05	29		ont_été_transmises	Elles ont été transmises le 29 mai 2006.		
+2005	05	26		2005	05	26		L__étude	L'étude, réalisée par la société 3L INGENIERIE ET FINANCES, a été remise le 26 mai 2005.		'la société 3L INGENIERIE ET FINANCES'
+2005	03	1		2005	03	1		a_demandé	Par arrêté préfectoral de mise en demeure du 1er mars 2005, Monsieur le Préfet a demandé à Madame RABA de déposer un dossier de remise en état du site comprenant une Évaluation Simplifiée des Risques (ESR).		'le Préfet', 'RABA'

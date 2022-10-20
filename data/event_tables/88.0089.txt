@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_définitivement_été_fermé	Le site a définitivement été fermé en 2002.		
+2001				2001				est_vendu_à	En 2001, le site est vendu à la SARL BRIGNON, puis à un particulier.		'la SARL BRIGNON'
+1999	04			1999	04			Les_activités_de	Les activités de la société ont cessé en avril 1999.		
+2007				2007				ont_repris	A la date de la dernière visite d'inspection en 2007, des activités liés à la plomberie et aux travaux de PVC ont repris sur le site.		

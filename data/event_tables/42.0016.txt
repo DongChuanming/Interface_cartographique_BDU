@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03			2000	03			un_rapport_de_fin_de_travaux_transmis	Ce secteur présentant des traces de pollution par les hydrocarbures et devant être rétrocédé à un autre industriel a été dépollué et a fait l'objet d'un rapport de fin de travaux transmis à l'administration fin mars 2000 et montrant que cette partie est banlisable.	'hydrocarbures'	
+2007	12	14		2007	12	14		de_déclaration	Plusieurs parties des terrains, restant sous la responsabilité de GIAT INDUSTRIES ont fait l'objet de déclaration de cessation d'activités (à ce jour -14/12/2007- non complétée).		'GIAT INDUSTRIES'
+2005	02	11		2005	02	11		il_a_été_imposé	Par arrêté préfectoral du 11 février 2005, il a été imposé à l'exploitant une surveillance des eaux souterraines à partir d'un réseau de 11 piézomètres à l'intérieur du site et d'un puits chez un particulier à proximité.		
+1999				1999				une_étude_de_sols	Par arrêté préfectoral du 7 juillet 1999 une étude de sols, à réaliser avant la fin de 1999, a été prescrite à GIAT INDUSTRIES pour l'ensemble de leur site de ROANNE (120 ha sur ROANNE et MABLY).		'GIAT INDUSTRIES'
+2000	02			2000	02			un_diagnostic_approfondi_remis	La secteur "Somme" sur lequel existait un parc à copeaux a fait l'objet d'un diagnostic approfondi remis fin février 2000.		
+1999				1999				a_été_prescrite	Par arrêté préfectoral du 7 juillet 1999 une étude de sols, à réaliser avant la fin de 1999, a été prescrite à GIAT INDUSTRIES pour l'ensemble de leur site de ROANNE (120 ha sur ROANNE et MABLY).		'GIAT INDUSTRIES'
+1999	10			1999	10			L__étude_de_sols_prescrite	L'étude de sols prescrite a été rendue en octobre 1999.		

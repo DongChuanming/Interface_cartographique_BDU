@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	28		2005	07	28		a_déclaré_la_cessation	Le liquidateur a déclaré la cessation le 28 juillet 2005 et a fait effectuer un inventaire des produits dangereux restant sur le site.		
+2011	04	05		2011	04	05		La_visite_d__inspection	La visite d'inspection du 5 avril 2011 a permis de constater la mise en sécurité du site et l'enlèvement des cuves mais les sols et les murs n'avaient pas été nettoyés.		
+2005	06	27		2005	06	27		a_été_pris	Un arrêté préfectoral de mise en sécurité a été pris 27 juin 2005.		
+2008				2008				Un_premier_enlèvement_des_déchets_dangereux	Un premier enlèvement des déchets dangereux (boues, fûts..) a été effectué en 2008 et les justificatifs transmis dans un dossier de janvier 2009.	'des déchets dangereux', 'boues', 'fûts'	
+2011	02	17		2011	02	17		a_transmis	Les cuves et le matériel ont été éliminés en 2010 et le liquidateur a transmis le 17 février 2011 un rapport de "recollement".		
+2005	06	08		2005	06	08		a_été_mise_en_liquidation	La société SOS TS a été mise en liquidation le 8 juin 2005.		'La société SOS TS'
+2011	05	03		2011	05	03		à_la_radiation	Suite à la radiation de la société le 3 mai 2011, il n'a pas été possible de prescrire des éléments concernant le diagnostic sur la pollution de ce site.		
+2010				2010				ont_été_éliminés	Les cuves et le matériel ont été éliminés en 2010 et le liquidateur a transmis le 17 février 2011 un rapport de "recollement".		
+				2005				a_exploité	La société SOS TS a exploité sur ce site jusqu'en 2005 des installations de traitement de surface soumises à autorisation au titre de la législation relative aux installations classées.		'La société SOS TS'

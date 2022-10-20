@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03			2004	03			un_diagnostic_préalable	Sur l'initiative de l'exploitant, un diagnostic préalable des teneurs en hydrocarbures dans les sols et les eaux souterraines a été réalisé par AGE Environnement en mars 2004.	'hydrocarbures'	
+2009	05			2009	05			des_travaux_de	Les 15 piézomètres proviennent des 13 déjà construits par AGE Environnement, dont 3 ont été détruits, et des 6 construits lors du diagnostic d'octobre 2007, dont 1 (PZ15) a été détruit lors des travaux de mai 2009.		'PZ15'
+2007	12	04		2007	12	04		a_déclaré_la_cessation_d__activité	L'exploitant a déclaré la cessation d'activité le 4 décembre 2007 (récépissé n°07/IC/341).		
+2004				2004				ont_été_démantelées	D'après le rapport quadriennal 2013 de SITA Rémédiation, les infrastructures suivantes ont été démantelées en 2004 lors de la cessation d'activité :		'SITA Rémédiation'
+1993	12			1993	12			rachète	En décembre 1993, ALVEA rachète le dépôt.		'ALVEA'
+2007	12			2007	12			le_diagnostic_des_sols	A la demande d'ALVEA, le diagnostic des sols, de la nappe et de l'air ambiant a été réalisé en urgence par SITA Rémédiation en novembre 2007 et complétée par une étude en décembre 2007.		'ALVEA', 'SITA Rémédiation'
+2013	01			2013	01			a_été_réalisé	Un rapport quadriennale a été réalisé en janvier 2013 à la demande d'ALVEA et en réponse à un courrier de la DREAL du 24 octobre 2012.		'ALVEA', 'la DREAL'
+1965				1965				a_été_exploité	Créé en 1965, il a été exploité par Corridismobil.		
+2007	09	25		2007	09	25		ont_permis_d__identifier	Dans le cadre du projet de renforcement du ruisseau de Florence entre la rue Lamouly et le canal d'Atchinetche, les sondages géotechniques réalisés par SOGREAH ont permis d'identifier une pollution le 25 septembre 2007.		'SOGREAH'
+								Un_entretien	Un entretien des séparateurs est réalisé tous les 6 mois.		
+2009	10	12		2009	10	12		a_informé	Le 12 octobre 2009,l'exploitant a informé l'inspection du suivi des travaux d'aménagement du ruisseau de Florence et de la gestion des terres polluées.		
+2007	10			2007	10			a_été_mis_en_place	Suite au diagnostic de SITA Rémédiation et à la demande d'Alvea, un suivi de la qualité des eaux souterraines a été mis en place en octobre 2007 selon les modalités suivantes :		'SITA Rémédiation', 'Alvea'
+2004				2004				a_cessé_ses_activités	Le site ALVEA d'Anglet a cessé ses activités en 2004 et ses infrastructures ont été démantelées.		'Le site ALVEA'
+				2009	06	09		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés du 14 mai au 9 juin 2009.		
+2007	11			2007	11			le_diagnostic_des_sols	A la demande d'ALVEA, le diagnostic des sols, de la nappe et de l'air ambiant a été réalisé en urgence par SITA Rémédiation en novembre 2007 et complétée par une étude en décembre 2007.		'ALVEA', 'SITA Rémédiation'
+2007	10			2007	10			construits_lors_du_diagnostic	Les 15 piézomètres proviennent des 13 déjà construits par AGE Environnement, dont 3 ont été détruits, et des 6 construits lors du diagnostic d'octobre 2007, dont 1 (PZ15) a été détruit lors des travaux de mai 2009.		'PZ15'
+2007	12			2007	12			une_étude	A la demande d'ALVEA, le diagnostic des sols, de la nappe et de l'air ambiant a été réalisé en urgence par SITA Rémédiation en novembre 2007 et complétée par une étude en décembre 2007.		'ALVEA', 'SITA Rémédiation'
+2007	12			2007	12			L__étude_complémentaire	L'étude complémentaire de décembre 2007 confirme un impact en HCT dissous, en arsenic, en HAP dissous et en benzène dissous, mais la pollution semble demeurer sur le site.	'HCT', 'arsenic', 'HAP', 'benzène'	

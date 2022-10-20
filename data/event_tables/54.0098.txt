@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				a_débuté	L'implantation d'un verrerie sur ce site remonte au 18ème siècle ; la fabrication du cristal a débuté en 1960.		
+2004	11			2004	11			Une_campagne_d__analyses	Une campagne d'analyses a été effectuée en novembre 2004 : aucune contamination  de cet aquifère n'a été constatée.		
+1992	12	07		1992	12	07		est_soumise_à_autorisation	La société est soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 7 décembre 1992.		
+2004	12			2004	12			a_été_remis	Le rapport final de l'ESR a été remis à l'inspection en décembre 2004.		"l' ESR"
+								l__utilisation	Aussitôt l'utilisation de cette ressource comme eau potable a été suspendue et des investigations sont menées pour identifier l'origine de cette contamination.		
+2004	10			2004	10			des_campagnes_d__analyses	En juin 2002 et en octobre 2004, des campagnes d'analyses, portant sur la teneur en plomb, des eaux et des sédiments du ruisseau du Château et de l'Aroffe ont été effectuées.	'plomb'	
+2002	06			2002	06			des_campagnes_d__analyses	En juin 2002 et en octobre 2004, des campagnes d'analyses, portant sur la teneur en plomb, des eaux et des sédiments du ruisseau du Château et de l'Aroffe ont été effectuées.	'plomb'	

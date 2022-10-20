@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			sont_mis_en_place	Trois piézomètres sont mis en place (1 amont - 2 aval) en novembre 2004 :		
+1992	12	11		1992	12	11		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 11 décembre 1992.		
+2014	10	15		2014	10	15		la_campagne	Non observé lors de la campagne du 15/10/2014 qui ne portait, à priori que sur 1 des piézomètres : explications ?		
+2006	05	18		2006	05	18		ont_été_excavées	Sur initiative de l'exploitant, le 18 mai 2006, environ 20 tonnes de terres ont été excavées et envoyées en décharge de classe 1 (SEDA de Champteussé sur Baconne - traitement biodégradation).		'SEDA'
+2006	05			2006	05			a_été_émis_à_cet_effet	Un bordereau de suivi des déchets a été émis à cet effet en mai 2006.		
+2005	07	15		2005	07	15		Cette_étude_remise	Cette étude remise le 15 juillet 2005 a montré l'existence d'une source de pollution des sols par des hydrocarbures.	'hydrocarbures'	

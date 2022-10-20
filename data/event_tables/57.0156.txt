@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				un_rapport	En 2010, à la cessation d'activité du site et au moment de sa vente, l'inspection des installations classées a fait un rapport mettant en exergue que :		
+2009	03			2009	03			Les_analyses	Les analyses d'eaux souterraines datant de mars 2009 présentent des teneurs en HAP et en arsenic.	'HAP', 'arsenic'	
+2009	10	13		2009	10	13		Les_dernières_analyses	- Les dernières analyses d’eaux souterraines datent des 12 mars et 13 octobre 2009 montrent des teneurs en HAP plus élevées sur un des piézomètre mais qui restent conformes aux valeurs limites de référence et une concentration en arsenic de 0,014 mg/L.	'HAP', 'arsenic'	
+2010				2010				a_été_placée_en_liquidation_judiciaire	En 2010, la société ARCOLOR a été placée en liquidation judiciaire.		'la société ARCOLOR'
+2017				2017				se_partagent	En 2017, plusieurs sociétés se partagent les différents bâtiments du site (métallurgie, travaux de réparation de toitures, achat vente de pneus, ...).		
+1996	10	15		1996	10	15		autorisation	Ces activités étaient soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 15 octobre 1996.		
+								Les_dernières_analyses	- Les dernières analyses d’eaux souterraines datent des 12 mars et 13 octobre 2009 montrent des teneurs en HAP plus élevées sur un des piézomètre mais qui restent conformes aux valeurs limites de référence et une concentration en arsenic de 0,014 mg/L.	'HAP', 'arsenic'	

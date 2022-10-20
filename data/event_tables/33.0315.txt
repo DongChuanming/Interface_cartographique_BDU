@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07			2013	08			un_traitement_des_sols_par_venting	- un traitement des sols par venting a été mis en place de juillet 2012 à août 2013.		
+2016	03			2016	03			est_remise	Une ARR est remise en mars 2016.		
+								les_prélèvements_des_gaz_ont_dû_être_reportés	Les prélèvements d’eau ont été réalisés mais les prélèvements des gaz ont dû être reportés à la semaine 50 de 2010 du fait des conditions météorologiques.		
+2014	07	09		2014	07	09		transmet	Le 09/07/2014, l'exploitant transmet à l'inspection les rapports de suivi des travaux réalisés sur le site ainsi que les rapports d"analyse des eaux souterraines et des gaz du sol.		
+2012	08	09		2012	08	09		c__est	Le 14/02/2011, l'inspection demande à ESSO de lui transmettre le rapport d'études et de travaux et c'est le 09/08/2012 que l'Inspection des Installations Classées émet des remarques sur le rapport de fin de travaux et demande la fourniture du dossier technique sur l'installation de traitement.		'ESSO'
+2009	03	13		2009	03	13		la_cessation_d__activité	Suite à la cessation d'activité du 13/03/2009, les cuves sont vidées et dégazées.		
+2009	03	25		2009	03	25		transmet	Le 25/03/2009, l'exploitant transmet le mémoire de cessation d'activité comportant le diagnostic de sols et des eaux souterraines.		
+2009	03			2010	05			a_été_mis_en_place	- un traitement des eaux souterraines a été mis en place de mars 2009 à mai 2010		
+2010				2010				les_prélèvements_des_gaz_ont_dû_être_reportés	Les prélèvements d’eau ont été réalisés mais les prélèvements des gaz ont dû être reportés à la semaine 50 de 2010 du fait des conditions météorologiques.		
+2011				2011				des_travaux_de_démantèlement	- l'excavation d'une partie des terres impactées a été réalisée lors des travaux de démantèlement de 2011		
+2011	02			2011	02			ont_été_démantelées	Les infrastructures aériennes et enterrées ont été démantelées en février 2011.		

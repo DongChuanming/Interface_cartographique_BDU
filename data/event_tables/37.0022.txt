@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_réalisée	Dans le cadre de l’arrêté préfectoral n° 17602 du 01/02/2005, une étude détaillée des risques a été réalisée en 2005, sur les bases des constats de pollution explicités ci-dessus.		
+2005				2005				INVESTIGATIONS_MENEES	3 INVESTIGATIONS MENEES ENTRE 2005 ET 2008		
+2010	03	01		2010	03	01		a_été_renforcée	En 2010 : La surveillance du site a été renforcée par l'arrêté préfectoral n° 18702 bis du 01/03/2010.		
+2008				2008				INVESTIGATIONS_MENEES	3 INVESTIGATIONS MENEES ENTRE 2005 ET 2008		
+2010				2010				a_été_renforcée	En 2010 : La surveillance du site a été renforcée par l'arrêté préfectoral n° 18702 bis du 01/03/2010.		
+2005				2005				REALISEE	ETUDE DETAILLEE DES RISQUES SANITAIRES REALISEE EN 2005		'DETAILLEE DES RISQUES SANITAIRES'
+1932				1932				a_été_géré	Ce site a été géré depuis 1932 en alternance soit par ESSO soit par TOTAL.	'TOTAL'	'ESSO'
+2005				2005				réalisée	les hypothèses retenues pour l’étude des risques sanitaires réalisée en 2005 ne sont plus valides.		
+2010	03	1		2010	03	1		a_été_prescrit	De fait, par arrêté préfectoral complémentaire n°18702 du 18 décembre 2009 modifié par celui n°18702 bis du 1er mars 2010, il a été prescrit :		
+2009				2009				ANALYSE	ANALYSE DES RISQUES RESIDUELS REALISEE EN 2009		'RISQUES RESIDUELS'
+2010	12	21		2010	12	21		ont_été_annulés	Suite à la requête de la société ESSO SAF au tribunal administratif d'Orléans, les arrêtés du 18 décembre 2009 et celui du 01/03/2010 ont été annulés par jugement en date du 21 décembre 2010.		'la société ESSO SAF'

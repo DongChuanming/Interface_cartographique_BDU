@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				a_été_résorbé	Le dépôt a été résorbé en 1983 (envoi en enfouissement profond et en décharge de classe 1).		
+1916				1916				a_été_créée	La plateforme chimique "RHODIA" de LE PONT DE CLAIX a été créée en 1916 pour la fabrication du chlore et de ses dérivés.	'chlore'	'La plateforme chimique " RHODIA "', 'PONT DE CLAIX'
+1983				1983				constat	Cette fiche indique le traitement effectué suite au constat en 1983 d'un dépôt de fûts contenant des résidus de fabrication de chlorophénol déposés sur une dalle en béton.	'des résidus de fabrication', 'chlorophénol'	

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10			2012	10			elle_atteignait	Au mois d'octobre 2012, elle atteignait 4,06 m.		
+2012	10			2012	10			a_été_réalisée	La dernière en date a été réalisée au mois d'octobre 2012.		
+2003	06			2003	06			21_campagnes_de_suivi	Depuis le mois de juin 2003, 21 campagnes de suivi de la qualité des eaux souterraines ont eu lieu sur l'ensemble de la zone industrielle de Collonges au Mont D'or.		
+1932				1932				ont_débuté	L'historique du site nous indique que les activités de stockage gérés par la Compagnie Générale de stockage ont débuté en 1932.		'la Compagnie Générale de stockage'

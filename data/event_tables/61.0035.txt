@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	25		2009	11	25		a_été_rédigé	Le procès verbal de recolement a été rédigé par l'Inspection le 25 novembre 2009.		
+1989				1989				exploité_par	Atelier de traitement de surface spécialisé dans le décapage de pièces métalliques et de bois, exploité par la société SACOFRA depuis 1989.		'la société SACOFRA'
+2008	03			2008	03			s__est_déroulé	Le chantier, piloté par l'ADEME, s'est déroulé début mars 2008.		

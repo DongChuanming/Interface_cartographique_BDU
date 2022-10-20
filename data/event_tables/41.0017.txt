@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04			2002	04			l__a_conduite_au_dépôt_de_bilan	Elle pratiquait une large palette de traitements (zincage, chromage, nickelage, cadmiage...).  Sa situation financière l'a conduite au dépôt de bilan en avril 2002.	'zincage'	
+2008	02			2008	02			la_mise_en_liquidation_judiciaire_de_l__entreprise	Cette procédure a abouti à la mise en liquidation judiciaire de l'entreprise en février 2008.		
+2009				2009				a_été_demandée	Une intervention de l'ADEME (agence de l'environnement et de la maitrise de l'énergie) a été demandée en 2009.		
+2010				2010				que_maitre_d__ouvrage_délégué	Le site a été retenu pour une intervention de remise en état de l'ADEME en tant que maitre d'ouvrage délégué en 2010.		
+2008				2008				a_fait_procéder	En 2008, la SCI a fait procéder à l'enlèvement de l'ensemble des déchets, bains usés et des transformateurs au pyralène.	'bains usés', 'pyralène'	
+2013	02	21		2013	02	21		a_constaté	Le 21 février 2013, l'inspection des installations classées a constaté que les travaux de remise en état et la dépollution avaient commencé.		

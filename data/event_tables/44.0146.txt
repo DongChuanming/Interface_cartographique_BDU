@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	10			2017	10			et_complété	Un premier diagnostic de pollution a été réalisé le 19/09/2017 et complété en octobre 2017.		
+2018	11			2018	11			des_travaux_d__excavation	Début novembre 2018, des travaux d'excavation sont réalisés sur la partie nord/nord-ouest du site.		
+2019	04	19		2019	04	19		a_été_délivré_par	Le récépissé de cessation d'activité a été délivré par la Préfecture le 19/04/2019.		'la Préfecture'
+2017	09	19		2017	09	19		Un_premier_diagnostic_de_pollution	Un premier diagnostic de pollution a été réalisé le 19/09/2017 et complété en octobre 2017.		
+1960				2013				a_été_exploité	Ce site a été exploité de 1960 à 2013 comme une fonderie relevant de la rubrique 2552 de la nomenclature des installations classées (récépissé en date du 16/06/2018).		
+2017				2017				a_procédé_à_une_première_phase	Face à ces constats, la société SOMEGE a procédé à une première phase de travaux d’excavation de terres fin 2017.		'la société SOMEGE'
+2018	12	05		2018	12	05		une_inspection	L’IIC a réalisé une inspection le 05/12/2018 qui n’a pas mis en évidence de constat particulier.		
+2013				2013				avait_succédé	De plus, l’IIC a découvert que la société SOMEGE avait succédé à la société Fonderie HAVARD en 2013 sans avoir procédé au changement d’exploitant.		'la société SOMEGE', 'la société Fonderie HAVARD'
+2013				2013				est_reprise	En 2013, la Fonderie HAVARD est reprise par la société SOMEGE.		'la Fonderie HAVARD', 'la société SOMEGE'
+2017	10			2017	10			Un_premier_diagnostic_de_pollution	Un premier diagnostic de pollution a été réalisé le 19/09/2017 et complété en octobre 2017.		

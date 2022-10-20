@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	09	15		2015	09	15		Deux_visites	Deux visites des terrains déclarés en arrêt définitif de l'établissement visé en objet ont été effectuées, les 19 décembre 2013 et 15 septembre 2015 dans le cadre de la déclaration d’arrêt définitif.		
+1982				2012				a_été_exploité	Le site est actuellement la propriété de GRT GAZ, et a été exploité de 1982 à 2012.		'GRT GAZ'
+2014				2014				Un_premier_diagnostic_environnemental	Un premier diagnostic environnemental du milieu souterrain a eu lieu en 2014 et a mis en évidence la présence de traces de concentrations faibles et ponctuelles en hydrocarbures à moins de 50 cm de profondeur.	'hydrocarbures'	
+1982				2012				est_actuellement_la_propriété_de	Le site est actuellement la propriété de GRT GAZ, et a été exploité de 1982 à 2012.		'GRT GAZ'
+2013	12	19		2013	12	19		Deux_visites	Deux visites des terrains déclarés en arrêt définitif de l'établissement visé en objet ont été effectuées, les 19 décembre 2013 et 15 septembre 2015 dans le cadre de la déclaration d’arrêt définitif.		
+2012	10	18		2012	10	18		a_été_établi	Le certificat de dégazage a été établi le 18 octobre 2012.		
+2015	07	09		2015	07	09		Un_mémoire_de_démantèlement_et_de_dépollution	Un mémoire de démantèlement et de dépollution a été transmis le 9 juillet 2015.		
+2015	09	15		2015	09	15		a_la_visite	Suite a la visite de l’inspecteur des installations classées de la DREAL le 15/09/2015, une campagne de diagnostic complémentaire a été demandée.		'la DREAL'
+2013	10	23		2013	10	23		la_cessation_totale_d__activité	GRT GAZ a notifié à l’Inspection des installations classées la cessation totale d’activité le 23 octobre 2013.		'GRT GAZ'
+2016	01			2016	01			Un_diagnostic_environnemental	Un diagnostic environnemental du milieu souterrain et une EQRS ont été réalisés en janvier 2016.		

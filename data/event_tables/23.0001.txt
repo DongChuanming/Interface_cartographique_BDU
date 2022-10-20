@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1984				s__est_étalée	Cette dernière procédure s'est étalée de 1982 à 1984 en donnant lieu à un nouveau contentieux.		
+2013	12			2013	12			a_été_entièrement_démolie	L'ancienne usine a été entièrement démolie en décembre 2013 et les gravats ont été entreposés dans la décharge autorisée pour les accueillir sur le site même de la carrière exploitée par FAYOLLE.		'FAYOLLE'
+1989	09	09		1989	09	09		FAYOLLE_les_fait_enlever	Le 9 septembre 1989, la société FAYOLLE les fait enlever par la société SARP.		'la société FAYOLLE', 'la société SARP'
+1989	07			1989	07			découverts_fortuitement	En juillet 1989, 3 t de déchets en fûts et en sacs sont découverts fortuitement dans les anciens bâtiments.	't de déchets'	
+1977				1977				La_liquidation_judiciaire_de	La liquidation judiciaire de la société, prononcée en 1977,a eu pour conséquence l'abandon de déchets sur site.		
+1977				1977				l__abandon_de_déchets_sur_site	La liquidation judiciaire de la société, prononcée en 1977,a eu pour conséquence l'abandon de déchets sur site.		
+1980				1980				a_d__ailleurs_été_inscrit	En 1980, ce dernier a d'ailleurs été inscrit comme " point noir " (inventaire national de l'époque) par le Ministère de l'environnement.		

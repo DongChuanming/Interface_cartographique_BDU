@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				pour_devenir	- des teneurs en trichloroéthylène en baisse depuis 2005 pour devenir en 2008 inférieure à la valeur donnée par l'arrêté du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine,	'trichloroéthylène'	
+2014	02	27		2014	02	27		a_été_placée_en_redressement_judiciaire	L'entreprise a été placée en redressement judiciaire le 27 février 2014.		
+1966	05			1966	05			s__est_installée	La société ROY, créée en 1936, s'est installée sur la commune de Saint-Piat en mai 1966.		'La société ROY'
+1936				1936				créée	La société ROY, créée en 1936, s'est installée sur la commune de Saint-Piat en mai 1966.		'La société ROY'
+2012				2012				un_pic	A noter un pic en 2012 de tous les COHV, certaines concentrations ont doublé, mais les valeurs mesurées restent en dessous du seuil prescrit par l'OMS.	'les COHV'	
+2001	12	20		2001	12	20		L__étude_transmise	L'étude transmise au service d'inspection le 20 décembre 2001, n'a pas mis en évidence de sources de pollution constituées de sols contaminés (absence de gaz et de polluants dans les zones de sols investiguées).		
+2001				2001				ont_été_mis_hors_service	Suite à la persistance de la pollution et à la vulnérabilité de ces captages aux pollutions, les deux puits ont été mis hors service en 2001.		
+1993				1993				l__émergence	Le suivi de la qualité des eaux de distribution prélevées dans ces forages a mis en évidence, à compter du début de l'année 1993, l'émergence d'une contamination par trois composés organohalogénés volatils : le trichloroéthylène, le trichloroéthane, et le dichloroéthylène.	'composés organohalogénés volatils', 'le trichloroéthylène', 'le trichloroéthane', 'le dichloroéthylène'	
+				2001				L__installation	L'installation, soumise à autorisation préfectorale, a été exploitée jusqu'en 2001.		
+2001	09			2001	09			a_été_mise_à_l__arrêt_définitif	L'installation a été mise à l'arrêt définitif en septembre 2001.		

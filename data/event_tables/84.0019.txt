@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1890				1890				__exploitée	La partie production, dénomée « les Eyssariades, exploitée depuis 1890, est située au Nord-Oeust, à environ deux kilomètres du centre ville de la commune de Robion et la partie stockage/déchargement, dénomée « La Gare », est situé à proximité de l'ancienne gare.		'\xa0 les Eyssariades'
+2007				2007				a_été_liquidée	La SODEMM a été liquidée en 2006-2007, le liquidateur judiciaire a été mis en demeure, de respecter sous 3 mois, les dispositions de l'AP du 19/06/2006.		'La SODEMM'
+2011	09	02		2011	09	02		Une_visite	Une visite du site a été effectué le 2/09/2011, le site de production n'a pu être visité car celui-ci est entièrement clos mais les bâtiments sont très abimés et certaines toitures sont en partie écroulées.		
+2006	06	19		2006	06	19		Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site, sont prescrits par APC du 19 juin 2006 et consistent à :		
+2009				2009				Les_contacts_avec	Les contacts avec le liquidateur et Monsieur MICHUT à la fin de l'année 2009 laissaient penser que des travaux complémentaire seraient réalisés prochainement.		'MICHUT'
+2005				2005				a_cessé_ses_activités	En 2005, l'exploitant a cessé ses activités sur ce site sans respecter la procédure prévue par la législation.		
+2006				2006				a_été_liquidée	La SODEMM a été liquidée en 2006-2007, le liquidateur judiciaire a été mis en demeure, de respecter sous 3 mois, les dispositions de l'AP du 19/06/2006.		'La SODEMM'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								des_travaux_suivants_de_dépollution	L'arrêté préfectoral du 11/03/2005 prescrit, dans un délai de 3 mois, des travaux suivants de dépollution et de réhabilitation :		
+2004	12	06		2004	12	06		ont_fait_suite	Deux avis d'audience ont fait suite le 06/12/2004 ainsi que le 07/02/2005.		
+2004	09	09		2004	09	09		Les_études_remises	Les études remises le 09/09/2004 montrent la présence d'hydrocarbures dans les sols.	'hydrocarbures'	
+2003	11	21		2003	11	21		une_visite	Suite à la pollution accidentelle de la Gironde, l'administration à diligentée une visite du site le 21/11/2003.		
+2004	05	27		2004	05	27		a_été_saisi	Le 27/05/2004, le tribunal de grande instance a été saisi pour avis.		'le tribunal de grande instance'
+2003	09	21		2003	09	21		un_procès_verbal	Le rapport du 24/11/2003 suite à la visite d'inspection du site, La Société SANITRA-FOURRIER à fait l'objet d'un procès verbal le 21/09/2003 pour exploitation d'une installation classée soumise à autorisation préfectorale sans avoir l'autorisation réglementaire requise.		'La Société SANITRA - FOURRIER'
+2005	02	07		2005	02	07		ont_fait_suite	Deux avis d'audience ont fait suite le 06/12/2004 ainsi que le 07/02/2005.		
+2004	11	08		2004	11	08		à_été_remis	Ce document à été remis à l'inspection des installations classées par télécopie le 08/11/2004.		
+2004	01	26		2004	01	26		Renoncement_d__activité	Renoncement d'activité le 26/01/2004 suite à la mise en examen pour pollution accidentelle.		
+2005	01	27		2005	01	27		Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés le 27/01/2005.		
+2003	12	08		2003	12	08		à_fait_l__objet_d_	Le 08/12/2003, la Société SANITRA-FOURRIER à fait l'objet d'un arrêté préfectoral de mise en demeure de :		'la Société SANITRA - FOURRIER'
+2003	12	08		2003	12	08		un_diagnostic_initial	Les activités exercées sur ce site étant à l'origine d'une pollution accidentelle de la Gironde (déversement de fuel domestique), un diagnostic initial du site ainsi qu'une étude simplifiée des risques (ESR) est prescrit par l'arrêté du 08/12/2003.	'fuel domestique'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12			1999	12			une_Evaluation_Simplifiée_des_Risques	SOLLAC en sa qualité de dernier exploitant du site a réalisé une Evaluation Simplifiée des Risques, ESR, en décembre 1999.		'SOLLAC'
+2000	10	27		2000	10	27		a_été_prescrite	La surveillance des eaux souterraines et superficielles a été prescrite, à BAIL INDUSTRIE, représentant de l'ancien exploitant, par arrêté préfectoral du 27 octobre 2000.		'BAIL INDUSTRIE'
+1890				1991				de_la_période_d__exploitation	Lors de la période d'exploitation des hauts-founeaux de 1890 à 1991, cette zone était employée au stockage de matières premières solides: minerais de fer, minerais de manganèse,cokes, fines de houille, castine (calcaire) principalement.	'premières solides', 'manganèse', 'castine'	

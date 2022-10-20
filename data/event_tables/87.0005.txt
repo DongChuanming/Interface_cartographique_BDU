@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12			1999	12			les_travaux_de_consolidation	En décembre 1999, les travaux de consolidation des digues sont achevés.		
+2003	06	19		2003	06	19		ont_été_prescrites	Par arrêté du 19 juin 2003, les mesures d'urgences (interdiction d'accès et élimination des déchets dangereux) ont été prescrites au liquidateur.	'déchets dangereux'	
+1999	04			1999	04			remet	En avril 1999, la société ANTEA remet son rapport relatif au projet de réhabilitation des stocks de résidus de lavage (étude géotechnique).		'la société ANTEA'
+2002	10			2002	10			l__action_administrative	En octobre 2002, la DRIRE a relancé l'action administrative en vue de la réhabilitation de l'usine de traitement du minerai d'or voisine du terril de résidus.		'la DRIRE'
+2005				2005				ont_été_enlevés	Les déchets les plus concentrés en As ont été enlevés en 2005.	'As'	
+2000	07			2000	07			sont_réalisées	Depuis juillet 2000, des analyses, d'abord mensuelles puis bimestrielles, sont réalisées au droit du rejet unique et dans les eaux superficielles (amont/aval).		
+2002	11	25		2002	11	25		a_été_placée_en_liquidation_judiciaire	Le 25 novembre 2002, la société a été placée en liquidation judiciaire par décision du Tribunal de Commerce de Paris.		'du Tribunal de Commerce de Paris'
+2007				2007				Les_travaux_de	Les travaux de confinement et de traitement des déchets se sont déroulés en 2007 et 2008.		
+1993	04	15		1993	04	15		signé	Suite à cet accident ayant conduit à une pollution, un arrêté préfectoral signé le 15 avril 1993 a notamment imposé à la société CHENI de :		'la société CHENI'
+				2013				a_établi	Le BRGM a établi en mars 2014 un rapport regroupant les résultats de surveillance de la qualité des eaux souterraines (amont et aval du site) et superficielles depuis le début des années 2000 jusqu'en 2013.		'Le BRGM'
+1993				1993				se_sont_rompues	En 1993, suite à une dégradation, les digues se sont rompues et les résidus de traitement ont été entraînés vers la rivière Isle.		
+2007				2007				ont_été_démolis	Les bâtiments ont été démolis en 2007.		
+1999	08			1999	08			réalise_l__expertise_technique	En août 1999, suite à une demande de la DRIRE auprès de la société CHENI, l'INERIS réalise l'expertise technique des propositions de réhabilitation.		'la DRIRE', 'société CHENI'
+2003	08			2003	08			une_Évaluation_Simplifiée_des_Risques	En août 2003 une Évaluation Simplifiée des Risques est remise à l'administration.		
+2007				2007				des_pollutions_prescrites	Malgré des fluctuations résiduelles des teneurs en certains polluants relevées dans les eaux souterraines, on constate une tendance à une amélioration en terme d'impact global traduisant le bien fondé des mesures de gestion des pollutions prescrites en 2007, en particulier sur les paramètres arsenic, fer et manganèse.	'polluants', 'arsenic', 'fer', 'manganèse'	
+2008				2008				Les_travaux_de	Les travaux de confinement et de traitement des déchets se sont déroulés en 2007 et 2008.		
+1994				1994				certains_travaux	En 1994, certains travaux (écrêtement du terril, création de fossés de part et d'autre des déblais, révégétalisation du terril) ont lieu.		
+2003	11	20		2003	11	20		est_demandée	Une Évaluation Détaillée des Risques ainsi que la surveillance des eaux souterraines est demandée par arrêté préfectoral du 20 novembre 2003.		
+2014	03			2014	03			a_établi	Le BRGM a établi en mars 2014 un rapport regroupant les résultats de surveillance de la qualité des eaux souterraines (amont et aval du site) et superficielles depuis le début des années 2000 jusqu'en 2013.		'Le BRGM'

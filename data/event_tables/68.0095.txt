@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	17		2005	06	17		a_été_annulé	Il a été annulé par le TA de Strasbourg par jugement du 17 juin 2005.		'le TA de Strasbourg'
+1991				1991				a_recensé	Le BRGM a recensé en 1991, à la demande de l'ANRED les sites potentiellement pollués dans la région des trois frontières.		'Le BRGM'
+2001				2001				a_été_présenté	Un projet d'arrêté préfectoral a été présenté en 2001 au conseil départemental d'hygiène afin que la commune de St-Louis réalise une étude historique de l'ancienne gravière utilisée comme décharge et actuellement aménagée en stade, située sur le secteur 21 de la commune, dont elle est propriétaire.		
+2004	08	17		2004	08	17		a_fait_l__objet_d_	Un arrêté du 25/06/2004 portant prescriptions complémentaires a fait l'objet d'un recours auprès du Tribunal Administratif le 17/08/2004.		
+2003	11			2003	11			a_été_présenté	Ce projet n'a pas été signé et un autre projet d'arrêté a été présenté au conseil départemental d'hygiène en novembre 2003, en vue d'imposer uniquement une mesure de la qualité des eaux souterraines issues du site.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	14		2006	06	14		l__exploitation	Le 14 juin 2006, la société DANTHERM FILTRATION SAS a repris l'exploitation des activités de conception, fabrication et distribution de robots, et vente d'équipements de dépoussiérage et de dépollution, exploitées par la société DISA CATTIN'AIR International sur le site depuis 1982.		'la société DANTHERM FILTRATION SAS', "la société DISA CATTIN' AIR"
+2009				2009				a_cessé	En 2009, la société DANTHERM FILTRATION a cessé ses activités sur le site.		'la société DANTHERM FILTRATION'
+2013	04	09		2013	04	09		La_mise_en_œuvre_de	La mise en œuvre de ces mesures complémentaires a été demandée à Me Guyon par courrier du 9 avril 2013.		'Me Guyon'
+2013	04	09		2013	04	09		par_courrier	La mise en œuvre de ces mesures complémentaires a été demandée à Me Guyon par courrier du 9 avril 2013.		'Me Guyon'
+1982				1982				exploitées	Le 14 juin 2006, la société DANTHERM FILTRATION SAS a repris l'exploitation des activités de conception, fabrication et distribution de robots, et vente d'équipements de dépoussiérage et de dépollution, exploitées par la société DISA CATTIN'AIR International sur le site depuis 1982.		'la société DANTHERM FILTRATION SAS', "la société DISA CATTIN' AIR"

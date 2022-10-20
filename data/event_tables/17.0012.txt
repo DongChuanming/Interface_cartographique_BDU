@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								avait_été_créé	A l’origine, ce site avait été créé au cours de la 1ère guerre mondiale en 1915, pour y implanter loin des lignes de front, une usine de raffinage de zinc.	'zinc'	
+2000	07			2000	07			un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif (arrêté préfectoral du 17 avril 1998) et a été remis à la DRIRE en juillet 2000.		'la DRIRE'
+1915				1915				avait_été_créé	A l’origine, ce site avait été créé au cours de la 1ère guerre mondiale en 1915, pour y implanter loin des lignes de front, une usine de raffinage de zinc.	'zinc'	
+1915				1915				implantée	Unité de fabrication d'engrais solides implantée depuis 1915 à Tonnay-Charente dans une ancienne zone de marais à proximité de la Charente.	'engrais solides'	
+1928				1928				sont_venus_s__ajouter	En 1928, sont venus s’ajouter le grillage de la blende et la transformation du soufre à des fins de production d’acide sulfurique.	'soufre'	'acide sulfurique'
+2006				2006				des_investigations_complémentaires	En 2006, des investigations complémentaires ont été réalisées par HPC Envirotec suites au prescriptions de la DRIRE Poitou Charentes.		'HPC Envirotec', 'la DRIRE Poitou Charentes'
+2000	07			2000	07			a_été_remis	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif (arrêté préfectoral du 17 avril 1998) et a été remis à la DRIRE en juillet 2000.		'la DRIRE'
+								Les_travaux_se_sont_déroulés	Les travaux se sont déroulés en mars et septembre 2002.		
+2002	09			2002	09			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés en mars et septembre 2002.		
+								ont_été_abandonnées	Les fabrications d’acide phosphorique et de tuyaux de plomb sont également des activités qui ont été pratiquées sur le terrain détenu par cette société mais qui ont été abandonnées dans les années 1970, période à partir de laquelle le site s’est exclusivement spécialisé dans la fabrication d’engrais à base de phosphates.	'acide phosphorique', 'plomb', 'phosphates'	
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif (arrêté préfectoral du 17 avril 1998) et a été remis à la DRIRE en juillet 2000.		'la DRIRE'

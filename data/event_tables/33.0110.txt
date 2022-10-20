@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	04	27		2005	04	27		La_campagne_d__analyses	La campagne d’analyses des eaux souterraines du 27 avril 2005 montre que la situation est satisfaisante et reste stable par rapport aux dernières campagnes.		
+2001				2001				diagnostic_initial	Le 22/03/2012, l'inspection demande à l'exploitant de faire mener par un organisme compétent, la mise à jour du diagnostic initial de 2001 dans l'approche de gestion des sites et sols pollués de la circulaire du 08/02/2007.		
+2007	04	16		2007	04	16		La_campagne_du	La campagne du 16 avril 2007 montre l'absence de traces de HAP dans PZ4 (aval) mais montre quelques traces de HAP sur PZ1 (amont) et de chrome sur PZ4, pour lesquels des explications seront demandés à l'exploitant.	'HAP', 'HAP', 'chrome', 'PZ4'	
+2008				2008				a_tendance_à_se_stabiliser	On constate que la qualité de l'eau a tendance à se stabiliser depuis 2008 avec un pic de HAP, dû probablement à un évènement extérieur.	'HAP'	
+2002	08	19		2002	08	19		Le_test	Le test d'étanchéité d'une tuyauterie de brillantage a été réalisé le 19 août 2002 et a confirmé son étanchéité.		
+2006	09	22		2006	09	22		La_campagne_du	La campagne du 22 septembre 2006 met en évidence des traces de HAP dans le piézomètre PZ4 dépassant la valeur de constat d'impact pour un usage sensible.	'HAP'	
+2012				2012				un_nouveau_diagnostic_révélait	En 2012, à la demande de l’inspection des installations classées, un nouveau diagnostic révélait la présence d’une contamination résiduelle en hydrocarbures totaux (3 600 mg/kg) de 1,50 m à 4 m de profondeur, avec une prédominance de fractions volatils à semi-volatils.	'hydrocarbures totaux'	
+2002	09	13		2002	09	13		a_été_enlevée	La cuve enterrée de fuel de 2 m3 qui était une source potentielle d'hydrocarbures a été enlevée le 13 septembre 2002.	'de fuel', 'hydrocarbures'	
+2013	09			2014	10			Les_travaux_de_traitement_par_bioventing	Les travaux de traitement par bioventing/biosparging se sont déroulés de septembre 2013 à octobre 2014, avec pour but d’abattre les fractions légères dans l’air du sol et les eaux souterraines.		

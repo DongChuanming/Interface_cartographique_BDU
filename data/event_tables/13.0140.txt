@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06	19		2002	06	19		Un_diagnostic_environnemental	Un diagnostic environnemental du 19/06/2002 a montré la présence de mâchefers dans les remblais du site.	'mâchefers'	
+2004	03	23		2004	03	23		Une_visite_de_récolement	Une visite de récolement des travaux a été effectuée en date du 23/03/2004.		
+2005	09	28		2005	09	28		Le_dernier_suivi	Le dernier suivi des eaux souterraines en date du 28/09/2005 montre que l'ensemble des paramètres d'analyses sont présents à des concentrations inférieures aux VCI non sensible.		
+2002				2002				ont_été_détruits	Les bâtiments du site ont été détruits en 2002 et un projet d'aménagement  est prévu.		
+				2003	04			se_sont_déroulés	Ils se sont déroulés de Janvier à Avril 2003.		

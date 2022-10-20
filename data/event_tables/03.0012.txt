@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_fournies	Les conclusions de l'évaluation simplifiée des risques ont été fournies par l'exploitant le 17/09/01, ces dernières positionnent en classe 1 ou 2 le site, en fonction des situations géographiques des sources de pollution identifiées.		
+2002	12	10		2002	12	10		a_été_effectuée	La pose de pièzomètre a été demandée le 10 décembre 2002, une étude hydrogéologique a été effectuée en janvier 2003 afin d'envisager la pose de piézomètres(3).		
+1843				1843				est_transformée	En 1843, l'ancienne verrerie est transformée  et devient Les forges de Commentry qui utilisent comme matières premières les minerais de fer du Berry et les houilles de Commentry.	'minerais de fer'	
+1996				1996				rénové	Les batiments abritent également un atelier de décapage et de traitement de surface rénové en 1996 et une station de détoxication datant de 1997.		
+2002	12	10		2002	12	10		étude_hydrogéologique	La pose de pièzomètre a été demandée le 10 décembre 2002, une étude hydrogéologique a été effectuée en janvier 2003 afin d'envisager la pose de piézomètres(3).		
+2003	02			2003	02			a_été_réalisée	La validation de leur emplacement a été réalisée fin février 2003; un puits est également utilisé pour les contrôles des eaux souterraines.		
+2004	08	17		2004	08	17		a_été_signé_en	Un arrêté global d'autorisation incluant un suivi de la qualité des eaux de la nappe a été signé en ce sens le 17 août 2004.		
+2003	01			2003	01			étude_hydrogéologique	La pose de pièzomètre a été demandée le 10 décembre 2002, une étude hydrogéologique a été effectuée en janvier 2003 afin d'envisager la pose de piézomètres(3).		
+1990				1990				est_rachetée	En 1990, la Société est rachetée par le groupe ERAMET, troisième producteur mondial de nickel qui, avec l'acquisition de la société KLOSTER SPEED STEEL regroupe les 2 sociétés sous le nom d'ERASTEEL.	'nickel'	'le groupe ERAMET', 'la société KLOSTER SPEED STEEL', 'ERASTEEL'
+1953				1953				est_conclu_avec	En 1953, un accord technique est conclu avec l'une des plus importantes sociétés américaines productrices d'aciers rapides et d'outils: la Vanadium Alloys et Cie.		'la Vanadium Alloys'

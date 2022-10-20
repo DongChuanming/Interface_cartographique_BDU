@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de GAZ DE FRANCE ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usine à gaz entre le Ministère de l'Environnement et GAZ DE FRANCE, signé le 25 avril 1996.		'GAZ DE FRANCE', "le Ministère de l' Environnement", 'GAZ DE FRANCE'
+1998	08			1998	08			Ce_diagnostic	Ce diagnostic (août 1998), effectué par un bureau d'études à la demande de GAZ DE FRANCE, a mis en évidence une fosse à goudron et trois gazomètres.		'GAZ DE FRANCE'

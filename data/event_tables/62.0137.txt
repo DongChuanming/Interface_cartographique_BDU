@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	29		2005	09	29		Récolement	- Récolement des installations par l'inspection le 29 septembre 2005.		
+1988				1988				mise_en_service	- La communauté de communes Artois Flandres est propriétaire et exploitante de droit d'une usine d'incinération d'ordures ménagères mise en service en 1988 et arrêtée définitivement en décembre 2002.		'La communauté de communes Artois Flandres'
+2002	12			2002	12			arrêtée_définitivement	- La communauté de communes Artois Flandres est propriétaire et exploitante de droit d'une usine d'incinération d'ordures ménagères mise en service en 1988 et arrêtée définitivement en décembre 2002.		'La communauté de communes Artois Flandres'
+2005	07	06		2005	07	06		communiquée	- Etude de sol et analyses dans l'environnement réalisée et communiquée le 6 juillet 2005.		

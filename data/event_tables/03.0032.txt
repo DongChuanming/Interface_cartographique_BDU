@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930				1991				a_été_exploitée	Une mine à ciel ouvert y a été exploitée à proximité, entre 1930 et 1991.		
+2008	06			2008	06			a_définitivement_quitté_le_site	La société IMERYS, gestionnaire actuel du site, a indemnisé le relogement de la famille qui a définitivement quitté le site en juin 2008.		'La société IMERYS'
+1992				1992				est_déposée	En 1994, une déclaration d'abandon de travaux est déposée par cette société, la carrière est entièrement comblée en 1992 et le carreau de la mine, soit 5 ha est vendu à un agriculteur qui converti les bâtiments en maison d'habitation et hangars de stockage.		
+1994				1994				est_déposée	En 1994, une déclaration d'abandon de travaux est déposée par cette société, la carrière est entièrement comblée en 1992 et le carreau de la mine, soit 5 ha est vendu à un agriculteur qui converti les bâtiments en maison d'habitation et hangars de stockage.		
+2009	06	03		2009	06	03		a_instauré	Le site est maintenant clôturé et un arrêté préfectoral a instauré des servitudes d'utilité publique, en date du 3 juin 2009, afin de garder en mémoire l'impact des anciennes activités.		
+2009	06	03		2009	06	03		est_maintenant_clôturé	Le site est maintenant clôturé et un arrêté préfectoral a instauré des servitudes d'utilité publique, en date du 3 juin 2009, afin de garder en mémoire l'impact des anciennes activités.		
+2003	07			2003	07			a_entreposé	En juillet 2003, durant la période de la sècheresse, monsieur Giraud, l'actuel propriétaire du site, a entreposé à même le sol du maïs en tant qu'aliment de substitution pour son cheptel.		

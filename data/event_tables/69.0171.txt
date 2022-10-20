@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04	08		2004	04	08		un_rapport	Au vu de ces éléments, l’inspection des installations classées a proposé, dans un rapport du 08/04/2004 au préfet, de délivrer le récépissé de cessation d’activité à la société TOTAL France.		'la société TOTAL France'
+1971	05	03		1971	05	03		a_été_le_dernier_exploitant	La société TOTAL FRANCE a été le dernier exploitant de la station service implantée sur ce site dont le dernier récépissé de déclaration d'activité date du 03/05/1971.		'La société TOTAL FRANCE'
+2003	06	18		2003	06	18		a_été_transmis	Ce dossier a été transmis le 18/06/2003 à l’inspection des installations classées qui a demandé des compléments sur la prise en compte d’éventuelles pollutions par des hydrocarbures, sur la profondeur de la nappe phréatique et sa pollution éventuelle, sur des investigations et condamnation d’un puits d’infiltration et sur la mise en sécurité du site.	'hydrocarbures'	
+2004	03	22		2004	03	22		a_été_transmis	Le complément de dossier a été transmis le 22/03/2004 et conclue à l’absence de risque de pollution de la nappe phréatique située à 26 m de profondeur.		
+2000	03			2000	03			a_été_arrêtée	L'exploitation a été arrêtée en mars 2000 et signalée au préfet par courrier du 23/10/2002.		'préfet'

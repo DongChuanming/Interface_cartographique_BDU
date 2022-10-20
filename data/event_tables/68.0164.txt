@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				L__exploitation	L'exploitation du dépôt Ouest a débuté en 1963 ou 1965.		
+1963				1963				L__exploitation	L'exploitation du dépôt Ouest a débuté en 1963 ou 1965.		
+1963				1965				Date_de_début_d__exploitation	Date de début d'exploitation estimée entre 1963 et 1965.		

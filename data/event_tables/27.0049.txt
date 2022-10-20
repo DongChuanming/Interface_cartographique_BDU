@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				passe_en_enquête_publique	La demande d'instauration de servitudes d'utilité publique passe en enquête publique fin 2008 / début 2009 (arrêté préfectoral de mise à l'enquête publique du 6 décembre 2008) et est étudiée lors du CODERST du 6 octobre 2009.		'CODERST'
+1999				1999				est_achetée	n 1999, la SAMM est achetée par la société Lucas Aerospace elle même rachetéepar TRW.		'la SAMM', 'la société Lucas Aerospace', 'TRW'
+1951				1951				____déclare	En 1951, la Société d'Application des Machines Motrices (SAMM)  déclare la fabrication de pièces mécaniques de précision et développe l'activité.		"la Société d' Application des Machines Motrices"
+2009	10	06		2009	10	06		est_étudiée	La demande d'instauration de servitudes d'utilité publique passe en enquête publique fin 2008 / début 2009 (arrêté préfectoral de mise à l'enquête publique du 6 décembre 2008) et est étudiée lors du CODERST du 6 octobre 2009.		'CODERST'
+2008	12	06		2008	12	06		passe_en_enquête_publique	La demande d'instauration de servitudes d'utilité publique passe en enquête publique fin 2008 / début 2009 (arrêté préfectoral de mise à l'enquête publique du 6 décembre 2008) et est étudiée lors du CODERST du 6 octobre 2009.		'CODERST'
+2009	11	09		2009	11	09		a_été_signé	L'arrêté préfectoral instaurant les servitudes d'utilité publique a été signé le 09 novembre 2009.		
+								une_activité_de_travail_mécanique_des_métaux	Depuis les années 50 une activité de travail mécanique des métaux est exercée sur le site.		
+2007	10	12		2007	10	12		a_remis	L'exploitant a remis les éléments demandés le 12 octobre 2007. ces éléments sont en cours d'examen par l'inspection des installations classées		
+2005				2005				une_étude_environnementale	La société GOODRICH fait réaliser une étude environnementale par la société URS, dont les premiers résultats sont communiqués à l'inspection des installations classées en 2005.		'La société GOODRICH', 'la société URS'
+2006	09	05		2006	09	05		sont_pris	Deux arrêtés préfectoraux sont pris le 5 septembre 2006 imposant à l'exploitant d'effectuer les taches suivantes :		
+2009				2009				passe_en_enquête_publique	La demande d'instauration de servitudes d'utilité publique passe en enquête publique fin 2008 / début 2009 (arrêté préfectoral de mise à l'enquête publique du 6 décembre 2008) et est étudiée lors du CODERST du 6 octobre 2009.		'CODERST'
+2002				2002				devient	En 2002, GOODRICH Actuation Systems devient l'exploitant du site.		'GOODRICH Actuation Systems'
+2007	10	19		2007	10	19		un_contrôle	Le 19 octobre 2007, un contrôle de l'état des piézomètres situés à l'extérieur du site est réalisé par l'inspection des installations classées.		
+2006	01			2006	01			un_dossier_de_demande	En conséquence, l'exploitant dépose en janvier 2006 un dossier de demande d'autorisation d'exploiter afin de régulariser la situation administrative de son site.		
+								exercée_sur	Depuis les années 50 une activité de travail mécanique des métaux est exercée sur le site.		

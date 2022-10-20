@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								des_investigations_complémentaires	Suite à la déconstruction de l’ensemble des installations, la société DUMORTIER a fait réaliser des investigations complémentaires en Octobre et décembre 2011.		'la société DUMORTIER'
+2003				2003				ont_été_excavés	-En 2003, les sols pollués ont été excavés et dirigés en centre d'enfouissement technique (112 tonnes): ils ne sont plus à considérer comme représentant une source de pollution au regard des résultats d'analyses effectuées en fond de fouille.		
+2002	06			2002	06			_Réalisation	-Réalisation des trois ouvrages piézométriques en Juin 2002.		
+2007				2010				Surveillance_des_eaux	Surveillance des eaux entre 2007 et 2010 : Des anomalies pour l’arsenic, le chrome et le plomb sont détectées avec des teneurs maximales respectives de 120µg/l, 0,1mg/l et 0,1mg/l.	'l’ arsenic', 'le chrome', 'plomb'	
+2002				2008				démantèlement_des_installations	Entre 2002 et 2008, la société procède au démantèlement des installations et des bâtiments sur le site.		
+2011	12			2011	12			des_investigations_complémentaires	Suite à la déconstruction de l’ensemble des installations, la société DUMORTIER a fait réaliser des investigations complémentaires en Octobre et décembre 2011.		'la société DUMORTIER'
+2013	03	18		2013	03	21		Excavation	Excavation des terres impactées du 18 Mars 2013 au 21 Mars 2013 : au total, 281,70 tonnes de matériaux impactés ont été éliminés.		
+2001	04			2001	04			La_campagne_d__investigation_des_sols	La campagne d’investigation des sols d’avril 2001 met en évidence deux sources de pollution :		

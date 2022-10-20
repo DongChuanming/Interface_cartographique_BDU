@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Les_investigations_menées	Les investigations menées en 2010 (SITA REMEDIATION) et 2016 (société EIFFAGE GAUTHIER) indiquent que la compatibilité du site avec l'usage futur proposé sans mesure complémentaire de remise en état.		'SITA REMEDIATION', 'société EIFFAGE GAUTHIER'
+2016				2016				s__est_arrêtée	Celle-ci s’est arrêtée en 2014, conduisant au démantèlement des installations en 2016.		
+2018	10	09		2018	10	09		a_conduit_une_visite	Conformément à l’article R.512-39-1 du code de l’environnement, l’inspection des installations classées a conduit une visite le 9 octobre 2018 sur le site afin de vérifier sa mise en sécurité.		
+1973				1973				a_exploité	La société DME – Dauphinoise des Matériaux Enrobés - a exploité depuis 1973 une centrale d’enrobage à chaud de matériaux routiers sur son site situé rue du Vernay à Nivolas-Vermelle.		'La société DME', 'Matériaux Enrobés'
+2016				2016				démantèlement_des_installations	Celle-ci s’est arrêtée en 2014, conduisant au démantèlement des installations en 2016.		
+2014				2014				s__est_arrêtée	Celle-ci s’est arrêtée en 2014, conduisant au démantèlement des installations en 2016.		

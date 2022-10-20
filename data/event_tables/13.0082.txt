@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10			2009	10			s__est_arrété	L'activité solvants s'est arrété en Octobre 2009 et l'activité BR en Juin 2008.		
+								sera_mise_sous	La raffinerie sera mise sous cocon pendant 2 ans.		
+2011	10			2011	10			du_mois_d_	En Mai 2011, LYONDEL BASELL annonce la mise en vente de la raffinerie, suite à la grève des dockers du port de Marseille/Fos du mois d'octobre 2011 qui avait fortement perturbé l'équilibre de la raffinerie en plus de la guerre en Libye dont est originaire une grande partie du pétrole traité sur le site.		'LYONDEL BASELL', 'Marseille'
+1979				1979				est_implantée	D'une superficie de 70 ha, est implantée à BERRE, lieu dit l’Aubette, depuis 1979.		
+2014				2014				un_redémarrage	Cette mise sous cocon est prévue le 4/01/2012 et doit permettre la réversibilité de l'arrêt, l'objectif étant un redémarrage pour le début 2014 au plus tard afin de garder le bénéfice des autorisations ICPE.		
+2012	01	04		2012	01	04		est_prévue	Cette mise sous cocon est prévue le 4/01/2012 et doit permettre la réversibilité de l'arrêt, l'objectif étant un redémarrage pour le début 2014 au plus tard afin de garder le bénéfice des autorisations ICPE.		
+1998	06			1998	06			a_été_réalisée	L’ESR a été réalisée en juin 1998, suite à engagement de l'UFIP sur le calendrier national des groupes industriels.		'L’ ESR', 'UFIP'
+2011	05			2011	05			annonce	En Mai 2011, LYONDEL BASELL annonce la mise en vente de la raffinerie, suite à la grève des dockers du port de Marseille/Fos du mois d'octobre 2011 qui avait fortement perturbé l'équilibre de la raffinerie en plus de la guerre en Libye dont est originaire une grande partie du pétrole traité sur le site.		'LYONDEL BASELL', 'Marseille'
+2010				2010				a_demandé	En 2010, la DRIRE a demandé à CPB de revoir sa stratégie de gestion de la pollution.		'la DRIRE', 'CPB'
+2008				2008				a_racheté	LYONDELLBASELL a racheté le complexe du groupe SHELL en 2008, qui est désormais exploité par la CPB (Compagnie Pétrochimique de Berre).		'LYONDELLBASELL', 'groupe SHELL', 'la CPB', 'Compagnie Pétrochimique de Berre'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07	17		2012	07	17		Cette_ARR	Cette ARR, déposée le 06/07/2012 en préfecture, transmise le 17/07/2012 à l’inspection des installations classées, conclut que le site est bien compatible avec l’usage prévu, c’est-à-dire un usage résidentiel et commercial.		
+2011	04	04		2011	04	04		L__arrêt_définitif	L’arrêt définitif des installations a été constaté par l’inspection des installations classées le 04 avril 2011, lors d’une visite.		
+2012	07	06		2012	07	06		Cette_ARR	Cette ARR, déposée le 06/07/2012 en préfecture, transmise le 17/07/2012 à l’inspection des installations classées, conclut que le site est bien compatible avec l’usage prévu, c’est-à-dire un usage résidentiel et commercial.		
+2011				2011				a_été_réalisé	Un plan de gestion a été réalisé et transmis à la DRIEE en 2011.		'la DRIEE'
+2010				2010				a_cessé	La société a cessé son activité sur le site en 2010.		
+2000	11	07		2000	11	07		était_soumise_à_autorisation	Cette activité était soumise à autorisation sous la rubrique 286 de la nomenclature des installations classées et était réglementée par l’arrêté préfectoral du 07/11/2000.		

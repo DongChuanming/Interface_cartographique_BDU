@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	24		2000	07	24		est_imposée	La surveillance des eaux souterraines est imposée par l'arrêté préfectoral N° 002142 du 24 juillet 2000.		
+1977				1977				a_été_identifiée	Une pollution par des nitrates a été identifiée suite au remblaiement d'une excavation par des résidus de fabrication d'engrais en 1977.	'des nitrates'	

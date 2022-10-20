@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				se_confirme	Si la tendance à la baisse de la récupération d'huile se confirme en 2012, elle envisage de faire appel à un organisme extérieur pour réaliser un bilan du fonctionnement de l'installation et dégager des perspectives d'avenir.		
+2012				2012				envisage	Si la tendance à la baisse de la récupération d'huile se confirme en 2012, elle envisage de faire appel à un organisme extérieur pour réaliser un bilan du fonctionnement de l'installation et dégager des perspectives d'avenir.		
+2011				2011				ont_été_pompés	En 2011, seuls 9 litres d'huile ont été pompés (124 litres en 2010) ainsi que 3 522 m3 d'eau (5851 m3 en 2010).		
+2010				2010				ont_été_pompés	En 2011, seuls 9 litres d'huile ont été pompés (124 litres en 2010) ainsi que 3 522 m3 d'eau (5851 m3 en 2010).		
+2001	08			2001	08			ont_été_récupérés	Au mois d'août 2001, environ 900 litres d'HC surnageant ont été récupérés depuis le début du traitement mais la quantité d'HC extraite mensuellement diminue.	'HC', 'surnageant', 'HC'	
+1990				1990				a_été_découverte	La pollution a été découverte fin 1990 lors de travaux d'agrandissement de la société.		

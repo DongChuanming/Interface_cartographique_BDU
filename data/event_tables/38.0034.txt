@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966	06			1966	06			a_démarré	ancien site Seveso situé à Champagnier, l'usine Polimeri Europa Elastomères France a démarré sa production de caoutchouc de polychloroprène (à partir du butadiène et du chlore) en juin 1966.	'caoutchouc de polychloroprène', 'butadiène', 'chlore'	'Polimeri Europa Elastomères'
+2008				2008				nvestigations_environnementales	nvestigations environnementales de 2008 :		
+2006	08	02		2006	08	02		a_cessé_son_activité	Le site a cessé son activité le 2 août 2006.		
+2014	08	25		2014	08	25		a_été_pris	L'arrêté de servitudes d'utilité publique a été pris le 25/08/2014.		
+2003				2003				une_évaluation_simplifiée_des_risques	Lors de la période d'exploitation du site, une évaluation simplifiée des risques a été menée en 2003.		
+								a_été_réalisée	Une surveillance des eaux souterraines a été réalisée par la métropole de Grenoble (arrêté préfectoral du 25/08/14) de novembre 2014 à septembre 2017.		'la métropole de Grenoble'
+								a_été_radiée_du_registre_du_commerce	La société POLIMERI a été radiée du registre du commerce le 01/09/16 (SIRET : 383 531 779 00031).		'La société POLIMERI'
+2014	11			2017	09			a_été_réalisée	Une surveillance des eaux souterraines a été réalisée par la métropole de Grenoble (arrêté préfectoral du 25/08/14) de novembre 2014 à septembre 2017.		'la métropole de Grenoble'
+2012				2012				Des_sondages_complémentaires	Des sondages complémentaires (au nombre de 8) portant sur l'analyse des dioxines et furannes et PCB DL ont été réalisés en 2012.2 points, dont l'un se situe en dehors de la zone de retombée de l'ancien incinérateur, et l'autre dans l'emprise du site, présentent des concentrations supérieures aux valeurs de référence en milieu industriel (soit une gamme comprise entre 20 et 60 ngITeq/kg).	'dioxines', 'furannes', 'PCB DL', 'ngITeq'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			a_été_produit	En outre un calcul de risque sanitaire a été produit en juillet 2002 afin de justifier de la compatibilité de l'état des sols résiduels (après excavation) avec l'usage futur prévu.		
+2002	04			2002	04			Un_nouveau_diagnostic_de_sols	Un nouveau diagnostic de sols a été réalisé par le promoteur en avril 2002, en vue notamment de préciser plus finement l'étendue des zones polluées et les coûts de traitement associés. 16 nouveaux sondages de sols ont ainsi été effectués.		
+2002	09			2002	09			Les_travaux_de_dépollution	Les travaux de dépollution ont ensuite été engagés en septembre 2002. 220 tonnes de terres polluées ont été excavées et éliminées en biocentre, pour les terres polluées aux hydrocarbures, et en décharge, pour les terres polluées aux métaux (plomb notamment ainsi que zinc et cuivre) et aux HAP.	'hydrocarbures', 'métaux', 'plomb', 'zinc', 'cuivre', 'HAP'	
+2000	04			2000	04			14_sondages_de_sols	A cette occasion 14 sondages de sols et des analyses des eaux souterraines ont été effectuées en avril 2000 au moyen de 5 piézomètres notamment.		
+2002	11			2002	11			a_été_produit	Le rapport de fin de travaux a été produit en novembre 2002.		
+1992				1992				avait_cessé	Il est ensuite apparu que toute activité sur ce site avait cessé depuis 1992.		
+1992				1992				n__est_exercée	Ancien site industriel (tréfileries, câblerie), où plus aucune activité n'est exercée depuis 1992.		
+2000	03			2000	03			a_été_transmise	L'analyse historique a été transmise en mars 2000.		
+2001	05			2001	05			une_nouvelle_évaluation_simplifiée_des_risques	En conséquence, sur demande de la DRIRE, une nouvelle évaluation simplifiée des risques a été produite par le promoteur, en mai 2001, sur la base de ce nouvel usage projeté.		'la DRIRE'
+2001	02	07		2001	02	07		Le_procès_verbal_de_récolement	Le procès verbal de récolement a été rédigé le 7 février 2001 en précisant qu'il se limitait à un usage futur industriel uniquement.		
+2000	10			2000	10			Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques ont été transmis en octobre 2000.		

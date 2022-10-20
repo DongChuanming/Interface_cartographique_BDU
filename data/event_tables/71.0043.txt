@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	09		2010	12	09		a_été_exploitée_successivement	Cette installation a été exploitée successivement par SHELL, puis par la société THEVENIN & DUCROT (station-service AVIA) à partir du 9 décembre 2010.		'SHELL', 'la société THEVENIN & DUCROT', 'service AVIA'
+				2009	08	28		__dégagement_des_réseaux_souterrains	- du 25 au 28 août 2009 : dégagement des réseaux souterrains autour du séparateur, destruction des enrobés du parking poids lourds, ouverture d'une tranchée entre le regard d'arrivée d'eau de la ville et le regard d'alimentation de la boutique ;		
+								__dépose___repose_du	- du 31 août au 4 septembre : dépose/repose du séparateur d'hydrocarbures, excavation des terres souillées, mise en stock de ces terres sur site, chargement et évacuation des terres impactées vers un centre de traitement réglementé.	"d' hydrocarbures"	
+2010	06			2010	06			a_fait_réaliser_un_diagnostic_environnemental	L'exploitant a fait réaliser un diagnostic environnemental en juin 2010, transmis aux services de l’État compétents en juillet 2010.		
+2010				2010				a_demandé	Début 2010, l'inspection des installations classées a demandé à l'exploitant d'évaluer l'impact de cet incident sur les eaux souterraines.		
+2010	11			2010	11			la_réalisation_d__une_campagne	L'inspection des installations classées avait demandé en novembre 2010 la réalisation d'une campagne de suivi semestriel de la qualité des eaux souterraines.		
+				2009	09	04		Des_travaux_de_dépollution	Des travaux de dépollution des zones sus-visées ont été réalisés entre le 25 août et le 4 septembre 2009.		
+2009	06	12		2009	06	12		Un_déversement_accidentel	Un déversement accidentel d'environ 1200 litres de gasoil dû au percement d'un réservoir de poids lourd est survenu sur la station service SHELL le 12 juin 2009.	'gasoil'	'SHELL'

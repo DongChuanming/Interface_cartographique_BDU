@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	25		2003	06	25		Une_visite_de_récolement_de	Une visite de récolement de ces travaux a eu lieu le 25 juin 2003		
+1998	07	10		1998	07	10		de_travaux_d_	Ces travaux ont été prescrits par l'arrêté préfectoral de travaux d'office du 10 juillet 1998 et réalisés.		
+2015	05	28		2015	05	28		Cette_étude_a_été_prescrite	Cette étude a été prescrite par l'arrêté préfectoral de travaux d'office du 28 mai 2015.		
+2019	03	18		2019	03	18		La_réalisation_de_travaux	La réalisation de travaux permettant d'éliminer les efflorescences métalliques observées sur certains murs et de supprimer les voies de transfert à l'origine de ces efflorescences a été confiée à l'ADEME par arrêté préfectoral de travaux d'office du 18 mars 2019.		
+1914				1914				a_été_créé	L'établissement LEGUICHARD a été créé en 1914.		'LEGUICHARD'
+1998	05	12		1998	05	12		s__est_rendue	L'inspection des Installations Classées s'est rendue sur le site le 12 mai 1998 afin de constater si les dispositions de cette mise en demeure avaient été respectées.		
+2018	05			2018	05			a_remis	L'ADEME a remis son compte-rendu d'intervention en mai 2018 avec des propositions d'actions complémentaires.		
+1997	12	05		1997	12	05		a_été_abandonné	Lors de la liquidation judiciaire le 5 décembre 1997, le site a été abandonné avec divers déchets, notamment les bains de traitement de surface.		
+1998	05	28		1998	05	28		Une_procédure_de_consignation	Une procédure de consignation du 28 mai 1998 a ordonné au liquidateur de consigner entre les mains d'un comptable public une somme de 429 000 F TTC (65 400 €) répondant de l'engagement des travaux mais le liquidateur judiciaire a informé M. le Préfet qu'il ne disposait d'aucun fonds.		'le Préfet'

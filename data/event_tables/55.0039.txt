@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				plusieurs_diagnostics	Concernant la surveillance des effets des installations sur leur environnement, plusieurs diagnostics ont été réalisés sous maîtrise d’ouvrage de l’EPFL en 2012 et 2014 :		
+2012				2012				plusieurs_diagnostics	Concernant la surveillance des effets des installations sur leur environnement, plusieurs diagnostics ont été réalisés sous maîtrise d’ouvrage de l’EPFL en 2012 et 2014 :		
+2010	07	16		2010	07	16		a_prononcé_la_liquidation_judiciaire	Par jugement en date du 16 juillet 2010, le Tribunal de Commerce de BAR-LE-DUC a prononcé la liquidation judiciaire desdites sociétés.		'le Tribunal de Commerce de BAR-LE-DUC'
+2015	04	20		2015	04	20		de_sa_dernière_visite	Lors de sa dernière visite en date du 20 avril 2015, l'inspection des installations classées a constaté que les accès au site sont limités, que les trous ont été sécurisés et que les déchets et produits dangereux ont été éliminés.	'les déchets', 'produits dangereux'	
+2009	11			2009	11			l__arrêt_définitif_de_ces_activités	En novembre 2009, le gérant des sociétés SARAP INDUSTRIE et ANTHEA a déclaré l’arrêt définitif de ces activités sur les deux sites précités.		'des sociétés SARAP INDUSTRIE', 'ANTHEA'

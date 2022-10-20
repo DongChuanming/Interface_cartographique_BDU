@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	12	23		2016	12	23		cession_a_été_réalisée	Une preuve de dépôt de déclaration de cession a été réalisée le 23 décembre 2016 au bénéfice de la société SUMACAS.		'la société SUMACAS'
+2003				2005				Des_diagnostics_environnementaux	Des diagnostics environnementaux ont été réalisées entre 2003 et 2005 par le bureau d'études ERG Environnement dans le cadre d'une extension du supermarché Intermarché.		'ERG Environnement'
+2005	05			2005	05			un_rapport_de_fin_de_travaux_réalisé	Des travaux de dépollution ont été réalisés dans le cadre de l'extension du supermarché, qui ont donné lieu à un rapport de fin de travaux réalisé en mai 2005.		
+2005	05			2005	05			Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés dans le cadre de l'extension du supermarché, qui ont donné lieu à un rapport de fin de travaux réalisé en mai 2005.		
+2004	04			2004	04			Ce_diagnostic	Ce diagnostic, réalisé en avril 2004, a consisté en la réalisation de sondages supplémentaires et de l'implantation de piézomètres et une analyse des sédiments du Solin.		
+2011	04	14		2011	04	14		cédée	La station service, régie par récépissé de déclaration du 6 octobre 1999, a été exploitée dans un premier temps par la société INTERMARCHE puis cédée le 14 avril 2011 à la société CASINO CARBURANTS.		'la société INTERMARCHE', 'la société CASINO CARBURANTS'
+2003	08			2003	08			la_campagne_d_	Les résultats montrent des concentrations en zinc de 7 500 µg/l sur la campagne d'août 2003 (5 000 µg/l en mars 2004) et l'absence d'impact sur les sédiments du Solin et de fortes teneurs dans les remblais (22 000 mg/kg), non retrouvées dans les couches sous-jacentes.		

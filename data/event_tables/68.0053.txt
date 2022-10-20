@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				Une_fuite	Une fuite d'environ 40m3 de gazole s'est produite en 1999.	'gazole'	
+2000	10			2000	10			Une_étude	Une étude (Evaluation simplifiée des Risques) a été réalisée en octobre 2000.		

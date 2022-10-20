@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07			2013	07			ont_été_proposées	Des mesures de gestion ont été proposées en juillet 2013 en vue de traiter ces deux zones.		
+2011	12	06		2011	12	06		la_fermeture_physique	Le mandataire liquidateur a indiqué au Préfet de Meurthe et Moselle la fermeture physique de l'établissement par courrier du 06 décembre 2011.		
+2011	11	22		2011	11	22		la_liquidation_judiciaire_de	Par jugement en date du 22 novembre 2011, la liquidation judiciaire de la société a été prononcée.		
+2012				2012				un_diagnostic_environnemental	Dans le cadre de la liquidation judiciaire de l'entreprise, un diagnostic environnemental du site d'implantation de la société PROTECH'EST à BENAMENIL a été réalisé et transmis en 2012.		"la société PROTECH' EST", 'BENAMENIL'

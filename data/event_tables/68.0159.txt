@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975	01			1992	12			a_eu	Puis de janvier 1975 à décembre 1992, il y a eu une activité de stockage et d’emballage de moteurs diesel par SACM de Mulhouse (75-89) puis SACM Diesel (89-92).		'SACM de Mulhouse', 'SACM Diesel'
+1995	07			1995	07			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés en juillet 1995, en vue de la construction de bâtiments à haute qualité environnementale (clinique, logements).		
+1994	12	22		1994	12	22		a_été_considérée_comme_exploitant	La société ALSPI, propriétaire du site a été considérée comme exploitant de l'installation et le préfet lui a imposé des prescriptions visant à caractériser les déblais et d'en assurer l'élimination par l’arrêté préfectoral du 22 décembre 1994.		'La société ALSPI', 'le préfet'
+1890				1960				__auraient_été_construits	Les bâtiments existant en 1994 sur la "pointe CITROEN" auraient été construits de 1890 à 1960. le site accueille la clinique Saint Sauveur.		'CITROEN'
+1994				1994				existant	Les bâtiments existant en 1994 sur la "pointe CITROEN" auraient été construits de 1890 à 1960. le site accueille la clinique Saint Sauveur.		'CITROEN'
+2006	03	30		2006	03	30		ont_été_extraites	Ces cuves ont été extraites et les terres souillées ont été traitées en centre par désorption thermique (rapport du 30 mars 2006).		
+1957				1957				a_occupé	Jusqu'en 1957 la Filature Alsacienne de Laine Peignée GLUCK & Cie a occupé le site.		'Alsacienne de Laine Peignée GLUCK'
+1957	06			1975	01			a_accueilli	De juin 1957 à janvier 1975, le site a accueilli la fabrication des transmissions pour les automobiles de marque CITROEN par Groupe CITROEN.		'marque CITROEN', 'Groupe CITROEN'
+1994				1994				a_été_mise_en_évidence	En 1994, à l'occasion de travaux de démolition et d'affouillement menés pour le compte du propriétaire (anciennement ALSPI), la présence de scories et de déchets pollués par des hydrocarbures a été mise en évidence.	'hydrocarbures'	'ALSPI'

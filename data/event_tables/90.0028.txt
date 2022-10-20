@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				sont_rachetés	- 1960 : les bâtiments de l'usine STEINER spécialisée dans le teinture-impression, sont rachetés et transformés en laiterie par Monsieur Abt.		'STEINER', 'Monsieur Abt'
+								devient	A la fin des années 1960, le site industriel devient la centrale laitière.		
+1870				1870				rachète	Après 1870, la famille Steiner de Ribeauville rachète les bâtiments et l’Étang pour installer une manufacture de teinturerie.		'la famille Steiner', 'Ribeauville'
+2003	10	1		2003	10	1		se_ralentit	- 2003 : l'activité de l'entreprise se ralentit, elle est reprise par l'Union Lorraine de Producteurs de Lait (54) au 1er Octobre 2003 et devient la SAS LE FRANCOMTOIS.		'la SAS LE FRANCOMTOIS'
+1993				1993				__Construction_de_nouveaux_locaux	- 1993 : Construction de nouveaux locaux et de caves d'affinage.		
+1992				1992				Agrandissement	- 1992 : Agrandissement de l'atelier préemballé.		
+2003				2003				se_ralentit	- 2003 : l'activité de l'entreprise se ralentit, elle est reprise par l'Union Lorraine de Producteurs de Lait (54) au 1er Octobre 2003 et devient la SAS LE FRANCOMTOIS.		'la SAS LE FRANCOMTOIS'
+1961				1961				La_liquidation	La liquidation de l'usine date de 1961.		
+2011	12			2011	12			cesse_partiellement_ses_activités	L'entreprise cesse partiellement ses activités en décembre 2011.		

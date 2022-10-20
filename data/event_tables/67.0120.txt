@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01	23		1997	01	23		Des_travaux_de_dépollution	Des travaux de dépollution ont été prescrits par AP en date du 23/01/1997.		
+1995				1995				a_été_mise_en_évidence	Une pollution par hydrocarbures a été mise en évidence en 1995 dans un puits privé à Roeschwoog.	'hydrocarbures'	

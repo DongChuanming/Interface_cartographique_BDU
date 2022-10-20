@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1954				1954				fondée	La société SPEICHIM, fondée en 1954, teste les colonnes de distillation qui sont fabriquées sur le site de Brioude.		'La société SPEICHIM', 'Brioude'
+2011	05			2011	05			réalisé	Un bilan des eaux souterraines, réalisé en mai 2011, conclut à l'absence d'impact en aval du site.		
+2012	07	03		2012	07	03		est_interrompue	Par arrêté préfectoral en date du 3 juillet 2012, la surveillance de la qualité des eaux souterraines est interrompue.		
+2003	01	09		2003	01	09		ont_été_formalisées	Les restrictions d'usage ont été formalisées par une convention de servitudes au profit de l'Etat signée le 9/01/2003.		
+1994	05	13		1994	05	13		a_été_prescrite	A la fermeture de l'usine, une étude de la pollution du sol a été prescrite par arrêté préfectoral du 13 mai 1994.		
+1960				1960				se_développe	A partir de 1960, l'activité de distillation se développe.		
+2002	06			2002	06			a_été_réceptionnée	La fin des travaux, dont le coût s'élève à un million d'euros, a été réceptionnée en juin 2002.		
+1989				1989				Cette_incinération_cesse	Cette incinération cesse en 1989.		
+1994				1994				s__arrête	L'activité sur ce site s'arrête en 1994.		
+2000				2002				Les_travaux_de_dépollution	Les travaux de dépollution suivants ont été réalisés de 2000 à 2002:		

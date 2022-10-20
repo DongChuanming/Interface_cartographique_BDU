@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02	22		2004	02	22		ont_été_détruits	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		
+								avaient_été_ramenés	Le 24 août les fûts avaient été ramenés sur le site autorisé.		
+2004	08	20		2004	08	20		étaient_également_entreposés	- Le 20 août 2004, des fûts contenant des huiles ainsi qu'un bidon contenant une solution d'acide étaient également entreposés sur le site, sans rétention.	'des huiles', "une solution d' acide"	
+2001	06	1		2001	06	1		ont_été_reprises	Les activités ont été reprises le 1er juin 2001 par la SARL B.		
+2004	12	10		2004	12	10		a_été_remise	L'étude a été remise le 10 décembre 2004 et complétée le 4 mars 2005.		
+2005				2005				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés durant l'été 2005.		
+2005	03	04		2005	03	04		complétée	L'étude a été remise le 10 décembre 2004 et complétée le 4 mars 2005.		
+								été_ramenés	Le 24 août ils avaient été ramenés sur une zone en rétention ;		
+2004	02	22		2004	02	22		un_incendie	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		
+2005	01	13		2005	01	13		est_fixée	La date limite pour la remise de l'étude est fixée au 13 janvier 2005.		
+								Une_inspection	Une inspection de l'établissement a été réalisée les 20 et 24 août 2004.		
+								avaient_été_regroupées_dans_un_conteneur	Le 24 août, elles avaient été regroupées dans un conteneur étanche ;		
+								sont_entreposés_en_l__état	Certains de ces véhicules sont entreposés en l'état depuis plus de 6 mois ;		
+								pendant_la	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		
+2004	02	22		2004	02	22		pendant_la	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		
+2004	08	19		2004	08	19		ont_été_informés_d_	Le 19 août 2004 les services de la DRIRE ont été informés d'une pollution des eaux dont la SARL B.		'la DRIRE'
+2004	09	03		2004	09	03		ont_été_imposées	Ces prescriptions ont été imposées à l'exploitant par arrêté préfectoral du 3 septembre 2004.		
+2004	08	24		2004	08	24		Une_inspection	Une inspection de l'établissement a été réalisée les 20 et 24 août 2004.		
+2004	09	03		2004	09	03		La_réalisation_de_cette_étude_a_été_imposée	La réalisation de cette étude a été imposée à l'exploitant par un deuxième arrêté préfectoral du 3 septembre 2004.		
+2004	08	20		2004	08	20		était_pleine	- Le 20 août 2004, la cuve destinée à récupérer les eaux polluées et tout liquide accidentellement répandu sur l'aire de démontage était pleine.		
+1982	03	16		1982	03	16		un_arrêté	Monsieur Jean-Paul PUTIN a été autorisé par un arrêté du 16 mars 1982 à exploiter un chantier de démolition de véhicules automobiles hors d'usage sur le territoire de la commune de VIRIAT, parcelle n° 152 section ZA du nouveau plan d'occupation des sols.		'PUTIN', 'VIRIAT'
+								ont_été_détruits	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		
+2005				2005				durant_l_	Les travaux ont été réalisés durant l'été 2005.		
+								un_incendie	- Les bâtiments d'exploitation ont été détruits par un incendie qui a eu lieu pendant la nuit du 21 au 22 février 2004.		

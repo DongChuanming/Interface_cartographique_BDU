@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			implantés	La reconnaissance de la qualité des eaux souterraines a été réalisée sur la base de 3 piézomètres implantés en juin 2010 jusqu’au socle granitique.		
+2010				2010				a_remis	Elle a remis son mémoire de cessation d'activité en 2010.		
+2006	05			2006	05			une_campagne_de_prélèvements	Sur cette base, en mai 2006, une campagne de prélèvements et d’analyses de sols a été réalisée (8 sondages dont 1 correspondant au fond géochimique local).		
+1936				1936				déja_exploitée	Le site est une ancienne tannerie (déja exploitée en 1936) comportant ou ayant comporté des dépôts de liquides inflammables et de produits chimiques dont des acides.	'dépôts de liquides inflammables', 'produits chimiques', 'des acides'	
+2016				2016				de_la_dernière_visite	Lors de la dernière visite d'inspection (2016), l'ancien exploitant devait encore prendre quelques mesures pour mettre totalement le site en sécurité.		
+2010				2010				des_investigations_complémentaires	En complément, en 2010, dans le cadre de la cessation d’activité, des investigations complémentaires ont été réalisées via 9 sondages supplémentaires.		

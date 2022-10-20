@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				a_cessé	L'activité du site a cessé en 2014.		
+2016	11			2016	11			Une_inspection	Une inspection a eu lieu en novembre 2016 pour la mise en sécurité du site.		
+2014	02	04		2014	02	04		La_liquidation_judiciaire	La liquidation judiciaire ayant été prononcée par jugement du tribunal de Rouen en date du 4 février 2014 et placée sous le mandat de Me Marc BEREL.		'Me Marc BEREL'

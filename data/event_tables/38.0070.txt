@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987	06	25		1987	06	25		signé	Une activité incluant la distribution de carburant fait l'objet d'un récépissé de déclaration signé en date du 25/06/1987.	'carburant'	
+2005	05	11		2005	05	11		un_courrier	Par le biais d'un courrier daté du 11/05/2005, l'Inspection des Installations Classées a proposé au Préfet de l’Isère de demande à la société EDF-GDF de compléter leur dossier de cessation d'activité en procédant à des sondages et à des analyses de sols.		'la société EDF - GDF'
+								__est_intervenue	 est intervenue sur le site les 21 et 22/07/2003 afin de dégazer, nettoyer et neutraliser les gazomètres présents sur le site.		
+1994				1994				l__étude_environnementale	En 1994, l'étude environnementale de ce site a été réalisée par un bureau d'études à la demande de GAZ DE FRANCE.		'GAZ DE FRANCE'
+2003	07	22		2003	07	22		__est_intervenue	 est intervenue sur le site les 21 et 22/07/2003 afin de dégazer, nettoyer et neutraliser les gazomètres présents sur le site.		
+1987	06	25		1987	06	25		fait_l__objet_d_	Une activité incluant la distribution de carburant fait l'objet d'un récépissé de déclaration signé en date du 25/06/1987.	'carburant'	

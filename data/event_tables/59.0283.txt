@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06			1998	06			Les_études_de_sols_menées	- Les études de sols menées en juin 1998 ont révélé une pollution très localisée au plomb et à l'antimoine, vraisemblablement à proximité d'une ancienne forge.	'plomb', 'antimoine'	
+1996				1996				a_cessé_ses_activités	- Le site a cessé ses activités en 1996.		
+1998	11			1998	11			ont_été_demandées	- Des investigations complémentaires ont été demandées à l'industriel en novembre 1998 afin d'établir l'étendue de la pollution aux métaux lourds.	'métaux lourds'	

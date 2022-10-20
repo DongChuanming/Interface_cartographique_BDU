@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	13		2006	04	13		a_été_transmis	Le dossier nécessaire à la constitution de servitudes d’utilité publique a été transmis à l’administration par courrier en date du 13 avril 2006.		
+1999				1999				ont_totalement_cessé	Ces mises en décharge ont totalement cessé en 1999 et le site de la décharge a été remis en état.		
+1998	10	23		1998	10	23		la_réalisation_d__une_étude_de_sol	Par arrêté du 23 octobre 1998, a été imposée la réalisation d'une étude de sol, suivant le guide méthodologique élaboré par le Ministère chargé de l'environnement, comprenant un diagnostic initial et une Evaluation Simplifiée des Risques (ESR).		'le Ministère'
+1996	04	03		1996	04	03		la_réalisation_d__études_de_sols	Par circulaire du 3 avril 1996, le Ministère chargé de l'environnement a demandé la réalisation d'études de sols pour un ensemble de sites industriels en activité et relevant de secteurs d'activité prioritaires.		
+1987				1987				s__est_orienté_vers	A partir de 1987, l’établissement s'est orienté vers la production de silicium.		
+1964				1964				est_implantée	L'usine est implantée sur le site d'Anglefort depuis 1964.		
+2004	09	17		2004	09	17		a_été_remis	Le rapport de synthèse (réalisé par le bureau d'études ATOS ENVIRONNEMENT de Lyon) reprenant les informations acquises et les résultats de l'EDR a été remis le 17 septembre 2004, puis complété les 14 décembre 2004 et 14 mars 2005.		'ATOS ENVIRONNEMENT', 'de Lyon'

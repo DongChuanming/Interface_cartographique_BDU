@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	18		2003	12	18		a_été_transmis	Le mémoire définitif de cessation d'activité a été transmis à la DRIRE le 18 décembre 2003.		'la DRIRE'
+2001				2001				14_sondages_de_sol	14 sondages de sol ont été effectués par le cabinet SOLEN en 1999, 2000 et 2001.		
+2004	08	19		2004	08	19		Un_arrêté_complémentaire_de_travaux	Un arrêté complémentaire de travaux en vue de la remise en état du site a été pris le 19 août 2004.		
+2001	09	04		2001	09	04		un_PV_de_récolement	La partie nord du site, parcelle de 13 000 m2 qui n'a reçu aucune installation classée liée au traitement des déchets, a fait l'objet d'un PV de récolement le 4 septembre 2001 et a été vendue à la société TRIDEX.		'la société TRIDEX'
+2004	10			2004	10			Les_travaux	Les travaux (notamment d'évacuation des terres polluées) sont en cours en octobre 2004.		
+1997				1997				ont_été_mises_à_l__arrêté	Les dernières activités ont été mises à l'arrêté en 1997-1998.		
+2003	03	20		2003	03	20		ont_été_demandés	Des compléments ont été demandés par la DRIRE le 20 mars 2003 sur les pollutions au cuivre, au chrome, ainsi que sur les mesures éventuelles de dépollution ou de surveillance du site.	'cuivre', 'chrome'	'la DRIRE'
+1964	07	18		1964	07	18		a_été_autorisée_à_exploiter	La ville de Meaux a été autorisée à exploiter une usine d'incinération et de traitement d'ordures ménagères au lieu-dit Beauval par arrêté n°64-EC-5.588 du 18 juillet 1964.		'La ville de Meaux'
+2000				2000				14_sondages_de_sol	14 sondages de sol ont été effectués par le cabinet SOLEN en 1999, 2000 et 2001.		
+2001	09			2001	09			Une_étude	Une étude équivalent à une démarche d'évaluation simplifiée des risques a été réalisée par le cabinet Letourneur en septembre 2001.		
+1998				1998				ont_été_mises_à_l__arrêté	Les dernières activités ont été mises à l'arrêté en 1997-1998.		
+1999				1999				14_sondages_de_sol	14 sondages de sol ont été effectués par le cabinet SOLEN en 1999, 2000 et 2001.		

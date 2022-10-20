@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07			2000	07			a_été_remis	Le rapport final a été remis en juillet 2000, à la suite d'investigations complémentaires portant sur les sols.		
+2007				2007				les_campagnes_suivantes_de_suivis	Toutefois, les campagnes suivantes de suivis (2006, 2007 et 2008 ) n'ont pas confirmé les teneurs trouvées lors de la pose des piézomètres.		
+1994				1994				a_été_remise_en_état	La station a été remise en état fin 1994.		
+1994	10	06		1994	10	06		La_pollution_constatée	La pollution constatée le 6 octobre 1994 portait sur un rejet d'eau fortement chargé en hydrocarbures dans le fossé d'évacuation des eaux pluviales du site qui longe le CD 64.	'hydrocarbures'	
+2008	03	11		2008	03	11		__une_visite_d__inspection	Depuis, une visite d'inspection du 11/03/2008 a permis de constater que l'exploitant a implanté sur son site 3 piézomètres (1 en amont, 2 en aval).		
+2006	03			2006	03			ont_été_constatées	Lors de la pose des piézomètres en mars 2006, des concentrations en hydrocarbures ont été constatées respectivement au droit des piézomètres n°1 (aval théorique ) et 3 (amont théorique).	'hydrocarbures'	
+								Trois_campagnes_de_mesure	Trois campagnes de mesure ont été réalisées en mars, mai et août 2006.		
+2006	08			2006	08			Trois_campagnes_de_mesure	Trois campagnes de mesure ont été réalisées en mars, mai et août 2006.		
+2006				2006				les_campagnes_suivantes_de_suivis	Toutefois, les campagnes suivantes de suivis (2006, 2007 et 2008 ) n'ont pas confirmé les teneurs trouvées lors de la pose des piézomètres.		
+2008				2008				les_campagnes_suivantes_de_suivis	Toutefois, les campagnes suivantes de suivis (2006, 2007 et 2008 ) n'ont pas confirmé les teneurs trouvées lors de la pose des piézomètres.		
+1978	06	26		1978	06	26		exerce	La société TLOP exerce sur son site de Saint Marcel une activité de transport routier, garage, entretien , lavage de véhicules (bennes, plateaux, citernes de produits pétroliers...,  autorisé par l'arrêté préfectoral du 26/06/1978.	'pétroliers'	'La société TLOP', 'Saint Marcel'

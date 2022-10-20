@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1969				fusionne	En 1969, le DAUPHINE LIBÉRÉ fusionne avec la rédaction du PROGRÈS.		'le DAUPHINE'
+1995	11	03		1995	11	03		a_été_signé	Un récépissé de déclaration a été signé le 03/11/1995 autorisant les activités suivantes :		
+1966	02	12		1966	02	12		a_également_été_signé	Un récépissé de déclaration a également été signé en date du 12/02/1966 pour l'implantation sur site de 2 dépôts de gaz combustible.	'dépôts de gaz combustible'	
+1965				1965				était_déjà_occupée	En 1965, une partie du site était déjà occupée par les locaux du DAUPHINE LIBÉRÉ.		'DAUPHINE LIBÉRÉ'
+1962	02	01		1962	02	01		déclaration	Son activité de tôlerie et de chaudronnerie a d'abord fait l'objet d'un récépissé de déclaration en date du 01/02/1962, puis, le 17/03/1965, un arrêté préfectoral d'autorisation a été délivré pour une activité de fonderie de métaux et alliages de Plomb.	'Plomb'	
+2005	03			2005	03			a_été_rédigé	Ce rapport a été rédigé par l'APAVE en mars 2005 dans le cadre du démantèlement des activités effectuées sur la partie nord du site et la vente de l'ensemble immobilier.		'APAVE'
+1969	1968			1969	1968			L__activité	L'activité de la CHAUDRONNERIE OLIVIER ODDOUX a cessé en 1968/1969.		'la CHAUDRONNERIE OLIVIER ODDOUX'
+2008	10	07		2008	10	07		a_réceptionné_de	Le 07/10/2008, l'Inspection des Installations Classées a réceptionné de la part du PROGRÈS un dossier d'information de modifications comprenant une cessation d'activité partielle, une étude de sols et une Évaluation Simplifié des Risques (ESR).		
+1965	03	17		1965	03	17		a_été_délivré	Son activité de tôlerie et de chaudronnerie a d'abord fait l'objet d'un récépissé de déclaration en date du 01/02/1962, puis, le 17/03/1965, un arrêté préfectoral d'autorisation a été délivré pour une activité de fonderie de métaux et alliages de Plomb.	'Plomb'	

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01			2003	01			__excavation	Janvier 2003 : excavation des terres polluées par les BTEX (4 000 m3) pour traitement in situ par biodégradation (biopile), sur zone étanche	'BTEX'	
+1997	11			1997	11			rapport	- Etude par la société ANTEA (rapport novembre 1997)  : historique du site, diagnostic du sous-sol (prélèvements et analyses), évaluation succincte des risques vis à vis de l'environnement.		'la société ANTEA'
+2001	07	26		2001	07	26		clos	Les sources (fûts, boues de peinture, terres polluées) ont généré une pollution de la nappe surfacique par les BTEX, dont l'impact (par ruissellement) sur la rivière l'Arques est avéré : procès-verbal dressé à l'encontre de Maître HESS au titre de la police de l'eau (clos le 26 juillet 2001) (article L432-2 du Code Rural).	'les BTEX'	'Maître HESS'
+2003				2003				__traitement	- 2003 : traitement des remblais et mâchefers pollués par voie biologique Durée : de 8 à 12 mois.		

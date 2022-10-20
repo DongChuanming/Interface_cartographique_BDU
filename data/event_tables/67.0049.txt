@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09	29		2011	09	29		les_obligations	Le 29 septembre 2011, les obligations faites à la société Albus France, 34 route de Haguenau, 67340 Ingwiller, concernant le site d'Ingwiller et de Menchoffen sont levées.		'la société Albus France'
+2004	08			2004	08			Des_opérations_de_dépollution_complémentaires	Des opérations de dépollution complémentaires des sols et des eaux souterraines se sont déroulées d'août 2004 à septembre 2005.		
+2001	11	30		2001	11	30		a_stoppé	Elle a stoppé sa production le 30 novembre 2001 puis son stockage le 28 février 2002.		
+								on_été_comblés	Les 17 et 21 octobre 2011 on été comblés les différents piézomètres du site.		
+2004	06			2004	06			à_été_levé	Le traitement à été levé en juin 2004.		
+2007	10	22		2007	10	22		Un_procès_verbal_de_récolement	Un procès-verbal de récolement a été dressé le 22 octobre 2007.		
+2008	12	19		2008	12	19		a_été_signée	Une convention de restriction au droit de disposer et d'utiliser au profit de l'Etat a été signée le 19 décembre 2008 avec les propriétaires des terrains.		
+2011	09	27		2011	09	27		à_été_levée	La surveillance des eaux souterraines à été levée le 27/09/2011.		
+2007	09	26		2007	09	26		a_été_signée	Une convention de restriction au droit de disposer et d'utiliser au profit de l'Etat a été signée le 26 septembre 2007 avec le propriétaire des terrains.		
+1996	11	29		1996	11	29		ont_été_déterminées	Son ampleur et son extension ont été déterminées l'année suivante suite à l'AP du 29/11/1996.		
+2005	09			2005	09			Des_opérations_de_dépollution_complémentaires	Des opérations de dépollution complémentaires des sols et des eaux souterraines se sont déroulées d'août 2004 à septembre 2005.		
+2010	06	03		2010	06	03		les_travaux_de_dépollution	Au 3 juin 2010, les travaux de dépollution du bâtiment de production au sud de la RD919 sont achevés.		
+2008	12	19		2008	12	19		Les_restrictions_au_droit_d__administrer	Les restrictions au droit d'administrer et de disposer du site constituées au profit de l'État le 19 décembre 2008 sont enregistrées au SIE de Haguenau depuis le 16 janvier 2009, bordereau 2009/49 case n°14 Ext.810.		
+2009	01	16		2009	01	16		sont_enregistrées_au	Les restrictions au droit d'administrer et de disposer du site constituées au profit de l'État le 19 décembre 2008 sont enregistrées au SIE de Haguenau depuis le 16 janvier 2009, bordereau 2009/49 case n°14 Ext.810.		
+1996	03			1996	03			La_pollution_de	La pollution de la nappe par des composés organiques volatiles (COV) , composés organiques halogènés volatiles (COHV), benzène toluène xylène (BTX) et Hydrocarbures a été découverte en mars 1996.	'des composés organiques volatiles', 'COV', 'composés organiques halogènés volatiles', 'COHV', 'benzène toluène xylène', 'BTX', 'Hydrocarbures'	
+2011	11	25		2011	11	25		PV_de_récolement	Un PV de récolement a été établi le 25 novembre 2011 pour un usage résidentiel et tertiaire.		
+2011	11	25		2011	11	25		est_établi	Le Procès verbal de récolement partiel portant sur les terrains situés au Nord de la RD 919 et concernant les eaux souterraines est établi le 25 novembre 2011.		
+1998	10	05		1998	10	05		Un_traitement_par_stripping_a_été_mis_en_place	Un traitement par stripping a été mis en place le 5/10/1998 et les eaux traitées ont été rejetées dans la Moder.		
+2011	10	21		2011	10	21		on_été_comblés	Les 17 et 21 octobre 2011 on été comblés les différents piézomètres du site.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	08	19		2005	08	19		autorisation_d_	Elle a fait l'objet d'un arrêté préfectoral d'autorisation d'exploiter du 19/08/2005 pour l'installation de stockage de tétrachloroéthylène et de transit de déchets provenant des pressings.	'tétrachloroéthylène'	
+2005	09	08		2005	09	08		fait_partie	Depuis le 08/09/2005, la société CODIS fait partie du groupe FOURNIER.		'la société CODIS', 'groupe FOURNIER'
+2008	06			2008	06			prévoit	Il prévoit la mise en sécurité du site à la fin du mois de juin 2008.		
+2008	07	31		2008	07	31		a_été_transmis	Un dossier de cessation d'activité sur le site a été transmis à l'inspection des installation classées par la société FOURNIER le 31/07/2008.		'la société FOURNIER'

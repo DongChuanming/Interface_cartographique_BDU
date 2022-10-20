@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	09	15		1995	09	15		a_été_déclarée_en_liquidation_judiciaire	Elle a été déclarée en liquidation judiciaire depuis le 15 septembre 1995 et a cessé toute activité à la fin de l'année 1995.		
+1995				1995				a_cessé_toute_activité	Elle a été déclarée en liquidation judiciaire depuis le 15 septembre 1995 et a cessé toute activité à la fin de l'année 1995.		
+1998	07	07		1998	07	07		Ce_diagnostic_environnemental	Ce diagnostic environnemental du 7 juillet 1998, conclut que les résultats d'analyses ne font pas apparaître de contamination sur les paramètres mesurés (chrome et hydrocarbures totaux).	'chrome', 'hydrocarbures totaux'	
+1999	07	07		1999	07	07		a_été_signé	Un arrêté de mise en demeure a été signé le 7 juillet 1999 afin de demander la mise en sécurité du site (élimination des produits divers et des déchets avec les justificatifs à l'appui ainsi que la réalisation de la déclaration de cessation d'activités).		
+1999				2007				ont_probablement_été_entreposés	Cependant, entre 1999 et 2007, des déchets ont probablement été entreposés sur le site car un courrier de la DREAL Midi-Pyrénées énonce que les inspecteurs des installations classées n'ont pas pu émettre de PV de récolement, en l'absence de travaux de dépollution et de communication des justificatifs d'élimination des déchets.		'la DREAL Midi'
+2005	09	12		2005	09	12		a_été_vendu	Le site a été vendu à la mairie de Graulhet le 12 septembre 2005.		
+1999	07	30		1999	07	30		Une_visite	Une visite de l'Inspection des Installations Classées du 30 juillet 1999 a permis de constater la mise en sécurité du site.		
+1998	07	24		1998	07	24		a_déclaré_son_arrêt_définitif	Le mandataire a déclaré son arrêt définitif le 24 juillet 1998.		

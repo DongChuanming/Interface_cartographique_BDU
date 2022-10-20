@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	06		2011	07	06		ont_été_rédigé	Un rapport accompagné d'un procès-verbal de récolement ont été rédigé le 6 juillet 2011.		
+2008				2008				un_diagnostic_amiante_réalisé	A la suite d'un diagnostic amiante réalisé en début 2008, des travaux de désamiantage ont été entrepris d'avril à juillet 2009.		
+2008				2008				des_travaux_de_désamiantage	A la suite d'un diagnostic amiante réalisé en début 2008, des travaux de désamiantage ont été entrepris d'avril à juillet 2009.		
+2010				2010				la_démolition	Au printemps 2010, la démolition des bâtiments a été mise en oeuvre.		
+1979				1979				un_dépôt_de_bilan	Après un dépôt de bilan en 1979 et une reprise en 1980, l'entreprise est mise en liquidation judiciaire le 19/10/2001.		
+2009	07			2009	07			des_travaux_de_désamiantage	A la suite d'un diagnostic amiante réalisé en début 2008, des travaux de désamiantage ont été entrepris d'avril à juillet 2009.		
+2006				2006				Le_retrait	Le retrait des déchets (47 tonnes) a été réalisé en 2006 par le liquidateur.		
+2005	07	13		2005	07	13		l__obligation	Deux arrêtés préfectoraux de mise en demeure du 13 juillet 2005, ont imposé au liquidateur l'obligation d'éliminer les déchets et produits présents sur le site et de faire réaliser un diagnostic des sols et une évaluation des risques sanitaires.		
+1997	10	30		1997	10	30		disposait_d__un	La société MTR disposait d'un arrêté préfectoral d'autorisation en date du 30 octobre 1997.		'La société MTR'
+2007	03	16		2007	03	16		signé	Un arrêté préfectoral de consignation pour la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, signé le 16 mars 2007, a été notifié au liquidateur.		
+2001	10	19		2001	10	19		confié_à	A la liquidation, confié à Me Jean-Alain REAU en date du 19 octobre 2001, il a été constaté, par l'inspection des installations classées, la présence de volumes importants de produits et déchets toxiques.	'déchets toxiques'	'REAU'
+								des_travaux_de_désamiantage	A la suite d'un diagnostic amiante réalisé en début 2008, des travaux de désamiantage ont été entrepris d'avril à juillet 2009.		
+2001	10	19		2001	10	19		il_a_été_constaté	A la liquidation, confié à Me Jean-Alain REAU en date du 19 octobre 2001, il a été constaté, par l'inspection des installations classées, la présence de volumes importants de produits et déchets toxiques.	'déchets toxiques'	'REAU'
+2014				2014				a_rétrocédé	En 2014, la municipalité a rétrocédé, les parcelles 341 et 342, à l'EHPAD le Triolet, pour la construction d'une maison de retraite.		
+2001	10	19		2001	10	19		est_mise_en_liquidation_judiciaire	Après un dépôt de bilan en 1979 et une reprise en 1980, l'entreprise est mise en liquidation judiciaire le 19/10/2001.		
+2010	05	27		2010	05	27		Une_visite	Une visite de fin de travaux de démolition des bâtiments et de mise en sécurité a également été réalisée le 27 mai 2010.		
+2007	03	16		2007	03	16		a_été_notifié	Un arrêté préfectoral de consignation pour la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, signé le 16 mars 2007, a été notifié au liquidateur.		
+1980				1980				une_reprise	Après un dépôt de bilan en 1979 et une reprise en 1980, l'entreprise est mise en liquidation judiciaire le 19/10/2001.		
+1980				1980				est_mise_en_liquidation_judiciaire	Après un dépôt de bilan en 1979 et une reprise en 1980, l'entreprise est mise en liquidation judiciaire le 19/10/2001.		
+2010	03			2010	03			a_procédé_à	Mandaté par la municipalité de Riotord, le cabinet ANTEA a procédé à des investigations de sols en mars 2010.		'ANTEA'
+2010	05	27		2010	05	27		a_été_validé_en_réunion	Dans l'optique d'un aménagement futur du site en maison de retraite, un plan de gestion des terres polluées a été validé en réunion, le 27 mai 2010, par l'inspection des installations classées, la municipalité, les bureaux d'études et les partenaires du projet.		
+2008	02	28		2008	02	28		a_acquis	Ce site n'hébergeant plus aucune activité industrielle, la mairie a acquis l'ensemble des parcelles le 28/02/2008 afin d'aménager et redynamiser le centre-ville et de créer des places de stationnement.		

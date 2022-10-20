@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				une_augmentation	Il est observé une augmentation des teneurs en fluorures depuis mai 2015 sur le piézomètre en aval du site et une augmentation des teneurs en arsenic depuis 2016.	'fluorures', 'arsenic'	
+1999				1999				un_diagnostic_initial	Le site a réalisé un diagnostic initial de la qualité des sols et des eaux souterraines en 1999 et 2001.		
+2005				2005				a_été_retenu	D'autre part, ce site a été retenu en 2005 dans le cadre de l'action nationale Plomb.	'Plomb'	
+1753				1753				occupée_par	Le site de CORNING est implanté à Bagneaux-sur-Loing dans une zone occupée par des verriers depuis 1753.		'Le site de CORNING'
+2001				2001				un_diagnostic_initial	Le site a réalisé un diagnostic initial de la qualité des sols et des eaux souterraines en 1999 et 2001.		

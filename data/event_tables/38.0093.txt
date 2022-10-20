@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				a_repris	La récupération des métaux se faisait depuis le début du XX eme siécle sur une portion de la zone par les sociétés "Comptoir des métaux Sud-Est" puis FLACHER dont METALISERE a repris les activités en 1970.		'les sociétés " Comptoir des métaux Sud-Est " puis FLACHER'
+1967				1967				logement_à_l__étage_a_été_construit	Un grand bâtiment ayant abrité des garages ainsi qu'un logement à l'étage a été construit en 1967 pour l'usage de la DDE.		'la DDE'
+1956				1956				ayant_été_remblayée	Anciennement occupées par une gravière ayant été remblayée en 1956 ;		
+2002				2002				une_étude_historique	La ville de Grenoble SEM/SAGES a fait réaliser en 2002 une étude historique par le bureau d'études ANTEA sur l'ensemble de la zone à réaménager qui comprend à la fois des parcelles anciennement industrielles et non industrielles.		'La ville de Grenoble SEM', 'ANTEA'
+1935				1935				Le_premier_usage	Le premier usage de cette parcelle se fait en 1935 avec l'implantation d'une usine d'émulsion par la Société Routière Colas.		'la Société Routière Colas'
+2002	06			2002	06			a_été_informée	En juin 2002, l'inspection des installations classés a été informée qu'une construction d'immeubles à usage d'habitations devait être réalisée sur des parcelles ayant eu une activité industrielle dans le passé (METALISERE et COLAS notamment).		'METALISERE et COLAS'
+				2000				s__est_par_la_suite_développée	L'usine s'est par la suite développée en 1972 pour devenir une usine de fabrication d'émulsion jusqu'en 2000, date de fermeture et de transfert d’activité vers une autre commune.		
+1944				1944				été_utilisée_pour	A partir de 1944, la zone été utilisée pour stocker du matériel des entreprises adjacentes (comme du bois pour le chauffage et des graviers).		
+								a_déposé	La société METALISERE a déposé le 04 aout 2000 un dossier de cessation d'activités.		'La société METALISERE'
+2004	01			2004	01			une_surveillance	L'ensemble de la ZAC Vigny Musset fait l'objet d'une surveillance des eaux souterraines depuis le mois de janvier 2004.		
+2008	01	04		2008	01	04		est_pris	Le 04/01/2008 un arrêté préfectoral n° 2008-00095 est pris, modifiant la surveillance des eaux souterraines et demandant le dépôt d'un dossier de servitudes.		
+1980				1980				arrêt	- les transformateurs électriques isolés soit dans de l'huile soit dans du pyralène (arrêt en 1980) ;	'huile', 'pyralène'	
+2000				2000				a_déposé	La société METALISERE a déposé le 04 aout 2000 un dossier de cessation d'activités.		'La société METALISERE'
+1940				1960				était_occupée	Auparavant, la zone était occupée par les Établissements Julien GIRARD, dont l'activité consistait à récupérer des papiers et des cartons entre 1940 et 1960.		'les Établissements Julien GIRARD'
+2000				2000				tenant_compte_de	L'inspection des installations classés, dans un rapport du 21/11/2000, a proposé à Monsieur le Préfet de l'Isère de demander à l'exploitant de compléter son dossier en réalisant une étude simplifiée des risques tenant compte de la version 2000 du guide BRGM "Gestion des sites (potentiellement) pollués".		'le Préfet', 'BRGM'
+1970				2000				était_une_société	METALISERE était une société spécialisée dans le récupération des ferrailles et métaux non ferreux industriels, qui a exercé son activité entre les années 1970 et 2000.	'métaux non ferreux industriels'	'METALISERE'
+2001	03			2001	03			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés en février et mars 2001.		
+1972				1972				s__est_par_la_suite_développée	L'usine s'est par la suite développée en 1972 pour devenir une usine de fabrication d'émulsion jusqu'en 2000, date de fermeture et de transfert d’activité vers une autre commune.		
+								Les_travaux_se_sont_déroulés	Les travaux se sont déroulés en février et mars 2001.		
+1970				1970				se_faisait	La récupération des métaux se faisait depuis le début du XX eme siécle sur une portion de la zone par les sociétés "Comptoir des métaux Sud-Est" puis FLACHER dont METALISERE a repris les activités en 1970.		'les sociétés " Comptoir des métaux Sud-Est " puis FLACHER'

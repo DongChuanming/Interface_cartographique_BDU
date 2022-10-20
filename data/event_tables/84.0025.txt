@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	23		2009	10	23		a_été_rédigé	Un mémoire de cessation d'activité a été rédigé le 23/10/2009.		
+2010	04	1		2010	04	1		Une_visite_d__inspection	Une visite d’inspection a été effectuée le 1er avril 2010.		
+2008	05	16		2008	05	16		étaient_encadrées_par	Les activités de l'usine étaient encadrées par l'AP du 16/05/2008.		
+1979				1979				s__installe	La confiserie SAINT SIFFREIN s'installe sur le site en 1979, auparavant utilisé pour du maraîchage.		'La confiserie SAINT SIFFREIN'
+2009	06	30		2009	06	30		L__arrêt	L'arrêt des activités a été effectif le 30/06/2009, la production a été délocalisée sur l'usine COPPELIA à Chambéry (73).		'COPPELIA'
+1985				1985				est_intégrée	En 1985, l'usine SAINT SIFFREIN est intégrée au groupe Cheval Blanc qui est lui-même intégré au groupe CEMOI en 1993.		'SAINT SIFFREIN', 'groupe Cheval Blanc', 'groupe CEMOI'
+2006	01			2006	01			créée	En, Janvier 2006, le groupe CEMOI créée la filiale SUCRALLIANCE regroupant 3 usines ayant une confiserie de sucre dont SAINT SIFFREIN.	'sucre'	'le groupe CEMOI', 'la filiale SUCRALLIANCE', 'dont SAINT SIFFREIN'
+2008	05	16		2008	05	16		Les_activités	Les activités de l'usine étaient encadrées par l'AP du 16/05/2008.		
+2010	09	30		2010	09	30		a_été_établi	Le Procès-Verbal actant des travaux de mise en sécurité a été établi le 30 septembre 2010.		

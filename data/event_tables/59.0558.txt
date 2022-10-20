@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1976				confie_l__exploitation	*1976-1984: La commune de Lewarde confie l'exploitation de la décharge à la société France Déchets.		'la société France Déchets'
+1984	08	07		1984	08	07		l__extension_de	*1984: Arrêté préfectoral du 07/08/1984 autorise l'extension de la décharge, les déchets reçus sont principalement des ordures ménagères.	'des ordures ménagères'	
+1984				1984				confie_l__exploitation	*1976-1984: La commune de Lewarde confie l'exploitation de la décharge à la société France Déchets.		'la société France Déchets'
+2001	03	12		2001	03	12		Exploitation_actuelle_autorisée	- Exploitation actuelle autorisée par arrêté préfectoral en date du 12/03/2001.		
+1999	08	01		1999	08	01		l__exploitation	- Netrel a repris l'exploitation de l'ISDND de Lewarde depuis le 1 août 1999.		'Netrel', "l' ISDND"
+2002	01			2002	01			a_changé_de_nom	Au premier janvier 2002, la société Netrel a changé de nom pour devenir SITA Nord.		'la société Netrel', 'SITA Nord'
+1946				1946				ont_été_exploitées	*1946-1976: carrières propriétés des houillères du NPdC, elles ont été exploitées comme sablières, mais aussi comme décharge d'ordures ménagères et comme décharge pour les différentes entreprises travaillant sur les chantiers des houillères.		'des houillères du NPdC'
+1990				1990				travaux	- Une partie du site est aujourd'hui réaménagée et équipée d'un réseau de captage de biogaz. (travaux en 1990 sur cette partie: couverture, engazonnage et revégétalisation puis étanchéification en 2004).		
+1976				1976				ont_été_exploitées	*1946-1976: carrières propriétés des houillères du NPdC, elles ont été exploitées comme sablières, mais aussi comme décharge d'ordures ménagères et comme décharge pour les différentes entreprises travaillant sur les chantiers des houillères.		'des houillères du NPdC'

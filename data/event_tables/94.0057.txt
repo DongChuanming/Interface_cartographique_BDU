@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	05		2011	05	05		a_été_proposé	Un plan de gestion, daté du 05/05/2011, a été proposé par l’exploitant.		
+1998				2001				Les_diagnostics	Les diagnostics de pollution réalisés entre 1998 et 2001 dans le cadre de la cessation d'activité ont mis en évidence une pollution des sols et des eaux souterraines par des solvants chlorés : tétrachloroéthylène (PCE) et, dans une moindre mesure, ses produits de dégradation trichloroéthylène, cis-dichloréthylène et chlorure de vinyle.	'des solvants chlorés', ': tétrachloroéthylène ( PCE', 'dégradation trichloroéthylène , cis - dichloréthylène et chlorure de vinyle'	
+				2018	11			Des_essais_pilotes	Des essais pilotes, sur le terrain et en laboratoire, ont été réalisés entre les mois de juin et novembre 2018.		
+2018	10	10		2018	10	10		ont_été_modifiées	Les modalités de la surveillance de la qualité des eaux souterraines ont été modifiées par l’arrêté préfectoral du 10/10/2018.		
+1981	03	15		1981	03	15		l__exploitation	Le 15 mars 1981, la Société de Nettoyage et de Désinfection d’Ivry (SNDI) a repris l’exploitation de ces ateliers jusqu’en 1996, date de cessation d’activité définitive des installations.		'la Société de Nettoyage', 'SNDI'
+2005	04	28		2005	04	28		était_auparavant_réalisée	La surveillance de la qualité des eaux souterraines était auparavant réalisée dans le cadre de l’article 2.1 de l’arrêté préfectoral du 28/04/2005.		
+2001				2001				a_été_rachetée	La holding regroupant toutes les sociétés SNDI a été rachetée en 2001 par la société MAJ, dont ELIS est l’enseigne commerciale.		'les sociétés SNDI', 'la société MAJ', 'ELIS'
+2006				2006				Premiers_travaux_de_dépollution	Premiers travaux de dépollution (2006-2007)		
+				2019	04			est_programmé	Un nouvel essai est programmé entre mars et avril 2019.		
+1998	04	02		1998	04	02		La_déclaration_de_cessation_d__activité	La déclaration de cessation d’activité a été effectuée le 2 avril 1998.		
+2000				2000				Après_avoir_envisagé	Après avoir envisagé en 2000, une dépollution par des méthodes classiques, l’exploitant a étudié de mettre en œuvre une méthode novatrice de traitement par oxydation chimique in situ des solvants chlorés présents dans les eaux souterraines.	'solvants chlorés'	
+2007				2007				Premiers_travaux_de_dépollution	Premiers travaux de dépollution (2006-2007)		
+1968				1981				a_exploité	La Société des Oreillers et Couvertures des Grands Réseaux de Chemin de Fer a exploité sur ce site, de 1968 à 1981, une activité de nettoyage à sec industriel à base de tétrachloroéthylène (PCE).	'tétrachloroéthylène', 'PCE'	'La Société des Oreillers'
+1968				1996				comportaient	De 1968 à 1996, les installations comportaient 9 machines de nettoyage à sec, un distillateur (recyclage du PCE), un récupérateur à charbon actif et une cuve aérienne pour le stockage du PCE.	'PCE', 'charbon actif', 'PCE'	
+2009				2009				de_nombreuses_études	Depuis 2009, l’exploitant a réalisé de nombreuses études pour recueillir les informations nécessaires à la poursuite de la remise en état du site.		
+2005	08			2005	08			une_évaluation_détaillée_des_risques	En application de l’arrêté préfectoral du 12/07/2004, la société SNDI a transmis en novembre 2004, une évaluation détaillée des risques (EDR) puis en août 2005, un plan de réhabilitation.		'la société SNDI'
+2004	11			2004	11			une_évaluation_détaillée_des_risques	En application de l’arrêté préfectoral du 12/07/2004, la société SNDI a transmis en novembre 2004, une évaluation détaillée des risques (EDR) puis en août 2005, un plan de réhabilitation.		'la société SNDI'
+				1996				l__exploitation	Le 15 mars 1981, la Société de Nettoyage et de Désinfection d’Ivry (SNDI) a repris l’exploitation de ces ateliers jusqu’en 1996, date de cessation d’activité définitive des installations.		'la Société de Nettoyage', 'SNDI'
+2018	09			2018	09			a_anticipé	Concernant la dernière campagne de suivi de septembre 2018, l’exploitant a anticipé l’arrêté préfectoral d’octobre 2018 et a étendu la surveillance à l’ensemble des ouvrages sur et hors site.		
+2006	02			2007	10			ont_été_réalisées	Concernant le traitement des eaux souterraines par oxydation chimique, entre février 2006 et octobre 2007, différentes phases d’injection de permanganate de sodium ont été réalisées.	'permanganate', 'sodium'	
+2006	01			2007	02			traitement_par_venting	Le traitement par venting des sols a fonctionné de janvier 2006 à février 2007, soit un total cumulé de 8 500 heures de fonctionnement.		

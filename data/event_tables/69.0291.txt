@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			Le_diagnostic_environnemental	Le diagnostic environnemental a été réalisé par la société GEOPHY et a fait l'objet d'un rapport rédigé au mois de juin 2010.		'la société GEOPHY'
+1973				1973				la_création	L'activité sur le site existe depuis la création des Ets CALARD en 1973.		'des Ets CALARD'
+1973				1973				existe	L'activité sur le site existe depuis la création des Ets CALARD en 1973.		'des Ets CALARD'
+2010	04	06		2010	04	06		a_été_pris	L'arrêté préfectoral du 06/04/2010 a été pris en vue d'imposer aux Ets CALARD :		'Ets CALARD'

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				la_réalisation_d__une_EDR	Cette présence avérée de mercure a entrainé la réalisation d'une EDR (début 2004).	'mercure'	
+2008	01	08		2008	01	08		a_été_adressé	Le bilan de ces travaux a été adressé le 08/01/2008.		
+								Les_travaux_devront_être_réalisés	Les travaux devront être réalisés sous 2 ans et doivent être conformes au plan de gestion de Mai 2007.		
+2009	05	05		2009	05	05		la_cessation_de_ses_activités	Le 5/05/2009, AREVA a déclaré la cessation de ses activités sur l'ensemble du site.		'AREVA'
+1998				1998				implantée	*La zone Ouest dite zone U3O8 implantée depuis 1998 sur une superficie d'environ 8,5 ha.		
+2007	05			2007	05			plan_de_gestion	Les travaux devront être réalisés sous 2 ans et doivent être conformes au plan de gestion de Mai 2007.		
+2004	02	04		2004	02	04		Le_diagnostic_approfondi	Le diagnostic approfondi du 4/02/2004 concernant l'Arsenic et métaux associés a été rédigé.	'Arsenic', 'métaux associés'	
+2008	11	26		2008	11	26		La_visite	La visite de constat de la bonne réalisation des travaux a eu lieu le 26/11/2008.		
+2001				2001				a_déposé	Dans le même temps, COGEMA a déposé en aout 2001 le dossier de cessation d'activité et de démantèlement des anciens ateliers d'électrolyse (au mercure) servant à  la transformation de la lithine en lithium.	'mercure', 'la lithine en lithium'	'COGEMA'
+2009	09	30		2009	09	30		a_été_délivré	Le PV de constat de travaux a été délivré le 30/09/2009.		
+2015	10	30		2015	10	30		la_fin_des_travaux	Le 30/10/2015 AREVA déclarait officiellement la fin des travaux sur le secteur de la zone OUEST avec instauration de servitudes d'utilité publiques sur ce secteur.		
+2016	05	27		2016	05	27		a_été_pris	Un arrêté de servitudes pour les zones ouest et centre a été pris le 27/05/2016.		
+2002	05			2002	05			a_été_remise	L'ESR  prescrite par AP du 16/06/99 a été remise en mai 2002.		"L' ESR"
+2009	09	03		2009	09	03		a_été_déposé	Une demande d'institution de servitudes d'utilité publique a été déposé le 3/09/2009.		

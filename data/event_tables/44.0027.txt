@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_porté_à_la_connaissance	Le site a été porté à la connaissance de l'administration par la société SOAF Environnement en 1998, qui à cette occasion a fait réaliser une étude simplifiée des risques (ESR).		'la société SOAF Environnement'
+2001	10			2001	10			réalisation_de	- réalisation de deux piézomètres en octobre 2001, portant à trois le nombre de piézomètres sur le site.		
+2001				2001				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en  2001:		
+								a_déposé	Au cours des années 80-90, la société SOAF Environnement (devenue après rachat Nantaise des Eaux en 1999) a déposé des déchets en limite de ses bâtiments industriels à Sainte-Luce sur Loire, sur un terrain de 500 m² environ.		'la société SOAF Environnement'
+1999				1999				devenue_après_rachat	Au cours des années 80-90, la société SOAF Environnement (devenue après rachat Nantaise des Eaux en 1999) a déposé des déchets en limite de ses bâtiments industriels à Sainte-Luce sur Loire, sur un terrain de 500 m² environ.		'la société SOAF Environnement'

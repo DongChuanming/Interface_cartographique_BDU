@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01			2008	01			un_diagnostic_simplifié_de_pollution_des_sols	Dans le cadre de la réalisation de ce projet immobilier, un diagnostic simplifié de pollution des sols a été réalisé en janvier 2008.		
+1999	12			1999	12			Une_étude_de	Une étude de pollution des milieux a donc été réalisée en décembre 1999.		
+1998				1998				a_fait_procéder	En 1998, la société Cozigou a fait procéder à l’enlèvement des cuves.		'la société Cozigou'
+2012	05			2012	05			a_sollicité_à_nouveau	En mai 2012, l'inspection des installations classées a sollicité à nouveau l'exploitant pour un état de la situation, notamment, le suivi piézométrique.		
+1994				1994				a_racheté	En 1994, la SA Cozigou a racheté l’affaire de M.		'la SA Cozigou'
+1971	09	24		1971	09	24		a_été_autorisé_à_exploiter	JULOU, négociant en boissons, charbon et fuel domestique, a été autorisé à exploiter un dépôt de 100 m3 de fuel, à savoir 2 réservoirs enterrés de 25 m3 chacun et 1 réservoir enterré de 50 m3, par le récépissé de déclaration du 24 septembre 1971.	'charbon', 'fuel', 'fuel'	'JULOU'
+2004	09			2005	10			Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés entre septembre 2004 et octobre 2005.		
+1996				1996				a_cessé	En 1996, l’exploitant a cessé son activité sans en informer l’administration ni respecter les mesures de remise en état du site.		
+1971	09	24		1971	09	24		de_déclaration	JULOU, négociant en boissons, charbon et fuel domestique, a été autorisé à exploiter un dépôt de 100 m3 de fuel, à savoir 2 réservoirs enterrés de 25 m3 chacun et 1 réservoir enterré de 50 m3, par le récépissé de déclaration du 24 septembre 1971.	'charbon', 'fuel', 'fuel'	'JULOU'
+2016				2016				a_procédé_au_comblement_des_piézomètres	Sur demande de l'administration, l'exploitant a procédé au comblement des piézomètres en 2016.		
+2017	01			2017	01			a_pris_acte	L'inspection a pris acte de la réhabilitation du site en janvier 2017.		
+2006				2006				le_projet_immobilier	Dans ce cadre, l'inspection des installations classées a procédé à une visite rapide depuis l'extérieur du site qui démontre que le projet immobilier prévu en 2006 n'a pas abouti.		
+								était_effectivement_exercée	Cependant, l’activité était effectivement exercée depuis la fin des années 1960 avec l’exploitation de 2 cuves aériennes hors rétention de 25 m3 de fuel domestique, 1 cuve aérienne hors rétention de 2 m3 pour le camion de livraison et 1 cuve enterrée hors rétention de 50 m3 de fuel domestique.	'fuel domestique', 'fuel domestique'	
+2006	02	24		2006	02	24		est_signée_entre	Le 24 février 2006, une promesse de vente est signée entre le propriétaire et une société pour un projet immobilier sur le site.		
+1999				1999				est_vendu_à	En 1999, le terrain est vendu à un particulier.		

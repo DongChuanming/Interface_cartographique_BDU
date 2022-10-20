@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971				1971				L__usage_industriel	L'usage industriel du site d'implantation de cette usine a débuté en 1971.		
+2008	04			2008	04			la_fabrication_de_carreaux_de_plâtre	L'activité sur ce site de VANDIERES qui, depuis avril 2008, se limitait à la fabrication de carreaux de plâtre par la société PLACOPLATRE a définitivement cessé en 2011.		'VANDIERES', 'la société PLACOPLATRE'
+2008	04			2008	04			se_limitait_à	L'activité sur ce site de VANDIERES qui, depuis avril 2008, se limitait à la fabrication de carreaux de plâtre par la société PLACOPLATRE a définitivement cessé en 2011.		'VANDIERES', 'la société PLACOPLATRE'
+2011				2011				a_définitivement_cessé	L'activité sur ce site de VANDIERES qui, depuis avril 2008, se limitait à la fabrication de carreaux de plâtre par la société PLACOPLATRE a définitivement cessé en 2011.		'VANDIERES', 'la société PLACOPLATRE'

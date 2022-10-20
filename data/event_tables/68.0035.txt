@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	05			1994	05			Des_travaux_de_réhabilitation	Des travaux de réhabilitation réalisés en mai 1994 avaient pour but de ramener la radioactivité à un niveau comparable à celui de son environnement.		
+1997				1997				a_été_arrêté	Au deuxième semestre 1997, le contrôle des eaux et de l'air a été arrêté, mais une visite annuelle est toujours assurée.		
+1956				1956				de_travaux_miniers_souterrains	Site ayant fait l'objet de travaux miniers souterrains en 1956/58 et d'essais de traitement de minerai d'uranium en 1960/62.		
+1960				1960				d__essais_de_traitement	Site ayant fait l'objet de travaux miniers souterrains en 1956/58 et d'essais de traitement de minerai d'uranium en 1960/62.		
+								Des_mesures_effectuées	Des mesures effectuées entre le 05/11/91 et le 05/11/92 ont montré un impact radiologique acceptable dans l'environnement proche du site, mais sur le site lui-même, quelques zones dépassaient la limite applicable au public pour un séjour continu en raison d'un débit de dose gamma trop important.		
+1994				1994				a_été_fini	Le recouvrement a été fini en 1994.		

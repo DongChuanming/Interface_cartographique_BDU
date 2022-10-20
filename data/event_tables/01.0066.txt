@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11	23		2004	11	23		____diagnostic_approfondi	** 23 novembre 2004 : diagnostic approfondi		
+2014				2014				soit_construite	Il est prévu qu'une chaufferie au bois soit construite sur le parking de la Vinaigrerie en 2014.		
+1843				1961				a_accueilli	Il a accueilli de 1843 à 1961 une partie des activités de l'ancienne usine à gaz et a été acheté en 1982 à Gaz De France par la mairie.		'Gaz De France'
+1982				1982				a_été_acheté	Il a accueilli de 1843 à 1961 une partie des activités de l'ancienne usine à gaz et a été acheté en 1982 à Gaz De France par la mairie.		'Gaz De France'
+2005	03	31		2005	03	31		Les_eaux_prélevées	Les eaux prélevées le 31 mars 2005 ont fait l'objet d'analyses.		
+2005	03			2005	03			ont_été_implantés	4 piézomètres ont été implantés en mars 2005 (PZ4, PZ5, PZ6 et PZ10).		

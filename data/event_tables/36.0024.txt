@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	15		2009	09	15		Trois_sondages	Trois sondages à la tarière manuelle sont réalisés le 15 septembre 2009.		
+1972				1972				s__est_installée	La société SA TROCHET GUY s'est installée sur le site, situé sur la commune de Châtillon-sur-Indre, en 1972.		'La société SA TROCHET GUY'
+2005				2005				son_activité	L'établissement TROCHET a cessé son activité en 2005.		
+2009	10			2009	10			rendus	Les résultats de ces études, rendus en octobre 2009, montrent que l'impact environnemental engendré par l'activité industrielle passée du site est très peu significatif.		
+2007	02	21		2007	02	21		Une_visite_d__inspection	Une visite d'inspection a eu lieu le 21 février 2007 suite à liquidation de la société.		

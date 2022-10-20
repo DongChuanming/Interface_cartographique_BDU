@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				La_vente	La vente DUMAS-TITOULET / SICFA est peut-être intervenue en 2005, période à laquelle DUMAS-TITOULET a fait procéder à un diagnostic de la pollution des sols par la société NORISKO Environnement dans la perspective d'une « opération immobilière ».		'DUMAS - TITOULET', 'SICFA', 'DUMAS - TITOULET', 'la société NORISKO'
+1982				1989				fut_déplacée	De 1982 à 1989, une partie des activités fut déplacée sur un autre site, libérant des locaux qui furent loués à la société CASINO pour l'exercice d'une activité d'imprimerie.		'la société CASINO'
+2009	07	02		2009	07	02		Une_promesse_de_vente_a_été_établie	Une promesse de vente a été établie le 2 juillet 2009 entre SICFA et la société MEUNIER, filiale immobilière de BNP PARIBAS, qui envisagerait un changement d'usage des terrains pour la construction de bâtiments d'habitation.		'SICFA', 'la société MEUNIER', 'BNP PARIBAS'
+2000	03	14		2000	03	14		étaient_soumises_à_déclaration	Ses installations étaient soumises à déclaration et ont fait l'objet de récépissés de déclaration en dates des 23 janvier 1962 et 14 mars 2000.		
+1962	01	23		1962	01	23		déclaration	Ses installations étaient soumises à déclaration et ont fait l'objet de récépissés de déclaration en dates des 23 janvier 1962 et 14 mars 2000.		
+1962	01	23		1962	01	23		étaient_soumises_à_déclaration	Ses installations étaient soumises à déclaration et ont fait l'objet de récépissés de déclaration en dates des 23 janvier 1962 et 14 mars 2000.		
+1960				1960				sont_connus	Les activités de la société DUMAS-TITOULET sont connus des services de la Préfecture depuis 1960.		'la société DUMAS - TITOULET'
+2000	03	14		2000	03	14		déclaration	Ses installations étaient soumises à déclaration et ont fait l'objet de récépissés de déclaration en dates des 23 janvier 1962 et 14 mars 2000.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1956				2003				a_été_exploité	Ce site, d'une surface de 10 000 m2, a été exploité par la société RETEC de 1956 à 2003.		'la société RETEC'
+2005				2005				Un_diagnostic_initial	- Un diagnostic initial de l'état des sols et une évaluation simplifiée des risques (ESR) ont été réalisés début 2005.		
+2005	07			2005	07			Une_évaluation_détaillée_des_risques	- Une évaluation détaillée des risques a en conséquence été réalisée en juillet 2005.		
+1938				1959				des_activités_de_sciage	Elle a succédé a l'entreprise SENARD qui a exercé sur le site de 1938 à 1959 des activités de sciage, de rabotage et d'imprégnation du bois.		'SENARD'
+2005	06			2005	06			Un_diagnostic_complémentaire_a_donc_été_réalisé	- Un diagnostic complémentaire a donc été réalisé en juin 2005.		
+1938				1959				a_exercé_sur	Elle a succédé a l'entreprise SENARD qui a exercé sur le site de 1938 à 1959 des activités de sciage, de rabotage et d'imprégnation du bois.		'SENARD'
+2006	01	03		2006	01	03		a_été_pris_à_l_	En conclusion de cette étude, un arrêté préfectoral a été pris à l'encontre de la société Monné-Decroix responsable du changement d'usage, en date du 03 janvier 2006.		'la société Monné'

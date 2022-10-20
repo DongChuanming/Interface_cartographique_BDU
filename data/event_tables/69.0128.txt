@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10	30		2000	10	30		a_fait_rédigé	Cette société a fait rédigé le 30/10/2000 un dossier de déclaration d'activité pour une activité de traitement de surface et de peintures sur pièces métallique.		
+2000	09			2000	09			a_été_racheté	Le site a été racheté par la société PINDALP en septembre 2000.		'la société PINDALP'
+2000				2000				a_été_mise_en_liquidation_judiciaire	VIPAM a été mise en liquidation judiciaire en aout 2000.		'VIPAM'
+2007	01	31		2007	01	31		a_été_nommé_Mandataire_Judiciaire	Maitre DUBOIS a été nommé Mandataire Judiciaire de PINDALP et a été radiée le 31/01/2007.		'Judiciaire de PINDALP'
+2000	09			2000	09			a_racheté_l_	La société PIND'ALP a racheté l'ensemble des installations de production en septembre 2000, et a démarré depuis fin 2000 une activité de traitement de surface et de peinture en poudre.		"La société PIND' ALP"
+2000				2000				a_démarré_depuis	La société PIND'ALP a racheté l'ensemble des installations de production en septembre 2000, et a démarré depuis fin 2000 une activité de traitement de surface et de peinture en poudre.		"La société PIND' ALP"
+2004				2004				a_cessé	La société a cessé son activité fin 2004, laissant des fûts entamés de peinture liquides sur plus 600 m².	'peinture liquides'	
+2000	11			2000	11			a_été_réalisé	Un dossier de cessation d'activités a été réalisé en novembre 2000 pour le compte de la société VIPAM et fait apparaître de nombreuses zones susceptibles d'être polluées.		'la société VIPAM'
+2004				2004				est_tombée_en_liquidation_judiciaire	La société PINDALP est tombée en liquidation judiciaire à la fin de l'année 2004.		'La société PINDALP'
+1998				1998				a_été_exploité	Le site a été exploité par la société VIPAM depuis 1998.		'la société VIPAM'
+2001	02	05		2001	02	05		une_étude_de_sol	Dans ce contexte, une étude de sol a été prescrite à Me SABOURIN, liquidateur judiciaire de l'entreprise VIPAM, et responsable en tant que tel de l'exploitation des installations, par arrêté préfectoral complémentaire en date du 5 février 2001.		'Me SABOURIN', 'VIPAM'
+2005	02			2005	02			la_prise_d__un_arrêté_de_travaux_d_	Fin février 2005, suite à la prise d’un arrêté de travaux d’urgence et d’une mise en demeure de le respecter Me DUBOIS, liquidateur de la société a fait enlever l’ensemble des déchets par la société Bonnefond.		'la société Bonnefond'

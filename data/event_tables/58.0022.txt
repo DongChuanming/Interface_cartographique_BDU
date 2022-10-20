@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01			2011	01			a_été_implanté	Afin d'évaluer l'impact des activités du site sur les eaux souterraines, un réseau piézométrique a été implanté au sein de la nappe alluviale du Sauzay en janvier 2011.		
+2001	09			2001	09			Une_première_campagne_de_reconnaissance	Une première campagne de reconnaissance de la qualité des sols a été réalisée en septembre 2001 ; 5 sondages de sol ont été réalisés au droit de différentes zones identifiées comme polluées.		
+2011	02			2011	02			a_été_établi	Suite à la mise en liquidation judiciaire, un mémoire de cessation d'activité a été établi en février 2011 par un bureau d'études sur les parcelles restantes ; 8 sondages de sol ont été effectués autour de la zone de stockage de fioul lourd, d'huiles usagées et de solvants.	'fioul lourd', 'huiles usagées', 'solvants'	
+2010				2010				un_plan_de_cession	- le secteur nord comprenait l'entrée du site et les deux maison individuelles qui ont fait l'objet d'un plan de cession depuis 2010		
+2007	11			2007	11			a_été_mise_en_liquidation_judiciaire	Pour rappel, la société SLIC CORVOL a été mise en liquidation judiciaire en novembre 2007.		'la société SLIC CORVOL'

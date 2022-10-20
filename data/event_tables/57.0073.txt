@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	04	20		2016	04	20		a_été_déclarée_en_liquidation_judiciaire	La société AKERS France a été déclarée en liquidation judiciaire par le Tribunal de Grande Instance de Thionville le 20 avril 2016.		'La société AKERS France', 'Thionville'
+2016				2016				est_placée_en_liquidation_judiciaire	En 2016, la société est placée en liquidation judiciaire.		
+2012	01	24		2012	01	24		un_incident	Le 24 janvier 2012, un incident c'est produit sur le site.		
+1998	12			1998	12			Evaluation_simplifiée_des_risques_rendue	L'Evaluation simplifiée des risques rendue en décembre 1998.		
+1998	11	26		1998	11	26		était_soumise_à_autorisation	La société AKERS était soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement pour la forge de son usine de THIONVILLE par l'arrêté préfectoral du 26 novembre 1998.		'La société AKERS'

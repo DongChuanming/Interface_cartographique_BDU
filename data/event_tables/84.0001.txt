@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				ont_été_achevés	Les travaux (cf arrêté préfectoral du 31 aout 2000) ont débuté à l'été 2000 et ont été achevés à la fin de l'année 2000.		
+2000				2000				Les_travaux	Les travaux (cf arrêté préfectoral du 31 aout 2000) ont débuté à l'été 2000 et ont été achevés à la fin de l'année 2000.		
+1994				1994				études_de_diagnostics	Cette décharge, d'un volume estimé à 80 000 m3 sur une surface d'emprise au sol de plus de 6 000 m2, a fait l'objet d'études de diagnostics et de suivis de la nappe depuis 1994.		
+1998	01			1998	01			a_élaboré	GEOSUM a élaboré un projet de réhabilitation en janvier 1998, revu et amélioré en juin 1999 et janvier 2000 à la suite d'un audit par le BRGM.		'GEOSUM', 'BRGM'
+2003	08	30		2003	08	30		s__est_achevée	La surveillance s'est achevée au 30/08/2003.		
+1848				1848				implantée	Il s'agit d'une friche résultant de l'activité d'une usine d'engrais implantée depuis 1848 et ayant cessé son activité en 1991, elle est située en bordure du Rhône sur 16 ha.		
+2001	09	24		2001	09	24		a_été_délivré	Le Procès Verbal de récolement a été délivré le 24/09/2001.		
+1991				1991				et_ayant_cessé_son_activité	Il s'agit d'une friche résultant de l'activité d'une usine d'engrais implantée depuis 1848 et ayant cessé son activité en 1991, elle est située en bordure du Rhône sur 16 ha.		

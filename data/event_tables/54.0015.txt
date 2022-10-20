@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	20		2007	07	20		une_construction	Lors de la visite du 20 juillet 2007, une petite partie du site fait l'objet d'une construction d'une aire d'accueil de gens du voyage.		
+1989				1989				acquère	L'Etablissement Public de Métropole Lorraine acquère le site en 1989, et organise sa réhabilitation, mise en sécurité, végétalisation, travaux de voirie.		
+1881				1881				s__installe	En 1881, l'usine sidérurgique de la Chiers, du nom de la rivière qui coule aux abords, s'installe en fonds de vallée sur un site de 43 hectares.		
+2006	08	22		2006	08	22		sont_prescrits	Le 22 août 2006 sont prescrits par arrêté préfectoral des études de sols et des analyses des eaux.		
+2011	11	24		2011	11	24		de_la_visite	Lors de la visite du 24 novembre 2011, il a été constaté que le secteur de 20ha est toujours à l'état de friche.		
+2006				2006				Les_deux_campagnes	Les deux campagnes réalisées en amont et en aval en 2006 ne révèlent pas de différence significative amont/aval.		
+2007	07	20		2007	07	20		appartient_à	A la date du 20 juillet 2007, le site appartient à la CCAL.		'la CCAL'
+1980				1980				a_complètement_cessé_son_activité	L'usine a complètement cessé son activité en 1980.		
+2007	07	20		2007	07	20		de_la_visite	Lors de la visite du 20 juillet 2007, une petite partie du site fait l'objet d'une construction d'une aire d'accueil de gens du voyage.		
+2001	09	24		2001	09	24		des_travaux_de_traitement	Le 24 septembre 2001, des travaux de traitement des produits contenus dans la fosse découverte lors des terrassements du chantier de la future salle de spectacles ont été réalisés.		

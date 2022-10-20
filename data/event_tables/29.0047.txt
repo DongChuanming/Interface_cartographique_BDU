@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_étude_détaillée_des_risques	Au vue de ce résultat, une étude détaillée des risques (EDR) a été réalisée en 2005 sur le site non réhabilité, portant seulement sur les risques pour la santé encourus par les promeneurs et les riverains immédiats.  Elle conclue que le site ne constitue pas un risque pour la santé des personnes, pour les paramètres manganèse, mercure, nickel, TBT, zinc.	'pour les paramètres manganèse , mercure , nickel , TBT , zinc'	
+2006	09	28		2006	09	28		La_visite_d__inspection	La visite d'inspection du 28 septembre 2006 a permis de constater la réalisation effective des travaux.		
+2017				2017				Les_analyses	Les analyses sur le ruisseau en 2017 montre un impact par les charges minérales (augmentation significative de la conductivité).		
+1992				1992				s__arrêter	L'exploitation, non autorisée, du centre de stockage a duré au moins une vingtaine d'année, pour s'arrêter en 1992 lors du rachat du site par le Conseil Général du Finistère.		'le Conseil Général du Finistère'
+2009	12	02		2009	12	02		ont_été_prises	Par ailleurs, du fait que des déchets dangereux sont confinés sur le site, des restrictions d'usage ont été prises au travers de SCPE en date du 02 décembre 2009.	'des déchets dangereux'	
+2006				2006				a_procédé_aux_travaux_de_réhabilitation	En 2006, le Conseil Général a procédé aux travaux de réhabilitation du site :		'le Conseil Général'

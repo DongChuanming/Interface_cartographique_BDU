@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				mises_en_place	Par courrier en date du 05 octobre 2009, la société LORCA demande un allègement des prescriptions relatives au suivi des eaux souterraines en s’appuyant sur un bilan effectué par ANTEA et relatif à la dépollution et la surveillance des eaux souterraines mises en place depuis 2002.		'la société LORCA', 'ANTEA'
+2002	02			2002	02			a_informé	En février 2002, la société LORCA a informé l'administration d’un incident survenu sur le dépôt d’engrais liquide : une quantité de 5500 tonnes d’engrais liquide contenu dans le bac n°1 s’est déversée dans la cuvette de rétention.		'la société LORCA'

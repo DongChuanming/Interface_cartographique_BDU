@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				Les_mesures_réalisées	Les mesures réalisées depuis 2002 révèlent une difficulté à établir un sens d’écoulement de la nappe.		
+2001				2001				des_analyses	- Les polluants détectés lors des analyses de 2001 sont toujours présents, dans des concentrations significatives (cDCE, TCE, PCE ainsi que chlorure de vinyle).	'Les polluants', 'cDCE', 'TCE', 'PCE', 'chlorure', 'vinyle'	
+2001				2001				ont_été_créés	De ce fait, 3 piézomètres ont été créés en 2001.		
+1989	01	26		1989	01	26		se_sont_ajoutés	L’exploitation est autorisée par arrêté préfectoral du 26/01/1989 auquel se sont ajoutés des arrêtés fixant des prescriptions complémentaires.		
+2016				2016				l_	Le rapport de l’année 2016 fait toutefois l’hypothèse d’un écoulement du sud vers le nord du site.		
+2002	04	05		2002	04	05		ont_conduit_à	Ces mesures ont conduit à la prescription d’un arrêté préfectoral (5 avril 2002) imposant à Brenntag la création d’un quatrième piézomètre, des mesures semestrielles ainsi qu’une investigation sur le sens d’écoulement de la nappe.		
+1967				1967				est_implanté	BRENNTAG Méditerranée (anciennement Comptoir Chimique Continental et Orchidis) est implanté sur le site de Vitrolles depuis 1967.		'BRENNTAG Méditerranée', 'Comptoir Chimique Continental et Orchidis'
+2016				2016				l__arrêt	En 2016, BRENNTAG Méditerranée a notifié l’arrêt de l’exploitation de cuves aériennes de liquides inflammables.	'de liquides inflammables'	'BRENNTAG Méditerranée'

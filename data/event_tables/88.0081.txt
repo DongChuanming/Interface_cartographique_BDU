@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	31		2011	05	31		La_liquidation_judiciaire	La liquidation judiciaire du site a été prononcée par jugement du Tribunal de Commerce d'Epinal le 31 mai 2011.		"Tribunal de Commerce d' Epinal"
+2011	12	14		2011	12	14		une_étude_décrivant_l__état_environnemental	Etat environnemental du site : dans le cadre de la cessation d’activité de la société, une étude décrivant l’état environnemental du site a été transmise le 14 décembre 2011.		
+2014	04	02		2014	04	02		de_la_visite	Lors de la visite du 2 avril 2014, l'Inspection des installations classées a constat que le site n'est pas totalement mis en sécurité, en particulier :		

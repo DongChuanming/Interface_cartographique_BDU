@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	03	31		2016	03	31		les_travaux_de_réhabilitation	A la date du 31 mars 2016, les travaux de réhabilitation n'ont pas démarré ; ils doivent démarrer prochainement (le portage du projet de dépollution par la mairie de Frelinghien ayant retardé le lancement des travaux).		
+1874				1874				aurait_démarré	L'acitvité industrielle sur ce site aurait démarré en 1874.		
+2005	12	15		2005	12	15		informait	Par courrier en date du 15 décembre 2005, FLANDRES INVESTISSEMENT informait Monsieur le préfet du Nord de la cessation d’activité sur son site de FRELINGHIEN, effective :		'FLANDRES INVESTISSEMENT', 'le préfet du Nord', 'FRELINGHIEN'
+2006				2006				est_devenu	FLRANDRES ENNOBLISSEMENT est devenu FLANDRES INVESTISSEMENT SAS en 2006.		'FLRANDRES ENNOBLISSEMENT', 'FLANDRES INVESTISSEMENT SAS'
+2015	05	27		2015	05	27		Investissement_déposait	Le 27 mai 2015, l'exploitant de la société Flandres Investissement déposait en préfecture du Nord le plan de gestion (référencé Entime 3785-006-003/Rév.		'société Flandres Investissement'
+2005	07	22		2005	07	22		les_activités_d__ennoblissement	• depuis le 22 juillet 2005 pour les activités d’ennoblissement,		

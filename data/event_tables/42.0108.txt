@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				faisait_les_observations	En 2007, lors d'une inspection, la DRIRE faisait les observations suivantes, notifiées à l'exploitant :		'la DRIRE'
+1991				1991				exploitait	La société RDS exploitait depuis 1991 un centre de tri.		'La société RDS'
+2006	04	12		2006	04	12		une_liquidation_judiciaire	Elle a fait l'objet d'une liquidation judiciaire clôturée le 12 avril 2006 pour insuffisance d'actifs.		
+2013				2013				Le_traitement_in_situ	Le traitement in situ est programmé en 2013.		
+2004	07	26		2004	07	26		a_fait_procéder	A l'occasion d'un projet de rachat du tènement RDS à son propriétaire UFFI SAINT CHAMOND, ce dernier a fait procéder à une étude sommaire des sols par SITA REMEDIATION (26 juillet 2004).		'UFFI SAINT CHAMOND', 'SITA REMEDIATION'
+2008	10	13		2008	10	13		a_été_délivré	Un récépissé de déclaration de cessation d'activité a été délivré le 13/10/2008 par la Préfecture de la Loire, accompagné de recommandations quant à l'élimination des terres et la réalisation de travaux.		'la Préfecture de la Loire'
+1993				2003				ayant_été_occupée	L’ex-site RDS a occupé une partie de la parcelle 52 de la section DT de 1991 à 2009 ; l’autre partie ayant été occupée par Décapage Forézien Métalboi de 1993 à 2003.		'RDS', 'Décapage Forézien Métalboi'
+1991				2009				a_occupé	L’ex-site RDS a occupé une partie de la parcelle 52 de la section DT de 1991 à 2009 ; l’autre partie ayant été occupée par Décapage Forézien Métalboi de 1993 à 2003.		'RDS', 'Décapage Forézien Métalboi'

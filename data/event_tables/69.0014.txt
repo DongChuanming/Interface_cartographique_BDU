@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12			2000	12			a_été_rédigé	Un dossier a été rédigé par ANTEA au mois de décembre 2000.		'ANTEA'
+2004				2004				est_repris	Le site est repris en 2004 par la société GRS VALTECH, spécialisé dans la valorisation des terres polluées par voie thermique.		'la société GRS VALTECH'
+1994	07	19		1994	07	19		la_suspension	Au vu des conditions d'exploitation et du non-respect de certaines prescriptions de l'arrêté préfectoral d'exploitation daté du 19 juillet 1994, M le Préfet du Rhône a ordonné à la société BLAGDEN PACKAGING LYON, au cours de l'année 2000, la suspension de l'activité de brûlage des fûts.		'le Préfet du Rhône', 'la société BLAGDEN PACKAGING LYON'
+2004	04	08		2004	04	08		a_été_autorisée	Cette activité a été autorisée par l'arrêté du 08/04/2004.		
+2001	07	30		2001	07	30		Le_diagnostic_complémentaire	Le diagnostic complémentaire ainsi qu'une nouvelle ESR a été remise à l'administration le 30 juillet 2001. 17 sondages ont alors été réalisés confirmant les pollutions :		
+1966				1966				Les_premiers_plans_d__installation	Les premiers plans d'installation en rapport avec le site date de 1966.		
+1989				1989				cède	Entre 1989 et 1990, le groupe GALLAY cède le site au groupe BLAGDEN.		'le groupe GALLAY', 'groupe BLAGDEN'
+								se_sont_implantés	Les ÉTABLISSEMENTS ROBIN se sont implantés sur le site 2 ans plus tard pour y exercer une activité de recyclage de fûts métalliques.	'fûts métalliques'	'Les ÉTABLISSEMENTS ROBIN'
+2002	08			2002	08			a_remis	L'exploitant a remis le compte rendu des travaux de nettoyage en août 2002.		
+1975				1975				sont_rachetés	En 1975, les ETS ROBIN sont rachetés par le groupe GALLAY.		'les ETS ROBIN', 'groupe GALLAY'
+1999				1999				Une_seconde_phase_de_dépollution	Une seconde phase de dépollution s'est tenu en 1999, piloté par le bureau d'étude CALIA.		'CALIA'
+				2000	12			devient	Le site devient BLAGDEN - RHODAREC puis BLAGDEN PACKAGING LYON jusqu'au mois de décembre 2000, date de remise d'un dossier de cessation d'activité.		'BLAGDEN - RHODAREC', 'BLAGDEN PACKAGING LYON'
+1995				1995				ont_été_menés	Ils ont été menés par la société ANTEA en 1995 et ont consisté en l'excavation des terres contaminées.		'la société ANTEA'
+2003	10	07		2003	10	07		de_la_dernière_campagne	Elle a été confirmée lors de la dernière campagne du 07/10/2003.		
+2000				2000				la_suspension	Au vu des conditions d'exploitation et du non-respect de certaines prescriptions de l'arrêté préfectoral d'exploitation daté du 19 juillet 1994, M le Préfet du Rhône a ordonné à la société BLAGDEN PACKAGING LYON, au cours de l'année 2000, la suspension de l'activité de brûlage des fûts.		'le Préfet du Rhône', 'la société BLAGDEN PACKAGING LYON'
+1996	04	03		1996	04	03		a_été_sélectionné	Ce site a été sélectionné au titre de la circulaire du 03/04/1996.		
+2003	02			2003	02			a_elle_été_rendue	L'EDR a elle été rendue au mois de février 2003. 2 potentiels repreneurs souhaitaient alors acquérir le site.		
+1990				1990				cède	Entre 1989 et 1990, le groupe GALLAY cède le site au groupe BLAGDEN.		'le groupe GALLAY', 'groupe BLAGDEN'
+2003	10	07		2003	10	07		a_été_confirmée_lors	Elle a été confirmée lors de la dernière campagne du 07/10/2003.		
+1994	07	19		1994	07	19		a_été_signé	L'arrêté autorisant la poursuite de l'exploitation du site a été signé le 19/07/1994.		
+1992	11	02		2003	10	07		a_été_réalisée_à_fréquence_semestrielle	La surveillance des eaux souterraines du site a été réalisée à fréquence semestrielle du 02/11/1992 au 07/10/2003.		

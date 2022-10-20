@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977	07			1977	07			un_incendie	- en juillet 1977, un incendie qui a détruit la majeure partie des installations exploitées par ATOMLAC,		
+1946				1946				était_consacré_à	Avant 1946, ce site était consacré à une activité de tannerie.		
+1946				1946				activité_de_tannerie	Avant 1946, ce site était consacré à une activité de tannerie.		
+2007	11			2007	11			Lors_de_la_visite	Lors de la visite du site en novembre 2007, l'Inspection des Installations Classées a demandé à l'exploitant de mettre en place trois piézomètres afin d'actualiser les connaissances sur cette pollution et notamment de caractériser l'existence ou l'absence de pollution dans la nappe sous-jacente.		
+1946				1946				créé	Établissement de fabrication de peintures industrielles composées de polymères, pigments et solvants créé en 1946 et exploité par la société ATOMLAC sur la commune de Villenave d'Ornon (33).	'peintures industrielles', 'polymères', 'pigments'	'la société ATOMLAC'
+2008	06			2008	06			La_campagne_de	La campagne de juin 2008 confirme la pollution en hydrocarbures halogénés volatils, en HAP et en arsenic sur l'ouvrage PZC, situé à l'aval hydraulique du site.	'hydrocarbures halogénés volatils', 'HAP', 'arsenic'	
+2003				2003				un_diagnostic_des_sols	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, l'exploitant fait réaliser un diagnostic des sols et une ESR (évaluation simplifiée des risques) en 2003.		
+2009				2009				Les_analyses_réalisées	Les analyses réalisées en 2009 une pollution des sols par du plomb (jusqu'à 3,3 g/kg) et par les COHV (jusqu'à 0,25 mg/kg) sur deux sondages réalisés au cœur du site.	'plomb', 'les COHV'	
+1983				1983				un_nouvel_incendie	- en 1983, un nouvel incendie qui a détruit une partie des installations exploitées par ATOMLAC.		
+2013	04			2013	04			de_réaliser_une_campagne_de_mesures	Par lettre du 13 février 2013, l'exploitant informe qu'il envisage de réaliser une campagne de mesures en avril 2013.		
+2008	11			2008	11			Les_investigations	Les investigations ont été remises en novembre 2008.		
+2013	12	30		2013	12	30		ce_diagnostic_approfondi	Le 30/12/2013, ce diagnostic approfondi n'a pas été produit par l'exploitant.		

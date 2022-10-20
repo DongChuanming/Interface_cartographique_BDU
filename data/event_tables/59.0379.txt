@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				les_stockages_existants	En 1987, à la suite de la fermeture du site, la société ESSO a démantelé les stockages existants.		'la société ESSO'
+1923				1923				L__exploitation	L'exploitation du terrain a démarré en 1923 par l'autorisation d'un dépôt géré par une filiale d'ESSO.		"une filiale d' ESSO"
+2003	01			2003	01			a_été_remis	Un dossier a été remis en janvier 2003.		
+1987				1987				a_été_racheté	Le terrain ESSO a été racheté en 1987 par RHODIA INTERMEDIAIRES qui n'y a pas exercé d'activités relevant de la législation des installations classées pour la protection de l'environnement.		'ESSO', 'RHODIA INTERMEDIAIRES'
+2000				2000				Une_évaluation	Une évaluation sommaire de l'état des sols a été menée par le propriétaire des terrains (RHODIA INTERMEDIAIRES) et remise à la DRIRE en 2000.		'RHODIA INTERMEDIAIRES', 'la DRIRE'
+				1987				ont_été_stockés	Des hydrocarbures (essence, gasoil, fioul domestique) y ont été stockés jusqu'en 1987.	'hydrocarbures', 'essence', 'gasoil', 'fioul domestique'	
+2001	08	27		2001	08	27		Une_visite	Une visite du site en date du 27 août 2001 a permis de constater que la société BM CHIMIE exploite à cette adresse un atelier d'entretien de véhicules poids lourds.		'la société BM CHIMIE'

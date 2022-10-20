@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	01			2013	01			La_cessation_d__activité	La cessation d'activité a été déclarée en janvier 2013.		
+1981				1981				a_ensuite_été_rachetée	Elle a ensuite été rachetée par la société SANDERS en 1981 puis par la société DOUX en 1990.		'la société SANDERS', 'la société DOUX'
+2005	03			2005	03			Une_fuite	Une fuite d'une cuve de stockage d'huile de tournesol de 25 m3 a eu lieu en mars 2005.		
+2005	07			2005	07			Un_diagnostic_des_sols	Un diagnostic des sols et une étude de dépollution et réhabilitation ont été réalisés en juillet 2005.		
+1998	12	18		1998	12	18		a_été_autorisée_à_exploiter	La société DOUX ALIMENTS CORNOUAILLES a été autorisée à exploiter un établissement spécialisé dans la fabrication d’aliments pour le bétail par arrêté du 18 décembre 1998.		'La société DOUX ALIMENTS CORNOUAILLES'
+1974				1974				a_été_construite	L'usine de production d'aliments a été construite en 1974 par la société TANNEAU.		'la société TANNEAU'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02			2004	02			a_été_réalisé	Ce dernier a été réalisé en février 2004.		
+1993				1993				L__activité_pris_fin	L'activité pris fin en 1993.		
+2004	07			2004	07			une_Evaluation_Détaillée_des_Risques	Dans le cadre de ce projet une Evaluation Détaillée des Risques a été réalisée en juillet 2004.		
+2000	10	27		2000	10	27		a_été_prescrite	La surveillance des eaux souterraines a été prescrite par arrêté préfectoral du 27 octobre 2000, à BAIL INDUSTRIE, représentant l'ancien exploitant.		'BAIL INDUSTRIE'
+2002	07			2002	07			a_fait_réaliser_une_Evaluation_Simplifiée_des_Risques	L'Etablissement Public Foncier de Lorraine a fait réaliser une Evaluation Simplifiée des Risques en juillet 2002.		
+1962				1962				furent_mises_en_place	Les premières installations de l'agglomération furent mises en place en 1962.		

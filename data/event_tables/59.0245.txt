@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				a_été_découverte	- Une pollution aux solvants chlorés et non chlorés a été découverte en 1987 au niveau de la zone de nettoyage des pièces aux solvants	'solvants chlorés', 'non chlorés'	
+1987				1987				réalise_une_étude_de_sols	- En 1987, dans le cadre d'une démarche mondiale, le groupe réalise une étude de sols à Neuville en Ferrain afin de s'assurer que les sols sont peu ou pas pollués.		
+1998	04			1998	04			a_été_complétée	L'installation a été complétée en avril 1998 pour terminer la dépollution	'dépollution'	
+1995				1995				a_été_installé	- Un pilote de dépollution a été installé en 1995 à l'initiative de l'industriel.		

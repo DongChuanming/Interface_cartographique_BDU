@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2000	06			Il_a_donc_été_demandé	Il a donc été demandé en juin 2000 à l'exploitant de solliciter l'avis de l'hydrogéologue agréé pour déterminer les risques de pollution des captages d'alimentation en eau potable situés à plusieurs kilomètres du site.		
+								a_cessé	L'exploitation a cessé à la fin des années 1980.		
+1981				1981				a_été_fermé	Le puits en question a été fermé en 1981.		
+1980				1980				Une_étude_effectuée	Une étude effectuée en 1980 a indiqué que l'exploitation du puits d'injection était à l'origine d'une pollution des nappes d'eaux souterraines de la Brie et du calcaire de Champigny qui se sont traduites par des teneurs anormalement élevées dans les eaux souterraines en ions chlorures, potassium, sodium, ammonium, nitrites, nitrates et sulfates.	'chlorures', 'potassium', 'sodium', 'ammonium', 'nitrites', 'nitrates', 'sulfates'	
+								mise_en_activité	Cette ancienne sucrerie, mise en activité au début du 20e siècle est aujourd'hui désaffectée.		

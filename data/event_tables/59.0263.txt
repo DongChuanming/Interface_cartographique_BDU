@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2010	05			Élimination	- Élimination de tous les appareils contenant des PCB en mai 2010.	'PCB'	
+2004	07			2004	07			Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques et d'un diagnostic étape B en juillet 2004.		
+1973				1973				a_été_remblayé	Ce puit a été remblayé en 1973, sa stabilité et l'absence de grisou sont régulièrement contrôles.		
+1999				1999				Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols phase A, le 30 aout 1999.		
+								Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols phase A, le 30 aout 1999.		
+1974				1974				démarrée	- L'activité majoritaire du site est le traitement de surface par cataphorèse des pièces de carrosseries automobiles,activité démarrée en 1974 et produit des pièces de carrosserie en acier destinées aux lignes de montage des véhicules neufs et de rechange.		

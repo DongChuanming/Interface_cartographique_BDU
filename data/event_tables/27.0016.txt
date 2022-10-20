@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_faits_remontaient	Les faits remontaient aux années 50 et 60.		
+1994	03			1994	03			Mise_à_jour	Mise à jour en mars 1994, lors de travaux routiers, d'une décharge de déchets industriels dans une ancienne carrière, sur environ 3600 m².	'déchets industriels'	
+1995	05			1995	05			ont_été_terminés	Ceux-ci ont été terminés en mai 1995.		
+1994	04	13		1994	04	13		a_été_mise_en	La société RALSTON ENERGY SYSTEM FRANCE, ayant succédé à la Société des Piles WONDER en continuant la même activité, a été mise en demeure, par arrêté préfectoral du 13 avril 1994, de faire procéder aux opérations de réhabilitation du site.		'La société RALSTON ENERGY SYSTEM FRANCE', 'la Société des Piles WONDER'

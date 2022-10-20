@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				ont_été_enlevées	A la suite de la cessation d'activité fin 2001, les terres superficielles des zones de dépôt et transit ont été enlevées et éliminées.		
+2004				2004				ont_été_éliminés	Les transformateurs contenant des PCB présents sur site ont été éliminés en 2004.	'PCB'	
+2005				2005				à_l_	Les opérations de réhabilitation ont été menées à l'été 2005.		
+2003				2003				ont_été_remises	Ces études ont été remises fin 2003.		
+2005				2005				Les_opérations_de_réhabilitation	Les opérations de réhabilitation ont été menées à l'été 2005.		
+2002	08	06		2002	08	06		a_été_imposée	Une surveillance des eaux souterraines a été imposée par arrêté préfectoral le 06/08/2002.		

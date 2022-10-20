@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11	23		2004	11	23		a_été_remise	L'ESR a été remise par courrier du 23/11/2004.		"L' ESR"
+1993	06	08		1993	06	08		bénéficiait	Le site bénéficiait d'un récépissé de déclaration du 08/06/1993.		
+1999				1999				exploitait	La société AGIP exploitait une station service sur le site depuis 1999.		'La société AGIP'
+1993	06	08		1993	06	08		de_déclaration	Le site bénéficiait d'un récépissé de déclaration du 08/06/1993.		

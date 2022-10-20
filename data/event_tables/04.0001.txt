@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1947				1947				a_été_exploité	Sur ce site, un atelier de fabrication de l'HCH  ( hexachlorocyclohexane) appartenant à Rhône - Poulenc AGRO a été exploité par ATOFINA depuisjuillet 1947.	'HCH', '( hexachlorocyclohexane'	'à Rhône - Poulenc AGRO', 'par ATOFINA'
+								1995_étaient___stockés	Des déchets contenant de l'hexachlorocyclohéxane provenant d'une ancienne fabrication maintenant arrêtée depuis juin 1995.étaient  stockés dans l'enceinte de l'usine sur une superficie limitée de 300.m2.	"l' hexachlorocyclohéxane"	
+								arrêtée	Des déchets contenant de l'hexachlorocyclohéxane provenant d'une ancienne fabrication maintenant arrêtée depuis juin 1995.étaient  stockés dans l'enceinte de l'usine sur une superficie limitée de 300.m2.	"l' hexachlorocyclohéxane"	
+1998				1998				a_été_excavé	En 1998 ce dépôt a été excavé puis incinéré en centre spécialisé de la société TREDI (315 tonnes).		'la société TREDI'

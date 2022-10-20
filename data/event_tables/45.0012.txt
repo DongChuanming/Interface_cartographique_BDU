@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				2004				a_exploité	Entre 1997 et 2004 la société SETRAD a exploité un centre de déchets ménagers non dangereux (cessation d'activité en novembre 2004).	'ménagers non dangereux'	'la société SETRAD'
+2004				2004				l__arrêt	Suite à l'arrêt en 2004 de l'activité de stockage de déchets ménagers, un suivi post-exploitation a été imposé à l'exploitant, et ce, sur les trente prochaines années.		
+2002				2002				a_été_mis_en_place	Un piézomètre supplémentaire a été mis en place, dans le courant de l'été 2002, pour compléter le suivi existant en aval hydraulique immédiat de l'exploitation actuelle.		
+2012	02	22		2012	02	22		sont_fixées_dans	Ces prescriptions sont fixées dans l'arrêté préfectoral complémentaire du 22/02/2012.		
+2004	11			2004	11			cessation_d__activité	Entre 1997 et 2004 la société SETRAD a exploité un centre de déchets ménagers non dangereux (cessation d'activité en novembre 2004).	'ménagers non dangereux'	'la société SETRAD'
+2004	11			2004	11			a_exploité	Entre 1997 et 2004 la société SETRAD a exploité un centre de déchets ménagers non dangereux (cessation d'activité en novembre 2004).	'ménagers non dangereux'	'la société SETRAD'
+2003	09	02		2003	09	02		a_été_prescrit_en_accord	Par arrêté préfectoral du 2 septembre 2003, un réseau global comprenant 13 piézomètres a été prescrit en accord avec l'hydrogéologue agréé, afin de détecter l'impact éventuel des activités actuelles et anciennes (les 4 nouveaux ouvrages ont essentiellement pour objet de détecter un éventuel impact de l'ancienne décharge exploitée depuis 1979).		
+1993				1993				s__améliorer	Les piézomètres situés en aval hydraulique des anciens sites ne présentant pas de géomembrane sont légèrement influencés, mais la qualité des eaux souterraines ne cessent de s'améliorer depuis 1993.		
+1979				1979				exploitée	Par arrêté préfectoral du 2 septembre 2003, un réseau global comprenant 13 piézomètres a été prescrit en accord avec l'hydrogéologue agréé, afin de détecter l'impact éventuel des activités actuelles et anciennes (les 4 nouveaux ouvrages ont essentiellement pour objet de détecter un éventuel impact de l'ancienne décharge exploitée depuis 1979).		
+1990				1990				a_mis_en_place	Depuis 1990, l'exploitant a mis en place un réseau d'une dizaine de piézomètres de suivi de la qualité des eaux souterraines.		
+2010				2010				Les_analyses	Les analyses de la qualité de la nappe en 2010 montrent :		

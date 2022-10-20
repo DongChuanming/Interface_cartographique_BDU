@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06			2015	06			a_procédé	L'exploitant a procédé, en juin 2015, à une excavation des terres à l'arrière de la boutique.		
+2013				2013				a_été_caractérisée	La pollution décelée au droit de la station-service a été caractérisée en 2013.		
+2012				2012				a_été_mis_en_demeure	Par arrêté du 1er juillet 2013, l'exploitant a été mis en demeure de respecter les dispositions de l'arrêté de 2012.		
+2013	02			2013	02			la_campagne_de_prélèvements_de_gaz_des_sols	Par ailleurs, étant donné que lors de la campagne de prélèvements de gaz des sols de février 2013 une teneur en benzène égale à environ 220 µg/m3 avait été détectée en bordures Sud-Est et Sud-Ouest, il est impératif de mettre en place un programme de suivi des concentrations en BTEX dans les gaz du sol, à une fréquence trimestrielle sur site et hors site.	'benzène', 'BTEX'	
+2012				2012				a_prescrit_la_caractérisation	Suite à la découverte d’une fuite de carburant fin 2012, l’arrêté préfectoral d’urgence du 20 décembre 2012 a prescrit la caractérisation de l'extension de la pollution et des milieux environnementaux concernés par cette pollution (notamment sols, eaux souterraines, air ambiant,...) ainsi que l'excavation des terres pollués et la mise en place d'un dispositif permettant d'empêcher toute propagation de la pollution.	'carburant'	
+2015				2015				a_transmis	En 2015, l'exploitant a transmis un plan de gestion qui prévoit :		
+2013	07	1		2013	07	1		a_été_mis_en_demeure	Par arrêté du 1er juillet 2013, l'exploitant a été mis en demeure de respecter les dispositions de l'arrêté de 2012.		

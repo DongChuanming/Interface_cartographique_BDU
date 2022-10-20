@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				L__optimisation	L'optimisation de la dépollution précitée a été faite à  la fin de l'été 2003 et un rapport d'étape de l'hydrogéologue daté du 23 juin 2003 avait montré que les hauteurs de flottants étaient en nette régression mais restent encore importantes vers le poste de chargement camions.		
+2008				2008				a_sollicité	L'exploitant a sollicité en 2008, l'arrêt du dispositif de pompage.		
+2011	10			2011	10			sont_réapparus	En octobre 2011, sont réapparus des flottants dans l'un des piézomètres (1cm) et malgré l'absence de flottants dans les autres piézomètres les plus proches de l'origine de la pollution, les concentrations en HC y ont dépassé le seuil de 0,5 mg/l.	'HC'	
+2003	06	23		2003	06	23		et_un_rapport	L'optimisation de la dépollution précitée a été faite à  la fin de l'été 2003 et un rapport d'étape de l'hydrogéologue daté du 23 juin 2003 avait montré que les hauteurs de flottants étaient en nette régression mais restent encore importantes vers le poste de chargement camions.		
+2007				2007				avaient_disparu	Depuis le début de l'année 2007, toute phase flottante dans le puits de pompage P23 et dans les piézomètres situés à proximité avaient disparu.		
+2000	12	11		2000	12	11		Une_pollution	Une pollution du sous-sol s'est déclarée le 11/12/2000 suite à  la fuite d'une canalisation d'essence sans plomb alimentant les postes de chargement du dépôt.	"d' essence sans plomb alimentant"	

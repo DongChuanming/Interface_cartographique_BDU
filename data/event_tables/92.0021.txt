@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11	30		2000	11	30		pris	Nouvel arrêté prescrivant le diagnostic pris le 30/11/2000.		
+1996	11	23		1996	11	23		Jugement	Jugement du TGI de Nanterre du 23/11/1996 condamnant BP.	'BP'	'TGI de Nanterre'
+1991				1991				Pollution_accidentelle_découverte	Pollution accidentelle découverte en 1991 suite à des infiltrations importantes de super-carburant dans le métro, justifiant l'arrêt du métro et la suspension de la station-service.	'super-carburant'	
+2000	10	25		2000	10	25		le_diagnostique	En tout état de cause le diagnostique de la station service, daté du 25/10/2000, montrait qu'il n'y avait pas lieu de dépolluer le site pour un meme usage.		
+2000	11	08		2000	11	08		Etude_transmise	Etude transmise par BP le 8/11/2000.		
+1993				1993				Diagnostics	Diagnostics de la pollution en 1991 et 1993 dans le cadre de l'expertise judiciaire.		
+2003				2003				____début_des_travaux	Site ayant fait l'objet d'une construction d'immeuble (habitations et bureaux); début des travaux:aout 2003.		
+1999	01	20		1999	01	20		__pourvoi_en	CA de Versailles du 15/12/1998 confirmant jugement TGI; pourvoi en cassation du 20/01/1999.		'CA de Versailles', 'TGI'
+1991				1991				Diagnostics	Diagnostics de la pollution en 1991 et 1993 dans le cadre de l'expertise judiciaire.		

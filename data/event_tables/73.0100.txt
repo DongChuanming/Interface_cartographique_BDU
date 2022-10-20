@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12			2006	12			mise_en_place	Une récupération sélective des huiles flottantes, mise en place en décembre 2006, par un écremeur à bande oléophile et par un pompage au point bas de la fouille, a permis la récupération d'environ 1300 L d'huile.	'huiles flottantes'	
+2007	04			2007	04			a_été_constatée	L'absence d'hydrocarbures a été constatée dans les piézomètres amont et aval en avril 2007.	'hydrocarbures'	
+2009				2009				analyses_des_prélèvements_réalisés	Les résultats d'analyses des prélèvements réalisés en 2009 et 2010 montrent des teneurs en hydrocarbures inférieures au seuil de détection.	'hydrocarbures'	
+2010				2010				analyses_des_prélèvements_réalisés	Les résultats d'analyses des prélèvements réalisés en 2009 et 2010 montrent des teneurs en hydrocarbures inférieures au seuil de détection.	'hydrocarbures'	

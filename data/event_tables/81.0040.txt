@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	03	18		2016	03	18		Ils_se_sont_terminés	Ils se sont terminés le 18 mars 2016(levée des réserves), les analyses de contrôles ont été réalisées et le rapport de fin de travaux est attendu par l'inspection		
+2007	09	22		2007	09	22		a_fait_l__objet	La société MOLINA a fait l'objet de procédures administratives et pénales concernant une pollution de la rivière du Cérou le 22 septembre 2007.		'La société MOLINA'
+2008	05	16		2008	05	16		ont_été_suspendues	Suite au non-respect de cet arrêté et à la situation environnementale déplorable du site , les activités ont été suspendues par arrêté préfectoral en date du 16 mai 2008.		
+2013	08	1		2013	08	1		a_autorisé	Le ministère de l'Ecologie a autorisé cette intervention le 1er août 2013.		"Le ministère de l' Ecologie"
+2015				2015				Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité ont été réalisés par l'ADEME en 2015.		
+1996				1996				a_commencé_son_activité	Elle a commencé son activité en 1996, puis, fût reprise suite à sa liquidation judicaire par la société SARL MOLINA, en avril 2001.		'la société SARL MOLINA'
+2008	06	10		2008	06	10		a_été_mise_en_liquidation	La SARL MOLINA a été mise en liquidation le 10 juin 2008.		'La SARL MOLINA'
+2008	12	19		2008	12	19		a_été_notifié	Un arrêté préfectoral de mise en demeure a été notifié au liquidateur le 19 décembre 2008, demandant l'évacuation et l'élimination des produits dangereux et des déchets présents sur le site, et d'en interdire l'accès.	'des produits dangereux'	
+2008	06	10		2008	06	10		a_été_mise_en_liquidation	Les activités de la société MOLINA ont été suspendues par arrêté préfectoral en date du 16 mai 2008 et la société a été mise en liquidation le 10 juin 2008.		'la société MOLINA'
+2009	11	26		2009	11	26		a_été_signé	Suite au nom respect de cet arrêté de mise en demeure, un arrêté de consignation d'un montant de 25 600 € TTC a été signé le 26 novembre 2009.		
+2002				2002				a_été_réalisée	.R) a été réalisée en 2002 dans le cadre du rachat de RENOV'EMBAL par la société MOLINA. 3 analyses de sol ont été réalisées lors de cette étude.		"RENOV' EMBAL", 'la société MOLINA'
+2008	05	16		2008	05	16		ont_été_suspendues	Les activités de la société MOLINA ont été suspendues par arrêté préfectoral en date du 16 mai 2008 et la société a été mise en liquidation le 10 juin 2008.		'la société MOLINA'
+2010	06	09		2010	06	09		L__insolvabilité	L'insolvabilité de l'entreprise a été confirmée le 9 juin 2010 par le TPG.		'le TPG'
+2007	12	27		2007	12	27		a_été_notifié	Un arrêté préfectoral de mise en demeure, relatif au non-respect des prescriptions techniques d'exploitation (déchets interdits, conditions d'élimination des eaux usées, des déchets...) a été notifié à l'exploitant le 27 décembre 2007.		
+2013	09	23		2013	09	23		ont_été_signés	Les arrêtés préfectoraux prescrivant la réalisation de ces travaux de mise en sécurité à l'ADEME et autorisant l'occupation temporaire des terrains ont été signés le 23 septembre 2013.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2009				ont_cessé_d_	Le centre commercial et une station service ont cessé d'être exploités en 2004 et seul le dépôt de fioul a continué son activité jusqu'en 2009.	'fioul'	
+2010				2010				a_été_démoli	L'ensemble de ces installations a été démoli en 2010 et le site accueille désormais plusieurs enseignes commerciale ainsi qu'un parking.		
+								Les_diagnostics	Les diagnostics de pollution de sols, réalisés en avril et juin 2005, en périphérie de la station service, ont mis en évidence la présence d’hydrocarbures, à des concentrations inférieures aux valeurs de référence pour un usage non sensible du site.	'hydrocarbures'	
+2010				2010				a_été_démoli	En 2010, l'ensemble des installations a été démoli.		
+2009	11			2009	11			Le_mémoire_de_cessation_d__activité	Le mémoire de cessation d’activité de novembre 2009, au travers des analyses de sols des 6 forages réalisés, a mis en évidence une pollution aux hydrocarbures, à proximité d’une des cuves de carburant de 100 m³ et du séparateur d’hydrocarbures.	'hydrocarbures', 'carburant', 'hydrocarbures'	
+2005	06			2005	06			Les_diagnostics	Les diagnostics de pollution de sols, réalisés en avril et juin 2005, en périphérie de la station service, ont mis en évidence la présence d’hydrocarbures, à des concentrations inférieures aux valeurs de référence pour un usage non sensible du site.	'hydrocarbures'	
+2011				2011				Un_rapport_d__intervention_réalisé	Un rapport d’intervention réalisé en 2011 met en évidence une pollution résiduelle en hydrocarbures en fond de fouille au niveau du radier à 4,5 mètres de profondeur ainsi qu’en fond de fouille Est des excavations menées sur le site.	'hydrocarbures'	
+2012	01			2012	01			ont_été_cédés	En janvier 2012, les terrains ont été cédés à la société REDEIM pour y construire un ensemble commercial d’équipements de la personne et de la maison.		'la société REDEIM'
+2004				2004				être_exploités	Le centre commercial et une station service ont cessé d'être exploités en 2004 et seul le dépôt de fioul a continué son activité jusqu'en 2009.	'fioul'	
+2004	11			2004	11			ont_été_réalisés	Des travaux de remise en état du site ont été réalisés en novembre 2004.		
+				2009				a_continué_son_activité	Le centre commercial et une station service ont cessé d'être exploités en 2004 et seul le dépôt de fioul a continué son activité jusqu'en 2009.	'fioul'	

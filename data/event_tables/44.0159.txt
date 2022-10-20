@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	04	12		2019	04	12		a_informé	Par courrier du 15 octobre 2015, complété le 5 juin 2018 et le 12 avril 2019, la société NLB AUTOMOBILES a informé monsieur le préfet de la Loire-Atlantique de la cessation de la station-service, tandis que le garage et la concession automobile étaient maintenus.		'la société NLB AUTOMOBILES', 'le préfet de la Loire'
+2018	09	20		2018	09	20		a_fourni	L’exploitant a fourni un procès-verbal de chantier relatif à la neutralisation des cuves de carburants du 20 septembre 2018.	'carburants'	
+1952				1952				a_été_créée	La station-service a été créée en 1952 et a été exploitée jusqu’en 2016 (par M.		
+2018	09	20		2018	09	20		la_neutralisation	L’exploitant a fourni un procès-verbal de chantier relatif à la neutralisation des cuves de carburants du 20 septembre 2018.	'carburants'	
+2015	03			2015	03			Un_diagnostic	Un diagnostic de l’état des sols est réalisé en mars 2015.		
+2018	09			2018	09			Les_travaux_de_fermeture	Les travaux de fermeture de la station-service se sont déroulés en septembre 2018.		
+2019	06	17		2019	06	17		est_délivré	Un récépissé de déclaration de cessation d’activité est délivré le 17/06/2019 par la Préfecture de Loire-Atlantique.		'la Préfecture de Loire - Atlantique'
+				2016				a_été_exploitée	La station-service a été créée en 1952 et a été exploitée jusqu’en 2016 (par M.		

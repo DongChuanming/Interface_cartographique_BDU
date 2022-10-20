@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03			2015	03			la_campagne_d__analyse	Lors de la campagne d'analyse de mars 2015, les résultats étaient les suivants :		
+1997				1997				a_été_installée	La première TAC a été installée en 1997 et la seconde en 2007.		
+2007				2007				a_été_installée	La première TAC a été installée en 1997 et la seconde en 2007.		
+2007				2007				a_réalisé_un_traitement_de_la_nappe	Avant l’implantation de la seconde TAC, en 2007, EDF a réalisé un traitement de la nappe par oxydation in-situ.		
+1985				1985				a_cessé	L'activité de la centrale a cessé en 1985.		

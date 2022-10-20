@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	25		1996	04	25		signé	Gaz de France signé le 25 avril 1996.		'Gaz de France'
+								ont_été_démolies	Les installations de l'usine ont été démolies dans les années 60 et 70.		
+2004	01			2004	01			ont_été_vidangées	Ces cuves ont été vidangées et remblayées en 01/2004.		

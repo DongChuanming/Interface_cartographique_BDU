@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_été_évacués	Les 20 m3 de produits dangereux et de déchets présents sur le site lors de la cessation d’activité ont été évacués et éliminés (fin 1995).	'm3 de produits dangereux'	
+1996	08	27		1996	08	27		ont_été_forés	3 sondages ont été réalisés le 20/08/1996 et 2 piézomètres ont été forés le 27/08/1996.		
+1995	07	26		1995	07	26		a_cessé	L’exploitation a cessé le 26 juillet 1995 consécutivement à la décision du tribunal de commerce de LYON de prononcer la liquidation judiciaire de cette entreprise.		'LYON'
+1996				1996				__dans_l__intention_de	Le propriétaire a fait réaliser l’audit de sol demandé par l’administration  dans l’intention de vendre son terrain (en 1996).		
+1996	09	16		1996	09	16		a_été_remise	Une étude a été remise à l’inspection des installations classées le 16 septembre 1996.		
+1996				1996				l__audit_de_sol_demandé	Le propriétaire a fait réaliser l’audit de sol demandé par l’administration  dans l’intention de vendre son terrain (en 1996).		
+1996	08	20		1996	08	20		3_sondages_ont_été_réalisés	3 sondages ont été réalisés le 20/08/1996 et 2 piézomètres ont été forés le 27/08/1996.		

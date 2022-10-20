@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			Un_diagnostic_environnemental	Un diagnostic environnemental a été effectué en Mai 2006.		
+1994	06	09		1994	06	09		a_fait_l__objet_d_	La station service a fait l'objet d'un récépissé de déclaration du 09/06/1994.		'La station service'
+2017	03			2017	03			La_campagne_de	La campagne de mars 2017 indique que les irisations d'hydrocarbures Totaux sont toujours présentes au droit de PZ2 et de PZ3 ainsi que la présence de teneurs résiduelles seules en benzène (PZA).	'hydrocarbures Totaux', 'benzène', 'PZA'	
+1994	06	09		1994	06	09		de_déclaration	La station service a fait l'objet d'un récépissé de déclaration du 09/06/1994.		'La station service'
+2007	05	30		2007	05	30		Les_travaux_d__installation_du_système_de_traitement	Les travaux d'installation du système de traitement de la nappe ont commencé le 20/03/2007 et se sont achevés le 30/05/2007.		
+2007	03	20		2007	03	20		Les_travaux_d__installation_du_système_de_traitement	Les travaux d'installation du système de traitement de la nappe ont commencé le 20/03/2007 et se sont achevés le 30/05/2007.		
+2015	09			2015	09			de_la_campagne	Lors de la campagne de septembre 2015, il a pu être constaté la présence de légères traces visuelles d'hydrocarbures (irisations) au droit de 2 piézomètres (PZ2 et PZ3) situés en aval hydraulique mais aucun impact au droit des 3 piézomètres (PZ1, PZA, PZB) situés en amont hydraulique.	'hydrocarbures'	'PZB'
+2010	01	15		2010	01	15		a_été_délivré	Le récépissé de cessation d'activité a été délivré le 15/01/2010.		
+2008	09	11		2008	09	11		ont_été_remis	Un schéma conceptuel et une ARR ont été remis le 11/09/2008.		
+2007	05	30		2007	05	30		se_sont_achevés	Les travaux d'installation du système de traitement de la nappe ont commencé le 20/03/2007 et se sont achevés le 30/05/2007.		

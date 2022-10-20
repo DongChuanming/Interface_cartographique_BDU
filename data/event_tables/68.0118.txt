@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				du_diagnostic_de_sols	Lors du diagnostic de sols en 1999, les zones à risques ont été déterminées en fonction des produits utilisés pour les différentes activités et des stockages (existants ou anciens) de produits chimiques.		
+2002	10	28		2002	10	28		la_cessation_d__activité_partielle	L'étude simplifiée des risques réalisée sur les zones d'activités conservées suite à la cessation d'activité partielle du 28 octobre 2002 met en évidence la présence d'une source de pollution du sol à l'arsenic, aux chromates et au trichloroéthylène.	'arsenic', 'chromates', 'trichloroéthylène'	
+2007	09	12		2007	09	12		Une_visite_d__inspection	Une visite d’inspection a été réalisée sur le site le 12 septembre 2007.		
+2007	08	31		2007	08	31		Une_restriction	Une restriction au droit de disposer et d’utiliser a été signée le 31 août 2007 par les MDPA, la CAMSA futur propriétaire des terrains sur une partie du site ainsi que l’état français.		'les MDPA', 'la CAMSA'
+				1999	10	07		Une_campagne_de_20_sondages_a_été_réalisée	Une campagne de 20 sondages a été réalisée du 6 au 7 octobre 1999 sur l’ensemble du site AC2R en fonction des zones à risques.		
+2002	10	28		2002	10	28		la_cessation_d__activité	Le 17 décembre 2003, la Sté AC2R a déposé en préfecture une déclaration et un mémoire de cessation d’activité concernant les installations restées en exploitation suite à la cessation d’activité du 28 octobre 2002 uniquement sur la commune de Richwiller.		'la Sté AC2R'
+1999				1999				ont_été_déterminées	Lors du diagnostic de sols en 1999, les zones à risques ont été déterminées en fonction des produits utilisés pour les différentes activités et des stockages (existants ou anciens) de produits chimiques.		
+2002	10	28		2002	10	28		la_cessation_d__activité	Dans le cadre de la cessation d’activité du 28/10/2002, des investigations ont été menées sur la qualité des eaux souterraines en aval du site :		
+2002	10	28		2002	10	28		une_déclaration	Le 28 octobre 2002, la Sté AC2R a déposé en préfecture une déclaration et un mémoire de cessation d’activité partielle qui concerne des activités qu’elle a exploitées sur ce site à cheval sur les communes de Wittelsheim et de Richwiller.		'la Sté AC2R'
+2003	12	17		2003	12	17		L__étude	L’étude a été actualisée le 17/12/2003 dans le cadre de la cessation d’activité.		
+2003	12	17		2003	12	17		une_déclaration	Le 17 décembre 2003, la Sté AC2R a déposé en préfecture une déclaration et un mémoire de cessation d’activité concernant les installations restées en exploitation suite à la cessation d’activité du 28 octobre 2002 uniquement sur la commune de Richwiller.		'la Sté AC2R'
+1966	10	25		1966	10	25		déclaration	déclaration du 25 octobre 1966 concernant le stockage d’acétylène,	'stockage d’', 'acétylène'	
+1946				1946				de_leur_création	Lors de leur création en 1946, les ateliers centraux du site AC2R avaient fait l’objet d’arrêtés préfectoraux :		'AC2R'
+2007	09	19		2007	09	19		a_été_signé	Un procès verbal de récolement a été signé le 19 septembre 2007.		
+2003	02	04		2003	02	04		a_été_liquidée	La société AC2R a été liquidée à l’amiable le 4 février 2003.		'La société AC2R'

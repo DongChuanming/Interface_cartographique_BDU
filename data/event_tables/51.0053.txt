@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08	20		2001	08	20		La_fuite_décelée	La fuite décelée le 20 août 2001 concerne la lagune anaérobie dont l'étanchéité était assurée par 2 membranes superposées.		
+2240				2240				sont_intervenus	A 22h40, deux personnes équipées sont intervenus dans la zone incriminée.		
+								sont_arrivés	Le samedi 9 janvier 2010, vers 14h, les pompiers, accompagnés des gendarmes sont arrivés sur le site (à noter que la direction de l'établissement n'avait pas encore pris contact avec les services de l'Etat).		
+2003	01			2003	01			a_été_mise_en_service	Une nouvelle lagune a été mise en service en janvier 2003 pour remplacer l'ouvrage fuyard et la pollution des eaux souterraines est en train de décroître.		
+2004	08	06		2004	08	06		ont_été_communiqués	Des éléments de réponse ont été communiqués à l'inspection en juin 2004 qui ont nécessité des compléments transmis le 6 août 2004.		
+				2001	09	08		La_réalisation	La réalisation des 15 ouvrages a été exécutée du 1er au 8 septembre 2001.		
+								le_début_de_l__épandage	La quantité d'acide qui s'est échappée est estimée à 11 m3, le début de l'épandage ayant a priori débuté vers 14 h le 8 janvier 2010.	'acide'	
+2010	01	08		2010	01	08		a_détecté	Le 8 janvier 2010, vers 22 h, le gardien a détecté, dans le cadre de sa ronde, une forte odeur d'acide.	"d' acide"	
+2010	01	09		2010	01	09		des_recherches	Le samedi 9 janvier 2010 dans la journée, l'exploitant a engagé des recherches visant à déterminer l'origine de la fuite et des actions de nettoyages de la chaussée.		
+2010	01	09		2010	01	09		sont_arrivés	Le samedi 9 janvier 2010, vers 14h, les pompiers, accompagnés des gendarmes sont arrivés sur le site (à noter que la direction de l'établissement n'avait pas encore pris contact avec les services de l'Etat).		
+				2010	01	08		le_début_de_l__épandage	La quantité d'acide qui s'est échappée est estimée à 11 m3, le début de l'épandage ayant a priori débuté vers 14 h le 8 janvier 2010.	'acide'	
+2001				2001				a_été_confrontée	Cette société a été confrontée durant l'été 2001 à une fuite de la lagune de pré-traitement de ses effluents qui a entraîné la pollution des eaux souterraines sous-jacentes.	'effluents'	
+2004	06			2004	06			ont_été_communiqués	Des éléments de réponse ont été communiqués à l'inspection en juin 2004 qui ont nécessité des compléments transmis le 6 août 2004.		
+2005	01	17		2005	01	17		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 17 janvier 2005 pour encadrer la gestion de la nouvelle lagune.		
+2001	07			2001	07			mise_en_service	Usine de fabrication de frites surgelées mise en service en juillet 2001.		
+								a_détecté	Le 8 janvier 2010, vers 22 h, le gardien a détecté, dans le cadre de sa ronde, une forte odeur d'acide.	"d' acide"	

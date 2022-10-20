@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05			2002	05			Une_étude_de_sols	Une étude de sols de mai 2002 (6 sondages, 15 prélèvements) a permis les constats suivants :		
+2002	08			2002	08			dépose_un_dossier	Entre temps, la société est reprise par le groupe DUWIC et en août 2002, la société dépose un dossier de demande de régularisation de situation administrative, jugé recevable (AP du 4 octobre 2004 portant autorisation d'exploiter).		'le groupe DUWIC'
+2005	11	1		2005	11	1		a_repris	Le 13 juin 2006, un récépissé de changement d'exploitant indique que la société ACIAL a repris le 1er novembre 2005 l'exploitation de fabrication de vestiaires métalliques.		'la société ACIAL'
+2005	09			2005	09			de_deux_campagnes_de_mesures	Un Diagnostic environnemental et une Évaluation Détaillée des Risques d'octobre 2005  rapporte les résultats de deux campagnes de mesures sur les sols et les eaux souterraines (juillet et septembre 2005).		
+2005	10			2005	10			une_Évaluation_Détaillée_des_Risques_d_	Un Diagnostic environnemental et une Évaluation Détaillée des Risques d'octobre 2005  rapporte les résultats de deux campagnes de mesures sur les sols et les eaux souterraines (juillet et septembre 2005).		
+2001	09	25		2001	09	25		un_dossier_de_demande_d_	Le 25 septembre 2001, la société MILIPI a déposé un dossier de demande d'autorisation jugé non recevable pour les installations qu'elle exploite (traitement de surfaces et application de peinture).		'la société MILIPI'
+								de_deux_campagnes_de_mesures	Un Diagnostic environnemental et une Évaluation Détaillée des Risques d'octobre 2005  rapporte les résultats de deux campagnes de mesures sur les sols et les eaux souterraines (juillet et septembre 2005).		
+2005	07			2005	07			a_été_mis_en_évidence	- Un impact significatif de la nappe souterraine par des BTEX a été mis en évidence en juillet 2005, localement, en aval hydraulique du bâtiment de production du site.	'BTEX'	
+2006	07	28		2006	07	28		cessation_d__activité_est_prévue	Un courrier du 24 mai 2006 indique que la cessation d'activité est prévue le 28 juillet 2006.		

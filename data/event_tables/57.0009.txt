@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03	06		2013	03	06		de_la_dernière_visite_d__inspection	Lors de la dernière visite d'inspection le 6 mars 2013, il a été constaté que :		
+2013	03	06		2013	03	06		Une_visite	Une visite qualifiée d’approfondie a été réalisée le 06 mars 2013 sur le site avec pour objectifs de constater l’avancement des travaux, le respect des prescriptions de l’arrêté susvisé et de faire le point sur la surveillance effectuée.		
+2007	04			2007	04			1ère_phase_du_diagnostic_approfondi	- 1ère phase du diagnostic approfondi : mars - avril 2007 : Une pollution des sols et de la nappe par des HAP a été mise en évidence.	'des HAP'	
+				2000				a_été_exploité	L’ancien dépôt pétrolier TOTAL (ex DEA les Calmes) a été exploité à partir de 1927 pour le stockage et le négoce de produits pétroliers (fuel domestique, gasoil, supercarburants, lubrifiants) et d’acétone jusqu’en 2000.	'produits pétroliers', 'fuel', 'gasoil', 'supercarburants', 'lubrifiants'	'TOTAL', 'DEA les Calmes'
+1938				1955				la_destruction_de	Plusieurs sinistres sont intervenus dont la destruction de 4 réservoirs entre 1938 et 1955 et l’incendie d’un réservoir de fuel domestique entre 1973 et 1975.	'fuel domestique'	
+								a_été_mise_en	- 1ère phase du diagnostic approfondi : mars - avril 2007 : Une pollution des sols et de la nappe par des HAP a été mise en évidence.	'des HAP'	
+2006				2006				a_remis_un_mémoire_de_cessation_d__activités	L’exploitant a remis un mémoire de cessation d’activités en 2006.		
+1973				1975				l__incendie_d_	Plusieurs sinistres sont intervenus dont la destruction de 4 réservoirs entre 1938 et 1955 et l’incendie d’un réservoir de fuel domestique entre 1973 et 1975.	'fuel domestique'	
+1927				1927				a_été_exploité	L’ancien dépôt pétrolier TOTAL (ex DEA les Calmes) a été exploité à partir de 1927 pour le stockage et le négoce de produits pétroliers (fuel domestique, gasoil, supercarburants, lubrifiants) et d’acétone jusqu’en 2000.	'produits pétroliers', 'fuel', 'gasoil', 'supercarburants', 'lubrifiants'	'TOTAL', 'DEA les Calmes'
+								1ère_phase_du_diagnostic_approfondi	- 1ère phase du diagnostic approfondi : mars - avril 2007 : Une pollution des sols et de la nappe par des HAP a été mise en évidence.	'des HAP'	
+2007	04			2007	04			a_été_mise_en	- 1ère phase du diagnostic approfondi : mars - avril 2007 : Une pollution des sols et de la nappe par des HAP a été mise en évidence.	'des HAP'	
+2008	05			2008	05			La_réunion	La réunion de mai 2008 a permis de faire le point sur la caractérisation des HAP sur le site :	'HAP'	
+2000				2003				ont_été_démantelées	Les installations ont été démantelées entre les années 2000 et 2003.		

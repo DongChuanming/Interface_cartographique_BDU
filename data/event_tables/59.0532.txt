@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970	1969			1970	1969			construit	-Bâtiment lié à l'usine Peugeot (fiche 59.0153), construit en 1969/1970.		
+2008	02			2008	02			_Cessation_d__activité	-Cessation d'activité: février 2008.		
+1998	02			1998	02			cessation_d__activité	-Dossier de cessation d'activité en février 1998.		
+1998	01			1998	01			_Études_environnementale	-Études environnementale réalisée en janvier 1998.		

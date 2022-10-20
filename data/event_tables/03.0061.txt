@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				cessent_leurs_activités	Les Forges cessent leurs activités en 1983.		
+2010	07	27		2010	07	27		est_autorisée_par	Le 27/07/2010, la société BREALU est autorisée par arrêté préfectoral à poursuivre l'exploitation sur l'ancien site R.		'la société BREALU'
+2011	02			2011	02			prend_la_suite_de	En février 2011, suite à la cession partielle des activités de la société BREALU, la société DMI VAUX prend la suite de l'exploitation.		'la société BREALU', 'la société DMI VAUX'
+				2008				est_réalisé_à_même_le_sol	Ce stockage illégal, constaté par l'inspection des installations classées en 2006 mais continué jusqu'en 2008, est réalisé à même le sol et notamment à l'arrière de l'usine (partie de la parcelle n° 67).		

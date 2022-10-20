@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1974				a_accueilli	Il a accueilli jusqu'en 1974 l'activité d'ateliers de maintenance ferroviaire puis, de 1974 à 2011, le site a accueilli une plateforme logistique constituée de plusieurs entrepôts avec parkings.		
+2013	10			2013	10			les_travaux_de_réhabilitation_achevés	Le plan de gestion proposé par la société Schenker-Joyau a été approuvé par l'autorité compétente en juin 2013, les travaux de réhabilitation achevés en octobre 2013 et la cessation d'activité a été actée le 8 janvier 2015.		'la société Schenker'
+2015	01	08		2015	01	08		cessation_d__activité	Le plan de gestion proposé par la société Schenker-Joyau a été approuvé par l'autorité compétente en juin 2013, les travaux de réhabilitation achevés en octobre 2013 et la cessation d'activité a été actée le 8 janvier 2015.		'la société Schenker'
+				2016	06			a_été_réalisée	La surveillance des eaux souterraines a été réalisée jusqu'en juin 2016 et le bilan quadriennal a montré:		
+2011				2011				une_déclaration	En 2011, une déclaration de cessation d'activité à été déposée.		
+2011	12			2011	12			Des_travaux_de_mise_en_sécurité	Des travaux de mise en sécurité ont été effectués en décembre 2011.		
+1974				2011				a_accueilli	Il a accueilli jusqu'en 1974 l'activité d'ateliers de maintenance ferroviaire puis, de 1974 à 2011, le site a accueilli une plateforme logistique constituée de plusieurs entrepôts avec parkings.		
+2013	06			2013	06			a_été_approuvé	Le plan de gestion proposé par la société Schenker-Joyau a été approuvé par l'autorité compétente en juin 2013, les travaux de réhabilitation achevés en octobre 2013 et la cessation d'activité a été actée le 8 janvier 2015.		'la société Schenker'
+2015	01	08		2015	01	08		les_travaux_de_réhabilitation_achevés	Le plan de gestion proposé par la société Schenker-Joyau a été approuvé par l'autorité compétente en juin 2013, les travaux de réhabilitation achevés en octobre 2013 et la cessation d'activité a été actée le 8 janvier 2015.		'la société Schenker'

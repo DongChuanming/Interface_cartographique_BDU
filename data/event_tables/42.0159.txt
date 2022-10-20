@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1998	1995			unité_d__incinération	La Mairie de Sail-sous-Couzan a exploité, sur sa commune entre les lieux dits « Les Grands Champs » et « Crémières », une unité d’incinération de déchets ménagers de 1983 à 1995/1998.		'La Mairie'
+1983	05			1983	05			réalisé	Selon l’étude d’impact réalisé en mai 1983, l’incinérateur était conçu pour traiter environ 500 tonnes de déchets par an permettant de traiter les ordures ménagères de 1500 habitants et 300 estivants.	'les ordures ménagères'	
+1983	10	25		1983	10	25		a_été_autorisé	Cet UIOM a été autorisé par l'arrêté préfectoral du 25 octobre 1983.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				a_accueilli	Le site a accueilli un dépôt de carcasses de véhicules hors d'usage (VHU)à partir de 1983, étant réglementé par  l'Arrêté d'autorisation du 28 octobre 1983.		
+2009				2009				activité_aurait_cessé	L'activité aurait cessé en 2009 mais aucune notification de cessation d'activité n'a été transmise au Préfet.		
+2014	07			2014	07			une_visite_d__inspection	Suite à une plainte, une visite d'inspection a eu lieu en juillet 2014 : il n'a pas été constaté, en surface, de pollution notable qui aurait pu être laissée par le précédent exploitant.		
+1983	10	28		1983	10	28		a_accueilli	Le site a accueilli un dépôt de carcasses de véhicules hors d'usage (VHU)à partir de 1983, étant réglementé par  l'Arrêté d'autorisation du 28 octobre 1983.		

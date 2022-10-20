@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			ont_été_réalisés	Dans le cadre de la reconversion du site par l'EPFN, une note sur la qualité des eaux souterraines dans le puits, une synthèse des études environnementales et un diagnostic complémentaire de la qualité des sols ont été réalisés en avril 2014.		"l' EPFN"
+2012				2012				devient_propriétaire	La CAPF (Communauté d'Agglomération du Pays de Flers) devient propriétaire du site en 2012.		'La CAPF', "Communauté d' Agglomération"
+2014				2014				a_été_démoli	Le bâtiment situé sur la parcelle 190, présentant des risques d'effondrement, a été démoli en 2014.		
+1998				1998				prend_le_nom_de_Société	Elle prend le nom de Société Nouvelle SONOFOQUE en 1998.		'Société Nouvelle SONOFOQUE'
+1988				1988				occupera	En 1907, la SGFTF (Société générale des Filatures et Tissages de Flers) est formée et occupera les locaux jusqu'en 1988.		'la SGFTF', 'Société générale des Filatures'
+2016				2016				a_lui_aussi_été_démoli	Le bâtiment situé sur la parcelle 197 a lui aussi été démoli en 2016.		
+2005				2005				se_porte_acquéreur	En 2005, l'EPFN se porte acquéreur du site et prend en charge sa reconversion.		"l' EPFN"
+2003	01	1		2003	01	1		a_suspendu	Face à la vétusté des installations et des bâtiments, le préfet a suspendu le fonctionnement de l'entreprise, situé sur le site rue du champ de foire, le 1er janvier 2003.		'le préfet'
+1877				1907				fut_utilisé	Le site fut utilisé par la société Frémont entre 1877 et 1907 pour des activités de tissage, de teinture et de filature.		'la société Frémont'

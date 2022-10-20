@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	03	20		2019	03	20		a_constaté_la_mise_en_sécurité	Dans le cadre de la cessation d'activité de l'installation, l'inspection a constaté la mise en sécurité du site suite à une visite d'inspection le 20 mars 2019.		
+2018				2019				des_travaux_de_dépollution	Suite aux résultats des études, des travaux de dépollution ont été effectués entre fin 2018 et mi-2019.		
+1972				1972				a_été_agrandi	D’après l’étude historique, le site a été construit sur un terrain agricole vierge en 1965 puis a été agrandi en 1972 et en 1980.		
+2019	03	20		2019	03	20		une_visite	Dans le cadre de la cessation d'activité de l'installation, l'inspection a constaté la mise en sécurité du site suite à une visite d'inspection le 20 mars 2019.		
+1980				1980				a_été_agrandi	D’après l’étude historique, le site a été construit sur un terrain agricole vierge en 1965 puis a été agrandi en 1972 et en 1980.		
+1980				1980				a_été_construit_sur_un_terrain_agricole	D’après l’étude historique, le site a été construit sur un terrain agricole vierge en 1965 puis a été agrandi en 1972 et en 1980.		
+1972				1972				a_été_construit_sur_un_terrain_agricole	D’après l’étude historique, le site a été construit sur un terrain agricole vierge en 1965 puis a été agrandi en 1972 et en 1980.		
+2018	04			2018	04			un_diagnostic_initial	Sur la base d'un diagnostic initial (avril 2018) et d'un plan de gestion (septembre 2018) transmis par l'exploitant, l'administration a encadré les travaux de remise en état du site par l'arrêté préfectoral du 25 février 2019.		
+1965				1965				a_été_construit_sur_un_terrain_agricole	D’après l’étude historique, le site a été construit sur un terrain agricole vierge en 1965 puis a été agrandi en 1972 et en 1980.		

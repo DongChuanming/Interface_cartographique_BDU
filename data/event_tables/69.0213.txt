@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Les_travaux_ont_débutés	Les travaux ont débutés le 27 aout 2012 pour se terminer le 31 octobre de la même année.		
+2004	02	13		2004	02	13		Un_diagnostic_initial	Un diagnostic initial de l'état des sols a été réalisés par la société SOCOTEC en date du 13/02/2004. 17 sondages ont été réalisés jusqu'à une profondeur de 5 m et un piézomètre à été implanté à l'aval du site.		'la société SOCOTEC'
+2013	09	05		2013	09	05		de_la_dernière_campagne	Lors de la dernière campagne du 05/09/2013, la concentration en Chrome total était de 50 µg/l et celle de Chrome VI de 79 µg/l.	'Chrome total', 'Chrome VI'	
+2012	11	09		2012	11	09		est_en_place	Un suivi de la qualité des eaux souterraines est en place sur le site depuis le 08/12/2008 et à ensuite été imposé par le biais de l'arrêté préfectoral du 09/11/2012.		
+2013	04	16		2013	04	16		a_été_rédigé	Un rapport de fin de travaux de réhabilitation a été rédigé par ARCADIS en date du 16/04/2013.		'ARCADIS'
+								d__une	- L'augmentation de la fréquence des analyses des eaux souterraines à raison d'une fois tous les 15 jours pendant la période de dépollution des terres au droit de l'atelier de chromage ;		
+2013	03	25		2013	03	25		à_la_campagne	Des dépassements des valeurs seuils fixées par l'arrêté du 17/12/2008 ont été observés jusqu'à la campagne du 25/03/2013 (incluse).		
+1919				1919				s__est_installé	La société KELLER DORIAN GRAVEUR (KD GRAVEUR) s'est installé sur le site en 1919.		'La société KELLER DORIAN GRAVEUR', 'KD GRAVEUR'
+1993	12	22		1993	12	22		a_été_réglementée	Son activité a été réglementée par l'arrêté préfectoral d'autorisation d'exploiter du 11/01/1959, dont la dernière mise à jour à été signé en date du 22/12/1993.		
+2009	01			2009	01			son_diagnostic_environnemental	Les résultats de ces investigations ont été repris par ARCADIS dans son diagnostic environnemental du mois de janvier 2009.		'ARCADIS'
+2007	11			2007	11			Un_diagnostic_complémentaire_des_sols	Un diagnostic complémentaire des sols a été effectué au mois de novembre 2007 par le bureau d'étude URS. 9 sondages ont alors été réalisés et les échantillons ont exclusivement fais l'objet d'analyse pour la recherche de COHV.	'COHV'	'URS'
+2008	12	08		2008	12	08		est_en_place	Un suivi de la qualité des eaux souterraines est en place sur le site depuis le 08/12/2008 et à ensuite été imposé par le biais de l'arrêté préfectoral du 09/11/2012.		
+2006	09	07		2006	09	07		la_cessation_d__activité	La société tombe en redressement judiciaire en décembre 2002 et la cessation d'activité de KELLER DORIAN GRAPHICS a été acté le 07/09/2006.		'KELLER DORIAN GRAPHICS'
+2006	09	07		2006	09	07		tombe_en_redressement_judiciaire	La société tombe en redressement judiciaire en décembre 2002 et la cessation d'activité de KELLER DORIAN GRAPHICS a été acté le 07/09/2006.		'KELLER DORIAN GRAPHICS'
+								la_période_de_dépollution	- L'augmentation de la fréquence des analyses des eaux souterraines à raison d'une fois tous les 15 jours pendant la période de dépollution des terres au droit de l'atelier de chromage ;		
+2002	12			2002	12			tombe_en_redressement_judiciaire	La société tombe en redressement judiciaire en décembre 2002 et la cessation d'activité de KELLER DORIAN GRAPHICS a été acté le 07/09/2006.		'KELLER DORIAN GRAPHICS'
+2005				2005				Un_diagnostic_complémentaire	Un diagnostic complémentaire ainsi qu'une EDR ont été rédigé par SOCOTEC fin 2005. 15 nouveaux sondages ont été réalisés et 2 piézomètres implantés sur le site confirmant la pollution des sols en :		'SOCOTEC'
+2007	05	02		2007	05	02		a_été_signé_en	Un arrêté a été signé en ce sens le 02/05/2007.		
+2000	10	31		2000	10	31		reprends	Le 31/10/2000, la société KELLER DORIAN GRAPHICS reprends l'activité de KD GRAVEUR à l'exception de l'installation de chromage.		'la société KELLER DORIAN GRAPHICS', 'KD GRAVEUR'
+								Les_travaux_ont_débutés	Les travaux ont débutés le 27 aout 2012 pour se terminer le 31 octobre de la même année.		
+1993	12	22		1993	12	22		à_été_signé	Son activité a été réglementée par l'arrêté préfectoral d'autorisation d'exploiter du 11/01/1959, dont la dernière mise à jour à été signé en date du 22/12/1993.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			de_la_visite_d__inspection	Lors de la visite d'inspection de juin 2010, l'inspection a constaté que le site avait été recolonisé par une végétation spontanée.		
+1992	1991			1992	1991			Etude_diagnostic	Etude diagnostic réalisée en 1991/1992.		
+2007	02	07		2007	02	07		a_été_réimplanté	Bien que cette étude conclut que PZ4 n'est pas ouvrage sentinelle, celui a été réimplanté le 7 février 2007.		
+2009	09			2009	09			des_travaux_envisagés	L'exploitant a remis une étude descriptive des travaux envisagés en septembre 2009 pour laquelle l'inspection des installations classées a demandé des compléments.		
+2007	11			2007	11			Les_analyses_de	Les analyses de novembre 2007 montrent que sur les points de contrôle, pour tous les paramètres recherchés, les teneurs sont conformes aux exigences de qualité des eaux douces superficielles ou à la norme eau potable.		
+2003	01	23		2003	01	23		une_Evaluation_Simplifiée_des_Risques	Bail Industrie a remis à la DRIRE le 23 janvier 2003, une Evaluation Simplifiée des Risques relative à ce site et aux trois autres directement liés à l'ancienne usine de Rehon.		'la DRIRE'
+2009	01			2009	01			a_été_mis_en_demeure	L'exploitant a été mis en demeure en janvier 2009 de respecter l'arrêté préfectoral de 2006 prescrivant la mise en sécurité du site.		
+1964				1987				constitué	Crassier constitué de 1964 à 1987, de poussières de gaz de hauts fourneaux, sulfate de fer, boues de laminoirs, décombres divers.	'sulfate', 'de fer'	
+2012				2012				ont_été_transmis	L'avis de l'hydrogéologue expert sur le contexte hydrogéologique du site, ainsi que l'étude faunistique et floristique ont été transmis au Préfet fin 2012.		
+1995	05	11		1995	05	11		établie	Le risque liée à la présence du crassier avait été appréhendé, par l'hydrogéologue agréé lors de la constitution de la DUP ( Déclaraion d' Utilité Publique), relative à la protection du captage, établie le 11 mai 1995.		
+1995	05	11		1995	05	11		avait_été_appréhendé	Le risque liée à la présence du crassier avait été appréhendé, par l'hydrogéologue agréé lors de la constitution de la DUP ( Déclaraion d' Utilité Publique), relative à la protection du captage, établie le 11 mai 1995.		
+2009	09			2009	09			a_demandé	L'exploitant a remis une étude descriptive des travaux envisagés en septembre 2009 pour laquelle l'inspection des installations classées a demandé des compléments.		

@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	31		2012	05	31		Plan_de_gestion	- Plan de gestion du site (DEKRA) en date du 31 mai 2012		'DEKRA'
+1956	05	05		1956	05	05		de_déclaration	- De 1956 – 1980 : exploitation de la parcelle par la société Française des pétroles BP (récépissés de déclaration en dates des 05/05/1956, 15/04/1961 et 09/04/1965).		'par la société Française des pétroles BP'
+2015	09	02		2015	09	02		a_été_signée	L'arrêté préfectoral instituant les servitudes d'utilité publique a été signée le 02/09/2015.		
+2011	09	09		2011	09	09		établi	- Rapport de complément n°1 de diagnostic des sols (DELRA) établi le 9 septembre 2011		
+2010				2010				____Activité_de_garage_automobile_exercée	- De 1985 – 2010 : Activité de garage automobile exercée par la société AD.		'par la société AD'
+								est_utilisé_pour	- 20 ème siècle : le local en fond de parcelle est utilisé pour du stockage de petites fournitures et d’archives.		
+1956				1956				____exploitation	- De 1956 – 1980 : exploitation de la parcelle par la société Française des pétroles BP (récépissés de déclaration en dates des 05/05/1956, 15/04/1961 et 09/04/1965).		'par la société Française des pétroles BP'
+1985				1985				____exploitation	- De 1980 – 1985 : exploitation par M.		
+1985				1985				____Activité_de_garage_automobile_exercée	- De 1985 – 2010 : Activité de garage automobile exercée par la société AD.		'par la société AD'
+2011	05	04		2011	05	04		__établi	- Rapport historique des sols (DEKRA) établi le 4 mai 2011		'DEKRA'
+				1961	04	15		de_déclaration	- De 1956 – 1980 : exploitation de la parcelle par la société Française des pétroles BP (récépissés de déclaration en dates des 05/05/1956, 15/04/1961 et 09/04/1965).		'par la société Française des pétroles BP'
+2012	01	27		2012	01	27		Évaluation_quantitative	- Évaluation quantitative des risques sanitaires (DEKRA) du 27 janvier 2012		'DEKRA'
+2014	06	19		2014	06	19		s__est_rendue	L’inspection s’est rendue, sur site, le 19 juin 2014 accompagnée de l’EPASE.		
+2011	07	21		2011	07	21		établi	- Rapport de diagnostic des sols (DEKRA) établi le 21 juillet 2011		'DEKRA'
+1980				1980				____exploitation	- De 1980 – 1985 : exploitation par M.		
+2013	07	11		2013	07	11		a_communiqué	Par courrier du 11 juillet 2013, l’Établissement Public d’Aménagement de SAINT ETIENNE (EPASE) a communiqué à l’Inspection des installations classées les documents suivants :		'Établissement Public d’ Aménagement', 'de SAINT ETIENNE'
+2012	04	27		2012	04	27		établi	- Rapport de complément n°2 de diagnostic des sols (DELRA) établi le 27 avril 2012		
+1980				1980				____exploitation	- De 1956 – 1980 : exploitation de la parcelle par la société Française des pétroles BP (récépissés de déclaration en dates des 05/05/1956, 15/04/1961 et 09/04/1965).		'par la société Française des pétroles BP'
+1980	03	28		1980	03	28		de_déclaration	BLANC (récépissé de déclaration en date du 28/03/1980)		
+								du_stockage_de_petites_fournitures	- 20 ème siècle : le local en fond de parcelle est utilisé pour du stockage de petites fournitures et d’archives.		
+2015	07	06		2015	07	06		de_la_séance	A l'issue de la procédure simplifiée de mise en œuvre de Servitudes d'Utilité Publique sur un ancien site industriel pollué prévue par l'article L.515-12 et définie par les articles R.515-24 et R.515-28 du code de l'environnement, l'inspection des installations classées a reçu lors de la séance du 6 juillet 2015 un avis favorable des membres du Conseil Département de l'Environnement et des Risques Sanitaires et Technologiques sur le projet de Servitudes d'Utilité Publique.		

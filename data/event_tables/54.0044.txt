@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				ont_été_aménagés	Les deux nouveaux bassins ont été aménagés en 1985 sur une parcelle voisine, leur superficie est de 2 ha.		
+2002				2002				Des_travaux	Des travaux consistant à la réalisation, en partie supérieure des bassins, d'un fossé de collecte des eaux de ruissellement, afin de limiter les infiltrations dans les boues et l'interface boues/éboulis calcaires ont été réalisés en 2002.		
+2007	11			2007	11			Les_analyses_de	Les analyses de novembre 2007 montrent que sur les points de contrôle, pour tous les paramètres recherchés, les teneurs sont conformes aux exigences de qualité des eaux douces superficielles ou à la norme eau potable.		
+1911				1986				créés	11 bassins créés entre 1911 et 1986, disposés à flanc de coteau surplombant la vallée de la Chiers, et constitués de boues de lavage de gaz de hauts fourneaux et de boues d'aciéries de l'ancienne usine sidérurgique de Rehon.		
+2003	01	23		2003	01	23		une_Evaluation_Simplifiée_des_Risques	Bail Industrie, représentant l'ancien exploitant, a remis à la DRIRE le 23 janvier 2003, une Evaluation Simplifiée des Risques relative à ce site et aux trois autres directement liés à l'ancienne usine de Rehon.		'Bail Industrie', 'la DRIRE'
+				1988				ont_été_exploités	Ils ont été exploités jusqu'en 1988 et ont reçu des boues en provenance du système de dépoussièrage de l'aciérie à oxygène et de lavage des filtres de la coulée continue.		

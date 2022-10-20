@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_remis	Le rapport d'étude a été remis par l'exploitant en milieu d'année 2001.		
+2000	02	28		2000	02	28		une_évaluation_simplifiée_des_risques	Le site relevant de la circulaire du 3 avril 1996, une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 28 février 2000.		
+1996	04	03		1996	04	03		une_évaluation_simplifiée_des_risques	Le site relevant de la circulaire du 3 avril 1996, une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 28 février 2000.		
+1992				1992				est_en_place	Un suivi de la qualité des eaux souterraines est en place sur le site depuis 1992 avec des analyses effectuées tous les deux mois.		

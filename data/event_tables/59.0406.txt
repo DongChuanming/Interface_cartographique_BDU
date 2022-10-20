@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			Opération_de_dépollution	- Opération de dépollution d'avril 2000 à mars 2002 (excavation de terres polluées et élimination des hydrocarbures en phase libre sur la nappe)	'hydrocarbures'	
+2012	11			2012	11			Enlèvement_des_déchets_sur_site	- Enlèvement des déchets sur site et des installations prévue en novembre 2012.		
+1998	11			1998	11			Réalisation_d__un_diagnostic_environnemental	- Réalisation d'un diagnostic environnemental en novembre 1998, celui-ci révèle une pollution des sols et des eaux souterraines.		
+2009	05			2009	05			écrémage	- Depuis mai 2009, écrémage manuel mensuellement jusqu'en février 2011.		
+2000	04			2000	04			Opération_de_dépollution	- Opération de dépollution d'avril 2000 à mars 2002 (excavation de terres polluées et élimination des hydrocarbures en phase libre sur la nappe)	'hydrocarbures'	
+2005	04	12		2005	04	12		La_campagne_d__évaluation	- La campagne d'évaluation de la qualité des eaux souterraines effectuée le 12/04/2005 a permis de mettre en évidence la présence d'une phase hydrocarbures surnageante au droit de la nappe d'eau souterraines (nappe des alluvions de la Scarpe).	'hydrocarbures'	
+2012	11			2012	11			installations_prévue	- Enlèvement des déchets sur site et des installations prévue en novembre 2012.		

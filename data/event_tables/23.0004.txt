@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1905				1955				a_produit	De 1905 à 1955 la mine a produit environ 585 000 t de minerai contenant plus de 15 t d'or.		
+1998	09			1998	09			La_liquidation_judiciaire	La liquidation judiciaire de la Société Minière et Métallurgique du Châtelet a été close en septembre 1998.		'la Société Minière et Métallurgique'
+1998	06			1998	06			a_été_produit	Le site a fait l’objet d’une étude de risques par l’ADEME dont le rapport final (FG/REHA/607 89/98.003) a été produit en juin 1998.		
+2011				2011				est_clôturé	Depuis mi-2011, le site est clôturé et les déchets arséniés sont confinés (recouverts ou entreposés en alvéole).	'les déchets arséniés'	
+2002	06	26		2002	06	26		une_réunion_de_présentation	Le 26 juin 2002, une réunion de présentation de l’Avant Projet Sommaire a eu lieu.		
+2000	05	19		2000	05	19		a_été_réceptionnée	La clôture complète du site a été réceptionnée le 19 mai 2000.		
+2001				2001				des_campagnes_de_prélèvements	Outre les travaux de mise en sécurité (clôture), Parallèlement, l’ADEME a fait réaliser en 2001 et 2002, des campagnes de prélèvements dans les eaux superficielles et souterraines pour en analyser la teneur en arsenic (As) et la répartition entre sa forme trivalente (As III) qui est à la fois la forme toxique et la plus mobile et sa forme pentavalente (As V) moins mobile et bien moins toxique.	'arsenic', 'As', 'As III', 'As'	
+2002				2002				des_campagnes_de_prélèvements	Outre les travaux de mise en sécurité (clôture), Parallèlement, l’ADEME a fait réaliser en 2001 et 2002, des campagnes de prélèvements dans les eaux superficielles et souterraines pour en analyser la teneur en arsenic (As) et la répartition entre sa forme trivalente (As III) qui est à la fois la forme toxique et la plus mobile et sa forme pentavalente (As V) moins mobile et bien moins toxique.	'arsenic', 'As', 'As III', 'As'	
+2003	06			2003	06			Les_travaux_devaient_s__échelonner	Les travaux devaient s’échelonner de juin 2003 à fin 2004.		
+2004				2004				Les_travaux_devaient_s__échelonner	Les travaux devaient s’échelonner de juin 2003 à fin 2004.		
+								un___point_zéro	Dans ce cadre, l'ADEME a fait réaliser par le cabinet IRH Ingénieur Conseil un "point zéro" qui a duré 8 semaines (15/10 au 22/12/2009) sur l'eau, l'air et les végétaux (rapport du 8 avril 2010).		'le cabinet IRH Ingénieur'
+2012				2012				est_revégétalisé	En 2012, le site est revégétalisé.		
+1998	06			1998	06			une_étude_de_risques	Le site a fait l’objet d’une étude de risques par l’ADEME dont le rapport final (FG/REHA/607 89/98.003) a été produit en juin 1998.		
+2010	04	08		2010	04	08		un___point_zéro	Dans ce cadre, l'ADEME a fait réaliser par le cabinet IRH Ingénieur Conseil un "point zéro" qui a duré 8 semaines (15/10 au 22/12/2009) sur l'eau, l'air et les végétaux (rapport du 8 avril 2010).		'le cabinet IRH Ingénieur'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10	06		2008	10	06		pris	Révision des prescriptions relatives à la surveillance de la qualité des eaux souterraines par arrêté préfectoral pris le 06 octobre 2008.		
+2007	12	06		2007	12	06		prélevées	Enfin, les résultats des analyses des eaux souterraines prélevées le 06/12/2007 indiquent des concentrations d'hydrocarbures inférieures à 30 µg/l sur les trois piézomètres.	'hydrocarbures'	
+2002	06	06		2002	06	06		a_été_prescrite	L'ESR a été prescrite par AP du 06/06/2002.		"L' ESR"

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	02			1996	02			a_été_arrêté	Un traitement de dépollution a été mis en place en juin 1995 et a été arrêté en février 1996.		
+1976	07	19		1976	07	19		a_été_occupé	Le site a été occupé jusqu'en 1994 par des activités de stockage et conditionnement des solvants pétroliers de la société PCV (Produits Chimiques de Vitry), soumise à autorisation au titre de la loi du 19/07/1976.	'solvants pétroliers'	'la société PCV', 'Produits Chimiques de Vitry'
+				2000				a_été_réalisé	Il a été réalisé par BRENNTAG jusqu'en 2000.		
+1996				1996				a_été_vendue	La partie du site qui était propriété d'une personne privée a été vendue en 1996 à la SCI Orée du Bois pour y réaliser des activités industrielles avec l'implantation de la Société SORIMETAL, devenue REVIVAL.		'la SCI Orée', 'la Société SORIMETAL', 'REVIVAL'
+1995	06			1995	06			traitement_de_dépollution	Un traitement de dépollution a été mis en place en juin 1995 et a été arrêté en février 1996.		
+1996				1996				est_effectué	Un suivi de la qualité des eaux souterraines est effectué depuis 1996.		
+				1994				a_été_occupé	Le site a été occupé jusqu'en 1994 par des activités de stockage et conditionnement des solvants pétroliers de la société PCV (Produits Chimiques de Vitry), soumise à autorisation au titre de la loi du 19/07/1976.	'solvants pétroliers'	'la société PCV', 'Produits Chimiques de Vitry'
+1994	06			1994	06			un_diagnostic_de_pollution	Dans le cadre de la cessation d'activité de GUELIC, un diagnostic de pollution du sol et de la nappe a été réalisé en juin 1994.		'GUELIC'

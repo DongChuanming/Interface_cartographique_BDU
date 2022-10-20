@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	06		2003	01	06		a_été_approuvé	Un rapport de constat de fin de travaux a été approuvé le 06 janvier 2003 (site banalisé).		
+2004				2004				ont_été_réalisés	Ils ont été réalisés fin 2004 et confirment la pollution du site et son classement en 1 (site nécessitant des investigations approfondies et une étude détaillée des risques (EDR)) pour la contamination des sols, voire des eaux superficielles (bien que le diagnostic n'ait pas mis en évidence de contamination des eaux, ni superficielles ni souterraines)		
+2002				2002				au_cours_de	Les travaux de dépollution ont été réalisés au cours de l'été 2002.		
+								ont_été_démantelées	Les installations ont été démantelées dans les années 1970, à l'exception d'un bâtiment situé en partie nord (en amont hydraulique ), doté d'une couverture en amiante ciment.	'amiante ciment'	
+1907				1965				siège_d_	Entre 1907 et 1965, le site a été le siège d'un établissement spécialisé dans la fabrication d'engrais exploité par la Société DIOR.		'la Société DIOR'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05			2009	05			Une_analyse	Une analyse des risques résiduels a été menée en mai 2009.		
+2008				2008				a_été_mis_en_place	Un traitement complémentaire pour les solvants contenus dans les eaux de la nappe a été mis en place, à l’automne 2008, par une technique dite d’oxydation in situ. 8 tonnes d'oxydants (Réactif de Fenton) ont ainsi été injectées dans la nappe.	'les solvants'	
+2009	11			2009	11			a_été_reçu	Un rapport de fin de travaux a été reçu par les services de l'Inspection en novembre 2009.		
+2015	06			2015	06			une_hausse	La hausse observée en décembre 2015 se poursuit, on note une hausse des concentrations, principalement en TCE depuis juin 2015.		
+1990				1990				a_été_libéré	Le terrain d'une superficie de 33713 m² a été libéré par la société Thomson en 1990 et réutilisé en zone industrielle .		'la société Thomson'
+2013	06	12		2013	06	12		a_été_reçu	Un dossier de demande d'institution de Servitudes d'Utilité Publique a été reçu par l'inspection des installations classées, et a a donné lieu à l'arrêté préfectoral instituant des SUP, signé par le préfet le 12 juin 2013.		'le préfet'
+2016	06			2016	06			La_campagne_de_suivi_de	La campagne de suivi de Juin 2016 a permis de constater les éléments suivants :		
+2002				2002				Des_investigations_de_sols_réalisées	Des investigations de sols réalisées en 2002 ont montré au droit de l’entreprise Thalès à Puiseaux, une pollution importante de la nappe par des solvants et en particulier par le  trichloréthylène.	'le   trichloréthylène'	'Thalès'
+2011	12	26		2011	12	26		a_statué	Suite à ces constats, l'inspection des installations classées a statué sur une impossibilité d'arrêter la surveillance de la qualité des eaux souterraines comme l'a demandé l'exploitant par courrier du 15 mars 2017, imposée par l'arrêté préfectoral du 26 décembre 2011.		

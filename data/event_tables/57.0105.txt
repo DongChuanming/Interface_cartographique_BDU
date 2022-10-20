@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				L_	L’année 1974 a marqué l’arrêt de l’usine à l’exception des agglomérations.		
+1872				1872				a_été_construite	L’usine de Micheville a été construite en 1872.		
+1986				1986				a_cessé_ses_activités	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+1985				1985				a_cessé_ses_activités	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+2015	03			2015	03			réalisé_par	- « Bassin à boues de Micheville - Etude complémentaire », réalisé par le bureau d'études LECES en mars 2015 et référencé RC25778		'LECES'
+1974				1974				a_marqué_l__arrêt	L’année 1974 a marqué l’arrêt de l’usine à l’exception des agglomérations.		
+				1985				la_création_de	Certaines installations de production d’acier ont toutefois continué à fonctionner (four électrique, blooming, train de 700 et ateliers de parachèvement) avec la création de la Société des Laminoirs de Villerupt jusqu’en 1985.		'la Société des Laminoirs'
+1986				1986				a_été_définitivement_fermé	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+2008				2008				a_procédé	En 2008, le représentant de l'ancien et dernier exploitant a procédé à la caractérisation des boues en surface du bassin à boues du haut dans le but de vérifier sur ce site l’absence de substances volatiles susceptibles d’être véhiculées par la voie inhalation.	'substances volatiles'	
+2014	10			2014	10			réalisé	- « Etude de l’impact potentiel de l’ancien bassin à boues du Haut sur les eaux souterraines », réalisé par ANTEA en octobre 2014		'ANTEA'
+1986				1986				acquiert	En 1986, l’EPML acquiert les terrains.		'l’ EPML'

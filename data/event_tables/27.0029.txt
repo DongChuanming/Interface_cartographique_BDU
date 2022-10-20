@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_été_identifiée	Fin 1998 début 1999, la pollution a été identifiée lors de l'évaluation détaillée des pertes et de l'historique.		
+2008	04			2008	04			la_campagne_d_	Le dernier rapport date de février 2009, il semblerait que la phase libre ne soit plus détectée depuis la campagne d'avril 2008.		
+2002	10			2002	10			est_mis_en_place	Un nouveau pompage de rabattement de nappe est mis en place en octobre 2002.		
+2005	09			2005	09			est_réalisée	Ainsi, depuis septembre 2005, une surveillance de la qualité des eaux est réalisée, avec une fréquence trimestrielle.		
+2009	02	18		2009	02	18		informait	Ainsi, par courrier du 18 février 2009, la société informait l'inspection des installations classées de son projet pour la réalisation de nouveaux piézomètres.		
+1998				1998				a_été_identifiée	Fin 1998 début 1999, la pollution a été identifiée lors de l'évaluation détaillée des pertes et de l'historique.		
+1999	04	08		1999	04	08		les_premières_investigations	TOTAL RD informe la DRIRE le 15 mars 1999 et les premières investigations sont menées par GRS VALTECH afin de contrôler l'état du sous-sol (rapport du 8 avril 1999).		'TOTAL RD', 'la DRIRE', 'GRS VALTECH'
+								sont_implantés	Dans le cadre d'une surveillance de l'évolution des épaisseurs de flottant, 6 piézomètres sont implantés sur le site en avril et juin 1999, puis un puits de pompage/écrèmage courant 2009 (rapport du 27 juillet 1999).		
+2006	01			2006	01			est_mise_en_place	De plus, une nouvelle unité de pompage écrémage composée d'une pompe de rabattement, d'une pompe écrémeuse pneumatique et d'un décanteur/déshuileur est mise en place en janvier 2006.		
+1999	03	15		1999	03	15		informe	TOTAL RD informe la DRIRE le 15 mars 1999 et les premières investigations sont menées par GRS VALTECH afin de contrôler l'état du sous-sol (rapport du 8 avril 1999).		'TOTAL RD', 'la DRIRE', 'GRS VALTECH'
+1999	04	08		1999	04	08		informe	TOTAL RD informe la DRIRE le 15 mars 1999 et les premières investigations sont menées par GRS VALTECH afin de contrôler l'état du sous-sol (rapport du 8 avril 1999).		'TOTAL RD', 'la DRIRE', 'GRS VALTECH'
+1999	07	27		1999	07	27		sont_implantés	Dans le cadre d'une surveillance de l'évolution des épaisseurs de flottant, 6 piézomètres sont implantés sur le site en avril et juin 1999, puis un puits de pompage/écrèmage courant 2009 (rapport du 27 juillet 1999).		
+1999	06			1999	06			sont_implantés	Dans le cadre d'une surveillance de l'évolution des épaisseurs de flottant, 6 piézomètres sont implantés sur le site en avril et juin 1999, puis un puits de pompage/écrèmage courant 2009 (rapport du 27 juillet 1999).		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	22		2004	10	22		La_visite	La visite des lieux a été réalisée le vendredi 22 octobre 2004, par l'inspection des installations classées.		
+								ont_été_prescrites	Ces actions ont été prescrites à l'entreprise représentée par son liquidateur par arrêté du 28/01/05.		
+2007	01			2007	01			a_précisé	Le liquidateur a précisé  en janvier 2007 que le site précédemment occupé par la société NOGA Plastics avait été entièrement repris par son propriétaire, la SCI « les épinettes ».		'par la société NOGA Plastics', ', la SCI'
+2004	10	22		2004	10	22		a_été_placée_en_liquidation_judiciaire	L'entreprise NOGA-PLASTICS a été placée en liquidation judiciaire le 22 octobre 2004.		'entreprise NOGA - PLASTICS'
+2004	10	22		2004	10	22		des_constations_effectuées_lors_de_la_visite	En conséquence, compte tenu des constations effectuées lors de la visite du site du 22 octobre 2004, de la situation administrative de l'entreprise et de sa liquidation judiciaire prononcée le 22 octobre 2004, il a été proposé à Monsieur le Préfet d'imposer à la société NOGA PLASTICS (représentée par son liquidateur) les actions et études suivantes :		'le Préfet', 'la société NOGA PLASTICS'
+2008	09	11		2008	09	11		une_nouvelle_visite	Lors d'une nouvelle visite du site réalisée le 11 septembre 2008, l'inspecteur des installations classées a pu constater que tous les matériaux stockés à l'extérieur des bâtiments avaient été enlevés.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1943				1943				a_stocké	En 1943 le site a stocké le gaz produit à l’usine de Toulon La Loubiére dans les gazomètres.		
+1864				1941				a_accueilli	Le site a accueilli de 1864 à 1941/43 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1943				1943				ont_été_arrêtées	Les activités de l’usine (d’une superficie de 7700 m²) ont été arrêtées en 1943.		
+1998				1998				ont_été_vidées	Les cuves à goudron et solvant ont été vidées et nettoyées au début de l’année 1998.	'goudron', 'solvant'	
+1998				1998				au_début_de_l_	Les cuves à goudron et solvant ont été vidées et nettoyées au début de l’année 1998.	'goudron', 'solvant'	

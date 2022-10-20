@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				est_construit	En 1974 l'usine compte 103 cuves (ramenées à 50 en 99), un atelier de ségrégation est construit en 1977 avec un atelier pilote de fabrication d'aluminium UHP (Ultra Haute Pureté).	'aluminium UHP'	
+2006				2006				a_racheté	Fin 2006, la société PRAXAIR PHP SAS a racheté le site de Mercus, entériné par une déclaration de changement d'exploitant du 7 janvier 2007.		'la société PRAXAIR PHP'
+1967				1967				Commencent_les_essais	Commencent les essais du procédé au mercure en 1967 .	'mercure'	
+1970				1970				premiers_essais	En 1970 premiers essais de ségrégation.		
+2015	01	15		2015	01	15		en_dernier_lieu	Le site est réglementé par l'arrêté préfectoral du 13 octobre 2005 modifié le 16 août 2010 et en dernier lieu le 15 janvier 2015.		
+1953				1953				rachètent	En 1953, les " Abrasifs du Sud-Ouest " rachètent celle-ci.		'les " Abrasifs'
+2015	01	15		2015	01	15		a_prescrit	Un arrêté de surveillance pérenne pour le RSDE a prescrit le 15 janvier 2015 la surveillance du zinc, cuivre et nonylphénols.	'RSDE', 'zinc', 'cuivre', 'nonylphénols'	
+1918				1918				démarre	En 1918, la société Electrochimique de Mercus démarre une usine de Corindon.	'Corindon'	'la société Electrochimique de Mercus'
+								a_prescrit	En application de la circulaire du 5 janvier 2009 relative à la mise en œuvre de la 2ème phase de l'action nationale RSDE, un arrêté préfectoral en date du 21 janvier 2011 a prescrit pour une durée de 6 mois la recherche de substances dangereuses dans les eaux rejetées.	'substances dangereuses'	
+2007	01	07		2007	01	07		une_déclaration	Fin 2006, la société PRAXAIR PHP SAS a racheté le site de Mercus, entériné par une déclaration de changement d'exploitant du 7 janvier 2007.		'la société PRAXAIR PHP'
+1954				1954				met_en_route	La même année, PECHINEY en prend possession et dès 1954 met en route 22 cuves de raffinage d'aluminium.	'aluminium'	'PECHINEY'

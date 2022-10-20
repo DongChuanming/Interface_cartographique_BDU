@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				ont_été_menées	Des études complémentaires ont été menées fin 2008-2009.		
+2003	07	22		2003	07	22		de_déclaration	La société LEADER PRICE bénéfice d'un récépissé de déclaration en date du 22 juillet 2003 pour l'exploitation d'une station de distribution de carburants sise Rue de la Belle Orge à Raon l'Etape.	'carburants'	'La société LEADER PRICE'
+2008				2008				ont_été_menées	Des études complémentaires ont été menées fin 2008-2009.		
+2008				2008				Un_diagnostic_initial_des_sols	Un diagnostic initial des sols au droit de cette station a été réalisé en 2008 et a mis en évidence, à proximité d'une cuve de carburant, une contamination aux hydrocarbures des sols et des eaux souterraines.	'cuve de carburant', 'hydrocarbures'	

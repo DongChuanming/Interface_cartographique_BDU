@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06			1998	06			Evaluation_simplifiée_des_Risques	Evaluation simplifiée des Risques (Etape A) réalisée en juin 1998		
+1999	05			1999	05			réalisée_en	ESR (étape B) réalisée en mai 1999		'ESR'

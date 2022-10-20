@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10			2007	10			de_l__ancien	La société  avait repris l'établissement après une liquidation judiciaire de l'ancien exploitant en octobre 2007.		
+								d__une_capacité	La Fonderie Mayennaise était une fonderie disposant de deux fours de fusion électrique (d'une capacité maximale de 45t/j) réglementée par arrêté préfectoral du 30 juillet 2009.		
+								000_tonnes_par_an	La production était de l'ordre de 5 000 tonnes par an de produits fondus.		
+								__j___réglementée_par_arrêté	La Fonderie Mayennaise était une fonderie disposant de deux fours de fusion électrique (d'une capacité maximale de 45t/j) réglementée par arrêté préfectoral du 30 juillet 2009.		

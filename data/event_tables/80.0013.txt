@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2005				Cette_étude_réalisée	Cette étude réalisée entre fin 2003 et début 2005 a classé le site de Caix en catégorie 2, c’est-à-dire à surveiller.		
+				1983				ont_infiltré	L'examen du dossier révèle que les effluents non traités ont infiltré la nappe phréatique jusqu’en 1983-84.	'les effluents'	
+								ont_infiltré	L'examen du dossier révèle que les effluents non traités ont infiltré la nappe phréatique jusqu’en 1983-84.	'les effluents'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	28		2000	04	28		a_été_remise	L'étude a été remise le 28 avril 2000.		
+2013	09			2013	09			a_remis_un_dossier_de_cessation_d__activité	En septembre 2013, l’exploitant a remis un dossier de cessation d’activité, complété en mai 2014.		
+2014	05			2014	05			a_remis_un_dossier_de_cessation_d__activité	En septembre 2013, l’exploitant a remis un dossier de cessation d’activité, complété en mai 2014.		
+1997	06	09		1997	06	09		a_été_imposée	Une surveillance de la nappe a été imposée par l'arrêté préfectoral d'autorisation du 9 juin 1997.		
+2013	07	31		2013	07	31		la_cessation_définitive	Par courrier en date du 31 juillet 2013, l'exploitant a porté à la connaissance de Monsieur le préfet la cessation définitive de son activité.		'le préfet'
+2013	09	13		2013	09	13		a_été_délivré	Un récépissé de cessation d'activité a été délivré le 13 septembre 2013.		
+1993				2000				a_été_arrêté	Le site a été arrêté de 1993 à 2000.		
+1997	06	09		1997	06	09		était_réglementé_par	Le site était réglementé par un arrêté préfectoral en date du 9 juin 1997.		
+2014	08	20		2014	08	20		Un_procès_verbal_de_récolement	Un procès verbal de récolement a donc été établi et signé le 20 août 2014 par l’inspection des installations classées.		
+2012	03	1		2012	03	1		a_cessé_de_produire_effet	L'arrêté d'autorisation a cessé de produire effet le 1er mars 2012, suite à une non reprise d'activité.		
+2010	03	1		2010	03	1		a_cessé_temporairement_l__activité	Le 1er mars 2010 la société a cessé temporairement l'activité du site.		

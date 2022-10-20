@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Des_tests_hydrauliques	Des tests hydrauliques et des essais de pompages ont été réalisés sur les trois forages, fin 1998 par un bureau d'études extérieur (Antéa).		'Antéa'
+2001	05	09		2001	05	09		La_dépollution	La dépollution a débuté le 9 mai 2001.		
+1998				1998				sont_apparues	En 1998, de nouvelles traces d'huile sont apparues dans les puits voisins.	'huile'	
+1995				1995				Une_campagne_d__analyses	Une campagne d'analyses a été réalisée en 1995, et trois nouveaux forages ont été réalisés sur le site à cette date, suite à l'arrêté préfectoral du 19 mai 1995.		
+2003				2003				a_cessé_toute_activité	A la fin de l'année 2003, la société OMIA a cessé toute activité sur ce site, pour emménager dans de nouveaux locaux à l'Isle-d'Espagnac (16).		'la société OMIA'
+1990				1990				a_été_découverte	En 1990, de l'huile a été découverte dans des puits voisins de la société OMIA.		'la société OMIA'
+2004	04			2004	04			a_néanmoins_confirmé	En avril 2004, l'inspection des installations classées a néanmoins confirmé la nécessité de poursuivre le traitement des eaux de la nappe et a demandé à ce qu'un bilan semestriel de ces opérations lui soit transmis.		
+1990				1992				a_été_en_partie_extraite_par_pompage_dans_des_puits	Les cuves enterrées à l'origine des fuites et appartenant à la société OMIA ont été enlevées et l'huile présente dans la nappe a été en partie extraite par pompage dans des puits, de 1990 à 1992.		'la société OMIA'
+1995				1997				a_été_repris	Le pompage pour l'extraction d'huile a été repris dans ces trois nouveaux forages, de 1995 à 1997.		
+1999				1999				Une_étude_de_faisabilité_de_dépollution	Une étude de faisabilité de dépollution de la nappe a été réalisée par cette même société en 1999, et validée par l'inspection des installations classées.		

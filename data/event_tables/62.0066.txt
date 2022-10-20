@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				ayant_fourni_un_bilan_de_fonctionnement	-Établissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2006.		
+2005	05	27		2005	05	27		une_étude_plomb_a_ét_demandée	- l'Action "Plomb" : une étude plomb a ét demandée par arrêté préfectoral complémentaire en date du 27 mai 2005.	'Plomb', 'plomb'	
+1998	09	11		1998	09	11		Étude_demandée	Étude demandée par arrêté préfectoral en date du 11 septembre 1998.		

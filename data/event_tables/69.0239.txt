@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	11		2008	03	11		Une_déclaration	Une déclaration de cessation d'activité a été transmise tardivement par la société SHELL le 11 mars 2008, accompagnée d'une étude de sol réalisée en septembre 2005.		'la société SHELL'
+2018	10	23		2018	10	23		a_été_prise	Une servitude d'utilité publique a été prise le 23/10/2018 pour encadrer les usages futurs du site.		
+2016	01	19		2016	01	19		un_rapport	Malgré la présence de pollutions résiduelles significatives, la fin des travaux a été actée par l'Inspection des installations classées dans un rapport du 19 janvier 2016, l'ancien exploitant s'étant néanmoins engagé à assurer la gestion des terres polluées excavées lors du futur réaménagement du site.		
+2005				2005				a_cessé_son_activité	La site a cessé son activité et les installations ont été démantelées en 2005.		
+2005				2005				ont_été_démantelées	La site a cessé son activité et les installations ont été démantelées en 2005.		
+				2012				des_travaux_de_dépollution	Les investigations réalisées dans le cadre de la mise à l’arrêt de l’installation ont montré la présence de pollutions importantes en hydrocarbures/BTEX, qui ont conduit à des travaux de dépollution jusqu’en 2012 (excavations des terres polluées puis traitement par air-sparging).	'hydrocarbures', 'BTEX'	
+2011	03	24		2011	03	24		__réhabilitation	- 24 mars 2011 : réhabilitation du site ;		
+2016	01	19		2016	01	19		la_fin_des_travaux	Malgré la présence de pollutions résiduelles significatives, la fin des travaux a été actée par l'Inspection des installations classées dans un rapport du 19 janvier 2016, l'ancien exploitant s'étant néanmoins engagé à assurer la gestion des terres polluées excavées lors du futur réaménagement du site.		
+2017	01			2017	01			abrite	Le site abrite depuis janvier 2017 la "maison du projet ZAC Gratte Ciel" et devrait être réaménagé à terme pour un usage d'habitation.		
+2005	09			2005	09			une_étude_de_sol_réalisée	Une déclaration de cessation d'activité a été transmise tardivement par la société SHELL le 11 mars 2008, accompagnée d'une étude de sol réalisée en septembre 2005.		'la société SHELL'
+1962				2005				a_exploité	La société des Pétroles SHELL a exploité de 1962 à 2005 une station service au droit d'un site d'une surface de 1800 m² sis 157 cours Émile Zola à Villeurbanne.		'La société des Pétroles SHELL'
+2011	01			2011	01			l__auvent_ont_été_démolis	Le bâtiment ayant abrité la boutique et l’atelier de l’ancienne station-service ainsi que l’auvent ont été démolis en janvier 2011.		
+2017				2017				les_opérations_de_dépollutions	Du fait de l'atteinte de limites techniques dans le traitement des sols, les opérations de dépollutions ont été interrompues malgré la présence d'impacts résiduels significatifs dans les sols et les eaux souterraines avec toujours pour ces dernières, fin 2017 :		

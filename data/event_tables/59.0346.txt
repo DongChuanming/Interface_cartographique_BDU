@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_cessé	Ces activités classées ont cessé en 1996-97.		
+1996				1996				ont_cessé	Ces activités classées ont cessé en 1996-97.		
+								nettoyage_à_sec	de nettoyage à sec depuis les années 1880.		
+2000	09	19		2000	09	19		a_été_pris	Un AP de surveillance des eaux souterraines a été pris le 19/09/2000 (2 mesures/an sur 3 piézomètres (profondeur 3 m)sur paramètres (pH, HCT, BTEX, naphtalène, Chlorures, Sodium, Manganèse, Conductivité).	'pH', 'HCT', 'BTEX', 'naphtalène', 'Chlorures', 'Sodium', 'Manganèse'	

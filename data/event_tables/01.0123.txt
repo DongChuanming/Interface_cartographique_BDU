@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015				a_exploité	La société OROSOLV, spécialisée dans la distribution de produits chimiques (solvants, acides...), a exploité jusqu’en 2015 un établissement à Bellignat, précédemment exploité par la société WOLFF depuis les années 1970.	'produits chimiques', 'solvants', 'acides'	'La société OROSOLV', 'la société WOLFF'
+2019	03	28		2019	03	28		La_visite_de_constat_de_fins_de_travaux_a_été_réalisée	La visite de constat de fins de travaux a été réalisée le 28 mars 2019.		

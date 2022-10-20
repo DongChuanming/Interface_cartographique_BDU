@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2016	03	08		ont_été_complétées	Les informations ont été complétées par les courriers du 4 juin 2015 et du 8 mars 2016.		
+2013	11	15		2013	11	15		la_mise_à_l__arrêt_définitif	L’exploitant a déclaré la mise à l’arrêt définitif des installations sises rue Félix Chédin le 15 novembre 2013.		
+2015	01			2015	01			a_fourni_un_rapport	Dans le cadre de sa cessation d’activité de cet établissement, la société ROSINOX a fourni un rapport de janvier 2015 sur les pollutions des sols et eaux souterraines qui a mis en évidence :		'la société ROSINOX'
+2015	06	04		2015	06	04		ont_été_complétées	Les informations ont été complétées par les courriers du 4 juin 2015 et du 8 mars 2016.		
+2017	12	18		2017	12	18		a_sollicité	Par bordereau du 18 décembre 2017, la Préfecture du Cher a sollicité l’avis de l’inspection des installations classées sur la demande d’un permis de démolition déposée par la société ROSINOX, relative à l’établissement qu’elle a exploité rue Félix Chédin sur la commune de Bourges.		'la Préfecture du Cher', 'la société ROSINOX'
+1980				2013				a_accueilli	Il a accueilli de 1980 à 2013 une activité de fabrication de cuisinières et d’appareils de cuisine.		
+1999				1999				a_repris	En 1999, le groupe italien ALI a repris la société ROSINOX.		'le groupe italien ALI', 'la société ROSINOX'

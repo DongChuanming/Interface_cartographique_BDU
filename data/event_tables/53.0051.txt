@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				peut_exploiter	Depuis 1994, après avoir obtenu un arrêté préfectoral d'autorisation, la société peut exploiter:		
+2017	02	24		2017	02	24		est_mise_en_cessation_d__activité_partielle	Après étude du dossier, la société est mise en cessation d’activité partielle le 24/02/2017.		
+2016				2016				Les_investigations_des_sols	Les investigations des sols ont été réalisés en 2016 avec 7 sondages (entre 3 m et 7,5 m de profondeur maximum).		
+2016				2016				a_consulté	En 2016, en vue de travaux de modernisation, la société Carrefour a consulté un bureau d’études pour réaliser des sondages de contrôle de la pollution des sols avant travaux.		'la société Carrefour'
+2017	05			2017	05			à_fait_l__objet_d__une_visite	En mai 2017, l’établissement à fait l’objet d’une visite au titre des inspections des installations classées ayant pour principal objectif de discuter des compléments à apporter aux documents transmis dans le cadre des travaux de modernisation/dépollution de cette station-service.		
+2017	01			2017	01			a_demandé	En janvier 2017, du fait du déplacement et de la modification substantielle des stockages enterrés, la société a demandé un dossier de démantèlement d’anciennes installations (cuves de 60 et 100 m³) et un dossier de déclaration initiale pour une nouvelle installation pour 7034 m³ de volume annuel de carburant liquide distribué.	'carburant liquide'	'la société'
+2016				2016				vue_de_travaux_de_modernisation	En 2016, en vue de travaux de modernisation, la société Carrefour a consulté un bureau d’études pour réaliser des sondages de contrôle de la pollution des sols avant travaux.		'la société Carrefour'

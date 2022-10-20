@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				ont_été_réalisées	En 1999 et 2000 ont été réalisées une étude historique du site, des investigations et prélèvements de sols et d'eaux souterraines et une Evaluation Simplifiée des Risques.		
+2007				2007				Le_chantier_s__est_achevé	Le chantier s'est achevé fin 2007 et a duré 5 mois.		
+								Le_chantier_s__est_achevé	Le chantier s'est achevé fin 2007 et a duré 5 mois.		
+2007				2007				a_procédé	En 2007 le CNPP a procédé à de nouvelles études relatives à la caractérisation de la lagune.		'CNPP'
+2007	07			2007	07			un_important_chantier_de_dépollution	Ces études ont consisté à réaliser des campagnes de prélèvments et analyses bathymétriques et en juillet 2007 le CNPP a lancé un important chantier de dépollution de la lagune.		'le CNPP'
+2009				2009				la_découverte	En 2009, suite à la découverte de dioxines dans les œufs et la viande de poulet à l'élevage en plein air de M.	'dioxines'	
+1969				1984				était_occupé_par	De 1969 à 1984 le site était occupé par une raffinerie BP à l'origine de la pollution d'une lagune de 50.000 m3 par 18.000 m3 de boues chargées d'hydrocarbures et de métaux.	'raffinerie BP', 'hydrocarbures', 'métaux'	
+1999	10	19		1999	10	19		a_été_mise_en_place	De ce fait, un nouveau réseau de surveillance piézométrique du site a été mise en place et une surveillance semestrielle de la qualité des eaux souterraines est réalisée (arrêté préfectoral du 19 octobre 1999).		
+2009	10	15		2009	10	15		une_visite_d__inspection	L'inspection des installations classées a réalisé une visite d'inspection le 15/10/2009, jour des prélèvements.		
+1999				1999				ont_été_réalisées	En 1999 et 2000 ont été réalisées une étude historique du site, des investigations et prélèvements de sols et d'eaux souterraines et une Evaluation Simplifiée des Risques.		
+1999	10	19		1999	10	19		est_réalisée	De ce fait, un nouveau réseau de surveillance piézométrique du site a été mise en place et une surveillance semestrielle de la qualité des eaux souterraines est réalisée (arrêté préfectoral du 19 octobre 1999).		

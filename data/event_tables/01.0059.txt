@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12			2005	12			a_été_arrêtée	La surveillance a été arrêtée en décembre 2005.		
+2005	04	22		2005	04	22		a_été_remise	L'EDR santé a été remise le 22/4/2005.		
+2004	10	08		2004	10	08		ont_été_transmis	Le rapport du diagnostic approfondi ainsi que les propositions pour l'EDR ont été transmis le 8/10/2004.		
+2008	02	27		2008	02	27		Des_investigations_complémentaires	Des investigations complémentaires (8 sondages en plus des 40 réalisés précédemment) ont été réalisées sur le site le 27/2/2008 afin de mieux déterminer les deux zones polluées :		
+2006	07			2006	07			Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité (clôture, nivellement des sols, mise en place d'une couche de matériaux sains) ont été réalisés fin juillet 2006.		
+1986				1986				une_déclaration	Au titre de la réglementation des ICPE, une déclaration de mise en service du dépôt a été faite en 1986 concernant le stockage de 30 transformateurs et 200 condensateurs au titre de la rubrique 355 A (nouvelle rubrique 1180-1) :		
+2002	07			2002	07			a_mis_en_évidence	En juillet 2002, un diagnostic de la qualité des sols réalisé par ANTEA a mis en évidence une pollution des sols par des PCB.	'PCB'	'ANTEA'
+1999				1999				n__est_plus_utilisé	Le dépôt n'est plus utilisé depuis 1999.		
+2004	07			2004	07			a_débuté	La surveillance des eaux souterraines a débuté en juillet 2004.		
+2003	04	07		2003	04	07		Interpellée_par	Interpellée par la Préfecture les 7/4/2003 et 12/6/2003, EDF a confirmé qu'une étude avait été réalisée mettant en évidence une pollution des sols par des PCB et que des travaux de dépollution étaient en cours.	'PCB'	'la Préfecture', 'EDF'
+2007	12	21		2007	12	21		a_été_transmise	Une version provisoire de l’évaluation des risques sanitaires a été transmise à la DRIRE le 21/12/2007.		'la DRIRE'
+2003	06	12		2003	06	12		Interpellée_par	Interpellée par la Préfecture les 7/4/2003 et 12/6/2003, EDF a confirmé qu'une étude avait été réalisée mettant en évidence une pollution des sols par des PCB et que des travaux de dépollution étaient en cours.	'PCB'	'la Préfecture', 'EDF'
+2000	06			2000	06			a_été_signé	Un compromis de vente des terrains concernés a été signé en juin 2000 afin de réaliser sur le site des pavillons d'habitation avec jardin privatif.		
+2008	12			2008	12			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en décembre 2008. 300 tonnes de terres ont été excavées et évacuées vers des filières de traitement adaptées.		

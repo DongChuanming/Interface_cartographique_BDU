@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	11	18		1991	11	18		La_cessation_d__activité	La cessation d'activité et la fermeture de la fabrique a été notifiée par l'exploitant le 18 novembre 1991.		
+2013				2013				ont_été_transmis	- En outre, courant 2013, les résultats de surveillance des eaux souterraines ont été transmis ; ces analyses de 2013 mettent en évidence l'absence d'impact du site pour les substances recherchés (hydrocarbures et HAP), tant pour la partie basse que pour la partie haute.	'hydrocarbures', 'HAP'	
+2012	10			2012	10			a_ainsi_transmis	En octobre 2012, l'exploitant a ainsi transmis son plan de surveillance des eaux souterraines et une nouvelle version de son plan de gestion sur la partie basse du site.		
+2013				2013				ces_analyses	- En outre, courant 2013, les résultats de surveillance des eaux souterraines ont été transmis ; ces analyses de 2013 mettent en évidence l'absence d'impact du site pour les substances recherchés (hydrocarbures et HAP), tant pour la partie basse que pour la partie haute.	'hydrocarbures', 'HAP'	
+2013	06			2013	06			de_la_visite	Lors de la visite de juin 2013, l'inspection a noté les éléments suivants :		
+1992				1992				ont_été_démolis	Les bâtiments et infrastructures industrielles ont été démolis en 1992.		
+2011	10			2011	10			a_transmis__	Aussi, en juin et octobre 2011, la société DIDIER SIPC a transmis :		'la société DIDIER SIPC'
+								a_transmis__	Aussi, en juin et octobre 2011, la société DIDIER SIPC a transmis :		'la société DIDIER SIPC'
+2012	07	24		2012	07	24		il_a_été_demandé	Par courrier préfectoral du 24 juillet 2012, il a été demandé à l'exploitant des compléments sur son plan de gestion - partie basse (considérer comme modalité de gestion, l'élimination des terres contaminées par excavation) et sur son plan de surveillance des eaux souterraines.		

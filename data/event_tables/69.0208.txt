@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	11		2000	04	11		exploitait_sur	La société BP FRANCE exploitait sur ce site une station service qui bénéficiait d'un récépissé de déclaration en date du 11 avril 2000.		'La société BP FRANCE'
+2005	07	28		2005	07	28		permis_de_démolir	Par ailleurs, le site devrait changer d’usage car il est prévu de construire un immeuble d’habitation (permis de démolir déposé le 28 juillet 2005).		
+2005	07	20		2005	07	20		a_fourni	Dans le cadre de la cessation d'activité de sa station-service située 37, rue Marc Bloch à Lyon 7ème, la société BP FRANCE a fourni au préfet le 20 juillet 2005 un dossier de cessation d’activité comprenant un diagnostic initial sur l’état des sols et une campagne de mesures des eaux souterraines au droit du site.		'la société BP FRANCE'
+2006	02	07		2006	02	07		a_été_transmise	L'ESR du site nous a été transmise le 7 février 2006.		
+2000	04	11		2000	04	11		déclaration	La société BP FRANCE exploitait sur ce site une station service qui bénéficiait d'un récépissé de déclaration en date du 11 avril 2000.		'La société BP FRANCE'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			se_sont_achevés	Des travaux de réhabilitation ont commencé en Juin 2007 et se sont achevés en Juin 2008.		
+								d__autorisation	. d'autorisation du 06/02/73, 21/03/74, 23/04/97, 20/09/2006 (valorisation poussières et boues aciéries)		
+2006				2006				Une_évaluation_des_risques	Une évaluation des risques a été réalisée en 2006.		
+2005				2005				provoqua_l__enflammement	En 2005, un feu de palette provoqua l'enflammement de soufre à proximité, plusieurs employés ont été hospitalisés.		
+2001	03			2001	03			a_été_remise	L'ESR prescrite par AP du 16/06/99 a été remise en mars 2001 et classe le site en catégorie 1 et 2.		'ESR'
+2006	09	20		2006	09	20		d__autorisation	. d'autorisation du 06/02/73, 21/03/74, 23/04/97, 20/09/2006 (valorisation poussières et boues aciéries)		
+2007	06			2007	06			Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont commencé en Juin 2007 et se sont achevés en Juin 2008.		
+2008	06			2008	06			Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont commencé en Juin 2007 et se sont achevés en Juin 2008.		

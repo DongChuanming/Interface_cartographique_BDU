@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				a_été_identifiée	Lors d'investigations menées en 2015, une pollution aux hydrocarbures a été identifiée en partie nord du site mais non circonscrite.	'hydrocarbures'	
+1978				1978				exploitation	Depuis 1978, exploitation du site par EDF.		
+1938				1938				était_occupé	Il était occupé par des bâtiments industriels depuis a minima 1938.		

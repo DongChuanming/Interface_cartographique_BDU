@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09			2006	09			pillages	- Depuis septembre 2006, le site a fait l'objet de pillages par des ferrailleurs.		
+2003	10	29		2003	10	29		Notification_de_cessation_d__activité_par_courrier	- Notification de cessation d'activité par courrier du 29/10/2003 par le liquidateur.		
+2003	04	30		2003	04	30		Société_mise_en_liquidation_judiciaire	- Société mise en liquidation judiciaire le 30/04/2003.		
+2004	05			2004	05			Réalisation_d__une_étude_historique	- Réalisation d'une étude historique et de vulnérabilité en mai 2004.		
+2004	01			2004	01			Réalisation_d__une_étude___pré_diagnostic_de_pollution	- Réalisation d'une étude "pré diagnostic de pollution du sous sol" en janvier 2004.		
+1987	03	20		1987	03	20		Reprise	- Reprise de la SVCM par BSL le 20/03/1987.		'la SVCM', 'BSL'

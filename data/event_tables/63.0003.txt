@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	08	05		2003	08	05		a_été_signé	Un arrêté de suivi de la qualité des eaux souterraines a été signé le 5 août 2003.		
+1998	03	23		1998	03	23		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 23 mars 1998.		
+2002	09	25		2002	09	25		Une_visite_de_contrôle	Une visite de contrôle a été effectuée le 25 septembre 2002, afin de valider l'étape B, les conclusions de l'ESR (évaluation simplifiée des risques) positionnent le site en classe 2.		

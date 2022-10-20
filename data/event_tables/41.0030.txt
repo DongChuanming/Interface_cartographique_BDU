@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_rapport	En 2006, il transmettait à l’inspection des installations classées un rapport de juillet 2006 relatif à la pollution des sols, effectué par le bureau d'étude SOCOTEC, comprenant un diagnostic de pollution des sols et des eaux ainsi qu’un évaluation simplifiée des risques.		'SOCOTEC'
+2009	12			2009	12			a_été_proposé	Un premier plan de gestion de la pollution des sols tenant compte de ce projet a été proposé en décembre 2009.		
+2011				2011				des_évolutions	Le projet d'aménagement a connu des évolutions en 2010 et 2011.		
+2010				2010				des_évolutions	Le projet d'aménagement a connu des évolutions en 2010 et 2011.		
+2006	12	27		2006	12	27		la_mise_en_place_d_	Par arrêté du 27 décembre 2006, le Préfet de Loir et Cher a prescrit la mise en place d'une surveillance semestrielle de la qualité des eaux souterraines et la réalisation d'une étude technico-économique de réhabilitation.		'le Préfet'
+2004	08	23		2004	08	23		prononçait	Par arrêté du 23 août 2004, M. le préfet de Loir-et-Cher prononçait la fermeture du site et mettait en demeure M.		'le préfet de Loir-et-Cher'
+2006	07			2006	07			un_rapport	En 2006, il transmettait à l’inspection des installations classées un rapport de juillet 2006 relatif à la pollution des sols, effectué par le bureau d'étude SOCOTEC, comprenant un diagnostic de pollution des sols et des eaux ainsi qu’un évaluation simplifiée des risques.		'SOCOTEC'
+2007	08			2007	08			est_en_place	La surveillance des eaux souterraines est en place depuis août 2007 et est assurée sur un puits et 2 piézomètres.		
+2008				2008				ces_études_étaient_complétées	En 2008, ces études étaient complétées par un diagnostic approfondi.		

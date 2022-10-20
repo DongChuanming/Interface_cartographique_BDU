@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1962				sont_implantées	Les installations sont implantées dans la zone industrielle située au Nord d’Argentan, depuis 1962, sur un terrain de 19 200 m2 environ, dans l’ancienne usine de la société SPEED.		'la société SPEED'
+1999	10			1999	10			ont_été_arrêtés	Compte-tenu de cette situation, les traitements ont été arrêtés d’août à octobre 1999.		
+1997	03			1999	10			Ces_opérations	Ces opérations se sont déroulées entre mars 1997 et octobre 1999.		
+								ont_été_arrêtés	Compte-tenu de cette situation, les traitements ont été arrêtés d’août à octobre 1999.		
+1995	11			1995	11			la_réalisation_d__un_audit_environnemental	Présence d’une pollution des sols et des eaux souterraines par des solvants chlorés [tétrachloroéthylène (PCE), le trichloroéthylène (TCE) et dichloroéthylène (DCE)] découverte lors de la réalisation d’un audit environnemental en novembre 1995.	'des solvants chlorés', 'tétrachloroéthylène', 'PCE', 'trichloroéthylène', 'TCE', 'dichloroéthylène', 'DCE'	

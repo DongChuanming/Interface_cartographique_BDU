@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	28		2005	02	28		a_exercé	La STUL a exercé, à partir de 1963, une activité de transformation de l'acier et a cessé ses activités le 28 février 2005.		'La STUL'
+2007				2007				Le_diagnostic_initial_des_sols	Le diagnostic initial des sols de 2007 a mis en évidence une pollution généralisée des sols en métaux lourds, notamment en chrome, cuivre, plomb et zinc.	'métaux lourds', 'chrome', 'cuivre', 'plomb', 'zinc'	
+1963				1963				a_exercé	La STUL a exercé, à partir de 1963, une activité de transformation de l'acier et a cessé ses activités le 28 février 2005.		'La STUL'
+2009				2009				ont_été_détectés	- Les cyanures ont été détectés en 2007 et 2009 en aval de la STUL alors qu’ils ne sont pas détectés en amont.	'Les cyanures'	
+2007				2007				ont_été_détectés	- Les cyanures ont été détectés en 2007 et 2009 en aval de la STUL alors qu’ils ne sont pas détectés en amont.	'Les cyanures'	
+2005	12			2005	12			une_étude_historique_du_site	- une étude historique du site (EAT, référencée C593/01, décembre 2005),		
+2005	02	28		2005	02	28		a_cessé_ses_activités	La STUL a exercé, à partir de 1963, une activité de transformation de l'acier et a cessé ses activités le 28 février 2005.		'La STUL'
+2010				2017				ont_été_démantelé	Une partie de l'outillage et l'ensemble des bâtiments ont été démantelé entre 2010 et 2017 :		

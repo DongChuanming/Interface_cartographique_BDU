@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	09			1995	09			a_cessé_son_activité	Cette installation exploitée par la société DES CIMENTS D'ORIGNY a été autorisée en 1966 et a cessé son activité en septembre 1995.		"la société DES CIMENTS D' ORIGNY"
+1989				1989				fut_autorisée	Elle fut autorisée en 1989 à valoriser des déchets industriels solides et liquides comme combustibles de substitution dans le four.	'valoriser des déchets industriels solides', 'combustibles de substitution'	
+1992	03			1992	03			une_pollution_constatée	Une défaillance sur un réservoir de stockage de 630 m3 de solvants inflammables est à l'origine d'une pollution constatée en mars 1992.	'solvants inflammables'	
+1994	08			1994	08			a_été_mis_en_oeuvre	Ce traitement a été mis en oeuvre et achevé en août 1994.		
+1966				1966				a_été_autorisée	Cette installation exploitée par la société DES CIMENTS D'ORIGNY a été autorisée en 1966 et a cessé son activité en septembre 1995.		"la société DES CIMENTS D' ORIGNY"
+1995	09			1995	09			a_été_autorisée	Cette installation exploitée par la société DES CIMENTS D'ORIGNY a été autorisée en 1966 et a cessé son activité en septembre 1995.		"la société DES CIMENTS D' ORIGNY"

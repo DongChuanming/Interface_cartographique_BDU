@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_été_traitées	Lors de la fermeture du dépôt en 1992 et de son démantèlement en 1995, les terres polluées par des hydrocarbures ont été traitées en biopile dans un centre de traitement de Meurthe-et-Moselle.	'hydrocarbures'	
+1987				1987				enterrée	Sur le site Mobil ( Wallach), 65 m3 de fioul domestique ont pollué les sols à cause d'une fuite sur une canalisation enterrée en 1987.	'fioul domestique'	'Mobil'
+1923				1923				a_été_créé	Le site du Complexe du Port Aux Pétroles a été créé en 1923.	'Pétroles'	

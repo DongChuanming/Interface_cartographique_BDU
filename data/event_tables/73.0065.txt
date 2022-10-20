@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	11	30		1999	11	30		un_diagnostic_initial	La décharge a fait l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR) transmise à l'administration le 30 novembre 1999.		
+1998	12	1		1998	12	1		Une_étude_de_sols	Une étude de sols a été imposée à l'exploitant par arrêté préfectoral du 1er décembre 1998.		
+1999	06			1999	06			l__audit	Le site a également été visé dans l'audit ANTEA de juin 1999 commun à l'ensemble des décharges "Péchiney" de la commune de St Marcel.		'ANTEA', 'Péchiney', 'St Marcel'

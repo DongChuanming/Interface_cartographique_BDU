@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05			2011	05			est_construite	En mai 2011, la première tranche (zone de l'ancien site FERROXDURE) est construite.		'FERROXDURE'
+1998				1998				a_fait_procéder	Avant de céder le site en 1998, la société PHILIPS a fait procéder par l'APAVE NORMANDE à un diagnostic environnemental initial complétée par une Etude Simplifiée des Risques.		'la société PHILIPS', "l' APAVE NORMANDE"
+1955				1955				Implantation	Implantation en 1955, sur des terrains agricoles, en périphérie d'Evreux, par la Société COPRIM, filiale de la Radiotechnique, d'une usine pour la fabrication de produits de base de l'électronique et de produits céramiques (ferrites électromagnétiques).		'la Société COPRIM'
+1998	12			1998	12			a_été_cédée	En décembre 1998, PHILIPS CIRCUITS IMPRIMES a été cédée au groupe finlandais ASPO Plc.		'PHILIPS CIRCUITS IMPRIMES', 'groupe finlandais ASPO Plc'
+1998	06			1998	06			a_été_cédée	En juin 1998, PHILIPS COMPOSANTS a été cédée au groupe CARBONE LORRAINE.		'PHILIPS COMPOSANTS', 'groupe CARBONE LORRAINE'
+2010	04	07		2010	04	07		la_réhabilitation	Par arrêté préfectoral du 7 avril 2010, la réhabilitation de l'ensemble du site est encadrée pour le démantèlement des installations, l'évacuation des déchets, l'actualisation du plan de gestion au vu des investigations complémentaires au fur et à mesure de la démolition, la réhabilitation en fonction d'objectifs de dépollution en fonction des usages prévus et la surveillance pièzométrique.		
+2007				2007				cesse_son_activité	Fin 2007,la société FERROXDURE cesse son activité.		'2007,la société FERROXDURE'
+2001				2001				est_mis_en_place	Un programme de surveillance de la nappe d'eau souterraine est mis en place dès 2001 avec 2 piézomètres sur les terrains du site ASPOCOMP.		
+2002				2002				est_mise_en_liquidation_judiciaire	La société ASPOCOMP est mise en liquidation judiciaire en 2002 et la société FERROXDURE continue son activité de façon autonome suivant son arrêté préfectoral d'autorisation du 22 juillet 2003.		'La société ASPOCOMP', 'la société FERROXDURE'
+1967				1967				fondent	En 1967, Philips et la Compagnie Générale de l'Electricité fondent la R.		"la Compagnie Générale de l' Electricité"
+2007	06			2007	06			cesse_son_activité	En juin 2007, la société FERROXDURE cesse son activité et le groupe CARBONE LORRAINE réalise un diagnostic environnemental avec le mémoire de cessation d'activité du site.		'la société FERROXDURE', 'le groupe CARBONE LORRAINE'
+2010				2010				__achète	La société GP1 (Green Partners) achète l'ensemble du site en 2010.		'La société GP1', 'Green Partners'

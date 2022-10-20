@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a_cessé	Cette activité a été conservée sur le site malgré 2 changements d'exploitant à la fin des années 2000 et a cessé fin 2013.		
+2015	03	10		2015	03	10		La_campagne_d__investigations	La campagne d'investigations sur les sols, réalisée par un bureau d'étude, s'étant déroulée le 10 mars 2015 (voir plan cartographique 2 partie B), a permis de mettre en évidence :		
+1972				1972				s__est_installée	En 1972, la société MSCP s'est installée pour une activité de sablage et de métallisation (pas d'autorisation ICPE).		'la société MSCP'
+								a_été_conservée	Cette activité a été conservée sur le site malgré 2 changements d'exploitant à la fin des années 2000 et a cessé fin 2013.		

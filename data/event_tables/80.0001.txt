@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_imposée	La surveillance piézométrique a été imposée par arrêté préfectoral du 21 juillet 1998 pour 3 ans sur 3 piézomètres.		
+2001	06			2001	06			analyses	Les résultats de la surveillance des eaux souterraines (analyses de juin 2001) montrent une évolution favorable mais le trichloroéthylène reste présent.	'trichloroéthylène'	
+1992				1992				ayant_cessé_ses_activités	Ancienne usine de fabrication de peinture ayant cessé ses activités en 1992 dans le cadre d'une liquidation judiciaire.		
+								a_été_faite	Une proposition d’arrêté préfectoral complémentaire a été faite par l’Inspection des installations classées en mai 2003 pour prolonger de 3 ans le suivi des eaux de la nappe et ajouter le chlorure de vinyle dans les paramètres à surveiller.	'chlorure de vinyle'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07			2006	07			un_traitement_par_venting	Le site fait l'objet d'un traitement par venting-sparging depuis juillet 2006 ( qui a été complété par un dispositif de confinement par pompage jusqu'en octobre 2007).		
+2005	03			2005	03			Un_diagnostic_approfondi	Un diagnostic approfondi et une étude détaillée des risques ont été prescrits par arrêté du 01/07/2004 et transmis en mars 2005.		
+1998				1998				L__installation_d_	L'installation d'un système de venting au second semestre 1998 a permis de réduire de façon considérable cette pollution, et les teneurs en novembre 2001 sont de l'ordre de 130 µg/l pour le tétrachloroéthylène.	'le tétrachloroéthylène'	
+2006	02			2006	02			a_été_transmis	Le complément demandé a été transmis fin octobre 2005 mais nécessitait encore des précisions apportées mi-février 2006.		
+				2007	10			un_traitement_par_venting	Le site fait l'objet d'un traitement par venting-sparging depuis juillet 2006 ( qui a été complété par un dispositif de confinement par pompage jusqu'en octobre 2007).		
+1998	07			1998	07			Une_étude_plus_approfondie	Une étude plus approfondie datant de juillet 1998 a mis en évidence des concentrations en tétrachloroéthylène de 7970µg/l et en 1-1-1 trichloréthylène de 738µg/l.	'tétrachloroéthylène', 'trichloréthylène'	
+2005	10			2005	10			a_été_transmis	Le complément demandé a été transmis fin octobre 2005 mais nécessitait encore des précisions apportées mi-février 2006.		
+2010	05			2010	05			Une_mise_à_jour	Une mise à jour du tracé du panache aux limites de potabilité a été demandée en mai 2010.		

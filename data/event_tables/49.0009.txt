@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	12			1995	12			Pollution_accidentelle_découverte	Pollution accidentelle découverte en décembre 1995 par l'exploitant du réseau d'eaux usées dans lequel une arrivée d'hydrocarbures a été détectée le 6 décembre 1995 : fuite de super carburant sans plomb sur une canalisation enterrée.	'hydrocarbures', 'super carburant sans plomb'	
+1995	12	18		1995	12	18		le_traitement	Après suppression de la fuite et diagnostic de l'importance de la pollution, le traitement du site a débuté le 18 décembre 1995.		
+1997	07	22		1997	07	22		Les_opérations_de_dépollution	Les opérations de dépollution ont été achevées le 22 juillet 1997.		
+1995	12	06		1995	12	06		a_été_détectée	Pollution accidentelle découverte en décembre 1995 par l'exploitant du réseau d'eaux usées dans lequel une arrivée d'hydrocarbures a été détectée le 6 décembre 1995 : fuite de super carburant sans plomb sur une canalisation enterrée.	'hydrocarbures', 'super carburant sans plomb'	

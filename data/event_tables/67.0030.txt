@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	04		2005	10	04		la_procédure_de_redressement_judiciaire	Par jugement du 4 octobre 2005, le TGI de Saverne a converti en liquidation judiciaire la procédure de redressement judiciaire ouverte le 11 janvier 2005 à l'encontre de SARL LIFETEX et a nommé F.		'le TGI de Saverne', 'SARL LIFETEX'
+2005	10	04		2005	10	04		a_été_amenée_à_céder	Dans le cadre de la liquidation judiciaire de la société STEINHEIL, le mandataire judiciaire a été amenée à céder les parcelles (d'une superficie de 3ha) afférentes au tènement industriel et ce au profit de la Communauté de communes de la Haute Vallée de la Bruche pour l'euro symbolique a été prononcée le 4 octobre 2005.		'la société STEINHEIL', 'la Communauté de communes de la Haute Vallée de la Bruche'
+1949	07	01		1949	07	01		Déclaration_d__installations	> Déclaration d'installations le 1 juillet 1949 d'une teinturerie et d'une section de blanchiment  en grand (n'utilisant pas de chlore à l'état liquide).	'de chlore'	
+1960	11	17		1960	11	17		Déclaration_d__installation	> Déclaration d'installation le 17 novembre 1960 d'un dépôt souterrain à mazout de 30 000L comportant une citerne enfouie en pleine terre (dépôt situé à plus de 6m d'un autre dépôt).	'mazout'	
+2012				2014				ont_été_démolis	Les bâtiments ont été démolis entre 2012 et 2014.		
+1847				1847				a_été_créée	La société a été créée en 1847.		
+				2015	01			Les_travaux_de	Les travaux de réalisation du bassin se sont déroulés entre décembre et janvier 2015;		
+2005	12	13		2005	12	13		Jugement_d__ouverture	Jugement d'ouverture du 13 décembre 2005 portant sur la liquidation judiciaire de la SA STEINHEIL prononcé par le TGI de Saverne.		'la SA STEINHEIL', 'le TGI de Saverne'
+1981				1981				s__équipe_d_	A partir de 1981, la société STEINHEIL s'équipe d'une station d'épuration biologique pour le traitement de ses eaux usées et des pâtes d'impression.	'eaux usées'	'la société STEINHEIL'
+2006	12	12		2006	12	12		Réunion	Réunion du 12 décembre 2006 tenue en Sous-Préfecture de Molsheim: la CCVB s'engage à prendre en charge les frais liées à la cessation d'activité de la société LIFETEX.		'la CCVB', 'la société LIFETEX'
+2013	05	31		2013	05	31		sont_intervenus	Le 31 mai 2013, les sapeurs pompiers sont intervenus pour une pollution par un produit inconnu de couleur blanche sur le chantier de démolition de l'ancienne usine LIFETEX.		'LIFETEX'
+2005	11	18		2005	11	18		Notification_de_la_cessation_d__activité	Notification de la cessation d'activité de la société LIFETEX en date du 18 novembre 2005 par le mandataire judiciaire, en qualité de représentant des sociétés LIFETEX et STEINHEIL.		'la société LIFETEX', 'des sociétés LIFETEX', 'STEINHEIL'
+2003	01			2003	01			Déclaration_de_changement_d__exploitant	Déclaration de changement d'exploitant du janvier 2003 au profit de la société LIFETEX.		'la société LIFETEX'
+				2015	03			__Travaux_de_curage	- Travaux de curage du vide sanitaire qui se sont déroulés de janvier à mars 2015;		
+2003	01	28		2003	01	28		a_pris_acte	Par courrier du 28 janvier 2003, le Préfet a pris acte du changement d'exploitant au profit de la société LIFETEX.		'le Préfet', 'la société LIFETEX'
+2015	04			2015	04			des_prélèvements_de_sol	Suite au curage des boues du vide sanitaire du bâtiment E, des prélèvements de sol ont été réalisés fin avril 2015.		
+								existe	L'activité sur le périmètre du site existe depuis environ 200 ans.		
+2005	01	11		2005	01	11		la_procédure_de_redressement_judiciaire	Par jugement du 4 octobre 2005, le TGI de Saverne a converti en liquidation judiciaire la procédure de redressement judiciaire ouverte le 11 janvier 2005 à l'encontre de SARL LIFETEX et a nommé F.		'le TGI de Saverne', 'SARL LIFETEX'
+2005	11	18		2005	11	18		La_cessation_d__activité	La cessation d'activité a été déclarée en préfecture le 18 novembre 2005 par le mandataire judiciaire, représentant les sociétés STEINHEIL et LIFETEX		'les sociétés STEINHEIL', 'LIFETEX'

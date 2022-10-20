@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			Des_campagnes_de_mesures	- Des campagnes de mesures sont réalisées semestriellement depuis novembre 2004.		
+1975				1975				est_implantée	- La société PANOFRANCE NORD (ex DUPREZ) est implantée sur le CRT de LESQUIN depuis 1975.		'La société PANOFRANCE NORD', 'DUPREZ'

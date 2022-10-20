@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_commencé	Cette surveillance a commencé en 2002.		
+1998	06	16		1998	06	16		la_réalisation_d__un_diagnostic_initial	Compte tenu de l'historique du site et de la présence de métaux dans la source de la Saunay servant à l'alimentation en eau potable, Monsieur le Préfet de Loir-et-Cher a imposé, par arrêté préfectoral du 16 juin 1998, la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR).	'métaux'	'le Préfet'
+2001				2001				évaluation_simplifiée_des_risques_remise	L'évaluation simplifiée des risques remise en 2001 conclut que le site doit faire l'objet d'une surveillance des eaux souterraines.		
+				1985				ont_été_enfouis	La société SYNTHRON y a exploité un dépôt de résidus de fabrication (élastomères, polymères,...). 525 tonnes de déchets de nature incertaine y ont été enfouis jusqu'en 1985.		'La société SYNTHRON'
+2000				2000				ont_été_installés	Trois piézomètres ont été installés en 2000, les eaux souterraines ont été analysées et la perméabilité du sous-sol a été évaluée.		

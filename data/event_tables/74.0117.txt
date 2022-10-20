@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	11			2013	05			Les_travaux_de_dépollution	Les travaux de dépollution des sols se sont déroulés entre novembre 2012 et mai 2013. 200 m3 de  terres polluées et ont été évacuées, ainsi que 100 m3 de boues supplémentaire.		
+1969				1969				a_été_créée	L’usine a été créée en 1969 par la société Lachenal qui avait souhaité y transférer sa fonderie de pièces en aluminium et en zamak.		'la société Lachenal'
+2013	04			2013	04			Les_opérations_de_traitement	Les opérations de traitement des eaux souterraines ont été menées d’avril 2013 à mai 2014, sous forme d'extraction sous vide multi-phases :		
+2010	05			2010	05			a_été_victime	Le site a été victime en mai 2010 d’un vandalisme sur les transformateurs contenant des PCB restés en place, générant une pollution des sols et des eaux souterraines par cette substance.	'PCB'	
+2010	10			2010	10			Une_excavation	Une excavation complémentaire des sols a été effectuée en octobre 2010.		
+2009	08			2009	08			d__un_plan_de_cession_infructueux	Le dernier exploitant, Rencast Léman, a fait l’objet d’un plan de continuation, puis d’une liquidation judiciaire (avril 2009) et d’un plan de cession infructueux (août 2009).		
+2010	12			2010	12			un_diagnostic_approfondi	A l’issue de cette première série d’investigations et de travaux, un diagnostic approfondi et une analyse des risques résiduels ont été réalisés en décembre 2010.		
+2014	05			2014	05			Les_opérations_de_traitement	Les opérations de traitement des eaux souterraines ont été menées d’avril 2013 à mai 2014, sous forme d'extraction sous vide multi-phases :		
+2007	02			2007	02			a_cessé	Après plusieurs rachats successifs, l'activité du site a cessé en février 2007.		
+2009	08			2009	08			a_fait_l__objet_d_	Le dernier exploitant, Rencast Léman, a fait l’objet d’un plan de continuation, puis d’une liquidation judiciaire (avril 2009) et d’un plan de cession infructueux (août 2009).		
+2009	04			2009	04			d__une_liquidation_judiciaire	Le dernier exploitant, Rencast Léman, a fait l’objet d’un plan de continuation, puis d’une liquidation judiciaire (avril 2009) et d’un plan de cession infructueux (août 2009).		

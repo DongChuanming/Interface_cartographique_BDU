@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04	26		2013	04	26		a_cessé	L’exploitant indique que l’activité a cessé depuis le 26 avril 2013, que les déchets et produits dangereux ainsi que les cuves de stockage ont été évacués et éliminés.	'les déchets', 'produits dangereux'	
+2018	10			2018	10			Des_travaux_de_dépollution	Des travaux de dépollution sont réalisés en septembre et octobre 2018.		
+								2_diagnostics_environnementaux	2 diagnostics environnementaux ont été réalisés en mars et juillet 2017.		
+								Des_travaux_de_dépollution	Des travaux de dépollution sont réalisés en septembre et octobre 2018.		
+2018	07			2018	07			a_été_démoli	Le site, autrefois composé d’un bâtiment en partie est, de surfaces en enrobé (zone de stationnement) et d’espaces verts en périphérie, a été démoli en juillet 2018.		
+2017	07			2017	07			2_diagnostics_environnementaux	2 diagnostics environnementaux ont été réalisés en mars et juillet 2017.		
+2013	04	26		2013	04	26		indique	L’exploitant indique que l’activité a cessé depuis le 26 avril 2013, que les déchets et produits dangereux ainsi que les cuves de stockage ont été évacués et éliminés.	'les déchets', 'produits dangereux'	
+2017	09			2017	09			de_la_cessation_d__activité	La société POINT P informe de la cessation d’activité du site en septembre 2017 pour les activités  soumises à la réglementation des installations classées (essentiellement des cuves d’hydrocarbures, fioul ou gasoil).	'd’ hydrocarbures , fioul', 'gasoil'	'La société POINT P'
+2019	03	27		2019	03	27		est_délivré	Un récépissé de cessation d'activité est délivré à l'exploitant le 27/03/2019 par la Préfecture de Loire-Atlantique.		'la Préfecture de Loire - Atlantique'

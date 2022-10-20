@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_visite_conjointe	Suite à l'incendie de fin 2005, une visite conjointe a été faite avec l'ademe pour estimer les travaux de mise en sécurité.		
+2005	12			2005	12			n_incendie	n incendie en décembre 2005 a laissé des résidus d'incendie et des pneus usagés sont présents.	"résidus d'", 'pneus usagés'	
+2005				2005				l__incendie_de	Suite à l'incendie de fin 2005, une visite conjointe a été faite avec l'ademe pour estimer les travaux de mise en sécurité.		
+2008	10	02		2008	10	02		arrêté_de_travaux_d__office	L'arrêté de travaux d'office du 02/10/2008 a permis à l'ADEME de mettre ce site en sécurité: évacuation des déchets, résidus de fusion, nettoyage des sols, vidange de cuves et nettoyage du réseau des eaux pluviales et condamnation des accès.		
+2010	04	21		2010	04	21		La_mise_en_sécurité	La mise en sécurité du site SIVP par évacuation/ élimination des déchets et limitation des accès s'est déroulée du 21 avril 2010 au 02 juillet 2010 .		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	11		2010	03	11		Une_visite_d__inspection	Une visite d'inspection en date du 11 mars 2010 a pu constater le faible enjeu environnemental de ce site, après cession de nombre de ses activités.		
+1999				1999				décide_de	En 1999, Framatome décide de se séparer de NFM.		'Framatome', 'NFM'
+1999	06			1999	06			est_rendue	L'étape A est rendue en juin 1999 et a conduit à prendre en compte 3 zones potentielles de contamination des sols :		
+1998	09	1		1998	09	1		une_étude_de_diagnostic_initial	Le 1er septembre 1998, par arrêté préfectoral, la société NFM Technologies est tenue de faire réaliser une étude de diagnostic initial et une évaluation simplifiée des risques (ESR) sur son site.		'la société NFM Technologies'
+1984				1984				sa_mise_en_liquidation	A sa mise en liquidation fin 1984, la société CREUSOT LOIRE est partagée entre les sociétés Usinor pour l'activité "Métallurgie", Schneider Jeumont Rail pour l'activité "Traction" et Framatome (groupe AREVA) pour l'activité "Mécanique".		'la société CREUSOT LOIRE', 'les sociétés Usinor', 'Framatome', 'groupe AREVA'
+2005	12			2005	12			une_réévaluation	En décembre 2005, suite à diverses anomalies dans des résultats d'analyses, une réévaluation de l'étude simplifiée a été réalisée par NFM.		'NFM'
+2001	10	1		2001	10	1		Un_plan_de_restructuration_est_lancé	Un plan de restructuration est lancé avec cession de l'activité "usinage", effectivement réalisée le 1er octobre 2001.		
+1997				1997				renommée_NFM_Technologies	En fin 1989 est créée Neyrpic Framatome Mécanique, filiale à 100% de Framatome, renommée NFM Technologies en 1997.		'Neyrpic Framatome Mécanique', 'Framatome', 'NFM Technologies'
+2001	03			2001	03			sont_rendues	L'étape B et l'Étude Simplifiée des Risques sont rendues en mars 2001.		
+2003	01	22		2003	01	22		ont_été_actées	Des servitudes de restriction d'usage pour les parcelles cadastrées BE n° 343 et 346 ont été actées le 22 janvier 2003.		
+1989				1989				est_créée	En fin 1989 est créée Neyrpic Framatome Mécanique, filiale à 100% de Framatome, renommée NFM Technologies en 1997.		'Neyrpic Framatome Mécanique', 'Framatome', 'NFM Technologies'
+2001	12			2001	12			devient_propriétaire	SA HARFLEUR devient propriétaire, en décembre 2001, des terrains et bâtiments occupés précédemment par NFM.		'SA HARFLEUR', 'NFM'
+2001	04			2001	04			crée	En avril 2001, AREVA crée la SA HARFLEUR 2000 dont la vocation est la reconversion et la ré-industrialisation de sites industriels.		'AREVA', 'la SA HARFLEUR 2000'

@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				ont_été_évacuées	2 cuves de capacité inconnue contenant des solvants étaient initialement présentes sur le site à l’Ouest du bâtiment n°1 ; celles-ci ont été évacuées vers 2005.		
+2015	03			2015	03			ont_été_implantés	4 piézomètres ont été implantés au droit du site lors des travaux de remblaiement en mars 2015 sur une profondeur de 5 m.		
+2015	03			2015	03			Une_campagne_de_mesures	Une campagne de mesures a été réalisée en mars 2015.		
+								2_campagnes_de_mesures	Par courrier du 20 août 2016, Monsieur le Préfet de Seine-et-Marne a demandé à la Société de maintenir la surveillance des eaux souterraines jusqu’à la fin de l’année 2018 (4 ans au total) à raison de 2 campagnes de mesures et d’analyses par an (vers mars/avril et vers septembre/octobre).		'le Préfet'
+2015	10	29		2015	10	29		la_cessation_des_activités	Par courrier du 2 décembre 2014 (reçu en juin 2015), complété par courrier du 29 octobre 2015, la Société a notifié à Monsieur le Préfet de Seine-et-Marne la cessation des activités du site ; les activités ont été arrêtées le 31 décembre 2014.		'le Préfet'
+2018	05			2018	05			la_campagne	Ces concentrations n'ont pas été mises en évidence lors de la campagne de mai 2018.		
+2012				2012				a_été_arrêtée	L’activité grenaillage a été arrêtée en 2012 (facture de démantèlement du 14 octobre 2015 pour une intervention en novembre 2014).		
+2015	08	20		2015	08	20		La_visite_d__inspection	La visite d’inspection réalisée le 20 août 2015 a permis de vérifier la conformité des travaux vis à vis de ce qui avait été annoncé par la Société.		'la Société'
+2016	08	18		2016	08	18		a_été_transmis	Le récépissé de notification de cessation d'activité du 18 août 2016 a été transmis à la Société par courrier du 18 août 2016.		
+2014	12	31		2014	12	31		ont_été_arrêtées	Par courrier du 2 décembre 2014 (reçu en juin 2015), complété par courrier du 29 octobre 2015, la Société a notifié à Monsieur le Préfet de Seine-et-Marne la cessation des activités du site ; les activités ont été arrêtées le 31 décembre 2014.		'le Préfet'
+1987				1987				exerçait	La Société PHILIPPE LASSARAT exerçait depuis 1987 des activités de sablage, grenaillage et peinture industrielle afin de traiter les surfaces métalliques et les appareils chaudronnés contre la corrosion.		'La Société PHILIPPE LASSARAT'
+2015				2018				D__autres_campagnes_de_surveillance	D'autres campagnes de surveillance ont par la suite été menées entre 2015 et 2018.		
+2014	12			2014	12			ont_été_réalisés	Au regard des résultats obtenus, 6 sondages complémentaires ont été réalisés en décembre 2014 (S15 à S20), jusqu’à une profondeur de 2 m, au droit notamment de l’ancienne cuve de stockage et de l’un des ateliers.		
+2015	03			2015	03			__les_travaux_ont_été_effectués	- un rapport de fin de travaux, purge de terres impactées aux BTEX publié en mai 2015 ; les travaux ont été effectués en mars 2015.	'BTEX'	
+2012				2012				évacuée_du_site	- bâtiment n°1 au Sud-Ouest : GNR (Gazole Non Routier), évacuée du site en 2012.	'GNR ( Gazole Non Routier'	
+2015	06	03		2015	06	03		a_été_envoyé	Ce courrier a été envoyé à Monsieur le Préfet de Seine-et-Marne le 3 juin 2015.		'le Préfet de Seine-et-Marne'
+2014	12			2014	12			__diagnostic	- un rapport relatif au mémoire de cessation d’activité publié en décembre 2014 (diagnostic des sols réalisé sur le site en octobre 2014),		
+2014	10			2014	10			des_sols_réalisé	- un rapport relatif au mémoire de cessation d’activité publié en décembre 2014 (diagnostic des sols réalisé sur le site en octobre 2014),		
+2014	10			2014	10			du_diagnostic_de_sols_réalisé	Les paramètres recherchés sont ceux du diagnostic de sols réalisé en octobre 2014.		
+2014	11			2014	11			une_intervention_en	L’activité grenaillage a été arrêtée en 2012 (facture de démantèlement du 14 octobre 2015 pour une intervention en novembre 2014).		
+2014	12			2014	12			a_été_publié	Un dossier de cessation d’activité a été publié fin décembre 2014 par le bureau d’études DEKRA.		'DEKRA'
+2015	03			2015	03			des_travaux_ont_été_réalisés	Selon le rapport de fin de travaux, purge de terres impactées aux BTEX (travaux de réhabilitation), des travaux ont été réalisés en mars 2015 au droit de 2 zones, sondages S13 et S18, sur la zone extérieure située au Sud-Ouest du site et des ateliers, conformément à ce qui a été recommandé par le bureau d’études dans le rapport de décembre 2014.	'BTEX'	
+2014	11			2014	11			a_été_arrêtée	L’activité grenaillage a été arrêtée en 2012 (facture de démantèlement du 14 octobre 2015 pour une intervention en novembre 2014).		
+2014				2014				évacuée_du_site	- bâtiment n°2 à l’Est : GNR (Gazole Non Routier), évacuée du site en 2014,	'GNR ( Gazole Non Routier'	
+2019	02	12		2019	02	12		par_courrier	Au regard de ce qui précède, Madame la Préfète de Seine-et-Marne a pris acte par courrier du 12 février 2019 de la requête concernant l’arrêt de la surveillance de la qualité des eaux souterraines sur le site sis rue de la gare à YEBLES.		'la Préfète', 'de Seine-et-Marne'

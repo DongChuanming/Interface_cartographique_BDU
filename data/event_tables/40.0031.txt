@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	08		2009	10	08		décide	Le 08/10/2009, suite à la suspicion d'une fuite d'huile, l'exploitant décide d'affiner l'étude hydrogéologique afin de mettre en place un nouveau réseau opérationnel de surveillance de la nappe.		
+2011	09	09		2011	09	09		propose	Le 09/09/2011, l'inspection propose la modification des modalités de surveillance semestrielle de la nappe par 7 piézomètres avec la mesure des paramètres trichloréthylène et tétrachloréthylène, HCTX et pH.	'trichloréthylène', 'tétrachloréthylène', 'HCTX'	
+2010	09			2010	09			Les_campagnes_de	Les campagnes de septembre 2010, décembre et février 2011 sur le nouveau de réseau de piézomètres confirment l'absence de tétrachlorure de carbone.	'tétrachlorure', 'carbone'	
+								Les_campagnes_de	Les campagnes de septembre 2010, décembre et février 2011 sur le nouveau de réseau de piézomètres confirment l'absence de tétrachlorure de carbone.	'tétrachlorure', 'carbone'	
+1999	04	13		1999	04	13		Les_études_remises	Les études remises les 13/04/1999 et 05/10/1999 classent le site en 1 pour le milieu "eaux souterraines non AEP", nécessitant des investigations complémentaires.		
+2010	04			2010	04			Les_campagnes_De	Les campagnes De mars et avril 2010 ne montrent aucune présence de polluants ( valeurs limites en dessous des limites de détection).	'polluants'	
+2010				2010				est_opérationnel	Ce nouveau réseau est opérationnel depuis l'été 2010.		
+2008	06			2008	06			La_campagne_de	La campagne de juin 2008 montre une situation non satisfaisante au niveau du piézomètre PZ3 avec 12 µg/l environ de tetrachloroéthylène + trichloroéthylène.	'tetrachloroéthylène + trichloroéthylène'	
+1999	10	05		1999	10	05		Les_études_remises	Les études remises les 13/04/1999 et 05/10/1999 classent le site en 1 pour le milieu "eaux souterraines non AEP", nécessitant des investigations complémentaires.		
+2005	08			2005	08			classe	L'ESR, actualisée en août 2005, classe le site en classe 2 "à surveiller" mais avec une incertitude de 25%.		"L' ESR"
+2011	09			2011	09			La_campagne_de	La campagne de septembre 2011 montre une situation stable.		
+2011	09	09		2011	09	09		l__interprétation	Le 09/09/2011, l'inspection demande l'interprétation des résultats à l'exploitant.		
+2010				2010				depuis_l_	Ce nouveau réseau est opérationnel depuis l'été 2010.		
+2011	02			2011	02			Les_campagnes_de	Les campagnes de septembre 2010, décembre et février 2011 sur le nouveau de réseau de piézomètres confirment l'absence de tétrachlorure de carbone.	'tétrachlorure', 'carbone'	
+2011	01	06		2011	01	06		rappelle_les_dits_engagements	La DREAL rappelle les dits engagements le 06/01/2011.		'La DREAL'
+2010	07			2010	07			est_opérationnel	Ce réseau est opérationnel depuis juillet 2010.		
+2016	06	03		2016	06	03		le_traitement_des_sols	L'arrêté préfectoral du 03/06/2016 prescrit le traitement des sols et de la nappe par la technique du "sparging/venting".		
+2010	07			2010	07			est_opérationnel	Le nouveau réseau piézométrique est opérationnel depuis juillet 2010.		
+2010	01	25		2010	01	25		des_campagnes_bimestrielles	Le 25/01/2010, l'exploitant s'engage à réaliser des campagnes bimestrielles, d'en dresser le bilan et de proposer les actions complémentaires nécessaires.		
+2001	01	22		2001	01	22		La_campagne	La campagne du 22/01/2001 montre une situation non satisfaisante mais en diminution très nette pour ce qui concerne le tétrachlorure de carbone dans la nappe.	'tétrachlorure de carbone'	
+2007				2007				Les_campagne_de	Les campagne de 2007 ne montre pas d'impact en composés organo-halogénés volatils.	'composés'	
+2008	10			2008	10			La_campagne_d_	La campagne d'octobre 2008 montre une situation non satisfaisante au niveau du piézomètre PZ3 avec 2,63 µg/l environ de tétrachloroéthylène + trichloroéthylène.	'tétrachloroéthylène + trichloroéthylène'	
+								Les_campagnes_De	Les campagnes De mars et avril 2010 ne montrent aucune présence de polluants ( valeurs limites en dessous des limites de détection).	'polluants'	
+2009	03	18		2009	03	18		La_campagne_du	La campagne du 18 mars 2009 montre que la situation s'améliore avec la présence de traces de tétrachloroéthylène en PZ3 (4,13 µg/l) et de trichloroéthylène en PZ2 (2,1 µg/L).	'tétrachloroéthylène', 'trichloroéthylène'	
+1966				1966				est_installée	Cette usine est installée en zone industrielle de Tarnos (40) depuis 1966.		

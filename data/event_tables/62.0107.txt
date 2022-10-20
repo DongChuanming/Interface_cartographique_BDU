@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1900				1939				a_fonctionné	Le site a accueilli par le passé une usine à gaz qui a fonctionné de 1900 à 1939 et qui n'a jamais été exploitée par GDF.		'GDF'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de GAZ DE FRANCE ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usine à gaz entre le Ministère de l'Environnement et GAZ DE FRANCE, signé le 25 avril 1996.		'GAZ DE FRANCE', "le Ministère de l' Environnement", 'GAZ DE FRANCE'
+1952				1952				ont_été_détruites	Les installations ont été détruites en 1952.		
+2000	01			2000	01			Des_travaux_ont_été_effectués	Des travaux ont été effectués en janvier 2000.		

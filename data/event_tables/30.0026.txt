@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05			2011	05			été_réalisés_en	Les autres travaux ont été réalisés en avril-mai 2011.	'Les autres travaux ont été'	
+								été_réalisés_en	Les autres travaux ont été réalisés en avril-mai 2011.	'Les autres travaux ont été'	
+2008	08	05		2008	08	05		Suite_à_une_tentative_d__incendie_le	Suite à une tentative d'incendie le 5 août 2008 ayant provoqué des inquiétudes du voisinage, il a été décidé de murer les ouvertures .		

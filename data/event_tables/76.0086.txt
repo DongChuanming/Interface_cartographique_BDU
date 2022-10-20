@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04			1996	04			une_irisation	En avril 1996, une irisation a été découverte dans le "Petit Canal" longeant le site CHEVRON ORONITE à l'est, du côté du site exploité par TOTAL RAFFINAGE DISTRIBUTION.		'CHEVRON ORONITE', 'TOTAL RAFFINAGE DISTRIBUTION'
+1996	07			1996	07			a_été_caractérisée	L'étendue de la pollution a été caractérisée par l'exploitant qui a remis un rapport en juillet 1996.		
+1996	07			1996	07			un_rapport	L'étendue de la pollution a été caractérisée par l'exploitant qui a remis un rapport en juillet 1996.		

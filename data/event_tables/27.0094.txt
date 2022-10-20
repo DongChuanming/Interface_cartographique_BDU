@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	09	13		2012	09	13		a_été_placée_en_liquidation_judiciaire	Le 13 septembre 2012, la société a été placée en liquidation judiciaire et Maître Bérel a été nommé liquidateur par le tribunal de commerce d'Evreux.		'Evreux'
+2013	05	30		2013	05	30		a_transmis	Le 30 mai 2013, Maître BEREL a transmis à l'inspection des installations classées le dossier de cessation d'activité de la société CINRAM OPTICL DISCS.		'Maître BEREL', 'la société CINRAM OPTICL DISCS'
+1953				1953				ont_été_exercées	Depuis 1953, de nombreuses activités potentiellement polluantes ont été exercées sur le site : vernissage, métallisation, ateliers mécaniques, transformateur au PCB, cuves de stockage de fioul, pompe de distribution de carburant, traitement de surfaces...	'PCB', 'fioul', 'carburant'	
+2015	01	08		2015	01	08		La_mise_en_sécurité	La mise en sécurité du site a été finalisée et constatée par l'inspection lors d'une visite en date du 8 janvier 2015.		
+2006				2006				l__abandon_de	En 2006, l'abandon de la production des Compact-Disc au profit des DVD a entraîné une réduction du volume des bains à 1 200 l.		
+2015	01	08		2015	01	08		une_visite	La mise en sécurité du site a été finalisée et constatée par l'inspection lors d'une visite en date du 8 janvier 2015.		
+2013	06	26		2013	06	26		a_constaté	Le 26 juin 2013, l'inspection des installations classées a constaté que globalement le site avait été nettoyé. il restait cependant quelques stocks de produits chimiques et déchets sur le site.	'produits chimiques'	
+2012	05			2012	05			a_été_mise_en_redressement_judiciaire	La société a été mise en redressement judiciaire en mai 2012, entraînant le licenciement de la moitié du personnel.		
+2006				2006				une_réduction	En 2006, l'abandon de la production des Compact-Disc au profit des DVD a entraîné une réduction du volume des bains à 1 200 l.		

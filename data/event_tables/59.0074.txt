@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979				1993				exploitée	Casse automobile d'une superficie de 2200 m² exploitée de 1979 à 1993.		
+1994				1994				et_diagnostic_approfondi	- Etude des sols réalisée en 1994 et diagnostic approfondi en 1996		
+1993	03	01		1993	03	01		n__est_plus_exploité	Depuis le 01/03/1993, le site n'est plus exploité et le terrain est libre de toute activité.		
+1996				1996				et_diagnostic_approfondi	- Etude des sols réalisée en 1994 et diagnostic approfondi en 1996		

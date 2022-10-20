@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								1ère_campagne	- la surveillance de la nappe, 1ère campagne sous 2 mois.		
+2007	02			2007	02			des_travaux_de_rénovation	Lors des travaux de rénovation du dépôt en février 2007 consistant à mettre en place une cuve  supplémentaire et à remplacer le séparateur d'hydrocarbures, une pollution des sols est découverte autour des installations enterrées.	"d' hydrocarbures"	
+2009	07			2009	07			aux_compléments_de_diagnostic	Suite aux compléments de diagnostic de juillet 2009, il est prévu de pomper et de traiter l'eau de la nappe en PZ2 et d'assurer le suivi de la qualité de la nappe en PZ1 et PZ3.		
+2008	06	06		2008	06	06		Le_diagnostic_approfondi	Le diagnostic approfondi daté du 6 juin 2008 montre que :		
+2008	05	22		2008	05	22		a_eu_lieu	La constitution du bio-tertre a eu lieu le 22 mai 2008.		
+2008	07	04		2008	07	04		des_dernières_analyses	Après deux campagnes d’aération et de suivi, les résultats des dernières analyses effectuées le 4 juillet 2008, confirment l’absence de teneurs en BTEX et indiquent des valeurs inférieures aux limites de détection pour les hydrocarbures totaux.	'BTEX', 'hydrocarbures totaux'	
+2009	07			2009	07			du_diagnostic_complémentaire	La campagne réalisée dans le cadre du diagnostic complémentaire de juillet 2009 montre que l'impact est limité à la zone du dépôt et qu'il n'y a pas d'extension hors du site.		
+2007	02			2007	02			excavées_lors_des_travaux_de_rénovation	Les terres polluées, excavées lors des travaux de rénovation réalisés en février 2007, d’un volume d’environ 150 m3, ont été dans un premier temps, stockées en attente de traitement.		
+2009	07	28		2009	07	28		est_remis	Le rapport AIS est remis le 28/07/2009.		

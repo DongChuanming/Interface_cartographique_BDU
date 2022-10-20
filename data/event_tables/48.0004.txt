@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				Arrêt	Arrêt de l'utilisation des produits à base d'arsenic en 2004 et des produits à base de chrome en 2009.	'arsenic', 'chrome'	
+1995				1995				Un_diagnostic	Un diagnostic de la pollution éventuelle du sol du site a été réalisée en 1995 par l’exploitant.		
+2001				2001				la_réalisation_d__une_étude_des_sols	Sur proposition de l’inspection des installations classées M. le Préfet de la Lozère a imposé en 2001, par arrêté préfectoral, la réalisation d’une étude des sols et d’une évaluation simplifiée des risques.		'le Préfet', 'de la Lozère'
+1877				1877				a_été_créée_sur	L’usine a été créée sur l’emplacement actuel en 1877.		

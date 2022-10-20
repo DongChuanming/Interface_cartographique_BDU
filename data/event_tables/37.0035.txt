@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	20		2012	12	20		l__inspection	Suite à l'inspection du 20 décembre 2012, il ressort que depuis la mise en demeure, aucune opération de démantèlement d'installations, d'enlèvement de produits ou déchets n'a été effectuée, à l'intérieur et à l'extérieur du bâtiment.		
+2011	04	19		2011	04	19		a_été_désigné_comme_liquidateur_judiciaire	Par jugement du tribunal de commerce de Tours du 19 avril 2011, Maître VILLA a été désigné comme liquidateur judiciaire de la société.		'tribunal de commerce de Tours', 'Maître VILLA'
+1995	06	13		1995	06	13		a_été_autorisée_à_exploiter	Par arrêté préfectoral d'autorisation n°14412 du 13 juin 1995, la société AS DECAPAGE a été autorisée à exploiter un atelier de traitement de surfaces sur la commune de JOUÉ LES TOURS.		'la société AS DECAPAGE'
+2011	06	28		2011	06	28		de_la_visite	Lors de la visite du 28 juin 2011 par le service d'inspection  des installations classées, il a été noté les faits suivant:		

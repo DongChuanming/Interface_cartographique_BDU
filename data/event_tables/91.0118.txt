@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1973				__est_implantée	La société PANHARD  est implantée à Marolles-en-Hurepoix depuis 1973.		'La société PANHARD'
+2012				2012				ont_été_menées	Dans le cadre d'un projet de vente  du site, des investigations environnementales visant à  caractériser l’état du site ont été menées en 2012.		
+2014	10			2014	10			a_fait_procéder_à	En octobre 2014, l’exploitant a fait procéder à des  travaux de dépollution (excavation de 454 tonnes de terres polluées)		

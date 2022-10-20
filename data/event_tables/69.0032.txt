@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03	02		2006	03	02		ont_été_remis	Le DA et l'EDR ont été remis le 2 mars 2006.		
+2004	11	02		2004	11	02		la_réalisation_d__un_diagnostic_approfondi	Par arrêté du 2 novembre 2004, M. le préfet a demandé la réalisation d'un diagnostic approfondi et d'une évaluation détaillée des risques (EDR) (délai 18 mois).		'le préfet'
+								la_réalisation_d__un_diagnostic_approfondi	Par arrêté du 2 novembre 2004, M. le préfet a demandé la réalisation d'un diagnostic approfondi et d'une évaluation détaillée des risques (EDR) (délai 18 mois).		'le préfet'
+								une_évaluation_détaillée_des_risques	Par arrêté du 2 novembre 2004, M. le préfet a demandé la réalisation d'un diagnostic approfondi et d'une évaluation détaillée des risques (EDR) (délai 18 mois).		'le préfet'
+2011	09			2011	09			de_permis	Le projet de réaménagement qui a fait l'objet d'une demande de permis de construire déposé en septembre 2011 prévoit dans la partie est, pour 1/3 du terrain, la réalisation d'un bâtiment d'environ 9786 m² (selon le permis de construire déposé) divisé en locaux commerciaux sensés accueillir du public d'une part et la création d'un parking au droit de la lagune sur la partie ouest pour les 2/3 du terrain d'autre part.		
+2012				2012				Ce_scénario_de_dépollution	Ce scénario de dépollution a été mis en œuvre au cours du second semestre 2012.		
+								ont_été_décantées	Les eaux industrielles issues de l'usine de teinture et d'impression ont été décantées et traitées dans une lagune, jusqu'au début des années 2000.		
+1995	06	19		1995	06	19		a_été_transmis	Le diagnostic a été transmis à l'administration le 19/06/1995 et prévoit des investigations complémentaires.		
+1997	10	5		1997	10	5		a_été_transmise	Celle-ci a été transmise le l5/10/1997 et classe le site comme devant être "à surveiller" (classe 2).		
+1965				1965				a_été_créée	La zone de lagunage a été créée en 1965.		
+1995				1995				a_prescrit_un_diagnostic	En 1995, le préfet a prescrit un diagnostic de la lagune en vue de sa suppression.		'le préfet'
+2011	11	29		2011	11	29		a_revu	A la demande de l'inspection des installations classées par rapport au préfet du 29 novembre 2011, l'ancien exploitant a revu son plan de gestion des sols après avoir réalisé 8 sondages de sols supplémentaires à différentes profondeurs pour deux points chauds identifiés dans le premier plan de gestion et pour lesquels aucune mesure de dépollution n'avait été alors envisagée.		
+2012				2012				a_été_réaménagé	Dans ce cadre, le site a été réaménagé au cours du second semestre 2012.		
+2012	01	27		2012	01	27		a_analysé	Dans le cadre de la réhabilitation du site qui a fait l'objet du dernier plan de gestion transmis à la DDPP le 27 janvier 2012, l'exploitant a analysé 6 scenarii dont un a été retenu par l'exploitant.		'la DDPP'
+2011				2011				a_été_déposé	Un permis de construire relatif à un bâtiment de locaux commerciaux d'environ 9700 m2 a été déposé fin 2011.		
+								et_traitées	Les eaux industrielles issues de l'usine de teinture et d'impression ont été décantées et traitées dans une lagune, jusqu'au début des années 2000.		

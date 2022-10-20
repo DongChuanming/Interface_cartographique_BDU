@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	20		2008	03	20		prescrit_la_réalisation	Par arrêté préfectoral du 20 mars 2008, il est prescrit la réalisation :		
+2008	05			2008	05			remis	Le schéma conceptuel remis en mai 2008 met en évidence 3 sources de pollution :		
+2014				2014				les_pollutions	A la date de la dernière visite d'inspection en 2014, il a encore été constaté les pollutions suivantes : PCE et COHV dans les eaux souterraines.	'PCE', 'COHV'	
+2005	06			2005	06			l__a_transmise	La société GGB a réalisé une évaluation simplifiée des risques (ESR) et l'a transmise à l'inspection en juin 2005.		'La société GGB'

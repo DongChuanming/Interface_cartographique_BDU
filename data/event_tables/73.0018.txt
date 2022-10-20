@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				Les_travaux_pourraient_être_achevés	Les travaux pourraient être achevés en 2015.		
+2001	08	01		2001	08	01		la_mise_en_place_d_	Le site a fait l'objet de la mise en place d'une surveillance du milieu et de dispositions cadres en matière d'usage ultérieur et de réhabilitation du site par arrêté préfectoral du 01/08/2001.		
+2015				2015				La_fin_des_travaux_de_réhabilitation	La fin des travaux de réhabilitation de la partie sud est prévue en 2015, avec l'utilisation des sédiments de curage des ports du lac du Bourget (40 000 m3 à curer de décembre 2014 au printemps 2015).		
+								ont_été_fixées	Des prescriptions particulières concernant cette opération ont été fixées par arrêté préfectoral du 20/01/14 et modifiées par arrêté du 27/01/15.		
+2000	01	10		2000	01	10		Le_diagnostic_initial	Le diagnostic initial et l'ESR ont été transmis à l'administration le 10/01/2000.		
+								modifiées_par_arrêté	Des prescriptions particulières concernant cette opération ont été fixées par arrêté préfectoral du 20/01/14 et modifiées par arrêté du 27/01/15.		
+								a_participé_à	Le 27/03/14, la DREAL a participé à une réunion technique au cours de laquelle a été présenté une étude réalisée par l'ASADAC pour le compte du CISALB concernant les différentes possibilités de reconversion du site.		'la DREAL', "l' ASADAC", 'CISALB'
+2001	03	01		2001	03	01		transmis	Des compléments ont été demandés sur le dégagement de biogaz et sur l'impact des eaux superficielles et transmis en date du 01/03/2001.	'biogaz'	
+								a_été_vérifié_lors_d__une_visite	Le respect de ces prescriptions a été vérifié lors d'une visite sur site le 12/02/15.		
+1999	12	31		1999	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une Evaluation Simplifiée des Risques devait être transmise à l'administration au plus tard le 31/12/1999.		
+2013	09			2013	09			a_transmis	En parallèle, l'exploitant a transmis en septembre 2013 une étude de faisabilité de la réhabilitation de la partie la plus ancienne de la décharge, au nord de la RD 17E.		
+2003				2003				a_été_déposé	Un dossier de réhabilitation couvrant environ 20 ha a été déposé courant 2003.		
+1952				1986				a_été_exploité	Le site a été exploité de 1952 à 1986 ; le volume total de déchets déposés est estimé à 600 000 m3.		
+2014	08			2014	08			a_été_remise_en	Une nouvelle version intégrant les observations de la DREAL a été remise en août 2014.		'la DREAL'
+1998	11	23		1998	11	23		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 23/11/1998.		
+								est_programmée	Une réunion de cadrage relative à la finalisation du projet de réhabilitation est programmée le 25/02/15.		
+1999	12	31		1999	12	31		une_Evaluation_Simplifiée_des_Risques_devait	Cette étude qui comprend un diagnostic initial et une Evaluation Simplifiée des Risques devait être transmise à l'administration au plus tard le 31/12/1999.		
+2007				2007				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont débuté en 2007.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	19		2003	05	19		de_mise_en_demeure	Cette proposition s'est traduite par un arrêté préfectoral de mise en demeure du 19 mai 2003.		
+1999				1999				a_été_rachetée	Suite à sa cessation d'activité, elle a été rachetée en 1999 par l'association "Les Plasticiens Volants".		'" Les Plasticiens Volants "'
+2003	04	29		2003	04	29		d__une_visite_du_site_effectuée	Lors d'une visite du site effectuée le 29 avril 2003 l'inspection a constaté que les demandes formulées en 2001 n'ont pas été suivies d'effet et a proposé une mise en demeure à Monsieur le Préfet du Tarn.		'le Préfet du Tarn'
+2001	03	15		2001	03	15		a_été_faite	Une relance par courrier de rappel a été faite le 15 mars 2001 par l'inspection des installations classées.		
+2003	05	19		2003	05	19		l__arrêté_de_mise_en	Le propriétaire et actuel occupant des lieux l'association "Les Plasticiens Volants"visée par cette mise en demeure a indiqué qu'il apparaissait d'après les actes notariés établis à l'occasion du rachat des locaux que la parcelle devait être dépolluée et en conséquence que l'arrêté de mise en demeure du 19 mai 2003 n'était pas identifiée comme entrant dans son patrimoine et ses obligations.		'Les Plasticiens Volants"visée'
+1999	08	02		1999	08	02		a_demandé	Par courrier du 2 août 1999, l'inspection des installations classées a demandé de procéder à un diagnostic de pollution des sols et à l'évacuation des déchets encore présents sur le site.		
+1997	02	14		1997	02	14		Sa_liquidation_judiciaire	Sa liquidation judiciaire a été déclarée le 14 février 1997.		

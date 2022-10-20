@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2001				n__a_plus_été_autorisé	De 1981 jusque 2001 (fermeture définitive du site), le dépôt n’a plus été autorisé à accueillir que des déchets verts, des déchets de construction et autres encombrants.		
+				1981				il_aurait_accueilli	De 1973 jusque 1981, il aurait accueilli des ordures ménagères pour un volume total estimé de 80.000 m3.		
+2009	11	08		2009	11	08		ont_été_transmis	Des compléments ont été transmis le 08/11/2009.		
+1967	11			1967	11			a_été_autorisé	Le site, précédemment exploité en tant que carrière de calcaire, a été autorisé comme dépôt de classe 2 en Novembre 1967.		
+				2001				fermeture_définitive	De 1981 jusque 2001 (fermeture définitive du site), le dépôt n’a plus été autorisé à accueillir que des déchets verts, des déchets de construction et autres encombrants.		
+2009	09	18		2009	09	18		l__étude_demandée	La Mairie de PAILLET a transmis le 18/09/2009 à l’inspection des installations classées, l’étude demandée, réalisée par la société CANOPEE.		'La Mairie de PAILLET', 'la société CANOPEE'

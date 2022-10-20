@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				Les_différentes_études_réalisées	Les différentes études réalisées sur ce site en 1996, 1997, 1998 et 1999, ont mis en évidence la présence d'hydrocarbures jusqu'à 2m de profondeur :	'hydrocarbures'	
+2001	07			2001	07			ont_débuté	Les opérations préliminaires ont débuté en juillet 2001.		
+2001				2001				Le___traitement_de_la_pollution_en_place_a_débuté	Le  traitement de la pollution en place a débuté au troisième trimestre 2001. la société a transmis à la DRIRE fin décembre 2001 un rapport concernant les travaux réalisés.		'. la société', 'à la DRIRE'
+1985				1985				vendu	Nettoyé en surface et vendu en 1985 à SA Loire Entrepôt qui s'est chargée du démantèlement des installations et qui souhaitait une revente à SLI BAIL SICOMI.		'SA Loire Entrepôt', 'SLI BAIL SICOMI'
+1997	05	13		1997	05	13		rejette_d_	Le 13 mai 1997 et le 9 mars 1999 le tribunal administratif rejette d'une part la demande de sursis à exécution et d'autre part la requête en annulation présentées par SHELL.		'SHELL'
+1999				1999				Les_différentes_études_réalisées	Les différentes études réalisées sur ce site en 1996, 1997, 1998 et 1999, ont mis en évidence la présence d'hydrocarbures jusqu'à 2m de profondeur :	'hydrocarbures'	
+1920				1976				exploité	Ancien dépôt d'hydrocarbures exploité par la société SHELL de 1920 à 1976.	'hydrocarbures'	'la société SHELL'
+2000	06	26		2000	06	26		programme_de_dépollution	La DRIRE a en conséquence demandé à SHELL la définition d'un programme de dépollution du site qui lui a été présenté le 26 juin 2000.		'La DRIRE', 'SHELL'
+2002	06	20		2002	06	20		signé	Après analyse, un procès verbal de récolement a été établi et un arrêté préfectoral signé en date du 20 juin 2002 imposant une surveillance de la nappe phréatique.		
+1998				1998				Les_différentes_études_réalisées	Les différentes études réalisées sur ce site en 1996, 1997, 1998 et 1999, ont mis en évidence la présence d'hydrocarbures jusqu'à 2m de profondeur :	'hydrocarbures'	
+2001	12			2001	12			a_transmis	Le  traitement de la pollution en place a débuté au troisième trimestre 2001. la société a transmis à la DRIRE fin décembre 2001 un rapport concernant les travaux réalisés.		'. la société', 'à la DRIRE'
+				1999	03	09		rejette_d_	Le 13 mai 1997 et le 9 mars 1999 le tribunal administratif rejette d'une part la demande de sursis à exécution et d'autre part la requête en annulation présentées par SHELL.		'SHELL'
+1996				1996				Les_différentes_études_réalisées	Les différentes études réalisées sur ce site en 1996, 1997, 1998 et 1999, ont mis en évidence la présence d'hydrocarbures jusqu'à 2m de profondeur :	'hydrocarbures'	

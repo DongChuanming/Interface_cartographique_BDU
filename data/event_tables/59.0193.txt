@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	18		2000	12	18		Etude_diagnostic	Etude diagnostic de sous sol rapport d'intervention, réalisé à la date du 18/12/2000.		
+1999	06	25		1999	06	25		réalisée_à_la	ESR réalisée à la date du 25/06/1999.		
+2000	12	18		2000	12	18		réalisé	Etude diagnostic de sous sol rapport d'intervention, réalisé à la date du 18/12/2000.		
+1981				1981				a_été_créée	SIPC a été créée en 1981 pour la reprise des activités de la société PROCHIM.		'SIPC', 'la société PROCHIM'
+2006				2006				Travaux	Travaux en 2005-2006: dégazage, nettoyage et démontage des anciennes cuves d'hydrocarbures, confinement de la zone polluée.	'hydrocarbures'	
+2004	01	22		2004	01	22		est_imposée	Une surveillance des eaux souterraines est mise en place :cette surveillance est imposée par arrêté préfectoral complémentaire du 22/01/2004.		
+2005				2005				Travaux	Travaux en 2005-2006: dégazage, nettoyage et démontage des anciennes cuves d'hydrocarbures, confinement de la zone polluée.	'hydrocarbures'	

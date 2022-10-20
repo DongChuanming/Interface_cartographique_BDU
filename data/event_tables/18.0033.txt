@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1933				1933				a_été_construite	L'usine a été construite en 1933 pour la production de pâte à papier.		
+1960				1960				est_vendue_à	En 1960, l'usine est vendue à DENISON ENGINEERING.		'DENISON ENGINEERING'
+1999	06			1999	06			un_diagnostic	Dans le cadre de sa démarche de certification ISO 14001, la société DENISON HYDRAULICS a fait réaliser un diagnostic de l'état de pollution des sols au droit du site en juin 1999.		'la société DENISON HYDRAULICS'
+				2004	02			se_stabilise	La concentration en hydrocarbures diminue jusqu'en février 2004 où elle se stabilise à une valeur inférieure à la valeur de référence de l'arrêté précité.	'hydrocarbures'	
+2004	04			2004	04			ont_été_excavées	Les terres souillées ont été évacuées en centre d'enfouissement technique de classe 1, c'est à dire pour les déchets dangereux. 284 tonnes de terres souillées provenant de la deuxième zone ont été excavées en avril 2004 dans les mêmes conditions d'évacuation des terres.		
+2003	09			2003	09			est_mis_en_place	Un suivi semestriel des eaux souterraines est mis en place en septembre 2003.		
+1993				1993				est_incluse_dans	En 1993, elle est incluse dans une holding et devient DENISON HYDRAULICS FRANCE S.		'DENISON HYDRAULICS FRANCE S.'
+2002	11	12		2002	11	12		a_été_déposée	L'étude historique a été déposée le 12 novembre 2002.		

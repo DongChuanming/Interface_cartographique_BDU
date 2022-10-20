@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				une_déclaration	Un de ces bâtiments a fait l'objet d'une déclaration au titre de la rubrique n°1510 (entrepôts de matières combustibles) en 1999.		
+2007	04	23		2007	04	23		Rapport_de_surveillance	Rapport de surveillance de la nappe superficielle, campagne du 23 avril 2007 : Présence dans la nappe de nickel et d’hydrocarbures à des concentrations supérieures aux VCI.	'nickel', 'hydrocarbures'	
+2003	12	08		2003	12	08		a_été_imposé	Un dispositif de surveillance a été imposé par AP du 08/12/2003.		

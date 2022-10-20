@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				évacuation_de_déchets	-Réalisation de travaux: évacuation de déchets, curage et dégazage des 7 cuves d'huiles en 1995.		
+1995				1995				ont_été_démantelés	Friche industrielle depuis 1995, tous les bâtiments ont été démantelés à l'initiative du propriétaire		
+1967				1967				de	Ancienne filature de 1858 à 1967, de 1967 à 1994, atelier de transformation de carton.		
+1994				1994				de	Ancienne filature de 1858 à 1967, de 1967 à 1994, atelier de transformation de carton.		
+2005	05	09		2005	05	09		_Diagnostic_approfondi	-Diagnostic approfondi et EDR réalisés par Burgeap,le 09/05/2005.		
+2002	03			2002	03			_Réalisation_d__une_étude_de_sols	-Réalisation d'une étude de sols en mars 2002 par Eurica.		'Eurica'
+2002	09			2002	09			_Réalisation_d__une_étude_de_sols	-Réalisation d'une étude de sols en septembre 2002 par Burgeap.		'Burgeap'
+2002	09	17		2002	09	17		_Arrêté	-Arrêté du 17/09/2002 impose la poursuite des investigations et le classement ESR du site.		
+2003	02	20		2003	02	20		imposée_par_arrêté	- Surveillance piézométrique imposée par arrêté du 20/02/2003 et mise en place.		
+2001	12	13		2001	12	13		__reçue	-Suite à l'arrêté du 26 octobre 2001, une étude de sols  phase A a été réalisée (reçue le 13/12/2001).		
+2005	02			2005	02			Le_dernier_relevé	Le dernier relevé remonte à février 2005.		
+2001	10	26		2001	10	26		une_étude_de_sols	-Suite à l'arrêté du 26 octobre 2001, une étude de sols  phase A a été réalisée (reçue le 13/12/2001).		

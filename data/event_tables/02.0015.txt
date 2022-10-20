@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01	19		2001	01	19		La_liquidation_judiciaire	La liquidation judiciaire de la société EMAILLERIE DE L'AISNE a été clôturée le 19 janvier 2001 pour insuffisance d'actif.		"la société EMAILLERIE DE L' AISNE"
+2003	07	27		2003	07	27		une_visite	Dans ce cadre, une visite du site a eu lieu le 27 juillet 2003 et a permis d'identifier les déchets dangereux présents sur le site.	'les déchets dangereux'	
+2000	08	22		2000	08	22		La_mise_en_demeure_a_été_prise	La mise en demeure a été prise par monsieur le préfet de l'Aisne le 22 août 2000.		'le préfet'
+2013	01	15		2013	01	15		a_été_signé	L'arrêté préfectoral prescrivant l'exécution des travaux d'office de mise en sécurité du site a été signé le 15 janvier 2013.		
+								a_été_exploité_industriellement	Ce site a été exploité industriellement durant plus de 50 années, pour l'émaillage et le nickelage de pièces métalliques; le nickelage a été abandonné au cours des années 80.		
+2006	10			2006	10			a_été_signé	Suite à la réalisation d'une Etude Détaillée des Risques en octobre 2006, un arrêté préfectoral a été signé le 07/05/2007.		
+2012	06	06		2012	06	06		Une_visite_préalable	Une visite préalable du site avec un chef de projets sites et sols pollués de l’ADEME a eu lieu le 6 juin 2012.		
+1992				1997				a_exploité	La société EUREMALCO France a exploité ces activités de 1992 à 1997.		'La société EUREMALCO France'
+2004	07	26		2004	07	26		l__enlèvement_des_déchets_dangereux	Le 26/07/2004, l'inspection des installations classées a constaté l'enlèvement des déchets dangereux et des transformateurs imprégnés de pyralène.	'des déchets dangereux', 'pyralène'	
+2001	03	1		2001	03	1		a_transmis	Suite à une relance de l'inspection des installations classées, le liquidateur judiciaire a transmis, le 1er mars 2001, l'étude documentaire qui lui avait été demandée.		
+2009				2009				La_reconversion	La reconversion  de la friche  en zone résidentielle a été envisagée en 2009.		
+2007	05	07		2007	05	07		a_été_signé	Suite à la réalisation d'une Etude Détaillée des Risques en octobre 2006, un arrêté préfectoral a été signé le 07/05/2007.		
+2006	10			2006	10			la_réalisation_d__une_Etude_Détaillée_des_Risques	Suite à la réalisation d'une Etude Détaillée des Risques en octobre 2006, un arrêté préfectoral a été signé le 07/05/2007.		
+1997				1997				ont_été_reprises	En 1997, les activités de la société EUREMALCO France ont été reprises par la société EMAILLERIE DE L'AISNE puis elles ont cessé en 1999.		'la société EUREMALCO France', "la société EMAILLERIE DE L' AISNE"
+								réaliser_la_dite_étude	L'étude documentaire prescrite au dernier exploitant par arrêté préfectoral du 16 octobre 1998 n'ayant pas été suivi d'effet, l'inspection a proposé de mettre le mandataire liquidateur en demeure de réaliser la dite étude sous 3 mois par rapport du 4 juillet 2000.		
+2012	12	13		2012	12	13		a_donné_son_accord	Le ministère en charge de l'environnement a donné son accord le 13/12/2012 pour une intervention ADEME .		'Le ministère'
+2000	11			2000	11			Cette_étude_a_été_réalisée	Cette étude a été réalisée par le cabinet ICF environnement en novembre 2000 conclut à la nécessité de réaliser une Etude Simplifiée des Risques sur ce site.		'le cabinet ICF environnement'
+1968				1999	02			exploité	Atelier de traitement de surfaces et d'émaillage exploité entre 1968 et février 1999 (date de mise en liquidation judiciaire).		
+								a_été_abandonné	Ce site a été exploité industriellement durant plus de 50 années, pour l'émaillage et le nickelage de pièces métalliques; le nickelage a été abandonné au cours des années 80.		
+1999				1999				ont_cessé	En 1997, les activités de la société EUREMALCO France ont été reprises par la société EMAILLERIE DE L'AISNE puis elles ont cessé en 1999.		'la société EUREMALCO France', "la société EMAILLERIE DE L' AISNE"
+1999				1999				ont_été_reprises	En 1997, les activités de la société EUREMALCO France ont été reprises par la société EMAILLERIE DE L'AISNE puis elles ont cessé en 1999.		'la société EUREMALCO France', "la société EMAILLERIE DE L' AISNE"
+2012	04	20		2012	04	20		s__est_rendue_sur_place	La  DREAL s’est rendue sur place le 20 avril 2012 en présence de M. le Maire de BELLEU.		'La   DREAL', 'M. le Maire de BELLEU'
+2010	07			2010	07			l__aménageur	Toutefois au regard des nombreuses contraintes liées à la pollution des sols et des eaux souterraines, l'aménageur n'a pas souhaité donner suite à ce projet (juillet 2010).		

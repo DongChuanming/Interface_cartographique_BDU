@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	25		2004	10	25		La_réalisation_d__une_telle_étude_est_prescrite	La réalisation d'une telle étude est prescrite par arrêté complémentaire du 25 octobre 2004.		
+2004				2004				du_diagnostic	La société demande la suspension de l'application de l'arrêté complémentaire de 2004 basée sur la révision incontestable du diagnostic de 2004, son engagement à procéder à la dépollution de la source sol et le manque d'adéquation entre la prescription et l'impact nul observé.		'La société'
+2000				2000				met_en_place	En 2000, la société SANEST met en place un réseau de surveillance des eaux souterraines constitué de 3 ouvrages.		'la société SANEST'

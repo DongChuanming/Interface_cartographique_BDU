@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02	16		2012	02	16		a_été_délivré_par	Suite à l’étude de ces documents, le récépissé de cessation des activités a été délivré par la préfecture le 16/02/2012 et l'inspection des installations classées a demandé à TOTAL de :		'la préfecture'
+2011	02	18		2011	02	18		Une_analyse_des_risques_résiduels	- Une analyse des risques résiduels (ARR), datée du 18/02/2011, a démontré que l’état résiduel du sous-sol au droit du site était  compatible avec un usage de type résidentiel, commercial ou industriel.		
+1968	10	21		1968	10	21		a_été_déclarée	Cette station service classée à déclaration, a été déclarée le 21/10/1968.		
+2013	08	22		2013	08	22		a_été_demandé	Une copie de l’acte de vente notarié signé entre les parties, lors de la cession du terrain a été demandé à TOTAL dans le courrier préfectoral du 22/08/2013.		
+								Les_campagnes_de	Les campagnes de mai et de novembre 2011 n’ayant pas mis en évidence d’hydrocarbures dans les eaux souterraines, l’arrêt de la surveillance est préconisé.	'hydrocarbures'	
+				2008	11	06		Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés du 30 octobre au 06 novembre 2008.		
+2011	11			2011	11			Les_campagnes_de	Les campagnes de mai et de novembre 2011 n’ayant pas mis en évidence d’hydrocarbures dans les eaux souterraines, l’arrêt de la surveillance est préconisé.	'hydrocarbures'	
+				2018	06	15		qui___eu_lieu	Suite à l'enquête publique qui  eu lieu du 14 mai au 15 juin 2018, l'arrêté de SUP a été signé le 13/11/2018.		
+2007	12	04		2007	12	04		La_notification_de_cessation_des_activités	La notification de cessation des activités a été adressée à la préfecture du Val-de-Marne le 04/12/2007.		
+2018	11	13		2018	11	13		a_été_signé	Suite à l'enquête publique qui  eu lieu du 14 mai au 15 juin 2018, l'arrêté de SUP a été signé le 13/11/2018.		
+2013	08	22		2013	08	22		L__arrêt_de_la_surveillance	L’arrêt de la surveillance de la nappe a donc été acté, dans le rapport de l’inspection du 19/08/2013 et par le courrier préfectoral du 22/08/2013.		
+2008	04			2008	04			a_été_mis_en_place	Le suivi a été mis en place en avril 2008.		
+2017	05	02		2017	05	02		a_transmis	Le 02/05/2017, l'exploitant a transmis un dossier de servitudes d'utilité publique (SUP).		
+2008	12	10		2008	12	10		Un_diagnostic	- Un diagnostic daté du 10/12/2008 mettant en évidence la présence, dans les sols, une pollution en hydrocarbures (C10-C40 : 3000 à 7500 mg/kg).	'hydrocarbures', 'C10-C40'	
+2011	02	18		2011	02	18		L__analyse	L’analyse des risques résiduels en date du 18/02/2011, a démontré que l’état résiduel du sous-sol au droit du site était compatible avec un usage de type résidentiel, commercial ou industriel, sous réserve :		
+2008	10	30		2008	10	30		Les_certificats_de_dégazage	- Les certificats de dégazage du 30/10/2008 et de ferraillage du 31/10/2008, pour 5 cuves (1 cuve de 30 m3, 1 cuve de 10 m3, 2 cuves de 7,5 m3 et une cuve de 3 m3) ;		

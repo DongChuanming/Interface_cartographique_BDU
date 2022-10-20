@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				une_première_étude_environnementale	En 1996, une première étude environnementale a été menée par le bureau d’études ATE pour définir un état des lieux.		'ATE'
+2016	08			2016	08			ont_été_installées	Afin de compléter la caractérisation de la zone 1, 10 aiguilles complémentaires ont été installées (A20 à A29) en août 2016.		
+2012	11			2012	11			Les_travaux_de_mise_en_place	Les travaux de mise en place du système de traitement ont démarré en novembre 2012.		
+2011	08			2011	08			Une_campagne_complémentaire	Une campagne complémentaire de surveillance de la qualité des eaux souterraines a été réalisée en août 2011.		
+2010				2010				ont_été_identifiées	Sur la base des investigations menées en 1996 et 2010, trois zones sources ont été identifiées :		
+2016	10			2016	10			Des_prélèvements_complémentaires	Des prélèvements complémentaires de gaz des sols et d’eaux souterraines ont été réalisées, en octobre 2016, au droit de cette source concentrée et en aval de cette source (aiguille A3).		
+2013	10	14		2013	10	14		a_été_réalisé	Le raccordement électrique des systèmes de l'unité de traitement a été réalisé le 14 octobre 2013.		
+1991	03	29		1991	03	29		est_régulièrement_autorisé	L'établissement est régulièrement autorisé par arrêté préfectoral du 29 mars 1991.		
+2016	07			2016	07			la_cessation_partielle_de_ces_activités	En juillet 2016, l'exploitant a déclaré la cessation partielle de ces activités (passage du régime de l'autorisation à la déclaration).		
+1975				1975				exploite	La société UNIVAR exploite depuis 1975 un établissement situé sur le territoire de la commune de Carquefou, au cœur de la zone industrielle Nantes-Carquefou, 6 rue Nouveau Bêle, dont les activités principales sont :		'La société UNIVAR'
+1996				1996				ont_été_identifiées	Sur la base des investigations menées en 1996 et 2010, trois zones sources ont été identifiées :		
+2017	01			2017	01			son_dossier	Dans son dossier de janvier 2017 relatif à la cessation partielle de ces activités, l'exploitant a proposé de:		
+2010	06			2010	06			Un_diagnostic_complémentaire_du_sous_sol	Un diagnostic complémentaire du sous-sol a été menée en juin 2010 par le bureau d’études URS (actuellement AECOM).		'URS'

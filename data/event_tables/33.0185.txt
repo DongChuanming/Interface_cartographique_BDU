@@ -1,0 +1,36 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08	07		2009	08	07		saisit	Le 07/08/2009, la DRIRE saisit L'ADEME pour la prise en charge du suivi de la qualité de la nappe et et de l'air ambiant de la maison d'habitation.		'la DRIRE'
+2004	12			2004	12			Les_analyses_d__air_réalisées	Les analyses d'air réalisées dans une chambre de l'habitation, à la demande du propriétaire en décembre 2004, font état de concentrations importantes d'hydrocarbures et de Benzène.	'hydrocarbures', 'Benzène'	
+2013	1			2013	1			fait_le_constat	L'inspection fait le constat suivant le 1erjuillet 2013 :		
+2011	02	28		2011	02	28		est_signé	Sur proposition de la DREAL du 15/02/2010, l'arrêté de travaux d'office est signé le 28/02/2011.		'la DREAL'
+2007	07			2007	07			décède	L'ancienne exploitante décède en juillet 2007.		
+2006	08	22		2006	08	22		sont_transmis	Ceux-ci sont transmis le 22 août 2006.		
+2010	04	29		2010	04	29		est_remise	La fiche de présentation à la Commission Nationale des aides est remise le 29/04/2010 en préparation et fait état de 4 contrôles sur 1 an de la qualité de l'air intérieur sur les COV en 2 points intérieurs et 1 point extérieur ainsi que de 2 campagnes de prélèvements et d’analyses de la nappe sur 3 puits.	'les COV'	'la Commission Nationale'
+2006	01	26		2006	01	26		Le_procès_verbal_de_récolement	Le procès-verbal de récolement des travaux est dressé le 26 janvier 2006.		
+2010	06	08		2010	06	08		saisit	Sur proposition de la DREAL du 06/05/2010, le Préfet saisit le Ministère chargé de l'environnement le 08/06/2010 qui donne son autorisation le 27 juillet 2010.		'la DREAL', 'le Préfet'
+2013	07			2013	07			les_investigations_devraient_être_menées	- Selon l'ADEME, les investigations devraient être menées dans le mois de juillet 2013, sondages, piézomètres, analyses, etc.		
+2016	01			2016	01			__pose_des_ouvrages	- pose des ouvrages en janvier 2016 : puits de venting et de sparging, piézairs sentinelles (en périphérie de parcelle, pour observation d'une éventuelle migration latérale de la pollution en cas de défaut dans le dimensionnement du système de traitement),		
+2000	08	09		2000	08	09		la_cessation_définitive_d__activité	Le 9 août 2000, la cessation définitive d'activité de la station service et du garage  est déclarée.		
+								de_4_contrôles	La fiche de présentation à la Commission Nationale des aides est remise le 29/04/2010 en préparation et fait état de 4 contrôles sur 1 an de la qualité de l'air intérieur sur les COV en 2 points intérieurs et 1 point extérieur ainsi que de 2 campagnes de prélèvements et d’analyses de la nappe sur 3 puits.	'les COV'	'la Commission Nationale'
+2015	10			2015	10			__les_travaux_devraient_démarrer	Selon la procédure de passation du marché par l'ADEME, les travaux devraient démarrer en octobre 2015.		
+2016	01	06		2016	01	06		le_chantier_va_démarrer	Finalement, le chantier va démarrer le mercredi 6 janvier 2016 par la réalisation des puits hors emprise de la maison.		
+2016	09	09		2016	09	09		démarrage	- démarrage le 9 septembre 2016 de 3 mois de stop & go (alternance de phases de 15 j de traitement et de 15 j d'arrêt complet), pour observation du niveau de remobilisation des polluants pendant les phases d'arrêt,	'polluants'	
+2012				2012				résultats_de_mesures	Suite aux résultats de mesures de la qualité de l'air dans la maison d'habitation en 2012, l'arrêté préfectoral du 19 juin 2013 prescrit à l'ADEME de mener les investigations de terrains nécessaires à l'élaboration d'un plan de gestion permettant de traiter la pollution et ainsi, de ramener durablement une qualité de l'air intérieur de l'habitation sans risque pour ses occupants.		
+2016	01	06		2016	01	06		Le_chantier_a_démarré	Le chantier a démarré le mercredi 6 janvier 2016 par la réalisation des puits hors emprise de la maison.		
+2009	01			2009	01			n__a_été_connu	Le rapport du cabinet CERAG du 14/12/2001, qui n'a été connu de l'administration qu'en janvier 2009, relatif aux analyses de sols montrait un point particulièrement impacté à 4200 mg/kg dans la zone d'Installation de la conduite AEP.		'CERAG'
+2005	04	29		2005	04	29		arrêté	L'arrêté du 29 avril 2005 prescrit à l'encontre de l'ancien exploitant des travaux d'excavation des terres polluées et de pompage des eaux polluées de la nappe dans l'emprise du chantier ainsi que la surveillance de l'air ambiant de la maison d'habitation.		
+2013	11	08		2013	11	08		la_réunion	Les conclusions du diagnostic AMDE et la proposition de mesures de gestion ont été présentées par l'ADEME à la famille SUILS lors de la réunion en mairie du 08 novembre 2013 sous la présidence du Sous-Préfet d'Arcachon.		'la famille SUILS', "Sous-Préfet d' Arcachon"
+								la_période_de_hautes_eaux	- la période de hautes eaux de début juillet n'était pas favorable à la caractérisation de la source sols (zone de battement), toutefois, au vu des résultats, on peut estimer que la nappe ne constitue pas une source (transfert vers le sol, puis vers l'air ambiant),		
+2013	07			2013	07			Les_investigations_de_terrain	Les investigations de terrain ont été menées par le bureau d'études AMDE en juillet 2013.		'AMDE'
+2016	02	04		2016	02	04		démarrage_du_venting	- démarrage du venting le 4 février 2016, pour purge initiale des sols,		
+2013	08			2013	08			a_été_remis_à	Le rapport intermédiaire AMDE a été remis à l'ADEME en août 2013 et présenté à la DREAL le 08 octobre 2013.		
+2016	05	12		2016	05	12		démarrage_du_sparging	- démarrage du sparging le 12 mai 2016,		
+								prescrit	L'arrêté préfectoral du 19 juin 2013 prescrit à l'ADEME la prise en charge financière du relogement de la famille SUILS pour une durée minimale de 12 mois.		
+2012				2012				Les_3_campagnes_d__analyses	Les 3 campagnes d'analyses ont été réalisées en 2012.		
+2010	07	27		2010	07	27		saisit	Sur proposition de la DREAL du 06/05/2010, le Préfet saisit le Ministère chargé de l'environnement le 08/06/2010 qui donne son autorisation le 27 juillet 2010.		'la DREAL', 'le Préfet'
+				2005	08			Les_travaux_se_déroulent	Les travaux se déroulent de juillet à août 2005.		
+2003				2003				toutes_les_parcelles_sont_construites	En 2003, toutes les parcelles sont construites.		
+				2016	03	24		arrêt_du_venting	- arrêt du venting du 10 au 24 mars 2016, en raison du haut niveau de la nappe,		
+20113	07	1		20113	07	1		fait_le_constat	L'inspection fait le constat suivant le 1er juillet 20113 :		
+2016	12	22		2016	12	22		arrêt_du_traitement	- arrêt du traitement le 22 décembre 2016 et démarrage du protocole de réception,		
+2007				2007				fait_réaliser_des_analyses	En 2007, le propriétaire fait réaliser des analyses de sols dans la dite zone qui montrent la présence d'hydrocarbures à des faibles teneurs (600 mg/kg).	'hydrocarbures'	

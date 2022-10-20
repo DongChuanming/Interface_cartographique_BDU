@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	03		1999	12	03		évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 03 décembre 1999.		
+2005				2005				achèvement_de_la_réhabilitation	- curage progressif des boues d'hydroxyde d'aluminium contenues dans les lagunes et évacuation en cimenterie ou en centre d'enfouissement technique à partir de 1991, puis achèvement de la réhabilitation avec le remblaiement et la mise en place d'une clôture en 2005,	"hydroxyde d'", 'aluminium'	
+2001	12	01		2001	12	01		a_été_reçue	Elle a été reçue le 01 décembre 2001, classant l'intérieur du site de SOFTAL en catégorie 2 c'est-à-dire à surveiller.		'SOFTAL'
+2002	08	08		2002	08	08		a_été_signé	Le 8 août 2002, un arrêté préfectoral a été signé imposant la mise en place d'une surveillance de la qualité des eaux souterraines au droit ou à proximité du site.		
+1986	04	07		1986	04	07		a_été_prescrit	L'arrêt du stockage des boues dans les lagunes et le réaménagement de la zone a été prescrit par arrêté préfectoral du 7 avril 1986.		
+2005	10	06		2005	10	06		a_été_reçue	L'étude a été reçue le 6 octobre 2005.		
+2006				2006				_extraction	-extraction des boues de l'épingle fin 2005 - début 2006,		
+1924				1924				a_accueilli	Le site a accueilli à partir de 1924 des activités industrielles de fonderie de pièces en cuivre et en laiton qui ont été remplacées progressivement par le travail de l'aluminium.	'aluminium'	
+2005				2005				__curage_progressif	- curage progressif des boues d'hydroxyde d'aluminium contenues dans les lagunes et évacuation en cimenterie ou en centre d'enfouissement technique à partir de 1991, puis achèvement de la réhabilitation avec le remblaiement et la mise en place d'une clôture en 2005,	"hydroxyde d'", 'aluminium'	
+2005				2005				_extraction	-extraction des boues de l'épingle fin 2005 - début 2006,		

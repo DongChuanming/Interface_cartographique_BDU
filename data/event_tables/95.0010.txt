@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966				1966				A	A partir de 1966, les installations de surface liées à l'usine à gaz ont été démantelées.		
+1994	09			1994	09			a_été_purgée	La fosse à brai a été purgée en septembre 1994.		
+1998	02			1998	02			évacués_en_centre_d__incinération	Les goudrons de la fosse à goudrons ont été excavés et évacués en centre d'incinération en février 1998.	'goudrons'	
+1998	02			1998	02			ont_été_excavés	Les goudrons de la fosse à goudrons ont été excavés et évacués en centre d'incinération en février 1998.	'goudrons'	
+1952				1952				s__est_achevée	La production de gaz de houille sur le site date de 1862 et s'est achevée en 1952.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1862				1862				s__est_achevée	La production de gaz de houille sur le site date de 1862 et s'est achevée en 1952.		

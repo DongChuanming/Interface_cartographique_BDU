@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				du_diagnostic	- les piézomètres implantés à l’occasion du diagnostic de 2003 n’ont pu être retrouvés (les deux ouvrages ont certainement été recouverts par des matériaux en transit sur le site).		
+2017	05	04		2017	05	04		a_été_adressé	Un compte rendu d’intervention a été adressé le 4 mai 2017 à l’inspection des installations classées.		
+2012	12	19		2012	12	19		un_incendie_est_survenu	Enfin, un incendie est survenu sur le site le 19/12/2012, détruisant l’intégralité du bâtiment de bureaux.		
+2016				2016				de_la_première_intervention	Le compte rendu conclue que ces travaux ont permis de mettre en sécurité le site et que l’absence migration des pollutions confirme le diagnostic réalisé lors de la première intervention ADEME en 2015-2016.		
+2009	10	09		2009	10	09		a_été_remise	Dans le cadre de la cessation d’activité déclarée le 30/08/2009, l’étude « diagnostic d’une installation classée pour la protection de l’environnement » datée du 20/7/2009 a été remise le 9/10/2009.		
+1975				1975				a_été_occupé	Le site a été occupé avant 1975 pour des activités de stockage d’hydrocarbures, sur la moitié environ de l’emprise du site actuel.	'stockage d’', 'hydrocarbures'	
+2013	03			2013	03			la_mise_en_sécurité_a_été_sollicitée	Le caractère impécunieux de la liquidation ayant été confirmé le 27/12/2012 par les services fiscaux, une intervention de l'ADEME pour la mise en sécurité a été sollicitée en mars 2013.		
+2009	08	30		2009	08	30		la_cessation_d__activité_déclarée	Dans le cadre de la cessation d’activité déclarée le 30/08/2009, l’étude « diagnostic d’une installation classée pour la protection de l’environnement » datée du 20/7/2009 a été remise le 9/10/2009.		
+1975				2009				a_été_réaffecté	De 1975 à 2009 le site a été réaffecté au stockage de métaux ferreux et non ferreux, y compris sur des zones non bétonnées (les zones bétonnées se limitant aux abords des 3 bâtiments).	'métaux ferreux', 'ferreux'	
+2014	03	27		2014	03	27		a_été_transmis	Une visite commune a eu lieu le 24/9/2013, et le rapport de l'ADEME a été transmis le 27/3/2014.		
+2013	09	24		2013	09	24		Une_visite_commune	Une visite commune a eu lieu le 24/9/2013, et le rapport de l'ADEME a été transmis le 27/3/2014.		
+2009	07	20		2009	07	20		a_été_remise	Dans le cadre de la cessation d’activité déclarée le 30/08/2009, l’étude « diagnostic d’une installation classée pour la protection de l’environnement » datée du 20/7/2009 a été remise le 9/10/2009.		
+2012	07	03		2012	07	03		s__est_rendu_sur	L'inspection des installations classées s'est rendu sur le site le 3 juillet 2012 et a constaté que celui-ci avait été vandalisé ; une analyse du liquide restant dans la cuve de rétention du local a été réalisée par la DREAL : elle montre que le transformateur contenait du PCB.	'la cuve de rétention', 'le transformateur contenait du PCB'	'par la DREAL'
+2009	07	20		2009	07	20		l__étude_____diagnostic	Dans le cadre de la cessation d’activité déclarée le 30/08/2009, l’étude « diagnostic d’une installation classée pour la protection de l’environnement » datée du 20/7/2009 a été remise le 9/10/2009.		
+				2009				était_exploité	Le site CHAMPAGNE METAUX RHONE (CMR) était exploité jusqu'en 2009 pour une activité de recyclage de métaux sur une surface d'environ 10000 m².		'Le site CHAMPAGNE METAUX RHONE', 'CMR'
+2012	12	27		2012	12	27		la_mise_en_sécurité_a_été_sollicitée	Le caractère impécunieux de la liquidation ayant été confirmé le 27/12/2012 par les services fiscaux, une intervention de l'ADEME pour la mise en sécurité a été sollicitée en mars 2013.		
+2011	01	06		2011	01	06		de_la_visite	Par ailleurs, lors de la visite du 6/01/2011, l'inspection des installations classées avait constaté la présence d'un transformateur (dont le diélectrique n'était pas connu).		
+2018	11	05		2018	11	05		a_été_adressé	Un compte rendu d’intervention a été adressé le 5 novembre 2018 à l’inspection des installations classées.		
+				2018	10			s__est_déroulée	Une seconde intervention de l’ADEME s'est déroulée de septembre à octobre 2018.		
+2010	01	11		2010	01	11		a_été_placé_en_liquidation_judiciaire	Il a été placé en liquidation judiciaire le 11/01/2010.		
+2015	06			2016	10			Une_première_intervention	Une première intervention de l’ADEME s'est déroulée de juin 2015 à octobre 2016.		
+2014	03	27		2014	03	27		Une_visite_commune	Une visite commune a eu lieu le 24/9/2013, et le rapport de l'ADEME a été transmis le 27/3/2014.		
+2015				2015				de_la_première_intervention	Le compte rendu conclue que ces travaux ont permis de mettre en sécurité le site et que l’absence migration des pollutions confirme le diagnostic réalisé lors de la première intervention ADEME en 2015-2016.		
+2009	08	30		2009	08	30		une_déclaration_de_cessation_d__activité	Le site a fait l'objet d'une déclaration de cessation d'activité le 30/08/2009.		
+1954				1954				avait_vraisemblablement_démarré	Cette activité avait vraisemblablement démarré avant 1954, mais la durée de fonctionnement n’est pas connue.		
+2003	05	26		2003	05	26		a_été_remise	Une étude intitulée « Diagnostic de pollution du site – rapport final » établie par le bureau d’étude CSD Azur a été remise le 26/05/2003.		'étude CSD Azur'
+2010	02	19		2010	02	19		la_mise_en_place_de_restrictions	- la mise en place de restrictions d'accès au site (APMD du 19/2/2010 et AP de consignation de 10 k€ du 4/5/2010) ;		

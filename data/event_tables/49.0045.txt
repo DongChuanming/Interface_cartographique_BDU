@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				est_construite_par_tranches	A partir de 1960, l’école d’application de l’IUFM (actuellement école primaire Anne Dacier) est construite par tranches jusqu’en 1970.		
+								a_exercé	Ce site a exercé une activité de fonderie, de fonte et de travail des métaux de 1905 à 1920 puis une activité de fabrication de machines à vocation agricole (non répertoriée dans BASIAS) jusqu’à la fin des années 1990.		
+								une_activité_de_fonderie	Ce site a exercé une activité de fonderie, de fonte et de travail des métaux de 1905 à 1920 puis une activité de fabrication de machines à vocation agricole (non répertoriée dans BASIAS) jusqu’à la fin des années 1990.		
+				1970				est_construite_par_tranches	A partir de 1960, l’école d’application de l’IUFM (actuellement école primaire Anne Dacier) est construite par tranches jusqu’en 1970.		
+2011				2011				devient	En 2011, l'école d’application devient l’école municipale Anne Dacier.		
+1999				2012				des_travaux_d__entretien	Entre 1999 et 2012, des travaux d’entretien ont eu lieu.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	16		2006	02	16		a_été_signé	Suite à cette étude, un arrêté préfectoral complémentaire a été signé le 16/02/2006 pour prescrire les mesures de protection à mettre en œuvre pour prévenir tout risque sur l'environnement et la santé : clôture, évacuation des déchets, recouvrement des sols pollués, surveillance des lixiviats et du Bugeon, démantèlement.		
+2005	01	13		2005	01	13		a_été_chargé_de_la_rédaction	Le bureau d'études BURGEAP a été chargé de la rédaction de ce document, daté du 13 janvier 2005.		'BURGEAP'
+1993				1993				a_été_définitivement_fermée	Cette installation a été définitivement fermée en 1993.		
+								a_reçu	L’UIOM a été installée sur une ancienne décharge datant des années 1945 et qui a reçu les ordures brutes de la commune.		
+1993	05	27		1993	05	27		le_dépôt_d__un_dossier_de_régularisation	Le 27 mai 1993, le préfet prescrivait le dépôt d’un dossier de régularisation ou la fermeture de l’installation.		'le préfet'

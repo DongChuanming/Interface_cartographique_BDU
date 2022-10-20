@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	21		2010	12	21		a_été_signé	Un arrêté préfectoral complémentaire encadrant les travaux de dépollution a été signé le 21 décembre 2010.		
+2008	04			2008	04			Cette_étude_a_été_remise_en	Cette étude a été remise en avril 2008.		
+2002	03			2002	03			est_devenue	Initialement exploité par la société Langlois Chimie, cette société est devenue Solvadis France en mars 2002 à l'issue de la cessation définitive d’activité du site, déclarée en janvier 2002.		'la société Langlois Chimie', 'Solvadis France'
+2009				2009				ont_été_réalisées	Des investigations complémentaires ont été réalisées en 2009 afin de mieux caractériser la source de pollution et d'envisager des actions de dépollution.		
+2002	01			2002	01			la_cessation_définitive_d__activité	Initialement exploité par la société Langlois Chimie, cette société est devenue Solvadis France en mars 2002 à l'issue de la cessation définitive d’activité du site, déclarée en janvier 2002.		'la société Langlois Chimie', 'Solvadis France'
+2006	07			2006	07			un_diagnostic_complémentaire_de_pollution_des_sols	Conformément à l’arrêté préfectoral précité un diagnostic complémentaire de pollution des sols a été réalisé en juillet 2006 et transmis à l'inspection des installations classées fin 2007.		

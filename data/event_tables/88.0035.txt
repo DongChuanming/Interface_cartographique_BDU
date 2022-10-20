@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09			2003	09			écrémage_a_été_mis_en_oeuvre	Un dispositif de traitement par pompage écrémage a été mis en oeuvre en septembre 2003, afin de traiter cette pollution.		
+2007				2007				réaliser_une_EDR	L'exploitant doit donc poursuivre la surveillance et réaliser une EDR en 2007.		
+2002	10	10		2002	10	10		a_été_remise	L'étape A a été remise à l'inspection le 10 octobre 2002, cette étude montre la nécessité de poursuivre les investigations et d'effectuer des prélèvements et analyses de sols.		
+2003	07	25		2003	07	25		un_programme_d__investigations	Suite à l'ESR, préalablement au traitement de la pollution, un programme d'investigations, visant à délimiter avec précision l'étendue de la zone polluée, a été présenté le 25 juillet 2003.		
+2015				2015				demande_un_allégement	En 2015, l'exploitant demande un allégement de la surveillance qui est accordé.		
+2003	03			2003	03			a_été_finalisée	Suite à cette première étape, une ESR a été finalisée en mars 2003.		
+2006	12	19		2006	12	19		à_la_visite	Suite à la visite du 19 décembre 2006, il est observé que le traitement par pompage-écrémage (dépollution de l'ancienne zone de stockage de fuel) associé à la biorémédiation est mise en oeuvre depuis avril 2005.	'fuel'	
+2005	03	15		2005	03	15		est_tenu_de_dépolluer	Par l'arrêté du 15 mars 2005, l’exploitant est tenu de dépolluer les eaux souterraines par un pompage/écrémage, fonctionnant en circuit fermé au niveau de l’ancienne zone de stockage de fioul.	'fioul'	
+2013	01			2013	01			ont_été_repris	En janvier 2013, les activités de la société TRW ont été repris par VT2i.		'la société TRW', 'VT2i'
+2008	03	06		2008	03	06		la_dépollution	Par arrêté du 6 mars 2008, la dépollution est arrêtée et le suivi des eaux superficielles est prescrit (annuel sur les COVH) et eaux souterraines (semestrielle sur les HCT, COHV, Fe, Mn, NH4, Oxygène).	'COVH', 'les HCT', 'COHV', 'Fe', 'Mn', 'NH4 , Oxygène'	
+2005	04			2005	04			le_traitement_par_pompage	Suite à la visite du 19 décembre 2006, il est observé que le traitement par pompage-écrémage (dépollution de l'ancienne zone de stockage de fuel) associé à la biorémédiation est mise en oeuvre depuis avril 2005.	'fuel'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1883				1949				a_accueilli	Il a accueilli, de 1883 à 1949, une usine fabriquant du gaz de ville par distillation de la houille.		
+2006	11			2006	11			est_réalisée	Par ailleurs, une surveillance de la qualité des eaux souterraines est réalisée depuis novembre 2006 (analyses semestrielles).		
+1995				1995				la_neutralisation	Gaz de France a entrepris la neutralisation des deux fosses en 1995.		'Gaz de France'
+1951				1951				ont_été_démantelées	Les installations de l'usine ont été démantelées en 1951.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2007	04	02		2007	04	02		a_indiqué	Conformément au document de sortie du protocole signé le 2 avril 2007, l’inspection des installations classées a indiqué à Gaz de France (courrier en date du 29 juin 2009) que l’analyse des données relatives à la surveillance des eaux souterraines, analyse qui relève de la responsabilité de GDF, doit permettre, si elle est bien menée, de pouvoir examiner de façon harmonisée, l'adaptation ou l’arrêt de la surveillance existante.		'Gaz de France', 'GDF'
+2006	04	25		2006	04	25		a_pris_fin	Le protocole du 25 avril 1996 a pris fin le 25 avril 2006.		
+1973				1973				est_propriétaire	Depuis 1973, Gaz de France est propriétaire d'une petite parcelle de 687 m2 qui abrite le poste de détente de gaz.		'Gaz de France'

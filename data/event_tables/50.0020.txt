@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_été_remplacées	Les 2 cuves aériennes d’origine (125m3) ont été remplacées en 1995 par une cuve semi-enterrée de 80m3.		
+2008	03	1		2008	03	1		ont_été_utilisées	es installations ont été utilisées juqu’au 1er mars 2008.		
+1990				1990				se_serait_descellée_d__un_wagon	Selon l’enquête historique, en 1990, une citerne de gazoil se serait descellée d’un wagon et aurait roulée tout en déversant du gazoil.	'gazoil'	
+1965	06	29		1965	06	29		a_été_autorisée_à_exploiter	La SNCF a été autorisée à exploiter une station service et un dépôt d’hydrocarbures par arrêté préfectoral du 29 juin 1965.	'hydrocarbures'	'La SNCF', 'd’'
+2007				2007				a_été_estimé	En 2007, le volume de terres polluées a été estimé à 1284m3 sur une profondeur allant de 0 à 3m.		
+2010	09			2010	09			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en septembre 2010 et à leur terme seulement 621m3 ont été éliminés dans des filières dûment agréées.		

@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			évaluation_quantitative	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+2011	11			2011	11			la_réalisation	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+2011	07			2011	07			à_partir	Le démontage des installations du site a été effectué à partir de juillet 2011.		
+2011	02			2011	02			a_livré	En février 2011, le Conseil Général a livré un nouveau bâtiment destiné au sous-traitant de SOGERMA, l'usine STTS.		'le Conseil Général', 'SOGERMA', 'STTS'
+								des_nouvelles_campagnes_d__investigations	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+2011	11			2011	11			des_nouvelles_campagnes_d__investigations	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+				2011	06			est_également_resté	L'atelier modelage est également resté jusqu'en juin 2011 avant d'être transféré sur un autre site à Rochefort.		
+2011	01			2011	01			a_donc_été_réalisé	En janvier 2011, un plan de gestion a donc été réalisé.		
+2009	04	30		2009	04	30		a_été_arrêtée	L'usine a été arrêtée le 30 avril 2009.		
+2010	12			2010	12			a_été_effectuée	En décembre 2010, la caractérisation de l'état des milieux a été effectuée.		
+2009	09			2009	09			l__acquisition	En septembre 2009, le Conseil Général a décidé l'acquisition de la totalité des espaces libérés par la société ZODIAC soit 37 661 m².		'le Conseil Général', 'la société ZODIAC'
+2009	12	03		2009	12	03		un_diagnostic	Le 3 décembre 2009, un diagnostic complémentaire a été réalisé pour la caractérisation des sols enveloppant l'ancienne cuve enterrée.		
+2008				2008				La_réorganisation	La réorganisation du site a été engagée en 2008.		
+								évaluation_quantitative	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+2009	10			2009	10			Le_premier_audit_environnemental	Le premier audit environnemental du sous-sols a été réalisé en octobre 2009.		
+								la_réalisation	L'évaluation quantitative des risques sanitaires (EQRS) a été mise à jour suite à la réalisation des nouvelles campagnes d'investigations menées sur les sols du site, en octobre et novembre 2011.		
+2011	07			2011	07			Le_démontage	Le démontage des installations du site a été effectué à partir de juillet 2011.		
+2011	10			2011	10			Des_investigations_complémentaires	Des investigations complémentaires ont été réalisées en octobre 2011.		
+2010	03			2010	03			a_été_cédée	Une partie de la surface, 14 000 m², a été cédée à la SOGERMA en mars 2010.		'la SOGERMA'

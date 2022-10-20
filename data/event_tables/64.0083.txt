@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	04		2004	10	04		a_été_mise_en_liquidation_judiciaire	STEPHAN a été mise en liquidation judiciaire le 4 octobre 2004 et la S.		'STEPHAN'
+2008	11	03		2008	11	03		a_constaté	Le 3 novembre 2008, le Trésorier Payeur Général des Pyrénées Atlantiques a constaté l’impécuniosité de la liquidation judiciaire de M.		'le Trésorier Payeur Général des Pyrénées'
+2003	05	27		2003	05	27		prescrit	Par arrêté préfectoral du 27 mai 2003, le Préfet des Pyrénées Atlantiques prescrit à l’exploitant :		'le Préfet des Pyrénées'
+1976				2004				exploitée	Ancienne station service exploitée de 1976 à 2004 RN 177 sur la commune de Puyôo sous couvert du récépissé de déclaration délivré le 20 mai 1976.		
+2002	12	20		2002	12	20		effectue_une_visite_inopinée	Suite au dépôt de différentes plaintes auprès de la Préfecture des Pyrénées Atlantiques faisant état d’une cuve percée, l’Inspection des Installations Classées effectue une visite inopinée le 20 décembre 2002 afin de constater l’état de la station service ainsi que les nuisances occasionnées.		'la Préfecture des Pyrénées'
+2005	12	22		2005	12	22		une_requête_en_appel_du_jugement	Par dépôt d’une requête en appel du jugement du Tribunal Administratif de Pau le 22 décembre 2005 auprès de la Cour d’Appel Administrative de Bordeaux, la S.		'du Tribunal Administratif de Pau', 'la Cour d’ Appel Administrative de Bordeaux', 'la S.'
+2008	02	11		2008	02	11		a_rejeté_l_	Par jugement du 11 février 2008, la Cour d’Appel Administrative de Bordeaux a rejeté l’appel de la S.		'la Cour d’ Appel Administrative de Bordeaux', 'la S.'
+1983				1983				a_changé	Cet établissement a changé d’exploitant en 1983 (récépissé n° 83/IC/012 du 1er février 1983), en 1995 (récépissé n° 95/IC/230 du 7 décembre 1995) et enfin en 1996 au profit de M.		
+2005	09	27		2005	09	27		a_abrogé	Par jugement du 27 septembre 2005, le Tribunal Administratif de Pau a abrogé les 2 premiers articles de l’arrêté litigieux, mais a rejeté la demande d’annulation de l’article 3.		'le Tribunal Administratif de Pau'
+2003	06	28		2003	06	28		dépôt_d__une_requête	Par dépôt d’une requête le 28 juin 2003 auprès du Tribunal Administratif de Pau, M.		'du Tribunal Administratif de Pau'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12	11		2007	12	11		déclare	Le 11 décembre 2007, l'exploitant déclare la cessation d'activité du site.		
+1993	02	1		1993	02	1		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 1er février 1993.		
+2007	12	11		2007	12	11		informe	Par courrier datant du 11 décembre 2007, l'exploitant informe la DREAL de la cessation de ses activités à compter du 31 décembre 2004.		'la DREAL'
+2004	12	31		2004	12	31		a_cessé_toutes_ses_activités	Il informe également la DRIRE que la société a cessé toutes ses activités depuis le 31 décembre 2004.		'la DRIRE'
+2003	05			2003	05			l__étude_hydrogéologique	En mai 2003, il a été transmis à la DRIRE l'étude hydrogéologique préalable à l'implatation de 2 puits témoins et le résultat d'une analyse de la nappe de février 2003 portant uniquement sur le carbendazyme qui n'est pas détecté.	'le carbendazyme'	'la DRIRE'
+2003	02			2003	02			la_nappe	En mai 2003, il a été transmis à la DRIRE l'étude hydrogéologique préalable à l'implatation de 2 puits témoins et le résultat d'une analyse de la nappe de février 2003 portant uniquement sur le carbendazyme qui n'est pas détecté.	'le carbendazyme'	'la DRIRE'

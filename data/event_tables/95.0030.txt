@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	03	18		1998	03	18		Un_dispositif_de_dépollution	Un dispositif de dépollution a été installé et mis en route le 18 mars 1998.		
+1997				1997				la_forte_réduction	- la forte réduction de la teneur en chrome depuis 1997 (on trouve en moyenne 5 à 6 mg/l dans les zones les plus polluées en mars 2004)	'chrome'	
+2008	03	12		2008	03	12		a_transmis	Par courrier du 12 mars 2008, ATOTECH a transmis une synthèse des travaux de réhabilitation accomplis et les résultats de la surveillance de la qualité des eaux souterraines.		'ATOTECH'
+2007	09			2007	09			le_pompage	Depuis septembre 2007 le pompage et le traitement de la nappe ne sont plus réalisés de façon continue mais de façon séquentielle afin de récupérer à chaque pompage le maximum de chrome VI.	'chrome VI'	
+								correspondant	La dernière campagne d'analyses menée correspondant au 1er trimestre 2007 montre une stabilisation globale de la qualité de la nappe depuis la fin de l'année 2005.		
+2009	07			2009	07			la_situation_relevée	La campagne d'analyses réalisée en février 2011 a confirmé la situation relevée en juillet 2009, décembre 2009, mars 2010 et juillet 2010 : les objectifs de dépollution sont atteints.		
+2004	03			2004	03			avait_été_ramenée	Au début 2002, cette concentration avait été ramenée à environ 20 mg/l et à 12mg/l au maximum en mars 2004.		
+2004	02			2004	02			Deux_campagnes_de_mesures_ponctuelles	Deux campagnes de mesures ponctuelles ont été faites en septembre 2003 et février 2004.		
+1997	12			1997	12			des_investigations_détaillées_ont_été_réalisées	En raison de la dégradation de la qualité des eaux souterraines des investigations détaillées ont été réalisées en décembre 1997.		
+1997	06			1997	06			une_campagne_complémentaire_de_reconnaissance_du_sous_sol	Suite à la rupture d'une canalisation en 1993, une pollution des sols par du chrome a été localisée sur le site lors d'une campagne complémentaire de reconnaissance du sous sol en juin 1997.	'du chrome'	
+2004				2004				Arrêt	Arrêt des activités de fabrication fin 2004 pour ne garder que des activités  administratives et de laboratoires.		
+1975				1975				construit	Etablissement de fabrication de produits chimiques pour traiteurs de surfaces construit en 1975 dans la ZAC du Vert Galant.		
+2003	09			2003	09			Deux_campagnes_de_mesures_ponctuelles	Deux campagnes de mesures ponctuelles ont été faites en septembre 2003 et février 2004.		
+2007				2007				correspondant	La dernière campagne d'analyses menée correspondant au 1er trimestre 2007 montre une stabilisation globale de la qualité de la nappe depuis la fin de l'année 2005.		
+2002				2002				avait_été_ramenée	Au début 2002, cette concentration avait été ramenée à environ 20 mg/l et à 12mg/l au maximum en mars 2004.		
+2003				2003				a_été_renforcée	La surveillance mensuelle des eaux souterraines, effectuée grâce à un réseau de 7 piézomètres jusqu'à fin 2002 a été renforcée par quinze nouveaux piézomètres début 2003.		
+2008	01			2008	01			ne_sera_réactivé_qu_	Selon l'exploitant, les objectifs de dépollution ayant été atteints, depuis janvier 2008, le dispositif de pompage ne sera réactivé qu'en cas de résultats défavorables de la qualité des eaux de la nappe.		

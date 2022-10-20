@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02	07		2007	02	07		un_nouvel_arrêté	Vu les résultats de l'évaluation détaillée des risques (15/12/2005) et vu le rapport et les propositions de l'inspection des installations classées, un nouvel arrêté est venu remplacer le précécent à la date du 07 février 2007.		
+2002	12	31		2002	12	31		un_accident_survenu	Suite à un accident survenu le 31 décembre 2002, un épandage d'hydrocarbures s'est produit sur le site.	'hydrocarbures'	
+2009	04	28		2009	04	28		les_travaux_de_récupération	D'après une lettre de l'exploitant reçue le 28 avril 2009, les travaux de récupération d'hydrocarbures flottants ont été effectués.	'hydrocarbures flottants'	
+2003	03	18		2003	03	18		L__audit	L'audit ainsi que les borderaux de suivi des déchets ont été transmis à l'Inspection des Installations Classées le 18 mars 2003.		
+2003	02	18		2003	02	18		un_audit_de_conformité	De plus, le 18 février 2003 un audit de conformité des installations de stockage et de distribution de gazole a été réalisé par la société BUREAU VERITAS.	'gazole'	'la société BUREAU VERITAS'
+2002	12	31		2002	12	31		s__est_produit	Suite à un accident survenu le 31 décembre 2002, un épandage d'hydrocarbures s'est produit sur le site.	'hydrocarbures'	

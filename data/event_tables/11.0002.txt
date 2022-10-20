@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				1963				a_débuté	L'activité a débuté en 1963 et s'est achevé fin des années 1980 par une mise en liquidation judiciaire des Ets BOILLETOT.		'BOILLETOT'
+1997				1997				sols_réalisé	Un diagnostic des sols réalisé en 1997 a montré la présence d'une pollution des sols en métaux et PCB.	'métaux', 'PCB'	
+								s__est_achevé	L'activité a débuté en 1963 et s'est achevé fin des années 1980 par une mise en liquidation judiciaire des Ets BOILLETOT.		'BOILLETOT'
+2002	06	28		2002	06	28		a_été_annulé	Cet arrêté, déféré devant le tribunal administratif de Montpellier par le propriétaire a été annulé le 28 juin 2002.		

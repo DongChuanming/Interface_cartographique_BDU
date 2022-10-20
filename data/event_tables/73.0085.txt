@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				est_toujours_en_fonctionnement	Le site est toujours en fonctionnement en 2013.		
+1998	08	05		1998	08	05		a_été_utilisé	Le site a été utilisé pour la récupération de métaux, le stockage de plastiques, de bois, papiers et pour le transit de déchets industriels et urbains, autorisés par arrêté préfectoral du 5/08/1998.		
+2007				2007				a_fait_l__objet	Il a fait l'objet d'inspections en 2007 et 2012.		
+2003	03	13		2003	03	13		une_visite	L’inspection des installations classées a effectué, le 13 mars 2003, une visite du site qui a permis de constater que la dalle extérieure servant au stockage de métaux et carcasses de véhicules ne présentait plus de garantie d’étanchéité pour la protection du sol.	'métaux'	
+2012				2012				a_fait_l__objet	Il a fait l'objet d'inspections en 2007 et 2012.		

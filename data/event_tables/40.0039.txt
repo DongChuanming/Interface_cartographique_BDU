@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07	27		2009	07	27		du_diagnostic_remis	Au vu du diagnostic remis le 27/07/2009, La DRIRE envisage de proposer un arrêté de travaux de dépollution de la zone impactée.		'La DRIRE'
+2013	04	25		2013	04	25		La_dernière_inspection	La dernière inspection de la DREAL sur site date du 25 avril 2013.		'la DREAL'
+2017	05	24		2017	05	24		Un_incendie_s__est_déclaré	Un incendie s'est déclaré dans les locaux inutilisés de SOFOCO le 24 mai 2017.		'inutilisés de SOFOCO'
+2014	07	02		2014	07	02		l__ouverture_de_la_liquidation_judiciaire	O et de l'ouverture de la liquidation judiciaire du 02/07/2014.		
+2012	06	28		2012	06	28		une_évaluation_complémentaire_partielle	Le 28/06/2012, une évaluation complémentaire partielle de la qualité environnementale des sols a été réalisée par le Bureau VERITAS.		'le Bureau VERITAS'
+2001	06	30		2001	06	30		prescrit_le_diagnostic_initial	Dans le cadre de l'action collective "diagnostic des scieries avec traitement des bois" lancée en 2003 par la DRIRE, l'arrêté du 27 mars 2001 prescrit le diagnostic initial et l'évaluation simplifiée des risques (ESR) du site à l'échéance du 30 juin 2001.		'la DRIRE'
+2009	07	22		2009	07	22		est_remise	L'étape B du diagnostic, réalisée dans le cadre de l'action collective "diagnostic des scieries avec traitement des bois" (2ème lot) lancée en 2006 par la CCI de Mont de Marsan, est remise le 22/07/2009.		'la CCI de Mont'
+2013	04	25		2013	04	25		de_l__inspection	Lors de l'inspection du 25/04/2013, il a été demandé à l'exploitant de compléter ce diagnostic par la réalisation de sondage complémentaire au droit de l'ancien parc de stockage à l'aire libre, zone polluée en 2009 avec trace de PCP et Propiconazole.	'PCP', 'Propiconazole'	
+1992	08	21		1992	08	21		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 21 août 1992.		
+2006				2006				lancée	L'étape B du diagnostic, réalisée dans le cadre de l'action collective "diagnostic des scieries avec traitement des bois" (2ème lot) lancée en 2006 par la CCI de Mont de Marsan, est remise le 22/07/2009.		'la CCI de Mont'
+								l__enlèvement	- le liquidateur judiciaire du site doit procéder au démontage du reliquat de toiture en éverite du bâtiment incendié et à l’enlèvement de l’ensemble des déchets et poussières amiantées sous 1 semaine (mesure d'urgence).	'amiantées'	
+2000	10	06		2000	10	06		l__installation_d_	Le 6 octobre 2000, la SOFOCO déclare l'installation d'un réservoir de GPL de 12,5 tonnes.	'réservoir de GPL'	'la SOFOCO'
+2004				2004				Les_résultats_des_campagnes_d__analyses	Les résultats des campagnes d'analyses de la nappe depuis 2004 montrent que l'impact de cette source est durable.		
+2006	05	19		2006	05	19		une_régularisation_administrative	Ce dernier a fait l'objet d'une régularisation administrative avec l'ensemble des installations par l'arrêté préfectorale du 19 mai 2006.		
+2000	10	18		2000	10	18		lors_de_la_visite	L'inspecteur des Installations classées constate l'exploitation, sans l'autorisation requise, de ce bac de traitement lors de la visite d'inspection du 18 octobre 2000.		
+2008	06	02		2008	06	02		historique_est_remise	L'étape A du diagnostic (historique)est remise le 2 juin 2008.		

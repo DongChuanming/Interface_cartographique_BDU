@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1849				1950				a_accueilli	Il a une superficie d’environ 13580m² et a accueilli de 1849 à 1950 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1970				1970				Le_passage_au	Le passage au gaz naturel s’est fait en 1970.		
+2005	10	03		2005	10	03		a_été_envoyé	Le rapport de fin de travaux a été envoyé à la DRIRE le 03/10/2005.		'la DRIRE'
+1999				1999				a_été_vidangée	La première a été vidangée et nettoyée en 1999, la deuxième cuve contenant environ 180m³ de produit goudronneux a été vidangée en 2002.	'produit goudronneux'	
+2002				2002				a_été_vidangée	La première a été vidangée et nettoyée en 1999, la deuxième cuve contenant environ 180m³ de produit goudronneux a été vidangée en 2002.	'produit goudronneux'	

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				__été_exploitée	Cette parcelle a, de 1965 à 1993, été exploitée par la société Maurice COLLET puis la société COLLET S.		'la société Maurice COLLET', 'la société COLLET S.'
+2011	07	07		2011	07	07		Une_nouvelle_visite_d__inspection	Une nouvelle visite d’inspection est réalisée le 07/07/2011.		
+1965				1965				a___de	Cette parcelle a, de 1965 à 1993, été exploitée par la société Maurice COLLET puis la société COLLET S.		'la société Maurice COLLET', 'la société COLLET S.'
+2005				2005				Un_diagnostic_initial	Un diagnostic initial et des premières investigations de sols ont été réalisées début 2005 (rapport du 20 mai 2005).		
+2009				2009				Ces_prélèvements_ont_été_effectués	Ces prélèvements ont été effectués en 2007, 2008 et 2009.		
+2008				2008				Ces_prélèvements_ont_été_effectués	Ces prélèvements ont été effectués en 2007, 2008 et 2009.		
+1993				1993				a___de	Cette parcelle a, de 1965 à 1993, été exploitée par la société Maurice COLLET puis la société COLLET S.		'la société Maurice COLLET', 'la société COLLET S.'
+2007				2007				Ces_prélèvements_ont_été_effectués	Ces prélèvements ont été effectués en 2007, 2008 et 2009.		
+1993				1993				__été_exploitée	Cette parcelle a, de 1965 à 1993, été exploitée par la société Maurice COLLET puis la société COLLET S.		'la société Maurice COLLET', 'la société COLLET S.'
+1993				1993				a_cessé_ses_activités	La société COLLET SA a cessé ses activités sur ce site en 1993.		'La société COLLET SA'
+2010	05	12		2010	05	12		La_visite_d__inspection	La visite d’inspection effectuée le 12/05/2010 a permis de constater la présence d’une couverture imperméable sur l’ensemble du site avec bordures pour rétention des eaux susceptibles d'être polluées.		
+2006	05			2006	05			vendue	La parcelle, alors propriété de la SARL MCF, née de la société Maurice COLLET, a été louée (pour le stockage de café vert), puis vendue en mai 2006 à la société SEGAFREDO ZANETTI.		'la SARL MCF', 'la société Maurice COLLET', 'la société SEGAFREDO ZANETTI'

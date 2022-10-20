@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_entassés	Il s'agit de l'ancienne décharge de la société FOSECO, dans laquelle ont été entassés pendant 30 ans des résidus de fabrication ainsi que des déchets divers (17000 m3 sur 13000 m2).	'des déchets divers'	'la société FOSECO'
+2006				2006				les_analyses_semestrielles	Depuis, l'exploitant a transmis à l’inspection des installations classées les analyses semestrielles 2004, 2005, 2006 et 2007.		
+1993				1993				a_cessé	La société a cessé toutes ses activités de production de pièces préfabriquées, de poudres, de colles, d'enduits, de résines et de ciments réfractaires à destination de l'industrie de la fonderie et de la sidérurgie, fin 1993.		
+2004	06	1		2004	06	1		a_interrogé	En conséquence, l'inspection des installations classées a interrogé la société FOSECO par courrier le 1er juin 2004, en lui demandant de lui fournir un état récapitulatif de l'évolution de la qualité des eaux souterraines ainsi que les éléments justifiant de la mise en place effective de la servitude de droit privé.		'la société FOSECO'
+2001	07	05		2001	07	05		Un_procès_verbal_de_récolement	Un procès verbal de récolement a donc été transmis en sous-préfecture le 5/07/2001.		
+2005				2005				les_analyses_semestrielles	Depuis, l'exploitant a transmis à l’inspection des installations classées les analyses semestrielles 2004, 2005, 2006 et 2007.		
+1997	08			1997	08			a_été_adressé	Un dossier de cessation partielle d'activité a été adressé à l'inspection des installations classées en août 1997.		
+1999	05			1999	05			Les_travaux_de_confinement	Les travaux de confinement de la décharge se sont achevés en mai 1999 : modelage, couverture de 20 cm d'argile traitée à la bentonite (perméabilité globale de 10-10 m/s), couche drainante, revégétalisation.		
+1997	10	22		1997	10	22		Les_travaux_de_réhabilitation	Les travaux de réhabilitation de la décharge ont été imposés par arrêté préfectoral du 22 octobre 1997.		
+2007				2007				les_analyses_semestrielles	Depuis, l'exploitant a transmis à l’inspection des installations classées les analyses semestrielles 2004, 2005, 2006 et 2007.		
+2001				2001				Les_résultats_des_analyses	Les résultats des analyses d'eaux souterraines concernant l'année 2001, faisant apparaître des teneurs anormales en manganèse et en hydrocarbures, l'inspection des installations classées a demandé à l'entreprise de poursuivre la surveillance des eaux souterraines, par lettre du 12/06/2002.	'manganèse', 'hydrocarbures'	
+2004				2004				les_analyses_semestrielles	Depuis, l'exploitant a transmis à l’inspection des installations classées les analyses semestrielles 2004, 2005, 2006 et 2007.		
+2007	11	05		2007	11	05		est_notifié	Le 05 novembre 2007 un arrêté préfectoral complémentaire est notifié.		

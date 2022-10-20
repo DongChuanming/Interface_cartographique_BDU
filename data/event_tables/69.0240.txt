@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	08	10		2005	08	10		la_réalisation_d_	Par arrêté préfectoral, daté du 10 août 2005, les services de l'État imposent à la société BP France la réalisation d’une surveillance de la qualité des eaux souterraines au droit du site conformément aux résultats de l’Évaluation Simplifiée des Risques réalisée pour ce site.		'la société BP France'
+								Les_investigations_de_terrain	Les investigations de terrain ont été menées les 11,12 et 14 mai 2004.		
+2003	07	17		2003	07	17		a_été_arrêté_une_première_fois	Le traitement a été arrêté une première fois le 17 juillet 2003 au motif que sur l’ensemble des puits de venting les objectifs de réhabilitation étaient atteints.		
+2003	02	17		2003	02	17		a_adressé	Par courrier du 17 février 2003, la société TOTALFINAELF a adressé 3 documents :		'la société TOTALFINAELF'
+2007	09	12		2007	09	12		a_reprise	La surveillance des eaux souterraines a reprise le 12 septembre 2007, à une fréquence trimestrielle, et le dernier rapport fourni par l'exploitant date du 24 mars 2011.		
+2005	01			2005	01			Deux_campagnes_d__analyses	Deux campagnes d’analyses des eaux souterraines (en mai 2004 et janvier 2005) en hydrocarbures totaux, en hydrocarbures aromatiques et en hydrocarbures aromatiques polycycliques ont été réalisées sur les 3 piézomètres présents sur le site.	'hydrocarbures totaux', 'hydrocarbures aromatiques', 'hydrocarbures aromatiques polycycliques'	
+2002	03	19		2002	03	19		a_déclaré	Par courrier du 19 mars 2002, la société BP France a déclaré avoir repris l’exploitation précitée.		'la société BP France'
+2001	11	29		2001	11	29		Les_investigations_de_terrain	Les investigations de terrain ont été menées le 29 novembre 2001 ainsi que les 20,21 et 22 février 2002.		
+2011	03	24		2011	03	24		a_reprise	La surveillance des eaux souterraines a reprise le 12 septembre 2007, à une fréquence trimestrielle, et le dernier rapport fourni par l'exploitant date du 24 mars 2011.		
+2004	05			2004	05			Deux_campagnes_d__analyses	Deux campagnes d’analyses des eaux souterraines (en mai 2004 et janvier 2005) en hydrocarbures totaux, en hydrocarbures aromatiques et en hydrocarbures aromatiques polycycliques ont été réalisées sur les 3 piézomètres présents sur le site.	'hydrocarbures totaux', 'hydrocarbures aromatiques', 'hydrocarbures aromatiques polycycliques'	
+2003	11			2003	11			a_été_démantelé	Le site a été démantelé en novembre 2003 par la société BP France et cédé pour un usage de garage et de location automobile à M.		'la société BP France'
+2005	09	23		2005	09	23		Un_diagnostic_complémentaire_des_sols	Un diagnostic complémentaire des sols et une ESR réactualisée ont été transmis à l'inspection des ICPE le 23 septembre 2005.		
+1993	06	24		1993	06	24		de_déclaration	L’exploitation de la station service susvisée par la société TOTAL a fait l’objet d’un récépissé de déclaration en date du 24 juin 1993.		'la société TOTAL'
+2002	02	22		2002	02	22		ainsi_que	Les investigations de terrain ont été menées le 29 novembre 2001 ainsi que les 20,21 et 22 février 2002.		
+								ont	Les travaux de dépollution du site ont duré 3,5 mois et ont permis d’ores et déjà de récupérer 255 kg d’hydrocarbures.	'hydrocarbures'	
+2003	07	28		2003	07	28		impose	Par Arrêté Préfectoral, daté du 28 juillet 2003, l'Etat impose à l'exploitant des prescriptions supplémentaires :		
+								des_travaux_de_dépollution	Malgré cet arrêté, des travaux de dépollution, mandatés par la société TOTAL ont eu lieu entre le 30/03/03 et le 31/08/03, sans en avoir informé préalablement les services de l'Etat (rapport de fin de travaux transmis à l'Inspection des ICPE).		'la société TOTAL'
+2004	05	14		2004	05	14		Les_investigations_de_terrain	Les investigations de terrain ont été menées les 11,12 et 14 mai 2004.		
+2004	07			2004	07			réalisés	- Phase B : investigations de terrain sols/eaux souterraines, résultats d'analyse et interprétations (réalisés en juillet 2004)		
+								ainsi_que	Les investigations de terrain ont été menées le 29 novembre 2001 ainsi que les 20,21 et 22 février 2002.		
+								Les_travaux_de_dépollution	Les travaux de dépollution du site ont duré 3,5 mois et ont permis d’ores et déjà de récupérer 255 kg d’hydrocarbures.	'hydrocarbures'	
+1993	06	24		1993	06	24		a_fait_l__objet_d_	L’exploitation de la station service susvisée par la société TOTAL a fait l’objet d’un récépissé de déclaration en date du 24 juin 1993.		'la société TOTAL'

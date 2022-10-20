@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				Évacuation_d_	- Évacuation d'une partie des déchets en 2001.		
+1995	09	1		1995	09	1		Cessation_d__activité	- Cessation d'activité le 1er septembre 1995.		
+1998				1998				Une_étude_sommaire	- Une étude sommaire réalisée en 1998 pour le compte de la Mairie de Roubaix, a mis en évidence une source de pollution au mercure ainsi que des suspicions de pollution liées aux produits de traitement (soude).	'mercure', 'soude'	'la Mairie de Roubaix'

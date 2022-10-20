@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	16		2003	01	16		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrêté du 16/01/2003 dans le but d'apprécier les risques résiduels et la pertinence des conditions actuelles de surveillance.		
+1997				1997				sont_relativement_stables	Les teneurs en aval du site sont relativement stables depuis 1997.		
+2002	12			2002	12			La_mesure_effectuée	La mesure effectuée en décembre 2002 sur le piézomètre P3 (200 m en aval hydraulique du site) présente une teneur cumulée et tétra et trichloroéthylène de 1,6 µg/l.	'tétra et trichloroéthylène'	

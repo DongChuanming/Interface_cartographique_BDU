@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05			2004	05			Un_diagnostic_approfondi	Un diagnostic approfondi a été réalisé et remis à la DRIRE en mai 2004.		'la DRIRE'
+2008				2008				en_début_d_	L'ensemble de ces mesures seront entérinées par arrêté préfectoral en début d'année 2008.		
+2001	07	27		2001	07	27		Evaluation_simplifiée_des_Risques	Une Evaluation simplifiée des Risques  a été remise le 27 juillet 2001, et validé par la DRIRE le 13 juillet 2001.		'par la DRIRE'
+2001	10	01		2001	10	01		a_été_remis	Un rapport de fin d'exploitation, conformément à l'article 34.1 du décret du 21 septembre 1977, a été remis à la DRIRE le 01 octobre 2001.		'la DRIRE'
+2008				2008				La_remise_en_état_du_site_devrait_être_effective	La remise en état du site devrait être effective pour la fin de l'année 2008.		
+1914				1914				construite	Cokerie construite en 1914 qui fonctionnait avec 2 batteries de fours et des installations annexes traitant le benzol, les goudrons et les cyanures avec des terres d'épuration, gazomètres.	'benzol', 'goudrons', 'cyanures'	
+2008				2008				entérinées	L'ensemble de ces mesures seront entérinées par arrêté préfectoral en début d'année 2008.		
+								De_telles_campagnes_de_mesures	De telles campagnes de mesures seront renouvellées tous les 2 ans afin de s'assurer de l'absence de migration horizontale de ces contaminants (poches gaz).	'ces contaminants'	
+2001	09	01		2001	09	01		a_cessé_son_exploitation	La cokerie a cessé son exploitation le 01 septembre 2001.		

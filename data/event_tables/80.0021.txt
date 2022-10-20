@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				La_mise_en_sécurité	La mise en sécurité (évacuation des déchets et produits dangereux, condamnation des accès) a par la suite été réalisée en 2002.		
+2001	05	25		2001	05	25		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) a été effectuée le 25 mai 2001, concluant à la nécessité de poursuivre les investigations.		
+2008	03	19		2008	03	19		La_clôture_de_la_liquidation_judiciaire	La clôture de la liquidation judiciaire de la société Serfa a été prononcée le 19 mars 2008.		'la société Serfa'
+1998	03			1998	03			avait_été_laissé_en_état_lors	Cet établissement avait été laissé en état lors de la mise en liquidation de l'entreprise en mars 1998.		
+2006	06			2006	06			envisage	En juin 2006, dans le cadre de l'étude de faisabilité d'un projet de la commune visant à reprendre la gestion du site, le mandataire de justice envisage la réalisation d'investigations complémentaires (analyses de pollution des sols sur une partie du site).		

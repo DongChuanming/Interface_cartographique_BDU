@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	23		2011	11	23		_Visite_de_récolement	-Visite de récolement de l'ancienne décharge: 23/11/2011.		
+2008	06			2008	06			_Réalisation_d__un_plan_de_gestion	-Réalisation d'un plan de gestion de l'ancien incinérateur d'ordures ménagères en juin 2008.		
+2008	07			2008	07			_Réalisation_d__un_nouveau_diagnostic_environnemental	-Réalisation d'un nouveau diagnostic environnemental du site de l'ancienne décharge, en juillet 2008.		
+2011				2011				_Travaux	-Travaux sur le site de l'ancienne décharge: mise en butte des déchets et confinement en 2011.		
+2008	05			2008	05			rapport_d__investigations	-Réalisation d'étude approfondie de l'ancienne décharge - rapport d'investigations en mai 2008, qui ne révèle aucun impact sur les sols sous-jacents aux déchets.		
+2011	09			2011	09			_Réalisation_d__un_rapport_de_suivi_environnemental	-Réalisation d'un rapport de suivi environnemental des travaux de confinement de la décharge sauvage en septembre 2011.		
+2008	08			2008	08			_Réalisation_d__un_plan_de_gestion	-Réalisation d'un plan de gestion de l'ancienne décharge en août 2008.		
+2007	10			2007	10			_Diagnostic_environnemental	-Diagnostic environnemental de l'ancienne décharge, réalisé en octobre 2007 révélant une pollution des eaux souterraines.		
+2008	05			2008	05			rapport_d__investigations	-Réalisation d'étude approfondie - rapport d'investigations, site de l'ancien incinérateur d'ordures ménagères en mai 2008.		
+1972				1995				exploitée	Ancienne usine d'incinération d'ordures ménagères, exploitée entre 1972 et 1995, les terrains ont fait l'objet de dépôts de mâchefers et sans doute d'ordures brutes ou mal incinérées.		
+1972				1995				dépôts	Ancienne usine d'incinération d'ordures ménagères, exploitée entre 1972 et 1995, les terrains ont fait l'objet de dépôts de mâchefers et sans doute d'ordures brutes ou mal incinérées.		

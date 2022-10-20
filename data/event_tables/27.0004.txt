@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								transmission	- Enlèvement en janvier 1992 et restitution des déchets provenant de la tannerie Costil (transmission le 24-6-93 des bordereaux de suivi).		
+1992	01			1992	01			Enlèvement	- Enlèvement en janvier 1992 et restitution des déchets provenant de la tannerie Costil (transmission le 24-6-93 des bordereaux de suivi).		
+								envoi	- Rapport du BRGM d'analyse des échantillons prélevés dans le dépôt en présence de la DRIRE avec propositions de laisser sur place les déchets (envoi le 23-02-94)	'les déchets'	'BRGM', 'la DRIRE'
+								envoi	- Rapport du BRGM relatif à l'appréciation visuelle des matériaux entreposés dans la décharge (envoi le 25-6-93)		'BRGM'
+								envoi	- Analyses d'eaux souterraines par le même laboratoire (envoi le 21-8-96).		
+								__envoi	- Analyses d'eaux souterraines par le Laboratoire Départemental d'analyses de l'Eure (envoi le 17-11-93)		'le Laboratoire Départemental'

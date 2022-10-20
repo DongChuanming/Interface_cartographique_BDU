@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_rachetée	C’est cette partie des installations composée d’une fonderie de magnésium et d’un ensemble d’ateliers d’usinage qui a été rachetée et remise en service en 2006 par la société THERMO MAGNESIUM France SAS, puis en 2009 par la société ALMAMET FRANCE SAS.	'magnésium'	'la société THERMO MAGNESIUM France SAS', 'la société ALMAMET FRANCE SAS'
+2015	01	27		2015	01	27		La_visite_d__inspection	La visite d'inspection du 27 janvier 2015 a permis de constater que :		
+2004				2004				a_procédé_au_démantèlement_des_installations	Dès 2004, FERRO ATLANTICA a procédé au démantèlement des installations et au réaménagement des décharges internes (cf fiche Basol n°31.0051).		'FERRO ATLANTICA', 'décharges internes'
+2015	04	29		2015	04	29		a_été_signé	En conséquence, un procès verbal de récolement a été signé le 29 avril 2015.		
+2006				2006				a_été_rachetée	C’est cette partie des installations composée d’une fonderie de magnésium et d’un ensemble d’ateliers d’usinage qui a été rachetée et remise en service en 2006 par la société THERMO MAGNESIUM France SAS, puis en 2009 par la société ALMAMET FRANCE SAS.	'magnésium'	'la société THERMO MAGNESIUM France SAS', 'la société ALMAMET FRANCE SAS'
+2014	03	27		2014	03	27		La_visite	La visite du site le 27 mars 2014 a permis de constater que, dans le cadre de la cessation d'activité, les travaux suivants ont été réalisés :		
+				2001				a_été_exploité	Le site de MARIGNAC a été exploité jusqu’en 2001 par PECHINEY ELECTROMETALLURGIE.		'MARIGNAC', 'PECHINEY ELECTROMETALLURGIE'
+2003				2003				ont_été_rachetées	Les installations ont été rachetées par la société espagnole FERRO ATLANTICA en 2003.		'la société espagnole FERRO ATLANTICA'
+2013	02	15		2013	02	15		a_été_transmis	Le 15 février 2013, le dossier de cessation d'activité pour le site ALMAMET a été transmis au Préfet de Haute-Garonne.		'le site ALMAMET', 'Préfet de Haute-Garonne'
+2013	12	18		2013	12	18		a_été_complété	A la demande de l'inspection des installations classées, il a été complété les 18 décembre 2013 et 24 mars 2014.		
+2014	03	24		2014	03	24		a_été_complété	A la demande de l'inspection des installations classées, il a été complété les 18 décembre 2013 et 24 mars 2014.		
+2012	07			2012	07			a_cessé_définitivement	L'usine ALMAMET a cessé définitivement son activité en juillet 2012.		'ALMAMET'
+				2013	11			ont_été_démolis	- les bâtiments les plus vétustes ont été démolis entre juin et novembre 2013.		

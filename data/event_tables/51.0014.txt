@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	19		2006	10	19		Une_inspection	Une inspection a été effectuée le 19/10/2006 en présence de la sécurité civil.		
+2009	06	15		2009	06	15		a_revendu	Le terrain a été racheté par la société pyrotech qui a revendu le 15 juin 2009 le terrain occupé précédemment par la société Laroye à Beine-Nauroy à la société ADEDE (société belge exerçant des activités de déminage).		'la société pyrotech', 'la société Laroye', 'la société ADEDE'
+2010	06	08		2010	06	08		une_nouvelle_visite_d__inspection	Le 8 juin 2010, une nouvelle visite d'inspection a été réalisée, en présence du maire de Beine-Nauroy.		
+2007	01	04		2007	01	04		s__est_engagé_à_assumer_sa_responsabilité	Au vu de sa reponsabilité en tant que producteur de déchet après défaillance de l'éliminateur, l'armée, par lettre du 04 janvier 2007, s'est engagé à assumer sa responsabilité de producteur de déchets et à traiter cette pollution pyrotechnique		
+2001	01			2001	01			a_été_remise_en_état	Signalons que la clôture de ce  site isolé a été remise en état en janvier 2001		
+1998	03	19		1998	03	19		a_été_mise_en_demeure_de_cesser_tous_travaux	Par arrêté préfectoral n°98 A 29 IC du 19 mars 1998, la société a été mise en demeure de cesser tous travaux sur le site,		
+1996	05	21		1996	05	21		a_été_suspendue	Suite à un accident mortel survenu le 21 mai 1996, l'activité a été suspendue par arrêté préfectoral n°96 A 36 IC du 10 juin 1996.		
+2009	09	10		2009	09	10		le_retrait	- le 10 septembre 2009, pour le retrait de 20 000 détonateurs ;	'détonateurs'	
+1996	06	10		1996	06	10		a_été_suspendue	Suite à un accident mortel survenu le 21 mai 1996, l'activité a été suspendue par arrêté préfectoral n°96 A 36 IC du 10 juin 1996.		
+1996	05	21		1996	05	21		à_un_accident_mortel_survenu	Suite à un accident mortel survenu le 21 mai 1996, l'activité a été suspendue par arrêté préfectoral n°96 A 36 IC du 10 juin 1996.		
+2002				2002				a_proposé	Courant 2002, le service de la protection civile a proposé au propriétaire du site de lui racheter le terrain afin de		

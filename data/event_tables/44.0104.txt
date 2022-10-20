@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	30		2012	01	30		l__exploitation	L'inspection des installations classées a constaté le 30 janvier 2012 l'exploitation par la société PAPREC DEEE d'une station de tri, transit, regroupement de piles et accumulateurs sur le site sans l'autorisation requise.		'la société PAPREC DEEE'
+2015				2015				a_complété	En 2015 et 2016, la société a complété son dossier de cessation d'activité par  un schéma conceptuel, un plan de gestion, une évaluation qualitative des risques et un dossier de demande de servitudes.		
+2012				2012				un_premier_diagnostic	En 2012, un premier diagnostic a été effectué.		
+2012				2012				a_été_réalisé	Sur la base des investigations de 2012, un schéma conceptuel a été réalisé.		
+2012				2012				investigations	Sur la base des investigations de 2012, un schéma conceptuel a été réalisé.		
+2007				2009				_3ème_activité	-3ème activité, de 2007 à 2009 : ACCOR Environnement exploite deux parties du hangar principal (ce dernier ayant été divisé en trois parties) pour du stockage de déchets d’équipements électriques et électroniques (DEEE), le volume stocké sur site étant inférieur à 200 m3 ;	'du stockage de déchets d’ équipements électriques', '( DEEE'	': ACCOR Environnement'
+2016				2016				a_complété	En 2015 et 2016, la société a complété son dossier de cessation d'activité par  un schéma conceptuel, un plan de gestion, une évaluation qualitative des risques et un dossier de demande de servitudes.		
+2015				2015				Un_second_diagnostic	Un second diagnostic effectué en 2015 révèle que seules les teneurs en arsenic et plomb identifiées en S7 et S9 (une carte permettant de localiser ces deux sondages est disponible dans le paragraphe B de cette fiche) seraient susceptibles de générer des risques sanitaires en cas d’usage sensible, en l’absence de recouvrement pérenne des sols.	'arsenic', 'plomb'	

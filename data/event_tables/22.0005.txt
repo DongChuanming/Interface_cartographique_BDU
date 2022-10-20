@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_engagée	A partir de fin 1996, une surveillance de la nappe a été engagée dans le but de déterminer le traitement du sous-sol le mieux adapté à terme, compte-tenu de ses caractéristiques propres.		
+2000	09			2000	09			a_été_établi	Formalisé par des modes opératoires et des fiches de suivi dédiés aux différents types de contrôles, un premier bilan d'application de ce programme a été établi en septembre 2000.		
+1964	07	06		1964	07	06		de_déclaration	La société FICHOU a exploité un stockage d'hydrocarbure sur la commune de Callac à partir de 1964 (récépissé de déclaration du 6 juillet 1964).	'hydrocarbure'	'La société FICHOU'
+1964				1964				a_exploité	La société FICHOU a exploité un stockage d'hydrocarbure sur la commune de Callac à partir de 1964 (récépissé de déclaration du 6 juillet 1964).	'hydrocarbure'	'La société FICHOU'
+1999	09			1999	09			a_été_mis_en_œuvre	A partir de septembre 1999, un nouveau plan d’action de surveillance a été mis en œuvre.		
+2007	01	04		2007	01	04		arrêtée	La carte communale arrêtée le 4 janvier 2007 mentionne l'existence de "servitudes relatives à un périmètre de protection de pollution d’hydrocarbures". 7 parcelles réparties en 3 zonages sont ainsi définies, avec des restrictions sur les sols et sur les eaux souterraines.	'hydrocarbures'	
+1994				1994				Une_fuite_d__hydrocarbures	Une fuite d'hydrocarbures (fioul lourd (140 m3 environ)), provenant d'une cuve enterrée, est survenue en 1994.	'hydrocarbures', 'fioul lourd'	
+2003	05			2003	05			a_été_réalisé	Un point d'étape a été réalisé en mai 2003 entre l'exploitant, la commune et l'administration.		
+2012	07			2012	07			réalisées	Les résultats des analyses réalisées en juillet 2012 montrent :		
+1996				1996				A	A partir de fin 1996, une surveillance de la nappe a été engagée dans le but de déterminer le traitement du sous-sol le mieux adapté à terme, compte-tenu de ses caractéristiques propres.		
+1999	09			1999	09			A	A partir de septembre 1999, un nouveau plan d’action de surveillance a été mis en œuvre.		
+2012	05			2012	05			a_déclaré_sa_cessation_définitivement_d__activité	En mai 2012, l'exploitant a déclaré sa cessation définitivement d'activité.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10			2010	10			Les_opérations_de_dépollution	* Les opérations de dépollution ont été réalisées par la suite (septembre/octobre 2010) et ont consisté en un traitement des matériaux et terres pollués par excavation et évacuation vers des filières extérieures.		
+2008				2008				__ont_été_démantelées	*  Les anciennes installations (cuves, tuyauterie) ont été démantelées en 2008.		
+								Les_opérations_de_dépollution	* Les opérations de dépollution ont été réalisées par la suite (septembre/octobre 2010) et ont consisté en un traitement des matériaux et terres pollués par excavation et évacuation vers des filières extérieures.		
+2005	04			2005	04			a_cessé	L'activité a cessé en Avril 2005.		
+1925	03	27		1925	03	27		est_créée	*  Le 27 Mars 1925, la Compagnie Française des Naphtes est créée.	', la Compagnie Française des Naphtes'	
+2006	12			2006	12			a_été_réalisé	*  Le diagnostic approfondi de pollution du sol a été réalisé en Décembre 2006 et complète le premier diagnostic.		
+2005				2005				un_diagnostic_de_pollution	*  Ce site a fait l'objet d'un diagnostic de pollution (13 sondages de sol et un piézo de contrôle des eaux souterraines) en 2005, en appui à la déclaration de cessation d'activité.		
+				2009				ait_été_libéré_des_squatters	Les bâtiments ont quant à eux été totalement déconstruit  entre Mai et Juillet 2009, après que le site ait été libéré des squatters qui l'ont occupé pendant plusieurs mois.		
+2005	03	09		2005	03	09		a_cessé_son_activité_par_déclaration	*  Cette société a été soumise à déclaration (récépissé du 15/10/1979)et a cessé son activité par déclaration du 09/03/2005.		
+2007	07	31		2007	07	31		a_été_vendu	*  Le 31 Juillet 2007, le site a été vendu à la SCI CINA qui a été créée par le groupe VALGO.		'à la SCI CINA', 'par le groupe VALGO'
+				2009				ont_quant_à_eux_été_totalement_déconstruit	Les bâtiments ont quant à eux été totalement déconstruit  entre Mai et Juillet 2009, après que le site ait été libéré des squatters qui l'ont occupé pendant plusieurs mois.		
+2012	01	30		2012	01	30		a_été_pris	Du fait de la présence résiduelle de pollution, un Arrêté de servitude d'utilité publique a été pris le 30 janvier 2012 qui encadre l'usage futur du site.		
+1923	06			1923	06			avait_demandé	La société VILLEMOT avait demandé en Juin 1923 une autorisation pour la fabrication de dégras, le chauffage des huiles de goudron, le chauffage d'huiles minérales et la fabrication de savon mou.	'goudron'	'La société VILLEMOT'
+2005	09	01		2005	09	01		l__AP	*  Le projet de réhabilitation, établi pour un usage non sensible du site, a fait l'objet de l'AP du 01/09/2005 prévoyant :		
+2005	03	09		2005	03	09		a_été_soumise_à_déclaration	*  Cette société a été soumise à déclaration (récépissé du 15/10/1979)et a cessé son activité par déclaration du 09/03/2005.		
+2006	12			2006	12			L__EDR	L'EDR de Décembre 2006 s'est basée sur une reconversion du site en zone commerciale, parking, espace verts avec recouvrement de la totalité de la surface du site (dalle béton,  enrobé ou terre végétale).		

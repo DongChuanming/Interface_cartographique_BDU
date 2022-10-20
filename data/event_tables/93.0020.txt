@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				a_cessé	Plusieurs sociétés se sont succédées, la dernière étant la société PARAMELT qui a cessé son activité fin 1993.		'la société PARAMELT'
+1994				2014				a_accueilli	De 1994 à 2014 le site a accueilli une société de négoce et distribution professionnelle de matières premières basées sur la Chimie pour la cosmétique et l'industrie.		
+2013	04	02		2013	04	02		il_a_été_demandé	Par lettre préfectorale du 2 avril 2013, il a été demandé à la société PARAMELT BV de mettre en place des restrictions d’usage visant à pérenniser la mémoire de la pollution résiduelle et la compatibilité de l'état des sols avec un usage industriel.		'la société PARAMELT BV'
+2013	02	06		2013	02	06		a_été_pris	Un arrêté préfectoral complémentaire a été pris le 6 février 2013 pour encadrer la surveillance de la qualité des eaux souterraines.		
+1937				1937				a_accueilli	A partir de 1937, le site a accueilli des activité industrielles de mélange et de raffinage de cires et corps gras.		
+2015	01			2015	01			Les_inspections	Les inspections sur site de janvier 2015 et mai 2017 ont permis de constater le changement d'affectation du site et la présence d’activités très variées, notamment de garages, d'entreposage de palettes, de tri et transit de papiers, cartons et plastiques ou encore de stockage de vêtements.		
+2017	05			2017	05			la_visite	Par ailleurs, la visite de mai 2017 a permis de constater une incompatibilité entre les activités menées actuellement sur le site et le maintien des piézomètres dans des conditions garantissant l'absence de risque de pollution des eaux souterraines.		
+1993				1993				se_sont_succédées	Plusieurs sociétés se sont succédées, la dernière étant la société PARAMELT qui a cessé son activité fin 1993.		'la société PARAMELT'
+2010	12			2010	12			a_été_transmis	En décembre 2010, un diagnostic complémentaire a été transmis à l'inspection des installations classées.		
+1996	04			1996	04			un_diagnostic_initial	Dans le cadre de sa cessation d'activité, la Société PARAMELT a réalisé un diagnostic initial de l'état du sous-sol en avril 1996, complété en décembre 1996.		'la Société PARAMELT'
+2017	05			2017	05			Les_inspections	Les inspections sur site de janvier 2015 et mai 2017 ont permis de constater le changement d'affectation du site et la présence d’activités très variées, notamment de garages, d'entreposage de palettes, de tri et transit de papiers, cartons et plastiques ou encore de stockage de vêtements.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				une_étude_de_la_pollution	En 1998, l'exploitant a fait réaliser une étude de la pollution du sol et des eaux souterraines mettant en évidence une pollution au droit du site TYCO, probablement due à l'activité industrielle du site VIALCO situé en amont hydraulique.		'TYCO', 'VIALCO'
+2009	10	30		2009	10	30		est_tenu	Par l'arrêté préfectoral du 30 octobre 2009, l'exploitant TYCO ELECTRONICS est tenu de respecter et de réaliser les exigences suivantes:		'TYCO ELECTRONICS'
+1999	04			1999	04			rachète	En avril 1999, le groupe américain TYCO rachète la société, qui se nomme dorénavant Tyco Electronics SIMEL.		'le groupe américain TYCO', 'Tyco Electronics SIMEL'
+2014	06			2014	06			la_campagne_de_prélèvement	Juin 2014: la campagne de prélèvement des eaux souterraines a révélé un impact en benzène et hydrocarbures au droit du site.	'benzène', 'hydrocarbures'	

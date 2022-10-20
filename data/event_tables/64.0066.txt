@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	02	04		1994	02	04		Une_première_déclaration	Une première déclaration concernant l'installation avait été faite le 4 février 1994.		
+2001	01	29		2001	01	29		a_été_déclaré	Le 29 janvier 2001, un nouveau dépôt d'hydrocarbures a été déclaré par Elf Antar France sur la commune de Biarritz (récépissé n°00/IC/435).	"d' hydrocarbures"	'Elf Antar France'
+2002	03	18		2002	03	18		informe	Le 18 mars 2002, Total Final Elf France informe la DRIRE de son changement de dénomination, suite à la fusion de Total Raffinage Distribution S.		'Total Final Elf France', 'la DRIRE', 'Total Raffinage'
+2000	11	23		2000	11	23		est_délivré	Le récépissé de cessation d'activité n°00/IC/434 de la station service d'avitaillement des aéronefs sur la commune d'Anglet est délivré le 23 novembre 2000 avec un récépissé de déclaration de démontage de l'installation de stockage distribution.		
+2000	05	09		2000	05	09		Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé le 9 mai 2000.		

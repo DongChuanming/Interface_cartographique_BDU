@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	31		2011	10	31		ont_été_transmis	Les justificatifs d’inertage de la cuve de fluide thermique et de fioul ont été transmis par Maître BAULAND (pour le compte de VAHE)  respectivement les 11 juillet 2011 et 31 octobre 2011.	'fluide thermique', 'fioul'	'Maître BAULAND', 'VAHE'
+2019	04	25		2019	04	25		est_radiée_du_RCS	I est radiée du RCS le 25/04/2019.		
+								18_sondages_ont_été_réalisés	18 sondages ont été réalisés (T1 à T17) jusqu'à 3 m les 21 et 22 juin 2010. 2 piézomètres ont été forés le 5 juillet 2010 (PZ1 et PZ2).		
+2010	10	15		2010	10	15		Investigations_complémentaires_de_sols	* Investigations complémentaires de sols, surveillance de la qualité des eaux souterraines, schéma conceptuel réalisé par SOCOTEC INDUSTRIES (rapport n°13T1/10/1568 du 15 octobre 2010)		'SOCOTEC INDUSTRIES'
+2010	08	03		2010	08	03		Investigations_complémentaires_de_sols	* Investigations complémentaires de sols, surveillance de la qualité des eaux souterraines, schéma conceptuel réalisé par SOCOTEC INDUSTRIES (rapport n°13T1/10/1120 du 3 août 2010)		'SOCOTEC INDUSTRIES'
+2010	07	12		2010	07	12		ont_été_prélevées	Les eaux souterraines ont été prélevées le 12 juillet 2010.		
+1936				2005				a_exercé	La société VAHé & Cie a exercé de 1936 à 2005, sur le site qu'elle exploitait 16 rue Mansard à Villeurbanne, des activités d'ennoblissement et d'apprêt de textiles de toute nature.		'La société VAHé'
+2007	11	30		2007	11	30		ont_été_conduits	15 sondages ont été conduits jusqu'à une profondeur maximale de 4 m les 29 et 30 novembre 2007.		
+2007	07			2007	07			a_définitivement_cessé	A partir de juillet 2007, cette dernière y a définitivement cessé ses activités.		
+2017	06	21		2017	06	21		est_finalement_radiée_du_RCS	Par jugement du tribunal de commerce de Lyon, la société VAHE & Cie est finalement radiée du RCS le 21/06/2017.		'de commerce de Lyon', 'la société VAHE'
+								ont_été_conduits	15 sondages ont été conduits jusqu'à une profondeur maximale de 4 m les 29 et 30 novembre 2007.		
+2012				2012				ont_été_transmis	Les résultats de la campagne d'analyse des eaux souterraines ont été transmis à l’administration en 2012.  Cette seconde campagne ne montre aucun impact significatif sur les eaux souterraines.		
+2011	07	11		2011	07	11		ont_été_transmis	Les justificatifs d’inertage de la cuve de fluide thermique et de fioul ont été transmis par Maître BAULAND (pour le compte de VAHE)  respectivement les 11 juillet 2011 et 31 octobre 2011.	'fluide thermique', 'fioul'	'Maître BAULAND', 'VAHE'
+2010	07	05		2010	07	05		ont_été_forés	18 sondages ont été réalisés (T1 à T17) jusqu'à 3 m les 21 et 22 juin 2010. 2 piézomètres ont été forés le 5 juillet 2010 (PZ1 et PZ2).		
+2005	01	04		2005	01	04		à_son_dépôt_de_bilan	Suite à son dépôt de bilan (4 janvier 2005), une partie de ses activités a été reprise par la société S.		'la société S.'
+1936				2005				des_activités_d__ennoblissement_et_d__apprêt_de_textiles	La société VAHé & Cie a exercé de 1936 à 2005, sur le site qu'elle exploitait 16 rue Mansard à Villeurbanne, des activités d'ennoblissement et d'apprêt de textiles de toute nature.		'La société VAHé'
+2010	12	09		2010	12	09		Évaluation_Quantitative	* Évaluation Quantitative des Risques Sanitaires réalisé par SOCOTEC INDUSTRIES (rapport n°F13T1/10/1940 du 9 décembre 2010)		'Risques Sanitaires', 'SOCOTEC INDUSTRIES'
+2008	01	23		2008	01	23		Diagnostic_de	* Diagnostic de sols potentiellement pollués réalisé par SOCOTEC INDUSTRIES (rapport n°13T1/08/141 du 23 janvier 2008)		'SOCOTEC INDUSTRIES'
+2010	06	22		2010	06	22		18_sondages_ont_été_réalisés	18 sondages ont été réalisés (T1 à T17) jusqu'à 3 m les 21 et 22 juin 2010. 2 piézomètres ont été forés le 5 juillet 2010 (PZ1 et PZ2).		

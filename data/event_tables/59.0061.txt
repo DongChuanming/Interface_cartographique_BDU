@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				initiale_réalisée	- Étude des sols initiale réalisée en 1994.		
+1998	01	29		1998	01	29		la_réalisation_d__une_étude_approfondie	- Arrêté prefectoral imposant à la SA Charbonnages de France la réalisation d'une étude approfondie du site, le 29/01/1998		'la SA Charbonnages de France'
+2000	03			2000	03			Réalisation_d__une_nouvelle_version	- Réalisation d'une nouvelle version de l'évaluation détaillée des risques en mars 2000		

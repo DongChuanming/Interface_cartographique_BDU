@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Nouvelles_réceptions	- Nouvelles réceptions des fonds de fouilles, les 08 et 09/11/07.		
+1996				1996				a_informé	En 1996, ladite société a informé la préfecture de la cessation de son activité industrielle.		
+2002				2002				a_été_vendu	Le site a été vendu en 2002 à la commune de la Chevrolière.		
+1936				1936				a_été_créée	La laiterie de la Chevrolière a été créée en 1936 par M.		
+								un_débordement	Dans la nuit du 8 au 9 avril 1995, un débordement de 5 m3 d'hydrocarbures non confiné par rétention a eu lieu.	'hydrocarbures'	
+2002	09			2002	09			un_mémoire_de_remise_en_état_du_site	En septembre 2002, un mémoire de remise en état du site de la laiterie exploitée jusqu'en 1996 a été adressé à la préfecture par LACTALIS Investissements.		
+2005				2005				a_été_remis	Le rapport contenant ces deux documents a été remis en 2005.		
+				1996				exploitée	En septembre 2002, un mémoire de remise en état du site de la laiterie exploitée jusqu'en 1996 a été adressé à la préfecture par LACTALIS Investissements.		
+				2002				a	Seul un bureau de la société chargée de la collecte du lait a subsisté jusqu'au début de l'année 2002.		
+1946	10	23		1946	10	23		un_récépissé	GAUTIER Louis Père de la société LACNOR et a reçu un récépissé de déclaration de la préfecture le 23/10/1946.		'GAUTIER', 'la société LACNOR'
+1996				1996				les_travaux	Suite à l’arrêt de ses activités en 1996, la société LACTALIS a mis en œuvre les travaux suivants:		'la société LACTALIS'
+1995	04	09		1995	04	09		un_débordement	Dans la nuit du 8 au 9 avril 1995, un débordement de 5 m3 d'hydrocarbures non confiné par rétention a eu lieu.	'hydrocarbures'	
+1986	04	26		1986	04	26		a_été_autorisée_par_voie_d_	La société LACTALIS a été autorisée par voie d'arrêté préfectoral le 26 avril 1986 à exploiter des installations de transformation de produits laitiers.		'La société LACTALIS'

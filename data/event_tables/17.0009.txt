@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01			2000	01			a_donc_proposé	L'inspection a donc proposé au préfet, en janvier 2000, d'imposer à la société NCH la remise en état de ce terrain.		'préfet', 'la société NCH'
+1998				1998				envisage_d_	En 1998, la société Ruppelacolor envisage d'exploiter une unité de fabrication de peinture et de régénération de solvants.	'solvants'	'la société Ruppelacolor'
+1996	04	24		1996	04	24		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée par jugement du 24 avril 1996.		
+1998	01			1998	01			sa_demande_d__autorisation	Dans le cadre de sa demande d'autorisation d'exploiter établie en janvier 1998, la Sté Ruppelacolor a fait réaliser par un bureau d'études une reconnaissance simplifiée du site.		'la Sté Ruppelacolor'
+2000	06	02		2000	06	02		a_abandonné	La société Ruppelacolor n'ayant pas été autorisée, par arrêté en date du 2 juin 2000, à exercer de nouvelles activités sur ce site, a abandonné ses recherches sur sa pollution.		'La société Ruppelacolor'
+1998	01			1998	01			une_reconnaissance_simplifiée	Dans le cadre de sa demande d'autorisation d'exploiter établie en janvier 1998, la Sté Ruppelacolor a fait réaliser par un bureau d'études une reconnaissance simplifiée du site.		'la Sté Ruppelacolor'

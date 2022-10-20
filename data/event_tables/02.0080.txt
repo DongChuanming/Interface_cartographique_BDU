@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				la_production_de_chaudières	En mars 2007, la société BAXI a cessé définitivement l’activité de production de son site de Crouy qui était à usage industriel depuis 1919 et exploité pour la production de chaudières depuis 1968.		'la société BAXI'
+2007				2007				se_retrouvent_dans	De plus, d’après les résultats des analyses de la qualité des eaux souterraines réalisées en 2007, les pollutions se retrouvent dans les nappes d’eaux souterraines.		
+2007	03			2007	03			a_cessé_définitivement	En mars 2007, la société BAXI a cessé définitivement l’activité de production de son site de Crouy qui était à usage industriel depuis 1919 et exploité pour la production de chaudières depuis 1968.		'la société BAXI'
+2010	05			2010	05			réalisés	Cependant, les résultats des diagnostics de sols réalisés autour des anciennes cuves d’hydrocarbures en mai 2010 montrent des pollutions significatives aux hydrocarbures, HAP et BTEX.	'hydrocarbures', 'hydrocarbures', 'HAP', 'BTEX'	
+1968				1968				exploité_pour	En mars 2007, la société BAXI a cessé définitivement l’activité de production de son site de Crouy qui était à usage industriel depuis 1919 et exploité pour la production de chaudières depuis 1968.		'la société BAXI'

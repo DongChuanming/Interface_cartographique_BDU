@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	24		2003	10	24		donne_son_accord	24 octobre 2003: la SCI PAMA2 donne son accord (courrier au Préfet de l'Aisne) pour la réalisation de l'étude ESR .		'la SCI PAMA2'
+2003	07	30		2003	07	30		_document	"excavation de terre sur un secteur contaminé par le plomb et analyses de controle" -document daté du 30/07/2003-		
+2000	03			2000	03			est_diligentée	Depuis mars 2000, une procédure de renseignements judiciaire est diligentée par la procureur de la république de ST QUENTIN.		'la procureur de la république de ST QUENTIN'
+2003	05	12		2003	05	12		__production	12 mai 2003 : production d'un document réalisé par le CETE APAVE Nord-Ouest intitulé "recherche d'éventuelles pollutions du sol par les hydrocarbures et les métaux	'hydrocarbures', 'métaux'	'le CETE APAVE Nord-Ouest'
+2004	03	16		2004	03	16		__production	16 mars 2004: production de l'avis de Monsieur l'hydrogéologue agréé .		
+2004	05	25		2004	05	25		__production	25 mai 2004: production par APAVE NORD-OUEST d'un rapport complémentaire reprenant la demande de l'hydrogéologue .		'APAVE NORD-OUEST'
+2003	10	23		2003	10	23		__production	23 octobre 2003: production par APAVE NORD-OUEST, pour le compte de la SCI PAMA 2, d'un rapport d'étude de sol intitulé		'APAVE NORD-OUEST', 'la SCI PAMA'

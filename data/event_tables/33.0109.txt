@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10	18		2012	10	18		au_prélèvement_réalisé	Le 06/11/2012, l'exploitant a adressé le rapport relatif au prélèvement réalisé le 18/10/2012.		
+2003	04	07		2003	04	07		La_campagne_d__analyses	La campagne d'analyses du 07/04/2003 montre des dépassements de VCI pour le Zinc, le Manganèse et l'Ammonium à l'aval du site, en situation stable par rapport à la dernière campagne.	'le Zinc', 'le Manganèse', 'Ammonium'	
+2004	09	14		2004	09	14		La_campagne	La campagne du 14/09/2004 confirme la tendance et montre une situation non satisfaisante en augmentation pour Mn et NH4.	'Mn', 'NH4'	
+1999				1999				Cette_étude_a_en_fait_été_réalisée	Cette étude a en fait été réalisée en 1999 dans le cadre d'une démarche interne et a été transmise à la DRIRE le 02/05/2001.		'la DRIRE'
+2004				2004				démarrée	La procédure d'autorisation pour actualiser les modifications apportées, démarrée en 2004 a conduit à la prescription d'un nouvel arrêté préfectoral d'autorisation n°1452/4 du 03/11/2006.		
+2012	05	21		2012	05	21		prélèvement_réalisé	Le jour de la visite d'inspection du 09/10/2012, l'exploitant a remis le rapport DEKRA relatif au prélèvement réalisé le 21/05/2012 sur 7 piézomètres.		'DEKRA'
+2007	04			2007	04			La_campagne_d_	La campagne d'avril 2007 confirme celle de septembre 2006 avec une remontée de Mn dans PZ1'(aval latéral) PZ6 (amont) et le maintien sur PZ7 (aval) et Forage (aval).	'Forage'	
+2011	11	25		2011	11	25		a_été_condamné	Le forage a été condamné le 25/11/2011 par la société Aquitaine forage.		'la société Aquitaine forage'
+2009	04			2009	04			La_campagne_d_	La campagne d'avril 2009 montre que :		
+2012	11	06		2012	11	06		a_adressé	Le 06/11/2012, l'exploitant a adressé le rapport relatif au prélèvement réalisé le 18/10/2012.		
+2002	01	14		2002	01	14		ont_été_remis	Les documents ont été remis le 14/01/2002 et confirment le classement du site.		
+2006	09			2006	09			La_campagne_de	La campagne de septembre 2006, confirme la présence marquée de NH4 sur PZ1' (aval latéral) PZ4 (amont) de Zn (> VCI non sensible)sur PZ4 et Forage (aval) et dans une moindre mesure sur PZ6 (amont) et PZ7 (aval).	'NH4', 'Zn', 'Forage'	
+2012	10	18		2012	10	18		a_adressé	Le 06/11/2012, l'exploitant a adressé le rapport relatif au prélèvement réalisé le 18/10/2012.		
+1999				1999				Le_diagnostic_réalisé	Le diagnostic réalisé en 1999 est à actualiser.		
+2012	10	09		2012	10	09		Le_jour_de_la_visite_d__inspection	Le jour de la visite d'inspection du 09/10/2012, l'exploitant a remis le rapport DEKRA relatif au prélèvement réalisé le 21/05/2012 sur 7 piézomètres.		'DEKRA'
+2003	11			2003	11			La_campagne_de	La campagne de Novembre 2003 confirme la tendance avec une légère augmentation Zn et NH4 non significative.	'Zn', 'NH4'	
+2006	11	03		2006	11	03		la_prescription_d__un_nouvel_arrêté_préfectoral	La procédure d'autorisation pour actualiser les modifications apportées, démarrée en 2004 a conduit à la prescription d'un nouvel arrêté préfectoral d'autorisation n°1452/4 du 03/11/2006.		
+2001	05	02		2001	05	02		a_été_transmise	Cette étude a en fait été réalisée en 1999 dans le cadre d'une démarche interne et a été transmise à la DRIRE le 02/05/2001.		'la DRIRE'
+2000	01	26		2000	01	26		est_autorisée	Elle est autorisée par l'arrêté du 26/01/2000.		
+2009	11	16		2009	11	16		demande_la_suspension_des_analyses	Le 16/11/2009, l'exploitant demande la suspension des analyses de Cd et de Mn.	'Cd', 'Mn'	

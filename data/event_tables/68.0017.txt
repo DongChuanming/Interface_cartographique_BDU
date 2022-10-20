@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1999				Sur_ce_terril	Sur ce terril en activité de 1920 jusqu'à 1999 ont été déposés 18,48 millions de tonnes de résidus de traitement du minerai de potasse, dont 3450 kt de chlorures de sodium (sel).	'chlorures', 'sodium', 'sel'	
+2010				2010				un___remodelage	Le terril a ensuite fait l'objet d'un  remodelage en 2010 ayant pour objectif sa stabilisation, la gestion des eaux pluviales et l'intégration paysagère.		
+2005				2005				Les_4_puits_de_dépollution	Les 4 puits de dépollution "Rodolphe" ont été arrêtés en 2005 , le terril étant bien fixé.		
+2001				2009				a_été_traité_par_dissolution_accélérée	Le terril Marie-Louise a été traité par dissolution accélérée de 2001 à 2009.		

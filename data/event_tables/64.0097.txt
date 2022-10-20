@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								prescrit_les_travaux_de_réhabilitation	L'arrêté préfectoral du 14 novembre 2006 prescrit les travaux de réhabilitation suivante dans un délai de 18 mois:		
+2003				2003				a_cessé_son_activité	Elle a cessé son activité en 2003.		
+1973	12	10		1973	12	10		a_été_autorisée	La décharge a été autorisée par arrête préfectoral du 10 décembre 1973.		
+2006	11	14		2009	05	14		l__arrêté	L'arrêté préfectoral du 22/12/2008 reporte les délais d'exécution de l'arrêté du 14/11/2006 au 14 mai 2009.		
+2006	11	14		2009	05	14		reporte	L'arrêté préfectoral du 22/12/2008 reporte les délais d'exécution de l'arrêté du 14/11/2006 au 14 mai 2009.		

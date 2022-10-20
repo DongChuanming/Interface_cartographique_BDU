@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	07	16		2010	07	16		par_arrêté	Des Servitudes d'utilité Publiques (SUP), limitant l'usage des sols, du sous-sol et des eaux souterraines au droit du site ont été instituées par arrêté du 16 juillet 2010.		
+2016	01	18		2016	01	18		a_été_signé	Un arrêté préfectoral de suivi de la qualité des eaux souterraines a été signé le 18 janvier 2016.		
+2010	07	16		2010	07	16		ont_été_instituées	Des Servitudes d'utilité Publiques (SUP), limitant l'usage des sols, du sous-sol et des eaux souterraines au droit du site ont été instituées par arrêté du 16 juillet 2010.		
+2009				2009				des_travaux	Un plan de gestion a été mis en oeuvre par la société ESSO et des travaux ont été réalisées en 2008 et 2009.		'la société ESSO'
+2008				2008				a_été_mis_en_oeuvre	Un plan de gestion a été mis en oeuvre par la société ESSO et des travaux ont été réalisées en 2008 et 2009.		'la société ESSO'
+2008				2008				des_travaux	Un plan de gestion a été mis en oeuvre par la société ESSO et des travaux ont été réalisées en 2008 et 2009.		'la société ESSO'
+2009				2009				a_été_mis_en_oeuvre	Un plan de gestion a été mis en oeuvre par la société ESSO et des travaux ont été réalisées en 2008 et 2009.		'la société ESSO'
+1996	12			2006	11			4_phases_de_diagnostic	Ainsi, 4 phases de diagnostic dans les sols ont été réalisées entre décembre 1996 et novembre 2006.		
+1998	01			1998	01			a_été_réalisé	Une activité de distribution de charbon y a également été exercée.  Le démantèlement du dépot a été réalisé en janvier 1998 en raison du mauvais état du matériel.	'charbon'	
+1997				1997				est_passée	Sa capacité initiale de 1340 m3 est passée à 9560 m3 en 1997, date de la fin d'activité du dépôt.		

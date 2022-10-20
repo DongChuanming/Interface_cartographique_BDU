@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				un_diagnostic_de_sol	L'ADEME a engagé en 2013 un diagnostic de sol.		
+2010	02	25		2010	02	25		de_la_visite	Lors de la visite du 25/02/2010, l'inspection a constaté que le site n'était pas en sécurité (absence de clôture, vandalisme, site utilisé pour la pratique du paintball) et que des déchets étaient encore présents (nombreux gravats notamment).		
+								Les_visites_réalisées	Les visites réalisées en mars et avril 2007 ont permis de constater que des déchets étaient encore présent sur le site.		
+2001	07	30		2001	07	30		a_été_autorisée	La société GDLS à Woincourt a été autorisée en date du 30 juillet 2001 pour l'exploitation d'un atelier de traitement de surface.		'La société GDLS'
+2012				2012				Une_intervention	Une intervention de l'ADEME afin de mettre le site en sécurité a été réalisé en 2012.		
+2007	04			2007	04			Les_visites_réalisées	Les visites réalisées en mars et avril 2007 ont permis de constater que des déchets étaient encore présent sur le site.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_arrêtée	Elle est arrêtée à la fin des années 1980.		
+2001				2001				ont_été_prises_en_compte	En 2001, dans le cadre de la viabilisation de cette zone d'activités, préalable à l'implantation des entreprises, les recommandations du rapport de novembre 1998 ont été prises en compte.		
+1998	01			1998	01			Un_diagnostic_initial	Un diagnostic initial a été réalisé en janvier 1998 et classait le site en 1 (diagnostic approfondi et/ou travaux à faire) notamment en raison d'un danger potentiel par contact direct de l'homme avec des sols contaminés par du cadmium et du zinc.	'cadmium', 'zinc'	
+1998	11			1998	11			de	Le rapport de ce diagnostic datant de novembre 1998, a proposé que soit réalisé un recouvrement des sols par une couche d'au moins 0,50 m de matériaux à faible perméabilité pour éviter le contact direct avec les sols et leur lessivage par les eaux météoriques (ruissellement et infiltration).		
+1998	10	09		1998	10	09		un_diagnostic_approfondi	Compte tenu du réaménagement prévu du site en zone d'activités artisanales, un diagnostic approfondi a été réalisé en septembre octobre 1998 pour définir les conditions de faisabilité d'un réaménagement.		

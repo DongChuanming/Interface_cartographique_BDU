@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1952				1952				exploite	La société DASSAULT exploite depuis 1952.		'La société DASSAULT'
+2009	04			2009	04			de_la_nappe_d_	La campagne de surveillance de la nappe d'avril 2009 a relevé des concentrations en tétrachloréthylène du même ordre de grandeur que celles mesurées en 2008.	'tétrachloréthylène'	
+1999	10			1999	10			ont_été_déposées	Elles ont été déposées en octobre 1999 (diagnostic initial) et en juin 2000 (ESR) et proposent le classement du site au niveau 2 nécessitant la mise en place d'une surveillance.		
+2010	10			2010	10			de_la_nappe_d_	La campagne de surveillance de la nappe d'octobre 2010 a relevé une légère augmentation de la teneur en tétrachloréthylène sur le Pz2 et de la teneur en chlorure de vinyle sur le piézomètre Pz4.	'tétrachloréthylène', 'chlorure', 'vinyle'	
+1998	12	29		1998	12	29		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 29 décembre 1998.		
+1999	10			1999	10			diagnostic_initial	Elles ont été déposées en octobre 1999 (diagnostic initial) et en juin 2000 (ESR) et proposent le classement du site au niveau 2 nécessitant la mise en place d'une surveillance.		
+2010	04			2010	04			nappe_d_	La campagne de surveillance de la nappe d'avril 2010 a relevé des concentrations en tétrachloréthylène et en chlorure de vinyle du même ordre de grandeur que celles mesurées dans la campagne de surveillance de la nappe de novembre 2009.	'tétrachloréthylène', 'chlorure de vinyle'	

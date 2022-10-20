@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	11			La_mise_en_sécurité	La mise en sécurité du site s’est déroulée entre septembre et novembre 2011.		
+2002				2002				totalement_arrêtée	A partir des années 1997/1998, la fabrication des pièces a été progressivement abandonnée, puis totalement arrêtée depuis 2002,  l'ensemble des éléments étant alors acheté auprès de fournisseurs.		
+2012	02	07		2012	02	07		Un_procès_verbal_de_récolement	Un procès verbal de récolement constatant la réalisation des mesures prévues par le plan de gestion et la remise en état du site a été dressé le 07 février 2012.		
+2012	02	07		2012	02	07		procès_verbal_de_récolement	Suite à cette dernière visite, un procès-verbal de récolement a été dressé le 07 février 2012.		
+2011	06	30		2011	06	30		a_établi	Sur la base de ce constat, l’exploitant a établi le 30 juin 2011 un plan de gestion définissant les modalités de mise en sécurité puis de remise en état du site.		
+1998	1997			1998	1997			a_été_progressivement_abandonnée	A partir des années 1997/1998, la fabrication des pièces a été progressivement abandonnée, puis totalement arrêtée depuis 2002,  l'ensemble des éléments étant alors acheté auprès de fournisseurs.		
+2011	10	31		2011	10	31		a_été_notifiée	La déclaration de cessation d’activité a été notifiée par la société CUENOD le 26 juillet 2011, l’établissement s’étant définitivement arrêté le 31 octobre 2011.		'la société CUENOD'
+2011	07			2011	07			un_diagnostic_environnemental	L’exploitant a fait réaliser un diagnostic environnemental du site en juillet 2011.		
+2011	07			2011	07			un_diagnostic_environnemental	L'exploitant a fait réaliser un diagnostic environnemental du site en juillet 2011 dont les principaux éléments  sont synthétisés ci-après.		
+				2011	09			a_exploité	De 1969 jusqu'en septembre 2011, la société CUENOD a exploité un établissement fabricant des brûleurs au gaz naturel et au fioul domestique ou lourd destinés à équiper les chaudières domestiques et industrielles.	'fioul'	'la société CUENOD'
+2011	07	26		2011	07	26		La_déclaration_de_cessation_d__activité	La déclaration de cessation d’activité a été notifiée par la société CUENOD le 26 juillet 2011, l’établissement s’étant définitivement arrêté le 31 octobre 2011.		'la société CUENOD'
+2002				2002				a_été_progressivement_abandonnée	A partir des années 1997/1998, la fabrication des pièces a été progressivement abandonnée, puis totalement arrêtée depuis 2002,  l'ensemble des éléments étant alors acheté auprès de fournisseurs.		
+2011	10	31		2011	10	31		La_déclaration_de_cessation_d__activité	La déclaration de cessation d’activité a été notifiée par la société CUENOD le 26 juillet 2011, l’établissement s’étant définitivement arrêté le 31 octobre 2011.		'la société CUENOD'
+2011	09	02		2011	09	02		a_été_approuvé	Ce plan a été approuvé par courrier du préfet en date du 02 septembre 2011.		'du préfet'

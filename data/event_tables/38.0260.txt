@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1950				1950				a_été_exploité	La partie Nord a été exploité dés 1950 par la société des CARTONNAGE MICHAL.		'la société des CARTONNAGE MICHAL'
+2009				2009				a_fait_procéder	Face à ce constat, et conformément aux dispositions de l’article R.512-39-3 du code de l’environnement et de la circulaire du 8 février 2007, l’ancien exploitant a fait procéder, en 2009, au démantèlement et à l’évacuation des anciens équipements industriels, parmi lesquels les cuves de fioul (2 cuves de 80 m3 dont une était aérienne, une cuve de 10 m3 et une dernière de 5 m3), les tuyauteries et l’unité de pompage / dépotage associée, les chaudières au fioul et le transformateur PCB.	'fioul ( 2 cuves de 80', 'fioul', 'PCB'	
+1975	10	17		1975	10	17		signé	Elle bénéficiait pour cela d'un arrêté préfectoral d'autorisation signé le 17/10/1975.		
+2013	02	18		2013	02	18		fais_l__objet_d_	Cette activité fais l'objet d'un récépissé de déclaration signé le 18/02/2013.		
+2007	02	08		2007	02	08		a_fait_procéder	Face à ce constat, et conformément aux dispositions de l’article R.512-39-3 du code de l’environnement et de la circulaire du 8 février 2007, l’ancien exploitant a fait procéder, en 2009, au démantèlement et à l’évacuation des anciens équipements industriels, parmi lesquels les cuves de fioul (2 cuves de 80 m3 dont une était aérienne, une cuve de 10 m3 et une dernière de 5 m3), les tuyauteries et l’unité de pompage / dépotage associée, les chaudières au fioul et le transformateur PCB.	'fioul ( 2 cuves de 80', 'fioul', 'PCB'	
+2008	08			2008	08			La_cessation_d__activité	La cessation d’activité a été notifiée par la société VALSCIUS à Monsieur le Préfet de l’Isère en août 2008, via un courrier et un dossier précisant l’ensemble des modalités visées à l’article R.512-39-1 du code de l’environnement:		'la société VALSCIUS', 'le Préfet'
+2009	11			2009	11			des_investigations_de_sol	En novembre 2009, à l’issue des travaux de démantèlement, des investigations de sol ont été réalisées en fond et bords de fouille, afin de vérifier les teneurs résiduelles en polluants et vérifier l’extension tridimensionnelle des zones polluées.		
+2011	01			2011	01			____transmission	janvier 2011 : transmission par VALSCIUS d’une troisième version du dossier de cessation d’activité;		'par VALSCIUS'
+1975	10	17		1975	10	17		Elle_bénéficiait	Elle bénéficiait pour cela d'un arrêté préfectoral d'autorisation signé le 17/10/1975.		
+2009	12			2009	12			____transmission	décembre 2009 : transmission par VALSCIUS d’une deuxième version du dossier de cessation d’activité;		'par VALSCIUS'
+1984				1984				est_installée	Elle est installée sur la parcelle sud du site depuis 1984.		
+2013	02	18		2013	02	18		signé	Cette activité fais l'objet d'un récépissé de déclaration signé le 18/02/2013.		
+								de_cessation_remis	novembre 2008 : courrier de l’inspection des installations classées demandant de compléter le dossier de cessation remis en août (bilan du démantèlement des bâtiments, analyses complémentaires de la qualité des sols);		
+2013	07			2013	07			____transmission	juillet 2013 : transmission par VALSCIUS d’une quatrième version du dossier de cessation d’activité.		'par VALSCIUS'
+1980				1980				est_reprise	En 1980, la société est reprise par la SOCIÉTÉ COMMERCIALE ET INDUSTRIELLE D’UNITÉS DE SERVICE (SCUIS) qui en conserve l'activité.		'la SOCIÉTÉ COMMERCIALE ET INDUSTRIELLE D’ UNITÉS DE SERVICE', 'SCUIS'
+2008	07			2008	07			Un_diagnostic_environnemental	Un diagnostic environnemental a été diligenté par la société VALSCIUS au mois de juillet 2008.		'la société VALSCIUS'
+1997				1997				La_production_s__arrête_complétement	La production s’arrête complétement en 1997.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				observés	De faibles pics en COHV sont observés en 2012.	'COHV'	
+2002	12			2002	12			une_évaluation_simplifiée_des_risques	A la suite de ces résultats, une évaluation simplifiée des risques a été réalisée en décembre 2002.		
+				2001				ont_été_utilisés	Des solvants (notamment trichloréthylène - TCE) ont été utilisés jusque fin 2001 environ.	'Des solvants', 'trichloréthylène', 'TCE'	
+2001				2001				Deux_diagnostics_environnementaux	Deux diagnostics environnementaux, réalisés au printemps 2001, mettent en évidence :		
+2011	06			2011	06			un_traitement_de_la_pollution	Depuis juin 2011, un traitement de la pollution des eaux souterraines par un procédé de venting a été mis en place.		
+								Cette_installation_existe_toutefois	Cette installation existe toutefois depuis les années 1963.		

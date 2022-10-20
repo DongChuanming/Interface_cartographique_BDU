@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_cessé	* L'activité de trempage du bois a cessé en 2002.		
+2000	01	10		2000	01	10		L__ESR_a_été_prescrite_par	* L'ESR a été prescrite par AP du 10/01/2000 et les résultats, remis en 2002, font apparaître( à l'issue de la première phase d'étude) que les investigations de terrains sont inutiles; le site se trouve en classe 3 sans menace pour l'aquifère;		
+2003	09			2003	09			a_déposé	* A suite de l'arrêt de l'activité de traitement du bois en 2002 (et de la reprise de cette société par une autre entreprise), l'industriel a déposé en préfecture ( septembre 2003)le dossier de cessation au titre de l'art "34-1" de la procédure ICPE et le PV de recolement de fin d'acticvité a été établi.		
+2002				2002				l__arrêt	* A suite de l'arrêt de l'activité de traitement du bois en 2002 (et de la reprise de cette société par une autre entreprise), l'industriel a déposé en préfecture ( septembre 2003)le dossier de cessation au titre de l'art "34-1" de la procédure ICPE et le PV de recolement de fin d'acticvité a été établi.		
+1982				1982				installée_à_Brignoles	* Installation de traitement du bois par trempage dans une cuve, installée à Brignoles depuis 1982 sur des terrains dont la superficie bâtie est d'environ 100 m2.		

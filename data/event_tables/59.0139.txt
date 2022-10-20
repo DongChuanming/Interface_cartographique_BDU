@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_réalisée	- Une première ESR a été réalisée en 1998.		
+2004	05			2004	05			réalisé	- Dossier de demande d'instauration de servitudes d'utilité publique réalisé en mai 2004, il prévoit des restrictions sur l'usage des sols, sous-sol et eaux souterraines.		
+1988				1988				a_succédé	- Valmont a succédé à Vallourec - Mont d'Anzin en 1988.		'Valmont', 'Vallourec'
+2009				2009				__demande	- En 2009: demande d'intervention faite à l'ADEME.		
+2003	09	24		2003	09	24		Un_diagnostic_approfondi	- Un diagnostic approfondi et une évaluation détaillée des risques ont été réalisés et le rapport a été adressé à l'IIC, pour suite à donner, le 24/09/2003.		
+2003				2003				a_été_racheté	- Le site a été racheté par Valenciennes Métropole au début de l'année 2003 afin d'y créer une ZAC (ZAC des Jardins de Valmont).		'Valmont'
+1997				1997				Cessation_d__activité	- Cessation d'activité en 1997.		
+2006	11			2006	11			Réalisation_d__un_diagnostic_sol	- Réalisation d'un diagnostic sol en novembre 2006, il recommande la mise en place de piézomètres supplémentaire, ainsi que des investigations complémentaires (EDR et diagnostic approfondi).		
+2003	05			2003	05			a_été_réalisée	- Une nouvelle ESR a été réalisée en mai 2003 dans le cadre du projet de restructuration du centre ville d'Anzin et de la création d'une tête de ligne pour le futur Transville sur le site même.		
+								Exploitation_du_site	Exploitation du site depuis les années 30.		

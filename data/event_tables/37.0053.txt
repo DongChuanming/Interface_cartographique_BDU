@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	06			2018	06			la_campagne	Toutefois, les résultats d’analyses de la campagne de juin 2018 ne montrent aucune dégradation de la nappe pour les paramètres recherchés.		
+2017	12	19		2018	01	18		ont_été_installés	Entre le 19 décembre 2017 et le 18 janvier 2018, trois piézomètres (Pz1 - Pz2 en aval et Pz3 en amont) de 18.80 à 20 m de profondeur ont été installés sur le site ainsi que 5 piézairs.		
+2018	07	06		2018	07	06		une_demande_de_permis	Par courrier du 06 juillet 2018, l’exploitant a transmis à la Préfecture une demande de permis de construire en vue de la construction d’un bâtiment d’activités commerciales sur le site de l’ancienne station-service.		'la Préfecture'
+2017	08			2017	08			ont_été_remis	Une analyse des risques résiduels, datée du 18 avril 2017,et un diagnostic de pollution des sols daté du 10/11/2016 ont été remis par l’exploitant en août 2017.		
+2016	11	10		2016	11	10		daté	Une analyse des risques résiduels, datée du 18 avril 2017,et un diagnostic de pollution des sols daté du 10/11/2016 ont été remis par l’exploitant en août 2017.		
+2016	12	15		2017	01	20		Des_travaux_de_démantèlement	Des travaux de démantèlement se sont étalés du 15 décembre 2016 au 20 janvier 2017.		
+2011	03	08		2011	03	08		de_l__inspection	Lors de l’inspection du 08 mars 2011, il a été constaté que :		
+2017	02	07		2017	02	07		a_transmis	Le 7 février 2017, l’exploitant a transmis un dossier de cessation définitive de son activité.		
+1992				2008				a_accueilli	De 1992 à 2008, le site a accueilli une activité de distribution de liquides inflammables contenant :	'liquides inflammables'	
+2018	01			2018	01			la_campagne	Les résultats d’analyses de la campagne de janvier 2018 montrent une dégradation de la nappe par les hydrocarbures et des additifs pétroliers (MTBE-ETBE).	'hydrocarbures', 'pétroliers', 'MTBE', 'ETBE'	
+2017	04	18		2017	04	18		un_diagnostic_de_pollution	Une analyse des risques résiduels, datée du 18 avril 2017,et un diagnostic de pollution des sols daté du 10/11/2016 ont été remis par l’exploitant en août 2017.		
+2008				2008				un_changement	En 2008, un changement d’exploitant est déclaré en faveur de la société AUCHAN CARBURANT TOURS.		'la société AUCHAN CARBURANT TOURS'
+2011	03	08		2011	03	08		de_la_visite	L’inspection du 23 juillet 2014 a conclu que l’étanchéité du sol constatée lors de la visite du 08 mars 2011 qui concernait le caniveau de drainage des eaux pluviales installé sur la plateforme de distribution des carburants a été refaite.	'carburants'	

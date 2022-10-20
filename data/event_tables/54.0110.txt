@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09			2009	09			des_prélèvements_et_analyses	Par ailleurs, des prélèvements et analyses de l'air ambiant dans les bâtiments du site ont été opérés en juin et septembre 2009.		
+2016	02			2016	02			par_courrier	Compte tenu de ces éléments, le Préfet a demandé, par courrier de février 2016, à la société DEHON de :		'le Préfet', 'la société DEHON'
+								des_prélèvements_et_analyses	Par ailleurs, des prélèvements et analyses de l'air ambiant dans les bâtiments du site ont été opérés en juin et septembre 2009.		
+2008				2008				Ce_diagnostic	Ce diagnostic, complété en 2008 à l'aide d'analyses dans les milieux identifiés comme potentiellement impactés, a mis en évidence une pollution en composés organiques halogénés volatils (COHV) dans les eaux souterraines en aval du site (de l'ordre de 200 µg/l en 2007 dont 160 µg/l imputables au trichloroéthylène).	'composés organiques halogénés volatils', 'COHV', 'trichloroéthylène'	
+2001				2001				La_cessation_d__activité	La cessation d'activité date de 2001.		
+2007				2007				une_étude_historique_de_pollution	Dans le cadre d'une projet de cession des terrains, la société DEHON a fait réaliser en 2007 une étude historique de pollution de son site.		'la société DEHON'
+2009				2009				Le_diagnostic_complémentaire	Le diagnostic complémentaire réalisé en 2009 sur les eaux souterraines n'a pas confirmé la présence de COHV dans ce milieu.	'COHV'	
+2012	03			2012	03			de_la_campagne	Les COHV sont globalement en nette diminution, avec une exception lors de la campagne de mars 2012 durant laquelle ils ont été détectés à des teneurs de l'ordre de 20 µg/l.	'Les COHV'	
+2010				2012				a_réalisé	Dans le cadre de cet arrêté préfectoral, l'exploitant a réalisé une surveillance semestrielle des eaux souterraines entre 2010 et 2012.		
+2009				2009				le_diagnostic	Enfin, le diagnostic mené en 2009 sur le compartiment "sols" a mis en évidence la présence d'une couche de forme constituée par des laitiers de fonderie sous imperméabilisation de surface.		
+1980	09	18		1980	09	18		étaient_soumises_à_déclaration	Ces activités étaient soumises à déclaration au titre de la législation sur les installations classées pour la protection de l'environnement (récépissé de déclaration du 18 septembre 1980).		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	02		2006	05	02		a_annulé_le_jugement_du_TA	a cour administrative d'appel a annulé le jugement du TA par arrêt rendu le 02 mai 2006.		
+1983	09	23		1983	09	23		a_repris_l__actif	La société UNILEVER, actionnaire de SHEBY de 1972 à 1983 a repris l'actif de SHEBY Le 23 septembre 1983.		'La société UNILEVER', 'SHEBY', 'SHEBY'
+1957				1961				a_déposé	Selon les déclarations, la société Sheby a déposé de 1957 à 1961 des emballages et des déchets d'origine chimique dans le bois de Bosviel.		'la société Sheby'
+1997				1997				en_début_d_	Ce dépôt a été découvert par la gendarmerie de Villamblard en début d'année 1997.		
+2002	05	30		2002	05	30		a_rejeté	Le TA de Bordeaux a rejeté ces requêtes le 30 mai 2002.		'Le TA de Bordeaux'
+1999	01	27		1999	01	27		ont_été_engagées_par_procès_verbaux	Les sanctions pénales ont été engagées par procès-verbaux en date du 2 octobre 1998 et 27 janvier 1999.		
+1998	10	02		1998	10	02		ont_été_engagées_par_procès_verbaux	Les sanctions pénales ont été engagées par procès-verbaux en date du 2 octobre 1998 et 27 janvier 1999.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07			2008	07			hydrogéologue_agréé_désigné	Le programme d'étude de faisabilité de dépollution du site a fait l'objet d'un avis par un hydrogéologue agréé désigné en juillet 2008 : il répond à l'objectif.		
+2010				2010				a_été_démantelée	En 2010, une ancienne cuve de traitement avec solvants a été démantelée et des sondages de sol ont été effectués.	'solvants'	
+								a_demandé	Par courriers des 15 mars et 30 novembre 2005, l’inspection des installations classées a demandé à la société MBDA de réaliser :		'la société MBDA'
+2011				2011				Cet_essai_pilote	Cet essai pilote a été réalisé en 2011 et a permis d'établir les conditions de traitement de l'ensemble de la zone.		
+2003	07			2003	07			la_mise_en_place	Dans le cadre de la mise en place en juillet 2003 d’une surveillance de la qualité des eaux souterraines s’écoulant à l’aplomb du site, il a été mis en évidence une pollution significative des eaux de la nappe des Calcaires de l’Oxfordien, située à une profondeur d’environ 20-30 mètres, par du chrome hexavalent et des composés organo-halogénés.	'chrome hexavalent', 'des composés organo - halogénés'	
+2005	11	30		2005	11	30		a_demandé	Par courriers des 15 mars et 30 novembre 2005, l’inspection des installations classées a demandé à la société MBDA de réaliser :		'la société MBDA'
+2004				2004				des_diagnostics	Suite à la demande de l’inspection des installations classées, des diagnostics site et sol pollué ont été réalisés  durant l’année 2004 indiquant principalement que :		
+								est_exploité	Le site est exploité depuis les années 1970 par la société MBDA (auparavant Aérospatiale missile)  et réalise essentiellement de l’usinage, du traitement et de l’assemblage de métaux et d’éléments en composites.		'la société MBDA'
+2008				2008				a_été_mis_en_place	Un piézomètre supplémentaire de surveillance de la nappe a été mis en place à l'extérieur du site industriel, fin 2008.		
+2003				2003				Des_contrôles_trimestriels	Des contrôles trimestriels sont réalisés depuis l’année 2003 afin d’étudier l’étendue de la nappe polluée  et son évolution au cours du temps.		
+2011				2011				a_été_menée	La définition de protocoles a été menée début 2011.		

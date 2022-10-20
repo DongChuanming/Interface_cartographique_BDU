@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				à_l_	Le confinement de la zone A3 a été réalisé à l'automne 2013.		
+2005				2005				__travaux_de_dépollution_réalisés	Les actions ultérieures ont porté principalement sur l’établissement PEMAR en activité (arrêtés préfectoraux du 11/03/04, 12/04/05 ; travaux de dépollution réalisés en 2004 et 2005).		
+2014	01			2014	01			Un_dossier_de_récolement	Un dossier de récolement a été adressé par l'exploitant en janvier 2014.		
+2005	04	06		2005	04	06		a_déclaré	Précisons que la société Pechiney Bâtiment a déclaré, par courrier du 6 avril 2005, accepter les obligations, charges et responsabilités de dernier exploitant du site d'Aiguebelle-La Pouille à compter du 1er mai 2005 pour l'ensemble des activités passées et futures de l'établissement, à l'exception de la partie correspondant à l'usine actuellement exploitée par la société Alcan Abrasifs Réfractaires Céramiques.		'la société Pechiney Bâtiment', 'la société Alcan Abrasifs Réfractaires Céramiques'
+								est	Son instruction est en cours au 04/02/14.		
+2009				2009				a_fait_procéder	Par suite, Péchiney Bâtiment a fait procéder en 2009 à la caractérisation de ce merlon (situé au nord de la zone de la Pouille mais en dehors de l’ancien site industriel PEM AR), et de 2 autres merlons situés dans l’emprise de l’ancien site industriel.		'Péchiney Bâtiment', 'PEM AR'
+								a_été_remis	Le dossier de demande de SUP a été remis à M. le préfet par courrier Péchiney Bâtiment du 25/04/13.		'le préfet', 'Péchiney Bâtiment'
+2001	05			2001	05			études_simplifiées	Deux études simplifiées des risques (ESR) ont été transmises à l'administration en mai 2001 :		
+1994				1994				Les_travaux_ont_été_effectués	Les travaux ont été effectués en 1994 (démolition de certains bâtiments, évacuation des déchets).		
+								Une_visite_de_récolement	Une visite de récolement de ces travaux, et de la mise en place de la clôture de la zone du merlon, a été réalisée le 29/01/14.		
+2013				2013				Le_confinement	Le confinement de la zone A3 a été réalisé à l'automne 2013.		
+2000				2000				a_jugé	A la fin de l'année 2000, l'inspection a jugé nécessaire de mettre à jour l'étude historique et sol/sous-sol remise en 1994, du fait des évolutions réglementaires intervenues depuis.		
+2004				2004				__travaux_de_dépollution_réalisés	Les actions ultérieures ont porté principalement sur l’établissement PEMAR en activité (arrêtés préfectoraux du 11/03/04, 12/04/05 ; travaux de dépollution réalisés en 2004 et 2005).		
+2009	06			2009	06			a_fait_procéder	En juin 2009, avec l’accord de l’inspection, P2chiney Bâtiment a fait procéder au déplacement des 3, merlons, regroupés en 1 merlon unique en limite sud de la zone de la Pouille.		'P2chiney'
+1987				1987				l__exploitation	En 1987, la SA Bianchini a repris l'exploitation de la partie de l'établissement consacrée au broyage et au tamisage de ferro-silicium pour y développer des activités de broyage et de tamisage de ferro-alliages et de valorisation des déchets issus de la métallurgie.	'ferro - silicium', 'ferro'	'la SA Bianchini'
+								complétée	L’étude prescrite a été remise le 21/12/09, et complétée le 21/04/10 et 30/11/11.		
+2001				2001				des_mesures_radiologique	En 2001, l'OPRI (office de protection contre les rayonnements ionisants) a réalisé des mesures radiologique et des prélèvements sur l'ensemble du site de La Pouille.		
+2008				2008				a_été_informée	A l’automne 2008, l’inspection a été informée du déplacement, dans ce cadre, de 5000 m3 d’un merlon de terres issu de la zone de la Pouille vers l’installation de stockage de déchets inertes de Bonvillaret.	'stockage de déchets inertes'	'la Pouille', 'Bonvillaret'
+2009				2009				a_mis_fin	Par suite, ALCAN ARC a mis fin en 2009 aux mesures de surveillance des eaux souterraines au droit de son établissement.		'ALCAN ARC'
+1995				1995				a_été_reprise	Une autre partie du site a été reprise en 1995 par la société CADREX, à laquelle a succédé la société CPS, pour y exploiter une unité de traitement de surfaces.		'la société CADREX', 'la société CPS'
+								L__étude_prescrite	L’étude prescrite a été remise le 21/12/09, et complétée le 21/04/10 et 30/11/11.		
+1875				1875				n__a_pas_cessé	L'activité industrielle sur la zone de La Pouille remonte à 1875 et n'a pas cessé depuis.		
+2008				2008				a_émergé	En 2008 a émergé un projet de création d’une zone d’activités (ZAE des Portes de Maurienne) sur le secteur de la Pouille.		'Maurienne'
+1994	06	30		1994	06	30		L__étude_de_reconnaissance	L'étude de reconnaissance du sol et du sous sol et la synthèse historique ont été transmises à l'administration le 30/06/1994.		

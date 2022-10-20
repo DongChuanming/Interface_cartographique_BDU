@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984				1984				a_débuté_son_activité	La société Sambre Enrobés a débuté son activité en 1984.		'La société Sambre Enrobés'
+2012	07	16		2012	07	16		Par_transmission	Par transmission en date du 16 juillet 2012, l'exploitant a transmis au Préfet un dossier de cessation d’activité.		
+2012	07	16		2012	07	16		a_transmis	Par transmission en date du 16 juillet 2012, l'exploitant a transmis au Préfet un dossier de cessation d’activité.		
+2011	01			2011	01			a_cessé_ses_activités	La société Sambre Enrobés a cessé ses activités depuis janvier 2011.		'La société Sambre Enrobés'
+2014	01	14		2014	01	14		a_demandé	Par courrier du 14 janvier 2014, l'inspection a demandé des compléments au dossier de cessation d'activité afin de caractériser l'impact des activités sur les eaux souterraines et de justifier que l'état du site est compatible avec son environnement proche.		
+2013	02	07		2013	02	07		a_été_complété	Il a été complété le 7 février 2013 suite à la réalisation de travaux de dépollution.		
+1970				1970				était_implantée	Elle reprenait la même activité, la production d’enrobés, que la Société Travaux Publics de Valenciennes qui était implantée depuis 1970.		'la Société Travaux Publics de Valenciennes'

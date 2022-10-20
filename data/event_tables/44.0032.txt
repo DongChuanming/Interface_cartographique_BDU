@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01			2012	01			Le_traitement	Le traitement des sols et des eaux souterraines a débuté en janvier 2012 (extraction multi-phase sous vide + venting).		
+								ont_été_démantelées	Les installations ont été démantelées au cours du 1er semestre 2016.		
+2001				2001				Une_évaluation_complémentaire	Une évaluation complémentaire de la pollution a été entreprise en 2001 en application des préconisations de l'ESR.		
+1999	12	30		1999	12	30		a_été_rendue	Elle a été rendue le 30/12/1999.		
+2004	07			2004	07			qui_a_cessé_son_activité	Dépôt d'hydrocarbures situé dans une zone industrielle portuaire de Nantes en bordure de Loire rive droite qui a cessé son activité depuis juillet 2004.	'hydrocarbures'	
+2011				2011				a_été_réalisé	site en cessation d'activité : un Plan de gestion a été réalisé en 2011.		
+2016				2016				ont_été_démantelées	Les installations ont été démantelées au cours du 1er semestre 2016.		

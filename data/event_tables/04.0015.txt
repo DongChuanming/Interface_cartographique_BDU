@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04			2002	04			Un_PV_a_été_dressé_a_cet_effet	Un PV a été dressé a cet effet en avril 2002.		
+2007				2007				d__une_centrale_photovoltaïque_a_été_étudié	En 2007, un projet d'implantation d'une centrale photovoltaïque a été étudié sur le site de l'ancien incinérateur (EDF Énergie Nouvelles).		'EDF Énergie Nouvelles'
+2002	04	23		2002	04	23		s__est_engagé_à_fermer	Par courrier en date du 23 avril 2002, le SITOM du Sisteronnais s'est engagé à fermer l'installation avant le 1er juillet 2002.		'le SITOM du Sisteronnais'
+2002	07	1		2002	07	1		s__est_engagé_à_fermer	Par courrier en date du 23 avril 2002, le SITOM du Sisteronnais s'est engagé à fermer l'installation avant le 1er juillet 2002.		'le SITOM du Sisteronnais'
+2010	07	19		2010	07	19		La_réhabilitation	La réhabilitation des terrains incombe au Syndicat Mixte de Traitement des Ordures Ménagères (SMITOM) du Sisteronnais (AP du 19/07/2010).	'Ordures Ménagères'	'Syndicat Mixte', 'SMITOM'
+2009	03			2009	03			ont_été_démantelées	En Mars 2009, les installations de l'ancien UIOM ont été démantelées, il ne reste plus que la rampe d'accès aux deux fosses d'alimentation des fours et la structure béton.		
+1998				1998				un_APC	L'UIOM a fait l'objet d'un APC en 1998 pour mise aux normes des textes réglementaires parus depuis 1990.		'UIOM'
+2002	08	15		2002	08	15		la_fermeture_de	Lors de du CdH du 9/07/2002, le préfet a décidé la fermeture de cet UIOM pour le 15 août 2002.		'le préfet'
+1990	10	11		1990	10	11		a_été_exploité	Le site a été exploité par le Syndicat Intercommunal pour le traitement des ordures ménagères du Sisteronnais (AP d'autorisation du 11/10/1990).		'le Syndicat', 'ordures ménagères du Sisteronnais'

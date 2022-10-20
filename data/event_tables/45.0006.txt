@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				a_mené_une_enquête_systématique	Compte-tenu de la multiplicité des acteurs pouvant être à l'origine de la pollution, la DRIRE (Direction Régionale de l'Industrie, de la Recherche et de l'Environnement) a mené une enquête systématique avec l'appui de la municipalité en 1994.		'la DRIRE', "Direction Régionale de l' Industrie , de la Recherche et de l' Environnement"
+1994				1994				est_réutilisé	Un ancien forage situé dans une autre partie de la commune est réutilisé depuis 1994.		
+1998				1998				Les_analyses_renouvelées	Les analyses renouvelées en 1998 par le BRGM (Bureau de Recherches Géologiques et Minières) à la demande de la DRIRE ont montré la persistance de la contamination.		'le BRGM', 'la DRIRE'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	17		2003	07	17		ont_été_prescrites	es mesures ont été prescrites par arrêté préfectoral du 17 juillet 2003.		
+1901				1901				a_été_construite	En 1901, une usine à gaz a été construite au nord du site ainsi qu'une installation de distillation de goudrons et de fabrication de noir fumée au sud.	'goudrons'	
+1996	10	1		1996	10	1		est_soumise_à_autorisation	La société, maintenant connue sous le nom de MERSEN FRANCE PY SAS est soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 1er octobre 1996.		'MERSEN FRANCE PY SAS'
+2002	08	28		2002	08	28		est_effective	La surveillance des eaux souterraines est effective depuis le 28/08/2002.		
+2002	10	16		2002	10	16		Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques (ESR) a été remise à la DRIRE le 16 octobre 2002.		'la DRIRE'

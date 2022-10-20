@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2004				devient	- Activité sur le site depuis 1912: construction métallique jusqu'en 1955 où l'activité est la fonderie, puis en 1985, l'activité devient traitement de métaux par Alcolor jusqu'en 2004, et reprise par Cloval.		'Alcolor', 'Cloval'
+2011	08			2011	08			de_cessation_d__activité	- Mémoire de cessation d'activité d'une partie du site en août 2011 (en vue d'une vente potentielle), lors des analyses, une pollution ponctuelle des sols en zinc est relevée.		
+1985				1985				devient	- Activité sur le site depuis 1912: construction métallique jusqu'en 1955 où l'activité est la fonderie, puis en 1985, l'activité devient traitement de métaux par Alcolor jusqu'en 2004, et reprise par Cloval.		'Alcolor', 'Cloval'
+2008	12	17		2008	12	17		Évacuation_d_	- Évacuation d'un transformateur PCB le 17/12/2008.	'PCB'	

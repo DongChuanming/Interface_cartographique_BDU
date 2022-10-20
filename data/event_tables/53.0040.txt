@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				une_extension_du_site	En 1987, le site est racheté par LAFARGE PLATRES, et en 2001, une extension du site est effectué avec l’acquisition de l'établissement voisin Ets JACQUEL.		'LAFARGE PLATRES', 'Ets JACQUEL'
+1987				1987				est_racheté	En 1987, le site est racheté par LAFARGE PLATRES, et en 2001, une extension du site est effectué avec l’acquisition de l'établissement voisin Ets JACQUEL.		'LAFARGE PLATRES', 'Ets JACQUEL'
+2011				2011				est_racheté	En 2011, le site est racheté par le groupe ETEX, suivi en 2012 d’un changement de raison sociale.		'groupe ETEX'
+2015	07			2015	07			est_arrêtée	La production est arrêtée depuis juillet 2015.		
+2016	04			2016	04			était_en_discussion_avancée	En avril 2016, SINIAT était en discussion avancée avec un repreneur potentiel pour y développer une activité industrielle.		'SINIAT'
+2016	01			2016	01			des_sondages_réalisés	Lors des sondages réalisés sur le site (en octobre 2015 et janvier 2016), aucune arrivée d’eau n’a été repérée (profondeur maximale de 6 m).		
+1974				1974				construit	Ce site, construit en 1974 par la société familiale SENTUC POREXPAN, a toujours été dédié à la production de polystyrène expansé.	'polystyrène', 'expansé'	'la société familiale SENTUC POREXPAN'
+2015	10			2015	10			des_sondages_réalisés	Lors des sondages réalisés sur le site (en octobre 2015 et janvier 2016), aucune arrivée d’eau n’a été repérée (profondeur maximale de 6 m).		
+2016	01			2016	01			L__intervention	L'intervention de janvier 2016 avait pour objectif de vérifier l'absence de pollution étendue suite à des anomalies repérées lors de la première intervention.		
+2016				2016				Changement	Changement d'exploitant en 2016, ADONIAL, société spécialisée dans les produits alimentaires.		'ADONIAL'
+2015	09			2015	09			ont_été_évacués	Dans le cadre de la cessation d’activité, tous les déchets dangereux, qui étaient stockés dans un local spécifique équipé de rétention, ont été évacués en septembre 2015 (déchets de colles, aérosols, chiffons souillés, fûts souillés, huiles usagées, solvants de nettoyage, …).	'les déchets dangereux', 'déchets de colles'	

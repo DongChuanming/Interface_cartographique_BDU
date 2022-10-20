@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2010	05			Les_travaux_de_démantèlement	Les travaux de démantèlement et de dépollution des sols ont été réalisés en avril et mai 2010.		
+1999	03	10		1999	03	10		a_pris_acte	Le 10 mars 1999, la préfecture de Haute-Savoie a pris acte d'une modification relative aux installations de distribution.		'la préfecture de Haute-Savoie'
+2011	12	05		2011	12	05		a_adressé	Par courrier en date du 5 décembre 2011, la société La Mure Bianco a adressé un mémoire de travaux réalisés et une analyse des risques résiduels concernant l'ancien dépôt pétrolier et poste de chargement qu'elle exploitait en zone industrielle de Vovray à Annecy.		'la société La Mure Bianco'
+								a_été_démantelé	Cet ensemble a été démantelé en avril-mai 2010.		
+								Les_travaux_de_démantèlement	Les travaux de démantèlement et de dépollution des sols ont été réalisés en avril et mai 2010.		
+1981	03	23		1981	03	23		délivré	Le premier acte administratif est un récépissé de déclaration délivré le 23 mars 1981 à la société Streichenberger.		'la société Streichenberger'
+2010	05			2010	05			a_été_démantelé	Cet ensemble a été démantelé en avril-mai 2010.		
+1969				1969				avoir_été_créé	Ce dépôt semble avoir été créé en 1969 par la société MATAN.		'la société MATAN'
+2001	10	1		2001	10	1		a_donné_récépissé	Le 1er octobre 2001, la préfecture de Haute-Savoie a donné récépissé à la société La Mure S.		'la préfecture de Haute-Savoie', 'la société La Mure S.'

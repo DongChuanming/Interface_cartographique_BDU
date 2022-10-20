@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				démantelée	- Ancienne raffinerie de pétrole exploitée entre 1969 et 1982 et démantelée en 1984 et 1985.	'pétrole'	
+1995				1995				Etude_diagnostique_du_site_réalisée	- Etude diagnostique du site réalisée en 1995.		
+1969				1982				exploitée	- Ancienne raffinerie de pétrole exploitée entre 1969 et 1982 et démantelée en 1984 et 1985.	'pétrole'	
+1984				1984				démantelée	- Ancienne raffinerie de pétrole exploitée entre 1969 et 1982 et démantelée en 1984 et 1985.	'pétrole'	

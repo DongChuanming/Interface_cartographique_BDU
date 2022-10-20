@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07			2007	07			a_été_rachetée	En juillet 2007, l'entreprise JACQUOT a été rachetée par le groupe CEMOI.		'groupe CEMOI'
+2007				2007				étant_terminée	Le site est sans activité depuis septembre 2009, la production s'étant terminée en 2007.		
+2009	09			2009	09			est_sans_activité	Le site est sans activité depuis septembre 2009, la production s'étant terminée en 2007.		
+								un_diagnostic_simplifié_de	Dans le cadre de la vente du terrain, un diagnostic simplifié de sols potentiellement pollués a été réalisé (17/12/09) sur le site des établissements Jacquots.		

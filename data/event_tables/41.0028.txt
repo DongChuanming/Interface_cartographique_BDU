@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04	08		2004	04	08		a_été_prescrite	La surveillance semestrielle des eaux souterraines a été prescrite par arrêté du 8 avril 2004.		
+2010				2010				a_été_arrêtée	Les résultats indiquant des teneurs faibles et stables dans le temps en polluants, la surveillance a été arrêtée en début 2010.	'polluants'	
+								a_été_remis_en_état	Le site a été remis en état entre février et mars (évacuation des gravats, des déchets, des terres polluées par les PCB) et des investigations des sols ont été menées.	'PCB'	
+2003				2003				a_cessé	Cette installation classée soumise à autorisation a cessé sont activité en 2003.		
+2011	05			2011	05			a_été_décidé	Suite à une visite d'inspection effectuée en mai 2011, il a été décidé de mettre en place de nouvelles investigations afin de définir l'extension de la pollution et de caractériser les impacts.		
+1961				1961				s__y_est_installée	La société MATRA s'y est installée en 1961 pour y réaliser l'assemblage d'automobiles, succédant progressivement à une industrie textile implantée sur le site (entre 1961 et 1969).		'La société MATRA'
+2011	01	27		2011	01	27		à_un_déversement_accidentel	Suite à un déversement accidentel de pyralène le 27/01/2011, une pollution aux PCB (Polychlorobiphényles) a été détectée sur 3 zones du site, avec une extension non limitée.	'pyralène', 'PCB', 'Polychlorobiphényles'	
+2011	07			2011	07			Un_diagnostic_environnemental	Un diagnostic environnemental et une analyse des risques résiduels ont été remis en juillet 2011 aux services de l'Inspection.		
+				2007				a_été_occupé	Un des bâtiments du site a été occupé en location par une société d'assemblage d'engins type quad et buggy jusqu'en 2007.		
+2004				2004				La_cession_du_site	La cession du site Romo 4 à la commune de Romorantin a été effectuée en 2004.		'Romorantin'

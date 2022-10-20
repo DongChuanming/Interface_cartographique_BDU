@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_remise_à_jour	Les repreneurs du site ont déposé une remise à jour de l'EDR et l'étude de la mise en place du dispositif de traitement des sources de contamination par solvants chlorés début juin  2005.	'solvants chlorés'	
+2006	11			2006	11			Des_sondages_complémentaires	Des sondages complémentaires effectués en novembre 2006 ont amené une mise à jour de l'EDR santé.		
+								une_remise_à_jour	Les repreneurs du site ont déposé une remise à jour de l'EDR et l'étude de la mise en place du dispositif de traitement des sources de contamination par solvants chlorés début juin  2005.	'solvants chlorés'	
+1996				1996				n__a_cessé	L'Emaillerie a déposé le bilan en 1992, mais l'activité n'a cessé que fin 1996.		
+								Une_enquête_publique	Une enquête publique relative à la modification du POS , spécifique au terrain a eu lieu du 21/06/04 au 23/07/04 ;il est fait référence à la nécessité de confiner les métaux lourds et traiter les sols par venting.	'métaux lourds'	
+1992				1992				a_déposé_le_bilan	L'Emaillerie a déposé le bilan en 1992, mais l'activité n'a cessé que fin 1996.		
+1996				1996				a_déposé_le_bilan	L'Emaillerie a déposé le bilan en 1992, mais l'activité n'a cessé que fin 1996.		
+								EDR___a_été_demandée	Une Etude Détaillée des Risques de pollution (EDR) a été demandée par AP du 15/01/01.		
+2006	02			2006	02			étude_technico	L'étude technico-économique imposée par l'arrêté préfectoral du 19/08/05 a été transmise début février 2006.		
+								n_nouvel_AP	n nouvel AP du 24/02/99 de mise en demeure de respecter les prescriptions de l'arrêté de 1998 a été pris.		
+2013				2013				n__a_pu_être_effective	Elle n'a pu être effective que début 2013.		
+2003	09			2003	09			es_analyses	es analyses sur des légumes des jardins (septembre 2003) montrent l'absence de bioaccumulation notable en chlorés.	'chlorés'	
+								a_restreint	En date du 08/10/13, un arrêté municipal a restreint les usages de l'eau en aval du site.		
+								L__EDR	L'EDR complétée par les demandes de l'arrêté du 06/01/03 a été rendue le 31/01/03.		
+2011	12	1		2011	12	1		la_remise_en_service_du_pompage	Au vu des résultats de la surveillance de la nappe, le DRIRE a demandé, par courrier du 1er décembre 2011, la remise en service du pompage.		'le DRIRE'
+2005	01			2005	01			Les_résultats_d__analyses	Les résultats d'analyses de janvier 2005 dans les puits des jardins familiaux montrent des concentrations en tri + tétrachloroéthylène comprises entre 20 et 38 µg/l sur les puits de certains jardins, le puits le plus proche du site étant à 76 µg/l.	'tri + tétrachloroéthylène'	
+								a_été_signé	Un nouvel AP a été signé le 06/01/03, demandant de délimiter les zones polluées et de proposer des traitements.		
+								les_objectifs___de_dépollution	Un AP imposant les traitements proposés et les objectifs  de dépollution à atteindre a été signé le 19/08/05.		
+2011	12	1		2011	12	1		par_courrier	Au vu des résultats de la surveillance de la nappe, le DRIRE a demandé, par courrier du 1er décembre 2011, la remise en service du pompage.		'le DRIRE'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04			2009	04			Un_dossier_de_déclaration	Un dossier de déclaration a été déposé par l’exploitant en avril 2009 au titre des rubriques 1432-2, 1434‑1 et 1510-2 de la nomenclature.		
+2012	08	31		2012	08	31		présente	Le 31 août 2012, la société Ziegler présente à l’inspection un dossier de cessation d’activité concernant uniquement les installations au titre du classement ICPE et non à l’arrêt définitif du site.		'la société Ziegler'
+2011	11			2011	11			une_campagne_d__analyses	Ce rapport réalisé en juillet 2012 par le bureau d’études SOCOTEC indique que le site a fait l’objet d’une campagne d’analyses de la qualité des sols en novembre 2011.		'SOCOTEC'
+2011	05	12		2011	05	12		à_la_visite	Dans ce même rapport et suite à la visite sur site du 12 mai 2011, l'inspection constate que l’activité principale du site est une activité de messagerie.		
+2008	12	18		2008	12	18		les_activités	Depuis le 18 décembre 2008, les activités, relevant du régime de l’autorisation, visées par l’arrêté préfectoral du 25 octobre 1989 (rubriques 1510 (ex 183 ter) et 1311 (ex 357)) n’ont pu être exercées sur le site, ce qui représente une durée d’interruption de plus de deux années consécutives.		
+2012	07			2012	07			réalisé	Ce rapport réalisé en juillet 2012 par le bureau d’études SOCOTEC indique que le site a fait l’objet d’une campagne d’analyses de la qualité des sols en novembre 2011.		'SOCOTEC'

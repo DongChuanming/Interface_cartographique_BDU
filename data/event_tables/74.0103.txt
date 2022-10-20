@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09			2003	09			Les_prélèvements_effectués	Les prélèvements effectués dans la nappe superficielle au moyen de 3 piézomètres en septembre 2003 montrent des contaminations en : ammonium (0,6 mg/L), mercure (1,6 µg/L) et HCT (2,4 mg/L).	'ammonium', 'mercure', 'HCT'	
+1960				1975				a_accueilli	Cette décharge, d'une surface d'environ 12 500 m², a accueilli de 1960 à 1975 les ordures ménagères et les encombrants de la commune.		
+2009	06	29		2009	06	29		un_projet_de_réhabilitation	La commune de Lathuile a fait réaliser un projet de réhabilitation du site dont le document de synthèse est daté du 29 juin 2009.		
+2008	12			2008	12			des_analyses_complémentaires	Les résultats des analyses complémentaires des eaux souterraines, effectuées en décembre 2008 afin de rechercher la présence éventuelle de PCB, se sont révélés négatifs.	'PCB'	
+2003	09			2003	09			des_prélèvements_réalisés	Concernant les eaux superficielles du petit ruisseau qui ceinturent la décharge, des prélèvements réalisés septembre 2003 montrent la présence d'aluminium (1 540 µg/L).	'aluminium'	
+1960				1960				a_exploité	La commune de Lathuile a exploité, à partir de 1960, une décharge d'ordures ménagères, non autorisée, au lieu-dit "Marais des Plaffes" sur son territoire communal, à environ 0,7 km au nord-est du village.		
+2003				2003				Les_investigations_menées	Les investigations menées par GEO-ARVE en 2003 ont mis en évidence la présence sous l'ensemble des dépôts :		'GEO-ARVE'

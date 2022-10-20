@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	16		1999	12	16		a_ensuite_été_pris	Un arrêté de consignation a ensuite été pris le 16 décembre 1999.		
+2003	02			2003	02			est_mise_en_liquidation_judiciaire	En février 2003, la société est mise en liquidation judiciaire.		

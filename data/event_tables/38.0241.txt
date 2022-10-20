@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	05		2003	12	05		Elle_bénéficiait	Elle bénéficiait d'un récépissé de déclaration du 05/12/2003.		
+2004	11	17		2004	11	17		Un_diagnostic_environnemental	Un diagnostic environnemental a été établi le 17/11/2004 par ROYAL HASKONING.		'ROYAL HASKONING'
+2010	04	15		2010	04	15		a_été_établi	Un rapport de fin de travaux de démantèlement et de réhabilitation des locaux a été établi par 2TER le 15/04/2010.		'2TER'
+2009	10	06		2009	10	06		Un_diagnostic_des_sols	Un diagnostic des sols a été établi par SITA REMEDIATION le 06/10/2009.		'SITA REMEDIATION'
+2010	04			2010	04			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés début avril 2010.		
+2003	12	05		2003	12	05		de_déclaration	Elle bénéficiait d'un récépissé de déclaration du 05/12/2003.		
+2009	10	30		2009	10	30		a_été_établie	Une approche environnementale de la réhabilitation du site a été établie le 30/10/2009 par 2TER.		'2TER'
+2005	09	06		2005	09	06		exploitait	La société OIL FRANCE exploitait une station service depuis le 06/09/2005.		'La société OIL FRANCE'

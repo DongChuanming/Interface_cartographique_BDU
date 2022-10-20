@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			fusion_ont_cessé	Les activités de fusion ont cessé mi-juin 2008.		
+2010				2010				réalisée	Les campagnes de prélèvement des eaux de la nappe souterraines au droit du site réalisée au niveau de 3 piézomètres en 2010 ont montré l'absence de dépassement par rapport aux valeurs limites de référence de la qualité des eaux destinées à la consommation humaine.		
+2009	02	20		2009	02	20		a_été_mise_en_demeure	Depuis la cessation définitive d'activité, la société SNR, représentée par le mandataire judiciaire, a été mise en demeure, par arrêté préfectoral du 20 février 2009, de respecter les dispositions de l'article R512-74-II du code de l'environnement concernant la mise en sécurité du site.		'la société SNR'
+2012	10	22		2012	10	22		de_l__inspection	Lors de l'inspection du 22 octobre 2012, il a été constaté que la mise en sécurité du site telle que décrite à l’article 512-39-1 du code de l’environnement a été menée à terme grâce à l'intervention de l'ADEME.		
+2011	02	15		2011	02	15		a_chargé	Le Préfet des Yvelines a chargé l'ADEME de la réalisation des travaux d'office et l'a autorisé à occuper temporairement le site par l'arrêté préfectoral du 15 février 2011.		'Le Préfet des Yvelines'
+2008	11	06		2008	11	06		par_décision	La société SNR a été mise en liquidation judiciaire, par décision du Tribunal de commerce de Versailles en date du 6 novembre 2008.		'La société SNR'
+2010	09	03		2010	09	03		l__intervention	Par courrier du 3 septembre 2010, le ministère a autorisé l'intervention de l'ADEME pour réaliser l'ensemble des mesures nécessaires à la mise en sécurité du site.		
+2003	10	07		2003	10	07		a_été_prescrite	La formalisation de la surveillance de la nappe sous-jacente (par 4 piézomètres) a été prescrite par arrêté préfectoral du 07 octobre 2003.		

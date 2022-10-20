@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	02	20		1992	02	20		a_été_signé	Un arrêté préfectoral a été signé le 20 février 1992 prescrivant un suivi qualitatif de la nappe alluviale située sous la décharge.		
+1992				1992				a_cessé	Cette activité " barytique " a cessé en 1992.		
+2002	12	20		2002	12	20		Il_a_donc_été_demandé	Il a donc été demandé à l'exploitant le 20 décembre 2002 de réaliser une Evaluation Détaillée des Risques et de fournir un plan d'actions avant le 31 janvier 2003.		
+1999	04	16		1999	04	16		La_réalisation_d__un_diagnostic	La réalisation d'un diagnostic et d'une évaluation simplifiée des risques sur le site a été prescrite par arrêté préfectoral en date du 16 avril 1999.		
+2000	10			2000	10			a_été_reçue	L'ESR a été reçue en octobre 2000 classant le site en catégorie 1, c'est-à-dire devant faire l'objet d'un diagnostic approfondi.		"L' ESR"
+2003	01	31		2003	01	31		Il_a_donc_été_demandé	Il a donc été demandé à l'exploitant le 20 décembre 2002 de réaliser une Evaluation Détaillée des Risques et de fournir un plan d'actions avant le 31 janvier 2003.		

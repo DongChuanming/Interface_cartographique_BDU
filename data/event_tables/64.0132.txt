@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				a_été_créée	La société Charpentes Calonge a été créée en 1985 et l'activité de traitement du bois a démarré en 2002.		'La société Charpentes Calonge'
+2002				2002				a_démarré	La société Charpentes Calonge a été créée en 1985 et l'activité de traitement du bois a démarré en 2002.		'La société Charpentes Calonge'
+2014	09			2014	09			2_Diagnostic	2-Diagnostic de l'état des milieux (Septembre 2014)		
+2015				2015				sa_cessation_complète_d__activité	L'exploitant a déclaré à l'inspection sa cessation complète d'activité fin 2015 (absence de repreneur).		
+2013	10	25		2013	10	25		a_été_mis_à_l_	Le 25 octobre 2013 le bac a été mis à l'arrêt.		
+2015				2015				a_été_mis_en_sécurité	En 2015, suite à l'arrêt complet de l'activité, le site a été mis en sécurité notamment via évacuation des produits dangereux et déchets présents sur site.	'des produits dangereux'	
+2013	10	25		2013	10	25		Mise_à_l__arrêt_définitif	Mise à l'arrêt définitif du bac de traitement de bois le 25 octobre 2013		
+1981				1981				a_été_construit	Le bâtiment de stockage du bois a été construit en 1981.		
+				2017	10			se_poursuit	La surveillance des eaux souterraines se poursuit jusqu'à fin octobre 2017.		
+2016	05			2016	05			travaux_d__excavation	Puis en mai 2016, travaux d'excavation de la zone impactée:		
+2012	10			2012	10			est_assurée	La surveillance semestrielle des eaux souterraines est assurée depuis octobre 2012 dans les 3 piézomètres Pz1 à 3 et le puits hors site pour les paramètres Cyperméthrine C, Propiconazole P et Tébuconazole T.	'Cyperméthrine C', 'Propiconazole P', 'Tébuconazole T.'	
+2005	02			2005	02			a_été_reprise	La société a été reprise au sein du groupe Charpentes Françaises en février 2005.		

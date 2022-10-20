@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	31		2000	12	31		reportant_l__échéance_de_fin_de_travaux	17 juillet 2000 : arrêté préfectoral reportant l'échéance de fin de travaux au 31 décembre 2000.		
+2010	09	29		2010	09	29		La_campagne	La campagne du 29 septembre 2010 met en évidence une augmentation significative et brutale des teneurs en arochlors 1260 et 1242 répartie de façon homogène sur les 3 puits aval prélevés.	'arochlors'	
+								campagne	Les campagnes des 07/07/05, 01/12/05, 20/04/06, 20/09/06, 07/06/07, 28/10/07, 29/04/2008, 30/09/08, 24/06/09, 20/10/09 et 09/04/10 confirment également la tendance, hormis pour le puits P2 situé sur le site près des anciennes zones sources où l'on observe une valeur variant de 0,6 µg/l (campagne du 28/10/07) à 9,24 µg/l (campagne du 20/04/06).		
+								prescrivant	25 octobre 2002 : arrêté préfectoral prescrivant dans le délai de 6 mois, le confinement de la zone 4 afin de supprimer le lessivage des terres par les eaux de pluies.		
+2011	01	12		2011	01	12		des_prélèvements	A ce titre, l'administration pénitentiaire a fait effectuer, le 12 janvier 2011, des prélèvements au droit :		
+2004	04	07		2004	04	07		Les_campagnes	Les campagnes des 07/04/2004 et 06/10/2004 confirment cette tendance : aucun impact sur les 5 puits (<0,3 mg/l).		
+2005	02			2005	07			l__opération	- l'opération s'est déroulée de février 2005 à juillet 2005,		
+2007	05	31		2007	05	31		a_été_donnée	Une information a été donnée au CODERST du 31/05/2007.		
+2000				2000				nécessitent	Les 3500 tonnes environ de terres à traiter nécessitent un budget complémentaire de 10 millions de francs pour terminer les travaux avant la fin de l'année 2000.		
+2004	03	25		2004	03	25		envisage	25 mars 2004 : la Direction Régionale de l'Administration Pénitentiaire envisage d'utiliser cette zone 4 pour la construction éventuelle de bâtiments.		"la Direction Régionale de l' Administration Pénitentiaire"
+2005	07			2005	07			l__engazonnement	- l'engazonnement a été réalisé en juillet 2005.		
+2003	09	29		2003	09	29		la_campagne	Après une valeur élevée en PCB sur un puits à l'intérieur du site le 15/04/2003, aucun impact n'est observé sur l'ensemble des puits lors de la campagne du 29/09/2003.	'PCB'	
+2001	06			2001	06			achèvement_des_travaux_de_décontamination	Juin 2001 : achèvement des travaux de décontamination des zones 1, 2 et 3.		
+2004	10	06		2004	10	06		Les_campagnes	Les campagnes des 07/04/2004 et 06/10/2004 confirment cette tendance : aucun impact sur les 5 puits (<0,3 mg/l).		
+2007	06	06		2007	06	06		a_donné_acte	Le Préfet en a donné acte à l'exploitant le 06/06/2007.		'Le Préfet'
+1972				1982				s__est_exercée	Entre 1972 et 1982, une activités de récupération de métaux s'est exercée sur le site de la centrale pénitentiaire d’Eysses, dans un espace clos, appartenant à l’administration pénitentiaire, comportant un four abrité dans des bâtiments.		
+2010	12			2010	12			créés	-> de deux piézomètres PZ1 et PZ2 créés en décembre 2010 et situés en aval théorique du puits P2 précité, respectivement à des distances de 60 m et 160 m.		
+2007	03	19		2007	03	19		procès_verbal_de_récolement	Le procès-verbal de récolement a été dressé par l'IIC le 19/03/2007.		
+1999				1999				suivi_des_chantiers_de_dépollution	1999 : suivi des chantiers de dépollution.		
+								Les_campagnes	Les campagnes des 07/07/05, 01/12/05, 20/04/06, 20/09/06, 07/06/07, 28/10/07, 29/04/2008, 30/09/08, 24/06/09, 20/10/09 et 09/04/10 confirment également la tendance, hormis pour le puits P2 situé sur le site près des anciennes zones sources où l'on observe une valeur variant de 0,6 µg/l (campagne du 28/10/07) à 9,24 µg/l (campagne du 20/04/06).		
+2010	07			2010	07			prescrit	Sur proposition de l'inspection du mois de juillet 2010, l'arrêté préfectoral du 22 octobre 2010 prescrit à l'administration pénitentiaire :		
+2006	02	20		2006	02	20		transmet	Le 20 février 2006, le Directeur Régional de l'Administration Pénitentiaire transmet le rapport final d'exécution des travaux à la DRIRE.		"le Directeur Régional de l' Administration Pénitentiaire", 'la DRIRE'
+2000				2000				terminer_les_travaux	Les 3500 tonnes environ de terres à traiter nécessitent un budget complémentaire de 10 millions de francs pour terminer les travaux avant la fin de l'année 2000.		
+1996	04			1996	04			rend_un_rapport_de_diagnostic_approfondi	Avril 1996 : l'Ineris rend un rapport de diagnostic approfondi du site (713 KF dont 447 KF pris en charge par le Ministère de la Justice et 265 KF par le Ministère de l'Environnement).		'le Ministère de la Justice', "le Ministère de l' Environnement"

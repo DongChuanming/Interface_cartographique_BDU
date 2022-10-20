@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	13		2008	02	13		a_été_pris	L'AP n°2008.01114 a été pris en date du 13/02/2008 afin de préconiser la réalisation de :		
+1998				1998				devient	La société CANNONE devient Chairtech Cannone en 1998, puis Nowy styl Group en 2000.		'La société CANNONE', 'Chairtech Cannone', 'Nowy styl Group'
+2000				2000				devient	La société CANNONE devient Chairtech Cannone en 1998, puis Nowy styl Group en 2000.		'La société CANNONE', 'Chairtech Cannone', 'Nowy styl Group'
+2003	02			2003	02			Un_nettoyage	Un nettoyage de la zone impactée a été réalisé en février 2003 permettant de récupérer puis d'éliminer en filière appropriée les déchets présents et d'enlever la cuve de fioul domestique.	'fioul domestique'	
+2001	02	07		2001	02	07		imposant_la_pose_d__une_clôture	Un arrêté préfectoral (AP) d'urgence (n°2001.798) a été pris en date du 07/02/2001 imposant la pose d'une clôture autour du site.		
+2001	03			2001	03			Une_Évaluation_Simplifiée_des_Risque	Une Évaluation Simplifiée des Risque (ESR) a ensuite été réalisée par la même société en mars 2001 afin d'étendre les investigations de terrains.		
+2004	09			2004	09			Le_diagnostic_approfondi	Le diagnostic approfondi établi par la société SITA Remédiation en septembre 2004 et son complément de décembre 2006 montrent que le sol du site présente une pollution importante en particulier en mercure (jusqu'à 14 000 mg/kg) et en COHV (notamment en tétrachloroéthène avec de teneurs atteignant 21 mg/kg).	'mercure', 'COHV', 'tétrachloroéthène'	'la société SITA Remédiation'
+2012	07	17		2012	07	17		a_établi	Le tribunal administratif a établi an date du 17/07/2012 que la société NOWYSTYL ne pouvait être tenu pour responsable de la pollution au mercure observée sur le site.	'mercure'	'Le tribunal administratif', 'la société NOWYSTYL'
+2012	06	07		2012	06	07		a_été_rédigé	Un rapport de diagnostic des sols a été rédigé par la société ECOFIELD Consulting en date du 07/06/2012.		'la société ECOFIELD Consulting'
+2000	04			2000	04			a_mis_en_évidence	En avril 2000, un diagnostic environnemental réalisé par la société GESTER a mis en évidence la contamination des sols  en métaux, notamment en nickel, cuivre et mercure.	'en métaux', 'en nickel , cuivre et mercure'	'la société GESTER'
+								La_déclaration_de_cessation_d__activité	La déclaration de cessation d'activité a été faite par lettre du 21/11/94.		
+2002	02	20		2002	02	20		a_été_pris	Suite à cette ESR, un arrêté préfectoral complémentaire (APC n°2002.1531) a été pris en date du 20/02/2002 prescrivant l'élimination des déchets ainsi que la réalisation d'un diagnostic et d'une EDR.		
+2002	02	20		2002	02	20		prescrivant_l__élimination	Suite à cette ESR, un arrêté préfectoral complémentaire (APC n°2002.1531) a été pris en date du 20/02/2002 prescrivant l'élimination des déchets ainsi que la réalisation d'un diagnostic et d'une EDR.		
+2008	12	19		2008	12	19		Une_mise_à_jour	Une mise à jour de l'EDR a alors été rédigée en date du 19/12/2008 par la société SITA Remédiation sur la base d'actions sur site réalisées par la société ALGO Remédiation.		'la société SITA Remédiation', 'la société ALGO Remédiation'
+2001	02	07		2001	02	07		a_été_pris	Un arrêté préfectoral (AP) d'urgence (n°2001.798) a été pris en date du 07/02/2001 imposant la pose d'une clôture autour du site.		
+				2012	01	12		Des_travaux_d__excavation	Des travaux d'excavation ont été réalisés du 9 au 12/01/2012.		
+								s__est_implanté	L'établissement CANNONE s'est implanté sur le site vers la fin des années 50 pour fabriquer des sièges à structure métallique.		

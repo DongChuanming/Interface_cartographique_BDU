@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				transmettait	Par transmission du 4 septembre 2006 , l’entreprise transmettait un rapport de travaux de dépollution accompagné du rapport de prise en charge des terres polluées du 17 août  2006.		
+				2011	10			l__utilisation	Entre avril et octobre 2011, la mairie de Belleville (propriétaire du site depuis juin 2008) a permis à une entreprise de construction, l'utilisation du site pour le stockage d'éléments d'une grue de chantier.		
+2012	01	17		2012	01	17		a_constaté	Le 17 janvier 2012, le bureau d'études TEREO a constaté l'absence d'usage au droit du site.		'TEREO'
+1995				1995				était_exploité	Un seul de ces 2 compteurs était exploité en 1995 (gasoil) ;	'gasoil'	
+2008	11			2008	11			réalisée	Une Analyse des Risques Résiduels (ARR) réalisée en novembre 2008 par le bureau d'études TEREO qu'à l'exception des hydrocarbures, pour lesquels aucune valeur seuil n'était à l'époque définie, les composés détectés au droit de la zone d'étude ne présentaient pas, pour les concentrations mesurées depuis juin 2008, d'effet prévisible pour le milieu aquatique.	'hydrocarbures', 'les composés'	
+2006	05	31		2006	05	31		déclarait_cesser	Par courrier en date du 31 mai 2006, l’entreprise déclarait cesser son activité.		
+2011	10	21		2011	10	21		a_été_constaté	Le retrait partiel a été constaté le 21 octobre 2011.		
+								transmettait	Par transmission du 4 septembre 2006 , l’entreprise transmettait un rapport de travaux de dépollution accompagné du rapport de prise en charge des terres polluées du 17 août  2006.		
+2006	06			2006	06			a_été_démantelé	L'ensemble des infrastructures pétrolières a été démantelé en juin 2006.		

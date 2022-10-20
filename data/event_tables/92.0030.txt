@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				a_été_imposé	Après la fermeture du site en 1997, un diagnostic de pollution a été imposé par arrêté préfectoral du 06 avril 1998.		
+2009				2009				l__observation	Après l'observation d'une dégradation de la qualité de l'eau souterraine du fait de la formation de chlorure de vinyle entre 2009 et 2010, une diminution des teneurs en polluants a été observés entre 2011 et 2013.	'chlorure de vinyle', 'polluants'	
+1998	04	06		1998	04	06		a_été_imposé	Après la fermeture du site en 1997, un diagnostic de pollution a été imposé par arrêté préfectoral du 06 avril 1998.		
+2009				2009				a_été_observés	Après l'observation d'une dégradation de la qualité de l'eau souterraine du fait de la formation de chlorure de vinyle entre 2009 et 2010, une diminution des teneurs en polluants a été observés entre 2011 et 2013.	'chlorure de vinyle', 'polluants'	
+2010				2010				l__observation	Après l'observation d'une dégradation de la qualité de l'eau souterraine du fait de la formation de chlorure de vinyle entre 2009 et 2010, une diminution des teneurs en polluants a été observés entre 2011 et 2013.	'chlorure de vinyle', 'polluants'	
+2000	06	05		2000	06	05		ont_été_imposés	A l'issue des travaux, compte tenu de la présence d'une pollution résiduelle en solvants chlorés dans les sols et la nappe, des restrictions d'usage et un suivi de la qualité des eaux souterraines ont été imposés par arrêté préfectoral du 5 juin 2000.	'chlorés'	
+2016				2016				exploite	La société SNCDR exploite une fourrière automobile sur ce site depuis fin 2016.		
+2011				2013				a_été_observés	Après l'observation d'une dégradation de la qualité de l'eau souterraine du fait de la formation de chlorure de vinyle entre 2009 et 2010, une diminution des teneurs en polluants a été observés entre 2011 et 2013.	'chlorure de vinyle', 'polluants'	
+2010				2010				a_été_observés	Après l'observation d'une dégradation de la qualité de l'eau souterraine du fait de la formation de chlorure de vinyle entre 2009 et 2010, une diminution des teneurs en polluants a été observés entre 2011 et 2013.	'chlorure de vinyle', 'polluants'	
+1962				1997				a_été_exploité	Le terrain, d'une superficie d'environ 4200 m², situé en zone industrielle, a été exploité de 1962 à 1997 par la société JP INDUSTRIE.		'la société JP INDUSTRIE'
+1999				1999				Des_travaux_de_dépollution	Des travaux de dépollution du sol par venting ont été mis en œuvre en 1999.		

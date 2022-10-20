@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1879				1956				a_accueuilli	Il a accueuilli l'usine fabriquant du gaz à partir de la distillation de la houille de 1879 à 1956.		
+2005	10	27		2005	10	27		a_été_transmis	Le rapport de diagnostic approfondi a été transmis le 27 octobre 2005 et le rapport de fin de travaux a été transmis le 24 mars 2006.		
+2002	09	19		2002	09	19		a_mis_en_place	Dans le cadre des travaux de dépollution et en application de la circulaire du 19 septembre 2002, Gaz de France a mis en place en octobre 2005 un contrôle semestriel des eaux souterraines au droit du site portant sur les HAP, BTEX, cyanures, phénols et ammonium.	'HAP', 'BTEX', 'cyanures', 'phénols', 'ammonium'	'Gaz de France'
+2005	10			2005	10			a_mis_en_place	Dans le cadre des travaux de dépollution et en application de la circulaire du 19 septembre 2002, Gaz de France a mis en place en octobre 2005 un contrôle semestriel des eaux souterraines au droit du site portant sur les HAP, BTEX, cyanures, phénols et ammonium.	'HAP', 'BTEX', 'cyanures', 'phénols', 'ammonium'	'Gaz de France'
+2006	03	24		2006	03	24		a_été_transmis	Le rapport de diagnostic approfondi a été transmis le 27 octobre 2005 et le rapport de fin de travaux a été transmis le 24 mars 2006.		
+2005	09			2005	09			Les_travaux_de_vidange	Les travaux de vidange et de traitement des 2 zones impactées ont été réalisés en septembre 2005. 337 m3 de terres souillées ont eté extraits.		

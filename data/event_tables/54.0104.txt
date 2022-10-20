@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1904				2006				a_exercé	Le site ELIS Lorraine situé à MALZEVILLE a exercé des activités de nettoyage à sec, soumises à autorisation au titre des ICPE, de 1904 à 2006.		'Le site ELIS Lorraine', 'MALZEVILLE'
+2009	02			2009	02			élimination_de_deux_anciennes_cuves	- Atelier de maintenance : élimination de deux anciennes cuves en février 2009 et de 10 m3 de terres polluées ;		
+2011	07			2011	07			__excavation	- Zone extérieure de stockage d’huiles et carburants : excavation et élimination en centre autorisé de 110 m3 de terres polluées par des hydrocarbures à concentration moyenne de 4000 mg/kg de MS en juillet 2011 ;	'stockage d’ huiles', 'carburants', 'hydrocarbures'	
+2012	08	10		2012	08	10		encadrée_par	Elle est encadrée par l'arrêté préfectoral du 10 août 2012.		
+2012	04	03		2012	04	03		la_réalisation	Par rapport du 3 avril 2012, l'Inspection des Installations Classées a constaté la réalisation des travaux de réhabilitation du site au sens de l'article R.512-39-3 du code de l'environnement et demandé des compléments concernant le projet de restriction d'usages.		
+2007				2007				Les_études_réalisées	Les études réalisées depuis 2007 ont mis en évidence les pollutions suivantes :		
+1904				2006				des_activités_de_nettoyage_à_sec	Le site ELIS Lorraine situé à MALZEVILLE a exercé des activités de nettoyage à sec, soumises à autorisation au titre des ICPE, de 1904 à 2006.		'Le site ELIS Lorraine', 'MALZEVILLE'
+2014	03	06		2014	03	06		a_institué	Par arrêté préfectoral du 06 mars 2014, le Préfet a institué les servitudes d'utilité publique sur cet ancien site (cf pièce jointe à la présente fiche).		'le Préfet'
+2009	02			2009	02			Elimination	- Elimination de la cuve de fioul de la chaudière et de terres polluées en février 2009 ;	'la cuve de fioul'	
+2012	06	27		2012	06	27		a_transmis	L'exploitant a transmis ces éléments le 27 juin 2012.		
+2006				2006				ont_été_définitivement_arrêtées	Les activités ont été définitivement arrêtées en 2006 et transférées sur le site ELIS de la ZAC des Savlons à MALZEVILLE.		'ELIS', 'MALZEVILLE'

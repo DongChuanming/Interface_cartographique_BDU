@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	06	04		2014	06	04		Une_visite	Une visite de l'inspection des installations classées a été réalisée sur le site le 4 juin 2014 sur les parcelles.		
+								qui_réglemente	Suite à une modification de ses installations, elle a fait l'objet de l'arrêté préfectoral du 13 février 2002 qui réglemente l'ensemble des installations.		
+2002	02			2002	02			qui_réglemente	Suite à une modification de ses installations, elle a fait l'objet de l'arrêté préfectoral du 13 février 2002 qui réglemente l'ensemble des installations.		
+2012	03	05		2012	03	05		a_été_mise_en_liquidation_judiciaire	La SAS LUREM MACHINES A BOIS a été mise en liquidation judiciaire le 5 mars 2012.		'La SAS LUREM MACHINES A BOIS'
+2015	03	27		2015	03	27		Mise_en_place_d__une_surveillance	Mise en place d'une surveillance de la nappe (AP du 27/03/2015) et mise en place d'une SUP (AP du 02/06/2015)		
+								a_fait_l__objet_de	Suite à une modification de ses installations, elle a fait l'objet de l'arrêté préfectoral du 13 février 2002 qui réglemente l'ensemble des installations.		
+2015	06	02		2015	06	02		et_mise_en_place_d_	Mise en place d'une surveillance de la nappe (AP du 27/03/2015) et mise en place d'une SUP (AP du 02/06/2015)		
+2002	02			2002	02			a_fait_l__objet_de	Suite à une modification de ses installations, elle a fait l'objet de l'arrêté préfectoral du 13 février 2002 qui réglemente l'ensemble des installations.		
+2014	03			2014	03			Dépollution_des_sols	Dépollution des sols au droit de trois zones pré-identifiées (rapport SER14043-1 de mars 2014)		
+2012	12	05		2012	12	05		l__autorisation	Suite à l’autorisation, par ordonnance du 5 décembre 2012, de la cession d’une partie des biens immobiliers de la société LUREM Machines à Bois au profit de la société LACTALIS INVESTISSEMENTS, Maître Xavier LEMEE, mandataire judiciaire en charge de la liquidation, a confié au groupe LACTALIS, pour son compte, la préparation d’un mémoire de réhabilitation et les mesures de remise en état de la partie du site pour laquelle ils se portent acquéreurs.		'la société LUREM', 'la société LACTALIS INVESTISSEMENTS', 'LEMEE', 'groupe LACTALIS'

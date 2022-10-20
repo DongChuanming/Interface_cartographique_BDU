@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971				1971				a_développé	En 1971, la Société Mécanique d’Irigny (SMI), a développé des activités de travail mécanique des métaux, travaux de décolletage de métaux, stockage de déchets (type DIB), dégraissage des métaux, atelier de soudure, dépôt de fuel, etc. (Arrêté Préfectoral d’autorisation d’exploiter en date du 12 janvier 1971).	'fuel'	'la Société Mécanique d’ Irigny', 'SMI'
+2018	12	31		2018	12	31		a_cessé_son_activité	La société Coved a cessé son activité le 31/12/2018.		'La société Coved'
+1968				1968				l__utilisation	Jusqu’en 1968, l’utilisation du terrain a été conservée de manière à recevoir les déblais et ordures ménagères d’Irigny et de Pierre-Bénite en cas de grèves ou de panne de l’usine d’incinération de Gerland.	'ordures ménagères'	
+1979	05	21		1979	05	21		reçoit	Suite à une pollution aux hydrocarbures dans la rivière voisine de la Mouche dont elle est à l’origine, la société SMI reçoit une mise en demeure par arrêté du 21 mai 1979.	'hydrocarbures'	'la société SMI'
+1991				1991				débute	En 1991, la société GR LAQ débute sur le site des activités de traitement des métaux et peintures par poudrage.		'la société GR'
+1961				1963				a_été_utilisé	De 1961 à 1963, le site a été utilisé par la Ville de Lyon comme terrain de décharge d’ordures ménagères.		'la'
+1995				1995				reprend	La société LOCABENNE reprend le site en 1995 pour une activité autorisée par arrêté du 22 août 1995 de tri de déchets industriels banals (DIB), métaux ferreux et non ferreux, et dépôt de liquides inflammables.	'DIB', 'métaux ferreux', 'liquides inflammables'	'La société LOCABENNE', 'non ferreux'
+2007	02	08		2007	02	08		d__interdire	- d’interdire l’implantation d’établissements accueillant des populations sensibles au sens de la circulaire du 8 février 2007,		
+2003				2003				succède_à	La société COVED Centre Est succède à LOCABENNE en 2003, le changement d’exploitant ayant fait l’objet d’un récépissé de déclaration (n°13180) du 29 juillet 2003 de la préfecture du Rhône.		'La société COVED Centre Est', 'LOCABENNE'

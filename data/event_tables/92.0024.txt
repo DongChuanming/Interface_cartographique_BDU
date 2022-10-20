@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				ont_été_enlevés	L'ensemble des produits, déchets et matériaux divers laissés sur place ont été enlevés fin 1999 suite à:		
+1997	05	28		1997	05	28		demandant_la_remise_en_état_du_site	- un arrêté préfectoral demandant la remise en état du site daté du 28/05/1997;		
+1976				1996				a_exercé_sur	La société CHROME INDUSTRIE a exercé sur ce site une activité de traitement de surfaces soumise à autorisation (100 m3 de bains de traitement), de 1976 à 1996.		'La société CHROME INDUSTRIE'
+1997	02	06		1997	02	06		a_prononcé_la_liquidation_judiciaire	Le tribunal de commerce de Nanterre a prononcé la liquidation judiciaire de Chrome Industrie le 6 février 1997.		'Chrome Industrie'
+1976				1996				une_activité_de_traitement_de_surfaces	La société CHROME INDUSTRIE a exercé sur ce site une activité de traitement de surfaces soumise à autorisation (100 m3 de bains de traitement), de 1976 à 1996.		'La société CHROME INDUSTRIE'

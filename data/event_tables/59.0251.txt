@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	24		1998	12	24		Diagnostic_environnemental	- Diagnostic environnemental phase A, en date du 24/12/1998, qui conclu que de part son activité, le site comporte de nombreuses zones potentiellement polluées. il y est recommandé de réaliser des investigations approfondies pour les eaux et les sols.		
+2009	03	10		2009	03	10		Réalisation_d__un_diagnostic_environnemental	- Réalisation d'un diagnostic environnemental le 10/03/2009 concernant l'usine de Raismes-Petite Foret et les anciens terrains Alsthom de la ZI du Plouich, révélant une pollution des sols, des sédiments, des eaux superficielles, souterraines et de surface (Scarpe).	'Scarpe'	'Alsthom'
+2013				2013				a_prévu	- En 2013, l'exploitant a prévu de mettre en place un nouveau piézomètre et effectuer de nouvelles investigations sur les sols.		

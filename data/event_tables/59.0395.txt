@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	10	31		2001	10	31		la_cessation_d__activité	Par courrier en date du 28 novembre 2001, l'exploitant a déclaré en Préfecture du Nord la cessation d'activité des installations exploitées à LYS-LES-LANNOY au 31 octobre 2001.		
+2001	11	28		2001	11	28		la_cessation_d__activité	Par courrier en date du 28 novembre 2001, l'exploitant a déclaré en Préfecture du Nord la cessation d'activité des installations exploitées à LYS-LES-LANNOY au 31 octobre 2001.		
+2000	07			2000	07			un_rapport_de_diagnostic_de_sols_réalisé	- un rapport de diagnostic de sols réalisé en juillet 2000 ;		
+1983	10	11		1983	10	11		l__adjonction	- 11 octobre 1983, pour l'adjonction, aux installations précédemment déclarées, d'une installation de distribution de liquide inflammable (1 volucompteur d'un débit de 2,4 m3/h maximum pour le supercarburant) alimentée par un réservoir enfoui de 20 m3.	'liquide inflammable', 'supercarburant'	
+2001	11			2001	11			de_travaux_réalisés	- un compte-rendu de travaux réalisés en novembre 2001, lors du démantèlement de la station service.		
+1982	01	05		1982	01	05		l__adjonction	- 5 janvier 1982, pour l'adjonction, aux installations précédemment déclarées, d'un volucompteur d'un débit de 1 m3/h maximum pour le mélange deux temps ;		
+1982	01	05		1982	01	05		l__adjonction	- 5 janvier 1982, pour l'adjonction, aux installations précédemment déclarées, d'une cuve de 5 m3 de mélange 2 temps ;		

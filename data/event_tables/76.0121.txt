@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12			2011	12			Les_analyses_réalisées	Les analyses réalisées en décembre 2011 et en décembre 2012 mettent en évidence les éléments suivants :		
+1994				1994				une_unité_d__incinération	Face à l'émergence des fluides de coupe synthétiques et afin de répondre aux besoins de l'industrie chimique, SCORI a mis en service en 1994 une unité d'incinération de déchets aqueux.	'fluides de coupe synthétiques', 'déchets aqueux'	
+2001	10	18		2001	10	18		est_remise	Une Étude Détaillée des Risques (ESR) étape A est remise le 18 octobre 2001.		
+1977				1977				Créé	Créé en 1977 par la société COHU, le site de Lillebonne était initialement spécialisé dans le traitement physico-chimique des fluides de coupe d'origine minérale et autres résidus provenant de l'industrie pétrolière.		'la société COHU'
+2006				2006				plusieurs_essais_ont_été_réalisés	En 2006, plusieurs essais ont été réalisés mais il est apparu un bouchage des piézomètres existants.		
+2012	12			2012	12			Les_analyses_réalisées	Les analyses réalisées en décembre 2011 et en décembre 2012 mettent en évidence les éléments suivants :		
+								l__écrémage_ponctuel	Étant donné la présence de phase flottante au droit du PZ31, la société en charge des analyses recommande l'écrémage ponctuel de la phase flottante toutes les 3 semaines pendant quelques mois afin d'évaluer de manière  quantitative l'évolution de son épaisseur ainsi que l'écrémage du PZ31 lors de la  prochaine campagne de prélèvement.	'phase flottante', 'PZ31', 'PZ31'	
+2011	12			2011	12			ont_été_implantés	En décembre 2011, 2 nouveaux piézomètres ont été implantés : PZA à l'extérieur de la barrière de confinement et PZB à l'intérieur de la barrière de confinement.		

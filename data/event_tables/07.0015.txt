@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	29		2005	01	29		est_montée_brutalement	Cette concentration est montée brutalement à des valeurs proches de 1000 Bq/l durant le week-end du 29 janvier 2005.		
+2004				2004				a_détecté	Lors d'analyses de routine, prescrites par l'arrêté ministériel réglementant les rejets de cette installation, le CNPE de Cruas-Meysse a détecté en 2004 la présence de tritium dans les effluents de sa station d'épuration.	'tritium'	

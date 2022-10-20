@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1962				rachète	Cette activité d'usinage est poursuivie par JEAN VANYWAEDE qui rachète le site en 1962 et crée une fonderie de bronze, mettant en oeuvre différents alliages.		'JEAN VANYWAEDE'
+2007	12	03		2007	12	03		_Diagnostic	-Diagnostic de l'état des sols (pb et cadm) autour de l'usine réalisé le 03/12/2007.		
+1995				1995				réalisée	Etude des sols réalisée en 1995.		
+1951				1951				démarre	Une activité d'usinage des métaux démarre sur ce site en 1951.		
+2007	12	03		2007	12	03		réalisé	-Diagnostic de l'état des sols (pb et cadm) autour de l'usine réalisé le 03/12/2007.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01			2000	01			laissait	En janvier 2000, l'ancien forage 323 laissait échapper du méthane près d'une habitation à preuschdorf.		
+2001				2001				diagnostics	D'autres forages fuyards ont fait l'objet de diagnostics et de rebouchage en 2001-2004.		
+2010				2010				a_été_équipé	Le forage 945 a été équipé en 2010 d'un séparateur d'hydrocarbure.	"d' hydrocarbure"	
+1996				1996				a_été_mis_en	Au pied du terril Clémenceau a été mis en place un déshuileur en 1996 afin de drainer les fluides du terril riche en hydrocarbures et de les piéger.	'hydrocarbures'	
+2004				2004				diagnostics	D'autres forages fuyards ont fait l'objet de diagnostics et de rebouchage en 2001-2004.		

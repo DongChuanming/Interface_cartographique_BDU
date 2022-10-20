@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966				1971				a_exploité	. a exploité de 1966 à 1971 cette ancienne décharge dans une excavation de gypse.		
+								a_été_intégrée	Cette ancienne décharge a été intégrée dans l'Evaluation Simplifiée des Risques ESR d'ARKEMA, demandée par Arrêté Préfectoral du 01/12/98.		'Risques ESR', "d' ARKEMA"
+1995				1995				une_surveillance	Le site des Grandes Carrières fait l'objet d'une surveillance des eaux superficielles (sources) depuis 1995.		
+2004	12	20		2004	12	20		L__étude_détaillée_des_risques	L’étude détaillée des risques concernant le site « des Grandes Carrières » a été remise par ARKEMA en date du 20 décembre 2004.		'ARKEMA'
+2004	06	17		2004	06	17		a_fait_l__objet_d_	Cette proposition a fait l'objet d'un arrêté préfectoral du 17 juin 2004.		
+								des_mesures	Il a néanmoins été convenu, compte tenu de la difficulté de se positionner sur le résultat d’une seule analyse, de réaliser 2 fois par an pendant 2 ans des mesures sur les végétaux arrosés avec de l’eau en provenance de la source de la Madeleine afin de confirmer l’absence de risque sanitaire.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	09	1		1998	09	1		a_été_imposée	Par arrêté préfectoral du 1er septembre 1998, une étude de sol a été imposée en application de la circulaire du 3 avril 1996 relative aux études de sol.		
+2007	07	07		2007	07	07		un_diagnostic_approfondi	7 juillet 2007 : par arrêté préfectoral la société APERAM est tenue de réaliser un diagnostic approfondi des sols et une étude détaillée des risques Santé et Eaux (EDR-S et EDR-E).		'la société APERAM', 'EDR - E'
+2011	03	14		2011	03	14		a_informé	Par courrier du 14 mars 2011, l'exploitant a informé le Préfet du changement de dénomination sociale au profit d'APERAM STAINLESS FRANCE.		"d' APERAM STAINLESS FRANCE"
+2001	02			2001	02			une_évaluation_simplifiée_des_risques	Une étude de sols (avril 1999) suivie d'une évaluation simplifiée des risques (ESR, février 2001) ont ainsi été menées sur ce ce site.		
+1999	04			1999	04			Une_étude_de_sols	Une étude de sols (avril 1999) suivie d'une évaluation simplifiée des risques (ESR, février 2001) ont ainsi été menées sur ce ce site.		
+2007	07	07		2007	07	07		une_étude_détaillée_des_risques_Santé	7 juillet 2007 : par arrêté préfectoral la société APERAM est tenue de réaliser un diagnostic approfondi des sols et une étude détaillée des risques Santé et Eaux (EDR-S et EDR-E).		'la société APERAM', 'EDR - E'

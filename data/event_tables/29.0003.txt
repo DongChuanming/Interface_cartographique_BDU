@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03			2000	03			Les_analyses_des_eaux	Les analyses des eaux d'octobre 1999 et mars 2000 montrent un impact réduit sur le milieu naturel, tant au niveau des eaux souterraines que des eaux superficielles.		
+2002				2006				L__impact	L'impact du site sur les eaux est resté stable dans le temps, aucune dégradation n'est apparue entre 2002 et 2006.		
+								a_prescrit_la_fermeture_et_la_remise_en_état	Un arrêté préfectoral du 29 juin 1997 a prescrit la fermeture et la remise en état du site sous un délai de 6 mois, ainsi  que diverses mesures visant à prévenir la pollution des eaux et assurer la surveillance du site.		
+2008				2008				l__augmentation_des_concentrations	Après l'augmentation des concentrations en 2008, elles restent globalement stables.		
+1998	03	16		1998	03	16		un_arrêté_de_mise_en_demeure	En l'absence de suites, un arrêté de mise en demeure du 16 mars 1998 a été signé avec un délai de réalisation de 3 mois.		
+1999				1999				Les_opérations_de_nettoyage	Les opérations de nettoyage ont commencé début 1999 :		
+1948				1994				une_exploitation_sans_autorisation_administrative	Ce site a fait l’objet d’une exploitation sans autorisation administrative, de 1948 à 1994.		
+2005	12			2005	12			Les_analyses_complémentaires_réalisées	Les analyses complémentaires réalisées en décembre 2005 ont montré des traces d'hydrocarbures totaux et une absence de plomb et de composés organiques.	'hydrocarbures totaux', 'plomb', 'composés organiques'	
+2002				2006				est_resté_stable_dans_le_temps	L'impact du site sur les eaux est resté stable dans le temps, aucune dégradation n'est apparue entre 2002 et 2006.		
+2012	03	28		2012	03	28		a_été_radiée	La société CTVL a été radiée le 28 mars 2012.		'La société CTVL'
+1999	10			1999	10			Les_analyses_des_eaux	Les analyses des eaux d'octobre 1999 et mars 2000 montrent un impact réduit sur le milieu naturel, tant au niveau des eaux souterraines que des eaux superficielles.		

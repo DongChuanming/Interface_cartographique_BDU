@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03			1999	03			ont_été_achevés	Les travaux ont été achevés en mars 1999.		
+1997	09	30		1997	09	30		ont_informé	Le 30/09/1997, les pompiers ont informé l'inspecteur des installations classées d'odeurs d'hydrocarbures dans un puits voisin de la station ROLLIN.	'hydrocarbures'	'la station ROLLIN'

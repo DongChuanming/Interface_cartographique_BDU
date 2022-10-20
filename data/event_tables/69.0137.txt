@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				Un_diagnostic_initial	Un diagnostic initial et une étude simplifiée des risques ont été réalisés en 2001.		
+2003				2003				réaménagé	Le tènement a été acquis par la commune de Givors qui a démoli tous les bâtiments et réaménagé le site en lieu de promenade et espaces verts en 2003.		
+2002	08			2002	08			évaluation_détaillée_des_risques	L'évaluation détaillée des risques, remise en août 2002, conclut à un niveau de risque sanitaire acceptable pour les usages prédéfinis après la réalisation de travaux d'imperméabilisation ou de couverture des dalles maintenues en place (quelques m²).		
+2003	03			2003	03			Un_dossier_de_récolement	Un dossier de récolement a été établi en mars 2003 confirmant la bonne exécution des mesures prévues ou préconisées par les études.		
+2003	10	21		2003	10	21		une_réunion_a	Le 21/10/2003 une réunion a eu lieu entre la mairie de Givors, un membre de la société EPORA (cabinet en charge du dossier de récolement) et la DRIRE.		'la société EPORA', 'la DRIRE'

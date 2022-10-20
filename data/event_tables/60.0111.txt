@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_procédé_à_la_démolition_des_batiments	Fin 1999 et début 2000 l'exploitant a procédé à la démolition des batiments et à l'évacuation des déblaiements ne laissant sur le site que les plates formes des bâtiments et le mur d'enceinte.		
+2000	10	30		2000	10	30		a_fourni	Suite aux modifications apportées sur le site et à la demande de l'inspection des installations classées en date du 30 octobre 2000, l'exploitant a fourni les 21 février et 28 juin 2001 des compléments à son dossier de cessation d'activité.		
+2008				2008				a_été_transmis	Le dossier de demande de servitudes a été transmis en 2008.		
+								a_fourni	Suite aux modifications apportées sur le site et à la demande de l'inspection des installations classées en date du 30 octobre 2000, l'exploitant a fourni les 21 février et 28 juin 2001 des compléments à son dossier de cessation d'activité.		
+2000				2000				a_procédé_à_la_démolition_des_batiments	Fin 1999 et début 2000 l'exploitant a procédé à la démolition des batiments et à l'évacuation des déblaiements ne laissant sur le site que les plates formes des bâtiments et le mur d'enceinte.		
+2002	01	09		2002	01	09		a_prescrit	Par arrêté du 9 janvier 2002, M. le Préfet a prescrit à la société Umicore de :		'le Préfet', 'la société Umicore'
+1999				1999				a_transmis	En 1999, le préfet de l'Oise a transmis à l'inspection des installations classées le dossier de cessation d'activité remis par l'exploitant ainsi que l'avis de l'INERIS.		'le préfet', 'INERIS'
+2003	09	30		2003	09	30		une_évaluation_détaillée_des_risques	Le 30 septembre 2003, l'exploitant a remis une évaluation détaillée des risques accompagnée de la tierce expertise.		
+2000				2000				a_démoli	Début 2000, l'exploitant a démoli l'ensemble des bâtiments et évacué les déblais, ne laissant que les plate-formes des bâtiments et le mur d'enceinte.		
+2001	06	28		2001	06	28		a_fourni	Suite aux modifications apportées sur le site et à la demande de l'inspection des installations classées en date du 30 octobre 2000, l'exploitant a fourni les 21 février et 28 juin 2001 des compléments à son dossier de cessation d'activité.		

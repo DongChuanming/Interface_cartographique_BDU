@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	02			2014	02			a_été_mise_à_l__arrêt_définitivement	En février 2014, la société a été mise à l'arrêt définitivement.		
+								ont_été_implantés	Cinq piézomètres ont été implantés à une profondeur moyenne de 6.5 m, les 2 et 3 mai 2016.		
+2004	03	31		2004	03	31		a_été_autorisée	La société a été autorisée, par arrêté préfectoral du 31 mars 2004, à exploiter une laiterie, spécialisée dans la production de lait U.		'La'
+2014				2014				présente	Les installations du site présente en 2014 sont représentés sur le plan cartographique n°2.		
+				2015	04	15		des_travaux_de_reconnaissance	Du 13 avril au 15 avril 2015, des travaux de reconnaissance du sous-sol se sont déroulés. 30 sondages ont été réalisés avec d’analyses d’hydrocarbures aromatiques polycycliques et paramètre d'admission en installations de stockages de déchets inertes.	'hydrocarbures aromatiques polycycliques'	
+2014				2014				a_missionné	En 2014, dans le cadre de la cessation de ses activités, la société TERRA LACTA a missionné un bureau d’études pour la réalisation d’une évaluation environnementale du site et un mémoire de cessation.		'la société TERRA LACTA'
+2014	06	04		2014	06	04		Les_travaux_de_reconnaissance	Les travaux de reconnaissance du sous-sol du site se sont déroulés le 3 et 4 juin 2014.		
+2016	05	03		2016	05	03		ont_été_implantés	Cinq piézomètres ont été implantés à une profondeur moyenne de 6.5 m, les 2 et 3 mai 2016.		
+								Les_travaux_de_reconnaissance	Les travaux de reconnaissance du sous-sol du site se sont déroulés le 3 et 4 juin 2014.		

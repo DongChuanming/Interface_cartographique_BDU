@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	06	06		1991	06	06		a_déclaré_la_fin	Le 6 juin 1991, elle a déclaré la fin de l’exploitation du site.		
+2007				2007				a_été_détectée	Seule une trace sur le piézomètre 86 de 0,07µg/L a été détectée pour les dichloroanilines en 2007.	'les dichloroanilines'	
+2006	01			2006	01			__screening	Elle comporte la réalisation de deux campagnes d’échantillonnage d’une dizaine de points d’eaux souterraines en janvier 2006 et mai 2007, et l’analyse des prélèvements par « screening ».		
+2007	05			2007	05			__screening	Elle comporte la réalisation de deux campagnes d’échantillonnage d’une dizaine de points d’eaux souterraines en janvier 2006 et mai 2007, et l’analyse des prélèvements par « screening ».		
+1996				1996				a_été_effectué	La caractérisation des remblais déposés a été effectué en 1996 au moyen de deux sondages situés au centre de l’ancienne carrière.		

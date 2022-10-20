@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	06	15		2011	06	15		s__est_rendue_sur_place	Le 15/06/2011, l’inspection des installations classées s’est rendue sur place afin d’évaluer l’origine et la nature de l’accident.		
+2011	06	08		2011	06	08		l__utilisation	Le 08/06/2011, en réalisant des travaux d'aménagement autour d'une cuve enterrée de carburant, l'utilisation d'une disqueuse pour démanteler une tuyauterie, a créé un point chaud entraînant immédiatement une déflagration, canalisée par un des trous d'homme, provoquant le décès d'une personne.	'carburant'	
+2002	04	02		2002	04	02		a_repris_le_bail_d__exploitation	La SARL Garage de l'Estuaire a repris le bail d'exploitation du garage (non ICPE) LE 02/04/2002.		'La SARL Garage', "de l' Estuaire"
+1968	05	31		1968	05	31		déclaré	- la station-service ainsi qu'un autre stockage de liquides inflammables régulièrement déclaré le 31/05/1968 n'étaient plus exploités,	'service', 'liquides inflammables'	
+2001	11	24		2001	11	24		a_cédé	Jean Daniel a cédé l'ensemble immobilier et le fonds à la SCI BOUILLARD-PORET le 24/11/2001.		'la SCI BOUILLARD - PORET'
+1968	05	31		1968	05	31		de_déclaration	Ce site a fait l'objet d'un récépissé de déclaration n°30 du 31/05/1968 délivré à Monsieur Jean DANIEL pour l'exploitation d'un garage avec atelier de réparation automobile et d'un dépôt de carburant en fosses enterrées constitué de :	'carburant'	'Jean DANIEL'

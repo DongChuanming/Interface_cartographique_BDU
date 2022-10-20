@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11			2000	11			Deux_études	Deux études en novembre 2000 et novembre 2004 ont mis en évidence des pollutions des sols et des eaux souterraines.		
+2005				2005				un_diagnostic_environnemental_réalisé	Cette ESR a été réalisée suite à un diagnostic environnemental réalisé courant 2005.		
+2004	11			2004	11			Deux_études	Deux études en novembre 2000 et novembre 2004 ont mis en évidence des pollutions des sols et des eaux souterraines.		

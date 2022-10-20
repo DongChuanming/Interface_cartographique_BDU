@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	26		2012	12	26		délivré	Il n’a pas été trouvé trace de pièces relatives au statut d’installation classée de l’établissement antérieures au récépissé de déclaration délivré le 26 décembre 2012 à la société DERICHEBOURG par la préfecture du Calvados au titre des rubriques 2710-b et 2710-c.		'la société DERICHEBOURG', 'la préfecture du Calvados'
+2016	04	28		2016	04	28		Le_PV_de_récolement	Le PV de récolement a été dressé le 28 avril 2016 par l'inspection de l'environnement.		
+2014	12			2014	12			une_excavation	Cette pollution concerne une surface réduite et est située à faible profondeur (entre 0 et 0,85 m de profondeur) : la zone a fait l'objet d'une excavation en décembre 2014 (12  t de terres souillées) ;		
+2014				2014				a_cessé	La société DERICHEBOURG a cessé son activité en 2014.		'La société DERICHEBOURG'
+1963				1963				Créé	Créé en 1963, le site situé rue des Bateliers, a été utilisé pour différentes activités de stockage, tri et transit de déchets.		
+2012				2012				a_été_racheté	Le site a été racheté en 2012 par la société DERICHEBOURG ENVIRONNEMENT REVIVAL qui a poursuivi cette activité.		'la société DERICHEBOURG ENVIRONNEMENT REVIVAL'

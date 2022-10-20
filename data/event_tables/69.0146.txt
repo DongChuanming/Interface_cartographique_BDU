@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	04	12		1999	04	12		est_en_liquidation_judiciaire	La société est en liquidation judiciaire depuis le 12 avril 1999.		
+2002	07			2002	07			15_campagnes_ont_été_effectuées	15 campagnes ont été effectuées (juillet 2002 à mai 2010).		
+2010	05			2010	05			15_campagnes_ont_été_effectuées	15 campagnes ont été effectuées (juillet 2002 à mai 2010).		
+2011	11	16		2011	11	16		un_procès_verbal	L'inspection des installations classées a dressé un procès-verbal de recolement le 16/11/2011.		
+2006	11			2006	11			a_été_transmise	L'EDR a été transmise à l'administration en novembre 2006.		
+2002	06	12		2002	06	12		à_une_visite_des_lieux	Suite à une visite des lieux effectuée le 12/06/2002, il a été constaté que le site avait été nettoyé de l'ensemble des déchets entreposés et qu'il était maintenant clôturé ; néanmoins, le sol en terre battue fait apparaître l'incrustation de déchets de métaux.	'déchets de métaux'	
+2002	08	21		2002	08	21		a_imposé	Le Préfet du Rhône a imposé par arrêté préfectoral en date du 21 août 2002 au liquidateur judiciaire de poursuivre l'étude de sol dans les conditions définies dans le guide méthodologique précité, en complétant le diagnostic initial et en réalisant un diagnostic complémentaire qui permettra de cerner plus précisément la nature et l'étendue (en surface et en profondeur) des diverses sources de pollution mises en évidence dans cette première phase.		'Le Préfet du Rhône'
+2007	12	07		2007	12	07		a_fait_l_	Elle a fait l'objet d'un rapport au préfet le 7 décembre 2007.		'préfet'
+1999	08	23		1999	08	23		avait_été_mis_en_demeure	Au vu de ces informations, le liquidateur judiciaire avait été mis en demeure le 23 août 1999 aux fins de :		
+2002	07			2002	07			Les_campagnes_de_prélèvements_ont_débuté	Les campagnes de prélèvements ont débuté en juillet 2002.		
+1999				1999				d__une_visite_effectuée	Lors d'une visite effectuée fin 1999, il avait été constaté la présence de nouveaux déchets (30 fûts et 80 m3 de déchets industriels banals (DIB)).	'la présence de nouveaux déchets', 'déchets industriels banals', 'DIB'	
+2002	08	30		2002	08	30		transmise	Cette ESR transmise à l'administration le 30 août 2002 et complétée le 17 mars 2003 a conclu à un classement 1 du site pour le milieu sol, nécessitant des investigations approfondies.		
+2011	10	04		2011	10	04		Une_visite_d__inspection_approfondie	Une visite d'inspection approfondie a été effectuée le 4/10/2011.		

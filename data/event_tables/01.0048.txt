@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04			2002	04			les_travaux_suivants_ont_été_réalisés	En avril 2002, les travaux suivants ont été réalisés :		
+2009				2009				un_bilan	En 2009, l'exploitant a présenté un bilan de la surveillance des eaux souterraines montrant une amélioration sensible de la qualité de l'eau de la nappe.		
+2002	11			2002	11			a_attiré_l__attention	En novembre 2002, le service hygiène et santé publique de la ville de BOURG EN BRESSE a attiré l'attention du Préfet de l'Ain sur une pollution par hydrocarbures attribuée au site exploité par la société ESLC SERVICES.	'hydrocarbures'	'BOURG EN BRESSE', 'la société ESLC SERVICES'
+2001	08			2001	08			réalisé	Un diagnostic environnemental du dépôt réalisé par la société SERPOL en août 2001, a mis en évidence les pollutions suivantes :		'la société SERPOL'
+2015	06			2015	06			réalisée	La 26e campagne de surveillance des eaux, réalisée en juin 2015, en période de basses eaux, montre :		
+2002	07			2002	07			a_démarré	Le traitement effectif a démarré à la fin du mois de juillet 2002.		
+2001	08			2001	08			a_mis_en_évidence	Un diagnostic environnemental du dépôt réalisé par la société SERPOL en août 2001, a mis en évidence les pollutions suivantes :		'la société SERPOL'
+2001				2001				a_été_rachetée	Fin 2001, la société BP Services a été rachetée par ESLC Services.		'la société BP Services', 'ESLC Services'
+1993				1993				a_subi_des_modifications	Au titre de la réglementation des ICPE, ce site a été initialement autorisé en 1961, puis a subi des modifications en 1983 et 1993.		
+2005	11	10		2005	11	10		sa_réponse	Dans sa réponse du 10 novembre 2005, ESLC Services a apporté les précisions suivantes :		'ESLC Services'
+2008				2008				a_été_mesurée	En particulier aucune teneur en polluant n'a été mesurée en 2008 dans le puits voisin.		
+2003	10			2003	10			en_place	- le suivi des eaux souterraines, en place depuis octobre 2003 ne montre pas de dégradation de la qualité de ces eaux en dehors du site ;		
+2002	07	02		2002	07	02		de_déclaration	Les installations de ce site relèvent actuellement du régime de la déclaration au titre des ICPE et ont fait l’objet, en dernier lieu, d’un récépissé de déclaration en date du 2 juillet 2002 auquel sont annexées les prescriptions générales correspondantes.		
+1983				1983				a_subi_des_modifications	Au titre de la réglementation des ICPE, ce site a été initialement autorisé en 1961, puis a subi des modifications en 1983 et 1993.		
+2004	12	21		2004	12	21		Le_diagnostic_approfondi	Le diagnostic approfondi et l'EDR ont été remis le 21/12/2004.		
+2004				2004				ont_été_réalisés	Toutefois, les travaux ont été limités à environ 2 mètres du mur mitoyen marquant la limite de propriété pour des raisons de stabilité des terrains. 6 sondages complémentaires ont été réalisés début 2004 de part et d'autre de la limite de propriété.		
+1961				1961				a_été_initialement_autorisé	Au titre de la réglementation des ICPE, ce site a été initialement autorisé en 1961, puis a subi des modifications en 1983 et 1993.		

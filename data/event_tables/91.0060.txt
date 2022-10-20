@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				La_mise_en_conformité	La mise en conformité du stockage des nouveaux mâchefers (étanchéité de la zone) s'est achevée en 2002 mais la question de l'état des sols à l'emplacement de l'ancien stockage demeure (D'anciens mâchefers sont encore en place).	'mâchefers', 'mâchefers'	
+2000	07	30		2000	07	30		et_transmis	Afin de traiter la question de l'ancien stockage de mâchefers, un diagnostic  de sols a été prescrit par arrêté préfectoral du 27 janvier 1997 et transmis le 30 juillet 2000.	'mâchefers'	
+2004	10			2004	10			ont_été_demandés	Des compléments sur la qualité des sols et eaux ont été demandés par l'inspection : une évaluation simplifiée des risques a donc été établie par l'exploitant et communiquée en octobre 2004.		
+2005				2005				a_été_renforcé	Le réseau de piézomètres a été renforcé en 2005.		
+2002				2002				a_été_réalisée	La dalle béton au niveau de la zone de stockage des mâchefers a été réalisée en 2002.	'mâchefers'	
+1999	07	09		1999	07	09		la_réalisation_d__une_dalle	Par arrêté préfectoral du 9 juillet 1999, il avait du reste été prescrit à l'exploitant la réalisation d'une dalle étanche pour le stockage des mâchefers.	'mâchefers'	
+2000	07	30		2000	07	30		un_diagnostic___de_sols	Afin de traiter la question de l'ancien stockage de mâchefers, un diagnostic  de sols a été prescrit par arrêté préfectoral du 27 janvier 1997 et transmis le 30 juillet 2000.	'mâchefers'	

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	09		2012	05	09		a_été_liquidée_par_décision	Cette entreprise a été liquidée par décision du Tribunal de Commerce de Laval, le 9 mai 2012, désignant Maître LEMERCIER, liquidateur judiciaire à Laval, pour conduire cette procédure.		'du Tribunal de Commerce de Laval', 'Maître LEMERCIER'
+2015	04	20		2015	04	20		L__inspection	L'inspection du 20 avril 2015 a permis de constater sur site que les contenants de gaz et les déchets de ferrailles ne sont plus présents et que tous les big-bags de sables et de cendres ont désormais été rentrés dans le bâtiment.	'les contenants de gaz', 'les déchets'	

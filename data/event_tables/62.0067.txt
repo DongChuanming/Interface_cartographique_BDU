@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	31		2003	12	31		Fin_du_démentèlement	- Fin du démentèlement prévu pour le 31/12/2003.		
+2002	03	20		2002	03	20		Arrêt_de	Arrêt de la production de cokes le 20 mars 2002	'cokes'	
+1996	04	03		1996	04	03		une_étude	Ce site en activité a fait l'objet d'une étude des sols en application de la Circulaire du 3 avril 1996.		
+2002	07			2003	12			des_installations	Démentellement des installations de 07/2002 à 12/2003		

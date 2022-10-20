@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971	06	28		1971	06	28		de_déclaration	récépissé de déclaration du 28 juin 1971 relatif à l'installation d'une citerne de 1750 kg de propane.	'propane'	
+2002	08	30		2002	08	30		de_déclaration	récépissé de déclaration du 30 août 2002 pour une puissance de 122 kW au titre de la rubrique 2920,		
+1978	04	25		1978	04	25		de_déclaration	- récépissé de déclaration en date 25 avril 1978 pour les activités suivantes : emploi de matières abrasives, meulage des métaux, fonderie des métaux, application de peintures par pulvérisation, application des peintures au trempé.		
+2012	06	06		2012	06	06		de_déclaration	récépissé de déclaration du 6 juin 2012 suite à la présence d'un transformateur présentant des PCB (ex. rubrique 1180-1),	'des PCB'	

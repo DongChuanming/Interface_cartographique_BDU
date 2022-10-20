@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07			2011	07			a_été_réalisée	En juillet 2011, une tranchée drainante équipée d’un puit de récupération des hydrocarbures a été réalisée.	'hydrocarbures'	
+								s__est_implantée	L’Usine d’Incinération d’Ordures Ménagères s’est implantée sur le site de Wasquehal, rue Jean-Paul Sartre au début des années 1970.		
+1977	03	03		1977	03	03		a_été_autorisée_par	L'UIOM a été autorisée par un arrêté préfectoral délivré le 3 mars 1977.		
+1900				1969				avait_été_utilisé	Antérieurement, de 1900 à 1969, ce site avait été utilisé pour la fabrication de produits chimiques par la société Eycken, puis par la société Saint Gobain.	'produits chimiques'	'la société Eycken', 'la société Saint Gobain'
+2008	04	11		2008	04	11		le_rapport	A ce titre, le rapport de la DREAL du 11 avril 2008 valant procès verbal de récolement de ladite cessation d'activité conclut, entre autres, au maintien de la surveillance des eaux souterraines fixée par l'arrêté préfectoral du 25 octobre 2005.		'la DREAL'
+1997	04	1		1997	04	1		a_repris	Le dernier exploitant de l’usine est la Société Valnor (Veolia Propreté) qui a repris l’activité le 1er avril 1997.		'la Société Valnor', 'Veolia Propreté'
+2007	08	28		2007	08	28		a_transmis	L'industriel a transmis les résultats de ses investigations et le plan de gestion le 28 août 2007.		
+1998	04	16		1998	04	16		Le_transfert_d__activité	Le transfert d’activité a été autorisé par un arrêté préfectoral daté du 16 avril 1998.		
+2008				2008				de_la_déconstruction_du_site	Lors de la déconstruction du site en 2008, afin de remédier à la pollution aux hydrocarbures qui provenait de cuves de carburant, plusieurs opérations on été effectuées :	'hydrocarbures', 'de carburant'	
+2003				2003				ont_été_remis	Le mémoire de cessation d'activités, les études des sols et l’évaluation simplifiée des risques ont été remis en 2003 et 2005.		
+1977	03	03		1977	03	03		délivré	L'UIOM a été autorisée par un arrêté préfectoral délivré le 3 mars 1977.		
+1998	03			1998	03			L__incinération	L'incinération a cessé en mars 1998 puis le site a été utilisé en tant que centre de transfert d'ordures ménagères jusqu’en 2001.		
+2002				2002				a_cessé_définitivement	En 2002, la Société VALNOR a cessé définitivement ses activités industrielles.		'la Société VALNOR'
+2008	12	03		2008	12	03		__25_tonnes	- Aspiration de l’eau polluée et évacuation vers BIONOR à Courrières (25 tonnes le 01/12/2008 et 9 tonnes le 03/12/2008) ;		'BIONOR'
+2012	11	13		2012	11	13		la_campagne	Rapport de surveillance des eaux souterraines (nappe superficielle) de l’ancien site VALNOR UIOM de WASQUEHAL de la campagne du 13 novembre 2012 :		'VALNOR UIOM'
+2005				2005				ont_été_remis	Le mémoire de cessation d'activités, les études des sols et l’évaluation simplifiée des risques ont été remis en 2003 et 2005.		
+2008	12	22		2008	12	22		Évacuation	- Évacuation des 316 tonnes de terre polluée en bennes étanches vers BIONOR (le 22/12/2008).		'BIONOR'
+2008	12	01		2008	12	01		__25_tonnes	- Aspiration de l’eau polluée et évacuation vers BIONOR à Courrières (25 tonnes le 01/12/2008 et 9 tonnes le 03/12/2008) ;		'BIONOR'
+				2001				a_été_utilisé	L'incinération a cessé en mars 1998 puis le site a été utilisé en tant que centre de transfert d'ordures ménagères jusqu’en 2001.		

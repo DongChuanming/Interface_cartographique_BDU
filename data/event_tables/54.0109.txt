@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_mise_en_place	Une surveillance des eaux souterraines a été mise en place en 2009.		
+2008	12	31		2008	12	31		de_la_mise_à_l__arrêt_définitif	Ce courrier informait de la mise à l'arrêt définitif des installations classées de cette usine au 31/12/2008.		
+2008	09	19		2008	09	19		La_cessation_d__activité	La cessation d'activité a été notifiée au préfet de Meurthe-et-Moselle le 19/09/2008.		'préfet de Meurthe-et-Moselle'
+2004	09	1		2004	09	1		est_soumise_à_autorisation	Elle est soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral 17002 du 17 juin 1996 modifiés par les arrêtés préfectoraux 2004/007 du 29 mars 2004 et 2004/436 du 1er septembre 2004.		
+2009	06			2009	06			a_été_remis	Le mémoire de cessation d'activité a été remis en juin 2009.		

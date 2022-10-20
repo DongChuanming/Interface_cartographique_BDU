@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				crassier_réalisé	- Regroupement de déchets industriels (scories) sur le crassier réalisé en 1990.		
+1985	03			1985	03			a_cessé	L'activité a cessé en mars 1985 et est resté en friche jusqu'en 1990 (crassier de scories, battitures métalliques et réfractaires usés).		
+				1990				est_resté_en_friche	L'activité a cessé en mars 1985 et est resté en friche jusqu'en 1990 (crassier de scories, battitures métalliques et réfractaires usés).		
+1994	02			1994	02			__Etude_de_sols_initiale_réalisée	- Etude de sols initiale réalisée en février 1994.		
+2005	04			2005	04			récolement	- PV de récolement des travaux en avril 2005.		
+1997				1997				Un_remodelage_et_reverdissement	Un remodelage et reverdissement du site a été opéré par l'EPF en 1997.		"l' EPF"

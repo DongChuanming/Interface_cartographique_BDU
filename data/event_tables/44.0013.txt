@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1944				exploité	Ancien site sidérurgique exploité jusqu'en 1944 par les forges et aciéries du Nord Est.		
+1973				1973				Exploitation	Exploitation du crassier résiduel par l'entreprise Charrier TP depuis 1973.		'Charrier TP'
+1996				1996				engage_un_diagnostic_approfondi	- en 1996, la SELA engage un diagnostic approfondi et une ESR et établit un programme de travaux (confinement, restrictions d'usage) en liaison avec la DRIRE		'la SELA', 'la DRIRE'
+1992	09			1992	09			établit_la_configuration	- en septembre 1992, l'ADEME établit la configuration des anciennes installations sidérurgiques et définit les zones potentiellement à risque de pollution		

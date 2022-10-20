@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	05	03		1994	05	03		de_déclaration	La société MONDI LEMBACEL, spécialisée dans la fabrication de sacs en papier, a exploité (récépissé de déclaration du 3 mai 1994) ce site pour l'impression et l'assemblage des sacs ainsi que pour le stockage de différents produits nécessaires à ses activités.		'La société MONDI LEMBACEL'
+2012	03	14		2012	03	14		Les_investigations	Les investigations ont été réalisées par ENVIRON les 13 et 14 mars 2012.		'ENVIRON'
+2012	08	28		2012	08	28		est_délivré	Un récépissé de déclaration de cessation définitive d'activité est délivré à l'exploitant le 28 août 2012.		
+2011	05	31		2011	05	31		la_cessation_définitive_de_son_activité	L'exploitant a déclaré à la préfecture de Valence, par courrier du 19 janvier 2011, la cessation définitive de son activité sur le site prévue pour le 31 mai 2011.		'la préfecture de Valence'
+								Les_investigations	Les investigations ont été réalisées par ENVIRON les 13 et 14 mars 2012.		'ENVIRON'
+2012	06	13		2012	06	13		donne_son_accord	Par courriel du 13 juin 2012, l'inspection des installations classées donne son accord sur la clause environnementale établie avec l'acquéreur et transmise par la société MONDI LEMBACEL.		'la société MONDI LEMBACEL'
+2011	06	17		2011	06	17		dossier_de_cessation	Le 17 juin 2011, la société MONDI LEMBACEL a adressé le dossier de cessation d'activité à l'inspection des installations classées.		'la société MONDI LEMBACEL'
+2011	01	19		2011	01	19		la_cessation_définitive_de_son_activité	L'exploitant a déclaré à la préfecture de Valence, par courrier du 19 janvier 2011, la cessation définitive de son activité sur le site prévue pour le 31 mai 2011.		'la préfecture de Valence'
+								a_imposé	L'arrêté préfectoral du 28 novembre 2011 a imposé à l'exploitant la surveillance trimestrielle des eaux souterraines via 3 piézomètres sur les HCT, les COHV et les BTEX durant au moins 4 ans.	'COHV'	
+2011	01	19		2011	01	19		par_courrier	L'exploitant a déclaré à la préfecture de Valence, par courrier du 19 janvier 2011, la cessation définitive de son activité sur le site prévue pour le 31 mai 2011.		'la préfecture de Valence'
+2011	07	20		2011	07	20		site_réalisée	La visite du site réalisée par l'inspection des installations classées le 20 juillet 2011 a permis de constater que :		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	04		2007	07	04		a_été_mise_en_demeure_de_déposer	Le 4 juillet 2007, la CCPT a été mise en demeure de déposer un dossier réglementaire de cessation d'activité, comportant notamment une étude sur l'état des milieux.		'la CCPT'
+2009	09			2009	09			Ces_analyses_ont_été_réalisées	Ces analyses ont été réalisées par SCE AMENAGEMENT ET ENVIRONEMMENT en septembre 2009.		'SCE AMENAGEMENT'
+2010	06			2010	06			a_mis_en_évidence	Une nouvelle campagne, réalisée en juin 2010, a mis en évidence les contaminations suivantes :		
+2006	06	16		2006	06	16		la_déclaration	- accusé réception de la déclaration du 16 juin 2006 de la cessation d'activité définitive de l'UIOM de Saint-Forgeux par la Communauté de Communes du Pays de Tarare (CCPT) ;		'la Communauté de Communes du Pays de Tarare'
+2009	12	08		2009	12	08		a_transmis	Le 8 décembre 2009, la CCPT a transmis au Préfet, le rapport de cessation d'activité permettant d'évaluer l'impact de l'UIOM sur son environnement.		'la CCPT'

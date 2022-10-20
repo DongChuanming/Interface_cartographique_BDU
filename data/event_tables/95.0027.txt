@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1944				1944				Les_bombardements	Les bombardements en 1944 ont été arrêté définitivement la production de gaz.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1868				1944				a_accueilli	Il a une superficie d’environ 10273 m² et a accueilli de 1868 à 1944 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2003	03			2003	03			a_été_transmis	Le rapport de fins de travaux a été transmis à la DRIRE en mars 2003.		'la DRIRE'
+2002	10			2002	10			ont_été_neutralisées	Des investigations complémentaires ont mis en évidence l'existence de nouvelles cuves qui ont été neutralisées en octobre 2002.		
+2001	12			2001	12			Les_travaux_de_vidange	Les travaux de vidange et de comblement de la cuve ont été effectués en décembre 2001.		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_mise_en_œuvre_d_	-Arrêté préfectoral imposant à la société SA POLYVISION la mise en œuvre d'une surveillance des eaux souterraines, le 7 aout 2009		'la société SA POLYVISION'
+2005	07	12		2005	07	12		_Cessation_d__activité	-Cessation d’activité le 12 juillet 2005		
+2007	10	15		2007	10	15		__mémoire_de_cessation_d__activité	-15 octobre 2007: mémoire de cessation d'activité (modifié et complété jusqu'en novembre 2010)		
+2005	10	26		2005	10	26		__réalisation_d__une_évaluation_simplifiée_des_risques	-26 octobre 2005: réalisation d'une évaluation simplifiée des risques Eau et Sol		
+2009				2009				la_mise_en_œuvre_d_	-Arrêté préfectoral imposant à la société SA POLYVISION la mise en œuvre d'une surveillance des eaux souterraines, le 7 aout 2009		'la société SA POLYVISION'
+2012	06	26		2012	06	26		a_été_transmis	- Une demande d'institution de Servitudes d'Utilité Publique a été transmis à la date du 26 juin 2012 par le groupe STEELCASE, dont la société POLYVISION était une ancienne filiale.		'le groupe STEELCASE', 'la société POLYVISION'
+2008	05	21		2008	05	21		__Réalisation_d__un_diagnostic_complémentaire	-21 mai 2008: Réalisation d'un diagnostic complémentaire		
+2014	05	27		2014	05	27		a_été_pris	- Un arrêté préfectoral instaurant des servitudes d'utilité publique sur l'ancien site de la société POLYVISION a été pris à la date du 27 mai 2014.		'la société POLYVISION'
+2007	09	27		2007	09	27		__Réalisation_d__un_diagnostic_complémentaire	-27 septembre 2007: Réalisation d'un diagnostic complémentaire		
+2010				2010				__travaux_de_démantèlement	-aout 2010: travaux de démantèlement: neutralisation des 3 cuves restantes, comblement des puits...		
+2010	07			2010	07			__plan_de_gestion	-Juillet 2010: plan de gestion de la lagune: réalisation de 22 sondages, 2 piézomètres et 6 piézairs		'la lagune'
+2011				2011				a_été_déposé	Le permis de construire a été déposé fin 2011.		
+2005				2006				__réalisation_de_travaux	-entre 2005 et 2006: réalisation de travaux: évacuation des déchets, cuves, transformateurs, compresseurs...		
+2005	07	12		2005	07	12		_Cessation_d__activité	-Cessation d'activité le 12 juillet 2005		
+				2010	11			__mémoire_de_cessation_d__activité	-15 octobre 2007: mémoire de cessation d'activité (modifié et complété jusqu'en novembre 2010)		

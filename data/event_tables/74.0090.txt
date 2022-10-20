@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				est_occupé	Le bâtiment est occupé par une entreprise exerçant une autre activité depuis fin 2004.		
+1989				1989				racheté_par	Il a d'abord été exploité par la société LAC, puis racheté par le groupe KODAK en 1989, et exploité successivement par les sociétés Interlac, Laboratoires et Services Kodak et enfin Laboratoires KODAK.		'la société LAC', 'groupe KODAK', 'les sociétés Interlac', 'Services Kodak', 'Laboratoires KODAK'
+1989				1989				une_pollution_intervenue	La reconstitution historique a permis de mettre en évidence une pollution intervenue en 1989.		
+2004	10	05		2004	10	05		a_été_transmis	Un dossier de mise à l'arrêt définitif de l'activité a été transmis à la préfecture de Haute Savoie le 5 octobre 2004.		'la préfecture de Haute Savoie'
+1994				1994				arrêtée	Une canalisation véhiculant les bains usées vers l'égout communal (pratique arrêtée en 1994), aurait fuit durant environ 6 mois avant d'être réparée.		
+2004				2004				exerçant_une_autre_activité	Le bâtiment est occupé par une entreprise exerçant une autre activité depuis fin 2004.		
+								aurait_fuit_durant	Une canalisation véhiculant les bains usées vers l'égout communal (pratique arrêtée en 1994), aurait fuit durant environ 6 mois avant d'être réparée.		
+1972				2004				a_accueilli	De 1972 à 2004, le site a accueilli un laboratoire de développement photographique.		
+2004	06			2004	06			a_été_établi	Un dossier de cessation d'activité a été établi en juin 2004.		

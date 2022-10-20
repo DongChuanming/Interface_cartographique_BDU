@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_de_la_commune	Le site est implanté à environ 1km au nord est de la commune de Montargis et à environ 100 m à l'ouest de la forêt domaniale de cette même commune.		'Montargis et à environ'
+								implanté_à	Le site est implanté à environ 1km au nord est de la commune de Montargis et à environ 100 m à l'ouest de la forêt domaniale de cette même commune.		'Montargis et à environ'
+								anciennes_zones_de_cuves	A noter que 4 anciennes zones de cuves enterrées correspondant à l'activité de l'ancien exploitant ont été identifiées.		

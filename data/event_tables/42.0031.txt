@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								d__une_évaluation_simplifiée_des_risques	L'arrêté du 16 avril 1999 a imposé la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur ce site en activité (délai 2 ans).		
+1999	06	04		1999	06	04		a_été_donné_acte	Il a été donné acte le 4 juin 1999 à l'industriel de sa proposition de cahier des charges du 18 mai 1999.		
+2006	01			2006	01			évaluation_simplifiée_des_risques	Après approbation de la localisation des points de contrôles, l'évaluation simplifiée des risques a été transmise en janvier 2006.		
+1999	05	18		1999	05	18		a_été_donné_acte	Il a été donné acte le 4 juin 1999 à l'industriel de sa proposition de cahier des charges du 18 mai 1999.		
+2004	11	25		2004	11	25		a_demandé	Suite à une proposition de la DRIRE, le préfet de la Loire a demandé le 25 novembre 2004 que l'étape A du diagnostic soit complété par des reconnaissances sommaires de terrain (propositions de campagnes de prélèvements et d'analyses des sols,....)n'ayant pu être obtenues précédemment.		'la DRIRE', 'le préfet de la Loire'
+1998	10			1998	10			la_suppression	Depuis, l'activité a évolué avec la suppression des opérations de pelanage et de tannage des peaux brutes fin octobre 1998 et la suppression du dépôt de fuel.	'fuel'	
+1914				1914				s__est_implantée	La société SAS FORTIER BEAULIEU s'est implantée sur le site de Roanne en 1914.		'La société SAS FORTIER BEAULIEU'
+2001	02	07		2001	02	07		Le_diagnostic_initial	Le diagnostic initial et l'étude de sol ont été transmis le 7 février 2001.		

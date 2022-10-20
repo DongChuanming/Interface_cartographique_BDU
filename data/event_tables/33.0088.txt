@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11			2000	11			Les_campagnes_d__analyses	Les campagnes d'analyses de août 2000, novembre 2000 et avril 2001 montrent un résiduel de contamination  en un point au niveau des anciens stockages.		
+2000	08			2000	08			ont_été_installés	Six piézomètres ont été installés en août 2000 pour le suivi de la nappe.		
+2001	04			2001	04			Les_campagnes_d__analyses	Les campagnes d'analyses de août 2000, novembre 2000 et avril 2001 montrent un résiduel de contamination  en un point au niveau des anciens stockages.		
+1996	10	08		1996	10	08		située_sur_l__autoroute_A62_déclarée	Station service située sur l'autoroute A62 déclarée le 08 octobre 1996 et modifiée le 02 août 1999.		
+1998	11	30		1998	11	30		la_pollution_accidentelle	Suite à la pollution accidentelle découverte le 30 novembre 1998, l'arrêté préfectoral du 11 décembre 1998 a prescrit des mesures conservatoires et la dépollution du site par extraction et évacuation des cuves, traitement d'oxydo-réduction catalytique des terrains.		
+2000	08			2000	08			Les_campagnes_d__analyses	Les campagnes d'analyses de août 2000, novembre 2000 et avril 2001 montrent un résiduel de contamination  en un point au niveau des anciens stockages.		
+				1999	12			Les_travaux_ont_été_effectués	Les travaux ont été effectués de mars à décembre 1999.		
+1998	11	30		1998	11	30		a_prescrit_des_mesures_conservatoires	Suite à la pollution accidentelle découverte le 30 novembre 1998, l'arrêté préfectoral du 11 décembre 1998 a prescrit des mesures conservatoires et la dépollution du site par extraction et évacuation des cuves, traitement d'oxydo-réduction catalytique des terrains.		

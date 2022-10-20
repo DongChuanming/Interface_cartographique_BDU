@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	30		2010	11	30		a_été_notifié	Un arrêté préfectoral de mesures conservatoires a été notifié à la société LARNO Père et Fils le 30/11/2010.		'la société LARNO'
+1999				1999				a_cessé	Cette industrie vieille de 2 siècles a cessé toute activité en 1999;		
+2003	12	22		2003	12	22		a_été_notifiée	La surveillance du site a été notifiée à la société BAIL INDUSTRIE par l'arrêté préfectoral complémentaire du 22/12/2003.		'la société BAIL INDUSTRIE'
+				1996				a_utilisé	- la société SERIBO BOIS a utilisé une partie du site jusqu'en 1996 pour la fabrication de panneaux aggloméré bois-ciment;		'la société SERIBO BOIS'
+2008				2008				évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques du second semestre 2008 a répertorié le site en "classe 2" comme étant un site à surveiller.		
+2011				2011				Le_rapport	Le rapport du premier semestre 2011 du suivi des eaux souterraines et de surfaces par la société ARCELORMITTAL (anciennement BAIL INDUSTRIE) ne montre pas d'évolution de la pollution.		'la société ARCELORMITTAL', 'BAIL INDUSTRIE'
+1996				1996				a_repris	- la société FCA a repris en 1996 les anciens bâtiments de SERIBO BOIS pour exploiter une installation de concassage d'engrais ;		'la société FCA', 'SERIBO BOIS'

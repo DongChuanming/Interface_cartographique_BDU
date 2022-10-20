@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06			2004	06			ont_été_transmis	Les derniers résultats de cette surveillance ont été transmis en juin 2004.		
+2001	07	01		2001	07	01		la_rupture	La pollution est consécutive à la rupture, le 01/07/2001, d'un pipe line de transport d'hydrocarbures.	'hydrocarbures'	

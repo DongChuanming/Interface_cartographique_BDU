@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1922				1985				a_été_exploité	Ce site, situé en zone industrielle, d'une surface de 28 000 m2, a été exploité de 1922 à 1985 par la société "Le transformateur", puis par la société Alsthom qui y a exploité une unité de fabrication de transformateurs aux polyclhlorobiphénils (PCB).	'polyclhlorobiphénils', 'PCB'	'la société', 'la société Alsthom'
+1992	06			1992	06			ont_finalement_été_traitées	Ces terres ont finalement été traitées par la société APROCHIM à Grez en Bouerre en juin 1992.		'la société APROCHIM'
+1984				1984				d__une_enquête	Lors d'une enquête effectuée en 1984 par la DRIRE, une pollution importante du sous-sol de l'"huilerie" de la société avait été observée.		'la DRIRE'
+1984				1984				a_provoqué_une_pollution	Cette unité a provoqué une pollution du site aux PCBs découverte en 1984.	'PCBs'	
+1988	11	28		1988	11	28		a_procédé	Puis la société a procédé à un décapage du reste des zones polluées par les PCBs et l'a stocké provisoirement sous abris en fûts (arrêté préfectoral du 28 novembre 1988).	'PCBs'	

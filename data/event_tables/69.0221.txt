@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01			2008	01			Ces_études_environnementales	Ces études environnementales ont été établies en janvier 2008, traduites et remises à l'administration le 24/09/2009.		
+2012	07	30		2012	07	30		a_été_transmis	Un rapport d'étude de mise en œuvre des mesures de gestion de la pollution des sols et des eaux souterraines a été transmis le 30/07/2012 à l'administration.		
+1991				1991				Une_pollution_localisée	Une pollution localisée sur ce site, constituée par des dépôts de masse usées de type chlorure cuivrique et silice, découverte en 1991, fait l'objet de la fiche "BLUESTAR SILICONES SECTEUR NORD" (BASOL n°69.0027).	'des dépôts de masse usées', 'chlorure cuivrique', 'silice'	'" BLUESTAR SILICONES SECTEUR NORD'
+1994	03	28		1994	03	28		bénéficie	Elle bénéficie d'un arrêté préfectoral d'autorisation datant du 28/03/1994.		
+2009	09	24		2009	09	24		Ces_études_environnementales	Ces études environnementales ont été établies en janvier 2008, traduites et remises à l'administration le 24/09/2009.		
+2010	08	27		2010	08	27		ont_été_transmises	Les IEM ont été transmises à l'administration le 27/08/2010.		
+2007	02			2007	02			l__acquisition	Dans le cadre de l'acquisition du site de RHODIA par BLUESTAR (février 2007), cette dernière a fait réaliser des investigations des sols et des eaux souterraines de références sur ce site.		'RHODIA', 'BLUESTAR'
+								pompage_écrémage	Un traitement par pompage écrémage sur 5 ans est envisagé.		
+2009	05			2009	05			est_effectué	Le suivi est effectué depuis mai 2009.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1978				1978				a_démarré_ses_activités	- L'usine couvre environ 60 hectares et a démarré ses activités en 1978.		
+2002	04	03		2002	04	03		Réalisation_d__analyses_complémentaires	- Réalisation d'analyses complémentaires et évaluation simplifiée des risques: 03/04/2002.		
+2007				2007				ayant_fourni_un_bilan_de_fonctionnement	- Établissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2007.		'IPPC'
+1975				1975				Construite_à	- Construite à partir de 1975 à l'extrémité ouest des installations portuaires de Dunkerque, immédiatement au Nord de Mardyck.		

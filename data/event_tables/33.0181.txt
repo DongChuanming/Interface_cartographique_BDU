@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	06		2005	12	06		ont_été_remis_respectivement	Le plan d'échantillonnage et le rapport ont été remis respectivement le 6 décembre 2005 et le 6 janvier 2006.		
+				2009				a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 7 décembre 1998 et était exploitée par SOCOGEST jusqu'en 2009.		'SOCOGEST'
+2012	12	27		2012	12	27		informe	Par courrier du 27 décembre 2012, l'exploitant informe l'Inspection des Installations Classées que l'ensemble des mesures sur les métaux lourds, les dioxines et les furannes montre des résultats conformes et inférieurs aux seuils règlementaires ou préconisés nécessitant une surveillance plus approfondie.	'métaux lourds', 'les dioxines', 'furannes'	
+				2009				était_exploitée	Cette installation a été autorisée par l'arrêté préfectoral du 7 décembre 1998 et était exploitée par SOCOGEST jusqu'en 2009.		'SOCOGEST'
+2009	08	11		2009	08	11		une_déclaration_de_changement	Un premier changement d'exploitant a été fait au 30 janvier 2009 au nom de SOVAL SAS puis une déclaration de changement d'exploitant a été faite le 11 août 2009 au nom de RIVE DROITE ENVIRONNEMENT.		'SOVAL SAS', 'RIVE DROITE ENVIRONNEMENT'
+2009	01	30		2009	01	30		a_été_fait	Un premier changement d'exploitant a été fait au 30 janvier 2009 au nom de SOVAL SAS puis une déclaration de changement d'exploitant a été faite le 11 août 2009 au nom de RIVE DROITE ENVIRONNEMENT.		'SOVAL SAS', 'RIVE DROITE ENVIRONNEMENT'

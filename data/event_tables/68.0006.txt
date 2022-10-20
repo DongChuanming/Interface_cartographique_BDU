@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				ont_fortement_diminué	Les teneurs ont fortement diminué depuis 2002, elles étaient auparavant de l'ordre de la dizaine voire de la centaine de µg/l en HCH totaux.	'HCH totaux'	
+1981				1981				a_été_construite	La Station de Traitement des Eaux Industrielles de Huningue (STEIH) a été construite en 1978 et mise en service en 1981.		'STEIH'
+								a_été_signé	Un arrêté prefectoral de mise en demeure a été signé le 25/03/97, suivi d’un arrêté de consignation du 18/06/97 pour la réalisation des travaux.		
+1996	12	23		1996	12	23		a_été_mise_en_liquidation	Depuis le 23 décembre 1996, la société PCUK a été mise en liquidation et le suivi du site, a été transmis à l'ADEME .		'la société PCUK'
+2012				2012				la_réhabilitation_du_site	Dans le cadre de la cessation d'activité de la STEIH intervenue fin 2012, la réhabilitation du site est engagée.		'la STEIH'
+1965				1970				ont_été_déchargées	Entre 1965 et 1970, des dizaines de tonnes, soit la presque totalité des résidus de fabrication de lindane, ont été déchargées en vrac ou en fûts dans plusieurs gravières transformées en décharge situées sur les communes de Sierentz, Wintzenheim, Huningue et Hochfelden (unique site dans le Bas-Rhin)	'lindane'	
+2000	04	27		2000	04	27		un_arrêté	Suite à la réponse favorable du ministère du 9/11/99, un arrêté prescrivant la réalisation de travaux d’office à la charge de l’ADEME (Agence de l’Environnement et de la Maîtrise de l’Energie)a été pris le 27 avril 2000 pour définir un réseau de contôle de la qualité des eaux souterraines.		
+1978				1978				a_été_construite	La Station de Traitement des Eaux Industrielles de Huningue (STEIH) a été construite en 1978 et mise en service en 1981.		'STEIH'
+2002				2002				la_réfection_des_parkings	Ceci peut être en partie due à la réfection des parkings de la STEIH réalisé en 2002 afin d'améliorer l'étanchéité de celui-ci et de limiter les infiltrations d'eau dans le sol.		'la STEIH'
+								Les_analyses_réalisées	Les analyses réalisées en juillet et août 2013 ont montré une augmentation des teneurs en poussières et en HCH dans l'air ambiant.	'HCH'	
+2011				2011				Les_investigations_réalisées	Les investigations réalisées en 2011 par la STEIH ont permis de cartographier les teneurs du site en HCH et de localiser des sources de pollution principalement liées à l'exploitation de PCUK.	'HCH'	'la STEIH', 'PCUK'
+2013	08			2013	08			Les_analyses_réalisées	Les analyses réalisées en juillet et août 2013 ont montré une augmentation des teneurs en poussières et en HCH dans l'air ambiant.	'HCH'	
+1981				1981				mise_en_service	La Station de Traitement des Eaux Industrielles de Huningue (STEIH) a été construite en 1978 et mise en service en 1981.		'STEIH'
+2013				2013				les_excavations_ont_cessé	Depuis 2013, les excavations ont cessé.		
+2012				2012				la_cessation_d__activité	Dans le cadre de la cessation d'activité de la STEIH intervenue fin 2012, la réhabilitation du site est engagée.		'la STEIH'

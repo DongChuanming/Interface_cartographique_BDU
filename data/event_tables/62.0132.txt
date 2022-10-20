@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Mise_en_place_de_la_surveillance	- Mise en place de la surveillance de la nappe en 2006.		
+2011	06			2011	06			Réalisation_d__une_analyse	- Réalisation d'une analyse des risques résiduels en juin 2011.		
+1921				1921				a_été_créée	- La câblerie a été créée en 1921.		
+				1989				a_été_exercée	Une activité de revêtement électrochimique d'étain a été exercée jusqu'en 1989 sur ce site.	'étain'	
+2010	02			2010	02			Réalisation_d_	- Réalisation d'un plan de gestion en février 2010.		
+2005	01			2005	01			la_cessation_complète_des_activités	- Site ayant déclaré la cessation complète des activités en janvier 2005.		

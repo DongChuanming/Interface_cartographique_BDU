@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1952				1952				s__installèrent	En 1952, un atelier de tranchage et une scierie s'installèrent.		
+2001				2001				est_rachetée	En 2001, la marque Cabasse est rachetée et devient la SA Cabasse Industrie.		'la SA Cabasse'
+2012	01			2012	01			a_fait_procéder	En janvier 2012, la CCPT a fait procéder à l'évacuation des derniers déchets et produits dangereux regroupés dans le bâtiment n°3.	'produits dangereux'	'la CCPT'
+								est_mise_en_redressement_judiciaire	Cette société est mise en redressement judiciaire en avril 2003 une procédure de liquidation judiciaire est engagée en juillet de cette même année.		
+2011	10			2011	10			a_acquis	Consciente de l'enjeu environnemental et du potentiel économique et touristique du site, la Communauté de Communes du Pays de Tronçais (CCPT) a acquis le site en octobre 2011.		'la Communauté de Communes', 'Pays de Tronçais'
+				1864				fut_utilisé	Un haut fourneau pour la production d'acier fut utilisé jusqu'en 1864, puis l'activité s'orienta uniquement vers la transformation d'acier, jusqu'en 1932, date de la fermeture de l'usine.		
+				1932				s__orienta	Un haut fourneau pour la production d'acier fut utilisé jusqu'en 1864, puis l'activité s'orienta uniquement vers la transformation d'acier, jusqu'en 1932, date de la fermeture de l'usine.		
+2008	01			2008	01			Un_bilan_environnemental_réalisé	Un bilan environnemental réalisé en janvier 2008 par la société PERICHIMIE Environnement confirme également la présence de transformateurs contenant pour certains des PCB ainsi que des déchets et produits dangereux stockés en plusieurs endroits.	'des PCB', 'des déchets', 'produits dangereux'	'la société PERICHIMIE'
+				2010	05			fait_réaliser_une_mise_en_sécurité	Entre mars et mai 2010, le liquidateur fait réaliser une mise en sécurité partielle; la société PERICHIMIE a procéder:		'la société PERICHIMIE'
+2003	03			2003	03			un_diagnostic_des_sols	La CCPT a fait réaliser par le bureau d'études CTE APAVE un diagnostic des sols en mars 2003.		'La CCPT', 'CTE APAVE'
+2004	05	25		2004	05	25		un_arrêté_de_mise_en_demeure_d__évacuer	Aussi, un arrêté de mise en demeure d'évacuer les déchets présents sur le site, en date du 25/05/2004 a été notifié au mandataire liquidateur.	'les déchets'	
+2003	04			2003	04			est_mise_en_redressement_judiciaire	Cette société est mise en redressement judiciaire en avril 2003 une procédure de liquidation judiciaire est engagée en juillet de cette même année.		

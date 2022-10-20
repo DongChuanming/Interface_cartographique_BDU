@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07	31		2012	07	31		l__arrêté_prescrivait	De plus, pour le 31 juillet 2012 et au plus tard tous les quatre ans, l'arrêté prescrivait à l'exploitant l'élaboration d'un bilan des résultats réguliers de la surveillance à transmettre à l'inspection des installations classées.		
+2001				2001				Le_diagnostic_initial_réalisé	Le diagnostic initial réalisé en 2001 a permis de constater une concentration en chloroforme proche de la VCI usage sensible et des investigations complémentaires ont été nécessaires.	'chloroforme'	
+2010	01	05		2010	01	05		est_réglementé	Cet établissement est réglementé par l'arrêté préfectoral d'autorisation du 09 avril 2001, modifié en dernier lieu le 05 janvier 2010.		
+2003	03	31		2003	03	31		a_été_signé	Un arrêté préfectoral fixant les modalités du suivi (paramètres contrôlés et fréquences des prélèvements) des eaux souterraines a été signé le 31 mars 2003.		
+2001	04	09		2001	04	09		est_réglementé	Cet établissement est réglementé par l'arrêté préfectoral d'autorisation du 09 avril 2001, modifié en dernier lieu le 05 janvier 2010.		

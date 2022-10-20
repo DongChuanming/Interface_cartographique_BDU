@@ -1,0 +1,53 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				précédent_diagnostic	Seule l'étape A été remise le 9 mars 2005 et n'est qu'une compilation des données déjà connues du précédent diagnostic de 1998.		
+2010	06			2010	06			l__arrêt_définitif	Suite à l'arrêt définitif des installations de traitement de surface en juin 2010, l'arrêté préfectoral du 07/06/2011 réglemente l'exploitation des installations désormais classées en déclaration.		
+2010	06			2010	06			réglemente	Suite à l'arrêt définitif des installations de traitement de surface en juin 2010, l'arrêté préfectoral du 07/06/2011 réglemente l'exploitation des installations désormais classées en déclaration.		
+2007	02	08		2007	02	08		est_à_revoir	Dans ces conditions, le plan de gestion est à revoir pour être conforme aux dites prescriptions ainsi qu’à l’approche nationale de gestion des sites et sols polluées introduite par la circulaire du 08/02/2007.		
+2014	07			2014	07			Les_campagnes_de	Les campagnes de mai 2014 et juillet 2014 ont permis de mettre en évidence les éléments suivants:		
+2011	11			2011	11			La_campagne_de	La campagne de novembre 2011 permet de constater un ensemble des résultats inférieur à la limite de qualité des eaux potables.		
+2010	10			2010	10			de_la_campagne	Cependant ces teneurs diminuent et ne dépassent plus le seuil lors de la campagne d'octobre 2010.		
+2012	12	04		2012	12	04		une_procédure_de_redressement_judiciaire	.S MEC d'AQUITAINE fonctionne sous le coup d'une procédure de redressement judiciaire par décision du le Tribunal de Commerce de Montauban du 04/12/2012.		".S MEC d' AQUITAINE", 'le Tribunal de Commerce de Montauban'
+2010	06	28		2010	06	28		déclare	Le 28 juin 2010, l'exploitant déclare l'arrêt définitif de l'installation de nickelage-chromage, ne conservant qu’une activité de dégraissage et de phosphatation des pièces avant peinture.		
+2013	02	19		2013	02	19		la_réunion	Le rapport de tierce-expertise a été remis le 18 février 2013 et la réunion de clôture s'est tenue dans les locaux de la DREAL à Agen le 19 février 2013		'la DREAL'
+2007	12	31		2007	12	31		l__établissement	- pour le 31/12/2007 : l'établissement du schéma conceptuel et de l'extension de la pollution de la nappe (caractérisation des sources, modalités de transfert, définition des cibles),		
+2013	03	1		2013	03	1		les_travaux_ont_été_menés	La visite de récolement du 15/07/2015 a permis de constater que les travaux ont été menés conformément à l'arrêté préfectoral du 1er mars 2013, sous réserve des demandes formulées par l'inspection de l'environnement ci-après :		
+2009	07	01		2009	07	01		La_campagne_du	La campagne du 01/07/2009 a permis de mettre en évidence l'absence d'impact significatif, avec des concentrations en polluants inférieures ou égales à la limite de qualité des eaux potables,  pour les éléments suivants : nickel, cuivre, zinc, arsenic et plomb et la baisse des concentrations en chrome IV et chrome au droit du Pz3.	': nickel , cuivre , zinc , arsenic et plomb', 'en chrome IV et chrome'	
+2013	02	26		2013	02	26		de_se_prononcer	L'Inspection des Installations Classées propose le 21/02/2013 à la signature de M le préfet, l'arrêté préfectoral, pris en urgence pour permettre à l'acquéreur potentiel de lever sa réserve d'une part, et de permettre au Tribunal de Commerce de Montauban de se prononcer le 26 février 2013 d'autre part.		'le préfet', 'Tribunal de Commerce de Montauban'
+2008	05	25		2008	05	25		apporté	Le complément apporté le 25 mai 2008 et transmis le 9 juin 2008 concerne la qualité des eaux souterraines hors site et conclut :		
+2008	01	24		2008	01	24		L__étude_remise	L'étude remise le 24/01/2008 :		
+2015	07	15		2015	07	15		La_visite_de_récolement	La visite de récolement du 15/07/2015 a permis de constater que les travaux ont été menés conformément à l'arrêté préfectoral du 1er mars 2013, sous réserve des demandes formulées par l'inspection de l'environnement ci-après :		
+2006	11	30		2006	11	30		La_campagne_du	La campagne du 30/11/2006 montre les résultats suivants :		
+2005	03	09		2005	03	09		Des_analyses	Des analyses d’eaux du puits n° 2 de l’usine et du puits privés à l'aval, ont été réalisées le 9 mars 2005.		
+2010				2010				la_cessation_d__activité	L’opportunité s’est présentée lors de la cessation d’activité en 2010 des installations de traitement de surface soumises au régime de l’autorisation.		
+2011	05	03		2011	05	03		La_campagne	La campagne de 03/05/2011 permet de mettre en évidence les résultats suivants :		
+2013	11	07		2013	11	07		la_campagne	Lors de la campagne du 07/11/2013, il a été constaté :		
+2008	06	09		2008	06	09		transmis	Le complément apporté le 25 mai 2008 et transmis le 9 juin 2008 concerne la qualité des eaux souterraines hors site et conclut :		
+2007	09			2007	09			Cette_étude_devrait_commencer	Cette étude devrait commencer en septembre 2007, la fourniture du rapport final est prévue avant la fin de l’année 2007.		
+2012	02			2012	02			est_remis	En réponse aux prescriptions de l’arrêté préfectoral du 07 juin 2011, un plan de gestion est remis en février 2012 par la « SARL TEREO ».		'la « SARL TEREO'
+2010	06	28		2010	06	28		l__arrêt_définitif	Le 28 juin 2010, l'exploitant déclare l'arrêt définitif de l'activité de traitement de surface.		
+2013	03			2013	03			est_intégré_lors_de_la_campagne	Un nouvel ouvrage est intégré lors de la campagne de mars 2013.		
+2003	01	1		2003	01	1		a_acquis	La société MEC D'AQUITAINE a acquis le site GPM Industries de Marmande le 1er janvier 2003.		"La société MEC D' AQUITAINE", 'le site GPM Industries'
+2010	11			2010	11			est_remis	L'étude réalisée sur des données de 2008 est remis en novembre 2010.		
+1998				1998				une_éventuelle_vente	Dans le cadre d'une transaction en vue d'une éventuelle vente en 1998, le diagnostic initial et l'évaluation simplifiée des risques (ESR) sont réalisés sur le site par GPM Industries, l'exploitant de l'époque.		'GPM Industries'
+2013	01	16		2013	01	16		est_porté_à_la_connaissance	Ce rapport est porté à la connaissance de l'inspection des installations classées le 16 janvier 2013.		
+2008	05			2008	05			réalisé	L'IEM (Interprétation de l'Etat des Milieux) réalisé en mai 2008 sur des échantillons de sols arrosés avec l'eau de la nappe, montre un risque acceptable pour l'usage considéré.		
+2010	06			2010	06			l__arrêt_définitif	Suite à l'arrêt définitif des installations de traitement de surface en juin 2010, la DREAL propose, le 30/11/2010, au travers de l'arrêté préfectoral de poursuite d'exploitation sous le régime de la déclaration, les conditions de nettoyage des équipements et de démantèlement des installations.		'la DREAL'
+1998				1998				a_fait_l__objet_d_	Depuis la découverte de la pollution des sols et de la nappe en 1998, ce site a fait l’objet d’une action continue de l’administration dans le cadre de la réglementation des ICPE pour étudier, dépolluer et gérer les milieux impactés.		
+2005	03	09		2005	03	09		étape_A_été_remise	Seule l'étape A été remise le 9 mars 2005 et n'est qu'une compilation des données déjà connues du précédent diagnostic de 1998.		
+1975				1975				l__installation	L’objectif poursuivi depuis le début étant la remise en état du site avec la référence de l’état initial, supposé non pollué avant l’installation en 1975.		
+2014	11			2014	11			La_campagne_de	La campagne de novembre 2014 confirme les résultats ci-dessus.		
+2012	10			2012	10			La_campagne_d_	La campagne d'octobre 2012 met en évidence l'absence d'impact pour le nickel, cuivre, zinc, arsenic et plomb.	'le nickel', 'cuivre', 'zinc', 'arsenic', 'plomb'	
+2007	07	24		2007	07	24		fournit	Le 24/07/2007, l’exploitant fournit à la DRIRE un devis accepté et signé pour la réalisation de ce diagnostic.		'la DRIRE'
+2006	04	07		2006	04	07		a_été_réalisé	Un 4ème piézomètre (PZ4) a été réalisé le 7 avril 2006 et vient compléter les 3 autres piézomètres mis en place le 07 février 2006.		
+2008				2008				des_données	L'étude réalisée sur des données de 2008 est remis en novembre 2010.		
+2007				2007				Cette_étude_devrait_commencer	Cette étude devrait commencer en septembre 2007, la fourniture du rapport final est prévue avant la fin de l’année 2007.		
+2010	06			2010	06			La_campagne_de	La campagne de juin 2010 montre des teneurs en chrome légèrement au dessus de la limite de qualité au droit du Pz4 (0.056 au lieu de 0.05).	'chrome'	
+2013	01			2013	01			n__a_été_porté_à_la_connaissance	. le plan de gestion daté de février 2012 n’a été porté à la connaissance de l’inspection qu’en janvier 2013,		
+2013	03	1		2013	03	1		Remettre	- Remettre le dossier de servitudes d'utilité publique prévu à l'article 7.4 de l'arrêté du 1er mars 2013.		
+2014	05			2014	05			Les_campagnes_de	Les campagnes de mai 2014 et juillet 2014 ont permis de mettre en évidence les éléments suivants:		
+2010	12	20		2010	12	20		informe_par_courrier	L'exploitant informe par courrier en date du 20 décembre 2010 de la fin des opérations de démantèlement de son atelier de traitement de surface (évacuation des cuves, traitement des bacs de rétention, élimination des déchets associés par une filière adaptée: transmission des bulletins de suivi des déchets dangereux).	'des déchets associés', 'déchets dangereux'	
+2015	04			2015	04			La_campagne_d_	La campagne d'avril 2015 montre les résultats suivants :		
+2013	02	18		2013	02	18		a_été_remis	Le rapport de tierce-expertise a été remis le 18 février 2013 et la réunion de clôture s'est tenue dans les locaux de la DREAL à Agen le 19 février 2013		'la DREAL'
+1998				1998				le_diagnostic_initial	Dans le cadre d'une transaction en vue d'une éventuelle vente en 1998, le diagnostic initial et l'évaluation simplifiée des risques (ESR) sont réalisés sur le site par GPM Industries, l'exploitant de l'époque.		'GPM Industries'
+1998	07	29		1998	07	29		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 29 juillet 1998.		
+2011	06	07		2011	06	07		est_remis	En réponse aux prescriptions de l’arrêté préfectoral du 07 juin 2011, un plan de gestion est remis en février 2012 par la « SARL TEREO ».		'la « SARL TEREO'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1851				1851				autorisées_par	En 1845, les usines Saint-Jacques, autorisées par décret du président de la République en 1851, s'installent à proximité de l'actuelle rue Louis Armand.		'Saint-Jacques'
+2007				2007				sont_installés	Fin 2007, de nouveaux piézomètres sont installés autour du centre d'appel (ouest de la parcelle 35), les précédents ayant été détruits.		
+2008	02	18		2008	02	18		une_campagne_de_prélèvement	Le 18 février 2008, une campagne de prélèvement et analyses est réalisée (SOCOTEC) pour le compte de la communauté d'agglomération.		'SOCOTEC'
+2001				2001				la_construction_sur_celles_ci_d_	En 2001, la communauté de l'agglomération montluçonnaise, propriétaire des parcelles DM 19, 20, 21, 30, 33, 34, 35 et 36 en bord de Cher, décide de la construction sur celles-ci d'un centre d'appels.		
+1966				1966				l__exploitation_d_	En 1966, l'exploitation d'une partie des activités est reprise par la société des Fonderies de Montluçon.		'la société des Fonderies de Montluçon'
+1986				1986				ferme_ses_portes	En 1986, l'usine ferme ses portes et les bâtiments de la fonderie sont démolis.		
+2001				2001				un_étude_simplifiée_des_risques	En 2001, en vue de la construction du centre d'appels, la Communauté de l'Agglomération Montluçonnaise a initié un étude simplifiée des risques.		"la Communauté de l' Agglomération"
+2003				2003				trois_campagnes_de_prélèvements	En 2003, trois campagnes de prélèvements et analyses sont réalisées (10 juin, 17 septembre, 17 décembre).		
+1845				1845				s__installent	En 1845, les usines Saint-Jacques, autorisées par décret du président de la République en 1851, s'installent à proximité de l'actuelle rue Louis Armand.		'Saint-Jacques'

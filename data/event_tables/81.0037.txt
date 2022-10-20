@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08	03		2009	08	03		a_été_placée_en_redressement_judiciaire	La société nouvelle des établissements SENAT a été placée en redressement judiciaire le 3 août 2009		'La société nouvelle des établissements SENAT'
+2011	03	23		2011	03	23		une_inspection_du_site_réalisée	A la suite d'une inspection du site réalisée le 23 mars 2011, un arrêté de mise en demeure de respecter les prescriptions de fonctionnement d'installations classées pour la protection de l'environnement soumises à autorisation a été proposé.		
+2011	06	24		2011	06	24		__de_la_liquidation_judiciaire_de	 de la liquidation judiciaire de la société, prononcée le 24 juin 2011.		
+2012	03	22		2012	03	22		confirme	Par courrier du 22 mars 2012, le mandataire confirme la vente des extincteurs, tonneaux et portants en bois à la DREAL M.		'la DREAL M.'
+2012	05	16		2012	05	16		la_demande	Suite à la demande de l'inspection, le 16 mai 2012, la DREAL M.		'la DREAL M.'
+2011	10	11		2011	10	11		A_la_suite_de_ses_visites	A la suite de ses visites du site des 11 octobre 2011 et 03 novembre 2011, l'inspection dans son rapport du 18 novembre 2011 demande au liquidateur de mettre en place immédiatement :		
+2014	09	15		2014	09	15		Une_visite_conjointe	Une visite conjointe du site est réalisée le 15 septembre 2014 par la DREAL M.		'la DREAL M.'
+2011	03	23		2011	03	23		a_été_proposé	A la suite d'une inspection du site réalisée le 23 mars 2011, un arrêté de mise en demeure de respecter les prescriptions de fonctionnement d'installations classées pour la protection de l'environnement soumises à autorisation a été proposé.		
+2011	12	16		2011	12	16		est_signé	Un arrêté de mise en demeure est signé le 16 décembre 2011 pour non respect de l'article R 512-39-1 du code de l'environnement.		
+2011	03	23		2011	03	23		de_la_visite	Lors de la visite du 23 mars 2011, il avait été constaté la présence d'une quantité importante de déchets et de fûts, aux abords de l'atelier de finissage.		
+2011	06	24		2011	06	24		a_été_signé	Il a été signé le 24 juin 2011 et il demande la sécurisation du bassin de rétention, l'optimisation des procédés de retannage, l'enlèvement des fûts de résidus de finissage, stockés à l'extérieur...	'fûts de résidus'	
+2011	06	28		2011	06	28		a_été_prononcée_le	Sa liquidation a été prononcée le 28 juin 2011.		
+2005	04	25		2005	04	25		demande_de_modifier	Par courrier du 25 avril 2005, la société demande de modifier ou de transformer l'arrêté préfectoral d'exploitation suite à la cessation de l'activité de tannage de peaux et par courrier du 28 juin 2005 la société demande le déclassement de son site d'autorisation à déclaration car elle ne réalise plus le tannage primaire de peaux.		'la société'
+1993				1993				est_mise_en_liquidation_judiciaire	En 1993, la société est mise en liquidation judiciaire, les actifs sont repris par la société nouvelle des établissements SENAT (site nommé auparavant Société SENAT).		'la société nouvelle des établissements SENAT', 'Société SENAT'
+2011				2011				a_émis	La DREAL a émis un avis défavorable (courrier du 30 sept 2011),les conditions de mise en sécurité du site n'étant pas satisfaisantes et l'état environnemental du site est inconnu.		'La DREAL'
+								a_émis	La DREAL a émis un avis défavorable (courrier du 30 sept 2011),les conditions de mise en sécurité du site n'étant pas satisfaisantes et l'état environnemental du site est inconnu.		'La DREAL'
+2011	06	28		2011	06	28		a_informer	Le 28 juin 2011, le mandataire judiciaire a informer la DREAL M.		'la DREAL M.'
+2012	07	17		2012	07	17		a_été_signé	Le 17 juillet 2012, un arrêté de consignation a été signé par Madame la Préfète du Tarn pour un montant de 137 261 € TTC afin d'assurer la mise en sécurité du site.		'Madame la Préfète'
+2011	11	03		2011	11	03		A_la_suite_de_ses_visites	A la suite de ses visites du site des 11 octobre 2011 et 03 novembre 2011, l'inspection dans son rapport du 18 novembre 2011 demande au liquidateur de mettre en place immédiatement :		
+2008	04	18		2008	04	18		neutralisation	- la neutralisation des citernes de fioul (selon art. 5 de l'arrêté du 18 avril 2008).	'fioul'	
+2011	09	16		2011	09	16		a_sollicité	Par transmission du 16 septembre 2011, la mairie de GRAULHET a sollicité l'avis de la DREAL M.		'la mairie de GRAULHET', 'la DREAL'

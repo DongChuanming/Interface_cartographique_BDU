@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1928				1984				exploité	Ancien dépôt pétrolier exploité par SHELL de 1928 à 1984		'par SHELL'
+2000	09	13		2000	09	13		Le_rapport_remis	Le rapport remis le 13 septembre 2000 indique l'identification des zones souillées à des teneurs supérieures à 500 mg d'HC/kg de terre.	'HC'	
+2001	06			2001	06			Les_travaux_de_dépollution	Les travaux de dépollution ont lieu en juin 2001.		
+2003	01	15		2003	01	15		a_prescrit	Le 15 janvier 2003, un arrêté préfectoral a prescrit la surveillance des eaux souterraines (présence d'écoulement malgré absence de nappe phréatique) et a demandé à la Société des Pétroles SHELL de s'assurer de manière pérenne de la restriction de l'usage du sol.		'la Société des Pétroles SHELL'
+1996				1996				réalise_une_première_étude_environnementale	En 1996, dans le cadre d'un projet de cession du site,  la société SHELL réalise une première étude environnementale.		'  la société SHELL'
+2004	09			2004	09			Les_analyses_effectuées	Les analyses effectuées en septembre 2004 montrent l'absence d'hydrocabures au droit des piézomètres.		
+2001	12			2001	12			Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont achevés en décembre 2001.		

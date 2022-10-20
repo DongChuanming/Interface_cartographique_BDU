@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930	11			1930	11			a_été_délivré	Un arrêté d’autorisation a été délivré à la SAF en novembre 1930 pour son activité de dépôt d’allumettes ainsi qu’un récépissé de déclaration en novembre 1964 pour l’exploitation d’un dépôt de fuel.	'fuel'	'la SAF'
+1989				1989				est_exploité	En 1989, changement d’activité, le site est exploité en chambres frigorifiques par la société LADVI HEBEL activité de traiteur-restauration).		'la société LADVI'
+2017	10			2017	10			Un_diagnostic_environnemental	Un diagnostic environnemental des sols a été effectué par un bureau d’études en octobre 2017. 4 sondages de sol au carottier ont été effectués pour la recherche de polluants.		
+2013				2013				est_racheté	En 2013 le site est racheté par la SARL AD Consulting, l’actuel propriétaire en vue du réaménagement pour la création de logements.		'la SARL AD Consulting'
+2005				2005				est_vendu	En 2005, l’ensemble immobilier est vendu à la SCI ELLYSA mais garde la même activité.		'la SCI ELLYSA'

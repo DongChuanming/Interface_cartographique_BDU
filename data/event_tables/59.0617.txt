@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	08			2015	02			Des_études_en_été_menées	Des études en été menées sur le site entre août 2012 et février 2015:		
+1970				1970				a_fait_l__objet_de	Localisé au cœur de l'agglomération Dunkerquoise, le site a été construit en 1964 pour une activité de garage automobile et a fait l'objet de deux extensions, en 1970 et 1976.		
+1976				1976				a_fait_l__objet_de	Localisé au cœur de l'agglomération Dunkerquoise, le site a été construit en 1964 pour une activité de garage automobile et a fait l'objet de deux extensions, en 1970 et 1976.		
+2015				2015				des_investigations	L'analyse quantitative des enjeux sanitaires sera mise à jour lors de l'analyse des risques résiduels menée au fil de la maîtrise d'oeuvre car les concentrations mesurées lors des investigations de 2015 étaient 600 fois supérieures à celles de 2014.		
+2000	05	21		2000	05	21		a_été_délivré	Un récépissé de déclaration a été délivré le 21 mai 2000 au titre de la rubrique 2560-2 pour le travail mécanique des métaux et de la rubrique 2930-b pour la réparation et l'entretien des véhicules et engins à moteur.		
+1964				1964				a_été_construit	Localisé au cœur de l'agglomération Dunkerquoise, le site a été construit en 1964 pour une activité de garage automobile et a fait l'objet de deux extensions, en 1970 et 1976.		
+1997	02			1997	02			a_été_racheté	Sa superficie est de 13 555 m² et il a été racheté par Citroën Dunkerque en février 1997.		'Citroën Dunkerque'

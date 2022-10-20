@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				fut_mise_en_liquidation	*En 1988, cette société fut mise en liquidation et reprise par la société Doublet, qui se spécialisa dans la fabrication de produits et articles de manifestations festives, sportives...		'la société Doublet'
+1999				1999				Évacuation_des_déchets_et_nettoyage	- Évacuation des déchets et nettoyage, comblement des fosses en 1999.		
+2005	12			2005	12			rachat	- Projet de rachat du site par l'EPF en décembre 2005.		"l' EPF"
+1999				1999				comblement_des_fosses	- Évacuation des déchets et nettoyage, comblement des fosses en 1999.		
+1997	02			1997	02			Acte_de_vandalisme_sur	- Acte de vandalisme sur un transformateur contenant du pyralène en février 1997.	'pyralène'	
+1950				1950				était_en_place	*En 1950: la société Mouty était en place sur le site pour une activité de chaudronnerie.		'la société Mouty'
+1992	12	31		1992	12	31		Cessation_d__activité	- Cessation d'activité le 31/12/1992.		
+1984				1984				fut_crée	*En 1984: La société Soclem-Foract, spécialisée dans la construction métallique, le coupage, le soudage et le montage, fut crée.		'La société Soclem - Foract'
+1997	10			1997	10			__Diagnostic_réalisé	- Diagnostic réalisé en octobre 1997.		

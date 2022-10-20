@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2003	07	17		a_demandé	Par courriers du 31/03/2003 et du 17/07/2003, l'administration a demandé des analyses complémentaires sur ce sondage avant de proposer au Préfet d'acter la cessation d'activités.		'Préfet'
+1980	03	31		1980	03	31		bénéficiait_d_	La société RENAULT bénéficiait d'un récépissé de déclaration datant du 31/03/1980.		'La société RENAULT'
+2000	12	04		2000	12	04		Une_analyse_historique	Une analyse historique et une étude de vulnérabilité ont été effectuées le 04/12/2000.		
+2001	03	05		2001	03	05		réalisées	Concernant la surveillance des eaux souterraines, 3 piézomètres ont été mis en place sur le site, les analyses réalisées le 05/03/2001 n'ont présenté aucune concentration supérieures aux valeurs guides en vigueur à l'époque pour les paramètres HCT, COHV, BTEX et PCB.	'HCT', 'COHV', 'BTEX', 'PCB'	
+1995	07	13		1995	07	13		l__évacuation_de_fûts	Par courrier du 28/07/1995, la société RENAULT a informé la préfecture de l'évacuation de fûts et du transformateur le 13/07/1995 par la société GEMMES.		'la société RENAULT', 'la société GEMMES'
+2003	03	31		2003	03	31		a_demandé	Par courriers du 31/03/2003 et du 17/07/2003, l'administration a demandé des analyses complémentaires sur ce sondage avant de proposer au Préfet d'acter la cessation d'activités.		'Préfet'
+2003	12	17		2003	12	17		un_rapport_remis	Ce complément a fait l'objet d'un rapport remis le 17 décembre 2003.		
+2001	05	09		2001	05	09		a_été_établie	L'ESR a été établie le 09/05/2001.		"L' ESR"
+1990	10	01		1990	10	01		la_cessation_de_ses_activités	Par courrier du 01/08/1995, la société déclarait la cessation de ses activités sur le site depuis le 01/10/1990.		'la société'
+				1995				a_exploité	La régie RENAULT a exploité sur le site, jusqu'en 1995, un garage comportant les activités suivantes :		'La régie RENAULT'

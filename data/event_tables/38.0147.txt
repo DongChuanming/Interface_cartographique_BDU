@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08	04		2011	08	04		a_été_clôturé	Le jugement a été clôturé le 04/08/2011.		
+2006	11	06		2006	11	06		a_ensuite_été_reprise	L'activité a ensuite été reprise sous le nom ETI (Email Tech Industrie) qui est à son tour tombé en liquidation judiciaire le 06/11/2006.		'ETI ( Email Tech Industrie'
+2006	11	06		2006	11	06		est_à_son_tour_tombé_en_liquidation_judiciaire	L'activité a ensuite été reprise sous le nom ETI (Email Tech Industrie) qui est à son tour tombé en liquidation judiciaire le 06/11/2006.		'ETI ( Email Tech Industrie'
+2004	04	19		2004	04	19		tombe_en_liquidation_judiciaire	EMO-ED tombe en liquidation judiciaire le 19/04/2004.		'EMO - ED'
+2001	06	21		2001	06	21		a_également_été_délivré_à	Un récépissé de déclaration a également été délivré à cette société le 21/06/2001 pour un dépôt de gaz liquéfié.		
+1970	12	21		1970	12	21		l__implantation	Les activités les plus anciennes recensées sur le site date du 21/12/1970 et l'implantation du département CLAIRITEX de la société DICKSON-CONSTANT.		'CLAIRITEX', 'la société DICKSON - CONSTANT'

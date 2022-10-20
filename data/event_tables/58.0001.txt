@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1999				réalisée	La surveillance réalisée de 1990 à 1999 a révélé des teneurs en cuivre, cadmium et mercure et, pour deux piézomètres sur quatre, des teneurs en pesticides et leurs métabolites toujours inférieures aux seuils relatifs aux eaux destinées à la consommation humaine.	'cuivre', 'cadmium', 'mercure', 'pesticides'	
+2012				2012				recevait_encore	En 2012, l'inspection des installations classées recevait encore les campagnes de surveillance de la qualité des eaux souterraines au droit du site.		
+1988	09	14		1988	09	14		appartenait	Avant fermeture le 14 septembre 1988,  l'usine appartenait à la branche agrochimie de Rhône Poulenc.		'de Rhône Poulenc'

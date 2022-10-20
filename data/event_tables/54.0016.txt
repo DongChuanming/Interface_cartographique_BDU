@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				L_	L’année 1974 a marqué l’arrêt de l’usine à l’exception des agglomérations.		
+2004				2004				de_nouvelles_investigations	Suite aux travaux de dépollution exécutés à proximité de l’ancienne usine à tarmacadam, des laminoirs et de la centrale électrique, de nouvelles investigations ont été réalisées en 2004.		
+1872				1872				a_été_construite	L’usine de Micheville a été construite en 1872.		
+1986				1986				a_cessé_ses_activités	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+1985				1985				a_cessé_ses_activités	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+2005	05			2005	05			le_diagnostic_complémentaire_des_sols_réalisé	Après le diagnostic complémentaire des sols réalisé sur les secteurs du train à petits fers et de la fonderie en mai 2005 (rapport LECES RC/L 10803), un diagnostic complémentaire a été effectué sur l’ensemble du site de l’ancienne usine de MICHEVILLE.		
+1974				1974				a_marqué_l__arrêt	L’année 1974 a marqué l’arrêt de l’usine à l’exception des agglomérations.		
+				1985				la_création_de	Certaines installations de production d’acier ont toutefois continué à fonctionner (four électrique, blooming, train de 700 et ateliers de parachèvement) avec la création de la Société des Laminoirs de Villerupt jusqu’en 1985.		'la Société des Laminoirs'
+2006				2006				Evaluation_Simplifiée_des_Risques	L’Evaluation Simplifiée des Risques effectuée en 2006 par CSD Azur a classé les sols de la zone 1 (aggomération- bassin OCP), zone 2 (hauts fourneaux), zone 3 (aciérie Martin), zone 4 (usine tarmacadam, ballastière), zone 5 (parc à rails, secteur de stockage) et TPF (trains à petits fers) en « zones à surveiller ».		'CSD Azur', 'OCP'
+1997				1997				différentes_investigations_successives	Ce site a fait l’objet de différentes investigations successives depuis 1997, comme le montrent les différentes études réalisées depuis cette date et présentées en annexe 2 du présent rapport.		
+1986				1986				a_été_définitivement_fermé	L’usine a cessé ses activités en 1985 et le site a été définitivement fermé en 1986.		
+1986				1986				acquiert	En 1986, l’EPML acquiert les terrains.		'l’ EPML'
+2007				2007				Une_Evaluation_Détaillée_des_Risques_sanitaires	Une Evaluation Détaillée des Risques sanitaires a été réalisée en 2007 pour les sols de l’ancienne fonderie (rapport CSD AZUR de 2007), en considérant un usage industriel.		'CSD AZUR'

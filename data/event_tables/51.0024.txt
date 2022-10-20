@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_rédigé	Fin 2010, un projet d\'arrêté préfectoral complémentaire a été rédigé afin d\'encadrer les nouveaux travaux de dépollution et les investigations complémentaires a effectué.		
+1962				1962				sont_pratiquées	Ces activités sont pratiquées sur le site depuis 1962.		
+2002	01	21		2002	01	21		a_été_signé	L\'arrêté a été signé le 21 janvier 2002.		
+2015				2015				devrait_être_transférer	La totalité de ses activités devrait être transférer en 2015 vers son nouveau site, situé dans la Zone Industriel de la voie de Châlons à Suippes.		
+2000	12			2000	12			Un_diagnostic_approfondi	Un diagnostic approfondi a été présenté à l\'inspecteur des installations classées en décembre 2000.		
+2003	04	28		2003	04	28		un_premier_avis	L\'inspection des installations classées a transmis un premier avis à la société sur cette EDR le 28 avril 2003.		'la société'
+2004	09	06		2004	09	06		ont_été_communiquées	Par courrier en date du 6 septembre 2004, des observations complémentaires ont été communiquées à la société à la suite d\'un examen plus approfondi de l\'EDR.		
+2002				2002				Dépollution	Dépollution sur cette zone depuis 2002 et suppression de la source en 2007.		
+2008	07	08		2008	07	08		un_diagnostic_complémentaire_de_pollution	Par courrier du 8 juillet 2008, l\'exploitant a transmis un diagnostic complémentaire de pollution de la zone de rinçage des cuves de trichloroéthylène montrant l\'absence de pollution des sols mais une pollution des eaux souterraines.	'trichloroéthylène'	
+2007				2007				Dépollution	Dépollution sur cette zone depuis 2002 et suppression de la source en 2007.		
+2003	03			2003	03			a_été_remise	L\'étude détaillée des risques -ressource en eau et santé humaine- a été remise en mars 2003.		
+2002	06			2002	06			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en juin 2002.		
+2007				2007				et_suppression_de	Dépollution sur cette zone depuis 2002 et suppression de la source en 2007.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								une_pollution_accidentelle	Par ailleurs, le site a connu une pollution accidentelle de la nappe par les nitrates dans les années 80.	'nitrates'	
+2010	10	1		2010	10	1		ont_été_réalisées	Des opérations de dépollution (pompage, stripping, venting) ont été réalisées, plus de 1000 t ont été récupérées au 1er octobre 2010, dont près de 570 tonnes ont été recyclées.		
+2013				2013				sols_a_été_mise_en_en_place	Une nouvelle technique de dépollution  par bio-stimulation des micro-organismes naturellement présents dans les sols a été mise en en place début 2013.		
+2000	06	23		2000	06	23		Evaluation_Simplifiée_des_Risques	L'Evaluation Simplifiée des Risques a été achevée le 23 juin 2000.		

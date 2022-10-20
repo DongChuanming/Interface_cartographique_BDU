@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	11			1999	11			à_une_visite	Suite à une visite de l'inspection en novembre 1999, le site est considéré comme réhabilité (mise en sécurité, contrôle régulier, retour de la végétation) mais à garder sous surveillance.		
+1999	11			1999	11			est_considéré_comme_réhabilité	Suite à une visite de l'inspection en novembre 1999, le site est considéré comme réhabilité (mise en sécurité, contrôle régulier, retour de la végétation) mais à garder sous surveillance.		
+1977				1977				ont_cessés	Ces dépôts ont cessés en 1977 puis repris, accueillant des mélanges de produits en provenance de l'usine ROUSSELOT et des sables de la fonderie LEROY SOMER.		'LEROY SOMER'
+								a_été_exploité	Le site a été exploité par la société ROUSSELOT depuis les années 1960.		'la société ROUSSELOT'
+2007	03	30		2007	03	30		la_remise_en_état	L'inspection a pris acte de la remise en état du site (récépissé de déclaration de cessation d'activité en date du 30/03/2007).		
+2015	12	10		2015	12	10		a_été_pris	Un arrêté préfectoral complémentaire prescrivant la surveillance semestrielle des eaux superficielles et souterraines a été pris le 10 décembre 2015.		
+2007				2007				a_été_réalisé	En 2007, une dossier de cessation d'activité du site a été réalisé.		
+2007	03	30		2007	03	30		a_pris_acte	L'inspection a pris acte de la remise en état du site (récépissé de déclaration de cessation d'activité en date du 30/03/2007).		
+1988	02	01		1988	02	01		Une_visite	Une visite de la décharge effectuée le 1 février 1988 a révélé que l'exploitation n'appelait aucune observation particulière, les déchets étaient correctement stockés.	'les déchets'	
+2007	03	30		2007	03	30		récépissé	L'inspection a pris acte de la remise en état du site (récépissé de déclaration de cessation d'activité en date du 30/03/2007).		

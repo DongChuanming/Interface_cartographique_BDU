@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic	Une étude historique et un diagnostic des sols et eaux souterraines de 2006 a mis en évidence de fortes concentrations en métaux (As, Pb, Cd, Zn…) et sulfates.	'en métaux ( As , Pb , Cd , Zn', 'sulfates .'	
+2007	11			2007	11			de	Un arrêté préfectoral de novembre 2007 a prescrit les conditions de déconstruction des bâtiments et la réalisation d’études environnementales sur le site.		
+2016				2016				a_défini	Dans son bilan factuel de pollution de 2016, l’exploitant a défini le fond géochimique naturel du site (FGN) en métaux.	'métaux'	'FGN'
+2008				2008				Un_diagnostic_complémentaire	Un diagnostic complémentaire de 2008 a confirmé un fort impact en métaux dans les sols et la nappe en aval hydraulique, la présence de cendres de pyrite, de boues de Pb et la présence de HAP localisée en certains points.	'de pyrite', 'boues de Pb', 'de HAP'	
+2006	07	13		2006	07	13		a_informé	La société SOFERTI a informé Monsieur le préfet de Loire-Atlantique, le 13 juillet 2006, de l'arrêt définitif de production d'engrais sur son site de Basse-Indre et des mesures prises ou prévues pour assurer la mise en sécurité du site (évacuation des produits dangereux, suppression des risques d'incendie et d'explosion).	'des produits dangereux'	'La société SOFERTI', 'le préfet de Loire'
+2018				2018				a_été_signé	Un arrêté préfectoral qui prescrit à l’exploitant les mesures de remise en état du site à effectuer sur la base de ses propositions complétées par celles de l’inspection a été signé début 2018.		
+1926				1972				va_être_utilisé	De 1926 à 1972, de l'acide sulfurique va être utilisé dans la production des superphosphates, à partir de pyrite grillée.	'acide sulfurique', 'superphosphates'	'pyrite'
+								les_mesures_de_remise_en_état_du_site_à_effectuer	Sur la base du dossier remis en 2016, un arrêté préfectoral a été signé début 2018 pour prescrire à l’exploitant les mesures de remise en état du site à effectuer ainsi que la remise d'un dossier de demande de SUP sous un délai de 36 mois.		
+2007	02	09		2007	02	09		ont_été_précisées	Les mesures de mise en sécurité ont été précisées par courrier du 9 février 2007.		
+1926				1926				a_débuté	L'activité sur le site a débuté en 1926.		
+2008				2008				Une_étude	Une étude de 2008 réalisée hors site a montré des traces de métaux dans les sols et sédiments hors site (étier de Chaîntres).	'de métaux'	
+2016				2016				a_été_remis	Le dossier complet a été remis fin 2016 à l'inspection des installations classées.		
+								a_été_signé	Sur la base du dossier remis en 2016, un arrêté préfectoral a été signé début 2018 pour prescrire à l’exploitant les mesures de remise en état du site à effectuer ainsi que la remise d'un dossier de demande de SUP sous un délai de 36 mois.		
+2016				2016				a_été_signé	Sur la base du dossier remis en 2016, un arrêté préfectoral a été signé début 2018 pour prescrire à l’exploitant les mesures de remise en état du site à effectuer ainsi que la remise d'un dossier de demande de SUP sous un délai de 36 mois.		
+2008				2009				La_déconstruction	La déconstruction des bâtiments a eu lieu de 2008 à 2009.		
+2007				2007				La_mise_en_sécurité	La mise en sécurité a été effectuée en 2007.		
+2016				2016				Le_bilan_factuel	Le bilan factuel de 2016 a également mis en évidence :		
+2018				2018				a_été_signé	Sur la base du dossier remis en 2016, un arrêté préfectoral a été signé début 2018 pour prescrire à l’exploitant les mesures de remise en état du site à effectuer ainsi que la remise d'un dossier de demande de SUP sous un délai de 36 mois.		
+2016				2016				son_bilan_factuel	Dans son bilan factuel de pollution de 2016, l’exploitant a défini le fond géochimique naturel du site (FGN) en métaux.	'métaux'	'FGN'
+2009				2009				des_discussions	En 2009, des discussions ont eu lieu entre l'exploitant, le maire d'Indre, Nantes Métropole et le préfet de Loire-Atlantique quant à l'usage futur du site.		'Nantes Métropole', 'le préfet'
+2008				2008				du_diagnostic	Les conclusions du diagnostic de 2008 étaient que des investigations étaient nécessaires par rapport aux HAP et que la réhabilitation serait à faire en fonction des usages futurs (fixés en 2009).	'HAP'	

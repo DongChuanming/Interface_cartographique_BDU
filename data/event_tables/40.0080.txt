@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2005	07	07		ont_été_remis	Le diagnostic et l'ESR ont été remis le 26 mai 2004 et le 7 juillet 2005.		
+2009	06	24		2009	06	24		est_signalé	Pour la campagne du 24 juin 2009, PZ1 est signalé comme ayant été arraché.		
+2004	05	26		2004	05	26		ont_été_remis	Le diagnostic et l'ESR ont été remis le 26 mai 2004 et le 7 juillet 2005.		
+2010	03	09		2010	03	09		a_été_remis_en_état_pour_la_campagne	Il a été remis en état pour la campagne du 9 mars 2010.		
+2009	06	24		2009	06	24		la_campagne	Pour la campagne du 24 juin 2009, PZ1 est signalé comme ayant été arraché.		
+1992	12	11		1992	12	11		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 11 décembre 1992.		

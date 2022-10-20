@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				terrassement_effectués_au	- Démolition des bâtiments et terrassement effectués au cours du 1er semestre 2003.		
+2005	07			2005	07			demande_de_permis_de_construire_datant_de	- Construction d’un EPHAD (Etablissement d'Hébergement pour Personnes Agées Dépendantes) de 80 lits environ sur l’ancienne friche industrielle (demande de permis de construire datant de juillet 2005) réalisée.		
+								Démolition_des_bâtiments	- Démolition des bâtiments et terrassement effectués au cours du 1er semestre 2003.		
+2003				2003				Démolition_des_bâtiments	- Démolition des bâtiments et terrassement effectués au cours du 1er semestre 2003.		
+								terrassement_effectués_au	- Démolition des bâtiments et terrassement effectués au cours du 1er semestre 2003.		

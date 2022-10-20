@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03	31		2015	03	31		a_été_réalisée	Dans l'éventuelle perspective d'une demande de réalisation des travaux de sécurisation auprès de l'ADEME, une visite correspondant sites et sols pollués a été réalisée le 31 mars 2015.		
+2019				2019				La_réception_des_travaux_sera_réalisée	La réception des travaux sera réalisée en 2019.		
+2015	03	31		2015	03	31		Lors_des_visites_d__inspection	Lors des visites d'inspection du 31 mars 2015 et du 22 avril 2015, il a été constaté à l'intérieur des bâtiments :		
+2013	05	02		2013	05	02		Une_visite_d__inspection_réalisée	Une visite d'inspection réalisée le 2 mai 2013 ayant constaté d'importantes quantités de déchets dangereux sur le site, un arrêté de mise en demeure pour la mise en sécurité du site (évacuation des déchets et produits dangereux, disparition du risque d'incendie et d'explosion,...) a été signé le 28 juin 2013.	'déchets dangereux'	
+2013	05	07		2013	05	07		a_été_mise_en_liquidation_judiciaire_par_jugement	La société FOREGE a été mise en liquidation judiciaire par jugement du tribunal de commerce de la Roche-sur-Yon du 7 mai 2013, et placée sous le contrôle du mandataire liquidateur SCP DOLLEY-COLLET.		'La société FOREGE', 'la Roche-sur-Yon', 'SCP DOLLEY - COLLET'
+1966				1966				correspondait_à	Avant 1966, le site correspondait à un terrain agricole (cultures).		
+1959	07	1		1959	07	1		son_premier_récépissé	La SA Chaudière (ex FOREGE) a reçu son premier récépissé de déclaration d'exploiter le 1er juillet 1959.		'La SA Chaudière', 'FOREGE'
+2013	06	28		2013	06	28		a_été_signé	Une visite d'inspection réalisée le 2 mai 2013 ayant constaté d'importantes quantités de déchets dangereux sur le site, un arrêté de mise en demeure pour la mise en sécurité du site (évacuation des déchets et produits dangereux, disparition du risque d'incendie et d'explosion,...) a été signé le 28 juin 2013.	'déchets dangereux'	
+2014	01	24		2014	01	24		Une_visite	Une visite au 24 janvier 2014 a permis de constater l'évacuation de près de 92 tonnes de déchets/produits dangereux.	'tonnes de déchets'	
+2015	04	22		2015	04	22		une_visite	Cette visite a été complétée par une visite de l'inspection des installations classées le 22 avril 2015.		
+1968	01	23		1968	01	23		est_délivré	Le 23 janvier 1968, un second récépissé de déclaration est délivré à la SA Chaudière du fait de son exploitation d'un atelier de vernissage.		'la SA Chaudière'
+1971				1981				a_continué	Puis de 1971 à 1981, la construction des différents bâtiments a continué.		
+2014				2014				investigations	Il conviendra toutefois d'être prudent quant à l'interprétation des résultats des investigations de 2014.		

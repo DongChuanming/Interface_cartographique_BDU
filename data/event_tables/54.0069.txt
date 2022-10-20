@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	31		1998	12	31		Installation	Installation de laminage d'acier, train à fil, dont l'exploitation a cessé le 31 décembre 1998.		
+2000	01			2000	01			a_procédé	En janvier 2000 Bail Industrie a procédé:		'Bail Industrie'
+2002	11			2002	11			complétée	Une Evaluation Simplifiée des Risques a été réalisée sur le site en juin 2002, puis complétée en novembre 2002 afin de prendre en considération les impacts sur la Moulaine canalisée.		
+1961				1961				a_été_construit	Le train à fil a été construit en 1961 sur d'anciens bassins à boues de Hauts-fourneaux.		
+2003	11	19		2003	11	19		Le_nettoyage_du_site	Le nettoyage du site, le traitement des déchets et la réalisation d'analyses visant à vérifier la dépollution du site ont été prescrites à l'encontre de l'exploitant par  arrêté préfectoral d'urgence le 19 novembre 2003.		
+2010				2010				a_déposé	Le représentant de l'ancien et dernier exploitant a déposé fin 2010, un dossier proposant des restrictions d'usage qui pourront prendre la forme de servitudes d'utilité publique.		
+2003	11	14		2003	11	14		un_engin_de_terrassement_a_heurté	Le 14 novembre 2003, lors de travaux réalisés pour l'installation d'une conduite d'alimentation d'eau à proximité du site, un engin de terrassement a heurté un transformateur et a percé l'enveloppe occasionnant une fuite du liquide sur le sol.		
+1999	09			1999	09			Etude_diagnostic	Etude diagnostic et propositions de surveillance des eaux rendues en septembre 1999.		
+1998	12	31		1998	12	31		a_cessé	Installation de laminage d'acier, train à fil, dont l'exploitation a cessé le 31 décembre 1998.		
+2002	06			2002	06			Une_Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques a été réalisée sur le site en juin 2002, puis complétée en novembre 2002 afin de prendre en considération les impacts sur la Moulaine canalisée.		
+1999	09			1999	09			surveillance_des_eaux_rendues	Etude diagnostic et propositions de surveillance des eaux rendues en septembre 1999.		

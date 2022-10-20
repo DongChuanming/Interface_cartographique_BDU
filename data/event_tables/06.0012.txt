@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				Cette_EDR	Cette EDR, une fois réalisée, a été réexaminé,courant 2002, par un deuxième bureau d'étude en ce qui concerne les aspects "exposition santé".		
+2005				2005				un_redressement_judiciaire	En 2005, la CLBI fait l'objet d'un redressement judiciaire, l’établissent est repris par SYSTEME TRANSPORT PRODUCTION (STP).		'la CLBI', 'SYSTEME TRANSPORT PRODUCTION ( STP'
+2016	01	21		2016	01	21		a_été_constatée	La mise en sécurité du site est terminée et a été constatée par l'inspection le 21/01/2016.		
+2008				2008				un_redressement_judiciaire	En 2008, la STP fait l'objet d'un redressement judiciaire : l'établissement est repris par ANSALDOBREDA France et en Mars 2012, le TC de Marseille prononce la liquidation judiciaire de la société ANSALDOBREDA France.		'la STP', 'ANSALDOBREDA France', 'le TC de Marseille', 'la société ANSALDOBREDA France'
+2016	06			2016	06			a_été_établi	Ces travaux ont été réalisés et le PV de constat de travaux prévu à l'article R512-39-3 a été établi en juin 2016.		
+2012	03			2012	03			prononce	En 2008, la STP fait l'objet d'un redressement judiciaire : l'établissement est repris par ANSALDOBREDA France et en Mars 2012, le TC de Marseille prononce la liquidation judiciaire de la société ANSALDOBREDA France.		'la STP', 'ANSALDOBREDA France', 'le TC de Marseille', 'la société ANSALDOBREDA France'
+1987				1987				devient_une_société	En 1987, la CLBI devient une société indépendante spécialisée dans la fabrication et la réparation ferroviaire.		'la CLBI'
+2012	03	27		2012	03	27		le_mandataire_judiciaire	La notification de cessation d'activité a été effectué par le mandataire judiciaire en qualité ès exploitant en date du 27/03/2012.		
+2012	03	27		2012	03	27		La_notification_de_cessation_d__activité	La notification de cessation d'activité a été effectué par le mandataire judiciaire en qualité ès exploitant en date du 27/03/2012.		
+2016	01	21		2016	01	21		La_mise_en_sécurité	La mise en sécurité du site est terminée et a été constatée par l'inspection le 21/01/2016.		
+2012	03	14		2012	03	14		a_été_mise_en_liquidation_judiciaire	La société Ansaldobreda a été mise en liquidation judiciaire le 14/03/2012.		'La société Ansaldobreda'
+1999	04	26		1999	04	26		a_été_soumis	L'ensemble du site a été soumis à l'ESR par arrêté en date du 26/04/1999.		
+1962				1962				se_spécialisent_dans	En 1962, les Ateliers de la Bocca alors devenu SEB, se spécialisent dans l'entretien de voitures de voyageurs.		'les Ateliers de la Bocca', 'SEB'
+1919				1919				ont_été_crées	Les ateliers de La Bocca ont été crées en 1919 par les Aciéries du Nord pour la construction et la réparation de matériel ferroviaires.		'La Bocca', 'les Aciéries'

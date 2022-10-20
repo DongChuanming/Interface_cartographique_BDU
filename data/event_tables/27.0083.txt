@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				diverses_actions_d__élimination	Suite à la mise en liquidation judiciaire de la société AZEO en janvier 2012, diverses actions d'élimination des produits et déchets présents sur le site ont été menées en 2012 et notamment :		'la société AZEO'
+2006				2006				a_été_vendu	La magasin L a été vendu en 2006, ce dernier devenant une ICPE distincte d'Alizol (ex-nom d'Azeo avant changement d'actionnaires en 2008).		'Azeo'
+2012	01			2012	01			la_mise_en_liquidation_judiciaire	Suite à la mise en liquidation judiciaire de la société AZEO en janvier 2012, diverses actions d'élimination des produits et déchets présents sur le site ont été menées en 2012 et notamment :		'la société AZEO'
+2013	02			2013	02			Un_1er_bilan	Un 1er bilan de ces actions entreprises a été transmis à la DREAL en février 2013.		'la DREAL'
+2016	09	13		2016	09	13		un_courrier	Des arrêtés préfectoraux de mise en demeure et de consignation ont été pris à l’encontre de la liquidatrice judiciaire sans résultat du fait de l’impécuniosité de la liquidation attestée par un courrier en date du 13 septembre 2016.		
+2008				2008				changement	La magasin L a été vendu en 2006, ce dernier devenant une ICPE distincte d'Alizol (ex-nom d'Azeo avant changement d'actionnaires en 2008).		'Azeo'
+2012				2012				ont_été_évacuées	Les cuves du parc de stockage des GPL et des LI,situé à l'ouest du site, ont été évacuées du site en 2012.	'stockage des GPL', 'des LI'	
+2016	09	13		2016	09	13		ont_été_pris_à_l__encontre	Des arrêtés préfectoraux de mise en demeure et de consignation ont été pris à l’encontre de la liquidatrice judiciaire sans résultat du fait de l’impécuniosité de la liquidation attestée par un courrier en date du 13 septembre 2016.		
+2012	01			2012	01			diverses_actions_d__élimination	Suite à la mise en liquidation judiciaire de la société AZEO en janvier 2012, diverses actions d'élimination des produits et déchets présents sur le site ont été menées en 2012 et notamment :		'la société AZEO'
+				2012				a_accueilli	A partir de 1968 jusqu'en 2012, le site a accueilli une activité de production d'aérosols, de détergents et de cosmétiques.		

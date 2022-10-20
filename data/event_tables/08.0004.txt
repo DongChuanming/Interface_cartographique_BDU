@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_procédé	L'entreprise FAYNOT a procédé à des travaux de réhabilitation en 1995 et 1996:		'FAYNOT'
+1994				1994				a_été_repris	Le site a été repris en 1994 par l'entreprise FAYNOT, qui l'utilise pour le stockage de pièces métalliques.		
+1992				1992				a_cessé	L'ancienne usine de traitement de surface GALVASEMOY a cessé son activité en 1992 et a déversé des boues d'hydroxydes à même le terrain.		'GALVASEMOY'
+1995				1995				a_procédé	L'entreprise FAYNOT a procédé à des travaux de réhabilitation en 1995 et 1996:		'FAYNOT'
+1996				2008				est_réalisée	Une surveillance semestrielle de la nappe sur les paramètres zinc, chrome total et cyanures libres est réalisée par la société FAYNOT de 1996 à 2008.	'zinc', 'chrome total', 'cyanures libres'	'la société FAYNOT'

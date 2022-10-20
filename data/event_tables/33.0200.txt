@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	22		2009	04	22		Une_étude_de_sol	Une étude de sol a été remise le 22 avril 2009.		
+2005	03			2005	03			a_constaté_la_cessation_définitive_des_activités	En mars 2005, la DRIRE a constaté la cessation définitive des activités sur ce site sans que la déclaration de cessation d’activité n’ait été produite.		'la DRIRE'
+1988	08	17		1988	08	17		ont_été_autorisées	Les installations ont été autorisées par l'arrêté du 17 août 1988.		

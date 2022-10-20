@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	20		2001	11	20		reçue	La phase A, reçue le 20 novembre 2001, a permis d'identifier trois sources potentielles de pollution et a préconisé la réalisation d'une phase B.		
+2002	03			2002	03			une_analyse	Dans le cadre du diagnostic initial et de l'évaluation simplifiée des risques, une analyse des eaux souterraines a été effectuée en mars 2002.		
+2001	07	10		2001	07	10		signé	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par arrêté préfectoral signé le 10 juillet 2001, le site étant autorisé pour le traitement du bois.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par arrêté préfectoral signé le 10 juillet 2001, le site étant autorisé pour le traitement du bois.		
+2002	04	26		2002	04	26		reçue	La phase B reçue le 26 avril 2002 conclut, suite aux sondages et analyses, qu'il n'y a pas de source de pollution identifiée.		
+2001	07	10		2001	07	10		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par arrêté préfectoral signé le 10 juillet 2001, le site étant autorisé pour le traitement du bois.		

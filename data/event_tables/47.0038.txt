@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	28		2008	02	28		changement_d__exploitant	La SARL Scierie BENETEAU a repris les activités de la SARL PROCEDES en 2008 (récépissé de changement d'exploitant du 28/02/2008).		'La SARL Scierie BENETEAU', 'la SARL PROCEDES'
+2004	06			2004	06			a_été_réalisée_en	L'ESR a été réalisée en 2 étapes en juin 2004 et avril 2005.		'ESR'
+2008				2008				a_repris_les_activités	La SARL Scierie BENETEAU a repris les activités de la SARL PROCEDES en 2008 (récépissé de changement d'exploitant du 28/02/2008).		'La SARL Scierie BENETEAU', 'la SARL PROCEDES'
+2005	04			2005	04			a_été_réalisée_en	L'ESR a été réalisée en 2 étapes en juin 2004 et avril 2005.		'ESR'
+2008	02	28		2008	02	28		a_repris_les_activités	La SARL Scierie BENETEAU a repris les activités de la SARL PROCEDES en 2008 (récépissé de changement d'exploitant du 28/02/2008).		'La SARL Scierie BENETEAU', 'la SARL PROCEDES'
+1993	10	08		1993	10	08		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 8 octobre 1993.		

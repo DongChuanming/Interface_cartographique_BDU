@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	31		2003	07	31		a_cessé_ses_activités	* Devenue société Pechiney Softal en 1989, l'établissement soumis à déclaration pour ses activités principales de travail mécanique des métaux et ateliers de cémentation/nitruration, a cessé ses activités le 31 juillet 2003.		'Devenue société Pechiney Softal'
+2004				2008				Six_campagnes_de_prélèvements_et_d__analyses	Six campagnes de prélèvements et d'analyses entre 2004 et 2008 ont été effectuées à fréquence annuelle sauf en 2006 (2 prélèvements).		
+2005	12	23		2005	12	23		a_été_transmis_à	Le site a été transmis à son nouveau propriétaire le 23/12/2005, il s'agit de la Société d'AménageMEnt du Pays d'Aubagne (SAMEPA).		"la Société d'", 'SAMEPA'
+1974				1974				a_été_créée	L'usine a été créée en 1974 sur un site vierge.		
+2004	06			2004	06			ESR_réalisée	* Après un diagnostic environnemental, l'ESR réalisée en juin 2004 (après les travaux de remise en état), a abouti à un site banalisable pour les milieux eaux souterraines et superficielles (une couche d'argile protège la nappe), ainsi qu'à une cotation en classe 2 pour le milieu sol.		
+1975				1975				exploitait	* La société CEGEDUR (filiale du groupe PECHINEY) exploitait depuis 1975 en ZAC Saint Mitre à Aubagne,une usine de fabrication de profilés en aluminium.		'La société CEGEDUR', 'groupe PECHINEY'
+2005	03	16		2005	03	16		a_été_prescrit	* Un APC de cessation d'activité a été prescrit le 16/03/2005, afin d'imposer que la vocation du site reste une zone d'activités industrielles et commerciales, et de mettre en place un suivi piézo vis-à-vis des éléments chlore, cuivre et arochlors (PCB).	'éléments chlore', 'cuivre', 'arochlors', 'PCB'	
+2006				2006				Six_campagnes_de_prélèvements_et_d__analyses	Six campagnes de prélèvements et d'analyses entre 2004 et 2008 ont été effectuées à fréquence annuelle sauf en 2006 (2 prélèvements).		
+2005	01	12		2005	01	12		récolement_des_travaux_a_été_adressé	Le dossier de récolement des travaux a été adressé le 12/01/2005.		

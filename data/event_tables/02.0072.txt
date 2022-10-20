@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	20		2013	09	20		Le_procès_verbal_de_récolement	Le procès verbal de récolement des travaux effectués a été établi le 20 septembre 2013 par l’inspection.		
+2011				2011				analyse_des_risques_résiduels	L’exploitant a transmis un rapport de récolement de ces travaux en 2015 contenant une analyse des risques résiduels (ARR) qui a conduit à actualiser l’EQRS du plan de gestion de 2011.		
+2009	09			2009	09			ont_cessé	Ces activités ont cessé sur le site en septembre 2009.		
+2015				2015				un_rapport_de_récolement	L’exploitant a transmis un rapport de récolement de ces travaux en 2015 : les teneurs résiduelles dans les sols après dépollution ne mettent pas en évidence d’impact notable et sont compatibles avec l’usage de type industriel retenu pour le site.		
+2011				2011				a_procédé	L’exploitant a procédé à une actualisation du plan de gestion de 2011, puis a défini des mesures de gestion et a mené des travaux de dépollution de la zone source 1 par excavation des terres impactées.		
+2005	07			2005	07			dernièrement_exploitée	- La partie « Emaillage » dernièrement exploitée par la société ESSEX depuis juillet 2005 et jusqu’à mi-2008.		'la société ESSEX'
+2015				2015				un_rapport_de_récolement	L’exploitant a transmis un rapport de récolement de ces travaux en 2015 contenant une analyse des risques résiduels (ARR) qui a conduit à actualiser l’EQRS du plan de gestion de 2011.		
+2015				2015				un_rapport_de_récolement	L’exploitant a transmis un rapport de récolement de ces travaux en 2015 : les teneurs résiduelles dans les sols sous-jacents ne mettent pas en évidence d’impact notable et sont compatibles avec l’usage de type industriel retenu pour le site.		

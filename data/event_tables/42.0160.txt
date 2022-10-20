@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980	10	23		1995	01	1		a_exploité	La commune de St Sauveur en Rue a exploité une UIOM du 23 octobre 1980 au 1er janvier 1995.		
+1995	09	12		1995	09	12		un_courrier	Dans un courrier du 12 septembre 1995, la mairie de St Sauveur en Rue indique la cessation d’activité de l’UIOM depuis le 1er janvier 1995.		'la mairie de St Sauveur'
+1995	01	1		1995	01	1		la_cessation_d__activité	Dans un courrier du 12 septembre 1995, la mairie de St Sauveur en Rue indique la cessation d’activité de l’UIOM depuis le 1er janvier 1995.		'la mairie de St Sauveur'
+1980	10	23		1980	10	23		a_été_attribuée	Une autorisation à titre exceptionnel a été attribuée, le 23 octobre 1980, par la Préfecture de la Loire pour installer un four auto-incinérateur de type Péchoux qui avait reçu l’avis défavorable du CODERST.	'four auto-incinérateur'	'la Préfecture de la Loire', 'type Péchoux', 'CODERST'
+2003	12	02		2003	12	02		un_diagnostic_environnemental	Suite à cela, un diagnostic environnemental a été réalisé le 2 décembre 2003.		
+2003	02	25		2003	02	25		a_adressé	La mairie a adressé le 25 février 2003 un courrier à l’inspection relatant son intention de détruire le four incinérateur et de réhabiliter le site.		
+2004	02	12		2004	02	12		a_été_complété	Ce dernier a été complété le 12 février 2004 par des analyses réalisées sur les résidus d’incinération et une étude des dioxines.	'résidus d’ incinération', 'dioxines'	

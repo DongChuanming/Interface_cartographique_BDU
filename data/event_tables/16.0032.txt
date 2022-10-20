@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07	07		2016	07	07		a_été_reçu	Le 7 juillet 2016, un rapport post exploitation a été reçu.		
+1998				1998				exploite	Le SMVDED exploite ce site depuis 1998.		'SMVDED'
+2016	10			2016	10			Une_étude	Une étude en vu d'un porté à connaissance à la Mairie est demandée au SVDM en octobre 2016.		'SVDM'
+2008	09	04		2008	09	04		signé_le	Cette augmentation de capacité a été autorisé par un arrêté préfectoral signé le 4 septembre 2008.		
+2009	06	30		2009	06	30		a_cessé_ses_activités	La décharge a cessé ses activités le 30 juin 2009.		
+2014	12	18		2014	12	18		a_été_pris	Un arrêté préfectoral complémentaire a été pris le 18 décembre 2014 pour finaliser le suivi post-exploitation et pour fixer le montant des garantis financières.		
+								a_accueilli	Ce site de 10ha a accueilli un Centre d'Enfouissement Technique (CET) depuis la fin des années 1970.		'CET'
+2003	02	03		2003	02	03		il_a_été_constaté	Suite à l'inspection du 3 février 2003, il a été constaté que plusieurs prescriptions de l'arrêté préfectoral d'autorisation n'étaient pas respectées.		
+2011	01	18		2011	01	18		a_été_reçu	Un récépissé de cessation d'activité a été reçu le 18 janvier 2011.		
+2012				2012				a_été_notée	Suite aux analyses d'eaux souterraine de 2012, une légère contamination par les lixiviats a été notée avec la présence de zinc, de nickel, d'arsenic et de plomb.	'zinc', 'nickel', "d' arsenic", 'plomb'	
+2006				2006				avait_constitué_des_garanties_financières	Le SVDM avait constitué des garanties financières en 2006, pour les traitements et travaux éventuels du site sur une période de 30 ans après la cessation d'exploitation.		'Le SVDM'
+2011	01	06		2011	01	06		a_été_délivré_le	Le procès verbale de récolement a été délivré le 6 janvier 2011.		
+2003	02	03		2003	02	03		l__inspection	Suite à l'inspection du 3 février 2003, il a été constaté que plusieurs prescriptions de l'arrêté préfectoral d'autorisation n'étaient pas respectées.		
+2003	01	24		2003	01	24		a_été_pris	Afin de régulariser les préinscriptions applicables à ce type d'ICPE, un arrêté préfectoral autorisant le SMVDED à exploiter ce CET a été pris le 24 janvier 2003.		'le SMVDED', 'CET'
+2013	04	03		2013	04	03		Une_visite_d__inspection	Une visite d'inspection a eu lieu le 3 avril 2013, dans le cadre d'un projet de mise en place d'une servitude d'utilité publique.		
+2003	03	06		2003	03	06		a_été_pris	Un arrêté préfectoral de mise en demeure pour sa mise en conformité a été pris le 6 mars 2003.		
+1979	08	29		1979	08	29		est_autorisée	Cette ICPE est autorisée par un arrêté préfectoral du 29 août 1979.		
+2011	03	14		2011	03	14		a_été_pris	Un arrêté préfectoral complémentaire relatif à la surveillance des rejets de substances dangereuses dans l'eau a été pris le 14 mars 2011.	'substances dangereuses'	

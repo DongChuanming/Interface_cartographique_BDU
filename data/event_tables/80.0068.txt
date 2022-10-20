@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02			2015	02			une_actualisation	Ces documents ont fait l'objet d'une actualisation en février 2015.		
+2015	10	13		2015	10	13		a_été_abrogée	Après analyse des résultats depuis la mise en place du suivi de la qualité des eaux souterraines et superficielles, la surveillance a été abrogée par l'arrêté préfectoral du 13 octobre 2015.		
+2003	10			2003	10			La_cessation_effective_d__activité	La cessation effective d'activité date d'octobre 2003 selon les indications de l'exploitant.		
+2016	04	25		2016	04	25		a_été_signé	L'arrêté préfectoral instituant ces servitudes d'utilité publique a été signé le 25 avril 2016.		
+1983	10			1983	10			dépôt_déclaré	Installation soumise à déclaration dépôt aérien de fuel-oil domestique de 200 m3 en extension du dépôt déclaré en octobre 1983, soit une capacité totale de 240 m3.	'fuel - oil domestique'	
+2012				2012				a_transmis	Suite à la modification de l'usage futur retenu, la société BOLLORE ENERGIE a transmis en 2012 une Analyse des risques résiduelles et		'la société BOLLORE ENERGIE'
+2004	09	17		2004	09	17		la_cessation_définitive_d__activité	Le 17 septembre 2004, la société BOLLORE a déclaré à M. le Préfet la cessation définitive d'activité de son établissement en joignant les documents suivants :		'la société BOLLORE', 'le Préfet'

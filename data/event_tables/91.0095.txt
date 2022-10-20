@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								gardiennage___murs______	- sous un délai de 48 heures de mettre le site en sécurité et notamment en interdire efficacement l’accès par tout moyen (gardiennage, murs…) ;		'en interdire'
+2002	10	10		2002	10	10		judiciaire_par_jugement	La société a été mise en redressement judiciaire par jugement du 10 octobre 2002.		
+2002	10	10		2002	10	10		mise_en_redressement	La société a été mise en redressement judiciaire par jugement du 10 octobre 2002.		
+2008	06			2008	06			présence_de	En juin 2008, la police municipale a découvert la présence de fûts qui avaient été dissimulés (il était impossible à l'ADEME de les découvrir à l'époque de leur première intervention).	'ADEME'	
+2008	06			2008	06			première_intervention__	En juin 2008, la police municipale a découvert la présence de fûts qui avaient été dissimulés (il était impossible à l'ADEME de les découvrir à l'époque de leur première intervention).	'ADEME'	

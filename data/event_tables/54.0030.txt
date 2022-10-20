@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966	06			1966	06			a_cessé_définitivement	L’activité sidérurgique a cessé définitivement en juin 1966 et les équipements industriels ont été démantelés.		
+				2015				a_été_exploité	Le crassier a été exploité par la SLAG jusqu'en 2015.		'la SLAG'
+2000				2000				est_effectuée	Une surveillance de la qualité des eaux souterraines et superficielles est effectuée depuis 2000 :		

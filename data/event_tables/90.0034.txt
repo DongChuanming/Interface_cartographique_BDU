@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	30		2013	09	30		a_cessé_son_activité	L'Unité 3 a cessé son activité le 30/09/2013.		
+2013	09	26		2013	09	26		a_transmis	Le 07/10/2013, la société VISTEON a transmis à l'inspection des compléments à son dossier de cessation d'activité, notamment des clichés montrant que l'ensemble des ateliers est vide depuis le 26/09/2013.		'la société VISTEON'
+2011	04	18		2011	04	18		de_déclaration	Le site a fait l'objet d'un récépissé de déclaration en date du 18/04/2011 relatif à l'exploitation d'une unité de fabrication de pièces techniques en matière plastique.		
+2010				2010				l__entreposage_de_produits_finis_VISTEON	Jusqu'en 2010, le bâtiment servait partiellement à l'entreposage de produits finis VISTEON (activité sous-traité à la société BUFFA).		'finis VISTEON', 'la société BUFFA'
+2006				2006				fait_l__acquisition	En 2006, TRANSPORT ALAIN BUFFA fait l'acquisition de l'ensemble immobilier de Sermamagny, pour une activité comprenant l'entreposage et le transport de marchandises, la distribution et le reconditionnement de produits.		'TRANSPORT ALAIN BUFFA'
+2013	09	26		2013	09	26		est_vide	Le 07/10/2013, la société VISTEON a transmis à l'inspection des compléments à son dossier de cessation d'activité, notamment des clichés montrant que l'ensemble des ateliers est vide depuis le 26/09/2013.		'la société VISTEON'
+2014	03	04		2014	03	04		a_fourni	Suite à la demande de l'inspection (06/01/2014), la Société VISTEON a fourni les bordereaux de suivi des déchets le 04/03/2014.		'la Société VISTEON'
+2011	05			2011	05			des_travaux_de_dépollution	En mai 2011, des travaux de dépollution ont été réalisés et les terres polluées ont été excavées et évacuées vers une filière adaptée.		
+2013	09	30		2013	09	30		de_la_cessation_d__activité	Elle indique que lors de la cessation d'activité prévue pour le 30/09/2013, l'ensemble des produits et des machines vont être évacués de l'Unité 3 et seront envoyés sur les Unités 1 et 2 à Rougegoutte.		
+2006	03	22		2006	03	22		un_diagnostic_de_sols	Le 22/03/2006, SITA Remédiation a réalisé un diagnostic de sols à la demande de la Société SIGMAKALON EURIDEP.		'SITA Remédiation', 'la Société SIGMAKALON EURIDEP'
+2003				2003				reprend	En 2003, EURIDEP reprend le site toujours pour les mêmes activités.		'EURIDEP'
+2013	07	03		2013	07	03		Une_visite	Une visite de l'inspection des installations classées a été réalisée le 3 juillet 2013 afin de vérifier la mise en sécurité du site suite à la cessation d'activité.		
+2014	01	06		2014	01	06		à_la_demande	Suite à la demande de l'inspection (06/01/2014), la Société VISTEON a fourni les bordereaux de suivi des déchets le 04/03/2014.		'la Société VISTEON'
+2013	10	07		2013	10	07		a_transmis	Le 07/10/2013, la société VISTEON a transmis à l'inspection des compléments à son dossier de cessation d'activité, notamment des clichés montrant que l'ensemble des ateliers est vide depuis le 26/09/2013.		'la société VISTEON'
+2013	08	20		2013	08	20		a_été_transmise	La notification de la cessation d'activité de l'Unité 3 de VISTEON réalisée par le bureau d'études APAVE le 19/08/2013 a été transmise au Préfet le 20/08/2013.		'VISTEON', 'APAVE', 'Préfet'
+2011				2011				est_devenu_locataire_du_bâtiment	Depuis 2011, VISTEON est devenu locataire du bâtiment pour une activité de travail de transformation de polymères.		'VISTEON'
+2010				2010				servait_partiellement_à	Jusqu'en 2010, le bâtiment servait partiellement à l'entreposage de produits finis VISTEON (activité sous-traité à la société BUFFA).		'finis VISTEON', 'la société BUFFA'

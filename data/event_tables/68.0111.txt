@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976	12	23		1976	12	23		a_été_autorisée	La société DOLLFUS MIEG & Cie a été autorisée, par les arrêtés préfectoraux des 23 décembre 1976 et du 20 octobre 1995, à exploiter un atelier de teinture de fils et des installations de combustion.		'La société DOLLFUS MIEG'
+				1995	10	20		a_été_autorisée	La société DOLLFUS MIEG & Cie a été autorisée, par les arrêtés préfectoraux des 23 décembre 1976 et du 20 octobre 1995, à exploiter un atelier de teinture de fils et des installations de combustion.		'La société DOLLFUS MIEG'
+2011	07	1		2011	07	1		a_regroupé	Une nouvelle société ,DMC SAS, a regroupé ses activités sur un périmètre restreint du site initial (arrêté préfectoral n° 2011-182-21 du 1er juillet 2011) et toute activité a été arrêtée sur le reste du site.		'DMC SAS'
+2009	02	18		2009	02	18		sa_liquidation_judiciaire	Le 18 février 2009, sa liquidation judiciaire a été prononcée par le tribunal de commerce de Paris.		
+2009				2009				a_été_aménagée	Une partie du secteur 3 a été aménagée en hôtel d’entreprise en 2009.		
+2009				2009				sont_actuellement_occupés	Les secteurs 2A et 2B (voir carte) sont actuellement occupés, depuis 2009, par la société SPIE soumis à déclaration (polychlorobiphényles, polychloroterphényles- dépôt de composants, d’appareils, de matériel imprégnés, usagés ou de produits neufs ou usagés).	'polychlorobiphényles', 'polychloroterphényles-', 'produits neufs'	'la société SPIE'
+2005				2007				mis_à_l__arrêt_ont_été_évacués	L’ensemble des stockages, cuves et produits divers des bâtiments mis à l’arrêt ont été évacués ou démantelés par DMC Créative World entre 2005 et 2007. le site est clôturé et gardé.		'DMC Créative World'
+2014	06			2014	06			finalisées	Les études faites par la SERM et finalisées en juin 2014 ont permis de détecter dans les sols :		'la SERM'

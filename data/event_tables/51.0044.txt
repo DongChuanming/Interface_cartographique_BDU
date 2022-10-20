@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	12		2000	07	12		Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par arrêté préfectoral du 12/07/2000.		
+2007				2007				a_été_racheté	Fin 2007, la société Vallourec Précision Etirage a été racheté par une entreprise allemande et se dénomme maintenant "Salzgitter Mannesmann Precision"		'la société Vallourec Précision Etirage', '" Salzgitter Mannesmann Precision'
+2008	07	28		2008	07	28		s__est_engagé	Le 28 juillet 2008, l'exploitant s'est engagé à étudier la possibilité de compléter le réseau de points de contrôles par la mise en place de nouveaux piézomètres (le site en possédant déjà 8).		

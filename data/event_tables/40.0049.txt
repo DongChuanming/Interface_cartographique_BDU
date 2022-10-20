@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				a_été_remplacée	Cette tuyauterie a été remplacée en acier inoxydable en 1995.		
+1995				2005				une_pollution_chronique_récente	Mais il s'agit aussi d'une pollution chronique récente, entre 1995 et 2005, due à un défaut d'étanchéité du joint de connexion du deshuileur et du réseau d'eaux résiduaires.	'résiduaires'	
+2012	07			2012	07			passe_de_2800_mg___l	La teneur en DCO pour les piézomètres les plus impactés, PZ121 notamment, passe de 2800 mg/l en février 2012 à 700 mg/l en juillet 2012.	'DCO'	
+2012	10			2012	10			engage_une_démarche	En octobre 2012, afin d’accélérer la dépollution, l'exploitant appuyé par son consultant, engage une démarche pour optimiser le système.		
+1995				1995				une_pollution_ancienne	Le diagnostic de sols révèlent qu'il s'agit d'une pollution ancienne, antérieure à 1995, provenant de l'ancienne tuyauterie véhiculant depuis l'Unité 2 des eaux résiduaires vers le stockage avant traitement.	'eaux résiduaires'	
+2002				2002				La_pollution_détectée	La pollution détectée en 2002 au droit de l'unité 3 est confinée et traitée du 10/11/2003 au 03/06/2004 par pompage de la nappe, traitement sur charbon actif, décantation et réinjection de l'eau traitée dans la nappe.	'charbon actif'	
+2009	10			2009	10			sparging_est_mis_en	Un nouveau dispositif de de venting/sparging est mis en place en octobre 2009 près de l'unité 3 pour accélérer le traitement des espèces volatiles (MEC).		
+								un_dispositif_de_dépollution_par_pompage	Suite à la pollution découverte en septembre 2005 sur l'unité 2, un dispositif de dépollution par pompage, écrémage et traitement de l'eau sur charbon actif est à nouveau mis en place et fonctionne à ce jour (12/12/12).	'charbon actif'	
+2004	03	31		2004	03	31		Les_études_remises	Les études remises les 20/11/2003 et 31/03/2004 classent ces unités en 3 "site banalisable" pour l'usage du moment.		
+2005	02	17		2005	02	17		est_remis	Le rapport final des travaux de dépollution est remis le 17/02/2005.		
+2003	10			2003	10			Le_diagnostic	Le diagnostic et l'évaluation simplifiée des risques (ESR) réalisés en octobre 2003 et remis le 17/02/2005, après les premiers travaux de dépollution, concluent au maintien de la surveillance périodique de la nappe.		
+2010				2010				La_fin_des_travaux_de_dépollution	La fin des travaux de dépollution est prévue pour fin 2010.		
+2012	02			2012	02			passe_de_2800_mg___l	La teneur en DCO pour les piézomètres les plus impactés, PZ121 notamment, passe de 2800 mg/l en février 2012 à 700 mg/l en juillet 2012.	'DCO'	
+2005				2005				la_dépollution_avoisine	Le coût de la dépollution avoisine les 200 K€/an depuis 2005.		
+2003	11	20		2003	11	20		Les_études_remises	Les études remises les 20/11/2003 et 31/03/2004 classent ces unités en 3 "site banalisable" pour l'usage du moment.		
+2007	09	17		2007	09	17		Des_essais_de_traitement_par_voie_biologique	Des essais de traitement par voie biologique sur les piézomètres P116 et P117 ont démarré le 17 septembre 2007.		
+2003	11	10		2004	06	03		traitée	La pollution détectée en 2002 au droit de l'unité 3 est confinée et traitée du 10/11/2003 au 03/06/2004 par pompage de la nappe, traitement sur charbon actif, décantation et réinjection de l'eau traitée dans la nappe.	'charbon actif'	
+2005	02	17		2005	02	17		remis	Le diagnostic et l'évaluation simplifiée des risques (ESR) réalisés en octobre 2003 et remis le 17/02/2005, après les premiers travaux de dépollution, concluent au maintien de la surveillance périodique de la nappe.		

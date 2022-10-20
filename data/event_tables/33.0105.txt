@@ -1,0 +1,39 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								d__achever_les_travaux	Outre le procès-verbal de constat d'infractions dressé le 21 janvier 2008, l'arrêté du 28/04/2008 met la CUB en demeure de rectifier les écarts constatés et d'achever les travaux dans le délai de 12 mois.		'la CUB'
+2007	08	21		2007	08	21		La_campagne	La campagne du 21/08/2007 montre une amélioration de la situation, comparable à celle du 30/09/2006.		
+2007	09	20		2007	09	20		demande	Le 20/09/2007, la DRIRE demande la justification du caractère inerte des déchets triés d'ordures ménagères provenant d'une ancienne décharge sur la commune de Mérignac.	"inerte des déchets triés d' ordures ménagères"	'la DRIRE'
+1997	03	30		1997	03	30		Les_rapports_de_reconnaissance	Les rapports de reconnaissance des 30 mars 1997 et  21 mars 2000, montre que la décharge de Labarde possède une activité biologique par la présence de Méthane et de gaz toxique (H2S).	'de Méthane', '( H2S'	
+2011	06			2011	06			livré	- le véhicule citerne de pompage des lixiviats est acquis et livré en juin 2011,		'le véhicule citerne'
+2009	10			2009	10			Le_semis	Le semis de fétuque a été effectué en octobre 2009.		
+2011	06			2011	06			travaux_du_poste_de_relevage	- travaux du poste de relevage et du bassin tampon en juin 2011,		
+2010				2010				s__accélère	Cette tendance s'accélère en nov. 2010 avec des valeurs de 1420 et 1880 µg/l, alors qu'on observe une diminution dans la nappe superficielle (800 µg/l).		
+2008	01			2010	11			Les_campagnes	Les campagnes de janvier 2008 à novembre 2010 montre un impact de la nappe captive par le fer et l'aluminium essentiellement.	'fer', 'aluminium'	
+1991				1991				sont_intervenus	De nombreuses études ont été réalisées et de nombreux bureaux d'études et laboratoires sont intervenus sur ce site depuis 1991.		
+2005	07			2005	07			sont_présentés	Les programmes prévisionnels d'aménagement et de gestion des eaux sont présentés en mars 2005 et non validés par la DRIRE malgré les observations et les réponses de mai et juillet 2005.		'la DRIRE'
+2008	06	04		2008	06	04		sont_transmis	Le programme de travaux et l'avis du tiers-expert sont transmis les 04/06/2008 et 03/07/2008.		
+2008	08	18		2008	08	18		sont_portées	Les précisions à apporter sur les parties du confinement, de la récupération des lixiviats et de la stabilité du flanc Nord-Est sont portées à la connaissance de la CUB le 18/08/2008.		'la CUB'
+2009				2009				d__achever_les_travaux	La volonté affichée de la CUB est d’achever les travaux à la fin de l’été 2009.		'la CUB'
+2010	12	21		2010	12	21		dresse_le_procès_verbal_de_récolement	Suite à la visite d'inspection du 30/06/2010, l'inspecteur des ICPE dresse le procès-verbal de récolement le 21 décembre 2010 :		
+2008	07	03		2008	07	03		sont_transmis	Le programme de travaux et l'avis du tiers-expert sont transmis les 04/06/2008 et 03/07/2008.		
+2006	03	30		2006	03	30		La_campagne	La campagne du 30/03/2006 montre une amélioration par l'observation de traces d'arsenic et d'aluminium dans 1 piézomètre.	'arsenic', 'aluminium'	
+1984	07	06		1984	07	06		a_cessé	La décharge de Labarde a cessé de recevoir des déchets à caractère polluant le 6 juillet 1984.		
+								sont_présentés	Les programmes prévisionnels d'aménagement et de gestion des eaux sont présentés en mars 2005 et non validés par la DRIRE malgré les observations et les réponses de mai et juillet 2005.		'la DRIRE'
+2008	01	21		2008	01	21		dressé	Outre le procès-verbal de constat d'infractions dressé le 21 janvier 2008, l'arrêté du 28/04/2008 met la CUB en demeure de rectifier les écarts constatés et d'achever les travaux dans le délai de 12 mois.		'la CUB'
+1984	07			1984	07			de_Labarde_a_cessé_son_activité	La décharge de Labarde a cessé son activité en juillet 1984 et n'a reçu, pour tout réaménagement, qu'une couche hétérogène de remblais et un recouvrement partiel de faible épaisseur de terre végétale.		
+2005	11	28		2005	11	28		La_campagne_du	La campagne du 28/11/2005 montre un impact généralisé par les organiques (DCO, DBO et COT), les composés halogénés absorbables et le fer.	'les organiques', 'DCO', 'DBO', 'COT', 'les composés halogénés', 'fer'	
+2010	02	12		2010	02	12		est_transmis	Le dossier des ouvrages exécutés est transmis à la DREAL le 12/02/2010.		'la DREAL'
+2003				2003				Les_campagnes_de	Les campagnes de 2001, 2002 et 2003 confirment la variabilité du phénomène et la persistance de l'impact de cette ancienne décharge sur les eaux souterraines et superficielles.		
+1991				1994				Les_nombreuses_études_réalisées	Les nombreuses études réalisées de 1991 à 1994 confirment l'impact important et durable sur l'environnement, notamment sur les eaux superficielles et souterraines.		
+2000	03	21		2000	03	21		Les_rapports_de_reconnaissance	Les rapports de reconnaissance des 30 mars 1997 et  21 mars 2000, montre que la décharge de Labarde possède une activité biologique par la présence de Méthane et de gaz toxique (H2S).	'de Méthane', '( H2S'	
+2008	11	07		2008	11	07		transmet	Le 07/11/2008, la CUB transmet le plan d'exécution des parties modifiées de la digue Est.		'la CUB'
+1994				1994				Les_études_majeures	Les études majeures sont réalisées en 1994 et proposent à cette époque les mesures appropriées de réaménagement et de réhabilitation de la décharge.		
+2005	03			2005	03			sont_présentés	Les programmes prévisionnels d'aménagement et de gestion des eaux sont présentés en mars 2005 et non validés par la DRIRE malgré les observations et les réponses de mai et juillet 2005.		'la DRIRE'
+2010	09			2010	09			réalisé	- drainage sous membrane du bassin eaux plubiales n°3 réalisé en septembre 2010,		
+2002				2002				Les_campagnes_de	Les campagnes de 2001, 2002 et 2003 confirment la variabilité du phénomène et la persistance de l'impact de cette ancienne décharge sur les eaux souterraines et superficielles.		
+2005				2005				mis_en_place	Aucune donnée n'existe pour les années 2003 et 2004 pour ce qui concerne les nouveaux piézomètres mis en place en 2005.		
+2008	11			2008	11			des_travaux_de	L'état d'avancement des travaux de novembre 2008 montre que la rectification de la digue au niveau des 2 pylones EDF est réalisée et que le choix de l'étanchéité de la couverture se porte sur un géoespaceur (film thermoformé) et un filtre géotextile.		'EDF'
+2010	02	12		2010	02	12		ont_été_fournis	- Les rapports de bouchage de octobre 2005, février 2008 et novembre 2009 ont été fournis dans le dossier d’ouvrages exécutés PL/AH/10.049 et transmis par la Communauté Urbaine de Bordeaux le 12/02/2010.		'la Communauté Urbaine'
+2009				2009				A_partir_de	A partir de nov. 2009, on voit apparaître un impact par les AOX, dans la nappe superficielle (1130 µg/l), mais aussi dans la nappe captive en mai 2010 ( 1400 µg/l).	'les AOX'	
+2001				2001				Les_campagnes_de	Les campagnes de 2001, 2002 et 2003 confirment la variabilité du phénomène et la persistance de l'impact de cette ancienne décharge sur les eaux souterraines et superficielles.		
+2008	01	15		2008	01	15		de_la_visite_de_récolement	Lors de la visite de récolement du 15/01/2008, la DRIRE constate l'inexécution des travaux prescrits par l'arrêté du 14/06/2004.		'la DRIRE'
+2006	09	14		2006	09	14		La_campagne	La campagne du 14/09/2006 montre à nouveau une dégradation, mais d'ampleur moindre que lors de la campagne du 28/11/2005.		

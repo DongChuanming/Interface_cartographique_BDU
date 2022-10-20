@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	08	13		1993	08	13		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 13 août 1993.		
+2005	04	15		2005	04	15		Le_diagnostic_du	Le diagnostic du 15 avril 2005 recommande la mesure des paramètres : Hydrocarbures totaux, BTEX, HAP, Chlorophénols, Chlorothalonil, Cyperméthrine, Carbendazime, IPBC, Propiconazole et Tébuconazole.	'Hydrocarbures totaux', 'BTEX', 'HAP', 'Chlorophénols', 'Chlorothalonil', 'Cyperméthrine', 'Carbendazime', 'IPBC', 'Propiconazole', 'Tébuconazole'	

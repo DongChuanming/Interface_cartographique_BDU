@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	06		2004	10	06		de_la_visite	Lors de la visite du 6 octobre 2004, il a été constaté que le site était exploité par Mme Visconti Marlène sans autorisation.		
+1999	08	13		1999	08	13		__Arrêté_de_mise_en_demeure	Concernant le proprietaire, la SCI Carreau de la Mine d'Anderny : Arrêté de mise en demeure du 13/08/1999 et arrêté de consignation du 21/03/2000 pour un montant de 300 kF.		'la SCI Carreau'
+2005	04	12		2005	04	12		Le_jugement	Le jugement du 12 avril 2005 de la Cour d'appel de Nancy condamne Mme Visconti.		"Cour d' appel de Nancy condamne Mme"

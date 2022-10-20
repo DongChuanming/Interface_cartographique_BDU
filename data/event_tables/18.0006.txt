@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10			2003	10			un_impact	- Deux piézomètres sur les huit utilisés pour le suivi montrent un impact en benzène ponctuel en octobre 2002, octobre 2003 et sur les deux campagnes de 2005.	'benzène'	
+2007	03	19		2007	09	30		Des_travaux_de_réhabilitation	Des travaux de réhabilitation du site ont eu lieu du 19 mars 2007 au 30 septembre 2007.		
+2010	04			2010	04			à_partir_de	Suite aux faibles concentrations en HAP relevée dans les eaux souterraines en aval du site et à leur forte baisse depuis les travaux de 2007, il a été décidé de ne plus suivre ce paramètre dans le suivi des eaux à partir de la campagne d'avril 2010.	'HAP'	
+2005				2005				un_impact	- Deux piézomètres sur les huit utilisés pour le suivi montrent un impact en benzène ponctuel en octobre 2002, octobre 2003 et sur les deux campagnes de 2005.	'benzène'	
+2006	04			2006	04			de_la_campagne	Suite aux résultats obtenus, l'analyse portant sur les hydrocarbures a été arrêtée à partir de la campagne d'avril 2006.	'hydrocarbures'	
+1996				1996				Lors	Lors de travaux de soudures sur une canalisation de gaz en 1996, un regard à goudron a été mis à jour.		
+2002	01			2002	01			a_repris	La surveillance de la qualité de l'eau souterraine demandée par la DRIRE à Gaz de France, a repris en janvier 2002.		'la DRIRE', 'Gaz de France'
+2010	04			2010	04			ne_plus_suivre_ce_paramètre	Suite aux faibles concentrations en HAP relevée dans les eaux souterraines en aval du site et à leur forte baisse depuis les travaux de 2007, il a été décidé de ne plus suivre ce paramètre dans le suivi des eaux à partir de la campagne d'avril 2010.	'HAP'	
+2003	09	10		2003	09	10		une_étude_d__actualisation	Suite à ces constats, une étude d'actualisation des données hydrogéologiques datée du 10 septembre 2003 a recherché les impacts potentiels de cette pollution.		
+2002	11	15		2002	11	15		a_été_autorisé	Le 15 novembre 2002, EDF a été autorisé par arrêté interministériel à apporter ses biens immobiliers tertiaires à SOFILO, filiale qu'elle détient à 100%.		'EDF', 'SOFILO'
+1995				1995				a_fait_l__objet	En raison d'un projet de réaménagement interne pour les besoins d'EDF / GDF, ce site a fait l'objet en 1995 d'un diagnostic approfondi.		'GDF'
+1840				1950				a_accueilli	Le terrain situé en périphérie Sud-Ouest du centre ville de Bourges, d'une superficie totale de 30 000 m2, a accueilli de 1840 à 1950 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1997	12			1997	12			ont_été_arrêtées	Les analyses d'eau ont été arrêtées par l'exploitant en décembre 1997.		
+2007				2007				il_a_été_décidé	Suite aux faibles concentrations en HAP relevée dans les eaux souterraines en aval du site et à leur forte baisse depuis les travaux de 2007, il a été décidé de ne plus suivre ce paramètre dans le suivi des eaux à partir de la campagne d'avril 2010.	'HAP'	
+2002	10			2002	10			un_impact	- Deux piézomètres sur les huit utilisés pour le suivi montrent un impact en benzène ponctuel en octobre 2002, octobre 2003 et sur les deux campagnes de 2005.	'benzène'	
+2007				2007				les_travaux	Suite aux faibles concentrations en HAP relevée dans les eaux souterraines en aval du site et à leur forte baisse depuis les travaux de 2007, il a été décidé de ne plus suivre ce paramètre dans le suivi des eaux à partir de la campagne d'avril 2010.	'HAP'	
+1997				1997				a_été_traitée	En 1997, la phase liquide de 120 m3 contenue dans le gazomètre n°2 a été traitée par la mise en œuvre d'un procédé de stripping pour extraire et récupérer sur charbon actif les BTEX, et d'une unité de traitement biologique pour dégrader les polluants organiques tels que le phénol.	'charbon actif', 'BTEX', 'les polluants organiques', 'phénol'	
+1994				1997				ont_été_contrôlées	Les eaux de la nappe ont été contrôlées régulièrement entre 1994 et 1997 au moyen de 4 piézomètres.		
+1982				1982				accueille	Depuis 1982, date de construction des bâtiments de l'époque moderne, le terrain accueille le centre EDF / GDF Services Cher en Berry (bâtiments administratifs et techniques, poste de détente gaz).		'le centre EDF', 'GDF'
+1996				1996				a_été_mis_à_jour	Lors de travaux de soudures sur une canalisation de gaz en 1996, un regard à goudron a été mis à jour.		
+2006	04			2006	04			a_été_arrêtée	Suite aux résultats obtenus, l'analyse portant sur les hydrocarbures a été arrêtée à partir de la campagne d'avril 2006.	'hydrocarbures'	
+1950				1950				L__arrêt_de	L'arrêt de la production de gaz de houille en 1950 est justifiée par l'arrivée du gaz naturel.		

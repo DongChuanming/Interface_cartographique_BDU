@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1925				1956				a_été_occupé	L'ilot U a été occupé entre 1925 et 1956 par des terres agricoles.		
+2004	02	13		2004	02	13		une_surveillance_des_eaux_souterraines	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+2004	02	13		2004	02	13		fait_l__objet_d_	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		

@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				un_arrêt	L'exploitant envisage un arrêt de son unité de traitement au cours du 1er trimestre 2012, suivi d'une période d'observation de l'évolution des teneurs et ce, jusqu'en 2013-2014.		
+2009	06			2009	06			a_été_communiqué	Ce plan a été communiqué à la DREAL en juin 2009.		'la DREAL'
+2012				2012				envisage	L'exploitant envisage un arrêt de son unité de traitement au cours du 1er trimestre 2012, suivi d'une période d'observation de l'évolution des teneurs et ce, jusqu'en 2013-2014.		
+2006				2006				__achat	2006 : achat d’Antavia par le groupe britannique UMECO.		'd’ Antavia', 'le groupe britannique UMECO'
+2008				2008				a_été_déraciné	Le verger utilisant un puits pour son irrigation a été déraciné en 2008.		
+								a_démarré	Le site a démarré dans les années 80 sur des terrains agricoles.		
+2008	06			2008	06			a_prévu	L'entreprise a prévu d'informer officiellement le préfet et le maire de cette pollution en leur communiquant les études évoquées fin juin 2008.		'le préfet'
+2008	03			2008	03			a_été_élaborée	En mars 2008 une analyse des risques sanitaires a été élaborée et a conclu à l'absence de risque immédiat pour les usages constatés (sur site et hors site).		
+2009				2009				Les_travaux_ont_démarré	Les travaux ont démarré au second semestre 2009 leur durée était alors estimée de 9 à 15 mois.		
+								envisage	L'exploitant envisage un arrêt de son unité de traitement au cours du 1er trimestre 2012, suivi d'une période d'observation de l'évolution des teneurs et ce, jusqu'en 2013-2014.		
+2010				2010				__création	Le site est bordé par le stade communal, des terrains agricoles, un nouveau lotissement (création en 2010) et à proximité d'autres lotissements.		
+2007	10			2007	10			premier_diagnostic_complété	En octobre 2007, premier diagnostic complété en novembre 2007 à la suite de la découverte d'une pollution en TCE (trichloroéthylène) (sol : 63 mg/kg, eaux souterraines sur site : 16 mg/l et hors site:9,4 mg/l) et CIS 1,2 DCE (dichloroéthylène) (sol : 1,5 mg/kg et eaux souterraines sur site, 1,6 mg/l et hors site 0,204 mg/l).	'TCE', 'trichloroéthylène', 'CIS 1,2 DCE', 'dichloroéthylène'	
+2005				2005				n__est_plus_utilisé	Le TCE n'est plus utilisé sur le site depuis 2005.		'Le TCE'
+2007				2007				__rachat_de	Fin 2007 : rachat de la société par le groupe américain AMETEK.		'groupe américain AMETEK'
+2010				2010				Plusieurs_campagnes_de_prélèvement_ont_eu_lieu	Plusieurs campagnes de prélèvement ont eu lieu en 2010 (4 pour les eaux souterraines et 2 pour l'air ambiant), assorties d'une auto-surveillance des rejets eau et air de l'installation de traitement.		
+2011	05			2011	05			a_donc_été_remise_en_service	L'unité a donc été remise en service en mai 2011 pour contenir ce rebond et l'exploitant a proposé d'utiliser plusieurs techniques pour traiter cette nouvelle source (venting puis traitement de finition par dégradation biologique, le tout avec un confinement hydraulique).		
+2009	05	25		2009	05	25		a_été_pris	Un arrêté municipal a été pris le 25 mai 2009 pour limiter les usages de l'eau dans le panache extérieur au site dans l'attente des travaux.		
+2007	11			2007	11			premier_diagnostic_complété	En octobre 2007, premier diagnostic complété en novembre 2007 à la suite de la découverte d'une pollution en TCE (trichloroéthylène) (sol : 63 mg/kg, eaux souterraines sur site : 16 mg/l et hors site:9,4 mg/l) et CIS 1,2 DCE (dichloroéthylène) (sol : 1,5 mg/kg et eaux souterraines sur site, 1,6 mg/l et hors site 0,204 mg/l).	'TCE', 'trichloroéthylène', 'CIS 1,2 DCE', 'dichloroéthylène'	
+2011	04			2011	04			a_arrêté	Durant cette période, les concentrations dans la nappe ont baissé d'environ 98 % sur site et hors site ; l'exploitant a arrêté le fonctionnement de son unité de traitement en avril 2011 au motif du coût élevé du traitement au regard de la faible diminution des concentrations mesurées.		
+2009				2009				ce	Un nouveau lotissement s'est construit à proximité immédiate du site et ce, au cours de l'année 2009, l'ensemble des logements étant occupé au 1er janvier 2010.		
+2010	02	16		2010	02	16		signé	Un arrêté préfectoral complémentaire, signé le 16 février 2010, définit les travaux de dépollution, les objectifs de réhabilitation sur site et hors site, la surveillance de la qualité de l'eau et de l'air et le suivi du traitement.		
+								un_arrêt	L'exploitant envisage un arrêt de son unité de traitement au cours du 1er trimestre 2012, suivi d'une période d'observation de l'évolution des teneurs et ce, jusqu'en 2013-2014.		

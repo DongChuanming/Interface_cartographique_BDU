@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02	04		2009	02	04		a_été_transmis	Celui-ci a été transmis à l'inspection des installations classées le 4 février 2009.		
+2006				2006				Les_campagnes	Les campagnes de 2006 et de 2008 n'ont pas révélées d'anomalie.		
+2013	11	05		2013	11	05		Une_visite	Une visite du site le 05/11/2013 a permis de constater :		
+2008				2008				Les_campagnes	Les campagnes de 2006 et de 2008 n'ont pas révélées d'anomalie.		
+2001				2001				une_campagne_réalisée	Concernant les eaux souterraines, une campagne réalisée en 2001 sur 5 piézomètres a mis en évidence une anomalie en chrome (270 µg/L) et en TCE+PCE (10,1 µg/L) sur un piézomètre (PZ5).	'chrome', 'TCE+PCE'	
+2011	12	27		2011	12	27		a_été_reçu	Un dossier de fin de travaux concernant l'ancien atelier garnissage a été reçu le 27 décembre 2011 par l'inspection des installations classées.		
+2008	12			2008	12			a_été_vendu	Le site a été vendu à la Communauté Urbaine de LYON  (Grand Lyon)en décembre 2008 afin de construire la station de métro "Gare d'Oullins" suite à l'extension de la ligne B et des parcs relais pour véhicules situés au nord et au sud de la station de métro.		'la Communauté Urbaine de LYON', '( Grand Lyon)en'
+2009	08	25		2009	08	25		a_été_reçu	Un dossier de mise en sécurité du site a été reçu le 25 août 2009 par l'inspection des installation classées.		
+2011	07	08		2011	07	08		a_été_reçu	Un dossier de fin de travaux concernant l'ancien local Broierie a été reçu le 8 juillet 2011 par l'inspection des installations classées.		
+2008	06	09		2008	06	09		a_demandé	Par courrier du 9 juin 2008, l'inspection des installations classées a demandé à la SNCF d'effectuer la déclaration de cessation d'activités puis un arrêté préfectoral du 16 octobre 2008 a mis en demeure la SNCF de  fournir un dossier complet de cessation d'activités.		'la SNCF', 'la SNCF'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_connu	Néanmoins durant la période de 2007 à 2010, le site a connu un certain nombre de problèmes techniques au niveau de la production (difficultés à maîtriser le procédé).		
+2011	11	24		2011	11	24		une_mise_à_l__arrêté_définitif	Les difficultés rencontrées par la société OXAME ont abouti à une mise à l'arrêté définitif du site par jugement du tribunal de commerce de Sedan du 24 novembre 2011.		'la société OXAME', 'de commerce de Sedan'
+2011	11	24		2011	11	24		a_été_désigné_mandataire_liquidateur	Maître Brunon Raulet a été désigné mandataire liquidateur de la société OXAME le 24 novembre 2011 par le même tribunal de commerce.		'Brunon Raulet', 'la société OXAME'
+2011	12	05		2011	12	05		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 5 décembre 2011 par l'inspection des installations classées afin de vérifier que le site ne présentait pas de risque immédiat pour la santé humaine et l'environnement.		
+2011	12	05		2011	12	05		constats_réalisés_lors_de_la_visite	L'inspection des installations classées a pris contact avec le mandataire liquidateur afin de lui faire part des constats réalisés lors de la visite d'inspection du 5 décembre 2011.		
+2012	02			2012	02			a_repris_contact_avec	L'inspection des installations classées a repris contact avec le mandataire liquidateur fin février 2012 afin de faire le point sur la liquidation judiciaire de la société OXAME.		'la société OXAME'
+2007	09			2007	09			est_née	La société OXAME est née en septembre 2007 à la suite de la scission de l’établissement Ideal Standard France de Revin.		'La société OXAME'
+2011	12	05		2011	12	05		a_pris_contact_avec	L'inspection des installations classées a pris contact avec le mandataire liquidateur afin de lui faire part des constats réalisés lors de la visite d'inspection du 5 décembre 2011.		
+2007				2007				a_connu	Néanmoins durant la période de 2007 à 2010, le site a connu un certain nombre de problèmes techniques au niveau de la production (difficultés à maîtriser le procédé).		
+2009	02	19		2009	02	19		avait_cependant_été_pris	Un arrêté préfectoral de mesures conservatoires avait cependant été pris le 19 février 2009 afin d'encadrer les activités de cette société.		

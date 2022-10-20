@@ -1,6 +1,8 @@
- Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1987	12	17		1987	12	17			autorisé								
-2006	08			2006	08				un_dépôt	bilan							
-2006	08	31		2006	08	31			a_été_mise_en_liquidation	La_SARL_LUCIANI							
-2006	12	05		2006	12	05		Le_liquidateur	a_fait_une_déclaration								
-2008	07			2008	07				signé								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12	03		2007	12	03		par_courrier	Le liquidateur a informé la préfecture par courrier du 03/12/2007 que le site devaît être vendu à la ville de Malakoff.		'la préfecture'
+2006	12	05		2006	12	05		cessation_d__activité	Le liquidateur a fait une déclaration de cessation d'activité du 05/12/2006.		
+2006	08	31		2006	08	31		a_été_mise_en_liquidation	La SARL LUCIANI a été mise en liquidation le 31/08/2006.		'La SARL LUCIANI'
+1987	12	17		1987	12	17		accueillait	Le site accueillait un atelier de traitement de surface de type "façonnier" autorisé par arrêté préfectoral du 17 décembre 1987.		
+2006	12	05		2006	12	05		a_fait_une_déclaration	Le liquidateur a fait une déclaration de cessation d'activité du 05/12/2006.		
+2008	07			2008	07			__acte_de_vente_signé	La Ville est devenue  propriétaire du site (acte de vente signé en juillet 2008) avec un projet de rénovation d’urbanisme.		'La Ville'
+2006	08			2006	08			un_dépôt_de_bilan	Cet atelier de traitement de surface a fait l'objet d'un dépôt de bilan en août 2006.		

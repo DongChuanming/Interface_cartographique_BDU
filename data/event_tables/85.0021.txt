@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				a_intégré	En 1974, l'entreprise a intégré un atelier de galvanisation à chaud et un atelier d'électrozingage afin de mieux protéger le matériel exposé aux intempéries.		
+2010	03	11		2010	03	11		lors_de_sa_visite	Dans le cadre de la cessation d'activité, lors de sa visite en date du 11 mars 2010 sur le site, l'inspection a constaté que l'exploitant ne respectait pas :		
+2010				2010				a_cessé	La société ARB a cessé son activité en 2010 et a été liquidée en 2011.		'La société ARB'
+2011				2011				a_été_liquidée	La société ARB a cessé son activité en 2010 et a été liquidée en 2011.		'La société ARB'
+1949				1949				a_été_créée	L'entreprise a été créée en 1949 pour la fabrication de clôtures électriques pour le gardiennage d'animaux (clôtures de champs) et les boîtiers en tôle d'acier peinte contenant la partie électrique (HT).	'HT'	
+2011	12	06		2011	12	06		informe	Le 6 décembre 2011, la société GENIA informe l'administration que, conformément à leur engagement lors de la reprise du fonds de commerce de la société ARN SN, l'enlèvement et la dépollution des produits stockés sur le site ont été effectués.		'la société GENIA', 'la société ARN SN'
+2011				2011				a_cessé	La société ARB a cessé son activité en 2010 et a été liquidée en 2011.		'La société ARB'
+2010	11			2010	11			L__audit_pollution_établi	L'audit pollution établi par la société Ouest Conseils Etudes Environnement en novembre 2010 a mis en avant des valeurs élevées en plomb, cuivre et zinc dans le sol des fossés en sortie de step (station d'épuration) et en zinc dans un puits.	'plomb', 'cuivre', 'zinc', 'zinc'	'la société Ouest'

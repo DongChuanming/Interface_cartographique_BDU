@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				implante	- En 1987: Air liquide y implante une usine de fabrication d'hydrogène.	'hydrogène'	'Air liquide'
+1998				1998				Évaluation_simplifiée_des_risques	- Diagnostic initial et Évaluation simplifiée des risques réalisés en 1998		
+1976				1976				Cessation_d__activité	- Cessation d'activité en 1976, démantèlement au cours des années 1980		
+2006	01	23		2006	01	23		travaux___excavation	- travaux: excavation et évacuation des terres polluées aux HAP, à partir du 23/01/2006.		
+1998	02	06		1998	02	06		imposant	- Arrêté prefectoral du 06/02/1998 imposant à la SA Charbonnages de France des prescriptions complémentaires pour la remise en état de la friche industrielle située sur le territoire de la commune de Waziers.		'la SA Charbonnages de France'
+2006	03	03		2006	03	03		fin_de_travaux_remis	- Dossier de fin de travaux remis le 03/03/2006.		
+								démantèlement	- Cessation d'activité en 1976, démantèlement au cours des années 1980		

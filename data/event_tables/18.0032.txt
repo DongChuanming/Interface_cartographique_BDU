@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				des_analyses	A la demande de l'administration, des analyses de sédiments et de sols ont été effectuées en 2000 et ont abouti à la réalisation d'un diagnostic initial en février 2001.		
+2008				2008				ont_été_éliminés	Les 2 transformateurs aux PCB restant sur le site ont été éliminés en 2008.	'PCB'	
+2010				2010				un_changement	En 2010, un changement d'exploitant en faveur de la société KOYO est déclaré.		'la société KOYO'
+2005	04			2005	04			Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été réalisés en avril 2005.		
+2001	02			2001	02			une_demande_d_	En février 2001, la société NADELLA a déposé auprès de la préfecture du Cher une demande d'autorisation pour l'exploitation d'un atelier de travail mécanique et de traitement des métaux.		'la société NADELLA'
+2004	09	14		2004	09	14		de_l__inspection	Lors de l'inspection du 14 septembre 2004, il a été constaté :		
+2006	01			2006	01			Une_investigation	Une investigation des sédiments a été menée en janvier 2006.		
+2003	01	15		2003	01	15		Une_inspection_faite	Une inspection faite le 15 janvier 2003 a permis de constater la réalisation des travaux suivants : clôture du site, installation de trois séparateurs d'hydrocarbures, installation générale de rétentions et protection du forage de l'usine.	'hydrocarbures'	
+1946				1946				s__y_est_installée	La Société des roulements à Aiguilles NADELLA s'y est installée en 1946.		'La Société des roulements à Aiguilles'
+2002				2002				a_demandé	L'administration a demandé en 2002 à la société Nadella d'établir une surveillance de la qualité des eaux souterraines en hautes et basses eaux sur les 11 piézomètres, d'engager une procédure de dépollution des sédiments de La Chée et de clôturer les zones polluées du site.		'la société Nadella'
+2006	08			2006	08			Des_travaux_de_dépollution	Des travaux de dépollution de la lagune et de la Chée ont été réalisés au mois d'août 2006.		
+2004				2010				Des_analyses	Des analyses des eaux souterraines ont été réalisées semestriellement entre 2004 et 2010 sur les paramètres BTEX, COHV, HAP, HCT, cyanures, métaux lourds, PCB, phénols.	'BTEX', 'COHV', 'HAP', 'HCT', 'cyanures', 'métaux lourds', 'PCB', 'phénols'	
+2001	02			2001	02			ont_abouti_à_la_réalisation_d__un_diagnostic_initial	A la demande de l'administration, des analyses de sédiments et de sols ont été effectuées en 2000 et ont abouti à la réalisation d'un diagnostic initial en février 2001.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04			2000	04			a_été_utilisé	D'avril 2000 à août 2005, le site a été utilisé comme quai de transfert pour les ordures ménagères collectées par le SIVOM de la Vallée d'Ossau, devenu depuis Communauté de Communes.	'les ordures ménagères'	"le SIVOM de la Vallée d'", 'Communauté de Communes'
+								la_déclaration	Il prescrit également la déclaration de cessation d'activité dans un délai de 1 an et le démantèlement de l'incinérateur dans un délai de 2 ans.		
+2005	08			2005	08			a_été_utilisé	D'avril 2000 à août 2005, le site a été utilisé comme quai de transfert pour les ordures ménagères collectées par le SIVOM de la Vallée d'Ossau, devenu depuis Communauté de Communes.	'les ordures ménagères'	"le SIVOM de la Vallée d'", 'Communauté de Communes'
+1999	11	17		1999	11	17		constate	Le 17 novembre 1999, l'inspection des installations classées constate la non conformité des installations.		
+								l__évacuation	Cet arrêté prescrit, dans un délai de 2 mois, l'évacuation des terres souillées par des hydrocarbures, et des résidus présents dans la cuve d'extinction et dans de débourbeur.	'hydrocarbures'	
+2006	06	20		2006	06	20		la_visite	L'arrêté préfectoral du 18 avril 2007 fait suite à la visite de l'inspecteur des installations classées du 20 juin 2006.		
+2000	04			2000	04			a_été_arrêtée	L'usine d'incinération a été arrêtée en avril 2000.		
+2010	06	10		2010	06	10		informe	Le 10 juin 2010, la Communauté de Commune de la Vallée d'Ossau informe la DREAL que le bureau d'études ARCADIS est chargé de réaliser le diagnostic et les travaux de dépollution.		'la Communauté de Commune de la Vallée', 'la DREAL', 'ARCADIS'
+1982	01	28		1982	01	28		ont_été_autorisées	Les installations ont été autorisées par l'arrêté préfectoral du 28 janvier 1982.		
+1993	01	15		1993	01	15		est_mis_en	Le 15 janvier 1993, le SIVOM est mis en demeure de respecter l'arrêté préfectoral d'autorisation du 28 janvier 1982 pour ce qui concerne l'élimination des mâchefers en décharge autorisée et la mise ne place de mesures en continue des poussières émises.		'le SIVOM'
+2000	04			2000	04			cesser_son_exploitation	L'impossibilité technique de mettre l'incinérateur aux normes amène le SIVOM à cesser son exploitation en avril 2000.		'le SIVOM'

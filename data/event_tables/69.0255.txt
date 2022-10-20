@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	09	23		2014	09	23		a_été_transmis	Le plan de gestion a été transmis le 23 septembre 2014.		
+2011	12			2011	12			trois_phases_d__investigations_environnementales	Dans le cadre de la cessation d'activité de la société LEROY-SOMER MOTEURS PATAY, trois phases d'investigations environnementales ont été menées (janvier, mars et décembre 2011).		'la société LEROY - SOMER MOTEURS PATAY'
+2014	12			2015	10			Les_travaux_de_démolition	Les travaux de démolition des infrastructures ont été réalisés entre décembre 2014 et octobre 2015.		
+2016	02	11		2016	02	11		Par_transmission	Par transmission du 11 février 2016 complétée les 22 février et 22 avril 2016, l’exploitant a fourni le dossier		
+2011	05	23		2011	05	23		et_remis_un_mémoire_de_cessation_d__activité	La société LEROY-SOMER MOTEURS PATAY a cessé son activité le 19/04/2011 et remis un mémoire de cessation d'activité le 23/05/2011.		'La société LEROY - SOMER MOTEURS PATAY'
+								a_fourni	Par transmission du 11 février 2016 complétée les 22 février et 22 avril 2016, l’exploitant a fourni le dossier		
+2011	05	23		2011	05	23		a_cessé_son_activité	La société LEROY-SOMER MOTEURS PATAY a cessé son activité le 19/04/2011 et remis un mémoire de cessation d'activité le 23/05/2011.		'La société LEROY - SOMER MOTEURS PATAY'
+								trois_phases_d__investigations_environnementales	Dans le cadre de la cessation d'activité de la société LEROY-SOMER MOTEURS PATAY, trois phases d'investigations environnementales ont été menées (janvier, mars et décembre 2011).		'la société LEROY - SOMER MOTEURS PATAY'
+2016	04	22		2016	04	22		a_fourni	Par transmission du 11 février 2016 complétée les 22 février et 22 avril 2016, l’exploitant a fourni le dossier		
+2011	09	08		2011	09	08		a_toujours_pas_réalisé_de_plan_de_gestion	Un an après la déclaration de cessation d'activité, l'exploitant n'a toujours pas réalisé de plan de gestion du site, malgré un courrier préfectoral du 08/09/2011.		
+				2015				Les_travaux_de_dépollution	Les travaux de dépollution des sols ont été menés entre juin et juillet 2015.		
+2011	04	19		2011	04	19		a_cessé_son_activité	La société LEROY-SOMER MOTEURS PATAY a cessé son activité le 19/04/2011 et remis un mémoire de cessation d'activité le 23/05/2011.		'La société LEROY - SOMER MOTEURS PATAY'
+2014	09	23		2014	09	23		a_transmis	Par courrier du 23 septembre 2014, la société Leroy Somer Moteurs Patay a transmis une version révisée du		'la société Leroy Somer Moteurs Patay'
+2007	01			2007	01			a_été_soumise_à	L'activité de LEROY-SOMER MOTEURS PATAY a été soumise à autorisation par arrêté préfectoral le 05/09/1996 (mis à jour en janvier 2007 et avril 2008) pour la conception et la production de moteurs électriques, ainsi qu'à l'application de vernis à base de résine.		'LEROY - SOMER MOTEURS PATAY'
+2008	04			2008	04			a_été_soumise_à	L'activité de LEROY-SOMER MOTEURS PATAY a été soumise à autorisation par arrêté préfectoral le 05/09/1996 (mis à jour en janvier 2007 et avril 2008) pour la conception et la production de moteurs électriques, ainsi qu'à l'application de vernis à base de résine.		'LEROY - SOMER MOTEURS PATAY'
+2015	02	24		2015	02	24		arrêté	L’instruction du plan de gestion a abouti au rapport de l’inspection du 24 février 2015 et à l’arrêté		

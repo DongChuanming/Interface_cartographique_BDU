@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07			2009	07			Les_compléments_demandés	Les compléments demandés ont été produits en juillet 2009.		
+2009	05			2009	05			Une_campagne_de_mesures	Une campagne de mesures des niveaux piézométriques au droit des 3 piézomètres a été réalisée en mai 2009.		
+1960				1999				a_exploité	La Mairie de Sainte-Foy-La-Grande a exploité de 1960 à 1999, une décharge de déchets ménagers et assimilés sur le territoire de la commune de Pineuilh, au lieu-dit « Caville ».		'La Mairie de Sainte-Foy-La-Grande'
+2005	07	20		2005	07	20		a_été_mise_en_demeure	Par arrêté préfectoral du 20 juillet 2005, la Mairie de Sainte-Foy-La-Grande a été mise en demeure de déposer un dossier de remise en état comprenant une Évaluation Simplifiée des Risques (ESR) pour cette décharge.		'la Mairie de Sainte-Foy-La-Grande'
+								accorde	Cet arrêté accorde un délai d'1 an à la mairie de Sainte-Foy-La-Grande pour réaliser ces travaux de réhabilitation.		
+2009	05			2009	05			Un_prélèvement	Un prélèvement d’eaux souterraines a également été effectué en mai 2009.		
+2009	11	16		2009	11	16		a_imposé	Sur proposition de l'Inspection des Installations Classées, M. le Préfet de la Gironde a imposé à la Mairie de Sainte Foy La Grande, par arrêté du 16 novembre 2009 :		'le Préfet', 'de la Gironde'
+2006	07			2006	07			a_été_produit	Un premier dossier, réalisé par la société TEREO, a été produit en juillet 2006.		'la société TEREO'

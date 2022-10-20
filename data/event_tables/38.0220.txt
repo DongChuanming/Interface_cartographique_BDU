@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04	10		2003	04	10		est_intervenu	Le 10 avril 2003, G Environnement est intervenu sur le site afin de démanteler les installations.		
+1995	06	27		1995	06	27		signé	Cette activité a fait l'objet d'un arrêté d'autorisation signé le 27/06/1995.		
+2003	06	16		2003	06	16		a_été_implanté	Dans le cadre de cette étude, un piézomètre de contrôle a été implanté sur le site le 16/06/2003.		
+2003	07	18		2003	07	18		Une_étude_simplifiée_des_risques	Une étude simplifiée des risques a ensuite été réalisée par le même bureau d'étude en date du 18/07/2003.		
+1995	06	27		1995	06	27		a_fait_l__objet_d_	Cette activité a fait l'objet d'un arrêté d'autorisation signé le 27/06/1995.		
+1982	05			1982	05			a_débuté_son_activité	La station service SHELL a débuté son activité au mois de mai 1982, le site était jusqu'alors à usage agricole.		'La station service SHELL'
+2003				2003				s__arrête	En 2003, l'activité de distribution de carburant s'arrête.	'carburant'	

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	06	01		2016	06	01		l__arrêt_de	L'inspection a acté l'arrêt de la surveillance des eaux souterraines par un courrier du 01/06/2016.		
+1999				1999				le_diagnostic	° d'une source de sol pollué aux hydrocarbures, localisée par le diagnostic ATE de 1999 entre 4 et 7 m de profondeur, et qui n’a pas été excavée.	'hydrocarbures'	
+1999	11			1999	11			a_déposé_un_diagnostic	Dans le cadre de la cessation d'activité de cette installation de stockage et de distribution de carburant, l'exploitant a déposé un diagnostic en novembre 1999 qui mettait en évidence une pollution des sols et des eaux souterraines par des hydrocarbures.	'carburant', 'hydrocarbures'	
+2016	06	01		2016	06	01		un_courrier	L'inspection a acté l'arrêt de la surveillance des eaux souterraines par un courrier du 01/06/2016.		
+2015				2015				bilan_quadriennal	Un bilan quadriennal 2012-2015 sera ensuite établi.		
+2015	06	19		2015	06	19		un_courrier	Par un courrier du 19/06/2015 l'exploitant a fait parvenir au préfet de la Savoie une demande d'institution de servitudes d'utilité publique faisant l'objet d'un rapport de l'inspection en date du 19/10/2016 visant:		'préfet de la Savoie'
+2003	05	19		2003	05	19		a_été_signé	Cet arrêté a été signé le 19 mai 2003.		
+2000	08			2000	08			Les_travaux_de_dépollution	Les travaux de dépollution ont été menés d'août 2000 à juillet 2004.		
+2004	07			2004	07			un_diagnostic_approfondi	Pour faire suite aux travaux de dépollution, l'exploitant a remis un diagnostic approfondi et une évaluation détaillée des risques pour la santé et les ressources en eaux en juillet 2004.		
+1999				1999				un_diagnostic_environnemental	En effet, dans le cadre d'un diagnostic environnemental effectué dès 1999 par la société BP, des concentrations significatives en hydrocarbures ont été mises en évidence dans les terres situées sous l'installation jusqu'à des profondeurs de l'ordre de 7 mètres.	'hydrocarbures'	'la société BP'
+2004	07			2004	07			Les_travaux_de_dépollution	Les travaux de dépollution ont été menés d'août 2000 à juillet 2004.		
+2016	01	11		2016	01	11		un_bilan_quadrienal	Conformément à la demande de L'inspection, l'exploitant a transmis le 11/01/2016 un bilan quadrienal de la surveillance des eaux souterraines accompagné d'une demande d’arrêt de cette surveillance.		
+2007	11	14		2007	11	14		une_campagne_de_surveillance_réalisée	Toutefois, les résultats d'une campagne de surveillance réalisée le 14 novembre 2007 et qui n'ont été transmis à l'inspection qu'en mars 2012 montre une situation qui n'est pas satisfaisante.		
+								a_été_organisée	Une réunion  avec l'exploitant a été organisée le 11/09/14 pour faire le point sur la situation de cet ancien dépôt et définir les suites à donner au dossier.		
+2012				2012				bilan_quadriennal	Un bilan quadriennal 2012-2015 sera ensuite établi.		
+2012	03			2012	03			n__ont_été_transmis	Toutefois, les résultats d'une campagne de surveillance réalisée le 14 novembre 2007 et qui n'ont été transmis à l'inspection qu'en mars 2012 montre une situation qui n'est pas satisfaisante.		

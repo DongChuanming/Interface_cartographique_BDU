@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01			1997	01			l__étude_réalisée	- Préciser les suites données à l'étude réalisée par le BRGM en janvier 1997.		'le BRGM'
+1997	01			1997	01			un_diagnostic_initial	A la suite de plaintes de propriétaires utilisant l'eau de leur puits, le BRGM, dans le cadre de sa mission de service public, a réalisé un diagnostic initial et une évaluation simplifiée des risques en janvier 1997.		'le BRGM'

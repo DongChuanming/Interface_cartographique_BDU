@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	23		2012	01	23		a_établi_avec	La société a établi avec le propriétaire des terrains des restrictions d'usage de droit privé en date du 23 janvier 2012 qui précisent que :		
+2010	11	22		2010	11	22		l__établissement_de_restrictions	La société RERO n'étant pas en mesure de mettre en œuvre les mesures de gestion préconisées et de rendre compatible les terrain avec l'usage projeté, l'inspection des installations classées a préconisé en date du 22 novembre 2010 l'établissement de restrictions d'usage.		'La société RERO'
+1968				1968				a_été_construite	L’usine de Sartrouville a été construite en 1968 et occupait une superficie de 6 571 m2.		
+2010	01			2010	01			Les_activités	Les activités de la société sur le site de Sartrouville ont été arrêtées de manière définitive en janvier 2010.		'Sartrouville'
+1943				1943				a_été_créée	La société RERO a été créée en 1943, elle est spécialisée dans la fabrication de produits de salaisons.		'La société RERO'
+2010	11	15		2010	11	15		La_mise_en_sécurité	La mise en sécurité du site a été constatée par l'inspection des installations classées lors d'une visite le 15 novembre 2010.		

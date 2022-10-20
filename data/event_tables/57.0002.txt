@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				la_cessation_d__activité	A la suite de la cessation d’activité, déclarée en 2003, des études environnementales ainsi que des travaux de réhabilitation ont été menés.		
+2013				2013				a_procédé_au_recouvrement	n 2013, la société RETIA a procédé au recouvrement par des matériaux sains des secteurs identifiés comme devant faire l’objet d’une couverture.		'la société RETIA'
+								se_sont_développées	Au début du 19éme siècle, des fabrications de produits chimiques minéraux, utilisant le sel comme matière première des productions, se sont développées au sein de « l’usine-saline » de Dieuze.	'produits chimiques minéraux'	
+2003				2003				des_études_environnementales	A la suite de la cessation d’activité, déclarée en 2003, des études environnementales ainsi que des travaux de réhabilitation ont été menés.		
+2014	05	23		2014	05	23		a_réalisé	L’Inspection a réalisé un procès verbal de constat de fin de travaux pour la zone usine (rapport du 23 mai 2014).		
+2015	11	18		2015	11	18		a_remis	L’exploitant a remis, le 18 novembre 2015, le plan de gestion révisé.		
+2005				2005				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été menés depuis 2005 ; les opérations ont notamment consisté au transfert vers les buttes AS et CL :		
+2009	09	17		2009	09	17		a_été_réalisée_à_l__issue	En application de l’arrêté préfectoral n° 2009- DEDD/IC-189 du 17 septembre 2009, une analyse des risques résiduels (ARR) a été réalisée à l’issue des travaux.		
+2014	12	1		2014	12	1		a_fait_l__objet_de	L’exploitant a remis un plan de gestion, le 15 avril 2014, qui a fait l’objet de compléments le 1er décembre 2014.		
+				1973				exploitait_de_façon_industrielle	Le site industriel ATOFINA s’est développé à partir de la « mine-usine » qui exploitait de façon industrielle, depuis au moins 1829 jusqu’en 1973, le gisement de sel présent dans les couches sous-jacentes au site industriel.	'sel'	'industriel ATOFINA'

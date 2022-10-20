@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				d__un_diagnostic_approfondi	En raison de ce projet, le site a fait l'objet d'un diagnostic initial et d'un diagnostic approfondi réalisés en 1998 et 1999 par un bureau d'études extérieur, à la demande de Gaz de France.		'Gaz de France'
+								détruit	Le site a été occupé par les locaux des agences clientèle et d'exploitation d'EDF GDF SERVICES du district de Figeac puis détruit dans les années 2000.		"d' EDF GDF SERVICES"
+2007				2007				réaliser	Le site a été vendu par la société Gaz de France à la mairie de FIGEAC le 20 juillet 2001 qui va y réaliser un parking courant 2007.		'la société Gaz de France', 'FIGEAC'
+1998				1998				d__un_diagnostic_approfondi	En raison de ce projet, le site a fait l'objet d'un diagnostic initial et d'un diagnostic approfondi réalisés en 1998 et 1999 par un bureau d'études extérieur, à la demande de Gaz de France.		'Gaz de France'
+1886				1967				a_fonctionné	Il a accueilli les installations d'une usine de fabrication de gaz à partir de la distillation de la houille qui a fonctionné de 1886 à 1967.		
+2001	07	20		2001	07	20		a_été_vendu	Le site a été vendu par la société Gaz de France à la mairie de FIGEAC le 20 juillet 2001 qui va y réaliser un parking courant 2007.		'la société Gaz de France', 'FIGEAC'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1999	09			1999	09			agréé	Le contenu des deux cuves ainsi que les terres polluées représentant 288 tonnes ont été éliminés en centre d'incinération agréé en septembre 1999.		
+1886				1967				a_accueilli	Il a accueilli les installations d'une usine de fabrication de gaz à partir de la distillation de la houille qui a fonctionné de 1886 à 1967.		
+								a_été_occupé	Le site a été occupé par les locaux des agences clientèle et d'exploitation d'EDF GDF SERVICES du district de Figeac puis détruit dans les années 2000.		"d' EDF GDF SERVICES"
+2016	06			2016	06			a_eu_connaissance	L'inspection a eu connaissance en juin 2016 d'un projet de la ville de Figeac de créer sur le site un complexe de cinéma.		
+2001	07			2001	07			a_acquis	La mairie de Figeac a acquis le terrain en juillet 2001 pour y réaliser un parking de surface.		
+1999	09			1999	09			ont_été_éliminés	Le contenu des deux cuves ainsi que les terres polluées représentant 288 tonnes ont été éliminés en centre d'incinération agréé en septembre 1999.		
+2016	07	05		2016	07	05		reçu	Le dernier compte rendu annuel reçu le 5 juillet 2016 fait toujours état d’une pollution des eaux souterraines au droit du site par des cyanures et des HAP.	'cyanures', 'HAP'	

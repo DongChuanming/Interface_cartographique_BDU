@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				apparaît_dans_sa_configuration	En 1972, le site apparaît dans sa configuration actuelle (ensemble commercial et station-service).		
+2011	05	24		2011	05	24		de_déclaration	L’établissement exploité par la société SAS CASINO Carburants a fait l’objet d’un récépissé de déclaration en date du 24 mai 2011 pour la rubrique 1435.	'Carburants'	'la société SAS CASINO'
+1958				1958				est_construit	Selon l’étude historique réalisée en juillet 2010, en 1958, un bâtiment est construit en lieu et place de l’actuel bâtiment.		
+2014	09	09		2014	09	09		La_visite_d__inspection	La visite d’inspection du 09 septembre 2014 a permis de constater le démantèlement de l’ensemble des installations en surface du site et la présence des piézomètres.		

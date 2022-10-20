@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	08	07		1992	08	07		une_étude_d_	A la demande du syndicat Mixte de la Région de Villefranche pour le Traitement des Ordures Ménagères, le BRGM a effectué le 07/08/1992 une étude d'impact sur l'environnement concernant le dépôt de cendres dans la décharge de matériaux inertes à Arnas.	'matériaux inertes'	'syndicat Mixte', 'le BRGM'
+2000	02			2000	02			Une_deuxième_campagne_de_prélèvements_d__eaux_souterraines_a_été_effectuée	Une deuxième campagne de prélèvements d'eaux souterraines a été effectuée le 3 et le 4  février 2000, et le 6 octobre pour confirmer les résultats au niveau de PZ7.		
+1995				1995				ont_été_déplacés	Cette décharge étant en zone inondable, les cendres et mâchefers déposés ont été déplacés en 1995 pour être mis "hors eau" sur une plate-forme support située à 1 mètre au dessus de la crue décennale, soit au niveau de la crue centennale, la couverture étant constituée de matériaux argileux.		
+2000	01			2000	01			ont_été_installés	En janvier 2000, de nouveaux piézomètres ont été installés (PZ1 bis (latéral ouest), PZ2 (amont nord-ouest), PZ3 bis (aval), PZ4 bis (aval), PZ5 bis (aval), PZ6 (latéral ouest), PZ7 (nord-ouest), PZ8 (aval))		
+2007	03			2007	03			est_en_place	Une surveillance des eaux souterraines est en place depuis le mois de mars 2007.		
+1992				1992				a_été_mis_en_place	Un suivi de la qualité des eaux souterraines par un réseau de piézomètres a été mis en place depuis 1992.		
+1992				1992				Une_première_campagne_de_prélèvements_et_d__analyses	Une première campagne de prélèvements et d'analyses des eaux souterraines a eu lieu en 1992 sur PZ1, PZ2, PZ3, PZ4, PZ5, PZ6, PZ7.		
+2002	04	29		2002	04	29		informe	Par courrier du 29/04/2002, le SYTRAIVAL informe la DRIRE que le site AVE-MARIA recevait actuellement :		'le SYTRAIVAL', 'la DRIRE', '- MARIA'
+2012	10			2012	10			La_dernière_campagne_renseignée	La dernière campagne renseignée date du mois d'octobre 2012.		
+								Une_deuxième_campagne_de_prélèvements_d__eaux_souterraines_a_été_effectuée	Une deuxième campagne de prélèvements d'eaux souterraines a été effectuée le 3 et le 4  février 2000, et le 6 octobre pour confirmer les résultats au niveau de PZ7.		

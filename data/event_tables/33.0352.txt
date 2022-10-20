@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1990				a_été_exploitée	La décharge a été exploitée entre les années 1970 et 1990 et aurait accueilli principalement des  déchets inertes, des encombrants ménagers, des ordures ménagères et des déchets verts.	'des   déchets inertes'	
+2012				2012				un_diagnostic	La communauté de communes de Médoc-Estuaire a réalisé un diagnostic de l’état de la pollution présente en 2012.		'La communauté de communes de Médoc - Estuaire'

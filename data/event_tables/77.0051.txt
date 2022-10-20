@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09	14		2000	09	14		complétées	Les études ont été déposées le 25 août 1999 et complétées le 14 septembre 2000.		
+1998	03	03		1998	03	03		Les_études_ont_été_prescrites	Les études ont été prescrites par arrêté préfectoral du 3 mars 1998.		
+2003	02	12		2003	02	12		a_été_pris	Un arrêté préfectoral de prescriptions complémentaires a été pris le 12 février 2003, et impose le suivi semestriel de la qualité de la nappe souterraine au droit de 4 piézomètres répartis à chaque extrémité du site et du puits existant.		
+1999	08	25		1999	08	25		ont_été_déposées	Les études ont été déposées le 25 août 1999 et complétées le 14 septembre 2000.		
+2016	10			2016	10			Les_dernières_analyses	Les dernières analyses ont été réalisées en octobre 2016, transmis en janvier 2017.		
+2000	09	14		2000	09	14		ont_été_déposées	Les études ont été déposées le 25 août 1999 et complétées le 14 septembre 2000.		
+1966				1966				exploite	La Société exploite une installation de tannerie de peaux exotiques depuis 1966.		
+2017	01			2017	01			Les_dernières_analyses	Les dernières analyses ont été réalisées en octobre 2016, transmis en janvier 2017.		

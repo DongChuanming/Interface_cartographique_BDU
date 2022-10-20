@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	10	19		2017	10	19		Une_demande_de_permis_de_construire_a_été_déposée	Une demande de permis de construire a été déposée par la société VALLOGIS le 19 octobre 2017 pour la construction de :		'la société VALLOGIS'
+2017	03			2017	03			Des_investigations_menées	Des investigations menées en mars 2017 ont mis en évidence des sols superficiels présentant des anomalies en métaux lourds, en hydrocarbures C12-C40, en HAP, en COHV et en cyanures totaux.	'métaux lourds', 'hydrocarbures C12-C40', 'HAP', 'COHV', 'cyanures totaux'	
+1949				1949				__traitement_de	- de 1949 à 1955 : traitement de surface métallique et mécanique générale par la société HACQUIN.		'la société HACQUIN'
+2017	06			2017	06			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en juin 2017 :		
+1955				1955				__traitement_de	- de 1949 à 1955 : traitement de surface métallique et mécanique générale par la société HACQUIN.		'la société HACQUIN'

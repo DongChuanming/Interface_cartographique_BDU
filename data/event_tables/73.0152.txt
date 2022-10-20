@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								L__étude_historique	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'
+								par_courrier	L’étude historique et bibliographique du site (ANTEA – juin 99 – A16762) a été transmise par courrier du 29/07/99.		'ANTEA'
+								Les_travaux_ont_été_menés	Les travaux ont été menés entre fin septembre et fin décembre en 2005 et sur la même période l’année suivante.		
+								Un_dossier_officiel_de_demande	Un dossier officiel de demande de SUP (ANTEA – juillet 2005 – 37316/B) a été transmis par courrier PEM du 11/07/05.		'ANTEA', 'courrier PEM'
+2005				2005				transférée	Le responsable actuel du site est la société Péchiney Bâtiment (responsabilité transférée en 2005 de Péchiney Electrométallurgie - PEM à Péchiney Bâtiment).		'la société Péchiney Bâtiment', 'Péchiney Electrométallurgie', 'PEM', 'Péchiney Bâtiment'
+2005	07			2005	07			Les_travaux_devaient_être_réalisés	Les travaux devaient être réalisés conformément au rapport ANTEA de juillet 2005, et selon les prescriptions fixées par l’arrêté (reprenant notamment les prescriptions de la DDAF du 22/09/05).		'ANTEA', 'la DDAF'
+				2005				Les_travaux_ont_été_menés	Les travaux ont été menés entre fin septembre et fin décembre en 2005 et sur la même période l’année suivante.		
+1900				1955				ait_été_utilisé	D'après l'étude historique réalisée en 1999, il semblerait que ce dépôt ait été utilisé, de 1900 à 1955 environ, pour le stockage de déchets de l'usine de Villard-du-Planay, située 1 km en amont (voir fiche BASOL dédiée) : cendres, scories, réfractaires de fours, fumées de silice, laitiers, et mâchefers issus de l'activité thermique ; boues de culots de distillation des résidus des réacteurs chimiques à mercure.	'fumées de silice', 'mercure'	
+								Le_dossier_de_récolement	Le dossier de récolement des travaux (ANTEA – août 2007 – 47397/A) a été transmis par courrier Péchiney Bâtiment du 17/09/07.		'ANTEA', 'Péchiney'
+2005	07			2005	07			Un_dossier_officiel_de_demande	Un dossier officiel de demande de SUP (ANTEA – juillet 2005 – 37316/B) a été transmis par courrier PEM du 11/07/05.		'ANTEA', 'courrier PEM'
+2007	08			2007	08			Le_dossier_de_récolement	Le dossier de récolement des travaux (ANTEA – août 2007 – 47397/A) a été transmis par courrier Péchiney Bâtiment du 17/09/07.		'ANTEA', 'Péchiney'

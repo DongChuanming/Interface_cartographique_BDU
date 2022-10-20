@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02			2010	02			une_inspection	En février 2010, une inspection a été réalisée par l'inspection des installations classées.		
+1997				1997				a_décidé	La Société SEB a décidé d'arrêter l'exploitation de cette décharge en 1997, suite à un dépassement des critères de qualité des boues.		'La Société SEB'
+1997				1997				d__arrêter_l__exploitation	La Société SEB a décidé d'arrêter l'exploitation de cette décharge en 1997, suite à un dépassement des critères de qualité des boues.		'La Société SEB'
+2003	05	19		2003	05	19		ont_été_prescrites	Des Servitudes d'Utilité Publique (SUP) ont été prescrites par arrêté préfectoral en date du 19 mai 2003.		
+2001	07			2001	07			Les_travaux_de_réaménagement_du_site	Les travaux de réaménagement du site (pose de l'instrumentation, pose de la membrane bentonique et son recouvrement) débutés en juillet 2001 sont terminés.		
+2013	09	04		2013	09	04		transmet	4 septembre 2013 : à la demande de l'inspection des installations classées, l'exploitant transmet un bilan quadriennal de la surveillance exercée sur le site.		
+2000	05	06		2000	05	06		les_travaux_de_réaménagement	D'autre part, les travaux de réaménagement du site ont été prescrits à l'exploitant par arrêté préfectoral du 6 mai 2000.		

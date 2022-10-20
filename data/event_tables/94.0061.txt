@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								un_diagnostic_initial	Ce site avait fait l’objet d’un diagnostic initial en date du 29 janvier 1999, suite à l'arrêté préfectoral du 09/02/98.		
+2014	01			2014	01			a_été_transmis	Il a été transmis en janvier 2014 et met en évidence que depuis 2002, les teneurs en polluants observées, ont très peu varié.		
+1999	01	29		1999	01	29		un_diagnostic_initial	Ce site avait fait l’objet d’un diagnostic initial en date du 29 janvier 1999, suite à l'arrêté préfectoral du 09/02/98.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930				1930				Créée	Créée en 1930, la société ATELIERS NORMANDS était à l’origine spécialisée dans l’agencement de cafés, hôtels et restaurants.		'la société ATELIERS NORMANDS'
+2012	11			2012	11			a_été_signalé	D’après un rapport d’intervention de Nantes Métropole, une fuite de cette cuve dans le réseau d’assainissement de la ville a été signalé en novembre 2012.		'Nantes Métropole'
+2016				2016				a_déménagé	La société a déménagé à Sainte-Pazanne en 2016 et la cessation d’activité a été déclarée en 2018.		'Sainte-Pazanne'
+2018				2018				a_déménagé	La société a déménagé à Sainte-Pazanne en 2016 et la cessation d’activité a été déclarée en 2018.		'Sainte-Pazanne'
+2019	02			2019	02			Des_investigations_de_reconnaissance_des_sols	Des investigations de reconnaissance des sols ont été effectuées en février 2019. 12 sondages d’une profondeur maximale de 5 mètres ont été réalisés.		
+2018				2018				la_cessation_d__activité	La société a déménagé à Sainte-Pazanne en 2016 et la cessation d’activité a été déclarée en 2018.		'Sainte-Pazanne'
+2018	05	04		2018	05	04		La_cessation_d__activité	La cessation d’activité a été télédéclarée le 4 mai 2018.		
+2001	03	13		2001	03	13		de_déclaration	Le site est une Installation Classée pour la Protection de l’Environnement soumise à déclaration (récépissé de déclaration du 13/03/2001 pour les rubriques 2410 (travail du bois) et 2940 (application, cuisson, séchage de vernis, peinture, apprêt, colle, enduit, etc. sur support quelconque).)		

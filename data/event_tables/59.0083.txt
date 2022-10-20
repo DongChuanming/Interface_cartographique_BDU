@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1980				arrêté	- Ancien site chimique arrêté en 1980 sur lequel se sont implantées successivement deux entreprises de transformation de matières plastiques.		
+2002	02	27		2002	02	27		_Campagne_d__analyse	-Campagne d'analyse d'eau le 27 février 2002: On constate que les résultats sont stables à part une augmentation du plomb au piézomètre P3, et du sodium au piézomètre P4.	'plomb', 'sodium'	

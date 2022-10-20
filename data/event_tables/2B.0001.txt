@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				d__opération_envisagée	De ce fait la réception des travaux est repoussée à mai 2012 avec une fin d’opération envisagée fin 2012.		
+2010				2010				La_réalisation_de_ces_travaux	La réalisation de ces travaux devait s’effectuer en 2009-2010, hors période estivale.		
+1941				1965				a_été_exploitée_industriellement	La carriere de CANARI a été exploitée industriellement de 1941 à 1965 puis laissée quasiment à l'abandon depuis.		'CANARI'
+2009				2009				La_réalisation_de_ces_travaux	La réalisation de ces travaux devait s’effectuer en 2009-2010, hors période estivale.		
+2009				2009				a_été_retardée	Elle a été retardée compte tenu notamment du contexte réglementaire en matière de protection des travailleurs exposés au risque amiante (inspection du travail en 2009).		
+2012	05			2012	05			la_réception_des_travaux_est_repoussée	De ce fait la réception des travaux est repoussée à mai 2012 avec une fin d’opération envisagée fin 2012.		

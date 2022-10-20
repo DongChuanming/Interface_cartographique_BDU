@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				déménage	En 2014, la société déménage.		
+2011	05			2011	05			Un_diagnostic_de_la_qualité_des_sols_a_été_réalisé	Un diagnostic de la qualité des sols a été réalisé en mai 2011. 9 sondages de sols ont été faits.		
+1958				1970				son_activité	De 1958 à 1970, la société CEPIC exerce essentiellement son activité pour la sidérurgie et la métallurgie dans le secteur du traitement de surface.		'la société CEPIC'
+2011	06			2011	06			un_diagnostic_de	En juin 2011, un diagnostic de la qualité des sols a été réalisé.		
+1971				1971				diversifie	En 1971, la société diversifie son activité en développant des pompes centrifuges de type horizontal normalisé en graphite.	'graphite'	
+1958				1970				exerce_essentiellement	De 1958 à 1970, la société CEPIC exerce essentiellement son activité pour la sidérurgie et la métallurgie dans le secteur du traitement de surface.		'la société CEPIC'

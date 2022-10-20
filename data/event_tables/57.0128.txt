@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	10			1997	10			a_été_détectée	En octobre 1997, lors d'un prélèvement de contrôle, une contamination par des hydrocarbures (HC) des eaux de la nappe superficielle a été détectée, localisée dans le sous-sol du bâtiment principal.	'hydrocarbures', 'HC'	
+				2006	10	06		ont_été_pompés	Le pompage a été mis en service le 16 août 2005. 296 litres d’huile ont été pompés dans la nappe jusqu’au 06 octobre 2006 (arrêt du pompage).		
+2003	12			2003	12			une_étude	En décembre 2003, l'exploitant a remis une étude mettant en exergue que :		
+1999	10			1999	10			une_étude	En octobre 1999, la SMAE a réalisé une étude afin de caractériser la vulnérabilité du milieu vis à vis de la pollution en hydrocarbures.	'hydrocarbures'	'la SMAE'
+2005	09	15		2005	09	15		devra_être_mis_en_place	Par ailleurs, un dispositif d'assainissement de la zone polluée par les HC devra être mis en place avant le 15 septembre 2005.	'HC'	
+2003	07			2003	07			a_demandé	En juillet 2003, l'inspection des installations classées a demandé à la SMAE de proposer des solutions pour traiter la zone contaminée.		'la SMAE'
+2005	08	16		2005	08	16		Le_pompage	Le pompage a été mis en service le 16 août 2005. 296 litres d’huile ont été pompés dans la nappe jusqu’au 06 octobre 2006 (arrêt du pompage).		
+2001	05			2001	05			une_Evaluation_Simplifiée_des_Risques	Suite à ce constat, une Evaluation Simplifiée des Risques (ESR, outil en vigueur dans l'ancienne méthodologie sur les sites et sols pollués) a été réalisée en mai 2001.		
+2007	12			2007	12			Les_résultats_des_prélèvements	Les résultats des prélèvements de décembre 2007 montrent que des teneurs en hydrocarbures sont détectées dans les eaux prélevées à l'intérieur de l'usine.	'hydrocarbures'	
+								n__y_a_pas_eu_de_nouvelle_arrivée	Après 6 mois d’arrêt, il n’y a pas eu de nouvelle arrivée d’HC.  La nappe est donc considérée comme purgée de toute présence de produit mobilisable.	'HC', 'de produit mobilisable'	

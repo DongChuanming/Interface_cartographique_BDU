@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	08		2010	04	08		a_été_installé	Celui-ci a été installé le 8 avril 2010.		
+2008	05			2008	05			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2012	03			2012	03			a_indiqué	L'exploitant a indiqué que le traitement serait arrêté en mars 2012.		
+2010	06			2010	06			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2009	07			2009	07			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2004	04	05		2004	04	05		a_été_extraite	La cuve d'huiles usagées a été extraite le 5 avril 2004.		
+2009	09			2009	09			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2009	09			2009	09			de_la_campagne	- des teneurs faibles, proches de celles relevées lors de la campagne de septembre 2009.		
+								le_changement	L'exploitant a indiqué que le traitement passif restait opérationnel et que le changement des colonnes de peroxydes d'hydrogène était réalisé tous les 5 mois environ.	"colonnes de peroxydes d' hydrogène"	
+2010	06			2010	06			cette_campagne	Les concentrations sont du même ordre que le bruit de fond (air extérieur) de cette campagne de juin 2010.		
+								Ce_traitement_a	Ce traitement a duré 2 ans et demi (décembre 2001 à août 2004).		
+2004	10			2004	10			a_ensuite_eu_lieu	Un traitement de finition a ensuite eu lieu d'octobre 2004 à février 2005.		
+2010	03			2010	03			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2012	02	15		2012	02	15		a_été_donné_à	Le récépissé a été donné à l'exploitant en date du 15 février 2012.		
+2008	11			2008	11			ont_été_réalisés	Des rapports de surveillance des eaux souterraines ont été réalisés en mai 2008, en novembre 2008, en juillet 2009, en septembre 2009, en mars 2010 et en juin 2010.		
+2004	08			2004	08			Ce_traitement_a	Ce traitement a duré 2 ans et demi (décembre 2001 à août 2004).		
+2005	02			2005	02			a_ensuite_eu_lieu	Un traitement de finition a ensuite eu lieu d'octobre 2004 à février 2005.		
+2001				2001				Ce_traitement_a	Ce traitement a duré 2 ans et demi (décembre 2001 à août 2004).		
+2010	06			2010	06			Les_prélèvements_dans_l__air_ambiant	Les prélèvements dans l'air ambiant de juin 2010 montrent :		
+2012	03			2012	03			serait_arrêté	L'exploitant a indiqué que le traitement serait arrêté en mars 2012.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	03	20		2007	03	20		a_été_pris	Un arrêté préfectoral a été pris le 20 mars 2007 à l'encontre de la société Habitat du Nord pour imposer des mesures dans les sols et évacuer les déchets (y compris les terres imprégnées).		'la société Habitat'
+2007				2007				curer	La société Habitat du Nord a fait excaver la zone imprégnée (110 tonnes de terres et de remblais), l'a fait remblayer avec un matériau sain, a fait pomper les pollutions et curer les fosses, égouts et caniveaux en 2007.		'La société Habitat'
+2007				2007				a_fait_excaver	La société Habitat du Nord a fait excaver la zone imprégnée (110 tonnes de terres et de remblais), l'a fait remblayer avec un matériau sain, a fait pomper les pollutions et curer les fosses, égouts et caniveaux en 2007.		'La société Habitat'
+2001				2001				a_cessé_son_activité	La société a cessé son activité en 2001.		
+2006	12			2006	12			a_alerté	En décembre 2006, un riverain du site ayant assisté au démantèlement du transformateur et s’inquiétant des risques de pollution a alerté la DRIRE.		'la DRIRE'

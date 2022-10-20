@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04			2010	04			un_diagnostic_complet_de_pollution	En avril 2010, un diagnostic complet de pollution du site est réalisé dans le cadre de la vente du terrain en 3 lots.		
+2007	10	04		2007	10	04		ouvre_une_procédure_de_liquidation_judiciaire	4 octobre 2007: le tribunal de Commerce de Paris ouvre une procédure de liquidation judiciaire à l'encontre de la société Charles GARNIER. la SELAFA M.		'le tribunal de Commerce de Paris', 'la société Charles GARNIER', 'la SELAFA M.'
+2007	10	04		2007	10	04		de_liquidation_judiciaire	Ces bâtiments n'ont servis qu'à l'entreprise de fabrication de bijoux "Charles Garnier" entre 1903, date de début d'exploitation et le 4 octobre 2007, date de liquidation judiciaire de l'entreprise.		
+2008	07	02		2008	07	02		la_cessation_des_activités	2 juillet 2008: le liquidateur judiciaire déclare la cessation des activités de la SAS Établissements Charles GARNIER.		'la SAS Établissements Charles GARNIER'

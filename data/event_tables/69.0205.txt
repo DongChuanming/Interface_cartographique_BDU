@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	27		2005	01	27		ont_été_remis	Les rapports des investigations ont été remis à l'administration le 27/01/2005.		
+2004	04	20		2004	04	20		Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques (ESR), ont été imposés par l'arrêté préfectoral datant du 20/04/2004.		
+2004	02			2004	02			Les_analyses_pratiquées	Les analyses pratiquées en juin 2003 et en février 2004 montrent la présence de composants du produit de traitement utilisé par la Société MINOT CI, dans les eaux souterraines en aval du site.		'la Société MINOT CI'
+2004				2004				aux_travaux_d__aménagement	Cependant, en octobre 2004, le rapport précise la diminution des concentrations en propiconazole et tébuconazole, due aux travaux d'aménagement durant l'été 2004 pour limiter l'infiltration des eaux pluviales dans le sol.	'propiconazole', 'tébuconazole'	
+2004				2004				a_été_implanté	Le réseau de surveillance a été implanté au printemps 2003 et complété par un piézomètre amont en début 2004.		
+1984				1984				exploite	La Société MINOT CI exploite rue de l’Abbaye en zone industrielle d’Arnas, un établissement industriel spécialisé dans la fabrication de charpentes en bois depuis 1984.		'La Société MINOT CI'
+1990	02	13		1990	02	13		est_réglementé	Le fonctionnement de cette activité est réglementé par arrêté préfectoral du 13/02/1990.		
+2003				2003				a_été_implanté	Le réseau de surveillance a été implanté au printemps 2003 et complété par un piézomètre amont en début 2004.		
+2003	06			2003	06			Les_analyses_pratiquées	Les analyses pratiquées en juin 2003 et en février 2004 montrent la présence de composants du produit de traitement utilisé par la Société MINOT CI, dans les eaux souterraines en aval du site.		'la Société MINOT CI'
+2003	02	28		2003	02	28		fait_d__ores_et	Le site fait d'ores et déjà l'objet d'un suivi trimestriel de la qualité des eaux de nappe imposé par arrêté préfectoral du 28/02/2003.		
+2002	10	10		2002	10	10		a_été_transmise	Dans le cadre de l'arrêté ministériel du 03/08/2001, une étude relative au contexte hydrogéologique du site a été transmise à l'administration le 10/10/2002.		
+1997				1997				été_décelée	- Aucune détection de pesticides n'a été décelée depuis 1997 dans le captage AEP de Villefranche-sur-Saône ;	'pesticides'	

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08	31		2013	08	31		l__arrêt_définitif	La société MARDUEL a déclaré au préfet, en date du 25 juillet 2013, l’arrêt définitif au 31 août 2013 de ses activités localisées sur la parcelle cadastrale AE347.		'La société MARDUEL'
+1998				1998				une_visite	Suite à un incendie, une visite d’inspection de l’établissement en 1998, établissait que les installations relevaient à cette époque du régime de la déclaration.		
+2013	08	09		2013	08	09		a_été_délivré_à	Un récépissé de cette déclaration a été délivré à l’exploitant le 9 août 2013 en lui signalant l’obligation de remise en état pour un usage futur comparable à la dernière période d’activité des installations, soit un usage industriel.		
+2016	03	24		2016	03	24		réalisées_après_travaux_a_été_transmise	Dans le cadre du projet de réaménagement urbain du secteur de la Quarantaine, une analyse des risques résiduels réalisées après travaux a été transmise le 24 mars 2016 à l'Inspection des installations classées .		
+2013	07	25		2013	07	25		l__arrêt_définitif	La société MARDUEL a déclaré au préfet, en date du 25 juillet 2013, l’arrêt définitif au 31 août 2013 de ses activités localisées sur la parcelle cadastrale AE347.		'La société MARDUEL'
+1963				1963				déclarations_antérieurs	Cette société bénéficiait d’actes administratifs anciens, autorisations ou déclarations antérieurs à 1963, le plus ancien datant de 1857, relatifs aux installations classées exploitées sur le site (teinture, blanchiment).	'teinture'	

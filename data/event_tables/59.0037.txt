@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			a_transmis	De même, le SITURV a transmis à l'inspection un dossier de servitudes d'utilité publique en avril 2004.		'le SITURV'
+								Le_récolement	- Le récolement des travaux de dépollution a été effectué par la DRIRE le 14/04/04 en la présence de la mairie de Valenciennes		'la DRIRE', 'la mairie de Valenciennes'
+1994				1994				réalisé	- Étude diagnostic approfondi du site réalisé en 1994 sous la maîtrise d'ouvrage de l'EPF (coût : 900 kF).		'EPF'

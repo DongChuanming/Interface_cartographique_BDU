@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				ont_été_démantelées	La majorité des installations de surface ont été démantelées en 2012.		
+2012				2012				a_été_foré	Le puits a été foré en 1994 et bouché définitivement en 2012.		
+1994				1994				a_été_foré	Le puits a été foré en 1994 et bouché définitivement en 2012.		
+2014				2014				un_diagnostic_environnemental	Les sites du puits LLT6 et du MC12 ont fait l'objet d'un diagnostic environnemental en 2014 qui a montré la présence dans les sols :		
+								a_été_installé	Le manifold MC12 a été installé à la fin des années 1980 pour la réalisation d'opérations de contrôle et de maintenance.		

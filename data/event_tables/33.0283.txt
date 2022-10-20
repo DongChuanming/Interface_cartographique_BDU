@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_cessé_son_activité	Le site a cessé son activité en 2002 et a été repris par la Communauté de Commune du Nord Bassin (COBAN) en mars 2005 pour assurer la prise en charge de la réhabilitation.		'la Communauté de Commune du Nord Bassin'
+2003	08	28		2003	08	28		Le_diagnostic_est_remis	Le diagnostic est remis le 28 août 2003.		
+2005	03			2005	03			a_été_repris	Le site a cessé son activité en 2002 et a été repris par la Communauté de Commune du Nord Bassin (COBAN) en mars 2005 pour assurer la prise en charge de la réhabilitation.		'la Communauté de Commune du Nord Bassin'
+2007	11			2007	11			Les_travaux_sont_achevés	Les travaux sont achevés en novembre 2007.		
+2009	08	17		2009	08	17		acte_notarié	Le 19 mai 2010, la COBAN transmet à l'IIC l'acte notarié du 17 août 2009 formalisant ces restrictions d'usages.		'la COBAN'
+1982				1982				exploitée	Ancienne décharge d’ordures ménagères et de déchets assimilés exploitée depuis 1982 par le SIRTOM du canton d'Audenge (33) sur la commune de Mios.		"le SIRTOM du canton d' Audenge"
+2007	12	04		2007	12	04		Le_procès_verbal_de_récolement	Le procès-verbal de récolement est dressé par l'Inspection des Installations Classées (IIC) le 4 décembre 2007.		

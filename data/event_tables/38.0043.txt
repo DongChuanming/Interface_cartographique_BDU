@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			au_mois_d_	Une campagne de relevé des eaux avait également été menée au mois d’avril 2004.		
+1961				1961				s__implante	La société CATERPILLAR reprends le site et les bâtiments et s’implante à Grenoble en 1961.		'La société CATERPILLAR'
+								L__étude_de_sols	L'étude de sols a été imposée par arrêté préfectoral du 01/12/98.		
+								une_étude_complémentaire_a_été_réalisé	Du fait de la très grande variabilité dans les concentrations observées dans les eaux souterraines, une étude complémentaire a été réalisé durant les mois de novembre et décembre 2004.		
+1950				1950				construction_de_bâtiments	L’activité sur le site démarre en 1950 par la construction de bâtiments pour la société SIMATRA.		'la société SIMATRA'
+2004	12			2004	12			une_étude_complémentaire_a_été_réalisé	Du fait de la très grande variabilité dans les concentrations observées dans les eaux souterraines, une étude complémentaire a été réalisé durant les mois de novembre et décembre 2004.		
+2009	12			2009	12			a_débuté	La surveillance des eaux souterraines a débuté au mois de décembre 2009.		
+1976	02	26		1976	02	26		un_dossier_de_régularisation	Son activité est également la fabrication d'engins de travaux publiques et fait l'objet d'un dossier de régularisation en date du 26/02/1976.		
+2003				2003				l__étude_d_	Ces investigations ont confirmé la présence d’un pollution des sols en COHV mais en concentration bien plus faible que lors de l’étude d’aout 2003.	'COHV'	
+1960				1960				rachète	Elle rachète les terrains et le bâtiments en 1960.		
+1961				1961				reprends	La société CATERPILLAR reprends le site et les bâtiments et s’implante à Grenoble en 1961.		'La société CATERPILLAR'
+2003	08			2003	08			un_rapport_rédigé	Cette dernière a fait l’objet d’un rapport rédigé par SITA Remédiation en août 2003.		'SITA Remédiation'
+2004	04			2004	04			avait_également_été_menée	Une campagne de relevé des eaux avait également été menée au mois d’avril 2004.		

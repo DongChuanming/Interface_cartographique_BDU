@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	24		2003	07	24		a_transmis	Le 24 juillet 2003, la SNCF a transmis cette ESR à l'administration.		'la SNCF'
+2009				2009				a_débuté	Un programme de recherche et développement financée en partie par l’ADEME a débuté en 2009.		
+1997	12	19		1997	12	19		entraine_la_fuite	Le 19/12/1997, la rupture d'une vanne de la cuve de rétention de gasoil entraine la fuite de prés de 200 m3 d'hydrocarbures.	'la cuve de rétention de gasoil', 'hydrocarbures'	
+1997				1997				d__autres_incidents_plus_anciens	- Le premier s’étend jusqu’à 500 m vers l’Ouest et serait issu du site SNCF suite à l’incident du 20 août 2006 mais aussi à d’autres incidents plus anciens comme en 1986 et 1997 ;		
+2011				2011				le_traitement_pleine_échelle	Suite à la mise en place de pilotes en 2010, le traitement pleine échelle par bioventilation a été mis en place en 2011 sur les zones de la distribution et de l’huilerie et en 2012  sur les zones des cuves et du dépotage.		
+2006	03	01		2006	03	01		de_la_campagne	Lors de la campagne du 01/03/2006, une épaisseur de flottant de 2 centimètres a été observée.		
+2006				2006				est_installé	Concernant la pollution de la nappe, un système de pompage/écrémage est installé sur un réseau de piézomètres depuis 2006.  En 2014, la hauteur de phase libre mesurée sur la zone de distribution maximum est de 63 cm sur un des piézomètres.		
+2009	10			2009	10			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé par Golder Associates en Octobre 2009 et a permis de cartographier les impacts en hydrocarbures totaux dans les sols entre 0 et 2 m. 4 zones de pollutions ont ainsi été identifiées :	'hydrocarbures totaux'	'Golder Associates'
+2003	05	19		2003	05	19		a_été_imposé	Dans ces conditions, il a été imposé à la SNCF, par arrêté préfectoral du 19 mai 2003, de poursuivre cette étude en réalisant une Évaluation Simplifiée des Risques (ESR), et de poursuivre la surveillance des eaux souterraines au droit du site, en mesurant la concentration en hydrocarbures totaux à fréquence trimestrielle.	'hydrocarbures totaux'	'la SNCF'
+1985	11	01		1985	11	01		a_été_observée_à	Une consommation élevée en gasoil a été observée à partir du 01/11/1985.		
+1979	05	02		1979	05	02		ont_été_autorisées	Toutes ces activités ont été autorisées par l’arrêté préfectoral du 02/05/1979.		
+1969	03	05		1969	03	05		fait_l__objet_d_	L'exploitation d'un dépôt de fuel souterraine d'un capacité de 5 000 l fait l'objet d'un courrier daté du 05/03/1969.	'fuel'	
+2006	03	01		2006	03	01		a_été_atteint	Un maximum a été atteint à 0,39 mg/l le 03/02/2004, mais la concentration en HCT n'était que de 0,09 mg/l le 01/03/2006.	'HCT'	
+1998	01	21		1998	03	31		6_campagnes_de_mesures_d_	6 campagnes de mesures d'épaisseur du surnageant ont été réalisées entre le 21/01/1998 et le 31/03/1998.	'surnageant'	
+1986				1986				d__autres_incidents_plus_anciens	- Le premier s’étend jusqu’à 500 m vers l’Ouest et serait issu du site SNCF suite à l’incident du 20 août 2006 mais aussi à d’autres incidents plus anciens comme en 1986 et 1997 ;		
+1998	04			1998	04			a_été_rédigée	L'étude définitive a été rédigée par ANTEA au mois d'avril 1998. 3 sondages ont été effectués et 2 piézomètres supplémentaires ont été implantés sur le site.		'ANTEA'
+2003	02	18		2003	02	18		a_transmis	La SNCF a transmis le rapport relatif à ces actions (rédigé par GESTER) le 18 février 2003.		'La SNCF', 'GESTER'
+				1997	12	19		2_fuites_accidentels	2 fuites accidentels ont eu lieu sur le site en 1986 et le 19/12/1997.		
+2001	09	03		2002	11	14		des_mesures_d_	Du 3 septembre 2001 au 14 novembre 2002, des mesures d'épaisseur des produits flottants ont été réalisées simultanément à un écrémage de ces produits.	'produits flottants'	
+2004	02	03		2004	02	03		a_été_atteint	Un maximum a été atteint à 0,39 mg/l le 03/02/2004, mais la concentration en HCT n'était que de 0,09 mg/l le 01/03/2006.	'HCT'	
+2010				2010				la_mise_en_place_de_pilotes	Suite à la mise en place de pilotes en 2010, le traitement pleine échelle par bioventilation a été mis en place en 2011 sur les zones de la distribution et de l’huilerie et en 2012  sur les zones des cuves et du dépotage.		
+1985	11	13		1985	11	13		a_été_réparée	La canalisation a été réparée le 13/11/1985.		
+2001	12	07		2001	12	07		a_été_transmis	Le rapport relatif à ce diagnostic complémentaire a été transmis à l'administration le 7 décembre 2001 par le bureau d'étude GESTER.		'GESTER'
+				2001	08	29		Elle_en_implantera	Elle en implantera 10 de plus entre le 27 et le 29/08/2001.		
+2010				2010				le_traitement_pleine_échelle	Suite à la mise en place de pilotes en 2010, le traitement pleine échelle par bioventilation a été mis en place en 2011 sur les zones de la distribution et de l’huilerie et en 2012  sur les zones des cuves et du dépotage.		
+1998	01			1998	01			un_diagnostic_préliminaire	A la suite de cet incident, la SNCF a fait réaliser en janvier 1998 un diagnostic préliminaire visant à mesurer l'impact de cette fuite sur les sols et la nappe phréatique au droit du site.		'la SNCF'
+1986				1986				2_fuites_accidentels	2 fuites accidentels ont eu lieu sur le site en 1986 et le 19/12/1997.		
+1966	02	02		1966	02	02		a_demandé	Le 02/02/1966, la SNCF a demandé l'autorisation auprès de l’administration d'exploiter un dépôt aérien de gasoil d'une contenance supérieure à 160 000 litres.	'gasoil'	'la SNCF'
+2003	08	05		2006	03	01		ont_été_réalisés	Du 05/08/2003 au 01/03/2006, 10 campagnes de suivi ont été réalisés.		
+2015				2015				a_été_stoppé	Le traitement a été stoppé en 2015 (mars) sur les zones des cuves et du dépotage (2 ans de traitement)  et juin 2015 sur les zones de la distribution et de l’huilerie (3 ans de traitement).		
+2006	08	20		2006	08	20		l__incident	- Le premier s’étend jusqu’à 500 m vers l’Ouest et serait issu du site SNCF suite à l’incident du 20 août 2006 mais aussi à d’autres incidents plus anciens comme en 1986 et 1997 ;		

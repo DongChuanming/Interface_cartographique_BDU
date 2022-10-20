@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	16		2005	02	16		a_souhaité_attirer	Le 16 février 2005, une circulaire du ministère de l'écologie et du développement durable a souhaité attirer l'attention des préfets sur la situation des sites où ont été exercées des activités d'exploitation ou de transformation d'amiante.	'amiante'	
+2005	05	27		2005	05	27		a_pris_contact	Suite à la visite réalisée, l’inspection a pris contact par téléphone le 27 mai 2005 avec le responsable de la SCI LES OASIS.		'la SCI LES OASIS'
+1960				1960				a_exploité	La société SIBAG a exploité depuis 1960 une installation de fabrication de bagues d'étanchéité en métal et caoutchouc synthétique.		'La société SIBAG'
+2005	05	25		2005	05	25		Une_inspection_inopinée	Une inspection inopinée a été réalisée le 25 mai 2005 et a permis de constater l’existence d’une clôture sur tout le périmètre du site.		

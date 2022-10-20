@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				des_travaux	-le conseil régional a fait des travaux début 2014 pour mettre en place une ventilation double flux.		'-le conseil régional'
+2007	02	08		2007	02	08		d__organiser_la_prise_en_charge	Dans ce contexte, il a été décidé par le préfet d'organiser la prise en charge de cette pollution par un interlocuteur unique et compétent afin de coordonner les investigations permettant de caractériser la pollution, d'en identifier – le cas échéant – le responsable, puis d'organiser au mieux la gestion des lieux selon la méthodologie définie dans la note du 8 février 2007.		'le préfet'
+2013				2013				réalisée	A l'issue de la phase 3 (réalisée en 2013) du diagnostic, de nombreuses tâches ont été réalisées :		
+2015	02			2015	02			Une_deuxième_campagne_a_été_réalisée	Une deuxième campagne a été réalisée en février 2015  et les mesures allaient selon les classes de 0.7 à 7.1 µg/m3.		
+2013	09	04		2013	09	04		_Une_information	-Une information aux parents et personnel et un communiqué de presse le 4/09/2013.		
+2014				2014				une_étude_a_été_confiée	-Mi-2014 une étude a été confiée à l’Ademe pour rechercher la source de la pollution.		
+2017	06			2017	06			_Des_investigations	-Des investigations dans les sols, eaux souterraines et gaz des sols ont été réalisées par le bureau d'étude en juin 2017 : Les résultats ont montré que la source de la pollution n’est pas sous l’emprise du lycée mais à l’extérieur.		
+2016	02			2016	02			Les_campagnes_de	Les campagnes de février 2016 ont confirmé l’efficacité de ces mesures.  Les dernières campagnes réalisées en 2017 par le bureau d'étude ont montré des analyses conformes en dessous des valeurs repères du HCSP.		'du HCSP'
+2014	10	13		2014	10	13		a_visité	L'Ademe a visité le site le 13 octobre 2014 et préparé un programme d'investigations pour établir l'origine de la pollution et, par la suite, envisager les moyens d'y remédier.		
+								les_mesures_réalisées	Cette ventilation, en place depuis le premier semestre, a porté ses fruits : les mesures réalisées au mois de juin ont montré que les COV sont en deçà des VGAI et les parties prenantes du lycée sont rassurées.	'COV'	
+2014	06			2014	06			réalisées_ensuite	Les analyses réalisées ensuite en juin 2014  étaient toutes conformes (< 0.17) dans les différentes salles de classes.		
+2017				2017				__Les_dernières_campagnes	Les campagnes de février 2016 ont confirmé l’efficacité de ces mesures.  Les dernières campagnes réalisées en 2017 par le bureau d'étude ont montré des analyses conformes en dessous des valeurs repères du HCSP.		'du HCSP'
+2013	09	04		2013	09	04		un_communiqué_de_presse	-Une information aux parents et personnel et un communiqué de presse le 4/09/2013.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								s__implante	Dans les années 70, la société de fabrication et la location de matériels pour le Bâtiment Travaux Public, RICHIER, s’implante sur le site de Pont de Claix.		'le Bâtiment Travaux Public', 'RICHIER'
+2004	04			2004	04			la_réalisation_d__un_diagnostic_environnemental	Dans le cadre de la cessation des activités et de la cession des terrains, la société ALSTOM a entrepris la réalisation d’un diagnostic environnemental et une Évaluation Simplifiée des Risques au mois d'avril 2004.		'la société ALSTOM'
+2004	04			2004	04			une_Évaluation_Simplifiée_des_Risques	En avril 2004, la Société ALSTOM remet une Évaluation Simplifiée des Risques (ESR) dans le cadre de la cessation de ses activités.		'la Société ALSTOM'
+2004	02			2004	02			Les_investigations_se_sont_déroulées	Les investigations se sont déroulées en février 2004.		
+2005	02	03		2005	02	03		a_été_signé	Un arrêté préfectoral a été signé le 3 février 2005 et fixe une surveillance semestrielle pour les paramètres suivants :		
+2008	03			2008	03			la_dernière_campagne_de_suivi	Les conclusions de la dernière campagne de suivi de la qualité des eaux souterraines au mois de mars 2008 mettent en évidence la contamination toujours présente en COHV au droit de l'ensemble du site.	'COHV'	
+1977				1977				achète	En 1977, la société NEYRTEC ALSTOM ATLANTIQUE achète une partie des installations de la société RICHIER.		'la société NEYRTEC ALSTOM ATLANTIQUE', 'la société RICHIER'
+2000	05			2000	05			Une_première_étude_a_été_effectuée	Une première étude a été effectuée en mai 2000 et a consisté en la réalisation de 8 sondages.		
+2004	04			2004	04			une_Évaluation_Simplifiée_des_Risques	Dans le cadre de la cessation des activités et de la cession des terrains, la société ALSTOM a entrepris la réalisation d’un diagnostic environnemental et une Évaluation Simplifiée des Risques au mois d'avril 2004.		'la société ALSTOM'

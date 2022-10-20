@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				la_cessation_de_ses_activités	La société, via son liquidateur judiciaire, a notifié en 1983 aux services de la préfecture la cessation de ses activités (à compter du 9 juin 1983).		'La société'
+1983	10	04		1983	10	04		a_été_délivré	Un récépissé de déclaration de cessation d'activités a été délivré à la société le 4 octobre 1983.		
+1986	10			1986	10			a_été_identifiée	La présence de fûts rouillés contenant des résidus de colles et de solvants a été identifiée sur le site en septembre - octobre 1986.		
+1987				1987				a_été_réhabilité	Le site a été réhabilité depuis 1987 (pour un usage résidentiel : construction d'une résidence).		
+1983				1983				est_fermé	Le site est fermé depuis 1983.		
+								a_été_identifiée	La présence de fûts rouillés contenant des résidus de colles et de solvants a été identifiée sur le site en septembre - octobre 1986.		

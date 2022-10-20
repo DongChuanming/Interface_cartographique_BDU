@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06			2012	06			se_sont_achevés	Ces travaux ont débuté début octobre 2011 et se sont achevés en juin 2012.		
+2012	06			2012	06			Ces_travaux_ont_débuté	Ces travaux ont débuté début octobre 2011 et se sont achevés en juin 2012.		
+2010	11			2010	11			a_transmis	En novembre 2010, la Société NADAL a transmis un plan de gestion de la pollution qui prévoyait :		'la Société NADAL'
+2013	12			2013	12			a_été_transmise	La dernière campagne de contrôle a été transmise à l'inspection en décembre 2013.		
+2013	12	03		2013	12	03		mis_à_jour	Le promoteur immobilier a fourni à la DREAL le rapport de fin de travaux mis à jour le 3 décembre 2013.		'la DREAL'
+2011	10			2011	10			Ces_travaux_ont_débuté	Ces travaux ont débuté début octobre 2011 et se sont achevés en juin 2012.		
+2011	06	28		2011	06	28		La_visite_d__inspection	La visite d'inspection du 28 juin 2011 a permis de vérifier que les travaux de mise en sécurité du chantier s'étaient bien déroulés et de faire le point sur le planning des travaux prévisionnels de dépollution en fonction de l'usage futur retenu (habitations collectives R+4+5 avec sous-sol 1 niveau).		
+2009	12	31		2009	12	31		a_été_délivré_par	Un récépissé de  cessation d'activité a été délivré par la préfecture le 31 décembre 2009.		

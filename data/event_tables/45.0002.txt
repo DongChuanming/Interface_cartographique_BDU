@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11			2001	11			ont_été_extraites	- pose d'une membrane permettant d'étanchéifier la zone où des terres polluée ont été extraites, en novembre 2001.		
+2010	06			2010	06			ont_été_installés	Afin de délimiter la panache de pollution, 6 nouveaux piézomètres ont été installés en juin 2010.		
+1997	01			1997	01			est_en_place	Un suivi de la qualité des eaux souterraines réalisé à partir de 6 piézomètres est en place depuis janvier 1997 et montre une pollution de la nappe en BTEX et COHV.	'BTEX', 'COHV'	
+1995	08			1995	08			mise_en_place_d__un_forage	- mise en place d'un forage créant un cône de dépression pour localiser la pollution, en  août 1995, avec traitement par strippage de l'eau prélevée ; ce traitement a été arrêté en août 1998;		
+1998	08			1998	08			a_été_arrêté	- mise en place d'un forage créant un cône de dépression pour localiser la pollution, en  août 1995, avec traitement par strippage de l'eau prélevée ; ce traitement a été arrêté en août 1998;		
+1979				1979				occupe	L'usine de Migneres occupe depuis 1979 un terrain d'environ 4 hectares,entièrement clos en limite des communes de Mignères et de Gondreville,le long de la route départementale n°238.		

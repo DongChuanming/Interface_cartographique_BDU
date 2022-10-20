@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1955				1983				ont_été_utilisés	Anciens bassins des soudières de la société Solvay qui ont été utilisés de 1955 à 1983 comme bassins de filtration et décantation d'eaux résiduaires.		'la société Solvay'
+2003	11			2003	11			Une_autre_Evaluation_Simplifiée_des_Risques	Une autre Evaluation Simplifiée des Risques a été menée  en novembre 2003, sur les eaux superficielles de la Sarre, la source de pollution potentielle est les blancs de soudières et les substances retenues sont les ions chlorures et les ions ammoniums.	'sont les ions chlorures et les ions ammoniums'	
+2001	07	05		2001	07	05		les_analyses_ont_été_menées	Conformément à l'arrêté inter préfectoral du 5 juillet 2001, les analyses ont été menées sur les rejets des digues du Herbitzheim, en amont et en aval des digues sur le Hoppbach et le Willerlachgraben et sur les eaux souterraines des sondages piézométriques.		
+2001	07	05		2001	07	05		est_prescrite	La surveillance des eaux superficielles et souterraines est prescrite par arrêté interpréfectoral du 05 juillet 2001, cet arrêté impose :		
+2003	06	12		2003	06	12		Le_diagnostic_initial	Le diagnostic initial de l'ESR a été remis aux services de la Préfecture de la Moselle le 12 juin 2003.		"l' ESR", 'la Préfecture de la Moselle'

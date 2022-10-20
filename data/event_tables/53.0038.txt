@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				à_été_réaménagé	Le site à été réaménagé à partir de 2009.		
+2007	04			2007	04			Le_diagnostic_réalisé_en	Le diagnostic réalisé en avril 2007 montre que :		
+2007	10	17		2007	10	17		a_été_prescrit	Le 17/10/2007, un arrêté a été prescrit pour consignation d’un montant correspondant au coût d’enlèvement des déchets à l’encontre de Maître GUIBOUT a été proposé.		'Maître GUIBOUT'
+2008	10			2008	10			Des_travaux_de_dépollution	Des travaux de dépollution ont été menés en octobre 2008 à la demande de l’aménageur.		
+2007	01	30		2007	01	30		__notification	Selon la nomenclature des installations classées en vigueur à cette époque, c’est une installation classée soumise à déclaration pour les rubriques 251-2° et 253 (récépissé du 2 juillet 1992) ayant cessée son activité (notification du 30 janvier 2007).		
+2007	04			2007	04			une_étude_a_été_menée	Concernant la recherche d’éventuelle pollution sur le site, une étude a été menée en avril 2007 à la demande d'un promoteur immobilier (Société Ouest Promo 1 – Zambon Immobilier) désirant acheter l’ancien site industriel.		'Zambon Immobilier'
+2007	06	07		2007	06	07		a_été_mis_en	Par arrêté préfectoral du 7 juin 2007, Maître Guibout, liquidateur judiciaire de la société RIVAIN, a été mis en demeure de prendre toutes les dispositions nécessaires afin que les conséquences de la pollution par les déchets n’aient pas d’effets nocifs sur l’environnement ainsi que de faire procéder à l’enlèvement des déchets abandonnés présents sur le site.	'les déchets'	'la société RIVAIN'
+2007	07	09		2007	07	09		a_été_racheté	Le 9 juillet 2007, le site a été racheté par un en vue d’y construire un lotissement.		
+2010	10	14		2010	10	14		a_été_radiée	La société RIVAIN PRODUCTION a été radiée le 14 octobre 2010 du registre du commerce pour insuffisance d'actif.		'La société RIVAIN PRODUCTION'

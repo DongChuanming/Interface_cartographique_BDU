@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				Un_PV_de_récolement	- Un PV de récolement des travaux a été établi par l'Inspection des Installations Classées en 1999.		
+1998	07	06		1998	07	06		__Bilan_remis	- Bilan remis le 06/07/1998, rebouchage du forage,décapage de la zone souillée sur 15 cm et élimination des terres polluées.		
+1997	11			1997	11			un_vandalisme	- Pollution par les PCB suite à un vandalisme en novembre 1997.	'PCB'	
+1998	03	25		1998	03	25		Réalisation_d__une_étude_d_	- Réalisation d'une étude d'impact de pollution des sols le 25/03/1998.		
+1997	09			1997	09			Cessation_d__activité	- Cessation d'activité en septembre 1997.		

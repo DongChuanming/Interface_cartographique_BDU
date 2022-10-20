@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08	24		2000	08	24		a_été_mise_en_liquidation_judiciaire_par_jugement	Cette Société a été mise en liquidation judiciaire par jugement du 24/08/2000 ; le liquidateur judiciaire étant Maître Martine NOIRAIX-PEY.		'Maître Martine NOIRAIX - PEY'
+2005	04			2005	04			Les_campagnes_de	Les campagnes de prélèvements des eaux souterraines ont été réalisées en avril, juillet et octobre 2004, puis en janvier, avril 2005, ensuite en juin 2006, et en février et mai 2007.		
+2004	10			2004	10			Les_campagnes_de	Les campagnes de prélèvements des eaux souterraines ont été réalisées en avril, juillet et octobre 2004, puis en janvier, avril 2005, ensuite en juin 2006, et en février et mai 2007.		
+2004	04	28		2004	04	28		__ont_été_remis	 , ont été remis à l'administration le 28/04/2004.		
+								Les_campagnes_de	Les campagnes de prélèvements des eaux souterraines ont été réalisées en avril, juillet et octobre 2004, puis en janvier, avril 2005, ensuite en juin 2006, et en février et mai 2007.		

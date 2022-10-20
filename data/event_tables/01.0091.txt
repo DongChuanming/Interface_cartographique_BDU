@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				les_importants_travaux_de_dépollution	- malgré les importants travaux de dépollution réalisés en 2001, les eaux souterraines sont toujours contaminées par des hydrocarbures et par des BTEX,	'hydrocarbures', 'des BTEX'	
+1996				2001				avait_déjà_fait_l__objet	Le site avait déjà fait l'objet de constats de pollution des sols et des eaux entre 1996 et 2001.		
+1996	09			1996	09			un_diagnostic_de_sol	A la demande de TOTAL RAFFINAGE DISTRIBUTION, un diagnostic de sol a été réalisé par Pollution Service en septembre 1996.		'TOTAL RAFFINAGE DISTRIBUTION'
+2007	10			2007	10			est_intervenu	SITA Remediation est intervenu en mai, juillet et octobre 2007 sur la station service afin de :		'SITA Remediation'
+2007	09			2007	09			ont_été_mis_en_place	12 piézomètres ont été mis en place (PZ1 à PZ12) en septembre 2007.		
+2007				2007				a_été_excavées_par_la_suite	La zone de contamination des sols a été excavées par la suite, lors des travaux de modernisation en 2007.		
+								Le_diagnostic_a_été_effectué	Le diagnostic a été effectué, les 5 et 6 février 2007, dans le cadre de la modernisation prévue de la station-service.		
+2007	01	31		2007	01	31		son_intention	La société TOTAL France a déclaré le 31 janvier 2007 son intention de procéder à la modernisation de la station-service qu'elle exploite boulevard Charles de Gaulle à Bourg en Bresse.		'La société TOTAL France', 'Charles de Gaulle'
+1998	12			1998	12			Travaux_de_dépollution	** Travaux de dépollution des eaux souterraines par stripping : décembre 1998		
+2000	02			2000	02			un_diagnostic	A la demande de TOTAL RAFFINAGE DISTRIBUTION, et en réponse aux recommandations apportées par ATE suite aux travaux de dépollution, un diagnostic a été réalisé en février 2000. 13 sondages (S5 à S17) et 3 piézomètres (PZ2 à PZ4) ont été réalisés sur le site.		'TOTAL RAFFINAGE DISTRIBUTION'
+2002	01			2002	01			Travaux_de_dépollution	** Travaux de dépollution des eaux souterraines par Extraction Triple Phase (ETP) : janvier 2002		
+2007	05	30		2007	05	30		a_été_transmis	Le rapport complet du diagnostic a été transmis le 30 mai 2007.		
+2001				2001				Des_travaux_de_réhabilitation	Des travaux de réhabilitation et de dépollution ont été réalisés en 1998 et en 2001.		
+								est_intervenu	SITA Remediation est intervenu en mai, juillet et octobre 2007 sur la station service afin de :		'SITA Remediation'
+2007	02	06		2007	02	06		Le_diagnostic_a_été_effectué	Le diagnostic a été effectué, les 5 et 6 février 2007, dans le cadre de la modernisation prévue de la station-service.		
+2001	12			2001	12			a_été_arrêtée	Une fois les objectifs atteints, l'installation a été arrêtée en décembre 2001.		
+								a_été_arrêté	Après 5 mois de fonctionnement et en l'absence de résultats tangibles quant à la décroissance des teneurs en hydrocarbures dissous dans le piézomètre, le pompage a été arrêté.	'hydrocarbures'	
+2007				2007				des_travaux_de_modernisation	La zone de contamination des sols a été excavées par la suite, lors des travaux de modernisation en 2007.		
+2012	10	30		2012	10	30		La_dernière_campagne_a_été_réalisée	La dernière campagne a été réalisée le 30/10/2012.		
+2007	10			2007	10			ont_été_prélevées	Les eaux ont été prélevées en octobre 2007 (voir le détail en partie F de la présente fiche).		
+2000	11			2000	11			L__installation_a_été_mise_en_marche	L'installation a été mise en marche en novembre 2000.		
+2012	12	18		2012	12	18		a_été_envoyé	Le rapport (bilan quadriennal de la surveillance) a été envoyé à la Préfecture le 18 décembre 2012.		'la Préfecture'
+2008	02			2008	02			Travaux_de_modernisation	** Travaux de modernisation et mise en place de piézomètres : février 2008		
+2007	02	05		2007	02	05		a_été_délivré_par	Un récépissé de cette déclaration a été délivré par M. le préfet de l’Ain, le 5 février 2007.		'le préfet'
+2007	10	29		2007	10	29		a_été_signé	Compte tenu de ces éléments, un arrêté préfectoral a été signé le 29 octobre 2007 ; il prescrit à l’exploitant de :		
+1998				1998				Des_travaux_de_réhabilitation	Des travaux de réhabilitation et de dépollution ont été réalisés en 1998 et en 2001.		
+2002				2007				aucune_surveillance_ou_travaux_de_dépollution	Ensuite, aucune surveillance ou travaux de dépollution n'a été réalisé au droit du site entre 2002 et 2007.		

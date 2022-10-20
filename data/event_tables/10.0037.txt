@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	17		2001	07	17		une_évaluation_simplifiée_des_risques_remis	Un arrêté préfectoral signé le 11/04/2001 a prescrit un diagnostic initial et une évaluation simplifiée des risques remis le 17/07/2001.		
+2001	04	11		2001	04	11		signé	Un arrêté préfectoral signé le 11/04/2001 a prescrit un diagnostic initial et une évaluation simplifiée des risques remis le 17/07/2001.		
+1957				1957				construite	Usine de production de roues acier construite en 1957 sur un terrain de 25 ha.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			__pollution	Par ailleurs, en mai 2006: pollution des sols, par des hydrocarbures (débordement d’une cuve de FOD, lors d’une opération de remplissage de la cuve).	'hydrocarbures', 'FOD'	
+2006	07	18		2006	07	18		Des_travaux_d__excavation	Des travaux d’excavation et de tri (terres saines/terres polluées) ont été réalisés les 17 et 18 juillet 2006.		
+2006				2006				L__excavation	L’excavation a été remblayée en 2006, et notamment avec les terres « saines » résultant du tri « terres polluées/terres saines ».		
+2009	08	26		2009	08	26		une_visite_d__inspection	Le site a fait l’objet d’une visite d’inspection le 26 août 2009.		
+2009	03			2009	03			les_terrains_souillés_de_solvants_chlorés_excavés	Lors de cette opération, les terrains souillés d'hydrocarbures (localisés sous dalle comme signalé dans le rapport VEOLIA du 10 août 2006) ont été récupérés; ils ne représentaient que quelques m3; ils ont été éliminés en même temps que les terrains souillés de solvants chlorés excavés en Février et Mars 2009,	'hydrocarbures', 'solvants chlorés'	'VEOLIA'
+2009				2009				__travaux_démolition	Décembre 2008/Février2009: travaux démolition des bâtiments, et enlèvement des fondations.		
+2006	05			2006	05			l__incident	pour les secteurs affectés par l'incident de mai 2006 (écoulement au sol de FOD), 2 zones ont été reconnues :		'FOD'
+2008	12			2008	12			__travaux_démolition	Décembre 2008/Février2009: travaux démolition des bâtiments, et enlèvement des fondations.		
+2009	03	24		2009	03	24		__travaux_d__affouillement	24 Mars 2009: travaux d'affouillement complémentaires: environ 95 tonnes de terres excavées.		
+2009	03	03		2009	03	03		__travaux_d__affouillement	26 Février au 3 Mars 2009: travaux d'affouillement: environ 500 tonnes excavées,		
+								__travaux_d__affouillement	26 Février au 3 Mars 2009: travaux d'affouillement: environ 500 tonnes excavées,		
+								Des_travaux_d__excavation	Des travaux d’excavation et de tri (terres saines/terres polluées) ont été réalisés les 17 et 18 juillet 2006.		
+								les_terrains_souillés_de_solvants_chlorés_excavés	Lors de cette opération, les terrains souillés d'hydrocarbures (localisés sous dalle comme signalé dans le rapport VEOLIA du 10 août 2006) ont été récupérés; ils ne représentaient que quelques m3; ils ont été éliminés en même temps que les terrains souillés de solvants chlorés excavés en Février et Mars 2009,	'hydrocarbures', 'solvants chlorés'	'VEOLIA'

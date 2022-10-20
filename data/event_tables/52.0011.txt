@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				ont_été_éliminées	Fin 1998, 235 tonnes de crasses de fusion ont été éliminées par l'entreprise Soremo en centre d'enfouissement technique autorisé.		'entreprise Soremo'
+1990				1990				a_été_constaté	Lors d'une inspection en 1990, il a été constaté la présence d'un stockage de crasses de fusion à l'extrémité sud des terrains.		
+1986				1990				a_exploité	L'entreprise Soremo a exploité, entre 1986 et 1990, sur le territoire de la commune de Aubepierre-sur-Aube, une unité de récupération, stockage et traitement de métaux et une unité d'affinage d'aluminium de 2ème fusion.		'entreprise Soremo'
+1990				1990				une_inspection	Lors d'une inspection en 1990, il a été constaté la présence d'un stockage de crasses de fusion à l'extrémité sud des terrains.		
+1997	02	21		1997	02	21		a_été_mise_en_demeure	Par arrêté préfectoral n°769 du 21 février 1997, l'entreprise a été mise en demeure, en tant que dernier exploitant, d'évacuer ces déchets vers des installations dûment autorisées à les recevoir et s'est vue prescrire la réalisation d'une étude de sols.		
+2004				2004				un_nouveau_dossier_de_demande	L'exploitant a déposé courant 2004 un nouveau dossier de demande d'autorisation d'exploiter relatif à son implantation sur un nouveau site (Chaumont).		
+2003	01	23		2003	01	23		il_a_été_demandé	Suite à l'étude des sols et l'évaluation simplifiée des risques, il a été demandé à l'entreprise Soremo d'assurer le contrôle des eaux souterraines par courrier du 23 janvier 2003.		'entreprise Soremo'

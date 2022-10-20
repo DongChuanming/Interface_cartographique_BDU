@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Limiter	Juillet - août 1997:Limiter le risque d'intrusion de tiers par clôture et/ou gardiennage de l'établissement);		
+1999	01			1999	01			Risque	Janvier 1999:Risque de pollution du sol et des eaux par constat d'huissier; Nécessité de reconditionner et mettre à l'abri certains des déchets et produits;		
+1997	07			1997	07			Inventaire_sommaire	Juillet 1997: Inventaire sommaire établi par l'inspecteur des installations classées, puis inventaire complet établi par SERPOL (société de dépollution);		'SERPOL'
+2000	07			2000	07			Evacuation_des_déchets_en	Juillet 2000:Evacuation des déchets en centre autorisé par SIRA sous le contrôle de l'ADEME.		'SIRA'
+1998	06			1998	06			Nouvel_inventaire_établi	Juin 1998:Nouvel inventaire établi par SIRA (éliminateur de déchets);		'SIRA'
+1998	02			1998	02			Nouvel_inventaire_établi	Février 1998: Nouvel inventaire établi par DERCAM (ECULLY), suite à la récupération de produits pouvant encore être utilisés;		'DERCAM'
+1997	08			1997	08			Limiter	Juillet - août 1997:Limiter le risque d'intrusion de tiers par clôture et/ou gardiennage de l'établissement);		

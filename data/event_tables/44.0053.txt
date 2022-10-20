@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_investigations	Les investigations de l'APAVE réalisés en janvier/février 2009 et en janvier 2010 ont consisté en:		'APAVE'
+2016	11			2016	11			a_procédé	Le bureau d'études BURGEAP à qui ont été confiés les travaux a procédé à deux visites préalables du site en septembre et novembre 2016.		'BURGEAP'
+2017	06	09		2017	06	09		une_seconde_fois	L'APOS a été prolongé une première fois le 03/06/2015 pour une durée de 24 mois et une seconde fois le 09/06/2017 pour une durée de 12 mois.		
+1973	02	22		1973	02	22		de_déclaration	Les activités de la teinturerie étaient réglementées par le récépissé de déclaration du 22 février 1973.		
+2013	06	13		2013	06	13		ont_été_pris	Un arrêté préfectoral d'occupation des sols (APOS) pour une durée de 24 mois et un arrêté préfectoral de travaux d'office (APTO) ont été pris le 13/06/2013.		
+2006	03	23		2006	03	23		La_clôture_de_la_liquidation_judiciaire	La clôture de la liquidation judiciaire a été prononcée le 23 mars 2006.		
+								à_deux_visites_préalables	Le bureau d'études BURGEAP à qui ont été confiés les travaux a procédé à deux visites préalables du site en septembre et novembre 2016.		'BURGEAP'
+2016	11			2016	11			à_deux_visites_préalables	Le bureau d'études BURGEAP à qui ont été confiés les travaux a procédé à deux visites préalables du site en septembre et novembre 2016.		'BURGEAP'
+2015	06	03		2015	06	03		L__APOS_a_été_prolongé_une_première_fois	L'APOS a été prolongé une première fois le 03/06/2015 pour une durée de 24 mois et une seconde fois le 09/06/2017 pour une durée de 12 mois.		
+2009	02			2009	02			Les_investigations	Les investigations de l'APAVE réalisés en janvier/février 2009 et en janvier 2010 ont consisté en:		'APAVE'
+								a_procédé	Le bureau d'études BURGEAP à qui ont été confiés les travaux a procédé à deux visites préalables du site en septembre et novembre 2016.		'BURGEAP'
+1898				1898				existe	Le site existe depuis 1898 et occupe une superficie de 661 m2.		

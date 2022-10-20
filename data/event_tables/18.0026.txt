@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				effectués	Les résultats du suivi de la qualité des eaux souterraines effectués en 2003 ne montrent aucun changement par rapport au suivi de 2002.		
+1999	01			1999	01			__a_demandé	Suite à une visite d’inspection du site et compte tenu des conditions d’exploitation, l’Administration  a demandé à l’industriel de réaliser un diagnostic initial et une évaluation simplifiée des risques (ESR), en Janvier 1999.		
+2004				2004				a_été_momentanément_suspendu	Le suivi de la qualité des eaux souterraines a été momentanément suspendu en 2004 suite à des difficultés financières de l'exploitant.		
+2002				2002				ont_été_réalisées	Celles-ci ont été réalisées au cours du premier trimestre 2002.		
+2009	11	24		2009	11	24		est_tenue_de_réaliser	Par arrêté préfectorale complémentaire du 24 novembre 2009, la l'entreprise est tenue de réaliser des mesures mensuelles des eaux en sortie de détoxification du site.		
+2001				2001				a_été_mise_en_place	Une station de d'épuration physico-chimique des effluents liquides a été mise en place en 2001.	'effluents liquides'	
+2002	10			2002	10			a_été_entièrement_clos	Le site a été entièrement clos en octobre 2002.		

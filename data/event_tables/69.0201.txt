@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10	21		2002	10	21		avaient_débuté	Ces activités avaient débuté en 1989, elles ont été arrêtées le 21/10/2002.		
+2005	10			2005	10			4_campagnes_ont_été_effectuées	4 campagnes ont été effectuées en avril et octobre 2004 puis en février et octobre 2005.		
+1989				1989				avaient_débuté	Ces activités avaient débuté en 1989, elles ont été arrêtées le 21/10/2002.		
+2006	03			2006	03			Une_campagne_a_été_effectuée	Une campagne a été effectuée en mars 2006.		
+2004	10			2004	10			4_campagnes_ont_été_effectuées	4 campagnes ont été effectuées en avril et octobre 2004 puis en février et octobre 2005.		
+2006	04	03		2006	04	03		a_proposé	Au terme des deux années de surveillance des eaux souterraines, l’inspection des installations classées a proposé le 03/04/2006 au préfet du Rhône de demander à l’exploitant de réaliser une nouvelle campagne d’analyse des eaux souterraines en s’assurant notamment que le laboratoire réalise des mesures permettant de quantifier l’ammonium au regard de la VCI usage sensible.	'ammonium'	'préfet du Rhône'
+2004	03			2004	03			L__installation	L’installation du piézomètre PO3B a été réalisée en mars 2004 au même endroit que l’ancien piézomètre PO3, vraisemblablement détruit lors de la réalisation de travaux de clôture du site.		
+2003	08	05		2003	08	05		Un_diagnostic_initial	Un diagnostic initial a été effectué le 05/08/2003 :		
+2003	08	05		2003	08	05		Évaluation_Simplifiée_des_Risques	Une Évaluation Simplifiée des Risques (ESR) a également été établi le 05/08/2003 :		
+2017				2017				propose	En 2017, l'Inspection des installations classées propose le site en Secteur d'Information sur les Sols (SIS).		
+								4_campagnes_ont_été_effectuées	4 campagnes ont été effectuées en avril et octobre 2004 puis en février et octobre 2005.		
+2001	09			2001	09			Une_campagne_d__investigation	Une campagne d'investigation du sol et de la nappe a été mise en œuvre au mois de septembre 2001.		

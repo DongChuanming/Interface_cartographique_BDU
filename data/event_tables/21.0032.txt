@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				Les_campagnes_de_mesures	Les campagnes de mesures réalisées en 2000 puis 2002 dans les eaux souterraines ont confirmé le caractére ponctuel et limité de l'impact des métaux lourds (chrome et nickel) .	'métaux lourds', 'chrome', 'nickel'	
+2002	12	18		2002	12	18		a_été_tenue_de_réaliser	18 décembre 2002:  La Société VALINOX a été tenue de réaliser ou faire réaliser la surveillance de la qualité des eaux souterraines (4 piézomètres) compte tenu qu'elle se situe à l'aval immédiat des Sociétés VALTUBES et DMV STAINLESS.		'  La Société VALINOX', 'immédiat des Sociétés VALTUBES et DMV STAINLESS'
+2000				2000				Les_campagnes_de_mesures	Les campagnes de mesures réalisées en 2000 puis 2002 dans les eaux souterraines ont confirmé le caractére ponctuel et limité de l'impact des métaux lourds (chrome et nickel) .	'métaux lourds', 'chrome', 'nickel'	
+2014	04			2014	04			La_campagne_d__analyse	La campagne d'analyse des eaux souterraines d'avril 2014 conclut :		
+2009				2009				ont_augmenté	- les teneurs en nickel ont augmenté en 2009, puis se sont stabilisées tout en restant supérieures aux valeurs réglementaires susvisées	'nickel'	

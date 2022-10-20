@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			Les_suivis_trimestriels	Les suivis trimestriels de la qualité des eaux souterraines, d'avril 2011 à avril 2012, ont montré une baisse continue des anomalies.		
+2011	05			2011	05			mis_en_place	Les teneurs sont en baisse depuis le début du traitement mis en place en mai 2011.		
+2010	09			2010	09			Un_suivi_de_nappe_est_effectué	Un suivi de nappe est effectué en août et septembre 2010 qui confirme l'impact en hydrocarbures sur Pz1 et indique l’apparition d'un impact en hydrocarbures et en Benzène dissous en Pz5 et Pz6 ainsi qu'un léger impact en Benzène en Pz4 et Pz2.	'hydrocarbures', 'hydrocarbures', 'Benzène', 'Benzène'	
+				2008	10			une_étude_hydrogéologique	Entre août et octobre 2008, une étude hydrogéologique et une campagne d'installation de piézomètres ont été menées. 4 piézomètres (Pz1 à Pz4) ont été mis en place à 12 m de profondeur.		
+2011	11			2011	11			est_effectué	Un suivi de qualité des eaux souterraines est effectué en novembre 2011.		
+2011	05			2011	05			sont_en_baisse	Les teneurs sont en baisse depuis le début du traitement mis en place en mai 2011.		
+2012	09			2012	09			a_été_établi	Un dossier de suivi du traitement in situ du 01/05/12 au 31/08/12 et de suivi de la qualité des eaux souterraines a été établi par SERPOL en septembre 2012.		'SERPOL'
+2010	06			2010	06			un_diagnostic	En juin 2010, un diagnostic des sols et des eaux souterraines est réalisé par SERPOL. 15 sondages sont réalisés entre 3 et 6 m de profondeur.		'SERPOL'
+								Un_suivi_de_nappe_est_effectué	Un suivi de nappe est effectué en août et septembre 2010 qui confirme l'impact en hydrocarbures sur Pz1 et indique l’apparition d'un impact en hydrocarbures et en Benzène dissous en Pz5 et Pz6 ainsi qu'un léger impact en Benzène en Pz4 et Pz2.	'hydrocarbures', 'hydrocarbures', 'Benzène', 'Benzène'	
+2012	04			2012	04			Les_suivis_trimestriels	Les suivis trimestriels de la qualité des eaux souterraines, d'avril 2011 à avril 2012, ont montré une baisse continue des anomalies.		
+2009	05			2009	11			l__arrivée	Toutefois, on constate l'arrivée significative de produit entre mai 2009 et novembre 2009.		
+2009	07			2009	07			une_étude_historique_du_site_est_faite	En juillet 2009, une étude historique du site est faite qui ne note aucun incident ni accident sur le site.		
+2010	09			2010	09			une_mise_en_place_de	En septembre 2010, une mise en place de deux piézomètres complémentaires (Pz5 et Pz6) est faite en aval hydraulique, éloignés des installations pétrolières et du piézomètre Pz1.		
+2011	05	09		2011	05	09		Les_travaux_d__installation	Les travaux d'installation du dispositif de dépollution ont commencé le 9 mai 2011.		

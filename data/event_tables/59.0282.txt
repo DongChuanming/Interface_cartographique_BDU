@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	05			1996	05			Une_étude_de_sols_menée	- Une étude de sols menée dans le cadre de la cession des terrains a été menée en mai 1996.		
+1996				1996				Une_première_campagne	Une première campagne en 1996 montre une pollution des sols et de la nappe superficielle aux hydrocarbures.	'hydrocarbures'	
+								Une_évaluation_Simplifiée_des_Risques	- Une évaluation Simplifiée des Risques réalisée en Octobre 98 classe le site en 3 pour un usage industriel, tertiaire ou commercial.		
+1998				1998				la_nouvelle_campagne	Pollution qui n'a pas été confirmée lors de la nouvelle campagne en 1998		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	30		2005	05	30		signifie	Par courrier du 30 mai 2005, l'exploitant signifie au Préfet son intention d'arrêter son activité professionnelle.		
+2006	05			2006	05			la_campagne	Ces résultats ont été confirmés lors de la campagne de mai 2006 (perméthrine 0,195 µg/L et propiconazole 2,14 µg/L).	'propiconazole'	
+2006	01			2006	01			3_campagnes_ont_été_réalisées	Concernant les eaux souterraines, 3 campagnes ont été réalisées sur un piézomètre (avril 2001, janvier 2006 et mai 2006).		
+2006	07	24		2006	07	24		un_courrier	Dans un courrier du 24 juillet 2006, l'inspection des installations classées a demandé à l'exploitant de réaliser des investigations sols et eaux souterraines.		
+2006	05			2006	05			3_campagnes_ont_été_réalisées	Concernant les eaux souterraines, 3 campagnes ont été réalisées sur un piézomètre (avril 2001, janvier 2006 et mai 2006).		
+2006	01			2006	01			la_campagne	Alors qu'aucune trace de perméthrine et de propiconazole n'avait été décelée en avril 2001, ces deux éléments sont retrouvés sur la campagne de janvier 2006 (perméthrine 0,14 µg/L et propiconazole 2,6 µg/L).	'propiconazole', 'propiconazole'	'perméthrine'
+2006	07	24		2006	07	24		a_demandé	Dans un courrier du 24 juillet 2006, l'inspection des installations classées a demandé à l'exploitant de réaliser des investigations sols et eaux souterraines.		
+2006				2006				n__a_pas_été_détecté	En 2001, seul l'azacanole avait été détecté avec 9 µg/L mais il n'a pas été détecté en 2006.	"l' azacanole"	
+2001	04			2001	04			été_décelée	Alors qu'aucune trace de perméthrine et de propiconazole n'avait été décelée en avril 2001, ces deux éléments sont retrouvés sur la campagne de janvier 2006 (perméthrine 0,14 µg/L et propiconazole 2,6 µg/L).	'propiconazole', 'propiconazole'	'perméthrine'
+2005	05	30		2005	05	30		signifie_au_Préfet_son_intention	Par courrier du 30 mai 2005, l'exploitant signifie au Préfet son intention d'arrêter son activité professionnelle et le 25 août 2005 l'inspection des installations classées constate le démantèlement du bac de traitement.		
+2001	04			2001	04			3_campagnes_ont_été_réalisées	Concernant les eaux souterraines, 3 campagnes ont été réalisées sur un piézomètre (avril 2001, janvier 2006 et mai 2006).		

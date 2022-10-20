@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				des_campagnes	Il ressort de la synthèse des campagnes 2001-2010, que la situation reste stable, à l'exception de l'apparition d'hydrocarbures dans le piézomètre "amont" PZ1 depuis octobre 2008, confirmée lors du dernier prélèvement du 30 mars 2010 .	'hydrocarbures'	
+								est_implantée	L'usine Imphy Ugine Précision est implantée sur Pont de Roide depuis le milieu du 19ème siècle où elle exerce des activités liées à la métallurgie.		'Imphy Ugine'
+2010	03	30		2010	03	30		du_dernier_prélèvement	Il ressort de la synthèse des campagnes 2001-2010, que la situation reste stable, à l'exception de l'apparition d'hydrocarbures dans le piézomètre "amont" PZ1 depuis octobre 2008, confirmée lors du dernier prélèvement du 30 mars 2010 .	'hydrocarbures'	
+2010				2010				des_campagnes	Il ressort de la synthèse des campagnes 2001-2010, que la situation reste stable, à l'exception de l'apparition d'hydrocarbures dans le piézomètre "amont" PZ1 depuis octobre 2008, confirmée lors du dernier prélèvement du 30 mars 2010 .	'hydrocarbures'	
+2001	06	18		2001	06	18		a_été_pris_en	Un arrêté préfectoral a été pris en ce sens le 18 juin 2001.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10			2011	10			une_Evaluation_Quantitative	A la demande de l'administration, UNIVAR a fournit en octobre 2011 une Evaluation Quantitative des Risques Sanitaires (EQRS) qui conclut à la compatibilité du site pour un usage de type industriel.	'Sanitaires'	'UNIVAR'
+1979	11	28		1979	11	28		de_déclaration	Un récépissé de déclaration du 28/11/1979 visant la rubrique 133/1 de la nomenclature des installations classées pour la protection de l'environnement a été établi au nom de M.		
+2011	12	13		2011	12	13		des_restrictions	UNIVAR, dans un courrier du 13/12/2011 informe, la municipalité du Puy en Velay, des restrictions limitant l'usage futur du site à un usage industriel.		'UNIVAR'
+2009	10	1		2009	10	1		et_déclare_sa_cessation_d__activité	UNIVAR reprend l'activité en janvier 2003 et déclare sa cessation d'activité le 1er octobre 2009.		'UNIVAR'
+2003	01			2003	01			UNIVAR_reprend	UNIVAR reprend l'activité en janvier 2003 et déclare sa cessation d'activité le 1er octobre 2009.		'UNIVAR'
+2000	07			2000	07			un_audit_environnemental	Dans le cadre d'un audit environnemental d'acquisition, réalisé en juillet 2000 par WCI, une pollution des sols aux Composés Organiques Halogénés Volatils (COHV) a été mise en évidence.	'Composés Organiques Halogénés Volatils', 'COHV'	'WCI'
+2009	05			2009	05			un_rapport	Suite à la cessation d'activité, la société URS, sur demande d'UNIVAR a rendu, en mai 2009, un rapport sur des investigations complémentaires sur les sols.		'la société URS', 'UNIVAR'
+								a_été_utilisé	Ce site a été utilisé depuis le début des années 1960 pour stocker et commercialiser des produits chimiques.	'produits chimiques'	
+1996	04			1996	04			est_déclaré	Un changement d'exploitant est déclaré en avril 1996, au nom du groupe VAISSIERE-FAVRE.		'groupe VAISSIERE - FAVRE'
+2010	02			2010	02			demande	En février 2010, l'administration demande à UNIVAR de mettre le site en sécurité (enlèvements des produits dangereux, des déchets, interdiction d'accès et surveillance des effets) et de définir l'usage futur du site.	'des produits dangereux'	'UNIVAR'

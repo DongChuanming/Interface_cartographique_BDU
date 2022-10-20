@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				du_contrôle	Au niveau des eaux souterraines, des COHV ont été détectés lors du contrôle effectué en 1999 et en 2006 :	'COHV'	
+								Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques (ESR) ont été imposés par arrêté préfectoral du 01/12/98.		
+2011	04	22		2011	04	22		a_été_émis	Un arrêté instituant des servitudes d'utilité publique a été émis le 22/04/2011.		
+2012	11	05		2012	11	05		a_informé	Le Préfet en a informé l'exploitant par courrier du 05/11/2012.		'Le Préfet'
+2000	03			2000	03			Ces_études_ont_été_transmis	Ces études ont été transmis à l'administration début mars 2000.		
+1999				1999				du_contrôle	Au niveau des eaux souterraines, des COHV ont été détectés lors du contrôle effectué en 1999 et en 2006 :	'COHV'	
+2008	01	02		2008	01	02		a_été_établi	Un rapport de travaux de désamiantage et de déconstruction a été établi le 02/01/2008 et un rapport de travaux d'excavation et d'élimination des terres polluées aux HCT a été établi le 16/12/2008.		
+2006	08	25		2006	08	25		un_diagnostic_initial	- un diagnostic initial et pollution des sols le 25/08/2006 (étape A) et le 24/10/2006 (étape B) ;		
+2010	01	14		2010	01	14		a_été_émis_en	Le 14/01/2010, un arrêté préfectoral complémentaire a été émis en ce sens.		
+2000	10	17		2000	10	17		a_été_déclaré_banalisable	Le site a été déclaré banalisable par la préfecture le 17/10/2000.		
+2000	01	21		2000	01	21		bénéficiait	L'établissement bénéficiait d'un arrêté d'autorisation d'exploiter datant du 21/01/2000.		
+2008	12	16		2008	12	16		a_été_établi	Un rapport de travaux de désamiantage et de déconstruction a été établi le 02/01/2008 et un rapport de travaux d'excavation et d'élimination des terres polluées aux HCT a été établi le 16/12/2008.		
+2007	10	03		2007	10	03		deuxième_campagne_d__investigations	- deuxième campagne d'investigations et une évaluation détaillée des risques (EDR) le 03/10/2007.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12	31		1996	12	31		a_cessé_toute_activité_sur_site	La société COVED a cessé toute activité sur site au 31 décembre 1996.		'La société COVED'
+2009				2009				a_été_réalisé	Un suivi analytique a été réalisé en 2006, 2009 et 2012.		
+1990				1996				a_accueilli	De 1990 à 1996, le site a accueilli des encombrants ménagers issus des collectes sélectives du SMICOTOM.		'SMICOTOM'
+2010				2010				une_mission_d__expertise	Le Tribunal Administratif de Bordeaux a confié, en 2010 une mission d'expertise en ce sens.		'Le Tribunal Administratif de Bordeaux'
+2006	10	05		2006	10	05		transmet	Le 5 octobre 2006, l'exploitant transmet à l'Inspection des Installations Classées (IIC) le dossier de cessation d'activité dans le cadre d'une mise à l'arrêt définitif du site accompagné de l'ESR.		
+2010	06	16		2010	06	16		a_relancé	En l'absence de réponse de la part de COVED, l'inspection a relancé l'exploitant par courrier du 16 juin 2010.		'COVED'
+2006				2006				a_été_réalisé	Un suivi analytique a été réalisé en 2006, 2009 et 2012.		
+2012				2012				a_été_réalisé	Un suivi analytique a été réalisé en 2006, 2009 et 2012.		
+2010				2010				ont_été_constatés	Des "désordres" ont été constatés sur le captage AEP dit "La Courtillade" en 2010, sans qu'on en sache l'origine.		
+2005	10	04		2005	10	04		a_demandé	Par courrier du 4 octobre 2005, Monsieur le Préfet a demandé à la société COVED de déposer un dossier de cessation d’activité pour ce site accompagné d’une Évaluation Simplifiée des Risques (ESR).		'le Préfet', 'la société COVED'

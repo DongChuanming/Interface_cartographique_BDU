@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09			1999	09			Ce_mémoire_terminé	Ce mémoire terminé en septembre 1999 a montré la présence dans les sols et la nappe de produits chlorés, non imputables à l'activité de la Sté SULLAIR, et a mis en cause la Sté voisine JACQUI VALLET.	'produits chlorés'	'la Sté SULLAIR', 'la Sté voisine JACQUI VALLET'
+2000	06			2000	06			ont_été_transmis	.R. ont été transmis en juin 2000.		
+2002	03			2003	02			Le_traitement_a_été_réalisé	Le traitement a été réalisé de mars 2002 à février 2003.		
+1997				1997				une_étude_de_sol	Lors de sa cessation d'activités en 1997, la Sté SULLAIR a engagé une étude de sol.		'la Sté SULLAIR'
+1991				1991				exploite	Elle exploite cette activité sur son site de SAINT PRIEST depuis 1991.		
+2004	04	26		2004	04	26		évaluation_détaillée_des_risques	Une évaluation détaillée des risques (EDR) a été également réalisée et a été transmise à l'administration le 26 avril 2004.		
+1997				1997				cessation_d__activités	Lors de sa cessation d'activités en 1997, la Sté SULLAIR a engagé une étude de sol.		'la Sté SULLAIR'
+2004	04	26		2004	04	26		a_été_transmise	Une évaluation détaillée des risques (EDR) a été également réalisée et a été transmise à l'administration le 26 avril 2004.		

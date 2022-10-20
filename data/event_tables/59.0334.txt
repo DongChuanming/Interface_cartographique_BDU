@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930				1930				créée	Site d'une ancienne briqueterie fonctionnant au charbon créée en 1930 et dont l'activité a cessé en avril 1999.	'charbon'	
+1999	04			1999	04			a_cessé	Site d'une ancienne briqueterie fonctionnant au charbon créée en 1930 et dont l'activité a cessé en avril 1999.	'charbon'	
+								PV_de_récolement	PV de récolement du 13/08/01 de cessation pour un usage industriel.		

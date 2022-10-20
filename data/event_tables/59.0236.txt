@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	06	28		2011	06	28		Une_étude_hydrogéologique	Une étude hydrogéologique et la définition du réseau piézométrique ont été effectuées le 28 Juin 2011.		
+2010				2010				Des_investigations	Des investigations ont été menées en 2009 et 2010 sur la ZAC d’Arras Europe par la société ANTEA.		'la société ANTEA'
+2014	02	26		2014	02	26		un_plan_de_gestion	Le 26/02/2014, Verbrugge a effectué un plan de gestion de la pollution.		'Verbrugge'
+2012	02			2012	02			des_investigations_des_sols_menées	Ce plan de gestion se base sur les différentes campagnes de surveillance des eaux et sur des investigations des sols menées en février 2012.		
+2009				2009				Des_investigations	Des investigations ont été menées en 2009 et 2010 sur la ZAC d’Arras Europe par la société ANTEA.		'la société ANTEA'
+2011	04	11		2011	04	11		__APC_signé	- 2011 : APC signé le 11 avril 2011 pour mise en place surveillance piézométrique pour les paramètres suivantes : pH, conductivité, Chrome VI, Chrome III, Nickel, Cadmium, Arsenic et Plomb.	'Chrome VI', 'Chrome III', 'Nickel', 'Cadmium', 'Arsenic', 'Plomb'	
+2011				2011				__APC_signé	- 2011 : APC signé le 11 avril 2011 pour mise en place surveillance piézométrique pour les paramètres suivantes : pH, conductivité, Chrome VI, Chrome III, Nickel, Cadmium, Arsenic et Plomb.	'Chrome VI', 'Chrome III', 'Nickel', 'Cadmium', 'Arsenic', 'Plomb'	
+2012	02			2012	02			ont_été_installés	Les deux piézomètres ont été installés en Février 2012.		
+2010	10	21		2010	10	21		Une_visite_d__inspection	Une visite d’inspection de l’établissement Verbrugge a donc été réalisée le 21/10/2010 au vu de :		'Verbrugge'

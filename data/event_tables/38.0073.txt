@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	01	04		1995	01	04		informe	Le 04/01/1995, la société TESTA informe la Préfecture de l'Isère du retrait d'environ 610 tonnes de déchets plastiques de son site.	'de déchets plastiques'	'la société TESTA', 'la Préfecture'
+1995	01	17		1995	01	17		une_visite	Le 17/01/1995, une visite du site a eu lieu en compagnie d'un représentant de l'ex DDASS (maintenant ARS), d'un médecin et d'un Inspecteur de l'Environnement (ex Inspection des Installations Classés).		'DDASS', 'ARS'
+1994	03	04		1994	03	04		met	Le 04/03/1994, le Tribunal de Commerce de Grenoble met la société NIPSA en liquidation judiciaire.		'le Tribunal de Commerce de Grenoble', 'la société NIPSA'
+								l__implantation	La première activité recensée sur le site date de la fin des années 70 et de l'implantation de la société INTERPOLD'PLASTIQUE.		"la société INTERPOLD' PLASTIQUE"
+1994	07	26		1994	07	26		informe	Le 26/07/1994, Maitre BOURGUIGNON informe le Préfet de l'Isère que le site est officiellement devenue la propriété de la société TESTA.		'Maitre BOURGUIGNON', 'le Préfet', 'la société TESTA'
+1987	12	11		1987	12	11		l__arrêtée	L'activité a ensuite été reprise par la société NIPSA, le changement d'exploitant a été acté par l’arrêtée du 11/12/1987.		'la société NIPSA'
+								__les_travaux_de_remise_en_état_ont_été_confiés	Par AP du 15/11/95, les travaux de remise en état ont été confiés à l'ADEME suite à l'accord du ministère de l'Environnement en date du 28/9/95.		
+1987	12	11		1987	12	11		a_ensuite_été_reprise	L'activité a ensuite été reprise par la société NIPSA, le changement d'exploitant a été acté par l’arrêtée du 11/12/1987.		'la société NIPSA'
+1995	02	14		1995	02	14		a_remis	Le 14/02/1995, la société TESTA a remis un courrier faisant état du retrait de 682 tonnes de déchets plastiques du site.	'tonnes de déchets plastiques'	'la société TESTA'

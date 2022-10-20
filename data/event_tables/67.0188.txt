@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	11	13		2013	11	13		prélevées	Les résultats d'analyses prélevées le 13/11/2013 ne montrent aucun dépassement des limites de quantification pour les paramètres recherchés au droit des deux piézomètres.		
+1998	10			1998	10			opérationnel	Le réseau doit être opérationnel dans un délai de 3 moi suivant la prescription préfectorale (opérationnel dès octobre 1998).		
+1962				1962				est_implantée	La société SCIERIE EHRAHRT est implantée sur son site route de Mutterscholtz à Hilsenheim depuis 1962.		'La société SCIERIE EHRAHRT'
+1998	10			1998	10			doit_être_opérationnel	Le réseau doit être opérationnel dans un délai de 3 moi suivant la prescription préfectorale (opérationnel dès octobre 1998).		
+								doit_être_opérationnel	Le réseau doit être opérationnel dans un délai de 3 moi suivant la prescription préfectorale (opérationnel dès octobre 1998).		

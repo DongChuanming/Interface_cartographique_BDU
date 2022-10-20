@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	11	12		2014	11	12		a_alors_transmis	L'exploitant a alors transmis le 12 novembre 2014 un plan de gestion, un diagnostic de sols qui a conduit l'inspection a produire un arrêté préfectoral le 27 mai 2015 demandant des travaux de réhabilitation à réaliser au plus tard en mai 2017 et des diagnostic complémentaires.		
+2011	01	03		2011	01	03		un_mémoire_de_cessation_d__activités	L'exploitant a produit, le 3 janvier 2011, un mémoire de cessation d'activités.		
+1922				1922				ont_exploité	Les Teintureries de la Turdine ont exploité depuis 1922 des activités de blanchiment, teinture et finition des textiles sur le site situé 5, route de Paris à Tarare (69.		'Les Teintureries', 'de la Turdine'
+2015	05	27		2015	05	27		demandant_des_travaux_de_réhabilitation	L'exploitant a alors transmis le 12 novembre 2014 un plan de gestion, un diagnostic de sols qui a conduit l'inspection a produire un arrêté préfectoral le 27 mai 2015 demandant des travaux de réhabilitation à réaliser au plus tard en mai 2017 et des diagnostic complémentaires.		
+2017	05			2017	05			demandant_des_travaux_de_réhabilitation	L'exploitant a alors transmis le 12 novembre 2014 un plan de gestion, un diagnostic de sols qui a conduit l'inspection a produire un arrêté préfectoral le 27 mai 2015 demandant des travaux de réhabilitation à réaliser au plus tard en mai 2017 et des diagnostic complémentaires.		
+2017	11	29		2017	11	29		Une_inspection_a_eu	Une inspection a eu le 29/11/2017 pour faire le point des travaux.		
+2013	02			2013	02			a_proposé_un_arrêté	L'exploitant n'ayant pas répondu aux disposition de l'arrêté de 2012, en février 2013, l'Inspection des ICPE a proposé un arrêté de mise en demeure de respecter les dispositions de l'arrêté précité (réseau de piezo + diagnostic des sols).		
+2018	06	27		2018	06	27		a_alors_souhaité_proposé	L'exploitant a alors souhaité proposé un nouveau plan de gestion qu'il a transmis le 27/06/2018.		
+2015	05	27		2015	05	27		produire	L'exploitant a alors transmis le 12 novembre 2014 un plan de gestion, un diagnostic de sols qui a conduit l'inspection a produire un arrêté préfectoral le 27 mai 2015 demandant des travaux de réhabilitation à réaliser au plus tard en mai 2017 et des diagnostic complémentaires.		
+2011	02	04		2011	02	04		a_été_pris	Cet arrêté a été pris le 4 février 2011.		
+2012	03			2012	03			a_proposé	En mars 2012, l'Inspection des ICPE a proposé un arrêté fixant des prescriptions dans le cadre de la cessation.		
+2018	06	27		2018	06	27		a_transmis	L'exploitant a alors souhaité proposé un nouveau plan de gestion qu'il a transmis le 27/06/2018.		
+2009				2009				a_été_arrêtée	L'activité a été arrêtée début 2009 suite à la crise économique touchant le secteur du textile.		
+2010	12	31		2010	12	31		aurait_dû_être_éliminé	- la présence d'un transformateur contaminé aux PCB qui aurait dû être éliminé avant le 31 décembre 2010,	'PCB'	

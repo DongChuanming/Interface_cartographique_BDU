@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	03		2004	09	03		la_mise_en_place_d_	Il a été prescrit la mise en place d'un réseau de piézomètres de surveillance par arrêté préfectoral du 03/09/2004.		
+2011	12	08		2011	12	08		a_transmis	L'exploitant a transmis le rapport de fin de travaux le 08/12/2011.		
+2008	06	03		2008	06	03		un_diagnostic_complémentaire	L'exploitant a transmis le 03/06/2008 un diagnostic complémentaire au droit de ce fossé confirmant la pollution. 25 m3 de terres ont été excavées.		
+2007	11	26		2007	11	26		un_diagnostic_de_pollution	L'exploitant a transmis un diagnostic de pollution des sols et des eaux souterraines le 26/11/2007 : une pollution importante en HCT a été mise en évidence au niveau du fossé de récupération des eaux pluviales.	'HCT'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				des_études_menées	Par ailleurs, des études menées en 2009 par SOCOTEC INDUSTRIES ont conclu que la quasi-totalité des zones contaminés par des hydrocarbures totaux ont été traités.	'hydrocarbures totaux'	'SOCOTEC INDUSTRIES'
+								s__installe_sur_le_site	En 1984, la société Technico (société technique d'installations industrielles) s'installe sur le site jusque dans les années 2000.		'la société Technico'
+2010	06	25		2010	06	25		de_la_visite	Lors de la visite sur site du 25/06/2010, l'inspection constate qu'il n'y a pas trace d'activité.		
+								est_occupé	Le site est occupé depuis les années 1900 par les Établissements Cabut dont l'activité correspondait à une boulonnerie.		'les Établissements Cabut'
+1976	04	01		1976	04	01		a_conduit	Une régularisation  de l'activité déjà exercée sur le site a conduit à un arrêté préfectoral d'autorisation du 01/04/1976.		
+2010	07	27		2010	07	27		un_rapport_de_diagnostic_initial	Le 27/07/2010, l'inspection a reçu un rapport de diagnostic initial de la qualité des sols et une évaluation simplifiées des risques établit par SOCOTEC en juillet 2002.		'SOCOTEC'
+1984				1984				s__installe_sur_le_site	En 1984, la société Technico (société technique d'installations industrielles) s'installe sur le site jusque dans les années 2000.		'la société Technico'
+2002	07			2002	07			établit	Le 27/07/2010, l'inspection a reçu un rapport de diagnostic initial de la qualité des sols et une évaluation simplifiées des risques établit par SOCOTEC en juillet 2002.		'SOCOTEC'

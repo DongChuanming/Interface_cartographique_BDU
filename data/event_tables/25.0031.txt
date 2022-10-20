@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2008				Les_analyses_effectuées	Les analyses effectuées entre 2003 et 2008 montrent une diminution des concentrations en hydrocarbures jusqu'à des seuils inférieurs aux seuils limites imposés par le SDAGE depuis 2009.	'hydrocarbures'	'le SDAGE'
+1999				1999				n__est_plus_exploité	Le site, qui était constitué d'une zone de stockage d'hydrocarbures (4 cuves de fuel de 55 m3, 1 cuve de fuel de 20 m3 et 1 cuve de gasoil de 55 m3), d'une zone de stockage de carburant et d'une zone utilisée pour le ravitaillement, n'est plus exploité depuis 1999.	"stockage d'", 'hydrocarbures', 'fuel', 'fuel', 'gasoil', 'carburant'	
+1995				1995				Une_étude_de_sol	Une étude de sol a été conduite en 1995 sur le site mettant en évidence une zone contaminée en hydrocarbures jusqu'à des seuils de 17 000 mg/kg et jusqu'à une profondeur de 6 m.	'hydrocarbures'	
+2011				2011				a_demandé	L'inspection a demandé en 2011 des analyses supplémentaires pour confirmer la disparition de la pollution au droit du site.		
+2012	12			2012	12			Une_campagne_de_surveillance	Une campagne de surveillance a été réalisée par l'exploitant en décembre 2012.		
+2000				2000				Une_Étude_Simplifiée_des_Risques	Une Étude Simplifiée des Risques a été menée en 2000 et classe le site en catégorie 2 "à surveiller".		

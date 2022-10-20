@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				est_implantée	En 1970,  une station Elf est implantée sur ce dernier.		'station Elf'
+2002	04	15		2002	04	26		Les_travaux_ont_ensuite_repris	Les travaux ont ensuite repris du 15/04/2002 au 26/04/2002.		
+2001	11	26		2001	12	14		ont_été_excavées	Entre le 26/11/2001 et le 14/12/2001, prés de 3 500 tonnes de terres ont été excavées et acheminées en Installation de Stockage de Déchets Inertes tandis que 1 560 tonnes ont été envoyées en biocentre.	'Déchets Inertes'	
+2001	03	23		2001	03	23		Une_étude_sur_l__origine	Une étude sur l’origine de la pollution en HAP a été réalisée le 23/03/2001.	'HAP'	
+1999	09	30		1999	09	30		ont_été_effectuées	Des analyses complémentaires ont été effectuées le 30/09/1999.		
+2000	10	30		2000	10	30		ont_fait_l__objet_d_	Ces derniers ont fait l’objet d’un rapport rédigé en date du 30/10/2000.		
+2000	11	17		2000	11	17		Une_Évaluation_des_Risques_Sanitaires	Une Évaluation des Risques Sanitaires (ERS) a également été menée par GESTER et a fait l’objet d’un rapport daté du 17/11/2000.	'Sanitaires'	'GESTER'
+2001	11	19		2001	11	19		a_été_mené	Un diagnostic complémentaire a été mené le 19/11/2001 par la société CECA afin de préparer les travaux de réhabilitation.		'la société CECA'
+2003	04	08		2003	04	08		a_été_transmis	Le rapport final a été transmis à l’Inspection des Installations Classées le 08/04/2003.		
+2008	02	20		2008	02	20		a_été_signé	Compte tenu du fait qu’aucune contamination imputable au site n’a été détectée lors de ces 10 campagnes, un arrêté préfectoral a été signé en date du 20/02/2008 afin de mettre fin à la surveillance des eaux.		
+				1996				Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont donc eu lieu entre les mois de juillet et d’octobre 1996.		
+2001	09			2001	09			a_été_menée	Au mois de septembre 2001, une nouvelle ERS a été menée par l’INERIS.		
+2007				2007				ont_été_réalisés	Suite à une demande de l’Inspection, deux autres campagnes ont été réalisés en 2007.		
+1994	11	09		1994	11	09		Cette_étude	Cette étude, dont le rapport a été rédigé en date du 9/11/1994, a décelé une contamination des sols et des eaux en Hydrocarbures Totaux (ou HCT) à des teneurs respectives de 1 500 mg/kg et 8,8 mg/l.	'Hydrocarbures Totaux', 'ou HCT'	
+1999	06	30		1999	06	30		une_étude	Suite au projet d’implantation du centre social, une étude de faisabilité géotechnique a été réalisée par la société SOLEN le 30/06/1999.		'la société SOLEN'

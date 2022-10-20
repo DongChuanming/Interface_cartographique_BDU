@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_été_en_effet_constatées	(26 mg/l), les chlorures, le sodium et l'azote ont été en effet constatées en 1995.	'les chlorures', 'le sodium', 'azote'	
+2000	01	18		2000	01	18		ont_été_demandés	Deux piézomètres (amont et aval du dépôt d'alcool) ont été demandés par l'arrêté préfectoral n°00/165 A du 18/01/2000.	'alcool'	
+1995				1995				La_surveillance	La surveillance réalisée depuis 1995 montre un retour à une situation normale sur les paramètres cités ci-dessus, cependant des valeurs anormalement élevées en fer et en DCO ont été mesurées ponctuellement.	'fer', 'DCO'	

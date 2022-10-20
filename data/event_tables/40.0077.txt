@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	31		2006	01	31		est_réceptionnée	La version définitive de l'ESR est réceptionnée le 31 janvier 2006.		"l' ESR"
+2004	12	08		2004	12	08		a_été_remise	L'étape A a été remise le 9 juin 2004, l'étape B et l'ESR le 8 décembre 2004.		
+2004				2004				les_premières_analyses	A l'issue des analyses de 2011, aucune dégradation notable de la qualité des eaux souterraines n'a été observé depuis les premières analyses en 2004.		
+2005	03			2005	03			ont_été_évacuées	Pendant le mois de mars 2005, les terres ont été évacuées et traitées par la société SURCA.		'la société SURCA'
+2005	03	21		2005	03	21		est_également_demandé	Un justificatif de l'excavation des terres polluées aux hydrocarbures est également demandé le 21 mars 2005.	'hydrocarbures'	
+2004	12	06		2004	12	06		informe	Le 6 décembre 2004, Mme PARIS informe l'inspection des installations classées que la société SURCA a été saisie pour effectuer la collecte et le traitement de terres souillées.		'la société SURCA'
+2003	10	30		2003	10	30		reçoit	Le 30 octobre 2003, la DRIRE reçoit le dossier de cessation d'activité du site.		'la DRIRE'
+2004	06	09		2004	06	09		a_été_remise	L'étape A a été remise le 9 juin 2004, l'étape B et l'ESR le 8 décembre 2004.		
+2010				2010				Un_suivi	Un suivi de la qualité des eaux souterraines a été réalisé en 2010 et 2011 de la façon suivante :		
+2011				2011				Un_suivi	Un suivi de la qualité des eaux souterraines a été réalisé en 2010 et 2011 de la façon suivante :		
+2011				2011				des_analyses	A l'issue des analyses de 2011, aucune dégradation notable de la qualité des eaux souterraines n'a été observé depuis les premières analyses en 2004.		

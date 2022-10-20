@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	06			2009	06			est_en_place	Une surveillance des eaux souterraines est en place depuis juin 2009.		
+2012				2012				Les_travaux_ont_été_engagés	Les travaux ont été engagés par la société GDE à l'automne 2012, un rapport de fin de travaux a été remis à l'inspection en mai 2013.		'la société GDE'
+2013	05			2013	05			Les_travaux_ont_été_engagés	Les travaux ont été engagés par la société GDE à l'automne 2012, un rapport de fin de travaux a été remis à l'inspection en mai 2013.		'la société GDE'
+2010				2010				Elle_cessé	Elle cessé son activité en 2010.		
+2010	02			2010	02			ont_été_remises	Les études initiales ont été remises par GDE en février 2010 ; elles ont donné lieu à plusieurs échanges avec la DREAL.		'GDE', 'la DREAL'
+2011	08			2011	08			a_proposé_différentes_solutions	La société GDE a proposé différentes solutions de gestion des déchets en place en août 2011, au regard d’un bilan des coûts et avantages de chacune d’elles.		'La société GDE'
+2007	10	1		2007	10	1		d__une_autorisation_préfectorale	Elle bénéficie d'une autorisation communale datant du 13 décembre 2004 et d’une autorisation préfectorale du 1er octobre 2007.		

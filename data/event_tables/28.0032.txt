@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1992	06			a_exercé_sur	La Société CHROMIX a exercé sur ce site, de 1987 à juin 1992, date de sa mise en liquidation judiciaire, une activité de traitements de surfaces des métaux en tant que façonnier.		'La Société CHROMIX'
+								Ces_travaux_ont_été_menés_à_terme	Ces travaux ont été menés à terme le 16/04/95 pour une coût de 230 000 Francs (35 063,27 euros).		
+1987				1992	06			une_activité_de_traitements_de_surfaces	La Société CHROMIX a exercé sur ce site, de 1987 à juin 1992, date de sa mise en liquidation judiciaire, une activité de traitements de surfaces des métaux en tant que façonnier.		'La Société CHROMIX'

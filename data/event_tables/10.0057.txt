@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				une_évaluation_détaillée_des_risques	Etant donné l'usage sensible envisagé pour le site, une évaluation détaillée des risques sanitaires couplée à une évaluation détaillée des risques pour les eaux souterraines ont été réalisés en 2003 et 2004.		
+1997	07			1997	07			a_été_placée_en_liquidation_judiciaire	La société TEO a été placée en liquidation judiciaire en juillet 1997.		'La société TEO'
+2004				2004				une_évaluation_détaillée_des_risques	Etant donné l'usage sensible envisagé pour le site, une évaluation détaillée des risques sanitaires couplée à une évaluation détaillée des risques pour les eaux souterraines ont été réalisés en 2003 et 2004.		
+2010	07			2010	07			de_la_campagne	Lors de la campagne de juillet 2010, le dépassement des valeurs guides à l'amont du site a été observé sur l'ensemble des piézomètres pour les solvants chlorés.	'solvants chlorés'	
+1998				1999				ont_été_prescrites	Suite à la découverte sur le site en septembre 1997 d'une pollution au fioul lourd, une dépollution ainsi qu'une étude sols concernant cette zone ont été prescrites à l'exploitant et réalisées entre 1998 et 1999.	'fioul lourd'	
+1997	09			1997	09			la_découverte	Suite à la découverte sur le site en septembre 1997 d'une pollution au fioul lourd, une dépollution ainsi qu'une étude sols concernant cette zone ont été prescrites à l'exploitant et réalisées entre 1998 et 1999.	'fioul lourd'	
+1987	02	19		1987	02	19		était_autorisée_par	Cet établissement était autorisée par arrêté préfectoral n°87/670 du 19 février 1987.		
+1920				1993				a_exploité	La société Teintureries de l'Est et de l'Ouest (TEO) a exploité de 1920 à 1993 une teinturerie rue de Gournay à Troyes.		'La société Teintureries', 'TEO'
+2010	07			2010	07			a_été_observé	Lors de la campagne de juillet 2010, le dépassement des valeurs guides à l'amont du site a été observé sur l'ensemble des piézomètres pour les solvants chlorés.	'solvants chlorés'	
+1998				1999				réalisées	Suite à la découverte sur le site en septembre 1997 d'une pollution au fioul lourd, une dépollution ainsi qu'une étude sols concernant cette zone ont été prescrites à l'exploitant et réalisées entre 1998 et 1999.	'fioul lourd'	

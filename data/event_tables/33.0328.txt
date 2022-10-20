@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	15		2010	06	15		a_déclaré_la_cessation	Suite au rachat du site par le groupe BK et le transfert des activités à VAAS dans la Sarthe, l'exploitant a déclaré la cessation des activités par courrier du 15 juin 2010.		'groupe BK'
+2011	07			2011	07			a_engagé_des_travaux	L'aménageur a donc fait réaliser une EQRS pour un usage sensible (définition de seuil de dépollution) et a engagé des travaux en juillet 2011 de destruction des bâtiments et d'excavation des terres polluées.		
+2010	11	30		2010	11	30		a_été_transmis	Le mémoire de cessation d'activité a été transmis le 30 novembre 2010 avec une proposition d'un usage futur de type industriel.		
+2009				2009				ont_été_réalisés	En 2009, des sondages complémentaires ont été réalisés au niveau des 2 zones polluées afin de déterminer l'étendue des lentilles de pollution et un réseau piézométrique (5 piézomètres d'une profondeur de 10 m) a été mis en place pour évaluer l'impact sur les eaux souterraines en particulier en aval hydraulique du site.		
+2010	02			2010	02			Une_évaluation_des_risques_sanitaires	Une évaluation des risques sanitaires (EQRS) a été menée en février 2010 en tenant compte d'un usage industriel du site avec bâtiments laissés en état.		
+2013	01	10		2013	01	10		Procès_verbal_de_récolement	Le Procès-verbal de récolement a été dressé le 10 janvier 2013.		
+2014	07			2014	07			L__analyse	L'analyse des risques résiduels réalisé en juillet 2014 montre que les teneurs résiduelles dans le sols et l'exposition résiduelle est compatible avec l'usage résidentiel.		
+2012	12	05		2012	12	05		Le_prélèvement	Le prélèvement du 5 décembre 2012 met en évidence sur l'ensemble des paramètres des valeurs conformes aux objectifs de dépollution.		
+2011	05			2011	05			le_système_de_dépollution	En mai 2011, le système de dépollution est mis à l'arrêt en raison du rachat du site pour y implanter un projet immobilier (logement).		
+2011	03			2011	03			les_mesures_de_mise_en_sécurité	En mars 2011, les mesures de mise en sécurité suivantes ont été mises en place :		
+2012	08	1		2012	08	1		a_fusionné_avec	Le 1er août 2012, la société PRIMALAB a fusionné avec ICL France et a été radiée.		'la société PRIMALAB', 'ICL France'
+2011	07			2011	07			de_destruction_des_bâtiments	L'aménageur a donc fait réaliser une EQRS pour un usage sensible (définition de seuil de dépollution) et a engagé des travaux en juillet 2011 de destruction des bâtiments et d'excavation des terres polluées.		
+2011	12			2011	12			un_système_de_dépollution	Concernant les eaux souterraines, un système de dépollution par stripping des eaux souterraines (4 puits de pompage en limite aval de propriété) a été mis en place en décembre 2011.		
+1988				1988				exploitée	Ancienne usine de reconditionnement de produits d'entretien (détergents, savons, adjuvants, solvants, …) à destination de l’agriculture et de l’industrie) exploitée depuis 1988 par PRIMALAB (ICL France depuis le 1er août 2012) sur la commune du Haillan (33).		'PRIMALAB ( ICL France depuis'
+2010	07			2010	07			un_système_de_dépollution	S'agissant de la zone sous le bâtiment de production, un système de dépollution par venting/sparging a été mis en place en juillet 2010 au niveau des sols du bâtiment de production.		

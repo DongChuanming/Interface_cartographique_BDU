@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981				1981				est_arrêté	L'atelier d'extraction d'huiles est arrêté en 1981 et l'activité de l'usine cesse en 1995.		
+2003	02			2003	02			des_investigations_complémentaires	Suite à la découverte d'une pollution par des sulfates dans les sols au Nord du site, des investigations complémentaires ont été réalisées sur l'ensemble du site en Février 2003.	'des sulfates'	
+1995				1995				activité_de_l__usine_cesse	L'atelier d'extraction d'huiles est arrêté en 1981 et l'activité de l'usine cesse en 1995.		
+2002				2002				L__activité_cesse	L'activité cesse en 2002, le terrain est en friche depuis.		
+2009	01	30		2009	01	30		a_été_rédigé	Un plan de gestion final a été rédigé le 30/01/2009 par SOGEPROM.		'SOGEPROM'
+2010	09	21		2010	09	21		a_obtenu	BOUYGES IMMOBILIER a obtenu son PC le 21/09/2010.		'BOUYGES IMMOBILIER'
+2012	05	03		2012	05	03		Les_dernières_mesures	Les dernières mesures de qualité des eaux souterraines (03/05/2012) montrent pour l'îlot 17 une contamination de la nappe en sulfates, Mercure, BTEX.	'sulfates', 'Mercure', 'BTEX'	
+1840				1840				a_accueilli	Ce site situé dans le 10e arrondissement de la ville de Marseille a accueilli depuis 1840 une fabrique de sulfure de carbone exploitée par GTM jusqu'en 1935 puis par la Société Marseillaise du Sulfure de Carbone jusqu'en 1952 où l'activité la fabrication du sulfure de carbone est abandonnée au profit de l'extraction d'huiles végétales alimentaires au moyen de sulfure de carbone.	'sulfure de carbone', 'sulfure de carbone', 'sulfure', 'carbone'	'GTM', 'la Société Marseillaise du Sulfure', 'de Carbone'
+1997				1997				exerce_une_activité	En 1997 CAB'AUTO exerce une activité dans 2 bâtiments (négoce de voiture d'occasion et une activité de mécanique.		"CAB' AUTO"
+				1935				exploitée	Ce site situé dans le 10e arrondissement de la ville de Marseille a accueilli depuis 1840 une fabrique de sulfure de carbone exploitée par GTM jusqu'en 1935 puis par la Société Marseillaise du Sulfure de Carbone jusqu'en 1952 où l'activité la fabrication du sulfure de carbone est abandonnée au profit de l'extraction d'huiles végétales alimentaires au moyen de sulfure de carbone.	'sulfure de carbone', 'sulfure de carbone', 'sulfure', 'carbone'	'GTM', 'la Société Marseillaise du Sulfure', 'de Carbone'

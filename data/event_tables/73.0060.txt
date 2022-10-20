@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981	01	09		1981	01	09		a_fait_l__objet_d_	La station Total a fait l'objet d'un récépissé de déclaration en date du 9 janvier 1981.		'La station Total'
+1981	01	09		1981	01	09		déclaration	La station Total a fait l'objet d'un récépissé de déclaration en date du 9 janvier 1981.		'La station Total'
+2002	05	28		2002	05	28		a_prescrit	Par arrêté du 28 mai 2002, le préfet a prescrit une surveillance des eaux souterraines.		'le préfet'
+2000	01	14		2000	01	14		une_déclaration	Elle a fait l'objet d'une déclaration de cessation d'activité de la part de l'exploitant le 14 janvier 2000.		

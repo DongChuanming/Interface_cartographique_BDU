@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	21		2005	10	21		a_racheté	En date du 21 octobre 2005, Monsieur Bodet a racheté ce bien en l’état.		
+1952				1976				a_accueilli	Il a accueilli de 1952 à 1976, un garage, tenu par Monsieur Blanchet, disposant d’une station-service équipée de deux cuves d'hydrocarbures toujours sur le site, l’une de 10.7 m³ et l’autre de 2.5 m3.	'hydrocarbures'	'Monsieur Blanchet'
+1986				1986				sont_remplies_d__eau	Selon l'acte de vente, les deux cuves sont remplies d’eau depuis 1986.		
+2017	08	25		2017	08	25		Lors_de_la_visite_d__inspection	Lors de la visite d’inspection du 25 août 2017, il a été mis en évidence :		
+2017	07	04		2017	07	04		a_été_destinataire_d_	En date du 4 juillet 2017, la préfecture d’Indre-et-Loire a été destinataire d’une plainte à l’encontre du garage BLANCHET pour pollution de l’eau, odeurs, déchets, impact sur la sécurité et sur la santé.		'garage BLANCHET'

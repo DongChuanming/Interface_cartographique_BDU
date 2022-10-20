@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1950				1970				était_implantée	- de 1950 à 1970 : la scierie LANCELOT était implantée sur le site ;		
+2013	11	05		2013	11	05		dresse	Suite à la visite du site du 5 novembre 2013, l'inspection des installations classées dresse un procès verbal de constat de travaux qui précise les informations suivantes :		
+2009				2013				est_occupé	- de 2009 à 2013 : le site est occupé pour partie par une salle d'exposition de menuiseries aluminium et pour partie par des locaux de stockage appartenant à une société du groupe AFL.		'une société du groupe AFL'
+1950				2013				Les_activités_exercées	Les activités exercées de 1950 à 2013 sont les suivantes :		
+2012				2012				ont_été_réalisés	Dans le cadre de la cessation d'activité du site, des diagnostics des sols ont été réalisés au droit du site en 2012 et 2013.		
+1998				1998				occupe	- à partir de 1998 : jusqu'en novembre 2009 : la société AFL HONEYCOMB occupe le site ;		'la société AFL HONEYCOMB'
+2013				2013				ont_été_réalisés	Dans le cadre de la cessation d'activité du site, des diagnostics des sols ont été réalisés au droit du site en 2012 et 2013.		
+2014	06	05		2014	06	05		prend_acte	Par courrier du 5 juin 2014, la DDPP45 (direction départementale de la protection des populations) prend acte de la cessation définitive des activités de la société AFL HONEYCOMB STRUCTURES.		'la DDPP45', 'la société AFL HONEYCOMB STRUCTURES'
+2013	09			2013	09			a_transmis	Suite à l'arrêté préfectoral complémentaire sus-nommé, l'exploitant a transmis en septembre 2013 au service de l'inspection, un complément à son précédent dossier de cessation d'activité comprenant l'ensemble des points prescrits par cet arrêté.		
+2012	10	23		2012	10	23		a_déposé	L'exploitant a déposé le 23 octobre 2012, en préfecture du Loiret, un dossier de cessation d'activité contenant notamment les résultats des analyses de sols réalisés sur le site.		
+2009	11			2009	11			ont_été_transférées	Les activités ont été transférées sur le site de COURTENAY en novembre 2009.		'COURTENAY'
+1970				1988				était_occupé_par	- de 1970 à 1988 le site était occupé par une salle d'exposition de meubles de l'entreprise LEVITAN ;		'LEVITAN'
+2013	09	03		2013	09	03		du_diagnostic_de_sols	Aucune pollution significative n'ayant été décelée, les conclusions du diagnostic de sols du 3 septembre 2013 ne mettent pas en évidence d'impact des activités précédemment exercées sur le sol et le sous-sol du site.		
+				2009	11			occupe	- à partir de 1998 : jusqu'en novembre 2009 : la société AFL HONEYCOMB occupe le site ;		'la société AFL HONEYCOMB'
+2014				2014				est_installée	- depuis début 2014 : après des travaux d'aménagement, la société ARAIR (spécialisée dans les soins à domicile avec location de matériel médical) employant quarante personnes spécialisées (médecins, infirmières...) est installée sur le site.		'la société ARAIR'

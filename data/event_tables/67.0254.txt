@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	11			2017	11			une_évaluation_des_risques_sanitaires	l'exploitant a fait réaliser dans le cadre de la cessation d'activité et dans la perspective de la vente du terrain, un diagnostic de la qualité des sols en août 2017 ainsi que des investigations sur les gaz du sol et une évaluation des risques sanitaires en novembre 2017.		
+2017	08			2017	08			un_diagnostic	l'exploitant a fait réaliser dans le cadre de la cessation d'activité et dans la perspective de la vente du terrain, un diagnostic de la qualité des sols en août 2017 ainsi que des investigations sur les gaz du sol et une évaluation des risques sanitaires en novembre 2017.		
+2017	12	31		2017	12	31		La_cessation_d__activité	La cessation d'activité est intervenu le 31 décembre 2017.		

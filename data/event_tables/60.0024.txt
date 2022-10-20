@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07	31		1998	07	31		La_réalisation_d__une_étude_documentaire	La réalisation d'une étude documentaire a été prescrite par arrêté préfectoral en date du 31 juillet 1998 en vue de déterminer si les activités passées et actuelles exercées sont susceptibles d'avoir engendré une pollution.		
+1966				1966				exploite	La société AFFIMET exploite depuis 1966 à Compiègne un établissement spécialisé dans la production d'alliages d'aluminium de seconde fusion.	'aluminium'	'La société AFFIMET'
+2005	12			2005	12			étude_simplifiée_des_risques	Une étude simplifiée des risques a été réalisée en décembre 2005.		

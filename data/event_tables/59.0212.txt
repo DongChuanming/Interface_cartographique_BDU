@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				__rachat_de	-activité industrielle sur le site depuis 1955, rachat de l'établissement par BASF en 1986.		'BASF'
+2010	04	06		2010	04	06		La_campagne_du	- La campagne du 06 Avril 2010 montre des concentrations inférieures au seuil de détection pour les hydrocarbures totaux, le plomb, le cadmium et l’arsenic dissous.	'les hydrocarbures totaux', 'le plomb', 'le cadmium', 'arsenic'	
+								une_baisse	- La surveillance montre en août 2004 une baisse des concentrations de manière générale puis en novembre une remontée en plomb (en amont) et en arsenic.	'plomb', 'arsenic'	
+2014	03	25		2014	03	25		_La_campagne_de_surveillance	-La campagne de surveillance du 25 Mars 2014 montre une concentration de Cadmium légèrement supérieure au seuil de détection pour un point du site.	'Cadmium'	
+2000	04			2000	04			Etude_remise	- Etude remise en avril 2000 qui propose la réalisation de la phase B;		
+2006	06			2006	06			devient	- Xsys Print Solutions devient Flint Group en juin 2006.		'Xsys Print Solutions', 'Flint Group'
+2003				2003				remise_en	- Etude de sols phase B remise en septemebre 2003 suite à un arrêté du 25 septembre 2002		
+2005	07			2005	07			devient	- BASF devient Xsys Print solutions en juillet 2005		'BASF devient Xsys Print'

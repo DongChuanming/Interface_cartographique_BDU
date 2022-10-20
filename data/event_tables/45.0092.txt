@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	01	20		2017	01	20		a_transmis	Par courriel du 20 janvier 2017, l’exploitant a transmis les justificatifs de mise en sécurité des cuves enterrées et de vidanges des bacs de décantation-déshuilage et du débourbeur-déshuileur.		
+2017	10	25		2017	10	25		Des_travaux_de_réhabilitation	Des travaux de réhabilitation, consistant en l’excavation et l’évacuation des terres contaminées vers un centre de traitement biologique, ont été réalisés les 23 et 25 octobre 2017, et ont fait l’objet d’un rapport du 8 novembre 2017.		
+								Des_travaux_de_réhabilitation	Des travaux de réhabilitation, consistant en l’excavation et l’évacuation des terres contaminées vers un centre de traitement biologique, ont été réalisés les 23 et 25 octobre 2017, et ont fait l’objet d’un rapport du 8 novembre 2017.		
+2017	11	08		2017	11	08		Des_travaux_de_réhabilitation	Des travaux de réhabilitation, consistant en l’excavation et l’évacuation des terres contaminées vers un centre de traitement biologique, ont été réalisés les 23 et 25 octobre 2017, et ont fait l’objet d’un rapport du 8 novembre 2017.		
+2015	11	25		2015	11	25		la_cessation_d__activité	Le 25 novembre 2015, la société Orléans Sud Auto a déclaré au Préfet du Loiret la cessation d’activité, effective depuis le 20 mai 2015.		'la société Orléans Sud Auto'
+2017	11	29		2017	11	29		a_transmis	Le 29 novembre 2017, la Préfecture a transmis à l’exploitant le récépissé de déclaration de cessation d’activité.		'la Préfecture'
+2015	09	22		2015	09	22		au_diagnostic_des_sols	Dans le cadre de la cessation d’activité de son site, l’exploitant a transmis un rapport daté 13 octobre 2015 relatif au diagnostic des sols réalisé le 22 septembre 2015 sur le site.		
+1984				1984				a_débuté_ses_activités	A noter que cette société a débuté ses activités sur ce site en 1984.		
+2017	11	29		2017	11	29		a_délivré_à	La préfecture du Loiret a délivré à la société un récépissé de déclaration de cessation d'activité en date du 29 novembre 2017.		'La préfecture du Loiret'
+2017	11	21		2017	11	21		un_procès_verbal_de_récolement	Le 21 novembre 2017, l’inspection des installations classées, ayant constaté sur site la bonne réalisation des travaux, a établi un procès verbal de récolement.		
+2015	05	20		2015	05	20		la_cessation_d__activité	Le 25 novembre 2015, la société Orléans Sud Auto a déclaré au Préfet du Loiret la cessation d’activité, effective depuis le 20 mai 2015.		'la société Orléans Sud Auto'

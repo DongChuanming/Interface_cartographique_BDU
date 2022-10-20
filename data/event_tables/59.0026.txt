@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01	20		2000	01	20		Déclaration	- Déclaration de l'arrêt de l'exploitation de la décharge interne en décembre 1999 (arrêt de l'activité: 20/01/2000).		
+1985				1985				arrêté	Dépôt de déchets arrêté depuis 1985.		
+2000	01	20		2000	01	20		__arrêt	- Déclaration de l'arrêt de l'exploitation de la décharge interne en décembre 1999 (arrêt de l'activité: 20/01/2000).		
+2000				2000				Décharge	- Décharge de boues d'hydroxydes métalliques issues du traitement des effluents liquides du site + lagunes intermédiaires arrêtées début 2000.	'hydroxydes métalliques', 'effluents'	
+2002	10	22		2002	10	22		a_remise	a remise de la phase B et de l'ESR a été demandée par APC du 22/10/2002		"l' ESR"
+2004	06			2004	06			Réalisation_d_une_étude_des_sols	- Réalisation d"une étude des sols de l'usine en juin 2004, révélant une pollution des sols.		
+1999	12			1999	12			Déclaration	- Déclaration de l'arrêt de l'exploitation de la décharge interne en décembre 1999 (arrêt de l'activité: 20/01/2000).		

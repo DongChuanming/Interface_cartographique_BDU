@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				a_été_mis_en_place	En 1968, préalablement à l'implantation de la raffinerie, un système de confinement et de rabattement de la nappe a été mis en place autour du site.		
+2008	06	23		2008	06	23		a_été_confiné_par	A la date du 23 juin 2008, le site a été confiné par des palplanches.		
+1969				1983				a_fonctionné	L'ancienne raffinerie d'une superficie de 97.62 hectares, a fonctionné de 1969 à 1983.		
+2002	02	07		2002	02	07		s__est_produite	Le 7 février 2002, une fuite d'engrais liquide estimée à 1600 m3 s'est produite sur le site de l'entreprise LORCA.		'LORCA'
+2006	04			2006	04			a_été_remise	Une ESR portant sur l'ensemble du site a été remise à l'inspection en avril 2006, elle est réalisée pour un usage non sensible des sols du site mais un usage sensible des eaux de la Moselle.		
+1983				1983				créé	La zone étudiée est constituée du lotissement industriel du Malambas, situé à environ 1 km au sud du village de Hauconcourt, créé suite au démantèlement de la raffinerie de Lorraine en 1983.		
+1990				1990				a_été_mis_en_place	En 1990, préalablement à l'implantation de la raffinerie SPLRL, un système de confinement et de rabattement de la nappe a été mis en place autour du site.		'raffinerie SPLRL'

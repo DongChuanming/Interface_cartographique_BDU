@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1973				a_cessé	La Papeterie des Gaves du groupe SAICA, créée en 1973, a cessé son activité depuis le 23 octobre 2006.		'La', 'groupe SAICA'
+2006	10	23		2006	10	23		a_cessé	La Papeterie des Gaves du groupe SAICA, créée en 1973, a cessé son activité depuis le 23 octobre 2006.		'La', 'groupe SAICA'
+								prescrit_la_remise	Il prescrit la remise d'un dossier de servitudes d'utilité publique (SUP) sous 6 mois.		
+2012	08			2012	08			ont_été_excavées	En août 2012, 171,52 tonnes de terres souillées par des hydrocarbures à l'emplacement de l'ancienne cuve de fuel et d'un ancien transformateur ont été excavées.	'hydrocarbures', 'de fuel'	
+2013	06	03		2013	06	03		n__ont_pas_été_démantelés	Le 3 juin 2013, les bâtiments contenant de l'amiante n'ont pas été démantelés.		
+2007	03			2007	03			L__étude_a_été_remise	L'étude a été remise avec le mémoire de cessation d'activité en mars 2007.		
+1997	10	1		1997	10	1		a_été_reprise	La société Papeterie des Gaves a été reprise par le groupe SAICA le 1er octobre 1997.		'La société Papeterie des Gaves', 'groupe SAICA'
+								__réalisation	Sous 6 mois, réalisation de l'analyse des métaux dans les sédiments du Gave, à l'amont et à l'aval du site;	'métaux'	
+2012	08			2012	08			des_analyses_de_sol_réalisées	Les zones excavées ont été remblayée à l'aide de matériaux d'apport ne présentant pas d'anomalies en métaux et hydrocarbures lors des analyses de sol réalisées en août 2012.	'métaux', 'hydrocarbures'	
+2011	12			2011	12			a_été_remise	L'étude a été remise en décembre 2011.		
+								prescrit_l__élimination	L'arrêté préfectoral du 26/09/2014 prescrit l'élimination sous 6 mois :		
+1973				1973				créée	La Papeterie des Gaves du groupe SAICA, créée en 1973, a cessé son activité depuis le 23 octobre 2006.		'La', 'groupe SAICA'
+2011	12			2011	12			un_complément_de_diagnostic	Compte tenu des impacts constatés lors du diagnostic du site, un complément de diagnostic des mesures de gestion a été effectué en décembre 2011.		
+2010				2010				a_informé	Dès 2010, la Papeterie des Gaves a informé la commune que l'usage futur serait à caractère industriel.		'la Papeterie'

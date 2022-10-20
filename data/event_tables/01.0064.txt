@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	31		2003	12	31		La_réalisation_d__un_diagnostic_initial	La réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 31 décembre 2003.		
+1973				1973				__exploite	La société ELECTROLIUM (anciennement CHABRY SA) exploite, depuis 1973, une installation de traitements chimiques et électrochimiques des métaux sur le territoire de la commune de ST PAUL DE VARAX.		'La société ELECTROLIUM', 'CHABRY SA', 'ST PAUL DE VARAX'
+2004	09	14		2004	09	14		Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques (ESR) ont été transmis le 14/9/2004 et complétés le 29 mai 2006.		
+2006	05	29		2006	05	29		et_complétés	Le diagnostic initial et l'évaluation simplifiée des risques (ESR) ont été transmis le 14/9/2004 et complétés le 29 mai 2006.		

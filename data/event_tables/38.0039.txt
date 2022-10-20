@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	17		2005	12	17		Le_diagnostic_initial	Le diagnostic initial a été établi le 17/12/2005 et l'ESR le 24/01/2005.		
+2006	03			2006	03			a_été_mise_en_place	Une surveillance des eaux souterraines a été mise en place depuis mars 2006.		
+2009	06			2009	06			la_dernière_campagne	- au niveau de PZ1 aval : il a été décelé de l'antimoine entre 5 et 7,5 µg/L. la dernière campagne en juin 2009, ne montre aucun impact.	'antimoine'	
+2005	01	24		2005	01	24		Le_diagnostic_initial	Le diagnostic initial a été établi le 17/12/2005 et l'ESR le 24/01/2005.		
+								L__étude_de_sols	L'étude de sols (diagnostic initial et ESR) a été imposée à l'exploitant par arrêté préfectoral du 01/12/98.		
+1917				1917				a_démarré	La société DICKSON a démarré son activité de fabrication textiles sur le site depuis 1917 sur un terrain vierge auparavant.		'La société DICKSON'
+2009	06			2009	06			la_dernière_campagne	- au niveau de PZamont : deux impacts en chrome à 150 µg/L en juin 2006 et 470 µg/L en octobre 2007. la dernière campagne en juin 2009, ne montre aucun impact.	'chrome'	

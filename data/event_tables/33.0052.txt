@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	03	05		2001	03	05		a_été_délivrée	L'autorisation d'exploiter a été délivrée à la société SCREG Sud-Ouest par arrêté du 05/03/2001.		'la société SCREG Sud-Ouest'
+1997	08	20		1997	08	20		intervenu_chez	Le sinistre intervenu chez une société voisine de la SCREG, le 20/08/1997, a entraîné la rupture d'une canalisation et le déversement de produits sur le sol, pouvant être de la lessive de soude, des engrais liquides et de l'huile aromatique.	'soude', 'des engrais liquides'	'la SCREG'
+								d__une_visite_d__inspection	Lors d'une visite d'inspection le 29/09/09, l'exploitant fait part à l'inspection des installations classées d'un changement d’exploitant au bénéfice de la société des bitumes de BLAYE (SOBIB).		'la société des bitumes de BLAYE', 'SOBIB'
+2002	03	05		2002	03	05		prescrit_le_diagnostic_initial	L'arrêté préfectoral du 05/03/2001 prescrit le diagnostic initial et l'évaluation simplifiée des risques du site à l'échéance du 05/03/2002.		
+2009	01	16		2009	01	16		fixe	Depuis le 16/01/2009, un arrêté complémentaire fixe les prescriptions encadrant le « déplacement » de la chaufferie.		
+2003	02	04		2003	02	04		L__évaluation_détaillée_des_risques_remise	L'évaluation détaillée des risques remise le 04/02/2003 montre qu'il n'y a aucun risque pour les travailleurs ou les visiteurs occasionnels sur le site.		
+1998	02	05		1998	02	05		demande_la_réalisation_d__un_diagnostic_de_pollution	Le 05/02/1998, l'inspecteur des installations classées demande la réalisation d'un diagnostic de pollution du sol et du sous-sol.		
+2006	01	12		2006	01	12		font_l__objet_d_	Les installations font l’objet d’un nouvel arrêté d’autorisation du 12/01/2006.		
+2005				2005				ont_été_installés	Début 2005, des cuves et des ouvrages du dépôt de bitume ont été installés avec des fondations réalisées par la technique des pieux forés coulés.	'bitume'	
+2009	01	16		2009	01	16		le	Depuis le 16/01/2009, un arrêté complémentaire fixe les prescriptions encadrant le « déplacement » de la chaufferie.		
+1959	08	07		1959	08	07		a_été_autorisée	L'installation a été autorisée par arrêté du 07/08/1959.		
+2002	07	22		2002	07	22		L__étude	L'étude, remise le 22/07/2002, classe le site en "1" pour les milieux eaux souterraines et eaux superficielles à usage autre que l'adduction en eau potable (AEP) et sols pour contact direct.		

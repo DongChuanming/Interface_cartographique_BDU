@@ -1,0 +1,33 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07	12		2013	07	12		a_remis	ARKEMA a remis son étude le 12 juillet 2013.		'ARKEMA'
+071998	09			071998	09			sont_remis	Les rapports d'étapes sont remis les 09/071998 et 28/01/1999.		
+								les_campagnes	Cette situation est confirmée par les campagnes des 17/03 et 14/06/2010 avec des teneurs de 18,8 et 9,5 mg/l de AMS.	'AMS'	
+2000	01	17		2000	01	17		un_système_de_rabattement	Sur demande de l'Inspection du 14/01/2010, l'exploitant met en oeuvre le 17/01/2000 un système de rabattement de la nappe afin de confiner la source de pollution et de maîtriser le transfert du panache à l'aval hydraulique (5 puits de pompage, 25 m3/h).		
+2008				2008				les_campagnes	les campagnes de 2007 et 2008 montrent une situation stable et satisfaisante sauf pour l'AMS en PZ12 où l'impact variable mais pérenne persiste.		
+								Les_teneurs_mesurées	Les teneurs mesurées en octobre et novembre 2012 indiquent une légère dérive des concentrations en AP6b, dérive confirmée au cours des campagnes suivantes, ce qui a conduit l'exploitant à réactiver sa barrière hydraulique en février 2013.	'AP6b'	
+2010	01	10		2010	01	10		se_produit	Le 10/01/2010, lors d'une opération de déchargement d'acide monochloroacétique, un écoulement dans le sol se produit via un regard fuyard.	'acide monochloroacétique'	
+								se_poursuivent	Le suivi des pompages et les études associées menées par ATI se poursuivent semaine 5.		
+2010	06	04		2010	06	04		est_signé_le	Cet arrêté est signé le 4 juin 2010.		
+2013	11	27		2013	11	27		est_renforcée	La barrière hydraulique mise en place suite à la pollution de 2011 est renforcée de 2 puits supplémentaires le 27/11/2013.		
+								Un_pompage	Un pompage de la nappe est pratiqué sur le nouveau piezomètre ci-dessus depuis le 15/01.		
+2010				2010				mise_en_place	Par ailleurs, la barrière hydraulique mise en place en 2010 suite à l’incident AMCA a été complétée par la mise en place de 5 ouvrages complémentaires.		'AMCA'
+2011	07	06		2011	07	06		une_fuite	Le 6/7/2011 se produit une fuite d'un mélange réactionnel d'AMS à 70%, d'eau à 23%, de CMS (chlorure de méthane sulfonique) à 5% et de HCl à 2%.	'CMS', 'chlorure de méthane sulfonique', 'HCl'	
+2011				2011				la_pollution	La barrière hydraulique mise en place suite à la pollution de 2011 est renforcée de 2 puits supplémentaires le 27/11/2013.		
+2005	11	28		2005	11	28		Les_campagnes	Les campagnes du 28/11/2005 et 28/03/06 montrent une situation stable par rapport aux campagnes précédentes avec présence de AMS et Sulfures.	'AMS', 'Sulfures'	
+2013	02			2013	02			réactiver	Les teneurs mesurées en octobre et novembre 2012 indiquent une légère dérive des concentrations en AP6b, dérive confirmée au cours des campagnes suivantes, ce qui a conduit l'exploitant à réactiver sa barrière hydraulique en février 2013.	'AP6b'	
+2010	11	21		2010	11	21		est_acté	Sur demande de l'exploitant du 17/06/2010, l'arrêt du pompage et le démantèlement des installations de traitement est acté par la DREAL le 21/11/2010.		'la DREAL'
+2006	06	20		2006	06	20		La_campagne	La campagne du 20/06/2006 montre une amélioration pour les sulfures et l'AMS, stable pour les autres paramètres.	'les sulfures'	
+1999	01	28		1999	01	28		sont_remis	Les rapports d'étapes sont remis les 09/071998 et 28/01/1999.		
+2012	09			2012	09			a_été_arrêtée	La barrière hydraulique a été arrêtée en septembre 2012.		
+2010	06	14		2010	06	14		les_campagnes	Cette situation est confirmée par les campagnes des 17/03 et 14/06/2010 avec des teneurs de 18,8 et 9,5 mg/l de AMS.	'AMS'	
+2005	01			2005	01			Des_investigations_complémentaires	Des investigations complémentaires réalisées en janvier 2005 pour déterminer l'origine de la source sol de la pollution en AMS confirment la présence d'AMS à proximité d'anciens stockages de l'unité de fabrication de CMS (chlorure de méthane sulfonique) arrêtée en 2003 (le CMS s'hydrolyse en AMS).	'AMS', 'CMS', 'chlorure', 'méthane sulfonique', "le CMS s'", 'AMS'	'AMS'
+								réinstallation	- réinstallation des équipements sous 2 à 3 semaines,		
+2012	11			2012	11			Les_teneurs_mesurées	Les teneurs mesurées en octobre et novembre 2012 indiquent une légère dérive des concentrations en AP6b, dérive confirmée au cours des campagnes suivantes, ce qui a conduit l'exploitant à réactiver sa barrière hydraulique en février 2013.	'AP6b'	
+								Les_campagnes	Les campagnes du 28/11/2005 et 28/03/06 montrent une situation stable par rapport aux campagnes précédentes avec présence de AMS et Sulfures.	'AMS', 'Sulfures'	
+2011	09			2011	09			a_été_mise_en_évidence	Aucune trace d’AMS n’a été mise en évidence depuis septembre 2011 au droit du puits 2, situé en dehors du site, en aval hydraulique.		
+								est_envoyée	L'eau pompée, d'abord stockée dans une capacité de rétention est envoyée depuis le 21/01 à la STEP de Lacq.		
+2013	11			2013	11			2ème_est_observée	La 2ème est observée début novembre 2013 dans le puits aval où l'on mesure une concentration d'AMSA de 35 mg/l.		
+2004				2004				découvert	La surveillance de la présence d'AMS découvert en 2004 est poursuivie au travers des analyses trimestrielles des eaux souterraines.	'AMS'	
+2005				2005				Les_analyses_effectuées	Les analyses effectuées fin 2005 sur les terres issues du démantèlement de l'unité CMS ne révèlent pas la présence d'autres source de pollution par l'AMS.		'AMS'
+2007				2007				les_campagnes	les campagnes de 2007 et 2008 montrent une situation stable et satisfaisante sauf pour l'AMS en PZ12 où l'impact variable mais pérenne persiste.		
+1975				1975				est_implantée	L'usine est implantée depuis 1975.		

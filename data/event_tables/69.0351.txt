@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	12		2012	01	12		La_liquidation_judiciaire	La liquidation judiciaire de ROYAL SERVICES a été prononcée le 12/01/2012.		'ROYAL SERVICES'
+1992	07	31		1992	07	31		un_dossier_de_régularisation	Cette activité a fait l'objet d'un dossier de régularisation rédigé en juillet 1992 puis d'un récépissé de déclaration signé le 31/07/1992.		
+2010				2010				est_ensuite_reprise	L'activité est ensuite reprise en 2010 par la SARL ROYAL SERVICE.		'la SARL ROYAL SERVICE'
+1911				1911				l__implantation	La première activité recensée sur le site correspond à l'implantation de la Blanchisserie ODIN en 1911.		'la Blanchisserie ODIN'
+1992	07	31		1992	07	31		déclaration_signé	Cette activité a fait l'objet d'un dossier de régularisation rédigé en juillet 1992 puis d'un récépissé de déclaration signé le 31/07/1992.		
+2010	06	24		2010	06	24		a_été_signé	Un récépissé de déclaration de changement d’exploitant a été signé le 24/06/2010.		
+2012	04	02		2012	04	02		a_été_remis	Ce dossier a été remis à l'Inspection des Installations Classées en date du 02/04/2012.		
+2012	07	26		2012	07	26		Le_retrait	Le retrait des déchets a été imposé à Me SABOURIN par le biais de l'arrêté préfectoral du 26/07/2012.		'Me SABOURIN'

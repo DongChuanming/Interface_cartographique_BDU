@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	07		2009	01	07		a_été_autorisée	L'exploitation d'une troisième turbine à combustion a été autorisée par arrêté préfectoral du 7 janvier 2009.		
+2011				2011				des_travaux_d__excavation	- en 2011, des travaux d’excavation de terres polluées aux hydrocarbures issues de la zone des anciennes cheminées.	'hydrocarbures'	
+2007	03			2007	03			Diagnostic_réalisé_par	- Diagnostic réalisé par HPC en mars 2007		'HPC'
+2013				2015				ont_été_traitées_par_biotertres	Ces terres ont été traitées par biotertres sur site entre 2013 et 2015 en vue d’atteindre en fin de campagne des teneurs en hydrocarbures inférieures à 500 mg/kg (seuil d’acceptabilité en ISDI).	'hydrocarbures'	
+2018	01	25		2018	01	25		vue_de	Le site a fait l’objet d’une inspection le 25 janvier 2018 en vue de contrôler la réalisation effective des travaux de réhabilitation du site.		
+1962	01			1962	01			a_été_implantée	La centrale a été implantée sur une zone vierge de toute construction et a été mise en route en janvier 1962.		
+2005	03			2005	03			a_définitivement_cessé_ses_activités	Elle a définitivement cessé ses activités en mars 2005.		
+1962	01			1962	01			a_été_mise_en_route	La centrale a été implantée sur une zone vierge de toute construction et a été mise en route en janvier 1962.		
+2012				2012				ont_été_réalisées	Par ailleurs, en application de la circulaire du 18 juin 2009 relative à la mise en œuvre des recommandations du Haut Comité pour la Transparence et l’Information sur la Sécurité Nucléaire, deux campagnes de mesures de radioactivité dans les eaux souterraines ont été réalisées au droit du parc à cendres du site en 2011 et 2012.		'Haut Comité pour la Transparence'
+2005				2005				des_travaux_d__excavation	- en 2005, des travaux d'excavation et d'évacuation vers un centre agréé de terres polluées aux hydrocarbures et au benzo(a)pyrène au niveau de la zone de dépotage du fioul lourd, le long de la voie ferrée et au niveau d'une zone où avait été recensé un déversement accidentel à l'est de la zone de dépotage.	'hydrocarbures', 'benzo(a)pyrène', 'fioul lourd'	
+2018	01	25		2018	01	25		une_inspection	Le site a fait l’objet d’une inspection le 25 janvier 2018 en vue de contrôler la réalisation effective des travaux de réhabilitation du site.		
+2008	07			2008	07			Diagnostic_réalisé_par	- Diagnostic réalisé par HPC en juillet 2008		'HPC'
+2007	10			2007	10			Diagnostic_réalisé	- Diagnostic réalisé par ORTEC en octobre 2007		'ORTEC'
+2004				2013				Plusieurs_études_ont_été_menées	Plusieurs études ont été menées entre 2004 et 2013 pour caractériser l'état des sols de différentes zones du site :		
+2004				2004				Diagnostic	- Diagnostic d’EDF TEGG en 2004		'd’ EDF TEGG'
+2007	07			2007	07			Diagnostic_réalisé_par	- Diagnostic réalisé par HPC en juillet 2007		'HPC'
+2007	04			2007	04			Diagnostic_réalisé	- Diagnostic réalisé par ATOS ENVIRONNEMENT en avril 2007		'ATOS ENVIRONNEMENT'
+2011	06			2011	06			Diagnostic_réalisé_par	- Diagnostic réalisé par BURGEAP en juin 2011		'BURGEAP'
+2013				2013				menées	Suite aux différents diagnostics de l’état des sols et aux travaux de réhabilitation, les analyses complémentaires menées en 2013 après les travaux de réhabilitation permettent de dresser un bilan des zones présentant des pollutions résiduelles des sols par parcelles libérées :		
+2013	09			2013	09			Diagnostic_réalisé	- Diagnostic réalisé par HUB ENVIRONNEMENT en septembre 2013		'HUB ENVIRONNEMENT'
+2011				2011				ont_été_réalisées	Par ailleurs, en application de la circulaire du 18 juin 2009 relative à la mise en œuvre des recommandations du Haut Comité pour la Transparence et l’Information sur la Sécurité Nucléaire, deux campagnes de mesures de radioactivité dans les eaux souterraines ont été réalisées au droit du parc à cendres du site en 2011 et 2012.		'Haut Comité pour la Transparence'

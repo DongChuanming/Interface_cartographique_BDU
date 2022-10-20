@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07			2013	07			__fouilles_archéologiques	- mai-juillet 2013: fouilles archéologiques,		
+2007				2007				plusieurs_campagnes_de_surveillance	Dans le contexte du projet de l’Agglomération d'Orléans de création d'un ouvrage routier sur le terrain de l'entreprise JOHN DEERE, plusieurs campagnes de surveillance des sols et des eaux souterraines ont déjà eu lieu depuis 2007.		'JOHN DEERE'
+1962				1962				a_été_construite	L'usine de SARAN a été construite en 1962 et est spécialisée dans la fabrication de moteur diésel.		
+2013	12			2013	12			début	- novembre-décembre 2013: début des travaux,		
+								début	- novembre-décembre 2013: début des travaux,		
+								__fouilles_archéologiques	- mai-juillet 2013: fouilles archéologiques,		
+2013	04			2013	04			__Opération_de_défrichement	- mars-avril 2013: Opération de défrichement		
+1837				1837				fondé	La société JOHN DEERE fait partie du groupe DEERE AND COMPAGNY, groupe Américain fondé en 1837, dont le siège social se situe à MOLINE dans l’Illinois aux États-Unis.		'La société JOHN DEERE', 'groupe DEERE AND COMPAGNY'
+								__Opération_de_défrichement	- mars-avril 2013: Opération de défrichement		
+2014				2014				__ouverture_à_la_circulation	- fin 2014: ouverture à la circulation.		

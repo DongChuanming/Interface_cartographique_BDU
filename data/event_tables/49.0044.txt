@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_commencé	Les activités ont commencé dans les années 1920.		
+2003				2003				construit	o un bâtiment de plain-pied, en partie ouest, construit en 2003, accueillant des salles de classes de l’élémentaire ;		
+1843				1843				ont_été_construits	L’étude historique et documentaire montre que les bâtiments de l’école ont été construits en 1843 pour les plus anciens, des extensions et des créations de nouveaux bâtiments ont été effectuées à partir des années 1950.		
+								a_été_reconverti_en	Après l’arrêt de l’activité (dans les années 1990), le site a été reconverti en maisons d’habitations et bureaux.		
+								à	L’étude historique et documentaire montre que les bâtiments de l’école ont été construits en 1843 pour les plus anciens, des extensions et des créations de nouveaux bâtiments ont été effectuées à partir des années 1950.		

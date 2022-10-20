@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03	19		2004	03	19		à_un_incendie	Suite à un incendie en date du 19 mars 2004, un premier diagnostic du site a été réalisé sur la zone touchée par l'incendie.		
+2004	03	19		2004	03	19		un_premier_diagnostic	Suite à un incendie en date du 19 mars 2004, un premier diagnostic du site a été réalisé sur la zone touchée par l'incendie.		

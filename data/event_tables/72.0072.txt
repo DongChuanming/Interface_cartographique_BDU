@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01			2010	01			Un_diagnostic_de_sol	Un diagnostic de sol a été réalisé en janvier 2010  et a mis en évidence la présence d'hydrocarbures (HCT à 249 mg/kg en un point).	"d' hydrocarbures ( HCT"	
+2015	06			2015	06			la_cessation_d__activité	Suite à la cessation d'activité de juin 2015, une mise en sécurité du site a été réalisée :		
+2015	06	17		2015	06	17		a_cessé_son_activité	Le site a cessé son activité le 17/06/2015, suite à une liquidation judiciaire.		
+2017	03			2017	03			a_été_réalisée	Une interprétation des milieux a été réalisée en mars 2017.		
+2015	06			2015	06			une_mise_en_sécurité	Suite à la cessation d'activité de juin 2015, une mise en sécurité du site a été réalisée :		
+2017	01			2017	01			implanté	- des impacts en HAP (0,8 μg/l) et en COT (3,9 mg/l) ont été relevés dans le piézomètre implanté en janvier 2017 dans la zone arrière remblayée et susceptible d'avoir été impactée par des rejets atmosphériques et des ruissellements.	'HAP', 'COT'	
+1997	10	07		1997	10	07		a_été_autorisée_à_exploiter	Puis depuis le 7 octobre 1997, la société SABLE a été autorisée à exploiter un établissement spécialisé dans la peinture et la métallisation de pièces métalliques (dont le traitement et le revêtement des métaux).		'la société SABLE'

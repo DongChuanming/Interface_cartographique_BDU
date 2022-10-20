@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01			2012	01			le_curage	Il a été également été réalisé par la société SITA Remédiation un curage des dallages au niveau des ateliers et du sous-sol en décembre 2011, ainsi que le curage et nettoyage des caniveaux des ateliers en janvier 2012.		'la société SITA Remédiation'
+2012	10	17		2012	10	17		Une_visite_d__inspection	Une visite d'inspection a été effectuée le 17/10/2012.		
+2010	10	27		2010	10	27		La_liquidation_judiciaire	La liquidation judiciaire de la société PRECIAL CASTING a été prononcée le 27/10/2010 par le Tribunal de Commerce de Lyon.		'la société PRECIAL CASTING', 'le Tribunal de Commerce de Lyon'
+2012	03			2012	03			est_maintenu_fermé	En mars 2012, le site est maintenu fermé à clé.		
+2009	07	15		2009	07	15		est_soumise_à_autorisation	L'unité de fonderie d'aluminium est soumise à autorisation par arrêté préfectoral du 15/07/2009.		
+2011	12			2011	12			Ces___investigations_ont_été_réalisées	Ces  investigations ont été réalisées en décembre 2011 par la société GALTIER EXPERTISE ENVIRONNEMENT.		'par la société GALTIER EXPERTISE ENVIRONNEMENT'
+								l__exploitation	L'installation est cédée à la société LCN qui poursuite l'exploitation de l'unité de fonderie d'aluminium sur 8 mois.		'la société LCN'
+2011	12			2011	12			un_curage	Il a été également été réalisé par la société SITA Remédiation un curage des dallages au niveau des ateliers et du sous-sol en décembre 2011, ainsi que le curage et nettoyage des caniveaux des ateliers en janvier 2012.		'la société SITA Remédiation'
+1993				2003				exploitait	De 1993 à 2003, la société Dynacast exploitait le site avec des activités de fonderie d'aluminium et de modelage de pièces de zinc.		'la société Dynacast'
+2012	01			2012	01			a_été_également_été_réalisé	Il a été également été réalisé par la société SITA Remédiation un curage des dallages au niveau des ateliers et du sous-sol en décembre 2011, ainsi que le curage et nettoyage des caniveaux des ateliers en janvier 2012.		'la société SITA Remédiation'

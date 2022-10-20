@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976	12	23		1976	12	23		a_été_autorisée	La société DOLLFUS MIEG & Cie a été autorisée, par les arrêtés préfectoraux des 23 décembre 1976 et du 20 octobre 1995, à exploiter un atelier de teinture de fils et des installations de combustion.		'La société DOLLFUS MIEG'
+2011				2011				regroupent	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+				1992				L__utilisation	L'utilisation des deux bassins de décantation a toutefois continué jusqu'en 1992.		
+1995				1995				_les_travaux_menés	-les travaux menés en 1995 ont inclus le curage des bassins jusqu'au terrain naturel et l'excavation des boues qui s'y étaient accumulées au fil du temps ; au total 296 T de matériaux ont été excavées		
+1999				1999				regroupent	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+2012				2012				ont_été_aménagés	Un parking PL et une voie d'accès ont été aménagés au niveau des anciennes lagunes en 2011-2012.		
+2011				2011				les_investigations	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+2011				2011				ont_été_aménagés	Un parking PL et une voie d'accès ont été aménagés au niveau des anciennes lagunes en 2011-2012.		
+2001				2001				_les_travaux_menés	-les travaux menés en 2001 ont consisté à combler la zone des anciens bassins avec des granulats propres provenant de gravières de la région et à la recouvrir d'un revêtement en asphalte permettant l'imperméabilisation du secteur.		
+2014	06			2014	06			finalisées	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+				1995	10	20		a_été_autorisée	La société DOLLFUS MIEG & Cie a été autorisée, par les arrêtés préfectoraux des 23 décembre 1976 et du 20 octobre 1995, à exploiter un atelier de teinture de fils et des installations de combustion.		'La société DOLLFUS MIEG'
+1929				1929				a_été_abandonnée	Leur utilisation a été abandonnée avant 1929 et ces installations ont été démantelées et évacuées à l'occasion des travaux de construction d'un bâtiment.		
+1910				1928				ont_été_associées	Entre 1910 et 1928, deux installations de filtration, construites immédiatement au nord de ces derniers, ont été associées aux bassins de décantation.		
+1999				1999				les_investigations	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+2014				2014				la_campagne_de_prélèvement	Pour les eaux souterraines, la campagne de prélèvement de 2014 issue de cette étude montrent :		
+				1992				a_exploité	Elle a exploité jusqu'en 1992 deux lagunes de transit d'effluents industriels.		
+1995				1995				regroupent	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+2011				2011				Les_investigations	Les investigations de 2011 ont démontré la présence d'hydrocarbures entre 216 et 1260 mg/kg et d'antimoine dans les sols.	'hydrocarbures', 'antimoine'	
+1995				1995				les_investigations	Les études faites par la SERM et finalisées en juin 2014 regroupent les investigations de 1995, 1999 et 2011.		'la SERM'
+2001				2001				ont_fait_l__objet	Les deux bassins de décantation ont fait l'objet de travaux de réhabilitation en 1995 et en 2001, encadrés par les arrêtés du 19 décembre 1995 et du 31 mai 2001 :		
+1992				1995				sont_rejetés	Entre 1992 et 1995, les effluents du site sont rejetés directement dans le réseau d'assainissement de la Ville de Mulhouse.		'la Ville de Mulhouse'
+2009	02	18		2009	02	18		sa_liquidation_judiciaire	Le 18 février 2009, sa liquidation judiciaire a été prononcée par le tribunal de commerce de Paris.		
+1995				1995				ont_fait_l__objet	Les deux bassins de décantation ont fait l'objet de travaux de réhabilitation en 1995 et en 2001, encadrés par les arrêtés du 19 décembre 1995 et du 31 mai 2001 :		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12	10		1996	12	10		Elle_bénéficiait	Elle bénéficiait d'un récépissé de déclaration en date du 10/12/1996.		
+								la_mise_en_service	La société TOTAL FRANCE est le dernier exploitant sur ce site, d'une station-service dont la mise en service date du début des années 1950 sous les enseignes ANTAR puis ELF.		'La société TOTAL FRANCE', 'ANTAR puis ELF'
+2003	12	31		2003	12	31		a_cessé_son_activité	Le site a cessé son activité le 31/12/2003.		
+2004	05	03		2004	05	10		sur_le_site	Les travaux d'enlèvement des cuves ont été réalisés sur le site du 03/05/2004 au 10/05/2004.		
+2004	07	30		2004	07	30		a_été_transmis	Un rapport de diagnostic de pollution et examen de l'état des sols lors de l'enlèvement des cuves a été transmis à la Préfecture le 30/07/2004.		'la Préfecture'
+1996	06	27		1996	06	27		d__une_visite	Lors d'une visite de la DRIRE le 27/06/1996, il avait été constaté des suintements noirs, dans la cave de l'immeuble construit au dessus de la station service.	'suintements noirs'	'la DRIRE'
+2004	05	03		2004	05	10		Les_travaux_d__enlèvement	Les travaux d'enlèvement des cuves ont été réalisés sur le site du 03/05/2004 au 10/05/2004.		
+1996	12	10		1996	12	10		de_déclaration	Elle bénéficiait d'un récépissé de déclaration en date du 10/12/1996.		
+2004	08	05		2004	08	05		a_été_délivré_par	Un récépissé de déclaration de cessation d'activités classées a été délivré par le Préfet, le 05/08/2004.		'le Préfet'

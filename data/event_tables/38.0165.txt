@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2010	05			la_visite_d__inspection	Suite à la visite d'inspection du site réalisée par l'inspecteur des installations classées début mai 2010 et compte tenu des concentrations en polluants dans la nappe, celui-ci a prescrit la continuation de la surveillance de l'aquifère et l'établissement d'un dossier de servitudes (rapport du 27/05/2010).		
+2007				2007				a_procédé	Toutefois, la société SCI LCLR désirant acquérir le site pour créer un lotissement de 14 lots à caractère artisanal et industriel a procédé en 2007 à des opérations de dépollution des sols.		'la société SCI LCLR'
+2004				2009				sondages_ont_été_réalisés	Concernant l'étude du sol, 66 sondages ont été réalisés entre 2004 et 2009.		
+2004				2004				ont_été_implantés	Afin d'évaluer la qualité des eaux souterraines, 3 piézomètres ont été implantés sur le site en 2004.		
+1987	02	19		1987	02	19		était_règlementée	Dans ce cadre, la société était règlementée au titre des installations classées pour la protection de l'environnement notamment par les arrêtés préfectoraux n°76-6798 du 5 août 1976, n°83-141 du 12 janvier 1983 et n° 87-640 du 19 février 1987.		
+2005				2005				réalisée	Concernant les eaux superficielles, l'étude réalisée en 2005 par le BURGEAP n'a révélé aucune présence d'éléments polluants (métaux, PCB, HAP, BTEX et COHV).	'éléments polluants', 'métaux', 'PCB', 'HAP', 'BTEX', 'COHV'	'le BURGEAP'
+1997				1997				a_absorbé	Cette société a succédé en 1994 à la société EGPS (Entreprise Générale de Peinture et de sablage), puis a absorbé celle-ci en 1997.		'la société EGPS'
+2007	02			2007	02			Des_travaux_de_dépollution	Des travaux de dépollution ont eu lieu sur le site en février 2007.		
+2011	04	22		2011	04	22		ont_été_prescrites	Au vu du changement d'usage envisagé pour ce site, des Servitudes d'Utilités Publiques ont été prescrites dans l'arrêté préfectoral du 22 avril 2011.		
+1997				1997				a_succédé	Cette société a succédé en 1994 à la société EGPS (Entreprise Générale de Peinture et de sablage), puis a absorbé celle-ci en 1997.		'la société EGPS'
+2007				2007				a_été_réalisée	Une étude complémentaire sur les eaux et les sols a été réalisée par le bureau d'études TEREO en 2007.		'TEREO'
+2005	06			2005	06			un_mémoire_de_cessation_d__activité	La société a remis en juin 2005, un mémoire de cessation d'activité, à la préfecture de l'Isère.		
+2010	08	02		2010	08	02		a_été_tenu	Par arrêté préfectoral du 2 août 2010, l'exploitant a été tenu de continuer de surveiller la qualité des eaux souterraines situées au droit du site et d'établir un dossier comprenant les éléments nécessaires à 'linstitution de servitudes.		
+2009				2009				réalisée	Enfin, l'analyse de risques résiduels (ARR) réalisée en 2009 par le BURGEAP dans le cadre d'un réaménagement tertiaire du site a mis en avant les résultats suivants :		'le BURGEAP'
+2011				2011				ont_augmentées	- Les concentrations en plomb ont augmentées avec un pic en 2011 sur le piézomètre PZ2 à 425 µg/l alors qu'aucune trace n'a été détectée en amont ;	'plomb'	
+1994				1994				a_succédé	Cette société a succédé en 1994 à la société EGPS (Entreprise Générale de Peinture et de sablage), puis a absorbé celle-ci en 1997.		'la société EGPS'
+2005				2005				a_arrêté	La société a arrêté en 2005 son activité.		
+2004				2004				études_environnementales	Depuis 2004, le bureau d'études BURGEAP a réalisé deux études environnementales de sol et des eaux, une évaluation simplifiée des risques (ESR) et une analyse des risques résiduels (ARR) sur le site, à la demande de la société PREZIOSO SAS.		'BURGEAP', 'la société PREZIOSO SAS'

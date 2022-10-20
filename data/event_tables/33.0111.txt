@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10			2005	10			Les_campagnes_de	Les campagnes de octobre 2005, mai 2006 et octobre 20O7 confirment la pérennité de l'absence d'impact.		
+2005	01	28		2005	01	28		la_levée_des_servitudes	Le 28 janvier 2005, cette société demande au Préfet la levée des servitudes instituées par l'arrêté du 10 octobre 2002 sur la base des résultats d'analyses ci-dessus.		
+2006	05			2006	05			Les_campagnes_de	Les campagnes de octobre 2005, mai 2006 et octobre 20O7 confirment la pérennité de l'absence d'impact.		
+				1990				s__est_poursuivie	L'activité de SECASI Industrie SA a débuté en 1961 et s'est poursuivie jusqu'en 1990.		'SECASI Industrie SA'
+2004	02	08		2004	02	08		a_communiqué	La SARL MONTMARSIS, propriétaire du site,a communiqué les résultats d'analyses de Composés organiques Volatils réalisées sur un prélèvement d'un  piézomètre sur le site du 8 février 2004.	'Composés organiques Volatils'	'La SARL MONTMARSIS'
+2009	05	12		2009	05	12		sont_levées	Sur proposition de la DRIRE, le 12 mai 2009, les servitudes prescrites par l’arrêté préfectoral du 17 octobre 2002 sont levées par l'arrêté du 17 juin 2009.		'la DRIRE'
+1997				1997				les_diagnostics	La contamination délimitée par les diagnostics réalisés en 1997 et 1999 peut être considérée comme résorbée, suite aux résultats de ce diagnostic.		
+2009	06	17		2009	06	17		sont_levées	Sur proposition de la DRIRE, le 12 mai 2009, les servitudes prescrites par l’arrêté préfectoral du 17 octobre 2002 sont levées par l'arrêté du 17 juin 2009.		'la DRIRE'
+1999				1999				les_diagnostics	La contamination délimitée par les diagnostics réalisés en 1997 et 1999 peut être considérée comme résorbée, suite aux résultats de ce diagnostic.		
+1990				1996				différents_rachats	Entre 1990 et 1996, elle a fait l'objet de différents rachats qui ont finalement débouché sur le dépôt de bilan.		
+1999	07			1999	07			le_diagnostic_approfondi	En juillet 1999, le Cabinet CERA, ayant pris la succession de Maître Audinet, fait réaliser le diagnostic approfondi et de l’évaluation Détaillée des Risques (EDR) dont les objectifs sont de circonscrire par des reconnaissances complémentaires l'extension de la pollution mise en évidence et de préciser les risques pour le milieu environnant, en particulier pour l'homme, pour disposer des éléments nécessaires à la détermination des mesures compensatoires à mettre en œuvre.		'le Cabinet CERA'
+1997	08	19		1997	08	19		L__étude_réalisée	L'étude réalisée le 19 août 1997 aboutit au classement du site en 1 : "sites nécessitant des investigations approfondies".		
+								Les_campagnes_de	Les campagnes de octobre 2005, mai 2006 et octobre 20O7 confirment la pérennité de l'absence d'impact.		
+2000	01			2000	01			L__étude_remise	L'étude remise en janvier 2000 confirme la contamination du sous-sol (zone non saturée et nappe superficielle) par les composés organiques volatils, constatée en 1997.	'composés organiques volatils'	
+1961				1961				L__activité	L'activité de SECASI Industrie SA a débuté en 1961 et s'est poursuivie jusqu'en 1990.		'SECASI Industrie SA'
+1994	02	19		1994	02	19		prononce	Le 19 février 1994, le Tribunal de Commerce prononce la liquidation judiciaire de la société SECASI Industries SA, située à PESSAC (33) qui exploitait un atelier de fabrication de matériel électromécanique et électrique.		'le Tribunal de Commerce', 'la société SECASI Industries SA'

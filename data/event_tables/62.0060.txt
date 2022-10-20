@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10			2006	10			une_Évaluation_Simplifiée_des_Risques	- Réalisation d'investigations des sols et des eaux souiterraines (étape B) et d'une Évaluation Simplifiée des Risques en octobre 2006.		
+1999	01			1999	01			remis	- Dossier étape A de l'exploitant remis en janvier 1999.		
+1988				1988				un_débordement	- En 1988, un débordement d'une des cuves styrène a pollué le sol et ensuite la nappe phréatique car les cuvettes n'étaient pas étanches.	'styrène'	
+2001	06			2001	06			Réalisation_d__une_étude_de_sol	- Réalisation d'une étude de sol au droit des cuves en juin 2001.		
+1991				1996				des_pompages	Afin de dépolluer la nappe, des pompages ont eu lieu de 1991 à 1996 jusqu'au moment où le seuil de contamination a atteint un niveau acceptable.		
+2007				2007				ayant_fourni_un_bilan_de_fonctionnement	- Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2007.		'IPPC'
+2006	10			2006	10			Réalisation_d__investigations	- Réalisation d'investigations des sols et des eaux souiterraines (étape B) et d'une Évaluation Simplifiée des Risques en octobre 2006.		
+1988				1988				Une_étude_de_sol	Une étude de sol, effectuée en 1988, montrait une contamination à 2-3m de profondeur.		
+2007	10	18		2007	10	18		Déclaration	- Déclaration de BP Wingles SNC informant qu'un changement en faveur de la société INEOS NOVA est prévu en date du 18/10/2007.		'BP Wingles', 'la société INEOS NOVA'

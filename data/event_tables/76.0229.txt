@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				une_visite_a_été_faite	Suite au mémoire de cessation d'activité fourni en 2010, une visite a été faite le 21 mars 2012 par l'inspection des installations classées.		
+								rachète	Dans les années 60, la SITAP (Société Industrielle de Tous Articles Plastiques) rachète les bâtiments et installe ses activités, dépôts et production de matières plastiques.		'la SITAP', 'Société Industrielle de Tous Articles Plastiques'
+2013	04			2013	04			a_également_été_mis_en_place	Un suivi piézométrique a également été mis en place en avril 2013.		
+1992				2009				a_développé_ses_activités	De 1992 à 2009, l'établissement GALVANORM a développé ses activités sur le site.		'GALVANORM'
+1883				1960				se_sont_succédées	De 1883 à 1960, différentes sociétés travaillant dans dans le textile se sont succédées (Butler Hollidayand Cie, Filature de laine et teinturerie puis tissage; SARL Geoffroy, ennoblissement textile; Société Nouvelle de Filature et Tissage, ennoblissement textile).		'Butler Hollidayand', 'Société Nouvelle de Filature'
+2012	07	18		2012	07	18		de_la_visite_d__inspection	Lors de la visite d'inspection du 18 juillet 2012, l'inspection des installations classées a constaté que le propriétaire du site a fait procéder à l'élimination des deux transformateurs identifiés comme contenant des PCB.	'contenant des PCB'	
+2012	09			2012	09			a_ensuite_fait_réaliser_une_synthèse_historique	La société GALVANORM a ensuite fait réaliser une synthèse historique en septembre 2012 afin d'identifier les diverses activités qui se sont succédées sur le site depuis 1883.		'La société GALVANORM'
+2010	09			2010	09			Deux_nouvelles_campagnes_ont_été_réalisées	Deux nouvelles campagnes ont été réalisées en août et septembre 2010 dans le cadre du mémoire de cessation d'activité de la société GALVANORM.		'la société GALVANORM'
+2014	10			2014	10			un_dossier_de_demande	L'ensemble de ces démarches a abouti à un dossier de demande d'instauration de servitudes d'utilité publique finalisé en octobre 2014.		
+2012	03	21		2012	03	21		une_visite_a_été_faite	Suite au mémoire de cessation d'activité fourni en 2010, une visite a été faite le 21 mars 2012 par l'inspection des installations classées.		
+1969				1969				s__installe	En 1969, l'entreprise GV SPORT spécialisée dans l'équipement sportif, s'installe sur le site.		'GV'
+1883				1883				se_sont_succédées	La société GALVANORM a ensuite fait réaliser une synthèse historique en septembre 2012 afin d'identifier les diverses activités qui se sont succédées sur le site depuis 1883.		'La société GALVANORM'
+2007	10			2007	10			deux_campagnes_de_diagnostic	Suite à la cessation d'activité de la société GALVANORM deux campagnes de diagnostic de sol ont été menées en octobre 2007 et en novembre 2009 afin de déterminer les pollutions présentes sur site.		'la société GALVANORM'
+								Deux_nouvelles_campagnes_ont_été_réalisées	Deux nouvelles campagnes ont été réalisées en août et septembre 2010 dans le cadre du mémoire de cessation d'activité de la société GALVANORM.		'la société GALVANORM'

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02	21		2007	02	21		un_diagnostic_environnemental	Dans le cadre de la cessation d'activité, un diagnostic environnemental du site a été réalisé début janvier 2007 et a fait l'objet d'un mémoire en date du 21 février 2007.		
+2008	03	26		2008	03	26		Un_diagnostic_approfondi	Un diagnostic approfondi ainsi qu'une Évaluation Quantitative des Risques Sanitaires (EQRS) du 26 mars 2008 ont permis de déterminer d'éventuels risques sanitaires non admissibles liés à la présence de souillures en sous-sol (sols, air du sol et eaux souterraines).		
+2008	06	20		2008	06	20		la_transmission	Suite à la transmission du rapport de fin de travaux le 20 juin 2008, une visite du site par l'inspection des installations classées a eu lieu le 22/09/2008.		
+1999				1999				a_accueilli	Le terrain sis rue Saint-Melaine à Laval a accueilli pendant 37 ans (1962-1999) les activités industrielles suivantes :		'Saint-Melaine'
+2007	01			2007	01			un_diagnostic_environnemental	Dans le cadre de la cessation d'activité, un diagnostic environnemental du site a été réalisé début janvier 2007 et a fait l'objet d'un mémoire en date du 21 février 2007.		
+2008	02	01		2008	02	01		Un_diagnostic_complémentaire_réalisé	Un diagnostic complémentaire réalisé le 01/02/2008 a permis de cartographier précisément les zones de sols reconnues souillés par des hydrocarbures et du trichloroéthylène.	'hydrocarbures', 'trichloroéthylène'	
+2007	02	22		2007	02	22		a_notifié_sa_cessation_d__activité	L'exploitant a notifié sa cessation d'activité le 22/02/2007.		
+2008	06	20		2008	06	20		une_visite	Suite à la transmission du rapport de fin de travaux le 20 juin 2008, une visite du site par l'inspection des installations classées a eu lieu le 22/09/2008.		
+2008	09	22		2008	09	22		une_visite	Suite à la transmission du rapport de fin de travaux le 20 juin 2008, une visite du site par l'inspection des installations classées a eu lieu le 22/09/2008.		
+1962				1962				a_accueilli	Le terrain sis rue Saint-Melaine à Laval a accueilli pendant 37 ans (1962-1999) les activités industrielles suivantes :		'Saint-Melaine'
+1992	03			1992	03			a_initialement_été_autorisé	Le site de LAVAL a initialement été autorisé en mars 1992 au nom de la société SFMO pour une activité de découpage, d'emboutissage des métaux, de dégraissage et d'application de peinture.		'la société SFMO'
+2014	10	06		2014	10	06		ont_été_effectués	Des prélèvements d’eaux souterraines ont été effectués le 6 octobre 2014 par le biais des trois piézomètres présents sur le site et complétés d’analyses au laboratoire.		
+								a_accueilli	Le terrain sis rue Saint-Melaine à Laval a accueilli pendant 37 ans (1962-1999) les activités industrielles suivantes :		'Saint-Melaine'
+2015				2015				la_réalisation	- la réalisation d’un bilan quadriennal en 2015,		
+1999	08			1999	08			à_son_transfert	. (Alliance Métallurgique De La Mayenne) en décembre 1994 jusqu'à son transfert rue Jean Baptiste Lamark à Laval en août 1999, date de l'arrêt des activités sur le site de la rue Saint Mélaine.		

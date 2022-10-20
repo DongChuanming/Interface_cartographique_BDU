@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	02			2002	02			mise_en_place	-Surveillance des eaux souterraines et superficielles mise en place a partir de février 2002 et toujours en cours.		
+2003	06	11		2003	06	11		l__ouverture_des_plis	l'appel d'offres pour les travaux a été lancé et l'ouverture des plis a été faite le 11 juin 2003 ;		
+2011	04	19		2011	04	19		_Dépôt	-Dépôt du dossier de demande de servitudes d'utilité publique le 19/04/2011.		
+2004	01	28		2004	01	28		la_première_phase_de_travaux	- Au 28/01/2004 : la première phase de travaux (excavation de l'ancien confinement) est terminée.		
+2003				2003				terminé	- Objectif : traitement du site terminé pour fin 2003 par enlèvement de certains déchets, mise en place d'un nouveau confinement, après excavation de l'ancien confinement.		
+2003	01			2003	01			a_été_réalisée	- La mise en place d'un piézomètre supplémentaire, prévue pour janvier 2003, a été réalisée.		
+2003	09			2003	09			le_démarrage_des_travaux_s__est_fait	le démarrage des travaux s'est fait au début du mois de septembre 2003.		
+2004				2004				Les_travaux_ne_seront_sans_doute_pas_achevés	Les travaux ne seront sans doute pas achevés avant mi 2004.		
+2003	01			2003	01			annoncé	- Cahier des charges (maitrise des travaux et travaux à réaliser par les entreprises) du traitement global du site suite à la tierce expertise réalisée en août 2001, annoncé pour janvier 2003, a été remis pour avis à l'IIC en mai 2003.		'IIC'
+2001	08			2001	08			la_tierce_expertise_réalisée	- Cahier des charges (maitrise des travaux et travaux à réaliser par les entreprises) du traitement global du site suite à la tierce expertise réalisée en août 2001, annoncé pour janvier 2003, a été remis pour avis à l'IIC en mai 2003.		'IIC'
+2003	05			2003	05			a_été_remis	- Cahier des charges (maitrise des travaux et travaux à réaliser par les entreprises) du traitement global du site suite à la tierce expertise réalisée en août 2001, annoncé pour janvier 2003, a été remis pour avis à l'IIC en mai 2003.		'IIC'
+2003	05	22		2003	05	22		est_déterminé	- Au 22/05/2003 : le lieu d'implantation du piézomètre supplémentaire est déterminé ; il a été installé avant le démarrage des travaux ;		

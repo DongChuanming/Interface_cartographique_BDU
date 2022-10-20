@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				des_tassements_observés	Suite à des tassements observés en 2002, des travaux de remblaiements de 2 zones distinctes ont été réalisés en mars 2003.		
+2000	03	10		2000	03	10		il_a_été_demandé	Par arrêté préfectoral du 10 mars 2000, il a été demandé à la société SITA Ile de France de fournir un dossier de Servitudes d'utilité publiques et de surveiller les eaux souterraines et le biogaz semestriellement.		'la société SITA Ile', 'de France'
+1999	12			1999	12			est_réaménagé	Le site est réaménagé et en suivi post-exploitation depuis décembre 1999.		
+1999	10	26		1999	10	26		ont_cessé	Les apports de déchets (déchets ménagers et assimilés, des déchets industriels banals et des gravats) ont cessé le 26 octobre 1999.	'des déchets industriels'	
+2002				2002				des_travaux_de_remblaiements	Suite à des tassements observés en 2002, des travaux de remblaiements de 2 zones distinctes ont été réalisés en mars 2003.		
+2003	03			2003	03			des_travaux_de_remblaiements	Suite à des tassements observés en 2002, des travaux de remblaiements de 2 zones distinctes ont été réalisés en mars 2003.		
+2004				2004				a_été_détecté	- Avant 2004, le chloroforme a été détecté à des valeurs supérieures à la limite de potabilité.	'chloroforme'	
+2002	11	27		2002	11	27		sont_instituées	Des servitudes d'utilité publiques sont instituées par arrêté préfectoral le 27 novembre 2002: elles interdisent l'implantation de constructions et d'ouvrages susceptibles de nuire à la conservation de la couverture du site et à son contrôle.		
+2007				2007				depuis_les_travaux	- Aucun tassement n'a été observé sur le site depuis les travaux de 2007		
+2009				2009				des_dépassements_ponctuels	- des dépassements ponctuels en Aluminium et en Cyanures en 2007 et 2009	'Aluminium', 'Cyanures'	
+2007				2007				Des_travaux_de_reprise	Des travaux de reprise ont permis en 2007 de récupérer une pente facilitant le libre écoulement de eaux pluviales vers les fossés.		
+2007				2007				des_dépassements_ponctuels	- des dépassements ponctuels en Aluminium et en Cyanures en 2007 et 2009	'Aluminium', 'Cyanures'	

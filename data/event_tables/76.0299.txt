@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_exploité	Les établissements Ducastel ont exploité pendant environ 25 ans une société de vente, entretien et réparation de machines et outillage agricole sur ce site.		'Les établissements Ducastel'
+2014	02	21		2014	02	21		a_relancé	L'IIC a relancé l'exploitant sur les actions de dépollution du site suite à l'inspection du 21 février 2014.		
+2004	06			2004	06			Un_diagnostic_initial	Un diagnostic initial a été réalisé en juin 2004 pour le compte de l'exploitant.		
+2012	11			2012	11			a_mandaté	L'EPFN a mandaté un bureau d'étude pour déterminer la présence éventuelle de pollutions sur le site (prestation LEVE) en novembre 2012.		"L' EPFN"
+2014	02	21		2014	02	21		l__inspection	L'IIC a relancé l'exploitant sur les actions de dépollution du site suite à l'inspection du 21 février 2014.		
+1995	05	31		1995	05	31		a_cessé_ses_activités_définitivement	Cette exploitation, non régulièrement déclarée a cessé ses activités définitivement le 31 mai 1995.		
+1996				1996				une_inspection	En effet, il a été constaté lors d'une inspection du site en 1996 la présence de réservoirs enterrés non mis en sécurité ainsi que de diverses installations (aire de lavage et de distribution).		

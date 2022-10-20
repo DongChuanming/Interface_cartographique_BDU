@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_réalisé	L'exploitant a réalisé une ESR au cours de l'année 2002.		
+2015				2015				va_être_rétabli	l va être rétabli début 2e semestre 2015		
+								va_être_rétabli	l va être rétabli début 2e semestre 2015		
+2003				2014				un_dépassement	. le piézomètre 10 a pu connaître une fois entre 2003 et 2014 un dépassement de la limite en naphtalène, benzo(a)pyrène et de la référence sur la somme de 6 HAP.	'naphtalène', 'benzo(a)pyrène', 'HAP'	
+2010				2010				a_été_détruit	. le piézomètre 1 qui peut passer d'une position aval à une position amont selon les fluctuations du sens d'écoulement de la nappe, a été détruit en automne 2010.		

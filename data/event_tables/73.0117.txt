@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	10			2015	10			__a_eu_lieu	Une nouvelle campagne de mesures des eaux souterraines et superficielles  (étang en bordure du site) a eu lieu en octobre 2015.		
+2010	09	09		2010	09	09		son_courrier	Dans son courrier du 9 septembre 2010 aux établissements DUVERNEY, repreneur du site, l'inspecteur des installations classées transmet ses observations quant au dossier de cessation transmis par SARENO par courrier du 24 mai 2010.		'établissements DUVERNEY', 'SARENO'
+2009	05	31		2009	05	31		n__est_plus_en_activité	L'établissement n'est plus en activité depuis le 31 mai 2009.		
+2016	05	03		2016	05	03		a_procédé_à_une_visite	l'inspection des installations classées a procédé à une visite du site le 3 mai 2016.		
+2003	02			2003	02			ne_fonctionne_plus	La station-service, mise en service à la construction de l'établissement, ne fonctionne plus depuis la fin février 2003.		
+2008	01			2008	01			Des_sondages_ont_été_réalisés	Des sondages ont été réalisés dans les sols, par le bureau d'études ANTEA, en janvier 2008.		'ANTEA'
+2010	09	09		2010	09	09		a_transmis	Suite au courrier du 9 septembre 2010, l'exploitant a transmis:		
+2015	02	12		2015	02	12		a_transmis	Par courrier du 12 février 2015, l'exploitant a transmis :		
+1993	01	06		1993	01	06		déclaration	L'établissement bénéficiait d'un récépissé de déclaration en date du 6 janvier 1993 (pour le stockage de liquides inflammables).	'liquides inflammables'	
+2008	06	04		2008	06	04		__ont_été_enlevées	Les cuves, une fois vidées, ont été enlevées en date du 4 juin 2008.		

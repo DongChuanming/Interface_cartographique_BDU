@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				la_remise_en_état_du_site	- Récolement de la remise en état du site pour un usage industriel réalisée en 2017 avec mise en place de restrictions d'usage par acte notarié inscrit au registre des Hypothèques		
+2000	01	24		2000	01	24		__Cessation	- Cessation définitive d'activité ICPE notifiée le 24 janvier 2000.		
+2017				2017				Arrêt_de_toute_activité	- Arrêt de toute activité par WIPAK GRYSPEERT en 2017 avec vente du site.		'WIPAK GRYSPEERT'
+2009	10			2009	10			Travaux_de_traitement_du_site	- Travaux de traitement du site en octobre 2009: traitement des terres polluées par venting (terres sous le bâtiments existants et terres au droit d'une zone extérieure au site impactées par la pollution traitées).		
+2002	03			2002	03			mise_en_place	- Surveillance mise en place par 5 piézomètres depuis mars 2002		
+2009	08	14		2009	08	14		Réalisation_d__une_analyse	- Réalisation d'une analyse des risques résiduels le 14/08/2009 concluant que les indices de risques résiduels pour un usage industriel sont inférieurs aux seuils de risques recommandés		
+2002	07	29		2002	07	29		a_été_remise	L'étude a été remise le 29 juillet 2002.		

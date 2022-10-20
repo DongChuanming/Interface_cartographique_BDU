@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_autorisé_par	L'établissement est autorisé par AP des 11/04/96 et 22/10/96.		
+1963				1963				implanté	Il s'agit d'un site en activité, implanté à Port Saint Louis depuis 1963 sur une superficie d'environ 1,2 ha.		
+								prescrite	* L'ESR (prescrite par AP du 16/06/99 et confiée à l'APAVE) a été réalisée en mars 2002 et classe le site en catégorie 2.		'APAVE'
+2002	03			2002	03			a_été_réalisée	* L'ESR (prescrite par AP du 16/06/99 et confiée à l'APAVE) a été réalisée en mars 2002 et classe le site en catégorie 2.		'APAVE'

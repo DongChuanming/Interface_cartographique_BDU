@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				Vente	- Vente en 2005 d'une partie du site à la société DUTILLEUL (partie avec le bâtiment).		'la société DUTILLEUL'
+2001	06	25		2001	06	25		Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols le 25/06/2001, laquelle relève une pollution des sols.		
+2001	09	04		2001	09	04		__traitement	- Le 04/09/2001: traitement des gravillons souillés par des boues de rinçage par excavation.		
+2005	06			2005	06			Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic de la qualité du sol et d'une évaluation simplifiée des risques en juin 2005.		

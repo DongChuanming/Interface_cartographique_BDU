@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06	30		2001	06	30		Le_PV_de_récolement	Le PV de récolement du 30 juin 2001 atteste de la remise en état du site.		
+2000	08			2000	08			cette_étude_remise	Les résultats de cette étude remise en août 2000 par la société IDE ENVIRONNEMENT montre que seules les zones du lot n°17 sont polluées par  des hydrocarbures et du plomb mais dont les valeur moyennes en Plomb et en hydrocarbures( Pb : 200mg/kg ; HCTX 500mg/kg) sont inférieures aux Valeur de Constat d'Impact (VCI) pour un usage non sensible en usage à l'époque.	'des hydrocarbures', 'du plomb', 'en Plomb', 'en hydrocarbures ( Pb', '; HCTX'	'la société IDE ENVIRONNEMENT'
+2000	07	26		2000	07	26		une_Etude_Simplifiée_des_Risques	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, une Etude Simplifiée des Risques (ESR) du site est prescrite par l'arrêté préfectoral du 26 juillet 2000.		
+2000				2000				L__installation	L'installation a cessé son activité en 2000.		
+1970	05	26		1970	05	26		autorisée_par	ALES Dominique autorisée par l'arrêté du 26 mai 1970.		

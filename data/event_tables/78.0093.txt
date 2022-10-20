@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	1		2011	04	1		Ces_deux_diagnostics	Ces deux diagnostics ont été fournis en date du 1er avril 2011 lors d'une visite d'inspection destinée à vérifier la mise en sécurité du site.		
+2010				2010				Le_diagnostic	Le diagnostic daté de 2010 synthétise les deux campagnes d'investigations réalisées en février 2007 et avril 2010.		
+2008	06			2008	06			la_cessation_d__activité	Dans le cadre de la cessation d'activité en 2007 (effective en juin 2008), un diagnostic de l'état des milieux a été réalisé en février 2007 et complété en avril 2010.		
+2007	02			2007	02			un_diagnostic	Dans le cadre de la cessation d'activité en 2007 (effective en juin 2008), un diagnostic de l'état des milieux a été réalisé en février 2007 et complété en avril 2010.		
+2007				2007				la_cessation_d__activité	Dans le cadre de la cessation d'activité en 2007 (effective en juin 2008), un diagnostic de l'état des milieux a été réalisé en février 2007 et complété en avril 2010.		
+2010	04			2010	04			un_diagnostic	Dans le cadre de la cessation d'activité en 2007 (effective en juin 2008), un diagnostic de l'état des milieux a été réalisé en février 2007 et complété en avril 2010.		
+2011	09	19		2011	09	19		a_transmis	Par courrier du 19 septembre 2011, le liquidateur de la société a transmis le bordereau de suivi des déchets dangereux relatif à l'élimination des déchets précités.	'déchets dangereux'	
+2009	07	09		2009	07	09		La_liquidation_de	La liquidation de la société a été prononcée par jugement en date du 09/07/2009 du tribunal administratif de Versailles.		
+2008	06			2008	06			effective	Dans le cadre de la cessation d'activité en 2007 (effective en juin 2008), un diagnostic de l'état des milieux a été réalisé en février 2007 et complété en avril 2010.		

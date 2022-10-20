@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	01			1998	01			a_été_inauguré_en	Le tronçon de l’A43 a été inauguré en janvier 1998.		
+1997				1997				ont_été_détruits	Notons cependant que les piézomètres prévus par l’arrêté du 21/07/94 ont été détruits en 1996-1997 dans le cadre des travaux autoroutiers, et que l’exploitant s’est reporté sur d’autres forages présents sur le site.	'autoroutiers'	
+2000				2000				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en 2000.		
+								la_réhabilitation_du_site	° des investigations sur la présence de produits ou déchets dangereux, assorties de  proposition de traitement, en vue de la réhabilitation du site (1 an)	'déchets dangereux'	
+1992	10			1992	10			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d’octobre 1992 à février 1993 par ATE GEOCLEAN et Labo-Services.		'ATE GEOCLEAN', 'Labo'
+1994				1994				Un_suivi_environnemental_poussé	Un suivi environnemental poussé a été réalisé par le BRGM sur les années 1993 à 1994.		'le BRGM'
+1994				1994				l__échec_d__un_traitement_in_situ	Après l’échec d’un traitement in situ en 1994, ces terres ont été criblées et envoyées en Allemagne début 1995 pour enfouissement en mine de sel.		
+1993	02			1993	02			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d’octobre 1992 à février 1993 par ATE GEOCLEAN et Labo-Services.		'ATE GEOCLEAN', 'Labo'
+								a_été_adressé	Un dossier en ce sens a été adressé le 25/07/16.		
+2014	09			2014	09			un_diagnostic_complémentaire	En septembre 2014, la société Pechiney Bâtiment a transmis un diagnostic complémentaire du site, réalisé dans le cadre d'un projet de vente des terrains.		'la société Pechiney Bâtiment'
+								un_contrôle_de	IL a ainsi été prescrit à Aluminium Péchiney un contrôle de la stabilité hydrochimique du système alluvial : 2 contrôles annuels, pendant 5 ans :	'Aluminium'	'Péchiney'
+				1999				a_été_menée	La surveillance a été menée jusqu’en 1999.		
+1994				1994				ont_été_criblées	Après l’échec d’un traitement in situ en 1994, ces terres ont été criblées et envoyées en Allemagne début 1995 pour enfouissement en mine de sel.		
+1974				1974				ont_pris_fin	Les activités ont pris fin de 1974.		
+1995				1995				ont_été_criblées	Après l’échec d’un traitement in situ en 1994, ces terres ont été criblées et envoyées en Allemagne début 1995 pour enfouissement en mine de sel.		
+1996				1996				ont_été_détruits	Notons cependant que les piézomètres prévus par l’arrêté du 21/07/94 ont été détruits en 1996-1997 dans le cadre des travaux autoroutiers, et que l’exploitant s’est reporté sur d’autres forages présents sur le site.	'autoroutiers'	
+1993				1993				Un_suivi_environnemental_poussé	Un suivi environnemental poussé a été réalisé par le BRGM sur les années 1993 à 1994.		'le BRGM'
+								Le_bilan_quinquennal	Le bilan quinquennal prévu par l'arrêté du 21/07/94 a été transmis par courrier du 15/11/99.		
+1995	09			1996	02			Les_travaux_de_démolition	Les travaux de démolition ont été réalisés de septembre 1995 à février 1996.		

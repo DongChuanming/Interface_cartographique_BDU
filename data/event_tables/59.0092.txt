@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								prescrivant_des_travaux_de_remise_en_état	- Le site est resté en l'état malgré les actes préfectoraux prescrivant des travaux de remise en état durant 25 ans.		
+2011	09	14		2011	09	14		de_la_visite	Lors de la visite du site le 14 septembre 2011, l'inspecteur des installations classées a pu constater qu'après intervention de l'ADEME:		
+2011				2011				a_entamée	-En 2011, l'ADEME a entamée la premier phase dans la réhabilitation du site en réalisant sa mise en sécurité.		
+1995				1995				Cessation_d__activité	- Cessation d'activité de la société DELCHIMIE (1995).		'la société DELCHIMIE'
+2009	02	25		2009	02	25		__demande	-25 février 2009: demande au MEDD de l'intervention de l'ADEME pour, à minima, mettre en sécurité le site. (coût évalué à 257 000€)		'MEDD'
+2009	11	06		2009	11	06		est_pris	-Le 06 novembre 2009 , un arrêté préfectoral complémentaire de travaux d'office relatif au site de SCI DANAIME à WANDIGNIES-HAMAGE est pris par le préfet.		'SCI DANAIME', 'le préfet'
+								laissé_à_l__abandon	- Ancien dépôt pétrolier de 4ha, créé par la société ALTY en 1934, laissé à l'abandon vers les années 1970 et utilisé par la suite successivement par plusieurs distributeurs de solvants : SOCHIM (1990 - 1994) et DELCHIMIE (1994 - 1995).	'solvants'	'la société ALTY', 'SOCHIM', 'DELCHIMIE'
+1934				1934				créé_par	- Ancien dépôt pétrolier de 4ha, créé par la société ALTY en 1934, laissé à l'abandon vers les années 1970 et utilisé par la suite successivement par plusieurs distributeurs de solvants : SOCHIM (1990 - 1994) et DELCHIMIE (1994 - 1995).	'solvants'	'la société ALTY', 'SOCHIM', 'DELCHIMIE'
+								Contact_avec	- Contact avec le responsable du site (Mr SULLY), le 23/12/98.		'SULLY'

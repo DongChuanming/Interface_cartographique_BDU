@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	29		2009	10	29		datant	Ce dossier comprend également un diagnostic des sols effectué par la société SITA REMEDIATION datant du 29/10/2009 au droit du garage et de la station service et un diagnostic des sols sur la partie nord du site (parcelle AB 1006) datant du 30/10/2009.		'la société SITA REMEDIATION'
+				2010				est_maintenu	Le stockage de véhicules d'occasion et de matériel est maintenu jusqu'à fin 2010, puis un usage commercial serait envisagé dans un deuxième temps.		
+2010	02	08		2010	02	08		a_été_transmis	Un dossier de cessation d'activité de la société VIAL a été transmis à l'administration le 08/02/2010.		'la société VIAL'
+2008	12			2008	12			a_cessé_ses_activités	La société VIAL a cessé ses activités depuis décembre 2008.		'La société VIAL'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				cesse	L'activité cesse en 2010.		
+2010	07			2010	07			établi	Sur la base des données acquises et du schéma conceptuel établi en juillet 2010, les principaux risques au droit su site sont les suivants:		
+2017	03			2017	03			Une_campagne_a_été_réalisée	Une campagne a été réalisée en mars 2017 au droit des huit ouvrages de surveillance situés sur site et hors site, afin de suivre l'évolution trois mois après la campagne d'état final et six mois après la dernière injection.		
+2010	09			2010	09			Des_travaux_de_démontage	Des travaux de démontage ont eu lieu en septembre 2010.		
+2016	06			2016	06			A	A partir de juin 2016, un traitement par oxydation chimique in situ mis en œuvre par injection sous pression a été fait.		
+1967	09			1967	09			a_été_agrandie	Elle a été agrandie en septembre 1967.		
+2016	09			2016	09			deux_campagnes_d__injection	Ce traitement a consisté en deux campagnes d'injection espacées de trois mois (juin et septembre 2016) qui ont permis d'obtenir un taux d'abattement de 91% des teneurs en hydrocarbures et en BTEX (état final en décembre 2016), au regard des campagnes précédant le traitement.	'hydrocarbures', 'BTEX'	
+1956				1956				a_été_construite	La station-service a été construite en 1956.		
+2007	07			2007	07			un_diagnostic_des_sols_est_réalisé	En juillet 2007, un diagnostic des sols est réalisé. 14 sondages dont quatre piézomètres sont exécutés.		
+								deux_campagnes_d__injection	Ce traitement a consisté en deux campagnes d'injection espacées de trois mois (juin et septembre 2016) qui ont permis d'obtenir un taux d'abattement de 91% des teneurs en hydrocarbures et en BTEX (état final en décembre 2016), au regard des campagnes précédant le traitement.	'hydrocarbures', 'BTEX'	
+2016	06			2016	06			un_traitement_par_oxydation_chimique_in_situ	A partir de juin 2016, un traitement par oxydation chimique in situ mis en œuvre par injection sous pression a été fait.		
+2010	04			2010	04			ont_été_réalisées	La mise en place d'un cinquième piézomètre hors du site (70 m du site) en aval hydraulique et d'une campagne de suivi de la nappe ont été réalisées en avril 2010.		

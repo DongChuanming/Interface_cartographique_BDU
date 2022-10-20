@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				Créée	Créée en 1970, la SA FIMA dont le siège social se situe à Lissieu (69) est une société de fabrication de menuiseries en bois, PVC et aluminium.		'la SA FIMA'
+2004	09	03		2004	09	03		a_informé	Par courrier du 3 septembre 2004, l'exploitant a informé la préfecture de la Loire de sa cessation d'activité en date du 23 juillet 2004.		'la préfecture de la Loire'
+				2007	03	23		les_investigations_menées	Dans le cadre du diagnostic du site, les investigations menées par SERPOL du 19 au 23 mars 2007 ont conduit à la réalisation de 11 sondages (dont 3 équipés en piézomètres) entre 2 et 8 m de profondeur.		'SERPOL'
+2014	07	02		2014	07	02		prononce	Le 2 juillet 2014 un jugement prononce la clôture de la liquidation judiciaire de la société FIMA Production pour insuffisance d’actifs.		'la société FIMA Production'
+2004	07	23		2004	07	23		de_sa_cessation_d__activité	Par courrier du 3 septembre 2004, l'exploitant a informé la préfecture de la Loire de sa cessation d'activité en date du 23 juillet 2004.		'la préfecture de la Loire'
+2007	04			2007	04			réalisées	Au vu des résultats des investigations et analyses présentes dans le diagnostic des sols et des eaux souterraines réalisées par l'entreprise SERPOL en avril 2007, il n'apparaît pas nécessaire d'effectuer des investigations complémentaires au niveau des sols et des eaux souterraines pour un usage comparable à l'ancienne activité de la société FIMA.		'SERPOL', 'la société FIMA'
+2012				2012				a_été_radiée	En 2012 la société LC lift a été radiée du registre du commerce et des sociétés, et l’entreprise MOULIN Production, spécialisée dans l’industrie textile, a repris les anciens locaux de FIMA.		'la société LC lift', 'MOULIN Production', 'FIMA'
+2004	07	23		2004	07	23		a_informé	Par courrier du 3 septembre 2004, l'exploitant a informé la préfecture de la Loire de sa cessation d'activité en date du 23 juillet 2004.		'la préfecture de la Loire'
+2006	10	10		2006	10	10		a_déclaré	Par jugement du 10 octobre 2006, le Tribunal de Commerce de Lyon a déclaré FIMA PRODUCTION ST GENEST en état de liquidation judiciaire et a désigné un liquidateur judiciaire.		'le Tribunal de Commerce de Lyon', 'FIMA PRODUCTION ST GENEST'
+2007	07			2007	07			les_travaux_suivants_ont_été_réalisés	Suite à la visite de l'inspecteur des installations classées réalisée en juillet 2007, les travaux suivants ont été réalisés :		
+2006	03	07		2006	03	07		a_déposé_un_dossier_de_cessation	La société FIMA a déposé un dossier de cessation à la préfecture de la Loire le 7 mars 2006.		'La société FIMA'
+1934				1934				a_débuté	L'activité industrielle du site a débuté en 1934.		
+2010				2010				est_construite	En 2010, une résidence comprenant des appartements, garages, caves et parkings est construite au droit des anciennes parcelles cadastrales AB 446 et AB 449.		

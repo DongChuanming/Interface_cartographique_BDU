@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	11	29		1993	11	29		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 29 novembre 1993.		
+2012	12			2012	12			ont_ensuite_été_réalisées	Deux campagnes ont ensuite été réalisées: une première en mai 2010 et une deuxième en décembre 2012.		
+2010	05			2010	05			ont_ensuite_été_réalisées	Deux campagnes ont ensuite été réalisées: une première en mai 2010 et une deuxième en décembre 2012.		
+2010	05			2010	05			La_campagne_de	La campagne de mai 2010 montre présente des valeurs acceptables en Bore, PCP et HCT pour le réseau de piézomètre.	'Bore', 'PCP', 'HCT'	
+2008				2009				a_été_réalisée	La surveillance des eaux souterraines a été réalisée de 2005 à 2007 avec une fréquence annuelle, puis de 2008 à 2009 avec une fréquence semestrielle.		
+2005				2007				a_été_réalisée	La surveillance des eaux souterraines a été réalisée de 2005 à 2007 avec une fréquence annuelle, puis de 2008 à 2009 avec une fréquence semestrielle.		
+2011	07	1		2011	07	1		une_déclaration_d__incendie	Le 1er juillet 2011, une déclaration d'incendie a été fait.		
+2004	03			2004	03			a_été_remise	L'étape A a été remise en mars 2004 et l'étape B en juin 2005.		
+2012	12			2012	12			une_deuxième	Deux campagnes ont ensuite été réalisées: une première en mai 2010 et une deuxième en décembre 2012.		

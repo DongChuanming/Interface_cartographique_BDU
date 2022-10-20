@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03	15		2011	03	15		une_première_inspection	Le 15 mars 2011, suite à un signalement de l'Inspection du travail, l'Inspection des installations classées a réalisé une première inspection de cette entreprise et a découvert l'existence d'un site illégal de transit de plusieurs centaines de tonnes de déchets contenant de l'amiante.	'amiante'	
+2011				2012				inspections	Depuis cette date, ce site fait l'objet d'un suivi particulier de la part de l'Inspection des installations classées (notamment 14 inspections entre 2011 et 2012).		
+2002				2002				les_apports	Au vu des photos aériennes témoignant de l'évolution du site dans le temps, les apports de déchets ont débuté vers 2002.		
+2012	06			2012	06			ne_reste_plus_de_déchets	Depuis juin 2012, il ne reste plus de déchets contenant de l'amiante stocké en aérien.	'amiante'	
+2012	11	30		2012	11	30		aux_recherches_effectuées	Suite aux recherches effectuées le 30 novembre 2012 et à la fourniture du rapport de l'APAVE du 7 janvier 2013, l'Inspection a constaté que :		
+2011	07	28		2011	07	28		est_en_liquidation_judiciaire	Cette entreprise est en liquidation judiciaire depuis le 28 juillet 2011.		
+2013				2013				de_Saint_Alban___31___ont_sollicité	Suite à ces constats, la DREAL (Direction régionale de l'environnement, de l'aménagement et du logement) de Midi-Pyrénées et la mairie de Saint-Alban (31) ont sollicité, à l'été 2013, la Direction régionale du BRGM en Midi-Pyrénées pour un avis d’expert, relatif à différents scénarios possibles de mise en sécurité du dépôt de déchets en mélange comportant des produits amiantés sur l’ancien site de la société GERLERO, situé sur la commune de Saint-Alban :	'des produits amiantés'	'la DREAL', 'BRGM', 'la société GERLERO'
+2014	02			2014	02			ont_opté	erlero et les services de l’Etat ont opté, lors d’une réunion en février 2014, pour l’évacuation totale des déchets présents sur le site.		'les services de l’ Etat'
+2011				2011				a_pris_fin	L'activité a pris fin en 2011.		
+2011	12	12		2011	12	12		Une_vente_aux_enchères	Une vente aux enchères du matériel de l'entreprise a eu lieu le 12 décembre 2011.		
+2012	11	30		2012	11	30		des_sondages	Le 30 novembre 2012 ont été réalisés des sondages dans les sous-sols de la partie de la parcelle 1 ayant fait l'objet d'évacuations et dans les différents tas présents sur la parcelle 1 du site.		
+2011	07	28		2011	07	28		a_été_liquidée	L'entreprise a été liquidée le 28 juillet 2011 par liquidateur judiciaire nommé.		

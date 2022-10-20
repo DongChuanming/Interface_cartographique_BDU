@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05			2008	05			sont_demandées_en_vue_de_rechercher	Mai 2008, des investigations complémentaires sont demandées en vue de rechercher la source sol de pollution		
+2010				2010				acquiert	En 2010, l'EPF (Etablissement public foncier) acquiert l'ensemble du site et rétrocédera la partie pâture au Conseil Général pour la construction d'un collège.		"l' EPF", 'Conseil Général'
+2005	08	25		2005	08	25		a_été_pris	-Un nouvel arrêté préfectoral de mise en demeure a été pris le 25/08/2005 pour non respect de l'arrêté de mesures d'urgence du 15/02/2005.		
+2004	04			2004	04			a_été_prononcée_par	La liquidation de biens a été prononcée par le Tribunal de Commerce d'Avesnes/Helpe en avril 2004.		'le Tribunal de Commerce'
+2012				2012				sont_menées	En ce début 2012, des compléments d'investigation sont menées par l'EPF et la demande de permis de construire devrait être déposée.		"l' EPF"

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07			2016	07			Une_campagne_de_mesures	Une campagne de mesures a eu lieu en juillet 2016.		
+2009				2009				prévoit	) 2009-2013 prévoit d'identifier les établissements accueillant des enfants à proximité des anciens sites industriels recensés dans la base de données BASIAS.		
+2013				2013				prévoit	) 2009-2013 prévoit d'identifier les établissements accueillant des enfants à proximité des anciens sites industriels recensés dans la base de données BASIAS.		
+2013				2013				ont_été_réalisés	En 2013, des prélèvements de gaz du sol et d'air intérieur ont été réalisés dans les sous-sols et les bâtiments ainsi que des analyses de l'eau du robinet.		
+2015				2015				a_missionné	En concertation avec la municipalité de Revin, le ministère en charge de l'environnement a missionné l'ADEME pour gérer les suites de ce dossier début 2015.		'le ministère'
+2015	12			2015	12			a_été_analysée	L'air intérieur de l'habitation de sept riverains a été analysée en décembre 2015, la valeur repère a été dépassée chez deux d'entre eux sans que cela ne dépasse le seuil d'action rapide du Haut Conseil de la Santé Publique.		'Haut Conseil de la Santé Publique'
+2012				2012				depuis_l__ouverture_d__une_école_maternelle	L'école élémentaire de la Bouverie est localisée 4, rue Charles Adam à Revin au sein d'un quartier d'habitation, cet établissement accueille environ 130 enfants âgés de 3 à 11 ans depuis l'ouverture d'une école maternelle à la rentrée 2012.		

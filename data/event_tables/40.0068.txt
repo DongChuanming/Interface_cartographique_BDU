@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07			2007	07			déclare	L’exploitant déclare à l'inspection des installations classées qu’il utilise un nouveau produit pour traiter le bois depuis juillet 2007.		
+1993	02	1		1993	02	1		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 1er février 1993.		
+2005	05			2005	05			ont_été_remises	Les études ont été remises en mai 2005.		

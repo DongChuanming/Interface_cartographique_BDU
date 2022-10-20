@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	07	05		1989	07	05		a_été_exploité	Le Crassier DEVILLE a été exploité du 5 juillet 1989 (Arrêté préfectoral complémentaire de la même date) jusqu'en 1992.		'Crassier DEVILLE'
+2008	07	21		2008	07	21		a_alors_été_transmis	Un rapport d'étude hydrogéologique et de caractérisation des déchets du crassier a alors été transmis par l'exploitant le 21 juillet 2008.		
+2008	10	24		2008	10	24		a_été_envoyé	Un courrier préfectoral a été envoyé à l'exploitant le 24 octobre 2008 afin de demander certains compléments (aucune étude des cibles potentielles, lien entre la nappe alluviale et les nappes profondes non étudié, aucune proposition de maîtrise de l'impact du transfert des polluants du crassier vers les eaux souterraines...) et de valider la proposition de mise en place des trois nouveaux piézomètres.	'polluants'	
+2006	03	17		2006	03	17		des_dossiers_de_cessation	La société DEVILLE a déposé le 17 mars 2006 et le 19 décembre 2006 des dossiers de cessation des activités fonderie, chromage et nickelage, transformateur au PCB et crassier.	'PCB'	'La société DEVILLE'
+				1992				a_été_exploité	Le Crassier DEVILLE a été exploité du 5 juillet 1989 (Arrêté préfectoral complémentaire de la même date) jusqu'en 1992.		'Crassier DEVILLE'
+2007	11	19		2007	11	19		a_pris	Par conséquent, le préfet des Ardennes a pris le 19 novembre 2007 un arrêté préfectoral complémentaire afin que l'exploitant :		'le préfet des Ardennes'
+1992				1992				ont_été_posé	Les deux piézomètres ont été posé en 1992 et sont toujours fonctionnels.		
+2011	09	28		2011	09	28		Une_visite_d__inspection	Une visite d'inspection a eu lieu le 28 septembre 2011 par l'inspection des installations classées.		

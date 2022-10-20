@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				créée	La Société Nouvelle des Fonderies Jouve, créée en 1983 à Romans (26) installe sur le site une fonderie de fonte au début des années 1990.		'La Société Nouvelle des Fonderies Jouve'
+1999				1999				change_de_raison_sociale	En 1999, la société change de raison sociale pour FONDERIES TRIVINO.		'FONDERIES TRIVINO'
+								installe	La Société Nouvelle des Fonderies Jouve, créée en 1983 à Romans (26) installe sur le site une fonderie de fonte au début des années 1990.		'La Société Nouvelle des Fonderies Jouve'
+2006	05	09		2006	05	09		est_placée_en_liquidation_judiciaire_par_jugement	La société est placée en liquidation judiciaire par jugement du Tribunal de Commerce d'Aubenas le 9 mai 2006 et cesse son activité sur le site.		
+2008	02	06		2008	02	06		14_sondages_ont_été_réalisés	Au total, 14 sondages ont été réalisés jusqu'à 2 m le 6 février 2008 et les analyses ont porté sur les métaux, les hydrocarbures, les cyanures, l'indice phénols, les HAP, les BTEX et les COHV.	'métaux', 'hydrocarbures', 'cyanures', 'indice phénols', 'les HAP', 'BTEX', 'COHV'	
+1991	01	31		1991	01	31		a_été_délivré	Un récépissé de déclaration a été délivré le 31 janvier 1991 (pour les activités de fonderie de métaux et de stockage et utilisation d'oxygène liquide) .	'oxygène liquide'	

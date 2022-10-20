@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			a_été_relancée	La procédure de consignation a été relancée en juin 2002 puis en 2003 afin d'obtenir les éléments d'appréciation sur l'état résiduel du site et notamment sur l'opportunité d'exercer une surveillance de la nappe.		
+1995	01	23		1995	01	23		a_conduit	Le non-respect de cette mise en demeure a conduit le préfet à prendre un arrêté de consignation (100 kF) en date du 23 janvier 1995.		'le préfet'
+1993	11	08		1993	11	08		a_conduit	La nécessité de compléter le premier diagnostic a conduit le préfet de l'Essonne à prendre un arrêté de mise en demeure (8 novembre 1993).		'le préfet'
+1995	01	23		1995	01	23		prendre_un_arrêté_de_consignation	Le non-respect de cette mise en demeure a conduit le préfet à prendre un arrêté de consignation (100 kF) en date du 23 janvier 1995.		'le préfet'

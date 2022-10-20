@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_prévu	Dans les années 1970, un projet de fabrication de mastics contenant de l’amiante a été prévu mais n'a jamais été réalisé.	'mastics', 'amiante'	

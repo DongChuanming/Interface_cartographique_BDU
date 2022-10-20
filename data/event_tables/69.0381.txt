@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				ont_été_arrêtées	Les activités d’usinage ont été arrêtées en 2011 par Meritor dans le cadre du projet de rachat du site par Renault Trucks, effectif au 2 janvier 2012.		'Meritor', 'Renault Trucks'
+2004				2004				a_été_acheté	Ce site spécialisé dans la production de ponts et essieux de poids-lourds, a été acheté en 2004 par une joint venture entre Meritor Axles France et Renault V.		'Meritor Axles France'
+								a_été_développé	Le site a été développé par Renault Trucks dans les années 1970 sur des terrains qui étaient pour une majeure partie à usage agricole ; la partie nord du site ayant été utilisée comme site de		'Renault Trucks'
+2012	01	02		2012	01	02		ont_été_arrêtées	Les activités d’usinage ont été arrêtées en 2011 par Meritor dans le cadre du projet de rachat du site par Renault Trucks, effectif au 2 janvier 2012.		'Meritor', 'Renault Trucks'
+				2011	12			Une_seconde_série_d__investigations	Une seconde série d'investigations des sols et des eaux souterraines a été réalisées entre mai et décembre 2011 pour le compte de Meritor dans le contexte de la cessation de l’activité d’usinage.		'Meritor'
+								remblaiement_de_sables	remblaiement de sables de fonderie jusqu’à la fin des années 1960.		
+				2015	11	15		Une_série_d__investigations	Une série d'investigations ont été menée entre le 3 et 15 novembre 2015, dans le contexte de rachat de l'ensemble du site par Renault.		

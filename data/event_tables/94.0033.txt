@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		a_été_imposé	En application de la circulaire du 3 avril 1996, il a été imposé à BP par arrêté préfectoral du 30/12/1998 de réaliser le diagnostic initial de l'Etude Simplifiée des Risques.		
+2016	10	10		2016	10	10		La_dernière_campagne_d__analyses	La dernière campagne d'analyses a été réalisée le 10/10/2016.		
+2014				2014				a_été_porté	Leur nombre a été porté à 7 en 2014.		
+2016	10			2016	10			la_dernière_campagne	- pour le PZ7 : présence de BTEX avec une concentration très élevée en benzène (8200 µg/l lors de la dernière campagne d’octobre 2016) et en hausse constante depuis avril 2014 (4900 µg/l).	'de BTEX', 'en benzène'	
+2000	09			2000	09			Le_diagnostic_étape_B_a_été_réalisé	Le diagnostic étape B a été réalisé en septembre 2000.		

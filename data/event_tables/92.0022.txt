@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02	20		2015	02	20		La_cessation	La cessation de l'atelier A a été déclarée par courrier du 20 février 2015.		
+				2016	12			Les_travaux_de_réhabilitation	Les travaux de réhabilitation réalisés de juin à décembre 2016 ont permis de traiter les impacts résiduels  par :		
+2010	10	29		2010	10	29		La_cessation_d__activité	La cessation d'activité de l'usine B/C a été déclarée par courrier du 29/10/2010.		'B / C'
+2013	06			2014	07			La_première_phase_de_travaux_s__est_déroulée	La première phase de travaux s’est déroulée de juin 2013 à juillet 2014 et a compris la démolition des bâtiments, le concassage des matériaux issus de la démolition en vue de leur réemploi sur site ainsi que la dépollution conformément aux dispositions de l’arrêté préfectoral du 23 novembre 2012.		
+1996	04	03		1996	04	03		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques avait été imposée par arrêté préfectoral du 09/12/1997 en application de la circulaire du 03/04/1996.		
+2012	11	23		2012	11	23		a_été_pris	Sur la base du plan de gestion proposé par l’exploitant, un arrêté préfectoral a été pris le 23 novembre 2012 pour encadrer les travaux pour la réhabilitation de cette partie du  site en vue d’un usage industriel.		
+2010	10			2010	10			la_cessation_d__activité	En octobre 2010, l'exploitant a notifié la cessation d'activité de l'usine B/C du site en joignant un mémoire de cessation.		'B / C'
+2012	11	23		2012	11	23		la_dépollution	La première phase de travaux s’est déroulée de juin 2013 à juillet 2014 et a compris la démolition des bâtiments, le concassage des matériaux issus de la démolition en vue de leur réemploi sur site ainsi que la dépollution conformément aux dispositions de l’arrêté préfectoral du 23 novembre 2012.		
+1998				1998				Remise	Remise en 1998 puis complétée en 2003, elle concluait, à partir de l'historique des activités du site, de la vulnérabilité des milieux dont les nappes souterraines et des substances utilisées sur le site, à la nécessité de surveiller la qualité des eaux souterraines.		
+2016	12	21		2016	12	21		a_transmis_par_courrier	Suite à la réalisation de ces travaux, l'exploitant a transmis par courrier daté du 21 décembre 2016 un rapport de fin de travaux.		

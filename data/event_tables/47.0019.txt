@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05	06		2004	05	06		a_été_transmis	Le rapport de la campagne de 2004 a été transmis à la DRIRE le 6 mai 2004.		'la DRIRE'
+2002	12	03		2002	12	03		a_été_transmis	Un rapport parcellaire a été transmis le 03/12/2002 à la DRIRE.		'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2005				2005				envisage	GDF envisage en 2005, de réfléchir au meilleur moyen de vidanger la cuve située sous le bâtiment de l'Agence.		'GDF'
+2004				2004				une_étude_historique	Conformément aux engagements pris dans le protocole, Gaz de France réalisera d'ici 2004 une étude historique avec localisation des cuves, qui seront systématiquement vidées et comblées.		'Gaz de France'
+2004				2004				Une_seconde_campagne	Une seconde campagne réalisée en 2004 ( recherche du benzène ) a confirmé cette conclusion.	'benzène'	
+2003				2003				la_campagne_d__analyses	Gaz de France a envoyé à la DRIRE le rapport de la campagne d’analyses de l’air réalisée en 2003 dans les locaux de l’Agence technique clientèle du fait de la présence en sous-sol d’une cuve à goudron.	'goudron'	'Gaz de France', 'la DRIRE'
+2005	06			2005	06			une_campagne_de_géophysique_sur_le_site	En juin 2005, Gaz de France a réalisé une campagne de géophysique sur le site afin de dimensionner la cuve et la positionner par rapport au bâtiment.		'Gaz de France'
+2005				2005				a_étudié	GDF a étudié en 2005, la faisabilité de la vidange de cette cuve mais le prestataire indique un surcoût qui apparaît disproportionné par rapport à la valeur vénale du site.		'GDF'
+2005	03	23		2005	03	23		Etat	Etat au 23/03/2005 : les deux campagnes d'analyses de l'air réalisées en 2003 et en 2004 dans les locaux de l'Agence Technique Clientèle, du fait de la présence d'une cuve en sous-sol, n'ont pas mis en évidence un impact sanitaire quelconque.		

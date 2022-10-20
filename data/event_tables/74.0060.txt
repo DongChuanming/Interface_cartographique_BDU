@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	19		2006	01	19		la_cessation_d__activité	L'exploitant a notifié par courrier du 5 décembre 2005 la cessation d'activité au préfet à compter du 19 janvier 2006.		
+2005	10	24		2005	10	24		un_permis_de_construire	Par arrêté municipal du 24 octobre 2005, la mairie a accordé un permis de construire d'un immeuble collectif sur le site, en précisant qu'après démolition des constructions existantes, et avant les travaux de construction, le site devra être remis en état.		
+2006	03	23		2006	03	23		a_constaté	L'inspection a fait une visite de recolement et a constaté le 23 mars 2006 :		
+2005	06			2005	06			a_été_destinataire	En juin 2005, la mairie d'Annemasse a été destinataire d'une demande de démolition.		
+2005	07	25		2005	07	25		Une_étude_géotechnique	Une étude géotechnique du 25 juillet 2005 indique le profil de sol des forages réalisés au droit du site :		
+2006	02	16		2006	02	16		Les_travaux_d__excavation	Les travaux d'excavation ont été réalisés le 16 février 2006 par le conducteur d'une pelle mécanique de la société SADET-MENAIS.		'la société SADET'
+2005	12	05		2005	12	05		la_cessation_d__activité	L'exploitant a notifié par courrier du 5 décembre 2005 la cessation d'activité au préfet à compter du 19 janvier 2006.		
+2006	01			2006	01			L__étude_de_sol	L'étude de sol (diagnostic initial) de janvier 2006, comprise dans le dossier de cessation transmis par l'exploitant, montre, après 6 sondages, des contaminations en HCT (3900 mg/kg MS sur S4 et 3800 mg/kg MS sur S6).	'HCT'	

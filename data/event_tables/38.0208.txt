@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	10		2002	01	10		Un_diagnostic_des_sols	Un diagnostic des sols a été effectué le 10/01/2002.		
+2003	05	12		2003	05	12		ont_été_transmis	Un rapport complémentaire au diagnostic sols et l'ESR ont été transmis le 12/05/2003.		
+				2002	08			Des_travaux_de_dépollution	Des travaux de dépollution se sont déroulés entre juin et août 2002.		
+2003	04	03		2003	04	03		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 03/04/2003.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				ont_également_été_mis_en_place	Trois nouveaux piézomètres ont également été mis en place en 2014, dans le but de remplacer les trois existants qui, n'ayant pas été réalisés selon les règles de l'art, donnaient des résultats difficilement exploitables.		
+2014				2014				De_nouvelles_investigations_ont_été_réalisées	De nouvelles investigations ont été réalisées en 2014 sur le site de la fonderie, en affinant le maillage (101 nouveaux sondages réalisés).		
+2005	06	23		2005	06	23		la_réalisation_d__un_diagnostic_de_pollution	Par arrêté du 23 juin 2005, la réalisation d'un diagnostic de pollution du site, centré sur le plomb, a été imposée à l'exploitant.	'plomb'	
+1970				1970				a_été_créé	Le site a été créé en 1970 et mis à l'arrêt définitif fin 2016.		
+2016				2016				a_été_créé	Le site a été créé en 1970 et mis à l'arrêt définitif fin 2016.		
+2013				2013				De_nouvelles_investigations	De nouvelles investigations ont été menées en 2013 et 2014.		
+2014				2014				De_nouvelles_investigations	De nouvelles investigations ont été menées en 2013 et 2014.		
+2018				2018				a_été_effectuée	En 2018, une procédure de consignation à l'encontre du représentant de la fonderie ( le liquidateur judiciaire) a été effectuée.		
+2019				2019				la_mise_en_sécurité_n_	Au premier semestre 2019, la mise en sécurité n'a toujours pas été réalisée.		
+2005				2005				Ce_diagnostic	Ce diagnostic, réalisé en 2005, a mis en évidence la présence, sur site, de concentration élevées en plomb dans les sols, jusqu'à 439 mg/kg MS.	'plomb'	
+2010				2012				Les_analyses_réalisées	Les analyses réalisées de 2010 à 2012 ont mis en évidence des concentrations élevées en plomb, jusqu'à 308 µg/l.	'plomb'	
+2002	06	13		2002	06	13		la_mise_en_place_d__une	Par arrêté du 13 juin 2002, la mise en place d'une surveillance des eaux souterraines a été imposée à l'exploitant.		

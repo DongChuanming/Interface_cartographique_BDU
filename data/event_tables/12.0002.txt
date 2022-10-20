@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_arrêtée	Elle est arrêtée à la fin des années 1980.		
+2010	03	02		2010	03	02		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 2 mars 2010 afin de fixer la surveillance RSDE phase initiale, des rejets de l'usine avant rejet dans le milieu aquatique (ruisseau Riou Viou).		
+2006	11			2006	11			a_été_réalisée	Une synthèse reprenant les différentes études menées sur la recherche de plombs dans le sol a été réalisée en novembre 2006.	'plombs'	
+1986	07			1986	07			une_pollution_accidentelle	En juillet 1986, le site a été à l'origine d'une pollution accidentelle du Riou-Mort et du Lot, entraînant une mortalité piscicole notable.		
+2000				2000				une_évaluation_simplifiée_des_risques	Afin de faire un nouveau point sur l'état du site, une évaluation simplifiée des risques a été demandée début 2000.		
+1985				1985				drainait_50_kg	- en 1985, le ruisseau RIOU VIOU, affluent du LOT drainait 50 kg/j de cadmium et	'cadmium'	'RIOU VIOU'
+2005	10	25		2005	10	25		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 25 octobre 2005 afin de demander la réalisation d'une étude "plomb dans les sols" (diagnostic de l'état des sols).		
+2011	12	13		2011	12	13		a_été_signé	Un arrêté de mise en demeure a été signé le 13 décembre 2011 afin que la société UMICORE se mette en conformité sur :		'la société UMICORE'
+2005	02			2005	02			Une_Evaluation_Détaillée_des_Risques	Une Evaluation Détaillée des Risques a été réalisée en février 2005 et a révélé une problématique de pollution des sols de type "métaux" (zinc, cadmium, arsenic et plomb).	'zinc', 'cadmium', 'arsenic', 'plomb'	
+2001	09	28		2001	09	28		Cette_étude	Cette étude, reçue le 28 septembre 2001 à la DREAL Midi-PyrénéeS, a proposé de classer le site en 2 (c'est à dire à surveiller, ce qui est déjà le cas).		'la DREAL Midi'

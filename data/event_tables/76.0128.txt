@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966	02			1966	02			une_étude	En février 1966, un ingénieur géologue a effectué une étude montrant que le sous-sol de la décharge était constituée par un terrain sableux capable de filtrer l'eau de pluie s'infiltrant au travers du dépôt d'ordures.		
+								déverser_de	De nombreux riverains de la commune ont témoignés de la venue sur le site de plusieurs camions qui venaient déverser de façon journalière des déchets industriels dans les années 80.	'déchets industriels'	
+1966				1976				a_été_exploitée	Ce terrain d'une superficie de 2 ha est une ancienne décharge d'ordures ménagères qui a été exploitée de 1966 à 1976 par la ville de Bolbec; par la suite elle a effectuée le traitement de ces ordures ménagères via l'usine d'incinération OREADE de Saint-Jean-de-Folleville.		'OREADE'
+1985	08			1985	08			a_racheté	En août 1985, M Guillemard a racheté le terrain à M Cosette André qui en était propriétaire.		

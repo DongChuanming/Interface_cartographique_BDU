@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957				1957				a_été_réduite	Depuis l'autorisation préfectorale de 1950, une unité de fabrication de bitumes fluidisés a été exploitée puis a été réduite en 1957.	'bitumes fluidisés'	
+1999	04	26		1999	04	26		__Etude_Simplifiée_des_Risques	L' Etude Simplifiée des Risques (ESR) datée du 04/09/2000 a été remise suite à l'AP du 26/04/1999.		
+2000				2000				se_sont_arrêtées	Les activités restantes de distribution de bitumes se sont arrêtées au 2è trimestre 2000.	'bitumes'	
+2000	09	04		2000	09	04		__Etude_Simplifiée_des_Risques	L' Etude Simplifiée des Risques (ESR) datée du 04/09/2000 a été remise suite à l'AP du 26/04/1999.		
+1957				1957				a_été_exploitée	Depuis l'autorisation préfectorale de 1950, une unité de fabrication de bitumes fluidisés a été exploitée puis a été réduite en 1957.	'bitumes fluidisés'	
+2007	07			2007	07			Les_analyses_complémentaires	Les analyses complémentaires  de Juillet 2007 faisant suite aux travaux n'ont pas montré de contamination résiduelle pour les sols et les eaux souterraines.		
+2001				2001				réalisés	Des travaux ont été prescrits (AP du 07/09/2000) et réalisés à l'été 2001: démantèlement total des locaux et aires de production, élimination des revêtements de sol et excavations de terre contaminée.		
+								se_sont_arrêtées	Les activités restantes de distribution de bitumes se sont arrêtées au 2è trimestre 2000.	'bitumes'	
+2000	09	01		2000	09	01		a_eu_lieu	L'arrêt de l'exploitation  des installations a eu lieu le 01/09/2000.		
+1928				1928				de_sa_création	Ce site a été initialement exploité lors de sa création en 1928 comme un dépôt de bitume - vracs, puis, à partir de 1932, autorisé comme dépôt d'essence de 6300 m3.	'bitume', 'essence'	
+2000	02	17		2000	02	17		Le_Diagnostc_Initial	Le Diagnostc Initial du 17/02/2000 a identifié comme risques les installations susceptibles de générer des pollutions : les anciennes aires de stockage, de déchargement des fûts de pétrole et de dépotage du fuel, les cuves de fuel, de pétrole, de cut-back, les réseaux souterrains d'eau de nettoyage.	'pétrole', 'fuel', 'fuel', 'pétrole'	
+2000				2000				s__est_arrêtée	Elle s'est arrêtée au deuxième trimestre 2000.		

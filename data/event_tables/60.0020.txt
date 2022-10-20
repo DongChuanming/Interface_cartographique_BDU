@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	01	02		1996	01	02		ont_été_fixés	Par arrêté préfectoral en date du 2 janvier 1996, les objectifs des travaux de réhabilitation du site ont été fixés.		
+1993				1993				Une_étude	Une étude permettant de définir l'étendue des zones polluées a été réalisée en 1993.  Cette étude a conclu que la pollution restait localisée.		
+1994	07			1994	07			Des_essais_de_résorption	Des essais de résorption ont été réalisés en juillet 1994.  Il se sont montrés efficaces au niveau de la zone toluène.	'zone toluène'	
+1997	12			1997	12			une_évaluation_simplifiée_des_risques	La Société JEAN DIDIER a ensuite transmis une évaluation simplifiée des risques en décembre 1997 pour la seule zone hydrocarbures, l'évaluation simplifiée des risques aboutit à une classification égale à 2 (à surveiller).	'hydrocarbures'	'La Société JEAN DIDIER'
+1997	07			1997	07			a_adressé	En juillet 1997, la Société JEAN DIDIER a adressé à l'inspection des installations classées, un rapport présentant différentes solutions techniques de dépollution.		'la Société JEAN DIDIER'
+1991				1991				de_la_cessation_d__activité	Lors de la cessation d'activité de l'imprimerie JEAN DIDIER en 1991, deux zones polluées ont été découvertes sur le site, en partie centrale.		'JEAN DIDIER'

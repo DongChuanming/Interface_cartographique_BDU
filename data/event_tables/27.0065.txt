@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				une_étude_simplifié_des_risques	En 2004, une étude simplifié des risques (ESR) a été réalisée, suivie en 2006 d'une étude de sol, afin de déterminer les concentrations en métaux (probablement présents) dans les sols.	'métaux'	
+2008	07			2008	07			des_travaux_de_mise_en_confinement	Dans ce cadre, des travaux de mise en confinement hydraulique du site par rabattement de nappe ont été réalisés en juillet 2008 et un plan de gestion a été remis à l'inspection des installations classées en juin 2009.		
+2006				2006				ont_été_pompé	98,02 m3 de flottant hydrocarburé ont été pompé depuis la découverte de la pollution en 2006.	'flottant hydrocarburé'	
+2016	04			2016	04			est_en_plan_de_continuation	Le site est en plan de continuation depuis avril 2016 ; les activités de laminage ont été réduites, tandis que les 2 fours de fonderie fonctionnement en continu.		
+2006				2006				la_découverte_de_la_pollution	98,02 m3 de flottant hydrocarburé ont été pompé depuis la découverte de la pollution en 2006.	'flottant hydrocarburé'	
+2012				2012				n__appartient_plus	Depuis 2012, le site n'appartient plus au groupe NOVELIS mais à un groupe d'investisseurs américain AIAC.		'groupe NOVELIS', 'américain AIAC'
+2009	06			2009	06			a_été_remis	Dans ce cadre, des travaux de mise en confinement hydraulique du site par rabattement de nappe ont été réalisés en juillet 2008 et un plan de gestion a été remis à l'inspection des installations classées en juin 2009.		
+2006				2006				est_installée	Depuis 2006, une installation SERPOL de pompage de la lentille de pollution est installée sur le site, avec 3 pompes et plusieurs piézomètres de surveillance autour (dont certains chez le voisin AREVA).		'SERPOL', 'AREVA'
+2008	02	22		2008	02	22		la_mise_en_place_d__une	A la suite de ces découvertes, la mise en place d'une surveillance des eaux souterraines, l'établissement d'un plan de gestion de la pollution et la réalisation de travaux de dépollution ont été imposés à l'exploitant par l'arrêté préfectoral du 22/02/2008.		

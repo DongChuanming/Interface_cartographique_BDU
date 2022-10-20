@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02			2009	02			s__est_tenue	La troisième phase s'est tenue au mois de février 2009.		
+2008	10			2008	10			a_eu_lieu	La seconde étape a eu lieu au mois d'octobre 2008 et a eu pour but de délimiter la contamination en Cadmium observée lors de la campagne précédente. 5 sondages ont été effectués jusqu'à une profondeur de 6 m.	'Cadmium'	
+2004	03	09		2004	03	09		a_ensuite_été_confirmé_en_appel	Le Tribunal Administratif de Lyon par jugement du 10/02/1999 a cependant annulé cet arrêté, ce qui a ensuite été confirmé en appel le 9 mars 2004.		'Le Tribunal Administratif de Lyon'
+2007				2007				a_ensuite_été_racheté	La parcelle a ensuite été racheté en 2007 par la société ARLIM PROMOTION.		'la société ARLIM PROMOTION'
+2009				2009				a_pris_contact	En 2009, la société ICADE qui souhaitait réaménager le site et en changer l'usage a pris contact avec l'inspection des installations classées et lui a transmis le résultats d'un diagnostic approfondi réalisé sur le site afin de pouvoir construire un immeuble d'habitation.		'la société ICADE'
+1964				1964				se_sont_implantés	Sur la parcelle du 36 rue de Sainte-Anne de Baraban, les Établissements LLOPIS se sont implantés en 1964.		
+1978	03	14		1978	03	14		fait	Ont fait l'objet d'un arrêté de régularisation en date du 14/03/1978.		
+1996	07	19		1996	07	19		a_été_clotûrée	La liquidation a été clotûrée le 19/07/1996.		
+2004	03	09		2004	03	09		cet_arrêté	Le Tribunal Administratif de Lyon par jugement du 10/02/1999 a cependant annulé cet arrêté, ce qui a ensuite été confirmé en appel le 9 mars 2004.		'Le Tribunal Administratif de Lyon'
+2008				2008				La_première_s__est_tenue	La première s'est tenue au mois d'aout 2008. 11 sondages ont été creusés jusqu'à une profondeur de 4 m.		
+1945				1945				ont_été_construit	Des bâtiments à usage industriel ont été construit en 1945, puis le site a été légué à Mme DESROSIERES en 1951.		'DESROSIERES'
+1992				1992				a_été_mise_en_liquidation_judiciaire	Le site a été repris par les REVÊTEMENTS ÉLECTROLYTIQUES INDUSTRIELS qui a été mise en liquidation judiciaire à la fin de l'année 1992.		'les REVÊTEMENTS ÉLECTROLYTIQUES INDUSTRIELS'
+1952				1952				a_été_créée	La SOCIÉTÉ INDUSTRIELLE DE DÉCORATION a été créée en 1952.		'La SOCIÉTÉ INDUSTRIELLE DE DÉCORATION'
+1998	09	24		1998	09	24		a_prescrit_la_réalisation_d__une_étude_de_sol	A la suite de la radiation de l'ancien exploitant, l'État a prescrit la réalisation d'une étude de sol au propriétaire du site par un arrêté préfectoral du 24/09/1998.		
+1951				1951				a_été_légué	Des bâtiments à usage industriel ont été construit en 1945, puis le site a été légué à Mme DESROSIERES en 1951.		'DESROSIERES'
+1993				1993				a_missionné	De ce fait, l'État a missionné l'ADEME pour éliminer les déchets présents sur le site fin 1993.		

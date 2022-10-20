@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09			2007	09			complété	Le diagnostic environnemental a été réalisé par le Bureau VERITAS en janvier 2007 et complété en septembre 2007. 8 zones susceptibles d’avoir été polluées par les activités passées avaient été identifiées et 12 sondages de sol ont été effectués sur les zones concernées :		'le Bureau VERITAS'
+2012	03			2012	03			étaient_en_cours_de_réalisation	En mars 2012 la suite des travaux prévus étaient en cours de réalisation.		
+								Les_investigations_réalisées	Les investigations réalisées par le Bureau VERITAS et la société SOCOTEC Industries, à 3 ans d'intervalle, ont mis en évidence essentiellement :		'le Bureau VERITAS', 'la société SOCOTEC Industries'
+2006				2006				l__arrêt	- l'arrêt de l'activité d'impression et la conservation en stockage avant vente à partir de 2006.		
+								un_incendie	- un incendie en 1905 (la reconstruction a duré 1 an et demi		
+2007	03	19		2007	03	19		la_cessation_de_ses_activités	L’exploitant a déclaré au préfet la cessation de ses activités sur ce site par une correspondance en date du 19 mars 2007.		
+2008	05	20		2008	05	20		s__est_rendu_sur_place	L’inspecteur des installations classées s’est rendu sur place le 20 mai 2008 afin de constater l’avancement des travaux, à l’occasion d’une réunion de chantier entre l’EPORA, l’entreprise GEPRAL, maître d’œuvre du chantier, et le bureau d’études SOCOTEC Industries, mandaté par l’EPORA.		'l’ EPORA', 'GEPRAL', 'SOCOTEC Industries', 'l’ EPORA'
+2005				2005				ont_cessé_d__exploiter	A l’occasion d’une restructuration de ses activités, les Teintureries de la Turdine ont cessé d’exploiter, courant 2005, le site implanté route de Lyon à Tarare.		'les Teintureries', 'de la Turdine'
+2011	07			2011	07			fin_de_travaux_a_été_réalisé	Un rapport de fin de travaux a été réalisé en juillet 2011.		
+2007	01			2007	01			Le_diagnostic_environnemental	Le diagnostic environnemental a été réalisé par le Bureau VERITAS en janvier 2007 et complété en septembre 2007. 8 zones susceptibles d’avoir été polluées par les activités passées avaient été identifiées et 12 sondages de sol ont été effectués sur les zones concernées :		'le Bureau VERITAS'
+2007	03	19		2007	03	19		la_cessation_de_ses_activités	L’exploitant a déclaré au préfet la cessation de ses activités par lettre en date du 19 mars 2007.		
+2012	12			2012	12			a_été_réalisée	La première partie des travaux, à savoir, la purge des zones C3 et C6 a été réalisée en décembre 2012 par la société EIFFAGE, sous le contrôle de SOCOTEC Industries et de la société GAUTHEY.		'la société EIFFAGE', 'SOCOTEC Industries', 'la société GAUTHEY'
+2007	08			2007	08			Des_prélèvements_ont_été_effectués	Des prélèvements ont été effectués en août 2007 et ils indiquent l'absence de contamination significative en Pz2 et Pz3, mais des concentrations importantes en HCT en Pz1 (99 000 µg/l), en amont.	'Pz2', 'HCT'	
+2007				2007				a_été_vendu	Le site a été vendu fin 2007 à l’EPORA, Établissement Public Foncier de l'Ouest Rhône-Alpes, en vue de la remise en état du site avant revente à la commune de Tarare, afin de réhabiliter les bâtiments existants en une brasserie et un immeuble de bureaux.		
+2010	10			2010	10			16_sondages_ont_été_réalisés	16 sondages ont été réalisés en août et octobre 2010 répartis ainsi :		
+								16_sondages_ont_été_réalisés	16 sondages ont été réalisés en août et octobre 2010 répartis ainsi :		
+1825				1825				construite	L’usine de la route de Lyon construite en 1825 était déjà une usine d’ennoblissement à façon lors de son rachat par M.		'M.'
+2007	09			2007	09			Le_diagnostic_environnemental	Le diagnostic environnemental a été réalisé par le Bureau VERITAS en janvier 2007 et complété en septembre 2007. 8 zones susceptibles d’avoir été polluées par les activités passées avaient été identifiées et 12 sondages de sol ont été effectués sur les zones concernées :		'le Bureau VERITAS'
+								la_reconstruction_a	- un incendie en 1905 (la reconstruction a duré 1 an et demi		
+2011	01	11		2011	01	11		Un_diagnostic_approfondi	Un diagnostic approfondi accompagné d'une proposition de plan de gestion et de réhabilitation des sols et d'une analyse de risques résiduels (ARR, pour un usage industriel/commercial/tertiaire, établis par la société SOCOTEC Industries ont été transmis au préfet le 11 janvier 2011 par la société Teintureries de la Turdine, sous-couvert de l'EPORA.		'la société SOCOTEC Industries', 'la société Teintureries de la Turdine', "l' EPORA"
+1976				1976				construction_du_bâtiment	- construction du bâtiment impression et du quai en 1976		
+1975				1975				construction_du_local_transformateur	- construction du local transformateur en 1975		
+1905				1905				un_incendie	- un incendie en 1905 (la reconstruction a duré 1 an et demi		
+1946				1946				un_second_incendie	- un second incendie en 1946		
+2009	01	22		2009	01	22		a_été_établit	Toutefois, des contaminations résiduelles étant encore présentes sur le site, et sur proposition de l'inspection des installations classées, un arrêté préfectoral, imposant des prescriptions complémentaires à la société Teintureries de la Turdine, a été établit le 22 janvier 2009 par le préfet du Rhône.		'la société Teintureries de la Turdine', 'le préfet du Rhône'

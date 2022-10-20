@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04			2009	04			La_visite_de_récolement	La visite de récolement a eu lieu en avril 2009.		
+2007				2007				les_travaux_de_remise_en_état_du_site	Sur la base de ces éléments, l'exploitant a engagé les travaux de remise en état du site suivants, qui ont pris fin en 2007 :		
+2005	09			2005	09			la_cessation_d__activité	Dans ce contexte, la société TOTAL France a notifié à monsieur le préfet de l'Ain la cessation d'activité du site en septembre 2005.		'la société TOTAL France'
+1928				1928				est_utilisé	Historiquement, le site est utilisé depuis 1928 pour ce type d'activités, et a vu se succéder plusieurs sociétés de distribution de combustibles liquides et charbons.	'combustibles liquides', 'charbons'	
+2005	12	12		2005	12	12		un_diagnostic_des_sols	Par arrêté préfectoral du 12 décembre 2005, il a été prescrit à la société TOTAL France un diagnostic des sols et une évaluation simplifiée des risques.		'la société TOTAL France'
+								ont_été_utilisées	Ces installations, bien qu'administrativement exploitées par la société TOTAL au regard de la réglementation des installations classées, ont été utilisées par la société de transports CLERC, avant d'être abandonnées au début des années 1980 au profit d'une cuve aérienne de 10 m3.		'la société TOTAL', 'la société de transports CLERC'

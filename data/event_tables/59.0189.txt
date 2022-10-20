@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02	19		2013	02	19		Une_inspection_du_site_réalisée	- Une inspection du site réalisée le 19 février 2013 a permis de constater que :		
+2008	10	25		2008	10	25		Notification_de_cessation_d__activité	- Notification de cessation d'activité le 25 octobre 2008.		
+1998	12			1998	12			Réalisation	- Réalisation en décembre 1998 d'un diagnostic des sols, phase A.		
+2008	10	30		2008	10	30		a_été_transmis	- Un dossier de cessation d'activité a été transmis en préfecture le 30/10/2008.		

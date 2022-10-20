@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	11	25		2016	11	25		a_été_délivré_par	Le récépissé de cessation d'activité a été délivré par la préfecture le 25 novembre 2016.		
+2016				2016				des_conditions_plus_favorables_au_dégazement	Les résultats des analyses des gaz de sol obtenus sont supérieurs aux résultats de l'analyse de la campagne 2016 pouvant s'expliquer notamment par des conditions plus favorables au dégazement en 2017 qu'en 2016 et par la profondeur du prélèvement qui était de 1.25 m en 2016 et de 5.75 m en 2017.		
+2016	04	28		2016	05	27		Des_travaux	Des travaux se sont déroulés du 28 avril 2016 au 27 mai 2016.		
+2016	11	08		2016	11	08		par_courrier	Suite à la cessation d'activité, TOTAL a transmis, par courrier du 08 novembre 2016, une étude historique et de vulnérabilité, un diagnostic environnemental et un rapport de suivi environnemental des travaux de démantèlement.		'TOTAL'
+2017				2017				des_conditions_plus_favorables_au_dégazement	Les résultats des analyses des gaz de sol obtenus sont supérieurs aux résultats de l'analyse de la campagne 2016 pouvant s'expliquer notamment par des conditions plus favorables au dégazement en 2017 qu'en 2016 et par la profondeur du prélèvement qui était de 1.25 m en 2016 et de 5.75 m en 2017.		
+2016	11	08		2016	11	08		a_transmis	Suite à la cessation d'activité, TOTAL a transmis, par courrier du 08 novembre 2016, une étude historique et de vulnérabilité, un diagnostic environnemental et un rapport de suivi environnemental des travaux de démantèlement.		'TOTAL'
+2016	03	31		2016	03	31		La_cessation_d__activité	La cessation d'activité est effective depuis le 31 mars 2016.		
+2017	04	03		2017	04	03		La_nouvelle_campagne_d__analyses	La nouvelle campagne d'analyses des gaz de sol a été réalisée le 3 avril 2017 à l'aide d'un piézair d'une profondeur de 6.07 m.		
+								a_été_exploitée	Une installation de distribution de carburants, existante depuis les années 1970, a été exploitée en dernier lieu par la société TOTAL.	'carburants'	'la société TOTAL'
+2015	11	24		2015	11	24		la_cessation_totale_d__activité	La société a informé le préfet du Val-de-Marne de la cessation totale d'activité par courrier en date du 24 novembre 2015.		'le préfet'

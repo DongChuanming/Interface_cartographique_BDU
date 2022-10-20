@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1922				1922				créée	première usine ETERNIT créée en 1922		'ETERNIT'
+1984	10			1984	10			Achat	Achat du site en octobre 1984 par la société SOGESCAUT pour une activité de stockage de produits		'la société SOGESCAUT'
+2003	06	25		2003	06	25		Réalisation_d__un_diagnostic_environnemental	Réalisation d'un diagnostic environnemental le 25 juin 2003		
+1987				1987				ont_fermés	en 1987, les bureaux ont fermés		
+1976								ont_été_transférées	de 1976 à 84, les activités ont été transférées vers le site de Thiant placé sur l'autre bord de l'Escaut		

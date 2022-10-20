@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	25		2006	07	25		a_été_pris	Un arrêté préfectoral a été pris le 25 juillet 2006 afin d'encadrer les travaux de réhabilitation du site.		
+2018	12	21		2018	12	21		à_rédigé	Par rapport de visite d'inspection du 21 décembre 2018, l'inspection à rédigé un procès verbal permettant d’attester de l’exécution des travaux conformément au plan de gestion du 19 février 2010 et de la fin du chantier de réhabilitation.		
+2009	04			2009	04			un_diagnostic_complémentaire	En avril 2009, CHEMTURA a transmis à l'inspection des installations classées un diagnostic complémentaire du site.		'CHEMTURA'
+2008	09			2009	01			Plusieurs_études_environnementales	Plusieurs études environnementales comprenant des diagnostics des sols et des eaux souterrains ont été réalisées sur le site entre 1991 et 2002, puis entre septembre 2008 et janvier 2009.		
+1993				1993				a_également_été_réalisée	Une surveillance de la qualité des eaux souterraines a également été réalisée sur le site depuis 1993.		
+2007				2007				Les_opérations_de_démantèlement	Les opérations de démantèlement des installations ont été achevées à l'été 2007.		
+2004	04			2004	04			a_été_vidée	La dernière cuve de stockage contenant du chlorure d'aluminium a été vidée et décontaminée en avril 2004.	"stockage contenant du chlorure d'", 'aluminium'	
+2003				2003				La_cessation_d__activité	La cessation d'activité est intervenue courant 2003.		
+2007				2007				Les_opérations_de_démantèlement	Les opérations de démantèlement des superstructures (bâtiments, cuves, matériels) ont été achevées à l'été 2007.		
+2010	02			2010	02			a_été_transmis	En février 2010, le plan de gestion a été transmis à l'inspection.		
+2010	02	19		2010	02	19		la_fin_du_chantier_de_réhabilitation	Par rapport de visite d'inspection du 21 décembre 2018, l'inspection à rédigé un procès verbal permettant d’attester de l’exécution des travaux conformément au plan de gestion du 19 février 2010 et de la fin du chantier de réhabilitation.		
+1991				2002				Plusieurs_études_environnementales	Plusieurs études environnementales comprenant des diagnostics des sols et des eaux souterrains ont été réalisées sur le site entre 1991 et 2002, puis entre septembre 2008 et janvier 2009.		
+1950				1950				a_accueilli	Le site a accueilli des années 1880 à 1950 les Forges de Persan.		'Forges de Persan'
+2011				2011				a_été_remis	Comme demandé par l'APC de 2011, un dossier de servitudes d'utilité publique tenant compte des usages futur a été remis le 18 juin 2018.		
+1996				1996				a_été_mise_en_place	Suite à la mise en évidence de produit surnageant dans les eaux souterraines sur la zone Ouest du site, une barrière hydraulique visant à limiter la migration de la pollution en aval du site a été mise en place en 1996, au sud-ouest du site, parallèlement à la voirie.	'produit surnageant'	
+1880				1880				a_accueilli	Le site a accueilli des années 1880 à 1950 les Forges de Persan.		'Forges de Persan'
+2011	11			2017	01			Le_chantier_de_dépollution	Le chantier de dépollution s'est déroulé de novembre 2011 à janvier 2017.		
+2018	06	18		2018	06	18		a_été_remis	Comme demandé par l'APC de 2011, un dossier de servitudes d'utilité publique tenant compte des usages futur a été remis le 18 juin 2018.		
+2011	11			2017	01			Le_chantier_de_dépollution	Le chantier de dépollution, qui est aujourd'hui terminé, s'est déroulé en 6 phases, de novembre 2011 à janvier 2017.		

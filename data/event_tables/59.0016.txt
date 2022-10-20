@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	16		2010	11	16		imposant_la_mise_en_sécurité	- Arrêtés préfectoraux du 26/04/2010 et du 16/11/2010 encadrant et imposant la mise en sécurité et la remise en état du site.		
+2015	05	07		2015	05	07		remblayage_de_la_fouille	-Pompage des eaux en fond de fouille puis remblayage de la fouille le 07/05/2015		
+2010				2010				élimination_des_déchets	- Travaux de dépollution du site: excavation et évacuation pour traitement hors site, élimination des déchets en 2010.		
+2013	06			2013	06			_Découverte	-Découverte d’un acte de vandalisme sur un transformateur PCB qui a entraîné une pollution du sol en PCB avec transfert possible vers la Lys (juin 2013).	'PCB', 'PCB'	
+2010	12	22		2010	12	22		Réalisation_d__une_EQRS	- Réalisation d'une EQRS (évaluation quantitative des risques sanitaires) le 22/12/2010.		
+2015	04	29		2015	04	29		_Excavation_des_terres_contaminées	-Excavation des terres contaminées le 29/04/2015		
+2009	11	22		2009	11	22		Cessation_d__activité	- Cessation d'activité: 22/11/2009.		
+2011				2011				Comblement_des_trois_forages	- Comblement des trois forages du site en 2011.		
+2015	04	13		2015	04	28		_Démolition_du_bâtiment	-Démolition du bâtiment du 13/04/2015 au 28/04/2015		
+2010				2010				__excavation	- Travaux de dépollution du site: excavation et évacuation pour traitement hors site, élimination des déchets en 2010.		
+2012	03	31		2012	03	31		__Diagnostic_initial_réalisé	- Diagnostic initial réalisé le 31/03/2012 (12 sondages sols et 4 piézomètres)		
+2010	04	26		2010	04	26		imposant_la_mise_en_sécurité	- Arrêtés préfectoraux du 26/04/2010 et du 16/11/2010 encadrant et imposant la mise en sécurité et la remise en état du site.		

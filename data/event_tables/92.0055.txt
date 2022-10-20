@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02	02		2004	02	02		une_demmande_de_permis	Le nouveau propriétaire GEMNIPAIR a déposé une demmande de permis de démolir le 2 février 2004.		'GEMNIPAIR'
+2003	11	10		2003	11	10		servitude_conventionnelle	Une servitude conventionnelle au profit de l'état a été prise le 10 novembre 2003.		
+2003	07	17		2003	07	17		PV_de_récolement	PV de récolement :17 juillet 2003.		
+1999				1999				permis_de_démolir	Déclaration de travaux et permis de démolir en 1999 soumis à l'avis de l'inspection des installations classées, qui demande alors la réalisation d'une étude diagnostic.		
+2002				2004				a_été_assurée	La surveillance piézomètrique a été assurée de 2002 à fin 2004		
+1994				1994				Arrêt_des_activités	Arrêt des activités fin 1994 sans remise en état du site.		

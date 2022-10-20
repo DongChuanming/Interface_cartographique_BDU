@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03	19		2003	03	19		a_ensuite_occupé_le_site	La société COFRAFER a ensuite occupé le site de 1978 au 19 mars 2003.		'La société COFRAFER'
+2007	05	09		2007	05	09		a_été_réalisée	Une étude de sol complémentaire a été réalisée par GINGER Environnement en date du 9 mai 2007.		'GINGER Environnement'
+1965				1965				a_commencé	L'activité d'oxydécoupage a commencé a partir de 1965.		
+2010	02	15		2010	02	15		a_été_remis	Le rapport de cessation d'activité a été remis en date du 15/02/2010.  Des zones à risque ont alors été délimitées par la présence de :		
+2003	03	19		2003	03	19		était_soumise_à_déclaration	La société SADENA était soumise à déclaration au titre de la réglementation sur les installations classées pour la protection de l'environnement (ICPE) depuis le 19 mars 2003, par reprise d'activité de la société COFRAFER (changement d'exploitant entériné par la préfecture à cette date).		'La société SADENA', 'la société COFRAFER', 'la préfecture'
+2008	02	22		2008	02	22		a_été_complétée	Elle a été complétée le 22 février 2008 par des analyses pour contrôler le caractère inerte des terres.		
+1978				1978				a_ensuite_occupé_le_site	La société COFRAFER a ensuite occupé le site de 1978 au 19 mars 2003.		'La société COFRAFER'
+2006	10	24		2006	10	24		Un_diagnostic_des_sols	Un diagnostic des sols a été effectué le 24 octobre 2006 par SITA Remédiation, conduisant à la réalisation de 6 sondages.		'SITA Remédiation'
+2003	03	19		2003	03	19		reprise_d__activité	La société SADENA était soumise à déclaration au titre de la réglementation sur les installations classées pour la protection de l'environnement (ICPE) depuis le 19 mars 2003, par reprise d'activité de la société COFRAFER (changement d'exploitant entériné par la préfecture à cette date).		'La société SADENA', 'la société COFRAFER', 'la préfecture'

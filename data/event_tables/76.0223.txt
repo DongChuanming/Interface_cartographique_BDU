@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_implantée_sur	L'usine est implantée sur un terrain d'une superficie d'environ 75 000 m².		
+2008				2008				des_études_de_sol	En 2006, 2007 et 2008, des études de sol ont été menées afin de caractériser les pollutions présentes sur le site.		
+2006	10			2006	10			effectué	Pollution des eaux souterraines : le diagnostic des eaux souterraines au droit du site effectué en octobre 2006 fait apparaître une pollution des eaux souterraines en tétrachloroéthylène au niveau des points de prélèvement de la zone du parking des employés.	'tétrachloroéthylène'	
+2006				2006				des_études_de_sol	En 2006, 2007 et 2008, des études de sol ont été menées afin de caractériser les pollutions présentes sur le site.		
+2007				2007				des_études_de_sol	En 2006, 2007 et 2008, des études de sol ont été menées afin de caractériser les pollutions présentes sur le site.		

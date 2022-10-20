@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			réalisation_d__un_diagnostic_de_pollution	- réalisation d'un diagnostic de pollution des sols complémentaire (novembre 2013), d'un diagnostic approfondi de l'état des milieux (avril 2014) et d'un plan de gestion (avril 2014).		
+2007	12			2007	12			la_fin_de	Au regard de la stabilité des résultats de la surveillance des eaux souterraines ainsi que des faibles teneurs rencontrées, l'inspection des installations classées a acté la fin de cette surveillance en décembre 2007.		
+2015				2015				a_cessé	L’établissement TRELLEBORG SEALING SOLUTIONS a cessé son activité sur ce site début 2015.		'L’ établissement TRELLEBORG SEALING SOLUTIONS'
+1999				1999				sont_détruit	Les bâtiments annexes sont détruit en 1999 (tempête) et 2003.		
+2010	05	03		2010	05	03		complétés	L'établissement était réglementé par un arrêté préfectoral d’autorisation du 11 décembre 1997, complétés les 22 janvier 2004 et 3 mai 2010.		
+1999				1999				tempête	Les bâtiments annexes sont détruit en 1999 (tempête) et 2003.		
+2013	11			2013	11			réalisation_d__un_diagnostic_de_pollution	- réalisation d'un diagnostic de pollution des sols complémentaire (novembre 2013), d'un diagnostic approfondi de l'état des milieux (avril 2014) et d'un plan de gestion (avril 2014).		
+2014	04			2014	04			plan_de_gestion	- réalisation d'un diagnostic de pollution des sols complémentaire (novembre 2013), d'un diagnostic approfondi de l'état des milieux (avril 2014) et d'un plan de gestion (avril 2014).		
+1988				1988				devient	La société devient IMPERVIA en 1988 après fusion de JANERVIA avec IMPERVIA (groupe VALSEMEY), puis M2I IMPERVIA après rachat par le groupe MALESHERBES INDUSTRIE en avril 1994, puis SHAMBAN IMPERVIA en 2000, et enfin TRELLEBORG SEALING SOLUTIONS en 2003.		'La société devient IMPERVIA', 'JANERVIA avec IMPERVIA', 'groupe VALSEMEY', 'M2I IMPERVIA', 'le groupe MALESHERBES INDUSTRIE', 'SHAMBAN IMPERVIA', 'TRELLEBORG SEALING SOLUTIONS'
+2004	01	22		2004	01	22		complétés	L'établissement était réglementé par un arrêté préfectoral d’autorisation du 11 décembre 1997, complétés les 22 janvier 2004 et 3 mai 2010.		
+1987				1987				est_fermée	Elle est fermée en 1987 et détruite en 2000.		
+1863				1963				ont_été_exercées	En effet de 1863 à 1963, des activités de tissage et de filature ont été exercées.		
+2015				2015				les_actions_suivantes_ont_été_engagées	Dans le cadre de la cessation des activités début 2015, les actions suivantes ont été engagées :		
+2000				2000				est_fermée	Elle est fermée en 1987 et détruite en 2000.		
+2002				2002				une_étude_historique	Dans le cadre de la vente du site, une étude historique, un premier diagnostic de sol et une évaluation simplifiée des risques ont été transmis à la DRIRE (devenue DREAL) en 2002.		'la DRIRE', 'DREAL'
+2000				2000				détruite	Elle est fermée en 1987 et détruite en 2000.		
+2015				2015				la_cessation	Dans le cadre de la cessation des activités début 2015, les actions suivantes ont été engagées :		
+1976				1976				reprend	La société TERI reprend en 1976 l’ancienne usine de tissage.		'La société TERI'
+1962				1962				évolue	A partir de 1962, l’activité évolue et devient une activité de préparation et transformation de caoutchouc et d’élastomères synthétiques pour l’aéronautique.	'caoutchouc', 'élastomères synthétiques'	

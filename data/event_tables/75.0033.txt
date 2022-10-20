@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	02			2018	02			a_communiqué	ENI France, en réponse au courrier préfectoral du 30 janvier 2018, a communiqué les 5 et 13 février 2018 :		'ENI France'
+2016	07			2016	07			a_mis_en_évidence	Un diagnostic de sols et des eaux souterraines, réalisé en juillet 2016, a mis en évidence deux zones de contamination des sols aux hydrocarbures, principalement du gasoil, jusqu'au toit de la nappe :	'hydrocarbures', 'gasoil'	
+2017	08	25		2017	08	25		a_demandé	Celle-ci n'étant pas effectuée avec le formulaire adéquat, la Préfecture de Police a demandé, le 25 août 2017, à l'exploitant de notifier une nouvelle déclaration de cessation d'activité.		'la Préfecture de Police'
+				2017	08	18		Les_travaux_de_désinvestissement	Les travaux de désinvestissement, de démolition, de démantèlement, d’excavation des terres impactées et de remise en état du site ont été menés du 26 juin au 18 août 2017.		
+2017	06	30		2017	06	30		a_déclaré_la_cessation_d__activité	L'exploitant a déclaré la cessation d'activité le 30 juin 2017.		
+2017	10			2017	10			de_fin_de_travaux_établi	- Un rapport de fin de travaux établi par SERPOL en octobre 2017.		'SERPOL'
+2018	01	30		2018	01	30		a_communiqué	ENI France, en réponse au courrier préfectoral du 30 janvier 2018, a communiqué les 5 et 13 février 2018 :		'ENI France'
+2018	04			2018	04			Des_investigations_menées	Des investigations menées en avril 2018, après les travaux de démantèlement des installations pétrolières et le retrait de 3 spots de pollution de l’ancienne station-service, ont montré :		
+2018	02	09		2018	02	09		La_déclaration_de_cessation_d__activité	- La déclaration de cessation d’activité de la station-service effectuée le 9 février 2018 à l’aide du formulaire cerfa adéquat,		
+								a_communiqué	ENI France, en réponse au courrier préfectoral du 30 janvier 2018, a communiqué les 5 et 13 février 2018 :		'ENI France'

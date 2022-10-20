@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09			2007	09			a_cessé_ses_activités	En septembre 2007, le centre de transfert de déchets de Sequedin, auparavant usine d'incinération, a cessé ses activités, pour laisser place au Centre de Valorisation Organique (CVO) dans lequel sera intégré un nouveau centre de transfert.		'Centre de Valorisation Organique'
+1981	10	09		1981	10	09		est_autorisée	L'Usine d'Incinération d'Ordures Ménagères de SEQUEDIN est autorisée par arrêté préfectoral du 9 octobre 1981.		"Incinération d' Ordures Ménagères de SEQUEDIN"
+1997				1997				assure	La Société VALNOR en assure l'exploitation à partir de 1997 (Compagnie Générale de Chauffe depuis 1983).		'La Société VALNOR'
+1998	02	28		1998	02	28		décide	Dans l'attente de la construction du Centre de Valorisation Energétique et suite à la découverte de teneurs élevées en dioxines dans l'Environnement, la Communauté Urbaine de LILLE décide le 28 février 1998 d'arrêter les fours de l'U.	'dioxines'	'Centre de Valorisation Energétique', 'la Communauté Urbaine'
+2006	04	25		2006	04	25		Mémoire_de_cessation_d__activité	Mémoire de cessation d’activité de l’UIOM VALNOR à SEQUEDIN (25 avril 2006) :		'l’ UIOM VALNOR', 'SEQUEDIN'
+1998	04	16		1998	04	16		est_réglementée	Cette nouvelle activité de transit est réglementée par un arrêté préfectoral complémentaire du 16 avril 1998.		
+1973				1973				__traitait	Implantée depuis 1973 sur la commune de SEQUEDIN, l’Usine d’Incinération d’Ordures Ménagères (UIOM) traitait les ordures ménagères pour la Communauté Urbaine de Lille.	'les ordures ménagères'	'la Communauté Urbaine'

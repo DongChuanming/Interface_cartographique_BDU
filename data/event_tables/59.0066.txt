@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	30		2009	01	30		_Cessation_d__activité	-Cessation d'activité le 30/01/2009		
+2009	03	02		2009	03	02		_Travaux_du	-Travaux du 2 mars 2009 au 16 juin 2009: démantèlement des bâtiments, des équipements, dépoussiérage du site et élimination des produits finis et matières premières		
+2008	03	18		2008	03	18		mis_à_jour	-Le bilan de fonctionnement mis à jour le 18 mars 2008 mettait en évidence un classement SEVESO seuil haut au titre de la rubrique 1172 de la nomenclature: stockage de produits très toxiques pour l'environnement aquatique	'SEVESO', 'produits très toxiques'	
+2002	02			2002	02			__réalisation	-février 2002: réalisation d'un diagnostic de pollution des sols qui montre l'existence d'un bruit de fond local important en métaux lourds et HAP dus à la présence de mâchefers et de sables de haut fourneaux en remblais (pollution historique)	'métaux lourds', 'HAP'	
+2009	06	16		2009	06	16		__démantèlement_des_bâtiments	-Travaux du 2 mars 2009 au 16 juin 2009: démantèlement des bâtiments, des équipements, dépoussiérage du site et élimination des produits finis et matières premières		
+2002	12			2002	12			_Réalisation_d__études_de_sols	-Réalisation d'études de sols: décembre 2002, janvier 2003 et juin 2007		
+2003	01			2003	01			_Réalisation_d__études_de_sols	-Réalisation d'études de sols: décembre 2002, janvier 2003 et juin 2007		
+2007	06			2007	06			_Réalisation_d__études_de_sols	-Réalisation d'études de sols: décembre 2002, janvier 2003 et juin 2007		

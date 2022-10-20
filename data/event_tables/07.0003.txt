@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11	03		1998	11	03		L__étude_des_sols	L'étude des sols a été imposée à l'industriel par arrêté préfectoral du 03/11/1998.		
+2009	06	03		2009	06	03		contraindre_à_prendre_les_mesures	Ces dispositions n'ayant pas été respectées, un arrêté de mise en demeure a été établi à l'encontre du mandataire pour le contraindre à prendre les mesures nécessaires pour effectuer la mise en sécurité dudit site (présence de produits chimiques divers, déchets... constatés le 3 juin 2009 par l'inspection).	'produits chimiques divers , déchets'	
+2002	03			2002	03			Le_diagnostic_initial	Le diagnostic initial (1ère partie de l'étude des sols) et l'étude Evaluation Simplifiée des Risques ont été transmises à l'administration en mars 2002.		
+2009	11	27		2009	11	27		un_PV	L'inspection a dressé, le 27 novembre 2009, un PV (délit) et proposé au préfet un arrêté de consignation de somme (220.000 euros) établie au regard d'un devis remis par l'entreprise spécialisée SERPOL consultée par le mandataire pour la mise en sécurité du site.		'spécialisée SERPOL'
+1996	04	03		1996	04	03		a_été_sélectionné	Le site a été sélectionné dans le cadre de la circulaire du 03/04/1996.		
+2008	12	10		2008	12	10		a_été_informé	Par courrier du 10 décembre 2008, l'inspection a été informé par Me CHRETIEN de la cessation d'activité de cette entreprise.		'Me CHRETIEN'
+2009	04	17		2009	04	17		il_a_été_rappelé	Par courrier du 10 février 2009, suivi d'un arrêté de prescriptions spéciales daté du 17 avril 2009, il a été rappelé au mandataire ses obligations en qualité d'exploitant, notamment celles prévues à l'article R.512.74 et suivants du code de l'environnement.		
+2010	03			2010	03			Une_visite_d__inspection	Une visite d'inspection a été réalisée en mars 2010 : les travaux de mise en sécurité ont été engagés par la société SERPOL.		'la société SERPOL'
+2012	06	13		2012	06	13		a_été_pris	Un PV de récolement de fin de travaux a été pris le 13 juin 2012.		
+2006	04	13		2006	04	13		a_été_mise_en_demeure_de_procéder_à_des_analyses	Le 13 avril 2006 la société ITDT a été mise en demeure de procéder à des analyses complémentaires.		'la société ITDT'
+2010	12	1		2010	12	1		un_arrêté_de_consignation	Aussi compte tenu de ce qui précède, l'inspection a proposé le 1er décembre 2010 un arrêté de consignation de somme d'un montant de 158 000 euros pour répondre des travaux correspondants.		
+2010	09	22		2010	09	22		une_visite_d__inspection	Le 22 septembre 2010, une visite d'inspection DREAL a été effectuée.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	20		2010	09	20		de_l__inspection	Lors de l’inspection du 20 septembre 2010, il n’a pas été constaté de rejet de lixiviats ou de biogaz sur le site.		
+								La_fermeture	La fermeture a été effectuée au début des années 1990.		
+1965	11	20		1965	11	20		créée_le	L'ancienne décharge initiale été créée le 20 novembre 1965.		
+1972	07	03		1972	07	03		a_ensuite_été_étendue	Elle a ensuite été étendue le 3 juillet 1972.		
+				2002				a_accepté	Ensuite, la municipalité a accepté des déchets inertes sur le site jusqu'en 2002.		

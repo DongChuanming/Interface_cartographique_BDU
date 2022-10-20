@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								une_contamination	- une contamination de Pz4 par des hydrocarbures (fractions lourdes C10-C40) (juin 2010) ;	'des hydrocarbures'	'Pz4'
+								piézomètres	Les investigations réalisées en 2009 (14 sondages et 3 piézomètres) ont pour leur part mis en évidence des teneurs significatives en hydrocarbures, sur 2-3 mètres de profondeur, soit au-dessus du niveau de la nappe.	'teneurs significatives'	
+2009	12	22		2009	12	22		après_les_travaux_de_démantèlement	- le 22 décembre 2009 (après les travaux de démantèlement) ;		
+1000523				2010	06	02		notamment_le_rapport_référencé	D’après les études précédemment transmises à l’Inspection, et notamment le rapport référencé 10CT00523-RT02-Juin 2010, la forme du profil chromatographique orientait vers une coupe de type huile-lubrifiant.		

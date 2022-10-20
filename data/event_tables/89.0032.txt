@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Est_cesse_son_activité	Le 1er septembre, la Compagnie Pétrolière de l'Est cesse son activité et en informe le Préfet de l'Yonne par courrier du 8 juillet 2008.		'la Compagnie Pétrolière', 'le Préfet'
+2008				2008				a_été_effectuée	Une seule campagne des eaux souterraines a été effectuée en 2008.		
+2008	07	08		2008	07	08		en_informe	Le 1er septembre, la Compagnie Pétrolière de l'Est cesse son activité et en informe le Préfet de l'Yonne par courrier du 8 juillet 2008.		'la Compagnie Pétrolière', 'le Préfet'
+2009	02	04		2009	02	04		est_transmis	Le 4 février 2009, un dossier de cessation d'activité est transmis au Préfet de l'Yonne, accompagné d'une analyse des risques résiduels .		

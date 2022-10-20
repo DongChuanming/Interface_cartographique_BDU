@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								contrôles_tous_les	Un arrêté préfectoral du 23/04/93 communs aux 3 sites de La Praz, Les Teppes et Calypso avait prescrit à Aluminium Péchiney un contrôle de la stabilité hydrochimique du système alluvial dans les piézomètres : contrôles tous les 2 mois pendant 1 an.	'Aluminium'	'Les Teppes', 'Péchiney'
+1998				1998				repose_désormais	Le site a ensuite été totalement remblayé sur une dizaine de mètres, et l’autoroute A 43 repose désormais depuis 1998 sur ce remblai.		
+1993	02			1993	02			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d’octobre 1992 à février 1993 par ATE GEOCLEAN et Labo-Services.		'ATE GEOCLEAN', 'Labo'
+								Une_étude_de_caractérisation	Une étude de caractérisation des déchets datée du 19/05/92, réalisée par l’institut Pasteur a été remise.		'institut Pasteur'
+1993				1993				Un_suivi_environnemental_poussé	Un suivi environnemental poussé a été réalisé par le BRGM sur les années 1993 à 1994.		'le BRGM'
+				1998				a_été_menée	La surveillance a été menée jusqu’en 1998 (les piézomètres installés sur site ont été détruits dans le cadre de la construction de l’autoroute).		
+1893				1893				a_accueilli	Le site de la Praz a accueilli une usine à partir de 1893 et jusqu'en 1984 une usine de production d'aluminium par électrolyse.	'aluminium'	
+								un_contrôle	Un arrêté préfectoral du 23/04/93 communs aux 3 sites de La Praz, Les Teppes et Calypso avait prescrit à Aluminium Péchiney un contrôle de la stabilité hydrochimique du système alluvial dans les piézomètres : contrôles tous les 2 mois pendant 1 an.	'Aluminium'	'Les Teppes', 'Péchiney'
+1994				1994				Un_suivi_environnemental_poussé	Un suivi environnemental poussé a été réalisé par le BRGM sur les années 1993 à 1994.		'le BRGM'
+1986				1988				ont_été_détruits	Une partie des bâtiments ont été détruits entre 1986 et 1988.		
+								Le_bilan_quinquennal	Le bilan quinquennal prévu par l'arrêté du 21/07/94 a été transmis par courrier du 15/11/99.		
+1995	09			1996	02			Les_travaux_de_démolition	Les travaux de démolition ont été réalisés de septembre 1995 à février 1996.		
+1992	10			1992	10			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés d’octobre 1992 à février 1993 par ATE GEOCLEAN et Labo-Services.		'ATE GEOCLEAN', 'Labo'
+1985				1985				a_fermé	L'usine exploitée par la société Aluminium Péchiney a fermé en 1985.		'la société Aluminium Péchiney'
+								2_contrôles_annuels	Par arrêté préfectoral du 21/07/94, cette surveillance a été restreinte aux paramètres pertinents au regard des résultats du BRGM : 2 contrôles annuels, pendant 5 ans, sur les eaux souterraines (2 piézomètres), sur les paramètres chlorures, brome, arsenic, fer, manganèse, baryum, iode et hydrocarbures totaux.	'chlorures', 'brome', 'arsenic', 'fer', 'manganèse', 'baryum', 'iode', 'hydrocarbures totaux'	'BRGM'
+1991				1991				fermer_à_son_tour	- à la Société Affipraz, qui a mené sur le site des activités d'affinage de métaux (aluminium notamment), avant de fermer à son tour en 1991, laissant le site dans un état de pollution important, avec une multitude déchets présents.	'aluminium'	'la Société Affipraz'

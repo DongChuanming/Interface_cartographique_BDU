@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_été_éliminé	Ce transformateur a été éliminé en 2008 par la société APROCHIM (certificat de destruction de juillet 2008).		'la société APROCHIM'
+2010	10			2010	10			a_déménagé	En octobre 2010, la société ACF a déménagé l’ensemble de ses installations vers un site situé au 53 rue Scheurer Kestner à Saint-Étienne.		'la société ACF'
+				1995				sont_occupés	À partir de 1986 et jusqu’en 1995, les locaux sont occupés par un atelier de mécanique.		
+1995				1995				est_alors_réalisée	Une extension du bâtiment est alors réalisée en 1995 du côté Ouest pour y installer les activités de SCOMAC qui cèdent leur place aux activités de montage d’ATAMEC C.		'SCOMAC', 'ATAMEC C.'
+2012	08	1		2012	08	1		a_reçu	Le 1er août 2012, l’inspection a reçu un rapport de travaux comprenant les bordereaux de suivi des déchets ainsi qu’une analyse de fond de fouille.		
+								d__établir	Par courrier du 16 février 2012, l’inspection demande d’établir, dans un délai de 3 mois, un plan de gestion tel que défini au chapitre 3.2 de la circulaire du 8 février 2007 relative aux installations classées – Prévention de la pollution des sols – Gestion des sols pollués, qui prévoirait :		
+2008	07			2008	07			de_destruction	Ce transformateur a été éliminé en 2008 par la société APROCHIM (certificat de destruction de juillet 2008).		'la société APROCHIM'
+2011	12	12		2011	12	12		cessation_d__activité_reçue	L’inspection a reçu, le 30 juin 2011, un dossier de cessation d’activité suivi d’une lettre de notification de cessation d’activité reçue le 12 décembre 2011.		
+2011	12	12		2011	12	12		un_dossier_de_cessation_d__activité	L’inspection a reçu, le 30 juin 2011, un dossier de cessation d’activité suivi d’une lettre de notification de cessation d’activité reçue le 12 décembre 2011.		
+1973				1973				l__installation	La première activité exercée sur le site date de 1973 avec l’installation des Ateliers d’application mécanique d’Avray sur la partie Est du bâtiment, devenue ATAMEC CROZET FOURNEYRON en 1987 et de SCOMAC dans la traversée située à l’Ouest.		'ATAMEC CROZET FOURNEYRON', 'SCOMAC'
+2004				2004				a_été_placée_en_liquidation_judiciaire	En 2004, la société a été placée en liquidation judiciaire.		
+2007				2007				réalisées	Les constatations réalisées en 2007 et le bon état général des locaux permettent bien de justifier l’absence de reconnaissances complémentaires.		
+2011	06	30		2011	06	30		un_dossier_de_cessation_d__activité	L’inspection a reçu, le 30 juin 2011, un dossier de cessation d’activité suivi d’une lettre de notification de cessation d’activité reçue le 12 décembre 2011.		

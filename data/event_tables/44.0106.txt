@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				a_été_créé	Le site qu’occupait la société FERS, rue James Joule, a été créé en 1987 par la SARL CASSE AUTO REZEENNE (qui a changé de nom ensuite pour s’appeler CARECO).		'la société FERS', 'la SARL CASSE AUTO REZEENNE', 'CARECO'
+1987	10	12		1987	10	12		l__exploitation	Fin des années 1980, l’exploitation du site est réalisée par la SARL AUTO CASSE REZEENNE (centre de démolition de véhicules hors d’usage), avec un arrêté préfectoral en date du 12 octobre 1987.		'la SARL AUTO CASSE REZEENNE'
+1980				1980				des_activités_agricoles	Avant 1980, l’ensemble de la zone était dédiée à des activités agricoles.		
+2011	03			2011	03			__arrêt_des_activités	Mars 2011 : arrêt des activités sur le site rue James Joule et transfert de ces dernières sur un nouveau site de la ZAC de la Brosse, dans le secteur de la Malnoue, à une centaine de mètres de l’ancien site.		
+2006	07	25		2006	07	25		Dépôt_d__une_demande	Dépôt d’une demande d’autorisation d’exploiter le 25 juillet 2006.		
+1980				1980				était_dédiée_à	Avant 1980, l’ensemble de la zone était dédiée à des activités agricoles.		
+								l__exploitation	Fin des années 1980, l’exploitation du site est réalisée par la SARL AUTO CASSE REZEENNE (centre de démolition de véhicules hors d’usage), avec un arrêté préfectoral en date du 12 octobre 1987.		'la SARL AUTO CASSE REZEENNE'
+								est_repris	Fin des années 1990, le site est repris par la société CARECO, qui étend ses activités à la récupération des déchets de métaux et en particulier les véhicules hors d’usage sous la rubrique 286 de la nomenclature des installations classées (arrêté préfectoral en date du 22 décembre 1997).		'la société CARECO'
+2003				2003				a_été_repris	Il a été repris par la société FERS au début de 2003.		'la société FERS'

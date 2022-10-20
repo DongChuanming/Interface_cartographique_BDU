@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	25		2012	05	25		rédigé_par	Le procès verbal de récolement a été rédigé par l'Inspection le 25 mai 2012 et le récépissé de déclaration de cessation d'activité a été délivré par la Sous Préfecture de Mortagne au Perche le 4 juillet 2012.		'la Sous Préfecture de Mortagne'
+1978	12			1978	12			implantée	Tannerie artisanale, implantée depuis décembre 1978 à Tourouvre, utilisant des produits à base de chrome et de sulfate d’alumine.	'sulfate'	'alumine'
+2004	07			2004	07			Ces_études_ont_été_transmises	Ces études ont été transmises en décembre 2000 et juillet 2004.		
+2003	11			2003	11			a_cessé	Depuis la reprise de la société par le fils en novembre 2003, l'activité de tannerie a cessé pour être remplacé par une activité de taxidermie.		
+2000	12			2000	12			Ces_études_ont_été_transmises	Ces études ont été transmises en décembre 2000 et juillet 2004.		
+2003	11			2003	11			la_reprise_de	Depuis la reprise de la société par le fils en novembre 2003, l'activité de tannerie a cessé pour être remplacé par une activité de taxidermie.		
+2012	03	06		2012	03	06		Les_dernières_analyses	Les dernières analyses datant du 6 mars 2012 ne révèlent pas de dépassement des paramètres Chrome et Arsenic dans les eaux souterraines.	'Chrome', 'Arsenic'	
+2012	07	04		2012	07	04		a_été_délivré_par	Le procès verbal de récolement a été rédigé par l'Inspection le 25 mai 2012 et le récépissé de déclaration de cessation d'activité a été délivré par la Sous Préfecture de Mortagne au Perche le 4 juillet 2012.		'la Sous Préfecture de Mortagne'
+1996	04	03		1996	04	03		a_été_sélectionné	Étant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'
+2011	12	20		2011	12	20		Le_contrôle_réalisé	Le contrôle réalisé le 20 décembre 2011 par l'inspection a permis de constater la mise en sécurité du site dans le cadre de la cessation d'activité.		
+2003	11			2003	11			ont_cessé	Les activités de tanneries ont cessé depuis novembre 2003, depuis, la société Tannerie du perche exploite sur le site une activité de taxidermie.		'la société Tannerie'

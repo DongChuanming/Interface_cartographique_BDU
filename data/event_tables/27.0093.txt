@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09	04		2006	09	04		a_été_délivré_à_cet_effet	Un permis de construire a été délivré à cet effet le 4 septembre 2006.		
+2005				2005				Des_études_réalisées	Des études réalisées par TAUW Environnement en 2005 et 2006 permettent en effet d'établir les mesures de gestion à mettre en œuvre afin de rendre compatible le site avec l'usage susvisé.		'TAUW'
+2007	07	26		2007	07	26		ont_été_réceptionnés	Les travaux d'aménagement ont été réceptionnés par la CASE le 26 juillet 2007 sans émission de réserves relatives aux mesures de gestion des pollutions des sols.		'la CASE'
+2004				2004				Un_diagnostic	Un diagnostic réalisé en 2004 par SITA Remédiation met en évidence la présence de divers polluants dans les sols : des hydrocarbures (HCT), des métaux (As, Cr, Hg, Pb) et des PCB.	'polluants', 'hydrocarbures', 'HCT', 'des métaux', 'As', 'Cr', 'Hg', 'Pb', 'des PCB'	'SITA Remédiation'
+2006				2006				Des_études_réalisées	Des études réalisées par TAUW Environnement en 2005 et 2006 permettent en effet d'établir les mesures de gestion à mettre en œuvre afin de rendre compatible le site avec l'usage susvisé.		'TAUW'
+2007				2007				a_été_aménagée	Une aire d'accueil des gens du voyage y a été aménagée en 2007.		
+2007	07	26		2007	07	26		Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réceptionnés le 26 juillet 2007.		

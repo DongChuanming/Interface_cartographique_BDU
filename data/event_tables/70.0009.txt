@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				Il_est_apparu	Il est apparu en 2008 que la gestion des déchets inertes de la société Fiday Gestion était effectuée dans des conditions irrégulières (enfouissement illégal de déchets non inertes mélangés à des déchets inertes de fonderie au lieu d'utiliser des filières de traitement autorisées).	'déchets inertes', 'déchets non inertes', 'des déchets inertes'	'la société Fiday Gestion'
+				1996				ont_été_déposés	Certains de ces déchets ont été déposés jusqu'en 1996 sur une décharge située sur le site de l'usine.		
+2008				2008				Une_évaluation_quantitative_des_risques	Une évaluation quantitative des risques a été menée en 2008 pour répondre à l'APMD suscité.		
+1969				1969				a_débuté	L'activité de fonderie de fonte a débuté en 1969.		
+				2006				des_campagnes_de_suivi_effectuées	Il ressort des campagnes de suivi effectuées jusqu'en 2006 que la situation reste stable.		
+2008	08	01		2008	08	01		a_alors_dressé	L'inspection a alors dressé en date du 1 août 2008 un arrêté préfectoral de mise en demeure de procéder à :		
+1999	03	10		1999	03	10		la_prescription	L'activité de l'usine et la pratique des dépôts de déchets ont justifié la prescription par arrêté préfectoral du 10 mars 1999, d'une étude des sols.	'dépôts de déchets'	

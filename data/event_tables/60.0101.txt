@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1956				1956				a_été_mise_en_service	La centrale thermique de Saint-Leu d'Esserent a été mise en service en 1956 par la société EDF.		"Saint-Leu d' Esserent", 'la société EDF'
+1973				1978				Des_analyses	Des analyses de cendres ont été réalisées entre 1973 et 1978.		
+1977	10			1977	10			des_analyses_mensuelles	D'octobre 1977 à février 1986, la société EDF a fait des analyses mensuelles de l'eau de la nappe alluviale située sous le parc à cendres.		'la société EDF'
+1988	05			1988	05			a_cessé	En mai 1988, EDF a cessé ses activités de production d'électricité.		'EDF'
+1986	02			1986	02			des_analyses_mensuelles	D'octobre 1977 à février 1986, la société EDF a fait des analyses mensuelles de l'eau de la nappe alluviale située sous le parc à cendres.		'la société EDF'

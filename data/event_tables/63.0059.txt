@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1989				installée	DUROL est une société de coutellerie installée de 1972 à 1989 sur le site.		'DUROL'
+2006	05			2006	05			10_sondages_sont_réalisés	En mai 2006, 10 sondages sont réalisés, montrant une pollution localisée des sols sur 3 sondages (sur 4 effectués) par du trichloroéthylène au niveau de la zone de polissage/lavage.	'trichloroéthylène'	
+1989				2005				est_exploité	De 1989 à 2005, le site est exploité par les établissements COUZON, soumis à autorisation en raison de certaines activités (découpage, polissage, tribofinition, lavage et dégraissage au trichloroéthylène, plasturgie et conditionnement de produits finis).	'trichloroéthylène'	'les établissements COUZON'

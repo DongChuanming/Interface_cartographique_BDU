@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				la_fermeture_de	L’industriel a indiqué en 2011 que depuis la fermeture de la câblerie en 1985, plus aucun produit de ce genre n’a été utilisé sur le site.		
+2004	05			2004	05			a_révélé	L'étude, remise en mai 2004, a révélé une contamination par les hydrocarbures et par les solvants chlorés.	'hydrocarbures', 'solvants chlorés'	
+								arrêté	Ce site a été soumis à la réalisation d'une ESR prescrite par arrêté du 22/02/02 rappelée par mise en demeure du 21/10/03.		
+								Le_contrôle	Le contrôle de la qualité des eaux souterraines (3 piézomètres + abords du ruisseau Falkensteinbach) a été engagé le 04/08/05 et depuis cette date les teneurs en composés organohalogénés volatils au piézomètre aval n° 3, dépassent les valeurs de l’arrêté ministériel du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine.	'composés'	
+								a_été_soumis	Ce site a été soumis à la réalisation d'une ESR prescrite par arrêté du 22/02/02 rappelée par mise en demeure du 21/10/03.		
+2011				2011				a_indiqué	L’industriel a indiqué en 2011 que depuis la fermeture de la câblerie en 1985, plus aucun produit de ce genre n’a été utilisé sur le site.		
+2008				2008				est_asséché	En outre depuis 2008, le piézomètre amont est asséché.		
+								ont_été_précisées	Les conditions de surveillance ont été précisées par arrêté préfectoral complémentaire du 07/03/05.		

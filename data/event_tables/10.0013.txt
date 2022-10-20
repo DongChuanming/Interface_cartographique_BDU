@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_eu_lieu	Une relance a eu lieu à l'automne 2003.		
+2004	09	15		2004	09	15		a_été_remise	L'ESR a été remise le 15/09/2004 et place le site en classe 2.		
+2002	01	16		2002	01	16		__a_été_fourni_par_courrier	Un complément  demandé par courrier en date du 13 mars 2001, a été fourni par courrier du 16 janvier 2002.		
+2002	06	03		2002	06	03		la_réalisation_d_	L'inspection des installations classées a demandé par lettre du 03/06/2002, la réalisation d'une surveillance des eaux souterraines.		
+2003	09	01		2003	09	01		Le_diagnostic_initial	Le diagnostic initial phase B a été remis par courrier du 01/09/2003.		
+2000	11	30		2000	11	30		a_été_remis	Le diagnostic initial phase A a été remis le 30 novembre 2000.		
+2012				2012				Le_déménagement	Le déménagement d'une partie des activités de PSI vers un autre site est programmé pour 2012.		'PSI'
+2003				2003				à_l_	Une relance a eu lieu à l'automne 2003.		
+1997	11	10		1997	11	10		Un_diagnostic_initial_de_sols	Un diagnostic initial de sols et une évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 10/11/1997, dans le cadre de la circulaire du 3 avril 1996.		
+								a_communiqué_par_courrier	En réponse, l'Inspection des Installations Classées a communiqué par courrier du 21/04/04 des remarques et des demandes de compléments à l'exploitant, et lui a rappelé qu'il devait mettre en place sous un mois un réseau de suivi de la qualité des eaux souterraines et enfin réaliser une évaluation simplifiée des risques.		

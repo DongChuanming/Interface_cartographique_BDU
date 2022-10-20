@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	10	16		2015	10	16		__c__est_rendu	Afin de mettre en sécurité le site, vis-à-vis des occupants, un prestataire de l'ADEME  c'est rendu sur site avec un inspecteur de la DREAL le 16 octobre 2015.		'de la DREAL'
+								existait_sur	Mais il semblerait que le même type d'activité existait sur le site depuis les années 1920.		
+1985				1985				a_cessé	L'activité a cessé vers 1985-1986, sans déclaration.		
+1977	01	31		1977	01	31		de_déclaration	La société Bar Station LE DOUARIN a été autorisé à exploiter une station service (dépôt d'hydrocarbures liquides) par récépissé de déclaration du 31 janvier 1977.	'hydrocarbures liquides'	'La société Bar Station LE DOUARIN'
+1986				1986				a_cessé	L'activité a cessé vers 1985-1986, sans déclaration.		

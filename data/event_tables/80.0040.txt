@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09			2004	09			Le_diagnostic_approfondi	Le diagnostic approfondi et l'EDR ont été transmis en septembre 2004.		
+2003	02	26		2003	02	26		annulation_des_arrêtés	La société Norminter a par la suite déposé auprès du tribunal administratif d' Amiens un recours en annulation des arrêtés des 31 janvier 2002 et 26 février 2003.		'La société Norminter'
+2002	01	31		2002	01	31		annulation_des_arrêtés	La société Norminter a par la suite déposé auprès du tribunal administratif d' Amiens un recours en annulation des arrêtés des 31 janvier 2002 et 26 février 2003.		'La société Norminter'
+				1989				a_été_exploitée	L'usine en cause a été exploitée à Abbeville, 305 Chaussée Rouvroy, jusqu'en 1989 par la société Maillard puis jusqu'en 1991 par la société Sachs Industries.		'Abbeville', 'la société Maillard', 'la société Sachs'

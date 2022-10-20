@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			a_été_réalisé	Ce document a été réalisé en juin 1999, et envoyé à l'administration. il relève 5 points de pollution potentielle sur le site (pollution en métaux, soufre, hydrocarbures, solvants) et propose des investigations complémentaires d'analyse de sol au droit de ces 5 points.	'métaux', 'soufre', 'hydrocarbures', 'solvants'	
+1978				1978				implantée_sur_le_site	Usine de production de nickel métal haute pureté, de chlorures de nickel, de chlorures de cobalt et chlorure ferrique, implantée sur le site depuis 1978.	'nickel', 'chlorures de nickel', 'chlorures de cobalt', 'chlorure ferrique'	

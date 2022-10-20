@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				à_été_vendu	La société a cessé son activité et le site à été vendu en 2014 pour un usage industriel à la communauté de commune des avaloirs dont le siège est à Pré-en-Pail.		'la communauté de commune des avaloirs'
+2011				2011				a_été_effectuée	Afin de s'assurer de la compatibilité des terrains avec un usage industriel, une EQRS (évaluation quantitative des risques sanitaires) a été effectuée le 5 aout 2011.		
+2004				2004				a_été_acquise	En 2004, la SCPA MASDAC a été acquise par K+S KALI.		'la SCPA MASDAC', 'K+S KALI'
+								des_diagnostics	Dans le cadre du mémoire de cessation d'activité, des diagnostics de sol et des eaux souterraines ont été réalisés le 5 aout 2011.		
+								Des_mesures	Des mesures et prélèvements pour analyse doivent être réalisés 4 fois par an et un bilan annuel des résultats accompagné de leurs interprétations doit être transmis à l'inspection des installations classées.		
+2008				2008				est_devenu	Et en 2008 le nom SCPA MASDAC est devenu K+S KALI ATLANTIQUE.		'SCPA MASDAC', 'K+S KALI ATLANTIQUE'
+1951				1951				s__est_installée_dans	La société MASDAC (Moulin à Acories d’Aulnay sous Crécy, société créée en 1947) s'est installée dans un ancien atelier de réparation/maintenance de locomotives à vapeur à Pré en Pail en 1951.		'La société MASDAC'
+								a_été_effectuée	Afin de s'assurer de la compatibilité des terrains avec un usage industriel, une EQRS (évaluation quantitative des risques sanitaires) a été effectuée le 5 aout 2011.		
+1993	12	14		1993	12	14		bénéficiait	Pour cette activité, l'établissement bénéficiait d'un arrêté préfectoral d'autorisation du 14 décembre 1993.		
+1999				1999				est_devenue	La société MASDAC est devenue SCPA MASDAC en 1999.		'La société MASDAC', 'SCPA MASDAC'
+2011				2011				des_diagnostics	Dans le cadre du mémoire de cessation d'activité, des diagnostics de sol et des eaux souterraines ont été réalisés le 5 aout 2011.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1983				s__est_poursuivi	Le réaménagement a donc été amorcé en 1979 et s'est poursuivi jusqu'en 1983.		
+1979				1979				est_mis_en_place	En 1979, un système de récupération des matières de vidange est mis en place à la station d'épuration d'Elbeuf, rendant donc possible la suppression de la déposante du chêne fourchu.		
+1979				1979				Le_réaménagement_a_donc_été_amorcé	Le réaménagement a donc été amorcé en 1979 et s'est poursuivi jusqu'en 1983.		
+1979				1979				demande_le_réaménagement	La DRIR demande le réaménagement de la décharge en 1979.		'La DRIR'
+1889				1889				a_été_créé	Cet ancien site a été créé en 1889 par la commune pour y déposer dans des fosses des déchets liquides (matières de vidange, boues de station d'épuration).	'des fosses des déchets liquides'	
+1977	09	1		1977	09	1		l__autorisation	Le 1er septembre 1977, un arrêté préfectoral transférait à la société MALEZIEUX, l'autorisation d'exploiter cette décharge.		'la société MALEZIEUX'
+1994				1994				une_inspection	Ces points ont été visiblement traité puisqu'une inspection en 1994 indiquait qu' aucun déchet n'était visible, une partie était reboisée, l'autre abritait le centre de tir.		

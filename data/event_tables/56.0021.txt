@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09			2004	09			Dans_le_cadre_de_la_cessation_d__activité___un	Dans le cadre de la cessation d'activité, un diagnostic environnemental a été réalisée en septembre 2004 :		
+2004	10			2004	10			de_cessation_a_été_effectuée	La notification de cessation a été effectuée en octobre 2004 et complétée en janvier 2005.		
+2005	01			2005	01			de_cessation_a_été_effectuée	La notification de cessation a été effectuée en octobre 2004 et complétée en janvier 2005.		
+2004	09			2004	09			diagnostic_environnemental	Dans le cadre de la cessation d'activité, un diagnostic environnemental a été réalisée en septembre 2004 :		

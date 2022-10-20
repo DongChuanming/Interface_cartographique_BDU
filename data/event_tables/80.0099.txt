@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02	16		2010	02	16		a_déclaré_sa_cessation_définitive	La société FFM a déclaré sa cessation définitive de ses activités le 16/02/2010.		'La société FFM'
+2011	11	10		2011	11	10		a_été_adressé	Le plan de gestion préconisé par le rapporteur du mémoire a été adressé à l’inspection le 10/11/2011.		
+2012	11	05		2012	11	05		un_arrêté	Le préfet a pris un arrêté le 5/11/2012 prescrivant ma réalisation de travaux de dé-pollution ainsi qu'un diagnostics complémentaire pour son site exploité sur la commune de Péronne.		'Le préfet'
+2010	11	15		2010	11	15		s__est_rendue	L’inspection s’est rendue le 15/11/2010 sur le site avec le représentant de FFM.		'FFM'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	08			2014	08			qualité_de_la_nappe_réalisées	Les dernières campagnes d'analyses de la qualité de la nappe réalisées en 02 et 08/2014 confirment l'absence d'impact en  Hydrocarbures et BTEX dans les eaux.	'  Hydrocarbures et BTEX'	
+2008	03			2008	03			un_diagnostic_de_pollution	Par ailleurs un diagnostic de pollution des sols au niveau des installations de stockage et distribution a été réalisé en  mars 2008 puis complété en mars 2011, à partir de 19 sondages.		
+								qualité_de_la_nappe_réalisées	Les dernières campagnes d'analyses de la qualité de la nappe réalisées en 02 et 08/2014 confirment l'absence d'impact en  Hydrocarbures et BTEX dans les eaux.	'  Hydrocarbures et BTEX'	
+2008	03			2008	03			des_impacts_ponctuels_apparaissent_principalement	- pour le benzène, des impacts ponctuels apparaissent principalement  sur Pz1 (de 1,7 µg/l en 03/2008 à 6 µg/l en 09/2011).	'le benzène'	
+2008	03			2008	03			a_été_mise_en_évidence	Une seule valeur de concentration en HC égale à 660 mg/l a été mise en évidence en mars 2008 ; ce niveau n'a pas été confirmé par les deux sondages réalisées au niveau du même emplacement en mars 2011 (de 11mg/kg à 24mg/kg).	'HC'	
+2012	07			2012	07			__ont_été_suivis	Les travaux de démantèlement des anciennes infrastructures réalisés  en juillet 2012 pour les cuves et janvier 2013 pour les tuyauteries  ont été suivis par le cabinet environnemental ARTELIA.		'par le cabinet environnemental ARTELIA'
+2011	03			2011	03			puis_complété	Par ailleurs un diagnostic de pollution des sols au niveau des installations de stockage et distribution a été réalisé en  mars 2008 puis complété en mars 2011, à partir de 19 sondages.		
+2012	07			2012	07			Les_travaux_de_démantèlement	Les travaux de démantèlement des anciennes infrastructures réalisés  en juillet 2012 pour les cuves et janvier 2013 pour les tuyauteries  ont été suivis par le cabinet environnemental ARTELIA.		'par le cabinet environnemental ARTELIA'
+								Le_rapport_final_de_dépollution	Le rapport final de dépollution a été transmis à l'administration le 14/12/93.		

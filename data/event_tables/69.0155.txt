@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1905				1905				est_fondée	En 1905, "LA SOCIÉTÉ ANONYME DES AUTOMOBILES LA BUIRE est fondée.		'LA SOCIÉTÉ ANONYME DES AUTOMOBILES LA BUIRE'
+1910				1910				est_fondée	En 1910, "LA SOCIETE NOUVELLE DE LA BUIRE AUTOMOBILE" est fondée par Mr BERTHIER.		'LA SOCIETE NOUVELLE DE LA BUIRE AUTOMOBILE "', 'Mr BERTHIER'
+2000				2000				de_la_fermeture	Lors de la fermeture du site en 2000, les locaux étaient occupés par :		
+2000				2000				étaient_occupés	Lors de la fermeture du site en 2000, les locaux étaient occupés par :		
+2001	09	21		2001	09	21		Le_diagnostic_initial	Le diagnostic initial de l'état des sols a été rédigé le 21 septembre 2001.		
+2003	02	13		2003	02	13		a_été_fournie	L'EDR a été fournie à l'administration le 13 février 2003.		
+2002	12			2002	12			a_été_rendu	Des investigations complémentaires ont été réalisés pour la rédaction de l'ESR dont le rapport a été rendu au mois de décembre 2002.		"l' ESR"
+1880				1880				est_absorbée	En 1880, LA BUIRE est absorbée par "LA COMPAGNIE DES FONDERIES ET FORGES DE L'HORME".		'LA BUIRE', 'LA COMPAGNIE DES FONDERIES ET FORGES DE L\' HORME "'
+1889				1889				a_lieu_sur	En 1889, un essai de diversification des activités des FONDERIES ET FORGES DE L'HORME a lieu sur le site avec la construction de moteurs à gaz.		"FONDERIES ET FORGES DE L' HORME"
+2007	03			2007	03			La_dernière_campagne_renseignée	La dernière campagne renseignée à l'Inspection des Installations Classées est celle du mois de mars 2007. 4 campagnes avaient été réalisées avant elle.		
+1895	05	16		1895	05	16		autorise	le 16 mai 1895, le Tribunal de Commerce de Lyon autorise la poursuite des activités sous le nom de "LA SOCIÉTÉ NOUVELLE DES ÉTABLISSEMENTS DE L'HORME ET DE LA BUIRE".		'le Tribunal de Commerce de Lyon', 'LA SOCIÉTÉ NOUVELLE DES ÉTABLISSEMENTS DE L\' HORME ET DE LA BUIRE "'
+1909	11			1909	11			Sa_liquidation_judiciaire	Sa liquidation judiciaire est prononcée en novembre 1909.		
+1847				1847				a_été_exploité	Le site a été exploité dès 1847 par la société "LES CHANTIERS DE LA BUIRE", spécialisée dans la construction de tramways et matériels roulants pour chemin de fer.		'la société " LES CHANTIERS DE LA BUIRE "'

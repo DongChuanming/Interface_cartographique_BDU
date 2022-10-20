@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				bilan_quadriennal	Dans ce cadre, il a été demandé à la société POLYREY de fournir pour le début de l'année 2014 un bilan quadriennal de la surveillance environnementale effectuée sur le site.		'la société POLYREY'
+1994				1994				fait_réaliser	En 1994, l'exploitant fait réaliser par le BRGM  une étude de l'impact de la décharge sur la qualité des eaux de surface et souterraines.		'le BRGM'
+2009	06	04		2009	06	04		a_été_signé	Suite à des modifications d'exploitation, un arrêté préfectoral réglementant le fonctionnement de l'usine a été signé par le Préfet le 4 juin 2009.		'le Préfet'
+1997	06			1997	06			est_achevé	L'ensemble des travaux prescrits par l'arrêté préfectoral est achevé en juin 1997.		
+1997				1997				est_raccordé___au_réseau_d__assainissement	En 1997, avec l'accord de la municipalité d'Ussel, le réseau de récupération des lixiviats de la décharge est raccordé  au réseau d'assainissement de la ville pour traitement dans la station d'épuration communale.		
+2013	06	04		2013	06	04		Une_inspection_du_site_a_été_réalisée	Une inspection du site a été réalisée par la DREAL le 4 juin 2013 au cours de laquelle la thématique "sites et sols pollués" a été abordée.		'la DREAL'
+1998				1998				Depuis_la_mise_en_place_de_cette_surveillance	Depuis la mise en place de cette surveillance en 1998, l'évolution des paramètres mesurés est la suivante :		
+1992				1992				est_découvert	En 1992, ce stockage non autorisé est découvert par la DRIRE dans le cadre d'une procédure de régularisation de l'usine.		'la DRIRE'
+1973				1992				sont_stockés	De 1973 à 1992, des déchets constitués d'écorces de bois, de sciures, de chutes de panneaux de particules et de résidus d'ébarbage de panneaux mélaminés sont stockés sur le site de production de l'usine.		

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	08	09		2010	08	09		radiation	Du fait de la disparition de l'exploitant POURPRIX (radiation du 09/08/2010), le contrôle de la réhabilitation de ce site n'est plus du ressort de la police des installations classées pour l'environnement.		'POURPRIX'
+2002	08	30		2002	08	30		Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé les 29 et 30 août 2002 par la société BURGEAP afin de mieux cerner la nature et l'étendue de la pollution.		'la société BURGEAP'
+2002	01			2002	01			des_sondages	Neuf nouveaux sondages ont été réalisés de manière à constituer, en tenant compte des sondages de janvier 2002, un maillage géométrique régulier d'environ 25 m * 22 m.		
+								Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé les 29 et 30 août 2002 par la société BURGEAP afin de mieux cerner la nature et l'étendue de la pollution.		'la société BURGEAP'
+				2010	10			Les_travaux_ont_été_réalisés_en	Les travaux ont été réalisés en trois phases, réparties entre avril et octobre 2010, le site ayant été divisé en trois zones :		
+1975				1975				a_été_racheté	Le site a été racheté en 1975 par la société POURPRIX pour des activités de chaudronnerie.		'la société POURPRIX'
+2011				2011				Une_surveillance	Une surveillance de la qualité des eaux souterraines a été effectuée enter 2011 et 2015 par la société ENVISOL, pour le compte de BNP PARIBAS IMMOBILIER.		'la société ENVISOL', 'BNP PARIBAS IMMOBILIER'
+2002				2002				avait	En 2002, ce site avait vocation à être vendu et un diagnostic initial des sols avait été remis par la société ATE GEOLCEAN le 29 janvier 2002, à la demande d'un acquéreur potentiel.		'la société ATE GEOLCEAN'
+2011	01	18		2011	01	18		Une_mise_à_jour	Une mise à jour de l'ARR à l'issue des travaux de dépollution a été réalisée par la société NEODYME ENVISOL le 18 janvier 2011.		'la société NEODYME ENVISOL'
+2008	09	14		2008	09	14		informe	Par courrier du 14 septembre 2008, la société POURPRIX informe le préfet de la cessation de ses activités de fabrication (chaudronnerie et soudage) sur son site au 15 rue de Gerland à Lyon 7ème.		'la société POURPRIX', 'le préfet'
+2015				2015				Une_surveillance	Une surveillance de la qualité des eaux souterraines a été effectuée enter 2011 et 2015 par la société ENVISOL, pour le compte de BNP PARIBAS IMMOBILIER.		'la société ENVISOL', 'BNP PARIBAS IMMOBILIER'
+2012				2012				La_livraison	La livraison du bâtiment était prévue pour début 2012.		
+2002	01	29		2002	01	29		un_diagnostic_initial_des_sols	En 2002, ce site avait vocation à être vendu et un diagnostic initial des sols avait été remis par la société ATE GEOLCEAN le 29 janvier 2002, à la demande d'un acquéreur potentiel.		'la société ATE GEOLCEAN'
+2009	04	30		2009	04	30		a_été_réceptionné	Le plan gestion (comprenant un diagnostic approfondi, l'identification des mesures de gestion, l'analyse des risques résiduels), réalisé par la société NORISKO, a été réceptionné le 30 avril 2009.		'la société NORISKO'

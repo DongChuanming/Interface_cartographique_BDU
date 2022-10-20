@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	27		2006	02	27		a_acquis	Le 27 février 2006, la Ville d'Antibes a acquis ce terrain pour réaliser un parking de surface sur 2/3 du site et un usage multifonctionnel sur le tiers restant (Bâtiment 1 : salle à vocation associative; Bâtiment 2 : bureaux et zone sanitaire; Bâtiment 3 : aucune affectation à court terme).		"la Ville d' Antibes"
+2005	04			2005	04			Des_investigations_complémentaire	Des investigations complémentaire en Avril 2005 ont montré qu'un volume de 3500 m³ de terres réparties sur l'ensemble du site révélait des teneurs en BTEX et HAP élevées. 90% de la surface du site est imperméabilisé et les eaux souterraines ne présentent pas de traces significatives de l’activité passée du site.	'BTEX', 'HAP'	
+2004	11			2004	11			a_été_effectué	Un premier schéma de réhabilitation a été effectué en Novembre 2004, un deuxième en Juin 2006 suite aux investigations complémentaire.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+2001	10			2001	10			a_été_vidangée	Elle a été vidangée en octobre 2001 et le rapport des travaux a été envoyé à la DRIRE le 12/12/2001.		'la DRIRE'
+2004	11	18		2004	11	18		a_été_envoyé	Le rapport parcellaire a été envoyé le 18/11/2004.		
+1913				1939				a_accueilli	Il a une superficie d’environ 14173 m² à l’origine et il a accueilli de 1913 à 1939 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2005	05			2005	05			Les_travaux_ont_ainsi_été_réalisés	Les travaux ont ainsi été réalisés en mai 2005.		
+2004	11	23		2004	11	23		Le_diagnostic_approfondi	Le diagnostic approfondi et le schéma de réhabilitation du site, incluant des restrictions d'usage, ont été présentés le 23/11/2004 à la DRIRE.		'la DRIRE'
+2001	12	12		2001	12	12		a_été_envoyé	Elle a été vidangée en octobre 2001 et le rapport des travaux a été envoyé à la DRIRE le 12/12/2001.		'la DRIRE'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Déconstruction	Déconstruction d'environt 70 bâtiments du secteur poudre en 2011-2012 avec conservation des chapes, fondations des bâtiments et des caniveaux.		
+2011				2011				Déconstruction	Déconstruction d'environt 70 bâtiments du secteur poudre en 2011-2012 avec conservation des chapes, fondations des bâtiments et des caniveaux.		
+2012	04	1		2012	04	1		a_fusionné	EURENCO a fusionné et absorbé Bergerac NC au 1er avril 2012.		'EURENCO', 'Bergerac NC'
+2013	06			2013	06			La_campagne	La campagne de juin 2013 montre l'absence d'impact.		
+2009	07	21		2009	07	21		l__arrêté	La surveillance des eaux souterraines a été prescrite par l'arrêté du 29/01/2003 et l'arrêté du 21/07/2009 :		
+2015				2015				Démantèlement	Démantèlement et déconstruction d'environ 40 bâtiments de fabrication de nitrocellulose industrielle prévus entre 2012 et 2015.	'nitrocellulose industrielle'	
+2012				2012				Démantèlement	Démantèlement et déconstruction d'environ 40 bâtiments de fabrication de nitrocellulose industrielle prévus entre 2012 et 2015.	'nitrocellulose industrielle'	

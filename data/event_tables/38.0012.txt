@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01			2008	01			un_rapport	Cette étude a été réalisée par la société ATOS environnement et a fait l'objet d'un rapport de janvier 2008.		'la société ATOS environnement'
+2008	05	29		2008	05	29		Le_plan_de_gestion	Le plan de gestion du site proposé par la société ATOS environnement sur la base des résultats de l'étude est daté du 29 mai 2008.		'la société ATOS environnement'
+1991				1991				a_été_détectée	Une pollution de la nappe phréatique par du cumène a été détectée en 1991.	'cumène'	
+2011				2011				a_ainsi_réalisé	Le BURGEAP a ainsi réalisé en 2011 un pilote d'essai d'écrémage de la partie flottante de cumène.	'cumène'	'Le BURGEAP'
+2010	02	23		2010	02	23		ont_été_imposées	Sur la base de ces données techniques de nouvelles conditions de suivi de la nappe ont été imposées à l'exploitant, par arrêté préfectoral N°2010-01455 du 23/02/2010.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1996				a_exploité	La commune de Pers-Jussy a exploité, sans autorisation, de 1970 à 1996 une décharge d'ordures ménagères au lieu-dit "Les Esserts".		
+2005				2007				a_été_réhabilité	Le site a été réhabilité entre 2005 et 2007 par la Communauté de Communes Arve et Salève.		'la Communauté de Communes Arve'
+2003	10			2003	10			un_projet_de_réaménagement	Le cabinet GEOS INGENIEURS CONSEILS a réalisé en octobre 2003 un projet de réaménagement.		'GEOS INGENIEURS CONSEILS'
+2001	12			2001	12			un_rapport_d__étude	Le site a fait l'objet d'un rapport d'étude du cabinet GEO ARVE, finalisé en décembre 2001, ayant pour objet de faire l'historique du site, caractériser le milieu et les pollutions engendrées, et définir les mesures de réaménagement.		'GEO ARVE'
+2007	10	12		2007	10	12		Une_visite	Une visite de l'inspection des installations classées du 12 octobre 2007 a permis de constater que :		

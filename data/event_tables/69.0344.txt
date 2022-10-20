@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1979				est_restée_là_même	Elle est restée là même jusqu'en 1979, date à partir de laquelle le bâtiment sur la parcelle CD 108 est visible sur les photographies aérienne.		
+2012	07	03		2012	07	03		a_donc_été_rédigée	Une Restriction d'Usage Conventionnelle au Profit de l’État a donc été rédigée et remise à l'administration le 03/07/2012.		
+2010	07	13		2010	07	13		ont_fait_l__objet_d_	Ces études ont fait l'objet d'un rapport rédigé en date du 13/07/2010.		
+1990	06	08		1990	06	08		un_contrat_de_location	La société ANOFLEX CONTITECH signe le 08/06/1990 un contrat de location des bâtiments des parcelles CD 107 et CD 108.		'La société ANOFLEX CONTITECH'
+2010	07	13		2010	07	13		rapport_rédigé	Ces études ont fait l'objet d'un rapport rédigé en date du 13/07/2010.		
+2010	03			2010	03			la_cessation_complète_de_ses_activités	En mars 2010, la société notifie à l'inspection des Installations Classées la cessation complète de ses activités sur le site.		
+2004	11			2004	11			cesse_ses_activités	En novembre 2004, ANOFLEX cesse ses activités sur la parcelles CD 107, cet arrêt est acté dans l'arrêté du 17/10/2005.		'ANOFLEX'
+2010	04	19		2010	04	19		un_diagnostic_environnemental	Suite à la cessation d'activité de la société ANOFLEX CONTITECH, un diagnostic environnemental du site a été réalisé par la société ARCADIS en date du 19/04/2010 relatif à la parcelle CD108.		'la société ANOFLEX CONTITECH', 'la société ARCADIS'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1934				1934				implanté	Site en activité implanté sur la commune de BERRE en bordure de l’étang depuis 1934, sur une superficie d’environ 28 hectares.		'BERRE'
+2000				2000				Un_diagnostic_initial	Un diagnostic initial ainsi qu'une ESR ont été réalisés en 2000 conformément  à l'AP du 16/06/1999.		
+1929				1929				crée	Le site pétrochimique de Berre est un vaste ensemble industriel, crée en 1929 et implanté en bordure de l'étang de Vaine.		'Berre'
+2010	10	05		2010	10	05		l__APC	Le dernier arrêté préfectoral d’autorisation relatif à ce site est daté du 2/03/2000, complété  par l'APC du 24/01/2003, l'APC du 07/07/2009 et l'APC du 5/10/2010.		
+1996				1996				à_une_fuite_survenue	*  La présence de Benzène sur 2 piézomètres probablement liée à une fuite survenue en 1996 sur une ligne de coupe.	'de Benzène'	
+1934				1934				a_été_fortement_réduite	Crée en 1934, sa capacité a été fortement réduite dans les années 98/99, en liaison avec la diminution de capacité de la raffinerie, avec la suppression d'un dizaine de bacs de stockage.  La capacité globale est de 31 901 m3 de liquides inflammables et de 42 866 m3 de gaz combustible liquéfié.	'de liquides inflammables', 'de gaz combustible'	
+								a_été_fortement_réduite	Crée en 1934, sa capacité a été fortement réduite dans les années 98/99, en liaison avec la diminution de capacité de la raffinerie, avec la suppression d'un dizaine de bacs de stockage.  La capacité globale est de 31 901 m3 de liquides inflammables et de 42 866 m3 de gaz combustible liquéfié.	'de liquides inflammables', 'de gaz combustible'	
+2000	11			2000	11			Un_nouveau_prélèvement	Un nouveau prélèvement en Novembre 2000 révèle une disparition de ce Benzène.	'Benzène'	

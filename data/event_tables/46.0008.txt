@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1928				1928				créée	Ancienne usine d'électrométallurgie créée en 1928.		
+1998				1998				s__est_portée___acquéreur	En 1998, lorsque la société BROWN EUROPE s'est portée  acquéreur de la partie du site qu'elle utilisait et qui appartenait à la commune de LAVAL DE CERE, à la demande de la DRIRE Midi-Pyrénées, elle a fait réaliser une étude préalable des risques de pollution des sols sur son propre site (voir fiche correspondante n° 4).		'la société BROWN EUROPE', 'de LAVAL DE CERE', 'de la DRIRE Midi'
+1998	04			1998	04			cette_étude_a_été_réalisée	L'aspect historique de la partie documentaire " étape A " de cette étude a été réalisée en avril 1998 par PECHINEY et a porté sur l'ensemble de la plateforme.		'PECHINEY'
+1984				1984				de_la_fermeture	Lors de la fermeture de l'usine d'électrométallurgie PECHINEY à partir de 1984-1985, l'ensemble des terrains a été rétrocédé à la commune de LAVAL DE CERE.		'électrométallurgie PECHINEY', 'la commune de LAVAL DE CERE'
+1985				1985				de_la_fermeture	Lors de la fermeture de l'usine d'électrométallurgie PECHINEY à partir de 1984-1985, l'ensemble des terrains a été rétrocédé à la commune de LAVAL DE CERE.		'électrométallurgie PECHINEY', 'la commune de LAVAL DE CERE'

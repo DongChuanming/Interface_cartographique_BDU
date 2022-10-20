@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	08	08		1990	08	08		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 8 août 1990.		
+2001	12	11		2001	12	11		de_la_visite_d__inspection	Lors de la visite d'inspection du 11 décembre 2001, les anomalies telles que l'absence de rétentions, de captation des vapeurs, ont fait l'objet d'une mise en demeure par l'arrêté préfectoral du 14 janvier 2002.		
+2005	12	13		2005	12	13		Le_diagnostic_réalisé	Le diagnostic réalisé par ATI Serices est remis le 13/12/2005.		'Serices'
+2001	12	11		2001	12	11		ont_fait_l__objet_d_	Lors de la visite d'inspection du 11 décembre 2001, les anomalies telles que l'absence de rétentions, de captation des vapeurs, ont fait l'objet d'une mise en demeure par l'arrêté préfectoral du 14 janvier 2002.		
+2000	10			2000	10			le_diagnostic	Lors du rachat de cette entreprise par le groupe suisse HARTCHROM, le diagnostic des sols est réalisé en octobre 2000.		'le groupe suisse HARTCHROM'
+2000	10	06		2000	10	06		Les_coupes_lithologiques	Les coupes lithologiques réalisées le 6/10/2000 sur 3.3 m de profondeur montre que la nature du sol est constitué d'un remblais sur 0.4 m à 0.8 m et d'une couche d'argile au dela, ce qui permet de penser que le site est peu vulnérable et que la nappe captive profonde est bien protégée.		
+2005	10			2005	10			sont_installés	Les piézos sont installés en octobre 2005.		
+2005				2005				est_réparée	La cuvette de rétention est réparée, en 2005.		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	03	17		1992	03	17		ont_été_institués	Les périmètres ont été institués par arrêtés préfectoraux du 23/01/1975 et du 17/03/1992.		
+2005				2005				L__augmentation_constante	L'augmentation constante depuis 2005 des concentrations mesurées sur le puits de fixation de la pollution (PFA) situé à 600 m du site, alors que ces dernières devraient se stabiliser, doit faire l'objet d'une vigilance particulière.		
+1970				1990				exploitée	Celle-ci a alors été expliquée par des fuites ou des déversements qui se seraient produits sur une zone de transit des déchets industriels, exploitée entre les années 1970 et 1990.	'déchets industriels'	
+2009	12			2009	12			a_fait_procéder_à	En décembre 2009, l'exploitant a fait procéder à d'importants travaux de maintenance des équipements de dépollution.		
+2002	04	04		2002	04	04		l__élaboration_d__une_étude_détaillée_des_risques	C’est pourquoi le Préfet a prescrit à la société Messier-Bugatti, par arrêté du 4 avril 2002, l’élaboration d’une étude détaillée des risques (EDR).		'le Préfet', 'la société Messier - Bugatti'
+1963				1963				s__est_orientée_vers	La production d’automobiles, puis de moteurs s’est orientée vers la construction de trains d’atterrissage et de dispositifs de freinage avec le rachat de la société par HISPANO-SUIZA en 1963.		'la société par HISPANO - SUIZA'
+2009	09			2009	09			s__est_engagé_à_transmetrre	L'exploitant s'est engagé à transmetrre d'ici fin septembre 2009 un plan d'action concernant cette augmentation.		
+								a_été_découverte	Une pollution des eaux souterraines par des solvants chlorés a été découverte au début des années 1990.	'solvants chlorés'	
+1990				1990				__exploite	La société MESSIER-BUGATTI, dépendant du groupe SNECMA, exploite le site depuis 1990.		'La société MESSIER - BUGATTI', 'groupe SNECMA'
+2004	09			2004	09			a_été_remise	L'étude a été remise en septembre 2004.		
+1909				1909				a_évolué_vers	vec l’implantation de la société BUGATTI, en 1909, l’exploitation du site a évolué vers des activités et des installations dédiées à la mécanique.		'la société BUGATTI'
+1961				1961				ont_été_implantés	Ces captages ont été implantés en 1961 et en 1986.		
+2005				2005				la_surveillance_prescrite	La modification intervenue en 2008 résulte de la surveillance prescrite depuis 2005 qui a permis d'affiner la connaissance de l'extension du panache de pollution.		
+1986				1986				ont_été_implantés	Ces captages ont été implantés en 1961 et en 1986.		
+2002				2002				ont_été_réparties_sous	En 2002, les différentes activités exploitées sur le site ont été réparties sous deux entités juridiques distinctes :		

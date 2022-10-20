@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	01		2007	07	01		a_cessé_toute_activité	Elle a cessé toute activité depuis le 1 juillet 2007.		
+2007	10	02		2007	10	02		a_fait_une_déclaration	La société REVOLON a fait une déclaration de cessation d'activités le 2 octobre 2007.		'La société REVOLON'
+2008	03	14		2008	03	14		a_donné_acte	La préfecture de l'isère a donné acte de la cessation d'activités par courrier du 14 mars 2008.		'La préfecture'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	05	15		2014	05	15		__transmet	Le 15/05/2014, ALTEA, agissant probablement en qualité d'AMO de la CUB, transmet à l'inspection, le dossier de récolement de l'entreprise SOLETANCHE BACHY ayant réalisé les travaux "de confinement de sols contaminés par des hydrocarbures" constituant le lot 2 du marché de travaux de dépollution de la déchetterie de Bassens.	'des hydrocarbures'	'ALTEA', 'la CUB', 'SOLETANCHE BACHY'
+2009	03	13		2009	03	13		La_campagne	La campagne du 13 mars 2009 montre une forte augmentation des MES  et HAP dans certains piézomètres.	'MES', 'et HAP'	
+2008	09	30		2008	09	30		prescrit	L'arrêté du 10 avril 2008 prescrit le diagnostic des sols et de la nappe en vue de mettre en place le traitement des sources éventuelles, sinon de maîtriser leur impact sur l'environnement, à l'échéance du 30 septembre 2008.		
+1997	09			2001	06			Les_12_campagnes_menées	Les 12 campagnes menées de septembre 1997 à juin 2001 montre une fluctuation des teneurs en hydrocarbures mais sans dérive à la hausse avec une décroissante globale significative dans le temps.	'hydrocarbures'	
+1998	12	1		1998	12	1		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 1er décembre 1998.		
+1998	06			1998	06			Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques ont été réalisés en juin 1998 conduisant à classer le site dans la catégorie des sites à surveiller.		
+2001				2006				a_été_suspendue	La surveillance des eaux souterraines a été suspendue par l'exploitant sans raison apparente de 2001 à 2006.		
+2008	05	31		2008	05	31		prescrit_la_reconnaissance	L'arrêté du 10 avril 2008 prescrit la reconnaissance des cuves et de leur contenu et l'évacuation des résidus à l'échéances du 31 mai 2008.		
+								Les_campagnes	Les campagnes des 18 et 20/02/2008, 9 et 11/04/2008 montrent une tendance à la diminution pour les hydrocarbures totaux.	'hydrocarbures totaux'	
+2008	02	20		2008	02	20		Les_campagnes	Les campagnes des 18 et 20/02/2008, 9 et 11/04/2008 montrent une tendance à la diminution pour les hydrocarbures totaux.	'hydrocarbures totaux'	
+				2013	09	27		Les_travaux_de_curage	Les travaux de curage, de pompage, de nettoyage des cuves enterrées ont été réalisés du 15/07 au 27/09/2013.		
+2013	11	26		2013	11	26		a_été_remis	Le rapport de fin de travaux du 25/09/2013 a été remis à l'inspection le 26/11/2013.		

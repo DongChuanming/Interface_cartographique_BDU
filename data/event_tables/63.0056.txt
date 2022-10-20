@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1967	03			1967	03			est_accordé	Un récépissé de déclaration est accordé aux établissements LADOUX en mars 1967.		
+2005	09	30		2005	09	30		Des_travaux_de_dépollution	Des travaux de dépollution sont effectués le 30/09/2005.		
+2004	03	30		2004	03	30		sont_réalisés	Dans le cadre du diagnostic initial du 30 mars 2004, 20 sondages sont réalisés.		
+2001	2000			2001	2000			cesse_son_activité	En 2000/2001, le site cesse son activité.		
+								le_dégazage	- découpage et transport des cuves dans les 48h suivant le dégazage		
+1965				1965				est_utilisé	Avant 1965, il est utilisé pour l’exploitation agricole.		
+1965				1965				est_créée	En 1965, la ZI du Brézet est créée.		
+2004	03	30		2004	03	30		du_diagnostic_initial	Dans le cadre du diagnostic initial du 30 mars 2004, 20 sondages sont réalisés.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01			2008	01			complétée	Une étude de sols a été réalisée en octobre 2005 et complétée en janvier 2008.		
+2008	01			2008	01			Une_étude_de_sols	Une étude de sols a été réalisée en octobre 2005 et complétée en janvier 2008.		
+2005	10			2005	10			Une_étude_de_sols	Une étude de sols a été réalisée en octobre 2005 et complétée en janvier 2008.		
+2004				2004				est_choisi	En 2004, l'arrêt du site pour causes économiques et techniques est choisi par l'exploitant.		
+				1964				a_été_utilisé	Il reste cependant un stockage de Déchets Industriels Banals qui a été utilisé jusqu'en 1964 puis remblayé.	'Déchets Industriels'	
+1912				1912				a_démarré	Ce site de l'industrie papetière a démarré en 1912 pour la production de papier Kraft puis de papier pour carton ondulé.		

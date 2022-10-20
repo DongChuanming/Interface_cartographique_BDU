@@ -1,0 +1,28 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_mis_en_place	A noter, que 5 piézomètres de remplacement ont été mis en place les 18 et 19 mai 2015 sous la supervision d’un bureau d’étude, situés à proximité des anciens ouvrages portant les mêmes noms (HPzOb, PSudb, POuestb, P4b et HPzRb).	'HPzOb'	
+2010				2010				fin_de_travaux_de_mise_en_sécurité_et_de_dépollution	Le 03 mars 2011, l'exploitant a fait parvenir un rapport de fin de travaux de mise en sécurité et de dépollution réalisés en 2010 et 2011.		
+2011	03	03		2011	03	03		a_fait_parvenir	Le 03 mars 2011, l'exploitant a fait parvenir un rapport de fin de travaux de mise en sécurité et de dépollution réalisés en 2010 et 2011.		
+2010	08			2011	01			Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont été entrepris entre août 2010 et janvier 2011.		
+1949				1949				devient_acquéreur	En 1949, la société des Pétroles Shell devient acquéreur du site.		'la société des Pétroles Shell'
+2006				2006				Un_nouveau_diagnostic_environnemental	Un nouveau diagnostic environnemental a été réalisé en 2005 et 2006 au droit du site et des piézomètres ont été mis en place en 2007 au droit et en limite de la zone d’étude.		
+2005				2005				Un_nouveau_diagnostic_environnemental	Un nouveau diagnostic environnemental a été réalisé en 2005 et 2006 au droit du site et des piézomètres ont été mis en place en 2007 au droit et en limite de la zone d’étude.		
+2011				2011				a_été_vendu	A noter que le site a été vendu par la société des Pétroles Shell en 2011 à la société ADN IMMO, puis revendu à la société immobilière des Mousquetaires.		'la société des Pétroles Shell', 'la société ADN IMMO', 'la société immobilière des Mousquetaires'
+2014	01			2014	01			mis_à_jour	La Société des Pétroles SHELL a réalisé des investigations complémentaires (piézairs) et mis à jour en janvier 2014 son analyse des risques résiduels (ARR).		'La Société des Pétroles SHELL'
+1937				1937				était_exploité	Le site était exploité depuis 1937 comme dépôt d’essence.	'd’ essence'	
+2015	06	02		2015	06	02		a_ensuite_été_réalisé	Un suivi de la qualité des eaux souterraines a ensuite été réalisé en date du 2 juin 2015.		
+2007				2007				ont_été_mis_en_place	Un nouveau diagnostic environnemental a été réalisé en 2005 et 2006 au droit du site et des piézomètres ont été mis en place en 2007 au droit et en limite de la zone d’étude.		
+2000				2000				ont_été_découvertes	En effet, des fuites de carburants ont été découvertes en 2000 au droit du site.	'carburants'	
+2015	05	19		2015	05	19		ont_été_mis_en_place	A noter, que 5 piézomètres de remplacement ont été mis en place les 18 et 19 mai 2015 sous la supervision d’un bureau d’étude, situés à proximité des anciens ouvrages portant les mêmes noms (HPzOb, PSudb, POuestb, P4b et HPzRb).	'HPzOb'	
+2005				2005				a_cessé_son_activité	Le site a cessé son activité en 2005, avec un récépissé de déclaration de cessation d'activité effectué le 15 mars 2011.		
+2011	03	15		2011	03	15		a_cessé_son_activité	Le site a cessé son activité en 2005, avec un récépissé de déclaration de cessation d'activité effectué le 15 mars 2011.		
+2011				2011				fin_de_travaux_de_mise_en_sécurité_et_de_dépollution	Le 03 mars 2011, l'exploitant a fait parvenir un rapport de fin de travaux de mise en sécurité et de dépollution réalisés en 2010 et 2011.		
+2003				2004				a_été_mis_en_place	Un système d’écrémage et de récupération de la phase flottante a été mis en place entre 2003 et 2004 afin de contrôler les risques de migration et de transferts vers les eaux souterraines du produit surnageant.	'produit surnageant'	
+2000				2010				Différentes_phases_d__investigations	Différentes phases d’investigations ont été réalisées au droit du site entre 2000 et 2010.		
+2011	01			2011	01			a_débuté	Cette surveillance des eaux souterraines a débuté en janvier 2011.		
+2011	02			2011	02			une_analyse_des_risques_résiduels	Au regard des mesures effectuées en fond de fouille et dans les eaux souterraines, une analyse des risques résiduels a été réalisée en février 2011, qui a permis de conclure en la compatibilité du site avec l'usage futur alors considéré, à savoir : commerce et parking aérien.		
+1948				1948				la_reprise	Après la reprise de l’activité de dépôt d’essence en 1948, le site est racheté en 1949 sous la franchise de la société des Pétroles Shell et l’activité de distribution de carburant débute.	'carburant'	'la société des Pétroles Shell'
+2000				2003				a_été_évaluée	Par la suite, la situation environnementale du secteur d’étude a été évaluée entre 2000 et 2003.		
+				2013	08			a_été_observée	- la présence d’une phase flottante de faible épaisseur au droit de HPzO qui a été observée jusqu’en août 2013 (inclus).		'HPzO'
+2011	03	15		2011	03	15		effectué	Le site a cessé son activité en 2005, avec un récépissé de déclaration de cessation d'activité effectué le 15 mars 2011.		
+1949				1949				est_racheté	Après la reprise de l’activité de dépôt d’essence en 1948, le site est racheté en 1949 sous la franchise de la société des Pétroles Shell et l’activité de distribution de carburant débute.	'carburant'	'la société des Pétroles Shell'
+2013				2013				2_dernières_campagnes_de_l_	L’absence de produit depuis les 2 dernières campagnes de l’année 2013 est indicatrice d’une amélioration de la qualité des eaux sur cet ouvrage ;		

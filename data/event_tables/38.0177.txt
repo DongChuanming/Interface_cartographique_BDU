@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) a été réalisée au mois de juin 2002 par la société ATE GEOCLAN sur l'ensemble de la plateforme chimique.		'la société ATE GEOCLAN'
+1950				1960				a_été_remblayée	L'ensemble géologique constituant le site est issu de plusieurs remblais générés, pour la partie Nord de la zone, entre les années 1920 et 1951 tandis que la partie sud a été remblayée de 1950 à 1960.		
+2012	01			2012	01			un_diagnostic_des_sols	Suite au projet d'installation sur le site d'une unité de traitement de biomasse par incinération par la société TERIS, un diagnostic des sols a été mené par la société SITA Remédiation au mois de janvier 2012.		'la société TERIS', 'la société SITA Remédiation'
+1920				1951				remblais_générés	L'ensemble géologique constituant le site est issu de plusieurs remblais générés, pour la partie Nord de la zone, entre les années 1920 et 1951 tandis que la partie sud a été remblayée de 1950 à 1960.		
+1915				1915				fait_l__objet	Le site n'a fait l'objet d'aucune activité chimique depuis la création de la plateforme en 1915.		
+2012	04	06		2012	04	06		ont_été_réalisées	Des investigations complémentaires ont été réalisées par SITA Remédiation en date du 6 avril 2012.		'SITA Remédiation'
+1920				1920				remblais_accumulés	Le site est donc constitué de remblais accumulés depuis 1920.		
+1915				1915				création_de	Le site n'a fait l'objet d'aucune activité chimique depuis la création de la plateforme en 1915.		

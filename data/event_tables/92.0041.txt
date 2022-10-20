@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				la_cessation_d__activité	Un mémoire sur l'état du site a été transmis dans le cadre de la cessation d'activité en 1998 (complété en 1999).		
+2000				2000				constatées	Les teneurs en benzène dans la nappe constatées en 2000 ont disparu.	'benzène'	
+1998	03	31		1998	03	31		Arrêt_des_activités	Arrêt des activités le 31/03/1998.		

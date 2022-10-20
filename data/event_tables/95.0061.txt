@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	01			1989	01			exploitait	La Société ETAIN SOUDURE exploitait depuis janvier 1989, sur la zone industrielle du Parc Villemer de la commune de Le THILLAY, des locaux abritant une fonderie de métaux non ferreux, à base principalement de plomb.	'métaux non ferreux', 'plomb'	'La Société ETAIN SOUDURE'
+2005	01			2005	01			La_cessation_d__activité	La cessation d'activité de la société ETAIN SOUDURE est effective depuis janvier 2005.		'la société ETAIN SOUDURE'
+2001	06	13		2001	06	13		a_été_notifié	L’arrêté préfectoral d’autorisation réglementant l'exploitation du site a été notifié le 13 juin 2001.		

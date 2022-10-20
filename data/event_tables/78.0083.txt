@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09	28		2006	09	28		Une_évaluation_des_risques	Une évaluation des risques pour la santé et une évaluation des risques pour la ressource en eau ont été remises par le dernier exploitant le 28 septembre 2006.		
+2008	04			2008	04			La_seconde_tranche_d__excavation	La seconde tranche d'excavation a eu lieu aux mois de décembre 2007 et d'avril 2008.		
+1950				2007				a_exploité	La société NYCO a exploité de 1950 à 2007, sur un terrain de 14 000 m² situé au centre de la commune de Conflans Sainte Honorine, une usine de production de lubrifiants synthétiques destinés à l’aéronautique.	'lubrifiants synthétiques'	'La société NYCO'
+2009	02	03		2009	02	03		a_conclu	Une analyse des risques résiduels, transmise le 3 février 2009, a conclu que les concentrations résiduelles de polluants sont compatibles avec l'usage futur du site.		
+2007	12			2007	12			La_seconde_tranche_d__excavation	La seconde tranche d'excavation a eu lieu aux mois de décembre 2007 et d'avril 2008.		
+2011				2011				s__est_arrêtée	La surveillance des eaux souterraines de la nappe superficielle s'est arrêtée fin 2011, le réseau piézométrique a été inerté au 1er semestre 2012.		
+2009	02	03		2009	02	03		Une_analyse_des_risques	Une analyse des risques résiduels, transmise le 3 février 2009, a conclu que les concentrations résiduelles de polluants sont compatibles avec l'usage futur du site.		
+2012				2012				s__est_arrêtée	La surveillance des eaux souterraines de la nappe superficielle s'est arrêtée fin 2011, le réseau piézométrique a été inerté au 1er semestre 2012.		
+2015	04			2015	04			a_été_complété	Le dossier fournit a été complété en avril 2015.		
+2007	05			2007	05			Une_première_tranche_d__excavation	Une première tranche d'excavation de sols a été réalisée au mois d'avril et mai 2007.		
+				2013	11			s__est_poursuivie	La surveillance des eaux souterraines de la nappe du Lutétien s'est poursuivie jusqu'en novembre 2013.		
+2014	01			2014	01			l__institution_de	En janvier 2014, l'ancien exploitant a demandé au Préfet l'institution de servitudes d'utilité publique pour formaliser la nature et l'étendue des restrictions d'usage qui s'imposent, compte tenu de la pollution résiduelle des sols par endroit et des eaux souterraines.		
+1996				2002				Plusieurs_diagnostics	Plusieurs diagnostics de pollution des sols réalisés de 1996 à 2002 ont mis en évidence au niveau de six zones distinctes une pollution des sols par des teneurs importantes d'hydrocarbures totaux et d'alcools et des traces très localisées de composés organohalogénés volatils.	'hydrocarbures totaux', 'alcools', 'composés'	
+1999				1999				Une_étude_d__évaluation_simplifiée_des_risques	Une étude d’évaluation simplifiée des risques réalisée en 1999 a conclu à la nécessité de :		
+								Une_première_tranche_d__excavation	Une première tranche d'excavation de sols a été réalisée au mois d'avril et mai 2007.		
+								s__est_arrêtée	La surveillance des eaux souterraines de la nappe superficielle s'est arrêtée fin 2011, le réseau piézométrique a été inerté au 1er semestre 2012.		
+1997	07	1		1997	07	1		ont_cessé	Les activités de production ont cessé le 1er juillet 1997.		

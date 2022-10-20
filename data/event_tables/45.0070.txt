@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				____diagnostic_approfondi_de_pollution	2007 : diagnostic approfondi de pollution et plan de gestion.		
+1999	01			1999	01			la_cessation_d__activité	La société RAFFINERIE DU MIDI a déclaré en préfecture la cessation d’activité et le démantèlement des installations de ce dépôt en janvier 1999.		'La société RAFFINERIE DU MIDI'
+1925				1974				a_exploité	Précédemment, la société SHELL a exploité ce dépôt pétrolier de 1925 à 1974.		'la société SHELL'
+2015	01	16		2015	01	16		un_dossier_de_demande	Dans ce contexte, la société Raffinerie du Midi a déposé le 16 janvier 2015 un dossier de demande d'institution de servitudes d'utilité publique pour un usage futur tertiaire, commercial ou industriel du présent site.		'la société Raffinerie du Midi'
+1974				1974				a_été_confié	Ce dernier a été confié à la société RAFFINERIE DU MIDI en 1974 et ce jusqu’en 1995, date à laquelle l’arrêt de son exploitation a été décidé.		'la société RAFFINERIE DU MIDI'
+2012				2012				des_travaux_de_dépollution	En 2012, des travaux de dépollution de 5 zones les plus fortement impactées par des pollutions aux hydrocarbures et au plomb ont été réalisés :	'hydrocarbures', 'plomb'	
+2018				2018				des_travaux	Au cours de l'année 2018, l'exploitant a entrepris des travaux afin de supprimer les pollutions résiduelles, et ainsi de lever les servitudes d’utilité publique instituées dans le cadre de projet de reconversion du site pour un usage résidentiel..		
+2003				2003				____diagnostic_complémentaire_de_pollution_et_actualisation	2003 : diagnostic complémentaire de pollution et actualisation de l’ERS,		
+2015				2015				a_été_acquis	En 2015 le foncier a été acquis par LANDFORSE (société d'investissement dédiée à l'acquisition de foncier dégradés et de friches industriel), qui souhaite reconvertir le site pour un usage résidentiel.		'LANDFORSE'
+2016	11	25		2016	11	25		ont_été_instituées	Ces servitudes ont été instituées par arrêté préfectoral du 25 novembre 2016, et portent sur :		

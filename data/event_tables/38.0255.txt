@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	04		2012	04	04		du_déversement_de_produits_polluant	L'inspection a été informée du déversement de produits polluant dans le canal de Mouturier le 04/04/2012.	'produits polluant'	
+2013				2013				prévoit	La société PURFER DERICHEBOURG prévoit de transférer ses activités sur un autre terrain à la fin de l'année 2013.		'société PURFER DERICHEBOURG'
+1990	10	29		1990	10	29		Le_changement_d_	Le changement d'exploitant a été acté par l'arrêté du 29/10/1990.		
+2012	04	04		2012	04	04		a_été_informée	L'inspection a été informée du déversement de produits polluant dans le canal de Mouturier le 04/04/2012.	'produits polluant'	
+1975	05	15		1975	05	15		a_lui_fait_l__objet_d_	Le transit, tri et regroupement de déchet métallique a lui fait l'objet d'un arrêté signé en date du 15/05/1975.	'déchet métallique'	
+2012	02	20		2012	02	20		a_été_émis_le	Un arrêté préfectoral complémentaire n°2012-0510024 a été émis le 20/02/2012.		
+2006	12	08		2006	12	08		le_changement_d_	La société PURFER DERICHEBOURG a déclaré le changement d'exploitant du site par un courrier au préfet rédigé le 08/12/2006.		'La société PURFER DERICHEBOURG'
+2013				2013				de_transférer_ses_activités_sur_un_autre_terrain	La société PURFER DERICHEBOURG prévoit de transférer ses activités sur un autre terrain à la fin de l'année 2013.		'société PURFER DERICHEBOURG'
+2012	05	31		2012	05	31		une_étude_hydrogéologique	Pour répondre à l'arrêté préfectoral du 20/02/2012, suite à la pollution accidentelle du canal du Mouturier, une étude hydrogéologique a été réalisée sur le site par ICO Environnement le 31/05/2012.		
+2012	11	27		2012	11	27		déclaration	Elle bénéficie d'un récépissé de déclaration du 27/11/2012 pour l'ensemble de ses activités sur le site de Sainte Clair La Tour.		

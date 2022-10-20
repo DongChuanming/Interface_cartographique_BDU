@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Dans_le_cadre_de_la_procédure	Dans le cadre de la procédure de cessation d'activité, des diagnostics de sols ont été réalisés en 2003, 2006, 2007 et 2009.		
+2006				2006				Dans_le_cadre_de_la_procédure	Dans le cadre de la procédure de cessation d'activité, des diagnostics de sols ont été réalisés en 2003, 2006, 2007 et 2009.		
+2007				2007				Dans_le_cadre_de_la_procédure	Dans le cadre de la procédure de cessation d'activité, des diagnostics de sols ont été réalisés en 2003, 2006, 2007 et 2009.		
+2006				2006				fermeture_est	La fermeture est intervenue fin 2006.		'2006 .'
+2009				2009				Dans_le_cadre_de_la_procédure	Dans le cadre de la procédure de cessation d'activité, des diagnostics de sols ont été réalisés en 2003, 2006, 2007 et 2009.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984	01	10		1984	01	10		était_encadré_par	Le fonctionnement des installations, soumis à autorisation, était encadré par l'arrêté préfectoral du 10 janvier 1984.		
+2013	01	21		2013	01	21		a_été_transmis	Ce mémoire a été transmis au préfet le 21 janvier 2013.		
+2012	05	24		2012	05	24		a_imposé	Par arrêté du 24 mai 2012, le préfet du Bas-Rhin a imposé à l'exploitant :		'le préfet'
+								de_transmettre	- de transmettre sous un délai de 6 mois, au vu de leurs résultats, un mémoire précisant les mesures prises ou prévues pour assurer la protection de l'environnement et des futurs usagers du site.		
+2010	12			2010	12			a_été_adressé	Un mémoire de cessation d'activité portant sur un usage industriel du site a été adressé au préfet en décembre 2010.		'préfet'
+				2010	06	30		a_exploité	La société SEITA a exploité jusqu'au 30 juin 2010, 7 rue de la Krutenau à Strasbourg, une manufacture de tabac.	'tabac'	'La société SEITA'

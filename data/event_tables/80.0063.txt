@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	15		2004	06	15		a_été_adopté	Suite à une visite d'inspection, un arrêté préfectoral a été adopté le 15 juin 2004 prescrivant un suivi des eaux souterraines sur l'ensemble du site.		
+2004	01	23		2004	01	23		a_été_reçue	L'étude a été reçue le 23 janvier 2004.		
+2007	01			2007	01			Les_résultats_de_la_campagne	Les résultats de la campagne de janvier 2007 indiquent que les concentrations en nitrates, ammonium, chlorures et manganèse sont supérieures à la valeur de constat d'impact.	'nitrates', 'ammonium', 'chlorures', 'manganèse'	
+2003	07	04		2003	07	04		a_été_signé	Le 04 juillet 2003, un arrêté préfectoral a été signé, prescrivant à la société Saint Louis Sucre de réaliser un diagnostic de sol ainsi qu'une évaluation simplifiée des risques.		'la société Saint Louis Sucre'

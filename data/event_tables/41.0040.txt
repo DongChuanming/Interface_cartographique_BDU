@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				des_travaux_d__imperméabilisation	Pour la pollution résiduelle identifiée sous la dalle du sous-sol de l'habitation, inaccessible sans démolition du bâtiment, des travaux d'imperméabilisation ont été réalisés également en 2005 (film plastique et nouvelle dalle béton hydrofuge).		
+2012	02			2012	02			une_étude_qualitative_des_risques	La mise à jour du schéma conceptuel et une étude qualitative des risques réalisés en février 2012 mettent en évidence l'absence de risques en l'état actuel mais une absence de rabattement de la nappe sur site des eaux souterraines (le confinement hydraulique du site est toujours efficient grâce au cône de rabattement généré par le pompage de la nappe) pourrait engendrer une exposition aux hydrocarbures par ingestion indirecte.	'hydrocarbures'	
+2011	09			2011	09			Lors_d__une_visite	Lors d'une visite du site en septembre 2011 par les services de l'Inspection des Installations Classées, il a été mis en évidence la présence de déchets sur le sol, ainsi qu'une cuve de vidange enterrée et une fontaine de dégraissage non vidées.		
+2008				2008				ont_été_récupérés	Sur 2008-2011, 426 l d'hydrocarbures ont été récupérés par écrémage.	'hydrocarbures'	
+				2004				était_exploitée	Elle était exploitée jusqu'en 2004 par la société SARL FONTAINE sous enseigne TOTAL.	'TOTAL'	'la société SARL FONTAINE'
+2011				2011				ont_été_récupérés	Sur 2008-2011, 426 l d'hydrocarbures ont été récupérés par écrémage.	'hydrocarbures'	
+2008				2008				une_dépollution_complémentaire	Compte tenu de ces résultats et de l'existence de puits privés proches du site, une dépollution complémentaire a été mise en place en 2008 : traitement des sols autour et sous le bâtiment par venting, pompage des eaux polluées pour traitement par écrémage et filtration sur charbon actif.	'charbon actif'	
+2011	10			2011	10			26_sondages	En octobre 2011 26 sondages entre 6 et 7 m de profondeur sont réalisés et 4 nouveaux piézomètres d'une profondeur de 10 m sont installés.		
+2011				2011				ont_été_rachetés	L'habitation et le magasin ont été rachetés par TOTAL en 2011 en vue de leur démolition.		
+2005				2005				ont_été_démantelées	Les installations pétrolières ont été démantelées en 2005. 2 campagnes de dépollution ont été réalisées (excavation de 1200 t de terres polluées).		
+2011	06			2011	06			racheter	L'opportunité de l'arrêt de l'activité exercée sur le site et du départ des occupants de l'habitation a permis à la société TOTAL de racheter le site en juin 2011 pour pouvoir accéder à la pollution résiduelle et la traiter après avoir procédé à la démolition des bâtiments.		'la société TOTAL'
+2011	08			2012				Deux_campagnes_de_suivi_analytique	Deux campagnes de suivi analytique de la qualité des eaux souterraines, des gaz du sol et de l'air ambiant de l'habitation ont été menées entre août 2011 et févier 2012.		
+				2011	11			a_ensuite_été_mené	Un diagnostic complémentaire a ensuite été mené entre octobre et novembre 2011.		
+2006				2006				a_été_dissoute	La SARL FONTAINE a été dissoute en 2006.		'La SARL FONTAINE'

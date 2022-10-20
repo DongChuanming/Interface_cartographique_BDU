@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	03			1997	03			Évacuation	- Évacuation des terres souillées au niveau de la zone de stockage des ferrailles et à l'emplacement de la cuve à fioul (231 tonnes) en juin 1996 et mars 1997.	'fioul'	
+1996	06			1996	06			Évacuation	- Évacuation des terres souillées au niveau de la zone de stockage des ferrailles et à l'emplacement de la cuve à fioul (231 tonnes) en juin 1996 et mars 1997.	'fioul'	
+1994				1994				a_cessé_son_activité	Cette société a cessé son activité sur le site en 1994.		

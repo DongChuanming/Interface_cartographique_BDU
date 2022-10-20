@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1913				1913				est_implantée	La fonderie BOT est implantée sur le site depuis sa création en 1913.		'BOT'
+2006	06	1		2006	06	1		déclare	Le 1er juin 2006, le directeur de BOT déclare que le projet de cession est abandonné.		'le directeur de BOT'
+2007	10	15		2007	10	15		une_contamination_permanente	Au total, 7 campagnes ont été effectuées indiquant une contamination permanente des eaux souterraines en Manganèse (maximum  1 700 µg/l le 15/10/2007, 1 400 µg/l le 02/04/2008).	'Manganèse'	
+2004	01			2004	01			des_investigations_complémentaires	Afin de compléter le diagnostic initial mené en novembre 2003 des investigations complémentaires dans le sol ont été réalisées par le CTIF en janvier 2004.		'le CTIF'
+2003	11			2003	11			Évaluation_Simplifiée_des_Risques	L'Évaluation Simplifiée des Risques a été réalisée en novembre 2003 par le CTIF et a été transmise à l'Inspection des Installations Classées le 25 mai 2004. 9 sondages ont été réalisés jusqu'à des profondeurs de 4 m et 4 piézomètres ont été implantés sur le site.		'le CTIF'
+2004	05	25		2004	05	25		Évaluation_Simplifiée_des_Risques	L'Évaluation Simplifiée des Risques a été réalisée en novembre 2003 par le CTIF et a été transmise à l'Inspection des Installations Classées le 25 mai 2004. 9 sondages ont été réalisés jusqu'à des profondeurs de 4 m et 4 piézomètres ont été implantés sur le site.		'le CTIF'
+1998	12	01		1998	12	01		Cette_étude_de_sol	Cette étude de sol a été imposée par arrêté préfectoral du 01/12/1998.		
+1982	11	30		1982	11	30		a_été_autorisée	L'activité de fonderie de fonte et de dépôt de ferraille a été autorisée par le biais de l'arrêté préfectoral du 30/11/1982.		
+2006	04	04		2006	04	04		ont_été_traitées	La Société BOT a transmis à l'Inspection des Installations Classées un rapport indiquant que les trois zones souillées par les hydrocarbures ont été traitées le 4 avril 2006.	'hydrocarbures'	'La Société BOT'
+2008	04	02		2008	04	02		une_contamination_permanente	Au total, 7 campagnes ont été effectuées indiquant une contamination permanente des eaux souterraines en Manganèse (maximum  1 700 µg/l le 15/10/2007, 1 400 µg/l le 02/04/2008).	'Manganèse'	
+2004	05	25		2004	05	25		a_été_transmise	L'Évaluation Simplifiée des Risques a été réalisée en novembre 2003 par le CTIF et a été transmise à l'Inspection des Installations Classées le 25 mai 2004. 9 sondages ont été réalisés jusqu'à des profondeurs de 4 m et 4 piézomètres ont été implantés sur le site.		'le CTIF'
+2006	04			2006	04			Un_diagnostic_plomb_a_été_mené	Un diagnostic plomb a été mené sur le site par la société ANTEA au mois d'avril 2006.		'la société ANTEA'
+2006	02	17		2008	04	02		a_eu_lieu	Un suivi de la qualité des eaux souterraines a eu lieu sur le site entre le 17/02/2006 et le 02/04/2008.		
+2006	09	26		2006	09	26		ont_été_notées	Des concentrations élevées en cis-dichloroéthène (360 µg/l) ont été notées le 26/09/2006 et le 13/12/2006.	'cis - dichloroéthène'	
+2006	03	20		2006	03	20		cours_de_la_campagne	Les valeurs des analyses après prélèvements superficiels des sols, effectués au cours de la campagne du 20 mars 2006 pour la recherche du plomb, montrent sur les 12 points prélevés, des teneurs en plombs entre 11 mg/kg et 260 mg/kg.	'plomb', 'plombs'	
+2006	04			2006	04			au_mois_d_	Un diagnostic plomb a été mené sur le site par la société ANTEA au mois d'avril 2006.		'la société ANTEA'
+				2006	12	13		ont_été_notées	Des concentrations élevées en cis-dichloroéthène (360 µg/l) ont été notées le 26/09/2006 et le 13/12/2006.	'cis - dichloroéthène'	

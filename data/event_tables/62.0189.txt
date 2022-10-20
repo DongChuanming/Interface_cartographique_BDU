@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04			2012	04			Traitement	- Traitement du site par sparging/venting des alcools et des composés volatils au droit de la zone utilisée pour le stockage de cuves de solvants, en avril 2012.	'alcools', 'des composés volatils', 'cuves de solvants'	
+2009				2009				Excavation_de_terres_impactées	- Excavation de terres impactées aux COHV (90m3, 249.84 Tonnes) en 2009, puis remblaiement avec des matériaux sains et mise en place d'une couverture d'argile.		
+2009	06			2009	06			Réalisation_d__un_diagnostic_de_pollution	- Réalisation d'un diagnostic de pollution et d'une analyse des risques résiduels en juin 2009 qui révèle une pollution sols et eaux souterraines.		
+2007	01	15		2007	01	15		Arrêt_total_de	- Arrêt total de l'activité le 15/01/2007.		
+2006	11	24		2006	11	24		__Mise_en_liquidation_judiciaire	- Mise en liquidation judiciaire depuis le 24/11/2006.		
+2012	10	19		2012	10	19		Rapport_de_fin_de_travaux_en	- Rapport de fin de travaux en date du 19/10/2012.		
+2010	12	23		2010	12	23		__Vente_du_site	- Vente du site le 23/12/2010 à la SARL DEBARGE IMMO.		'la SARL DEBARGE IMMO'

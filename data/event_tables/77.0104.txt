@@ -1,7 +1,6 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1934									l__implantation	l__usine_SILEC							
-2002				2002					excavées								
-2003				2003					l__ont_été								
-2003				2003					ont_été_nettoyées	Les_cuves_à_fioul_inutilisées							
-2005	08	05		2005	08	05			prescrit_par								
-2006				2006					L__étude_remise								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	08	05		2005	08	05		un_diagnostic	Compte-tenu de son activité (utilisation de fours à plomb) et de son historique, ce site a fait l'objet d'un diagnostic de la qualité des sols, prescrit par arrêté préfectoral du 5 août 2005, dans le cadre de l'action nationale sur les sites potentiellement pollués au plomb.	'plomb', 'plomb'	
+2002				2002				excavées	Les cuves à fioul inutilisées ( bâtiment TTC, MP2 et R5) ont été nettoyées, dégazées, puis excavées ou inertées en 2002, d'autres l'ont été en 2003 (bâtiment GA, MTC, U, V).	'fioul inutilisées'	
+2003				2003				l__ont_été	Les cuves à fioul inutilisées ( bâtiment TTC, MP2 et R5) ont été nettoyées, dégazées, puis excavées ou inertées en 2002, d'autres l'ont été en 2003 (bâtiment GA, MTC, U, V).	'fioul inutilisées'	
+2006				2006				L__étude_remise	L'étude remise fin 2006 a porté sur 15 prélèvements de sol, sur site et dans l'environnement.		
+2002				2002				ont_été_nettoyées	Les cuves à fioul inutilisées ( bâtiment TTC, MP2 et R5) ont été nettoyées, dégazées, puis excavées ou inertées en 2002, d'autres l'ont été en 2003 (bâtiment GA, MTC, U, V).	'fioul inutilisées'	

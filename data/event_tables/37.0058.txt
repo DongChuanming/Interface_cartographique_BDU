@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	03			2018	03			des_compléments_au_dossier_de_cessation_d__activité	En mars 2018 des compléments au dossier de cessation d’activité ont été effectués par la société GALTIER EXPERTISE ENVIRONNEMENT pour la société LOISEAU TOURAINE.		'la société GALTIER EXPERTISE ENVIRONNEMENT', 'la société LOISEAU TOURAINE'
+2014	12	19		2014	12	19		Un_audit_de_pollutions	Un audit de pollutions des sols a été réalisé le 19 décembre 2014 et a porté sur la réalisation de 8 sondages réalisés au niveau des emplacements des 10 cuves enterrées exploitées sur le site (5 ayant été retirées avant la réalisation de l'étude et les 5 autres étant toujours présentes sur site).		
+2014	12			2014	12			ont_été_dégazées	- parmi les 5 cuves toujours présentes, deux d’entre elles ont été nettoyées et dégazées en novembre 2008 et les trois autres ont été dégazées et inertées en décembre 2014 ;		
+2008	11			2008	11			ont_été_nettoyées	- parmi les 5 cuves toujours présentes, deux d’entre elles ont été nettoyées et dégazées en novembre 2008 et les trois autres ont été dégazées et inertées en décembre 2014 ;		
+2018	08	16		2018	08	16		par_courrier	Des éléments complémentaires ont été transmis par courrier du 16 août 2018, l'étude transmise met en évidence la vulnérabilité des eaux souterraines nécessitant une surveillance à minima sur 2 campagnes.		
+2015	02	25		2015	02	25		la_notification	La 25 février 2015, la notification de cessation d’activité a été déclarée à la Préfecture.		
+1972				2015				a_accueilli	De 1972 à 2015, il a accueilli une activité de dépôt de liquides inflammables et d’alcool soumis à déclaration.	'liquides inflammables'	
+2018	08	16		2018	08	16		ont_été_transmis	Des éléments complémentaires ont été transmis par courrier du 16 août 2018, l'étude transmise met en évidence la vulnérabilité des eaux souterraines nécessitant une surveillance à minima sur 2 campagnes.		

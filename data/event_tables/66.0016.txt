@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970	01	20		1970	01	20		Autorisation	Autorisation par arrêté préfectoral du 20 janvier 1970.		
+2002	08			2002	08			Etude_de_remise_en_état_du	Etude de remise en état du site SIEE, diagnostic amiante, août 2002		'SIEE'
+2003	01			2003	01			Etude	Etude hydrologique SIEE de janvier 2003		

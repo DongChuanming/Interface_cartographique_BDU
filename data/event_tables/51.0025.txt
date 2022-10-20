@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	05		2004	10	05		Une_réunion	Une réunion technique s\'est tenue le 5 octobre 2004 (exploitant-DRIRE-DDASS, Communauté de l\'Agglomération Rémoise, hydrogéologue agréé) afin de discuter des résultats du diagnostic approfondi et de l\'évolution du dossier.		
+2004				2004				ont_été_menées	Des investigations et études complémentaires ont été menées courant 2003 et 2004.		
+2000	05			2000	05			L_évaluation_simplifiée_des_risques	L\'évaluation simplifiée des risques du site, demandée par arrêté préfectoral du 20 mai 1998, a été transmise dans sa version complète en mai 2000 : elle a mis en évidence une pollution des eaux souterraines et des sols par des solvants chlorés et des hydrocarbures.	'solvants chlorés', 'hydrocarbures'	
+								a_été_dégradé	Dans les années 1970, le réseau d\'eaux pluviales a été dégradé par du chlorure ferrique.	'chlorure ferrique'	
+2000	07	18		2000	07	18		un_diagnostic_approfondi	Compte-tenu des éléments constatés, un diagnostic approfondi et une étude détaillée des risques ont été demandés par arrêté préfectoral du 18 juillet 2000.		
+2002	07			2002	07			risques_ont_été_transmis	Une première version (très incomplète) du diagnostic approfondi et de l\'étude détaillée des risques ont été transmis en juillet 2002.		
+1998	05	20		1998	05	20		L_évaluation_simplifiée_des_risques	L\'évaluation simplifiée des risques du site, demandée par arrêté préfectoral du 20 mai 1998, a été transmise dans sa version complète en mai 2000 : elle a mis en évidence une pollution des eaux souterraines et des sols par des solvants chlorés et des hydrocarbures.	'solvants chlorés', 'hydrocarbures'	
+2005	06	20		2005	06	20		a_proposé_un_programme_de_surveillance	A la date du 20 juin 2005, l\'exploitant a proposé un programme de surveillance de la nappe plus adapté aux caractéristiques de la pollution.		
+2006	07	26		2006	07	26		une_réunion	Le 26 juillet 2006, une réunion de travail a été organisée sur le site pour faire le point sur les actions de dépollution engagées par l\'exploitant.		
+2009	03			2009	03			Dépollution	- Dépollution pour des teneurs en dichloroéthylène élevées détectées lors des travaux ci-dessus (mars 2009)	'dichloroéthylène'	
+								a_été_constatée	Au début des années 1980, l\'absence de rétention sous les stockages et dépotages de solvants et produits chlorés a été constatée par procès verbal.	'produits chlorés'	
+2006	07	01		2006	07	01		__Début_du_confinement_hydraulique	Pour le 01/07/2006 : Début du confinement hydraulique de la nappe si nécessaire		
+2003				2003				ont_été_menées	Des investigations et études complémentaires ont été menées courant 2003 et 2004.		
+2004				2004				Campagne_de_sondage_sol	- Campagne de sondage sol dans la zone du puit PZ 2004-2 afin de caractériser à nouveau cette zone		

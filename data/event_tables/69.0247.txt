@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				supprimée	Ses activités étaient classées sous l'ancienne rubrique n°329 A (supprimée en 2010 et remplacée par la rubrique 2714).		
+2012	03	28		2012	03	28		cessation_d__activité_reçu	.C. a décidé de cesser son activité sur le site de Villeurbanne, soumettant à l’inspection un mémoire de cessation d’activité reçu le 28 mars 2012.		
+1996	01	16		1996	01	16		un_arrêté	.C disposait également d’un arrêté portant agrément de l’activité de valorisation des déchets d’emballage en date du 16 janvier 1996.	'valorisation des déchets d’'	
+2012	01	11		2012	01	11		des_investigations_sur_les_sols	Dans le cadre de la réalisation du mémoire de cessation d'activité, des investigations sur les sols (14 sondages) ont été réalisées par Bureau Véritas, mandaté par OTC, le 11 janvier 2012.		'Bureau Véritas', 'OTC'

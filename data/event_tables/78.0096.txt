@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Le_1er_diagnostic	Le 1er diagnostic porté à la connaissance de l'administration date de 2006.		
+2011	06			2011	06			Un_diagnostic	Un diagnostic résiduel de pollution a été réalisé au mois de juin 2011.		
+2011				2011				a_été_racheté	Le site a été racheté en 2011 et réutilisé pour une activité de lavage automobile.		
+2010	10	30		2010	10	30		avait_mis_ses_installations_à_l__arrêt_définitif	L’exploitant a indiqué qu’il avait mis ses installations à l’arrêt définitif le 30 octobre 2010.		
+2010	10			2010	10			a_transmis	Il a transmis au mois d'octobre 2010 le dossier de cessation d'activité.		
+2010	04			2010	04			a_été_complété	Il a été complété en avril 2010.		
+2007	05	09		2007	05	09		a_été_pris_acte	Par récépissé du 9 mai 2007, il a été pris acte de la déclaration de la succession de la société des Pétroles Shell par la société OIL FRANCE pour l’exploitation des installations classées situées sur le site.		'la société des Pétroles Shell', 'la société OIL FRANCE'
+								Des_travaux_de_réhabilitations	Des travaux de réhabilitations ont été réalisés au 1er semestre 2011.		
+1978				1978				a_été_occupé	A partir de 1978, le site a été occupé par une station service exploitée par la société des Pétroles SHELL soumise aux rubriques 1434-1b (distribution de carburant) et 1432-2b (stockage de carburant) de la nomenclature des installations classées.	'carburant', 'carburant'	'la société des Pétroles SHELL'
+2011				2011				a_été_mis_en_sécurité	Le site a été mis en sécurité (déchets évacués, tuyauteries démontées, cuves dégazées et inertées) au début de l'année 2011.		
+2011				2011				Des_travaux_de_réhabilitations	Des travaux de réhabilitations ont été réalisés au 1er semestre 2011.		
+				2011	05			Ces_travaux	Ces travaux se sont déroulés du mois d'avril au mois de mai 2011. 210 tonnes de terres ont été excavées et acheminées vers des filières de traitement réglementaires.		
+2010	10	30		2010	10	30		a_indiqué_qu_	L’exploitant a indiqué qu’il avait mis ses installations à l’arrêt définitif le 30 octobre 2010.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	30		2003	12	30		a_été_mise_en_liquidation_judiciaire	La société NERGUISIAN a été mise en liquidation judiciaire le 30/12/2003 par jugement du Tribunal de commerce de Lyon.		'La société NERGUISIAN'
+2003	08	05		2003	08	05		délivré	Ce projet a fait l'objet d'un permis de construire délivré le 05/08/2003.		
+1997	07	24		1997	07	24		un_arrêté_d__autorisation	La société NERGUISIAN bénéficie d’un arrêté d’autorisation d'exploiter des activités de teinturerie et d’impression sur des tissus en date du 24/07/1997.		'La société NERGUISIAN'
+2003	08	05		2003	08	05		un_permis_de_construire	Ce projet a fait l'objet d'un permis de construire délivré le 05/08/2003.		
+2004	04	05		2004	04	05		a_informé	La société a informé la Préfecture de la cessation de ses activités par courrier du 05/04/2004.		'La société', 'la Préfecture'
+2004	05	06		2004	05	06		Visite_d__inspection	IV – AVIS DE L'INSPECTION ET PROPOSITION (Visite d'inspection du 06/05/2004 et rapport du 28/09/2004)		"L' INSPECTION"
+1966				1966				l__implantation	Avant l’implantation de la société NERGUISIAN en 1966, le site était exploité pour partie par un rosiériste et affecté à un usage agricole pour le reste.		'la société NERGUISIAN'
+2004	04	05		2004	04	05		a_transmis	Dans le cadre de la cessation totale de ses activités, la société NERGUISIAN a transmis un dossier de cessation d’activités comportant une "étude de sols" dans les formes réglementaires applicables par courrier du 05/04/2004.		'la société NERGUISIAN'

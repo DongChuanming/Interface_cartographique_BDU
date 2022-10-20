@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	11	24		2003	11	24		a_cessé_ses_activités	Cette entreprise a cessé ses activités depuis le 24 novembre 2003 et un mandataire judiciaire a été nommé.		
+2000				2000				Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques de l'ensemble du site réalisée en 2000, incluant les activités exercées par le passé par la société PECHINEY RHENALU (notamment l'exploitation d'une fonderie), avait conduit à un classement du site en classe 2, à surveiller avec absence d'impact réel à ce jour sur la nappe et teneurs modérées dans les sols (trichloroéthylène, CIS 1.2 dichloréthylène et tétraclhoroéthène).	'trichloroéthylène', 'CIS 1.2 dichloréthylène', 'tétraclhoroéthène'	'la société PECHINEY RHENALU'
+2004	06	16		2004	06	16		Une_visite	Une visite des installations le 16 juin 2004 a mis en évidence la présence :		
+2007	04	27		2007	04	27		issue_du_contrôle	A l'issue du contrôle du 27 avril 2007 :		
+2012	08	16		2012	08	16		a_été_délivré_au_liquidateur_judiciaire	Le 16 août 2012, un récépissé de déclaration concernant la cessation d'activité de cette entreprise a été délivré au liquidateur judiciaire.		
+2007	07	31		2007	07	31		été_réalisé_le	Un diagnostic des sols de l'ancien bâtiment  Delage Electrolising été réalisé le 31 juillet 2007 (missionné par Rubanox).		'  Delage Electrolising', 'par Rubanox'
+2008				2008				interrompue	La surveillance de la nappe interrompue depuis 2008 a été demandée à maître CLANET par arrêté préfectoral de mise en demeure en date du 21 février 2012.		
+2009	07			2009	07			fin_de_travaux_de	Selon le rapport de fin de travaux de juillet 2009 écrit par Rubanox (propriétaire du site) :		'Rubanox'
+2012	02	21		2012	02	21		a_été_demandée	La surveillance de la nappe interrompue depuis 2008 a été demandée à maître CLANET par arrêté préfectoral de mise en demeure en date du 21 février 2012.		

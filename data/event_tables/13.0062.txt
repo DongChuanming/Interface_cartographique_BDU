@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988	11	07		1988	11	07		d__autorisation	. d'autorisation du 04/07/1988, 07/11/1988, 08/10/1991, 15/06/1999 et les APC du 09/05/2000, 21/10/2002, 06/06/2003, 26/05/2004, 12/05/2009 et du 10/11/2010.		
+1986				1986				existant	Il s'agit d'un dépôt logistique existant depuis 1986 en Z.		
+2003				2003				Une_inondation	Une inondation s'est produite fin 2003 sur la Z.		
+1999	06	15		1999	06	15		d__autorisation	. d'autorisation du 04/07/1988, 07/11/1988, 08/10/1991, 15/06/1999 et les APC du 09/05/2000, 21/10/2002, 06/06/2003, 26/05/2004, 12/05/2009 et du 10/11/2010.		
+1988	07	04		1988	07	04		d__autorisation	. d'autorisation du 04/07/1988, 07/11/1988, 08/10/1991, 15/06/1999 et les APC du 09/05/2000, 21/10/2002, 06/06/2003, 26/05/2004, 12/05/2009 et du 10/11/2010.		
+1999	06	16		1999	06	16		a_été_réalisée	. du 16 juin 1999 a été réalisée (classe 3).		
+1991	10	08		1991	10	08		d__autorisation	. d'autorisation du 04/07/1988, 07/11/1988, 08/10/1991, 15/06/1999 et les APC du 09/05/2000, 21/10/2002, 06/06/2003, 26/05/2004, 12/05/2009 et du 10/11/2010.		
+2004	05	26		2004	05	26		un_APC_du	L’établissement est assujetti au suivi piézométrique au titre de l'art "65" bien que ne présentant pas de signe de vulnérabilité vis à vis du sous-sol; ces prescriptions font l'objet d'un APC du 26 mai 2004 faisant suite à une première campagne de mesures et remplaçant celui du 05 juin 2003.		
+								Mesures	Mesures sur 3 piézomètres incluant BTEX et Organochlorés selon fréquence annuelle, pas d'anomalies (au 11/10/11).	'BTEX', 'Organochlorés'	

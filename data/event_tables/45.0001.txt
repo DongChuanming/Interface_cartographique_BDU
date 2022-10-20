@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			décharge_arrêtée	La mise en dépôt des déchets de caoutchouc a désormais cessé (décharge arrêtée en juin 1999).	'déchets de caoutchouc'	
+2003	02			2003	02			Une_Étude_Simplifiée_des_Risques	Une Étude Simplifiée des Risques (ESR) faite en février 2003, note le site en classe 1 (dit "site nécessitant de plus amples investigations").		
+2004	01			2004	01			est_effectif	L'ensemble est effectif depuis janvier 2004.		
+2003	02			2003	02			ESR___faite	Une Étude Simplifiée des Risques (ESR) faite en février 2003, note le site en classe 1 (dit "site nécessitant de plus amples investigations").		
+1999	06			1999	06			a_désormais_cessé	La mise en dépôt des déchets de caoutchouc a désormais cessé (décharge arrêtée en juin 1999).	'déchets de caoutchouc'	
+2003	07			2003	07			une_étude_hydrogéologique	Des incertitudes demeurant, une étude hydrogéologique du site a été présentée en juillet 2003.		

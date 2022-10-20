@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				1963				a_été_créée	L’usine Mann + Hummel France (anciennement STMP – Société de Transformation des Matières Plastiques) a été créée en 1963 sur le site du Point du Jour à Laval et était spécialisée dans la fabrication de réservoirs en plastique pour l’automobile.		'Mann + Hummel France', 'STMP', 'Société de Transformation des Matières Plastiques'
+1980				1980				a_été_absorbée	Elle a été absorbée en 1980 par le groupe Solvay qui a été lui-même racheté en 2003 par MANN + HUMMEL.		'le groupe Solvay', 'MANN + HUMMEL'
+2006				2006				un_dossier_de_cessation_d__activité	La société MANN-HUMMEL, exploitant du site industriel, soumis à autorisation selon la réglementation ICPE, a réalisé un dossier de cessation d'activité en 2006.		'La société MANN - HUMMEL'
+2006				2006				Un_état_des_lieux	Un état des lieux avait été réalisé en 2006 à le demande de MANN-HUMMEL dans le cadre de la cessation d'activité.		'MANN - HUMMEL'
+1999				1999				a_racheté	Par ailleurs Solvay a racheté en 1999 le hangar agricole Ford situé à proximité du site pour en faire un magasin de stockage des moules et des vieux équipements.		'Solvay'
+2012	2011			2012	2011			a_fait_procéder	En 2011/2012 LAVAL AGGLOMÉRATION a fait procéder à la déconstruction - désamiantage - dépollution  du site suite à son rachat du site.		'LAVAL AGGLOMÉRATION'
+2003				2003				racheté	Elle a été absorbée en 1980 par le groupe Solvay qui a été lui-même racheté en 2003 par MANN + HUMMEL.		'le groupe Solvay', 'MANN + HUMMEL'
+2013	06			2013	06			a_été_réalisé	Le rapport a été réalisé en juin 2013.		

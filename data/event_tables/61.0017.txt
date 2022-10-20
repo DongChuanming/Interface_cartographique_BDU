@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02			2004	02			Ces_études_ont_été_remises	Ces études ont été remises en février 2004 et concluent à la nécessité de mettre en place une surveillance des eaux souterraines au droit du site.		
+2010	10			2010	10			Cette_étude_a_été_remise	Cette étude a été remise à l'inspection en octobre 2010 ; elle met en évidence l'existence d'un impact sur la qualité des eaux souterraines au droit du site (Chlorure, Bromure, Chrome, benzène, COHV) et l'absence d'impact sur l'état des milieux à l'extérieur du site.	'Chlorure', 'Bromure', 'Chrome', 'benzène', 'COHV'	
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'
+1962				1962				implantée	Usine implantée à Haleine depuis 1962 sur le site d'une ancienne centrale thermique.		

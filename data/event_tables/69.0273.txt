@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	07		2010	05	07		à_été_remis	Le 07/05/2010, un rapport de synthèse environnementale dans le cadre de la cessation d'activité du site à été remis à l'administration.		
+2010	04	28		2010	04	28		a_mis_en_œuvre	Dans le cadre de la cessation d'activité du site, SOTRA SEPEREF a mis en œuvre  le 28/04/2010, l'enlèvement d'une cuve enterrée de fioul domestique et l'excavation des sols au droit de la cuve.	'de fioul domestique'	'SOTRA SEPEREF'
+2010	05	12		2010	05	12		La_notification_de_cessation_d__activité	La notification de cessation d'activité a été adressée à M. le Préfet le 12/05/2010.		'le Préfet'
+2010	04	28		2010	04	28		__l__enlèvement_d_	Dans le cadre de la cessation d'activité du site, SOTRA SEPEREF a mis en œuvre  le 28/04/2010, l'enlèvement d'une cuve enterrée de fioul domestique et l'excavation des sols au droit de la cuve.	'de fioul domestique'	'SOTRA SEPEREF'
+2010	07	30		2010	07	30		a_cessé_ses_activité	La société a cessé ses activité le 30/07/2010.		
+2008	04	29		2008	04	29		a_été_déposé	Un dossier d'autorisation d'exploiter a été déposé le 29/04/2008.		

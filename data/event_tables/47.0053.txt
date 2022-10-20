@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07	09		2002	07	09		demande	Le 9 juillet 2002, Monsieur le Préfet demande une enquête sur le site		'Préfet'
+2003	01	07		2003	01	07		déclare	Le 7 janvier 2003, l'exploitant déclare la cessation définitive de ses activités.		
+2002	06	16		2002	06	16		dresse_un_procès_verbal	Le 16 juin 2002, la gendarmerie dresse un procès verbal pour l'exploitation d'une entreprise de stockage et de récupération de véhicules hors d'usage sans l'autorisation requise et dans des conditions ne respectant pas les intérêts mentionnés à l'article L.511-1 du Code de l'Environnement.		
+2000	03	1		2000	03	1		l__exploitation_du_site_a_commencé	D'après la déclaration d'activité au Tribunal de Commerce d'Agen, l'exploitation du site a commencé au 1er mars 2000.		
+2016	07	20		2016	07	20		n__ont_pas_été_transmises	Au 20 juillet 2016, les analyses des eaux souterraines prescrites dans l'arrêté préfectoral du 30 septembre 2002 n'ont pas été transmises.		
+2002	12	30		2002	12	30		informe	Par courrier du 30 décembre 2002, l'exploitant informe le Préfet de la cessation définitive de ses activités et demande un délai de trois mois pour libérer le site de son stockage afin de cesser son activité.		'le Préfet'

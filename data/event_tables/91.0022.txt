@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01			2001	01			a_été_transmise	L'ESR a été transmise en janvier 2001 et complétée en juillet 2001.		
+2004	03			2004	03			a_été_remis	Un mémoire de cessation d'activités a été remis à l'inspection en mars 2004.		
+2008	05			2008	05			transmis	Un document transmis en mai 2008 fait un bilan sur la surveillance de la qualité des eaux souterraines et indique que le piézomètre de contrôle a été détruit.		
+2008				2008				de_travaux_de_démolition	Le site a fait l'objet de travaux de démolition fin 2007- début 2008.		
+2004	06	17		2004	06	17		il_a_été_demandé	Par lettre du 17 juin 2004, il a été demandé à l'exploitant de procéder à la remise en état du site.		
+1969				1969				a_été_construit	Le site a été construit en 1969.		
+2004	11			2004	11			Un_diagnostic_détaillé_a_donc_été_réalisé	Un diagnostic détaillé a donc été réalisé en novembre 2004 afin de déterminer la stratégie de traitement de ce site.		
+2007				2007				de_travaux_de_démolition	Le site a fait l'objet de travaux de démolition fin 2007- début 2008.		
+2008				2008				a_fait_l__objet	Le site a fait l'objet de travaux de démolition fin 2007- début 2008.		
+2004	06			2004	06			a_déposé_le_mémoire_de_cessation_d__activité	L'exploitant a déposé le mémoire de cessation d'activité en juin 2004.		
+2003	12	03		2003	12	03		la_cessation_d__activité_industrielle	La société Nicosofra qui vient aux droits de Sofra PCB par suite d'une procédure de fusion-absorption a déclaré la cessation d'activité industrielle de ce site le 3 décembre 2003.	'PCB'	'La société Nicosofra', 'Sofra'
+1998	10	28		1998	10	28		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 28 octobre 1998.		
+2007				2007				a_fait_l__objet	Le site a fait l'objet de travaux de démolition fin 2007- début 2008.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				propriété_de	Les terrains sont, depuis 2005, propriété de la SCI ZA LANTEGIA.		'SCI ZA LANTEGIA'
+								La_campagne_du	La campagne du 01/10/09 montre que la situation est satisfaisante et montre une diminution des concentrations par rapport celle de 2007 : Chrome amont < 10 µg/l (pz2), chrome aval < 10 µg/l (pz3), ammonium amont 0.81 mg/l(pz2), ammonium aval : 2.23 mg/l (pz3).	'Chrome', 'chrome', 'ammonium', 'ammonium'	
+								commencée	Une procédure collective commencée le 14/01/04 est toujours en cours.		
+2006	02			2006	02			L__étude_des_sols_transmise	L'étude des sols transmise par le Mandataire en février 2006 identifie des zones polluées et révèle un impact significatif de la nappe en ammonium et en Chrome III.	'ammonium', 'Chrome III'	
+2005	03	22		2005	03	22		remettre_l__étude_finale	L'arrêté préfectoral du 22 décembre 2004 met l'exploitant en demeure de remettre l'étude finale avant le 22 mars 2005.		
+2000	04	08		2000	04	08		L__exploitation	L'exploitation de cet établissement est autorisée par l'arrêté préfectoral du 8 avril 2000.		
+2000	02			2000	02			est_remis	Le rapport d'étape A est remis en février 2000.		
+2004	01	12		2004	01	12		la_liquidation_judiciaire	Suite à la liquidation judiciaire du 12 janvier 2004, l'arrêté du 6 juin 2005 met le mandataire liquidateur en demeure de déclarer la cessation d'activité et de remettre le diagnostic des sols.		
+2010	09			2010	09			La_campagne_basses_eaux	La campagne basses eaux de septembre 2010 .....à valider.... montre des traces en chrome total en PZ3 11 µg/l et en ammonium en PZ1 et PZ2 1 et 2,3 mg/l.	'chrome total', 'PZ3', 'ammonium', 'PZ1', 'PZ2'	
+2008	03	20		2008	03	20		Le_mandataire_liquidateur_transmet	Le mandataire liquidateur transmet le mémoire de cessation d'activité le 20/03/2008 qui comporte les certificats d'élimination des déchets.		
+2008	03			2008	03			a_transmis	La préfecture a transmis à l'inspection en mars 2008 le rapport de cessation d'activité réalisée par le mandataire liquidateur judiciaire maître Guerin.		
+1986				1986				exploité_par	Anciens ateliers de retannage et de teinturerie de peaux déjà tannées exploité par la Société Tannerie de Villefranque sur la commune de Villefranque (64) depuis 1986.		'la Société Tannerie de Villefranque'
+2007	02			2007	02			La_campagne_de	La campagne de février 2007 montre que :		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	30		2006	05	30		Une_visite	Une visite de l'inspection des installations classées s'est déroulée le 30 mai 2006 et fait état :		
+2008	06	23		2008	06	23		a_transmis	La société TRILOGIE a transmis, par mail du 23 juin 2008, les résultats d'analyses de sol suites à 8 sondages sur le site.		'La société TRILOGIE'
+2008	06	23		2008	06	23		a_demandé	L’inspection des installations classées a demandé à cette occasion à l'exploitant, par mail du 23 juin 2008, de bien vouloir informer le préfet des conditions dans lesquelles cette cessation d'activité avait été réalisée (démantèlement de l'installation, remise en état du site, etc.).		
+2010	10	05		2010	10	05		est_mis_en_demeure_de_déposer	Par arrêté préfectoral du 5 octobre 2010, l’exploitant est mis en demeure de déposer un dossier de cessation d'activité, avec proposition de mesures de gestion et d'usage futur du site en lien avec la collectivité.		
+2010	08	30		2010	08	30		une_visite	L’inspection des installations classées a réalisé une visite du site le 30 août 2010.		
+2007	02	19		2007	02	19		a_été_transférée	L’activité a été transférée en 2007 sur la commune de Chazey-Bon et autorisé par arrêté préfectoral du 19 février 2007.		
+2007				2007				a_été_transférée	L’activité a été transférée en 2007 sur la commune de Chazey-Bon et autorisé par arrêté préfectoral du 19 février 2007.		
+2006	06	02		2006	06	02		demande	Par courrier du 2 juin 2006, l'inspection des installations classées demande dans l'attente du transfert du site de la ZA de La Pélissière vers la ZAC de Penaye à Chazey-Bons, :		
+1999	06	08		1999	06	08		__exploite	La société TRILOGIE  (ex DUMAS ENVIRONNEMENT) exploite une station de transit de boues d'hydrocarbures, sur la commune de Belley la ZA de La Pélissière, autorisé par arrêté préfectoral du 8 juin 1999.	'de boues', "d' hydrocarbures"	'La société TRILOGIE', 'ex DUMAS ENVIRONNEMENT'

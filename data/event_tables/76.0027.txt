@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05	17		1999	05	17		une_étude_historique	A la suite d'un arrêté préfectoral du 9 octobre 1998, une étude historique et une ESR ont été réalisées (17 mai 1999), classant ce site en classe 2 : site à surveiller.		
+1998	10	09		1998	10	09		une_étude_historique	A la suite d'un arrêté préfectoral du 9 octobre 1998, une étude historique et une ESR ont été réalisées (17 mai 1999), classant ce site en classe 2 : site à surveiller.		
+1972				1972				des_sondages_géotechniques	Les coupes géologiques réalisées lors des sondages géotechniques de 1972 (construction de l'unité U2) montrent que les alluvions tant au nord qu'au sud ont été extraites (8 m au nord et 10 m au sud).		
+2000	06	02		2000	06	02		ont_été_imposées	Les prescriptions complémentaires fixant le mode de surveillance (du méthane) ont été imposées par arrêté préfectoral du 02 juin 2000.	'méthane'	
+1955				1955				a_acheté	En 1955, la société NOBEL a acheté à la société DEVAUX la carrière dite carrière Devaux et y a enfoui des déchets jusqu'en 1965.		'la société NOBEL', 'société DEVAUX'
+1900				1900				Le_début_de	Le début de l'exploitation de granulats est probablement antérieur à 1900.		

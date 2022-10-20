@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10	21		2002	10	21		a_été_présenté	Ce dossier a été présenté au conseil départemental d’hygiène le 21 octobre 2002.		
+2001	06			2001	06			la_réalisation_des_travaux_de_dépollution	Le responsable du site a entrepris en juin 2001 la réalisation des travaux de dépollution.		
+2003				2003				Les_travaux_de_dépollution	Les travaux de dépollution du site qui devaient être réalisés en 2003 ont été retardés.		
+2002	08	30		2002	08	30		a_été_adressé	Un projet de réaménagement du site reprenant ces recommandations a été adressé par la société BRF à monsieur le préfet de l'ESSONNE le 30 août 2002.		'la société BRF', 'le préfet'
+1989				1989				a_cessé_ses_activités	La briqueterie Richard a cessé ses activités en 1989.		'La briqueterie Richard'
+2005	11	17		2005	11	17		a_été_pris	L'arrêté portant institution de servitudes d'utilité publique a été pris le 17 novembre 2005.		
+2002	04	18		2002	04	18		Cette_étude_a_été_présentée	Cette étude a été présentée le 18 avril 2002 aux représentants de la municipalité de Breuillet et examinée par la DRIRE.		'Breuillet', 'la DRIRE'
+2003	03	06		2003	03	06		a_été_pris	Cet arrêté préfectoral a été pris le 6 mars 2003.		
+				2004	10			ont_eu_lieu	Ils ont eu lieu de la mi-juin à début octobre 2004.		
+				2005	06	18		L__enquête_publique	L'enquête publique s'est déroulée du 18 mai au 18 juin 2005.		

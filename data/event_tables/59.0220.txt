@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				l__arrêt	Suite à l'arrêt fin 2010 de la fabrication des chromates de plomb, la production de l'usine d'Halluin s’organise aujourd'hui autour de deux ateliers de fabrication :	'chromates', 'plomb'	
+1999	07			1999	07			l__étude_de_sols_phase_A_réalisée	- Une source de pollution identifiée et deux sources de pollution potentielles ont été mises en évidence suite à l'étude de sols phase A réalisée en juillet 1999		
+2001	04			2001	04			est_en_place	- Une surveillance des eaux est en place depuis avril 2001.		
+2000	09			2000	09			réalisée	- Phase B réalisée en septembre 2000 pour la source identifiée, le bassin de décantation.		

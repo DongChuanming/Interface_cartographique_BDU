@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980				1980				est_exploité	Le centre d’enfouissement technique de Noyelles-sur-Escaut est exploité depuis 1980 et a été fermé le 30 juin 2002.		
+2004	05	22		2004	05	22		cessation_d__activité_remis	Dossier de cessation d'activité remis le 22 mai 2004.		
+2006	06	06		2006	06	06		un_PV_de_récolement	Les travaux de couverture ont fait l'objet d'un PV de récolement le 6 juin 2006 qui atteste la conformité des travaux de remise en état du site.		
+2006	04	10		2006	04	10		n_arrêté	n arrêté du 10 avril 2006 donnant acte de la cessation d'activité et imposant un réaménagement ainsi que le suivi post exploitation est pris.		
+1997	12			1997	12			a_plus_de_prélèvement	Il n’y a plus de prélèvement dans le château d’eau depuis décembre 1997 suite à l’abandon du captage par la commune de Noyelles sur Escaut.		
+1980				1998				a_été_exploitée	La zone I dite « zone ancienne » a été exploitée de 1980 à 1998.		
+2002	06	30		2002	06	30		à_la_fermeture_du_site	La zone II a été exploitée depuis l’automne 1998 jusqu’à la fermeture du site le 30 juin 2002.		
+2002	06	30		2002	06	30		a_été_fermé	Le centre d’enfouissement technique de Noyelles-sur-Escaut est exploité depuis 1980 et a été fermé le 30 juin 2002.		
+1999				1999				a_été_bouché	En 1999 le PZ2 a été bouché et remplacé par le PZ5.		'PZ2', 'le PZ5'
+				1995				ont_été_utilisés	Deux piézomètres ont été utilisés jusqu’au premier semestre 1995 (PZ1, PZ2).		

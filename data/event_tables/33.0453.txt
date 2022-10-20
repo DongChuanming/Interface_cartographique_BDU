@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	04	03		2015	04	03		informe	Le 03/04/2015, le liquidateur informe l'inspection de la clôture de la liquidation par le Tribunal de Commerce par jugement du 08/01/2015.		'le Tribunal de Commerce'
+2015	04	14		2015	04	14		ont_été_transmis	Des courriers d'information sur la situation du site ont été transmis le 14/04/2015 au Maire et au propriétaire.		
+2015	01	08		2015	01	08		jugement	Le 03/04/2015, le liquidateur informe l'inspection de la clôture de la liquidation par le Tribunal de Commerce par jugement du 08/01/2015.		'le Tribunal de Commerce'
+				2011	06	30		a_été_exploitée	La station-service a été exploitée jusqu'au 30 juin 2011, date à laquelle elle cesse définitivement son activité suite à la liquidation judiciaire de son exploitant.		
+2011				2012				Les_travaux_de_démantèlement	Les travaux de démantèlement ont été effectués entre 2011 et 2012.		

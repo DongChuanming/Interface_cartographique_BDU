@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1953	03	09		1953	03	09		l__exploitation_fut_autorisée_par	> Il s'agit d'une ancienne sablière dont l'exploitation fut autorisée par la mairie de Hégenheim le 9 mars 1953 au bénéfice de la Maison Portmann (exploitant).		'la Maison Portmann'
+2014	05	22		2014	05	22		la_réalisation_d__une_étude	> Arrêté préfectoral complémentaire du 22/05/2014 prescrit à l'exploitation la réalisation d'une étude "eaux souterraines".		
+1975	03	13		1975	03	13		réglemente	> Le 13/03/1975, un arrêté préfectoral, adressé à la société Hupfer, pour une durée limitée de 10 ans réglemente l'extraction et le remblaiement.		'la société Hupfer'
+1966	07	10		1966	07	10		autorise	> Le 10/07/1966 la préfecture du Haut-Rhin autorise l'exploitant à rejeter des effluents provenant des eaux de lavage de la carrière venant d'installations de traitement situées en Suisse au Sud de la commune.	'effluents'	
+1995	08	16		1995	08	16		récolement_partiel	> Procès Verbal (PV) de récolement partiel du 16/08/1995 : il concerne les terrains du tracé  de la  nouvelle rue des Carrières et des terrains historiques au Nord-Ouest de cette rue :		
+2013	12	30		2013	12	30		__Dépôt	> Dépôt en préfecture le 30/12/2013 du dossier de cessation définitive d’activité de la Société GMR.		'la Société GMR'
+1983	04	29		1983	04	29		informe	> Le 29/04/1983, l'exploitant informe la mairie de Hégenheim d'une eau brune et rouge arrivant dans la carrière à partir de la canalisation d'assainissement.		
+1999	06			1999	06			mise_en_place_d_	> En juin 1999, mise en place d'un autre piézomètre en amont du site.		
+1995	08	16		1995	08	16		compte_du_PV_de_récolement	> AP du 31/05/1999 portant prescriptions complémentaires : révision du parcellaire d’exploitation autorisé, garanties financières de remise en état ; la superficie résiduelle de la carrière dont il est fait état : 9,65 ha tenant compte du PV de récolement du 16/08/1995 et du transfert partiel d’exploitation à la Société KIBAG, parait erroné);		'exploitation à la Société KIBAG'
+2014	02	27		2014	02	27		__Dépôt_en_préfecture	> Dépôt en préfecture le 27/02/2014, étude hydrogéologique transmise par la Société GMR.		'la Société GMR'
+2013	12	30		2013	12	30		Cessation_d__activité	Cessation d'activité le 30/12/2013.		
+1953				2013				exploitée	Il s'agit d'une ancienne carrière exploitée de 1953 à 2013 par de multiples exploitants.		
+1991				1991				est_renforcée	> En 1991, la surveillance des eaux souterraines au droit du site est renforcée avec la mise en place d'un piézomètre en aval du site.		

@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	09			1997	09			a_été_remis	Ce rapport a été remis à la DRIRE en septembre 1997.		'la DRIRE'
+1915				1915				a_été_créée	La plate-forme chimique de LE PONT DE CLAIX a été créée en 1915 pour la fabrication du chlore et de ses dérivés.	'chlore', 'ses dérivés'	'PONT DE CLAIX'
+2009	03			2009	03			mis_en_place	Cette pollution accidentelle a été résorbée du fait d’une part de l’atténuation naturelle depuis l’incident, et d’autre part du traitement par sparging-venting mis en place en mars 2009.		
+1984				1999				a_fait_l__objet	La plate-forme a fait l'objet entre 1984 et 1999 de plusieurs arrêtés préfectoraux qui prescrivent la mise en œuvre des mesures suivantes :		
+								mesures_d__urgence	- pollution de la nappe au mononitrotoluène et dinitrotoluène issue de l'atelier DNT entre fin 2005 et début 2007 (mesures d'urgence en date du 20/12/05 - pas d'extension de la pollution à l'extérieur de la plate-forme - source de pollution désormais traitée) ;	'mononitrotoluène', 'dinitrotoluène'	'DNT'
+2008	08	28		2008	08	28		a_été_acté	Le changement d'exploitant de la société RHODIA à PERSTOP a été acté par le Préfet de l'Isère via un arrêté signé le 28/08/2008.		'la société RHODIA', 'PERSTOP', 'le Préfet'
+1985				1985				a_été_arrêtée	La production de PCB a été arrêtée en 1985.	'PCB'	
+2000	06			2000	06			a_été_transmis	Le rapport a été transmis à l'administration en juin 2000.		
+1947				1987				a_produit	Entre 1947 et 1987, la société Rhône-Poulenc a produit du diphényle et du terphényle à partir du benzène, puis des polychlorobiphényles par chloration du diphényle dans l’atelier diélectriques situé à l’Est du carreau d’implantation J4.	'diphényle', 'du terphényle', 'benzène', 'polychlorobiphényles', 'diphényle'	'la société Rhône - Poulenc'
+2008	08	28		2008	08	28		signé	Le changement d'exploitant de la société RHODIA à PERSTOP a été acté par le Préfet de l'Isère via un arrêté signé le 28/08/2008.		'la société RHODIA', 'PERSTOP', 'le Préfet'
+2005	06			2005	06			a_été_remis	Le rapport a été remis en juin 2005.		
+1945				1945				s__est_orientée	A partir de 1945, elle s'est orientée ensuite dans la chimie de spécialités et de services : isocyanates, produits agropharmaceutiques, solvants chlorés, huiles et diélectriques spéciaux, ...	'isocyanates', 'produits agropharmaceutiques', 'solvants chlorés', 'huiles', 'diélectriques spéciaux'	
+								a_été_prescrite	Cette surveillance a été prescrite par arrêté préfectoral en date du 26/04/07.		
+1983				1983				ont_été_recensés	Des engins militaires enfouis, disséminés sont potentiellement présents dans différentes zones du site. (ceux ci ont été recensés dès 1983)	'Des engins militaires'	
+2000	03			2000	03			a_été_remis	Le rapport a été remis à la DRIRE en mars 2000.		'la DRIRE'
+2012	06	01		2012	06	01		Le_nouveau_changement	Le nouveau changement d'exploitant a été acté le 01/06/2012.		
+1956				1979				exploitée	Outre des zones polluées au droit de différents ateliers, le site comprend une ancienne décharge interne (appelée "décharge Ouest") de 76500 tonnes de résidus dont 25000 tonnes de déchets organiques chlorés, exploitée de 1956 à 1979, ainsi qu'une zone de stockage de terres de fouille et de déblais dont une partie contient des traces de PCB ou d'isomères HCH.	'déchets organiques chlorés', 'PCB', 'HCH'	
+1998	12			1998	12			a_été_remis	Le rapport a été remis à la DRIRE en décembre 1998.		'la DRIRE'
+2012	12			2012	12			a_remis	En décembre 2012, l'exploitant a remis à l’administration une synthèse de l'ensemble des études disponibles à ce jour concernant la décharge Ouest.		
+2008				2008				la_transmission	Cet arrêté demande également la transmission à fin 2008 de propositions techniques pour réduire l'impact des principales sources de pollution, avec délais de réalisation.		

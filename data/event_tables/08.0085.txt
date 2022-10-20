@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	17		2012	12	17		a_été_signé	Un arrêté préfectoral complémentaire relatif à la mise en place d'une étude sur l'état du site a été signé le 17 décembre 2012.		
+1980				1980				a_cessé	Dans les années 1980-1981, le site a cessé d'être utilisé en décharge et a été recouvert de terre végétale.		
+1981				1981				a_cessé	Dans les années 1980-1981, le site a cessé d'être utilisé en décharge et a été recouvert de terre végétale.		
+2012	04	18		2012	04	18		une_première_étude	La mairie de Grivy Loisy a fourni, une première étude le 18 avril 2012 en complément d'une demande de certificat d'urbanisme.		
+2013	10	22		2013	10	22		a_fourni_une_nouvelle_étude	La mairie a fourni une nouvelle étude le 22 octobre 2013.		
+2012	06	14		2012	06	14		Une_seconde_étude_a_été_fourni	Une seconde étude a été fourni le 14 juin 2012, celle-ci a été jugée insuffisante pour caractériser la décharge et détecter les éventuelles pollutions et impacts sanitaires qui en découlent.		

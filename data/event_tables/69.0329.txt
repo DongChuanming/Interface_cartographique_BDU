@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10			2003	10			La_première_évaluation	La première évaluation de la qualité des sols et des eaux du site a été remise en octobre 2003 par la société UNIVAR qui est propriétaire du site.		'la société UNIVAR'
+								un_traitement_physico___chimique	Bien que l'analyse des risques résiduels démontre l'absence de risque sanitaire, il est indiqué en conclusion du rapport qu'un traitement physico-chimique sera réalisé sur la nappe à partir de mai 2010 pour une durée de 6 mois.		
+2009	03	26		2009	03	26		a_été_fourni	Un plan de gestion a été fourni le 26 mars 2009.		
+2005	11	30		2005	11	30		Ces_études_ont_été_fournies	Ces études ont été fournies le 30 novembre 2005.		
+2011	10	18		2011	10	18		a_transmis	=> L'exploitant a transmis les éléments suivants par courrier du 18 octobre 2011.		
+2010	04	23		2010	04	23		de_la_prise_d__échantillon	Pour cette analyse, les polluants pris en compte sont les valeurs des HCT et HAP résiduels dans les sols des maille E et F, et les valeurs des COHV dans les eaux souterraines au niveau du PZ5 lors de la prise d'échantillon du 23 avril 2010.	'HCT', 'HAP', 'COHV'	
+2010				2010				Des_opérations_de_dépollution	Des opérations de dépollution ont été réalisée en 2010.		
+2007	02	02		2007	02	02		un_rapport_envoyé	L’EDR a été actualisée dans un rapport envoyé le 2 février 2007.		
+2010	04			2010	04			a_débuté	Il est également recommandé que le suivi quadriennal de la qualité des eaux souterraines qui a débuté en avril 2010 sur les paramètres HCT, HAP et métaux lourds se poursuivra après les 6 mois de traitement de la nappe.	'HCT', 'HAP', 'métaux lourds'	

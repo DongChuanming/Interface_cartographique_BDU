@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09	28		2016	09	28		un_diagnostic_établi_de_pollution_des_sols	Le 8 mars 2018, l'exploitant a transmis à l’inspection des installations classées, un diagnostic établi de pollution des sols au droit de l'ancien bâtiment de stockage démoli, le 28 septembre 2016.		
+								a_été_exploité	Le site a été exploité depuis la fin des années 70 pour les activités successives de stockage de fourrages, de céréales puis aujourd'hui d'engrais et de produits phytopharmaceutiques.		'produits phytopharmaceutiques'
+2015				2015				a_été_réaménagé	En 2015, le site a été réaménagé avec la construction de nouveaux bureaux.		
+2016	09			2016	09			une_étude_de_sols	En septembre 2016, dans le cadre de la cessation partielle d’activité, la société CAPROGA a mené, une étude de sols au droit du bâtiment détruit.		'la société CAPROGA'
+2019	07	16		2019	07	16		a_transmis	Le 16 juillet 2019, l'exploitant a transmis à l'inspection des installations classées une synthèse du contexte géologique et hydrogéologique.		
+2018	03	08		2018	03	08		un_diagnostic_établi_de_pollution_des_sols	Le 8 mars 2018, l'exploitant a transmis à l’inspection des installations classées, un diagnostic établi de pollution des sols au droit de l'ancien bâtiment de stockage démoli, le 28 septembre 2016.		
+2019	01	09		2019	01	09		Une_réunion	Une réunion le 9 janvier 2019, a eu lieu entre l'exploitant et l'inspection des installations classées.		
+2018	04	26		2018	04	26		a_demandé	Le 26 avril 2018, l'inspection des installations classées a demandé à l'exploitant de compléter le diagnostic en précisant notamment les mesures prises ou prévues pour assurer la protection des intérêts mentionnés à l’article L.511-1 du code de l'environnement, compte tenu du ou des types d’usage prévus au droit de l’installation démantelée, notamment la caractérisation de la qualité des eaux souterraines.		

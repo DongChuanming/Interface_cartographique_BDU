@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2006				des_campagnes	Cependant, les analyses sffectuées lors des campagnes de 2003 à 2006 ont montré régulièrement perturbées (PZ à sec, présence de boues).		
+2002				2002				L__activité	L'activité du dépôt a cessé en 2002.		
+1999				1999				une_étude_simplifiée	A la demande de l'administration, une étude simplifiée des risques de pollution des sols a été conduite fin d'année 1999.		
+2011				2011				une_nouvelle_campagne_d__analyses	L'inspection a demandé en 2011 une nouvelle campagne d'analyses des hydrocarbures totaux sur les 3 piézomètres du site en assurant qu'ils soient tous en eau, étant donné le manque de données sur les dernières années.	'hydrocarbures totaux'	
+2000	09	11		2000	09	11		ne_peut_être_levée	A noter qu'en vertu de l'arrêté préfectoral du 11 septembre 2000, la surveillance des eaux souterraines ne peut être levée qu'après validation du CODERST, Conseil Départemental de l'Environnement et des Risques Sanitaires et Technologiques.		"Conseil Départemental de l' Environnement"

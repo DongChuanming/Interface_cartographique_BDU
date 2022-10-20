@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	08	23		2006	08	23		Une_visite_de_récolement	Une visite de récolement par l'inspection s'est déroulée le 23 août 2006.		
+2003	06	30		2003	06	30		arrêt_définitif	L'arrêt définitif des dépôts de déchets industriels au 30 juin 2003 est prescrit par l'AP du 28 février 2003.	'déchets industriels'	
+2003	02	23		2003	02	23		l__achèvement_des_travaux_tels_que_prescrits	- l'achèvement des travaux tels que prescrits par l'AP du 23 février 2003 ;		
+2015				2015				réactivée	Elle devrait être réactivée en 2015.		
+1997				1997				ne_sont_plus_déposées	A partir de 1997, les brasques ne sont plus déposées dans la décharge mais celles-ci sont réutilisées au travers d'une filière de valorisation.		
+2005				2005				mise_en_place	Cette amélioration est due selon l’exploitant à la couverture semi-perméable mise en place en 2005 d’une part, et à l’incision du lit de l’Arc depuis 2008 d’autre part, qui a induit un abaissement du niveau moyen de la nappe d’accompagnement et donc un contact moindre des eaux souterraines avec les déchets stockés dans la décharge.	'les déchets'	
+2014				2014				ont_été_transmis	Ces éléments ont été transmis début 2014 et une nouvelle visite, valant visite de récolement des travaux, a pu être effectuée le 29/01/14.		
+2003	07			2003	07			rapport	Le dimensionnement, assuré par la société HYDRATEC, a fait l’objet du rapport n°19409 de juillet 2003.		'société HYDRATEC'
+1988				1988				sont_évacués	- En 1988 : 15 000 à 20 000 m3 de déchets inertes sont évacués vers le lieu dit l'Ilaz entre la RN6 et l'Arc afin de libérer du volume pour le dépôt de déchets non inertes.		'la RN6'
+								une_nouvelle_visite	Ces éléments ont été transmis début 2014 et une nouvelle visite, valant visite de récolement des travaux, a pu être effectuée le 29/01/14.		
+								ont_été_transmis	Ces éléments ont été transmis début 2014 et une nouvelle visite, valant visite de récolement des travaux, a pu être effectuée le 29/01/14.		
+								a_ainsi_été_signé	Le projet de SCPE a ainsi été signé par M. le maire le 23/01/08.		
+1978				2003				a_exploité	L'usine Aluminium Péchiney de Saint-Jean-de-Maurienne a exploité entre 1978 et 2003 (AP d'autorisation du 20 juin 1996), sur la commune de Saint-Julien-Montdenis, au lieu-dit "Les Fontagneux", un centre de stockage de déchets industriels, sur un terrain d'une superficie de 2,5 hectares, propriété de la commune de Saint-Julien-Montdenis.	'Aluminium', 'stockage de déchets industriels'	'Péchiney'
+2008	01	18		2008	01	18		a_pris_une	Le 18 janvier 2008, le conseil municipal de St Julien Montdenis a pris une délibération par laquelle il		'le conseil'

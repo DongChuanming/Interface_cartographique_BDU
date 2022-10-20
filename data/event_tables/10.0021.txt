@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	28		2003	02	28		a_été_transmis	Un complément d'étude a été transmis par l'exploitant le 28 février 2003.		
+1998	12	22		1998	12	22		Le_diagnostic_initial	Le diagnostic initial, phase A, a été fourni le 22/12/1998.		
+2001	03	23		2001	03	23		évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été fournie le 23 mars 2001, elle a fait l'objet d'une demande de compléments par courrier du 10 avril 2001.		
+1998	05	14		1998	05	14		Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 14/05/1998 dans le cadre de la circulaire du 3 avril 1996.		
+2001	05	04		2001	05	04		a_été_reçue	La réponse a été reçue le 4 mai 2001.		

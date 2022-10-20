@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								d__enlever_les	Compte tenu du projet, il a été demandé à la société KHOR Immobilier, responsable des travaux, d'enlever les sources de pollution lors des travaux de démolition devant se dérouler au cours du 1er trimestre 2006.		'la société KHOR Immobilier'
+2000	06	13		2000	06	13		un_mémoire_de_cessation_d__activité	La société Ortec à transmis à la DRIRE un mémoire de cessation d'activité le 13 juin 2000.		'La société Ortec', 'la DRIRE'
+								a_été_imposée	Une surveillance des eaux souterraines superficielles du site a été imposée par un APC du 7/02/01.		
+								se_dérouler	Compte tenu du projet, il a été demandé à la société KHOR Immobilier, responsable des travaux, d'enlever les sources de pollution lors des travaux de démolition devant se dérouler au cours du 1er trimestre 2006.		'la société KHOR Immobilier'
+2001	02	07		2001	02	07		une_Évaluation_Simplifiée_des_Risques	Par arrêté préfectoral complémentaire du 07 février 2001, il a été prescrit à la Société ORTEC Environnement une Évaluation Simplifiée des Risques étapes A et B.		'la Société ORTEC Environnement'
+1900				1900				exploitait	Cette société avait repris les activités de la Société SGAE qui exploitait le site depuis 1900 environ.		'la Société SGAE'
+				2005	01	11		__nettoyage_complet	- nettoyage complet de l'ancien système de décantation et curage des sols de surface du 4 au 11 janvier 2005,		
+2006				2006				d__enlever_les	Compte tenu du projet, il a été demandé à la société KHOR Immobilier, responsable des travaux, d'enlever les sources de pollution lors des travaux de démolition devant se dérouler au cours du 1er trimestre 2006.		'la société KHOR Immobilier'
+2006				2006				se_dérouler	Compte tenu du projet, il a été demandé à la société KHOR Immobilier, responsable des travaux, d'enlever les sources de pollution lors des travaux de démolition devant se dérouler au cours du 1er trimestre 2006.		'la société KHOR Immobilier'
+2007	02			2007	02			des_prélèvements_de_sols	Lors de leur réalisation sur le site en février 2007, des prélèvements de sols ont été réalisés.		
+1992	05			1999	08			a_exploité	La société ORTEC Environnement a exploité, sur son site d'une surface de 6 720 m2, entre mai 1992 et août 1999, un stockage aérien de déchets industriels.	'déchets industriels'	'La société ORTEC Environnement'
+2005	05	11		2005	05	11		prélèvement_et_analyse	- prélèvement et analyse en laboratoire agréé des eaux souterraines le 11 mai 2005.		
+2008	07	02		2008	07	02		a_été_fourni	Un tel document a été fourni le 02 juillet 2008.		
+2007	02			2007	02			de_leur_réalisation_sur_le_site	Lors de leur réalisation sur le site en février 2007, des prélèvements de sols ont été réalisés.		

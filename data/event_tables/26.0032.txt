@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1835				1835				depuis_l__implantation	Un nombre important de sociétés se sont succédées sur ce site depuis l’implantation  en 1835 d’une manufacture de coton peint puis d’une usine d’armement par l’Etat Français.		
+2002	05			2002	05			ont_été_transmis	Un premier programme d'investigation du diagnostic approfondi et de l'EDR ont été transmis à l'administration en mai 2002.		
+2001	10	29		2001	10	29		L___évaluation_simplifiée_des_risques	L’ évaluation simplifiée des risques (ESR)transmise le 29 octobre 2001 par M.le Maire de Bourg-lès-Valence a mis en évidence :		'M.le Maire', 'Bourg-lès-Valence'
+2006	01	17		2006	01	17		a_été_débloquée	La première phase a été débloquée par la signature d'une servitude conventionnelle au profit de l’État le 17 janvier 2006 (la seconde phase correspondra à l'aménagement de la partie du site aujourd'hui en attente d'affectation).		

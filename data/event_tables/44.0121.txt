@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				2000				a_été_exploitée	– zone A : une partie de la parcelle n°BA 1 (14 788 m2) où le terrain a été exploitée entre 1970 et 2000 (entrepôt et bureaux, 2 cuves enterrées de fioul domestiques),	'de fioul domestiques'	
+2015	06			2016	03			ont_été_transmis	Les éléments ont été transmis au préfet de juin 2015 à mars 2016.		'préfet'
+				2015	06	19		a_fait_l__objet	La zone de "la chaufferie masse" a fait l’objet de travaux d’excavation du 5 au 19 juin 2015.		
+				2014	09			a_perduré	– zone B : une partie de la parcelle n° BA 1 (126 092 m2) et la parcelle AZ 6 (11 426 m2) où l’activité de fabrication de cigarette a perduré jusqu’en septembre 2014.	'de cigarette'	

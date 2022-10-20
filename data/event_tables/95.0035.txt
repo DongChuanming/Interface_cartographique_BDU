@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2004	06	22		La_campagne_d__intervention	La campagne d’intervention s’est déroulée du 10 au 22 juin 2004 au cours de laquelle trois piézomètres ont été mis en place sur le site.		
+2002	05			2002	05			Les_travaux	Les travaux d'évacuation des déchets toxiques présents sur le site ont été réalisés en mai 2002 par l'Ademe.	'déchets toxiques'	
+2003	09	19		2003	09	19		exécution_de_travaux_d__office_a_été_pris	Par ailleurs, un arrêté préfectoral d’exécution de travaux d’office a été pris en date du 19 septembre 2003, chargeant l’ADEME de procéder à l’implantation de piézomètres et de réaliser une campagne d’échantillonnage et d'analyse des eaux souterraines.		
+2003				2003				a_été_clôturée	La liquidation a été clôturée fin 2003.		
+2001				2001				a_été_lancée	Une procédure visant à réaliser des travaux de mise en sécurité du site a été lancée en 2001.		
+								a_été_pris	L'arrêté préfectoral de travaux d'office a été pris le 08/01/02 chargeant l'ADEME de procéder à l'élimination des déchets abandonnés sur le site.	'des déchets abandonnés'	
+1997	12	22		1997	12	22		a_été_placée_en_liquidation_judiciaire	Elle a été placée en liquidation judiciaire le 22/12/1997, elle a cessé ses activités laissant le site en l'état.		

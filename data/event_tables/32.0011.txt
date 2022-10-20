@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	01	21		2013	01	21		la_cessation_d__activité	Suite au transfert de cette usine vers un autre site, la cessation d'activité a été imposée à l'exploitant par l'arrêté préfectoral du 21 janvier 2013.		
+1966				2009				ont_été_exploitées	Les activités de traitement de surface et d'application de peinture ont été exploitées sur le site de 1966 à 2009.		
+2017	03	01		2017	03	01		a_proposé_la_mise_en_place_de_servitudes_de_restriction	Toutefois, l'exploitant a proposé la mise en place de servitudes de restriction (arrêté préfectoral du 01 03 2017) notamment pour l'utilisation du bâtiment et de l'ensemble du site.		

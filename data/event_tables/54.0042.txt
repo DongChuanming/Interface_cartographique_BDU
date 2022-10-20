@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	1991			1992	1991			Etude_diagnostic	Etude diagnostic réalisée en 1991/1992.		
+1910				1970				constitué	Crassier de laitier de hauts fourneaux granulé constitué de 1910 à 1970, en cours d'exploitation, par la sté EUROVIA (a repris le site à la société HERGOTT), pour valorisation des matériaux en technique routière.	'la'	'la sté EUROVIA', 'société HERGOTT'

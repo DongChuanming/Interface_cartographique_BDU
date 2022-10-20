@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_été_bouché_définitivement	Le puits LA026 a été bouché définitivement en 1992.		
+1994				1994				ont_fait_l__objet	Ces installations ont fait l'objet en 1994 de dossiers de délaissement de travaux miniers et ont été considérés acquis par l'Administration par courrier du 11/08/1995.		
+1993				1993				a_été_transmis	Le rapport de fermeture définitive a été transmis à la DRIRE en 1993.		'la DRIRE'

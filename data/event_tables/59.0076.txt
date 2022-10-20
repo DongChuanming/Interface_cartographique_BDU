@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	01			2007	01			Des_investigations	Des investigations des sols et des gaz des sols ont donc été menées en Janvier 2007.		
+2011	12	02		2011	12	02		La_campagne_de_surveillance	La campagne de surveillance des eaux souterraines de 02/12/2011 montre : des concentrations en hydrocarbures inférieures à la limite de quantification, des concentrations en métaux inférieures aux limites de qualité et valeurs guides de l’organisation mondiale de la santé.	'hydrocarbures', 'métaux'	
+2011	05			2011	05			relevée	La teneur en arsenic de 13µg/L relevée en mai 2011 n’a pas été retrouvée sur cette campagne.	'arsenic'	
+1995				1995				Diagnostic_de_la_pollution_des_sols	- Diagnostic de la pollution des sols et de la nappe réalisée en 1995.		
+1996				1996				complétée	- Etude d'impact réalisée fin 1995 et complétée en 1996 : site peu vulnérable et impact des pollutions sur les cibles potentielles négligeable.		
+								a_été_exploité	- Le site a été exploité pendant 11 ans environ comme décharge brute.		

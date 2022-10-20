@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	01	27		2016	01	27		a_transmis	Total Raffinage a transmis en date du 27 janvier 2016, le rapport de suivi de la qualité des eaux souterraines au droit du site.		'Total Raffinage'
+								Des_investigations_ont_été_réalisées	Des investigations ont été réalisées les 22 et 23 juin 2005 afin de :		
+				2006	11			les_travaux_de_dépollution	La société SERPOL a été mandatée par TOTAL France pour les travaux de dépollution de la station service du pont de l'âne de mars à novembre 2006.		'La société SERPOL', 'TOTAL France'
+2005	06	23		2005	06	23		Des_investigations_ont_été_réalisées	Des investigations ont été réalisées les 22 et 23 juin 2005 afin de :		
+2005	09	28		2005	09	28		la_mise_en_place	Par transmission du 28 septembre 2005, la société LISEC, afin de recueillir des données sur la dynamique de la pollution (vitesse de migration dans les sols par exemple), a procédé à la mise en place d’aiguilles d’observation dans la zone non saturée des sols.		'la société LISEC'
+2007	09			2007	09			a_débuté	La surveillance a débuté en septembre 2007.		
+2015				2015				dernières_campagnes	A ce titre, un diagnostic complémentaire de sols est à réaliser dans la mesure où les résultats d’analyses des eaux souterraines des deux dernières campagnes 2015 confirment cette tendance.		

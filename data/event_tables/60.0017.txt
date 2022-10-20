@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_proposé_à_cet_effet	Un projet d'injonction a été proposé à cet effet au Préfet de l'Oise, par transmission du 06/12/05.		
+2005	11	21		2005	11	21		Une_inspection	Une inspection sur le site en date du 21 novembre 2005 a montré la nécessité de remettre en état la clôture et l'un des portails destinés à interdire l'accès du public au site.		
+2006	01	09		2006	01	09		a_été_signé	Un arrêté préfectoral de mise en demeure a été signé le 09 janvier 2006 puis un arrêté de travaux d'office confiant à l'ADEME la mise en oeuvre de la surveillance de la qualité des eaux souterraine le 24 mai 2007.		
+2011	03			2011	03			a_été_constaté	Une forte dégradation des ouvrages piézométriques a été constaté en mars 2011.		
+1993	11	29		1993	11	29		le_suivi_analytique	Le 29 novembre 1993, un nouvel arrêté préfectoral a confié à l'ADEME le suivi analytique  du site et l'étude des possibilités		
+2004	03			2004	03			campagne	campagne de mars 2004 un impact sur la qualité des eaux souterraines et précise qu'aucune tendance claire ne peut être dégagée		
+2002	03	12		2002	03	12		a_été_mise_en_demeure	préfectorale du 12 mars 2002, elle a été mise en demeure d'y satisfaire.		
+2002	05			2002	05			a_proposé	mai 2002, l'inspecteur des installations classées a proposé l'exécution d'office, aux frais de Mme BEN CHETRIT,  des travaux		'Mme BEN CHETRIT'
+2002	06	21		2002	06	21		a_adopté	Par décision en date du 21 juin 2002, Monsieur le Préfet de l'Oise a adopté		'le Préfet'

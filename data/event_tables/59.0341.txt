@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	20		2000	12	20		une_visite_du_site_réalisée	Suite à la cessation d'activité une visite du site réalisée le 20/12/2000 a permis de constater l'évacuation des bennes de déchets et de l'ensemble du matériel utilisé sur le site (pelle mécanique notamment).		
+2001	03	07		2001	03	07		Confirmation_de_cessation_d__activité_reçue	Confirmation de cessation d'activité reçue le 07/03/2001 par l'administration.		
+				2000	11	18		à_exploité_sans_autorisation	La société Joveneaux à exploité sans autorisation et jusqu'au 18/11/2000 un centre de transit de déchets industriels et ménagers.	'déchets industriels'	'La société Joveneaux'
+2001	04	05		2001	04	05		un_diagnostic	Compte-tenu du mode d'exploitation (stockage de déchets à même le sol et à l'air libre), un diagnostic de l'état des sols et l'évacuation des déchets restants ont été imposés à l'exploitant par AP du 05/04/2001.		
+2001	10	22		2001	10	22		Réalisation_d__une_étude_de_sols	Réalisation d'une étude de sols le 22 octobre 2001.		

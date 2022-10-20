@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10			2002	10			Cessation_d__activité_définitive_notifiée_par_courrier	- Cessation d'activité définitive notifiée par courrier du 1 er octobre 2002.		
+2008	12	12		2008	12	12		Réaménagement_du_site	- Réaménagement du site (démolition ...), en date du 12/12/2008.		
+2011	10	17		2011	10	17		__PV_de_récolement	- PV de récolement en date du 17/10/2011.		
+1971				1971				a_été_crée	- L'usine de Biache a été crée en 1846, à partir de 1971, rénovation totale pour la production de tôles minces laminées à froid.		
+1846				1846				a_été_crée	- L'usine de Biache a été crée en 1846, à partir de 1971, rénovation totale pour la production de tôles minces laminées à froid.		
+1994				1994				réalisée	- Etude des sols réalisée en 1994.		
+1960				1990				exploités	- Bassins à boues: 12 bassins exploités de 1960 à 1990 au Nord Est du site.		
+								Cessation_d__activité_définitive_notifiée_par_courrier	- Cessation d'activité définitive notifiée par courrier du 1 er octobre 2002.		
+2003				2003				__projet_d__implantation	- En 2003: projet d'implantation de l'usine NMC sur le site (fabrication de pièces auto).		'NMC'
+2011	09	19		2011	09	19		Visite_d__inspection	- Visite d'inspection du 19/09/2011, constat: site clôturé dans sa totalité, plusieurs sociétés se sont implantées sur la partie usine, zone des bassins à boues isolée par une clôture.		
+2007	06	29		2007	06	29		Travaux_à	Travaux à partir du 29/06/2007.		

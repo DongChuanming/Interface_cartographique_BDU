@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	05		2012	12	05		a_demandé	L’Inspection des Installations Classées a demandé une copie des études réalisées, qui ont été transmises, par l'exploitant, par mail en date du 28 novembre 2012, 03 et 05 décembre 2012.		
+2013	03	15		2013	03	15		__courrier	Polution des sols et ds eaux en HCT : courrier du 15 mars 2013 pour demande de compléments relatifs à la caractérisation des pollutions et plan de gestion		
+2012				2012				de_l__inspection	L'exploitant a précisé, lors de l'inspection du 19 nov 2012, qu'il avait fait réaliser des études de sols et des eaux souterraines, qui auraient mis en évidence une pollution en hydrocarbures.	'hydrocarbures'	
+								de_l__inspection	L'exploitant a précisé, lors de l'inspection du 19 nov 2012, qu'il avait fait réaliser des études de sols et des eaux souterraines, qui auraient mis en évidence une pollution en hydrocarbures.	'hydrocarbures'	
+2012	11	28		2012	11	28		des_études_réalisées	L’Inspection des Installations Classées a demandé une copie des études réalisées, qui ont été transmises, par l'exploitant, par mail en date du 28 novembre 2012, 03 et 05 décembre 2012.		
+								a_demandé	L’Inspection des Installations Classées a demandé une copie des études réalisées, qui ont été transmises, par l'exploitant, par mail en date du 28 novembre 2012, 03 et 05 décembre 2012.		
+								a_précisé	L'exploitant a précisé, lors de l'inspection du 19 nov 2012, qu'il avait fait réaliser des études de sols et des eaux souterraines, qui auraient mis en évidence une pollution en hydrocarbures.	'hydrocarbures'	
+2012				2012				a_précisé	L'exploitant a précisé, lors de l'inspection du 19 nov 2012, qu'il avait fait réaliser des études de sols et des eaux souterraines, qui auraient mis en évidence une pollution en hydrocarbures.	'hydrocarbures'	

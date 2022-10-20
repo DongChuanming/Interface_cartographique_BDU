@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03	25		2015	03	25		une_visite_rapide	Le 25 mars 2015, une visite rapide et inopinée du site a été effectuée.		
+2012	07	02		2012	07	02		a_envoyé	Par courrier du 2 juillet 2012, le mandataire judiciaire a envoyé le dossier de cessation d'activité aux services de l'inspection des installations classées, réalisé par le bureau d'études INGEOS, et daté du 5 juin 2012.		'INGEOS'
+2010	01	27		2010	01	27		une_visite_d__inspection	L'inspecteur a réalisé une visite d'inspection le 27 janvier 2010.		
+2010	12	14		2010	12	14		s__est_alors_tournée	Suite à la mise en liquidation judiciaire, l'inspection s'est alors tournée vers le liquidateur, afin de demander le dossier de cessation d'activité (courrier du 14 décembre 2010).		
+1974	06	24		1974	06	24		de_déclaration	L'établissement a bénéficié d'un récépissé de déclaration en date du 24 juin 1974 relatif à une activité de scierie et de stockage du bois.		
+2012	04	18		2012	04			Les_investigations_sur_les_sols	Les investigations sur les sols (8 sondages) ont été réalisées le 18 avril 2012:2 sondages à l'extérieur des bâtiments et 6 sondages à l'intérieur.		
+2009	03	23		2009	03	23		est_placée_en_situation_de_redressement_judiciaire	Dès le 23 mars 2009, l'entreprise est placée en situation de redressement judiciaire.		
+2001	05	14		2001	05	14		a_bénéficié_d_	Ensuite, la scierie a bénéficié d'un arrêté préfectoral d'autorisation du 14 mai 2001, pour les activités :		
+								un_mémoire_de_cessation_d__activité_remis	Le dernier exploitant (SARL PAL ALBAN, représentée au final par le liquidateur Me Blanchard) a répondu aux prescriptions de l’article R.512-39-1 paragraphes I et II du code de l’environnement (mise en sécurité du site, justifiée par un mémoire de cessation d’activité remis le 06/07/12).		'SARL PAL ALBAN'
+2012	06	05		2012	06	05		a_envoyé	Par courrier du 2 juillet 2012, le mandataire judiciaire a envoyé le dossier de cessation d'activité aux services de l'inspection des installations classées, réalisé par le bureau d'études INGEOS, et daté du 5 juin 2012.		'INGEOS'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	04		2011	11	04		Des_prélèvements_d__eaux_souterraines_ont_été_effectués	Des prélèvements d'eaux souterraines ont été effectués le 04/11/2011.		
+2011	02	08		2011	02	08		effectuée	Le rapport de visite d'inspection effectuée le 08/02/2011, fait le point sur la situation et demande à l'exploitant de transmettre un certificat d'élimination du transformateur		
+2011	06	29		2011	06	29		a_été_transmis	Il a été transmis à l'administration le 29/06/2011 avec un bordereau de suivi des déchets et un certificat de destruction du transformateur de PCB.	'PCB'	
+2010	07	01		2010	07	01		a_informé	Par courrier du 01/09/2010, la société a informé l'administration de la cessation de ses activités depuis le 01/07/2010.		'la société'
+2011	02	17		2011	02	17		Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été établi par la société SOCOTEC le 17/02/2011.		'la société SOCOTEC'
+2000	10	06		2000	10	06		bénéficie	Elle bénéficie d'un arrêté préfectoral d'autorisation d'exploiter n°2000.3138 du 09/05/2000, complété par l'arrêté préfectoral n°2000-7076 du 06/10/2000.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	05	05		1999	05	05		pas_été_confirmée_lors_du_prélèvement	- la présence d’hydrocarbures dans la nappe lors du diagnostic de 1998 n’a pas été confirmée lors du prélèvement du 5 mai 1999.	'hydrocarbures'	
+1984				1984				acquiert	En 1984, la société LACROIX acquiert la parcelle voisine (qui correspond au cadastre actuel aux parcelles 297, 314 et 315) afin d'étendre la zone de stockage (3 dépôts d'artifice et 3 dépôts de poudre noire).	'poudre noire'	'la société LACROIX'
+1999	03			1999	03			ont_fait_l__objet_soit_d_	Les bâtiments qui étaient en place ont fait l'objet soit d'une démolition, soit d'un nettoyage ou d'une dépollution en mars 1999.		
+				1993				exploitée	Ancienne unité de fabrication d'artifices de divertissement exploitée jusqu'en 1993 par la société LACROIX sur la commune de St Paul les Dax (40).		'la société LACROIX', 'la commune de St Paul les Dax'
+1998	07	21		1998	07	21		un_pré_diagnostic	Par arrêté préfectoral du 21 juillet 1998, la société LACROIX a été tenue d'établir un pré-diagnostic, une étude des sols et une Évaluation Simplifiée des Risques (ESR) pour l'ensemble des installations de son site.		'la société LACROIX'
+1998				1998				du_diagnostic	- la présence d’hydrocarbures dans la nappe lors du diagnostic de 1998 n’a pas été confirmée lors du prélèvement du 5 mai 1999.	'hydrocarbures'	
+1984				1984				achetées	Les parcelles 297, 314 et 315 achetées en 1984 pour le stockage sont revendues au Syndicat Intercommunal à Vacation Unique (SIVU) du pays dacquois.		
+1999	03			1999	03			une_démolition	Les bâtiments qui étaient en place ont fait l'objet soit d'une démolition, soit d'un nettoyage ou d'une dépollution en mars 1999.		
+1993				1993				est_mis_en_sommeil	En 1993, le site est mis en sommeil et les activités sont transférées sur un autre site en banlieue toulousaine.		

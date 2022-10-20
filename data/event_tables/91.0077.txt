@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				Les_activités_industrielles_y_ont_cessé	Les activités industrielles y ont cessé en 1995, date à laquelle les investigations de sol demandées par la DRIRE n'avaient révélé aucune pollution notable des sols ou eaux souterraines.		'la DRIRE'
+2002	06			2002	06			a_été_déposée	La version finalisée de cette évaluation détaillée des risques a été déposée fin juin 2002.		
+2008	09			2009				un_comblement	Les derniers ouvrages de surveillance de la qualité des eaux souterraines ont fait l'objet d'un comblement ou démantélement entre septembre 2008 et juillet 2009.		
+2006	10	05		2006	10	05		a_déposé	Compte tenu des projets de logements sur une partie des terrains, l'exploitant a déposé le 5 octobre 2006 un dossier complémentaire comprenant un complément d'EDR tenant compte du futur usage finalement prévu sur la bande nord-ouest du terrain, à savoir des logements collectifs et le dossier de demande de SUP prescrit par l'arrêté préfectoral.		
+2007	12			2007	12			à_la_campagne_de_prélèvement	Ce suivi a été arrêté suite à la campagne de prélèvement de décembre 2007.		
+2001				2001				Cette_démolition	Cette démolition a révélé, début 2001, une pollution par des solvants chlorés (trichoroéthylène en particulier) et par des hydrocarbures aromatiques (benzène en particulier) sur une surface de l'ordre de 3000 m2 et une profondeur de 3 m.	'chlorés', 'trichoroéthylène', 'hydrocarbures aromatiques', 'benzène'	
+2001				2001				une_pollution	Cette démolition a révélé, début 2001, une pollution par des solvants chlorés (trichoroéthylène en particulier) et par des hydrocarbures aromatiques (benzène en particulier) sur une surface de l'ordre de 3000 m2 et une profondeur de 3 m.	'chlorés', 'trichoroéthylène', 'hydrocarbures aromatiques', 'benzène'	
+2006	11	16		2006	11	16		le_PV_de_récolement	Sur la base de tous ces éléments, le PV de récolement a été dressé le 16 novembre 2006.		
+2009	07	06		2009	07	06		a_été_présenté	Le projet d'arrêté instituant les SUP a été présenté en CODERST le 6 juillet 2009.		
+2009	07	10		2009	07	10		un_bilan	La société PFIZER a communiqué le 10 juillet 2009 un bilan des travaux menés sur les ouvrages identifiés sur les sites PFIZER et SANOFI.		'La société PFIZER', 'PFIZER', 'SANOFI'
+2008	09	1		2008	09	1		ont_confirmé	En effet, compte-tenu des éléments présentés, l'inspection des installations classées et les services de la préfecture ont confirmé le 1er septembre 2008 à la société que la surveillance pouvait être arrêtée.		'les services de la préfecture'
+2003	05	14		2003	05	14		a_été_pris	L'arrêté préfectoral encadrant les travaux de dépollution et de surveillance a été pris le 14 mai 2003.		
+				2005	03			La_2ème_phase_de_travaux	La 2ème phase de travaux (suite à une découverte d'une nouvelle poche de pollution) s'est déroulée de février à mars 2005 :		

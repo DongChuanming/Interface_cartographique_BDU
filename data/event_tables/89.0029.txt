@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06			2005	06			demande	En juin 2005, l'inspection des installations classées demande à la société TD Autoroute:		'société TD Autoroute'
+2000	07			2000	07			Un_diagnostic_des_sols_avait_été_effectué	Un diagnostic des sols avait été effectué en juillet 2000 par l'ancien propriétaire de la station-service (TOTALFINA ELF).		'service ( TOTALFINA ELF'

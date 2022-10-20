@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06			2006	06			a_cessé_ses_activités	-L’entreprise a cessé ses activités sur le site de Roubaix en Juin 2006.		
+2006	04	04		2006	04	04		mémoire_de_cessation_d__activités	-L’Evaluation Simplifiée des Risques du mémoire de cessation d’activités du 04/04/2006 conclu : le site est considéré comme site banalisable (classe 3).		
+2006	03	21		2006	03	21		__cessation_d__activités	21/03/2006 : cessation d’activités de Flipo Richir à Roubaix : préconisation d’usage : parking, commerce, artisanat : L’avis émis par la commune est défavorable		'Flipo Richir'

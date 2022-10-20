@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				arrêtés	- Site d'une ancienne cokerie et d'un lavoir des Houillères arrêtés en 1958.		
+								et_étude_hydrogéologique	- Exécution de sondages de reconnaissance et étude hydrogéologique du site en 02/93.		
+1989				1989				achevée	- Résorption d'une mare à goudrons achevée fin 1989 (coût : 71 kF - 150 t).		
+								sols_réalisée	- Campagne de recherche des gaz présents dans les sols réalisée en  09/92.		
+				1997	09			__excavation	- Travaux: *excavation des terres polluées aux HAP entre février et septembre 1997. *traitement de la zone moyennement impactée aux HAP: traitement par biodégradation pendant 18 mois puis évacuation des terres pour lesquelles le traitement n'a pas été efficace, régalement sur site pour les terres présentant des résultats satisfaisants. *traitement par bioventing des terres présentant des teneurs en HAP réduites.	'HAP', 'HAP'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06	30		2002	06	30		Usine_d__incinération	Usine d'incinération d'ordures ménagères, autorisée le 25 juin 1980, fermée le 30 juin 2002.		
+2003	10	21		2003	10	21		effectuée	Une seconde analyse du piezomêtre PZ1 effectuée le 21/10/2003 donne des valeurs en dessous des valeurs de constat d'impact pour le plomb et le mercure.	'plomb', 'mercure'	
+2002	06	30		2002	06	30		fermée	Usine d'incinération d'ordures ménagères, autorisée le 25 juin 1980, fermée le 30 juin 2002.		

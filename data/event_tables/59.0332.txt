@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			a_produit	Dans le cadre de l'arrêt des activités et d'un projet de cession du site à la collectivité, l'exploitant a produit un dossier comportant une étude des sols phase historique en juin 1999.		
+1870				1998				exploitée	Ancienne teinturerie exploitée de 1870 à 1998.		
+2003	02			2003	02			Première_campagne_réalisée	Première campagne réalisée en février 2003.		
+1999	06			1999	06			comportant	Dans le cadre de l'arrêt des activités et d'un projet de cession du site à la collectivité, l'exploitant a produit un dossier comportant une étude des sols phase historique en juin 1999.		
+2003	10			2003	10			Comblement_du_forage	Comblement du forage en octobre 2003.		
+2002	09	06		2002	09	06		ont_été_imposées	Une surveillance des eaux souterraines et la mise en sécurité des forages ont été imposées par AP du 06/09/2002.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09			2009	09			Une_étude_environnementale	Une étude environnementale a été menée en septembre 2009. 12 sondages ont été réalisés jusqu'à une profondeur de 3 m et 5 sondages réalisés jusqu'à une profondeur de 8 m.		
+1972				1972				aurait_été_mise_en_service	La station-service Shell aurait été mise en service en 1972.		'service Shell'
+2011	01	18		2011	02	07		des_travaux_de_démantèlement	Entre le 18 janvier 2011 et le 7 février 2011, des travaux de démantèlement ont été réalisés.		

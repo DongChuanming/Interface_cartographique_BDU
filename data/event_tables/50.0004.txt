@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				des_premiers_travaux_de_réhabilitation	Suite à l’interruption des activités d’enduction en 1994, le groupe Polychrome a effectué, en 1995, des premiers travaux de réhabilitation qui concernaient :		'le groupe Polychrome'
+2005	06			2005	06			évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques ainsi qu’une étude détaillée des risques ont ainsi respectivement été remises en avril 2004 et juin 2005.		
+2004	04			2004	04			évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques ainsi qu’une étude détaillée des risques ont ainsi respectivement été remises en avril 2004 et juin 2005.		
+2003	10			2003	10			a_cessé_son_activité	Ce site a cessé son activité en octobre 2003.		
+2003	10			2003	10			a_procédé_aux_investigations_de_terrain	Dans le cadre de la cessation d’activité survenue en octobre 2003, l’exploitant a procédé aux investigations de terrain nécessaires pour caractériser l’état de pollution du site.		
+2003	10			2003	10			la_cessation_d__activité_survenue	Dans le cadre de la cessation d’activité survenue en octobre 2003, l’exploitant a procédé aux investigations de terrain nécessaires pour caractériser l’état de pollution du site.		
+2010	08	24		2010	08	24		a_été_établi	Sur la base de l’ensemble de ces éléments, le procès-verbal de récolement relatif à la cessation d’activité du site a été établi le 24 août 2010 par l’inspection des installations classées.		
+2007	08			2009	10			Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site, consistant en la déconstruction des installations et bâtiments ainsi qu’en l’excavation des terres polluées ont été entrepris entre août 2007 et octobre 2009.		
+2007	08			2009	10			Les_opérations	Les opérations ont été effectuées entre août 2007 et octobre 2009.		
+1996	06			1996	06			Le_confinement	Le confinement de 6 500 m3 de boues stabilisées a été réalisé en juin 1996 dans la partie Ouest du site.	'boues'	
+2009	11			2009	11			fin_de_travaux_a_été_remis	Le dossier de fin de travaux a été remis en novembre 2009.		
+1962				1962				construite	Usine, construite en 1962 sur un terrain agricole de 40 718 m2, à 5 kilomètres au Nord-Est du Mont Saint Michel, spécialisée dans l’enduction de plaques d'impression photosensibles (des plaques d’aluminium sont enduites d’une émulsion à base d’eau, de gélatine animale et d’halogénure d’argent).	'gélatine animale', 'halogénure d’ argent'	
+1994				1994				des_premiers_travaux_de_réhabilitation	Suite à l’interruption des activités d’enduction en 1994, le groupe Polychrome a effectué, en 1995, des premiers travaux de réhabilitation qui concernaient :		'le groupe Polychrome'
+2012	09	25		2012	09	25		un_arrêté_imposant	Afin de maintenir cette compatibilité de l’usage futur avec la pollution résiduelle, un arrêté imposant des servitudes d’utilité publique a été pris à la date du 25 septembre 2012.		

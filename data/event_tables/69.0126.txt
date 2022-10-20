@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	27		1999	07	27		a_été_constaté	La présence de ces containers a été constaté par l'Inspection des Installations Classées lors d'une visite effectuée le 27/07/1999.		
+1999	07	27		1999	07	27		une_visite	La présence de ces containers a été constaté par l'Inspection des Installations Classées lors d'une visite effectuée le 27/07/1999.		
+2000	10	05		2000	10	05		la_réalisation_d__une_étude_de_sol	La société KHERACHI s'est vue imposer la réalisation d'une étude de sol par arrêté préfectoral du 5/10/2000.		'La société KHERACHI'
+				2001	08	14		a_occupé	La société KHERACHI, spécialisée dans le transport et la location de véhicules, a occupé le site jusqu'au 14/08/2001, date de sa mise en liquidation judiciaire.		'La société KHERACHI'
+2001	08	14		2001	08	14		a_été_mise_en_liquidation_judiciaire	La société KHERACHI a été mise en liquidation judiciaire le 14 août 2001.		'La société KHERACHI'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	11		1996	04	11		une_liquidation_judiciaire	La société nouvelle l'Epée a fait l'objet d'une liquidation judiciaire, prononcée le 11 avril 1996.		"La société nouvelle l' Epée"
+2004	01			2004	01			Cette_étude	Cette étude, traitée selon la méthodologie nationale, a été déposée en janvier 2004.		
+1839				1839				a_accueilli	L'ancien site industriel l'Epée a accueilli à partir de 1839 une manufacture horlogère qui exerçait principalement des activités de travail mécanique des métaux et de traitement de surface.		
+2000	12			2000	12			Un_diagnostic	Un diagnostic de l'état des sols a été réalisé à la demande du liquidateur en décembre 2000.		
+2003				2003				l__annulation_de_l__arrêté	Cet arrêté a fait l'objet d'une requête en annulation introduite par le liquidateur et qui a abouti à l'annulation de l'arrêté début 2003.		
+2003				2003				s__est_porté_acquéreur	En 2003, un investisseur privé s'est porté acquéreur du site pour le réhabiliter en résidence abritant des logements.		
+2000	01			2000	01			l__action	Suite à l'action de l'Inspection, l'évacuation et l'élimination des déchets et produits chimiques présents sur le site ont été réalisées par le mandataire-liquidateur en janvier 2000.	'produits chimiques'	

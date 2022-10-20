@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				ayant_cessé_ses_activités	Ancien site de fabrication d'optiques pour véhicules automobiles, ayant cessé ses activités en 1988.		
+1995				1995				a_été_mise_en_évidence	Lors de la construction d'un parc de stationnement souterrain en 1995, une zone de terres souillées par hydrocarbures, zinc, cyanures et chrome, a été mise en évidence.	'hydrocarbures', 'zinc', 'cyanures', 'chrome'	
+1995				1995				la_construction_d_	Lors de la construction d'un parc de stationnement souterrain en 1995, une zone de terres souillées par hydrocarbures, zinc, cyanures et chrome, a été mise en évidence.	'hydrocarbures', 'zinc', 'cyanures', 'chrome'	

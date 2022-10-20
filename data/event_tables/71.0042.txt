@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2013	08			Le_suivi_réalisé	Le suivi réalisé de mai à août 2013 a mis en évidence :		
+2008				2008				a_été_transmis	Depuis 2008, le rapport d'installation du dispositif de pompage-écrémage a été transmis à l'inspection des installations classées ainsi que des notes trimestrielles quant à l'avancement des travaux de dépollution et le suivi de la qualité des eaux souterraines et superficielles.		
+								a_été_réalisé	28 avril 2008 et 21, 22 et 26 mai 2008: un diagnostic des sols et des eaux souterraines a été réalisé suite à l'observation d'irisations en surface de La Grosne, générées par un défaut d'étanchéité au niveau d'une conduite reliant un compartiment de la cuve à la bouche de dépotage.		
+2012	01			2012	01			a_été_démantelée	L'unité de traitement par pompage-écrémage a été démantelée en janvier 2012.		
+2012	10			2012	10			disparition_de	- baisse globale des teneurs en hydrocarbures C5-C40 et disparition de la phase flottante en octobre 2012.	'hydrocarbures C5-C40'	
+2012	01			2012	01			mis_en_place	- l'installation, au droit de 3 piézomètres, d'écrémeurs passifs (mis en place en janvier 2012) ;		
+2012	10			2012	10			Le_suivi_réalisé	Le suivi réalisé d'août à octobre 2012 a mis en évidence :		
+2004				2004				plusieurs_études_de_sols	Depuis 2004, plusieurs études de sols et travaux de dépollution ont été réalisés au droit du site.		
+2012	09			2012	09			a_été_mis_à_jour	Le schéma conceptuel a été mis à jour en septembre 2012 : le risque d'inhalation dû au dégazage depuis la nappe vers la boutique est écarté ; il n'y a pas de risques sanitaires sur et hors site du fait de l'activité de la station-service.		
+2008				2008				la_pollution_accidentelle	Des travaux de curage des berges de la Grosne en sortie de la canalisation DDE (impactée par la pollution accidentelle de 2008) ont été effectués en août 2012.		
+								Le_suivi_réalisé	Le suivi réalisé d'août à octobre 2012 a mis en évidence :		
+2012	08			2012	08			Des_travaux_de_curage	Des travaux de curage des berges de la Grosne en sortie de la canalisation DDE (impactée par la pollution accidentelle de 2008) ont été effectués en août 2012.		
+				2012	07			Les_suivis_réalisés_mensuellement	Les suivis réalisés mensuellement de février à juillet 2012 ont mis en évidence :		
+2008	05	26		2008	05	26		a_été_réalisé	28 avril 2008 et 21, 22 et 26 mai 2008: un diagnostic des sols et des eaux souterraines a été réalisé suite à l'observation d'irisations en surface de La Grosne, générées par un défaut d'étanchéité au niveau d'une conduite reliant un compartiment de la cuve à la bouche de dépotage.		
+2008	04	28		2008	04	28		a_été_réalisé	28 avril 2008 et 21, 22 et 26 mai 2008: un diagnostic des sols et des eaux souterraines a été réalisé suite à l'observation d'irisations en surface de La Grosne, générées par un défaut d'étanchéité au niveau d'une conduite reliant un compartiment de la cuve à la bouche de dépotage.		
+				2014	01			Le_bilan_des_suivis_mensuels	Le bilan des suivis mensuels jusqu'en janvier 2014 révèle une tendance générale à une baisse de l'impact en hydrocarbures C10-C40, bien que les teneurs mesurées en BTEX et hydrocarbures C10-C40 présentent des fluctuations d'une campagne à l'autre.	'hydrocarbures C10-C40', 'BTEX', 'hydrocarbures C10-C40'	

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2001	10			traitement_in_situ	- traitement in situ de mai à octobre 2001		
+								__evacuation	- 05/98: evacuation de 1400 t de terres polluées (hydrocarbures) vers un centre spécialisé	'hydrocarbures'	
+2002	06	14		2002	06	14		fin_de_travaux_remis	-Rapport de fin de travaux remis le 14/06/2002		
+								découverte	- découverte fin 99 de 2 nouvelles zones de pollution		

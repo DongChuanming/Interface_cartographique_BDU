@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				ont_été_enlevées_et_traitées_en_partie	es terrains correspondent à un ancien stockage de boues d'hydroxyde de cuivre qui ont été enlevées et traitées en partie en 1985.  Cette pollution n'a cependant pas d'impact significcatif sur les eaux souterraines.	'hydroxyde', 'cuivre'	
+1982				1982				Des_pompages_de_dépollution	Des pompages de dépollution ont été mis en place en 1982 avec un réseau de surveillance, permettant de maîtriser rapidement la pollution.		
+1982				1982				ont_fortement_diminué	Les résultats de la surveillance des eaux souterraines montrent que depuis 1982 les teneurs en chrome ont fortement diminué passant de 82 mg/l à environ 200µg/l au niveau de la source de pollution qui se situe sous les bâtiments exploités actuellement par Flex Connect.	'chrome'	'Flex Connect'
+1982				1982				une_fuite	Le site est à l'origine d'une pollution des eaux souterraines par du chrome, suite à une fuite d'une cuve dans l'atelier de chromage en 1982.	'chrome'	
+2003				2003				le_diagnostic	D'autre part, le diagnostic SITA réalisé en 2003 pour Leoni Flex mettait en évidence une pollution d'une partie du site au cuivre.	'cuivre'	'SITA', 'Leoni Flex'
+2008	09			2008	09			a_repris	Suite à la mise en liquidation de la société NICOSOFRA en septembre 2008, la société Flex Connect a repris une partie du site.		'la société NICOSOFRA', 'la société Flex Connect'
+2008	09			2008	09			la_mise_en_liquidation	Suite à la mise en liquidation de la société NICOSOFRA en septembre 2008, la société Flex Connect a repris une partie du site.		'la société NICOSOFRA', 'la société Flex Connect'

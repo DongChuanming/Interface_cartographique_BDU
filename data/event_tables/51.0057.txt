@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			a_été_mise_en_place	Depuis juillet 2002, une surveillance annuelle de la nappe a été mise en place.		
+2005	06			2005	06			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en juin 2005.		
+								De_nouvelles_analyses	De nouvelles analyses sur les eaux souterraines ont été effectuées en avril et octobre 2005 pour redéfinir le panache de pollution et vérifier le besoin de mise en place d'un plan d'action.		
+1950				1950				créé	- le dépôt (à l'Est) de stockage gaz, créé en 1950 et toujours en activité.		
+2005	10			2005	10			De_nouvelles_analyses	De nouvelles analyses sur les eaux souterraines ont été effectuées en avril et octobre 2005 pour redéfinir le panache de pollution et vérifier le besoin de mise en place d'un plan d'action.		
+1920				1920				créé	- l'ancien dépôt (à l'Ouest) d'hydrocarbures créé en 1920 et fermé en 1980,	'hydrocarbures'	
+2001				2001				Un_diagnostic_environnemental	Un diagnostic environnemental a été mené en 2001, sur l'ancienne partie du site dédiée au stockage de carburants.	'carburants'	
+1980				1980				fermé	- l'ancien dépôt (à l'Ouest) d'hydrocarbures créé en 1920 et fermé en 1980,	'hydrocarbures'	

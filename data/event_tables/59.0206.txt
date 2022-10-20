@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04			2012	04			détectée	Pollution au phénol détectée en avril 2012, son origine n'est pas clairement établie mais l'exploitant a prévu de la traiter:	'phénol'	
+2005	03	31		2005	03	31		est_à_l__arrêt	La Centrale de Production Thermique EDF de Dunkerque est à l'arrêt depuis le 31 mars 2005 (31/03/05 : mise en sommeil - date de l'arrêt définitif déclaré par l'exploitant en Préfecture : 01/01/06).		'La Centrale de Production Thermique EDF', 'de Dunkerque'
+2009	12	31		2009	12	31		un_bail_de	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'
+								ont_été_loués	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'
+								un_bail_de	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'
+2001				2001				est_réalisée	Une surveillance piézométrique du site est réalisée depuis 2001 au moyen de 6 piézomètres (hydrocarbures, HAP, BTEX, métaux).	'hydrocarbures', 'HAP', 'BTEX', 'métaux'	
+								est_à_l__arrêt	La Centrale de Production Thermique EDF de Dunkerque est à l'arrêt depuis le 31 mars 2005 (31/03/05 : mise en sommeil - date de l'arrêt définitif déclaré par l'exploitant en Préfecture : 01/01/06).		'La Centrale de Production Thermique EDF', 'de Dunkerque'
+2001	07			2001	07			étude_de	- évaluation simplifiée des risques (étude de juillet 2001)		
+2006	08	02		2006	08	02		pris	Arrêté préfectoral pris le 02/08/2006 imposant la mise en sécurité du site.		
+1967				1967				s__est_implantée	La Centrale s'est implantée sur la commune de Dunkerque en 1967 (ancien cordon dunaire).		
+2005	03	31		2005	03	31		__mise_en_sommeil___date_de_l__arrêt_définitif_déclaré	La Centrale de Production Thermique EDF de Dunkerque est à l'arrêt depuis le 31 mars 2005 (31/03/05 : mise en sommeil - date de l'arrêt définitif déclaré par l'exploitant en Préfecture : 01/01/06).		'La Centrale de Production Thermique EDF', 'de Dunkerque'
+2009	12	31		2009	12	31		ont_été_loués	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'
+1960	01	01		1960	01	01		ont_été_loués	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'
+1960	01	01		1960	01	01		un_bail_de	Les terrains appartenant au Port Autonome de Dunkerque ont été loués à EDF avec un bail de 50 ans courant du 01/01/1960 au 31/12/2009.		'Port Autonome de Dunkerque'

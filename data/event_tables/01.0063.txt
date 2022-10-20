@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	07		2006	02	07		le_diagnostic_approfondi	à l'inspection des installations classées ainsi qu'à monsieur le préfet le diagnostic approfondi le 07/02/2006.		
+2004	10	29		2004	10	29		survenu	Une fuite de fuel survenu le 29/10/2004 a généré la pollution accidentelle d'un ruisseau voisin et une pollution du sol.	'fuel'	
+2006				2006				Les_analyses_faites	Les analyses faites depuis le second trimestre 2006 et jusqu'au second semestre 2007 ne font apparaître aucune trace de pollution des eaux souterraines et superficielles.		

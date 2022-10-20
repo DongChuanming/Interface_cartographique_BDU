@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	01	12		1994	01	12		a_été_prescrite	Cette surveillance a été prescrite par arrêté du 12/01/1994.		
+1999	12	31		1999	12	31		au_plus	Cette étude qui comprend un diagnostic initial et une étude Évaluation Simplifiée des Risques devait être transmise à l'administration au plus tard le 31/12/1999.		
+1989				1989				exerce_son_activité	Elle exerce son activité depuis 1989 sur ce site d'une surface de 3,7 ha.		
+1998	10	01		1998	10	01		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 01/10/1998.		
+								une_analyse	- tous les 4 mois à une analyse par une société spécialisée des polluants précités et de la DBO5, de l'Azote total, des Hydrocarbures totaux, du Cyanure, du Chrome VI, des métaux totaux, des composés organiques du Chlore, du Phosphore, du Cadmium.	'polluants', 'Azote total', 'Hydrocarbures totaux', 'du Cyanure', 'du Chrome VI', 'métaux totaux', 'composés organiques', 'Chlore', 'Phosphore', 'Cadmium'	

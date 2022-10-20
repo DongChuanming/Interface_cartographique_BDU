@@ -1,5 +1,7 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1875				1954					a_abrité								
-2002		2		2002		2			planifié								
-2002				2003					des_travaux_de_réalisation_d__un_parking_souterrain			ont_été_réalisés					
-2003	10	09		2003	10	09			ont_été_transmis	Les_rapports_de_fin_de_travaux							
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2003				des_travaux_de_réalisation_d_	Entre fin 2002 et fin 2003, des travaux de réalisation d'un parking souterrain ont été réalisés sur le site.		
+2002				2002				s__est_engagé	Dans le cadre d'un projet de réalisation d'un parking souterrain, planifié au 2ème semestre 2002, GDF s'est engagé à prendre toutes les dispositions nécessaires pour que les terres contaminées soient éliminées dans des filières de traitement autorisées.		'GDF'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2003	10	09		2003	10	09		ont_été_transmis	Les rapports de fin de travaux ont été transmis à la DRIRE le 9 octobre 2003.		'la DRIRE'
+								s__est_engagé	Dans le cadre d'un projet de réalisation d'un parking souterrain, planifié au 2ème semestre 2002, GDF s'est engagé à prendre toutes les dispositions nécessaires pour que les terres contaminées soient éliminées dans des filières de traitement autorisées.		'GDF'
+2003	07			2003	07			ont_été_prises_en_charge_sur	Les terres polluées ont été prises en charge sur une plate-forme spécialisée en Hollande et déplacées par transport fluvial, en juillet 2003, par la société hollandaise ATM.		'la société hollandaise ATM'

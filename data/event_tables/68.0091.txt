@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	08	18		2004	08	18		a_été_présenté	Un arrêté de mise en demeure a été présenté à la Sté AXTER le 18 août 2004 portant sur le respect des dispositions de l'article 34-1 du décret du 21/09/1977.		'la Sté AXTER'
+2004	06	1		2004	06	1		du_rejet	Le rapport relatif à cette évaluation n'a pas été remis à ce jour au motif du rejet le 1er/06/2004 par le Tribunal Administratif de l'acte.		'le Tribunal Administratif'
+2002	06	20		2002	06	20		a_été_élaboré_dans	Un arrêté préfectoral a été élaboré dans ce sens le 20/06/2002.		

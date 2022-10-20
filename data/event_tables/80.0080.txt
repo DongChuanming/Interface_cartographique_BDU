@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	08		2006	02	08		a_déposé	La société Noyon & Thiebault a déposé le 8 février 2006 un dossier de cessation d'activité pour son activité de traitement de surface.		'La société Noyon & Thiebault'
+1972				1972				a_accueilli	Le site de Vaudricourt, situé en zone urbanisé et en zone UF (permettant l'exploitation de bâtiments industriels), a accueilli une installation de traitement de surface et de travail mécanique des métaux depuis 1972.		
+2002				2002				imposée	La surveillance des eaux souterraines, imposée depuis 2002, le confinement de cette source de pollution sous la dalle du bâtiment et les faibles teneurs observées concourent dans les faits à une maîtrise de la pollution.		

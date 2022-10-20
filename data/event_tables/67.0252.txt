@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				un_complément_de_terrassement	En 2008 ce sont 1124 tonnes de terre qui ont été envoyées par camions en centre de traitement biologique, un complément de terrassement de 1466 tonnes a été réalisé en 2016.		
+2016				2016				des_travaux	Lors des travaux de 2016, un pompage des eaux souterraines en fond de fouille a été effectué, conduisant au traitement d'environ 1000 m3.		
+2008				2008				Des_travaux_de_réhabilitation	Des travaux de réhabilitation du site ont été menés en 2008 et des travaux complémentaires sur les sols réalisés en 2016 suite aux diagnostics et analyses des terres et des eaux souterraines.		
+2008	03	31		2008	03	31		qui_a_cessé_son_activité	Il s'agit d'une ancienne station service de distribution de carburant qui a cessé son activité le 31/03/2008.	'carburant'	
+2016				2016				un_pompage	Lors des travaux de 2016, un pompage des eaux souterraines en fond de fouille a été effectué, conduisant au traitement d'environ 1000 m3.		
+2016				2016				des_travaux_complémentaires	Des travaux de réhabilitation du site ont été menés en 2008 et des travaux complémentaires sur les sols réalisés en 2016 suite aux diagnostics et analyses des terres et des eaux souterraines.		

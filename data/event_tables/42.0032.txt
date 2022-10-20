@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	07	09		1996	07	09		est_mise_en_demeure	Le 13 mars 1997, l'exploitant est mise en demeure de respecter l'arrêté du 9 juillet 1996.		
+1997	03	13		1997	03	13		est_mise_en_demeure	Le 13 mars 1997, l'exploitant est mise en demeure de respecter l'arrêté du 9 juillet 1996.		
+1997	07	10		1997	07	10		est_pris	Par arrêté du 10 juillet 1997, un arrêté de consignation est pris à l'encontre de l'exploitant pour réaliser les travaux de l'arrêté du 9 juillet 1996.		
+1996	07	09		1996	07	09		l__évacuation_des_installations	Par arrêté préfectoral du 9 juillet 1996, le préfet de la Loire a imposé l'évacuation des installations et la remise en état du site exploité par la société FPLR.		'le préfet de la Loire', 'la société FPLR'
+2003	03	05		2003	03	05		à_une_visite_d__inspection	Suite à une visite d'inspection du 5 mars 2003, il a été constaté que la société C.		'la société C.'
+2003	03	05		2003	03	05		été_constaté	Suite à une visite d'inspection du 5 mars 2003, il a été constaté que la société C.		'la société C.'
+1996	07	09		1996	07	09		est_pris	Par arrêté du 10 juillet 1997, un arrêté de consignation est pris à l'encontre de l'exploitant pour réaliser les travaux de l'arrêté du 9 juillet 1996.		
+1979				1996				exercé_sur	De 1979 à 1996, la société FOREZ POIDS LOURDS RECUPERATION (FPLR) a exercé sur un site d'environ 9 000 m² situé en bordure de Loire, une activité de récupération et de stockage de pièces de camions sans autorisation.		'la société FOREZ POIDS LOURDS RECUPERATION'
+2002	03	07		2002	03	07		un_arrêté_de_mise_en_demeure	L'arrêté a été signé le 23 avril 2001 suivi d'un arrêté de mise en demeure du 7 mars 2002.		
+1998	01			1998	01			un_diagnostic_du_site	L'exploitant a transmis à l'inspection un diagnostic du site en janvier 1998 (35 sondages).		
+2001	04	23		2001	04	23		a_été_signé	L'arrêté a été signé le 23 avril 2001 suivi d'un arrêté de mise en demeure du 7 mars 2002.		
+1979				1996				une_activité_de_récupération_et_de_stockage_de_pièces_de_camions	De 1979 à 1996, la société FOREZ POIDS LOURDS RECUPERATION (FPLR) a exercé sur un site d'environ 9 000 m² situé en bordure de Loire, une activité de récupération et de stockage de pièces de camions sans autorisation.		'la société FOREZ POIDS LOURDS RECUPERATION'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	15		2003	10	15		vandalisés_ont_été_découverts	Un transformateur aux PCB et un condensateur aux PCB vandalisés ont été découverts sur ce site le 15 octobre 2003.	'PCB', 'PCB vandalisés'	
+2003	11	04		2003	11	04		la_mise_en_demeure	Cet arrêté n'ayant pas été suivi d'effets, pas plus que la mise en demeure du 4 novembre 2003, M. le préfet a demandé, conformément à la circulaire du 7 juin 1996, à Mme la ministre de l'Ecologie et du développement durable l'autorisation de faire intervenir l'Ademe pour réaliser la mise en sécurité du site et notamment l'évacuation des transformateurs.		'le préfet', "la ministre de l' Ecologie"
+2004	10	27		2004	10	27		a_été_vendu	Par ailleurs, dans le cadre de la liquidation judiciaire, le site a été vendu le 27 octobre 2004 par adjudication à la société d'économie mixte de la commune de Corbeil, la SAEIEM.		'la SAEIEM'
+2003	10	1		2003	10	1		Une_pollution_accidentelle	Une pollution accidentelle de la rivière Essonne a été ensuite constatée le 1er octobre 2003 sur le site voisin de CPE.		'CPE'
+2010	02	17		2010	02	17		un_contrôle	Les travaux ont fait l'objet d'un contrôle le 17 février 2010 : la partie CPE est réhabilitée tandis que la partie SIRP se termine.		
+								a_cessé	Cette ancienne usine de fabrication de papier a cessé son activité dans le courant des années 1990.		
+2003	11	13		2003	11	13		un_arrêté_de_travaux_d_	A la suite de l'autorisation de la ministre un arrêté de travaux d'office et un arrêté d'occupation temporaire ont été signés le 13 novembre 2003.		

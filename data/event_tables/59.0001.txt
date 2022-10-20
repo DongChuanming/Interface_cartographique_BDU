@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05	07		2004	05	07		a_été_remise	Elle a été remise à M. le Préfet du Nord le 7 mai 2004 et mise à jour en janvier 2006.		'le Préfet du Nord'
+2006	01			2006	01			a_été_remise	Elle a été remise à M. le Préfet du Nord le 7 mai 2004 et mise à jour en janvier 2006.		'le Préfet du Nord'
+1977				1977				exploitée	- Ancien dépôt de boues de sulfure de plomb provenant du dépoussiérage par voie humide d'une fonderie de plomb exploitée de 1927 jusqu'en 1977.	'sulfure', 'plomb'	
+2006	01			2006	01			mise_à_jour	Elle a été remise à M. le Préfet du Nord le 7 mai 2004 et mise à jour en janvier 2006.		'le Préfet du Nord'
+				1921				exploitée	- Phase B du diagnostic initial de l'ensemble du site et étude Santé remises à l'inspection des installations classées, y compris sur l'emprise de l'ancienne usine exploitée jusqu'en 1921.		
+2007	11			2007	11			Réalisation_d__une_évaluation_quantitative_des_risques_sanitaires	- Réalisation d'une évaluation quantitative des risques sanitaires en novembre 2007.		

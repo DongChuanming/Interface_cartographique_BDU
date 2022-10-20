@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2014	02			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés de mai 2010 à février 2014.		
+				2010	12			ont_été_construits	Entre les campagnes d'avril 2010 et de décembre 2010 de nouveaux bâtiments ont été construits sur le site et les piézomètres se sont retrouvés à l'intérieur des bâtiments.		
+2006	06	20		2006	06	20		L__EDR_a_été_réalisée	L'EDR a été réalisée en date du 20/06/2006. 3 scénarios de reconversion du site ont été étudiés.		
+2008	02	12		2008	02	12		a_été_déposé	Le rapport de l'expert judiciaire a été déposé auprès du tribunal le 12 février 2008.		
+2011	06			2011	06			a_été_détecté_au	En juin 2011, seul du benzène a été détecté au niveau du piézomètre PZ5.	'benzène'	
+2002	10			2002	10			un_diagnostic_initial	Suite à la cessation d’activité de la société DIDERON, un diagnostic initial, daté d’octobre 2002, a été transmis.		'la société DIDERON'
+2003	12	16		2003	12	16		l__arrêt_définitif	Par courrier du 16 décembre 2003, l'exploitant de la société DIDERON, a notifié l’arrêt définitif de l’activité.		'la société DIDERON'
+2016	03	29		2016	03	29		La_visite_d__inspection	La visite d’inspection du 29/03/2016, faisant suite aux travaux de dépollution, a permis de constater que quatre petits bâtiments neufs, accolés, ont été construits sur le site, ainsi qu’un hangar et que le site est toujours utilisé pour un usage industriel.		
+				2015	06			Les_terres_extraites	Les terres extraites du site de Bonneuil-sur-Marne ont été stockées sur la plate-forme à Sucy-en-Brie jusqu’en juin 2015.		
+2006	03			2006	03			des_campagnes_effectuées	La comparaison des campagnes effectuées depuis mars 2006 montre une amélioration globale de la qualité des eaux souterraines, en ce qui concerne les HCT, les HAP et les BTEX, y compris pour le benzène malgré un relargage régulier de ce composé peu mobile et de faible biodégradabilité.	'les HCT', 'les HAP', 'les BTEX', 'le benzène'	
+1987	03	23		1987	03	23		a_exploité	La société DIDERON (ex-ACS), a exploité depuis le 23 mars 1987, sur le site du 43 Rue du Moulin Bateau, une installation de «transit et traitement par décantation de résidus de fonds de cuves à fioul» classée sous la rubrique  R 167-a [A] et réglementée par l'arrêté préfectoral du 14/01/1993.	'résidus de fonds de cuves', 'fioul'	'La société DIDERON', 'ex-ACS'
+2005	12	01		2005	12	01		Il_a_été_demandé_par	Il a été demandé par AP du 01/12/2005, à la société DIDERON, l’ancien exploitant, de réaliser une évaluation détaillée des risques (EDR), des actions correctives afin de garantir la compatibilité de la pollution résiduelle avec l’usage du site et d'effectuer une surveillance des eaux souterraines en amont et en aval hydraulique du site.		'la société DIDERON'
+2004	01	31		2004	01	31		a_cessé_définitivement	L'exploitation du site a cessé définitivement le 31 janvier 2004.		

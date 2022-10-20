@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08			2011	08			un_diagnostic_de_pollution_des_sols	Parallèlement en août 2011, l'exploitant a fait réaliser un diagnostic de pollution des sols et des eaux.		
+2012				2012				a_été_attribuée	A noter que la concession a été attribuée à SHELL fin 2012 par les Autoroutes du Sud de la France		'SHELL', 'les Autoroutes du Sud', 'de la France'
+2012	10			2012	10			à_la_dernière_campagne	Depuis 2007 et jusqu'à la dernière campagne d'octobre 2012, on note une absence d'impact par les HCT et BTEX.		
+2013	06			2013	06			La_campagne_de_prélèvement	La campagne de prélèvement de Juin 2013 ont mis en évidence des teneurs mesurées en hydrocarbures toutes inférieures ou proches des limites de quantification.	'hydrocarbures'	

@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	01	14		2014	01	14		un_changement	Dans ce contexte, la société SANOFI Pasteur a déclaré un changement d’exploitant par courrier en date du 14 janvier 2014.		'la société SANOFI Pasteur'
+2014	06	13		2014	06	13		a_été_fournie	Le 13 juin 2014, une proposition d’usage futur du site a été fournie.		
+2016				2016				doivent_s_	Les travaux de remédiation doivent s’étaler sur la période 2014 – 2016 et sur une superficie importante de 15,55 ha, pour permettre le développement des nouvelles activités de fabrication de vaccins d’ici 2019.		
+2014				2014				doivent_s_	Les travaux de remédiation doivent s’étaler sur la période 2014 – 2016 et sur une superficie importante de 15,55 ha, pour permettre le développement des nouvelles activités de fabrication de vaccins d’ici 2019.		
+2011				2011				est_en_cours_de_reconversion	Le site est en cours de reconversion depuis 2011 pour se concentrer sur l’activité de production de vaccins.		
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par l'arrêté préfectoral du 12/08/98.		
+								a_été_transmis	Le diagnostic initial a été transmis à l'administration le 15/02/99.		
+2014	10	1		2014	10	1		a_été_transmis	Le 1er octobre 2014, un plan de gestion du site a été transmis.		
+2000	02	10		2000	02	10		L__étude_Évaluation_Simplifiée_des_Risques	L'étude Évaluation Simplifiée des Risques (ESR) a été transmise le 10/02/2000.		
+2008	10			2008	10			Les_campagnes	Les campagnes de suivi de la qualité des eaux souterraines ont démarré au mois d'octobre 2008.		
+2009	04			2009	04			Une_campagne_d__investigations	Une campagne d'investigations supplémentaires a été menée en avril 2009 par le bureau d'étude ENVIRON afin de conclure sur l'origine extérieure des impacts constatés sur ce piézomètre.		'ENVIRON'
+2014	01	1		2014	01	1		concerne	Cette déclaration concerne les installations classées liées à l’activité de  production de vaccins, précédemment exploitées par SANOFI Chimie, qui restent en fonctionnement au-delà du 1er janvier 2014.		'par SANOFI Chimie'
+2012	11	20		2012	11	20		____a_été_effectuée	Le 20 novembre 2012, une seconde notification de cessation des installations « chimie » a été effectuée.		
+2019				2019				doivent_s_	Les travaux de remédiation doivent s’étaler sur la période 2014 – 2016 et sur une superficie importante de 15,55 ha, pour permettre le développement des nouvelles activités de fabrication de vaccins d’ici 2019.		
+2006				2006				est_revenu	Plusieurs sociétés se sont ensuite succédées sur ce site ; il est revenu à la société SANOFI CHIMIE en 2006.		'la société SANOFI CHIMIE'
+2011	07	25		2011	07	25		la_cessation_partielle	Le 25 juillet 2011, la société SANOFI Chimie a notifié à Monsieur le Préfet du Rhône la cessation partielle de certaines installations classées dédiées à l’activité chimie (actée par arrêté préfectoral du 19 juin 2012).		'la société SANOFI Chimie', 'le Préfet du Rhône'
+2012	06	19		2012	06	19		la_cessation_partielle	Le 25 juillet 2011, la société SANOFI Chimie a notifié à Monsieur le Préfet du Rhône la cessation partielle de certaines installations classées dédiées à l’activité chimie (actée par arrêté préfectoral du 19 juin 2012).		'la société SANOFI Chimie', 'le Préfet du Rhône'
+2001	01	08		2001	01	08		arrêté_complémentaire_d__extension_d__activité	Ces documents n'ont pas révélé de pollution importante des sols et de la nappe, et une mise à niveau globale des modalités de la surveillance du site et de ses rejets a été réalisée avec l'arrêté complémentaire d'extension d'activité du 08 janvier 2001.		
+1999				1999				500_analyses	Concernant la qualité des sols, 1 500 analyses ont été réalisées depuis 1999 sur 420 sondages, jusqu’à 5-6 m de profondeur.		
+2012				2012				de_nouvelles_investigations	En 2012, dans le cadre du projet de cession du site à SANOFI PASTEUR pour ses activités vaccins, de nouvelles investigations ont été engagées en vue de la remédiation du site.		'SANOFI PASTEUR'

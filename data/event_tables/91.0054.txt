@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01			1997	01			Une_campagne_d__analyse	Une campagne d'analyse a été effectuée en janvier 1997.		
+2013	12			2013	12			Les_résultats_de	Les résultats de décembre 2013 mettent toujours en évidence la présence de nickel sur un ouvrage mais à une concentrations moindre, ainsi que la présence de cuivre (concentration légèrement supérieure à la valeur de référence).	'nickel', 'cuivre'	
+1998	10	28		1998	10	28		a_donc_été_pris	Au regard des résultats obtenus, un arrêté préfectoral prescrivant la réalisation d'un diagnostic initial et d'une étude simplifiée des risques a donc été pris le 28 octobre 1998.		
+1975				1975				est_installée	L'entreprise INX International France(anciennement HOLLIDAY ENCRES) est installée à Brétigny sur Orge depuis 1975.		'INX International France(anciennement', 'HOLLIDAY ENCRES'

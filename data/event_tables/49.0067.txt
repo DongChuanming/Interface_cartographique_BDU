@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10			2005	10			Des_travaux_d__excavation	Des travaux d'excavation des sols ont été réalisés en octobre 2005 (192t de terres enlevées et traitées) avec un objectif de réhabilitation de 1.5mg/Kg pour chacun des pesticides.	'pesticides'	
+2005	06			2005	06			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en juin 2005.		
+2005	07	26		2005	07	26		a_été_pris	Les travaux n'ayant pas été mis en œuvre, un arrêté de mise en demeure de réaliser les travaux de dépollution a été pris en date du 26/07/2005.		
+2002	09	25		2002	09	25		Les_premières_analyses	Les premières analyses réalisées le 25/09/2002 montraient une teneur sur le piézomètre 1 (PZ1) situé en latéral du bac de traitement de 3.45µg/L en propiconazole (marqueur du produit de traitement).	'propiconazole', 'produit'	
+2006	04			2006	04			sa_cessation_d__activités	Parallèlement, l'exploitant a notifié sa cessation d'activités dont il a été pris acte en avril 2006.		
+2006	02			2006	02			un_diagnostic_complémentaire	Des teneurs résiduelles sur une zone en fond de fouille (environ 22mg/Kg) supérieures à l'objectif de réhabilitation ont conduit l'exploitant à réaliser un diagnostic complémentaire (12 sondages supplémentaires en janvier 2006) et des travaux d'excavation complémentaires (48t) en février 2006.		
+2005	11			2005	11			a_été_nettoyé	Le bac de traitement a été nettoyé et démantelé fin novembre 2005.		
+1946				1946				est_exploité	Le site est exploité depuis 1946 et, depuis 1966 par la Société LARIVIERE pour une activité de traitement de bois par procédé de trempage.		'la Société LARIVIERE'
+2002				2002				ont_été_installés	A cet effet, trois piézomètres ont été installés en 2002.		
+2004	12			2004	12			ont_été_relevées	En décembre 2004, des teneurs anormales en pesticides ont été relevées dans les piézomètres (1178µg/L en propiconazole, 54µg/L en cypermethrine et 424µg/L en tébuconazole).	'pesticides', 'propiconazole', 'cypermethrine', 'tébuconazole'	

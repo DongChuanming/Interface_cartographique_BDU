@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	08	29		2003	08	29		a_été_autorisée_par_arrêté	La société SOLVADIS France a été autorisée par arrêté en date du 29 août 2003 à exploiter une installation de stockage et de conditionnement de produits chimiques et inflammables sur la commune de Saint-Jacques-de-la-Lande.	'produits chimiques', 'et inflammables'	'La société SOLVADIS France'
+1997				1997				un_diagnostic_de_pollution	Les conclusions de l'ESR s'appuient sur un diagnostic de pollution mené en 1997 sur l'ensemble du site LANGLOIS Chimie (SOLVADIS et SPEICHIM PROCESSING n°Basol 35.0015) :		"l' ESR", 'SOLVADIS', 'SPEICHIM PROCESSING'
+2005	10	06		2005	10	06		a_repris_l__exploitation	Par arrêté préfectoral du 6 octobre 2005, la société QUARON a repris l'exploitation de l’établissement SOLVADIS.		'la société QUARON', 'SOLVADIS'

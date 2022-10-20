@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	29		2003	01	29		a_été_autorisée	La société SARAP INDUSTRIE a été autorisée, par arrêté préfectoral du 29 janvier 2003, à exploiter une scierie et des installations de fabrication de meubles.		'La société SARAP INDUSTRIE'
+2009	11			2009	11			l__arrêt_définitif_de_ces_activités	En novembre 2009, le gérant des sociétés SARAP INDUSTRIE et ANTHEA a déclaré l’arrêt définitif de ces activités sur les deux sites précités.		'des sociétés SARAP INDUSTRIE', 'ANTHEA'
+2010	07	16		2010	07	16		a_prononcé_la_liquidation_judiciaire	Par jugement en date du 16 juillet 2010, le Tribunal de Commerce de BAR-LE-DUC a prononcé la liquidation judiciaire desdites sociétés.		'le Tribunal de Commerce de BAR-LE-DUC'

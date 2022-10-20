@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				s__est_poursuivi	Le suivi de la qualité des eaux souterraines et des gaz du sol s’est poursuivi sur 2013 et 2014.		
+2013	07			2013	07			Les_travaux_d__excavation	Les travaux d'excavation et d'évacuation des terres situées au droit des cuves de l'ancienne station-service se sont déroulés de décembre 2012 à janvier 2013, puis en juillet 2013. 1210 tonnes de terres polluées ont été évacuées vers le centre de traitement de BIOGENIE à Echarcon (91).		'BIOGENIE'
+2010	08	24		2010	08	24		Un_diagnostic_de_pollution	Un diagnostic de pollution, réalisé par SOLER daté du 24/08/2010, et d’une note technique relative aux investigations complémentaires et estimations des quantités et des surcoûts, en date du 31/05/2010 on été transmis par VALOPHIS.		'SOLER', 'VALOPHIS'
+2017	01	03		2017	01	03		ont_été_transmis	Les rapports d’analyse du 3e et 4e trimestre 2016 ont été transmis à la préfecture par courrier du 03/01/2017.		
+2012	12			2013	01			Les_travaux_d__excavation	Les travaux d'excavation et d'évacuation des terres situées au droit des cuves de l'ancienne station-service se sont déroulés de décembre 2012 à janvier 2013, puis en juillet 2013. 1210 tonnes de terres polluées ont été évacuées vers le centre de traitement de BIOGENIE à Echarcon (91).		'BIOGENIE'
+2016				2016				a_été_reprise	La surveillance environnementale trimestrielle a été reprise en aout 2016.		
+2016				2016				n__ont_pas_été_analysés	Au droit du site, les piézomètres PZE, PZH et PZI, qui étaient les plus impactés n'ont pas été analysés en 2016.	'PZE'	'PZH'
+				2013	05			a_été_réalisé	Le traitement des eaux souterraines a été réalisé par l'injection d'eau et d'un oxydant (peroxyde d'hydrogène), de janvier à mai 2013. 4 campagnes d'injections d'une semaine ont été réalisées.	'oxydant', "peroxyde d' hydrogène"	
+				2013	05			ont_été_traitées_par_venting	Les terres de la zone non saturée ont été traitées par venting, de janvier à mai 2013, avec la mise en place de    11 aiguilles d'extraction et de 2 aiguilles d'injection d'air.		
+2013				2013				s__est_poursuivi	Le suivi de la qualité des eaux souterraines et des gaz du sol s’est poursuivi sur 2013 et 2014.		
+2016	07	25		2016	07	25		L__information	L'information a été réalisée par le courrier préfectoral du 25/07/2016.		
+2011	05	06		2011	05	06		La_cessation_d__activité	La cessation d’activité est effective depuis le 06/05/2011.		
+2012	10	29		2012	10	29		par_courrier	Une note technique (équivalente à un plan de gestion) a été transmise par courrier du 29/10/2012.		
+1971	05	26		1971	05	26		ont_été_déclarées	Les installations ont été déclarées le 26/05/1971 et comportaient, notamment 2 réservoirs de     30 m3 enterrés en fosse maçonnée.		
+2012	10	29		2012	10	29		a_été_transmise	Une note technique (équivalente à un plan de gestion) a été transmise par courrier du 29/10/2012.		
+2010	05	31		2010	05	31		Un_diagnostic_de_pollution	Un diagnostic de pollution, réalisé par SOLER daté du 24/08/2010, et d’une note technique relative aux investigations complémentaires et estimations des quantités et des surcoûts, en date du 31/05/2010 on été transmis par VALOPHIS.		'SOLER', 'VALOPHIS'

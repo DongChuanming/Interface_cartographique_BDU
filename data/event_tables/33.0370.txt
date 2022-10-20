@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	11	09		2006	11	09		transmet	Par transmission du 09/11/2006, la Préfecture nous transmet pour avis une d’étude préalable à la réhabilitation, réalisée par la société CETE APAVE SUDEUROPE.		'la Préfecture', 'la société CETE APAVE SUDEUROPE'
+1975				1995				a_été_exploité	Le site a été exploité de 1975 à 1995 et a reçu des ordures ménagères, des encombrants, des déchets verts, des ferrailles et des déchets de démolition.	'ordures ménagères'	

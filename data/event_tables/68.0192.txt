@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	09	22		1994	09	22		fut_exploitée	Elle fut exploitée de 1964 au 22 septembre 1994.		
+1999	05	18		1999	05	18		prélèvement	- AOX (composés organiques halogénés adsorbables) de 78 µg/L, avec une tendance à l'augmentation (prélèvement du 18/05/1999) par rapport aux analyses effectuées en 1998.	'AOX', 'composés organiques halogénés adsorbables'	
+1964				1964				fut_exploitée	Elle fut exploitée de 1964 au 22 septembre 1994.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	09		2005	10	09		d_	Dépôt du dossier de mande d'institution de servitudes d'utilité publique  le 9 octobre 2005		
+2011	02	09		2011	02	09		Arrêté	Arrêté préfectoral instituant des servitudes d'utilité publique sur les sols et le sous-sol du site, le 9/02/2011		
+2005	10	09		2005	10	09		Dépôt_du_dossier_de_mande	Dépôt du dossier de mande d'institution de servitudes d'utilité publique  le 9 octobre 2005		

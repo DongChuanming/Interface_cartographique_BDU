@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	09		2003	01	09		au_travaux_de_dépollution	Par courrier du 4 février 2003, l’exploitant a adressé un rapport réalisé par la société SERPOL relatif au travaux de dépollution du site réalisés le 9 janvier 2003.		'la société SERPOL'
+2003	04	09		2003	04	09		a_été_actée	Les activités ont cessé en décembre 2000 et la cessation a été actée le 9 avril 2003.		
+2003	01	09		2003	01	09		a_adressé	Par courrier du 4 février 2003, l’exploitant a adressé un rapport réalisé par la société SERPOL relatif au travaux de dépollution du site réalisés le 9 janvier 2003.		'la société SERPOL'
+2000	12			2000	12			ont_cessé	Les activités ont cessé en décembre 2000 et la cessation a été actée le 9 avril 2003.		
+2003	03	18		2003	03	18		Par_transmission	Par transmission du 18 mars 2003, la société 2IE mandaté par l'exploitant concluait que les concentrations en aluminium relevées dans les 3 nouveaux prélèvements de sols présentent des concentrations du même ordre de grandeur que les résultats obtenus lors des précédents sondages.	'aluminium'	'la société 2IE'
+2003	02	04		2003	02	04		a_adressé	Par courrier du 4 février 2003, l’exploitant a adressé un rapport réalisé par la société SERPOL relatif au travaux de dépollution du site réalisés le 9 janvier 2003.		'la société SERPOL'
+2000	11			2000	11			une_étude_de_sol	Dans le cadre de sa cessation des activités de fonderie d'aluminium une étude de sol du site a été réalisée en novembre 2000.		

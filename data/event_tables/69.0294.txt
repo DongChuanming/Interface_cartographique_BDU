@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	10		2011	10	10		a_par_la_suite_été_imposée	La surveillance a par la suite été imposée par l'arrêté préfectoral du 10/10/2011.		
+1920				1920				ont_été_construit_sur_le_site	Les bâtiments ont été construit sur le site en 1920.		
+1996	09	05		1996	09	05		a_été_signé	L'arrêté d'autorisation d'exploiter a été signé le 05/09/1996.		
+2008	10	09		2008	10	09		a_été_observé	- Bore (un maximum de 26 000 µg/l a été observé le 09/10/2008 contre 11 100 µg/l le 15/10/2010) ;	'Bore'	
+1954	08	06		1993	08	05		ont_été_pris	Les activités exercées par ces entreprises étant de nature différentes, 10 arrêtés d'autorisation ont été pris entre le 6 août 1954 et le 5 août 1993.		
+				2010	10	15		4_campagnes_ont_été_renseignées	La surveillance est à fréquence semestrielle sur 6 ouvrages dont 2 situés à l'amont hydraulique, un en latéral et les deux dernier à l'aval. 4 campagnes ont été renseignées à l'Inspection des Installations Classées jusqu'au 15/10/2010.		
+1995	10	02		1995	10	02		a_actualisé	La société SMV a actualisé sa situation en remettant à l'Inspection des Installations Classées un dossier de demande d'autorisation reçu en date du 02/10/1995.		'La société SMV'
+2001	06			2001	06			est_certifié_ISO_14_001	L'usine d'AUTO CHÂSSIS INTERNATIONAL est certifié ISO 14 001 depuis juin 2001, et dans ce contexte, une surveillance de la qualité des eaux souterraines a été mise en place.		"d' AUTO CHÂSSIS INTERNATIONAL"

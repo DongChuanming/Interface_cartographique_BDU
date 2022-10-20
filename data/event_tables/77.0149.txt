@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	01			2013	01			a_transmis	Le liquidateur a transmis début janvier 2013, un mémoire de cessation d'activité dans lequel des investigations de terrain montrent que les sols présentent des teneurs supérieures aux valeurs de bruit de fond en métaux :	'en métaux'	
+2013	12	03		2013	12	03		a_été_pris	un arrêté préfectoral complémentaire 2013/DRIEE/UT 77/190 a été pris le 3 décembre 2013 à l'encontre du représentant de la société B.		'DRIEE / UT 77/190', 'la société B.'
+								une	Deux inspections ont été menées dans le cadre de la mise en sécurité du site : une le 1/06/11 et l'autre le 14/02/13 pour vérifier l'évacuation des déchets notamment.		
+2010	02	22		2010	02	22		a_été_mise_en_liquidation_judiciaire	La société a été mise en liquidation judiciaire le 22 février 2010.		
+2015	03			2015	03			a_demandé	L'inspection des installations classées a demandé en mars 2015 des compléments au mandataire liquidateur sur les risques de transfert hors site.		
+2014	12			2014	12			a_transmis	En décembre 2014, le mandataire liquidateur a transmis un rapport comprenant des investigations complémentaires.		

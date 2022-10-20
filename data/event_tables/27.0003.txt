@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				la_poursuite_des_campagnes_de_surveillance	- Suite à une inspection réalisée en 2005, un arrêté préfectoral de mise en demeure en date du 25 avril 2005 impose à Maître HESS la poursuite des campagnes de surveillance de la qualité des eaux souterraines et le maintien en état de la clôture périphérique du site.		'Maître HESS'
+1994				1994				dépose_son_bilan	.L. connait des difficultés financières et dépose son bilan en 1994.		
+1968				1968				des_déversements	En 1968, des déversements de plusieurs poids lourds sont effectués, une mare à goudrons relativement importante se forme.	'goudrons'	
+2008	07	29		2008	07	29		est_demandé	A la suite d'une inspection réalisée le 7 février 2008, un plan de gestion du site est demandé par arrêté préfectoral du 29 juillet 2008, avec une demande de suivi des recommandations de la société SITA REMEDIATION concernant la fréquence d'analyses des eaux souterraines.		'la société SITA REMEDIATION'
+1982				1982				sont_mis_en_place	En 1982, une membrane de bidim et un piézomètre à l'aval du site sont mis en place.		
+2005				2005				une_inspection_réalisée	- Suite à une inspection réalisée en 2005, un arrêté préfectoral de mise en demeure en date du 25 avril 2005 impose à Maître HESS la poursuite des campagnes de surveillance de la qualité des eaux souterraines et le maintien en état de la clôture périphérique du site.		'Maître HESS'
+1964				1964				l__exploitation	La société MATHYS a débuté en 1964 l'exploitation de ce site (ancienne carrière ?) à usage de décharge de brais et de goudrons sulfuriques, provenant de la régénération d'huiles usagées exercée sur une installation industrielle basée en Seine Maritime.	'goudrons sulfuriques'	'La société MATHYS'
+2008	02	07		2008	02	07		est_demandé	A la suite d'une inspection réalisée le 7 février 2008, un plan de gestion du site est demandé par arrêté préfectoral du 29 juillet 2008, avec une demande de suivi des recommandations de la société SITA REMEDIATION concernant la fréquence d'analyses des eaux souterraines.		'la société SITA REMEDIATION'
+1989	10	31		1989	10	31		__Réunion	- Réunion le 31 octobre 1989 en présence de l'ANRED, la DRIRE et CBL pour trouver une solution pour les terres restant à traiter.		'ANRED', 'la DRIRE', 'CBL'
+1990	10	23		1990	10	23		__Réunion	- Réunion le 23 octobre 1990 au ministère de l'environnement demandant une étude complémentaire à l'I.		
+1991	03	28		1991	03	28		Envoi	- Envoi le 28 mars 1991 par CBL d'un rapport établi par M.		'CBL'
+2008	10			2008	10			est_effectuée	La dernière campagne de surveillance connue de la nappe est effectuée en octobre 2008.		
+1988	11	21		1988	11	21		__travaux_de_résorption	- Du 21 novembre 1988 à mi-février 1989 : travaux de résorption du site par EIF ECOLOGIE ; 10 000 tonnes de produits traités correspondant à l'estimation du tonnage faite lors de l'étude.		'EIF ECOLOGIE'
+2008	09			2008	09			est_envoyé	Un cahier des charges portant sur les modalités de rédaction du plan de gestion est envoyé à l'inspection des installations classées pour avis en septembre 2008.		
+2008	02	07		2008	02	07		une_inspection_réalisée	A la suite d'une inspection réalisée le 7 février 2008, un plan de gestion du site est demandé par arrêté préfectoral du 29 juillet 2008, avec une demande de suivi des recommandations de la société SITA REMEDIATION concernant la fréquence d'analyses des eaux souterraines.		'la société SITA REMEDIATION'
+1981				1981				des_travaux_sont_réalisés	En 1981, des travaux sont réalisés (mise en place d'un géo-textile, paillage, tentative d'engazonnement).		
+1992	02	12		1992	02	12		Envoi	- Envoi le 12 février 1992 d'un rapport du B.		
+								__retrait	- Fin février 89 : retrait du matériel de traitement par EIF ECOLOGIE.		'EIF ECOLOGIE'
+1989				1989				un_début_de_traitement	Le site a fait l'objet d'un début de traitement sur 10 000 tonnes de déchets qui a été stoppé en 1989.		
+2013	04	18		2013	04	18		sa_visite_d__inspection	L'inspection a proposé de nouvelles sanctions administratives à l'issue de sa visite d'inspection du 18 avril 2013 afin d'imposer la reprise de la surveillance des eaux souterraines, la remise d'un plan de gestion ainsi que la réfection de la clôture.		
+1979				1979				est_réalisée	En 1979, une butte de terre est réalisée afin d'interdire l'écoulement de la mare à goudrons en dehors des limites de site.		
+1989	02			1989	02			__travaux_de_résorption	- Du 21 novembre 1988 à mi-février 1989 : travaux de résorption du site par EIF ECOLOGIE ; 10 000 tonnes de produits traités correspondant à l'estimation du tonnage faite lors de l'étude.		'EIF ECOLOGIE'
+				1969				sont_effectués	Les déversements de liquides sont effectués jusqu'en 1969.		
+1998				1998				des_investigations_sont_menées	En 1998, des investigations sont menées sur le site pour le compte de Maître HESS par la société GEOCLEAN.		'Maître HESS', 'la société GEOCLEAN'
+1998	12			1998	12			__Envoi	- Décembre 1998 : Envoi par Maître HESS de l'E.		'Maître HESS'

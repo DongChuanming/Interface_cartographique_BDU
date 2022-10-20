@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1996				ont_été_stockés	On estime que de 1973 à 1996, 3 850 000 tonnes de déchets ménagers ont été stockés dans cette décharge.		
+								ont_été_démantelées	Les dernières installations encore présentes sur la zone centrale et exploitées par le syndicat mixte Bil Ta Garbi ont été démantelées au cours du 1er semestre 2016.		'le syndicat mixte Bil Ta Garbi'
+2002	05	21		2002	05	21		un_dossier_technique_de_réhabilitation	Le 21 mai 2002 la CABAB dépose un dossier technique de réhabilitation d'une partie de la décharge, valant déclaration de cessation définitive d'activité.		'la CABAB'
+				2006				a_été_exploitée	Ancienne décharge de Bacheforès, implantée sur la commune de Bayonne, a été exploitée par la commune de Bayonne, puis par l’Agglomération Côte Basque-Adour, de 1973 jusqu’en 2006.		'la commune de Bayonne'
+2004				2004				ont_été_réhabilitées	Les zones I et III ont été réhabilitées en 2004 et 2005.		
+2002	05			2002	05			a_cessé_toute_exploitation	La décharge a cessé toute exploitation en mai 2002.		
+2005				2005				ont_été_réhabilitées	Les zones I et III ont été réhabilitées en 2004 et 2005.		
+2016				2016				ont_été_démantelées	Les dernières installations encore présentes sur la zone centrale et exploitées par le syndicat mixte Bil Ta Garbi ont été démantelées au cours du 1er semestre 2016.		'le syndicat mixte Bil Ta Garbi'
+								a_procédé	Suite à la mise en service de la nouvelle unité de valorisation des déchets de Canopia par le syndicat mixte Bil Ta Garbi, ce dernier a procédé au 1er semestre 2016 à la déconstruction de l’usine.	'valorisation des déchets'	'le syndicat mixte Bil Ta Garbi'
+1973	11	29		1973	11	29		a_été_autorisée	Cette décharge de résidus urbains et assimilés de Bacheforès a été autorisée par l’arrêté préfectoral n°73/EC/346 du 29 novembre 1973.	'résidus urbains'	
+2016				2016				a_procédé	Suite à la mise en service de la nouvelle unité de valorisation des déchets de Canopia par le syndicat mixte Bil Ta Garbi, ce dernier a procédé au 1er semestre 2016 à la déconstruction de l’usine.	'valorisation des déchets'	'le syndicat mixte Bil Ta Garbi'
+2015	12	14		2015	12	14		____dépose	Le 14/12/2015, a Communauté d'Agglomération Côte Basque-Adour (ACBA)  dépose le dossier de finalisation de la réhabilitation de la décharge de Bacheforès.		"a Communauté d' Agglomération Côte Basque"

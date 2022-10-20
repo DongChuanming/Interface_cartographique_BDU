@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				réalisé	Le plan de gestion réalisé en 2009 conclut que :		
+2009				2009				ayant_évolué	Les concentrations en COHV ayant évolué en 2009, le traitement de la nappe a été complété en juin 2010 par la mise en place d’une barrière hydraulique, limitant les risques de transferts de pollution au-delà des limites Est du site.	'COHV'	
+2010	06			2010	06			le_traitement	Les concentrations en COHV ayant évolué en 2009, le traitement de la nappe a été complété en juin 2010 par la mise en place d’une barrière hydraulique, limitant les risques de transferts de pollution au-delà des limites Est du site.	'COHV'	
+2010				2010				des_travaux_d__excavation	a) des travaux d’excavation ont été entrepris en 2010 au niveau de la cuve enterrée, de la zone de stockage des déchets et de la zone d’entrée du parking ;		
+2009				2009				le_traitement	Les concentrations en COHV ayant évolué en 2009, le traitement de la nappe a été complété en juin 2010 par la mise en place d’une barrière hydraulique, limitant les risques de transferts de pollution au-delà des limites Est du site.	'COHV'	
+2009	2008			2009	2008			traitement_in_situ	b) traitement in situ par oxydation des eaux souterraines en 2008/2009.		
+2011	05			2011	05			la_cessation	En mai 2011, l’exploitant a déclaré la cessation de l’activité située sur la partie ouest du site.		
+2003				2003				été_arrêtée	A partir de 2003, l’activité de production des plaques été arrêtée sur le site.		
+2006	12			2006	12			a_été_vidangée	La cuve de solvants usagés a été vidangée, dégazée puis extraite en décembre 2006.	'La cuve de solvants usagés'	
+2008	2007			2008	2007			Le_diagnostic	Le diagnostic des sols et des eaux souterraines, réalisé en 2007/2008, conclut :		
+2009				2009				un_traitement_biologique	A l’issue de ces investigations, un traitement physico-chimique de la nappe de surface a été réalisé à partir de 2008 puis un traitement biologique de la nappe profonde a été réalisé à partir de 2009.		
+2009				2009				Une_étude	Une étude d’Interprétation de l’Etat des Milieux (IEM) a été réalisée en 2009 pour s’assurer de l’absence d’impacts sanitaires sur les riverains du site.		
+2006	12			2006	12			dégazée_puis_extraite	La cuve de solvants usagés a été vidangée, dégazée puis extraite en décembre 2006.	'La cuve de solvants usagés'	
+2005	06	14		2005	06	14		a_été_détectée	Dans le cadre du suivi de la qualité des eaux souterraines, prescrite par arrêté préfectoral du 14 juin 2005, une pollution par les solvants chlorés a été détectée en mars 2006 sur la partie Sud-Est du site.	'solvants chlorés'	
+2009				2009				un_traitement_physico___chimique	A l’issue de ces investigations, un traitement physico-chimique de la nappe de surface a été réalisé à partir de 2008 puis un traitement biologique de la nappe profonde a été réalisé à partir de 2009.		
+2006	03			2006	03			a_été_détectée	Dans le cadre du suivi de la qualité des eaux souterraines, prescrite par arrêté préfectoral du 14 juin 2005, une pollution par les solvants chlorés a été détectée en mars 2006 sur la partie Sud-Est du site.	'solvants chlorés'	
+2008				2008				un_traitement_physico___chimique	A l’issue de ces investigations, un traitement physico-chimique de la nappe de surface a été réalisé à partir de 2008 puis un traitement biologique de la nappe profonde a été réalisé à partir de 2009.		
+2014				2014				ont_été_arrêtées	En 2014, l'ensemble des activités ont été arrêtées (mais une activité non ICPE perdure sur le site).		

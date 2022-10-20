@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				la_nappe_mesurés	- teneurs en hydrocarbures dans la nappe mesurés en 2002 et 2003 inférieures à 120 µg/l,	'hydrocarbures'	
+2007	04	12		2007	04	12		La_Campagne	La Campagne du 12 avril 2007 montre un marquage de la nappe par le phosphore (2 mg/l), mais l'absence de HAP.	'phosphore', 'HAP'	
+2006	03	16		2006	03	16		La_campagne_du	La campagne du 16 mars 2006 montre une DCO croissante dans PZ14 (aval) (200mg/l) et une teneur en Phosphore stable dans PZ14 (4 mg/l).	'DCO', 'PZ14', 'Phosphore', 'PZ14'	
+2010	03	10		2010	03	10		La_campagne	La campagne du 10/03/2010 montre un impact dans le PZ14 : DCO : 114 mgO2/l, Phosphore : 4,69 mg/l ; Naphtalène : 0,26 µg/l.	'DCO', 'Phosphore', 'Naphtalène'	
+2010	03	10		2010	03	10		La_campagne_du	La campagne du 10 mars 2010 montre une élévation du Phosphore (0,013 -> 0,028 mg/l) et du Naphtalène (0,09 -> 0,17 µg/l) d'amont en aval.	'Phosphore', 'Naphtalène'	
+2001				2001				a_été_analysé	- le cours d'eau Nasseys, qui draine la nappe, a été analysé en 2000(recherche de HAP dans les sédiments) et en 2001 (recherche de l'indice Phénols dans l'eau), sans mise en évidence d'augmentation des concentrations.	'HAP', 'Phénols'	
+2008	03	12		2008	03	12		La_campagne_du	La campagne du 12 mars 2008 montre des traces de pollution dans le puit Pz 14 (côté anciennes lagunes), à des niveaux faibles.		
+2003				2003				la_nappe_mesurés	- teneurs en hydrocarbures dans la nappe mesurés en 2002 et 2003 inférieures à 120 µg/l,	'hydrocarbures'	
+2008	03	12		2008	03	12		La_campagne	La campagne du 12 mars 2008 ne montre pas d'impact significatif sur ruisseau (hydrocarbures : 70 --> 80 µg/l)	'hydrocarbures'	
+2007	04	12		2007	04	12		La_Campagne_du	La Campagne du 12 avril 2007 montre l'absence de HAP et l'absence d'impact du ruisseau NASSEYS.		
+2009	03			2009	03			La_campagne_d__analyses	La campagne d'analyses de la nappe et du ruisseau de mars 2009 révèle de façon globale une remontée des teneurs dans la nappe.		
+1992				1992				une_réhabilitation	D'anciennes lagunes de décantation des eaux résiduaires ont fait l'objet d'une réhabilitation en 1992.		
+2003				2003				Les_campagnes_de	Les campagnes de 1999 à 2003 montre une situation stable avec, au niveau des puits de prélèvement Aval (PZ12, PZ14), une valeur de DCO d'une centaine de mg O2/l et une teneur en phosphore d'une dizaine de mg/l qui sont supérieures ou égales aux valeurs de référence pour l'eau de consommation.	'DCO'	
+2001				2001				L__étude_remise	L'étude remise en janvier 1999, complétée par des informations sur les hydrocarbures, les HAP et les Phénols en 2001, classe le site en 2 "à surveiller" pour les milieux eaux souterraines et superficielles et pour l'usage du moment.	'hydrocarbures', 'les HAP', 'Phénols'	
+1999	01			1999	01			L__étude_remise	L'étude remise en janvier 1999, complétée par des informations sur les hydrocarbures, les HAP et les Phénols en 2001, classe le site en 2 "à surveiller" pour les milieux eaux souterraines et superficielles et pour l'usage du moment.	'hydrocarbures', 'les HAP', 'Phénols'	
+2000				2000				a_été_analysé	- le cours d'eau Nasseys, qui draine la nappe, a été analysé en 2000(recherche de HAP dans les sédiments) et en 2001 (recherche de l'indice Phénols dans l'eau), sans mise en évidence d'augmentation des concentrations.	'HAP', 'Phénols'	
+2006	03	16		2006	03	16		La_campagne_du	La campagne du 16 mars 2006 ne montre pas d'anomalie sur les eaux du ruisseau Nasseys (Phosphore Amont/Aval : 34 µg/l/47 µg/l)	'Phosphore'	
+2003	11	19		2003	11	19		La_campagne_du	La campagne du 19 novembre 2003 confirme cette stabilité avec toutefois apparition de phosphore (10 mg/l).	'phosphore'	
+2013	03	06		2013	03	06		La_campagne_du	La campagne du 6 mars 2013 montre des quantités en Phosphore, Nitrates, MES et Naphtalène plus élevées en aval qu'an amont.	'Phosphore', 'Nitrates , MES', 'Naphtalène'	
+2009	03	16		2009	03	16		La_campagne	La campagne du 16/03/2009 montre un impact par certains HAP (HAP = 1,2µg/l dans Pz 4 ; naphtalène = 0,35µg/l dans le Pz 14, concentrations supérieurs à la valeur guide de 0,1µg/l).	'certains HAP', 'HAP', 'naphtalène'	
+2004	06	24		2004	06	24		est_prescrite	La surveillance semestrielle des eaux superficielles en 2 points du ruisseau Nassey est prescrite par l'arrêté préfectoral du 24/06/2004.		
+1999				1999				Les_campagnes_de	Les campagnes de 1999 à 2003 montre une situation stable avec, au niveau des puits de prélèvement Aval (PZ12, PZ14), une valeur de DCO d'une centaine de mg O2/l et une teneur en phosphore d'une dizaine de mg/l qui sont supérieures ou égales aux valeurs de référence pour l'eau de consommation.	'DCO'	
+2009	03	16		2009	03	16		La_campagne_du	La campagne du 16 mars 2009 confirme la situation stable de teneur en phosphore plus élevée en aval qu'en amont (47µg/l à l'aval - 34µg/l en amont.		
+2012				2012				détecté_seulement	Il n'y a plus de chrome détecté que ce soit en amont ou en aval (détecté seulement en 2012).	'chrome'	
+1989	06	06		1989	06	06		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 06/06/1989.		

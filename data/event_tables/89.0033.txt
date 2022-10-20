@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	07	23		1991	07	23		était_autorisé_à_exploiter	Cet établissement était autorisé à exploiter par arrêté préfectoral du 23 juillet 1991.		
+2006	07	1		2006	07	1		sa_cessation_des_activités	Le 31 mars 2006, la société notifie à M. le Préfet sa cessation des activités concernant les installations de déchets métalliques et de stockage de métaux au 1er juillet 2006.		'la société', 'le Préfet'
+2006	03	31		2006	03	31		sa_cessation_des_activités	Le 31 mars 2006, la société notifie à M. le Préfet sa cessation des activités concernant les installations de déchets métalliques et de stockage de métaux au 1er juillet 2006.		'la société', 'le Préfet'

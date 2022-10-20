@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								à_une_inspection	Par courrier du 23 octobre 2012, la société COOPER a remis une étude datée d’octobre 2012 « Plan de gestion et analyse des risques résiduels (ARR) »  complétée en octobre 2013 suite à une inspection effectuée sur le site le 19 mars 2013.		'la société COOPER'
+2013	03	19		2013	03	19		à_une_inspection	Par courrier du 23 octobre 2012, la société COOPER a remis une étude datée d’octobre 2012 « Plan de gestion et analyse des risques résiduels (ARR) »  complétée en octobre 2013 suite à une inspection effectuée sur le site le 19 mars 2013.		'la société COOPER'
+2009				2009				de_cette_phase_pilote	Lors de cette phase pilote en 2009, une nouvelle campagne d’analyses de sol a été réalisée et a mis en évidence une pollution des sols.		
+2011	08			2011	08			a_décidé	Suite à cela, depuis août 2011 l’exploitant a décidé de mettre en œuvre un traitement des terres polluées du site par excavation et ensemencement biologique.		
+2012	10			2012	10			L__étude_d_	L’étude d’octobre 2012 comprend une analyse des risques résiduels afin de vérifier la compatibilité des mesures de gestion.		
+2015	06	04		2015	06	04		a_demandé	Par courrier du 4 juin 2015, l'inspection a demandé à l'exploitant des compléments au plan de gestion pour :		
+2008				2008				a_engagé	Suite à la découverte de cette pollution, la société COOPER a engagé en 2008 de sa propre initiative des travaux de dépollution.		'la société COOPER'
+2012	09			2012	09			a_commencé	Le traitement biologique des terres a commencé en septembre 2011 et s'est achevé en septembre 2012.		
+2009				2009				une_nouvelle_campagne_d__analyses	Lors de cette phase pilote en 2009, une nouvelle campagne d’analyses de sol a été réalisée et a mis en évidence une pollution des sols.		
+2011	10			2011	10			a_été_mise_en_place	Une pompe à écrémage sélectif a été mise en place en octobre 2011 dans la fosse excavée afin de récupérer le surnageant en hydrocarbures sur la nappe.	'hydrocarbures'	
+								Ces_travaux_ont	Ces travaux ont duré 9 mois.		
+2011	09			2011	09			a_commencé	Le traitement biologique des terres a commencé en septembre 2011 et s'est achevé en septembre 2012.		
+2012	09			2012	09			s__est_achevé	Le traitement biologique des terres a commencé en septembre 2011 et s'est achevé en septembre 2012.		
+2007				2007				un_diagnostic	La société COOPER a fait réaliser en 2007 avant la réalisation de travaux, un diagnostic de l’état des sols et des eaux souterraines du site ; Ce diagnostic a mis en évidence une pollution notamment en hydrocarbures totaux, des eaux souterraines qui se situent à environ 3-5 m de profondeur.	'hydrocarbures totaux'	'La société COOPER'
+1932				1932				un_déversement_accidentel	L’origine de la pollution serait liée, d’après l’étude historique menée, à un déversement accidentel d’hydrocarbure en 1932, à l'époque où le site comportait des dépôts pétroliers et n'appartenait pas encore à la société COOPER.	'hydrocarbure'	'la société COOPER'
+2015	03			2015	03			La_dernière_analyse	La dernière analyse de mars 2015 montre à nouveau une concentration inférieure au seuil.		
+2011				2011				poursuit	Depuis 2011, l’exploitant poursuit la surveillance des eaux souterraines du site sur les trois piézomètres présents selon une fréquence trimestrielle.		
+2011				2011				la_surveillance_des_eaux_souterraines	Depuis 2011, l’exploitant poursuit la surveillance des eaux souterraines du site sur les trois piézomètres présents selon une fréquence trimestrielle.		
+2012	10			2012	10			une_étude_datée_d_	Par courrier du 23 octobre 2012, la société COOPER a remis une étude datée d’octobre 2012 « Plan de gestion et analyse des risques résiduels (ARR) »  complétée en octobre 2013 suite à une inspection effectuée sur le site le 19 mars 2013.		'la société COOPER'
+2011	01	10		2011	01	10		il_a_été_acté	Ainsi, par lettre préfectorale du 10 janvier 2011, il a été acté que les activités de stockage de la société COOPER sur ce site ne relèvent plus de la réglementation des installations classées pour la protection de l’environnement.		'la société COOPER'
+				2011	09	02		réalisés	Les travaux de terrassement des matériaux pollués, réalisés du 17 août au 2 septembre 2011 ont consisté en l'excavation de 3 095 m3 de terres, jusqu'à 1 à 2 m sous le niveau de la nappe.		
+2012	10	23		2012	10	23		une_étude_datée_d_	Par courrier du 23 octobre 2012, la société COOPER a remis une étude datée d’octobre 2012 « Plan de gestion et analyse des risques résiduels (ARR) »  complétée en octobre 2013 suite à une inspection effectuée sur le site le 19 mars 2013.		'la société COOPER'

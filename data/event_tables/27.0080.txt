@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_installée_progressivement	La station d'épuration a été installée progressivement à partir de 1998 et le zéro rejet n'a vraiment été effectif qu'à partir de 2002.		
+2005				2005				un_curage	En 2005, l'exploitant a réalisé un curage du fossé et a évacué environ 10 tonnes de terres en décharge de classe 1.		
+2011	11	08		2011	11	08		de_l__inspection	Lors de l'inspection du 8 novembre 2011, l'exploitant a remis à l'inspection des installations classées une étude de pollution.		
+2011	11	08		2011	11	08		une_étude_de_pollution	Lors de l'inspection du 8 novembre 2011, l'exploitant a remis à l'inspection des installations classées une étude de pollution.		
+1996				1996				construit	- un grand atelier n° 2 d'environ 600 m², construit en 1996, comportant 3 chaînes de traitement automatiques et 1 chaîne manuelle ainsi que la station de détoxication en zéro rejet liquide.		
+1996				1996				a_été_mis_hors_service	Ce puisard a été mis hors service lors de la construction du grand atelier en 1996 et les rejets (d'eaux de rinçages) ont alors été dirigés vers le fossé au fond du site.		
+2003				2003				La_première_étude_de_sol	La première étude de sol, réalisée en 2003 (2 sondages), a révélé un impact très significatif dû aux anciennes pratiques de rejets dans le sol et les eaux.		
+2009				2009				ont_été_prescrits	Dans l'arrêté préfectoral de 2009, une étude sur la pollution du site, la mise en place d'une surveillance piézométrique ainsi que la réalisation d'un plan de gestion de cette pollution et sa mise en œuvre ont été prescrits à l'exploitant avec une échéance de réalisation de 24 mois.		
+1981				1981				est_implantée	La société ATEM COURAGE est implantée à Croth depuis 1981.		'La société ATEM COURAGE'
+2002				2002				n__a_vraiment_été_effectif	La station d'épuration a été installée progressivement à partir de 1998 et le zéro rejet n'a vraiment été effectif qu'à partir de 2002.		

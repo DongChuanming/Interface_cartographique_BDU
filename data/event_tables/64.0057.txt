@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07	13		2013	07	13		l__accident	Le 04/10/2013, l'inspection propose de suspendre cette surveillance spécifique à l'accident du 13/07/2013.		
+2008	06			2008	06			est_survenue	4.1 - Le 19 juillet 2008, ARKEMA informe la DREAL qu'une fuite d'eaux polluées est survenue début juin 2008 à proximité du piézomètre E9.		'ARKEMA', 'la DREAL'
+2010	02	19		2010	02	19		la_cessation	La société ARKEMA a déclaré, le 19 février 2010, la cessation partielle d'activité portant sur la fin de l'exploitation du poste de dépotage d'oxyde d'éthylène.	"oxyde d' éthylène"	'La société ARKEMA'
+2013	10	04		2013	10	04		informe	Le 04/10/2013, l'inspection informe l'exploitant de l'actualisation prochaine du diagnostic des sols et des modalités de surveillance périodique des eaux.		
+2008	07	19		2008	07	19		informe	4.1 - Le 19 juillet 2008, ARKEMA informe la DREAL qu'une fuite d'eaux polluées est survenue début juin 2008 à proximité du piézomètre E9.		'ARKEMA', 'la DREAL'
+2010	02	19		2010	02	19		a_été_rendu	Le mémoire a été rendu le 19 février 2010.		

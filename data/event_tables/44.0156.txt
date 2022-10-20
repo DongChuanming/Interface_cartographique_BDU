@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1976				a_exercé	À partir de 1976, la société GLORIA a exercé, sur le site, une activité de fabrication de médailles, coupes et trophées.		'la société GLORIA'
+2006				2006				a_été_reprise	Cette activité a été reprise par la société SUCCES en 1996 puis par la société ANMDS en 2006.		'la société SUCCES', 'société ANMDS'
+2016	06	17		2016	06	17		a_fait_savoir	Par courrier du 17 juin 2016, la société ANMDS a fait savoir qu’elle cessait ses activités sur le site de La Chevrolière.		'la société ANMDS'
+2017				2017				a_été_prescrite	La poursuite de la surveillance de la qualité des eaux souterraines a été prescrite par arrêté préfectoral du 21 juillet 2017.		
+1996				1996				a_été_reprise	Cette activité a été reprise par la société SUCCES en 1996 puis par la société ANMDS en 2006.		'la société SUCCES', 'société ANMDS'
+2017	02			2017	02			un_diagnostic_complémentaire_des_sols	Au vu de ces éléments, un diagnostic complémentaire des sols a été réalisé en février 2017.		
+2016	10			2016	10			a_été_transmis	Un mémoire de cessation d’activité a été transmis à l’inspection en octobre 2016.		
+2016	07			2016	07			Un_diagnostic_de_pollution_des_sols_a_été_établi	Un diagnostic de pollution des sols a été établi en juillet 2016 puis complété en septembre 2016 ; 19 sondages de sols ont été réalisés au voisinage des sources potentielles de pollution identifiées (zones de stockage, cuves enterrées, anciens transformateurs PCB, ...).	'transformateurs PCB'	
+								a_été_prescrite	La poursuite de la surveillance de la qualité des eaux souterraines a été prescrite par arrêté préfectoral du 21 juillet 2017.		

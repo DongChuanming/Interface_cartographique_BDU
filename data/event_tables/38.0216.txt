@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959	07	15		1959	07	15		a_également_été_signé	Un récépissé de déclaration a également été signé le 15/07/1959 en vue de réglementer un dépôt de 165 m3 d'essence et de fioul lourd.	'essence', 'fioul lourd'	
+1996				1996				ses_activités	Elle cessera ses activités en 1996.		
+1869				1869				se_porte_acquéreur	En 1869, ORIOLIS se porte acquéreur des terrains et y implante quelques années plus tard une machine à papier ravitaillée par de la pâte mécanique ou de la pâte à chiffon.		'ORIOLIS'
+1982				1982				est_reprise	L'activité est reprise en 1982 après la fondation de la société des PÂTES A PAPIER SAVOIE DAUPHINE.		'la société des PÂTES A PAPIER SAVOIE DAUPHINE'
+2007	11	02		2007	11	02		a_été_signé	Un arrêté préfectoral a été signé le 02/11/2007 en vue d'imposer à maitre GUYOT :		'maitre GUYOT'
+1975	01	17		1975	01	17		signé	Un nouveau dépôt de fioul aérien d'une capacité de 450 m3 a fait l'objet d'un récépissé d'autorisation signé le 17/01/1975.	'fioul aérien'	
+2010	01	01		2010	01	01		a_été_dévoilé	Le 01/01/2010, un projet de requalification du site avec aménagement d'ilots dédiés aux métiers de l'art et de la création, aux équipements publics, à des locaux pour les PME, TPE et services aux entreprises a été dévoilé.		
+								La_cessation_d__activité	La cessation d'activité aura lieu 5 ans plus tard et la société a été placée sous le mandat d'un liquidateur judiciaire, maitre Christian GUYOT.		'maitre Christian GUYOT'
+2012	01			2012	01			ont_été_réalisés	17 sondages ont été réalisés pour la campagne du mois de janvier 2012.		
+1970				1970				a_été_installée	Une nouvelle installation de combustion a été installée en 1970 et a fait l'objet d'un arrêté d'autorisation signé le 06/05/1971.		
+1925				1925				voit_le_jour	La SOCIÉTÉ des PAPETERIES de MOULIN VIEUX (SPMV) voit le jour en 1925.		'La SOCIÉTÉ des PAPETERIES de MOULIN VIEUX', 'SPMV'
+2011	11			2011	11			un_diagnostic_des_sols	Suite au projet de réaménagement du site, un diagnostic des sols a été réalisé par le bureau d'étude INGEOS en novembre 2011.		'INGEOS'
+1955	10	31		1955	10	31		a_été_autorisée	Son activité a été autorisée par l'arrêté d'autorisation du 31/10/1955.		
+								a_été_placée_sous_le_mandat	La cessation d'activité aura lieu 5 ans plus tard et la société a été placée sous le mandat d'un liquidateur judiciaire, maitre Christian GUYOT.		'maitre Christian GUYOT'
+1975	01	17		1975	01	17		a_fait_l__objet_d_	Un nouveau dépôt de fioul aérien d'une capacité de 450 m3 a fait l'objet d'un récépissé d'autorisation signé le 17/01/1975.	'fioul aérien'	
+2013	02			2013	02			Des_travaux_de_décontamination	- Des travaux de décontamination "amiante" seront engagés en février 2013 ;		
+1977				1977				dépose_son_bilan	En 1977, la SPMV dépose son bilan.		'la SPMV'
+1971	05	06		1971	05	06		a_été_installée	Une nouvelle installation de combustion a été installée en 1970 et a fait l'objet d'un arrêté d'autorisation signé le 06/05/1971.		
+2013				2013				sera_réalisée	- La surveillance de la qualité des eaux souterraine sera réalisée dans le courant de l'année 2013 par le bureau d'étude INGEOS.		'INGEOS'
+2013	01	15		2013	01	15		un_courrier	Dans un courrier daté du 15 janvier 2013, la communauté de commune Le Grésivaudan déclare à l'Inspection des Installations Classées que :		'la communauté de commune Le Grésivaudan'
+2013	01	15		2013	01	15		déclare	Dans un courrier daté du 15 janvier 2013, la communauté de commune Le Grésivaudan déclare à l'Inspection des Installations Classées que :		'la communauté de commune Le Grésivaudan'
+1959	07	15		1959	07	15		vue	Un récépissé de déclaration a également été signé le 15/07/1959 en vue de réglementer un dépôt de 165 m3 d'essence et de fioul lourd.	'essence', 'fioul lourd'	
+1971	05	06		1971	05	06		signé	Une nouvelle installation de combustion a été installée en 1970 et a fait l'objet d'un arrêté d'autorisation signé le 06/05/1971.		
+1856				1856				à_l_	Les premières activités recensées sur le site remontent à l'année 1856.		

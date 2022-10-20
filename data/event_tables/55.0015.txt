@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				la_mise_en_liquidation_judiciaire	Suite à la mise en liquidation judiciaire de l'exploitant en 2005, une partie des produits susceptibles d'engendrer des risques pour l'environnement (liquides divers, sources radioactives,..) ont été évacués par le mandataire judiciaire.		
+2006	11	24		2006	11	24		Réception	Réception du dossier de cessation d’activité le 24 novembre 2006.		
+2005	02			2005	02			a_été_mise_en_liquidation_judiciaire	La société LA FUSION ELECTRIQUE a été mise en liquidation judiciaire en février 2005.		'La société LA FUSION ELECTRIQUE'
+2005				2005				ont_été_évacués	Suite à la mise en liquidation judiciaire de l'exploitant en 2005, une partie des produits susceptibles d'engendrer des risques pour l'environnement (liquides divers, sources radioactives,..) ont été évacués par le mandataire judiciaire.		
+2007	04	25		2007	04	25		est_réalisé	Le 25 avril 2007, un courrier de prise en charge ADEME est réalisé, ainsi qu'une demande d'informations complémentaires.		
+2007	12	21		2007	12	21		suivi	Le 19 juillet 2007, arrêt préfectoral de mise en demeure suivi le 21 décembre 2007 par un arrêté préfectoral de consignation.		
+2011				2011				cours_de	Les opérations suivantes ont été menées au cours de l'année 2011 :		
+2002	09			2002	09			Les_analyses	Les analyses de septembre 2002 montrent un impact significatif sur les eaux souterraines pour le paramètre flourures, le piézomètre Pz2 (aval) présentant une teneur supérieure à la VCI usage sensible.	'flourures'	

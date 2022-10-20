@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1943	09			1943	09			a_été_bombardée	L'usine a été bombardée en septembre 1943 et juin-juillet 1944.		
+1979	07	29		1979	07	29		a_ensuite_été_autorisée_à_poursuivre_ses_activités	La société a ensuite été autorisée à poursuivre ses activités par arrêté préfectoral du 29/07/1979.		
+								a_été_bombardée	L'usine a été bombardée en septembre 1943 et juin-juillet 1944.		
+1989				1989				est_vendue	En 1989, la papeterie est vendue au groupe Papeterie de Nantes.		
+1944	07			1944	07			a_été_bombardée	L'usine a été bombardée en septembre 1943 et juin-juillet 1944.		
+1993				1993				la_fusion	En 1993 a lieu la fusion du groupe Béghin Say avec le groupe italien ERIDANIA.		'groupe Béghin Say', 'le groupe italien ERIDANIA'
+1936				1936				a_été_réalisée	La construction de la sucrerie Boulevard Benoni Goullin par la société des Raffineries et Sucreries Say a été réalisée en 1935 et 1936.		'Sucreries Say'
+2004				2004				est_constitué	En 2004 le groupe TEREOS est constitué, reprenant notamment les activités de Béghin Say.		'le groupe TEREOS', 'Béghin Say'
+1946	01			1946	01			ont_repris	Les activités de la raffinerie ont repris en janvier 1946.		
+2013	04	25		2013	04	25		a_réalisé	Dans le cadre de la cessation partielle d'activité du site sis 45 boulevard Benoni Goullin à Nantes, le groupe TEREOS a réalisé un plan de gestion daté du 25/04/2013.		'le groupe TEREOS'
+2009				2009				est_arrêtée	En 2009, l'activité de la sucrerie est arrêtée.		
+1973				1973				a_racheté	En 1973, Le groupe Béghin (sucrerie et distillerie betteraves) a racheté la société Say.		'Le groupe Béghin', 'la société Say'
+1937				1937				Elle_a_été_mise_en_service	Elle a été mise en service en 1937.		
+1935				1935				a_été_réalisée	La construction de la sucrerie Boulevard Benoni Goullin par la société des Raffineries et Sucreries Say a été réalisée en 1935 et 1936.		'Sucreries Say'

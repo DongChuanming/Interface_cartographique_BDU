@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01			2003	01			_Réalisation_d__une_évaluation_détaillée_des_risques	-Réalisation d'une évaluation détaillée des risques en janvier 2003		
+1975				1980				a_reçu	- Le site a reçu entre 1969 et 1975 des produits de curage, des déchets et des effluents et de 1975 à 1980 des dépôts de remblais inertes et des boues de dragages	'des déchets'	
+2008	12	18		2008	12	18		_Mise_en_place_de	-Mise en place de deux nouveaux piézomètres le 17 et 18 décembre 2008, nombre total de piézomètres: 7		
+2004	11			2004	11			_Réalisation_d__une_évaluation_détaillée_des_risques	-Réalisation d'une évaluation détaillée des risques en novembre 2004 qui confirme que le site est compatible avec l'usage étudié, c'est à dire un aménagement en zone naturelle		
+2007	02			2007	02			_Réalisation_d__un_dossier_de_demande	-Réalisation d'un dossier de demande de Servitudes d'Utilité Publique en février 2007		
+2002	04			2002	04			_Réalisation_d__un_diagnostic_approfondi	-Réalisation d'un diagnostic approfondi en avril 2002		
+2005	11			2005	11			_Réalisation_d__un_écrémage	-Réalisation d'un écrémage de la phase flottante (des eaux souterraines) en novembre 2005		
+1969				1975				a_reçu	- Le site a reçu entre 1969 et 1975 des produits de curage, des déchets et des effluents et de 1975 à 1980 des dépôts de remblais inertes et des boues de dragages	'des déchets'	
+								_Mise_en_place_de	-Mise en place de deux nouveaux piézomètres le 17 et 18 décembre 2008, nombre total de piézomètres: 7		
+2004	09	30		2004	09	30		_Travaux_de_réhabilitation	-Travaux de réhabilitation du site à partir du 30 septembre 2004:		
+2004	09	30		2004	09	30		à	-Travaux de réhabilitation du site à partir du 30 septembre 2004:		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2003				est_atteint	Le pic de cette pollution est atteint entre 2002 et 2003.		
+2000	05	03		2000	05	03		a_été_reportée	Par l'insuffisance de filières d'élimination, l'échéance du 1er janvier 1997 a été reportée au 1er janvier 2002 par l'arrêté du 3 mai 2000.		
+2006	11			2006	11			est_résorbé	Novembre 2006, le dépôt est résorbé.		
+2010	03	10		2010	03	10		Cette_cessation_d__activité	Cette cessation d'activité ainsi que la réactualisation de la nomenclature des installations visées par les activités exercées sur le site ont été entérinées par arrêté préfectoral complémentaire le 10/03/2010.		
+1997	01	1		1997	01	1		a_été_reportée	Par l'insuffisance de filières d'élimination, l'échéance du 1er janvier 1997 a été reportée au 1er janvier 2002 par l'arrêté du 3 mai 2000.		
+1997				2001				ont_été_évacués	De 1997 à 2001, 12278 tonnes de chaux ont été évacués.		
+2006	12	31		2006	12	31		a_été_reportée	Par l'insuffisance de filières d'élimination, l'échéance du 3 mai 2000 a été reportée au 31 décembre 2006 par l'arrêté préfectoral du 23 mars 2004.		
+1996	07	25		1996	07	25		ont_été_actualisées	Les prescriptions techniques ont été actualisées par l'arrêté du 25/07/1996.		
+2004	03	23		2004	03	23		a_été_reportée	Par l'insuffisance de filières d'élimination, l'échéance du 3 mai 2000 a été reportée au 31 décembre 2006 par l'arrêté préfectoral du 23 mars 2004.		
+2008	07	15		2008	07	15		à_un_accident_survenu	Suite à un accident survenu sur le site le 15/07/2008, l'exploitant a produit une déclaration de cessation d'activité pour la production et la compression d'acétylène.	'acétylène'	
+2002	01	1		2002	01	1		a_été_reportée	Par l'insuffisance de filières d'élimination, l'échéance du 1er janvier 1997 a été reportée au 1er janvier 2002 par l'arrêté du 3 mai 2000.		

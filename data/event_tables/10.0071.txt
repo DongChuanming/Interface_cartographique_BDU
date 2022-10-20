@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	19		2005	10	19		de_déclaration	Le site possède ainsi un récépissé de déclaration en date du 19 octobre 2005.		
+2009				2009				a_arrêté_définitivement	La société Gigant France a arrêté définitivement l'ensemble de ses installations de Saint Thibault au cours de l'année 2009.		'La société Gigant France'
+2003	05	16		2003	05	16		un_incendie_s__est_déclaré	Le 16 mai 2003, un incendie s'est déclaré sur le site.		
+2002				2004				une_surveillance_piézométrique	Ce site a fait l'objet d'une surveillance piézométrique (de 2002 à 2004) qui n'a révélé aucune trace de pollution dans les eaux souterraines.		

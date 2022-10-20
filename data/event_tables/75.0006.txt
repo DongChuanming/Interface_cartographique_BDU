@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	1		2009	11	1		la_cessation_d__activité	SHELL a déclaré, le 28/08/2009, la cessation d'activité de la station-service à compter du 1er novembre 2009.		'SHELL'
+1993				1993				a_été_remise_en_activité	La station service a été remise en activité fin 1993.		
+2014	11	07		2014	11	07		il_a_été_demandé	Par courrier de la préfecture de police du 7 novembre 2014, il a été demandé à l’exploitant de déterminer l'étendue de l'impact de la pollution des sols et de proposer les mesures de gestion afférentes.		
+2012	07	05		2012	07	05		a_transmis	SHELL a transmis,le 5 juillet 2012, un rapport de fin de travaux qui mentionne:		'SHELL'
+2009	08	28		2009	08	28		la_cessation_d__activité	SHELL a déclaré, le 28/08/2009, la cessation d'activité de la station-service à compter du 1er novembre 2009.		'SHELL'
+				2009				a_été_exploité	Le site a été exploité par une station-service jusqu'en 2009.		
+2008	07	03		2008	07	03		Un_nouveau_déversement	Un nouveau déversement d'hydrocarbures a eu lieu le 03/07/2008.	'hydrocarbures'	
+2009	11	1		2009	11	1		L__exploitation	L'exploitation de la station-service a céssé le 1er novembre 2009.		

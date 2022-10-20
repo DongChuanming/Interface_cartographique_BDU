@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_prescrite	L'ESR a été prescrite par AP du 16/06/99.		"L' ESR"
+1998				1998				le_démantèlement_de_celles_ci	En 1998, un incident survenu au niveau des cuves de fioul lourd a provoqué le démantèlement de celles-ci.	'fioul lourd'	
+1996				1996				est_révélée	En 1996, une pollution des sols aux hydrocarbures est révélée dans le secteur Manifold- Pomperie, elle provient de cuves enterrées dont les joints de raccordement sont défectueux.	'hydrocarbures'	
+1969				1969				s__implante	Dès 1969, la société des Dépôts Pétrolier de Fos s'implante sur le site avec la construction de 21 stockages (242 000 m3).		'la société des Dépôts Pétrolier de Fos'
+1994				1994				détectée	En 1994, une pollution sous la forme d'un surnageant dans le piézomètre B est détectée.	'surnageant'	

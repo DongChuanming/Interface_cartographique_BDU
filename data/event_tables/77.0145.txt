@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979	06	11		1979	06	11		ont_fait_l__objet_d_	Ces activités ont fait l’objet d’un récépissé de déclaration n°10.902 du 11 juin 1979.		
+1979				1979				A	A partir de 1979, des activités de carrosserie et d’application de peintures ont été également déclarées.		
+2009				2009				la_cession	Dans le cadre de la cession du site en 2009, une étude historique et un diagnostic des sols ont été réalisés.		
+1925				1925				a_été_exploité	Ce site a été exploité depuis 1925 pour des activités de stockage et de distribution de liquides inflammables (station-service).	'liquides inflammables'	
+2013	11	29		2013	11	29		a_été_signé	L'arrêté de travaux d'office chargeant l'Ademe de ces opérations a été signé le 29 novembre 2013.		
+2011	05	03		2011	05	03		a_réalisé_une_visite	L'inspection de l'environnement a réalisé une visite du site le 03 mai 2011.		
+1982				1982				a_repris	Le dernier exploitant déclaré en préfecture pour l'exploitation de la station-service est la société ERG qui a repris l'activité fin 1982.		'la société ERG'
+2015				2015				Le_démarrage_des_actions	Le démarrage des actions sur ce site est prévu pour fin 2015.		
+2009				2009				une_étude_historique	Dans le cadre de la cession du site en 2009, une étude historique et un diagnostic des sols ont été réalisés.		
+2011	07	07		2011	07	07		Une_nouvelle_visite	Une nouvelle visite a eu lieu le 07 juillet 2011.		

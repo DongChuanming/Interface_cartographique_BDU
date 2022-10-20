@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				__évacuation	Suite à cela, en 2005: évacuation des déchets, remise en état, rebouchage du forage et mise en place d'un gardiennage.		
+2001				2001				__cessation	En 2001: cessation d'Alstom, puis division du site en trois parties: SCI du triangle, SI énergie et Alstom		"d' Alstom", 'Alstom'
+								utilisation	Remise en état pour un usage industriel, utilisation dans les années 2000 pour du stockage de futs, d'équipement mécanique et des archives.		
+2003				2003				Notification_de_cessation_d__activité	Notification de cessation d'activité et mémoire de cessation d'activité ont été produits par ALSTOM en 2003.		'ALSTOM'
+2000				2000				une_étude_des_sols	L'exploitant a mené, de manière volontariste, une étude des sols, phase historique puis investigations sur le terrain courant 2000.		
+1956				1956				exploité	Site de chaudronnerie en activité exploité depuis 1956, sur le terrain d'une ancienne filature datant de 1869.		
+				2000				a_été_exploité	Connu sous le nom de "STEIN et ROUBAIX" puis de "STEIN INDUSTRIES", le site a été exploité par le groupe ALSTOM jusqu'en 2000.		'STEIN et ROUBAIX', '" STEIN INDUSTRIES "', 'le groupe ALSTOM'
+2000				2000				investigations_sur_le_terrain	L'exploitant a mené, de manière volontariste, une étude des sols, phase historique puis investigations sur le terrain courant 2000.		

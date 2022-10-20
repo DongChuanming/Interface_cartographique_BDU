@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	05		2011	07	05		La_vente_aux_enchères	La vente aux enchères des biens immobiliers du site a été effectuée en date du 05/07/2011.		
+1913				1913				a_débuté	Sur le site, l'activité de fonderie a débuté en 1913 avec l'implantation des fonderies de la Verpillière sous le nom "MITAL ET MARRON".		'MITAL ET MARRON "'
+2006	08	01		2006	08	01		une_visite_du_site_réalisée	Le rapport concernant cette étude a été remis à l'inspection des installations classées lors d'une visite du site réalisée le 01/08/2006.		
+2006	08	01		2006	08	01		cette_étude_a_été_remis	Le rapport concernant cette étude a été remis à l'inspection des installations classées lors d'une visite du site réalisée le 01/08/2006.		
+				2008				ont_eu_lieu	Celles-ci ont eu lieu entre l'année 2007 et 2008.		
+2006	11	14		2006	11	14		__a_été_pris	Compte tenu du fait qu'aucune analyse n'avait été effectuée sur les eaux souterraines et sur les terrains à proximité du site, un arrêté préfectoral complémentaire (APC) a été pris en date du 14/11/2006 afin de prescrire à l'exploitant la réalisation d'une étude historique, d'une étude de vulnérabilité de l'environnement du site ainsi qu'un diagnostic des milieux.		
+2014				2014				Deux_incendies_se_sont_déclarés	Deux incendies se sont déclarés en 2013 et en 2014 suite à ces actes de vandalisme.		
+2015	01	14		2015	01	14		Une_visite_d_	Une visite d'inspection a été réalisée le 14/01/2015 dans le but de contrôler l’état dans lequel se trouvent les anciennes fonderies de l’Isère, consécutivement à l’incendie de fin 2014.		
+2007				2007				devient	Suite à un changement de raison sociale, GRIFS devient TWO CAST EUROPE en 2007.		'GRIFS devient TWO CAST EUROPE'
+2014				2014				Une_visite_d_	Une visite d'inspection a été réalisée le 14/01/2015 dans le but de contrôler l’état dans lequel se trouvent les anciennes fonderies de l’Isère, consécutivement à l’incendie de fin 2014.		
+2009	11	13		2009	11	13		a_été_rédigé	Le rapport de SITA a été rédigé en date du 13 novembre 2009.		'SITA'
+2014	12	24		2014	12	24		un_arrêté_municipal	Pour cette raison, le maire a pris un arrêté municipal le 24 décembre 2014 portant interdiction de pénétrer ;		'le maire'
+2013				2013				Deux_incendies_se_sont_déclarés	Deux incendies se sont déclarés en 2013 et en 2014 suite à ces actes de vandalisme.		
+2014				2014				l__incendie	Une visite d'inspection a été réalisée le 14/01/2015 dans le but de contrôler l’état dans lequel se trouvent les anciennes fonderies de l’Isère, consécutivement à l’incendie de fin 2014.		
+2005	05	25		2005	05	25		Le_premier_diagnostic_réalisé	Le premier diagnostic réalisé sur une partie du site date du 25/05/2005.		
+2014	12	24		2014	12	24		portant_interdiction_de_pénétrer	Pour cette raison, le maire a pris un arrêté municipal le 24 décembre 2014 portant interdiction de pénétrer ;		'le maire'
+2009	03	10		2009	03	10		un_jugement	Par un jugement du Tribunal de Commerce de Vienne en date du 10/03/2009, la société TWO CAST EUROPE a été mise en redressement judiciaire.		'Tribunal de Commerce de Vienne', 'la société TWO CAST EUROPE'
+1999				1999				sont_rachetées	En 1968 les fonderies de la Verpillière deviennent les fonderies de l'Isère, puis, en 1999 elles sont rachetées par la société GRIFS.		'la société GRIFS'
+1968				1968				deviennent	En 1968 les fonderies de la Verpillière deviennent les fonderies de l'Isère, puis, en 1999 elles sont rachetées par la société GRIFS.		'la société GRIFS'

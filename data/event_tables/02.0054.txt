@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				est_autorisée	Depuis 1983 Etirex est autorisée pour le traitement de surface des métaux.		'Etirex'
+2009				2011				ont_été_mis_en_œuvre	Concernant les deux panaches de contamination qui sont observés dans les eaux souterraines (contamination au PCE pour l’un et au PCE et à ses produits de dégradation pour l’autre), plusieurs essais en laboratoire et pilotes de traitement in situ ont été mis en œuvre de 2009 à 2011 afin de définir un mode adapté de dépollution des eaux souterraines contaminées par du PCE.	'PCE', 'PCE', 'ses produits de dégradation', 'PCE'	
+2001				2001				a_cédé	En 2001, la société EMERSON a cédé le site ETIREX et ses activités à CHROMALOX tout en conservant des obligations liées au passif environnemental.		'la société EMERSON', 'le site ETIREX', 'CHROMALOX'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04			2006	04			Réalisation_d__une_expertise_hydrochimique	- Réalisation d'une expertise hydrochimique du site en avril 2006 qui révèle des teneurs de sulfate élevées.	'sulfate'	
+2005				2005				création_d__une_ZAC_à_vocation_économique	- Rachat du site en 2006 par la Communauté d'Agglomération de Douaisis (projet de création d'une ZAC à vocation économique en 2005).		"la Communauté d' Agglomération"
+1991				1991				Arrêt_des_activités	- Arrêt des activités de la cimenterie en 1991.		
+1999	06			1999	06			__nouvelle_couverture	- En juin 1999: nouvelle couverture par couche d'argile de 50 - 60 cm et végétalisation mise en place.		
+2003	08	11		2003	08	11		Dépôt	- Dépôt le 11/08/2003 d'un dossier de demande d'instauration de servitudes d'utilité publique.		
+2006				2006				Rachat_du_site	- Rachat du site en 2006 par la Communauté d'Agglomération de Douaisis (projet de création d'une ZAC à vocation économique en 2005).		"la Communauté d' Agglomération"

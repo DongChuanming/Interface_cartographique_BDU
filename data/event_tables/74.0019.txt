@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	10		2004	06	10		a_été_pris_en	Un arrêté préfectoral a été pris en ce sens la 10 juin 2004.		
+1999	11	1		1999	11	1		a_été_transmise	La partie A du diagnostic initial a été transmise à l'Administration le 1er novembre 1999.		
+2002	11			2002	11			ont_été_transmis	Des compléments ont été transmis par l'exploitant en novembre 2002.		
+2000	07			2000	07			a_été_transmis	Un complément a été transmis en juillet 2000 pour répondre aux remarques de la DRIRE.		'la DRIRE'
+2001	06			2001	06			Le_diagnostic_initial_complet	Le diagnostic initial complet et l'évaluation simplifiée des risques ont été transmis en juin 2001.		
+û1998				û1998				L__étude_de_sol	L'étude de sol a été imposée à l'exploitant par arrêté préfectoral en août1998.		

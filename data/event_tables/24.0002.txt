@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979				1979				Une_analyse	Une analyse des boues carbonatées en 1979 montre qu'elles apportent une faible pollution organique.		
+								La_campagne_d__analyses	La campagne d’analyses des eaux souterraines  des 11 et 12 octobre 2006		
+2000				2000				Des_investigations_complémentaires_à_l__évaluation_simplifiée_des_risques	Des investigations complémentaires à l'évaluation simplifiée des risques ont été réalisées en 2000.		
+1970				1993				a_reçu	Le site a reçu des boues carbonatées de 1970 à 1993.	'carbonatées'	
+2013	03			2013	03			La_campagne_d__analyse	La campagne d'analyse de mars 2013 montre que les concentrations en DCO et DBO5 en amont(614 et 230 mg/l) sont exceptionnellement élevées, mais les résultats en aval sont satisfaisants.	'DCO', 'DBO5'	
+2010	02			2010	02			La_campagne_de	La campagne de février 2010 montre que :		
+								la_remise	L'arrêté préfectoral du 12 juin 2006 prescrit dans le délai de 6 mois la remise du programme de dépollution, de réhabilitation et du suivi de la décharge.		
+1999				1999				l__évaluation_simplifiée_des_risques	Le diagnostic initial et l'évaluation simplifiée des risques réalisés en 1999 ont placé le site en classe 2, à surveiller.		
+2011	09			2011	09			La_campagne_d__analyse	La campagne d'analyse de septembre 2011 montre que des traces de HCT sont présent en amont(260µg/l) et en plus faible quantité en aval(90µg/l).	'HCT'	
+2006	10	12		2006	10	12		La_campagne_d__analyses	La campagne d’analyses des eaux souterraines  des 11 et 12 octobre 2006		

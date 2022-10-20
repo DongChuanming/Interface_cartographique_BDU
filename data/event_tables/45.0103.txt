@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	11			2016	01			Les_travaux_d__excavation	Les travaux d'excavation afin de retirer ces terres polluées se sont déroulés entre novembre 2015 et janvier 2016 en trois phases : terrassement initial, 1ère sur-excavation, 2ème sur-excavation.		
+2015	06	30		2015	06	30		a_été_mandaté	Le 30 juin 2015, le bureau d'étude ARCADIS a été mandaté par la société SOUFFLET AGRICULTURE afin de réaliser une Évaluation Quantitative des Risques Sanitaires (EQRS).	'Sanitaires'	'ARCADIS', 'la société SOUFFLET AGRICULTURE'
+2012	12			2012	12			a_demandé_la_mise_en_sécurité	Dans le cadre du dossier de cessation d'activité déposé par la société SOUFFLET AGRICULTURE en décembre 2012, l'administration a demandé la mise en sécurité du site.		'la société SOUFFLET AGRICULTURE'
+2012	12			2012	12			du_dossier_de_cessation_d__activité_déposé	Dans le cadre du dossier de cessation d'activité déposé par la société SOUFFLET AGRICULTURE en décembre 2012, l'administration a demandé la mise en sécurité du site.		'la société SOUFFLET AGRICULTURE'
+2006	08	11		2006	08	11		est_soumis_à_la_réglementation	L'établissement est soumis à la réglementation des Installation Classée pour la Protection l'Environnement (ICPE) depuis le 11/08/2006.		
+2012	12			2012	12			n__est_plus_en_activité	Il n'est plus en activité depuis décembre 2012 (date de la cessation d'activité).		
+2013	01			2013	01			ont_été_démantelées	Les cuves d'engrais liquides et de fioul domestique ont été démantelées en janvier 2013.	'fioul domestique'	
+2013				2013				les_investigations_de_sols_réalisées	En effet, les investigations de sols réalisées en 2013 avaient mis en évidence :		

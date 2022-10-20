@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				Les_travaux_commencés	* Les travaux commencés en octobre 2003 se sont achevés à l'été 2004.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1893				1959				a_accueilli	Il a une superficie d’environ 14575 m² et a accueilli de 1893 à 1959 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2004	06	25		2004	06	25		fin_de_travaux	* Fin des travaux de réhabilitation ( fin de travaux le 25 Juin 2004); terrains conformes à un usage sensible (au regard des critères de l'étude semi-générique élaborée par GDF).		'GDF'
+2003	10			2003	10			Les_travaux_commencés	* Les travaux commencés en octobre 2003 se sont achevés à l'été 2004.		

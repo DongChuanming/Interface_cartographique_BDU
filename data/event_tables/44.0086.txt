@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02			2012	02			et_campagne_de_prélèvement_réalisée	Réalisation de deux piézomètres complémentaires en aval du site et campagne de prélèvement réalisée par SITA Remediation en février 2012.		'SITA Remediation'
+2003	02			2003	02			Diagnostic	Diagnostic des sols de GESTER de février 2003		
+2003				2003				a_été_démantelé	Le site a été démantelé en 2003, pour les infrastructures pétrolières.		
+2014				2014				des_investigations_complémentaires	En 2014, des investigations complémentaires et une analyse des risques résiduels ont été réalisées.		
+2015				2015				a_été_poursuivie	En 2015, la surveillance des eaux souterraines a été poursuivie.		
+2003				2003				mise_en_place_d_	Suivi environnemental d'extraction des cuves et mise en place d'un réseau de piézomètres en 2003 par SITA Remediation.		'SITA Remediation'
+2016				2016				a_été_stoppée	Compte tenu de ces éléments, la surveillance a été stoppée en 2016 et les piézomètres ont été comblés.		
+2011				2011				de_nouveaux_travaux_de_terrassement	En 2011, de nouveaux travaux de terrassement et de gestion des terres polluées ont permis de supprimer les sources de pollution en hydrocarbures et en BTEX dans les sols.	'hydrocarbures', 'BTEX'	
+2010				2010				ont_été_démantelés	Le bâtiment et l'auvent ont été démantelés en 2010.		

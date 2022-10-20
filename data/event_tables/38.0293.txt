@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02	1		2013	02	1		a_procédé_à_l__arrêt_définitif_et_total_de_ses_activités	La scierie REY a procédé à l’arrêt définitif et total de ses activités le 1er février 2013.		'La scierie REY'
+2015	02	05		2015	02	05		La_cessation_totale_et_définitive_d__activité	La cessation totale et définitive d’activité a été notifiée par la scierie REY à Monsieur le Préfet de l’Isère le 5 février 2015, via un courrier et un dossier précisant l’ensemble des modalités visées à l’article R.512-39-1 du code de l’environnement:		'la scierie REY', 'le Préfet'
+1973				2012				a_exploité	La société REY a exploité de 1973 à 2012 une scierie dont les installations relevaient de la réglementation des installations classées pour la protection de l’environnement (ICPE).		'La société REY'

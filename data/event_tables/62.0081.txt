@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Cessation_d__activité	- Cessation d'activité fin 2006.		
+2008	10	14		2008	10	14		Rapport_d__intervention	- Rapport d'intervention de Tauw Environnement sur le site de Nitrochimie en date du 14/10/2008.		'Nitrochimie'
+2010	09			2010	09			Travaux_de_dépollution	- Travaux de dépollution en septembre 2010: excavation de terres polluées et évacuation en centre d'enfouissement technique.		
+2005	12			2005	12			Dossier_diagnostic	- Dossier diagnostic et dimensionnement de pollution en date de décembre 2005.		
+2012	12	13		2012	12	13		Réalisation_d__un_mémoire_de_mise_en_sécurité	- Réalisation d'un mémoire de mise en sécurité et plan de gestion dans le cadre de la cessation d'activité en date du 13/12/2012.		
+2012	12	13		2012	12	13		la_cessation_d__activité	- Réalisation d'un mémoire de mise en sécurité et plan de gestion dans le cadre de la cessation d'activité en date du 13/12/2012.		

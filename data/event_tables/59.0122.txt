@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				est_réalisée	Depuis début 2002 une analyse mensuelle de la qualité des eaux est réalisée sur 2 piézomètres sur le site jusqu'en juillet 2003.		
+2003				2003				fin_des_travaux	Aout 2003 fin des travaux ,la totalité de la décharge est évacuée .		
+1988				1988				est_restructurée	En 1988 l'usine est restructurée pour assurer la production de silicomanganèse.		'silicomanganèse'
+2008	07	23		2008	07	23		Réalisation_d__un_bilan_de_fonctionnement	Réalisation d'un bilan de fonctionnement le 23/07/2008.		
+2010	12	02		2010	12	02		Réalisation_d__investigations_environnementales	Réalisation d'investigations environnementales: diagnostic de site: 02/12/2010.		
+2003				2003				est_évacuée	Aout 2003 fin des travaux ,la totalité de la décharge est évacuée .		
+1989				1993				sont_évacuées	Entre 1989 et 1993, 60000 tonnes sont évacuées pour revente en cimenteries .		
+				2003	07			est_réalisée	Depuis début 2002 une analyse mensuelle de la qualité des eaux est réalisée sur 2 piézomètres sur le site jusqu'en juillet 2003.		
+1977				1977				a_été_construite	L'unité COMILOG DUNKERQUE implantée à Gravelines a été construite en 1977 pour la production de ferrosilicium.	'ferrosilicium'	'COMILOG DUNKERQUE'

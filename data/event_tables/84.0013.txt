@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols et de la nappe a été réalisé en 1996.		
+1996				1996				les_analyses	En ce qui concerne la nappe, les analyses de 1996 ne révèlent aucune contamination alors que la campagne de 1999 démontre une pollution aux hydrocarbures.	'hydrocarbures'	
+1999	07	06		1999	07	06		Une_Évaluation_Simplifié_des_Risques	Une Évaluation Simplifié des Risques (ESR)  a été transmise le 06/07/1999 conformément aux dispositions de l'Arrêté Préfectoral du 25/02/1999, elle classe  le site en classe 1.		
+2002	03	13		2002	03	13		s__est_achevé	Le traitement a duré 177 jours et s’est achevé le 13 Mars 2002.		
+2002	04	19		2002	04	19		a_été_réalisé	Le rapport final de réhabilitation a été réalisé le 19/04/2002.		
+2004	06	11		2004	06	11		a_été_établi	Le Procès-Verbal de récolement a été établi le 11 Juin 2004.		
+				1998				a_exploité	La société Raffinerie du Midi a exploité jusqu’en 1998 des activités de stockage d’hydrocarbures en périphérie Ouest de la ville d’Avignon en bordure Nord de la zone industrielle de Courtine, dans le département du Vaucluse.	'hydrocarbures'	'La société Raffinerie du Midi'
+2001	11			2001	11			L__étude_sur_la_nappe_remise	L'étude sur la nappe remise fin novembre 2001, mentionne qu'il n'y a pas de menace pour un captage industriel situé 800 m plus au sud.		
+								s__est_achevé	Le traitement a duré 177 jours et s’est achevé le 13 Mars 2002.		
+								Le_traitement_a	Le traitement a duré 177 jours et s’est achevé le 13 Mars 2002.		
+1994	06	14		1994	06	14		était_autorisé	Ce dépôt était autorisé par Arrêté Préfectoral du 14/06/1994.		

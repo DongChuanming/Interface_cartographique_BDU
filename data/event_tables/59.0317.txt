@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				repris	- Site repris en 2000 et actuellement en activité: Recybois: activité de récupération et valorisation de déchets de bois.		'Recybois'
+2000	11	29		2000	11	29		remis	- Dossier de cessation d'activité de l'installation classée pour la protection de l'environnement remis le 29/11/2000.		
+1999	10	04		1999	10	04		Arrêt_définitif	- Arrêt définitif des activités le 04/10/1999, notifié le 07/10/1999 de MALTEUROP.		'MALTEUROP'
+1999				1999				ont_été_éliminés	- Suite à la cessation d'activité: les forages ont été comblés, un diagnostic amiante a été réalisé, les déchets ont été éliminés à la fin 1999.		
+1999	10	07		1999	10	07		Arrêt_définitif	- Arrêt définitif des activités le 04/10/1999, notifié le 07/10/1999 de MALTEUROP.		'MALTEUROP'
+1999				1999				a_cessé	- Ancienne malterie exploitée depuis le début du XXème siècle et dont l'activité a cessé fin 1999.		

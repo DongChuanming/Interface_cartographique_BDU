@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	02	06		2002	02	06		était_autorisée_par	L'exploitation des Installations de SIMOP était autorisée par l'arrêté du 06/02/2002.		
+2014				2014				communique	En 2014, la société SIMOP communique, à la demande de la DREAL, les résultats de 2 campagnes de surveillance réalisées en juillet et octobre 2014, et demande à nouveau la levée de surveillance.		'la société SIMOP', 'la DREAL'
+2010	04	06		2010	04	06		la_campagne	Pour la campagne du 06/04/2010, seuls les puits particuliers P1 et P4 ainsi que le PZ3 ont été prélevés.		
+2014	10			2014	10			2_campagnes_de_surveillance	En 2014, la société SIMOP communique, à la demande de la DREAL, les résultats de 2 campagnes de surveillance réalisées en juillet et octobre 2014, et demande à nouveau la levée de surveillance.		'la société SIMOP', 'la DREAL'
+2014	10			2014	10			communique	En 2014, la société SIMOP communique, à la demande de la DREAL, les résultats de 2 campagnes de surveillance réalisées en juillet et octobre 2014, et demande à nouveau la levée de surveillance.		'la société SIMOP', 'la DREAL'
+2002	02			2002	02			est_définitive	L'arrêt de l'activité est définitive en Février 2002.		
+2012	02	07		2012	02	07		La_cessation_d__activité	La cessation d'activité a été déclarée le 07/02/2012.		
+2003	12	02		2003	12	02		il_est_décidé	Cependant, le 02/12/2003 il est décidé de réaliser le diagnostic approfondi du site.		
+2001				2001				était_exploitée	Jusqu'en 2001, un atelier de pultrusion était exploitée pour le compte de la SEP (SNECMA) dans lequel était utilisé du Trichloréthylène.	'Trichloréthylène'	'la SEP', 'SNECMA'
+								communique	En 2014, la société SIMOP communique, à la demande de la DREAL, les résultats de 2 campagnes de surveillance réalisées en juillet et octobre 2014, et demande à nouveau la levée de surveillance.		'la société SIMOP', 'la DREAL'
+2011	09			2011	09			Le_diagnostic_réalisé_en	Le diagnostic réalisé en septembre 2011 montre :		
+2012	07	05		2012	07	05		prend_acte	L'inspection prend acte des travaux de remise en état du site le 05/07/2012, suite à la cessation d'activité déclarée le 07/02/2012.		
+								2_campagnes_de_surveillance	En 2014, la société SIMOP communique, à la demande de la DREAL, les résultats de 2 campagnes de surveillance réalisées en juillet et octobre 2014, et demande à nouveau la levée de surveillance.		'la société SIMOP', 'la DREAL'
+2008	09			2008	09			La_campagne	La campagne de Septembre 2008 confirme la tendance.		
+2008	05			2008	05			La_campagne_de	La campagne de Mai 2008 montre des concentrations en COHV inférieures aux valeurs de référence pour l'eau de consommation.	'COHV'	
+2007	01	19		2007	01	19		dressé	Le bilan des résultats d'analyses depuis 2005 dressé le 19/01/2007 montre :		
+2011	12			2011	12			ont_été_excavés	Les sols impactés par les COHV et les HCTX ont été excavés en décembre 2011 et évacués dans des filières autorisées à cet effet.		'les COHV', 'les HCTX'
+2012	02	07		2012	02	07		la_cessation_d__activité_déclarée	L'inspection prend acte des travaux de remise en état du site le 05/07/2012, suite à la cessation d'activité déclarée le 07/02/2012.		
+2010	06	09		2010	06	09		L__inspection	L'inspection du 09/06/2010 a permis de montrer que les mauvaises pratiques environnementales de l'époque de la sous traitance SNECMA, dans l'atelier proche de PZ3, ont conduit au déversement de solvants chlorés (COHV) dans le réseau d'égout, constituant ainsi une source potentielle de pollution dans la nappe.	'solvants chlorés', 'COHV'	'SNECMA'
+2001				2001				exerçait	Jusqu'en 2001, le site exerçait également une activité de production pour le compte de la SNECMA en réalisant des baguettes de carbone pour les matériaux de tuyères de moteurs fusées et des "pains composites" pour moteurs aéronautiques.	'carbone', 'pains composites'	'la SNECMA'
+2012	02	07		2012	02	07		prend_acte	L'inspection prend acte des travaux de remise en état du site le 05/07/2012, suite à la cessation d'activité déclarée le 07/02/2012.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								La_teneur_en_ammonium	La teneur en ammonium dans le Pz2 est élevée.		
+								En_revanche___les_teneurs	En revanche, les teneurs en NH4 et NTK augmentent sur le piézomètre aval nord.		
+								hauteur_de	Selon le diagnostic effectué en 2006, la hauteur de déchets entreposés varie de 1 à 3 m.		
+2011	11	08		2011	11	08		La_campagne_du	La campagne du 08/11/2011 n'a pas été réalisé pour les deux fossés, n'ayant pas assez d'eau pour les prélèvements.		
+								En_revanche___les_teneurs	En revanche, les teneurs en NH4 et NTK continuent à augmenter sur le piézomètre aval Nord.	'à augmenter sur le piézomètre'	
+2006				2006				hauteur_de	Selon le diagnostic effectué en 2006, la hauteur de déchets entreposés varie de 1 à 3 m.		

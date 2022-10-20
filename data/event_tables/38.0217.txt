@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12			2009	12			a_été_vidangé	- le séparateur d'hydrocarbures a été vidangé et nettoyé au début du mois de décembre 2009 ;	'hydrocarbures'	
+2010	03	22		2010	03	22		a_été_transmis	Un mémoire de cessation d'activités a été transmis à l'administration, le 22/03/2010.		
+2009	12	31		2009	12	31		a_informé	La société TYCO ELECTRONICS a informé la Préfecture le 14/09/2009 de la cessation de ses activités prévue le 31/12/2009.		'La société TYCO ELECTRONICS', 'la Préfecture'
+2009	09	14		2009	09	14		a_informé	La société TYCO ELECTRONICS a informé la Préfecture le 14/09/2009 de la cessation de ses activités prévue le 31/12/2009.		'La société TYCO ELECTRONICS', 'la Préfecture'
+2009	11	16		2009	11	16		des_investigations	Il a également été constaté que des investigations ont été réalisées dans les sols et les eaux souterraines, le 16/11/2009.		
+2009	12	31		2009	12	31		de_la_cessation_de_ses_activités	La société TYCO ELECTRONICS a informé la Préfecture le 14/09/2009 de la cessation de ses activités prévue le 31/12/2009.		'La société TYCO ELECTRONICS', 'la Préfecture'
+2009	12	11		2009	12	11		à_une_visite_d__inspection	Suite à une visite d'inspection qui a été effectuée le 11/12/2009, l'inspection des installations classées constate que la mise en sécurité du site a bien été réalisée :		

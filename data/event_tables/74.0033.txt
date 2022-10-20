@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12	07		2015	12	07		ont_été_demandés	Ces compléments ont été demandés par l'inspection des installations classées, par courrier du 7 décembre 2015, selon un échéancier se terminant fin avril 2016.		
+2002	04	08		2002	04	08		a_été_signé	L'arrêté préfectoral correspondant a été signé le 8 avril 2002.		
+2016	04			2016	04			ont_été_demandés	Ces compléments ont été demandés par l'inspection des installations classées, par courrier du 7 décembre 2015, selon un échéancier se terminant fin avril 2016.		
+2015	11	12		2015	11	12		une_étude	Le 12 novembre 2015, la société Produits Chimiques Platret a remis une étude mettant en évidence, dans les sols et les eaux souterraines,des teneurs importantes en solvants chlorés, ainsi qu'en hydrocarbures aliphatiques et aromatiques monocycliques (BTEX).	'solvants chlorés', 'hydrocarbures aliphatiques et aromatiques monocycliques', 'BTEX'	'la société Produits Chimiques Platret'
+2014	03	06		2014	03	06		une_étude_de_sol	Le préfet a prescrit à l'exploitant, par arrêté du 6 mars 2014, une étude de sol comprenant un diagnostic approfondi et une évaluation de l'état des milieux ainsi qu'une surveillance des eaux souterraines.		'Le préfet'
+1995				2001				Des_analyses	Des analyses effectuées entre 1995 et 2001 ont révélé des concentrations élévées en hydrocarbures totaux et solvants organiques dans les eaux pluviales provenant du site exploité par la société.	'hydrocarbures totaux', 'solvants organiques'	

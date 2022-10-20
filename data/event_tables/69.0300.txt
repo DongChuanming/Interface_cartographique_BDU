@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	13		2010	12	13		a_ensuite_sollicité	La société KEOLIS Lyon a ensuite sollicité APAVE pour la réalisation d’un diagnostic approfondi de l’état des milieux sols et eaux souterraines au droit et dans l’environnement des anciennes cuves de stockage des huiles usagées, avant de s’engager dans un plan de gestion (rapport de diagnostic approfondi du 13 décembre 2010).	'des huiles usagées'	'La société KEOLIS Lyon'
+2010	09			2010	09			de_la_campagne	- Lors de la campagne de septembre 2010, un flottant a été détecté dans PzC situé en aval de la grande cuve (43,5 mg/l en HCT)et en PzA en aval de la petite cuve (19 mg/l en HCT).		
+2013	12	12		2013	12	12		a_été_réalisé	Le traitement a été réalisé sur une période allant du 12/12/2013 au 28/08/2014.		
+2013	04	24		2013	04	24		la_dernière_campagne	Les résultats de la dernière campagne du 24 avril 2013  montrent la présence dans la nappe phréatique de HCT et de HAP au droit de PZA et de PZC.	'de HCT', 'de HAP'	
+2013				2013				TRAVAUX_DE_DEPOLLUTION	TRAVAUX DE DEPOLLUTION EN  2013-2014		
+2014	08	28		2014	08	28		a_été_réalisé	Le traitement a été réalisé sur une période allant du 12/12/2013 au 28/08/2014.		
+2010				2010				ont_été_mises_en	Lors des campagnes d’investigations réalisées en 2008 et 2010, des pollutions aux hydrocarbures totaux (HCT) et hydrocarbures aromatiques polycycliques (HAP) ont été mises en évidence sur les sols et sur les eaux souterraines.	'hydrocarbures totaux', 'HCT', 'hydrocarbures aromatiques polycycliques', 'HAP'	
+2010	09			2010	09			a_été_détecté	- Lors de la campagne de septembre 2010, un flottant a été détecté dans PzC situé en aval de la grande cuve (43,5 mg/l en HCT)et en PzA en aval de la petite cuve (19 mg/l en HCT).		
+2014				2014				TRAVAUX_DE_DEPOLLUTION	TRAVAUX DE DEPOLLUTION EN  2013-2014		
+2013				2013				a_mandaté	L'exploitant a mandaté la société SITA Remédiation en 2013 pour réaliser les opérations suivantes :		'la société SITA Remédiation'
+2008				2008				a_été_observée	La concentration maximale a été observée en 2008 en S4 [HCT] max = 51 000 mg/kg, entre 5 et 7 m/sol.		
+2009				2009				des_mises_à_l__épreuve	Aucune anomalie d’étanchéité n’a été observée lors des mises à l’épreuve de 2009.		
+2008				2008				ont_été_mises_en	Lors des campagnes d’investigations réalisées en 2008 et 2010, des pollutions aux hydrocarbures totaux (HCT) et hydrocarbures aromatiques polycycliques (HAP) ont été mises en évidence sur les sols et sur les eaux souterraines.	'hydrocarbures totaux', 'HCT', 'hydrocarbures aromatiques polycycliques', 'HAP'	
+2011	03	21		2011	03	21		un_plan_de_gestion	L'APAVE a ensuite réalisé un plan de gestion (rapport n°30907468/PG version 0 en date du 21 mars 2011) et une surveillance des eaux souterraines.		"L' APAVE"
+2010	12	13		2010	12	13		rapport_de_diagnostic	La société KEOLIS Lyon a ensuite sollicité APAVE pour la réalisation d’un diagnostic approfondi de l’état des milieux sols et eaux souterraines au droit et dans l’environnement des anciennes cuves de stockage des huiles usagées, avant de s’engager dans un plan de gestion (rapport de diagnostic approfondi du 13 décembre 2010).	'des huiles usagées'	'La société KEOLIS Lyon'
+2009	10			2009	10			une_nette_amélioration	Depuis le début du suivi de la qualité des eaux souterraines, on observe une nette amélioration de la situation (43,6 mg/L en octobre 2009) ;		
+2009				2009				est_réalisée	La surveillance des eaux souterraines est réalisée depuis 2009 ; les campagnes réalisées sont les suivantes : 21/10/2009, 21/12/2009, 04/10/2010, 20/01/2011, 24/05/2011,09/08/2011, 04/01/2012, 04/04/2012, 19/07/2012, 29/10/2012, 10/01/2013, 24/04/2013.		

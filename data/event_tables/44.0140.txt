@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	08	07		2012	08	07		Le_changement_d__exploitant_vers	Le changement d'exploitant vers la société STEF Logistique Pays de Loire a été acté par récépissé de déclaration du 7 août 2012.		'la société STEF Logistique Pays de Loire'
+2017	06			2017	06			__Réalisation_des_travaux_de_recouvrement	- Juin 2017 : Réalisation des travaux de recouvrement des zones extérieures pour une partie des terrains.		
+2017	05			2017	05			la_réalisation_d__investigations_complémentaires	- Septembre 2017 : Demande de cessation totale d'activité sur les terrains restants suite à la réalisation d'investigations complémentaires en mai 2017 mettant en évidence une pollution quasi-généralisée en HCT et en HAP de la zone (probablement d'origine historique).	'HCT', 'HAP'	
+2018	01	24		2018	01	24		Visite	Visite de l'inspection des installations classées le 24 janvier 2018 (rapport du 26 janvier 2018 valant procès-verbal de récolement pour cette zone).		
+2018	01			2018	01			__Réalisation_des_travaux_de_recouvrement	- Janvier 2018 : Réalisation des travaux de recouvrement des zones extérieures pour les terrains restants.		
+2017	06	15		2017	06	15		Visite	Visite de l'inspection des installations classées le 15 juin 2017 (rapport du 15 juin 2017 valant procès-verbal de récolement pour cette zone).		
+2017	05			2017	05			Demande_de_cessation_partielle_d_	- Mai 2017 : Demande de cessation partielle d'activité sur une partie des terrains (hors zone n°1 et blockhaus où des investigations complémentaires doivent être réalisées).		
+2017	04			2017	04			est_transmis	Le rapport de réhabilitation du site est transmis en avril 2017 au préfet.		'préfet'
+2017	09			2017	09			__Demande_de_cessation_totale_d__activité	- Septembre 2017 : Demande de cessation totale d'activité sur les terrains restants suite à la réalisation d'investigations complémentaires en mai 2017 mettant en évidence une pollution quasi-généralisée en HCT et en HAP de la zone (probablement d'origine historique).	'HCT', 'HAP'	
+2012	08	07		2012	08	07		de_déclaration	Le changement d'exploitant vers la société STEF Logistique Pays de Loire a été acté par récépissé de déclaration du 7 août 2012.		'la société STEF Logistique Pays de Loire'
+2017	03			2017	03			travaux_de_dépollution	- travaux de dépollution en février et mars 2017 : excavation et évacuation de 1313 tonnes de terres.		
+								a_été_construit	A noter que pendant la 2ème guerre mondiale, un blockhaus a été construit sur le site pour le stockage de torpilles.		
+2016	03			2016	03			Diagnostic	Diagnostic du site (mars 2016) :		
+2015	12	30		2015	12	30		est_transmise	Le 30 décembre 2015 l'information sur la cessation totale d'activité est transmise au préfet.		'préfet'
+2016	03			2016	03			sont_démantelées	A partir de mars 2016 les installations sont démantelées :		
+								travaux_de_dépollution	- travaux de dépollution en février et mars 2017 : excavation et évacuation de 1313 tonnes de terres.		
+1913				1913				a_accueilli	Il a accueilli depuis 1913 une activité d'entreposage de produits alimentaires.		

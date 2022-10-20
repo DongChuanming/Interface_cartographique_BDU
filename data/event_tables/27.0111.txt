@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_exploité	La société RAS Environnement a exploité le site à partir des années 2006, d'abord sous le nom des Établissements ROUX, jusqu'à sa liquidation judiciaire en juin 2016.		'La société RAS Environnement', 'Établissements ROUX'
+								le_nom	La société RAS Environnement a exploité le site à partir des années 2006, d'abord sous le nom des Établissements ROUX, jusqu'à sa liquidation judiciaire en juin 2016.		'La société RAS Environnement', 'Établissements ROUX'
+2016	06			2016	06			à_sa_liquidation_judiciaire	La société RAS Environnement a exploité le site à partir des années 2006, d'abord sous le nom des Établissements ROUX, jusqu'à sa liquidation judiciaire en juin 2016.		'La société RAS Environnement', 'Établissements ROUX'

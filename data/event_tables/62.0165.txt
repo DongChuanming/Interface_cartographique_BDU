@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				__élimination	-Mi 2002: élimination de 7 cuves à fuel et de 3 transformateurs, enlèvement de 35 tonnes de terres polluées (autour de la cuve 3).	'fuel'	
+2012	09			2012	09			mises_à_jour	-ARR et IEM mises à jour en septembre 2012 à la demande de l'administration.		
+2002	02			2002	02			_Réalisation_d__une_étude_de_sols	-Réalisation d'une étude de sols et d'une évaluation simplifiée des risques, en février 2002.		

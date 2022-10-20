@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973	09	17		1973	09	17		est_délivré	Le 17/09/1973, le récépissé de déclaration n°10 688 est délivré à la STME pour la reprise de cette activité.		'la STME'
+2008				2008				a_été_abattu	La seule amiante encore présente sur le site était contenue dans les matériaux de construction d'un bâtiment qui a été abattu début 2008.		
+1989				1997				est_utilisée_dans_les_procédés	L'amiante est utilisée dans les procédés de fabrication de 1989 à 1997.	'amiante'	
+2005	03	31		2005	03	31		une_visite_d__inspection	Les derniers dépôt de cette nature ont été éliminés (point confirmé dans le cadre d'une visite d'inspection du 31 mars 2005).		

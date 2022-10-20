@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05	03		2002	05	03		a_signé	Suite à une proposition de l'inspection des installations classées, le préfet des Ardennes a signé le 3 mai 2002 un arrêté complémentaire prescrivant une surveillance accrue des eaux souterraines, une surveillance des eaux superficielles, des investigations complémentaires et des travaux de dépollution.		'le préfet des Ardennes'
+1998				1998				évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques réalisée en 1998 classe le site en classe 2 (à surveiller).		
+2004	12			2004	12			a_été_abandonné	Ce dernier traitement a été abandonné en décembre 2004.		
+2003	02			2003	02			ont_été_éliminés	Les derniers résidus de créosote, présent sur le site, ont été éliminés en février 2003.	'créosote'	

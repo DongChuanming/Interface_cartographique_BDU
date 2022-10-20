@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01			1997	01			a_repris	La société INDOFURANE Europe a repris une partie des activités de cette société, mais a elle-même été mise en liquidation judiciaire en janvier 1997.		'La société INDOFURANE Europe'
+2013	08	12		2013	08	12		a_été_réalisée	Au 12/08/2013, encore aucune analyse n'a été réalisée suite à l'impécuniosité du dossier.		
+2014	12	02		2014	12	02		ait_fait_savoir	Au 08/07/2016, bien que la Communauté d'Agglomération d'Agen ait fait savoir le 02/12/2014 qu'elle faisait engager des prélèvements d'échantillons de sols sur l'ensemble des parcelles, aucune analyse n'a été fournie à ce jour.		"la Communauté d' Agglomération"
+1997				1997				de_la_liquidation	Un stockage d'une centaine de fûts renfermant du liquide inflammable (furfuraldéhyde) et une quarantaine de fûts renfermant divers produits chimiques restent sur le site lors de la liquidation en 1997.	'liquide inflammable', 'furfuraldéhyde', 'produits chimiques'	
+2002	04			2002	04			Le_diagnostic_réalisé	Le diagnostic réalisé en avril 2002 a confirmé le rapport de l'ADEME du 29 mars 2002 par la présence d'une part, de cuves, fosses, etc... pour lesquelles persiste un doute quant à leur vidange et à leur inertage et, d'autre part, la présence de déchets et de pollutions de surface, notamment par des métaux et des hydrocarbures.	'des métaux', 'hydrocarbures'	
+2000	07	31		2000	07	31		visite	31/07/2000 : visite  de l'inspecteur des installations classées.		
+2002	04			2002	04			a_été_remise	L'étape B et l'évaluation simplifiée des risques du site a été remise en avril 2002.		
+2013	08	12		2013	08	12		n__y_a_pas_eu_de_visite_conjointe	Cependant, il n'y a pas eu de visite conjointe au 12/08/2013.		
+1998	12			1998	12			a_acquis	La société AMANDOR SA a acquis les autres activités, mais a aussi été mise en liquidation judiciaire en décembre 1998.		'La société AMANDOR SA'
+2000	04	07		2000	04	07		__arrêté	07/04/2000 : arrêté de consignation d'une somme de 20 000 francs correspondant aux travaux de traitement d'une partie des fûts de déchets de liquides inflammables.	'déchets de liquides inflammables'	
+2005	01			2005	01			Une_intervention	Une intervention de l'ADEME a été accordée par le ministre de l'écologie et du développement durable en janvier 2005 pour la mise en place d'une surveillance des eaux souterraines durant 3 ans, ceci après la visite conjointe de l'ADEME et de l'IIC afin de vérifier l'estimatif financier initialement transmis et de préciser le choix technique associé à cet estimatif.		'le ministre', 'IIC'
+2006	12	08		2006	12	08		relance	Le 08/12/2006, la DRIRE relance le mandataire-liquidateur qui informe, le 18/12/2006 que les terrains vont être mis en vente aux enchères publiques à la barre du Tribunal de Grande Instance d'Agen au cours du 1er trimestre 2007.		'la DRIRE'
+1998	12			1998	12			a_aussi_été_mise_en_liquidation_judiciaire	La société AMANDOR SA a acquis les autres activités, mais a aussi été mise en liquidation judiciaire en décembre 1998.		'La société AMANDOR SA'
+2000	08	24		2000	08	24		ont_été_évacuées	Les déchets ont été évacuées les 11 et 24 août 2000.		
+								relance	Le 08/12/2006, la DRIRE relance le mandataire-liquidateur qui informe, le 18/12/2006 que les terrains vont être mis en vente aux enchères publiques à la barre du Tribunal de Grande Instance d'Agen au cours du 1er trimestre 2007.		'la DRIRE'
+1997	01			1997	01			a_elle_même_été_mise_en_liquidation_judiciaire	La société INDOFURANE Europe a repris une partie des activités de cette société, mais a elle-même été mise en liquidation judiciaire en janvier 1997.		'La société INDOFURANE Europe'
+								ont_été_évacuées	Les déchets ont été évacuées les 11 et 24 août 2000.		
+2007				2007				relance	Le 08/12/2006, la DRIRE relance le mandataire-liquidateur qui informe, le 18/12/2006 que les terrains vont être mis en vente aux enchères publiques à la barre du Tribunal de Grande Instance d'Agen au cours du 1er trimestre 2007.		'la DRIRE'
+2000	07			2000	07			Un_incendie_se_déclare	Un incendie se déclare en juillet 2000 à la suite duquel des travaux ont été prescrits.		
+2004	06	11		2004	06	11		La_liquidation_judiciaire	La liquidation judiciaire de la SNC AMENDOR est intervenue le 11 juin 2004 et Maître MARC LERAY a été nommé mandataire liquidateur.		'la SNC AMENDOR', 'Maître MARC LERAY'
+1993	01			1993	01			a_été_mise_en_liquidation_judiciaire	Cette société a été mise en liquidation judiciaire en janvier 1993.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			des_investigations_de_reconnaissance	En liaison avec la commune et GDF (propriétaire de la parcelle voisine), des investigations de reconnaissance de la qualité des sols superficiels de l'alimentation en eau du site et de l'air ambiant ont été effectués en mars 2002.		'GDF'
+2004	02			2004	02			__a___adressé	L'inspection des installations classées  a  adressé en février 2004 à Monsieur le Préfet des Yvelines un rapport de synthèse sur le dossier en proposant de rappeler à Madame le Maire de Saint Arnoult en Yvelines les aménagements à réaliser.		'Madame le Maire'
+1967	10	13		1967	10	13		a_racheté	Le 13 octobre 1967, la commune de Saint Arnoult a racheté une partie du terrain (3813 m²) sur lequel avait été exploité l'ancienne usine à gaz.		
+2000	07			2000	07			Une_vérification	Une vérification de la présence d'éventuelles structures de l'ancienne usine à gaz a été réalisée par des mesures géophysique non destructives en juillet 2000.		
+2001	06			2001	06			a_été_adressé	Un rapport en ce sens a été adressé en juin 2001 au Préfet.		
+2003	12	05		2003	12	05		transmise	L'évaluation détaillée des risques a été réalisée par la société HPC Envirotec et transmise à la DRIRE le 5 décembre 2003.		'la société HPC Envirotec', 'la DRIRE'
+2002	08	05		2002	08	05		a_recommandé_la_réalisation_d__une_évaluation_détaillée_des_risques	Dans un courrier adressé au maire de Saint-Arnoult le 19 juin 2002 puis le 5 août 2002, la DRIRE a recommandé la réalisation d'une évaluation détaillée des risques et préconisé l'imperméabilisation du terrain en surface et l'excavation des terres si nécessaire.		'la DRIRE'
+2003	12	05		2003	12	05		L__évaluation_détaillée_des_risques	L'évaluation détaillée des risques a été réalisée par la société HPC Envirotec et transmise à la DRIRE le 5 décembre 2003.		'la société HPC Envirotec', 'la DRIRE'
+1971				1971				est_vendue	En 1971, une deuxième parcelle est vendue à la commune (1731 m²) pour la construction d'un groupe scolaire (école maternelle Guhermont).		'Guhermont'

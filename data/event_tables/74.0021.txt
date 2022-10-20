@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_effectuée	La surveillance des eaux souterraines a été effectuée en 2001, 2002 et 2003.		
+2002				2002				a_été_effectuée	La surveillance des eaux souterraines a été effectuée en 2001, 2002 et 2003.		
+1998	08	19		1998	08	19		L__étude_de_sol	L'étude de sol a été imposée à l'exploitant par arrêté préfectoral du 19 août 1998.		
+2004	07	19		2004	07	19		pris_un_arrêté	Le préfet de la Haute-Savoie a, sur la base du rapport de l'inspection, pris un arrêté le 19 juillet 2004 renforçant la surveillance des eaux souterraines ainsi que des eaux superficielles.		'Le préfet de la Haute-Savoie'
+2007	10	26		2007	10	26		pris_un_arrêté	Le préfet de la Haute-Savoie a, sur la base d'un rapport complémentaire de l'inspection, pris un arrêté le 26 octobre 2007 dans l'objectif de réévaluer l'impact sur le milieu comprenant une analyse de l'historique - une évaluation de la vulnérabilité de l'environnement et le diagnostic des milieux (sols et eaux souterraines) proprement dit.		'Le préfet de la Haute-Savoie'
+1999	07			1999	07			a_été_transmis	Le diagnostic initial a été transmis à l'Administration en juillet 1999.		
+2003				2003				a_été_effectuée	La surveillance des eaux souterraines a été effectuée en 2001, 2002 et 2003.		
+2004	07	19		2004	07	19		renforçant	Le préfet de la Haute-Savoie a, sur la base du rapport de l'inspection, pris un arrêté le 19 juillet 2004 renforçant la surveillance des eaux souterraines ainsi que des eaux superficielles.		'Le préfet de la Haute-Savoie'
+2013	05	16		2013	05	16		Une_réunion	Une réunion d"état d'avancement" s'est tenue le 16 mai 2013 avec le bureau d’études SERPOL.		'SERPOL'
+2013				2013				l_	Il a en outre été demandé de procéder (dans l'année 2013) à :		
+2003	05			2003	05			Les_révisions	Les révisions du diagnostic initial et de l'ESR ont été remises en mai 2003.		"l' ESR"

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				mise_en_place	Ce dépôt ayant pu être à l'origine de pollution potentielle du sol et du sous-sol et afin de controler la perennité de la couverture mise en place en 1983, la réalisation d'un diagnostic environnemental par le dernier exploitant, la société MESSIER DOWTY, exploitante de l'actuelle usine de Bidos (64), est envisagé par la DRIRE.		'la société MESSIER DOWTY', 'la DRIRE'
+1983				1983				l__exploitation	En 1983, la société MESSIER décide de cesser de façon définitive l'exploitation de la décharge de Goès qui est fermée et réhabilitée par confinement de surface d'une couche d'argile et de terre arable engazonnée.		'la société MESSIER', 'décharge de Goès'
+1983				1983				a_été_fermée	Cette décharge, autorisée par l'arrêté du 5 mars 1975 a été fermée en 1983.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12			2002	12			a_été_remise	Cette EDR a été remise en décembre 2002.		
+1998	12	14		1998	12	14		la_réalisation_d__un_diagnostic_initial	Compte tenu des activités potentiellement polluantes exercées sur le site, la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR) a été prescrite par arrêté préfectoral en date du 14 décembre 1998.		
+2001	06	29		2001	06	29		a_été_prescrite	Suite au classement du site en classe 1, d'une part La surveillance piézométrique du site a été prescrite dans l'arrêté préfectoral du 29 juin 2001, et d'autre part une évaluation détaillée des risques (EDR) a été engagée.		
+1896				1896				Implanté	Implanté depuis 1896, cet établissement produit une gamme très étendue de produits impliquant l'usage d'un grand nombre de matières premières.		

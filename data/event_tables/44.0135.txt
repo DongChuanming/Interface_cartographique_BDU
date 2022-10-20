@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973				1973				a_été_créée	Cette activité a été créée en 1973 et a été exploitée jusqu’en 1997.		
+2017	02			2017	02			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été réalisé en février 2017 et a mis en évidence une pollution des sols en hydrocarbures au droit de la cuve enterrée.	'hydrocarbures'	
+				1997				a_été_exploitée	Cette activité a été créée en 1973 et a été exploitée jusqu’en 1997.		

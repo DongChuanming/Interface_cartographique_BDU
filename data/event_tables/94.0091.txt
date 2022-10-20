@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02			2015	02			Des_diagnostics_de_pollution	Des diagnostics de pollution ont donc été réalisés, en décembre 2014 et février 2015.		
+2014	12			2014	12			Des_diagnostics_de_pollution	Des diagnostics de pollution ont donc été réalisés, en décembre 2014 et février 2015.		
+1962	04	24		1962	04	24		a_été_délivré	Le récépissé de déclaration a été délivré le 24/04/1962.		
+2015	12	29		2015	12	29		a_été_transmis	Le mémoire de cessation des activités a été transmis par courrier du 29/12/2015.		
+2016	02	10		2016	02	10		dune_visite_réalisée	Par ailleurs, au cours dune visite réalisée le 10/02/2016, l'inspection des installations classées a constaté qu'un immeuble de logement est prévu en lieu et place de l'ancien garage.		
+1968				1968				a_repris_l__activité	La société SAFI a repris l’activité en 1968.		'La société SAFI'
+				2015	12	23		Les_travaux_d__excavation	Les travaux d’excavation ont été réalisés du 7 au 23 décembre 2015, au 2e sous-sol du bâtiment.		
+2014				2014				réalisée	L’EQRS (étude quantitative des risques sanitaires) réalisée en 2014, avec les teneurs initiales en polluants (avant dépollution) a conclu à la compatibilité du site avec un usage non sensible de type industriel.	'polluants'	
+1962	03	15		1962	03	15		a_été_déclaré	L’exploitation du dépôt de liquides inflammables, composé de 3 réservoirs souterrains de 10 m³, a été déclaré en préfecture le 15/03/1962 par la société GLON.	'dépôt de liquides inflammables'	'la société GLON'
+2017	11	27		2017	11	27		a_transmis	Le 27/11/2017, SAFI a transmis un dossier de servitudes d'utilité publique.		'SAFI'
+2018	12	07		2018	12	07		a_été_signé	Suite à la mise en œuvre d'une consultation écrite des propriétaires, l'arrêté a été signé le 07/12/2018.		
+2004				2004				un_déversement_de_fioul	À noter, qu’en 2004, un déversement de fioul s’est produit lors d’une livraison.	'fioul'	
+1986	07			1986	07			a_été_arrêté	L’installation de distribution de carburants a été arrêté en juillet 1986.	'carburants'	

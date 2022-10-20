@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	02			2000	02			a_été_constaté	Par ailleurs, en février 2000, il a été constaté des traces de pollution par de la créosote en surface du marais situé sur l’ancien lit de l’Armançon au lieu-dit « Le Glacis », zone située à l’aval hydraulique et à l’extérieur de l’emprise des établissements Gaillard Rondino.	'la créosote'	
+1993	06	18		1993	06	18		est_actuellement_autorisée	Elle est actuellement autorisée par arrêté préfectoral du 18 juin 1993.		
+2008	03	05		2008	03	05		met_en_demeure	22 avril 2009: Un arrêté préfectoral met en demeure la société GAILLARD-RONDINO pour des non-conformités au regard des prescriptions faites dans l'arrêté du 5 mars 2008.		'la société GAILLARD - RONDINO'
+1999	02	10		1999	02	10		a_été_prescrit	10 février 1999: au regard de la nature de l’exploitation, il a été prescrit à l’exploitant, par arrêté préfectoral, de faire réaliser un diagnostic initial et une Evaluation Simplifiée des Risques selon le guide méthodologique élaboré par le ministère chargé de l’environnement.		
+								devait_remettre	Enfin l'exploitant devait remettre sous un délai de 3 mois un dossier de demande de servitudes de restriction d'usage sur et en dehors du site.		
+2002	04	09		2002	04	09		le_pompage	9 avril 2002: le pompage de la pollution a démarré au sein de l’établissement.		
+2009	04	22		2009	04	22		met_en_demeure	22 avril 2009: Un arrêté préfectoral met en demeure la société GAILLARD-RONDINO pour des non-conformités au regard des prescriptions faites dans l'arrêté du 5 mars 2008.		'la société GAILLARD - RONDINO'
+2001	09			2001	09			un_rapport_de_diagnostic_approfondi_établi	Elles font l’objet d’un rapport de diagnostic approfondi établi en septembre 2001.		
+2005				2005				Les_opérations_de_confinement_ont_été_engagées	Les opérations de confinement ont été engagées en 2005.		
+2001	09			2001	09			le_rapport_transmis	Par ailleurs, le rapport transmis en septembre 2001 ne comportait pas d’évaluation sur la santé humaine.		
+1999	05			1999	05			Ce_diagnostic_réalisé	Ce diagnostic réalisé en mai 1999 a conclu :		
+2008	03	05		2008	03	05		prescrit	5 mars 2008: un arrêté préfectoral prescrit à la société GAILLARD-RONDINO de réaliser des aménagements et de prendre des dispositions permettant notamment de réduire les risques sanitaires des personnels exposés de l'établissement qu'elle exploite à Saint-Florentin.		'la société GAILLARD - RONDINO'
+2008	12	23		2008	12	23		prescrit	23 décembre 2008: un arrêté préfectoral prescrit à la société GAILLARD-RONDINO des mesures spéciales destinées à:		'la société GAILLARD - RONDINO'
+2003				2003				a_été_remis	Le rapport d’évaluation détaillée des risques sur la santé humaine a été remis fin 2003.		
+2000	07	25		2000	07	25		a_été_prescrit	Au regard de la situation, il a été prescrit à l’exploitant, par arrêté préfectoral du 25 juillet 2000, de satisfaire aux prescriptions suivantes :		
+2011	08	31		2011	08	31		a_été_réalisée	31 août 2011: une inspection a été réalisée sur le site de la société GAILLARD-RONDINO.		'la société GAILLARD - RONDINO'
+2002				2002				des_pompages	Depuis le début des pompages de dépollution (mi 2002), plus de 252 m3 de créosote ont été extraits du sous-sol auxquels s’ajoutent les 307 m3 d’eau fortement chargée en créosote.	'créosote', 'créosote'	
+2002				2002				ont_été_extraits	Depuis le début des pompages de dépollution (mi 2002), plus de 252 m3 de créosote ont été extraits du sous-sol auxquels s’ajoutent les 307 m3 d’eau fortement chargée en créosote.	'créosote', 'créosote'	
+1920				1920				s__est_établie	Cette activité s'est établie sur le site en 1920 en reprise d'anciennes installations de traitement de bois appartenant à l'armée française.		
+2002	03			2002	03			a_demandé	En mars 2002, la DRIRE a demandé à l’exploitant de démarrer les pompages de dépollution qui sont par ailleurs encadrés par l’arrêté préfectoral du 10 juin 2002 qui définit :		'la DRIRE'
+1960				1960				a_été_abandonnée	L'utilisation de sels de mercure a été abandonnée en 1960.	'mercure'	
+2002	09			2002	09			a_pompé	Ainsi depuis septembre 2002, l'exploitant a pompé dans les eaux souterraines environ 257 m3 de créosote pure et 463 m3 d'eaux chargées en créosote.	'créosote pure', 'créosote'	

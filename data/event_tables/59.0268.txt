@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07	25		2008	07	25		a_été_arrêté	- La production du captage AEP en aval du site (Hempempont) a été arrêté depuis le 25/07/2008.		
+1880				1880				existant	- Site de régénération et de negoce d'alcools et de solvants existant depuis 1880 sur un terrain de près de 8ha.		
+2009				2009				Réalisation_d_	- Réalisation d'un plan de gestion en aout 2007 revu en aout 2009.		
+2002	03	12		2002	03	12		Début_de	- Début de la surveillance de la qualité des eaux de la nappe le 12/03/2002.		
+1999				2001				réalisés	- étude de sols phase A et B réalisés entre 1999 et 2001 (pose de 3 piézomètres).		
+2009	12			2012	02			Traitement_des_sols_par_venting	- Traitement des sols par venting (3000m2) de décembre 2009 à février 2012 (traitement en cours), résultat: baisse de 63 % des concentrations moyenne en COHV et BTEX.	'COHV', 'BTEX'	
+								fixe	- Arrêté Préfectoral du 18 février 2002 fixe les conditions de la surveillance reconduitent dans l'AP du 06/01/06.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	21		2012	12	21		__Remise	21/12/2012 : Remise du mémoire de fin de travaux.		
+2011	01	17		2011	01	17		Requête_introductive	21/03/2011 : Requête introductive d'instance de l'association CENEMAT à l'encontre de l'arrêté préfectoral du 17 janvier 2011.		'CENEMAT'
+2012	09	28		2012	09	28		__Réalisation_de_travaux_de_dépollution	28/09/2012 : Réalisation de travaux de dépollution comportant l'excavation de terres polluées (319 tonnes par biocentre et désorption thermique) et le traitement par incinération d'eaux polluées et de charbon actif et remblaiement par des matériaux sains.	'charbon actif'	
+2011	01	17		2011	01	17		__Prise_d_	17/01/2011 : Prise d'un arrêté préfectoral à l'encontre de la société CENEMAT, au titre de la législation des installations classées, portant prescriptions à "l'exploitant" de procéder à un diagnostic des sols et à la mise en œuvre d'actions curatives.		'la société CENEMAT'
+2011	12	16		2011	12	16		Réalisation_d__un_diagnostic	16/12/2011 : Réalisation d'un diagnostic par la société TAUW France présentant l'étude historique et documentaire se rapportant au site.		'la société TAUW'
+2011	03	21		2011	03	21		Requête_introductive	21/03/2011 : Requête introductive d'instance de l'association CENEMAT à l'encontre de l'arrêté préfectoral du 17 janvier 2011.		'CENEMAT'
+2012	01	18		2012	01	18		__Réalisation_d__un_diagnostic_complémentaire	18/01/2012 : Réalisation d'un diagnostic complémentaire afin de permettre de définir les mesures de gestion appropriées au site.		
+2011	09	29		2011	09	29		__Prise_d_	29/09/2011 : Prise d'un arrêté préfectoral à l'encontre de la Communauté de Communes du Comté de GRIMONT, en tant que propriétaire du site, au titre de la réglementation sur les déchets, rapportant les prescriptions prises à l'encontre de l'association CENEMAT.	'les déchets'	'la Communauté de Communes du', 'Comté de GRIMONT', 'CENEMAT'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02	26		2013	02	26		a_arrêté_définitivement	La Société KIRCHHOFF France a indiqué, par courrier du 23 juin 2015 qu’elle a arrêté définitivement ses activités industrielles sur son site d’Ymeray depuis le 26 février 2013.		'La Société KIRCHHOFF France'
+2020	09			2020	09			prendront_fin	La construction du nouveau siège social et le déménagement des locaux sur le site prendront fin en septembre 2020.		
+2016	06	23		2016	06	23		est_placée_en_liquidation_judiciaire	La société est placée en liquidation judiciaire depuis le 23 juin 2016.		
+2016	11	14		2016	11	14		a_constaté	Le 14 novembre 2016 l'inspection des installations classées a constaté l’absence d’activité industrielle et l’absence de stockage de matières premières et de produits finis sur le site.		

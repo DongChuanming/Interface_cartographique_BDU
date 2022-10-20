@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	15		2003	01	15		est_réalisée	La surveillance des eaux souterraines du site, imposée par arrêté préfectoral complémentaire du 15 janvier 2003, est réalisée.		
+2002	09			2002	09			a_demandé_des_compléments	L'administration a demandé des compléments (septembre 2002) tant sur la forme (pas de schéma conceptuel, absence de tableau de récapitulatif des sources, absence de fourniture de la grille renseignée d'ESR), que sur le fond (information contradictoire sur le niveau piézométrique, sur les valeurs de constat d'impact sur les  hydrocarbures, sur le positionnement des piézomètres situés plutôt en amont qu'en aval, sur l'insuffisance des sondages).	'  hydrocarbures'	
+2002	11			2002	11			ont_été_apportés	Les compléments ont été apportés par l'exploitant en novembre 2002, le site étant classé en classe 2 à l'issue de l'ESR.		
+2005	06	10		2005	06	10		Le_premier_contrôle	Le premier contrôle du 10 juin 2005 n'a pas montré d'anomalie.		
+1969				1969				exploité	Il s'agit d'un dépôt pétrolier exploité depuis 1969, disposant d'une capacité de stockage d'environ 14.000 m3, pour des produits de 1ère et 2ème catégories (essence, fioul, gazole) implantés dans deux cuvettes de rétention.	'essence', 'fioul', 'gazole'	
+2005	04			2005	04			Un_examen	Un examen de la situation, en avril 2005, a conduit l’inspection des installations classées à demander à l’exploitant de mesurer périodiquement le paramètre BTEX sur un des piézomètre (PZ5), afin d'évaluer l'évolution de la situation sur ce point de la nappe.	'BTEX'	
+2002	04			2002	04			Cette_étude	Cette étude qui comprend un diagnostic initial et une Evaluation Simplifiée des Risques (ESR) a été transmise à l'administration en avril 2002.		
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 10/11/98.		

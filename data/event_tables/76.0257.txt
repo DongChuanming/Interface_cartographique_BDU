@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	16		2010	03	16		est_pris	Un arrêté de mesure d'urgence visant à la mise en sécurité du site et à la connaissance de la nature du diélectrique est pris le 16 mars 2010 à l'encontre de la société Mossley Badin (la société Badin Sartel n'ayant pas repris officiellement les activités de Mossley badin).		'la société Mossley Badin', 'la société Badin Sartel', 'Mossley badin'
+2008	01	08		2008	01	08		prononce	Le 08 janvier 2008, le tribunal de commerce de Rouen prononce la liquidation judiciaire de la SAS Badin Sartel.		'le tribunal de commerce de Rouen', 'la SAS Badin Sartel'
+2003	03	28		2003	03	28		a_prononcé_la_liquidation_judiciaire	Le tribunal de commerce de Rouen a prononcé la liquidation judiciaire de l'entreprise Mossley-Badin le 28/03/2003 et maître Pascual a été désigné liquidateur judiciaire.		'Le tribunal de commerce de Rouen', 'Mossley - Badin'
+2003				2003				est_liquidé	En 2003, l'actif de la SA Mossley-badin est liquidé au profit de l'entreprise Badin Sartel.		'la SA Mossley', 'Badin Sartel'
+2010	03	14		2010	03	14		une_pollution	le 14 mars 2010, l'inspection des installations classées est informée d'une pollution de l'Austreberthe par des hydrocarbures en provenance du site (irisations).	'hydrocarbures'	
+1852				1852				a_été_occupé	Le site, en bordure de l'Austreberthe, a été occupé par la société Badin depuis 1852 (fondation d'une filature).		'la société Badin'

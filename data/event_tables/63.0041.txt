@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07			2008	07			des_investigations_complémentaires	Aussi, des investigations complémentaires, menées en juillet 2008, ont permis de déceler une source de pollution en amont des zones déjà traitées.		
+2012	09			2012	09			Les_premières_analyses_réalisées	Les premières analyses réalisées en septembre 2012 montrent la présence d'une pollution résiduelle aux hydrocarbures et MTBE dans des teneurs inférieures aux valeurs prises en compte pour l'exposition des usagers.	'hydrocarbures', 'MTBE'	
+2002				2002				des_travaux_de_démantèlement_des_infrastructures_pétrolières	Suite à l'arrêt définitif de la station service, des travaux de démantèlement des infrastructures pétrolières ont été engagées en 2002 (retrait des pompes de distribution, de quatre cuves de carburant et des canalisations).	'carburant'	
+2009	06			2009	06			ont_été_extraites	Ces cuves ainsi que 1 433 tonnes de terres ont été extraites et éliminées, en juin 2009.		
+2004				2004				a_mis_en_évidence	Début 2004, un diagnostic des sols et des eaux souterraines a mis en évidence la présence de Méthyl tert-butyléther (MTBE), un additif de l'essence.	'Méthyl tert - butyléther', 'MTBE', "additif de l' essence"	
+2012	08			2012	08			a_été_implanté	En août 2012, après la réalisation des travaux de construction du nouveau bâtiment, un réseau de 7 piézomètres a été implanté dont un hors site.		
+2004	07			2004	07			un_diagnostic	En juillet 2004, un diagnostic complémentaire a révélé une pollution des sols et de la nappe sous-jacente aux hydrocarbures.	'hydrocarbures'	
+				2001	02			a_accueilli	Il a accueilli dans les années 60 et jusqu'en février 2001, une station service.		
+2004	07			2004	07			une_pollution	En juillet 2004, un diagnostic complémentaire a révélé une pollution des sols et de la nappe sous-jacente aux hydrocarbures.	'hydrocarbures'	
+2004	08			2004	08			une_étude_est_réalisée	Afin de localiser précisément les sources de pollution, une étude est réalisée en août 2004, après le retrait de la dernière cuve enterrée.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				Les_investigations_menées	Les investigations menées en 2001 mettait en évidence l'existence d'une pollution des eaux souterraines par l'essence ou le gasoil sur 3 piézomètres (sur les 11 piézomètres réalisés au droit du site).		
+2004				2004				a_été_mis_en_place	Un confinement et un traitement de la pollution par pompage écrémage des eaux souterraines a été mis en place en 2002 et arrêté en 2004.		
+2008				2008				Un_analyse	Un analyse des risques résiduels a été réalisée en 2008.		
+2001				2001				a_identifié	Suite à la découverte de présence d'hydrocarbures de la Sauldre en 2001, la société TOTAL a identifié comme source de la pollution, une ancienne tuyauterie reliée au réseau et non bouchonnée correctement.	'hydrocarbures'	'la société TOTAL'
+2003				2003				ont_été_identifiées	En 2003, dans le cadre du démantèlement des installations pétrolières, en particulier l'extraction des cuves enterrées, des terres polluées ont été identifiées, excavées (25 m3)et envoyés en centre d'élimination.		
+2002				2002				a_été_mis_en_place	Un confinement et un traitement de la pollution par pompage écrémage des eaux souterraines a été mis en place en 2002 et arrêté en 2004.		
+2007				2007				des_travaux_de_dépollution_sont_intervenus	Eu égard aux pollution des sols identifiées, des travaux de dépollution sont intervenus en 2007 : plus de 600 t de terres polluées ont été excavées pour être traitées en biocentre.		
+2001				2001				n__est_plus_en_activité	La station service TOTAL Relais de la Sauldre n'est plus en activité depuis 2001.		'La station service TOTAL'
+2001				2001				à_la_découverte	Suite à la découverte de présence d'hydrocarbures de la Sauldre en 2001, la société TOTAL a identifié comme source de la pollution, une ancienne tuyauterie reliée au réseau et non bouchonnée correctement.	'hydrocarbures'	'la société TOTAL'
+2006				2006				un_diagnostic_approfondi	Compte tenu de ce changement envisagé, un diagnostic approfondi de la pollution des sols a été réalisé en 2006.		

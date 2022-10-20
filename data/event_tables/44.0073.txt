@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02			2001	02			Des_analyses	Des analyses concernant la qualité des eaux ont été réalisées en février 2001.		
+2004	05	05		2004	05	05		plan_de_cession	Par jugement en date du 5 mai 2004, le tribunal de commerce de Nantes a arrêté le plan de cession de la société Focast, présenté par la société Pebeco.		'le tribunal de commerce de Nantes', 'la société Focast', 'la société Pebeco'
+								a_débuté_son_activité	Cette décharge de la Formière a débuté son activité dans les années 1980.		
+2003	11	05		2003	11	05		le_redressement_judiciaire	Le 5 novembre 2003, le redressement judiciaire de la société Focast a été prononcé par le tribunal de commerce de Nantes, entrainant une cessation de l'activité du site.		'la société Focast', 'le tribunal de commerce de Nantes'
+1998				1998				document_établi	Le document établi en 1998 conclut à l'absence d'impact sur la qualité des eaux de surface et souterraines, et souligne la bonne intégration paysagère du dépôt.		
+1996				1996				une_étude_hydrogéologique_demandé	Le site, exploité par la société FOCAST, a fait notamment l'objet d'une étude hydrogéologique demandé par l'inspection des installations classées en 1996, afin de vérifier l'impact environnemental.		'la société FOCAST'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04	11		2001	04	11		a_été_transmis	Le programme des travaux a été transmis le 11 avril 2001.		
+1975	01	31		1975	01	31		ont_été_autorisées	Les installations ont été autorisées par l'arrêté du 31 janvier 1975.		
+1993				1993				La_cessation_définitive_d__activité	La cessation définitive d'activité a été déclarée en 1993.		
+2002				2002				a_été_délivré	Le permis de construire un immeuble d'habitation a été délivré à la SCI Anglet Adour Aménagement en 2002.		'la SCI Anglet'

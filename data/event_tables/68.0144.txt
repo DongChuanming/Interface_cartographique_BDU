@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_observé	Une augmentation significative de la concentration en DMI a été observé en août sur le puits STADE 2 ainsi que sur le puits TORRES en avril et sur  le puits sentier Ouest Lauch en novembre.	'DMI'	'TORRES'
+2009	06	19		2009	06	19		un_incident_de_production	Le site a fait l'objet d'un incident de production le 19 juin 2009 entrainant le déversement accidentel d'un solvant utilisé dans le cadre des activités de l'entreprise.		

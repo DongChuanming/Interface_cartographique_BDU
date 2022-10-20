@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959				1969				Dépôt	Dépôt entre 1959 et 1969 de résidus miniers issus de l'exploitation de la potasse.		
+1959				1969				a_été_constitué	Le terril Joseph Else Est a été constitué entre 1959 et 1969 par les matériaux issus de l'exploitation du sel gemme, composés de chlorure de sodium (NaCl) et d'insolubles (mélange d'argiles et d’une fraction dure et dense constituée d’anhydrite (sulfate de calcium CaSO4) et de dolomie (carbonates de calcium et de magnésium)).	'sel gemme', 'chlorure', 'sodium', 'NaCl', 'anhydrite', 'sulfate', 'calcium CaSO4 )', 'carbonates', 'calcium', 'magnésium'	
+1995				2005				a___été_traité_par_dissolution_accélérée	Le terril Joseph Else Est a  été traité par dissolution accélérée de 1995 à 2005.		
+2007				2007				un_important_remodelage	Le terril a ensuite fait l'objet d'un important remodelage en 2007 ayant pour objectif sa stabilisation, la gestion des eaux pluviales et l'intégration paysagère dans la réserve naturelle du Rothmoos après comblement du fossé périphérique profond.		

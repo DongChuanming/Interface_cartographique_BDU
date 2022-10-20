@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	21		2004	06	21		a_été_engagée	La procédure de consignation d'un montant de 15 000 € a été engagée par arrêté du 21 juin 2004.		
+1994				1994				était_saisie	En 1994, l'administration était saisie par un propriétaire du Lotissement "Le Moulin Neuf", avenue de Montbrun 64 Anglet, de la remontée d'hydrocarbures dans le sol de deux parcelles.	'hydrocarbures'	'Moulin Neuf'
+1994	07	08		1994	07	08		a_été_constatée	La pollution a été constatée par l'Inspecteur des Installations Classées le 8 juillet 1994.		
+1994	09	14		1994	09	14		l__étude_des_sols	Le Préfet a prescrit à l'ancien propriétaire des terrains, ancien exploitant des Tanneries de Montbrun, l'étude des sols et de la nappe, par arrêté de mise en demeure du 14 septembre 1994.		'Le Préfet'
+1995	01	02		1995	01	02		a_déposé	Le titulaire de cet arrêté a déposé un recours contre cet arrêté, hors délai, le 02 janvier 1995.		
+2006	02	15		2006	02	15		L__étude_remise	L'étude remise le 15 février 2006 classe le site en 2 "à surveiller" pour les eaux souterraines et superficielles utilisées à d'autres usages que l'adduction d'eau potable		
+1987				1987				a_cessé	Ce lotissement a été construit sur les terrains des anciennes Tanneries de Montbrun dont l'activité a cessé en 1987.		
+2006	12	26		2006	12	26		informe	Le 26/12/2006, le mandataire liquidateur informe la DRIRE de la rélaisation de l'étude hydrogéologique et de la mise en place des 3 piézomètres.		'la DRIRE'
+1987				1987				a_été_construit_sur	Ce lotissement a été construit sur les terrains des anciennes Tanneries de Montbrun dont l'activité a cessé en 1987.		

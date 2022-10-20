@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				les_mesures_de_réaménagement	- l’obligation de pérenniser les mesures de réaménagement et de surveillance, prescrites par ailleurs dans l’arrêté préfectoral de 1994,		
+1997	11	05		1997	11	05		servitude_a_été_établi	Enfin, l’obligation d’instituer une servitude de durée illimitée au profit de l’État a été prescrite par ce même arrêté préfectoral de 1994.  L’acte instituant cette servitude a été établi en date du 5 novembre 1997.		
+1992				1992				a_été_vendue	La Société BORDEN FRANCE a été vendue en 1992 à la Société BTP plc.		'La Société BORDEN FRANCE', 'la Société BTP'
+1988				1988				a_été_découvert	En 1988, à l'occasion de la création d'un plan d'eau (lors de la prospection dans les environs du site pour garantir l'absence d'apport de pollution au plan d'eau), il a été découvert une décharge de déchets industriels exploitée par la Sté BORDEN FRANCE - Division LAMBIOTTE.	'de déchets industriels'	'la Sté BORDEN FRANCE - Division LAMBIOTTE'
+1994	11	14		1994	11	14		a_exigé_le_réaménagement	Par arrêté préfectoral du 14 novembre 1994, le préfet de la Nièvre a exigé le réaménagement de cette décharge.		'le préfet de la Nièvre'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1901				1901				a_reçu	-Centre de stockage de déchets qui a reçu depuis 1901 des déchets en provenance de fonderies, aciéries et hauts-fourneaux jusqu'en 1980, et des usines de ferromanganèse (Comilog) jusqu'en 2003.	'stockage de déchets', 'ferromanganèse'	'Comilog'
+2008				2008				_Travaux	-Travaux en 2008: pose d'une géomembrane imperméable et apport de terre saine pour couverture végétale.		
+				2003				a_reçu	-Centre de stockage de déchets qui a reçu depuis 1901 des déchets en provenance de fonderies, aciéries et hauts-fourneaux jusqu'en 1980, et des usines de ferromanganèse (Comilog) jusqu'en 2003.	'stockage de déchets', 'ferromanganèse'	'Comilog'
+				1980				a_reçu	-Centre de stockage de déchets qui a reçu depuis 1901 des déchets en provenance de fonderies, aciéries et hauts-fourneaux jusqu'en 1980, et des usines de ferromanganèse (Comilog) jusqu'en 2003.	'stockage de déchets', 'ferromanganèse'	'Comilog'
+2007	06	13		2007	06	13		_Déclaration_de_cessation_d__activité	-Déclaration de cessation d'activité: 13/06/2007.		

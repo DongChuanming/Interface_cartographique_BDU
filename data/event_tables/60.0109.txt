@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	08	26		1994	08	26		disposait_d_	L’exploitant disposait d’un récépissé de déclaration en date du 26 août 1994.		
+2010	08			2010	08			ont_définitivement_cessé	Les activités ont définitivement cessé en août 2010.		
+2005				2005				avait_déposé	L'exploitant avait déposé un dossier de régularisation administrative de ses activités en 2005 compte-tenu de l'évolution des activités du site.		

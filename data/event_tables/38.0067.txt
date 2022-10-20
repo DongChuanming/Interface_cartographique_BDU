@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_été_vidangés	Les stockages enterrés ont été vidangés, nettoyés et remblayés en 1995 et 1996.		
+2001				2001				derniers_documents_transmis	Les derniers documents transmis par Gaz de France à la DRIRE datent de 2001.		'Gaz de France', 'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1840				1957				a_accueilli	Il a accueilli une usine de production de gaz à partir de la distillation de la houille de 1840 à 1957.		
+1996				1996				ont_été_vidangés	Les stockages enterrés ont été vidangés, nettoyés et remblayés en 1995 et 1996.		
+1993				1993				de_campagnes_réalisées	- La qualité des eaux souterraines à été contrôlée au cours de campagnes réalisées en 1993 (1 campagne), 1995 (2 campagnes) et 1999 (1 campagne) ; un des piézomètres au droit du site présentait une contamination significative par les principaux traceurs de l’activité gazière (ammonium : 34.4 mg/L, cyanures totaux : 220 microg/L, somme des 6 HAP : 10.6 microg/L).	'ammonium', 'cyanures totaux', '6 HAP'	
+1993				1993				a_fait_l__objet	Conformément aux engagements pris dans le protocole, ce site a fait l'objet en 1993 d'une étude historique avec localisation des cuves (recherches bibliographiques, enquêtes...)  suivi de prélèvements afin de vérifier l'état des sols et sous-sols.		

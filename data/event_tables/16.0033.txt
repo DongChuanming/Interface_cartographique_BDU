@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				société_existe_juridiquement	Ce site de 1,1 ha accueille la société ICT, spécialisée dans la fabrication d'armoires métalliques.  Cette société existe juridiquement depuis 1997, suite à la fermeture de la société ACIAL.		'la société ICT', 'de la société ACIAL'
+				1985				l__utilisation_de_produit_dégraissant	En effet, l'utilisation de produit dégraissant (au PCE) aurait eu lieu jusqu'en 1984-1985.	'produit dégraissant'	
+2003	10	06		2003	10	06		à_un_rapport	Suite à un rapport, daté du 6 octobre 2003, décrivant les modalité d'exploitation de la société ICT, un arrêté préfectoral d'autorisation a été signé le 29 décembre 2003.		'la société ICT'
+				1984				l__utilisation_de_produit_dégraissant	En effet, l'utilisation de produit dégraissant (au PCE) aurait eu lieu jusqu'en 1984-1985.	'produit dégraissant'	
+2001	08	31		2001	08	31		a_été_pris	Aucune de ces deux sociétés (ACIAL et ICT) n'ayant été autorisées à exploiter leurs installations, un arrêté préfectoral de mise en demeure a été pris le 31 août 2001, afin que les démarches soient effectuées.		'ACIAL', 'ICT'
+2014	01			2014	01			un_diagnostic_environnemental	Dans le cadre d'un projet d'acquisition de la société ICT par le groupe SMART HOLDING, un diagnostic environnemental a été réalisé par le bureau d'études URS, en janvier 2014.		'la société ICT', 'le groupe SMART HOLDING', 'URS'
+2003	12	29		2003	12	29		l__exploitation	Cette pollution vieille de plus de 30 ans, est antérieure à l'exploitation la plus récente sur le site dont l'autorisation d'exploiter date du 29 décembre 2003.		
+2003	09	22		2003	09	22		de_la_visite	Lors de la visite d'inspection courante du 22 septembre 2003, il a été demandé à ICT de mettre ses installations de traitement des eaux en conformité.		'ICT'
+2003	12	29		2003	12	29		a_été_signé	Suite à un rapport, daté du 6 octobre 2003, décrivant les modalité d'exploitation de la société ICT, un arrêté préfectoral d'autorisation a été signé le 29 décembre 2003.		'la société ICT'
+2009	10	08		2009	10	08		de_la_visite_d__inspection	Lors de la visite d'inspection du 8 octobre 2009, il a été observé que la rétention sous le réservoir de produits de traitements du métal était sous-dimensionnée.		
+2003	09	22		2003	09	22		a_été_demandé	Lors de la visite d'inspection courante du 22 septembre 2003, il a été demandé à ICT de mettre ses installations de traitement des eaux en conformité.		'ICT'
+2015	12	04		2015	12	04		Une_inspection	Une inspection a par la suite eu lieu le 4 décembre 2015.		

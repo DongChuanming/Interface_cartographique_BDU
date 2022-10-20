@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				avaient_été_entreprise	Une tentative de traitement de la nappe souterraine avaient été entreprise en 2005 ; son résultat n'est pas connu.		
+2013				2013				est_réalisée	En 2013, 2014 , une étude de faisabilité d'un projet de confinement hydraulique est réalisée.		
+2007				2007				a_été_constaté	En 2007, suite au démantèlement de cuves de stockage, un impact visuel et olfactif en hydrocarbures a été constaté. 8 sondages ont alors été réalisés et les conclusions ont indiqué que l'ensemble des échantillons de sondages sont pollués en hydrocarbures ; de plus, deux échantillons sont également impactés en composés aromatiques volatils (CAV).	'hydrocarbures', 'hydrocarbures', 'composés aromatiques volatils', 'CAV'	
+1998				1998				évaluation_simplifiée_des_risques	• Diagnostic préliminaire en 1996, évaluation simplifiée des risques en 1998		
+2005				2005				a_été_transmise	En 2005, une étude complémentaire a été transmise à l'inspection des installations classées.		
+2013	12			2013	12			__Diagnostics_complémentaires	• Diagnostics complémentaires en octobre et décembre 2013		
+2017	01			2017	01			a_pris_fin	Le pilote a pris fin en janvier 2017.		
+1996				1996				évaluation_simplifiée_des_risques	• Diagnostic préliminaire en 1996, évaluation simplifiée des risques en 1998		
+								__Diagnostics_complémentaires	• Diagnostics complémentaires en octobre et décembre 2013		
+2002				2002				__Diagnostic_approfondi	• Diagnostic approfondi en 2002		
+2014				2014				ce_traitement_biologique	En été 2014 , ce traitement biologique par pilote des terres excavées est réalisé et 650m3 de sols sont traités.		
+2013	10			2013	10			Une_nouvelle_étude_de_diagnostic_environnemental	Une nouvelle étude de diagnostic environnemental en octobre 2013 a mis en évidence pour les sols :		
+2016	05			2016	05			sont_mis_en_places	Des biofiltres sont mis en places en mai 2016 et 161kg d'HC sont spargés en 8 mois à la sortie de ces derniers.	'HC'	
+2011	11	08		2011	11	08		déclare	Le 8 novembre 2011, la société Raffinerie du Midi déclare la cessation totale de ses activités de stockage d'hydrocarbures.	'hydrocarbures'	'la société Raffinerie du Midi'
+2016	04			2016	04			ont_également_été_mis_en_place	Des casiers d'écrémage ont également été mis en place fin avril 2016.		
+2015	05			2015	05			Le_remblaiement	Le remblaiement a été effectué en mai 2015 , et les fonds de fouilles laissées ouvertes ne présentent qu'une baisse peu significative représentant la faiblesse du phénomène de biodégradation.		
+2014				2014				est_réalisée	En 2013, 2014 , une étude de faisabilité d'un projet de confinement hydraulique est réalisée.		
+2005				2005				des_investigations	Les résultats des investigations de 2005 ont indiqué que :		
+2002				2002				des_campagnes_de_suivi	A partir de 2002, des campagnes de suivi de la qualité des eaux souterraines ont commencé à être réalisées, et à partir de 2005 le suivi se faisait de façon semestrielle.		
+2013	12			2013	12			du_diagnostic_complémentaire	De nouveaux essais de dépollution des eaux souterraines ont été effectués dans le cadre du diagnostic complémentaire de décembre 2013 : ils se sont révélés peu concluants en raison de faibles perméabilités au sein de l'aquifère.		
+2015	03			2017	03			Des_campagnes_de_suivi_sont_réalisées	Des campagnes de suivi sont réalisées de mars 2015 à mars 2017 à l'aide de piézomètre.		
+1996				1996				__Diagnostic_préliminaire	• Diagnostic préliminaire en 1996, évaluation simplifiée des risques en 1998		
+2013	12			2013	12			Une_seconde_campagne_de_diagnostic	Une seconde campagne de diagnostic en décembre 2013 est venue confirmer le fort impact identifié dans les sols de la zone de dépotage, le volume à traiter étant estimé à 600 m³.		

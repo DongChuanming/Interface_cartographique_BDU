@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09			2011	09			Une_analyse_des_risques	Une analyse des risques résiduels a été réalisée en septembre 2011 sur la base des concentrations en hydrocarbures mesurées dans les gaz du sol à l'issue du traitement par venting au niveau des sablons entourant la cuve inertée.	'hydrocarbures'	
+2014	12	31		2014	12	31		a_réclamé	Sur proposition de l'inspection des installations classées, la Préfecture de Police a réclamé à l'exploitant par courriers des 31 décembre 2014 et 19 mars 2015 :		'la Préfecture de Police'
+2010	05			2010	05			Des_investigations_menées	Des investigations menées en mai 2010 ont mis en évidence un impact en hydrocarbures totaux dans les sablons de la fosse maçonnée (maxi : 9500 mg/kg, principalement la fraction C21-C40) et au niveau du terrain naturel situé sous la fosse maçonnée (maxi : 7100 mg/kg).	'hydrocarbures totaux', 'C21-C40 )'	
+				2009				a_exploité	SHELL a exploité une station-service au 88 avenue Paul Doumer à Paris 16ème jusqu'en 2009.		'SHELL'
+2009	07	1		2009	07	1		d__une_visite	Un rapport du 13 août 2009 d'un bureau d'étude indique que des traces d'hydrocarbures ont été constatées au pied d'un volucompteur de gazole côté piste et côté rue, et au niveau du mur et du plafond du sous-sol lors d'une visite sur site le 1er juillet 2009.	'hydrocarbures', 'gazole'	
+2016	06	06		2016	06	06		a_relancé	A la demande de l'inspection des installations classées, la Préfecture de Police a relancé l'exploitant par courrier du 6 juin 2016.		'la Préfecture de Police'
+2010	09			2011	05			Un_traitement_par_venting	Un traitement par venting a été réalisé de septembre 2010 à mai 2011 dans les sablons de la fosse maçonnée au niveau des 2ème et 3ème sous-sols.		
+2009	08	28		2009	08	28		la_cessation_d__activité	SHELL a notifié la cessation d'activité de l'installation le 28 août 2009.		'SHELL'
+2015	03	19		2015	03	19		a_réclamé	Sur proposition de l'inspection des installations classées, la Préfecture de Police a réclamé à l'exploitant par courriers des 31 décembre 2014 et 19 mars 2015 :		'la Préfecture de Police'

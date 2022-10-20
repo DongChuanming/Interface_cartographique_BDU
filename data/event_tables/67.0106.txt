@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975	1965			1975	1965			déversés	Ces puits posent un problème double car ils ont été comblé en partie par des déchets liquides déversés dans les années 1965/1975.	'déchets liquides déversés'	
+1930	01			1930	01			Le_fonçage	Le fonçage a été repris ensuite entre janvier 1930 et février 1931 pour atteindre sa profondeur définitive.		
+2010				2010				des_travaux_d__instrumentation	En 2010, le BRGM/DRP/DPSM a réalisé des travaux d’instrumentation des puits, par la mise en place d’une sonde piézométrique sur le puits III associée à un automate de télégestion et de transmission, pour suivre l’évolution du réservoir minier.		'le BRGM / DRP / DPSM'
+1962	05			1963	01			ont_été_fermés	Les puits ont été fermés par une dalle de surface entre mai 1962 et janvier 1963.		
+1931	03			1932	02			le_creusement	Entre mars 1931 et février 1932 le creusement du puits a été repris pour atteindre sa profondeur actuelle.		
+1931	02			1931	02			Le_fonçage	Le fonçage a été repris ensuite entre janvier 1930 et février 1931 pour atteindre sa profondeur définitive.		
+1925	07			1926	01			a_d__abord_été_foncé	Le puits VII qui servait de puits de sortie d’air au puits III a d’abord été foncé jusqu’au premier étage de juillet 1925 à janvier 1926.		
+2006				2006				des_mesures_effectuées	Lors des mesures effectuées en 2006, le puits VII semblait sec.		
+2010				2010				la_mise_en_conformité	En 2010, le BRGM/DRP/DPSM/UTAM Est, qui s’est vu confier la gestion des exutoires de gaz de mines, a fait réaliser la mise en conformité d’après la note « Instruction exutoires de gaz de mine 01/2009 – Analyse de risque et principes  d’installation ».		'le BRGM / DRP / DPSM / UTAM Est'
+1998	08			1998	08			Des_travaux	Des travaux ont été menés sur les puits en août 1998, qui consistaient en :		
+1918				1918				au_cours	Le fonçage du puits Daniel Mieg (puits III) débuta au cours de l’année 1918 pour se terminer en 1919.		

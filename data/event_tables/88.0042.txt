@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	22		2003	07	22		plan_de_cession_partielle	Le 22 juillet 2003, le Tribunal de Commerce d'EPINAL a arrêté le plan de cession partielle de la société STAHV.		"le Tribunal de Commerce d' EPINAL", 'la société STAHV'
+2005	05			2005	05			Les_analyses	Les analyses de juin 2004 et mai 2005 montrent une absence de contamination des eaux souterraines.		
+2003	11			2003	11			à_la_réalisation_d__un_diagnostic_de_sols	Dans le cadre de la cessation d'activité de la STAHV, le mandataire judiciaire a fait procéder à la réalisation d'un diagnostic de sols en novembre 2003.		'la STAHV'
+2004	06			2004	06			Les_analyses	Les analyses de juin 2004 et mai 2005 montrent une absence de contamination des eaux souterraines.		
+2003	11			2003	11			a_fait_procéder	Dans le cadre de la cessation d'activité de la STAHV, le mandataire judiciaire a fait procéder à la réalisation d'un diagnostic de sols en novembre 2003.		'la STAHV'
+2006	03	31		2006	03	31		L__Evaluation_Simplifiée_des_Risques	L’Evaluation Simplifiée des Risques réalisée en date du 31 mars 2006 a mis en évidence deux sources de pollution des sols : hydrocarbures et métaux (principalement plomb et arsenic).	'hydrocarbures', 'métaux', 'plomb', 'arsenic'	
+2007	05			2007	05			des_travaux_d__excavation	- Concernant le traitement de la pollution, des travaux d'excavation/évacuation ont été finalisés en mai 2007 et la fouille a été remblayée par des matériaux sains.		
+2014				2014				l__arrêt	Fin 2014, l'arrêt de la surveillance des eaux souterraines est actée.		

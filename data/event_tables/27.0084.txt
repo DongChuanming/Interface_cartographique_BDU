@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1939				1939				a_été_acheté	Historique : Le site a été acheté par la famille DECROIX en 1939 pour devenir une usine de fabrication textile : les Tissages de Gravigny.		
+1975				1975				a_démarré	L'activité de blanchisserie industrielle a démarré en 1975.		
+2014	04	14		2014	04	14		__diagnostic_environnemental_complémentaire	- diagnostic environnemental complémentaire du 14 avril 2014,		
+2012				2014				Les_études_et_actions	Les études et actions suivantes ont été engagées entre 2012 et 2014 :		
+2012				2012				une_étude_de_caractérisation	La société INITIAL a mené fin 2012 une étude de caractérisation en PCE / TCE de la qualité des sols au droit des installations historiques  (anciennes machines de nettoyage à sec, ancienne fosse à huile et anciennes installations de stockage de PCE).	'de stockage de PCE'	'La société INITIAL'
+2015				2015				prescrit_la_mise_en_oeuvre_de_mesures	En 2015, l'arrêté préfectoral complémentaire du 28 avril 2015 prescrit la mise en oeuvre de mesures de gestion en raison de la présence d'une pollution au solvants chlorés dans les sols et les eaux souterraines du site de Gravigny (en particulier : mise en place d'une barrière visant à empêcher la migration du panache de pollution dans les eaux souterraines à l'extérieur du site, mise en place d'un traitement des sols et des eaux souterraines au niveau de la zone polluée).	'solvants chlorés'	
+2016	04			2016	04			actualisé	L'exploitant a transmis un plan de gestion actualisé en avril 2016 en vue de définir les seuils de réhabilitation à atteindre.		
+2016	09			2016	09			a_fait_l__objet_d_	Celui-ci a fait l'objet d'un avis technique du BRGM en septembre 2016.		'BRGM'
+2002				2002				a_été_arrêtée	L'activité de nettoyage à sec exercée par BTB a été arrêtée en 2002.		'BTB'
+2012				2012				des_investigations_menées	Suite à la pollution du captage d'eau potable de Normanville, des investigations menées en 2012 sur les eaux souterraines et les eaux superficielles au niveau de la zone d'activités de Gravigny ont montré que le point P13 (usine INITIAL) présentait les concentrations les plus élevées de Tétrachloroéthylène (PCE) et de Trichloroéthylène (TCE).	'de Tétrachloroéthylène ( PCE', 'de Trichloroéthylène ( TCE'	'usine INITIAL'
+2015	04			2015	04			Les_travaux_de_dépollution_ont_débutés	Les travaux de dépollution ont débutés en avril 2015 sont toujours en cours.		

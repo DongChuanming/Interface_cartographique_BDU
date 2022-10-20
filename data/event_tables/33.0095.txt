@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								prévoit	L'exploitant prévoit les investigations au 2ème semestre 2009.		
+2004	06	03		2004	06	03		La_campagne_d__analyses	La campagne d'analyses du 3 juin 2004 montre la persistance de polluants en PZ2 (BTEX et HAP), uniquement localisée en ce point et ne traduisant pas la présence d'un panache dans la nappe.	'polluants en', 'PZ2', 'BTEX', 'HAP'	
+2014				2014				faite_sur	Suite au bilan de la surveillance des eaux souterraines faite sur la période 2006-2014, il est préconisé d'effectuer la mise à jour de l'étude de vulnérabilité réalisée en 2006.		
+2005	03			2005	03			a_été_découverte	En mars 2005, une cuve a été découverte à l'endroit du PZ2, partiellement remplie de goudrons et aux parois fissurées.	'goudrons'	
+2007	12	17		2007	12	17		La_campagne_du	La campagne du 17/12/2007 portant sur 6 piézomètres montre une stabilité de l'impact observé essentiellement en PZ2 pour le Benzène, les HAP et le Benzo(a)pyrène.	'le Benzène', 'les HAP', 'Benzo(a)pyrène'	
+2008	03			2008	03			La_campagne	La campagne de mars 2008 confirme la situation.		
+1996				1998				ont_fait_l__objet	Bien que le site ne présente pas de risque pour son environnement, les eaux de la nappe ont fait l’objet de 1996 à 1998 d’une surveillance régulière sur 6 piézomètres encadrée par l'arrêté préfectoral du 21/11/1996.		
+2002	12			2002	12			une_vérification	En décembre 2002, il a été réalisé une vérification du sens d'écoulement de la nappe et de la qualité de l'eau au droit du piézomètre PZ2 par une analyse des BTEX et des 6 HAP.	'BTEX', '6 HAP'	
+2006				2006				l__étude_de_vulnérabilité_réalisée	Suite au bilan de la surveillance des eaux souterraines faite sur la période 2006-2014, il est préconisé d'effectuer la mise à jour de l'étude de vulnérabilité réalisée en 2006.		
+1997				2015				la_mesure	Au regard des résultats d'avril 2015 et de la synthèse réalisée de 1997 à 2015, la mesure des HAP et BTEX sera désormais effectuée une fois par an dans les piézomètres PZ2, PZ5, PZ8 et PZ9.	'HAP', 'BTEX'	
+2006	04	19		2006	04	19		la_campagne	Suite à la découverte d'une cuve à goudrons et des travaux de vidange, la campagne du 19 avril 2006 montre que les BTEX diminuent globalement, le Benzène reste toutefois supérieur à la VCI usage non sensible.	'goudrons', 'BTEX', 'Benzène'	
+2009	06	30		2009	06	30		le_diagnostic	Le 04/03/2009, la DRIRE demande à GDF de compléter, à l'échéance du 30 juin 2009, le diagnostic du site afin de localiser la source de pollution potentielle à l'origine de l'impact durable de la nappe.		'la DRIRE', 'GDF'
+2014	03			2014	03			La_campagne	La campagne de mars 2014 montre la situation suivante (rapport téléchargeable en page 4) :		
+2003				2003				redevient_supérieure	La concentration des 6 HAP passée en dessous de la VCI en 2003, redevient supérieure à cette VCI.	'6 HAP'	
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+				2006	02	10		Les_travaux_de_vidange	Les travaux de vidange de la cuve se sont déroulés du 30 janvier au 10 février 2006. 72 m3 (environ 128 tonnes) de matériaux soullés ont été extraits.		
+2006				2006				faite_sur	Suite au bilan de la surveillance des eaux souterraines faite sur la période 2006-2014, il est préconisé d'effectuer la mise à jour de l'étude de vulnérabilité réalisée en 2006.		
+2009				2009				prévoit	L'exploitant prévoit les investigations au 2ème semestre 2009.		
+1994				1996				un_diagnostic_approfondi	En vue d’un réaménagement interne pour les besoins d’EDF-GDF, un diagnostic approfondi a été réalisé entre 1994 et 1996.		'EDF - GDF'

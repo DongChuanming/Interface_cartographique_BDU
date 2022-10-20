@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	01		2007	10	01		a_été_mis_en	Un affichage a été mis en place pour limiter l'accès au site et des servitudes destinées à geler l'usage des terrains concernés ont été prescrites par arrêté préfectoral du 1/10/2007.		
+1959				1962				La_remise_en_état	La remise en état du site, réalisée entre 1959 et 1962, a consisté :		
+2001	10			2001	10			Réalisation_d__une_ESR	Réalisation d'une ESR (Evaluation simplifiée des risques) en octobre 2001 (site classe 1 - investigations approfondies): teneurs significatives du sol en As, Pb, Cd et métaux lourds, transfert possible dans les eaux de surface lié au marnage de la retenue.	'As', 'Pb', 'Cd', 'métaux lourds'	
+								a_été_exploitée	L'usine de Ceilhes et Rocozels a été exploitée depuis le début du 20 éme siécle.		
+2003	03			2003	03			Réalisation_d__une_EDR	Réalisation d'une EDR (Evaluation détaillée des risques) en mars 2003: concentrations dans l'eau inférieures aux VCI pour usage sensible (seuils de potabilité).		
+1953				1953				a_arrêté_toutes_activités	La société Penarroya, dernier exploitant du site, a arrêté toutes activités sur le site en 1953.		'La société Penarroya'
+2001	11			2001	11			Evacuation	Evacuation en novembre 2001 d'environ 300 tonnes de déchets		'déchets'

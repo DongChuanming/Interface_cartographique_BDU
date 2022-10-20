@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				Un_confinement	Un confinement par pompage de fixation et un traitement des sols sous l’installation de dégraissage par venting a été réalisé pendant 2 ans (août 1994 à 1996).		
+2008				2008				étaient_réalisés	- Jusqu'en 2008, des prélèvements étaient réalisés en surface et au fond de cet ouvrage: les concentrations mesurées en Tétrachloroéthylène étaient du mm ordre.	'Tétrachloroéthylène'	
+								Un_confinement	Un confinement par pompage de fixation et un traitement des sols sous l’installation de dégraissage par venting a été réalisé pendant 2 ans (août 1994 à 1996).		
+2009	05	05		2009	05	05		elle_est_actuellement_réglementée	La surveillance des eaux souterraines a été imposée par les Arrêtés préfectoraux  du 30/10/91 et du 02/02/2001; elle est actuellement réglementée par l'AP du 05/05/2009.		
+1994	08			1994	08			une_dépollution	En août 1994, une dépollution des sols a été entreprise (venting sur la base de 2 puits d'aspiration de 4 m de profondeur; traitement des gaz extraits sur filtre CA avec régénération à la vapeur), opérationnelle jusque juillet 2006.		
+2006				2006				contrôlé	La concentration mesurée au Réservoir (contrôlé depuis 2006) est généralement de l'ordre de 4- 6 µg/l.		
+1994	08			1994	08			Un_confinement	Un confinement par pompage de fixation et un traitement des sols sous l’installation de dégraissage par venting a été réalisé pendant 2 ans (août 1994 à 1996).		
+2009	01	21		2009	01	21		des_visites	Les conclusions des visites du 25/06/2008 et 21/01/2009 ont conduit à ré-examiner les prescriptions concernant la surveillance nappe.		
+								a_été_arrêté	En 1995-96, le dégraisseur a été arrêté, démonté et remplacé par un dégraisseur nouvelle génération qui a été installé un peu plus au Nord que celui démonté.		
+2005	12			2005	12			basculement	-depuis début 2005, basculement assez général sous la barre des 10  (18 µg/l en Décembre 2005 ),		
+				2006	07			__traitement	En août 1994, une dépollution des sols a été entreprise (venting sur la base de 2 puits d'aspiration de 4 m de profondeur; traitement des gaz extraits sur filtre CA avec régénération à la vapeur), opérationnelle jusque juillet 2006.		
+1995				1995				a_été_arrêté	En 1995-96, le dégraisseur a été arrêté, démonté et remplacé par un dégraisseur nouvelle génération qui a été installé un peu plus au Nord que celui démonté.		
+1995				1995				une_diminution	Le suivi des eaux souterraines montre une diminution depuis 1995 des concentrations en tétrachloroéthylène dans les piézomètres situés sur le site:	'tétrachloroéthylène'	
+2008	06	25		2008	06	25		des_visites	Les conclusions des visites du 25/06/2008 et 21/01/2009 ont conduit à ré-examiner les prescriptions concernant la surveillance nappe.		
+2001				2001				réalisé	Evolution à l'aval éloigné (2 300 m de la limite Nord du site BEHR) : Puits 378-2X-0220 - ouvrage réalisé en 2001.		'BEHR'
+1990				1990				ont_mis_en_évidence	En 1990, des investigations ont mis en évidence la présence de solvants chlorés (notamment tétrachloroéthylène) dans les eaux souterraines, au droit et en aval du site.	'solvants chlorés', 'tétrachloroéthylène'	
+2000	02			2000	02			a_été_détectée	Février 2000, la présence de COHV a été détectée sur 2 forages AEP, au Nord du site.	'COHV'	
+2005				2005				basculement	-depuis début 2005, basculement assez général sous la barre des 10  (18 µg/l en Décembre 2005 ),		

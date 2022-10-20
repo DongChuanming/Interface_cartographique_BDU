@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	17		2003	02	17		a_changé_de_raison_sociale	Ex-centre de Rhône Poulenc, il est devenu un établissement indépendant et a changé de raison sociale le 17/02/2003.		'Rhône Poulenc'
+2006	08			2008	02			La_réhabilitation	La réhabilitation de l'ensemble du site s'est déroulé depuis août 2006 à février 2008 et a consisté en :		
+2006	12	31		2006	12	31		cesser_toute_activité	Le 18/08/2006, la société ARCHEMIS a déclaré au Préfet cesser toute activité au 31/12/2006 et engager la réhabilitation du site.		'la société ARCHEMIS'
+2006	05			2006	05			a_été_suivie	La qualité des eaux souterraines a été suivie dès mai 2006 sur 25 piézomètres.		
+2000	09	11		2000	09	11		L__Evaluation_Simplifiée_des_Risques	L'Evaluation Simplifiée des Risques (ESR) a été remise à l'administration le 11/09/2000 et conclut à un site classé 3 (site banalisable) pour l'usage industriel actuel.		
+2005				2005				ont_été_détruits	Suite à l’arrêt des activités sur le site en 2005, les bâtiments présents sur le site ont été détruits en mai 2006.		
+2010	03	31		2010	03	31		réaménagement_ont_alors_été_pérénisées	Ces conditions de réaménagement ont alors été pérénisées par la constitution de Servitudes de restriction d'usage entre Aventis Agriculture (venue au droit de la société Archémis) et l'Etat signées le 31/03/2010.		'Aventis Agriculture', 'la société Archémis'
+2010				2010				a_déclaré	Il a déclaré cesser toute activité au 31/12/2006 et a engagé la réhabilitation du site qui s'est achevée en 2010.		
+2003	02	17		2003	02	17		est_devenu_un_établissement_indépendant	Ex-centre de Rhône Poulenc, il est devenu un établissement indépendant et a changé de raison sociale le 17/02/2003.		'Rhône Poulenc'
+2006	12	31		2006	12	31		cesser_toute_activité	Il a déclaré cesser toute activité au 31/12/2006 et a engagé la réhabilitation du site qui s'est achevée en 2010.		
+2010	12	16		2010	12	16		prévu	Le site a ensuite été cédé à la SCI de l’Union (Lyon 3eme) en vue de l'aménagement du Pôle Santé prévu le 16/12/2010.		
+2006	05			2006	05			ont_été_détruits	Suite à l’arrêt des activités sur le site en 2005, les bâtiments présents sur le site ont été détruits en mai 2006.		
+2010	12	16		2010	12	16		a_ensuite_été_cédé	Le site a ensuite été cédé à la SCI de l’Union (Lyon 3eme) en vue de l'aménagement du Pôle Santé prévu le 16/12/2010.		
+2010	03	31		2010	03	31		la_constitution_de	Ces conditions de réaménagement ont alors été pérénisées par la constitution de Servitudes de restriction d'usage entre Aventis Agriculture (venue au droit de la société Archémis) et l'Etat signées le 31/03/2010.		'Aventis Agriculture', 'la société Archémis'
+2005				2005				l__arrêt_des_activités	Suite à l’arrêt des activités sur le site en 2005, les bâtiments présents sur le site ont été détruits en mai 2006.		
+2010				2010				a_engagé_la_réhabilitation_du_site	Il a déclaré cesser toute activité au 31/12/2006 et a engagé la réhabilitation du site qui s'est achevée en 2010.		
+2005				2007	05			des_recherches_historiques	- des recherches historiques et des investigations et études des sols et des eaux souterraines réalisés principalement de 2005 à mai 2007 ;		
+2006	08	18		2006	08	18		a_déclaré	Le 18/08/2006, la société ARCHEMIS a déclaré au Préfet cesser toute activité au 31/12/2006 et engager la réhabilitation du site.		'la société ARCHEMIS'
+2006	06			2008	01			des_centres_de_recyclage	- la dépollution des sols, avec extraction des matériaux, analyses, tri, et l'évacuation vers des centres de recyclage ou d’enfouissement ou de destruction de juin 2006 à janvier 2008 ;		
+								de_devenir	Le site a été un site de production de la viscose (1923-1959) avant de devenir dans les années 60, un centre de recherches de la chimie.	'la viscose'	
+1977	07	18		1977	07	18		bénéficiait	La société bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter datant du 18/07/1977.		
+2006	10	30		2006	10	30		a_donc_transmis	La société ARCHEMIS a donc transmis un mémoire préliminaire de réhabilitation de son site pour un usage futur de type "Pôle Santé" au Préfet le 30/10/2006.		'La société ARCHEMIS'
+2000	01	21		2000	01	21		un_diagnostic_initial	En application de l'arrêté préfectoral du 12/08/1998 modifié le 2/03/1999 (réduction des délais de transmission des études), un diagnostic initial du site a été remis à l'administration le 21/01/2000.		

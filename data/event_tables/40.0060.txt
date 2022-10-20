@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				Liquidation_judicaire	Liquidation judicaire de la société en 2008.		
+2017	04	19		2017	04	19		Arrêt_constaté_de_l__activité	Arrêt constaté de l'activité depuis juin 2014, liquidation judiciaire de la société ADOUR SCIAGES le 19 avril 2017.		'la société ADOUR SCIAGES'
+2007	05	09		2007	05	09		La_campagne_de_mesure	La campagne de mesure du 9 mai 2007 s'est limitée aux hydrocarbures et au propiconazole (substance biocide utilisée par l'exploitant et constituant toujours le meilleur élément traceur).	'hydrocarbures', 'propiconazole'	'substance biocide'
+2014	12	12		2014	12	12		une_inspection_du_site	La DREAL a réalisé une inspection du site le 2 décembre 2014 (rapport du 12 décembre 2014).		'La DREAL'
+2017	04	19		2017	04	19		liquidation_judiciaire	Arrêt constaté de l'activité depuis juin 2014, liquidation judiciaire de la société ADOUR SCIAGES le 19 avril 2017.		'la société ADOUR SCIAGES'
+2004	05	26		2004	05	26		ont_été_remises	Les études ont été remises le 26 mai 2004 et le 7 juillet 2005.		
+2005	02	23		2005	02	23		La_campagne_du	La campagne du 23 février 2005 a portée sur les hydrocarbures, les PCP, le cyperméthrine, l'IPBC, le carbendazime, le propiconazole, le tébuconazole et l'aldrine.	'hydrocarbures', 'les PCP', 'le cyperméthrine', "l' IPBC", 'le propiconazole', 'le tébuconazole', 'aldrine'	'le carbendazime'
+2007				2007				les_dernières_analyses	La campagne de suivi des eaux souterraines doit être transmise, les dernières analyses datant de 2007.		
+2010	08	30		2010	08	30		a_déclaré	Par lettre du 30 août 2010, Jean-Jerry ALBRE a déclaré le changement d'exploitation au profit de l'entreprise dont il est PDG, la SAS ADOUR SCIAGE.		'Jean-Jerry ALBRE', 'la SAS ADOUR SCIAGE'
+2014	06			2014	06			Arrêt_constaté_de_l__activité	Arrêt constaté de l'activité depuis juin 2014, liquidation judiciaire de la société ADOUR SCIAGES le 19 avril 2017.		'la société ADOUR SCIAGES'
+2014	12	02		2014	12	02		une_inspection_du_site	La DREAL a réalisé une inspection du site le 2 décembre 2014 (rapport du 12 décembre 2014).		'La DREAL'

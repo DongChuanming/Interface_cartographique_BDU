@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04	19		2007	04	19		un_diagnostic	Le 19 avril 2007, un diagnostic du site est prescrit par arrêté préfectoral n°2007.1.354 dans le but de rechercher une source potentielle de pollution autre que la station service. 3 nouveau piézomètres sont installés.		
+1999				1999				de_supprimer	L'exploitant a agrandi son aire de distribution afin de supprimer la source primaire de pollution en 1999.		
+2008	08			2008	08			Les_campagnes	Les campagnes de suivi des eaux depuis août 2008 montrent des teneurs en hydrocarbures dans les eaux inférieures à la valeur de référence réglementaire définie par l'arrêté du 11 janvier 2007 qui donne la concentration limite en polluant acceptée par les pouvoirs publics pour la qualité des eaux brutes destinée à la consommation humaine.	'hydrocarbures'	
+2000	05	02		2000	05	02		L__étude_fournie	L'étude fournie le 2 mai 2000 montre une pollution des sols par les hydrocarbures.	'hydrocarbures'	
+2000	04			2000	04			ont_été_excavées	En avril 2000, 160 tonnes de terres souillées ont été excavées et évacuées vers un centre de traitement biologique agréé.		
+1999	03	04		1999	03	04		une_visite	Dans le cadre d'une mise à jour de la situation administrative du site, une visite a été effectuée le 4 Mars 1999.		
+2000	12			2000	12			Une_étude_hydrogéologique	Une étude hydrogéologique, réalisée en décembre 2000, montre que la nappe superficielle est polluée par les hydrocarbures.	'hydrocarbures'	

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	28		2010	04	28		La_visite	La visite d'inspection du 28/04/2010 acte que ces mesures ont été prises par l'exploitant et que les résultats d'analyses en sortie de déshuileur mettent en évidence des résultats non conformes à la valeur limite de rejet pour les hydrocarbures totaux.	'hydrocarbures totaux'	
+2011	10			2011	10			a_été_missionné	Dans le cadre d'un projet de cession du site à la ville d'Audincourt, le bureau d'études Terrest Ingenieries a été missionné pour la réalisation d'un diagnostic complémentaire de la qualité des sols (octobre 2011).		'Terrest Ingenieries'
+								est_spécialisée_dans	Cette société est spécialisée dans l'achat, la vente et le tri de métaux depuis les années 1970.		
+2013	04			2013	04			Un_diagnostic	Un diagnostic du milieu eaux souterraines a été réalisé en avril 2013 par le bureau d'études Apave.		
+2004	04			2004	04			à_été_missionné	En avril 2004, ICF Environnement à été missionné par l’exploitant pour réaliser un diagnostic du sol et du sous-sol dans le cadre de l’aménagement d'une plate-forme bétonnée pour le stockage extérieur de ses matériaux de récupération.		'ICF'
+2013	02			2013	02			a_été_réalisé	Un schéma conceptuel a été réalisé en février 2013 et considérait un usage du site en tant que lieu de résidence, sans terrain nu.		
+2014	05			2014	05			à_été_réalisé	En mai 2014, à la demande de la Ville d'Audincourt, un plan de gestion à été réalisé par TAUW Environnement.		'TAUW Environnement'
+1970				1970				la_reprise_du_site	Les activités qui se sont succédées sur ce site sont l'exploitation de forges dès 1616, les activités de fonderies de 1930 à 1968 et la reprise du site en 1970 par la Société FRANCE METAUX.		'la Société FRANCE METAUX'
+2013	09			2013	09			De_nouvelles_analyses	De nouvelles analyses des eaux souterraines réalisées en septembre 2013 ne mettent plus en évidence l'impact en HCT.		
+2009	06	16		2009	06	16		la_visite_d__inspection	Suite à la visite d'inspection du 16/06/2009 qui a mis en évidence des non conformités de l'exploitation avec son arrêté préfectoral d'autorisation du 23/01/1970, l'exploitant a été mis en demeure par l'arrêté préfectoral n°2825 du 24/07/2009 de :		
+								l__achat___la_vente_et_le_tri_de_métaux	Cette société est spécialisée dans l'achat, la vente et le tri de métaux depuis les années 1970.		
+2011	11			2011	11			Une_évaluation_quantitative	Une évaluation quantitative des risques sanitaires a également été réalisée par le bureau d'études Terrest Ingenieries (novembre 2011).		'Terrest Ingenieries'

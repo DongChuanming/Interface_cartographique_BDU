@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06	29		1998	06	29		a_été_informée	Le 29 juin 1998, la DRIRE a été informée d'une perte de gazole à la station service – Relais du Sarron – sur l'autoroute A6.	'gazole'	'la DRIRE'
+2009	08	17		2009	08	17		a_été_autorisée	Par arrêté préfectoral d'autoristaion du 17 août 2009, la société TOTAL RAFFINAGE MARKETING a été autorisée à poursuivre l'exploitation d'une station-service autoroutière entièrement construite sur l'aire de Dracé.	'service autoroutière'	'la société TOTAL RAFFINAGE MARKETING'
+								était_prévue	Cette surveillance était prévue pour ne durer que 4 à 5 ans, pour confirmer les résultats de l'étude qui estime que, même s'il y avait impact, il ne serait pas détectable au niveau des captages.		
+								Cette_surveillance	Cette surveillance était prévue pour ne durer que 4 à 5 ans, pour confirmer les résultats de l'étude qui estime que, même s'il y avait impact, il ne serait pas détectable au niveau des captages.		
+2007	02			2007	02			Les_travaux_de_réaménagement	Les travaux de réaménagement de l'aire se sont accompagnés de deux opérations de dépollution, menées par GRS VALTECH de septembre à novembre 2006 et ensuite en février 2007.		'GRS VALTECH'
+1999	03	08		1999	03	08		a_été_transmise	Cette étude a été transmise à l'Inspection des installations classées le 08/03/1999.		
+1998	07	06		1998	07	06		ont_été_entreprises	Des dispositions de pompage ont été entreprises immédiatement et une étude des sols a été prescrite par arrêté préfectoral du 06/07/1998.		

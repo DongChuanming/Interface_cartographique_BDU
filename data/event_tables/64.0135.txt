@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1952				1952				a_été_foré	LA23 a été foré en 1952, LA90 en 1980 et LA404 en 1983.		
+								Le_diagnostic	Le diagnostic des milieux en date du 2 et 3 septembre 2008 a montré la présence :		
+2009				2009				Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés en 2009 et ont consisté à excaver 596.39 t de matériaux impactés de la zone correspondant au bourbier (sondage S14).		
+2003				2003				__a_été_bouché_définitivement	Le puits LA23  a été bouché définitivement en 2003.		
+1992				1992				a_été_bouché_définitivement	Le puits LA404 a été bouché définitivement en 1992.		
+2008	09	03		2008	09	03		Le_diagnostic	Le diagnostic des milieux en date du 2 et 3 septembre 2008 a montré la présence :		
+2001				2001				a_été_bouché	Le puits LA90 a été bouché en 2001.		

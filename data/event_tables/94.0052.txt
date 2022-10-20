@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	10			2014	10			Le_traitement_de_la_nappe_par_venting	Le traitement de la nappe par venting a débuté en octobre 2014 et la barrière hydraulique a été mise en place en février 2016.		
+2000	12			2000	12			a_été_mis_en_place	En décembre 2000, un système de pompage et de traitement des eaux souterraines a été mis en place sur le site.		
+2010				2010				a_été_réalisée	L'EQRS demandée a été réalisée en 2010.		
+2012	06	20		2012	06	20		a_été_démantelé	Le procédé de traitement par bio-stimulation avec un dispositif passif d’oxygénation, en place depuis le 02/02/2006 a été démantelé le 20/06/2012.		
+2001	09			2001	09			a_été_renforcé	En septembre 2001, pour accélérer le processus de réhabilitation, le système de pompage en a été renforcé par la mise en place de 4 aiguilles supplémentaires.		
+2013	08			2013	08			Une_mise_à_jour	Une mise à jour du plan de gestion a été transmise en août 2013.		
+1998	10			1998	10			ont_été_mis_en	En octobre 1998, lors des travaux d’enlèvement des quatre cuves, des hydrocarbures en phase libre ont été mis en évidence dans trois des quatre fosses.	'hydrocarbures'	
+				2013				L__excavation	L'excavation des terres a été réalisée entre mai et juillet 2013 au droit de l'ancienne station-service.		
+2003	05			2003	05			a_été_démontée	Le traitement a été arrêté fin avril 2003 et l’installation a été démontée en mai 2003 sans que de réels objectifs de dépollution n'aient été atteints.		
+2016	02			2016	02			a_été_mise_en_place	Le traitement de la nappe par venting a débuté en octobre 2014 et la barrière hydraulique a été mise en place en février 2016.		
+2016	05			2018	01			Les_résultats_des_analyses_réalisées	Les résultats des analyses réalisées sur l'eau de la nappe entre mai 2016 et janvier 2018 ont mis en évidence une diminution des teneurs en hydrocarbures au droit de l'ancienne station-service, mais en augmentation en amont de la barrière hydraulique.	'hydrocarbures'	
+2011	11	04		2011	11	04		transmis_par_courrier	Le plan de gestion transmis par courrier du 04/11/2011 a permis de définir la mise en place d'un nouveau traitement : biostimulation avec venting/sparging et traitement biologique avec ajout d'oxygène.	'oxygène'	
+1998	08			1998	08			un_diagnostic_environnemental	En août 1998, un diagnostic environnemental a été réalisé.		
+2001	07			2001	07			Le_bilan_du_traitement	Le bilan du traitement, réalisé en juillet 2001, a montré que le système de pompage permettait de limiter l’extension du panache d’hydrocarbures au droit du site et permettait d’améliorer lentement la qualité des eaux.	'hydrocarbures'	
+2016	02			2016	02			Le_traitement_de_la_nappe_par_venting	Le traitement de la nappe par venting a débuté en octobre 2014 et la barrière hydraulique a été mise en place en février 2016.		
+2003	04			2003	04			a_été_arrêté	Le traitement a été arrêté fin avril 2003 et l’installation a été démontée en mai 2003 sans que de réels objectifs de dépollution n'aient été atteints.		
+2012	07			2012	07			ont_été_installés_hors_site	En juillet 2012, 3 piézomètres et 3 piézairs ont été installés hors site, sur le terre-plein central de la rue des Fusillés de Châteaubriand.		
+1998				1998				a_cessé	Ancienne station service dans l'emprise du site du magasin METRO qui a cessé ses activités en 1998.		'magasin METRO'
+				2009				effectués	Les résultats des suivis de la qualité des eaux de la nappe effectués jusqu'en 2009 laissaient supposer l'existence d'une pollution résiduelle dans les sols.		

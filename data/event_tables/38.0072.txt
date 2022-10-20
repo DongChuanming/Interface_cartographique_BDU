@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984				1984				a_été_cédé	En 1984, le terrain a été cédé à la SADI, société d'aménagement de la ZAC Gringalet.		'la SADI'
+1994				1994				De_deux_visites_sur_place	De deux visites sur place en 1994, et des premières investigations menées, il est ressorti en susbtance que :		
+1977				1977				a_alors_été_nettoyé	En 1977, le dépôt a alors été nettoyé et les batiments démolis.		
+1960				1977				ont_été_utilisés	Le terrain comportait d'anciens batiments agricoles qui ont été utilisés par la société Progil de 1960 à 1977 pour y entreposer des fûts de sous produits de l'activité Lindane (isomère actif de l'HCH entrant dans des compositions d'insecticides) et de l'activité Diphényles (ter et quterphényles utilisés comme caloporteurs).	'Lindane', 'isomère actif', "l' HCH", 'Diphényles', 'ter', 'quterphényles utilisés comme caloporteurs'	'la société Progil'
+				1994	03			est_resté_en_friche	Il est resté en friche jusqu'en mars 1994 ou des travaux de terrassement étaient programmés pour le transformer en espace vert.		
+1994				1994				considére	Dans ces conditions, fin 1994, l'administration considére que ce site est traité et libre de toute restriction d'usage.		

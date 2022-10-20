@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03	31		1999	03	31		étude_géotechnique	- étude géotechnique par GEOTEC du 31 mars 1999,		'GEOTEC'
+2000	12	21		2000	12	21		diagnostic_pollution_des_sols	- diagnostic pollution des sols (qualité des remblais) par l'IEEB du 21 décembre 2000.		
+								Les_campagnes	Les campagnes des 26/03/10 et 20/10/2010 montrent que :		
+2009	03	11		2009	03	11		La_campagne	La campagne du 11/03/2009 montre des résultats proches de ceux obtenus le 11/04/2008 soit une concentration en MES faible pour PZ3 et élevée pour PZ4 fortement corrélée avec les teneurs en HAP.	'MES', 'HAP'	
+2005	05	13		2005	05	13		La_campagne	La campagne du 13 mai 2005 sur les 4 piézomètres révéle la présence de HAP dans la nappe et de métaux lourds à des teneurs plus élevées que lors de la campagne du 11 juin 2001.	'HAP', 'métaux lourds'	
+2006	11	30		2006	11	30		La_campagne	La campagne du 30/11/2006 montre une augmentation généralisée des paramètres dans les 2 piézomètres aval.		
+2010	10	20		2010	10	20		Les_campagnes	Les campagnes des 26/03/10 et 20/10/2010 montrent que :		
+2001	06	11		2001	06	11		la_campagne	La campagne du 13 mai 2005 sur les 4 piézomètres révéle la présence de HAP dans la nappe et de métaux lourds à des teneurs plus élevées que lors de la campagne du 11 juin 2001.	'HAP', 'métaux lourds'	
+1999	04	07		1999	04	07		prédiagnostic_pollution	- prédiagnostic pollution par GEOTEC du 7 avril 1999,		'GEOTEC'
+2004				2004				ont_été_installés	Deux nouveaux piézomètres ont été installés en 2004.		

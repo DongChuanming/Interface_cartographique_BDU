@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	02	29		2016	02	29		diagnostic_complémentaire	Dans son rapport du 28/12/2018, l'inspection des installations classées propose de demander à l'exploitant de se conformer aux conclusions du diagnostic complémentaire du 29/02/2016 et de mettre en place une surveillance de la qualité des eaux souterraines au moins semestrielle.		
+2003	07	09		2003	07	09		a_été_demandée	Une étude complémentaire sur la nappe a été demandée ainsi que de nouvelles investigations pour découvrir l'origine de cette pollution par arrêté complémentaire du 09/07/2003.		
+								a_été_signé	Un arrêté préfectoral d'urgence a été signé le 14/02/02 afin de savoir d'où provenait cette pollution.		
+2016	02			2016	02			De_nouvelles_investigations	De nouvelles investigations ont été réalisées en février 2016.		
+2004				2004				ont_été_mis_en_place	3 piézomètres ont été mis en place au cours de l'été 2004.		
+								Les_premières_analyses	Les premières analyses du 12/07/04 ont montré la présence d'hydrocarbures et de benzène au droit du site.	'hydrocarbures', 'benzène'	
+								L__étude_de_sol	L'étude de sol nous a été fournie le 17/10/02 et montre une pollution importante du sol par les hydrocarbures.	'hydrocarbures'	
+2002	02			2002	02			a_été_découverte	La pollution du site a été découverte en février 2002 suite à des travaux sur l'égout qui passe dans la rue et dans lequel la nappe chargée d'hydrocarbures a pénétrée.	'hydrocarbures'	

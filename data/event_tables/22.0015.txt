@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02			2010	02			Le_démantèlement_des_installations	Le démantèlement des installations a débuté en février 2010.		
+2007				2007				un_diagnostic_environnemental	Dans le cadre de la vente du site au groupe ELVIA-PCB, un diagnostic environnemental a été réalisé en 2007 et a mis en évidence :	'PCB'	'groupe ELVIA -'
+2009	06			2009	06			a_été_effective	La cessation d'activité du site a été notifiée en Préfecture des Côtes d'Armor et a été effective à partir de fin juin 2009.		
+2009				2009				ont_été_évacués	Environ 28 9000 tonnes de déchets (boues de filtration et acides), provenant de l'activité du site, ont été évacués depuis la cessation d'activité en 2009.	'acides'	
+2015	10	08		2015	10	08		Une_visite_sur_site	Une visite sur site de l'inspection, le 8 octobre 2015, a permis de constater que l'ensemble des déchets n'étaient pas évacués, qu'un bâtiment est en mauvais état avec risque d'envol ou de chute de la toiture ou du bâti.	'des déchets'	
+2009	07			2009	07			accueille	Une partie du site accueille depuis juillet 2009 la société Sillia pour la production de modules photovoltaïques.		'la société Sillia'
+2016	10	10		2016	10	10		a_été_constatée	La poursuite de l'évacuation des déchets a été constatée par l'inspection le 10 octobre 2016.		
+2007				2009				a_exploité	La société ELCI, filiale du groupe ELVIA-PCB, spécialisée dans le traitement de surface et la fabrication de circuits imprimés, a exploité une activité de fabrication de circuits imprimés sur le site entre 2007 et 2009.		'La société ELCI', 'groupe ELVIA - PCB'
+2011	11			2011	11			un_diagnostic	Suite à la cessation d'activité, un diagnostic de l'état des milieux a été mené en novembre 2011 et a mis en évidence :		

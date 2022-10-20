@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	29		2005	06	29		est_délivré	Le récépissé de déclaration est délivré le 29 juin 2005.		
+2008	09			2008	09			des_travaux_de_dépollution	Un plan de gestion a été produit en décembre 2007 et des travaux de dépollution du site ont été réalisés en septembre 2008.		
+2006				2006				en_place_un_réseau_de	L'EDR conclue sur la nécessité de mettre en place un réseau de surveillance des eaux souterraines qui est mis en place dés fin 2006.		
+1963				2004				a_été_exploité	Cet ancien dépôt pétrolier (stockage de fuel), d'une superficie de 990 m², situé en zone résidentielle, a été exploité de 1963 à 2004.	'fuel'	
+2005	04	08		2005	04	08		une_étude_de_sols	- une étude de sols du 08/04/2005 réalisée à la suite du démantèlement des installations en fait exécuté en décembre 2004.		
+2004	12			2004	12			une_étude_de_sols	- une étude de sols du 08/04/2005 réalisée à la suite du démantèlement des installations en fait exécuté en décembre 2004.		
+2005	06	27		2005	06	27		a_notifié_la_cessation_de_ses_activités	A la suite de la cessation d'activité du dépôt, la société DMS a notifié la cessation de ses activités sur ce site à la préfecture de l'EURE le 27 juin 2005.		'la société DMS', "la préfecture de l' EURE"
+2006	06			2006	06			Des_investigations_approfondies	Des investigations approfondies ont ainsi été réalisées en juin 2006 et ont permis de caractériser les pollutions identifiées précédemment.		
+2007	12			2007	12			a_été_produit	Un plan de gestion a été produit en décembre 2007 et des travaux de dépollution du site ont été réalisés en septembre 2008.		
+2008	09			2008	09			a_été_produit	Un plan de gestion a été produit en décembre 2007 et des travaux de dépollution du site ont été réalisés en septembre 2008.		

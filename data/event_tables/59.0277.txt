@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	08		2008	01	08		a_été_placée_en_liquidation_judiciaire	- TSB a été placée en liquidation judiciaire à partir  du 08 Janvier 2008.		'TSB'
+2008	01	08		2008	01	08		à	- Liquidation judiciaire de TSB à partir du 08/01/2008.		'TSB'
+2010	04	23		2010	04	23		transmission	-Démolition des bâtiments avec diagnostic amiante et évacuation des déchets amiantés éliminés par filière agréée (transmission des bordereaux de suivi 23/04/2010).	'amiante', 'des déchets amiantés'	
+2008	01	08		2008	01	08		Liquidation_judiciaire	- Liquidation judiciaire de TSB à partir du 08/01/2008.		'TSB'
+2009				2009				la_vente	- Dans le courant de l’année 2009, la Sci Sandrine a procédé à la vente du terrain de la société TSB.		'la société TSB'
+2001	07			2001	07			réalisée	- étude de sols phase B et ESR réalisée en juillet 2001		
+1998	12			1998	12			réalisée	- étude des sols phase A documentaire réalisée en décembre 1998		
+2009	07	07		2009	07	07		insuffisance_d__actifs_prononcés	-La liquidation judiciaire a été clôturée pour insuffisance d’actifs prononcés par le Tribunal de commerce de ROUBAIX-TOURCOING le 7 juillet 2009.		'le Tribunal de commerce de ROUBAIX - TOURCOING'
+				2004				ont_été_exercées	Ces activités ont été exercées jusqu’en 2004.		
+2010	04	01		2010	04	01		ont_été_évacués	-Le 01/04/2010, les produits dangereux ont été évacués et éliminés via des filières agréées.	'les produits dangereux'	
+2009	07	07		2009	07	07		_La_liquidation_judiciaire	-La liquidation judiciaire a été clôturée pour insuffisance d’actifs prononcés par le Tribunal de commerce de ROUBAIX-TOURCOING le 7 juillet 2009.		'le Tribunal de commerce de ROUBAIX - TOURCOING'

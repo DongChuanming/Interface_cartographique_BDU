@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10	14		2008	10	14		a_été_déposé	Le dossier de cessation d'activité de la SELF a été déposé en préfecture le 14 octobre 2008.		'la SELF'
+2003	05	12		2003	05	12		est_établi	Un procès-verbal (PV) de récolement est établi le 12 mai 2003, il invite à assurer un suivi régulier de la qualité des eaux souterraines.		
+1999	03			1999	03			Un_premier_diagnostic	Un premier diagnostic des sols est effectués par IPF en mars 1999, complété par un autre en juillet de la même année.		'IPF'
+2009	01			2009	01			la_délivrance	La société AB INDUSTRIES s'inquiète de la délivrance du permis de construire n°6748208V0220 du 5 novembre 2008 qui implique des travaux de construction devant démarrer en janvier 2009.		'La société AB INDUSTRIES'
+1999	06	28		1999	06	28		reprend	Le 28 juin 1999, elle reprend les activités de la société SABOREC du Groupe ISOROY PANNEAUX DE FIBRES (IPF).		'la société SABOREC', 'Groupe ISOROY PANNEAUX DE FIBRES', 'IPF'
+2009	01			2009	01			des_travaux_de_construction	La société AB INDUSTRIES s'inquiète de la délivrance du permis de construire n°6748208V0220 du 5 novembre 2008 qui implique des travaux de construction devant démarrer en janvier 2009.		'La société AB INDUSTRIES'
+1999	08	25		1999	08	25		La_notification_de_changement	La notification de changement d'exploitant au profit de SELF date du 25 août 1999.		'SELF'
+								__Reprise	Fin des années 50: Reprise des activités par les sociétés COMPAGNIE INDUSTRIELLE DES TEXTILES et SAPIT		'les sociétés COMPAGNIE INDUSTRIELLE DES TEXTILES', 'SAPIT'
+2000	02	24		2000	02	24		__adresse	La société IPF, fabriquant des matelas à mouler, adresse un dossier de cessation d'activité à la préfecture du Bas-Rhin le 24 février 2000.		'La société IPF'
+1998	07	20		1998	07	20		est_adressé	Le dossier de cessation d'activité de la SABOREC est adressé en préfecture du Bas-Rhin le 20 juillet 1998.		'la SABOREC'
+2008	11	05		2008	11	05		du_permis_de_construire	La société AB INDUSTRIES s'inquiète de la délivrance du permis de construire n°6748208V0220 du 5 novembre 2008 qui implique des travaux de construction devant démarrer en janvier 2009.		'La société AB INDUSTRIES'
+1999	05			1999	05			des_prélèvements_effectués	Un premier suivi nappe est assuré par SABOREC et la société IPF par des prélèvements effectués en mai 1999 puis janvier 2000.		'SABOREC', 'la société IPF'

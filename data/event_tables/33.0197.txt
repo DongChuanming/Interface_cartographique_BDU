@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	15		2006	05	15		un_document_intitulé	Le 15/05/2006, la commune transmet un document intitulé « Étude pour la remise en état de la décharge de SOULAC-SUR-MER » qui peut être assimilé à une ESR.		'la commune', 'la décharge de SOULAC-SUR-MER'
+2008	06	30		2008	06	30		prescrit_ces_travaux	L'arrêté préfectoral du 10/10/2007 prescrit ces travaux à l'échéance du 30/06/2008.		
+2007	08	10		2007	08	10		préconise_des_travaux_de_réhabilitation	Le 10/08/2007, la DRIRE préconise des travaux de réhabilitation et le suivi post exploitation de la décharge et propose de mettre en œuvre les mesures suivantes :		'la DRIRE'
+				1993				a_été_exploitée	La décharge a été exploitée de 1970 jusqu’en 1993.		
+2007	07	06		2007	07	06		est_transmise	Une étude complémentaire est transmise le 06/07/2007.		

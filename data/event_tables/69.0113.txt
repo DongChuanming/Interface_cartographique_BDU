@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04	30		2001	04	30		les_travaux_de_réhabilitation	Après une phase de diagnostic dans les années 90, les travaux de réhabilitation, encadrés par un arrêté préfectoral du 30 avril 2001, ont été réalisées entre 2001 et 2010.		
+								Après_une_phase_de_diagnostic	Après une phase de diagnostic dans les années 90, les travaux de réhabilitation, encadrés par un arrêté préfectoral du 30 avril 2001, ont été réalisées entre 2001 et 2010.		
+2010	04			2010	04			__un_traitement_in___situ	- août 2008 à avril 2010 : un traitement in-situ des terres polluées par désorption thermique.		
+1999				1999				un_diagnostic_approfondi	En 1993 et 1999, un diagnostic approfondi du site a été réalisé en plusieurs étapes par la société HPC ENVIROTEC.		'la société HPC ENVIROTEC'
+2018				2018				est	Le site est actuellement (fin 2018) en cours de réaménagement pour des activités tertiaires, à l'exception de deux parcelles conservées par ENGIE.		'ENGIE'
+2008	08			2008	08			__un_traitement_in___situ	- août 2008 à avril 2010 : un traitement in-situ des terres polluées par désorption thermique.		
+								exercer_une_activité_de_traitement_in___situ	Dans le cadre des opérations de dépollution du site, la société 3L INGENIERIE et FINANCE a été autorisée par arrêté préfectoral du 04/08/2008, à exercer une activité de traitement in-situ des terres polluées provenant de l'ancienne usine à gaz de la Mouche pour une période temporaire de 6 mois renouvelables.		'la société 3L INGENIERIE'
+1993				1993				un_diagnostic_approfondi	En 1993 et 1999, un diagnostic approfondi du site a été réalisé en plusieurs étapes par la société HPC ENVIROTEC.		'la société HPC ENVIROTEC'
+2001				2010				les_travaux_de_réhabilitation	Après une phase de diagnostic dans les années 90, les travaux de réhabilitation, encadrés par un arrêté préfectoral du 30 avril 2001, ont été réalisées entre 2001 et 2010.		
+1904				1963				a_été_exploitée	L’usine à gaz de la Mouche a été exploitée de 1904 à 1963.		
+				1993				a_été_partiellement_réaménagé	Les infrastructures hors-sol de l’usine ont été démolies entre 1963 et 1987 et, après l'arrêt de la production, le site a été partiellement réaménagé en centre de formation pour les besoins d'EDF et de Gaz de France jusqu’en 1993.		'EDF', 'Gaz de France'
+1963				1987				ont_été_démolies	Les infrastructures hors-sol de l’usine ont été démolies entre 1963 et 1987 et, après l'arrêt de la production, le site a été partiellement réaménagé en centre de formation pour les besoins d'EDF et de Gaz de France jusqu’en 1993.		'EDF', 'Gaz de France'

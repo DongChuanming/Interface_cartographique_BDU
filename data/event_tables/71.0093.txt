@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Une_lixiviation	Une lixiviation des déchets a également été réalisée en mars et août 2014.		
+2008	01	09		2008	01	09		a_lieu	Un changement d'exploitant a lieu le 9 janvier 2008 au profit de la Communauté de Communes du Pays de Gueugnon.		'la Communauté de Communes'
+1991	04	18		1991	04	18		à_un_dossier_de_demande	Suite à un dossier de demande d'autorisation du 18 avril 1991 , la société NOVAME a été autorisée par AP du 30 août 1993 à exploiter pour le SIVOM de Gueugnon une déchetterie sur le territoire de la commune de Gueugnon.		'la société NOVAME', 'le SIVOM de Gueugnon'
+2013	12	13		2013	12	13		des_travaux_de_réaménagement	Le 13 décembre 2013 , des travaux de réaménagement de l’alvéole de stockage des déchets amiantés sont prescrits.	'déchets amiantés'	
+2014				2014				Des_investigations_complémentaires	Des investigations complémentaires ont été réalisées en 2014.		
+2014	08			2014	08			ont_été_réalisés	3 prélèvements pour analyses de sédiments ainsi que 4 fouilles à la pelle mécanique sur site ont été réalisés en août 2014.		
+1993	08	30		1993	08	30		a_été_autorisée_par	Suite à un dossier de demande d'autorisation du 18 avril 1991 , la société NOVAME a été autorisée par AP du 30 août 1993 à exploiter pour le SIVOM de Gueugnon une déchetterie sur le territoire de la commune de Gueugnon.		'la société NOVAME', 'le SIVOM de Gueugnon'
+2002	05	23		2002	05	23		devient	Le 23 mai 2002 , NOVAME devient ONYX EST , un changement d'exploitant est déclaré.		'NOVAME devient ONYX EST'
+2012	06			2012	06			n__est_plus_exploitée	Une alvéole de stockage de déchets amiantés était présente mais n'est plus exploitée depuis juin 2012.	'stockage de déchets amiantés'	
+2014	08			2014	08			Une_lixiviation	Une lixiviation des déchets a également été réalisée en mars et août 2014.		
+2013	07			2013	07			une_campagne_d__investigation	Suite à une visite d'inspection , une campagne d'investigation a été réalisée en juillet 2013 et a mis en évidence:		

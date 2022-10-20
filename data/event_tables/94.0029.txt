@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				l__extension_de	La présente fiche concerne uniquement l'extension de la station d'épuration de Valenton dont les travaux ont commencé en 1998 et se sont terminés en 2006.		
+2017	10	12		2017	10	12		a_demandé	Le 12/10/2017, l'inspection des installations classées pour la protection de l'environnement a demandé à l'exploitant de transmettre à la préfecture du Val-de-Marne le rapport final d'achèvement des travaux de dépollution ainsi que les contrôles semestriels réalisés après la phase de construction.		
+1998	08	13		1998	08	13		Un_arrêté_de_dépollution	Un arrêté de dépollution a été pris en date du 13/08/1998.		
+								remblayées	La station d'épuration de Valenton est construite sur d'anciennes gravières sablières remblayées au cours de années 70/80 par divers matériaux dont des ordures ménagères et des terres polluées par des hydrocarbures, métaux.	'des ordures ménagères', 'hydrocarbures', 'métaux'	
+1998				1998				l__extension_de	La présente fiche concerne uniquement l'extension de la station d'épuration de Valenton dont les travaux ont commencé en 1998 et se sont terminés en 2006.		
+2006				2006				se_sont_terminés	La présente fiche concerne uniquement l'extension de la station d'épuration de Valenton dont les travaux ont commencé en 1998 et se sont terminés en 2006.		

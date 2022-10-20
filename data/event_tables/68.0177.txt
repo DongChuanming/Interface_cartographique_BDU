@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1994				ont_lieu	A partir de 1937, des excavations ont lieu au moins jusqu'en 1994 (déduction des cartographies).		
+1996				1996				Des_analyses	Des analyses, datant de 1996, ont mis en évidence les polluants suivants dans les eaux souterraines (sur un piézomètre aval) :	'les polluants'	
+1997				1997				Des_analyses	Des analyses, datant de 1997, ont mis en évidence les polluants suivants dans les eaux souterraines (sur les deux piézomètres aval et amont) :	'les polluants'	
+1937				1937				A	A partir de 1937, des excavations ont lieu au moins jusqu'en 1994 (déduction des cartographies).		
+1992				1992				sont_réguliers	La mise en place de deux piézomètres (à l'aval et à l'amont) date de 1992 et les contrôles sont réguliers depuis 1993.		
+1993				1993				Des_analyses	Des analyses, datant de 1993, révèlent les polluants suivants dans les eaux souterraines (sur les deux piézomètres aval et amont) :	'les polluants'	
+1998				1998				Des_analyses	Des analyses, datant de 1998, n'ont pas mis en évidence une évolution significative de la qualité:		
+1995				1995				Des_analyses	Des analyses, datant de 1995, ont mis en évidence les polluants suivants dans les eaux souterraines (sur les deux piézomètres aval et amont) :	'les polluants'	
+1998				1998				Des_analyses	Des analyses, datant de 1998, ont mis en évidence les polluants suivants dans les eaux souterraines (sur un piézomètre amont) :	'les polluants'	
+1993				1993				sont_réguliers	La mise en place de deux piézomètres (à l'aval et à l'amont) date de 1992 et les contrôles sont réguliers depuis 1993.		
+1992				1992				La_mise_en_place	La mise en place de deux piézomètres (à l'aval et à l'amont) date de 1992 et les contrôles sont réguliers depuis 1993.		
+1994				1994				Des_analyses	Des analyses, datant de 1994, révèlent les polluants suivants dans les eaux souterraines (sur les deux piézomètres aval et amont) :	'les polluants'	

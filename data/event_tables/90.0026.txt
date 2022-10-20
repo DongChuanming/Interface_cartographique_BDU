@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_transmis	En 2012, en réponse à la demande de la DREAL, l'exploitant a transmis un rapport intermédiaire d'interprétation de l'état des milieux (en cours d'instruction).		'la DREAL'
+2000				2000				une_surveillance	La qualité des eaux souterraines fait l'objet d'une surveillance depuis 2005, notamment en vue de détecter des pollutions accidentelles et pour suivre l'évolution de la contamination en Trichloroéthylène qui a été mise en évidence en 2000.	'Trichloroéthylène'	
+2005				2005				une_surveillance	La qualité des eaux souterraines fait l'objet d'une surveillance depuis 2005, notamment en vue de détecter des pollutions accidentelles et pour suivre l'évolution de la contamination en Trichloroéthylène qui a été mise en évidence en 2000.	'Trichloroéthylène'	
+2004	07	26		2004	07	26		est_prescrite	Cette surveillance est prescrite dans l'arrêté d'autorisation du 26 juillet 2004.		
+2005				2008				observées	Les plus fortes concentrations en Trichloroéthylène sont observées entre 2005 et 2008 sur le piézomètre situé en aval immédiat PZ2.	'Trichloroéthylène'	
+2013	11	21		2013	11	21		Les_derniers_résultats_de_surveillance	Les derniers résultats de surveillance de la qualité des eaux souterraines du 21 novembre 2013 montrent une légère augmentation des teneurs de ces trois paramètres en PZ2, mais qui n'atteignent pas les niveaux observés en 2008.	'PZ2'	

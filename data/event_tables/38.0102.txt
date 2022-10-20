@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03	27		2003	03	27		Un_diagnostic_initial	Un diagnostic initial (avant démantèlement) de pollution des sols a été remis à la DRIRE le 27/03/2003.		'DRIRE'
+2004	09			2004	09			a_été_transmise	En complément du dossier MAD-DEM transmis en mars 2004 à l'ASN, une étude spécifique sur les aires extérieures a été transmise à l'ASN fin septembre 2004.		
+2005	01	01		2005	01	01		sera_mis_en_oeuvre_officiellement	Un programme de surveillance du site sera mis en oeuvre officiellement à partir du 01/01/2005.		
+2002				2002				a_cessé_toute_production	Elle a cessé toute production fin 2002 et rentre à partir de 2003 dans une phase d'assainissement et de démantèlement qui durera plusieurs années.		
+2004				2004				ont_été_transmis	Les résultats de ces investigations complémentaires ont été transmis à l'ASN courant 2004 et confirment globalement les premières études avec une légère tendance à la baisse de la pollution.		

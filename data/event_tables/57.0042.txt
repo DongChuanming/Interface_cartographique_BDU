@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1880				1880				constitué_en_France	Crassier de la sidérurgie sarroise constitué en France, à la frontière franco allemande, depuis 1880, avec des crasses, laitiers, scories, poussières et boues sidérurgiques, refractaires de démolition, etc.	'boues sidérurgiques'	
+2004	12	16		2004	12	16		une_Evaluation_Détaillée_des_Risques	Dans le cadre de la mise en confirmité du crassier, une Evaluation Détaillée des Risques a été réalisée et remise à la DRIRE le 16 décembre 2004.		'la DRIRE'
+2007	10	23		2007	10	23		est_autorisée_à_exploiter	La société SAARSTAHL AG est autorisée à exploiter une installation de stockage et de traitement de déchets d'aciéries par l'AP du 23 octobre 2007.	"déchets d'"	'La société SAARSTAHL AG'
+2007	08			2007	08			Changement	Changement d'exploitant en août 2007.		
+2007	10	23		2007	10	23		est_autorisée_à_exploiter	Par arrêté préfectoral du 23 octobre 2007, la société SAARSTAHL est autorisée à exploiter le site.		'la société SAARSTAHL'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11	09		1998	11	09		un_diagnostic_initial	Pour l'ensemble du site (80 hectares) la société SNECMA Moteurs a fourni le 9 novembre 1998 un diagnostic initial et une évaluation simplifiée des risques qui concluent à un classement du type 2 nécessitant la mise en place d'une surveillance, dores et déjà effective.		'la société SNECMA Moteurs'
+1992	07	14		1992	07	14		un_déversement	A la suite d'un déversement de 240 m3 de kérosène le 14 juillet 1992 dans le sol, le préfet a imposé par arrêté du 25 juin 1993 une décontamination de l'eau de la nappe du calcaire de Brie et du sol imprégné d'hydrocarbures.	'kérosène', 'hydrocarbures'	'le préfet'
+2002	06			2002	06			avaient_été_récupérés	En juin 2002, 240 m3 de produits avaient été récupérés.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04			2000	04			Une_étude_de_sols	Une étude de sols à été réalisée en avril 2000 et transmise à la DRIRE.		'la DRIRE'
+2000	02			2000	02			à_été_vandalisé	Un transformateur contenant des PCB à été vandalisé début février 2000. 500 kg de pyralène se sont répandus pour la plus grande partie dans la cuvette de rétention du local.	'des PCB', 'pyralène'	
+2007	09			2007	09			a_été_transmis	Un rapport de fin de travaux a été transmis à la DRIRE en septembre 2007.		'la DRIRE'
+				2006	09	22		Des_travaux_de_dépollution___excavation	Des travaux de dépollution (excavation d'une partie des terres) ont été réalisés entre le 15 juillet et le 22 septembre 2006. 275 tonnes de terres ont été excavées pour traitement.		

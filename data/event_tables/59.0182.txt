@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	01	19		2000	01	19		Une_visite_du_site	- Une visite du site le 19 janvier 2000 a permis de constater qu'une grande partie des machines avait été évacuée, que les locaux étaient en partie nettoyés et que les déchets (boues de chrome 20 m3) étaient regroupés à l'abri des intempéries.	'les déchets', 'chrome'	
+1998	12			1998	12			a_été_pris	- Un arrêté a été pris en décembre 1998 pour imposer la remise en état du site et la réalisation d'une étude de sols.		
+1998	07			1998	07			a_été_remis	- Seule une étude sur la protection du forage a été remis en juillet 1998		
+2014				2014				a_été_radié	La société De Tayrac a été radié en 2014.		'La société De Tayrac'
+1998	10			1998	10			a_cessé_son_activité	- Elle a cessé son activité en octobre 1998 et a été mise en liquidation judiciaire.		

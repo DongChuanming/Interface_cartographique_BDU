@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_transmis	Les comptes rendus de travaux ont été transmis en date des 27 février, 5 mars et 11 décembre 2001.		
+2001	12	11		2001	12	11		ont_été_transmis	Les comptes rendus de travaux ont été transmis en date des 27 février, 5 mars et 11 décembre 2001.		
+2001				2001				a_été_réalisé	Le solde a été réalisé en 2001.		
+2007				2007				n__a_pas_émis	Par courrier du 27 mars 2007, l'inspection des installations classées n'a pas émis d'objection à l'arrêt des contrôles en 2007, demandé par l'exploitant, compte tenu de l'absence de pollution résiduelle des eaux.		
+2007				2007				l__arrêt_des_contrôles	Par courrier du 27 mars 2007, l'inspection des installations classées n'a pas émis d'objection à l'arrêt des contrôles en 2007, demandé par l'exploitant, compte tenu de l'absence de pollution résiduelle des eaux.		
+2007	03	27		2007	03	27		n__a_pas_émis	Par courrier du 27 mars 2007, l'inspection des installations classées n'a pas émis d'objection à l'arrêt des contrôles en 2007, demandé par l'exploitant, compte tenu de l'absence de pollution résiduelle des eaux.		
+2008	11			2008	11			ensemble_des_opérations_réalisées_de	Ces travaux ont fait l'objet d'un rapport établissant le bilan de l'ensemble des opérations réalisées de novembre 2008.		
+1999				1999				évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en 1999.		
+2004	06	29		2004	06	29		a_été_signée	Une convention cosignée entre le propriétaire des lieux (la communauté de communes du castelbriantais),la société Khun Huard et l'Etat a été signée par le préfet le 29 juin 2004 en vue de sa publication aux hypothèques .		'castelbriantais),la société Khun Huard', 'le préfet'
+2006				2006				les_travaux_de_réaménagement	En 2006, les travaux de réaménagement sont achevés.		
+2000	12			2000	12			a_pu_être_réalisée	Une partie des travaux a pu être réalisée en décembre 2000.		
+				1997				a_exploité	La société KUHN-HUARD a exploité le site de la rue des Vauzelles de 1906 jusqu'en 1997 pour la fabrication de charrues agricoles.		'La société KUHN - HUARD'
+								impose	Un AP du 30/08/02 impose pour 10 ans un programme de surveillance de la qualité des eaux souterraines à l'aide de 6 piézomètres et des eaux du ruisseau du Rollard en amont et en aval du site.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			la_cessation_d__activité_définitive	Dans le cadre de la cessation d'activité définitive (prévue pour avril 2011), un projet de réhabilitation du site anciennement exploité par CAPROGA a été mis en place.		'CAPROGA'
+								une_activité_de_stockage_de_produits_agricoles	Le site accueil depuis les années 50 une activité de stockage de produits agricoles.		
+1986				1986				est_présente	CAPROGA y est présente depuis 1986.		'CAPROGA'
+2011	03			2011	03			Un_diagnostic	Un diagnostic de l'état de pollution du sous-sol a été effectué par ANTEA en mars 2011 et un diagnostic complémentaire a été apporté par IDDEA en octobre 2012.		'ANTEA', 'IDDEA'
+2012	10			2012	10			Un_diagnostic	Un diagnostic de l'état de pollution du sous-sol a été effectué par ANTEA en mars 2011 et un diagnostic complémentaire a été apporté par IDDEA en octobre 2012.		'ANTEA', 'IDDEA'
+2014	02			2014	02			de_démolir_déposé	Un permis de démolir déposé en février 2014, visant à démolir le grand bâtiment du site a reçu un avis favorable de la part du service de l'inspection de la DREAL.		'la DREAL'
+								accueil	Le site accueil depuis les années 50 une activité de stockage de produits agricoles.		

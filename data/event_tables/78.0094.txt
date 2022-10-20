@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				2009				une_activité_de_distribution_de_carburant	Ce site a accueilli une activité de distribution de carburant de 1963 à 2009.	'carburant'	
+2009	09			2009	09			a_procédé_à_la_mise_en_sécurité	En septembre 2009, à la suite de l'arrêt de l'activité, l'exploitant a procédé à la mise en sécurité du site: les cuves de stockage d'hydrocarbures ont été retirées, de même que l'aire de dépotage (remplissage des cuves par les camions citernes) et le séparateur d'hydrocarbures (après pompage de son contenu).	"stockage d'", 'hydrocarbures', 'hydrocarbures'	
+2009	08	31		2009	08	31		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité au 31/08/2009.		
+2009	09			2009	09			des_fouilles_ont_été_réalisées	A la suite de la fermeture du site, des fouilles ont été réalisées, en septembre 2009, autour des cuves, du séparateur d'hydrocarbures et de l'aire de dépotage.	"d' hydrocarbures"	
+1963				2009				a_accueilli	Ce site a accueilli une activité de distribution de carburant de 1963 à 2009.	'carburant'	

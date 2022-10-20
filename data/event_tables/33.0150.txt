@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05	10		2007	05	10		La_campagne_de	La campagne de 10/05/2007 montre l'absence d'impact sur la nappe.		
+2006	04	05		2006	04	05		La_campagne	La campagne du 05/04/2006 montre l'absence d'impact sur la nappe.		
+2006	07	06		2006	07	06		site_diligentée	Lors d'une inspection du site diligentée le 6 juillet 2006, il a été relevé que la SOFA exploitait sur le site des activités de sciage, rabotage et imprégnation du bois.		'la SOFA'
+2012	03	20		2012	03	20		une_inspection	Lors d'une inspection du 20 mars 2012, la cessation d'activité des installations est confirmée.		
+2006	11	13		2006	11	13		La_campagne_du	La campagne du 13/11/2006 révèle des traces de carbendazime dans le PZ1 (amont) et des très légères traces d'hydrocarbures dans le PZ3 (aval).	'carbendazime', 'hydrocarbures'	
+2003	11	26		2003	11	26		a_pris_l__initiative	Le 26 novembre 2003, l'exploitant a pris l'initiative de réaliser une évaluation simplifiée des risques (ESR).		
+1977	07			1977	07			a_été_louée	Une partie du site a été louée à la société SOFA (société Forestière d'Aquitaine) depuis juillet 1977.		'la société SOFA', "société Forestière d' Aquitaine"

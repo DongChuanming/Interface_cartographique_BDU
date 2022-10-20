@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	11	30		2017	11	30		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 30 novembre 2017.		'La société'
+2018	06	08		2018	06	08		de_sa_visite	Lors de sa visite du 8 juin 2018, l'Inspection a constaté l'excavation des terres sur 1,10 m de profondeur, alors que des pollutions significatives avaient été observées sur des horizons plus profonds (trichloroéthylène et cyanures à 1,5m de profondeur et métaux jusqu'à 2m de profondeur).	'trichloroéthylène', 'cyanures', 'métaux'	
+1874				2017				a_été_exploitée	Une activité de traitement de surface a été exploitée sur ce site de 1874 à 2017, par la société Rouge Pullon en dernier lieu.		'la société Rouge Pullon'
+2018	05	25		2018	05	25		ont_été_transmis	Le mémoire de cessation d'activités, ainsi que les résultats des prélèvements de fond de fouilles ont été transmis à l'Inspection des Installations Classées le 25 mai 2018.		
+2017	11	08		2017	11	08		des_investigations_ont_été_réalisées	Dans le cadre du diagnostic des sols, des investigations ont été réalisées le 8 novembre 2017 au droit des anciennes zones d'avivage, de polissage et de gravure du site.		
+2019	01	18		2019	01	18		a_validé	Par courriel du 18 janvier 2019, l'Inspection a validé les propositions d'investigations complémentaires émises par le bureau d'études.		
+2018	02	22		2018	02	22		prélèvements_en_fonds_de_fouilles_ont_été_réalisés	Trois prélèvements en fonds de fouilles ont été réalisés le 22 février 2018, après excavation des terres.		
+2018	12	17		2018	12	17		a_transmis	Par courrier du 17 décembre 2018, l'exploitant a transmis au Préfet de Police le deuxième complément au mémoire de cessation d'activités.		
+2018	09	19		2018	09	19		a_transmis	Le bureau d'études a transmis un Complément au mémoire de cessation d'activité daté du 19 septembre 2018.		
+2018	10	29		2018	10	29		Une_rencontre	Une rencontre a eu lieu le 29 octobre 2018 entre l'Inspection des Installations Classées, le bureau d'études, la propriétaire du site et fille de l'ancien exploitant.		
+2018	06	08		2018	06	08		de_sa_visite	Au cours de sa visite du 8 juin 2018, l'Inspection des Installations Classées a constaté que les travaux de réhabilitation avaient déjà été entamés, sans qu'elle ait été prévenue.		
+2018	07			2018	07			Des_investigations_complémentaires	Des investigations complémentaires ont été réalisées en juillet 2018 et permettent d'observer :		

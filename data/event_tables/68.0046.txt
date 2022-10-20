@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997								stabilisation	Une mesure en Fe à 0.17 mg/L a été faite en 1997, depuis stabilisation à 0.1 mg/L jusqu'en 2001 puis 0.05 mg/L depuis.	'Fe'	
+2002	10	25		2002	10	25		a_été_achevé	Le rapport d'étape B du diagnostic initial et évaluation simplifiée des risques a été achevé le 25 octobre 2002.		
+1997								a_été_faite	Une mesure en Fe à 0.17 mg/L a été faite en 1997, depuis stabilisation à 0.1 mg/L jusqu'en 2001 puis 0.05 mg/L depuis.	'Fe'	
+2008	12	15		2008	12	15		a_été_actualisée	La surveillance des eaux souterraines a été actualisée dans l'arrêté préfectoral codificatif du 15/12/2008.		
+2001	04	03		2001	04	03		est_achevée	L'étape A est achevée depuis le 03/04/2001.		
+				2001				stabilisation	Une mesure en Fe à 0.17 mg/L a été faite en 1997, depuis stabilisation à 0.1 mg/L jusqu'en 2001 puis 0.05 mg/L depuis.	'Fe'	
+2000				2000				a_été_faite	Une mesure en HCT à 0.1 mg/L a été faite en 2000, avant et depuis stabilisation à 0.05 mg/L.	'HCT'	
+								a_été_prescrit	Un réseau de piézomètres a été prescrit par l'AP du 14/08/91.		
+1997				1997				a_été_faite	Une mesure en AL à 0.25 mg/L a été faite en 1997, depuis plus rien.		

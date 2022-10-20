@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01	11		2010	01	11		des_investigations_complémentaires	Suite à la démolition des bâtiments existants et à la demande de l'inspection, des investigations complémentaires ont été effectuées le 11 janvier 2010.		
+2006	06	1		2006	06	1		comportait	Mis à l'arrêt le 1er juin 2006, il comportait un stockage en vrac de céréales ainsi qu'une installation de séchage de céréales fonctionnant au fuel domestique.	'fuel'	
+1971				1971				exploité	Créé en 1956, ce site industriel constitue une partie du complexe céréalier exploité depuis 1971 par la société CAPROGA La Meunière.		'la société CAPROGA La Meunière'
+2007	10			2007	10			a_été_réalisée	Les activités exploitées sur ce site, notamment celles relatives au stockage de fuel en réservoirs enterrés, ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, une évaluation de la qualité des sols à partir de 2 sondages d'une profondeur comprise entre 3,4 et 5 m a été réalisée en octobre 2007.	'fuel'	
+2007	12	19		2007	12	19		a_déclaré	Pour répondre à l'arrêté préfectoral de mise en demeure du 27 juillet 2007, la société CAPROGA La Meunière a déclaré, le 19 décembre 2007, avoir mis en sécurité son site.		'la société CAPROGA La Meunière'
+2007	07	27		2007	07	27		a_déclaré	Pour répondre à l'arrêté préfectoral de mise en demeure du 27 juillet 2007, la société CAPROGA La Meunière a déclaré, le 19 décembre 2007, avoir mis en sécurité son site.		'la société CAPROGA La Meunière'
+2006	06	1		2006	06	1		Mis_à_l__arrêt	Mis à l'arrêt le 1er juin 2006, il comportait un stockage en vrac de céréales ainsi qu'une installation de séchage de céréales fonctionnant au fuel domestique.	'fuel'	
+1956				1956				Créé	Créé en 1956, ce site industriel constitue une partie du complexe céréalier exploité depuis 1971 par la société CAPROGA La Meunière.		'la société CAPROGA La Meunière'
+1999				1999				ne_sont_plus_exploités	Selon l'exploitant, les deux réservoirs enterrés ne sont plus exploités depuis 1999.		

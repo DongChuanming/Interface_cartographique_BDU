@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01	1		2011	01	1		a_été_transféré	Conformément à la loi du 26 octobre 2009 relative au transfert aux départements des parcs de l'équipement, le parc du Légué a été transféré au Conseil Général des Côtes d'Armor (CG 22) depuis le 1er janvier 2011.		"Conseil Général des Côtes d' Armor", '( CG'
+2015				2015				a_cessé	L'activité d'émulsion bitumineuse a cessé en 2015.		
+2014	05			2014	05			la_campagne	Les résultats de la campagne de mai 2014 montrent :		
+2009	10			2009	10			des_diagnostics	Dans le cadre du transfert du parc, des diagnostics ont été réalisés en octobre 2009 et au cours du dernier trimestre 2010, qui ont mis en évidence:		

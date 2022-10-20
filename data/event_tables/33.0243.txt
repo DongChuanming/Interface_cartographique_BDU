@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	11		2005	10	11		L__arrêté	L'arrêté préfectoral du 11/10/2005 prescrit l'enlèvement de tous les déchets, ferrailles diverses et traces d'hydrocarbures visibles sur les sols ainsi que la sécurisation du forage (au regard du risque de pollution de la nappe).		
+2005	11	15		2005	11	15		exploitant	Par courrier en date du 15/11/2005, l'exploitant adresse à l'administration un rapport d'analyse hydrocarbure sur son eau de forage.		
+10000				10000				Les_concentrations_les_plus_importantes	Les concentrations les plus importantes observées sont supérieures à 10000 mg/kg dans les sols.		

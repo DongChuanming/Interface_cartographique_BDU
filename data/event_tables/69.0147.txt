@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09			2001	09			d__une_visite	Lors d’une visite au mois de septembre 2001 du site d’exploitation de la société SODEREC à SAINT BONNET DE MURE, il a été constaté que la société précité exerce sans l’autorisation préfectorale requise des activités de récupération de métaux classable au titre de Législation des Installations Classées pour la Protection de l'Environnement.		'la société SODEREC', 'SAINT BONNET DE MURE'
+2001	11	27		2001	11	27		a_informé	Par courrier du 27 novembre 2001, l’exploitant a informé le préfet du Rhône de la cessation de ses activités.		'le préfet du Rhône'

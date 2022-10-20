@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05	10		2001	05	10		Cette_étude_reçue	Cette étude reçue à l'IIC le 10 mai 2001 a fait l'objet de compléments fournis le 6 août 2001.		
+2010	05	14		2010	05	14		a_prononcé_la_liquidation_judiciaire	Par jugement en date du 14 mai 2010, le tribunal de commerce de Castres a prononcé la liquidation judiciaire.		'le tribunal de commerce de Castres'
+2011	09	21		2011	09	21		Une_visite_réalisée	Une visite réalisée le 21 septembre 2011 a permis de constater la mise en sécurité du site.		
+2011				2011				s__est_installée	En 2011, une entreprise de BTP s'est installée sur le site + une partie logistique.		
+2011	04	27		2011	04	27		la_visite	Suite à la visite du 27 avril 2011, un arrêté de mise en demeure a été pris le 30 mai 2011 afin d'imposer au liquidateur la mise en sécurité du site.		
+1996	04	03		1996	04	03		a_prescrit	Cependant, compte tenu que les activités exercées sur le site sont susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, un arrêté préfectoral complémentaire du 26 octobre 2000, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant de réaliser un diagnostic initial et une évaluation simplifiée des risques sur ce site dans un délai de six mois.		
+2011	05	30		2011	05	30		a_été_pris	Suite à la visite du 27 avril 2011, un arrêté de mise en demeure a été pris le 30 mai 2011 afin d'imposer au liquidateur la mise en sécurité du site.		
+2011	04	27		2011	04	27		a_été_pris	Suite à la visite du 27 avril 2011, un arrêté de mise en demeure a été pris le 30 mai 2011 afin d'imposer au liquidateur la mise en sécurité du site.		
+2009	10			2009	10			Les_dernières_mesures	Les dernières mesures datant d'octobre 2009 montrent des valeurs pour les paramètres arsenic et chrome supérieures aux valeurs guides pour les eaux brutes.	'arsenic', 'chrome'	

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				__déversement	En 1985, déversement dans l'Huveaune de 500m3 d'effluent brut (3g/l de Ca(OH)2 et 3 à 4 g/l de DCO, mort de poissons).	'Ca(OH)2', 'DCO'	
+1998	03			1998	03			rupture_d_	En Mars 1998, rupture d'une canalisation d'eaux chargées qui se sont déversées dans le réseau d'eau pluvial vers l'Huveaune (sans conséquences environnementales).		
+								a_déposé_un_dossier_de_cessation_d__activité	* Avec l'arrêt de la production survenue le 29/6/2004 et la décision de cessation d'activité, la société ROUSSELOT a déposé un dossier de cessation d'activité le 25/11/04.		'la société ROUSSELOT'
+1998	07	15		1998	07	15		est_autorisé	* L'établissement est autorisé par AP du 30 mars 1982, 22 février 1994, 26 septembre 1995, 15 juillet 1998, 21 mars 2000, 28 mars 2000, 26 Mars 2003.		
+2004	09			2004	09			ayant_été_arrêté	* Le suivi analytique de la qualité des eaux souterraines ayant été arrêté en Septembre 2004, il conviendra de mettre en place une surveillance périodique du forage Aval.		
+2005	06	23		2005	06	23		la_visite	* Suite à l’arrêt de production, la visite du 23 Juin 2005 a permit d'évaluer les dispositions de réhabilitations qui  ont été prises:		
+1994	02	22		1994	02	22		est_autorisé	* L'établissement est autorisé par AP du 30 mars 1982, 22 février 1994, 26 septembre 1995, 15 juillet 1998, 21 mars 2000, 28 mars 2000, 26 Mars 2003.		
+1999				1999				a_conduit	Elle a conduit la société ROUSSELOT à une situation déficitaire depuis 1999.		'la société ROUSSELOT'
+								a_connu	* Le site a connu de nombreux propriétaires depuis les années  1980 notamment SANOFI BIO INDUSTRIES (88-95), SYSTEMS BIO INDUSTRIES (95-98), SKW GELATIN & SPECIALTIES (98-02), ROUSSELOT SAS (depuis 2002).		'notamment SANOFI BIO INDUSTRIES', ', SYSTEMS BIO INDUSTRIES', ', SKW GELATIN & SPECIALTIES', ', ROUSSELOT SAS'
+				2000	03	21		est_autorisé	* L'établissement est autorisé par AP du 30 mars 1982, 22 février 1994, 26 septembre 1995, 15 juillet 1998, 21 mars 2000, 28 mars 2000, 26 Mars 2003.		
+2005	11	24		2005	11	24		_Le_procès_verbal_de_récolement	-Le procès verbal de récolement a été fourni le 24/11/2005		
+2004	06	29		2004	06	29		l__arrêt_de_la_production_survenue	* Avec l'arrêt de la production survenue le 29/6/2004 et la décision de cessation d'activité, la société ROUSSELOT a déposé un dossier de cessation d'activité le 25/11/04.		'la société ROUSSELOT'
+1982	03	30		1982	03	30		est_autorisé	* L'établissement est autorisé par AP du 30 mars 1982, 22 février 1994, 26 septembre 1995, 15 juillet 1998, 21 mars 2000, 28 mars 2000, 26 Mars 2003.		
+				1995	09	26		est_autorisé	* L'établissement est autorisé par AP du 30 mars 1982, 22 février 1994, 26 septembre 1995, 15 juillet 1998, 21 mars 2000, 28 mars 2000, 26 Mars 2003.		

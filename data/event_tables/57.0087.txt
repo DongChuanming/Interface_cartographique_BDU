@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930				1930				créés	Le site est une aciérie électrique et laminoirs créés en 1930, dans l'enceinte de l'usine sidérurgique Thyssen sur le territoire de la commune d'HAGONDANGE soumis à autorisation par l'arrêté préfectoral du 27 octobre 2000.		'Thyssen'
+1952				1952				a_été_modernisée	Cette usine a été modernisée dans le temps, en 1952 avec construction d'une forge à chaud, en 1960 installation d'une coulée continue à l'aciérie, en 1968 une forge à froid, en 1985 une nouvelle acièrie électrique est construite perpendiculairement à l'ancienne.		
+1985				1985				est_construite	Cette usine a été modernisée dans le temps, en 1952 avec construction d'une forge à chaud, en 1960 installation d'une coulée continue à l'aciérie, en 1968 une forge à froid, en 1985 une nouvelle acièrie électrique est construite perpendiculairement à l'ancienne.		
+1999	05	14		1999	05	14		appartiennent	Les deux entités appartiennent au GROUPE LUCCHINI depuis le 14 mai 1999 et se partagent les installations communes du site: voirie, réseaux de fluides, station d'épuration...		'GROUPE LUCCHINI'
+1960				1960				installation_d__une_coulée_continue	Cette usine a été modernisée dans le temps, en 1952 avec construction d'une forge à chaud, en 1960 installation d'une coulée continue à l'aciérie, en 1968 une forge à froid, en 1985 une nouvelle acièrie électrique est construite perpendiculairement à l'ancienne.		
+2007				2007				La_dépollution	La dépollution de la zone des citernes et de la fosse ainsi que de la zone de sortie des vapeurs d'huile a été finalisée en 2007.	"vapeurs d' huile"	
+2003	07	07		2003	07	07		évaluation_détaillée_des_risques	Une évaluation détaillée des risques (EDR) a été remise le 7 juillet 2003.		
+2001	05	29		2001	05	29		évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) est remise le 29 mai 2001 et validée par l'inspection.		
+2009	12	04		2009	12	04		n__a_pas_encore_fait_l__objet	A la date du 4 décembre 2009, seule la zone de stockage des engins déclassés n'a pas encore fait l'objet de traitement.		

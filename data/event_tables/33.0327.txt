@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08	07		2009	08	07		__il_est_demandé	Le 07/08/2009, il est demandé à ANTEA de compléter l'ESR selon remarques énoncées.		'ANTEA', "l' ESR"
+1972	04	17		1972	04	17		était___autorisé	Située au lieu-dit « Le Tiche » sur la commune de Sainte-Croix-du-Mont et exploitée par la Mairie de Sainte Croix du Mont, le site était  autorisé par arrêté préfectoral du 17/04/1972.		'\xa0 Le Tiche'
+				1981	02			a_cessé	En activité jusqu’en Février 1981, elle a cessé son activité la même année.		
+2008	11			2008	11			d__intervenir	ANTEA prévoit d'intervenir en Novembre 2008.		'ANTEA'
+2009	07	30		2009	07	30		reçoit	L'IIC reçoit le 30/07/2009 l'ESR de ANTEA.		"l' ESR", 'ANTEA'
+2008	11			2008	11			prévoit	ANTEA prévoit d'intervenir en Novembre 2008.		'ANTEA'
+2010	09	23		2010	09	23		L__étude_des_sols	L'étude des sols de ANTEA pour la réhabilitation du site est déposée le 23/09/2010.		'ANTEA'

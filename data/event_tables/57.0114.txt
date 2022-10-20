@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1897	01	02		1897	01	02		a_été_inaugurée	L'usine est spécialisée dans la fabrication de rails pour chemins de fer, cette usine anciennement Usine Saint Jacques a été inaugurée le 2 janvier 1897.		
+2007	10			2007	10			Le_contrôle	Le contrôle de la qualité de la nappe réalisé en octobre 2007 montre une augmentation des concentrations en fer dans les eaux souterraines, en comparaison de celles mesurées lors du contrôle précédent de mai 2007.	'fer'	
+2001	02	16		2001	02	16		Une_étude_complète_du_site	Une étude complète du site, étude historique, diagnostic initial et Évaluation Simplifiée des Risques (ESR) a été remise 16 février 2001 à l'Inspection des Installations Classées.		
+2007	10			2007	10			la_nappe_d_	Le compte rendu de résultats de contrôle de la qualité de la nappe d'octobre 2007 montre que comme lors des contrôles précédents, deux composés présentent des teneurs supérieures à leurs valeurs de gestion réglementaires:	'composés'	
+1969				1969				démontée	'usine était alimentée jusqu'en 1962 par une acièrie Thomas démontée en 1969.		
+1999				1999				démontée	Elle a été dés le départ spécialisée dans le laminage de produits longs (poutrelles et rails), elle comportait en plus des trains de laminages d'importantes batteries de chaudières à vapeurs, un atelier de goudronnage de traverses de chemin de fer qui fût arrêté en 1980,des ateliers généraux et une wagonnerie démontée en 1999.		
+				1962				était_alimentée	'usine était alimentée jusqu'en 1962 par une acièrie Thomas démontée en 1969.		

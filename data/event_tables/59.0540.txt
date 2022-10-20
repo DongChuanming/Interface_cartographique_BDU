@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05	07		2007	05	07		PV_de_récolement	L'action de l'administration est terminée. (PV de récolement en date du 07/05/2007).		
+2007	05	29		2007	05	29		a_été_transmis	Un dossier pour l'établissement de servitudes conventionnelles de droit privé au droit du site a été transmis le 29 mai 2007.		
+1991				1991				a_été_rasée	La papeterie a été rasée en 1991.		
+2007	01			2007	01			ont_été_remis	La cessation d'activité de la cartonnerie a été déclarée le 1er mars 2006. 2 dossiers de cessation d'activité ont été remis en janvier 2007, l'un pour l'ancienne papeterie, l'autre pour l'ancienne cartonnerie.		
+2005				2005				avait_été_réalisée	Il n'y a pas eu besoin de réaliser de travaux de dépollution hormis l'évacuation des cuves de fioul et des terres souillées qui avait été réalisée en 2005) .	'de fioul'	
+2005	10	28		2005	10	28		ont_été_vidangées	Le 28/10/2005 les cuves ayant contenu du fuel ont été vidangées et nettoyées, les terres souillées par les hydrocarbures ont été évacuées.	'fuel', 'hydrocarbures'	
+2006	03	1		2006	03	1		La_cessation_d__activité	La cessation d'activité de la cartonnerie a été déclarée le 1er mars 2006. 2 dossiers de cessation d'activité ont été remis en janvier 2007, l'un pour l'ancienne papeterie, l'autre pour l'ancienne cartonnerie.		

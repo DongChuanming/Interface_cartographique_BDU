@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_ensuite_fait_appel_de	La commune a ensuite fait appel de cette décision le 11/01/01.		
+								a_été_adressé	Un mémoire en défense a été adressé au Tribunal Administratif de Châlons le 01/02/00.		'Tribunal Administratif de Châlons'
+								a_été_formulée	Une réponse a été formulée pour le Ministère le 19/03/01.		
+								Le_jugement_rejetant	Le jugement rejetant la requête de la commune de Celles-sur-Ource a été rendu le 07/11/00.		
+2004	08	05		2004	08	05		a_été_jugée	Cette affaire a été jugée par la Cour Administrative d'Appel de Nancy qui a rejeté la requête de la commune de Celles-sur-Ource par un arrêt du 05 août 2004.		"la Cour Administrative d' Appel de Nancy", 'la commune de Celles-sur-Ource'
+								analyses_devant_être_effectuées	Ces analyses demeurent toutefois conditionnées aux résultats des analyses devant être effectuées dans un délai de 4 mois, au droit de la décharge.		
+1996				1996				Evaluation_simplifiée_des_risques	Une "Evaluation simplifiée des risques" a été réalisée en 1996.		

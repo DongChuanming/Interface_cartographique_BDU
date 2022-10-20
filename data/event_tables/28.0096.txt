@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03	28		2012	03	28		sa_cessation_d__activité	CHARTRES METROPOLE a notifié à la préfecture sa cessation d'activité le 28 mars 2012.		'CHARTRES METROPOLE'
+2010				2010				__vidange_complète	-2010: vidange complète du bassin des lixiviats, délestage de 373 tonnes de boues par traitement externe et modification du procédé de la phase de fermentation (novembre 2010)	'tonnes de boues'	
+2005	09			2005	09			de_travaux_de_vidange	Elle devait faire l'objet de travaux de vidange, de comblement  et de reboisement prévus à partir de septembre 2005.		
+2010	11			2010	11			__vidange_complète	-2010: vidange complète du bassin des lixiviats, délestage de 373 tonnes de boues par traitement externe et modification du procédé de la phase de fermentation (novembre 2010)	'tonnes de boues'	
+2017	12	13		2017	12	13		La_cession	La cession du site a été réalisée le 13 décembre 2017 au profit de la commune de Saint-Aubin-des-bois pour un usage de stockage de bois par une entreprise spécialisée (société Jean FREON ELAGAGE).		'société Jean FREON ELAGAGE'
+1974				1974				l__entreposage	Dès 1974, le site a servi à l’entreposage des boues liquides de la station d’épuration de LEVES.	'boues liquides'	
+2006				2006				__mise_en_place_de_ventilateurs	- 2006: mise en place de ventilateurs dispersant des produits masquants		
+2009				2009				__curage_du_silo	- 2009: curage du silo de récupération des lixiviats et réalisation d'une étude odeurs par la société ODOTECH (90% des émissions proviennent de la phase de fermentation).		'la société ODOTECH'
+2014	02	05		2014	02	05		a_été_détecté	Dans le cadre du dossier de cessation d'activité transmis le 05 février 2014, une pollution aux polychlorobiphényles a été détecté dans une des lagunes présentes sur site.	'polychlorobiphényles'	
+2014				2014				présentant_une_pollution	Des travaux de confinement ont été effectués sur la lagune présentant une pollution aux polychlorobiphényles (PCB) courant de l'année 2014.	'polychlorobiphényles', 'PCB'	
+2014	02	05		2014	02	05		cessation_d__activité_transmis	Dans le cadre du dossier de cessation d'activité transmis le 05 février 2014, une pollution aux polychlorobiphényles a été détecté dans une des lagunes présentes sur site.	'polychlorobiphényles'	
+2009				2009				ont_été_constatés	En 2009, suite à une visite de l'inspection des installations classés, des dépassement sur les paramètres MES (Matières en suspension), DCO (Demande Chimique en Oxygène) et Cuivre ont été constatés dans le silo des lixiviats.	'MES', 'DCO', 'Oxygène', 'Cuivre'	
+2006				2006				ont_été_réalisés	L'exploitant a indiqué que les travaux ont été réalisés début 2006.		
+2008				2008				__installation_d_	- 2008 : installation d'une station météo, aération du bassin des lixiviats, remise à un jury de nez de "fiches odeurs" servant à consigner la date, l'heure, la durée, l'intensité des odeurs....		
+2005				2005				ont_été_vidées	En 2005, plusieurs lagunes ont été vidées, seule une lagune restait à vider.		
+2005	11	28		2005	11	28		L__arrêté	L'arrêté du 28 novembre 2005 autorise Chartres Métropole a poursuivre l'exploitation d'un centre de compostage de boues selon de nouvelles conditions d'exploitation.		
+2005	09			2005	09			devait_faire_l__objet	Elle devait faire l'objet de travaux de vidange, de comblement  et de reboisement prévus à partir de septembre 2005.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05	03		2001	05	03		a_été_transmise	L'ESR a été transmise à l'administration le 3 mai 2001.		"L' ESR"
+1976				1976				a_exploité	Antérieurement sur le même site, la société PLAFORA a exploité dès 1976 un centre de traitements de déchets industriels spéciaux, centre repris en mai 1981 par la société PEC Engineering (filiale du groupe EMC).	'déchets industriels spéciaux'	'la société PLAFORA', 'la société PEC Engineering', 'groupe EMC'
+1995	03	30		1995	03	30		Prescrite_par	Prescrite par arrêté préfectoral en date du 30 mars 1995, une étude de la contamination de la nappe phréatique par du perchloéthylène a été réalisée.	'perchloéthylène'	
+1987				1987				est_implantée	Cette société est implantée sur le parc industriel de la plaine de l'Ain depuis 1987.		
+1995	03	30		1995	03	30		une_étude_de_la_contamination	Prescrite par arrêté préfectoral en date du 30 mars 1995, une étude de la contamination de la nappe phréatique par du perchloéthylène a été réalisée.	'perchloéthylène'	
+1981	05			1981	05			repris	Antérieurement sur le même site, la société PLAFORA a exploité dès 1976 un centre de traitements de déchets industriels spéciaux, centre repris en mai 1981 par la société PEC Engineering (filiale du groupe EMC).	'déchets industriels spéciaux'	'la société PLAFORA', 'la société PEC Engineering', 'groupe EMC'
+1996	12			1996	12			s__est_achevée	Initiée en juillet 1995, elle s'est achevée en décembre 1996.		
+1995	07			1995	07			s__est_achevée	Initiée en juillet 1995, elle s'est achevée en décembre 1996.		
+2000	08	28		2000	08	28		du_diagnostic_initial_transmis	La phase A du diagnostic initial transmis à l'administration le 28 août 2000 préconise des investigations complémentaires notamment en ce qui concerne le sol.		
+2007				2007				a_mis_en_œuvre	En 2007, Trédi a mis en œuvre un nouveau puits de pompage, afin d'améliorer la barrière hydraulique.		
+1998	10	16		1998	10	16		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 16 octobre 1998.		
+2005				2005				ont_globalement_baissé	Les teneurs en PCE, TCB et PCB ont globalement baissé depuis 2005	'PCE', 'TCB', 'PCB'	

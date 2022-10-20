@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	02		1999	07	02		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 2 juillet 1999.		
+2003	04			2003	04			a_été_détecté	- le chlorure de vinyle a été détecté au droit d'un des piézomètres à des teneurs supérieures aux valeurs de référence en avril 2003 et de novembre 2004 à octobre 2006.	'le chlorure de vinyle'	
+2000				2000				a_été_remis	Un rapport de synthèse contenant l'étude historique (étape A) a été remis à l'inspection des installations classées à la fin du premier semestre 2000.		
+2009	12	04		2009	12	04		a_été_fixée	La surveillance semestrielle de la qualité des eaux souterraines a été fixée par arrêté préfectoral du 4 décembre 2009.		
+2005				2005				devient	En 2005, la société HUREL-HISPANO (filiale de SNECMA) devient la société AIRCELLE qui est depuis 1980 une filiale à 100 % du groupe SAFRAN.		'la société HUREL - HISPANO', 'SNECMA', 'la société AIRCELLE', 'groupe SAFRAN'
+2002	12			2002	12			a_été_détecté	- le tétrachloroéthylène a été détecté au droit d'un des piézomètres en décembre 2002 et en avril 2005 mais n'a plus été détecté depuis cette date sur aucun des 8 piézomètres ;	'le tétrachloroéthylène'	
+2004	11			2004	11			a_été_détecté	- le chlorure de vinyle a été détecté au droit d'un des piézomètres à des teneurs supérieures aux valeurs de référence en avril 2003 et de novembre 2004 à octobre 2006.	'le chlorure de vinyle'	
+2010				2010				a_continuée	La surveillance piézométrique a continuée en 2010, les résultats n'ont montré aucun dépassement des valeurs de référence mis à part pour un piézomètre où la présence de chlorure de vinyle a été de nouveau détectée.	'chlorure de vinyle'	
+2006	10			2006	10			a_été_détecté	- le chlorure de vinyle a été détecté au droit d'un des piézomètres à des teneurs supérieures aux valeurs de référence en avril 2003 et de novembre 2004 à octobre 2006.	'le chlorure de vinyle'	
+2005	04			2005	04			a_été_détecté	- le tétrachloroéthylène a été détecté au droit d'un des piézomètres en décembre 2002 et en avril 2005 mais n'a plus été détecté depuis cette date sur aucun des 8 piézomètres ;	'le tétrachloroéthylène'	
+2001	10			2001	10			a_été_remis	Le rapport de phase B a été remis par l'exploitant début octobre 2001.		
+2000	09			2000	09			a_été_également_remise	Une proposition pour la réalisation d'une étape B (investigations complémentaires) a été également remise en septembre 2000 et a été, de même, jugée recevable.		
+2001	05			2001	05			a_débuté	La surveillance a débuté par une première campagne en mai 2001.		

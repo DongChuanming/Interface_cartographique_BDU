@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 2011 : retrait des cuves et des installations de distribution, retrait du séparateur d'hydrocarbures et des canalisations, retrait des terres impactées par la pollution (305 tonnes de terres).	'hydrocarbures'	
+2009				2009				Un_diagnostic_des_sols_réalisé	Un diagnostic des sols réalisé en 2009 en amont de la cessation d'activité a montré une pollution des sols par les hydrocarbures.	'hydrocarbures'	
+1994				2010				Ancienne_station_service_exploitée	Ancienne station service exploitée par TOTAL de 1994 à 2010, sous le régime de la déclaration au tire de la réglementation des installations classées.		'TOTAL'

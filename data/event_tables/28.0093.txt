@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	10	26		2016	10	26		a_reçu	Le 26 octobre 2016, l'inspection des installation classées pour la protection de l'environnement a reçu un dossier de servitudes d'utilité publique.		
+2003	03	03		2003	03	03		les_travaux_relatifs	Suite à son arrêté préfectoral d'autorisation du 3 mars 2003, l'exploitant a réalisé les travaux relatifs au bassin de confinement, à la mise en place d'un séparateur à hydrocarbures et d'un prétraitement des eaux industrielles avant rejet.	'hydrocarbures'	
+2002				2002				la_cuve_enterrée	- la cuve enterrée de 100m² de fuel a été maintenue en place, après avoir fait l'objet d'un dégazage et inertage en 2002,	'fuel'	
+2002				2002				neutralisée_au_sable	_ la présence d'une contamination par des hydrocarbures près d'une ancienne cuve à fuel enterrée de 100 m3, dégazée et neutralisée au sable en 2002	'hydrocarbures', 'fuel'	
+2016	06	10		2016	06	10		Un_diagnostic_simplifié_de_pollution_des_sols_établi	Un diagnostic simplifié de pollution des sols établi par la société GINGER CEBTP le 10 juin 2016 conclut à :		'la société GINGER CEBTP'
+2012	09	13		2012	09	13		du_contrôle_inopiné	Les résultats d'analyse du laboratoire SYPAC, résultant du contrôle inopiné des rejets industrielles aqueux du 13 septembre 2012, montrent des dépassements sur le débit journalier, sur la teneur en DCO et DBO5 ainsi que la concentration en hydrocarbures des limites imposées par l'arrêté préfectoral du 25 aout 2003.	'DCO', 'DBO5', 'hydrocarbures'	'SYPAC'
+2016	02	29		2016	02	29		la_cessation_d__activité	Le 29 février 2016, la société a déclaré la cessation d'activité pour ce site situé au 3 rue Charles Tellier à Chartres.		
+2017	06	28		2017	06	28		La_visite_effectuée	La visite effectuée le 28 juin 2017 a permis de dresser les constats suivants:		
+2002				2002				un_dégazage	- la cuve enterrée de 100m² de fuel a été maintenue en place, après avoir fait l'objet d'un dégazage et inertage en 2002,	'fuel'	

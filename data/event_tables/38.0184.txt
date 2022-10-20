@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	19		2009	11	19		Un_diagnostic_environnemental_initial	Un diagnostic environnemental initial a été réalisé à cette fin par la société G Environnement en date du 19/11/2009.		'la société G Environnement'
+1982				1982				a_débuté	L’activité de distribution d’hydrocarbures a débuté en 1982 par la société CONTACT.	'hydrocarbures'	'la société CONTACT'
+2009	03			2009	03			à_son_acquisition	A partir de 2001 le site est exploité par les supermarchés CHAMPION puis ATAC jusqu’à son acquisition en mars 2009 par le groupe AUCHAN (CASINO).		'CHAMPION puis ATAC', 'groupe AUCHAN', 'CASINO'
+2010	07	15		2010	07	15		a_été_réalisé	Le troisième diagnostic a été réalisé en date du 15/07/2010 par la société ARCADIS.		'la société ARCADIS'
+								décrit_les_travaux_de_démantèlement	SERPOL dans son rapport d'octobre 2011 décrit les travaux de démantèlement du site réalisés par la société TOKHEIM au mois de septembre.		'SERPOL', 'la société TOKHEIM'
+2009	12	07		2009	12	07		Le_diagnostic_complémentaire_à_été_réalisé	Le diagnostic complémentaire à été réalisé par le Bureau VERITAS en date du 07/12/2009.		'le Bureau VERITAS'
+2001				2001				est_exploité	A partir de 2001 le site est exploité par les supermarchés CHAMPION puis ATAC jusqu’à son acquisition en mars 2009 par le groupe AUCHAN (CASINO).		'CHAMPION puis ATAC', 'groupe AUCHAN', 'CASINO'

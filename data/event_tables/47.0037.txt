@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	03			2014	03			La_campagne_d__analyses	La campagne d'analyses de mars 2014 a été réalisée au droit des 3 piézomètres.		
+2013	10			2013	10			La_campagne_d__analyses	La campagne d'analyses d'octobre 2013 a été réalisée au droit des 3 piézomètres.		
+2013	04			2013	04			La_campagne_d__analyses	La campagne d'analyses d'avril 2013 a été réalisée au droit de 3 piézomètres.		
+2012	10			2012	10			La_campagne_d__analyses	La campagne d'analyses d'octobre 2012 a été réalisée au droit de 3 piézomètres.		

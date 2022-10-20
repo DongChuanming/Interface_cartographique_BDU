@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_cessé	Cette activité de transfert a cessé en 2002 à la demande de l'inspection des installations classées, du fait de l'absence d'autorisation préfectorale pour cette activité.		
+								un_rapport	Le 14/06/2004, la Mairie de Romilly sur Seine a adressé à l'inspection des installations classées un rapport provisoire n° AZ01810 du 20/02/03 intitulé "Diagnostic environnement de la décharge du Pré Flaubert".		
+1968	02	24		1968	02	24		a_fait_l__objet_d_	L'ouverture de la décharge a fait l'objet d'un arrêté préfectoral n° 68-1158 du 24/02/1968.		
+2002				2002				a_cessé	A la demande de l'inspection des installations classées, l'activité du site a cessé en 2002, du fait de l'absence d'autorisation préfectorale pour l'activité de transfert.		
+2004	06	14		2004	06	14		un_rapport	Le 14/06/2004, la Mairie de Romilly sur Seine a adressé à l'inspection des installations classées un rapport provisoire n° AZ01810 du 20/02/03 intitulé "Diagnostic environnement de la décharge du Pré Flaubert".		
+1986				2002				n__a_donc_plus_accueilli	Entre 1986 et 2002, le dépôt n'a donc plus accueilli de déchets ménagers.		
+1968				1968				a_reçu	La décharge, située au lieu-dit "Le Pré Flaubert" sur la commune de Romilly sur Seine, a reçu des déchets ménagers et assimilés, des gravats et des déchets verts depuis 1968.		
+				2002				a_été_utilisée	A compter de cette date, elle a été utilisée en partie comme aire de transit pour les déchets ménagers jusqu'en 2002.		
+2004	08	27		2004	08	27		a_fait_parvenir	En réponse, l'inspection des installations classées a fait parvenir le 27/08/2004 un courrier à la Mairie de Romilly sur Seine lui demandant de mettre en oeuvre le programme de reconnaissance tel qu'il est préconisé dans le rapport cité ci-dessus.		
+1968				1986	1985||			a_ainsi_servi	Entre 1968 et jusqu'en 1985-1986, le site a ainsi servi pour le stockage des déchets ménagers.		

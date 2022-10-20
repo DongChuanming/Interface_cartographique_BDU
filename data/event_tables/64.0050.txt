@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	02	19		1996	02	19		Le_diagnostic	Le diagnostic du 19 février 1996 sur le site du dépôt pétrolier ELF, implanté à l'aéroport de Pau-Pyrénées sur la commune d'Uzein, a mis en évidence la présence de kérosène dans les terres en aval du site.	'kérosène'	'ELF'
+1997	01	31		1997	01	31		Des_travaux_d__excavation	Des travaux d'excavation et de dépollution des sols ont été prescrits par l'arrêté préfectoral du 31 janvier 1997.		
+1998	07			1998	07			a_été_délivré_15	Le procès-verbal de récolement a été délivré 15 juillet 1998.		
+1996				1996				a_cessé_son_activité	Ce dépôt était autorisé par arrêté préfectoral du 17 février 1978 et a cessé son activité en 1996.		
+1997	03	20		1997	09	05		Ces_travaux_qui_se_sont_déroulés	Ces travaux qui se sont déroulés du 20 mars 1997 au 5 septembre 1997 ont montré par ailleurs l’absence de nappe au droit du site.		

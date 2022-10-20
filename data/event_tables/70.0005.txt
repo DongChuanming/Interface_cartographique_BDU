@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	12	26		2002	12	26		a_été_remis	Le rapport final de l'étude simplifiée des risques a été remis le 26 décembre 2002.		
+2011	11			2011	11			a_été_envoyé	Après analyse du dossier, un courrier a été envoyé à l'exploitant en novembre 2011 pour modifier en ce sens les conditions de surveillance de la qualité des eaux souterraines.		
+				2010				Les_campagnes_d__analyses	Les campagnes d'analyses de la qualité des eaux souterraines effectuées jusqu'en 2010 montrent que les concentrations en hydrocarbures, chrome, molybdène et plomb sont globalement en dessous des seuils de détection.	'hydrocarbures', 'chrome', 'molybdène', 'plomb'	

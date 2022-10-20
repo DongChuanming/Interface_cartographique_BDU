@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				ont_été_mises_à_l__arrêt_définitif	Les installations ont été mises à l'arrêt définitif en 2001.		
+2004				2004				INVESTIGATIONS_ENVIRONNEMENTALES	INVESTIGATIONS ENVIRONNEMENTALES de 2004		'ENVIRONNEMENTALES'
+2015	10			2015	10			__la_première	Deux campagnes de mesures ont été réalisées : la première en octobre 2015 et la seconde en avril 2016.		
+2016	04			2016	04			__la_première	Deux campagnes de mesures ont été réalisées : la première en octobre 2015 et la seconde en avril 2016.		
+2016	04			2016	04			et_la_seconde	Deux campagnes de mesures ont été réalisées : la première en octobre 2015 et la seconde en avril 2016.		
+2004				2004				ont_été_excavés	Ces déchets ainsi que les terres souillées liées ont été excavés et éliminés en 2004.		
+1960				1960				a_été_créée	L'usine a été créée en 1960, sur d'anciens terrains agricoles.		
+1969				1969				constituée	En 1969, la société anonyme INOVA France est constituée à partir de l’exploitation industrielle existante.		'la société anonyme INOVA France'
+1990				1990				est_autorisée_à_exploiter	En 1990, la société INOVA FRANCE est autorisée à exploiter ses installations. (régularisation administrative).		'la société INOVA FRANCE'

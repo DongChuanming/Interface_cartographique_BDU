@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_remplacé	Le TCE a été remplacé par des alcools modifiés fin 2010.	'des alcools'	'Le TCE'
+2009				2009				suivis_de	Les résultats des suivis de 2006, 2007 et 2009 mettent en évidence la présence de TCE dans l'air ambiant, mais à des concentrations inférieurs aux valeurs limites d'exposition des professionnels.	'TCE'	
+2014				2014				ont_débuté	Les tests ont débuté fin 2014 : venting et oxydation chimique in-situ.		
+2008				2010				Plusieurs_diagnostics_environnementaux	Plusieurs diagnostics environnementaux ont été réalisés entre 2008 et 2010 à l'initiative de l'exploitant.		
+2006				2006				suivis_de	Les résultats des suivis de 2006, 2007 et 2009 mettent en évidence la présence de TCE dans l'air ambiant, mais à des concentrations inférieurs aux valeurs limites d'exposition des professionnels.	'TCE'	
+2007				2007				suivis_de	Les résultats des suivis de 2006, 2007 et 2009 mettent en évidence la présence de TCE dans l'air ambiant, mais à des concentrations inférieurs aux valeurs limites d'exposition des professionnels.	'TCE'	
+2011	11	23		2011	11	23		est_active	Une surveillance des eaux souterraines est active depuis le 23 novembre 2011à fréquence semestrielle.		
+2017				2017				Le_début_des_travaux_sont	Le début des travaux sont prévus pour la semaine 44 de 2017 et la durée du traitement de 2 à 3 ans.		
+								la_durée_du_traitement	Le début des travaux sont prévus pour la semaine 44 de 2017 et la durée du traitement de 2 à 3 ans.		
+2017				2017				la_durée_du_traitement	Le début des travaux sont prévus pour la semaine 44 de 2017 et la durée du traitement de 2 à 3 ans.		
+2007	05	23		2007	05	23		a_été_autorisée_à_exploiter	La société Parker-Legris a été autorisée à exploiter une installation de de fabrication de raccords hydrauliques et pneumatiques par arrêté préfectoral du 23 mai 2007.		'La société Parker - Legris'
+2013				2013				réalisé	Le plan de gestion réalisé en 2013 prévoit le début des travaux de réhabilitation de dépollution après la réalisation de tests préliminaires d'essais afin de préciser les faisabilités techniques des traitements prévus.		
+2000				2000				est_mis_en_place	En raison de l'utilisation du TCE sur le site, un suivi annuel de la qualité de l'air ambiant au poste de travail est mis en place depuis 2000.		'TCE'
+1990	10	11		1990	10	11		déclaration	Cependant, une activité existait déjà et réglementée par un récépissé de déclaration du 11 octobre 1990.		
+2017	08			2017	08			testait	En août 2017, l'exploitant testait la faisabilité technique de la méthode sur site.		
+								Le_début_des_travaux_sont	Le début des travaux sont prévus pour la semaine 44 de 2017 et la durée du traitement de 2 à 3 ans.		

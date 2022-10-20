@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			est_produit	Un mémoire de cessation d'activité est produit en avril 2011.		
+2007	04			2007	04			les_campagnes_de	La surveillance des eaux souterraines est réalisée : les campagnes de juin 2005, avril 2007, août 2008 et octobre 2009, mars 2012 et juin 2013 montrent une stabilité de la pollution en composés organiques halogénés volatiles (COHV) au droit du site.	'composés organiques halogénés volatiles', 'COHV'	
+2012	03			2012	03			produite	Celle-ci, produite en mars 2012, est présentée aux industriels de la zone à cette époque.		
+1996	04	11		1996	04	11		est_délivrée	Une autorisation d'exploitée est délivrée le 11 avril 1996 pour un centre de transit de déchets industriels spéciaux.	'déchets industriels spéciaux'	
+1995				1995				Un_diagnostic_est_réalisé	Un diagnostic est réalisé en 1995, mettant en évidence une zone polluée par les dérivés organohalogénés, impactant les eaux souterraines et le sol, au droit du lieu de stockage des fûts de 1969 à 1987.	'les dérivés organohalogénés'	
+1995	07			1995	07			est_décapé	En juillet 1995, le site est décapé sur 0,6 à 1,4 m pour mettre en place des surfaces techniques.		
+2002	12			2002	12			étude_historique_du_site_est_produite	Une étude historique du site est produite en décembre 2002.		
+2007	08	15		2007	08	15		Un_incendie_a_lieu	Un incendie a lieu le 15 août 2007 sur le site et entraîne la destruction du hangar de stockage.		
+1995	07			1995	07			est_racheté	En juillet 1995, le site est racheté par la Société Orléanaise d'Assainissement (SOA).		'la Société Orléanaise', 'SOA'
+				2003	04			Un_diagnostic_initial_est_réalisé	Un diagnostic initial est réalisé, de février à avril 2003.		
+								sont_mises_aux_normes	Dans les années 80, les installations sont mises aux normes : édification d'un hangar de stockage, création de 3 cuves de 15 m³ (n° 7, 8 et 9), avec rétention et dalle béton, au niveau des zones de dépotage.		
+2005	06			2005	06			les_campagnes_de	La surveillance des eaux souterraines est réalisée : les campagnes de juin 2005, avril 2007, août 2008 et octobre 2009, mars 2012 et juin 2013 montrent une stabilité de la pollution en composés organiques halogénés volatiles (COHV) au droit du site.	'composés organiques halogénés volatiles', 'COHV'	
+2008	08			2008	08			les_campagnes_de	La surveillance des eaux souterraines est réalisée : les campagnes de juin 2005, avril 2007, août 2008 et octobre 2009, mars 2012 et juin 2013 montrent une stabilité de la pollution en composés organiques halogénés volatiles (COHV) au droit du site.	'composés organiques halogénés volatiles', 'COHV'	
+1969				1994				est_occupé	De 1969 à 1994, le site est occupé par la Société Chimique de la Courneuve (SCC), pour la manipulation et le stockage de solvants organochlorés (éthers, organochlorés, térébenthine) et de solvants organohalogénés dans 5 cuves placées à même le sol et séparées par des merlons de terre (2 de 50 m³, 3 de 3 m³).	'solvants organochlorés', 'éthers', 'organochlorés', 'térébenthine', 'solvants organohalogénés'	'la Société Chimique de la Courneuve', 'SCC'
+2010	05			2010	05			Un_diagnostic_de_pollution	Un diagnostic de pollution des sols et des eaux souterraines (mai 2010): 14 sondages allant jusqu'à 3 m de profondeur sont  réalisés, ainsi que des mesures de la qualité des eaux souterraines.		
+2012	03			2012	03			est_présentée	Celle-ci, produite en mars 2012, est présentée aux industriels de la zone à cette époque.		

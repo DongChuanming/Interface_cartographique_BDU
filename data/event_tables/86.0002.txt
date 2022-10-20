@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	1		2006	01	1		l__exploitation	La société PICOTY a repris, à partir du 1er Janvier 2006, l'exploitation du dépôt d'hydrocarbures.	'hydrocarbures'	'La société PICOTY'
+1964				1997				exploité	Ancien dépôt d'hydrocarbures liquides exploité par la société ESSO de 1964 à 1997, dont l'exploitation a été reprise par la SAGESS en 1999 (société anonyme de gestion des stocks de sécurité).	'hydrocarbures liquides'	'la société ESSO', 'la SAGESS'
+1996	04	03		1996	04	03		une_étude_de_sols	du 3 avril 1996 d'une étude de sols.		
+2012	02	27		2012	02	27		signé	Un arrêté préfectoral signé le 27/02/2012, impose la recherche des substances dangereuses dans les eaux de surface.	'substances dangereuses'	

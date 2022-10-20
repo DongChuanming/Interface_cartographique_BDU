@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03			2005	03			Une_étude_historique	Une étude historique et documentaire a été menée par PREVENTEC Environnement en mars 2005.		'PREVENTEC Environnement'
+2004	02	03		2004	02	03		n__est_plus_en_activité	Cette teinturerie n’est plus en activité depuis le 3 février 2004.		
+2004	12	02		2004	12	02		a_été_pris	Un autre arrêté préfectoral a été pris le 2 décembre 2004 demandant la mise en sécurité du site et l’évacuation des déchets.		
+2005				2005				Un_incendie_a_ravagé_le_site	Un incendie a ravagé le site en aout 2005.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1913				1964				a_accueilli	Le site a accueilli une usine fabricant du gaz à partir de la distillation de la houille pendant 51 ans, de 1913 à 1964.		
+1974				1974				est_devenu_propriétaire	Gaz de France est devenu propriétaire du site en 1974 et n'a jamais été exploitant des installations de production de gaz à partir de la distillation de la houille.		'Gaz de France'
+2008				2008				un_diagnostic_environnemental	En 2008, GDF-Suez a fait réaliser un diagnostic environnemental du site, afin de vérifier la compatibilité de l'état du site avec son usage actuel.		'GDF - Suez'
+2009				2009				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en 2009. 759 m3 de matériaux contaminés (terres, goudrons, liquides et boues) ont été excavés, triés en envoyés en traitement (incinération ou désorption thermique).	'goudrons'	
+1978				1978				a_été_démoli	L'ensemble des installations de l'ancienne usine à gaz a été démoli en 1978.		
+2008				2008				le_diagnostic_environnemental	Les restrictions d'usage préconisées dans le diagnostic environnemental de 2008 restent d'actualité à l'issue des opérations de réhabilitation de 2009.		
+2009				2009				l__issue_des_opérations_de_réhabilitation	Les restrictions d'usage préconisées dans le diagnostic environnemental de 2008 restent d'actualité à l'issue des opérations de réhabilitation de 2009.		

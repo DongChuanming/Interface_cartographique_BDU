@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11	16		2004	11	16		Remise	Remise de l'edr le 16/11/2004.		
+2003	12			2003	12			a_été_transmis	Le rapport a été transmis à la Drire en décembre 2003.		'la Drire'
+								seront_remplacés	e traitement sera cependant repris pour toute l'année 2007, après constatations de flottant au niveau de la station service en octobre 2006; l'une des cuves double enveloppe et les canalisations de la station seront remplacés au 3ème trimestre 2007, après arrêté de mise en demeure.		
+2007				2007				seront_remplacés	e traitement sera cependant repris pour toute l'année 2007, après constatations de flottant au niveau de la station service en octobre 2006; l'une des cuves double enveloppe et les canalisations de la station seront remplacés au 3ème trimestre 2007, après arrêté de mise en demeure.		
+2003				2003				__reprise	station-service d'un supermarché ( reprise en 2003 d'un autre exploitant)		
+2007				2007				e_traitement_sera_cependant_repris_pour_toute_l_	e traitement sera cependant repris pour toute l'année 2007, après constatations de flottant au niveau de la station service en octobre 2006; l'une des cuves double enveloppe et les canalisations de la station seront remplacés au 3ème trimestre 2007, après arrêté de mise en demeure.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06	12		2012	06	12		a_été_notifiée	MILABIA a été notifiée par le récépissé n°12/IC/60 du 12 juin 2012.		
+2012	04	26		2012	04	26		ont_été_évacuées	Puis elles ont été évacuées le 26 avril 2012 et le 22 février 2013, soit 524 tonnes au total, vers le centre de Capvern (65) afin d'y être éliminée comme terres de recouvrement.		'Capvern'
+2012	02			2012	02			a_été_rendu	Le mémoire a été rendu en février 2012.		
+2011	12	20		2011	12	20		étaient_encore_en_place	Le 20 décembre 2011, le supermarché et la station service étaient encore en place.		
+2012	01	30		2012	01	30		du_diagnostic_du_site	Le rapport du diagnostic du site du 30 janvier 2012 rapporte que la société MILABIA souhaite vendre le site qui sera affecté à un nouvel usage (immeuble à logements multiples).		'la société MILABIA'
+2013	07	01		2013	07	01		est_remise	La proposition de plan de gestion est remise le 01/07/2013.		
+2012	01			2012	01			projet_de_démolition	Un projet de démolition est en cours en janvier 2012.		
+2012	01	30		2012	01	30		Le_diagnostic	Le diagnostic du site a été remis le 30 janvier 2012.		
+				2013	02	22		ont_été_évacuées	Puis elles ont été évacuées le 26 avril 2012 et le 22 février 2013, soit 524 tonnes au total, vers le centre de Capvern (65) afin d'y être éliminée comme terres de recouvrement.		'Capvern'

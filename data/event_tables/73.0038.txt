@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			l__audit_commun	Le site est également visé par l'audit commun réalisé préalblement par ANTEA en juin 1999.		'ANTEA'
+								auraient_été_déposés	L'étude historique menée montre que les déchets notamment arseniés, auraient été déposés dans les années 1930, à même le sol naturel dans une dépression constituée par un ancien canal d'irrigation.	'les déchets notamment arseniés'	
+1999	11			1999	11			un_diagnostic_initial	La décharge a fait l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR)réalisée par la société ANTEA et transmise à l'administration en novembre 1999.		'la société ANTEA'
+1998	12	1		1998	12	1		Une_étude_de_sol	Une étude de sol a été imposée à l'exploitant par arrêté préfectoral du 1er décembre 1998.		

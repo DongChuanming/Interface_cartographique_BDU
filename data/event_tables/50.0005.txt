@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				évacuées	Ces boues ont été stockées entre 1971 et 1974 quand le site était exploité par Rhône Poulenc, elles ont ensuite été stabilisées et évacuées en 1975 à l'ouest du site qui appartient aujourd'hui à Sun chemical.		'Rhône Poulenc', 'Sun chemical'
+1989				1989				a_repris	En 1989, AGFA a repris la société PYRAL pour la revendre un an plus tard à BASF.		'AGFA', 'la société PYRAL', 'BASF'
+2010				2010				a_fait_l__acquisition	Par ailleurs, Pyral a fait l’acquisition en 2010 de la parcelle AM 242 adjacente, parcelle où des servitudes d'utilités publiques sont imposées.		
+1995	01			1995	01			a_été_étanchée	Par précaution, la surface du sol à l’aplomb des anciennes lagunes, a été étanchée par recouvrement avec une couche de béton, en janvier 1995.		
+1962				1962				érigée	Usine de production de bandes magnétiques, érigée en 1962, puis agrandie, par la suite, par QUADRIMETAL pour la production, la confection et l’entreposage de plaques offset.		'QUADRIMETAL'
+2002				2002				est_réalisée	Depuis 2002, une surveillance des eaux souterraines est réalisée.		
+1971				1974				ont_été_stockées	Ces boues ont été stockées entre 1971 et 1974 quand le site était exploité par Rhône Poulenc, elles ont ensuite été stabilisées et évacuées en 1975 à l'ouest du site qui appartient aujourd'hui à Sun chemical.		'Rhône Poulenc', 'Sun chemical'
+1994	11			1994	11			ont_été_évacuées_sur_demande	Les boues extraites pour le terrassement ont été évacuées sur demande de l'inspection par BASF vers une décharge de classe 1 en novembre 1994.		'BASF'
+1994	03			1994	03			ont_été_découverte	Mais en mars 1994, lors de travaux de terrassement pour la construction de la plate-forme de récupération de solvants, de nouvelles boues datant de cette époque ont été découverte à 2 mètres de profondeur sur une épaisseur de 20 cm.	'solvants'	

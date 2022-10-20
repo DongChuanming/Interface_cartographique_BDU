@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_cessé_ses_activités	La société a cessé ses activités en septembre 94 sans avoir jamais obtenu d'autorisation auparavant.		
+1996	01	22		1996	01	22		__Diagnostic_approfondi	- Diagnostic approfondi imposé par l'AP du 22/01/1996.		
+1994				1994				Suspension_d__activités	- Suspension d'activités prononcée en 1994.		
+2005	05			2005	05			__travaux_de_réhabilitation	- mai 2005: travaux de réhabilitation: excavation des terres polluées, évacuation vers des centres agrées des déchets et de ces terres, remblaiement avec des matériaux inertes.		

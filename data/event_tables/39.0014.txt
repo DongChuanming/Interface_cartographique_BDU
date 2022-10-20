@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	05			1995	05			Des_travaux_de_réhabilitation	Des travaux de réhabilitation du site ont été effectués en mai 1995.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de GAZ DE FRANCE ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usine à gaz entre le Ministère de l'Environnement et GAZ DE FRANCE, signé le 25 avril 1996.		'GAZ DE FRANCE', "le Ministère de l' Environnement", 'GAZ DE FRANCE'
+1936				1960				a_accueilli	Ce site, d'une superficie de 4200 m2, a accueilli les installations de production de gaz par distillation de houille, de 1936 à 1960.		

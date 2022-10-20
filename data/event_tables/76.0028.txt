@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12	31		2001	12	31		a_cessé_d__être_utilisée	La décharge, exploitée depuis 1947, a cessé d'être utilisée au 31 décembre 2001 (arrêt des dépôts).		
+1999	03			1999	03			des_risques_remise	Une étude simplifiée des risques remise en mars 1999 classe le site en classe 2 (à surveiller).		
+2001	12	31		2001	12	31		fixe_la_fin	- fixe la fin de l'exploitation de la décharge au 31 décembre 2001,		
+				2003	12	31		le_réaménagement	Un arrêté préfectoral du 10 décembre 2001 prescrit le réaménagement de la décharge jusqu'au 31 décembre 2003 : travaux de remodelage, accrochage d'une végétation superficielle, plantations d'arbres, clôture par des murs de 2 mètres de haut.		
+1998	02			1998	02			bilan_environnemental	Les conclusions du bilan environnemental de février 1998 prévoit que l'usage ultérieur du site soit compatible avec la présence de déchets et que les propriétaires successifs soient informés par le biais éventuel d'une convention de servitude.		
+								le_réaménagement	financières pour la remise en état du site et la surveillance durant les 30 années suivant le réaménagement.		
+1947				1947				exploitée	La décharge, exploitée depuis 1947, a cessé d'être utilisée au 31 décembre 2001 (arrêt des dépôts).		

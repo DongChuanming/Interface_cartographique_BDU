@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				est_signalé	En 1994, le dépôt est signalé à l'inspection des installations classées par la mairie.		
+1995	09	12		1995	09	12		Les_travaux_ont_été_fixés	Les travaux ont été fixés par l'arrêté préfectoral d'exécution de travaux d'office du 12 septembre 1995.		
+1988				1990				a_accueilli	Le site, d'une superficie de 3000 m², a accueilli de 1988 à 1990 une activité de découpe de matériaux pour semi-conducteurs.		
+1998				1998				Ces_investigations	Ces investigations, réalisées en 1998, ont mis en évidence une pollution des sols en hydrocarbures.	'hydrocarbures'	
+1992				1992				a_été_mise_en_liquidation_judiciaire	En 1992, la société PHOTEC a été mise en liquidation judiciaire, laissant sur le site un dépôt de fûts de produits chimiques, pleins et en mauvais état, entrainant des écoulements sur le sol.	'produits chimiques'	'la société PHOTEC'

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	03	31		1993	03	31		a_été_démolie	Depuis 1991, la plupart des bâtiments a été démolie suivant les prescriptions de l'arrêté préfectoral du 31 mars 1993.		
+1970				1970				aurait_été_démantelé	L'atelier de traitement d'uranium aurait été démantelé en 1970.		
+1993				1993				ont_été_démolis	Le bâtiment " bicarbonate " et les structures de la synthèse d'ammoniac la plus récente ont été démolis en 1993.	'ammoniac'	
+1996				1996				Une_étude_réalisée	Une étude réalisée par ATE en 1996 montre une pollution des sols par l'arsenic, le plomb, le zinc et les hydrocarbures sur la zone DESMARAIS ; les piézomètres montrent une légère présence de métaux dans la nappe alluviale et la faible mobilisation de ceux-ci.	'arsenic', 'le plomb', 'zinc', 'hydrocarbures', 'métaux'	
+1847				1847				acheta	Frédéric Kuhlmann acheta en 1847 une petite usine chimique qui couvrait 2ha.		'Frédéric Kuhlmann'
+1999				1999				Une_étude_spécifique_réalisée	Une étude spécifique réalisée par l'AINF en 1999 n'a pas révélé de rayonnements résiduels supérieurs aux normes sanitaires.		
+2001				2001				__développement	- 1963 à 2001 : développement du T.		
+1991				1991				a_été_démolie	Depuis 1991, la plupart des bâtiments a été démolie suivant les prescriptions de l'arrêté préfectoral du 31 mars 1993.		
+1961								n__est_utilisée	Cette zone n'est utilisée par l'usine que depuis 1961 pour la production du T.		
+1963				1965				avaient_été_démantelés	Les bâtiments de l'ancienne synthèse avaient été démantelés entre 1963 et 1965.		
+1994	1993			1994	1993			a_été_démolie	La plupart des bâtiments a été démolie en 1993/1994.		
+1914				1914				est_vidée	- 1914 à 1918 : l'usine est vidée de son contenu par réquisitions successives ;		
+1918				1918				est_vidée	- 1914 à 1918 : l'usine est vidée de son contenu par réquisitions successives ;		
+1963				1963				__développement	- 1963 à 2001 : développement du T.		
+1849				1849				__industrialisation	- 1849 à 1914 : industrialisation de l'acide sulfurique et de ses dérivés (sulfates notamment) ainsi que de la fabrication entre autres de l'acide nitrique, des silicates et des superphosphates, du chlorure de chaux, de la soude, du chlorure de baryum, des sels de baryte ;	'acide sulfurique', 'ses dérivés', 'sulfates notamment', "l' acide nitrique", 'silicates', 'superphosphates', 'chlorure', 'chaux', 'soude', 'chlorure de baryum', 'sels de baryte'	
+1914				1914				__industrialisation	- 1849 à 1914 : industrialisation de l'acide sulfurique et de ses dérivés (sulfates notamment) ainsi que de la fabrication entre autres de l'acide nitrique, des silicates et des superphosphates, du chlorure de chaux, de la soude, du chlorure de baryum, des sels de baryte ;	'acide sulfurique', 'ses dérivés', 'sulfates notamment', "l' acide nitrique", 'silicates', 'superphosphates', 'chlorure', 'chaux', 'soude', 'chlorure de baryum', 'sels de baryte'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	06		2008	02	06		acte_de_Vente	L'acte de Vente en date du 06/02/2008 a été transmis par ONDUCLAIR à la DREAL qui a pu vérifier que les précautions d'usages rappelées ci-dessus et le maintien des accès pour la surveillance ont été reprises dans l'acte de vente qui vise les parcelles AV647 (lieu dit Planche au Brulin - 62a76ca) et AV865 (rue Marceau - 3ha87a84ca).		'ONDUCLAIR', 'la DREAL'
+2005	12			2005	12			cesse	La société ONDUCLAIR cesse toute activité industrielle à WASQUEHAL en décembre 2005 et transfère ses installations de production dans un nouvel établissement situé à COMINES.		'La société ONDUCLAIR'
+1860				1860				la_création	L'activité se développe avec la création en 1860 d'une teinturerie.		
+2005	11			2005	11			dépollution	* en novembre 2005, dépollution des sols pollués par des hydrocarbures au niveau des anciennes cuves à fioul pour atteindre une concentration résiduelle en hydrocarbures totaux dans les sols de surface de l'ordre de 100mg/kg;	'hydrocarbures', 'fioul', 'hydrocarbures totaux'	
+1992				1992				restructurée	En 1992, la société STRATINOR est restructurée.		'la société STRATINOR'
+2015				2015				ont_pas_été_retrouvés	Les anciens piézomètres n’ont pas été retrouvés en 2015, il appartient à l’exploitant de justifier de la recherche effective des anciens piézomètres, et en cas de découverte d’un ancien ouvrage, d’effectuer le rebouchage de ces piézomètres selon les règles de l’art.		
+1958				1958				cesse_toute_activité	En 1957, le traitement de la laine est arrêté et en 1958, la société HANNART cesse toute activité.		'la société HANNART'
+2007	01	10		2007	01	10		a_mis_en_place	Conformément à l’arrêté complémentaire du 10 Janvier 2007, l’exploitant a mis en place un nouveau réseau piézométrique  à partir de Janvier 2015.		

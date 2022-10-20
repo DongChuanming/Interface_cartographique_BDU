@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2003				Évaluation_détallées	Entre les mois de mai et de juillet 2003, 5 Évaluation détallées des risques sanitaires ont été rédigés par ANTEA pour les projets immobiliers PLURALIS, BLANC, PLURIMMO, GRENOBLE HABITAT et CAPRI LYON MÉDITERRANÉE.		'ANTEA', 'PLURALIS', 'PLURIMMO , GRENOBLE HABITAT', 'CAPRI LYON MÉDITERRANÉE'
+2004	02	13		2004	02	13		une_surveillance_des_eaux_souterraines	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+				2000				était_stockés	Des véhicules et du matériel y était stockés jusqu'en 2000.		
+2003	07	28		2003	07	28		a_fait_part	Par courrier daté du 28 juillet 2003, l'inspection a fait part de ses observations concernant l'EDR de l'Ilot A.		
+1944				1944				été_utilisée_pour	Pour ce qui est de la seconde parcelle, à partir de 1944, la zone été utilisée pour stocker du matériel des entreprises adjacentes comme du bois pour le chauffage et des graviers.		
+1967				1967				logement_à_l__étage_a_été_construit	Un grand bâtiment ayant abrité des garages ainsi qu'un logement à l'étage a été construit en 1967 pour l'usage de la DDE.		'la DDE'
+2003	10	10		2003	10	10		a_été_remis	Un document a été remis à l'inspection le 10 octobre 2003 répondant aux principales observations de la DRIRE (absence de cartographie des sources, description plus approfondie de l'hydrogéologie,schéma conceptuel,etc)		'la DRIRE'
+1972				1972				s__est_par_la_suite_développée	L'usine s'est par la suite développée en 1972 pour devenir une usine de fabrication d'émulsion jusqu'en 2000, date de fermeture et de transfert d’activité vers une autre commune.		
+2004	02	13		2004	02	13		fait_l__objet_d_	Le site fait l'objet d'une surveillance des eaux souterraines prescrite par arrêté préfectoral n°2004-01913 du 13 février 2004.		
+2003	06	12		2003	06	12		une_réunion	Le 12 juin 2003, une réunion s'est tenue entre la SAGES et l'inspection afin de faire le point sur les actions en cours.		'la SAGES'
+1935				1935				Le_premier_usage	Le premier usage de cette parcelle se fait en 1935 avec l'implantation d'une usine d'émulsion par la Société Routière Colas.		'la Société Routière Colas'
+				2000				s__est_par_la_suite_développée	L'usine s'est par la suite développée en 1972 pour devenir une usine de fabrication d'émulsion jusqu'en 2000, date de fermeture et de transfert d’activité vers une autre commune.		

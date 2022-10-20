@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01	09		2001	01	09		l__étude_des_sols_transmis	Le rapport d'étape A de l'étude des sols transmis à la DRIRE Midi-Pyrénées le 9 janvier 2001 a fait l'objet d'un courrier d'observations du 9 août 2001 à l'exploitant demandant de passer à l'étape B qui consiste à mettre en place un réseau piézométrique adapté et à effectuer des prélèvements et analyses d'eaux souterraines et de sols.		'la DRIRE Midi'
+2001	04	1		2001	04	1		remise	* au 1er avril 2001, remise d'un rapport à l'issue de l'étape A de type documentaire, consignant le résultat des actions entreprises et proposant si nécessaire, un programme d'investigations légères de terrain,		
+2003	01	21		2003	01	21		a_été_prescrit	Le suivi des eaux souterraines a été prescrit par arrêté préfectoral du 21/01/2003.		
+2002	10	17		2002	10	17		a_été_validé	Le rapport de la phase B a été adressé le 21/01/02 et a été validé le 17/10/2002.		
+2002				2002				sont_restées_stables	Les teneurs en polluants dans les eaux souterraines sont restées stables en 2002.		
+1996	04	03		1996	04	03		la_réalisation_d__un_diagnostic_initial	Compte tenu que les activités exercées sur le site sont susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, sur proposition de la DRIRE Midi-Pyrénées et en application de la circulaire du 3 avril 1996, un arrêté préfectoral complémentaire du 3 mai 2000 a prescrit à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur ce site, avec l'échéancier suivant :		'la DRIRE Midi - Pyrénées'
+								a_été_adressé	Le rapport de la phase B a été adressé le 21/01/02 et a été validé le 17/10/2002.		
+2002	04	1		2002	04	1		remise	* au 1er avril 2002, remise du rapport final de synthèse des deux étapes A et B et de la notation ESR du site.		

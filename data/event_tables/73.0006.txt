@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2011				Surveillance_de_la_nappe	Surveillance de la nappe de 2007 à 2011		
+2013	10	18		2013	10	18		a_autorisé	Par arrêté du 18 octobre 2013,  monsieur le préfet de la Savoie a autorisé la société LANXESS à exploiter l'usine d'EPIERRE anciennement exploitée par la société THERMPHOS.		'monsieur le préfet de la Savoie', 'autorisé la société LANXESS', 'par la société THERMPHOS'
+2002	06	25		2002	06	25		a_autorisé	Par arrêté préfectoral du 25 juin 2002, monsieur le préfet de la Savoie a autorisé la société THERMPHOS à exploiter l'usine d'EPIERRE anciennement exploitée par la société ARKEMA.		'le préfet de la Savoie', 'la société THERMPHOS', 'la société ARKEMA'
+2003	01	08		2003	01	08		a_été_complétée	Cette étude qui comprend un diagnostic initial et une étude Évaluation Simplifiée des Risques a été transmise à l'administration le 30/05/2001 et a été complétée en date du 8 janvier 2003.		
+2006	03	10		2006	03	10		prescrit	Par arrêté préfectoral du 10 mars 2006, monsieur le préfet de la Savoie a, en parallèle, prescrit à la société RETIA la surveillance des eaux souterraines sur la base d'un réseau de piézomètres correctement dimensionné.		'le préfet de la Savoie', 'la société RETIA'
+2001	05	30		2001	05	30		Cette_étude	Cette étude qui comprend un diagnostic initial et une étude Évaluation Simplifiée des Risques a été transmise à l'administration le 30/05/2001 et a été complétée en date du 8 janvier 2003.		
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 05/10/98.		
+								ont_été_arrêtées	Il a accueilli notamment des activités (ATOFINA puis THERMPHOS) de fabrication de phosphore qui ont été arrêtées au milieu des années 90.		'( ATOFINA puis THERMPHOS'

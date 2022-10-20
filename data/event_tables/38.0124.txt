@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	18		2002	01	18		la_mise_en_redressement_judiciaire	Par lettre du 18 janvier 2002, Maitre Jean-Yves BERMOND a déclaré à l'Inspection des Installations Classées la mise en redressement judiciaire de la SOTEMO à compter du 7 janvier 2002.		'BERMOND', 'la SOTEMO'
+2002				2002				La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 23 aout 2002.		
+1989	04	07		1989	04	07		a_également_été_autorisé	Un dépôt aérien de gaz combustible liquéfié a également été autorisé par l'arrêté du 07/04/1989.	'combustible'	
+2002	01	07		2002	01	07		la_mise_en_redressement_judiciaire	Par lettre du 18 janvier 2002, Maitre Jean-Yves BERMOND a déclaré à l'Inspection des Installations Classées la mise en redressement judiciaire de la SOTEMO à compter du 7 janvier 2002.		'BERMOND', 'la SOTEMO'
+2005	04	06		2005	04	06		un_rapport	L’Inspection des Installations Classées a proposé à Monsieur le Préfet, dans un rapport du 06/04/2005, de prendre un arrêté de mise en demeure pour le respect des dispositions du précédant arrêt.		'le Préfet'
+2012	10	22		2012	10	22		a_été_remis	Le Plan de Gestion a été remis à l'Inspection des Installations Classées en date du 22/10/2012.		
+				1965				ont_été_construits	Les anciens bâtiments présents sur le site ont été construits entre l'année 1962 et 1965 sur d'anciennes parcelles agricoles.		
+2003	02	05		2003	02	05		informe	Par lettre du 5 février 2003, Maitre Bermond informe Mr le Préfet qu'il n'est pas en mesure d'établir un plan de dépollution du site compte tenu des impératifs juridiques qui lui sont imposés, tendant à l'affectation des premiers fonds disponibles au remboursement des avances salariales déjà effectuées.		'le Préfet'
+1985	10	11		1985	10	11		a_été_autorisée	Son activité a été autorisée par l'arrêté préfectoral du 29/12/1965 et renouvelée par l'arrêté du 11/10/1985.		
+								La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 23 aout 2002.		
+2012	07			2012	07			Un_diagnostic_environnemental	Un diagnostic environnemental a été remis à l'Administration au mois de juillet 2012.		
+2003	11	13		2003	11	13		Une_visite_effectuée	Une visite effectuée sur le site  le 13 novembre 2003 a permis à l'Inspection des Installations Classées de constater que la citerne de gaz propane à l'extérieur ainsi que l'ensemble des machines à l'intérieur de l'usine avaient été retirées.	'la citerne de gaz propane'	

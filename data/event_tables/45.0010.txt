@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				a_cessé_toute_activité	Le site a cessé toute activité en 1995 et a été abandonné après une liquidation judiciaire, avec 1500 fûts dont certains partiellement remplis de déchets liquides divers.	'remplis de déchets liquides divers'	
+1996	02			1996	02			Une_mise_en_sécurité	Une mise en sécurité du site a été effectuée en février 1996 selon la procédure d'urgence prévue par la circulaire du 9 janvier 1989 (arrêté préfectoral du 11/08/95).		
+1977				1977				étaient_localisés	L'atelier de rénovation et les zones de stockage de fûts associées étaient localisés depuis 1977 sur la zone artisanale des Aissières sur un terrain de 0,75 ha,en limite est du secteur urbanisé de St Brisson.		

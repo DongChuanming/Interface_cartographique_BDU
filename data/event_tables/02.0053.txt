@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			Des_investigations_complémentaires_ont_été_effectuées	Des investigations complémentaires ont été effectuées an mai 2006 afin de cerner l’étendue de la pollution par HAP au droit de l’ancienne cuve à goudron.	'goudron'	
+2011	07			2011	07			a_été_remise	Une étude hydraulique et économique relative à l'arasement des anciens bassins a été remise en juillet 2011 puis complétée en mars 2013.		
+2013	03			2013	03			a_été_remise	Une étude hydraulique et économique relative à l'arasement des anciens bassins a été remise en juillet 2011 puis complétée en mars 2013.		
+2004	10	1		2004	10	1		La_cessation_définitive	La cessation définitive de la fabrication du sucre sur l’emprise du site date du 1er octobre 2004.		

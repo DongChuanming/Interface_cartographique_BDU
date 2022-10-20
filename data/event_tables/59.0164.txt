@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03			1999	03			la_découverte_d__une_pollution_accidentelle	Suite à la découverte d'une pollution accidentelle de la Deûle par des solvants en mars 1999, une étude de sol a été entreprise.		
+2006	02	23		2006	02	23		__le	ICPE soumise à Autorisation AP du 25/08/1993 complété le 02/03/2000, le 23/02/2006, le 16/04/2010.		
+2012	06	25		2012	06	25		Tribunal_de_Commerce	Site placé en liquidation judiciaire par jugement du Tribunal de Commerce du 25/06/2012.		
+1999	03			1999	03			une_étude_de_sol	Suite à la découverte d'une pollution accidentelle de la Deûle par des solvants en mars 1999, une étude de sol a été entreprise.		

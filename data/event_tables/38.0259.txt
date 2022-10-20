@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				a_été_construite	L'usine a été construite en 1990 par la société PRODIS (filiale du groupe THOMSON LCD).		'société PRODIS', 'THOMSON LCD'
+1990	10	18		1990	10	18		de_déclaration	Elle y exerçait une activité de fabrication d'écran plat à cristaux liquides pour l'aéronautique autorisé par le récépissé de déclaration du 18/10/1990.		
+2003	09	23		2003	09	23		une_campagne_de_suivi	Suite à un risque de fuite d'une conduite de Tétrachloréthylène (PCE), une campagne de suivi de la nappe et des sédiments du Pommarin a été effectuée le 23/09/2003.	'Tétrachloréthylène', 'PCE'	
+2013	02	19		2013	02	19		une_visite_d__inspection	La mise en sécurité du site ainsi que le démantèlement des installations a été constaté lors d'une visite d'inspection effectuée le 19/02/2013.		
+2010	09	13		2010	09	13		a_été_signé	Un arrêté complémentaire a été signé le 13/09/2010.		
+2004	03	29		2004	03	29		Un_nouveau_suivi	Un nouveau suivi a été réalisé le 29/03/2004 confirmant la contamination des eaux souterraines en chlorure de vinyle (35 µg/l).	'chlorure de vinyle'	
+1990	10	18		1990	10	18		exerçait	Elle y exerçait une activité de fabrication d'écran plat à cristaux liquides pour l'aéronautique autorisé par le récépissé de déclaration du 18/10/1990.		
+2002	12	20		2002	12	20		a_été_signé	L'arrêté de régularisation a été signé le 20/12/2002.		
+2001	04	23		2001	04	23		Une_fuite_de_solvant_a_été_constaté	Une fuite de solvant a été constaté sur le site le 23/04/2001.		
+2001	07	31		2001	07	31		Le_changement_du_nom	Le changement du nom de l'exploitant a été entériné par l'arrêté du 31/07/2001.		
+2007	01	09		2007	01	09		Une_visite	Une visite du site a été réalisé le 09/01/2007 au cours de laquelle la société THALES a présenté à l'Inspection des installations classées la solution retenue pour le traitement de la pollution au HAP est l'injection dans le sol d'un oxydant nommé réactif Fenton.	'HAP', 'oxydant', 'réactif Fenton'	'la société THALES'
+2013	02	19		2013	02	19		La_mise_en_sécurité	La mise en sécurité du site ainsi que le démantèlement des installations a été constaté lors d'une visite d'inspection effectuée le 19/02/2013.		

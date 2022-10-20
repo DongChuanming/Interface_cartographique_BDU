@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			communiqués	Le diagnostic initial et l'ESR ont été réalisés en mai 2000 et communiqués en juin 2002.		
+1999	08			1999	08			a_été_réalisée	L'étude historique et documentaire a été réalisée en août 1999.		
+2013	06			2013	06			la_surveillance	Les derniers résultats relatifs à la surveillance de juin 2013 montrent une amélioration de la qualité des eaux.		
+2003	03	03		2003	03	03		a_été_signé	Un arrêté préfectoral prescrivant la surveillance des eaux souterraines a été signé le 3 mars 2003.		
+2000	05			2000	05			Le_diagnostic_initial	Le diagnostic initial et l'ESR ont été réalisés en mai 2000 et communiqués en juin 2002.		
+2010				2010				s__est_engagée_à_mener_ce_diagnostic	Cette recommandation a été prise en compte par la société Nexans qui s'est engagée à mener ce diagnostic en 2010.		'la société Nexans'
+2011	10	24		2011	10	24		Ce_diagnostic	Ce diagnostic a été communiqué le 24 octobre 2011 : il comprend la réalisation de 3 sondages à proximité de l'atelier vernis.		
+2007	11			2007	11			a_relancé	L'inspection des installations classées a relancé fin novembre 2007 la société afin d'obtenir les résultats d'analyses relatives à la qualité des eaux souterraines (2006 et 2007) : les résultats des campagnes 2006 (reçus en décembre 2007) restent stables vis-à-vis des résultats 2005 excepté pour certains composés organo-halogénés volatils (COHV) et les hydrocarbures totaux notamment sur un piézomètre situé en amont hydraulique.	'certains composés organo - halogénés volatils', 'COHV', 'hydrocarbures totaux'	
+1998	10	28		1998	10	28		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 28 octobre 1998.		

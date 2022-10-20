@@ -1,0 +1,39 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04	15		2002	04	15		de_déclaration	Elle exploita un atelier de fabrication d'émulsion de bitume (réglementé par le récépissé de déclaration du 15/04/2002), un stockage aérien de liquides inflammables (autorisé par l'arrêté préfectoral du 30/01/1934), un réservoir souterrain de gazole de 5 000l (récépissé de déclaration du 25/06/1962) et un laboratoire.	'bitume', 'liquides inflammables', 'de gazole'	
+1928				1928				débute_son_installation	La société MONIN débute son installation sur le site en 1928.		'La société MONIN'
+				1930				a_été_construite	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+1973				1973				Le_transfert	Le transfert de la société STREICHENBERGER vers un second site a été réalisé en 1973.		'la société STREICHENBERGER'
+				1831				a_exploité	Celle-ci a exploité à partir de 1827 un atelier de construction de ligne de chemin de fer jusqu'en 1831.		
+2002				2002				a_été_démoli	Le centre de tri a été démoli en 2002 puis remblayé par des concassées de béton issu de la démolition.		
+2004	12			2004	12			a_été_déposé	Un projet de création d'une darse sur le site a été déposé au mois de décembre 2004 par la société SAEML LYON CONFLUENCE.		'la société SAEML LYON CONFLUENCE'
+2011	03	31		2011	03	31		la_dernière_en_date	Les résultats de 32 campagnes ont été renseignés à l'Inspection des Installations Classées dont la dernière en date a eu lieu le 31/03/2011.		
+2003				2003				ont_été_démolis	L'activité exercée était le stockage et la distribution de denrées alimentaires. les bâtiments ont été démolis en 2003.		
+1827				1827				entreprend	En 1827, la société SEGUIN FRÈRES entreprend la construction d'une gare d'eau sur le site.		'la société SEGUIN FRÈRES'
+2006	01	25		2006	01	25		a_été_mis_en_place	Le suivi des eaux souterraine a été mis en place à partir du 25/01/2006.		
+1953				1953				rachète	En 1953, la société COLAS rachète l'ensemble des terrains et reprend les activités exercées par la société MONIN.		'la société COLAS', 'la société MONIN'
+1829				1829				a_été_mise_en_place	La liaison Saint Etienne-Lyon y a été mise en place en 1829.		
+1954				1954				a_été_arrêté	L'activité de stockage de gaz a été arrêté en 1954.		
+1924				1973				exercée_sur	La société STREINCHENBERGER a exercée sur le site une activité de stockage et de distribution de gaz combustibles entre les années 1924 et 1973.	'combustibles'	'La société STREINCHENBERGER'
+1933				1953				est_la_propriété_de	De 1933 à 1953, le site est la propriété de la COMPAGNIE DU GAZ DE LYON.		'la COMPAGNIE DU GAZ DE LYON'
+1924				1973				une_activité_de_stockage_et_de_distribution_de_gaz_combustibles	La société STREINCHENBERGER a exercée sur le site une activité de stockage et de distribution de gaz combustibles entre les années 1924 et 1973.	'combustibles'	'La société STREINCHENBERGER'
+2004	10			2004	10			Un_diagnostic_approfondi	Un diagnostic approfondi ainsi qu'une nouvelle EDR ont été rédigé par SOGREAH en octobre 2004. 58 sondages ont été réalisés sur l'ensemble du site jusqu'à 9 mètres de profondeurs.		'SOGREAH'
+2008	03	21		2008	03	21		depuis_la_campagne	Des pollutions plus ponctuelles ont également été observées en BTEX (135 µg/l le 14/09/2008, plus de dépassements des valeurs fixés par l'arrêté du 17/12/2008 depuis la campagne du 21/03/2008) et en COHV (max à 30,8 µg/le 09/07/2007).	'BTEX', 'COHV'	
+				2008	06	18		a_été_mensuelle	La fréquence a été mensuelle jusqu'au 18/06/2008 puis est passé trimestrielle.		
+2003	07			2003	07			Des_investigations_ont_été_menées	Des investigations ont été menées sur le site en juillet 2003 par SOGREAH MAGELIS en vue d'évaluer l'état des sols au droit du projet d'implantation de la darse.	'la darse'	'SOGREAH MAGELIS'
+								fusionner	Elle a notamment été divisée en 2 partie distinctes en 1880 avant de fusionner au début des années 1900.		
+2006	01	25		2006	01	25		à	Le suivi des eaux souterraine a été mis en place à partir du 25/01/2006.		
+2004	05			2004	05			Une_évaluation_détaillée_des_risques	Une évaluation détaillée des risques a été rédigé au mois de mai 2004 par SOGREAH MAGELIS.		'SOGREAH MAGELIS'
+2003				2003				ont_cessé	Toutes les activités ont cessé sur le site en 2003.		
+1827				1827				a_exploité	Celle-ci a exploité à partir de 1827 un atelier de construction de ligne de chemin de fer jusqu'en 1831.		
+2011	03	31		2011	03	31		ont_été_renseignés	Les résultats de 32 campagnes ont été renseignés à l'Inspection des Installations Classées dont la dernière en date a eu lieu le 31/03/2011.		
+1834				1834				a_été_construite	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+								a_été_exploité	Ce site a été exploité par la GÉNÉRALE AGRICOLE INDUSTRIELLE ET COMMERCIALE depuis le début des années 1960.		'la GÉNÉRALE AGRICOLE INDUSTRIELLE', 'ET COMMERCIALE'
+1973				1973				rachète	La POSTE rachète l'ensemble du site en 1973 pour y implanter un centre de tri postal.		'La POSTE'
+				1933				est_détenue	A cette date, et jusqu'en 1933, le site est détenue par la COMPAGNIE DE CHEMIN DE FER DE SAINT ÉTIENNE ET DE LYON.		'la COMPAGNIE', 'DE CHEMIN DE FER DE SAINT ÉTIENNE', 'LYON'
+1856				1875				exploité	La première en date concerne un atelier de créosotage de traverses de chemins de fer exploité par les RESEAUX FERRES DE FRANCE entre 1856 et 1875.		'les RESEAUX FERRES DE FRANCE'
+1934				1934				est_exploité	Une partie du site est exploité par la société routière COLAS dés 1934.		'la société routière COLAS'
+				2008	06	18		est_passé_trimestrielle	La fréquence a été mensuelle jusqu'au 18/06/2008 puis est passé trimestrielle.		
+				1930				a_subit_de_nombreuses_modifications	L'usine a été construite en 1834 et a subit de nombreuses modifications jusque dans les année s1930.		
+1856				1856				sera_remblayée	Une partie de cette gare d'eau sera remblayée dés 1856 pour la construction d'un réseau de voies ferrées.		
+2010	09	21		2010	09	21		la_campagne	Les métaux ne sont dans la grande majorité plus détecté dans les eaux souterraines depuis la campagne du 21/09/2010.	'Les métaux'	
+2006	10	05		2006	10	05		Les_travaux_d__affouillement	Les travaux d'affouillement de la darse ont été autorisé par l'arrêté préfectoral du 05/10/2006.		

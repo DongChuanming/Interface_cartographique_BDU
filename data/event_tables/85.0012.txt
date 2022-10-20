@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								était_exploité	Le site était exploité depuis les années 1960.		
+2010				2010				a_été_liquidée	La société a été liquidée et le site mis à l'arrêt définitif en 2010.		
+2012				2012				Un_diagnostic	Un diagnostic de pollution des eaux souterraines a été réalisé en 2012.		
+2010				2010				mis_à_l__arrêt_définitif	La société a été liquidée et le site mis à l'arrêt définitif en 2010.		
+2012	2011			2012	2011			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été réalisé en 2011/2012.		

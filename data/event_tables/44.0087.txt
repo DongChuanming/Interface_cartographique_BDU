@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	01			a_utilisé	La société DLE SPECIALITES qui fabriquait des armoires électriques a utilisé ce terrain, propriété de Foncière des Régions, jusqu'en janvier 2011, date à laquelle la société a restitué le site à son bailleur.		'La société DLE SPECIALITES'
+2011	04			2011	04			ont_été_purgées	Ces cuves ont fait l'objet d'une évacuation et les terres encaissantes ont été purgées en avril 2011.		
+2014	06	30		2014	06	30		fait_l__objet	Conformément au plan de gestion en date du 2 juin 2014, quatre d'entre elles (A, C, D et E) ont fait l'objet d'une dépollution avant le 30 juin 2014, étant précisé que la cinquième zone (B) devra probablement être traitée en deux temps.		
+2014	09			2014	09			L__évacuation	L’évacuation de la totalité des terres polluées excavées a été complétée par une intervention fin septembre 2014.		
+2014	06	30		2014	06	30		devait_effectuer_des_travaux_de_dépollution	Dans le cadre de la cessation d'activité par l'exploitant DLE SPECIALITES, celui-ci devait effectuer des travaux de dépollution du site avant le 30 juin 2014.		'DLE SPECIALITES'
+2007				2014				des_diagnostics	L'ensemble des diagnostics effectués de 2007 à 2014 a mis en évidence 5 zones sources de pollution (voir plan cartographique 2 partie B).		
+2014	04			2014	04			des_sondages_complémentaires	Afin de définir les extensions latérales des zones sources identifiées, des sondages complémentaires ont été réalisés en avril 2014.		
+2014	06	02		2014	06	02		fait_l__objet	Conformément au plan de gestion en date du 2 juin 2014, quatre d'entre elles (A, C, D et E) ont fait l'objet d'une dépollution avant le 30 juin 2014, étant précisé que la cinquième zone (B) devra probablement être traitée en deux temps.		
+2011	03			2011	03			a_été_démantelé	*à l'ouest de ce bâtiment, un transformateur diélectrique au pyralène a été démantelé et évacué, conformément à la réglementation, en mars 2011;	'pyralène'	
+2014	12	23		2014	12	23		a_été_notifié	Le 23 décembre 2014, un récépissé de déclaration de cessation d’activité a été notifié à l'exploitant par le préfet.		'le préfet'

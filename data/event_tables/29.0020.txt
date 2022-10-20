@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				de_nouvelles_études	L'exploitant a fait réaliser au printemps 2001 de nouvelles études.		
+								a_été_exploitée	Une conserverie a été exploitée sur le site avant la 2è guerre mondiale jusqu'au début des années 1970.		
+2004				2004				Les_dernières_analyses_réalisées	Les dernières analyses réalisées au printemps 2004 montrent une contamination aux hydrocarbures réduite dans les eaux.	'hydrocarbures'	
+1995				1995				des_investigations	En 1995, suite à un recours déposé par le riverain pour pollution d'un cours d'eau par des hydrocarbures, des investigations ont été menées.	'hydrocarbures'	
+2011				2011				L__analyse	L'analyse des eaux depuis 2011, ne montre pas d'impact du site sur le milieu.		

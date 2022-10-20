@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04	25		2007	04	25		les_travaux_de_de_modernisation_de	Cependant, les travaux de de modernisation de la distribution en Avril 2007 ont nécessité le retrait des drains, le traitement s'est arrêté et le rapport de fin de travaux a été édité le 25/04/2007.		
+2017	03			2017	03			La_dernière_campagne	La dernière campagne datant de mars 2017 montre des dépassements des objectifs au droit de PZ12, PZ15, PZ19 et PZ23.		
+2009	03	20		2009	03	20		encadrés_par	Les travaux sont encadrés par l'AP du 20/03/2009.		
+2007				2007				depuis_sont_lancement	En Décembre 2008, le dispositif de traitement de la nappe avait permis de récupérer 270L d'hydrocarbures depuis sont lancement en 2007.	'hydrocarbures'	
+								a_été_mis_en_place	Un dispositif de pompage-traitement a été mis en place le 4/04/16 au droit  de PZ1, PZ9, PZ11, PZ12, PZ15 et PZ16 a permis à ce jour de pomper 2070m3 d'hydrocarbures.	"d' hydrocarbures"	
+2007	04	25		2007	04	25		le_retrait_des_drains	Cependant, les travaux de de modernisation de la distribution en Avril 2007 ont nécessité le retrait des drains, le traitement s'est arrêté et le rapport de fin de travaux a été édité le 25/04/2007.		
+2007	04	25		2007	04	25		a_été_édité	Cependant, les travaux de de modernisation de la distribution en Avril 2007 ont nécessité le retrait des drains, le traitement s'est arrêté et le rapport de fin de travaux a été édité le 25/04/2007.		
+2007	04	23		2007	04	23		Un_diagnostic_complémentaire_de_sols	Un diagnostic complémentaire de sols a donc été effectué le 23/04/2007.		
+2006	03	07		2006	03	07		a_été_connecté	Le conteneur de dépollution a été connecté le 7/03/2006 et le Venting s'effectuait par l'intermédiaire d'un extracteur d'air équipé d'un condensat.		
+2009	04	06		2009	04	06		a_été_rédigé	Afin d'apporter une solutions pérenne de traitement sur le site, un plan de gestion a été rédigé le 06/04/2009.		
+2009	04			2009	04			des_travaux_du_tunnel_de	De plus, la synthèse des travaux du tunnel de fin Avril 2009 démontre que les travaux ont dépassé la limite de l'emprise de la station et qu'aucune action environnementale par rapport au chantier n'est préconisée.		
+2005	10	26		2005	10	26		la_mise_en_place_des_drains	Le traitement par Venting a débuté par la mise en place des drains le 26/10/2005.		'Venting'
+2017	06			2017	06			est_mis_en_place	L'ouvrage PZ19 étant le plus touché, un dispositif de pompage-traitement au droit de cet ouvrage est mis en place en juin 2017.		
+2006	03			2006	03			a_fait_l__objet	De plus, à partir de Mars 2006, PZ1 a fait l'objet de campagnes d'écrémage successives (73L d'hydrocarbures récupérés).	'hydrocarbures'	
+2007	04			2007	04			les_travaux_de_de_modernisation_de	Cependant, les travaux de de modernisation de la distribution en Avril 2007 ont nécessité le retrait des drains, le traitement s'est arrêté et le rapport de fin de travaux a été édité le 25/04/2007.		
+				2005	05			Des_investigations_réalisées	Des investigations réalisées entre Février et Mai 2005 avaient montré des anomalies gazeuses au niveau des volucompteurs de distribution, du parc à cuve Est et de la sortie de la station service ainsi que la présence de gaz dans certains regards électriques proches des îlots volucompteurs.		
+2005	10	26		2005	10	26		Le_traitement_par_Venting	Le traitement par Venting a débuté par la mise en place des drains le 26/10/2005.		'Venting'

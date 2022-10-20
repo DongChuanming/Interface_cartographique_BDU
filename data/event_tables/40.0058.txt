@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	26		2009	10	26		ont_été_décaissées	Dans la semaine du 26/10/2009, 260 t de terres ont été décaissées  sur 20 à 30 cm. elles sont stockées sur site, sous bâche.		
+2009	10			2009	10			La_campagne_d_	La campagne d'octobre 2009 donne les résultats suivants :		
+1981	05	06		1981	05	06		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 6 mai 1981.		
+2006	01			2006	01			l__étanchéification	En janvier 2006, l'étanchéification de la rétention associée à l'un des 2 bacs de trempage est annoncée, mais sans élément de justification de sa réalisation.		
+2007	10	22		2007	10	22		et_au_diagnostic_approfondi_du	Suite aux mauvais résultats des eaux souterraines du 19/06/2007 et au diagnostic approfondi du 22/10/2007, sur proposition de la DRIRE du 23/11/2007, l'arrêté préfectoral du 04/03/2009 prescrit les mesures de gestion du site pour :		'la DRIRE'
+								La_campagne	La campagne du 19/06/07 montre un impact persistant de la nappe et du fossé par le propiconazole(180 µg/l), le tébuconazole (26 µg/l) et la cyperméthrine (6 µg/l).	'le propiconazole(180', 'le tébuconazole', 'la cyperméthrine'	
+2008	09	15		2008	09	15		La_campagne	La campagne du 15 septembre 2008 montre une absence de contamination en hydrocarbures totaux et cyperméthrine, met en évidence la persistance sur et à l'extérieur du site, d'une contamination des eaux souterraines et superficielles par le propiconazole.	'hydrocarbures totaux', 'cyperméthrine', 'le propiconazole'	
+2014	10			2014	10			la_cessation_d__activité	Suite à la cessation d'activité et à la liquidation judiciaire de la société SOUBAIGNE en octobre 2014, une inspection a été convenue avec Me Guérin pour réaliser un point de la situation et un état des lieux.		'la société SOUBAIGNE'
+2006	01			2006	01			La_campagne_de	La campagne de janvier 2006 montre que le PCPNa et l'aldrine sont détectés dans la nappe à l'état de traces.	'le PCPNa', "l' aldrine"	
+2014	10	21		2014	10	21		est_en_liquidation_judiciaire	La société est en liquidation judiciaire le 21/10/2014.		
+2007	10	22		2007	10	22		Cette_étude_remise	Cette étude remise le 22/10/2007 confirme la présence  de deux zones de pollution des sols :		
+2004	09	16		2004	09	16		sont_remis	Les rapports d'étape A et d'étape B et d'ESR sont remis le 16/09/2004 et le 28/07/2005.		
+				1992				sont_utilisés	- Le PCP et l'aldrine sont utilisés jusqu'en 1992,	'Le PCP', 'aldrine'	
+2014	10			2014	10			une_inspection	Suite à la cessation d'activité et à la liquidation judiciaire de la société SOUBAIGNE en octobre 2014, une inspection a été convenue avec Me Guérin pour réaliser un point de la situation et un état des lieux.		'la société SOUBAIGNE'
+				2005	07	28		sont_remis	Les rapports d'étape A et d'étape B et d'ESR sont remis le 16/09/2004 et le 28/07/2005.		
+1998				2004				n__y_aurait_pas_eu_de_surveillance	A noter qu'il n'y aurait pas eu de surveillance entre 1998 et 2004.		
+1945				1945				a_été_fondée	L’entreprise familiale a été fondée en 1945.		
+2015	08	04		2015	08	04		Elle_a_lieu	Elle a lieu le 4 août 2015. 5 écarts, 8 demandes et 1 observation ont été formulés dans le rapport d'inspection.		

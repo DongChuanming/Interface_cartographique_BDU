@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985	01	18		1985	01	18		est_signé	Un arrêté d'autorisation d'exploiter est signé pour ce groupe le 18/01/1985.		
+1989				1989				est_cédée	En 1989, la section "anti-corrosion" est cédée à la société ANTIROUILLE.		'la société ANTIROUILLE'
+2011	05	13		2011	05	13		ont_été_communiqués	Les bordereaux ont été communiqués à l'administration par un courrier daté du 13/05/2011.		
+2008	02	13		2008	02	13		mémoire_de_cessation_d__activité	Le mémoire de cessation d'activité, comprenant le rapport des investigations précédentes, a été remis à l'Inspection des installations Classées le 13/02/2008.		
+2001	11	21		2001	11	21		est_signé_autorisant	Le 21/11/2001, un arrêté de prescriptions spéciales est signé autorisant la C.		
+2017	07	07		2017	07	07		a_informé	Le 7 juillet 2017 le liquidateur a informé l’inspection des installations classées qu'il n'avait pas été en mesure de réaliser ces nouvelles investigations.		
+2007	10			2007	10			au_mois_d_	Un diagnostic initial des sols a été réalisé au mois d'octobre 2007 par la société GALTIER EXPERTISE ENVIRONNEMENT. 6 sondages ont été réalisés sur l'ensemble du site.		'la société GALTIER EXPERTISE ENVIRONNEMENT'
+2007				2007				a_néanmoins_imposé	Compte tenu de l’insuffisance des sondages réalisés en 2007, le préfet du Rhône a néanmoins imposé au liquidateur par arrêté du 09/06/2011 :		'le préfet du Rhône'
+2006	03	01		2006	03	01		tombe_en_redressement_judiciaire	LACOLLONGE FRANCE tombe en redressement judiciaire le 01/03/2006, Maitre Bruno WALCZAK est nommé mandataire de justice.		'LACOLLONGE FRANCE', 'Maitre Bruno WALCZAK'
+2006	01	01		2006	01	01		la_cessation_d__activité	Le 01/01/2006, la cessation d'activité sur le site est effective.		
+1993	07	05		1993	07	05		le_partage_de_l__exploitation	Le 5/07/1993, cette société déclare le partage de l'exploitation du site avec la société GCI Caoutchouc.		'la société GCI Caoutchouc'

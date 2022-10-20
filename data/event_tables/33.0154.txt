@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				septembre_2005	Les résultats de Décembre 2003 à septembre 2005 montrent l'absence d'hydrocarbures totaux (HCTX) au niveau des piézomètres PZ3 et PZ4 situés en aval hydraulique de la station service.	'situés en aval hydraulique', 'de la station'	
+2008				2008				Les_analyses_de	Les analyses de 2006 à 2008 montrent un faible impact sur le nappe en HCT et BTEX.	'et BTEX .'	
+2016	06			2016	06			L__arrêté_préfectoral_du_01	L'arrêté préfectoral du 01 juin 2016 suspend la surveillance des eaux souterraines suite aux rapports de surveillance des eaux souterraines réalisés par ATI Services et ses conclusions en date du 30 septembre 2015 qui ont permis de constater l'absence de teneurs en hydrocarbures totaux et l'absence de teneurs en BTEX dans la nappe.	'suite aux rapports', 'surveillance des'	
+2013	07	10		2013	07	10		2011___2012_____les	Lors des travaux de réfection de la voirie (2011-2012), les piézomètres ont été détruits, trois nouveaux piézomètres ont été installés le 10 juillet 2013.		
+2006				2006				Les_analyses_de	Les analyses de 2006 à 2008 montrent un faible impact sur le nappe en HCT et BTEX.	'et BTEX .'	

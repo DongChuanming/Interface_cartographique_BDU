@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				une_vidange	En 2010, une vidange des lagunes de stockage des lixiviats a été réalisée.		
+2008	01	30		2008	01	30		les_normes_de_rejet	Suite à l’inspection du 30 janvier 2008, les normes de rejet des lixiviats autorisées sont dépassées pour les paramètres DCO (analyse du 17/10/2007) et Azote Global (analyse du 28/12/2007).	'DCO', 'Azote Global'	
+2005	08			2005	08			est_découverte	En août 2005, une ancienne décharge est découverte sous un chantier autoroutier sur le territoire de la ville de Joué-lès-Tours, à proximité immédiate des installations du SMICTOM de la Billette.		
+2009	07	1		2009	07	1		la_mise_en_conformité	Par arrêté préfectoral complémentaire du 22 avril 2008, il a été prescrit la mise en conformité de l’installation de stockage susvisée avant le 1er juillet 2009, ou, à défaut, son arrêt à compter de cette échéance.		
+2014	03			2014	03			ont_été_publiés	De nouvelles analyses ont été prescrites par l’inspection et les résultats ont été publiés par l’exploitant sur le site de l’INERIS en mars 2014 dans le cadre des Rejets de Substances Dangereuses dans les Eaux (RSDE).	'Substances'	
+2009	12	21		2009	12	21		est_pris	Le 21 décembre 2009, un arrêté préfectoral portant institution de servitudes d’utilité publique sur la zone de stockage de déchets non dangereux est pris.		
+1976				1976				est_exploitée	L’installation est exploitée par la SMICTOM de la Billette dès 1976.		'la SMICTOM'
+2005				2005				est_assurée_par	De 2005 à 2007, l’exploitation est assurée par la société COVED SA dans le cadre d’une délégation de service.		'la société COVED SA'
+2011	06	27		2011	06	27		de_l__inspection	Lors de l’inspection du 27 juin 2011, il a été constaté le remplacement des pompes défaillantes et la réalisation d’un rapport sur le contrôle des réseaux.		
+2011	06	27		2011	06	27		le_remplacement_des_pompes	Lors de l’inspection du 27 juin 2011, il a été constaté le remplacement des pompes défaillantes et la réalisation d’un rapport sur le contrôle des réseaux.		
+2009	12	23		2009	12	23		a_été_pris	Un arrêté de changement d’exploitant a été pris le 23 décembre 2009.		
+2010				2010				aux_mesures	Il a été demandé à l’exploitant de procéder aux mesures de la qualité des eaux pluviales susceptibles d’être souillées depuis l’implantation du débourdeur-déshuileur en 2010.		
+2008	09	29		2008	09	29		l__inspection	Lors de l’inspection du 29 septembre 2008, les analyses relatives aux lixiviats dans les lagunes respectent les valeurs limites de l’arrêté préfectoral suite à la mise en place par l’exploitant d’un système de pompage des lixiviats permettant d’éviter les phénomènes de sur verse et de rejets en milieu naturel.		
+1986				1986				une_extension	Elle a fait l'objet d'une extension en 1986 à la suite d'une augmentation significative d'ordures ménagères à traiter.		
+2005	11	08		2005	11	08		a_été_autorisé	Par un arrêté préfectoral du 08 novembre 2005, le SMICTOM de la Billette a été autorisé à poursuivre l’exploitation des installations suivantes :		'le SMICTOM'
+2017	09	21		2017	09	21		Une_visite_d__inspection	Une visite d’inspection a été réalisée le 21 septembre 2017 et la mise en sécurité du site a été effectuée sur les éléments suivants :		
+2007				2007				est_assurée_par	De 2005 à 2007, l’exploitation est assurée par la société COVED SA dans le cadre d’une délégation de service.		'la société COVED SA'
+2017	02	28		2017	02	28		Un_diagnostic	Un diagnostic de pollution du sol au droit du terrain a été réalisé le 28 février 2017.		
+2013	03			2013	03			a_transmis	En mars 2013, l’exploitant a transmis un rapport de surveillance de l’installation.		
+2017	04	18		2017	04	18		un_dossier_de_cessation_d__activité	La communauté d’agglomération Tour(S)Plus a déposé un dossier de cessation d’activité le 18 avril 2017.		'La communauté d’ agglomération Tour(S)Plus'
+2008	04	22		2008	04	22		la_mise_en_conformité	Par arrêté préfectoral complémentaire du 22 avril 2008, il a été prescrit la mise en conformité de l’installation de stockage susvisée avant le 1er juillet 2009, ou, à défaut, son arrêt à compter de cette échéance.		
+2010	01	1		2010	01	1		est_dissout	A compter du 1er janvier 2010, le SMICTOM de la Billette est dissout du fait de l’intégration de la communauté de la confluence au sein de la communauté d’agglomérations Tour(s)Plus.	'communauté d’'	'le SMICTOM', 'la', 'agglomérations Tour(s)Plus'

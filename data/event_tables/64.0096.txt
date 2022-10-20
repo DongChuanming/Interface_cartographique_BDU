@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_cessé_son_activité	Elle a cessé son activité en 2008, suite à l'arrêté préfectoral n°08/IC/036 de mesures d'urgence du 13 février 2008.		
+2005	06			2005	06			une_étude_préalable_de_diagnostics	Cette consignation a été levée le 28 juin 2008 suite à la remise d'une étude préalable de diagnostics de sites, réalisée par le cabinet BERRE en juin 2005 selon la méthodologie défini par l'ADEME, et à un projet de réhabilitation réalisé par le cabinet SAFEGE en mars 2008.		'le cabinet BERRE', 'le cabinet SAFEGE'
+2011	09			2011	09			se_sont_achevés	Ces travaux ont été réalisés et se sont achevés en septembre 2011, sur la base des recommandations du rapport SAFEGE de mars 2008.		
+2011	09			2011	09			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés et se sont achevés en septembre 2011, sur la base des recommandations du rapport SAFEGE de mars 2008.		
+2011	12	12		2011	12	12		Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité ont été réalisés et achevés le 12/12/2011.		
+2004	03	30		2004	03	30		les_travaux_de_la_remise_en_état_du_site	L'arrêté préfectoral n° 04/IC/131 du 30 mars 2004 prescrit les travaux de la remise en état du site.		
+2008				2008				a_été_suspendu	L'apport des déchets a été suspendu en 2008.		
+2008	03			2008	03			un_projet_de_réhabilitation	Cette consignation a été levée le 28 juin 2008 suite à la remise d'une étude préalable de diagnostics de sites, réalisée par le cabinet BERRE en juin 2005 selon la méthodologie défini par l'ADEME, et à un projet de réhabilitation réalisé par le cabinet SAFEGE en mars 2008.		'le cabinet BERRE', 'le cabinet SAFEGE'
+2008	03			2008	03			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés et se sont achevés en septembre 2011, sur la base des recommandations du rapport SAFEGE de mars 2008.		
+2008	02	13		2008	02	13		a_été_engagée	Aucun document n'ayant été remis, une procédure de consignation (d'un montant de 15 000 euros) a été engagée à l'encontre de la commune de Bardos, par arrêté préfectoral n° 08/IC/037 du 13 février 2008.		
+				2008				Des_apports_ponctuels	Des apports ponctuels ont été réalisés jusqu'en 2008.		
+2008	06	28		2008	06	28		a_été_levée	Cette consignation a été levée le 28 juin 2008 suite à la remise d'une étude préalable de diagnostics de sites, réalisée par le cabinet BERRE en juin 2005 selon la méthodologie défini par l'ADEME, et à un projet de réhabilitation réalisé par le cabinet SAFEGE en mars 2008.		'le cabinet BERRE', 'le cabinet SAFEGE'
+1960				1998				a_été_exploitée_sans_autorisation	Elle a été exploitée sans autorisation de 1960 à 1998.		
+2011	09	30		2011	09	30		Une_visite	Une visite du site le 30 septembre 2011 a permis de constater que :		

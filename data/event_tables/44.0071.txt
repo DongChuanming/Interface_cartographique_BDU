@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	28		2009	09	28		ayant_notifié_sa_cessation_d__activité	La parcelle correspond à l'emprise de l'ancien entrepôt frigorifique de la société STEF, installation classée pour la protection de l'environnement depuis 1980 au titre de la rubrique 1510 ayant notifié sa cessation d'activité le 28 septembre 2009.		'la société STEF'
+2014	02	06		2014	02	06		ces_études_ont_été_demandées	L'ensemble de ces études ont été demandées à Nantes métropole, propriétaire du site, par courrier de l'inspection des installations classées du 6 février 2014.		'Nantes métropole'
+2010	04			2010	04			a_subit_un_incendie	Le site a subit un incendie en avril 2010 avant qu'un diagnostic du sol ne soit réalisé.		

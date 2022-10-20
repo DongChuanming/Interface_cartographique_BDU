@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic_approfondi	Au vu de ces éléments, un diagnostic approfondi et une évaluation simplifiée des risques ont été réalisés en 2006 (Rapport Enviro Services France du 14 septembre 2006, RM-2005021-B) sur la zone des sous-produits.	'sous-produits'	
+2010				2010				a_été_curé	En 2010 , le bac de l’ancien poste de chargement contenant des matériaux goudronneux a été curé, sans purge de sol à l’extérieur de celle-ci.	'matériaux goudronneux'	
+2008				2008				l__extension_de_la_pollution	En 2008, l'ancien exploitant a déterminé l’extension de la pollution au droit et autour des séoles.		
+								une_requalification	Il jouxte l'ancienne usine sidérurgique de Moyeuvre-Grande, qui a fait l'objet d'une requalification par l'EPFL dans les années 2000.		
+1999	11			1999	11			réalisées_sur	Les investigations réalisées dans le cadre de l’étude de sols et de l’Evaluation Simplifiée des Risques réalisées sur la zone de l’ancienne cokerie en novembre 1999 (Rapport LECES RC/L 5108) ont mis en évidence trois zones principales de contaminations des sols :		
+2009				2009				ont_été_effectuées	En 2009, des analyses de gaz du sol ont été effectuées au droit de l’ancienne cokerie.		
+1975				1985				a_été_menée	Une activité post-sidérurgique a été menée de 1975 à 1985 : ce site a été utilisé pour le stockage de minerai de fer.		
+2010				2010				Des_investigations_complémentaires	Des investigations complémentaires afin de délimiter l'extension de la pollution ont été réalisées en 2010-2011.		
+1977				1977				s__est_achevé	Le démantèlement de l'ancienne cokerie a débuté en 1973 et s’est achevé en 1977.		
+2011				2011				Des_investigations_complémentaires	Des investigations complémentaires afin de délimiter l'extension de la pollution ont été réalisées en 2010-2011.		
+2010	11			2010	11			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en novembre 2010.		
+1973				1973				Le_démantèlement_de	Le démantèlement de l'ancienne cokerie a débuté en 1973 et s’est achevé en 1977.		
+1975				1975				ont_cessé_leurs_activités	Ces deux sites sidérurgiques ont cessé leurs activités en 1975.		
+1977				1977				Le_démantèlement_de	Le démantèlement de l'ancienne cokerie a débuté en 1973 et s’est achevé en 1977.		

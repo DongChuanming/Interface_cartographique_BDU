@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				les_actions	Lors de la réunion du comité de pilotage ayant eu lieu fin 2011, il a été décidé de réaliser avant début 2012 les actions suivantes:		
+								la_mise_en_place	- la mise en place pendant 8 mois d'un enregistreur automatique de niveau d'eau dans un des piézomètres,		
+2012	04	17		2012	04	17		de_la_réunion	Un contrôle de la qualité de l'air à été effectué en mars, et le rapport a été présenté au comité de pilotage lors de la réunion du 17 avril 2012.		
+2010				2010				ont_été_implantés	En 2010, 4 piézomètres ont été implantés à l'extérieur du site.		
+2011				2011				inclut	Ce comité de pilotage inclut depuis 2011 un hydrogéologue agréé en matière d'hygiène publique mandaté par l'ARS.		
+2012				2012				La_mise_en_place_d_	La mise en place d'un enregistreur automatique de niveau d'eau dans un des piézomètres et la réalisation d'analyses mensuelles des COHV en complément du suivi semestriel des eaux souterraines seront effectives courant 2012.		
+2011				2011				de_la_réunion	Lors de la réunion du comité de pilotage ayant eu lieu fin 2011, il a été décidé de réaliser avant début 2012 les actions suivantes:		
+1999				1999				a_été_caractérisé	L'état environnemental du site (sols et eaux souterraines) a été caractérisé via de nombreuses études depuis 1999.		
+2009	08	04		2009	08	04		a_prescrit_par_arrêté	Le 4 août 2009, le préfet de Loir et Cher a prescrit par arrêté à la société DELPHI:		'le préfet de Loir', 'la société DELPHI'
+2005				2005				ne_sont_plus_utilisés	Les solvants chlorés ne sont plus utilisés sur le site, depuis la fin 2005.	'solvants chlorés'	
+2011	08			2011	08			la_campagne_de_prélèvements	Les résultats de la campagne de prélèvements d'août 2011 attestent de la présence de COHV localement détecté sur site et hors site à des concentrations supérieures aux valeurs guides de l'arrêté du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine.	'COHV'	
+								Un_contrôle	Un contrôle de la qualité de l'air à été effectué en mars, et le rapport a été présenté au comité de pilotage lors de la réunion du 17 avril 2012.		
+2011	12			2011	12			l__inventaire	- l'élaboration d'un plan de restriction d'usage des eaux souterraines (suite à l'inventaire en décembre 2011 des puits existants en aval du site).		
+2012	04	17		2012	04	17		a_été_présenté	Un contrôle de la qualité de l'air à été effectué en mars, et le rapport a été présenté au comité de pilotage lors de la réunion du 17 avril 2012.		
+2012	03	1		2012	03	1		a_été_validé_lors_de	Le rapport détaillant le plan de gestion et datant du 17 janvier 2012 a été validé lors de la réunion avec les services de l'Inspection du 1er mars 2012.		
+1959				1959				est_exercée	L’activité liée à l’industrie automobile y est exercée depuis 1959.		
+2011				2011				est_mis_en_place	Un nouveau réseau de surveillance piézométrique plus éloigné incluant les ouvrages existants appartenant à d'autres exploitants est mis en place en 2011 pour délimiter l'extension de la pollution des eaux souterraines.		
+2010	06	1		2010	06	1		a_été_mis_en_oeuvre	Ce dispositif a été mis en oeuvre le 1er juin 2010.		

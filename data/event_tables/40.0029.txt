@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_analyses	Les analyses du 1er trimestre 2012 montrent une contamination de la nappe par:		
+1966	1963			1966	1963			a_été_repris	Les activités ont cessé définitivement en 1962 et le site a été repris par la CCIB dans les années 1963/1966.		'la CCIB'
+2002	07	17		2002	07	17		Les_études_remises	Les études remises les 11 octobre 1999 et 17 juillet 2002 classent le site en 2 "à surveiller" pour l'usage du moment.		
+2010				2010				a_demandé_la_réalisation_de_compléments_d__études	Suite au dépôt du dossier de cessation d’activité du site en 2010, l’inspection a demandé la réalisation de compléments d’études, notamment au regard de l’usage futur du site envisagé par TIMAC AGRO.		'TIMAC AGRO'
+2014				2014				Le_diagnostic_complémentaire_réalisé	Le diagnostic complémentaire réalisé par Antea Group en 2014 cible les milieux sols, eaux souterraines, eaux de surface, air et végétaux au droit mais également à l’extérieur du site.		'Antea Group'
+								__le_démantèlement_des_installation	Depuis sa construction  au début des années 60, l'usine AGRIVA a subi peu de mutation de ses installations de production si ce n'est, au milieu des années 80, le démantèlement des installation de fabrication d'acide sulfurique et d'acide phosphorique et, tout récemment, l'édification d'un nouveau magasin de stockage des matières premières solides et d'un bâtiment de dosage et de mélange.	"d' acide sulfurique", "d' acide phosphorique", 'matières premières solides'	'usine AGRIVA'
+								Des_études_effectuées	Des études effectuées sur ces matériaux par le BRGM dans les années 90 avaient conclu à leurs faible lixiviabilité ( capacité de re largage) et leur faible pouvoir bio-mobilisable ( action sur le vivant).		'le BRGM'
+2005	08	25		2005	08	25		L__étude_remise	L'étude remise le 25/08/2005 montre que les salariés du site et les personnes proches du site ne présente aucun risque de recevoir des doses efficaces annuelles ajoutés supérieures à 1mSv, cette dose serait divisée par 10.		
+								a_perduré	Le crassier des Forges a perduré sur le site jusqu'au début des années 80 et ses matériaux ont été utilisés pour divers ouvrages routiers de l'agglomération Bayonnaise ( échangeur de Bayonne Nord, carrefour saint Léon, etc…).	'Forges'	
+2002				2002				les_besoins_du_diagnostic	Trois piézomètres ont été installés pour les besoins du diagnostic de 1999 et de 2002.		
+2010				2010				dépôt	Suite au dépôt du dossier de cessation d’activité du site en 2010, l’inspection a demandé la réalisation de compléments d’études, notamment au regard de l’usage futur du site envisagé par TIMAC AGRO.		'TIMAC AGRO'
+2006	09	14		2006	09	14		prescrit	Toutefois, de part la radioactivité des produits utilisés, l'arrêté préfectoral du 14 mars 2005 prescrit l'évaluation simplifiée du risque radioactif à l'échéance du 14 septembre 2006.		
+2010	07			2010	07			le_dépôt_d__un_dossier_de_cessation_d__activité	En 2010, c'est le broyage pour la production de fertilisants est arrêtée à son tour déclenche le dépôt d'un dossier de cessation d'activité en juillet 2010.		
+2003				2003				demande_un_état_des_lieux_radiologique	En 2003, l'inspection demande un état des lieux radiologique du site qui est réalisé en février 2004 par ALGADE.		'ALGADE'
+2008				2008				Les_campagne	Les campagne de 2007 et 2008 confirme les valeurs de 2002 et la quasi absence d'impact sur la nappe.		
+2007				2007				Les_campagne	Les campagne de 2007 et 2008 confirme les valeurs de 2002 et la quasi absence d'impact sur la nappe.		
+2012				2012				Les_analyses	Les analyses du 1er trimestre 2012 montrent une contamination de la nappe par:		
+1963				1963				s__est_installée	L'usine s'est installée sur la zone portuaire de Tarnos en 1963 dans l'estuaire de l'Adour.		
+1999	10	11		1999	10	11		Les_études_remises	Les études remises les 11 octobre 1999 et 17 juillet 2002 classent le site en 2 "à surveiller" pour l'usage du moment.		
+2012	02	15		2012	02	15		le	le 15 février 2012, les terrains cédés ne sont ni occupés par des installations, ni encombrés par des matériaux ou des déchets de quelque nature que ce soit.		
+1962				1962				ont_cessé_définitivement	Les activités ont cessé définitivement en 1962 et le site a été repris par la CCIB dans les années 1963/1966.		'la CCIB'
+2003				2003				est_arrêtée	En 2003, l'activité de broyage de minerais sur le site de Boucau (64) est arrêtée.		'Boucau'
+2010	02	24		2010	02	24		Le_procès_verbal_de_récolement	Le procès-verbal de récolement est dressé le 24/02/2010.		
+1999				1999				les_besoins_du_diagnostic	Trois piézomètres ont été installés pour les besoins du diagnostic de 1999 et de 2002.		
+2004	02			2004	02			demande_un_état_des_lieux_radiologique	En 2003, l'inspection demande un état des lieux radiologique du site qui est réalisé en février 2004 par ALGADE.		'ALGADE'
+2008	06	20		2008	06	20		La_cessation_partielle_d__activité	La cessation partielle d'activité est déclarée le 20/06/2008.		
+1877				1877				a_été_occupée	La zone industrielle dans laquelle se situe AGRIVA a été occupée, à partir de 1877, par les Forges de l'Adour appartenant à la Compagnie des Forges et Aciéries de la Marine et des Chemins de Fer.		'AGRIVA', 'les Forges', 'la Compagnie des Forges', 'Aciéries de la Marine'
+1986				1986				l__évolution	L'activité découle de l'évolution de 1986 par l'arrêt de la fabrication d'acide sulfurique et phosphorique.	'acide sulfurique', 'phosphorique'	

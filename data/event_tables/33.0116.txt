@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_arrêtée	L'exploitation a été arrêtée fin 2000 et la remise en état a été achevée en 2005.		
+2005				2005				a_été_achevée	L'exploitation a été arrêtée fin 2000 et la remise en état a été achevée en 2005.		
+2006	11	15		2006	11	15		La_campagne	La campagne du 15/11/2006 laisse toujours apparaitre une pollution des eaux souterraines en DCO, azote et sulfates.	'DCO', 'azote', 'sulfates'	
+2009				2009				une_fuite_apparait	En 2008, une fuite apparait à l’angle du massif coté Nord-Ouest puis, 60 mètres plus au sud en 2009, sur le drain historique, provenant de pressions interstitielles et soulevant la géomembrane.		
+2009				2009				à_nouveau_observées	Les fuites sur cette partie sont à nouveau observées dès l’hiver 2009-2010.		
+2010	12			2010	12			se_propose_de	En décembre 2010, le SMICVAL se propose de lancer un marché ayant pour objet la réalisation d’une étude de diagnostic sur le centre d’enfouissement technique fermé de Saint Girons d’Aiguevives (33920).		'le SMICVAL'
+2000				2000				a_fait_l__objet_de	La décharge de Saint Girons d’Aiguevives a fait l’objet de deux tranches de réhabilitation en 2000 et 2005.		
+2010				2010				à_nouveau_observées	Les fuites sur cette partie sont à nouveau observées dès l’hiver 2009-2010.		
+2005				2005				Les_travaux_prescrits	Les travaux prescrits par l'arrêté du 22 avril 2004 sont achevés en 2005.		
+								la_collecte	Le 11/02/2011, l'inspection propose de prescrire sous 3 mois, par arrêté préfectoral, la collecte de suintements et leur traitement ainsi que l'analyse du fonctionnement hydraulique de la décharge.		
+2008				2008				une_fuite_apparait	En 2008, une fuite apparait à l’angle du massif coté Nord-Ouest puis, 60 mètres plus au sud en 2009, sur le drain historique, provenant de pressions interstitielles et soulevant la géomembrane.		
+2000				2000				a_été_arrêtée	L'exploitation a été arrêtée fin 2000 et la remise en état a été achevée en 2005.		
+2005				2005				a_fait_l__objet_de	La décharge de Saint Girons d’Aiguevives a fait l’objet de deux tranches de réhabilitation en 2000 et 2005.		

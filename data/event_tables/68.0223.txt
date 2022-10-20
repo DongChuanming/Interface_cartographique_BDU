@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				a_été_délivré	Un PV de récolement partiel et final a été délivré en ce sens le ?? 2017 pour cette portion du site (parcelles  et  de la section 10).		
+2014	11			2014	11			a_été_stoppée	La tour aéro-réfrigérante a été stoppée en novembre 2014.		
+2015	04	15		2015	04	15		la_cessation_de_son_activité	Le 15 avril 2015, la société MAHLE PISTONS a notifié au préfet la cessation de son activité pour ce site.		'la société MAHLE PISTONS'
+2014	01			2014	01			Les_analyses_de_sol_effectuées	Les analyses de sol effectuées en janvier 2014 (rapport RESINE03262-01) dans le cadre de la prévision de cessation d'activité met en évidence la présence de certaines sources de pollution des sols par des hydrocarbures et des solvants chlorés (COHV) au droit des citernes, des anciennes machines, où des zones de stockage de copeaux présentent également un impact en COHV.	'hydrocarbures', 'solvants chlorés', 'COHV', 'copeaux', 'COHV'	
+2013	12	31		2013	12	31		a_arrêté_sa_production	Le site a arrêté sa production le 31 décembre 2013.		
+2017	06	23		2017	06	23		a_été_délivré_en	Un PV de récolement partiel a été délivré en ce sens le 23 juin 2017 pour cette portion du site (parcelles 725/41 et 719/54 de la section 10).		
+2015	10	05		2015	10	05		La_mise_en_sécurité	La mise en sécurité du site a été constatée par l’inspection du 5 octobre 2015.		
+2015	04	15		2015	04	15		la_cessation_de_son_activité	Le 15 avril 2015, la société MAHLE PISTON a notifié au préfet la cessation de son activité pour ce site.		'la société MAHLE PISTON'
+1959	03	06		1959	03	06		a_été_occupé	Le site a été occupé par la société ALMALITE fabriquant des objets électroniques autorisé par arrêté préfectoral du 6/03/1959.		'la société ALMALITE'
+2015	04	21		2015	04	21		a_délivré	Le préfet a délivré le récépissé prévu par l’article R. 512-39-1 du code de l’environnement le 21 avril 2015.		'Le préfet'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	13		2004	01	13		La_cessation_définitive_d__activité	La cessation définitive d'activité a été prononcée par récépissé du 13 janvier 2004.		
+2001	07			2001	07			dégazé	Les cuves et l’ensemble des cuves et des équipements annexes a été nettoyé, dégazé en juillet 2001 et démonté en août 2002.		
+				2001				a_exploité	La  société WOREX a exploité jusqu’en 2001 un dépôt d’hydrocarbures  soumis à déclaration, composé de 6 cuves de stockage pour une capacité totale de 100 m3 de fioul et de 19,5 m3 de gasoil.	'd’ hydrocarbures', 'de fioul', 'gasoil'	'La   société WOREX'
+2002	08			2002	08			démonté	Les cuves et l’ensemble des cuves et des équipements annexes a été nettoyé, dégazé en juillet 2001 et démonté en août 2002.		
+2001	08			2001	08			ont_été_extraits	3 m3 de terres polluées ont été extraits en août 2001 et transportés en centre agréé pour destruction.		
+2003	05	20		2003	05	20		a_procédé	L'inspection des installations classées a procédé à une visite de récolement le 20 mai 2003.		
+2001	04	02		2001	04	02		La_cessation_d__activité	La cessation d’activité a été portée à la connaissance du Préfet en 2 avril 2001.		'Préfet'

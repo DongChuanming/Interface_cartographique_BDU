@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				qui_a_été_dissoute	C'est la société VOSGES BOIS LAMELLES qui était responsable du site depuis 1996 et qui a été dissoute en 2005.		'la société VOSGES BOIS LAMELLES'
+2015	09	21		2015	09	21		a_été_destinataire	Par transmission du 21 septembre 2015, l’inspection des installations classées a été destinataire du rapport intitulé « Etude historique et documentaire, visite de site - Investigations de terrain sur l’ancien site BOIS LAMELLE à SAINT DIE ».		'BOIS LAMELLE'
+2014				2014				n__a_toutefois_clôturé_la_cessation_d__activité	Le représentant de la société n'a toutefois clôturé la cessation d'activité qu'en 2014.		

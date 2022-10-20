@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	14		2006	06	14		Un_diagnostic_approfondi	Un diagnostic approfondi a été établi le 14/06/2006.		
+2006	01	10		2006	01	10		Une_étude_hydrogéologique	Une étude hydrogéologique pour la surveillance de la qualité des eaux souterraines a été transmise le 13/10/2005 et un complément a été envoyé le 10/01/2006.		
+2013	01	23		2013	01	23		est_passé	Une partie du site est passé d'ARKEMA à KEM ONE le 23/01/2013.		"d' ARKEMA", 'KEM ONE'
+2007	08	30		2007	08	30		la_cessation_d__activités	Le 30/08/2007 et le 31/12/2007, la société ARKEMA a déclaré la cessation d'activités concernant respectivement les ateliers « péroxydes » et « compounds ».	'\xa0 péroxydes', 'et « \xa0 compounds'	'la société ARKEMA'
+				2007	12	31		la_cessation_d__activités	Le 30/08/2007 et le 31/12/2007, la société ARKEMA a déclaré la cessation d'activités concernant respectivement les ateliers « péroxydes » et « compounds ».	'\xa0 péroxydes', 'et « \xa0 compounds'	'la société ARKEMA'
+1995				1995				ont_été_réalisés	Ils ont été réalisés au niveau de la fosse de rétention, de l'aire d'exercice incendie et des bâtiments électrolyse en 1995 et au niveau de la zone sud (dépôts de cendres de pyrite) en 2001.	'cendres de pyrite'	
+2005	10	13		2005	10	13		Une_étude_hydrogéologique	Une étude hydrogéologique pour la surveillance de la qualité des eaux souterraines a été transmise le 13/10/2005 et un complément a été envoyé le 10/01/2006.		
+2004	06	24		2004	06	24		demande_un_diagnostic_complémentaire	L'inspection des installations classées, après examen du dossier de cessation d'activités, demande un diagnostic complémentaire des sols et des eaux souterraines, par courriers du 24/06/2004 et du 13/07/2004.		
+				2004	07	13		demande_un_diagnostic_complémentaire	L'inspection des installations classées, après examen du dossier de cessation d'activités, demande un diagnostic complémentaire des sols et des eaux souterraines, par courriers du 24/06/2004 et du 13/07/2004.		
+1850				1850				se_sont_succédés	Des exploitants différents se sont succédés sur ce site depuis 1850 (ELF-ATOCHEM, ATOFINA, ARKEMA).		'ELF - ATOCHEM', 'ATOFINA', 'ARKEMA'
+2001				2001				et_au_niveau_de	Ils ont été réalisés au niveau de la fosse de rétention, de l'aire d'exercice incendie et des bâtiments électrolyse en 1995 et au niveau de la zone sud (dépôts de cendres de pyrite) en 2001.	'cendres de pyrite'	
+2012	05	04		2012	05	04		Une_demande_de_changement	Une demande de changement d'exploitant a été effectuée le 04/05/2012 et le 11/05/2012, concernant l'usine exploitée par la société ARKEMA.		'la société ARKEMA'
+2006	01	10		2006	01	10		a_été_envoyé	Une étude hydrogéologique pour la surveillance de la qualité des eaux souterraines a été transmise le 13/10/2005 et un complément a été envoyé le 10/01/2006.		
+2004	06	09		2004	06	09		a_informé	Le 09/06/2004, la société a informé l'inspection des installations classées de l'étude d'un projet d'implantation d'une activité de logistique et de stockage de produits en vrac en lieu et place de l'installation arrêtée.		
+2003	09	23		2003	09	23		a_informé	Le 23/09/2003, la société ARKEMA a informé l'inspection des installations classées de la cessation d'activité du secteur minéral ou zone FM 1-2 (fabrication d'acide sulfurique, nitrique et oléum).	'acide sulfurique', 'nitrique', 'oléum'	'la société ARKEMA'
+2005	12	16		2005	12	16		a_été_transmise	La synthèse historique et documentaire a été transmise le 16/12/2005.		
+2004	12	21		2004	12	21		a_été_transmis	Le diagnostic complémentaire en date du 23/10/2004 a été transmis le 21/12/2004.		
+				2012	05	11		Une_demande_de_changement	Une demande de changement d'exploitant a été effectuée le 04/05/2012 et le 11/05/2012, concernant l'usine exploitée par la société ARKEMA.		'la société ARKEMA'
+2006	04			2006	04			a_été_mise_en_place	La surveillance des eaux souterraines a été mise en place depuis avril 2006.		
+2008	05	21		2008	05	21		a_été_transmise	Une interprétation de l'état des milieux (IEM) a été transmise le 21/05/2008 à l'inspection des installations classées.		
+2007	09	17		2007	09	17		de_la_réunion	Elle a été demandée par l'administration  en remplacement de l'éventuelle EDR initialement prévue, lors de la réunion ARKEMA-DREAL le 17/09/2007, au vu de l'évolution de la méthodologie en matière de gestions des sites pollués.		'réunion ARKEMA - DREAL'

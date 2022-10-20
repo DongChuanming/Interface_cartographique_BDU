@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				rachéte	-Fin 2006, la Ville de Lomme rachéte le site et souhaite y implanter un centre culturel.		'la Ville'
+2007	10			2007	10			__démolition	-En octobre 2007: démolition du site par la ville de Lomme.		
+2006	06	15		2006	06	15		a_pas_été_mis	-15/06/2006 : le site n’a pas été mis en sécurité et se trouve dans un état de délabrement avancé.		
+2006	07	18		2006	07	18		La_notification_de_cessation_d__activité	La notification de cessation d'activité a été réalisée le 18 juillet 2006.		
+2007	09			2007	09			L__étude_transmise	L'étude transmise en septembre 2007 conclut que le site est compatible avec le centre culturel mais pas les logements de fonctions initialement prévues.		
+2003	04	08		2003	04	08		__mise_en_liquidation_par_jugement	Ancienne fabrique de meubles, mise en liquidation par jugement du 8 avril 2003.		
+2005	07	11		2005	07	11		_Diagnostic_environnemental_réalisé	-Diagnostic environnemental réalisé par ARCADIS le 11/07/2005		'ARCADIS'
+2007				2007				a_été_démolie	La site a été démolie courant 2007 et la ville avait pour projet d'y construire un centre culturel.		
+2006	05	17		2006	05	17		_Réalisation_d__une_évaluation_détaillée_des_risques	-Réalisation d'une évaluation détaillée des risques le 17/05/2006 relevant une pollution des sols et donnant une compatibilité du site en l'état pour un usage uniquement tertiaire.		
+2007	04	11		2007	04	11		Mise_en_sécurité	-AP 11 avril 2007:Mise en sécurité et diagnostic des sols prescrits.		

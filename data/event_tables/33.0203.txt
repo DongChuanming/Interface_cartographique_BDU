@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05			2011	05			a_été_constatée	Lors du diagnostic de pollution du mai 2011, il a été constatée une pollution des sols par des métaux.	'métaux'	
+2004	09	15		2004	09	15		émet_un_rapport	Le 15 septembre 2004 l’inspection des installations classées émet un rapport suite à l’analyse du pré-diagnostic.		
+2010	04			2010	04			ont_été_réalisés	Ils ont été réalisés en avril 2010.		
+2009	01	27		2009	01	27		informe	Le 27 janvier 2009, le bureau d'études ECOTOM informe la DRIRE que la Maire de Belin-Beliet vient de passer commande pour l'évacuation des 25 m3 de terres de curage polluées au plomb du fossé longeant l'ancien site de RTM.	'plomb'	'ECOTOM', 'la DRIRE', 'RTM'
+2009	02	26		2009	02	26		ont_été_évacuées	Les terres ont été évacuées le 26 février 2009 vers la décharge PYRÉNÉES SERVICES INDUSTRIE de classe 2 à Lannemezan (65).		'la décharge PYRÉNÉES', 'SERVICES INDUSTRIE'
+2011	05			2011	05			du_diagnostic_de_pollution	Lors du diagnostic de pollution du mai 2011, il a été constatée une pollution des sols par des métaux.	'métaux'	
+2009	03	09		2009	03	09		transmet	Le 9 mars 2009, la mairie de Belin-Beliet transmet à la DRIRE le protocole des investigations de terrain nécessaires à l'élaboration du schéma de réhabilitation de la décharge.		'la DRIRE'
+2009	03	09		2009	03	09		des_investigations_de_terrain_transmis	Le protocole des investigations de terrain transmis le 9 mars 2009 prévoit la mise en place de trois piézomètres : un en amont et deux en aval hydraulique de la décharge.		

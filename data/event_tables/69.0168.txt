@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1921	03	15		1921	03	15		été_tenu	Ce garage été tenu par Mr VINCENT et a fait l'objet d'un récépissé de déclaration daté du 15/03/1921.		'Mr VINCENT'
+2001	01	23		2001	01	23		une_étude_géotechnique	Lors d'une étude géotechnique le 23/01/2001, une forte odeur de produit chimique a été noté par les géotechniciens lors d'un sondage.		
+2003	06			2003	06			une_nouvelle_cotation	A l'issue du traitement, une nouvelle cotation du site a été réalisée en juin 2003 et aboutit à un classement du site en classe 3 pour le milieu sol et en classe 2 pour le milieu eaux souterraines.		
+1990				1990				a_cessé	ERTRAND, l'activité sur le site a cessé aux alentours de 1990.		
+				2002	11			s__est_poursuivi	La mise sous tension du système est intervenue en mars 2002 et le traitement s'est poursuivi jusqu'en novembre 2002 soit un total de 200 jours.		
+2002	03			2002	03			La_mise_sous_tension	La mise sous tension du système est intervenue en mars 2002 et le traitement s'est poursuivi jusqu'en novembre 2002 soit un total de 200 jours.		
+1921				1921				L__activité	L'activité sur le site a commencé en 1921 par l'implantation d'un garage disposant d'un dépôt d'essence d'une capacité de 300 litres.	'essence'	
+1972	01	11		1972	01	11		a_de_nouveau_été_remis	Un récépissé de déclaration a de nouveau été remis à Mr BRIDAY le 11/01/1972.		'Mr BRIDAY'

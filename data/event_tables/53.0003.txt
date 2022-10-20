@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				Une_étude_spécifique_réalisée	Une étude spécifique réalisée en 1997 a montré que les scories très réactives sont essentiellement constituées de sulfures de fer, de stibine et d’antimoine métal.	'sulfures de fer', 'stibine', 'antimoine métal'	
+2000	06	12		2000	06	12		étude_simplifiée_des_risques_remise	L'étude simplifiée des risques remise en décembre 1998 a été complétée le 12/06/2000 par un audit environnement d'acquisition du site.		
+1998				1998				a_fait_l__objet	Ce site a fait l’objet de travaux en 1998 et à cette occasion 8 piézomètres ont été installés sur le site et ont fait l’objet d’un suivi périodique.		
+1934				1934				cessée	Ces remblais proviennent des stériles de mine lors de l’exploitation de l’antimoine et de l’Or cessée en 1934.	'antimoine', 'Or'	
+1998	12			1998	12			étude_simplifiée_des_risques_remise	L'étude simplifiée des risques remise en décembre 1998 a été complétée le 12/06/2000 par un audit environnement d'acquisition du site.		
+1997				1997				une_mise_en_sécurité	Lors de la cessation, le site des mines de la Lucette a fait l'objet d'une mise en sécurité  en 1997.		
+1999	08	04		1999	08	04		ont_été_analysées	Selon l’arrêté préfectoral du 4 août 1999, les eaux souterraines ont été analysées sur différents piézomètres afin d’évaluer l’efficacité du confinement.		
+1999				1999				formaient	Les scories formaient en 1999 un tas de 100 000 tonnes sur une surface de 10 000 m².		
+1998				1998				aux_travaux_de_confinement	Toutefois, suite aux travaux de confinement du tas de scories en 1998, cette pollution a été maîtrisée.		
+1934				1934				Or___activité_cessée	- de l’utilisation de mercure pour le traitement de l’Or (activité cessée en 1934).	'mercure', 'Or'	
+1998				1998				a_été_maîtrisée	Toutefois, suite aux travaux de confinement du tas de scories en 1998, cette pollution a été maîtrisée.		
+2003	05	28		2003	05	28		a_prescrit_par_arrêté	Le préfet a prescrit par arrêté du 28 mai 2003 une servitude d'utilité publique au niveau des stockages.		'Le préfet'
+1999				1999				des_travaux_réalisés	Afin de limiter et annuler les pollutions provenant du tas de scories, des travaux réalisés en 1999 ont permis d’isoler et confiner celui-ci des eaux de pluies afin d’amoindrir sa réactivité.		

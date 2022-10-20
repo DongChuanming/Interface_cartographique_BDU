@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12			2011	12			Un_bilan_quadriennal	Un bilan quadriennal 2008-2011 a été fourni à l'inspection des installations classées en décembre 2011.		
+1995				1995				a_affecté	Une fuite sur une canalisation a affecté le site en 1995.		
+2004				2004				une_surveillance_des_eaux_souterraines	Jusqu'en 2004, le site a fait l'objet d'une surveillance des eaux souterraines dans le cadre de son fonctionnement et au titre de l'article 65 de l'arrêté ministériel du 2 février 1998.		
+2004				2004				un_débordement_au_remplissage	Suite à un débordement au remplissage des réservoirs durant l'été 2004, des hydrocarbures en phase libre ont été retrouvés dans des piézomètres en novembre 2004, traduisant une pollution localisée.	'hydrocarbures'	
+2004				2004				ont_été_retrouvés_dans_des_piézomètres	Suite à un débordement au remplissage des réservoirs durant l'été 2004, des hydrocarbures en phase libre ont été retrouvés dans des piézomètres en novembre 2004, traduisant une pollution localisée.	'hydrocarbures'	
+2005	04			2005	04			un_diagnostic_approfondi	En avril 2005 un diagnostic approfondi de la pollution a été réalisé, et le rapport présenté à l'inspection des installations classées.		
+2008				2008				Un_bilan_quadriennal	Un bilan quadriennal 2008-2011 a été fourni à l'inspection des installations classées en décembre 2011.		
+				2005	04			Le_pompage	Le pompage des eaux contaminées dans les piézomètres et leur traitement ont été réalisés jusqu'en avril 2005 afin de limiter l'extension de la pollution et récupérer les hydrocarbures ayant rejoint la nappe.	'hydrocarbures'	
+2009	10	08		2009	10	08		a_été_acté_par	Son exploitation autorisée par arrêté préfectoral du 15 décembre 1994 a été assurée par la société CHARBONNIÈRE DE SAÔNE-ET-LOIRE, avant transfert de l'autorisation au profit d'ARGOS FRANCE DÉPÔT, changement d'exploitant qui a été acté par récépissé en date du 8 octobre 2009.		'la société CHARBONNIÈRE DE SAÔNE-ET-LOIRE', "d' ARGOS FRANCE DÉPÔT"
+2011				2011				Un_bilan_quadriennal	Un bilan quadriennal 2008-2011 a été fourni à l'inspection des installations classées en décembre 2011.		
+2004	11			2004	11			ont_été_retrouvés_dans_des_piézomètres	Suite à un débordement au remplissage des réservoirs durant l'été 2004, des hydrocarbures en phase libre ont été retrouvés dans des piézomètres en novembre 2004, traduisant une pollution localisée.	'hydrocarbures'	
+2004				2004				a_fait_l__objet_d_	Jusqu'en 2004, le site a fait l'objet d'une surveillance des eaux souterraines dans le cadre de son fonctionnement et au titre de l'article 65 de l'arrêté ministériel du 2 février 1998.		
+2002				2002				l__étude_remise	La phase B de l'étude remise au 4ème trimestre 2002 a été examinée et complétée à la demande de l'inspection des installations classées.		
+2016				2020				se_poursuit	La surveillance se poursuit sur 4 ouvrages de 2016 à 2020.		
+								l__étude_remise	La phase B de l'étude remise au 4ème trimestre 2002 a été examinée et complétée à la demande de l'inspection des installations classées.		

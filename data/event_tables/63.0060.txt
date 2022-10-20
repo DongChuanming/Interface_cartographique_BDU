@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979				1979				voit_ses_activités_reprises	Intégrée en 1969 dans le groupe DAMOY, la société EXCELLA voit ses activités reprises en 1979 par la marque MELITTA.		'groupe DAMOY', 'la société EXCELLA', 'MELITTA'
+2009	03	09		2009	03	09		est_arraché	Au jour de la visite de l'inspection des installations classées le 9 mars 2009, une partie des terrains en enrobé est arraché en vue d'une réfection complète.  L'intérieur du bâtiment principal est entièrement démantelé en vue des réaménagements pour le magasin FLY et les terrains ayant constitué le site de l'usine, soit 27200 m², sont devenus la propriété de l'établissement.		
+1969				1969				voit_ses_activités_reprises	Intégrée en 1969 dans le groupe DAMOY, la société EXCELLA voit ses activités reprises en 1979 par la marque MELITTA.		'groupe DAMOY', 'la société EXCELLA', 'MELITTA'
+2006				2006				les_activités_cessent	En 2006, les activités cessent sur le site de Lempdes, les installations sont démontées et transférées dans les autres usines du groupe à l’étranger.		
+1996				1996				rachète	En 1996, le groupe DRIE MOLLEN rachète 100 % des actions de CAFES EXCELLA.		'le groupe DRIE MOLLEN', 'CAFES EXCELLA'
+2006	12	20		2006	12	20		est_adressé	Le dossier de cessation d’activité est adressé le 20 décembre 2006 à monsieur le préfet du Puy-de-Dôme.		'le préfet du Puy-de-Dôme'
+1999				1999				avaient_été_évacués	Les transformateurs au pyralène avaient été évacués en 1999.	'pyralène'	
+1965				1965				est_transféré	D’abord installé à Clermont-Ferrand, le site est transféré sur Lempdes en 1965.		

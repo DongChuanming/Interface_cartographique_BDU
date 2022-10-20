@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_déclaration_d__installation	Plusieurs actes administratifs sont enregistrés (10 au total), notamment la déclaration d'installation d'un dépôt de bois (ISOREL) en date du 04/12/64 et le récépissé en date du 19/09/1986 pour la déclaration du stockage de bois (FONTEX).		'ISOREL', 'FONTEX'
+2006	06			2006	06			l__exploitation	D'après le compte-rendu de visite ICPE du 10/04/2007, effectué dans le cadre du récolement, le site a été racheté par l'entreprise ARTEMIS qui a commencé l'exploitation de la société ESPRIT ORANGERAIE depuis juin 2006.		"l' entreprise ARTEMIS", 'la société ESPRIT ORANGERAIE'
+1986				1986				est_repris	En 1986, le site est repris par FONTEX.		'FONTEX'
+2006	06			2006	06			a_été_racheté	D'après le compte-rendu de visite ICPE du 10/04/2007, effectué dans le cadre du récolement, le site a été racheté par l'entreprise ARTEMIS qui a commencé l'exploitation de la société ESPRIT ORANGERAIE depuis juin 2006.		"l' entreprise ARTEMIS", 'la société ESPRIT ORANGERAIE'
+2005	10	13		2005	10	13		un_diagnostic_de_sol	Le 13 octobre 2005, un diagnostic de sol est réalisé. 13 sondages sont effectués, permettant de constater des traces et odeurs d'hydrocarbures.	'hydrocarbures'	
+2005	12			2005	12			une_étude_simplifiée_des_risques	Suite à ce diagnostic, le site fait l'objet d'une étude simplifiée des risques en décembre 2005.		
+2006	12	22		2006	12	22		est_remis	Le dossier de cessation d'activité rendant compte de l'élimination des déchets et de la dépollution est remis le 22 décembre 2006.		
+1964				1964				est_exploité	A partir de 1964, le site est exploité par la société ISOREL, puis à partir de 1980, par la société ATMB (Application Technique Moderne Bâtiment).		'la société ISOREL', 'la société ATMB'
+1980				1980				est_exploité	A partir de 1964, le site est exploité par la société ISOREL, puis à partir de 1980, par la société ATMB (Application Technique Moderne Bâtiment).		'la société ISOREL', 'la société ATMB'

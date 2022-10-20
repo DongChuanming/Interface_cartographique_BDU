@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			un_diagnostic_complémentaire	Dans le cadre de la cessation d'activité de la station service, RSK a réalisé un diagnostic complémentaire de la qualité chimique du milieu souterrain en août 2013 (rapport du 27/09/2013).		
+2000				2000				a_été_reconstruite	Au cours de l'année 2000, la station a été reconstruite.		
+2013	06	21		2013	06	21		la_cessation_d__activité	La société des pétrole SHELL a déclaré la cessation d'activité de sa station-service le 21 juin 2013.		'La société des pétrole SHELL'
+2009				2009				Un_nouveau_diagnostic	Un nouveau diagnostic réalisé en 2009 par SITA a mis en évidence :		'SITA'
+2010	09			2010	09			a_été_fait	Le même constat a été fait en septembre 2010 lors de la pose d'un nouveau piézomètre complémentaire.		
+2013	08			2013	08			de_la_campagne_réalisée	Lors de la campagne réalisée par RSK en août 2013, les paramètres analysés (hydrocarbures, BTEX et MTBE) sont inférieurs aux valeurs limites définies dans l'arrêté du 11/01/2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine mentionnées ou aux valeur données dans le guide de l'OMS.	'hydrocarbures', 'BTEX', 'MTBE'	
+2013	07	03		2013	07	03		a_cessé_son_activité	La station a cessé son activité le 03 juillet 2013 et le site a été mis en sécurité en juillet 2013.		
+2013	07			2013	07			a_cessé_son_activité	La station a cessé son activité le 03 juillet 2013 et le site a été mis en sécurité en juillet 2013.		
+1997	08			1997	08			Un_premier_diagnostic_réalisé	Un premier diagnostic réalisé en août 1997 par ATE avait mis en évidence :		'ATE'
+2013	07			2013	07			a_été_mis_en_sécurité	La station a cessé son activité le 03 juillet 2013 et le site a été mis en sécurité en juillet 2013.		
+2000				2000				Des_travaux_de_dépollution	Des travaux de dépollution des terres impactées par excavation et de la nappe par pompage ont été réalisés en 2000.		
+2013	09	27		2013	09	27		un_diagnostic_complémentaire	Dans le cadre de la cessation d'activité de la station service, RSK a réalisé un diagnostic complémentaire de la qualité chimique du milieu souterrain en août 2013 (rapport du 27/09/2013).		
+2015	06			2015	06			l__ARR	Le rapport de fin de travaux de démantèlement des infrastructures pétrolières et l’ARR de juin 2015 réalisé par ARCAGEE montre la présence d'une pollution au niveau des eaux de fond de fouille (eau de surface de la nappe) de 13 000 µg/l.		'ARCAGEE'
+2009				2009				du_diagnostic	Ce diagnostic ne montre pas de nouveaux impacts dans les sols par rapport à ceux découverts lors du diagnostic de 2009.		
+2016	01			2016	01			la_dernière_campagne_du_diagnostic_environnemental	Au vu des résultats de la dernière campagne du diagnostic environnemental des eaux souterraines de janvier 2016 et de l’usage futur du site, aucun suivi de qualité des eaux souterraines n’apparaît nécessaire.		

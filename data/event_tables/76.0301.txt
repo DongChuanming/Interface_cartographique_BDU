@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	24		2005	01	24		a_fourni	Il a fourni le 24 janvier 2005, un dossier de cessation d'activité comprenant d'une part les bordereaux d'élimination de déchets et certificats de dégazage, d'autre part un rapport de diagnostic des sols et un rapport de fin de travaux respectivement d'aout 2004 et de janvier 2005.		
+								Des_travaux_d__excavation	Des travaux d'excavation des terres souillées ont été réalisés en novembre et décembre 2004.		
+2004	10	18		2004	10	18		a_déclaré_la_cessation_de_ces_activités	L'exploitant a déclaré la cessation de ces activités sur ce site le 18 octobre 2004 (récépissé de déclaration du 17 novembre 2004).		
+								a_été_réalisée	De plus, l'analyse des échantillons a été réalisée entre 3 semaines et 1 mois pour chacun des échantillons (il est recommandé de ne pas dépasser quelques jours).		
+2004	12			2004	12			Des_travaux_d__excavation	Des travaux d'excavation des terres souillées ont été réalisés en novembre et décembre 2004.		
+2004	11	17		2004	11	17		de_déclaration	L'exploitant a déclaré la cessation de ces activités sur ce site le 18 octobre 2004 (récépissé de déclaration du 17 novembre 2004).		

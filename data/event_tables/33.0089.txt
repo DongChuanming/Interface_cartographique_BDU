@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04			2008	04			La_campagne_d_	La campagne d'avril 2008 montre une nette diminution de l'Arsenic (34 µg/l).	'Arsenic'	
+2000	04	10		2000	04	10		ce_changement_d__usage_doit_être_porté	Conformément à l'article 6 de l'arrêté préfectoral du 10 avril 2000, ce changement d'usage doit être porté à la connaissance du Préfet avec les informations appropriés ci-dessus (plan de gestion).		
+1999	06	30		1999	06	30		remise	L'étude CEBTP remise le 30 juin 1999 montre la présence modérée d'Hydrocarbures Aromatiques Polycycliques dans le sol en un seul endroit.	'Hydrocarbures Aromatiques Polycycliques'	
+2000	12	20		2000	12	20		ont_été_bouchés	Le puits F2 et le forage F4 de 20 mètres de profondeur ont été bouchés dans les règles de l'art le 20 décembre 2000.		
+2007	11	07		2007	11	07		La_campagne_d__analyses	La campagne d'analyses du 07/11/2007 montre que la présence d'arsenic dans la nappe déclasse la qualité des eaux souterraines (130µg/l).	'arsenic'	
+2000	10	09		2000	10	09		ont_été_cédés	Les terrains, propriété de SANOFI ont été cédés à la Communauté Urbaine de Bordeaux le 9 octobre 2000.		'SANOFI', 'la Communauté Urbaine de Bordeaux'
+2009	07	15		2009	07	15		informe	Le 15/07/2009, la CUB informe l'inspection que le PZ1 a été détérioré lors des travaux de remaniement des terres sur le site et qu'il est inexploitable.		'la CUB'
+1997	07	1		1997	07	1		ayant_cessé_son_activité	Ancienne usine de fonte de suif en branches, de fabrique de savon et établissement de transit de co-produits d'abattoir, autorisée par l'arrêté du 09 décembre 1957 ayant cessé son activité le 1er juillet 1997.	'suif'	

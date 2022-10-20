@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	10	14		1993	10	14		est_soumis_à_autorisation	Le site est soumis à autorisation par l'arrêté préfectoral n°2324 du 14 octobre 1993.		
+2015	04	20		2015	04	20		a_été_délivré	Par récépissé du 20 avril 2015, un bénéfice d'antériorité a été délivré à la société ESSO pour son site exploité sur l'A11 à Gasville-Oisème, déclassant le site d'autorisation à déclaration avec contrôle périodique.		'la société ESSO'
+2016	01	22		2016	01	22		nouvel_exploitant	Depuis le 22 janvier 2016, la société CERTAS ENERGY FRANCE est le nouvel exploitant de la station-service exploitée par ESSO.		'la société CERTAS ENERGY FRANCE', 'ESSO'

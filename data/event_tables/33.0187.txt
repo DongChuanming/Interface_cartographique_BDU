@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_été_racheté	BSN GLASSPACK a été racheté en 2004 par O.		'BSN GLASSPACK'
+2005	12	05		2005	12	05		a_été_remis	Le plan d'échantillonnage a été remis le 05/12/2005 et les résultats du diagnostic ont été remis le 24 mars 2006.		
+								a_prescrit_ce_diagnostic	L'arrêté du 2 août 2005 a prescrit ce diagnostic à l'échéance de 3 mois.		
+2006	03	24		2006	03	24		a_été_remis	Le plan d'échantillonnage a été remis le 05/12/2005 et les résultats du diagnostic ont été remis le 24 mars 2006.		
+								l_	L'arrêté du 2 août 2005 a prescrit ce diagnostic à l'échéance de 3 mois.		
+2006	03	24		2006	03	24		ont_été_remis	Le plan d'échantillonnage a été remis le 05/12/2005 et les résultats du diagnostic ont été remis le 24 mars 2006.		

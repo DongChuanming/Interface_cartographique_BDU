@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_cessé_toute_activité	L'exploitant a cessé toute activité sur le site depuis 1999.		
+2005				2009				le_suivi_trimestriel	Entre 2005 et 2009, le suivi trimestriel de la qualité des eaux souterraines a fait apparaître une diminution des teneurs en cuivre et en mercure.	'cuivre', 'mercure'	
+				1975				ayant_reçu	Ancienne lagune dont la création est antérieure à 1940 et ayant reçu jusqu'en 1975 les eaux résiduaires de la plate-forme chimique suivies du dépôt des déchets solides de la station d'épuration et de l'usine.	'des déchets solides'	
+2005				2009				a_fait_apparaître	Entre 2005 et 2009, le suivi trimestriel de la qualité des eaux souterraines a fait apparaître une diminution des teneurs en cuivre et en mercure.	'cuivre', 'mercure'	
+2008	10	06		2008	10	06		a_été_déposé	Le dossier de Servitudes d'Utilité Publique a été déposé par l'exploitant le 06 octobre 2008.		
+2005	02	23		2005	02	23		la_tierce_expertise	La société ARKEMA (ex ATOFINA) a lancé le 23 février 2005 la tierce expertise de l'Etude Détaillée des Risques.		'La société ARKEMA', 'ATOFINA'
+2002	05			2002	05			a_transmis	En mai 2002, Atofina a transmis au préfet un rapport contenant des propositions de réaménagement et de suivi environnemental.		
+2005	10			2005	10			ont_été_vendus	Les terrains ont été vendus à RETIA en octobre 2005.		'RETIA'
+1940				1940				ayant_reçu	Ancienne lagune dont la création est antérieure à 1940 et ayant reçu jusqu'en 1975 les eaux résiduaires de la plate-forme chimique suivies du dépôt des déchets solides de la station d'épuration et de l'usine.	'des déchets solides'	

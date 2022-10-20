@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				des_études_de_sol	En 2007, 2008 et 2009 des études de sol et des eaux souterraines sous-jacente ont été menées afin de caractériser les pollutions présente sur le site.		
+2009	07			2009	07			réalisés_lors_des_campagnes_de_prélèvements	L'ensemble des prélèvements sur ce piézomètre réalisés lors des campagnes de prélèvements de janvier 2008, juillet 2009 et décembre 2009, ne montrent pas de trace de pollution aux phénols et au toluène.	'phénols', 'toluène'	
+2009				2009				des_études_de_sol	En 2007, 2008 et 2009 des études de sol et des eaux souterraines sous-jacente ont été menées afin de caractériser les pollutions présente sur le site.		
+2009	12			2009	12			réalisés_lors_des_campagnes_de_prélèvements	L'ensemble des prélèvements sur ce piézomètre réalisés lors des campagnes de prélèvements de janvier 2008, juillet 2009 et décembre 2009, ne montrent pas de trace de pollution aux phénols et au toluène.	'phénols', 'toluène'	
+2008	01			2008	01			réalisés_lors_des_campagnes_de_prélèvements	L'ensemble des prélèvements sur ce piézomètre réalisés lors des campagnes de prélèvements de janvier 2008, juillet 2009 et décembre 2009, ne montrent pas de trace de pollution aux phénols et au toluène.	'phénols', 'toluène'	
+2007				2007				des_études_de_sol	En 2007, 2008 et 2009 des études de sol et des eaux souterraines sous-jacente ont été menées afin de caractériser les pollutions présente sur le site.		

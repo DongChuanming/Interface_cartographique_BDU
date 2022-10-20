@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				au_diagnostic_de_site_établi	* Suite au diagnostic de site établi en 2003, une étude des propositions de réhabilitation a été faite par le BET ARCADIS en février 2004 :		'le BET ARCADIS'
+2004	02			2004	02			une_étude	* Suite au diagnostic de site établi en 2003, une étude des propositions de réhabilitation a été faite par le BET ARCADIS en février 2004 :		'le BET ARCADIS'
+2018				2018				devrait_être_réalisé	* un projet de réhabilitaion a pu être acté et devrait être réalisé en 2018 ( projet d'APC en 2017):		
+1993				1993				a_été_créée	* En 1993, une digue de protection a été créée pour protéger le stock de mâchefers du risque de crue.		
+2004				2004				le_dépoussiérage	Les bétons sont également contaminés superficiellement par dioxines et furanes (de l'ordre de 30 à 50 pg/g et jusqu'à 785 pg/g au niveau de la cheminée), de même que la couche de poussière présente dans les bâtiments d'exploitation (le dépoussiérage a eu lieu en automne 2004 à titre préventif).	'dioxines', 'furanes'	
+2017				2017				devrait_être_réalisé	* un projet de réhabilitaion a pu être acté et devrait être réalisé en 2018 ( projet d'APC en 2017):		
+2003				2003				le_processus_de_réhabilitation	En 2003, elle a donc entrepris le processus de réhabilitation du site, en faisant réaliser un diagnostic du site (équivalent à une ESR).		
+2003				2003				une_étude	* Suite au diagnostic de site établi en 2003, une étude des propositions de réhabilitation a été faite par le BET ARCADIS en février 2004 :		'le BET ARCADIS'
+1998	02	17		1998	02	17		une_convention	* La Communauté de Communes du Briançonnais ayant comme compétence le traitement des ordures ménagères, a signé une convention le 17/02/1998 avec la Ville de Briançon pour se substituer à l'ancien exploitant pour sa réhabilitation.		'* La Communauté de Communes du Briançonnais'
+1997	12	31		1997	12	31		a_cessé_ses_activités	L'installation a cessé ses activités le 31/12/1997 et a été démantelée en 2000.		
+2007				2007				ont_été_effectués	- concernant l'usine, le nettoyage et démantèlement du four puis, le sablage ou le décroûtage des bétons ont été effectués courant 2007(stockage des déchets en classe 1), ainsi que le démantèlement des structures (stockage des parties métalliques et autres en CET de classe 3).		
+2000				2000				a_été_démantelée	L'installation a cessé ses activités le 31/12/1997 et a été démantelée en 2000.		
+1974				1997				a_fonctionné	* L'UIOM a fonctionné de 1974 à 1997.		"L' UIOM"
+2000				2000				a_cessé_ses_activités	L'installation a cessé ses activités le 31/12/1997 et a été démantelée en 2000.		
+1973	03	28		1973	03	28		a_été_autorisée_à_exploiter	* La ville de Briançon a été autorisée à exploiter l'UIOM par l'AP du 28/03/1973.		'La ville de Briançon'

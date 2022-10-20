@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12	09		2011	12	09		Les_analyses	Les analyses des eaux souterraines en date du 09/12/2011 montrent une tendance globale à la stabilisation des teneurs en polluants.		
+2004				2007				des_analyses	De 2004 à 2007, des analyses ont été effectuées dans l'air ambiant et dans les gaz du sol.		
+1993				1993				a_eu_lieu	L'arrêt des opérations de chromage a eu lieu en 1993 et l'arrêt de la production et de l'assemblage est survenu en 2005.		
+2011				2011				Le_traitement	Le traitement de la nappe est en cours depuis l'été 2011 et doit se poursuivre jusqu'en 2014.		
+2016	02			2016	02			Les_dernières_analyses	Les dernières analyses des eaux souterraines de février 2016 montrent une stabilisation des concentrations durant les douze premiers mois sans effet rebond ainsi qu'une biodégradation des COHV toujours en cours.	'COHV'	
+1999				1999				une_dépollution	La zone la plus impactées en HCT a fait l'objet d'une dépollution en 1999.		
+2008	05			2008	05			a_été_remis	Un plan de gestion a été remis en Mai 2008.		
+2011				2011				a_été_réalisée	Une Interprétation de l’État des Milieux hors site(IEM), basée sur l'implantation de piézomètres et piézairs a été réalisée fin 2011.		
+2016	10	19		2016	10	19		a_été_autorisé	Ainsi, l'arrêt de la surveillance des eaux souterraines a été autorisé par M. le Préfet le 19/10/2016.		'le Préfet'
+2005				2005				l__arrêt	L'arrêt des opérations de chromage a eu lieu en 1993 et l'arrêt de la production et de l'assemblage est survenu en 2005.		
+				2014				Le_traitement	Le traitement de la nappe est en cours depuis l'été 2011 et doit se poursuivre jusqu'en 2014.		
+2005				2005				a_eu_lieu	L'arrêt des opérations de chromage a eu lieu en 1993 et l'arrêt de la production et de l'assemblage est survenu en 2005.		
+2009				2009				Les_analyses	Les analyses d'eaux souterraines de 2009 ont montré des concentrations élevées en COHV en limite aval du site, une pollution hors site est donc suspectée.	'COHV'	

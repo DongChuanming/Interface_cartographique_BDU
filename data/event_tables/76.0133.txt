@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_fait_procéder	En 2005, la société Tecumseh Europe a fait procéder à la déconstruction des bâtiments présents sur le site mais les fondations ont été laissées en place afin d'empêcher les contacts avec les sols pollués.		'la société Tecumseh Europe'
+1997				1997				à_une_cessation_d__activité	Elle exploitera le site sous le régime de l'autorisation préfectorale pour la même activité jusqu'à une cessation d'activité en 1997  laissant place à une friche industrielle.		
+1972				1972				est_reprise	Cette société est reprise par la société SMEN en 1972.		'la société SMEN'
+1958				1958				est_repris	Dés 1958, le site est repris par la société Claret Normandie dont l'activité sur le site est orientée vers la fabrication de moteurs électriques.		'la société Claret Normandie'
+2000	05			2000	05			une_évaluation_simplifiée_des_risques	- une évaluation simplifiée des risques réalisée en mai 2000.		
+2012	04			2012	04			a_été_envoyé	Dans le cadre de différents projet de réaménagement du site, un projet d'arrêté préfectoral complémentaire imposant la réalisation d'un plan de gestion du site a été envoyé à l'exploitant en avril 2012.		
+2006				2006				une_étude_détaillée_des_risques_sanitaires	- Un diagnostic approfondi et une étude détaillée des risques sanitaires réalisés en 2006, dans le cadre d'un projet de réutilisation du site comme zone d'expansion des crues, porté par le SIRAS (Syndicat Intercommunal des rivières de l'Austreberthe).	'Syndicat'	'le SIRAS'
+1900				1900				a_été_occupé	Le site a été occupé depuis 1900 environ par la société Saint SEVER, une usine textile.		'la société Saint SEVER'
+2006				2006				Un_diagnostic_approfondi	- Un diagnostic approfondi et une étude détaillée des risques sanitaires réalisés en 2006, dans le cadre d'un projet de réutilisation du site comme zone d'expansion des crues, porté par le SIRAS (Syndicat Intercommunal des rivières de l'Austreberthe).	'Syndicat'	'le SIRAS'

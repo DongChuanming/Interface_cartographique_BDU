@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12			2007	12			l__évacuation	En décembre 2007 puis janvier 2008, l'entreprise SECHE procède à l'évacuation et l'élimination de l'ensemble des déchets dangereux et non dangereux restant sur le site.		'entreprise SECHE'
+2008	01			2008	01			l__évacuation	En décembre 2007 puis janvier 2008, l'entreprise SECHE procède à l'évacuation et l'élimination de l'ensemble des déchets dangereux et non dangereux restant sur le site.		'entreprise SECHE'
+1990	05	21		1990	05	21		est_émis_par	Le 21/05/1990, un arrêté préfectoral d'autorisation d'exploiter est émis par la Préfecture de la Loire pour la poursuite d'activité de la société DUBOEUF.		'la Préfecture de la Loire', 'la société DUBOEUF'
+1986				1986				le_changement_d_	En 1986, la société DUBOEUF déclare à la Préfecture de la Loire le changement d'exploitant.		'la société DUBOEUF'
+								2_expertises	Dans la pratique, 2 expertises contradictoires réalisées les 17 et 18 novembre 2008 au profit d'une part de M.		
+2006	10	16		2006	10	16		__un_incendie_se_déclare	Le 16/10/2006, un incendie se déclare dans les locaux de la société.		
+1985				1985				était_occupé_par	Avant 1985, le site était occupé par les établissements Veuve Denis et Fils, qui exploitait déjà un atelier de traitement de surface.		'les établissements Veuve Denis'
+1982	04	02		1982	04	02		était_autorisé_à_exploiter	Cet établissement était autorisé à exploiter par arrêté préfectoral du 02/04/1982.		
+2008	11	18		2008	11	18		2_expertises	Dans la pratique, 2 expertises contradictoires réalisées les 17 et 18 novembre 2008 au profit d'une part de M.		
+1985	07	02		1985	07	02		acte_notarié	En 1985, la société DUBOEUF rachète l'établissement par acte notarié du 02/07/1985, alors que les établissements Veuve Denis et Fils sont mis en liquidation.		'la société DUBOEUF'
+1985				1985				rachète	En 1985, la société DUBOEUF rachète l'établissement par acte notarié du 02/07/1985, alors que les établissements Veuve Denis et Fils sont mis en liquidation.		'la société DUBOEUF'
+2011	04	08		2011	04	08		son_rapport	Dans son rapport du 08/04/2011 concernant le récolement après travaux, l’inspection des installations classées conclue qu'au regard des contaminants recherchés, les propositions du prestataire ont paru acceptables compte tenu d'un certain nombre de dispositions constructives et d'aménagement, notamment du décapage du sol et de la couverture par des matières saines au droit du jardin d'agrément.		
+2011	09	23		2011	09	23		a_émis	Le 23/09/2011, la préfecture a émis un récépissé de notification de fin d'exploitation (Art.		'la préfecture'

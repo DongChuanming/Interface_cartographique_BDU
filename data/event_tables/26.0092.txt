@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07	19		2016	07	19		a_fait_l__objet_d_	Il a fait l’objet d’un arrêté préfectoral en date du 10/12/1997 et de deux arrêtés complémentaires datés du 19 juillet 2016 et du 4 avril 2017.		
+2017				2017				L__évacuation	L'évacuation des déchets liés aux activités cessées et le démantèlement des installations non utilisées ont été réalisés en 2017.		
+2018	06			2018	06			Une_recherche	Une recherche des pollution avec étude historique a été menée par le BURGEAP (juin 2018).		'le BURGEAP'
+1971				1972				a_démarré	Entre 1971 et 1972 : l’activité de COLAS a démarré ;		'COLAS'
+2018				2018				une_cessation	L'activité d'enrobage à chaud et de stockage de fioul lourd a fait l'objet d'une cessation en 2018.	'fioul lourd'	
+				2017	04	04		a_fait_l__objet_d_	Il a fait l’objet d’un arrêté préfectoral en date du 10/12/1997 et de deux arrêtés complémentaires datés du 19 juillet 2016 et du 4 avril 2017.		
+2017				2017				16_sondages_de_sols	16 sondages de sols à différentes profondeurs et 3 nouveaux piézomètres à une profondeur de 10m ont été réalisés courant 2017.		

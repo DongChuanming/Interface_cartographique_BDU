@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1962				a_été_créée	La société TREFIMETAUX a été créée en 1962, à partir de la fusion de la Compagnie française des métaux et des Tréfileries et laminoirs du Havre, endossant la responsabilité de la gestion du passif industriel du site.	'Havre'	'La société TREFIMETAUX', 'la Compagnie française des métaux'
+2007	05			2007	05			a_changé_de_nom	La société TREFIMETAUX a changé de nom au premier mai 2007, pour devenir KME FRANCE.		'La société TREFIMETAUX', 'KME FRANCE'
+2009	11	16		2009	11	16		ont_été_prescrits	Des travaux de réhabilitation complémentaires ont été prescrits par arrêté du 16 novembre 2009.		
+1957				1957				a_cessé	La fonderie de plomb a cessé son activité en 1937, la transformation du plomb s'étant complètement arrêtée en 1957, avec la fermeture de la tour à plomb.	'plomb', 'plomb'	
+2003	10	06		2003	10	06		la_prescription_par_arrêté	Le projet, en 2003, d’une opération immobilière par la ville de Couëron "ZAC des Rives de Loire" incluant notamment la friche Tréfimétaux a conduit la prescription par arrêté du 6 octobre 2003 des études suivantes :		'Couëron', 'Tréfimétaux'
+2010				2010				Les_travaux_demandés	Les travaux demandés par arrêtés du 23/06/2005 et 16/11/2009 ont tous été réalisés fin 2010 sauf :		
+2010				2010				procédure	Ceux-ci seront démolis lorsque la parcelle voisine, occupée par une société actuellement, aura été acquise par la mairie de Couëron (procédure d'expropriation en cours fin 2010).		'la mairie de Couëron'
+2017				2017				a_procédé_à_la_démolition	KME a procédé à la démolition de ces ouvrages fin 2017/début 2018.		'KME'
+2005	10	31		2005	10	31		la_mise_en_œuvre_des_travaux_de_protection_nécessaires	Le préfet a prescrit par arrêté préfectoral du 23 juin 2005 la mise en œuvre des travaux de protection nécessaires avant le 31 octobre 2005.		'Le préfet'
+1995				1995				a_demandé	En 1995, l’inspection des installations classées a demandé à Tréfimétaux (KME France depuis 2007) de mettre en sécurité les terrains dont elle restait propriétaire, d’évaluer la qualité des sols de ces derniers et de mettre en place une surveillance des eaux souterraines du site.		'Tréfimétaux', 'KME France'
+2016				2016				a_déménagé	Début 2016, la société qui empêchait l'accès aux carneaux à flanc de falaise et édifices adossés à cette falaise a déménagé et ses bâtiments ont été détruits.		
+1988				1988				a_déclaré	La société TREFIMETAUX a déclaré la cessation de ses activités en 1995, la plupart des bâtiments et parcelles qu'elle détenait ayant été cédés en 1988 à des entreprises du travail des métaux.		'La société TREFIMETAUX'
+1995				1995				la_cessation_de_ses_activités	La société TREFIMETAUX a déclaré la cessation de ses activités en 1995, la plupart des bâtiments et parcelles qu'elle détenait ayant été cédés en 1988 à des entreprises du travail des métaux.		'La société TREFIMETAUX'
+2005				2005				Plusieurs_campagnes_de_prélèvements	Plusieurs campagnes de prélèvements et d'analyses de sols, de végétaux et d'eau de puits ont été réalisées en 2004 et 2005.		
+2012	03	06		2012	03	06		arrêté_fixant	L'arrêté fixant les SUP a été notifié à l'exploitant et au maire de Couëron le 6 mars 2012.		'Couëron'
+2004				2004				Plusieurs_campagnes_de_prélèvements	Plusieurs campagnes de prélèvements et d'analyses de sols, de végétaux et d'eau de puits ont été réalisées en 2004 et 2005.		
+1937				1937				a_cessé	La fonderie de plomb a cessé son activité en 1937, la transformation du plomb s'étant complètement arrêtée en 1957, avec la fermeture de la tour à plomb.	'plomb', 'plomb'	
+2004	07	05		2004	07	05		Les_rapports_d__études_ont_été_transmises	Les rapports d'études ont été transmises par Tréfimétaux au préfet le 5 juillet 2004, ont montré que :		'Tréfimétaux'
+2018				2018				a_procédé_à_la_démolition	KME a procédé à la démolition de ces ouvrages fin 2017/début 2018.		'KME'

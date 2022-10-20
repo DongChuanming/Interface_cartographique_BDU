@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			a_été_mise_à_l__arrêt_définitif	La société a été mise à l'arrêt définitif en août 2013.		
+2013	08	05		2013	08	05		a_fait_l__objet	Il y est indiqué que le site est clos et qu'il a fait l'objet, le 5 août 2013, d'une opération d'évacuation de divers déchets dangereux (acide, base, huile, peinture, bouteilles de gaz divers et aérosols) ou non dangereux (papiers, cartons), le tout ne représentant qu'environ 1,5 tonnes.	'déchets dangereux', 'acide', 'bouteilles de gaz divers'	
+1974				1984				ont_été_initiées	La SAS DMT CHOGNARD, dont les premières activités ont été initiées entre 1974 et 1984, est située sur la commune de Sarcey, au niveau de la Zone d'Activité La Noyeraie, localisée à l'ouest du bourg de la commune.		'La SAS DMT', 'CHOGNARD'
+2013	08	14		2013	08	14		à_transmis	Par courrier du 14 août 2013, le liquidateur judiciaire de la société DMT CHOGNARD à transmis le dossier de cessation d'activité à l'inspection de l'environnement.		'la société DMT CHOGNARD'

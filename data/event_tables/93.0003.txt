@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2006				a_été_demandée	Une surveillance de la nappe a été demandée par arrêté du 20/12/1999, et a été réalisée de 2000 à 2006.		
+1996	03	08		1996	03	08		a_été_pris	Un arrêté préfectoral de remise en état de site a été pris le 08/03/1996		
+1999	09	06		1999	09	06		Un_PV_de_récolement	Un PV de récolement a été dressé le 06/09/1999.		
+1999	12	20		1999	12	20		a_été_demandée	Une surveillance de la nappe a été demandée par arrêté du 20/12/1999, et a été réalisée de 2000 à 2006.		
+1992				1992				des_investigations_de_terrain	BASF a transféré ses activités sur un autre site; des investigations de terrain ont été effectuées en 1992.		'BASF'
+1999	05			1999	05			Les_travaux_de_dépollution	Les travaux de dépollution ont été terminés en mai 1999.		
+2006	08			2006	08			Une_évaluation_des_risques_sanitaires	Une évaluation des risques sanitaires a été faite en août 2006.		
+2000				2006				a_été_réalisée	Une surveillance de la nappe a été demandée par arrêté du 20/12/1999, et a été réalisée de 2000 à 2006.		

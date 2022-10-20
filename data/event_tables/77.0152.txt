@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_cessé	L'activité de traitement des métaux et de matières plastique, classée à autorisations sous la rubrique 2565 a cessé en 2006.		
+2017	04			2017	04			a_déclaré_la_cessation_définitive	En avril 2017, l'exploitant a déclaré la cessation définitive des activités au 30 septembre 2017.		
+2017	09	30		2017	09	30		a_déclaré_la_cessation_définitive	En avril 2017, l'exploitant a déclaré la cessation définitive des activités au 30 septembre 2017.		
+1994	08	02		1994	08	02		ont_été_initialement_autorisées	Les activités de la société WABCO WESTINGHOUSE Equipements Automobiles ont été initialement autorisées par l’arrêté préfectoral du 2 août 1994.		'la société WABCO WESTINGHOUSE Equipements Automobiles'
+2002	2001			2002	2001			2260_ont_cessé	Les installations classées à autorisation sous les rubriques 2940 et  2260 ont cessé en 2001/2002.		
+2006				2006				l__arrêt	A la suite de l’arrêt en 2006 des installations classées à autorisation (traitement des métaux et de matières plastiques), la société Wabco a fourni plusieurs études relatives à l’état du sous-sol.		'la société Wabco'

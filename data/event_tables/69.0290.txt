@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	10	19		s__est_tenue	La seconde phase des travaux s'est tenue entre le 17 et le 19 octobre 2011.		
+				2011	10	14		s__est_déroulée	La première phase s'est déroulée entre le 12 et le 14 octobre 2011.		
+1987	05	22		1987	05	22		signé	Son activité de distribution d'hydrocarbures lourds a fait l'objet d'un récépissé de déclaration signé en date du 22/05/1987.	'hydrocarbures lourds'	
+2012	02	03		2012	02	03		été_remis	Un récépissé de déclaration de cessation d'activité a été remis à KUWAIT PETROLEUM FRANCE en date du 03/02/2012.		'KUWAIT PETROLEUM FRANCE'
+2011	10			2011	10			a_été_rédigé	Ce rapport a été rédigé au mois d'octobre 2011.		
+1996	02	06		1996	02	06		se_déclare_en_cessation_d__activité	MOBILOIL se déclare en cessation d'activité par le biais d'un courrier au Préfet du Rhône en date du 06/02/1996.		'MOBILOIL'
+2011	10			2011	10			au_mois_d_	Ce rapport a été rédigé au mois d'octobre 2011.		
+1987				1987				s__est_implantée	La société MOBILOIL s'est implantée sur le site en 1987.		'La société MOBILOIL'
+1987	05	22		1987	05	22		a_fait_l__objet_d_	Son activité de distribution d'hydrocarbures lourds a fait l'objet d'un récépissé de déclaration signé en date du 22/05/1987.	'hydrocarbures lourds'	
+1996	03	05		1996	03	05		a_délivré	Le Préfet du Rhône a délivré un récépissé de déclaration de changement d'exploitant à KUWAIT PETROLEUM FRANCE le 05/03/1996.		'Le Préfet du Rhône', 'KUWAIT PETROLEUM FRANCE'

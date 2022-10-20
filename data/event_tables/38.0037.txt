@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1917				1917				C__est	C’est en 1917 que le site des Roches fut créé sur la commune de Saint-Clair-du-Rhône pour produire des composés du baryum qui servait alors à fabriquer l’eau oxygénée.	'baryum'	
+2001	12	31		2001	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques doit être transmise à l'administration au plus tard le 31/12/2001.		
+								voit_le_démarrage	La nouvelle décennie 70 voit le démarrage de nouveaux ateliers méthanethiol (MSH), aldéhyde méthylthiopropionique (AMTP) sulfate de soude et enfin les phosphates alimentaires.	'méthanethiol', 'MSH', 'aldéhyde méthylthiopropionique', 'AMTP', 'sulfate', 'soude', 'phosphates alimentaires'	
+2002	05			2002	05			ont_été_transmis	Les documents ont été transmis à l'administration en mai 2002.		
+								entraîne	Après la guerre, puis dans les années 60, l’augmentation de la demande en lessives modernes entraîne un développement spectaculaire des phosphates (TPP) et de l’acide sulfurique.	'phosphates', 'TPP', 'l’ acide sulfurique'	
+1999				1999				une_restructuration	Le site des Roches a fait l’objet d’une restructuration courant 1999, qui s’est traduite par l’apparition de 3 exploitants indépendants en lieu et place d’un exploitant unique : Rhodia Chimie.		'Rhodia Chimie'
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée par AP n°98-8366 du 01/12/1998.		
+2006				2006				reprend_l__exploitation	Fin 2006, ADISSEO reprend l'exploitation des installations de Rhodia Eco Service.		'ADISSEO', 'Rhodia Eco Service'
+1922				1922				démarrent	Les fabrications de phosphates de sodium et de sulfure de carbone démarrent en 1922 et se développent jusqu’en 1939.	'phosphates', 'sodium', 'sulfure de carbone'	
+2013				2013				l__exploitation	En 2013, l'exploitation d'une nouvelle unité débute sur le site existant des Roches, dédiée à la production de MMP.		'MMP'
+1917				1917				fut_créé	C’est en 1917 que le site des Roches fut créé sur la commune de Saint-Clair-du-Rhône pour produire des composés du baryum qui servait alors à fabriquer l’eau oxygénée.	'baryum'	

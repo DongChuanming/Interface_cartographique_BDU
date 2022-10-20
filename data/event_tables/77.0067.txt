@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05			2012	05			est_à_l__arrêt	Le site est à l'arrêt depuis mai 2012.		
+2014	06	19		2014	06	19		a_été_vendue_aux_enchères	Une partie des bâtiments localisés sur la moitié sud du site a été vendue aux enchères le 19 juin 2014.		
+1999				1999				un_diagnostic_initial	Le site a réalisé un diagnostic initial de la qualité des sols et des eaux souterraines en 1999 et 2001.		
+2014	01	07		2014	01	07		Un_diagnostic_de_sol	Un diagnostic de sol a été réalisé le 7 janvier 2014 dans le cadre de la cessation d'activité du site.		
+2012	05			2012	05			est_placée_en_liquidation_judiciaire	En mai 2012, la société PREVENT GLASS est placée en liquidation judiciaire et cesse son activité.		'la société PREVENT GLASS'
+2017	03	02		2017	03	02		il_a_été_demandé	Par arrêté préfectoral n° 2017/DRIEE/UD77/022 du 02 mars 2017, il a été demandé au mandataire judiciaire de la société PREVENT GLASS de fournir un diagnostic de sols complémentaire, une surveillance des eaux souterraines, une interprétation de l’état des milieux et un mémoire de réhabilitation du site PREVENT GLASS.		'DRIEE', 'la société PREVENT GLASS', 'PREVENT GLASS'
+2005				2005				reprend	En 2005, la société espagnole RIOGLASS reprend la direction du site et reconvertit son activité dans le domaine du verre automobile.		'la société espagnole RIOGLASS'
+2008				2008				est_repris	Mi-2008, le site est repris par le groupe slovène PREVENT qui créé la société PREVENT GLASS.		'le groupe slovène PREVENT', 'la société PREVENT GLASS'
+2005				2005				était_dirigé_par	Jusqu’en 2005, l'établissement était dirigé par la société Thomson Videoglass et était spécialisé dans la fabrication de verres de télévisions.		'la société Thomson Videoglass'
+2001				2001				un_diagnostic_initial	Le site a réalisé un diagnostic initial de la qualité des sols et des eaux souterraines en 1999 et 2001.		
+2015	09	09		2015	09	09		La_mise_en_sécurité	La mise en sécurité du site a été actée le 09 septembre 2015.		

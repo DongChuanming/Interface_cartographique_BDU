@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	12			2017	12			le_diagnostic_initial	Des calculs statistiques basés sur le diagnostic initial (décembre 2017) et les deux diagnostics complémentaires (mars 2018 et mai 2018), ont permis de définir une valeur limite de définition de la pollution concentrée en HCH totaux à 1 900 µg/kg de MS (percentile 85).	'HCH totaux'	
+2017	12			2017	12			ont_été_réalisés	Lors de ce rapport de décembre 2017, 6 sondages ont été réalisés jusqu’à une profondeur d’un mètre et ont révélé une contamination notable en HCH (hydrocarbures hexachlorocyclohexane) sur les S1 et S5.	'HCH', 'hydrocarbures hexachlorocyclohexane'	
+2018	03			2018	03			a_été_réalisée	La première partie a été réalisée en mars 2018, 8 sondages des sols jusqu’à 3 m de profondeur ont été réalisés.		
+2018				2018				un_diagnostic_approfondi_de_pollution_des_sols	En 2018, un diagnostic approfondi de pollution des sols a été réalisé en 2 parties.		
+2018	05			2018	05			les_deux_diagnostics_complémentaires	Des calculs statistiques basés sur le diagnostic initial (décembre 2017) et les deux diagnostics complémentaires (mars 2018 et mai 2018), ont permis de définir une valeur limite de définition de la pollution concentrée en HCH totaux à 1 900 µg/kg de MS (percentile 85).	'HCH totaux'	
+2000				2006				s__est_installé_dans_le_bâtiment_existant	– de 2000 à 2006, après la fermeture de l’atelier, le magasin la Maison Coloniale s’est installé dans le bâtiment existant,		
+2018	03			2018	03			les_deux_diagnostics_complémentaires	Des calculs statistiques basés sur le diagnostic initial (décembre 2017) et les deux diagnostics complémentaires (mars 2018 et mai 2018), ont permis de définir une valeur limite de définition de la pollution concentrée en HCH totaux à 1 900 µg/kg de MS (percentile 85).	'HCH totaux'	
+2006				2017				se_succèdent	– de 2006 à 2017, plusieurs restaurants se succèdent dans le bâtiment (le dernier étant géré par « la Pataterie »).		'« \xa0 la Pataterie'
+1954				2000				a_été_occupé	– de 1954 à 2000, il a été occupé par un atelier de charpente ;		
+1954				1954				était_à_vocation_agricole	– avant 1954, le terrain était à vocation agricole,		

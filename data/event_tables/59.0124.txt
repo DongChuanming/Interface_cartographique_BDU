@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	06		2005	10	06		devient	- 6 octobre 2005: SEAC devient Moulin des Ecluses		'SEAC devient Moulin des Ecluses'
+2003	10			2003	10			_diagnostic	-diagnostic des sols et des eaux souterraines en octobre 2003 pour la parcelle B253		
+2007	01	17		2007	01	17		_Réalisation_d__une_Évaluation_détaillée_des_risques	-Réalisation d'une Évaluation détaillée des risques le 17 janvier 2007 pour la parcelle A874		
+2003	07			2003	07			_diagnostic	-diagnostic des sols et des eaux souterraines en juillet 2003 pour la parcelle A874		
+2005				2005				__vente	- en 2005: vente de la société SEAC à la société MINAKEM.		'la société SEAC', 'société MINAKEM'

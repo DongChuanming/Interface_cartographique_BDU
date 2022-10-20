@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08	31		2000	08	31		injonctions	Le 31 août 2000 et le 11 mai 2001, Monsieur le Préfet demande par injonctions la régularisation administrative des activités du site.		'le Préfet'
+2000	03	31		2000	03	31		s__est_plaint_de_pollution_des_sols	Le 31 mars 2000, le voisinage s'est plaint de pollution des sols.		
+2003	19			2003	19			sont_supprimées	Par arrêté préfectoral du 19décembre 2003, les activités du site sont supprimées et la remise en état du site est demandée au regard du contentieux précédent.		
+2005	11	25		2005	11	25		s__engage_à_réaliser_les_travaux_de_remise_en_état_du_site	Le 25 novembre 2005, le propriétaire du site s'engage à réaliser les travaux de remise en état du site.		
+2001	05	11		2001	05	11		injonctions	Le 31 août 2000 et le 11 mai 2001, Monsieur le Préfet demande par injonctions la régularisation administrative des activités du site.		'le Préfet'
+2003	12	19		2003	12	19		une_Étude_Simplifiée_des_Risques	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, une Étude Simplifiée des Risques (ESR) du site est prescrit par l'arrêté préfectoral du 19 décembre 2003.		

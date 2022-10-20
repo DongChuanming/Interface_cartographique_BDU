@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972	12	21		1972	12	21		était_exploité	Le site était exploité depuis le 21/12/1972, date du récépissé de déclaration autorisant le dépôt et la distribution de carburant, par MM.	'carburant'	
+2007	02	01		2007	02	01		un_mémoire_de_cessation_d__activité	Roger VERNAY a fait rédiger un mémoire de cessation d'activité par la société SITA Remédiation en date du 01/02/2007.		'Roger VERNAY', 'la société SITA Remédiation'
+2006	09	12		2006	09	12		ont_donc_été_dégazées	Celles-ci ont donc été dégazées, nettoyées avant d'être retirées le 12/09/2006.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	25		2008	03	25		a_été_signé	Suite aux différents résultats d'analyses et des conclusions des rapports d'études, un arrêté préfectoral de travaux d'office a été signé par le Prefet du Nord le 25/03/2008.		'le Prefet'
+1984				1984				__Exploitation	- Exploitation de la décharge suspendue par arrêté préfectoral en 1984.		
+								Rapports_reçus	- Rapports reçus en mars 99 puis mars 2000.		
+2000	03			2000	03			Rapports_reçus	- Rapports reçus en mars 99 puis mars 2000.		

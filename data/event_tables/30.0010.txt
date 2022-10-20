@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979				1979				créé	Etablissement créé en 1979 , repris en 1984 par SNER suite à liquidation judiciaire de l'exploitant .		'SNER'
+1997	10	29		1997	10	29		une_dénonciation	A la suite d'une dénonciation le 29/10/1997, l'inspection des installations classées assurée par la DRIRE a été informée de la présence possible de fûts de PCB enfouis sur le site d'environ 4000 m².	'PCB'	'la DRIRE'
+1999	05			1999	05			Le_traitement_biologique_in_situ	Le traitement biologique in situ d'environ 140 t d'autres terres polluées a débuté en mai 1999.		
+1998				1998				a_été_traitée_hors_site	Une centaine de mètres cubes des terres les plus souillées a été traitée hors site en 1998 par APROCHIM.		'APROCHIM'
+				1988				a_compris	L'activité de réfection de matériel électrique a compris notamment celle de transformateurs au PCB jusqu'au début de 1988.	'PCB'	
+1984				1984				repris	Etablissement créé en 1979 , repris en 1984 par SNER suite à liquidation judiciaire de l'exploitant .		'SNER'

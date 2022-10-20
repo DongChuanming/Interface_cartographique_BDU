@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	11	22		2006	11	22		a_cessé	Elle a cessé son activité le 22 février 2005 et la cessation d'activité a été enregistrée en préfecture le 22 novembre 2006.		
+2006	11	22		2006	11	22		la_cessation_d__activité	Elle a cessé son activité le 22 février 2005 et la cessation d'activité a été enregistrée en préfecture le 22 novembre 2006.		
+1981	05	18		1981	05	18		de_déclaration	La société CIMOP (Constructions Industrielles de Mécanique Outillage et Prototypes) bénéficie d'un récépissé de déclaration du 18/05/1981 pour un atelier de travail mécanique des métaux.		'La société CIMOP'
+2006	02	17		2006	02	17		a_transmis	Dans le cadre de son projet de réaménagement, la société « LES NOUVEAUX CONTRUCTEURS » a transmis les résultats d'un diagnostic des sols à l'Inspection des installations classées le 17 février 2006.		'la société « LES NOUVEAUX CONTRUCTEURS'
+2005	03	30		2005	03	30		a_été_racheté	Le site a été racheté par SCI GAJEM le 30 mars 2005 puis a été ensuite revendu à la société « LES NOUVEAUX CONSTRUCTEURS » pour un projet de réaménagement.		'SCI GAJEM', 'NOUVEAUX CONSTRUCTEURS'
+2005	02	22		2005	02	22		a_cessé	Elle a cessé son activité le 22 février 2005 et la cessation d'activité a été enregistrée en préfecture le 22 novembre 2006.		

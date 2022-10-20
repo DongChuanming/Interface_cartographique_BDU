@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				avait_demandé	Suite à ces incidents le préfet avait demandé en 1975 une première étude des sols et de la vulnérabilité de la nappe.		
+1987				1987				a_été_détruit_par	Par ailleurs, le dépôt SHELL a été détruit par un incendie en 1987.		'dépôt SHELL'
+1937				1937				à	Le Port Édouard Herriot a été aménagé par la Compagnie Nationale du Rhône à partir de 1937.		'la Compagnie Nationale du Rhône'
+1978				1978				est_réalisé	Un suivi piézométrique global imposé à chaque site est réalisé depuis 1978.		
+								débordements_de_crues	Diverses pollutions accidentelles ont eu lieu en 73-74 (débordements de crues).		
+2009	11			2009	11			La_dernière_campagne_renseigné	La dernière campagne renseigné de ce suivi (ayant eu lieu en novembre 2009) fait état d'une concentration en HCT inférieure à 0,03 mg/l.	'HCT'	
+1996				1996				L__étude_des_sols	L'étude des sols a été transmise en 1996.		
+				2005	06	09		a_ensuite_progressivement_diminué	La concentration a ensuite progressivement diminué jusqu'au 09/06/2005 où elle atteignait 3,5 mg/l.		
+1995				1995				A_la_demande_de	A la demande de l'administration en 1995, l'Union Française de l'Industrie Pétrolière a fait réaliser en 1996 un diagnostic de la qualité des sols occupés par les dépôts d'hydrocarbures.	"d' hydrocarbures"	"Union Française de l' Industrie Pétrolière"
+1999				1999				une_modification	Il a fait l'objet d'une modification en 1999 afin de tenir compte des résultats acquis et de l'évolution prévisible du site. 2 groupes d'ouvrages sont analysés:		
+1995				1995				un_diagnostic	A la demande de l'administration en 1995, l'Union Française de l'Industrie Pétrolière a fait réaliser en 1996 un diagnostic de la qualité des sols occupés par les dépôts d'hydrocarbures.	"d' hydrocarbures"	"Union Française de l' Industrie Pétrolière"
+1996				1996				un_diagnostic	A la demande de l'administration en 1995, l'Union Française de l'Industrie Pétrolière a fait réaliser en 1996 un diagnostic de la qualité des sols occupés par les dépôts d'hydrocarbures.	"d' hydrocarbures"	"Union Française de l' Industrie Pétrolière"
+2008	02			2008	02			a_été_rédigé	Le dernier en date a été rédigé au mois de février 2008.		
+1944				1944				des_sabordements___1940__	Au cours de la seconde guerre mondiale (1939/45), les dépôts d'hydrocarbures ont connu des sabordements (1940) et un bombardement (1944).	'hydrocarbures'	
+1990	01	31		1990	01	31		a_été_atteinte	La concentration maximale a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du port), elle était alors de 64 260 mg/l.		

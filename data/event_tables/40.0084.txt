@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				la_cessation_définitive_d__activité	Suite à la cessation définitive d'activité en 2004 et aux résultats du diagnostic de 2006, le 26 janvier 2007, la DRIRE estime qu’une action complémentaire de l'Inspection des Installations Classées sur ce site n’est pas nécessaire.		'la DRIRE'
+2004	01	16		2004	01	16		est_en_liquidation_judiciaire	La société BALLION est en liquidation judiciaire depuis le 16 janvier 2004.		'La société BALLION'
+2004				2004				la_cessation_d__activité_déclarée	Suite à la cessation d'activité déclarée en 2004, les déchets de sciures imprégnées ont été évacués en mars 2005.	'les déchets de sciures imprégnées'	
+2006	11	09		2006	11	09		remis	Le rapport final de l'ESR du site a été complété et remis le 9 novembre 2006.		
+2006				2006				la_cessation_définitive_d__activité	Suite à la cessation définitive d'activité en 2004 et aux résultats du diagnostic de 2006, le 26 janvier 2007, la DRIRE estime qu’une action complémentaire de l'Inspection des Installations Classées sur ce site n’est pas nécessaire.		'la DRIRE'
+2005	11	25		2005	11	25		ont_été_remises	L'étape B du diagnostic et l'ESR ont été remises le 25 novembre 2005.		"l' ESR"
+1991	07	29		1991	07	29		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 29 juillet 1991.		
+2006				2006				résultats_du_diagnostic	Suite à la cessation définitive d'activité en 2004 et aux résultats du diagnostic de 2006, le 26 janvier 2007, la DRIRE estime qu’une action complémentaire de l'Inspection des Installations Classées sur ce site n’est pas nécessaire.		'la DRIRE'
+2005	03			2005	03			ont_été_évacués	Suite à la cessation d'activité déclarée en 2004, les déchets de sciures imprégnées ont été évacués en mars 2005.	'les déchets de sciures imprégnées'	
+2004	02	13		2004	02	13		est_reçu	Le dossier de cessation d'activité est reçu le 13 février 2004.		
+2004	04	12		2004	04	12		a_été_remise	L'étape A a été remise le 12 avril 2004.		
+2004				2004				a_cessé_son_activité	Elle a cessé son activité en 2004.		
+2004				2004				ont_été_évacués	Suite à la cessation d'activité déclarée en 2004, les déchets de sciures imprégnées ont été évacués en mars 2005.	'les déchets de sciures imprégnées'	
+2009	10	29		2009	10	29		La_clotûre	La clotûre pour insuffisance d'actifs a eu lieu le 29 octobre 2009.		

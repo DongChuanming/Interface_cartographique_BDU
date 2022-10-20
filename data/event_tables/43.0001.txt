@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	12	09		2008	12	09		a_été_arrêté	Par suite de résultats d'analyses indiquant une décroissance pérenne des concentrations en hydrocarbures, la surveillance de la qualité des eaux souterraines au droit du site a été arrêté par arrêté préfectoral n° DAI-B1/2008-43 du 9/12/2008.	'hydrocarbures'	
+2015				2015				surveillance	A la date de la mise à jour (2015), le site n'est plus sous surveillance, pour autant, un impact relativement faible des activités de la société BRINGER persiste au droit du site.		'la société BRINGER'
+2008	1			2008	1			a_été_arrêté	Par suite de résultats d'analyses indiquant une décroissance pérenne des concentrations en hydrocarbures, la surveillance de la qualité des eaux souterraines au droit du site a été arrêté par arrêté préfectoral n° DAI-B1/2008-43 du 9/12/2008.	'hydrocarbures'	
+								a_été_arrêté	Par suite de résultats d'analyses indiquant une décroissance pérenne des concentrations en hydrocarbures, la surveillance de la qualité des eaux souterraines au droit du site a été arrêté par arrêté préfectoral n° DAI-B1/2008-43 du 9/12/2008.	'hydrocarbures'	
+1990	06	30		1990	06	30		a_cessé	Cette activité a cessé le 30 juin 1990, elle est aujourd'hui démantelée.		
+1925				1925				créée	Ancienne usine créée en 1925 dont l'activité consistait à traiter le bois, pôteaux EDF et PTT, charpentes et  traverses de chemin de fer par imprégnation profonde à la créosote et aux sels minéraux.	'à la créosote', 'aux sels minéraux'	

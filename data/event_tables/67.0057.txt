@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	08			1999	08			De_nouvelles_études	De nouvelles études en août 1999 complémentant l'ESR ont montré une concentration élevée en trichloréthylène sur un piézomètre à l'extérieur du site.	'trichloréthylène'	
+2001	03			2001	03			L__EDR_transmise	L'EDR transmise fin mars 2001 par le bureau d'études URS conclue que les risques générés par la pollution par les solvants chlorés du site de Flash met en évidence la présence de risques potentiels pour la ressource en eau et la santé humaine.	'solvants chlorés'	'URS'
+								Le_diagnostic_de_pollution	Le diagnostic de pollution réalisé le 20/05/98 a montré une pollution des sols par des solvants chlorés (trichloréthylène), aux hydrocarbures ponctuellement et des traces de PCB.	'solvants chlorés', 'trichloréthylène', 'hydrocarbures ponctuellement', 'PCB'	

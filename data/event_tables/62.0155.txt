@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	09	24		2012	09	24		__début	- Le 24/09/2012, début du chantier.		
+2010	01			2010	01			imposant	- En janvier 2010, APC imposant des prescriptions complémentaires, notamment un traitement de la pollution des sols par les PCB.	'PCB'	
+2009				2009				fourniture_d_	- En 2009, fourniture d'une EQRS relatives à l'usage futur.		
+2012	11	29		2012	11	29		La_visite	- La visite d'inspection du 29/11/2012 ne relève pas d'écart de conformité.		

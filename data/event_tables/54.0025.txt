@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02			1998	02			Les_travaux_ont_été_terminés	Les travaux ont été terminés en février 1998.		
+1996				1996				a_été_découverte	Une pollution aux hydrocarbures totaux a été découverte par la société de l'autoroute en 1996 (présence d'hydrocarbures dans le fossé).	'hydrocarbures totaux', 'hydrocarbures'	
+2011	02	03		2011	02	03		a_informé	Le 3 février 2011, la société BP FRANCE a informé Monsieur le Préfet de Meurthe-et-Moselle de son projet de reconstruction de la station avec augmentation des capacités de stockage et de distribution de carburants.	'carburants'	'la société BP FRANCE', 'le Préfet'
+1996	09			1996	09			Une_étude_diagnostic	Une étude diagnostic réalisée en septembre 1996 montre une fuite estimée à 6 m3 de gazole et a engendré des travaux de traitement du site par récupération des flottants et par bioventing.	'gazole'	

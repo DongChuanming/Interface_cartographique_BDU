@@ -1,0 +1,40 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10	14		2010	10	14		a_été_réalisé	Un rapport de tierce expertise a été réalisé le 14/10/2010 par le bureau d'études ECOLOGIAS.		'ECOLOGIAS'
+2005	03			2005	03			Le_diagnostic_approfondi	Le diagnostic approfondi et l'EDR réalisés en mars 2005, montrent que les métaux sont présents jusqu'à plusieurs mètres de profondeur.	'métaux'	
+2007	12	04		2007	12	04		a_été_transmis	Le 04/12/2007 le récépissé de déclaration de cessation d'activité a été transmis par la société STCR.		'la société STCR'
+2012	02	02		2012	02	02		a_été_présenté	Un dossier de servitudes a été présenté le 02/02/2012 par la société FIMALAC, il vise à maintenir le site de telle sorte que des envols de poussières ne puissent avoir lieu en définissant:		'la société FIMALAC'
+2009	11	19		2009	11	19		a_été_établi	Le plan de gestion global du site a été établi le 19/11/2009 et précise les mesures de gestion suivantes :		
+2008	04			2008	04			la_campagne_d_	Lors de la campagne d'avril 2008 :		
+								Les_prélèvements_ont_été_effectués_lors_de_l_	Les prélèvements ont été effectués lors de l'état initial, en janvier et juin 2010.		
+2011	02	15		2011	02	15		a_été_établi	Le rapport de l'état résiduel du site suite aux travaux environnementaux a été établi le 15/02/2011 par la société BG environnement.		'la société BG'
+1998				1998				différentes_études_établies	Les éléments de ce dossier sont issus entre autres de différentes études établies en 1997, 1998 et 2005 (diagnostic de site, étude historique, diagnostic environnemental approfondi et évaluation détaillée des risques (EDR)).		
+1998	01			1998	01			Le_diagnostic_effectué	Le diagnostic effectué en janvier 1998 a donné plus de précisions et a permis de :		
+				1991				aurait_été_exercé	Ce type d’activités aurait été exercé depuis 1872 et jusqu’en 1991.		
+1997	07			1997	07			L__étude_historique	L'étude historique et le pré-diagnostic de juillet 1997 concluent à une pollution des sols en surfaces par des métaux au droit du site, mais sans pouvoir déterminer des zones précises et sans avoir étudié l'impact sur la nappe souterraine.	'des métaux'	
+				2009	10	28		Une_campagne_d__investigations	Une campagne d'investigations a été menée du 19 au 28/10/2009.		
+2010	04			2010	04			Le_suivi_a_été_mené	Le suivi a été mené à fréquence hebdomadaire du 18/05/2009 au 28/12/2009, puis mensuel jusqu'en avril 2010.		
+1925				1929				a_exploité	La société Comptoir Lyon Alemand Louyot (CLAL) a exploité sur le site des activités de fonderie notamment d’argent, de fonte et de plomb ainsi que de traitement des métaux entre 1925 et 1929.	'plomb'	'La société Comptoir'
+2007	04	06		2007	04	06		a_été_établi	* Le mémoire de cessation d'activité a été établi en mars 2006 et transmis à la DREAL le 06/04/2007.		'la DREAL'
+1997				1997				différentes_études_établies	Les éléments de ce dossier sont issus entre autres de différentes études établies en 1997, 1998 et 2005 (diagnostic de site, étude historique, diagnostic environnemental approfondi et évaluation détaillée des risques (EDR)).		
+2008	01			2008	01			Diagnostic_environnemental	* Diagnostic environnemental et Caractérisation des milieux d'exposition hors site (ANTEA janvier 2008)		
+2009	05	29		2009	12	21		Un_état_initial_a_été_réalisé	Un état initial a été réalisé le 24/04/2009, puis la surveillance a été menée du 29/05/2009 au 21/12/2009.		
+2009	04			2009	04			élimination	- élimination des déchets présents sur le site (avril 2009) ;		
+2010	07	13		2010	07	13		a_été_émis	Le rapport d'analyse des risques résiduels (ARR) a été émis le 13/07/2010.		
+2012	02	14		2012	02	14		a_été_établi	un procès verbal de recolement de réalisation des travaux a été établi le 14/02/2012.		
+2010	01	27		2010	01	27		visite_d__inspection	- visite d'inspection du 27/01/2010 constatant l'évolution des travaux de réhabilitation ;		
+				2010	04			les_campagnes_ont_été_réalisées	A l'issue de la mise en sécurité du site et jusqu'à la végétalisation, les campagnes ont été réalisées avec une fréquence mensuelle jusqu'en avril 2010. 21 campagnes ont été réalisées au total.		
+				2007	06	30		a_été_exploitée	L'autre partie du site, également propriété de la société FIMALAC, a été exploitée par la Société de Traitement de Catalyseurs Reforming (STRC) jusqu'au 30/06/2007.		'la société FIMALAC', 'la Société de Traitement de Catalyseurs Reforming'
+2009				2009				démontage	- démontage de certains bâtiments après dépoussiérage et désamiantage éventuellement (courant 2009) ;		
+2005				2005				différentes_études_établies	Les éléments de ce dossier sont issus entre autres de différentes études établies en 1997, 1998 et 2005 (diagnostic de site, étude historique, diagnostic environnemental approfondi et évaluation détaillée des risques (EDR)).		
+2009	11	12		2009	11	12		a_été_décelée_temporairement	Seule une anomalie en cadmium a été décelée temporairement au droit de PZ2 du 30/09/2009 au 26/04/2010 jusqu'à 39 µg/L le 12/11/2009.	'cadmium'	
+2010	06			2010	06			Les_prélèvements_ont_été_effectués_lors_de_l_	Les prélèvements ont été effectués lors de l'état initial, en janvier et juin 2010.		
+								5_prélèvements_ont_été_réalisés	5 prélèvements ont été réalisés durant 35 jours via des jauges qui permettent de collecter passivement l'eau de pluie et les poussières dans un bocal. 2 sur le site ( point 2 en amont du site et point 1 en aval du site), les points D, J (habitations les plus proches du site) et G (bruit de fond).		
+2009	10			2009	10			la_campagne_d_	La comparaison des résultats de la campagne d'octobre 2009 et les précédentes ne permet pas d'établir une tendance nette à la hausse ou à la baisse de l'évolution des concentrations en éléments métalliques dans les sols et les végétaux des potagers.	'éléments métalliques'	
+1989	10	09		1989	10	09		de_déclaration	Le site bénéficie d'un récépissé de déclaration du 09/10/1989 pour les activités de fonderie de plomb et de traitement électrolytique.		
+2007	11	01		2007	11	01		est_actuellement_loué	Le site est actuellement loué à la société SAAMP depuis le 01/11/2007.		'la société SAAMP'
+2009	04	24		2009	04	24		Un_état_initial_a_été_réalisé	Un état initial a été réalisé le 24/04/2009, puis la surveillance a été menée du 29/05/2009 au 21/12/2009.		
+2006	03			2006	03			a_été_établi	* Le mémoire de cessation d'activité a été établi en mars 2006 et transmis à la DREAL le 06/04/2007.		'la DREAL'
+2009	05	29		2009	12	21		a_été_menée	Un état initial a été réalisé le 24/04/2009, puis la surveillance a été menée du 29/05/2009 au 21/12/2009.		
+1996				1996				est_absorbée	Une partie du site CLAL est absorbée par la société FIMALAC en 1996, qui acquiert de ce fait la qualité d’ancien exploitant du site.		'CLAL', 'la société FIMALAC'
+2005	03			2005	03			l__EDR_réalisés	Le diagnostic approfondi et l'EDR réalisés en mars 2005, montrent que les métaux sont présents jusqu'à plusieurs mètres de profondeur.	'métaux'	
+2015				2015				devra_réaliser_un_bilan_quadriennal	Fin 2015, la société FIMALAC devra réaliser un bilan quadriennal des analyses.		'la société FIMALAC'

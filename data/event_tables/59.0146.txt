@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1973				a_été_exploitée	-Cette décherge a été exploitée de 1970 à 1973.		
+1970				1970				a_été_autorisé	- La sociéré RECYLEX (ex: Metaleurop) a été autorisé en 1970 à constituer sur la parcelle cadastrée 672 à Aubencheul-au-Bac, un dépôt de déchets plombeux provenant de l'usine d'Escaudoeuvres.	'dépôt de déchets plombeux'	'La sociéré RECYLEX', 'Metaleurop'
+2007	07			2007	07			ont_été_implantés	3 piézomètres ont été implantés (1 en amont, 2 en aval en juillet 2007)		
+2003	09			2003	09			Les_travaux_imposés	Les travaux imposés dans le cadre des arrêtés préfectoraux ont été achevés en septembre 2003.		
+2001	04	04		2001	04	04		__dossier_en_vue_de_servitudes_remis	- dossier en vue de servitudes remis le 04/04/2001		

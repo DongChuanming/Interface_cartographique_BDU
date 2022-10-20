@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	05			2014	05			un_diagnostic_environnemental_préliminaire	Dans le cadre d'un projet de rénovation des installations, l'exploitant a réalisé un diagnostic environnemental préliminaire en mai 2014.		
+2017	03	14		2017	03	14		a_transmis	L'exploitant a transmis son plan de gestion par courriel du 14 mars 2017.		
+2016	11	25		2016	11	25		a_été_pris	Suite à ces éléments, un arrêté préfectoral a été pris le 25 novembre 2016 afin :		
+1996	08	02		1996	08	02		exploite	La société CARREFOUR STATIONS SERVICE exploite une station-service sur la commune d’Etampes autorisée par l’arrêté préfectoral n°96.3406 du 2 août 1996.		'La société CARREFOUR', 'STATIONS SERVICE'

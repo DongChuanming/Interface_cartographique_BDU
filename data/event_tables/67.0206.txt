@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	07		2008	01	07		un_diagnostic_environnemental	Il fait réaliser le 7 janvier 2008 un diagnostic environnemental du site par un bureau d'étude compétant.		
+2008	08			2008	08			un_diagnostic_environnemental_complémentaire	La ville de Wissembourg qui a racheté les terrains de la société BOIS DE FRANCE, fait réaliser un diagnostic environnemental complémentaire en août 2008.		'la société BOIS DE FRANCE'
+2014				2014				effectués	Les résultats d'analyse effectués en 2014 ne montrent aucune anomalie concernant la qualité des eaux souterraines sur le site.		
+2003	09			2003	09			a_été_placée_en_liquidation_judiciaire	Cette société a été placée en liquidation judiciaire en septembre 2003.		
+2008	01			2008	01			un_diagnostic_environnemental	Le liquidateur judiciaire en charge de la procédure de mise en sécurité du site dans le cadre de sa cessation d'activité, a fait réaliser un diagnostic environnemental au droit du site en janvier 2008.		
+2003	09			2003	09			est_placée_en_liquidation_judiciaire	Elle est placée en liquidation judiciaire en septembre 2003.		
+2008				2008				Ce_diagnostic	Ce diagnostic sera complété aout 2008 par une étude environnementale complémentaire demandée par la ville de Wissembourg, l'actuel propriétaire des terrains du site BOIS DE FRANCE.		'BOIS DE FRANCE'

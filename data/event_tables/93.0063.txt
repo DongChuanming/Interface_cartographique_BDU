@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				remet	En 2012, l’exploitant remet un nouveau plan de gestion qui est cette fois-ci jugé satisfaisant par l’inspection des installations classées.		
+2009				2009				remet	En 2009, Johnson et Diversey remet un plan de gestion à l’inspection des installations classées.		'Johnson'
+2006				2006				est_exploité	En 2006, alors que le site est exploité par la société Johnson Diversey, cette dernière cesse son activité.		'la société Johnson Diversey'
+2007				2007				la_mise_en_sécurité	En 2007, la société Johnson Diversey procède à la mise en sécurité du site.		'la société Johnson Diversey'

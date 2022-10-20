@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_changé_de_noms	En 2010 Rhodia Electronics & Catalysis a changé de noms pour RHODIA OPERATIONS		'Rhodia Electronics & Catalysis', 'RHODIA OPERATIONS'
+2002	01			2002	01			étape_A_du_diagnostic_initial	L'étape A du diagnostic initial a été remise à l'inspection en janvier 2002.		
+2003	10	17		2003	10	17		la_mise_en_place_d__une	Sans attendre l'issue de ces investigations et sur proposition de l'inspection des installations classées, le préfet de la Charente Maritime a imposé à l'exploitant, par arrêté du 17 octobre 2003, la mise en place d'une surveillance de la qualité des eaux souterraines, justifiée sur la base d'une étude historique des activités et d'une expertise hydrogéologique au droit de ce site.		'le préfet de la Charente Maritime'
+2005	03			2005	03			présente_l__étude_de	En mars 2005, Rhodia présente l'étude de sol phase B et l'ESR ainsi qu'un programme complémentaire de surveillance des eaux souterraines et en mai 2006 un nouveau complément portant notamment sur la surveillance de la radioactivité.		'Rhodia'
+2009	10	05		2009	10	05		un_étude_hydrologique	Le 05/10/2009 un étude hydrologique a été réalisé par la société ENVIRON France SAS pour l'entreprise RHODIA suite à l'arrêté préfectoral d'exploiter du 06/07/2009.		'la société ENVIRON France', 'RHODIA'
+2003	04	16		2003	04	16		Les_premières_analyses	Les premières analyses ont été réalisées le 16 avril 2003.		
+2009	07	06		2009	07	06		un_étude_hydrologique	Le 05/10/2009 un étude hydrologique a été réalisé par la société ENVIRON France SAS pour l'entreprise RHODIA suite à l'arrêté préfectoral d'exploiter du 06/07/2009.		'la société ENVIRON France', 'RHODIA'

@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	01	31		1994	01	31		se_diversifie	L'activité sur le site se diversifie et comprend la production de colles pour carrelages (autorisé par l'arrêté préfectoral du 31/01/1994).		
+1961				1961				L__activité_industrielle	L'activité industrielle sur le site a débuté en 1961 par l'implantation de la société BOIRAUD, spécialisée dans la production de peintures.		'la société BOIRAUD'
+2005	07	27		2005	07	27		rédigé_par	Le rapport rédigé par BURGEAP le 27/07/2005 fait état de contamination ponctuels en métaux lourds.	'métaux lourds'	'BURGEAP'
+2012	04	02		2012	04	02		a_été_rédigé	Le rapport de fin de travaux a été rédigé en date du 02/04/2012.		
+2005	01	1		2005	01	1		a_été_revendu	Le site a été revendu le 1er janvier 2005 à la filiale CEGECOL du groupe.		'CEGECOL'
+1985				1985				est_rachetée	En 1985, l'entreprise est rachetée par le groupe MAC TOOLS.		'le groupe MAC TOOLS'
+1991				1991				est_ensuite_revendue	Elle est ensuite revendue en 1991 à SADOLIN, une filiale du groupe NOBEL.		'SADOLIN', 'groupe NOBEL'
+2010	10	12		2010	10	12		Un_nouveau_diagnostic_des_sols	Un nouveau diagnostic des sols a été réalisés en date du 12/10/2010. 27 sondages ont alors été réalisé montrant des pollutions en:		
+2010	04	08		2010	04	08		a_été_signé	Un arrêté préfectoral a été signé le 08/04/2010 afin d'imposer à CEGECOL :		'CEGECOL'
+2005	07	29		2005	07	29		une_mise_à_l__arrêt_définitive	La production de peinture sur le site a fait l'objet d'une mise à l’arrêt définitive le 29/07/2005.		
+1994	01			1994	01			fusionne_avec	En janvier 1994, le groupe NOBEL fusionne avec le groupe AKZO pour former AKZO-NOBEL, un récépissé de changement d'exploitant a été signé en date du 31/01/1994.		'le groupe NOBEL', 'le groupe AKZO', 'former AKZO - NOBEL'
+2011	11	21		2011	11	21		a_été_signé	Un arrêté complémentaire a été signé le 21/11/2011 afin d'imposer à CEGECOL la mise en place d'un suivi trimestriel de la qualité des eaux souterraine sur un minimum de 2 ouvrages.		'CEGECOL'
+2011	02	04		2011	02	04		a_été_rédigé	Un plan de gestion a été rédigé le 04/02/2011 suite à ces investigations.		
+2010	06			2010	06			la_cessation_total_de_son_activité	Dans un courrier à l'attention de l'Administration, la société CEGECOL déclare la cessation total de son activité au mois de juin 2010.		'la société CEGECOL'
+2012	10			2012	10			4_campagnes_ont_été_réalisées	Au mois d'octobre 2012, 4 campagnes ont été réalisées.		
+1994	01	31		1994	01	31		fusionne_avec	En janvier 1994, le groupe NOBEL fusionne avec le groupe AKZO pour former AKZO-NOBEL, un récépissé de changement d'exploitant a été signé en date du 31/01/1994.		'le groupe NOBEL', 'le groupe AKZO', 'former AKZO - NOBEL'
+2012	04	02		2012	04	02		à_été_rédigé	Un dossier de demande de servitudes conventionnelles au profit de l'état à été rédigé le 02/04/2012.		
+2013	07	18		2013	07	18		est_signée	Une servitude de restriction d'usage au profit de l'Etat est signée le 18 juillet 2013 entre CEGECOL et l'Etat.		'CEGECOL'
+2016	04	11		2016	04	11		est_signé	L'arrêté préfectoral instaurant une servitude d'utilité publique est signé le 11/04/2016.		
+2004	12	02		2004	12	02		un_complément_d__étude_a_été_réalisé	Dans le cadre du transfert du site à la société CEGECOL, un complément d'étude a été réalisé le 02/12/2004. 12 sondages ont été réalisés mettant en avant une pollution des sols en :		'la société CEGECOL'

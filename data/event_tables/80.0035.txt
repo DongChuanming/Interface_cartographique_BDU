@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	19		2005	05	19		d__une_inspection	Lors d'une inspection sur le site le 19 mai 2005, il a été constaté que les déchets avaient été évacués.		
+2007	02	22		2007	02	22		a_été_adopté	L'ensemble des travaux prescrits n'ayant pas été réalisé, après une mise en demeure, un arrêté préfectoral de consignation a été adopté le 22 février 2007 imposant à la société Decayeux de payer les travaux de dépollution et de confinement ainsi que la réalisation d'un dossier de cessation d'activité.		'la société Decayeux'

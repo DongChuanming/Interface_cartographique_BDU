@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10	04		2010	10	04		est_rendu	Le mémoire de cessation d'activité est rendu le 4 octobre 2010.		
+2010	05	06		2010	05	06		du	La cessation d'activité est déclarée le 14 avril 2010 (récépissé du 6 mai 2010).		
+2011	01	27		2011	01	27		des_travaux_de_remise_en_état_est_dressé	Le procès-verbal de récolement des travaux de remise en état est dressé le 27 janvier 2011 par l'inspecteur des installations classées.		
+2012	01	10		2012	01	10		est_prescrite	Par arrêté préfectoral complémentaire du 10 janvier 2012, la surveillance des eaux souterraines est prescrite selon les modalités suivantes :		
+2010	05	06		2010	05	06		La_cessation_d__activité	La cessation d'activité est déclarée le 14 avril 2010 (récépissé du 6 mai 2010).		
+2010	06	30		2010	06	30		ont_été_excavées_et_envoyées	Les terres du local des compresseurs polluées par des hydrocarbures (9,42 tonnes) ont été excavées et envoyées le 30 juin 2010 chez Occitanis à Graulhet (81).	'hydrocarbures'	
+2010	04	14		2010	04	14		La_cessation_d__activité	La cessation d'activité est déclarée le 14 avril 2010 (récépissé du 6 mai 2010).		

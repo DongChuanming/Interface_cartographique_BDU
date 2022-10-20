@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09	05		2001	09	05		le	La société avait été autorisée par arrêté préfectoral 22 octobre 1997 modifié le 5 septembre 2001.		
+2009	09	25		2009	09	25		une_demande_d_	Il a déposé à cet effet une demande d'autorisation d'exploiter le 4 mars 2008 pour laquelle il a obtenu un arrêté préfectoral d'autorisation du 25 septembre 2009.		
+2011	10	21		2011	10	21		la_cessation_d__activités	Par transmission du 21 octobre 2011, la société DECAMAT a déclaré la cessation d'activités sur ce site de Villefranche-sur-Saône.		'la société DECAMAT'
+2013	2011			2013	2011			un_pic_de_pollution	2 – d’un pic de pollution aux hydrocarbures entre 2011/2013, avec un impact très significatif sur la qualité des eaux dans le piézomètre PZ3 situé au sud du site (jusqu’à 38 000 µg/l en hydrocarbures en juin 2013).	'hydrocarbures', 'hydrocarbures'	
+1988				1988				était_implantée	La société DECAMAT était implantée sur le site à Villefranche-sur-Saône depuis 1988.		'La société DECAMAT'

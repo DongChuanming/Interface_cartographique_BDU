@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	11			2003	11			Le_dossier_remis	Le dossier remis en novembre 2003 montre que les investigations menées ont révélé l'absence d'hydrocarbures au sein des eaux souterraines.	'hydrocarbures'	
+1987	09			1987	09			Les_inventaires	Les inventaires des stocks d'hydrocarbures du dépôt font apparaître en septembre 1987 un manque de fioul de 65 m3.	'hydrocarbures', 'fioul'	
+1986				1986				un_déversement_accidentel	De plus, un déversement accidentel de 300 m3 de fuel en 1986 a eu lieu.	'fuel'	
+2003				2003				compléments_d__investigations	Des compléments d'investigations ont été demandés début 2003 pour confirmer ou infirmer les constatations antérieures.		
+2012				2012				le	Pour le second semestre 2012 la teneur en hydrocarbures sur le P18 atteint 6102µg/l	'hydrocarbures'	
+1923				1923				a_été_créé	Le site du Complexe du Port aux Pétroles a été créé en 1923.	'Pétroles'	

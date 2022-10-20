@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	02	04		2016	02	04		a_reçu	Le 4 février 2016, la préfecture a reçu un dossier adressé par l'exploitant relatif à la cessation d'activité et aux mesures prévues pour mettre en sécurité le site.		'la préfecture'
+2016	09			2016	09			cuve_enterrée_a_été_retirée	La cuve enterrée a été retirée en septembre 2016.		
+2015	02	26		2015	02	26		constat_de_la_visite	Un des 2 bâtiments affectés au stockage des céréales avait été loué à la société MAUDET NEGOCE basée a Beaumont-sur-Sarthe (constat de la visite d'inspection du 26 février 2015).		'la société MAUDET NEGOCE'
+1970	05	14		1970	05	14		l__extension	- du 14 mai 1970 pour l'extension du bâtiment d'engrais pour un usage de magasin de stockage et d'expédition d'engrais,		
+2016	12	22		2016	12	22		levée_de_la_mise_en_demeure	L’inspection a d’ailleurs proposé la levée de la mise en demeure du 22/12/2016.		
+2005	08	31		2005	08	31		a_déclaré_la_cessation_de_son_activité	Par courrier du 13 juillet 2006, l'exploitant a déclaré la cessation de son activité le 31 août 2005.		
+2018	02			2018	02			fonds_de_fouille_ont_été_réalisés	Des prélèvements de terres résiduelles en fonds de fouille ont été réalisés après l'excavation en février 2018.		
+2006	07	13		2006	07	13		a_déclaré_la_cessation_de_son_activité	Par courrier du 13 juillet 2006, l'exploitant a déclaré la cessation de son activité le 31 août 2005.		
+2016	10	11		2016	10	11		Une_visite_d__inspection	Une visite d’inspection en date du 11/10/2016 a été réalisée, suite à ces plaintes, donnant lieu à un arrêté préfectoral de mise en demeure prescrivant à l’exploitant de mettre en sécurité le site.		

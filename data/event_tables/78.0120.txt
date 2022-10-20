@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	01			2016	01			a_été_réalisée	Une phase pilote de traitement des sols par venting a été réalisée en janvier 2016.		
+2013				2013				une_étude_complémentaire_a_été_réalisée	Afin d’étudier la faisabilité des techniques de dépollution in-situ sur le site, une étude complémentaire a été réalisée en 2013.		
+2012				2012				un_premier_diagnostic	Dans le cadre du projet de la mise à l’arrêt de l’ancienne station de distribution de carburant et des anciens stockages de gazole parallèlement à l’installation d’une nouvelle station et d’un nouveau stockage datant de 2012, un premier diagnostic de l'état des sols basé sur 28 sondage a été réalisé.	'carburant', 'gazole'	

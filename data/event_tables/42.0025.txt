@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	07	23		1997	07	23		est_en_liquidation_judiciaire	Cette dernière société spécialisée en traitement de surface est en liquidation judiciaire depuis le 23/07/1997.		
+1987	07	06		1987	07	06		a_été_autorisée	La SA TANIS SAPO a été autorisée sur ce site par Arrêté Préfectoral du 06/07/1987.		'La SA TANIS SAPO'
+2000	02	17		2000	02	17		rapport	Suite à rapport du 17 février 2000 de l'inspecteur, le Préfet a prescrit au mandataire judiciaire, Maître CHARRIERE, par Arrêté Préfectoral du 16/05/2000 une Etude Simplifiée des Risques (ESR) concernant en particulier une recherche des métaux lourds, les hydrocarbures totaux et aromatiques, les PCB.	'métaux lourds', 'hydrocarbures totaux et aromatiques', 'les PCB'	'le Préfet', 'Maître CHARRIERE'
+2005	04	20		2005	04	20		a_précisé	Par lettre du 20 avril 2005, Me Charrière a précisé à l'inspection qu'un jugement du tribunal de Commerce de Saint-Étienne du 30 mars 2005 a clôturé la liquidation.		'tribunal de Commerce de Saint-Étienne'
+2004	12	13		2004	12	13		a_été_signée	Le mandataire judiciaire, en tant que représentant de l'exploitant, n'ayant pas satisfait à cet AP, il a été proposé au préfet une mise en demeure qui a été signée le 13/12/2004.		
+2004	12	13		2004	12	13		a_été_proposé	Le mandataire judiciaire, en tant que représentant de l'exploitant, n'ayant pas satisfait à cet AP, il a été proposé au préfet une mise en demeure qui a été signée le 13/12/2004.		
+1997	09	26		1997	09	26		ont_été_constatées	Les infractions liées à la non déclaration de cessation d'activité (art 34.1 du décret du 21/09/1977) et à la non remise d'un dossier relatif à la remise en état du site ont été constatées par l'inspecteur des Installations Classées de la DRIRE le 26/09/1997.		'la DRIRE'
+1996	02	29		1996	02	29		a_été_rachetée	Cette société a été rachetée par la SA TANIS CONFORT le 29/02/1996.		'la SA TANIS CONFORT'

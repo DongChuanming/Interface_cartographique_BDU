@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06			2006	06			ont_pu_être_contrôlées	Les eaux de la nappe phréatique n'ont pu être contrôlées depuis juin 2006, les piézomètres de contrôle PW3 et PW4 sont détériorés depuis 2005 et le piézomètre PW2 est inaccessible depuis juin 2006.		
+2006	02	16		2006	02	16		de_l__inspection	Lors de l'inspection du 16 février 2006, il est constaté des dégradations sur les piézomètres PW3 et PZ4 (absence de cadenas + bouchés) et sur la pompe de relevage des eaux de l'alvéole n°1.		
+2011	03			2011	03			de_la_visite	Lors de la visite de mars 2011, il a été constaté que le site du confinement COKERIE était utilisé comme parcours de moto-cross ou de quad.		
+2007	12			2007	12			les_mesures	Au niveau du confinement ouest, les mesures de décembre 2007 ne montrent pas d'évolution significative de la qualité des percolats transitant au travers des terres mises en dépôt.		
+2007	12			2007	12			des_analyses	Au niveau du confinement cokerie, on observe lors des analyses de décembre 2007 portant sur les eaux au droit du piézomètre de contrôle :		
+2002				2002				ne_sont_plus_détectés	Les composés phénoliques et les hycrocabures ne sont plus détectés dans ces percolats depuis 2002.	'Les composés phénoliques', 'les hycrocabures'	
+2001				2001				est_monté	Suite à une panne de la pompe de relevage des eaux collectées du confinement cokerie fin 2001, le niveau d'eau est monté à l'intérieur du confinement.		

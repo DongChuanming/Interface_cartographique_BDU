@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	17		2000	07	17		a_cessé	L'emprise de cette installation était d'environ 1000m2; elle a cessé son activité le 17 juillet 2000.		
+1990	11	06		1990	11	06		transfert_l__autorisation	Le 6 novembre 1990 l'arrêté n°2415 transfert l'autorisation de l'activité à la société Genet qui changera sa dénomination sociale en SITA CENTRE OUEST le 29 mai 2002.		'la société Genet', 'SITA CENTRE OUEST'
+2011	09	12		2011	09	12		La_cessation_complète_d__activité	La cessation complète d'activité est notifiée le 12 septembre 2011.		
+1999	06	14		1999	06	14		La_cessation_d__activité	La cessation d'activité du site est déclarée le 14 juin 1999 et réglementée par l'arrêté préfectoral n°2001-1.872 du 17 juillet 2001.		
+2009				2009				ont_été_détectées	Des traces de Plomb et de Cu ont été détectées dans le piézomètre amont en 2009.	'Plomb', 'Cu'	
+2011				2011				a_été_proposé	Un projet de servitudes d'utilité publique a été proposé en 2011 pour garder en mémoire l'existence de l'ancien site de stockage de déchets non dangereux.	'déchets non dangereux'	
+2000				2009				Un_tassement	Un tassement du terrain entre 2000 et 2009 de l'ordre de 30 cm est constaté.		
+1999				1999				a_été_aménagée	Dans l'attente de l'ouverture du centre stockage d'Orval, une station de transit provisoire a été aménagée sur le site en 1999.		
+2002	05	29		2002	05	29		changera_sa_dénomination_sociale	Le 6 novembre 1990 l'arrêté n°2415 transfert l'autorisation de l'activité à la société Genet qui changera sa dénomination sociale en SITA CENTRE OUEST le 29 mai 2002.		'la société Genet', 'SITA CENTRE OUEST'
+2006				2006				a_été_achetée	La parcelle cadastrée BV n°218 a été achetée par le club d'aéromodélisme en 2006.		
+2006	05	16		2006	05	16		couvre_les_parcelles_cadastrées	Depuis le 16 mai 2006, il couvre les parcelles cadastrées BV 218 et 219.		

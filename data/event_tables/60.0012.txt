@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	12	29		1995	12	29		la_réalisation_de_travaux_de_dépollution	Le 29 décembre 1995, un arrêté préfectoral a imposé à la société PROSIGN la réalisation de travaux de dépollution et l'élaboration d'un mémoire sur l'état du site à l'issue d'une période de deux ans à compter de la date de l'arrêté.		'la société PROSIGN'
+1998	07			1998	07			une_analyse	Ces éléments ont fait l'objet d'une analyse critique par un tiers expert en juillet 1998.		
+				2008	10			Des_investigations_supplémentaires_ont_été_effectuées	Des investigations supplémentaires ont été effectuées entre septembre et octobre 2008 pour caractériser davantage la situation environnementale du site par rapport aux sols et aux eaux souterraines.		
+2002	01			2002	01			a_été_cassé	L'arrêté préfectoral du 29 décembre 1995 a été cassé par le tribunal administratif d'Amiens en janvier 2002.		
+2001	12			2001	12			a_remis	La société Prosign a remis en décembre 2001 un mémoire en réponse aux questions du tiers expert.		'La société Prosign'

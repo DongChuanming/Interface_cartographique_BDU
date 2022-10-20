@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			une_analyse_détaillée_résiduelle	Le CHRU a procédé à la réhabilitation du site (excavation des terres polluées) et une analyse détaillée résiduelle des risques (mai 2006) a permis de démontrer que l'usage et les aménagements retenus sont compatibles avec l'état des terrains après dépollution des sols.		'Le CHRU'
+2005	04			2005	04			Un_diagnostic	Un diagnostic de la pollution des sols afin de déterminer l'extension de l'auréole de contamination aux hydrocarbures et un rapport de fin de travaux de dépollution ont été réalisés en avril 2005.	'hydrocarbures'	
+2002	06			2002	06			Une_Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques, réalisée en juin 2002, pour un usage industriel du site, classe le site en 2 pour les mileux eaux souterraines et eaux superficielles et ce, pour les trois sources retenues, à savoir gazole, cuivre et chrome.	'gazole', 'cuivre', 'chrome'	
+								ayant_finalement_décidé	Le CHRU ayant finalement décidé de procéder à la dépollution des terrains par excavation des terres localement polluées, il n'a pas mis en oeuvre la surveillance des eaux souterraines telle que prescrite par l'arrêté préfectoral du 12/02/04.		'Le CHRU'
+								a_été_prescrite	En conséquence, une surveillance des eaux souterraines a été prescrite par arrêté préfectoral complémentaire du 12/02/04.		
+1918				1918				se_transforme	Aux alentours de 1917-1918, la société se transforme et devient une mélasserie, jusqu'à sa fermeture en 1987.		
+1987				1987				à_sa_fermeture	Aux alentours de 1917-1918, la société se transforme et devient une mélasserie, jusqu'à sa fermeture en 1987.		
+2006	05			2006	05			il_appartiendra	Pour toute modification des aménagements et des usages retenus dans l'analyse détaillée des risques résiduels de mai 2006, il appartiendra aux futurs aménageurs de démontrer la compatibilité de leur projet avec l'état des terrains.		
+1917				1917				se_transforme	Aux alentours de 1917-1918, la société se transforme et devient une mélasserie, jusqu'à sa fermeture en 1987.		
+2001	09			2001	09			Des_investigations_approfondies	Des investigations approfondies ont été menées en septembre 2001.		
+2010	12	07		2010	12	07		Une_inspection_sur_site_a_été_réalisée	Une inspection sur site a été réalisée le 07/12/2010 afin de vérifier que les travaux ont été réalisés conformément aux dispositions retenues dans l'analyse détaillée des risques résiduels de mai 2006.		

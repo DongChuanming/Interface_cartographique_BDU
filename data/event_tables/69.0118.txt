@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	04	28		2016	04	28		a_déclaré	Par courrier du 28 avril 2016, ENGIE a déclaré dans le cadre de la cession du bien, que le bâtiment a été libéré en novembre 2016.		'ENGIE'
+2016	11			2016	11			a_été_libéré	Par courrier du 28 avril 2016, ENGIE a déclaré dans le cadre de la cession du bien, que le bâtiment a été libéré en novembre 2016.		'ENGIE'
+2000	01	24		2000	01	24		a_demandé	Par courrier du 31 janvier 2000 et suite à une visite du 24 janvier 2000, l'inspection a demandé de transmettre des compléments.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1845				1845				construite	Une première usine construite en 1845, située dans la partie basse du site (sud), a été démolie en 1950.		
+1845				1960				a_accueilli	Il a accueilli de 1845 à 1960 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2016	03	29		2016	03	29		le_point	Dans son rapport du 29 mars 2016, l'inspection a fait le point sur ce dossier.		
+1996	04	25		1996	04	25		conclu	Au titre du protocole conclu le 25/04/1996 entre le Ministère chargé de l'Environnement et Gaz de France relatif à la marche et au suivi de la réhabilitation des anciens terrains d'usine à gaz, le site a été partiellement réhabilité.		'le Ministère', 'Gaz de France'
+2000	01	24		2000	01	24		à_une_visite	Par courrier du 31 janvier 2000 et suite à une visite du 24 janvier 2000, l'inspection a demandé de transmettre des compléments.		
+1950				1950				a_été_démolie	Une première usine construite en 1845, située dans la partie basse du site (sud), a été démolie en 1950.		
+1931				1931				construite	Les installations de la deuxième usine, construite au nord du site en 1931, ont également été démantelées.		
+1931				1931				ont_également_été_démantelées	Les installations de la deuxième usine, construite au nord du site en 1931, ont également été démantelées.		

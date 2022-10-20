@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	11	12		1996	11	12		à_un_constat	Suite à un constat du 12 novembre 1996 d'excavation de la zone polluée, et de l'enlèvement des déchets du site, la consignation de somme a été levée.		
+1995	04			1995	04			Un_diagnostic_de_pollution	Un diagnostic de pollution a été réalisé par l'APAVE en avril 1995.		
+1993	07	30		1993	07	30		a_été_mise_en_demeure_par_arrêté_de_mise_en	La société a été mise en demeure par arrêté de mise en demeure du 30 juillet 1993 de déclarer sa cessation d'activité, d'établir un inventaire des produits à évacuer et un échéancier des travaux de remise en état.		
+1997	01	03		1997	01	03		un_rapport	La DRIRE dans un rapport du 3 janvier 1997 a indiqué que le site a été remis en état conformément à l'article 34.1 du décret de 1977.		'La DRIRE'
+2005	09	23		2005	09	23		transformateur_diagnostic	Toutefois, dans le cadre du réaménagement de la friche, la communauté de communes "Seine-Austreberthe", futur acquéreur du site a fait réaliser un audit environemental duquel il ressort qu'il existe une pollution résiduelle notamment de PCB au droit de l'ancien transformateur.(diagnostic du 23/09/2005).	'PCB'	'la communauté de communes'
+1996	11	12		1996	11	12		d__excavation	Suite à un constat du 12 novembre 1996 d'excavation de la zone polluée, et de l'enlèvement des déchets du site, la consignation de somme a été levée.		
+1993				1993				a_été_exploité	Le site a été exploité par la société Seprom jusqu'en 1993.		'la société Seprom'

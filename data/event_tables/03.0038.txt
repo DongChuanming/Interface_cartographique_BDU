@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			Les_prélèvements_effectués	Les prélèvements effectués en juin 2010 montrent qu'il subsiste sur un piézomètre aval du trichloroéthane à des teneurs stables depuis 2006 et relativement faibles (de l'ordre de 2 µg/L).	'trichloroéthane'	
+2009	11	18		2009	11	18		est_levée	La dernière réserve est levée (enlèvement de 2 transfos PCB) par l'exploitant le 18/11/2009.	'PCB'	
+2007				2007				Des_travaux_de_mise_en_sécurité_sont_engagés	Des travaux de mise en sécurité sont engagés fin 2007-début 2008.		
+2008	08	11		2008	08	11		La_visite_de_récolement	La visite de récolement a été réalisée le 11/08/2008.		
+1898				1898				s__installe	La Verrerie de St-Yorre, proche de Vichy, s'installe en 1898 dans une zone agricole.		'La Verrerie de St - Yorre'
+2008				2008				Des_travaux_de_mise_en_sécurité_sont_engagés	Des travaux de mise en sécurité sont engagés fin 2007-début 2008.		
+2005	11	30		2005	11	30		une_évaluation_simplifiée_des_risques	Un arrêté préfectoral a prescrit le 30 novembre 2005 une évaluation simplifiée des risques et un diagnostic plomb à l'exploitant.		
+2004	09			2004	09			Les_activités	Les activités de  la dernière société sur le site (SEDIVER) sont arrêtées en septembre 2004.		'site ( SEDIVER'
+2007				2010				est_assuré_semestriellement	Le suivi de la qualité des eaux de la nappe est assuré semestriellement de 2007 à 2010.		

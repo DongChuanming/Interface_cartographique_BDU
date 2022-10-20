@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02	27		2015	02	27		cessation_d__activité	Et d'un récépissé de déclaration de cessation d'activité du 27 février 2015.		
+2012	12	15		2012	12	15		dépose	- Le 15 décembre 2012, dépose des distributeurs avec neutralisation des aspirations et des dépotages ainsi que le remplissage des pieds avec du béton par la société TOKHEIM,		'la société TOKHEIM'
+2014	06	18		2014	06	18		le_traitement	- Le 2 septembre 2014, attestation de la société SITA Centre Ouest concernant le traitement des sables polluées du 18 juin 2014.		'la société SITA Centre Ouest'
+2011	02	09		2011	02	09		a_fait_l__objet	Cette installation a fait l'objet le 9 février 2011 d'un récépissé de déclaration portant mise à jour administrative au titre de la législation des installations classées pour la protection de l'environnement.		
+								pour_des_travaux_faits	- Le 12 septembre 2014, attestation de la société ADA TP de CERCOTTES concernant l'enlèvement des cuves, la dépose des séparateurs à hydrocarbures et le remblaiement pour des travaux faits entre le 23 avril et le 18 juin,	'hydrocarbures'	'la société ADA TP', 'de CERCOTTES'
+2011	01	1		2011	01	1		devient_suite_à	Au 1er janvier 2011 la société PICOTY Réseau SAS, devient suite à PICOTY SA, propriétaire du fonds de commerce de cette station-service.		'la société PICOTY Réseau SAS', 'PICOTY SA'
+1990	12	10		2012	09	26		a_accueilli	Il a accueilli du 10 décembre 1990 au 26 septembre 2012 une  station-service.		
+2014	04	28		2014	04	28		les_travaux_relatifs	- Le 12 septembre 2014, attestation de la société SRA Savac concernant les travaux relatifs au dégazage des réservoirs le 28 avril 2014 et les bordereaux de suivi des déchets afférents,		'la société SRA Savac'

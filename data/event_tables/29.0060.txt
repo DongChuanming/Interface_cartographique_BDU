@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	10	21		2014	10	21		la_dernière_réunion	Ces éléments ont été rappelés à VALCOR - qui en a pris acte - en particulier dans le cadre de la dernière réunion de la CSS du 21 octobre 2014.		'VALCOR'
+2014	10	21		2014	10	21		ont_été_rappelés	Ces éléments ont été rappelés à VALCOR - qui en a pris acte - en particulier dans le cadre de la dernière réunion de la CSS du 21 octobre 2014.		'VALCOR'

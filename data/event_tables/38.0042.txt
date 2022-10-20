@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	08	13		2003	08	13		Le_diagnostic_initial	Le diagnostic initial a été établi le 03/01/2002 et l'ESR le 13/08/2003.		
+2002	12	31		2002	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Évaluation Simplifiée des Risques (ESR) doit être transmise à l'administration au plus tard le 31/12/2002.		
+2006	05	15		2006	05	15		est_réglementé	Le site Échirolles est réglementé par l’arrêté préfectoral du 05/02/91, du 04/11/92, 16/04/2004 et du 15/05/2006.		
+								L__étude_de_sols	L'étude de sols a été imposée par arrêté préfectoral n° 98 8366 du 01/12/98.		
+2007	11	16		2007	11	16		La_dernière_campagne_de_surveillance	La dernière campagne de surveillance est du 16/11/2007.		
+2002	01	03		2002	01	03		Le_diagnostic_initial	Le diagnostic initial a été établi le 03/01/2002 et l'ESR le 13/08/2003.		
+2003	09	17		2003	09	17		a_été_établi	Un rapport de fin de travaux a été établi le 17/09/2003.		

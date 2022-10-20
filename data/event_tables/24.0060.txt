@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	05			2013	05			La_campagne_de	La campagne de mai 2013 montre des concentrations maximales en MES (9 ug/l) au droit du pz3 situé en aval du site, en Mn (580 ug/l) au droit du PZ1 en aval du site, en Hg (<0.5ug/l) au droit des trois piézomètres.	'MES', 'Mn', 'Hg'	
+2013	02			2013	02			durant_la_campagne	La concentration maximale en fer est de 410 ug/l au droit du PZ1 en aval du site durant la campagne de février 2013.	'fer'	
+				2012				ce	Néanmoins, les paramètres fer et manganèse sont particulièrement élevés ([Mn] = 320 microgrammes et [Fe] = 210 microgrammes) sur le piézomètre 1 (aval hydraulique du site) et ce en 2008 jusqu'en 2012.	'fer', 'manganèse', 'Mn', 'Fe'	
+2012	02	21		2012	02	21		Les_prélèvements_ont_été_effectués	Les prélèvements ont été effectués le 21 février 2012 et les résultats portant sur l'ensemble des paramètres prescrits ont été transmis à l'inspection.		

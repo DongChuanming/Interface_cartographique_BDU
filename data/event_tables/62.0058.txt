@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12	21		2012	12	21		rapport	Tierce expertise réalisée par BURGEAP, rapport en date du 21/12/2012.		'BURGEAP'
+2003				2003				résultats_des_analyses	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+2008	01	01		2008	01	01		Cessation_d__activité	- Cessation d'activité le 01/01/2008.		
+2004				2004				devient	- FIN 2004 ATOFINA devient ARKEMA.		'ATOFINA devient ARKEMA'
+2006				2006				un_hydrogéologue	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+2012	12	21		2012	12	21		Tierce_expertise_réalisée	Tierce expertise réalisée par BURGEAP, rapport en date du 21/12/2012.		'BURGEAP'
+2008	09			2008	09			Réalisation_d_	- Réalisation d'une EQRS pour les riverains (Évaluation Quantitative des Risques Sanitaires) en septembre 2008: aucune mesure de gestion n'est préconisé.	'Sanitaires'	
+2008	12			2008	12			__Essai_de_pompage	- Essai de pompage en décembre 2008, mais problème d'alimentation (voir traitement de décembre 2006).		
+2005				2005				un_hydrogéologue	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+2004				2004				résultats_des_analyses	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+2007	10			2007	10			__Essai_de_venting_thermique	- Essai de venting thermique en octobre 2007, mais les résultats étant trop incertains, ce traitement ne sera pas mis en place.		
+2003				2003				intervention_d_	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+1959				1959				a_débuté	- L'activité industrielle a débuté en 1959 (société SLPB - production de dérivés du toluène).	'dérivés du toluène'	'société SLPB'
+2005				2005				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2005.		'IPPC'
+2004				2004				intervention_d_	- suite aux résultats des analyses d'eau des piézomètres de 2003 et 2004, intervention d'un hydrogéologue mandaté par l'exploitant en 2005 et 2006 destinée à apprécier le niveau de pollution de la nappe, son étendue ainsi que son sens d'écoulement.		
+2011	11			2011	11			Réalisation_d_	- Réalisation d'un plan de gestion et d'une analyse des risques résiduels en novembre 2011.		
+				2007				classé_SEVESO	Le site était classé SEVESO seuil haut jusqu'en 2007, date à laquelle l'usine a arrêté toute production chimique et déclaré la cessation d'activité.		
+2012	02	28		2012	02	28		récépissé	- Activité depuis 2012 (récépissé du 28/02/2012): stockage en entrepôts couverts et expédition de pièces plastiques moulées et de résine plastique sous forme de poudres ou granulés.	'résine plastique'	

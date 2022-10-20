@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	07		2008	02	07		La_campagne_du	La campagne du 7 février 2008 montre une aggravation de la situation avec le seuil "Eau ressource" dépassé sur les 3 piézomètres pour le propiconazole (3,8 à 14,9 microgramme/l).	'le propiconazole'	
+2004	05	26		2004	05	26		Les_études	Les études concernant le diagnostic et l'ESR ont été remises les 26 mai 2004 et 7 juillet 2005.		"l' ESR"
+2009	05	04		2009	05	04		La_campagne_du	La campagne du 4 mai 2009 (hautes eaux) montre toujours la présence de propiconazole sur les 3 piézomètres mais à des valeurs encore plus faibles : de 0,3 à 1,2 microgramme/l.	'propiconazole'	
+2005	07	07		2005	07	07		Les_études	Les études concernant le diagnostic et l'ESR ont été remises les 26 mai 2004 et 7 juillet 2005.		"l' ESR"
+2012				2012				Les_campagne_de_l_	Les campagne de l'année 2012 révèle des traces de propiconazole sur les trois piézomètres (Pz1 = 0.062 µg/l; PZ2 = 0.023 µg/l; PZ3= 0.41µg/l).	'propiconazole'	
+2008	10	22		2008	10	22		La_campagne_du	La campagne du 22 octobre 2008 montre toujours la présence de propiconazole sur les 3 piézomètres mais à des valeurs plus faibles ( de 0,7 à 7,8 microgramme/l).	'propiconazole'	
+2008	01	01		2008	01	01		nouveau_produit	Le SINESTO B étant le nouveau produit de traitement utilisé depuis le 01/01/2008, ce composé organique a été recherché sous l'appellation substance Sinesto.	'Le SINESTO B', 'Sinesto'	
+2011	04	18		2011	04	18		la_campagne	Au cours de la campagne du 18 avril 2011, le propiconazole n'a pas été mesuré.	'propiconazole'	
+2008	01	1		2008	01	1		n__utilise_plus	En réponse, l'exploitant précise que, devant l'impact dû au propiconazole, il n'utilise plus depuis le 1er janvier 2008 qu'un seul produit dont les matières actives sont :	'propiconazole'	
+2007	10	25		2007	10	25		La_campagne_du	La campagne du 25 octobre 2007 montre que la situation s'aggrave avec le seuil "Eau ressource" dépassé sur PZ3 pour le propiconazole (5,8 microgramme/l).	'le propiconazole'	
+2005	02	23		2005	02	23		La_campagne_du	La campagne du 23 février 2005 met en évidence la présence d'une substance active utilisée (propiconazole) dans les eaux de la nappe sur les piézomètres PZ2 et PZ3 situés en aval, avec des teneurs supérieures au seuil "Eau potable" mais inférieures au seuil "Eau ressource" (2 microgramme/l).	'une substance active utilisée', 'propiconazole'	
+1993	02	1		1993	02	1		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 1er février 1993.		
+2007	02	14		2007	02	14		La_campagne_du	La campagne du 14 février 2007 confirme cette situation dans les 3 piézomètres.		
+2009	12	14		2009	12	14		cours_de_la_campagne	Au cours de la campagne du 14 décembre 2009, le propiconazole (qui n'est plus utilisé depuis 2 ans) continu à être détecté à des valeurs fluctuantes : de 0,62 microgramme/l sur le PZ1 amont à 3,01 sur PZ2 et 2,99 microgramme/l sur le PZ3.	'le propiconazole'	
+2012	03			2012	03			la_campagne	Aucune trace de triméthylcocoammonium n'a été détectée, de même pour la campagne de mars 2012.	'triméthylcocoammonium'	
+								n__est_plus_utilisé	Au cours de la campagne du 14 décembre 2009, le propiconazole (qui n'est plus utilisé depuis 2 ans) continu à être détecté à des valeurs fluctuantes : de 0,62 microgramme/l sur le PZ1 amont à 3,01 sur PZ2 et 2,99 microgramme/l sur le PZ3.	'le propiconazole'	
+2011	09	14		2011	09	14		La_campagne_du	La campagne du 14 septembre 2011 révèle des traces de propiconazole sur les trois piézomètres (Pz1 = 0.176 µg/l; PZ2 = 0.39 µg/l; PZ3= 0.326 µg/l).	'propiconazole'	
+2013				2013				La_campagne_du	La campagne du premier semestre 2013 met toujours en avant des traces de propiconazole mais à des valeurs inférieures aux valeurs seuils.	'propiconazole'	

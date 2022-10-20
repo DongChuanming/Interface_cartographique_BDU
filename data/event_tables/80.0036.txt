@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	21		2004	01	21		une_mise_en_demeure	La surveillance des eaux souterraines a été imposée par arrêté du 11 juillet 2003 et a fait l'objet d'une mise en demeure du 21 janvier 2004.		
+2018				2018				ont_été_réalisées	Des études complémentaires ont été réalisées par la communauté de communes du sud ouest Amiénois en 2012 et 2018.		
+2009	07	17		2009	07	17		informait	Par courrier du 17 juillet 2009, Maître Lafarge informait M.		'Maître Lafarge'
+2004				2004				la_liquidation_judiciaire	Suite à la liquidation judiciaire de la société PIC INDUSTRIE en 2004, le site a été repris par le groupe MONOPOL le 19 juillet 2004, au nom de la société PIC INDUSTRIES PRODUCTION.		'la société PIC INDUSTRIE', 'le groupe MONOPOL', 'la société PIC INDUSTRIES PRODUCTION'
+								d__assurer_la_mise_en_sécurité	L’arrêté du 15 octobre 2009 impose à l’Ademe, « aux frais de l’exploitant », d’assurer la mise en sécurité du site et l’élimination des déchets (1200t environ) dans un délai de 6 mois.		
+2001	02	27		2001	02	27		la_pollution	L'évaluation des risques liés à la pollution, imposée par arrêté du 27 février 2001 et rappelée par mise en demeure du 21 janvier 2004 a été réalisée.		
+2006	08	08		2007	10	09		Ces_travaux_de_dépollution	Ces travaux de dépollution (excavation de terres polluées, traitement biologique sur site) ont été réalisés du 8 août 2006 au 9 octobre 2007 :		
+2004	04	02		2004	04	02		Le_démantèlement	Le démantèlement des principaux stockages de solvants a été réalisé suite à l'arrêté de travaux d'urgence du 2 avril 2004.	'stockages de solvants'	
+								impose	L’arrêté du 15 octobre 2009 impose à l’Ademe, « aux frais de l’exploitant », d’assurer la mise en sécurité du site et l’élimination des déchets (1200t environ) dans un délai de 6 mois.		
+2009	09	29		2009	09	29		de_sa_visite	Néanmoins, lors de sa visite du 29 septembre 2009, l'inspecteur a constaté la présence de nombreux déchets sur le site (1200 tonnes).	'la présence de nombreux déchets'	
+2004	07	19		2004	07	19		a_été_repris	Suite à la liquidation judiciaire de la société PIC INDUSTRIE en 2004, le site a été repris par le groupe MONOPOL le 19 juillet 2004, au nom de la société PIC INDUSTRIES PRODUCTION.		'la société PIC INDUSTRIE', 'le groupe MONOPOL', 'la société PIC INDUSTRIES PRODUCTION'
+2004	01	21		2004	01	21		rappelée_par_mise_en	L'évaluation des risques liés à la pollution, imposée par arrêté du 27 février 2001 et rappelée par mise en demeure du 21 janvier 2004 a été réalisée.		
+2012				2012				ont_été_réalisées	Des études complémentaires ont été réalisées par la communauté de communes du sud ouest Amiénois en 2012 et 2018.		
+2004	04	02		2004	04	02		arrêté_de_travaux_d__urgence	Le démantèlement des principaux stockages de solvants a été réalisé suite à l'arrêté de travaux d'urgence du 2 avril 2004.	'stockages de solvants'	
+2004	01	21		2004	01	21		a_été_imposée	La surveillance des eaux souterraines a été imposée par arrêté du 11 juillet 2003 et a fait l'objet d'une mise en demeure du 21 janvier 2004.		
+2004				2004				a_été_repris	Suite à la liquidation judiciaire de la société PIC INDUSTRIE en 2004, le site a été repris par le groupe MONOPOL le 19 juillet 2004, au nom de la société PIC INDUSTRIES PRODUCTION.		'la société PIC INDUSTRIE', 'le groupe MONOPOL', 'la société PIC INDUSTRIES PRODUCTION'
+2010	04			2010	04			Les_travaux_se_sont_terminés	Les travaux se sont terminés en avril 2010.		

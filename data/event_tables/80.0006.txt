@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2003				a_exploité	La SOCIETE DES PETROLES SHELL a exploité une station service sur le site d'Amiens jusqu'en 2003.		'La SOCIETE DES PETROLES SHELL'
+2002	10			2002	10			Une_nouvelle_campagne_de_prélèvements	Une nouvelle campagne de prélèvements a eu lieu en octobre 2002 et a permis de constater l'efficacité du traitement au niveau des sols.		
+								Un_traitement	Un traitement de la zone non saturée par injection d'eau chaude a ensuite été mis en œuvre d'avril à juillet 2002.		
+1999	10			1999	10			Les_premières_investigations	Les premières investigations, réalisées en octobre 1999 ont mis en évidence une pollution :		
+1999	11			1999	11			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en novembre 1999.		
+2006	02			2006	02			Cette_étude_a_été_finalisée	Cette étude a été finalisée en février 2006 et a permis de conclure que, moyennant l'extraction d'une source de pollution ponctuelle et la mise en œuvre des dispositions constructives prévues dans le projet immobilier "Jardin des Peintres", la pollution résiduelle serait compatible avec l'usage futur envisagé du site.		
+2006	10			2006	10			Le_chantier_d__excavation	Le chantier d'excavation des terres polluées a été réalisé en octobre 2006.		
+2003	02	13		2003	02	13		Une_autre_campagne_de_prélèvements_a_eu_lieu	Une autre campagne de prélèvements a eu lieu le 13 février 2003.		
+2002	07			2002	07			Un_traitement	Un traitement de la zone non saturée par injection d'eau chaude a ensuite été mis en œuvre d'avril à juillet 2002.		
+2001	03			2001	03			de_nouvelles_investigations	Le rabattage / écrémage étant toujours en place, de nouvelles investigations ont été réalisées en mars 2001.		

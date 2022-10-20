@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Les_travaux_de_démolition	Les travaux de démolition et de recouvrement ont été effectués et achevés en 2003.		
+2001	03	27		2001	03	27		Le_rapport_remis	Le rapport remis le 27 mars 2001 montre la présence, dans les parpaings, de résidus de perméthrine et de chlordane dans des proportions inférieures aux valeurs de l'OMS en précisant que la perméthrine ne présente pas de risque de migration par les eaux pluviales dans le milieu naturel et que la partie lixiviable du chlordane est inférieure aux teneurs recommandées pour les eaux potables.	'perméthrine', 'chlordane', 'perméthrine', 'chlordane'	

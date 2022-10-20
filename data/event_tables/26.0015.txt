@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	18		2009	09	18		a_été_placé_en_liquidation_judiciaire_sans_poursuite_d__activité	Le site a été placé en liquidation judiciaire sans poursuite d'activité le 18 septembre 2009.		
+2016	05			2016	05			L__étude_environnementale	L’étude environnementale de mai 2016 indique qu’un impact sur les eaux souterraines hors site au diphényléther (fluide caloporteur) ne peut être exclu.	'diphényléther'	
+2007				2007				est_pas_améliorée	En 2007, la situation économique de la société ne s'est pas améliorée.		
+2009	10	06		2009	10	06		a_attesté_par_courrier	Le 6 octobre 2009, le liquidateur a attesté par courrier l'impécuniosité de la procédure de liquidation judiciaire.		
+2013	10	25		2013	10	25		un_message	Par un message du 25 octobre 2013, la société RHODIA transmet les justificatifs d'élimination concernant l'élimination de 10 transformateurs au PCB (+ 2 transformateurs contaminés) et des condensateurs au PCB.	'PCB', 'PCB'	'la société RHODIA'
+2016	07			2016	07			un_inventaire	Aussi, un inventaire des usages des eaux souterraines en aval hydraulique du site a été mené en juillet 2016.		
+2001	08	24		2001	08	24		au_plus_tard	.R., devait être transmis à l’administration au plus tard le 24 août 2001.		
+2013	10	25		2013	10	25		transmet	Par un message du 25 octobre 2013, la société RHODIA transmet les justificatifs d'élimination concernant l'élimination de 10 transformateurs au PCB (+ 2 transformateurs contaminés) et des condensateurs au PCB.	'PCB', 'PCB'	'la société RHODIA'
+2016	07			2016	07			mise_à_jour	Une évaluation quantitative des risques sanitaires a été réalisée en mai 2016 puis mise à jour en juillet 2016 suite aux prélèvements des gaz de sol dans le bâtiment texturation (mercure volatil à l’état de traces).	'mercure'	
+2016	05			2016	05			Une_étude_environnementale	Une étude environnementale datant de mai 2016 a été réalisé par le bureau d’étude RAMBOLL ENVIRON dans le cadre du projet de vente du terrain d’emprise de l’ancienne exploitation de SETILA en vue de sa réhabilitation par un repreneur.		'RAMBOLL ENVIRON', 'SETILA'
+2015	01	29		2015	01	29		a_eu_lieu	Une visite a eu lieu le 29/01/2015.		
+2015	01			2015	01			transmet	En janvier 2015, RHODIA transmet les justificatifs de supression des sources scellées radioactives.		'RHODIA'
+2016	05			2016	05			Une_évaluation_quantitative_des_risques_sanitaires	Une évaluation quantitative des risques sanitaires a été réalisée en mai 2016 puis mise à jour en juillet 2016 suite aux prélèvements des gaz de sol dans le bâtiment texturation (mercure volatil à l’état de traces).	'mercure'	
+2012	10	03		2012	10	03		a_considéré	Le 3 octobre 2012, le ministère a considéré que l'intervention de l'ADEME n'était pas justifiée et que le propriétaire RHODIA devait prendre en charge l'élimination des déchets.		'le ministère', 'le propriétaire RHODIA'
+2014	11	20		2014	11	20		transmet	Par un message du 20 novembre 2014, la société RHODIA transmet les justificatifs d'élimination concernant l'ensemble des déchets dangereux présents sur le site.	'des déchets dangereux'	'la société RHODIA'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				a_été_aménagé	Acheté par la commune de Petiville en 1968, le terrain a été aménagé en aire de loisirs.		
+2001	12			2001	12			a_été_examiné	Le projet d'arrêté prescrivant la phase B a été examiné par le conseil départemental d'hygiène en décembre 2001.		
+2003				2003				L__étude_réalisée	L'étude réalisée début 2003 n'a pas permis de caractériser une source de pollution; De ce fait, la cotation ESR s'avère impossible.		
+2000	07	10		2000	07	10		Etudes	Etudes : ESR (étape A) réalisée par l'APAVE NORMANDE transmise le 10 juillet 2000.		"l' APAVE NORMANDE"

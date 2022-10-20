@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				un_diagnostic_approfondi	En raison d’un projet de réaménagement pour les besoins internes d’EDF-GDF un diagnostic approfondi a été réalisé en 1994-1995.		'EDF - GDF'
+2005				2005				ont_été_réalisées	Des campagnes de prélèvements complémentaires ont été réalisées en 2005 et 2006 puis en 2008, 2009.		
+2005	03			2005	03			préconise_la_mise_en_place_d__un	En mars 2005, une synthèse des résultats du programme de surveillance de la qualité des eaux souterraines entre 1996 et 2003 préconise la mise en place d'un suivi des eaux souterraines, portant sur les paramètres HAP, BTEX et ammonium.	'HAP', 'BTEX', 'ammonium'	
+2006				2006				ont_été_réalisées	Des campagnes de prélèvements complémentaires ont été réalisées en 2005 et 2006 puis en 2008, 2009.		
+2009				2009				ont_été_réalisées	Des campagnes de prélèvements complémentaires ont été réalisées en 2005 et 2006 puis en 2008, 2009.		
+2017	09			2017	09			Le_bilan_des_campagnes	Le bilan des campagnes d'avril 1996 à septembre 2017 fait ressortir les points suivants :		
+1996	04			1996	04			Le_bilan_des_campagnes	Le bilan des campagnes d'avril 1996 à septembre 2017 fait ressortir les points suivants :		
+1995				1995				un_diagnostic_approfondi	En raison d’un projet de réaménagement pour les besoins internes d’EDF-GDF un diagnostic approfondi a été réalisé en 1994-1995.		'EDF - GDF'
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1998				1998				a_été_pompée	En 1998, la phase surnageante de la nappe a été pompée; 1.9 tonne d’eau fortement souillée par les hydrocarbures monoaromatiques a été extraite.	'hydrocarbures monoaromatiques'	
+				1999				un_suivi	Dans le cadre des travaux de réhabilitation et conformément à l'arrêté préfectoral précité, la qualité des eaux souterraines a fait l'objet d'un suivi jusque fin 1999 basé sur un réseau de 7 piézomètres.		
+1996				2000				les_travaux_de_réhabilitation	Dans le cadre de l' arrêté préfectoral du 24 juillet 1996, les travaux de réhabilitation, conduits de 1996 à 2000, ont consisté en la vidange des cuves, l’étanchéification des zones non étanches et le traitement par venting de l’air des sols souillés par des BTEX (butène, toluène, éthylène, xylène) au droit de la halle.	'des BTEX', 'butène', 'toluène', 'éthylène', 'xylène'	
+1884				1965				a_accueilli	Le terrain situé à l’ouest du centre ville de Rennes, d’une superficie totale d'environ 45 000 m² a accueilli de 1884 à 1965 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2008				2008				ont_été_réalisées	Des campagnes de prélèvements complémentaires ont été réalisées en 2005 et 2006 puis en 2008, 2009.		

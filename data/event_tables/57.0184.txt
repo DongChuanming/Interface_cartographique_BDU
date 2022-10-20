@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08			2009	08			Suite_à_la_cessation_d__activité_en_2009	Suite à la cessation d'activité en 2009, un diagnostic de la qualité des sols et des eaux souterraines a été réalisé en août 2009.		'un diagnostic'
+2009				2009				le_14_janvier	La cessation d'activité a été notifiée au préfet le 14 janvier 2009.		"La cessation d' activité"

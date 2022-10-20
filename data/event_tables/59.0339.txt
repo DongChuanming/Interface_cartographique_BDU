@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01	31		2001	01	31		__a_décidé_sa_fermeture	Le GROUPE DISTILLERIE CLAEYSSENS, après reprise en mai 2000 de  la distillerie de genièvre de Loos, a décidé sa fermeture à la date du 31 janvier 2001.		'Le GROUPE DISTILLERIE CLAEYSSENS'
+2000	05			2000	05			après_reprise	Le GROUPE DISTILLERIE CLAEYSSENS, après reprise en mai 2000 de  la distillerie de genièvre de Loos, a décidé sa fermeture à la date du 31 janvier 2001.		'Le GROUPE DISTILLERIE CLAEYSSENS'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	22		2009	04	22		a_été_délivré	Sur la base de ces éléments, un récépissé a été délivré le 22 avril 2009 pour prendre acte de la cessation d’activité.		
+2007	07			2007	07			un_nettoyage	Le garage automobile a fait l’objet d’un nettoyage en juillet 2007.		
+2009	02			2009	02			ont_ensuite_été_neutralisées	Elles ont ensuite été neutralisées au moyen d’un liant hydraulique en février 2009.		
+1976	06	16		1976	06	16		ont_été_délivrés	Dans le cadre de la réglementation relative aux installations classées pour la protection de l’environnement, la station service a bénéficié de deux récépissés de déclaration qui ont été délivrés par le préfet le 16 juin 1976, puis le 1er avril 1980 pour une extension.		'le préfet'
+2006	05	24		2006	05	24		a_prononcé_la_liquidation_judiciaire	Par jugement du 24 mai 2006, le tribunal de grande instance de Bonneville a prononcé la liquidation judiciaire de la société exploitante de la station service et du garage.		'Bonneville'
+2008	11			2008	11			un_diagnostic_de_pollution	Par ailleurs, un diagnostic de pollution des terrains a été réalisé par un bureau d’études en novembre 2008.		
+2007	10			2007	10			dégazées	Les cuves enterrées de carburants ont été vidées, nettoyées, et dégazées en octobre 2007.	'carburants'	
+1980	04	1		1980	04	1		une_extension	Dans le cadre de la réglementation relative aux installations classées pour la protection de l’environnement, la station service a bénéficié de deux récépissés de déclaration qui ont été délivrés par le préfet le 16 juin 1976, puis le 1er avril 1980 pour une extension.		'le préfet'
+2008	11			2008	11			Un_diagnostic_environnemental	Un diagnostic environnemental a été réalisé au droit du site en novembre 2008.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05	10		2007	05	10		Les_campagnes_de_novembre	Les campagnes de novembre 2004 et du 10/05/2007 portant sur les paramètres PCPNa, IPBC, Propiconazole et Carbendazime montre l'absence d'impact sur la nappe.	'IPBC', 'Propiconazole', 'Carbendazime'	
+2004	03			2004	03			Les_études_remises	Les études remises en mars 2004 et mai 2005 montrent la présence dans le sol de traces d'hydrocarbures, de PCPNa, de Propiconazole et de Carbendazime aux teneurs ci-après, suivies des valeurs guides de cette époque, Valeur de Définition Source Sol (VDSS)  et Valeur de constat d'impact (VCI):	'hydrocarbures', 'PCPNa', 'Propiconazole', 'Carbendazime'	
+2007				2007				est_pas_impactée	Au vu des analyses effectuées sur les piézomètres en 2004 et 2007, la nappe n'est pas impactée par les produits de traitement.		
+2004				2004				réalisés	Deux piézomètres, réalisés en 2004, complètent le forage existant pour le contrôle de la nappe.		
+1968				1968				Ancienne_scierie	Ancienne scierie avec traitement du bois exploitée depuis 1968 par la STE LITOISE DE SCIAGE sur la commune de Lit et Mixe (40).		'la STE LITOISE DE SCIAGE'
+1991	11	26		1991	11	26		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 26 novembre 1991.		
+2006	04	1		2006	04	1		l__arrêt_effectif	Le 12 mars 2007, la DRIRE constate la cessation d'activité des installations de traitement du bois, du dépôt de produit associé, et du dépôt de bois, dont l'arrêt effectif date du 1er avril 2006.		'la DRIRE'
+2004				2004				Les_campagnes_de_novembre	Les campagnes de novembre 2004 et du 10/05/2007 portant sur les paramètres PCPNa, IPBC, Propiconazole et Carbendazime montre l'absence d'impact sur la nappe.	'IPBC', 'Propiconazole', 'Carbendazime'	
+2005	05			2005	05			Les_études_remises	Les études remises en mars 2004 et mai 2005 montrent la présence dans le sol de traces d'hydrocarbures, de PCPNa, de Propiconazole et de Carbendazime aux teneurs ci-après, suivies des valeurs guides de cette époque, Valeur de Définition Source Sol (VDSS)  et Valeur de constat d'impact (VCI):	'hydrocarbures', 'PCPNa', 'Propiconazole', 'Carbendazime'	
+2007	03	12		2007	03	12		sont_en_place	Le 12/03/2007, les bâtiments et les machines sont en place.		
+2004				2004				est_pas_impactée	Au vu des analyses effectuées sur les piézomètres en 2004 et 2007, la nappe n'est pas impactée par les produits de traitement.		

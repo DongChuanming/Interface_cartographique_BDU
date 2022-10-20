@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09			2016	09			est_installée	En septembre 2016, une unité de traitement des eaux souterraines est installée pour dimensionner et installer un système de pompage-écrémage dans 4 puits, afin d'assurer le confinement de la pollution et la récupération du produit en phase libre mobilisable pendant une durée de 6 mois.		
+2016	06	16		2016	06	16		est_mise_en_service	Le 16 juin 2016, l'unité est mise en service.		
+2014	11	20		2014	11	20		un_diagnostic	Dans le cadre de la cession de l'activité, un diagnostic de l'état du sous-sol est réalisé le 20 novembre 2014. 8 sondages sont implantés, mettant en évidence des teneurs significatives en hydrocarbures C10-C40 et en CAV totaux dans les sols.	'hydrocarbures C10-C40', 'CAV totaux'	
+2015	01	16		2015	01	16		un_diagnostic_complémentaire	Le 16 janvier 2015, un diagnostic complémentaire de l'état du sous-sol est réalisé.		
+2016	03			2016	03			un_diagnostic	En mars 2016, un diagnostic des eaux souterraines est effectué. 10 ouvrages sont implantés, dont 4 ouvrages dimensionnés pour être potentiellement équipés de systèmes de pompage.		
+2017	12			2017	12			a_contacté	La DREAL a contacté l'exploitant fin décembre 2017, l'exploitant a annoncé qu'il demandait un chiffrage de l'étude en janvier 2018.		'La DREAL'
+2018	01			2018	01			a_contacté	La DREAL a contacté l'exploitant fin décembre 2017, l'exploitant a annoncé qu'il demandait un chiffrage de l'étude en janvier 2018.		'La DREAL'
+2016	04	29		2016	04	29		font_l__objet_de	Le 29 avril 2016, les 7 ouvrages dans lesquels aucun produit flottant n'est détecté font l'objet de prélèvements d'eaux souterraines.	'produit flottant'	
+1930	04	07		1930	04	07		la_Déclaration	Le site est inscrit dans le périmètre de protection de la Déclaration d'Intérêt Public des sources Minérales de Vichy du 07/04/1930.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	08	26		2004	08	26		a_été_signé	Un arrêté préfectoral a été signé le 26 août 2004 prescrivant un suivi sur 3 ans de la qualité de la nappe.		
+2002	06			2003	12			une_dépollution	Entre juin 2002 et décembre 2003, une dépollution par traitement in situ a eu lieu.		
+2001	12	17		2001	12	17		a_été_reçue	Le 17 décembre 2001, une étude de sol a été reçue.		
+1999				1999				n__est_plus_exploité	Ce site n'est plus exploité depuis 1999.		
+								exploitait	La société BP exploitait depuis les années 1990 un dépôt de produits pétroliers sur le site de ROSIERES EN SANTERRE.	'dépôt de produits pétroliers'	'La société BP'
+1999	10	27		1999	10	27		une_réunion	Le 27 octobre 1999, une réunion a eu lieu entre BP et l'inspection des installations classées.		'BP'

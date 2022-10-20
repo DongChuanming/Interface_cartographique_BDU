@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	07	28		1995	07	28		était_réglementée	L'usine était réglementée par un arrêté d'autorisation du 8 février 1980 et des arrêtés préfectoraux complémentaires des 4 août 1994 et 28 juillet 1995.		
+2001	11	21		2001	11	21		a_été_reçu	Le rapport modifié de la phase A a été reçu le 21/11/2001.		
+2013	03	28		2013	03	28		Une_visite	Une visite a été réalisée le 28 mars 2013 pour vérifier la mise en sécurité du site.		
+2013	03	25		2013	03	25		a_prononcé_la_liquidation_judiciaire	Par jugement en date du 25 mars 2013, le tribunal de commerce de Foix a prononcé la liquidation judiciaire de la société.		'le tribunal de commerce de Foix'
+2006				2006				arrêtée	Après examen de ces documents, une surveillance des eaux souterraines a été mise en place puis arrêtée en 2006 suite à l'absence de détection des polluants recherchés de fin 2005 à 2006.		
+2015	06	17		2015	06	17		La_visite	La visite du 17 juin 2015 a permis de constater la mise en sécurité effective du site.		
+1996	04	03		1996	04	03		a_prescrit	Cependant, compte tenu que les activités exercées sur le site étaient susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, un arrêté préfectoral complémentaire du 26 octobre 2000, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant de réaliser un diagnostic initial et une évaluation simplifiée des risques sur ce site avant le 30 juin 2001.		
+2001	06	30		2001	06	30		de_réaliser_un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Cependant, compte tenu que les activités exercées sur le site étaient susceptibles d'avoir été à l'origine d'une pollution éventuelle du sol, un arrêté préfectoral complémentaire du 26 octobre 2000, pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant de réaliser un diagnostic initial et une évaluation simplifiée des risques sur ce site avant le 30 juin 2001.		
+1994	08	04		1994	08	04		était_réglementée	L'usine était réglementée par un arrêté d'autorisation du 8 février 1980 et des arrêtés préfectoraux complémentaires des 4 août 1994 et 28 juillet 1995.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1920				1920				Le_fonçage	Le fonçage du puits s'est déroulé en 1920 et 1921 puis a été repris en 1921 pour atteindre la profondeur définitive de 210,5 mètres.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'BRGM'
+1921				1921				a_été_repris	Le fonçage du puits s'est déroulé en 1920 et 1921 puis a été repris en 1921 pour atteindre la profondeur définitive de 210,5 mètres.		
+1921				1921				Le_fonçage	Le fonçage du puits s'est déroulé en 1920 et 1921 puis a été repris en 1921 pour atteindre la profondeur définitive de 210,5 mètres.		

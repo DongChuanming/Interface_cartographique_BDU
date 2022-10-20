@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	08			1998	08			Un_diagnostic_de_sols	Un diagnostic de sols a été réalisé en juin 1997, et complété en août 1998.		
+2000	12			2000	12			les_travaux	les travaux ont été réalisés en décembre 2000; A l'issue des travaux d'excavation des terres souillées, les fouilles ont été remblayées. certaines par des matériaux tout venant amenés sur le site, d'autres en partie avec les terres excavées et présentant des teneurs inférieures à 1000 mg/kg et du tout venant au niveau de la zone de battement de la nappe et en surface(1m).		
+1968				1997				exploité	Ancien dépôt pétrolier de 11725 m3, composé de 7 cuves aériennes, exploité de 1968 à 1997.		
+1997	06			1997	06			Un_diagnostic_de_sols	Un diagnostic de sols a été réalisé en juin 1997, et complété en août 1998.		
+1989	11	22		1989	11	22		a_mis_en_demeure	Le 22 novembre 1989, un arrêté préfectoral a mis en demeure la société DCA (maintenant DMS) de régulariser sa situation administrative.		'la société DCA', 'DMS'
+1999	04			1999	04			a_été_remis	L'avis de l'hydrogéologue a été remis en avril 1999.		

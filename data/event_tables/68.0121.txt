@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				sont_exploités	En 1989, conjointement à l’exploitation du reste du site par MATRA MANURHIN DEFENSE, certains locaux sont exploités par la Sté SEPMA (locataire) spécialisée dans la production de tubes en fibre de verre enrobée de résine.		'MATRA MANURHIN DEFENSE', 'la Sté SEPMA'
+1994				1994				aurait_cessé	La Sté SEPMA aurait cessé sont activité en 1994.		'La Sté SEPMA'
+2001	03			2001	03			un_audit_de_sols	Le propriétaire des terrains, MATRA PARTICIPATION, a fait réaliser un audit de sols sur les terrains concernés par l’ancienne activité SEPMA en mars 2001.		'MATRA PARTICIPATION', 'SEPMA'

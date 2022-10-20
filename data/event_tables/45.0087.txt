@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				la_reprise	Avant la reprise du site par SGE en 2007, des activités de récupération de ferrailles étaient exercées sur le site.		'SGE'
+2005				2005				la_cessation_d__activité	Dans le cadre de la cessation d'activité en 2005 de la société SOR, précédente exploitante du site, une pollution de celui-ci a été mise en évidence.		'la société SOR'
+2014	10	15		2014	10	15		Des_investigations_complémentaires	Des investigations complémentaires des sols (analyse des terres, des gaz du sol et des eaux souterraines) ont été réalisées le 15 octobre 2014.		
+2015	12	11		2015	12	11		exploite	La SGE exploite, au titre des arrêtés préfectoraux du 5 décembre 2014 modifié et du 11 décembre 2015, au 171 rue de la Chenille à SARAN, une installation de transit :		'La SGE'
+2007				2007				étaient_exercées	Avant la reprise du site par SGE en 2007, des activités de récupération de ferrailles étaient exercées sur le site.		'SGE'
+2007				2007				des_activités_de_récupération_de_ferrailles	Avant la reprise du site par SGE en 2007, des activités de récupération de ferrailles étaient exercées sur le site.		'SGE'

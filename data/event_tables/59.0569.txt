@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	05			2007	05			Réalisation_d__un_diagnostic_approfondi	- Réalisation d'un diagnostic approfondi des sites de stockage de déchets en mai 2007, celui-ci préconise la mise en place de procédures d'accès et la mise en place de servitudes (concernant tout travaux sur site et l'utilisation des eaux souterraines).		
+2007				2007				a_été_implanté	- Un forage de 51m a été implanté sur le site en 2007 pour approvisionner le site en eau en complément de l'alimentation à partir de la rivière.		
+2007	05			2007	05			des_investigations_des_sols_hors_sites	- Une action plomb a été menée, des investigations des sols hors sites sur les paramètres plomb et cadmium ont été réalisées en mai 2007.	'plomb', 'cadmium'	
+2007	05			2007	05			a_été_menée	- Une action plomb a été menée, des investigations des sols hors sites sur les paramètres plomb et cadmium ont été réalisées en mai 2007.	'plomb', 'cadmium'	

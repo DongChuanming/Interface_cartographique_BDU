@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				plus_exploité	Dans la cadre de l'activité MICHELIN, aucune installation classée n'était située sur cette partie du site, mais un ancien forage (plus exploité depuis 2009 et mis en sécurité) est présent.		
+2013	09			2013	09			un_PV_de_récolement	Dans ce cadre, un PV de récolement a été délivré en septembre 2013.		
+2013				2013				est_exercée	Une activité de scierie (installation classées soumise à autorisation) est exercée sur cette partie du site depuis 2013 (des restrictions d'usages des sols sont prescrites dans l’arrêté préfectoral d'autorisation).		
+1962				1962				existe	Cependant, l'activité existe depuis 1962.		
+2004	10	26		2004	10	26		a_été_autorisée_à_exploiter	La MANUFACTURE DES PNEUMATIQUES MICHELIN a été autorisée à exploiter une installation de fabrication de renforts métalliques (pour les pneumatiques) par arrêté préfectoral du 26 octobre 2004.	'les pneumatiques'	'La MANUFACTURE DES PNEUMATIQUES MICHELIN'

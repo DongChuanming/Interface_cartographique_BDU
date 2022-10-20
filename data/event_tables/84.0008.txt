@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05	31		2008	05	31		La_déclaration_de_cessation_d__activité	La déclaration de cessation d'activité du site EPP Rhône a eu lieu le 20/12/2007 avec un arrêt d'exploitation le 31/05/2008.		'site EPP Rhône'
+2008	05	31		2008	05	31		avec_un_arrêt_d__exploitation	La déclaration de cessation d'activité du site EPP Rhône a eu lieu le 20/12/2007 avec un arrêt d'exploitation le 31/05/2008.		'site EPP Rhône'
+2008	10			2008	10			la_mise_en_sécurité	Suite à la cessation d'activité de 2008, la mise en sécurité des activités « carburants » et « lubrifiants » ont eu lieu respectivement en Octobre 2008 et en Février 2009.	'carburants', 'lubrifiants'	
+2009	02			2009	02			la_mise_en_sécurité	Suite à la cessation d'activité de 2008, la mise en sécurité des activités « carburants » et « lubrifiants » ont eu lieu respectivement en Octobre 2008 et en Février 2009.	'carburants', 'lubrifiants'	
+1994	06	14		1994	06	14		était_autorisé_par	Le dépôt était autorisé par l'AP du 14/06/1994.		
+2012	04	16		2012	04	16		encadrés_par	Les travaux sont encadrés par l'AP du 16/04/2012.		
+2008				2008				la_cessation_d__activité	Suite à la cessation d'activité de 2008, la mise en sécurité des activités « carburants » et « lubrifiants » ont eu lieu respectivement en Octobre 2008 et en Février 2009.	'carburants', 'lubrifiants'	
+2011	03	30		2011	03	30		Un_diagnostic_approfondi	Un diagnostic approfondi a été réalisé (11/10/2010 et complété le 30/03/2011).		
+2007	12	20		2007	12	20		La_déclaration_de_cessation_d__activité	La déclaration de cessation d'activité du site EPP Rhône a eu lieu le 20/12/2007 avec un arrêt d'exploitation le 31/05/2008.		'site EPP Rhône'
+2011	05	13		2011	05	13		a_été_rédigée	Une étude technico-économique de réhabilitation a été rédigée le 13/05/2011.		
+2008				2008				la_mise_en_sécurité	Suite à la cessation d'activité de 2008, la mise en sécurité des activités « carburants » et « lubrifiants » ont eu lieu respectivement en Octobre 2008 et en Février 2009.	'carburants', 'lubrifiants'	
+2006				2006				la_fuite_d_	Suite à la fuite d'un émulseur en 2006 sur le site de Ventoux, des polluants ont migré dans certains des piézomètres du site (Cf fiche Site "Ventoux").		
+2009	12			2009	12			Le_démantèlement_total	Le démantèlement total du dépôt a été achevé en Décembre 2009.		
+2000	03	09		2000	03	09		a_été_remise	L'ESR fixé par l'AP du 25/02/1999 a été remise le 09/03/2000, le site est en classe 2 "à surveiller".		

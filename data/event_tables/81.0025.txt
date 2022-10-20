@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03			2000	03			a_poursuivi_son_étude	En mars 2000, la Société ANTEA a poursuivi son étude sur la première zone confirmant ainsi la pollution des sols en chrome.	'chrome'	'la Société ANTEA'
+1987	03	11		1987	03	11		du	- arrêtés préfectoraux complémentaires du 12 octobre 1979, du 13 novembre 1980 et du 11 mars 1987;		
+1997	03	21		1997	03	21		a_ouvert_une_procédure_de_redressement_judiciaire	Par jugement en date du 28 février 1997, le Tribunal de Commerce de Castres a ouvert une procédure de redressement judiciaire, convertie en liquidation judiciaire par jugement du 21 mars 1997.		'le Tribunal de Commerce de Castres'
+1998	08	20		1998	08	20		Le_diagnostic	Le diagnostic établi le 20 août 1998 a permis de déterminer deux zones où la teneur en chrome du sol était supérieure à la valeur guide.	'chrome'	
+1970	05	14		1970	05	14		par_déclaration	- par déclaration en date du 14 mai 1970, la S.		'la S.'
+1995	02	27		1995	02	27		signé	- un arrêté signé le 27 février 1995 est venu modifier l'arrêté du 10 novembre 1993;		
+1997	02	28		1997	02	28		a_ouvert_une_procédure_de_redressement_judiciaire	Par jugement en date du 28 février 1997, le Tribunal de Commerce de Castres a ouvert une procédure de redressement judiciaire, convertie en liquidation judiciaire par jugement du 21 mars 1997.		'le Tribunal de Commerce de Castres'
+1987	03	11		1987	03	11		L__autorisation_de_poursuivre_l__exploitation	L'autorisation de poursuivre l'exploitation de cet établissement a été accordée par arrêté préfectoral du 14 octobre 1993, abrogeant au passage les arrêtés du 12 octobre 1979, du 13 novembre 1980 et du 11 mars 1987;		
+1993	11	10		1993	11	10		est_venu_modifier_l__arrêté	- un arrêté signé le 27 février 1995 est venu modifier l'arrêté du 10 novembre 1993;		
+1997	09	15		1997	09	15		ayant_cessé_son_activité___courrier	Ancienne usine de mégisserie située en bordure de la rivière le Dadou, ayant cessé son activité (courrier du 15 septembre 1997) et actuellement à l'état de friche industrielle.		

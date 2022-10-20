@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02			2010	02			a_proposé_une_densification	En Février 2010, l'exploitant a proposé une densification du réseau de piézomètres pour compléter le suivi du sous-sol, qui porte le nombre de piézomètres sur le site à 101.		
+								sera_mise_sous	La raffinerie sera mise sous cocon pendant 2 ans.		
+2011	10			2011	10			du_mois_d_	En Mai 2011, LYONDEL BASELL annonce la mise en vente de la raffinerie, suite à la grève des dockers du port de Marseille/Fos du mois d'octobre 2011 qui avait fortement perturbé l'équilibre de la raffinerie en plus de la guerre en Libye dont est originaire une grande partie du pétrole traité sur le site.		'LYONDEL BASELL', 'Marseille'
+1928				1928				est_implantée	La Raffinerie de Pétrole est implantée à Berre depuis 1928 sur une superficie d’environ 60 hectares.	'Pétrole'	'La Raffinerie'
+2011	05	28		2011	05	28		a_débordé	Le 28/05/2011, un bac de stockage de produits finis de la raffinerie a débordé (bac T1013), le produit a été contenu dans la cuvette de rétention qui a été vidée.	'produits finis'	
+2014				2014				un_redémarrage	Cette mise sous cocon est prévue le 4/01/2012 et doit permettre la réversibilité de l'arrêt, l'objectif étant un redémarrage pour le début 2014 au plus tard afin de garder le bénéfice des autorisations ICPE.		
+2012	01	04		2012	01	04		est_prévue	Cette mise sous cocon est prévue le 4/01/2012 et doit permettre la réversibilité de l'arrêt, l'objectif étant un redémarrage pour le début 2014 au plus tard afin de garder le bénéfice des autorisations ICPE.		
+2002				2002				a_été_remise	L'ESR, prescrite par Arrêté Préfectoral du 16/06/2000, a été remise en 2002.		"L' ESR"
+2011	05			2011	05			annonce	En Mai 2011, LYONDEL BASELL annonce la mise en vente de la raffinerie, suite à la grève des dockers du port de Marseille/Fos du mois d'octobre 2011 qui avait fortement perturbé l'équilibre de la raffinerie en plus de la guerre en Libye dont est originaire une grande partie du pétrole traité sur le site.		'LYONDEL BASELL', 'Marseille'
+2008				2008				a_racheté	LYONDELLBASELL a racheté le complexe du groupe SHELL en 2008, qui est désormais exploité par la CPB (Compagnie Pétrochimique de Berre).		'LYONDELLBASELL', 'groupe SHELL', 'la CPB', 'Compagnie Pétrochimique de Berre'

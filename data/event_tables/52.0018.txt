@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				se_résorbait_progressivement	Jusqu'en 2003, la lentille qui couvre approximativement une zone de 400m sur 150m sous le site en activité, se résorbait progressivement et restait captive.		
+2001	08			2001	08			est_en_place	Une surveillance semestrielle des eaux souterraines et superficielles, demandée par courrier du 12 février 2001, est en place depuis août 2001.		
+2001	02	12		2001	02	12		est_en_place	Une surveillance semestrielle des eaux souterraines et superficielles, demandée par courrier du 12 février 2001, est en place depuis août 2001.		
+2006	06			2006	06			la_reprise_du_site	Suite à la reprise du site en juin 2006 par un groupe allemand, les résultats de cette étude ont été réexaminés par un nouveau bureau d'études, qui les a remis en cause à travers une nouvelle étude remise en septembre 2007 qui tend à prouver que la pollution ne devait pas être amenée à sortir du site.		'groupe allemand'
+2009	11			2009	11			Les_travaux_ont_été_engagés	Les travaux ont été engagés en juin 2009 pour être arrêtés temporairement fin novembre 2009 suite à l'asséchement constaté depuis le 13 octobre 2009.		
+2007	09			2007	09			une_nouvelle_étude_remise	Suite à la reprise du site en juin 2006 par un groupe allemand, les résultats de cette étude ont été réexaminés par un nouveau bureau d'études, qui les a remis en cause à travers une nouvelle étude remise en septembre 2007 qui tend à prouver que la pollution ne devait pas être amenée à sortir du site.		'groupe allemand'
+2009	10	13		2009	10	13		l__asséchement	Les travaux ont été engagés en juin 2009 pour être arrêtés temporairement fin novembre 2009 suite à l'asséchement constaté depuis le 13 octobre 2009.		
+2006	04	07		2006	04	07		L__étude_détaillée_des_risques	L'étude détaillée des risques portant sur la gestion de cette lentille et sur le réaménagement de l'ancien crassier rétrocédé à la commune, demandée par arrêté préfectoral du 29/12/05, a été remise à l'inspection le 7 avril 2006.		
+2009	06			2009	06			Les_travaux_ont_été_engagés	Les travaux ont été engagés en juin 2009 pour être arrêtés temporairement fin novembre 2009 suite à l'asséchement constaté depuis le 13 octobre 2009.		
+2010	09			2010	09			a_redémarré	e pompage a redémarré en septembre 2010.		
+1990				1990				retrocédée_à	- partie basse, à proximité immédiate de la Marne retrocédée à la commune en 1990 pour y développer des activités industrielles et commerciales.		

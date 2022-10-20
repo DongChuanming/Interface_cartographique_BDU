@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	19		2011	04	19		un_dossier_de_demande	L'exploitant a déposé un dossier de demande de servitudes d'utilité publique le 19/04/2011.		
+								prise_d_	- prise d'un arrêté préfectoral en date du 24/04/03 pour la réalisation de travaux de réhabilitation  : excavation des sols pollués par des métaux lourds (sédiments de la lagune de 16 000 m3 et sédiments du fossé d’alimentation de cette lagune) et leur confinement sur le site à l’emplacement de la lagune de 16 000 m3.	'par des métaux lourds'	
+2009				2009				a_déposé_plusieurs_dossiers_de_cessation_partielle_d__activité	L'exploitant a déposé plusieurs dossiers de cessation partielle d'activité en 2005, 2007 et 2009.		
+2001	01	25		2001	01	25		Prise_d_	- Prise d'un arrêté préfectoral en date du 25/01/2001 pour la mise en place d'un suivi piézomètrique de la nappe et d'une EDR, afin de définir les travaux à réaliser		
+2005				2005				a_déposé_plusieurs_dossiers_de_cessation_partielle_d__activité	L'exploitant a déposé plusieurs dossiers de cessation partielle d'activité en 2005, 2007 et 2009.		
+2007				2007				a_déposé_plusieurs_dossiers_de_cessation_partielle_d__activité	L'exploitant a déposé plusieurs dossiers de cessation partielle d'activité en 2005, 2007 et 2009.		
+1960	04	15		1960	04	15		a_été_autorisé_initialement	Ce site a été autorisé initialement le 15/04/1960 pour une usine de fabrication de verres.		
+2010	09	13		2010	09	13		a_été_assortie_de	Cette modification a été assortie de dispositions techniques et du suivi des eaux souterraines prescris dans l'arrêté complémentaire du 13/09/2010.		
+2000	06			2000	06			l__évaluation_simplifiée_des_risques	- l'évaluation simplifiée des risques remise en mars 2000, complétée en juin 2000 suite à des investigations complémentaires demandées par l'inspection des installations classées.		
+2000	03			2000	03			l__évaluation_simplifiée_des_risques	- l'évaluation simplifiée des risques remise en mars 2000, complétée en juin 2000 suite à des investigations complémentaires demandées par l'inspection des installations classées.		

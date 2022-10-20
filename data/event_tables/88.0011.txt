@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				Cette_intervention	Cette intervention, encadrée par l’arrêté préfectoral de travaux d’office n° 2435/2009 du 12 octobre 2009, s’est déroulée sur les années 2010 à 2013.		
+2001	06			2001	06			réalisée	L'étude intitulée "Diagnostic étape B et ESR de la zone des lagunes du site BTT à Thaon-les-Vosges" et réalisée par la société Ate-Geoclean en juin 2001 (rapport référencé S2 01 007 0) a mis en évidence la présence de fortes concentrations en métaux dans les boues.	'métaux'	'la société Ate - Geoclean'
+2003	10			2003	10			est_placée_en_liquidation_judiciaire	La société SARL BTT est placée en liquidation judiciaire en octobre 2003.		'La société SARL BTT'
+2009	10	12		2009	10	12		Cette_intervention	Cette intervention, encadrée par l’arrêté préfectoral de travaux d’office n° 2435/2009 du 12 octobre 2009, s’est déroulée sur les années 2010 à 2013.		
+2010				2010				Cette_intervention	Cette intervention, encadrée par l’arrêté préfectoral de travaux d’office n° 2435/2009 du 12 octobre 2009, s’est déroulée sur les années 2010 à 2013.		
+2009	07	08		2009	07	08		autorise	Le 08 juillet 2009, au vu de l’insolvabilité de la liquidation judiciaire de la SARL BTT, le ministère chargé de l’environnement autorise l’ADEME à intervenir dans le cadre de la mise en sécurité des lagunes de l'ancien site BTT.		'la SARL BTT', 'BTT'
+								Le_dernier_curage	Le dernier curage remonte à plus de 20 ans.		
+1902								ont_été_exploitées	Les lagunes existent depuis au moins 1902 et ont été exploitées jusqu'au 1er mai 1999.		
+				1999	05	1		ont_été_exploitées	Les lagunes existent depuis au moins 1902 et ont été exploitées jusqu'au 1er mai 1999.		
+								seront_analysés	Les métaux lourds (Cadmium, Plomb, Mercure, Arsenic, Chrome, Cuivre, Nickel, Zinc) seront analysés sur une période de 4 ans.	'métaux lourds', 'Cadmium', 'Plomb', 'Mercure', 'Arsenic', 'Chrome', 'Cuivre', 'Nickel', 'Zinc'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				deviendra	our information l'union UCANEL deviendra la coopérative UCANEL en 1997.		'union UCANEL', 'la coopérative UCANEL'
+2002	11	06		2002	11	06		a_fourni_un_mémoire_de_cessation_d__activité	Suite a des échanges avec l'inspection des installations classées la société a fourni un mémoire de cessation d'activité le 6 novembre 2002.		
+1991				1991				l__arrêt_d__activité	Le matériel de production a été démantelé en grande partie lors de l'arrêt d'activité de l'établissement en 1991.		
+1992	05	11		1992	05	11		La_cessation_de	La cessation de cette entreprise a été réalisée le 11 mai 1992.		
+2000				2000				présentes	Les installations présentes en 2000 étaient les chambres froides et les cuves de fioul vidangées.	'fioul'	

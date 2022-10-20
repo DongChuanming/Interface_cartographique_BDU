@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	11			2007	11			Un_diagnostic_initial_de_pollution_des_sols	Un diagnostic initial de pollution des sols a été réalisé en novembre 2007.		
+2011				2011				des_opérations_de_dépollution	Dans le cadre de la mise en sécurité du site ont donc été réalisées en cours de premier semestre 2011 des opérations de dépollution consistant au curage, au transport et à l’élimination de matériaux pollués par des HCT, PCB et métaux lourds.	'des HCT', 'PCB', 'métaux lourds'	
+				2002				s__est_développée	Une activité de fabrication de produits en céramique s'est développée sur ce site depuis 1865 et jusqu'en 2002 date à laquelle la production a été arrêtée  et transférée sur un site entièrement neuf, ZI Orti sur la commune de Laveyron.		

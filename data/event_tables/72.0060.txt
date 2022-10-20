@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				est_devenue	En 1989, la société ELF-FRANCE, a pris la suite de Monsieur GARNIER, en 2012 la SARL SEYE et en 2015 TOTAL MARKETING FRANCE est devenue l'exploitant.		'la société ELF - FRANCE', 'GARNIER', 'la SARL SEYE', 'TOTAL MARKETING FRANCE'
+2017	09			2017	09			Un_diagnostic_complémentaire_des_sols	Un diagnostic complémentaire des sols en septembre 2017 a été réalisé, afin de délimiter l'impact  mis en évidence dans les sols au Sud des pistes de distribution, en limite Est du bâtiment accueillant la boutique et l'ancien garage du site.		
+2011				2011				a_été_extrait	- accolé l'extérieur côté Ouest du bâtiment, un ancien réservoir enterré d'huiles usagées (R5) a été extrait en 2011.	'huiles usagées'	
+1963				1963				est_exploité	Ce site est exploité comme station service depuis 1963.		
+2017	09	29		2017	09	29		la_cessation_de_ses_activités	L'exploitant déclare au préfet la cessation de ses activités sur le site le 29 septembre 2017, et d'autre part que le fond de commerce est restitué à son propriétaire qui prend en charge la poursuite l'activité commerciale.		
+1989				1989				a_pris_la	En 1989, la société ELF-FRANCE, a pris la suite de Monsieur GARNIER, en 2012 la SARL SEYE et en 2015 TOTAL MARKETING FRANCE est devenue l'exploitant.		'la société ELF - FRANCE', 'GARNIER', 'la SARL SEYE', 'TOTAL MARKETING FRANCE'
+1991				1991				ont_été	De plus, 2 réservoirs enterré ont été en 1991 :		
+2018	01	25		2018	01	25		La_campagne_de_surveillance	La campagne de surveillance du 25 janvier 2018 met en évidence :		

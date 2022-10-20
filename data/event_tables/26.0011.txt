@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_été_classé	Cette étude a classé le site dans un premier temps en ‘ site banalisable ‘, puis suite à la modification 2000 du guide méthodologique de l'ESR, le site a été classé 2 " site à surveiller".		"l' ESR"
+2011	03	23		2011	03	23		a_été_notifié	Un arrêté préfectoral de consignation de somme a été notifié le 23 mars 2011.		
+1975	11	05		1975	11	05		a_été_autorisée	Cette décharge a été autorisée par arrêté préfectoral n° 7030 du 5 novembre 1975.		
+1999				1999				Le_diagnostic_initial	Le diagnostic initial a été transmis à l’administration fin 1999 et l’étude évaluation simplifiée des risques fin juin 2000.		
+2000	06			2000	06			étude_évaluation_simplifiée_des_risques	Le diagnostic initial a été transmis à l’administration fin 1999 et l’étude évaluation simplifiée des risques fin juin 2000.		
+1999	06	28		1999	06	28		une_étude_de_sol	L’administration a par la suite imposé à l’exploitant une étude de sol par arrêté préfectoral n° 3428 du 28 juin 1999.		
+2009	02	13		2009	02	13		ont_été_notifiés	Trois arrêté préfectoraux de mise en demeure ont été notifiés à monsieur Sully REYNAUD les 13 février 2009, 18 mai 2009 et 23 mars 2011.		'monsieur Sully REYNAUD'
+2000	06			2000	06			Le_diagnostic_initial	Le diagnostic initial a été transmis à l’administration fin 1999 et l’étude évaluation simplifiée des risques fin juin 2000.		
+1998	10	31		1998	10	31		une_analyse_du_passé_de_la_décharge	Suite à une plainte d’un habitant de la commune de SOLERIEUX du 31 octobre 1998, l’administration a réalisé en liaison avec l’exploitant, une analyse du passé de la décharge.		'SOLERIEUX'
+2009	05	18		2009	05	18		ont_été_notifiés	Trois arrêté préfectoraux de mise en demeure ont été notifiés à monsieur Sully REYNAUD les 13 février 2009, 18 mai 2009 et 23 mars 2011.		'monsieur Sully REYNAUD'
+2007	10	23		2007	10	23		est_dissoute	A la date du 23/10/2007, la société REYNAUD est dissoute, Monsieur REYNAUD et ses 2 enfants en sont les liquidateurs.		'la société REYNAUD', 'Monsieur REYNAUD'
+2011	03	23		2011	03	23		ont_été_notifiés	Trois arrêté préfectoraux de mise en demeure ont été notifiés à monsieur Sully REYNAUD les 13 février 2009, 18 mai 2009 et 23 mars 2011.		'monsieur Sully REYNAUD'
+2006	03			2006	03			est_arrêtée	La décharge est arrêtée depuis mars 2006.		

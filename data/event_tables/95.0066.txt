@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	17		2010	06	17		La_campagne	La campagne du 17 juin 2010 a montré une activité de 680 Bq/L.		
+1997	01			1997	01			a_été_cédée	En janvier 1997, l'activité de peinture industrielle a été cédée à la Société LUMINA PEINTURE, la Société LABORATOIRE LUMINA n'exerçant plus que l'activité d'application de produits radioluminescents au sulfure de zinc activé au tritium et une activité de négoces de lampes au tritium.	'produits radioluminescents', 'sulfure', 'zinc activé', 'tritium', 'tritium'	'la Société LUMINA PEINTURE', 'la Société LABORATOIRE LUMINA'
+2001	07			2001	07			a_cessé_complètement	En juillet 2001, la Société LUMINA a cessé complètement ses activités.		'la Société LUMINA'
+2009	01	16		2009	01	16		un_suivi_sur_4_ans	Cette nappe n'est actuellement pas utilisée mais un suivi sur 4 ans du tritium a été prescrit par arrêté préfectoral en date du 16 janvier 2009 pour suivre l'évolution de cette activité dans le temps.	'tritium'	
+2012	04	12		2012	04	12		La_campagne_du	La campagne du 12 avril 2012 a montré une activité de 558 Bq/L.		
+2005				2005				des_mesures	- des mesures de tritium dans la nappe superficielle réalisées fin 2005 et en 2007 sur un réseau de 4 piézomètres installés en 2005.	'tritium'	
+1961				1961				a_exploité	A partir de 1961, la Société LUMINA a exploité des terrains en zone industrielle, sur la commune de BEAUCHAMP pour une activité d'application de peinture radioluminescentes.		'la Société LUMINA'
+1961				1963				utilisait	Entre 1961 et 1963, la Société LUMINA utilisait du radium pour les peintures radioluminescentes.	'du radium'	'la Société LUMINA utilisait'
+2005				2005				réalisé	- un compte-rendu d'intervention réalisé fin 2005 suite aux travaux d'assainissement partiel réalisés à l'extérieur et à l'intérieur des bâtiments ;		
+1995	07	21		1995	07	21		un_incendie_détruit	Le 21 juillet 1995, un incendie détruit des locaux annexes, dont un contenait des sources radioactives usagées.		
+2009	11	17		2009	11	17		La_campagne_de_mesure	La campagne de mesure du 17 novembre 2009 a permis de mesurer une activité de 330 Bq/L au niveau du piézomètre n° 4.		
+2011	05	02		2011	05	02		La_campagne_du	La campagne du 02 mai 2011 a montré une activité de 686 Bq/L.		
+1965				2001				utilisait	Entre 1965 et 2001, la Société LUMINA utilisait du tritium pour l'application de produits radioluminescents et pour une activité de négoce de lampes.	'tritium', 'produits radioluminescents'	'la Société LUMINA'

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03			2003	03			son_diagnostic_approfondi	En mars 2003, MORGAN THERMIC a remis à l'administration son diagnostic approfondi et une évaluation détaillée des risques.		'MORGAN THERMIC'
+2011	12			2011	12			__réalisation_d__une_étude_historique	- Décembre 2011 : réalisation d'une étude historique afin d'identifier les activités ayant pu générer la contamination par du bore;	'bore'	
+1929				1966				se_sont_succédé	De 1929 à 1966, plusieurs entreprises fabriquant des réfractaires se sont succédé sur le site.		
+2004	01			2004	01			a_effectué_une_visite	En janvier 2004, l'inspection des installations classées a effectué une visite du site, afin de constater l'engagement des travaux de remise en état : enlèvement et élimination des matériaux amiantés, évacuation des déchets résiduels, traitement des transformateurs au pyralène et curage du réseau pluvial.	'matériaux amiantés', 'pyralène'	
+2013	04			2013	04			ont_été_rebouchés	- En avril 2013, les piézomètres profonds (nappe du Maastrichtien), ont été rebouchés pour éviter la contamination de cette nappe (cf. rapport ENVIRON, FR13 MOR 007, du 4/04/2013).		
+2004	05			2004	05			Une_réunion	Une réunion a été organisée avec l'exploitant et ses conseils par l'inspection, fin mai 2004, afin de faire le point sur l'état d'avancement de ce dossier.		
+1999	12			1999	12			a_cessé_son_activité	La société a cessé son activité sur ce site en décembre 1999 à la suite de la violente tempête qui a eu lieu à la fin de cette année.		
+2010				2010				est_vendu	- Le site est vendu à la mairie en 2010, et une plateforme commerciale doit y être créée;		
+				2012	12			__nouvelles_investigations	- De juillet à décembre 2012 : nouvelles investigations pour rechercher la source sol de contamination par du bore : l'ancienne zone de bains de trempage au borax située au sud du site est ainsi identifiée;	'bore', 'borax'	
+2013	07			2013	07			__retrait	- Juillet 2013 : retrait de la source identifiée au niveau de l'ancienne zone de bains de trempage au borax.	'borax'	
+2013	05	06		2013	05	06		__Arrété	- 6 mai 2013 : Arrété préfectoral complémentaire prescrivant la recherche et la délimitation de la source de pollution à l'origine de la pollution par du bore, ainsi qu'un plan de gestion pour gérer cette pollution et en limiter les transferts vers les eaux souterraines et superficielles.	'bore'	
+2005	02	09		2005	02	09		suivi_de	Le rapport final de décembre 2004 a été suivi de la déclaration de fin de travaux du 9 février 2005.		
+2017				2017				est_attendu	Un complément d'études est attendu en 2017, comprenant un plan de gestion du site.		
+1966				1966				s__installe	En 1966, Morgan Thermic s'installe à Montendre pour fabriquer des creusets; récipients utilisés pour la fusion des métaux non ferreux (cuivre, bronze, aluminium, arsenic, hydrocarbures, etc...).	'creusets', 'métaux non ferreux', 'cuivre', 'bronze', 'aluminium', 'arsenic', 'hydrocarbures'	'Morgan Thermic'
+2001	03	29		2001	03	29		a_été_remise	La phase A de l'étude des sols a été remise le 29 mars 2001 et a permis de cerner plusieurs zones potentiellement polluées pouvant constituer des sources de pollution :		
+2001	08			2001	08			ont_été_transmises	La phase B de l'étude des sols et l'évaluation simplifiée des risques ont été transmises en août 2001.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	26		2013	09	26		déclare	Le 26/09/2013, l'exploitant déclare que les piézomètres sont en place et en état.		
+2010				2010				Les_diagnostic	Les diagnostic ICF Environnement de 2010 et du du 1er juillet 2011 montre que :		'ICF Environnement'
+2012	03	15		2012	03	15		L__inspection	L'inspection du 15 mars 2012 a permis de constater que les travaux de remise en état du site de l'établissement GRT Gaz à Auros ont été exécutés conformément au programme présenté par l'exploitant.		'GRT Gaz'
+2011	05			2011	05			des_travaux_de_dépollution	A la suite des travaux de dépollution en mai 2011 (voir 3 - TRAVAUX), les bâtiments techniques sont démolis.		'TRAVAUX'
+1959				2009				a_été_en_exploitation	Le site a été en exploitation de 1959 à 2009.		
+2011				2011				sont_démontés	Les installations et les équipements sont démontés et évacués en 2011.		
+2011	05			2011	05			ont_été_excavés	Les sols impactés ont été excavés en mai 2011 et éliminés en centre de traitement biologique autorisé.		

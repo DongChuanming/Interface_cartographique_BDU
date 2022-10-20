@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982	03	11		1982	03	11		relèvent	Les activités relèvent du régime de la déclaration pour les rubriques n° 1432 « dépôt de liquides inflammables » et n° 1433 « installation de mélange, de traitement ou d’emploi de liquides inflammables »  (récépissé de déclaration du 11 mars 1982).	'dépôt de liquides inflammables', 'liquides inflammables'	
+2007	05			2007	05			a_cessé	Depuis mai 2007, la société a cessé ses activités sur le site de Tancarville pour les transférer sur le site EGNO de Saint-Jean de Folleville		'Tancarville', 'le site EGNO', 'Saint-Jean de Folleville'
+2005	12			2005	12			Un_diagnostic	Un diagnostic des sols et des eaux souterraines du site a été réalisé en décembre 2005 par SITA REMEDIATION.		'SITA REMEDIATION'
+1982	03	11		1982	03	11		installation	Les activités relèvent du régime de la déclaration pour les rubriques n° 1432 « dépôt de liquides inflammables » et n° 1433 « installation de mélange, de traitement ou d’emploi de liquides inflammables »  (récépissé de déclaration du 11 mars 1982).	'dépôt de liquides inflammables', 'liquides inflammables'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04			2003	04			Une_demande_de_permis_de_démolir	Une demande de permis de démolir a été déposée en avril 2003.		
+1997	02			1997	02			Un_audit_environnemental	Un audit environnemental a été réalisé en janvier / février 1997, comportant notamment des analyses de sols.		
+								Un_audit_environnemental	Un audit environnemental a été réalisé en janvier / février 1997, comportant notamment des analyses de sols.		
+				1984	03			a_été_exploitée	Le site de Soissons abritait une ancienne fonderie qui a été exploitée des années 1920 jusqu'en mars 1984.		
+1997	12	31		1997	12	31		La_production_s__est_arrêtée	La production s’est arrêtée le 31 décembre 1997.		

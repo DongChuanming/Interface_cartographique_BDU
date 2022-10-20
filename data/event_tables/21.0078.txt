@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				__démantèlement	Fin 2007: démantèlement des 3 cuves aériennes de 80 m3 de fioul, la cuve de gazole de 5 m3 et le décanteur utilisés lors de l'exploitation du site par Bolloré.	'fioul', 'gazole'	'Bolloré'
+2008				2008				élaboration_de	2008: élaboration de deux plans de gestion par l'exploitant pour un usage futur tertiaire et industriel ou résidentiel.		
+2011	01			2011	01			__persistance	janvier 2011: persistance d'un impact en hydrocarbures C10-C40 au droit de l'ouvrage W1	'hydrocarbures C10-C40'	
+2009				2009				__réalisation_des_travaux_de_dépollution	2009-2011: réalisation des travaux de dépollution par l'exploitant		"l' exploitant"
+2007				2007				notifie_sa_cessation_d__activité	En 2007, la société BOLLORE notifie sa cessation d'activité.		'la société BOLLORE'
+2011				2011				__réalisation_des_travaux_de_dépollution	2009-2011: réalisation des travaux de dépollution par l'exploitant		"l' exploitant"
+1994				1994				réalisation	En 1994, réalisation à l'initiative de la société BOLLORE ENERGIE SA d'une étude d'impact.		'la société BOLLORE ENERGIE SA'
+2015	05			2015	05			La_campagne_de	La campagne de suivi des eaux souterraines de mai 2015 met en évidence un impact modéré en hydrocarbures et en HAP au droit des ouvrages PZ1 et W1.	'hydrocarbures', 'HAP'	
+2007				2007				réalise_un_diagnostic	2007: Dans le cadre de la cessation d'activité, l'exploitant réalise un diagnostic des sols et des eaux souterraines.		

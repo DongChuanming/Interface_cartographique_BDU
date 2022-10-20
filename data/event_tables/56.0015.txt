@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_procédé_à	Dans la perspective d'une cession de son site, l'exploitant a procédé à de nouvelles investigations de sols et d'eaux souterraines en 2005 et 2006.		
+2004				2004				a_donc_été_suspendue	La surveillance du site a donc été suspendue en 2004.		
+1997	10			1997	10			Les_investigations_conduites	Les investigations conduites en octobre 1997 et juillet 1998 ont mis en évidence une contamination :		
+1997				1997				la_reprise	Lors de la reprise du site par le groupe Freudenberg en 1997, un audit sur le site a été réalisé et a mis en évidence une pollution.		'le groupe Freudenberg'
+1998	07			1998	07			Les_investigations_conduites	Les investigations conduites en octobre 1997 et juillet 1998 ont mis en évidence une contamination :		
+2008				2010				une_interprétation	Sur demande de l'administration, une interprétation de l'état des milieux (IEM) a été réalisée entre 2008 et 2010 :		
+1975				1975				se_sont_succédées	Cependant, plusieurs sociétés se sont succédées pour cette même activité depuis 1975.		
+1980				1980				un_incendie_survenu	L'origine de la pollution par les solvants chlorés proviendrait d'un incendie survenu sur le site en 1980.	'solvants chlorés'	
+2003				2003				Les_analyses	Les analyses des eaux souterraines de 2002 et 2003 n'ont révélé que des faibles teneurs en polluant.	'polluant'	
+2010	04			2010	04			une_étude_technico___économique	Au vu de cette pollution, une étude technico-économique a été réalisée en avril 2010 afin d'évaluer la nature des travaux à réaliser.		
+2014	03	06		2014	03	06		prescrit_la_réhabilitation	Le 6 mars 2014, un APS prescrit la réhabilitation du site :		
+2009	10	29		2009	10	29		a_été_autorisée_à_exploiter	La société Auray Plast a été autorisée à exploiter une installation de transformation de matières plastiques par récépissé du 29 octobre 2009.		'La société Auray Plast'
+2005				2005				a_procédé_à	Dans la perspective d'une cession de son site, l'exploitant a procédé à de nouvelles investigations de sols et d'eaux souterraines en 2005 et 2006.		
+2000				2000				évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR), réalisée en 2000, range le site en classe 2 "site à surveiller".		
+2002				2002				Les_analyses	Les analyses des eaux souterraines de 2002 et 2003 n'ont révélé que des faibles teneurs en polluant.	'polluant'	
+1997				1997				un_audit	Lors de la reprise du site par le groupe Freudenberg en 1997, un audit sur le site a été réalisé et a mis en évidence une pollution.		'le groupe Freudenberg'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11	16		2011	11	16		__et_bouché_définitivement	Le puits a été foré en 1981 (fin du forage le 07/04/1981) et bouché définitivement le 16/11/2011.		
+1981				1981				a_été_foré	Le puits a été foré en 1981 (fin du forage le 07/04/1981) et bouché définitivement le 16/11/2011.		
+2011	11	16		2011	11	16		a_été_foré	Le puits a été foré en 1981 (fin du forage le 07/04/1981) et bouché définitivement le 16/11/2011.		
+1981	04	07		1981	04	07		fin_du_forage	Le puits a été foré en 1981 (fin du forage le 07/04/1981) et bouché définitivement le 16/11/2011.		
+2013	02			2013	02			Le_diagnostic_environnemental	Le diagnostic environnemental a été réalisé en février 2013.		
+2014	08	05		2014	08	05		Les_travaux_de_remise_en_état	Les travaux de remise en état du site ont été cadrés par arrêté préfectoral : AP Mines/2014/26 du 05/08/2014.		

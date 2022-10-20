@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07			2001	07			Une_étude	Une étude sur la qualité du milieu aquatique après le sinistre a été réalisée en juillet 2001 par le BRGM.		'le BRGM'
+1998				1998				a_entièrement_brulé	Terrain de 2 ha, situé au nord est de la commune, précédemment occupé par un dépôt de 20 000 m3 de pneumatiques usagés qui a entièrement brulé en 1998, laissant sur le sol des résidus de combustion, notamment liquides.	'pneumatiques usagés'	
+1998				1998				occupé_par	Terrain de 2 ha, situé au nord est de la commune, précédemment occupé par un dépôt de 20 000 m3 de pneumatiques usagés qui a entièrement brulé en 1998, laissant sur le sol des résidus de combustion, notamment liquides.	'pneumatiques usagés'	

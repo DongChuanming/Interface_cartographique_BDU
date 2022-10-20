@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								L__exploitation	L'exploitation de cette installation a débuté au début des années 1990 par la Mairie de Cestas.		'la Mairie de Cestas'
+2004				2004				a_transmis	Le 24 décembre de 2004, la Communauté de Communes de Cestas- Canéjan a transmis à M. le Préfet ces compléments.		'la Communauté de Communes de Cestas- Canéjan', 'le Préfet'
+2004	08	16		2004	08	16		un_dossier_de_réhabilitation	Le 16 août 2004, la Communauté de Communes de Cestas- Canéjan a déposé un dossier de réhabilitation de l'ancienne décharge de Cestas située au lieu-dit "Bois de l'Estey".		'la Communauté de Communes de Cestas-'
+								a_été_effectuée	Le transfert d'exploitation au profit de la communauté de communes a été effectuée il y a environ 14 ans.		
+								a_transmis	Le 24 décembre de 2004, la Communauté de Communes de Cestas- Canéjan a transmis à M. le Préfet ces compléments.		'la Communauté de Communes de Cestas- Canéjan', 'le Préfet'

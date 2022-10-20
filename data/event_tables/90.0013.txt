@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	11			2007	11			Les_derniers_résultats	Les derniers résultats de novembre 2007 montrent une certaine dégradation avec l'apparition d'un impact à l'aval en cadmium.	'cadmium'	
+2007	09			2007	09			est_à_l__arrêt	Le site est à l'arrêt depuis septembre 2007, suite à un incendie.		
+2008				2008				d__inondations	Lors d'inondations en 2008, l'unique piézomètre aval a été détruit, ne permettant dès lors plus de suivre la pollution en aval du site.		
+2008				2008				a_été_détruit	Lors d'inondations en 2008, l'unique piézomètre aval a été détruit, ne permettant dès lors plus de suivre la pollution en aval du site.		
+1999	02	25		1999	02	25		la_réalisation_d__une_étude_simplifiée	Par arrêté préfectoral du 25 février 1999, la société s'est vue demander la réalisation d'une étude simplifiée des risques de pollution des sols, du fait de la nature des activités pratiquées sur son site.		
+								étant_à_l__arrêt	Il a demandé par la même occasion à l'exploitant de remettre un mémoire de cessation d'activité conformément aux dispositions des articles R.512-39-1 à R 512-39-3 du Code de l'Environnement, le site étant à l'arrêt depuis plus de 2 ans.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				prévoit	L'AP d'Autorisation prévoit une surveillance des eaux souterraines qui sera mis en place en 2006.		
+2006				2006				sera_mis_en_place	L'AP d'Autorisation prévoit une surveillance des eaux souterraines qui sera mis en place en 2006.		
+2006				2006				une_surveillance_des_eaux_souterraines	L'AP d'Autorisation prévoit une surveillance des eaux souterraines qui sera mis en place en 2006.		

@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2004	08	10		2004	08	10		fourni	Le rapport de surveillance des eaux souterraines fourni le 10/08/2004 montre :		
+1993	08	20		1993	08	20		a_été_autorisée	Elle a été autorisée par arrêté préfectoral du 20/08/1993.		
+2005	01	26		2005	01	26		a_été_remis	La rapport du diagnostic des sols a été remis le 26/01/2005 à la Préfecture.		
+2013	06			2013	06			La_dernière_campagne_a_été_effectuée	La dernière campagne a été effectuée au mois de juin 2013.		
+2003	07			2003	07			ont_été_implantés	3 piézomètres ont été implantés sur site en juillet 2003 (PZ4, PZ5 et PZ6).		
+								ont_été_réalisés	Les plus récents ont été réalisés en février (PZ1 latéral amont, PZ2 latéral aval, PZ3 aval) et en novembre 2004 (PZ7 aval proche, PZ8 aval, PZ9 aval, PZ10 aval).		
+2009				2009				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2008				2008				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2012	12			2012	12			Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2004	11			2004	11			ont_été_implantés	4 nouveaux piézomètres ont été implantés sur site en novembre 2004 (PZ7, PZ8, PZ9 et PZ10).		
+2010				2010				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2003	07			2003	07			a_été_implanté	Le reste (PZ4 latéral amont, PZ5 latéral aval et PZ6 aval éloigné) a été implanté en juillet 2003.	'PZ4'	
+2006				2006				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2007				2007				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2005	01			2005	01			a_été_effectuée	Une surveillance des eaux souterraines a été effectuée en janvier 2005.		
+2004	02			2004	02			ont_été_ensuite_implantés	3 piézomètres ont été ensuite implantés sur site (PZ1, PZ2 et PZ3) en février 2004.		
+2011				2011				Des_campagnes_de	Des campagnes de suivi des eaux souterraines ont été effectuées en 2006, 2007, 2008, 2009, 2010, 2011, mars, juin et décembre 2012.		
+2003				2003				Une_étude_hydrogéologique	Une étude hydrogéologique réalisée par Geoclean sur le site a été réalisée en 2003.		'Geoclean'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03	27		2000	03	27		documents_demandés	La Société HERINK a fait parvenir à la préfecture les documents demandés le  27 mars 2000.		'La Société HERINK'
+2005	07	28		2005	07	28		a_pris_acte	Une inspection du site a été menée par la DRIRE en date 14 avril 2005 et par courrier préfectoral du 28 juillet 2005, Mr le Préfet de Seine-et-Marne a pris acte de la cessation définitive d'activité du site.		'la DRIRE', 'le Préfet'
+2000	11	30		2000	11	30		ont_été_transmis	Ces derniers ont été transmis le 30 novembre 2000, leur analyse n'a pas fait l'objet de remarques supplémentaires.		
+2005	04	14		2005	04	14		Une_inspection	Une inspection du site a été menée par la DRIRE en date 14 avril 2005 et par courrier préfectoral du 28 juillet 2005, Mr le Préfet de Seine-et-Marne a pris acte de la cessation définitive d'activité du site.		'la DRIRE', 'le Préfet'

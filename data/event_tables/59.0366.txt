@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	09		2006	05	09		Récolement_effectué	-9 mai 2006:Récolement effectué pour une remise en état du site pour un usage industriel exclusivement, et dans l'état actuel du site.		
+2007	01			2007	01			_Permis_de_construire_déposé	-Permis de construire déposé en janvier 2007.		
+2001	03	02		2001	03	02		_Cessation_d__activité	-Cessation d'activité le 2 mars 2001.		
+2003	03	17		2003	03	17		_Évaluation_simplifiée_des_risques	-Évaluation simplifiée des risques réalisée le 17 mars 2003.		
+2003	07	08		2003	07	08		_Une_étude_a_été_fournie	-Une étude a été fournie le 8 juillet 2003:		
+2001	02	09		2001	02	09		_Diagnostic_environnemental_des_sols	-Diagnostic environnemental des sols le 09/02/2001.		
+1992	12	22		1992	12	22		avait_été_autorisée	-La société GALLAY avait été autorisée par arrêté préfectoral du 22 décembre 1992.		'-La société GALLAY'
+2001	12	12		2001	12	12		une_Évaluation_simplifiée_des_risques	-Signature d'un arrêté imposant la réalisation des phases A du diagnostic des sols et une Évaluation simplifiée des risques le 12/12/2001.		
+2001	12	12		2001	12	12		_Signature_d_	-Signature d'un arrêté imposant la réalisation des phases A du diagnostic des sols et une Évaluation simplifiée des risques le 12/12/2001.		
+2001	09	07		2001	09	07		_La_visite	-La visite du site effectuée le 7 septembre 2001 a permis de constater l'abandon de toute activité.		

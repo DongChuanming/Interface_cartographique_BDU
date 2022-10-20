@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_reprise	METAFRAM est par la suite devenue SINTERTECH en 1991 et a été reprise en 1998 par FEDERAL MOGUL.		'METAFRAM', 'SINTERTECH', 'FEDERAL MOGUL'
+2004	12	09		2004	12	09		Une_analyse_des_sols	Une analyse des sols a été menée par la société SOCOTEC le 9/12/2004.		'la société SOCOTEC'
+1993	12			1993	12			Une_campagne_de	Une campagne de suivi de la qualité des eaux souterraines a débuté sur le site au mois de décembre 1993.		
+1949				1949				est_séparée	Aucun recours au site n’ayant été effectué durant la seconde guerre mondiale, l’armée française s’en est séparée en 1949.		
+1991				1991				est_par_la_suite_devenue	METAFRAM est par la suite devenue SINTERTECH en 1991 et a été reprise en 1998 par FEDERAL MOGUL.		'METAFRAM', 'SINTERTECH', 'FEDERAL MOGUL'
+1916				1916				a_démarré	L’activité industrielle a démarré en 1916 par la fabrication de munitions à gaz de combat : « Ateliers de chargement ».		
+1998	11			1998	11			Une_concentration_maximale	Une concentration maximale de prés de 800 µg/l a été observée en novembre 1998 ;		

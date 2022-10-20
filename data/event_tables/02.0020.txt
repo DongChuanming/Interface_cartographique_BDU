@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05			2009	05			a_été_rédigé	En mai 2009, un plan de gestion a été rédigé.		
+2007				2007				ont_été_démantelées	En 2007, les deux cuves polluées ont été démantelées, excavées et éliminées.		
+2010				2010				un_traitement_in_situ	Saint Gobain Emballage veut commencer en 2010 un traitement in situ de cette zone par extraction triple phase.		'Saint Gobain Emballage'
+1826				1826				exploité_industriellement	Site exploité industriellement depuis 1826, ayant comporté un dépôt de 3800 m3 d'hydrocarbures.	'hydrocarbures'	
+1961				1961				a_exploité	Jusqu'en 1961, SHELL a exploité un dépôt d'hydrocarbures sur le site de Cuffies.	'hydrocarbures'	'SHELL'
+2007				2007				une_dépollution	Fin 2007, une dépollution par bioventing a été mise en place au niveau de cette zone.		
+1996				2005				plusieurs_études_de_pollution	La société SAINT-GOBAIN EMBALLAGE a fait réaliser entre 1996 et 2005, sur son site de Vauxrot, implanté sur la commune de Cuffies, plusieurs études de pollution des sols et des eaux souterraines.		'La société SAINT-GOBAIN EMBALLAGE'

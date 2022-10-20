@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	05		2005	01	05		__Déclaration	> Déclaration de l'exploitant datant du 05/01/2005: l'installation relève du régime de la simple déclaration.		
+2013	12	20		2013	12	20		est_déposée_puis_complétée	> Le 20/12/2013, une demande de permis de construire est déposée puis complétée le 05/03/2014 par la société BOUYGUES IMMOBILIER, représentée par Madame Anne MARC.		'la société BOUYGUES IMMOBILIER', 'Madame Anne MARC'
+2001	05	28		2001	05	28		__Déclaration_de_cessation_d__activité_partielle	> Déclaration de cessation d'activité partielle datée du 28/05/2001 (par courrier) avec l'arrêt des activités industrielles effectif au 16/07/2001.		
+2001	12			2001	12			Étude_simplifiée_des_risques	- Étude simplifiée des risques en décembre 2001.		
+2000	09	07		2000	09	07		informe	> Courrier en date du 23/05/2000, informe l'Inspection des installations classées de l'arrêt de l'installation froid ammoniac le 07/09/2000.	'ammoniac'	
+2014	03	05		2014	03	05		est_déposée_puis_complétée	> Le 20/12/2013, une demande de permis de construire est déposée puis complétée le 05/03/2014 par la société BOUYGUES IMMOBILIER, représentée par Madame Anne MARC.		'la société BOUYGUES IMMOBILIER', 'Madame Anne MARC'
+2014	05	28		2014	05	28		jouissance_est_établi	> Le 28/05/2014, un arrêté portant permis de construire et valant division en propriété ou en jouissance est établi au bénéfice la société BOUYGUES IMMOBILIER.		'la société BOUYGUES IMMOBILIER'
+2001	07	16		2001	07	16		arrêt_des_activités_industrielles_effectif	> Déclaration de cessation d'activité partielle datée du 28/05/2001 (par courrier) avec l'arrêt des activités industrielles effectif au 16/07/2001.		
+2001	06			2001	06			Diagnostic	- Diagnostic, daté de juin 2001;		
+2014	02			2014	02			a_été_mis_à_l__arrêt_définitif	Ce site a été mis à l'arrêt définitif en février 2014.		

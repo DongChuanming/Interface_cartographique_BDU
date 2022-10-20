@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	04	18		1997	04	18		a_été_délivré_par	Un récépissé de  déclaration a été délivré par le préfet pour cette installation classée le 18 avril 1997.		'par le préfet'
+2018	04	13		2018	04	13		résultats_d__investigations_complémentaires	La société Picto Toulouse a proposé un plan de gestion en septembre 2017, et a fourni des résultats d'investigations complémentaires en 13 avril 2018.		'La société Picto Toulouse'
+2014	12	15		2014	12	15		une_déclaration	Suite au déménagement de l'activité sur un autre site, la société Caméléon Picto Sud a fait une déclaration de cessation d’activité, actée par le récépissé de cessation du 15 décembre 2014.		'la société Caméléon Picto Sud'
+2017				2017				détecté	* un impact en BTEX (en particulier en benzène où la teneur en amont de la zone d’étude était de 100 μg/L) détecté en 2017 et non confirmé en 2018 ;	'BTEX', 'benzène'	
+2018	04	13		2018	04	13		a_proposé_un_plan_de_gestion	La société Picto Toulouse a proposé un plan de gestion en septembre 2017, et a fourni des résultats d'investigations complémentaires en 13 avril 2018.		'La société Picto Toulouse'
+				1989				a_d__abord_été_occupé	Le site a d'abord été occupé par une conserverie de cornichons jusqu'en 1989, année après laquelle la société Caméléon Picto Sud s'y est implantée afin d'exercer une activité de développement photographique.		'la société Caméléon Picto Sud'
+2016	10	26		2016	10	26		a_transmis	Par bordereau du 26 octobre 2016, le préfet a transmis à l’inspection un dossier d’évaluation environnementale effectué dans le cadre de la cessation d’activité de la société Caméléon Picto Sud.		'le préfet', 'la société Caméléon Picto Sud'
+2017	09			2017	09			a_proposé_un_plan_de_gestion	La société Picto Toulouse a proposé un plan de gestion en septembre 2017, et a fourni des résultats d'investigations complémentaires en 13 avril 2018.		'La société Picto Toulouse'

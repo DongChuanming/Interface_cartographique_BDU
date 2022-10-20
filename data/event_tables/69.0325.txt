@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	07	01		1996	07	01		a_été_signé	Un arrêté d'autorisation d'exploiter a été signé le 01/07/1996.		
+2005	10	10		2005	10	10		la_mise_à_l__arrêt_définitif	La société SLI déclare la mise à l’arrêt définitif de son site du 22 rue Berjon le 10/10/2005.		'La société SLI'
+2018				2018				a_constaté	En 2018, l'Inspection des installations classées a constaté que l'exploitant avait unilatéralement arrêté la surveillance des eaux, ce qui a conduit le préfet du Rhône a mettre en demeure le 16/10/18 l'ancien exploitant de respecter les dispositions de l'arrêté du 27 juin 2006.		'le préfet du Rhône'
+1997				1997				Différents_diagnostics	Différents diagnostics ont été réalisés sur le site entre 1997 (ANTEA) et 2008 (SERPOL).		
+								a_mettre_en_demeure	En 2018, l'Inspection des installations classées a constaté que l'exploitant avait unilatéralement arrêté la surveillance des eaux, ce qui a conduit le préfet du Rhône a mettre en demeure le 16/10/18 l'ancien exploitant de respecter les dispositions de l'arrêté du 27 juin 2006.		'le préfet du Rhône'
+2009				2009				ont_été_formalisées	Ces recommandations ont été formalisées dans une restriction d'usage conventionnelle au profit de l'État (RUCPE) en 2009 par la Métropole de Lyon.		'la Métropole'
+1998				1998				est_en_place	Une surveillance de la qualité des eaux souterraines est en place depuis 1998 (actuellement encadrée par un arrêté préfectoral du 27 juin 2006).		
+								ont_ensuite_été_reprise	L'activité de fabrication d'ampoules ainsi que le site ont ensuite été reprise au début des années 90 par la société GTE qui a été rachetée par SYLVANIA LIGHTNING INTERNATIONAL (SLI).		'la société GTE', 'SYLVANIA LIGHTNING INTERNATIONAL ( SLI'
+2006	06	27		2006	06	27		a_constaté	En 2018, l'Inspection des installations classées a constaté que l'exploitant avait unilatéralement arrêté la surveillance des eaux, ce qui a conduit le préfet du Rhône a mettre en demeure le 16/10/18 l'ancien exploitant de respecter les dispositions de l'arrêté du 27 juin 2006.		'le préfet du Rhône'

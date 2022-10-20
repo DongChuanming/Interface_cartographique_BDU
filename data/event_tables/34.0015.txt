@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1838				1956				se_sont_succédées	Sur ce site, trois usines à gaz se sont succédées entre 1838 et 1956, date d'arrêt des activités de distillation de la houille.		
+2002	11			2002	11			Un_complément_d__étude_historique	Un complément d'étude historique a été effectué en novembre 2002 et a permis de déceler une canalisation contenant du goudron, mais sans apport nouveau par rapport à l'étude précédente en ce qui concerne une éventuelle pollution du site.	'goudron'	
+1995	11			1995	11			l__étude_d__environnement	En novembre 1995, un bureau d'études a effectué, à la demande de GAZ DE FRANCE, l'étude d'environnement de ce site.		'GAZ DE FRANCE'
+2003	12			2003	12			a_été_retirée	La canalisation a été retirée en décembre 2003.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de GAZ DE FRANCE ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usine à gaz entre le Ministère de l'Environnement et GAZ DE FRANCE, signé le 25 avril 1996.		'GAZ DE FRANCE', "le Ministère de l' Environnement", 'GAZ DE FRANCE'

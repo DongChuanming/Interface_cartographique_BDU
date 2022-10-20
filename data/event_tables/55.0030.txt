@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	05		2004	10	05		une_Evaluation_Simplifiée_des_Risques	Dans le cadre des procédures réglementaires de cessation d'activité et de remise en état du site, une Evaluation Simplifiée des Risques a été réalisée par l'exploitant et remise à la DRIRE le 05 octobre 2004.		'la DRIRE'
+1998				1998				avait___été_implanté	Un piézomètre avait  été implanté en aval du site en 1998 afin d'analyser les eaux souterraines.		
+1930				1999				ont_été_exercées	Des activités de stockage et de négoce de produits agricoles( foin, paille et céréales), de charbons et de fuel y ont été exercées de 1930 à 1999.	'fuel'	
+2004				2004				analyses_réalisées	Les résultats des analyses réalisées en 2004 montraient des  concentrations en hydrocarbures inférieures au seuil de détection.	'en hydrocarbures'	
+2010				2010				des_contrôles	Résultats des contrôles de 2009 et 2010 : absence d'hydrocarbures totaux et HAP.	'hydrocarbures totaux', 'HAP'	
+1999	04			1999	04			ont_été_démantelées	Les anciennes cuves de stockage d'hydrocarbures ont été démantelées en avril 1999.	'hydrocarbures'	
+2006				2006				La_surveillance_réalisée	La surveillance réalisée depuis 2006 ne met pas en évidence d'évolution notable de la qualité des eaux souterraines.		
+2009				2009				des_contrôles	Résultats des contrôles de 2009 et 2010 : absence d'hydrocarbures totaux et HAP.	'hydrocarbures totaux', 'HAP'	

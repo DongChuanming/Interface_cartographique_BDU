@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Le_diagnostic	Le diagnostic, complété par une évaluation simplifiée des risques, a été réalisé au 1er semestre de l'année 2001.		
+2002				2002				a_été_nettoyé	Au cours de l'été 2002, le site a été nettoyé et l'entreprise a démarré, in situ, un traitement biologique des terres polluées préalablement excavées et mises en andain.		
+2003	11	24		2003	11	24		un_procès_verbal_de_récolement	Après visite sur place le 7 novembre 2003, le site a fait l'objet d'un procès-verbal de récolement en date du 24 novembre 2003.		
+2003	09			2003	09			une_déclaration	L'exploitant a notifié en septembre 2003 une déclaration de cessation d'activité accompagné du mémoire sur l'état du site.		
+2001				2001				Le_diagnostic	Le diagnostic, complété par une évaluation simplifiée des risques, a été réalisé au 1er semestre de l'année 2001.		
+2000				2000				a_transféré	Au cours de l'année 2000, elle a transféré ses activités sur la commune de Pluguffan.		
+2003	11	07		2003	11	07		un_procès_verbal_de_récolement	Après visite sur place le 7 novembre 2003, le site a fait l'objet d'un procès-verbal de récolement en date du 24 novembre 2003.		
+2003	11	07		2003	11	07		Après_visite_sur_place	Après visite sur place le 7 novembre 2003, le site a fait l'objet d'un procès-verbal de récolement en date du 24 novembre 2003.		

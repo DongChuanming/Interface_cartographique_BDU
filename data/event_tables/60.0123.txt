@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_été_placée_en_liquidation_judiciaire	Le site a fermé en 2000, année où la société SITO a été placée en liquidation judiciaire.		'la société SITO'
+2000				2000				a_fermé	Le site a fermé en 2000, année où la société SITO a été placée en liquidation judiciaire.		'la société SITO'
+2002				2009				Des_prélèvements	Des prélèvements et analyses ont été réalisés entre 2002 et 2009 pour caractériser l’état de pollution du site.		
+2002				2009				Des_prélèvements_et_analyses	Des prélèvements et analyses ont été réalisés entre 2002 et 2009 pour caractériser l’état de pollution du site.		
+2009				2009				une_étude_sanitaire_a_été_réalisée	En vue d’examiner la possibilité d’un nouvel usage pour ce site, une étude sanitaire a été réalisée début 2009.		
+2011	03	09		2011	03	09		a_été_signé	Un arrêté de servitudes a été signé le 09 mars 2011		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1930				1930				est_abandonnée	La fabrication de vanilline est abandonnée dés 1930.	'vanilline'	
+1934				1934				est_détruite	Le 6 aout 1934, cette usine est détruite par l'explosion de divers appareils et d'un gazomètre, explosion faisant plusieurs morts.		
+1930	03	24		1930	03	24		a_été_autorisée	Cette usine a été autorisée par arrêté préfectoral du 24 mars 1930.		
+1935	05	22		1935	05	22		est_autorisée	La reprise d'exploitation est autorisée par arrêté du 22 mai 1935.		
+								est_détruite	Le 6 aout 1934, cette usine est détruite par l'explosion de divers appareils et d'un gazomètre, explosion faisant plusieurs morts.		
+1934	11	20		1934	11	20		à_une_demande	Suite à une demande du 20 novembre 1934, la société a sollicité l'autorisation de reprendre son exploitation en ne conservant que la fabrication d’acétylène et d'oxygène.	'acétylène', 'oxygène'	
+1928				1973				a_été_exploitée	Cette usine de fabrication de produits chimiques industrielle a été exploitée de 1928 à 1973 environ.		

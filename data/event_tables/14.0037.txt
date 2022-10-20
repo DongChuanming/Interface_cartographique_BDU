@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	12			2007	12			a_procédé_aux_opérations_de_mise_en_sécurité	En application d'un arrêté préfectoral du 4 octobre 2007, l'ADEME a procédé aux opérations de mise en sécurité suivantes, en décembre 2007 :		
+2011	10	27		2011	10	27		cette_intervention	Un arrêté préfectoral du 27 octobre 2011 cadre cette intervention : réalisation d'un diagnostic de pollution sur le site et dans son environnement et vérification de la compatibilité des usages avec la pollution constatée.		
+2003	07			2003	07			le_redressement_judiciaire	En juillet 2003, le redressement judiciaire du site est déclaré, suivie de la liquidation judiciaire en avril 2006.		
+2006	06	16		2006	06	16		de_mise_en_demeure	- arrêté préfectoral de mise en demeure du 16 juin 2006 prescrivant l'évacuation des déchets et un diagnostic de pollution des sols,		
+1965				1965				exploité	Atelier de traitement de surface spécialisé dans la fabrication de fauteuils roulants médicalisés et de confort en bois et tubes d’acier époxiés et chromés, exploité par la société PIERSON depuis 1965.		'la société PIERSON'
+2007	10	04		2007	10	04		a_procédé_aux_opérations_de_mise_en_sécurité	En application d'un arrêté préfectoral du 4 octobre 2007, l'ADEME a procédé aux opérations de mise en sécurité suivantes, en décembre 2007 :		
+2011	10	27		2011	10	27		réalisation_d__un_diagnostic_de_pollution	Un arrêté préfectoral du 27 octobre 2011 cadre cette intervention : réalisation d'un diagnostic de pollution sur le site et dans son environnement et vérification de la compatibilité des usages avec la pollution constatée.		
+2002				2002				l__accumulation_de_déchets_dangereux	Dès 2002, l'accumulation de déchets dangereux sur le site avait été constatée par l'inspection des installations classées.	'déchets dangereux'	
+2006	04			2006	04			la_liquidation_judiciaire	En juillet 2003, le redressement judiciaire du site est déclaré, suivie de la liquidation judiciaire en avril 2006.		
+2008	01	14		2008	01	14		a_été_pris	Un arrêté préfectoral de consignation de somme a été pris le 14 janvier 2008 à l'encontre du mandataire judiciaire, représentant de la société PIERSON, pour répondre au coût de réalisation d'un diagnostic de pollution des sols et de mise en place d'une surveillance des eaux souterraines.		'la société PIERSON'
+2013				2013				Ces_investigations_sont_programmées	Ces investigations sont programmées en 2013.		

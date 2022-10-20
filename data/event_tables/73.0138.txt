@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			de_Pussy___de	Le rapport "réhabilitation de la décharge de Pussy" de novembre 2004, réalisé par GINGER ENVIRONNEMENT, met en évidence, après 6 sondages, les contaminations suivantes dans les sols :		'GINGER ENVIRONNEMENT'
+2005	06			2005	06			La_diagnostic_complémentaire	La diagnostic complémentaire de juin 2005 (1 échantillon brut et 2 échantillons lixiviés), réalisé par GINGER ENVIRONNEMENT dans le cadre du chantier de réhabilitation en cours de réalisation et sur un secteur non encore étudié, confirme globalement les contaminations présentent dans les sols mais ne met principalement en évidence que des lixiviations en plomb (0,6  mg/kg MS) et en zinc (3,8 mg/kg MS).	'plomb', 'en zinc'	'GINGER ENVIRONNEMENT'
+1979	09	10		1979	09	10		a_accueilli	Elle a accueilli des déchets de 1967 à 2002 (autorisée par arrêté préfectoral du 10 septembre 1979).		
+1967				2002				a_accueilli	Elle a accueilli des déchets de 1967 à 2002 (autorisée par arrêté préfectoral du 10 septembre 1979).		

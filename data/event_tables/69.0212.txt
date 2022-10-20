@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	31		2006	10	31		ont_été_récupérés	Au 31/10/2006, près de 13 900 litres de produits flottants ont été récupérés. 31,2 tonnes de charbon actif usagés ont été éliminés en centre de traitement adapté.	'produits flottants', 'charbon actif usagés'	
+2000	09	13		2000	09	13		a_été_remis	Ce second diagnostic a été remis à l'Inspection des Installations Classées en date du 13/09/2000 par la société CECA.		'la société CECA'
+2005	07			2005	07			L__étude_remise	L'étude remise par ARCADIS en juillet 2005 se basait sur un total de 11 sondages atteignant une profondeur de 5 m.		'ARCADIS'
+2009	10	01		2009	10	01		a_été_rédigé	Un Plan de Gestion a été rédigé par URS en date du 21/02/2011 afin de répondre à l'une des prescriptions de l'arrêté préfectoral du 1/10/2009.		'URS'
+2013	02	11		2013	02	11		8_5_cm_ont_été_observées	La concentration maximale mesurée a été de 2 330 mg/l de HCT le 10/05/2010. 8,5 cm ont été observées le 11/02/2013.	'HCT'	
+2005	08	16		2005	08	16		un_rapport	Le bureau d'étude URS a rendu un rapport sur les actions faisant suite à cette fuite en date du 16/08/2005.		'URS'
+2000	05			2000	05			a_demandé_des_investigations_complémentaires	L'administration a demandé des investigations complémentaires en mai 2000, en particulier sur un débordement de bac de stockage signalé en 1995.		
+2011	02	21		2011	02	21		a_été_rédigé	Un Plan de Gestion a été rédigé par URS en date du 21/02/2011 afin de répondre à l'une des prescriptions de l'arrêté préfectoral du 1/10/2009.		'URS'
+2007	11			2007	11			l__arrêt	Le taux de récupération de la phase flottante, devenue de plus en plus faible au cours du temps, couplé aux concentrations résiduelles en gaz de sol faible ont conduit à l’arrêt du système de filtrage par venting au mois de novembre 2007.	'la phase flottante'	
+2006	11			2007	03			ont_été_implantés	Afin d'améliorer la récupération de la phase flottante d'hydrocarbures, 6 ouvrages ont été implantés sur le site entre les mois de novembre 2006 et mars 2007.  Les sondages alors réalisés ont montrés des teneurs en HCT dans les sols atteignant jusqu'à 7 500 mg/kg.	"la phase flottante d' hydrocarbures", 'en HCT'	
+2008	01			2013				114_campagnes_de_suivi	Entre les mois de janvier 2008 et d'avril 2013, 114 campagnes de suivi de la qualité des eaux souterraines du site (à fréquence bimensuelle) et 63 campagnes de suivi des eaux hors site avait été réalisés.		
+2005	08	16		2005	08	16		cette_fuite	Le bureau d'étude URS a rendu un rapport sur les actions faisant suite à cette fuite en date du 16/08/2005.		'URS'
+								a_été_transmis	Le diagnostic initial a été transmis à l'administration le 10/12/98.		
+1998	08	12		1998	08	12		une_étude_de_sols	Aussi, il a été prescrit par arrêté préfectoral le 12 août 1998 une étude de sols.		
+2005	09			2005	09			depuis_la_mise_en_place_des_filtres	Ce dernier dresse un bilan des travaux de dépollution réalisé sur le site. 30 m3 de flottant ont été récupéré depuis la mise en place des filtres en septembre 2005.		
+2005				2005				Une_fuite	Une fuite sur le réseau n° 5 permettant l'alimentation des stations de distribution a été déclarée pendant l'été 2005.		
+2011	06	06		2011	06	06		fait_l__objet	Il est toutefois à noter que le piézomètres sur lequel était noté les plus fortes concentration s'est dégradé et n'a donc plus fait l'objet de mesure depuis le 06/06/2011.		
+2005				2005				les_travaux_de_dépollution	URS conclu qu'en considérant l'usage du site, son contexte environnemental et les travaux de dépollution réalisés depuis 2005, les enjeux à protéger seront les futurs usagers du site.		'URS'
+2013	03	06		2013	03	06		a_cessé_de_fonctionner	De même, une pompe a cessé de fonctionner le 06/03/2013 dans un second piézomètres empêchant ainsi l’échantillonnage.		
+								La_poursuite_de_la_surveillance	- La poursuite de la surveillance de la qualité des eaux souterraines au droit et à l'extérieur du site suivant une fréquence semestrielle pour une durée de 4 ans.		

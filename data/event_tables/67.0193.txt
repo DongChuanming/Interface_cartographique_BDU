@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	08			1989	08			notamment_la_mise_en_place_d__un_réseau	 dès août 1989, notamment la mise en place d'un réseau piézometrique.		
+1992	02	25		1992	02	25		Une_étude_hydrogéologique	Une étude hydrogéologique est réalisée le 25 février 1992 déterminant l'emplacement d'un piézomètre en aval de la station service exploitée par la société MATCH, ouvrage permettant d'effectuer la surveillance de la qualité des eaux souterraines.		'la société MATCH'
+2013	01	22		2013	01	22		porte	L'arrêté du 22/01/2013 porte des prescriptions complémentaires concernant la surveillance des eaux souterraines.		
+1989	07	01		1989	07	01		est_implantée	La société supermarché MATCH est implantée sur son site 38 route de Colmar à SELESTAT depuis le 01/07/1989.		'La société supermarché MATCH', 'Colmar', 'SELESTAT'

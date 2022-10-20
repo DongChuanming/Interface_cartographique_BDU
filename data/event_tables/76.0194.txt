@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				est_engagée	Elle est engagée en 2008.		
+2000				2000				Une_étude_des_sols	Une étude des sols a été prescrite en 2000 qui a conclu à l'absence de risque critique.		
+2009	10			2009	10			La_campagne_de_prélèvements_effectuées	La campagne de prélèvements effectuées au mois d'octobre 2009 sur les eaux souterraines au droit du site de SOCABU a mis en évidence un sens d'écoulement de la nappe dirigé vers le nord-est de la raffinerie et des teneurs en hydrocarbures totaux, en HAP et BTEX inférieures à la VCI usage non sensible au droit des 3 piézomètres concernés.	'hydrocarbures totaux', 'HAP', 'BTEX'	'SOCABU'

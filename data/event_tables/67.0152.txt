@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	27		2012	04	27		gestion_ont_été	Un compte rendu ainsi que le nouveau plan de gestion ont été transmis au préfet en octobre 2012 en application de l'arrêté du 27 avril 2012.		
+2012	10			2012	10			gestion_ont_été	Un compte rendu ainsi que le nouveau plan de gestion ont été transmis au préfet en octobre 2012 en application de l'arrêté du 27 avril 2012.		
+				2013	07	19		dans_les	Le maire de Strasbourg a interdit l'usage des eaux souterraines dans les jardins familiaux situés en aval hydraulique du site par arrêté municipal du 15 janvier 2010 reconduit le 19 juillet 2013 et a relié ces derniers au réseau d'adduction en eau potable.		
+2012	10			2012	10			Un_compte_rendu_ainsi_que_le	Un compte rendu ainsi que le nouveau plan de gestion ont été transmis au préfet en octobre 2012 en application de l'arrêté du 27 avril 2012.		
+2010	01	15		2010	01	15		dans_les	Le maire de Strasbourg a interdit l'usage des eaux souterraines dans les jardins familiaux situés en aval hydraulique du site par arrêté municipal du 15 janvier 2010 reconduit le 19 juillet 2013 et a relié ces derniers au réseau d'adduction en eau potable.		
+2012	04	27		2012	04	27		Un_compte_rendu_ainsi_que_le	Un compte rendu ainsi que le nouveau plan de gestion ont été transmis au préfet en octobre 2012 en application de l'arrêté du 27 avril 2012.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	04		2008	01	04		a_été_transmis	Le 4 janvier 2008, le dossier complet de réhabilitation du site a été transmis.		
+				2002				exploitée	Ancienne décharge exploitée par la commune d'Hostens jusqu'en 2002 sur la commune d'Hostens (33) au lieu-dit Bertet de Loin.		'la'
+2006	11	16		2006	11	16		une_réunion	A l'issue d'une réunion en date du 16 novembre 2006, réalisée entre l'inspection des installations classées, la mairie d'Hostens et la société ayant réalisé l'étude susvisée, il a été convenu de :		
+1981	04	1		1981	04	1		a_été_autorisée	Cette décharge a été autorisée par arrêté préfectoral du 1er avril 1981.		
+2006	03	28		2006	03	28		Une_première_étude_réalisée	Une première étude réalisée par SAFEGE, a été remise le 28 mars 2006.		'SAFEGE'

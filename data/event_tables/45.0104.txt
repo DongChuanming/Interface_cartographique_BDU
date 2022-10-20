@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	07	07		1997	07	07		a_été_autorisé_par	Le SIRTOMRA, propriétaire du terrain, a été autorisé par arrêté préfectoral en date du 7 juillet 1997 à exploiter sur le territoire de la commune de SOUGY, au lieu dit "Le trou aux lièvres", un centre de transfert de déchets ménagers.		'Le SIRTOMRA'
+2007	04	02		2007	04	02		la_cessation_définitive_d__activité	Par transmission en date du 2 avril 2007, le SIRTOMRA a déclaré à Monsieur le préfet la cessation définitive d'activité à compter du 1er avril 2007 du quai de transfert de déchets qu'il exploitait sur la commune de SOUGY.		'le SIRTOMRA', 'le préfet'
+2010	04	14		2010	04	14		a_réalisé	Dans ces conditions, l'administration a réalisé le procès verbal de récolement le 14 avril 2010 donnant acte de cette cessation d'activité.		

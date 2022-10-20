@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				ont_été_arrêtées	activités dans cet atelier ont été arrêtées en 2014, après une trentaine d’années		
+2016	12	15		2016	12	15		Lors_de_la_visite	Lors de la visite du 15/12/2016, l’ex-exploitant ORIL Industrie a présenté à l'IIC le diagnostic environnemental référencé IC160191 réalisé par la société IDDEA datant du 02/09/2016 qui a été mené dans le cadre de la cessation partielle d’activité du site ‘MAGII-GP6-km+1.		'ORIL Industrie', 'la société IDDEA', 'MAGII'
+2016	12	15		2016	12	15		de_la_visite	Lors de la visite du 15/12/2016 l'inspection des installations classées (IIC) n'a pas constaté la présence de taches de pollution aux hydrocarbures sur les sols.	'hydrocarbures'	'IIC'

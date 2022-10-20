@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04			2013	04			Une_nouvelle_campagne_a_cependant_été_réalisée	Une nouvelle campagne a cependant été réalisée en avril 2013.		
+2006	04			2006	04			Des_campagnes_de_prélèvement	Des campagnes de prélèvement des eaux souterraines ont par la suite été réalisées sur les 3 piézomètres à une fréquence semestrielle d’avril 2006 à novembre 2008.		
+2008				2008				les_campagnes_ont_été_interrompues	Suite à l’arrêt de l’activité en 2008, les campagnes ont été interrompues.		
+2016	07	1		2016	07	1		une_campagne_complémentaire_de_suivi	A la suite du démantèlement du bac de trempage, une campagne complémentaire de suivi de la qualité des eaux souterraines a été réalisée le 1er juillet 2016.		
+2008				2008				un_incendie_survenu	Plus aucune activité n’est exercée sur le site depuis un incendie survenu en 2008.		
+2018	03	29		2018	03	29		de_la_visite	Lors de la visite du 29 mars 2018, l'Inspection des Installations Classées n’a pas constaté de présence de zones à risques d’incendie ou d’explosion au niveau des anciennes installations de la société RULLEAU à Saint Magne, ni de présence de produits dangereux et de déchets résiduels liés à l’activité sur le site.	'produits dangereux'	'la société RULLEAU'
+2008	11			2008	11			Des_campagnes_de_prélèvement	Des campagnes de prélèvement des eaux souterraines ont par la suite été réalisées sur les 3 piézomètres à une fréquence semestrielle d’avril 2006 à novembre 2008.		
+2008	07	04		2008	07	04		informe	Selon le courrier du 2 août 2011, l'exploitant informe l'Inspection des Installations Classées de la cessation d'activité du site depuis le 4 juillet 2008.		
+2008	03	21		2008	03	21		un_dossier_de_demande	Des modifications notables ayant été apportées aux installations (notamment l'extension de l'activité de travail de bois), un dossier de demande d'autorisation en régularisation a été déposé le 21 mars 2008.		
+2008	07	03		2008	07	03		une_déclaration_d__incendie_est_faite	Le 3 juillet 2008, une déclaration d'incendie est faite.		
+1987				1987				a_été_rachetée	Elle a été rachetée par la SOFA en 1987 avant de devenir un des établissements RULLEAU.		'la SOFA', 'RULLEAU'
+2011	08	02		2011	08	02		informe	Selon le courrier du 2 août 2011, l'exploitant informe l'Inspection des Installations Classées de la cessation d'activité du site depuis le 4 juillet 2008.		
+2009	05	18		2009	05	18		a_informé	Par courrier du 18 mai 2009, l'exploitant a informé l'Inspection des Installations Classées du transfert de l'ensemble des produits de préservation de bois sur d'autres sites.		
+2015	10	26		2015	10	26		ont_été_effectués	A la suite du démantèlement du bac de trempage encore présent sur site, des prélèvements sur les sols sous-jacents ont été effectués le 26 octobre 2015.		
+1982	12	14		1982	12	14		a_été_autorisée	L'installation a été autorisée par l'arrêté préfectoral du 14 décembre 1982.		
+2008	07	04		2008	07	04		la_cessation_d__activité	Selon le courrier du 2 août 2011, l'exploitant informe l'Inspection des Installations Classées de la cessation d'activité du site depuis le 4 juillet 2008.		

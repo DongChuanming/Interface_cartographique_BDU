@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				les_travaux_de_dépollution	En raison de difficultés financières en 1997 (redressement judiciaire), les travaux de dépollution n'ont pu être effectués par l'exploitant.		
+2002	02			2002	02			d__une_visite	Lors d'une visite effectué en février 2002 , il a été constaté que :		
+1972				1996				éliminait	Une étude historique a révélé qu'entre 1972 et 1996, cet exploitant éliminait ses déchets (papiers, cartons, plastiques, solvants usagés) par incinération au sein d'une fosse dans l'emprise de son établissement.	'plastiques', 'solvants usagés'	
+2002	03			2002	03			Des_analyses_des_terres_excavées	Des analyses des terres excavées ont été réalisées en mars 2002 , indiquant un impact en COHV et en BTEX inférieur aux seuils.	'COHV', 'BTEX'	
+2001	11	10		2001	11	10		la_réalisation_des_travaux_de_dépollution	Le 10 novembre 2001, un arrêté préfectoral complémentaire est venu prescrire à la société RENÉ PIERRE la réalisation des travaux de dépollution conformément au plan de gestion d'octobre 1996.		'la société RENÉ PIERRE'
+2001				2001				De_nouvelles_analyses	De nouvelles analyses des eaux souterraines en 2001 ont révélé la persistance d'une pollution dans la "nappe de Chalon Nord" exploitée, le panache de pollution se rapprochant de la zone des captages AEP.		
+1996	01	16		1996	01	16		a_été_régularisée	Son activité relève du régime de l'autorisation au titre de la nomenclature des installations classées ; celle-ci a été régularisée et régulièrement autorisée par arrêté préfectoral du 16 janvier 1996.		
+1996	10	08		1996	10	08		programme_de_dépollution	Un programme de dépollution a été proposé en conséquence le 8 octobre 1996.		
+1972				1972				a_démarré	Une activité de production de meubles de jeux a démarré sur le site en 1972.		
+1995				1995				a_été_détecté	Dans le cadre de la surveillance des eaux souterraines qui alimentent l'agglomération chalonnaise en eau potable, il a été détecté en 1995 un impact marqué par des solvants chlorés (COHV) dans la nappe de Saint-Cosme, au niveau de 2 piézomètres à proximité immédiate du site de la société RENÉ PIERRE.	'des solvants chlorés', 'COHV'	'la société RENÉ PIERRE'

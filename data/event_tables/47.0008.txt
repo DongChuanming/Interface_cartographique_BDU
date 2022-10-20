@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03	23		1999	03	23		a_été_remise	L'étape A a été remise le 23/03/1999 et l'étape B le 12/09/2003.		
+2013	06			2013	06			La_campagne_de	La campagne de juin 2013 donne les résultats suivants:		
+1994				1994				a_été_dépolluée_par	Suite au constat de 1994, la nappe a été dépolluée par l'implantation d'un puits de pompage.		
+1994				1994				constat	Suite au constat de 1994, la nappe a été dépolluée par l'implantation d'un puits de pompage.		
+2013	05			2013	05			La_campagne_de	La campagne de mai 2013 donne les résultats suivants:		
+1994				1994				une_étude_de_sol	En 1994, lors de l'acquisition par le groupe Bristol Myers Squibb Company, une étude de sol et de nappe a été menée, montrant une pollution des sols et de la nappe par des produits chlorés et des BTEX au niveau d'une ancienne cuve aérienne de fuel et le long d'une ancienne canalisation de rejet des eaux usées.	'des produits chlorés', 'des BTEX', 'fuel', 'eaux usées'	'le groupe Bristol Myers Squibb Company'

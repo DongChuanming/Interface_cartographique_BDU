@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05			2001	05			ANALYSE_HISTORIQUE	En mai 2001, mandatée par l'exploitant, la société ANTEA a établi une "ANALYSE HISTORIQUE ET DE VULNERABILITE DE L'ENVIRONNEMENT DES ETS DEWEZ A HIRSON ".		'la société ANTEA', "VULNERABILITE DE L' ENVIRONNEMENT DES ETS DEWEZ A HIRSON"
+2005	02			2005	02			a_émis	En février 2005, l'hydrogéologue agréé a émis un avis sur la nécessité de mettre en place un suivi de la qualité de la nappe.		
+2003	04			2003	04			a_révélé	Le rapport d'études remis en avril 2003, a révélé la présence de métaux lourds (chrome, cuivre, nickel, plomb, zinc) dans le sol au droit de la cisaille presse et d'aluminium sur l'ensemble du site.	'métaux lourds', 'chrome', 'cuivre', 'nickel', 'plomb', 'zinc', 'aluminium'	
+2003	04			2003	04			remis	Le rapport d'études remis en avril 2003, a révélé la présence de métaux lourds (chrome, cuivre, nickel, plomb, zinc) dans le sol au droit de la cisaille presse et d'aluminium sur l'ensemble du site.	'métaux lourds', 'chrome', 'cuivre', 'nickel', 'plomb', 'zinc', 'aluminium'	

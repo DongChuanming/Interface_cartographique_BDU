@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_fuit	Depuis 2011, les résultats d’analyses du suivi de la nappe, au niveau des piézomètres Pz1 et Pz3, implantés près de la cuve qui a fuit en 2001, mettent en évidence des fluctuations des concentrations en hydrocarbures, selon la hauteur de la nappe, avec une concentration maximale de 180 mg/l mesurée en Pz1 en juillet 2014.	'hydrocarbures'	
+2001	03			2001	03			la_vidange	- la vidange et le dégazage complet de la cuve ont eu lieu en mars 2001.		
+2015	05	27		2015	05	27		a_pas_encore_mis_en_place_d__action	L’exploitant n’a pas encore mis en place d’action pour dépolluer les sols souillés, bien que cela lui ait été suggéré lors de l'inspection du 27/05/2015.		
+2001	10	04		2001	10	04		a_été_imposé	Toutefois, il a été imposé à AIR LIQUIDE par arrêté préfectoral du 4 octobre 2001, de réaliser les mesures suivantes:		'AIR LIQUIDE'
+2015	06	30		2015	06	30		a_été_demandé	Un bilan quadriennal de la surveillance des eaux souterraines a été demandé, à l'exploitant, dans le rapport de l'inspection du 30/06/2015.		
+2017	04			2017	04			mise_à_jour	Or, la méthodologie nationale de gestion des sites et sols pollués, mise à jour en avril 2017, prévoit qu’en cas de pollution accidentelle, l’action doit se placer dans une logique de réparation, en vue de remettre les milieux dans un état antérieur à l’accident.		
+2001	02	27		2001	02	27		un_déversement	Le 27/02/2001, une fuite sur une canalisation de la boucle du circuit de fuel est à l'origine d'un déversement d'hydrocarbures dans un réseau d'eaux pluviales en communication avec la Seine, ayant entraîné une pollution de celle-ci et du sous-sol.	'fuel', 'hydrocarbures'	
+2014	07			2014	07			ont_été_faites_en	Les dernières analyses ont été faites en juillet 2014.		
+2001	04			2001	04			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols et de la nappe a été réalisé en avril 2001.		
+2019	08	02		2019	08	02		a_été_pris	Un arrêté préfectoral de prescriptions complémentaires, relatif à la dépollution du site, a été pris le 02/08/2019, en application de l’article L. 512-20 du code de l’environnement.		

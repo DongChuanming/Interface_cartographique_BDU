@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04	19		2007	04	19		a_adressé	Le 19/04/2007, la préfecture a adressé le courrier à l'exploitant ainsi qu'une copie à la mairie de Grenoble et à l'acquéreur du terrain, la SARL LCLR.		'la préfecture', 'la SARL LCLR'
+2007	03	16		2007	03	16		une_étude_de_sols	Le 16/03/2007, la SARL MARIS a transmis à l'administration une étude de sols complémentaire.		'la SARL MARIS'
+1984	03	14		1984	03	14		récépissé	La société AGIP Française exploitait une station service soumise à déclaration (récépissé datant du 14/03/1984).		'La société AGIP Française'
+2004	12	29		2004	12	29		a_cessé_toutes_activités	La SARL MARIS a cessé toutes activités le 29/12/2004.		'La SARL MARIS'
+2007	04	05		2007	04	05		un_rapport	Par un rapport en date du 05/04/2007, la DRIRE propose Préfet de prendre acte, par courrier adressé à la SARL MARIS, de la cessation d'activité de la station service située rue Léon Jouhaux à Grenoble.		'la DRIRE', 'la SARL MARIS'
+1984	03	14		1984	03	14		exploitait	La société AGIP Française exploitait une station service soumise à déclaration (récépissé datant du 14/03/1984).		'La société AGIP Française'
+2007				2007				ont_été_répertoriés	D'après des données du BRGM en 2007, deux puits à usage domestique ont été répertoriés dans un rayon de 2 km autour du site.		'BRGM'
+1995	10	27		1995	10	27		se_porte_acquéreur	Le 27/10/1995, la société MARIS se porte acquéreur de la station service.		'la société MARIS'

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				La_campagne_du	La campagne du 3ème trimestre 2006 (septembre) montre une situation redevenue stable et satisfaisante pour l'acide acétique (piézo 2) et en amélioration pour le terbutylméthyléther (piézo 2).	'acide', 'terbutylméthyléther'	
+2006	12			2006	12			tendance	Les campagnes d'avril, juin et octobre 2007 confirment la tendance de décembre 2006 pour PZ1 et PZ2.		
+1997	1996			1997	1996			__fuite_pendant_plusieurs_mois	- 1996/1997 : fuite pendant plusieurs mois d'une fosse de 3 m3 située à l'aval de l'unité UO.		
+								La_campagne	La campagne du 1er trimestre 2005 montre une situation satisfaisante et stable par rapport aux campagnes précédentes.		
+								La_campagne_du	La campagne du 1er trimestre 2006 montre une situation qui s'améliore pour l'acide acétique (piézo 2) et le chlorobenzène, et stable pour le terbutylméthyléther.	'acide acétique', 'chlorobenzène', 'le terbutylméthyléther'	
+								Les_campagnes_de	Les campagnes de mars, juin, septembre et novembre 2015, confirment la présence de Fer, Manganèse, Arsenic dans les 4 piézos PZ0, PZ, PZ2 et PZ3.	'Fer', 'Manganèse', 'Arsenic'	
+2008				2008				__fuite_pendant_plusieurs_mois	- 2008 : fuite pendant plusieurs mois d'un regard et de tuyauteries de collecte des eaux usées.		
+								Les_campagnes	Les campagnes des 27/09, 27/11 et 5/12/2005 montrent un retour progressif à la normale avec toutefois une augmentation des teneurs en acide acétique et de terbutylméthyléther (TBME) dans 2 piézomètres.	'acide acétique', 'terbutylméthyléther', 'TBME'	
+2005				2005				La_campagne	La campagne du 1er trimestre 2005 montre une situation satisfaisante et stable par rapport aux campagnes précédentes.		
+2006				2006				La_campagne_du	La campagne du 1er trimestre 2006 montre une situation qui s'améliore pour l'acide acétique (piézo 2) et le chlorobenzène, et stable pour le terbutylméthyléther.	'acide acétique', 'chlorobenzène', 'le terbutylméthyléther'	
+								La_campagne_du	La campagne du 3ème trimestre 2006 (septembre) montre une situation redevenue stable et satisfaisante pour l'acide acétique (piézo 2) et en amélioration pour le terbutylméthyléther (piézo 2).	'acide', 'terbutylméthyléther'	
+2015	11			2015	11			Les_campagnes_de	Les campagnes de mars, juin, septembre et novembre 2015, confirment la présence de Fer, Manganèse, Arsenic dans les 4 piézos PZ0, PZ, PZ2 et PZ3.	'Fer', 'Manganèse', 'Arsenic'	
+2005	06	28		2005	06	28		La_campagne_du	La campagne du 28 juin 2005 montre une augmentation généralisée des paramètres au droit du site.		
+2005	12	05		2005	12	05		Les_campagnes	Les campagnes des 27/09, 27/11 et 5/12/2005 montrent un retour progressif à la normale avec toutefois une augmentation des teneurs en acide acétique et de terbutylméthyléther (TBME) dans 2 piézomètres.	'acide acétique', 'terbutylméthyléther', 'TBME'	
+2006	12			2006	12			La_campagne_de	La campagne de décembre 2006 met en évidence une augmentation des chlorobenzènes, Toluène et terbutylméthyléther dans PZ1, PZ2.	'chlorobenzènes', 'Toluène', 'terbutylméthyléther'	
+2007	10			2007	10			Les_campagnes_d_	Les campagnes d'avril, juin et octobre 2007 confirment la tendance de décembre 2006 pour PZ1 et PZ2.		
+								Les_campagnes_d_	Les campagnes d'avril, juin et octobre 2007 confirment la tendance de décembre 2006 pour PZ1 et PZ2.		

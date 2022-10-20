@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								une_étude_diagnostique	La société CALDEO a transmis le 26/08/03 une étude diagnostique des sols dans le cadre d’une cessation d’activité et en application de l’art 34-1 du décret n°77-1133 du 21/09/1977.		'La société CALDEO'
+				2003				a_exploité	Elle a exploité jusqu'en 2003 des installations classées soumises à autorisation notamment sous les rubriques R 1434/1°a-A, R 253/A, R 1432 /2°-A.		
+1965				1965				construit	La société CALDEO a succédé en 1990 à la société PARIS PETROLE DISTRIBUTION pour l’exploitation d’un ancien dépôt de stockage et de distribution de FOD et de GO construit en 1965 sur le site Allée du Luxembourg à Pavillons Sous Bois par PETROFAB.		'La société CALDEO', 'la société PARIS PETROLE DISTRIBUTION', 'FOD', 'PETROFAB'
+1990				1990				a_succédé	La société CALDEO a succédé en 1990 à la société PARIS PETROLE DISTRIBUTION pour l’exploitation d’un ancien dépôt de stockage et de distribution de FOD et de GO construit en 1965 sur le site Allée du Luxembourg à Pavillons Sous Bois par PETROFAB.		'La société CALDEO', 'la société PARIS PETROLE DISTRIBUTION', 'FOD', 'PETROFAB'
+1817				1817				était_devenue_propriétaire	La présence de ces déchets « urbains » s’explique dans la mesure où la ville de PARIS était devenue propriétaire de la zone en 1817 et avait créé des bassins recevant les matières de vidange de PARIS.	'les matières de vidange de PARIS'	
+2010	06			2010	06			a_été_remis	Le rapport de fin de travaux a été remis en juin 2010.		
+				2010	05	05		Les_opérations_de_terrassement	Les opérations de terrassement se sont déroulées du 6/07/09 au 5/05/2010 et ont consisté en :		

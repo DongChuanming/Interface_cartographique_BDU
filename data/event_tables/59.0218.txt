@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				agrandissement_de	1977 : agrandissement de la capacité de stockage	'stockage'	
+2001				2002	10			Les_opérations_de_dépollution	Les opérations de dépollution sont réalisées entre aout 2001 et octobre 2002 :		
+2000				2000				cessation_d_	2000 : cessation d'activité des bacs propriétés de BP France		'BP France'
+1974				1974				__création	1974 : création du site		
+2012				2012				transition	2012 : transition des bacs de pétrole brut en gazole.	'pétrole brut', 'gazole'	

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				se_rejetant	-Constatation d'une nouvelle pollution dans le fossé béton se rejetant dans la lagune en 2006.		
+2001				2001				__travaux_de_dépollution	-En 2001: travaux de dépollution de la nappe: pompage et filtration des eaux contaminées (jusqu'à aout 2006).		
+2000				2000				__travaux_de_dépollution	-Aout 2000: travaux de dépollution de la lagune.		'la lagune'
+2006				2006				_Constatation_d_	-Constatation d'une nouvelle pollution dans le fossé béton se rejetant dans la lagune en 2006.		
+2004				2004				__travaux_de_dépollution	-En 2004: travaux de dépollution des sols au niveau du point de dépotage: excavation et traitement des sols.		
+2000	05			2000	05			fuite_sur_un_distributeur_PL	-Mai 2000: pollution d'hydrocarbures constatée: fuite sur un distributeur PL.	'hydrocarbures'	
+2007				2007				__curage	-En 2007: curage et traitement du fossé, vérification du déshuileur du parking.		
+				2006				__travaux_de_dépollution	-En 2001: travaux de dépollution de la nappe: pompage et filtration des eaux contaminées (jusqu'à aout 2006).		
+2004	02	11		2004	02	11		_Étude_de_risques	-Étude de risques: 11/02/2004		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	01	23		2014	01	23		Les_premières_investigations	Les premières investigations se sont déroulées le 23 janvier 2014 et ont consisté en la réalisation de 10 sondages.		
+								existe	La production de charbon existe depuis le début du 20ème siècle, avec la société des Mines de Blanzy.	'charbon'	'la société des Mines'
+								existent_sur	Les installations de la centrale thermique existent sur le site depuis les années 1920.		
+2014	01	17		2014	01	17		Un_changement	Un changement d'exploitant a été notifié le 17/01/2014 , au profit de MONCIA.		'MONCIA'
+1920				1920				a_historiquement_été_utilisé	La parcelle faisant l'objet de l'extension du site et devant recevoir les nouvelles installations a historiquement été utilisé dès 1920 à des fins de dépôt de résidus miniers.		
+1990				1990				reprend	A partir de 1990, la société SOCCRAM reprend la centrale, et notamment l’exploitation mixte des générateurs à charbon et à gaz.	'charbon'	'la société SOCCRAM'
+2014	07	23		2014	07	23		De_nouvelles_investigations	De nouvelles investigations se sont déroulées le 23 juillet 2014 et ont consisté en la réalisation de 6 sondages de sol à 5 mètres de profondeur implantés de manière à délimiter l’impact en substances organiques et au droit de la future cuve.		
+2014	01			2014	01			une_mission_de_reconnaissance	En janvier 2014, une mission de reconnaissance et un diagnostic de pollution du sous-sol dans la zone ont été réalisés.		
+2014	07			2014	07			Cette_première_investigation	Cette première investigation a été complétée par une seconde série de sondages et d’analyses en juillet 2014, dans le cadre de la préparation d’un plan de gestion.		
+2005	04	05		2005	04	05		l__installation_d__une_chaudière	Le 5 avril 2005 , l'installation d’une chaudière au gaz naturel en remplacement des trois chaudières au charbon a été demandée.	'charbon'	
+2005	12	13		2005	12	13		a_été_arrêtée	L’exploitation des chaudières à charbon a été arrêtée le 13 décembre 2005.	'charbon'	

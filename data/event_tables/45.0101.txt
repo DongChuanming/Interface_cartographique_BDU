@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				a_été_liquidée	En 2013, l'entreprise a cessé son activité sur ce site et a été liquidée en 2015.		
+2015	09			2015	09			fait_l__objet	La Société ROGER PERRIN a ensuite fait l’objet d’une liquidation judiciaire en septembre 2015.		'La Société ROGER PERRIN'
+2015				2015				a_cessé	En 2013, l'entreprise a cessé son activité sur ce site et a été liquidée en 2015.		
+2012				2012				un_dossier_de_demande_d__autorisation	En 2012, afin de régulariser sa situation, la société a transmis un dossier de demande d’autorisation à la DDT.		'la DDT'
+2011	04	21		2011	04	21		a_été_constaté	Le 21 avril 2011, suite à un signalement de la Direction Départementale des Territoires (DDT) du Loiret, alors en charge du suivi des installations de stockage de déchets inerte, il a été constaté que la société Perrin exploitait illégalement un site de stockage de déchets inerte sur la commune de Saint-Hilaire-Saint-Mesmin.		'la Direction Départementale des Territoires', 'la société Perrin'
+2013	03	31		2013	03	31		ayant_officiellement_signifié_la_fin_d__exploitation_du_site	Toutefois, l’entreprise PERRIN ayant officiellement signifié la fin d’exploitation du site au 31 mars 2013 et en raison de doutes sur le caractère réellement inerte des déchets stockés, l’instruction du dossier a abouti à la rédaction de l’arrêté préfectoral du 12 mars 2013 proposant des mesures de suivi et de sauvegarde des terrains.		'entreprise PERRIN'
+2013				2013				a_cessé	En 2013, l'entreprise a cessé son activité sur ce site et a été liquidée en 2015.		

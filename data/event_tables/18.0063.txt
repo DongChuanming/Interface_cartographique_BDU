@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				les_opérations	En 2007 l’exploitant a réalisé les opérations suivantes :		
+2008	06			2008	06			Le_traitement	- Le traitement de la zone polluée au niveau de la cuve de SP98 par oxydation in-situ a été effectué d'avril à juin 2008 et a permis de réduire les teneurs entre 20% et 90% selon le composé.	'cuve de SP98'	
+2007	09			2007	09			défini	Le plan de gestion des pollutions, défini en septembre 2007, a permis de définir les mesures de gestion suivantes:		
+2014	04			2014	04			a_dépassé	La teneur en benzo(a)pyrène a dépassé également cette valeur de référence en avril 2014 pour la première fois	'benzo(a)pyrène'	
+2016				2016				D__autres_travaux_ont_été_réalisés	D'autres travaux ont été réalisés en 2016 dans le cadre du 2eme plan de gestion:		
+2007				2007				a_été_proposé	Dans le cadre de la cessation d’activité, plusieurs études environnementales ont été réalisées et un plan de gestion a été proposé en 2007 avec un futur usage identique (station service) conformément au souhait du propriétaire.		
+2006	12	14		2006	12	14		a_déclaré_une_cessation_partielle_d__activité	Le 14/12/2006, CALDEO a déclaré une cessation partielle d’activité à compter du 31/12/2006 pour une durée maximale de 3 mois.		'CALDEO'
+								Le_traitement	- Le traitement de la zone polluée au niveau de la cuve de SP98 par oxydation in-situ a été effectué d'avril à juin 2008 et a permis de réduire les teneurs entre 20% et 90% selon le composé.	'cuve de SP98'	
+2009				2009				5_campagnes	La teneur en hydrocarbure a été dépassée (valeur de référence de l'eau potable) lors de 5 campagnes depuis 2009.	'hydrocarbure'	
+2007	05	1		2007	05	1		a_déclaré_la_cessation_définitive_d__activité	Le 27/04/2007, CALDEO a déclaré la cessation définitive d’activité à compter du 1er mai 2007.		'CALDEO'
+2009				2009				a_été_dépassée	La teneur en hydrocarbure a été dépassée (valeur de référence de l'eau potable) lors de 5 campagnes depuis 2009.	'hydrocarbure'	
+2008				2008				les_actions_réalisées	les actions réalisées en 2007 et 2008 dans le cadre du 1er plan de gestion sont:		
+1988				2007				a_exploité	De 1988 à 2007, la société CALDEO (ex SA MERCIER) a exploité cette station service.		'la société CALDEO', 'SA MERCIER'
+								a_déclaré_une_cessation_partielle_d__activité	Le 14/12/2006, CALDEO a déclaré une cessation partielle d’activité à compter du 31/12/2006 pour une durée maximale de 3 mois.		'CALDEO'
+2007	04	27		2007	04	27		a_déclaré_la_cessation_définitive_d__activité	Le 27/04/2007, CALDEO a déclaré la cessation définitive d’activité à compter du 1er mai 2007.		'CALDEO'
+2007				2007				les_actions_réalisées	les actions réalisées en 2007 et 2008 dans le cadre du 1er plan de gestion sont:		

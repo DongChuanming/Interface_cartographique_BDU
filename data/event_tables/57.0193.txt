@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	07		2011	07	07		a_transmis	En réponse à l’article 2 de l’arrêté préfectoral n° 2011-DLP/BUPE-143 du 19 avril 2011, l’exploitant a transmis le schéma conceptuel ainsi qu’une interprétation de l’état des milieux (IEM) réalisés par la société OTE Ingénierie en date du 7 juillet 2011.		'la société OTE Ingénierie'
+2011	04	19		2011	04	19		a_transmis	En réponse à l’article 2 de l’arrêté préfectoral n° 2011-DLP/BUPE-143 du 19 avril 2011, l’exploitant a transmis le schéma conceptuel ainsi qu’une interprétation de l’état des milieux (IEM) réalisés par la société OTE Ingénierie en date du 7 juillet 2011.		'la société OTE Ingénierie'
+2008				2008				complément_de_celles_menées	Des investigations ont été effectuées en complément de celles menées en 2008, avec la mise en place de piézomètres.		
+2016				2016				ont_été_transmis	De nouveaux documents ont été transmis en fin d'année 2016 : l’exploitant a effectué les investigations complémentaires relatives à la définition de l’extension du panache mais n’a pas effectué les investigations permettant de caractériser les zones sources, ni complété le plan de gestion.		
+1922				1922				exploitait	Elle exploitait ces installations sur le territoire de la commune de BOULAY depuis 1922 avec un atelier de décolletage et d'emboutissage.		'BOULAY'
+2014	03			2014	03			a_été_complété	Celui-ci a été complété en mars 2014.		
+2010	10	14		2010	10	14		la_cessation_d__activité	Le 14 octobre 2010, l'exploitant a notifié à Monsieur le Préfet de Moselle la cessation d'activité de son site.		'le Préfet'
+2014	12	15		2014	12	15		a_fait_parvenir	Le 15 décembre 2014, l’exploitant a fait parvenir à l’Inspection des Installations Classées un document intitulé Plan de Gestion établi dans le cadre de la démolition des bâtiments.		
+2008				2008				Des_investigations_ont_été_effectuées	Des investigations ont été effectuées en complément de celles menées en 2008, avec la mise en place de piézomètres.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_été_remise	Celle-ci a été remise en 2002 : site à surveiller (classe 2).		
+2010	11	05		2010	11	05		d__analyses_réalisées	Pas d'analyses réalisées pour 2010 au 05/11/2010, du fait d'une cessation d'activité suivie d'une reprise qui a mis huit mois à se faire.		
+2010				2010				d__analyses_réalisées	Pas d'analyses réalisées pour 2010 au 05/11/2010, du fait d'une cessation d'activité suivie d'une reprise qui a mis huit mois à se faire.		

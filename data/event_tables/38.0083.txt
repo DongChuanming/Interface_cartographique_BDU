@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	03	25		2009	03	25		ont_repris	Les analyses ont repris le 25/03/2009.		
+1969				1969				a_été_remblayé	En 1969, la gravière a été remblayé et les photos aériennes n’indiquent plus la présence des dépôts.		
+2001	07			2001	07			Un_diagnostic_global_des_sols_a_été_mené	Un diagnostic global des sols a été mené en juillet 2001 sur l’ensemble du site afin d’estimer l’étendue de la pollution sous le site. 19 sondages ont alors été effectués.		
+				1968	07	08		a_été_exploité	Celle- ci a été exploité jusqu’au 08/07/1968.		
+1972	03	13		1972	03	13		La_construction	La construction de l’unité psychiatrique du Centre Hospitalier Universitaire a débuté le 13/03/1972.		'Centre Hospitalier Universitaire'
+				1967	07	04		était_réservé_à	Le site était réservé à usage agricole jusqu’au 04/07/1967, date d’implantation d’une gravière.		
+2000	11	28		2000	11	28		est_a_été_envoyé	Un prélèvement a alors été effectué est a été envoyé au laboratoire SGS Crépin en date du 28/11/2000.		'SGS Crépin'
+2002	02	28		2002	02	28		signé	L’Inspection des Installations Classées a rédigé un arrêté préfectoral, signé le 28/02/2002, visant à imposer la réalisation:		
+2001	04			2001	04			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été mené en avril 2001 par GEOPLUS. 20 sondages ont alors été réalisées et un piézomètre a été implanté sur le site.		'GEOPLUS'
+								effectuées	Les photos aériennes effectuées en octobre de la même année montrent la présence d’une zone de déchets de couleur blanchâtre à proximité de la gravière abandonnée.		
+2000				2000				un_projet_d__implantation	En 2000, un projet d’implantation d’une blanchisserie sur la partie nord du site a vu le jour.		
+2008	03			2008	03			s__est_tenu	La première campagne de suivi de la qualité de la nappe s’est tenu au mois de mars 2008.		

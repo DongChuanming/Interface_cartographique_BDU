@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01	28		1997	01	28		déclarent	Le 28 janvier 1997, les établissements CHARVET déclarent au préfet avoir absorbé par fusion la société SPROS le 1er janvier 1991.		'les établissements CHARVET', 'la société SPROS'
+2005	03			2005	03			Ces_activités_cessent	Ces activités cessent en mars 2005.		
+2014	04			2014	04			Ces_mesures_sont_réalisées	Ces mesures sont réalisées en avril 2014.		
+2013	08			2013	08			de_deux_campagnes	Les eaux souterraines sont également caractérisées à cette occasion, lors de deux campagnes en avril et août 2013.		
+2014	07	26		2014	07	26		ont_donc_été_demandés	Des compléments ont donc été demandés le 26 juillet 2014 par voie d'arrêté préfectoral au dernier exploitant du site, la société CHARVET.		'la société CHARVET'
+2013				2013				est_lancé	En 2013, un programme d'investigations complémentaires est lancé.		
+1948				1948				est_partiellement_démolie	L'usine de production de radium est partiellement démolie en 1948.		
+								de_deux_campagnes	Les eaux souterraines sont également caractérisées à cette occasion, lors de deux campagnes en avril et août 2013.		
+1978				1978				est_ensuite_repris	Le fond de commerce de la société SOPAGRA est ensuite repris en 1978 par la société SPROS.		'la société SOPAGRA', 'la société SPROS'
+1913				1928				est_exploité	Entre 1913 et 1928, le site est exploité par la "Société des Traitements Chimiques de Saint-Denis" (société SATCHI fondée en 1910 par le baron Henri de Rothschild) qui y exerce alors une activité d’extraction du radium à partir de minerai d’uranium.	'radium'	'la " Société des Traitements Chimiques', 'le baron Henri de Rothschild'
+1937				2005				se_succèdent	De 1937 à 2005, plusieurs sociétés d'équarrissage se succèdent sur le site.		
+2009				2009				l__IRSN_réalise_des_analyses	En 2009, l’IRSN réalise des analyses sur 62 échantillons prélevés dans les sols en vue notamment de rechercher la présence de métaux lourds, d’hydrocarbures et de solvants.	'métaux lourds', 'hydrocarbures'	
+1910				1910				fondée	Entre 1913 et 1928, le site est exploité par la "Société des Traitements Chimiques de Saint-Denis" (société SATCHI fondée en 1910 par le baron Henri de Rothschild) qui y exerce alors une activité d’extraction du radium à partir de minerai d’uranium.	'radium'	'la " Société des Traitements Chimiques', 'le baron Henri de Rothschild'
+2005	10	19		2005	10	19		est_remis	Un premier mémoire est remis le 19 octobre 2005 qui donne les dispositions prises pour assurer la mise en sécurité du site : surveillance, nettoyage sous pression des sols avec des produits nettoyant et désinfectant et élimination des déchets d’huile et de ferrailles.	'des déchets d’ huile'	
+1991	01	1		1991	01	1		avoir_absorbé_par_fusion	Le 28 janvier 1997, les établissements CHARVET déclarent au préfet avoir absorbé par fusion la société SPROS le 1er janvier 1991.		'les établissements CHARVET', 'la société SPROS'
+1997				1999				réalisent_des_études	De 1997 à 1999, plusieurs organismes réalisent des études et mettent en évidence une pollution radioactive au radium sur le site CHARVET et la berge Est de la Seine, jouxtant le site.	'radium'	

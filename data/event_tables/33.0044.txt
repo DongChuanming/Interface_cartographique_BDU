@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	19		2005	09	19		sont_règlementées	Les activités sont règlementées par l'arrêté du 19/09/2005.		
+								s__est_installée	L'usine MICHELIN s'est installée dans les années 1960 sur la zone industrielle de Bassens.		'MICHELIN'
+2007	01			2007	01			Les_résultats	Les résultats de Janvier 2005, Juillet 2006 et Janvier 2007 sont satisfaisants: il est relevé une faible concentration en DCO sur les trois piézomètres (inférieure à 70 mg/l).	'DCO'	
+2000				2000				d__investissement_est_engagé	Un programme d'investissement est engagé pour l'année 2000, d'un montant de 850 KF : il s'agit de contrôler le risque de pollution sur différentes zones du site, par des travaux (création d'aires bétonnées, récupération des eaux...).		
+2005	01			2005	01			Les_résultats	Les résultats de Janvier 2005, Juillet 2006 et Janvier 2007 sont satisfaisants: il est relevé une faible concentration en DCO sur les trois piézomètres (inférieure à 70 mg/l).	'DCO'	
+2009	11			2009	11			l__étude_des_sols_réalisée	Dans le cadre de l'implantation d'une nouvelle unité de stockage, l'étude des sols réalisée en novembre 2009, sur une zone de 400 m2 environ, révèle la présence de remblais anciens impactés par des hydrocarbures (5000 mg/kg) et des HAP (7300 mg/kg).	'hydrocarbures', 'des HAP'	
+2009	12	07		2009	12	07		et_envoyées	Les terres souillées de la nouvelle unité de stockage sont excavées jusqu'à la limite de détection (environ 400 tonnes) et envoyées le 07/12/2009 en incinération à la SIAP 33 Bassens.		'la SIAP'
+2006	07			2006	07			Les_résultats	Les résultats de Janvier 2005, Juillet 2006 et Janvier 2007 sont satisfaisants: il est relevé une faible concentration en DCO sur les trois piézomètres (inférieure à 70 mg/l).	'DCO'	

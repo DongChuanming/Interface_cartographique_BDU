@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1961				1961				était_occupé	Le site était occupé par la Teinturerie Largeron et Cie depuis 1961.		'la Teinturerie Largeron'
+1981	06	1		1981	06	1		a_été_créée	La Teinturerie du Bernay a été créée le 1er juin 1981.		'La Teinturerie du Bernay'
+2012	06	20		2012	06	20		a_adressé_un_courrier	L'administration a adressé un courrier, en date du 20 juin 2012 au propriétaire afin de régulariser la situation concernant le transformateur au PCB.	'PCB'	

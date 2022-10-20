@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_cessé	L'activité a cessé en 2001.		
+2001				2001				a_remplacé	En 2001, le magasin d'électroménager SODIMEL a remplacé les établissements COSSON ; puis en avril 2010 par la société COCELEC, en janvier 2012 par FINDIS.		"le magasin d' électroménager SODIMEL", 'les établissements COSSON', 'la société COCELEC'
+2014				2014				un_nettoyage	En 2014, un nettoyage et dégazage d'une cuve compartimentée (SP 10 m3 et GO 15 m2) ont été réalisés, et les déchets eaux/boues hydrocarbures ont été détruits.	'hydrocarbures'	
+1973				1973				a_accueilli	Ce site a accueilli en 1973, un dépôt de carburant, rangé dans la 3ème classe des Établissements dangereux, insalubres ou incommodes, par le décret du 28 octobre 1952.	'carburant'	

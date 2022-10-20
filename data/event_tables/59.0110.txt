@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				la_liquidation_judiciaire_de	En 1991, la liquidation judiciaire de cette société a été prononcée.		
+								a_donné_acté	Le 11/05/98, le préfet a donné acté de la réhabilitation du terrain.		'le préfet'
+1992				1992				a_acquis	La SCI Victor Hugo, dont l'actionnaire est la société VANDENHOVE implantée au 37-39 rue Voltaire à Houplines, a acquis le site en 1992 sans procéder à la déclaration de changement d'exploitant pour le transformateur au PCB.	'PCB'	'La SCI Victor Hugo', 'la société VANDENHOVE'
+								Un_diagnostic_du_site_a_été_remis	Un diagnostic du site a été remis le 01/09/97.		
+1994				1994				a_été_déconnecté	Le transformateur a été déconnecté par EDF en 1994.		
+1997				1997				des_actes_de_vandalismes	En 1997, des actes de vandalismes sur le transformateur ont entraîné une pollution aux PCB.	'PCB'	

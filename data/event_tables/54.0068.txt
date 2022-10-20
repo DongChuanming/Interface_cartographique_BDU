@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	11			2004	11			Les_analyses	Les analyses de novembre 2004 montrent que la teneur en HAP totaux est restée stable par rapport à la première campagne d'analyses et est supérieure à la valeur de référence ER.	'HAP totaux'	
+2007	02			2007	02			une_étude_de_faisabilité_de_stabilisation	En février 2007, une étude de faisabilité de stabilisation des boues des étangs COGENOR du site de Neuves Maisons a été fournie à l'inspection des installations classées.		'étangs COGENOR'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	11	27		2003	11	27		l__incendie_du	La cessation définitive d'activité, déclarée le 27 novembre 2003, a fait suite à l'incendie du 6 juillet 2002 qui a entraîné la destruction des installations.		
+2002				2002				scierie_détectée	La présence, à faible teneurs, de produit de traitement du bois dans le sous-sol de la scierie détectée en 2002 n'a donc pas totalement disparue.		
+2004	11	10		2004	11	10		Le_prélèvement_effectué_dans_le_puits_amont	Le prélèvement effectué dans le puits amont le 10 novembre 2004 montre dans les eaux souterraines, l'existence de traces des 3 composants du produit de traitement du bois utilisé sur l'ancien site de la Scierie Vuillemin : propiconazole, cyperméthrine et tébuconazole.	'propiconazole', 'cyperméthrine', 'tébuconazole'	'la Scierie'
+2003	11	27		2003	11	27		La_cessation_définitive	La cessation définitive d'activité, déclarée le 27 novembre 2003, a fait suite à l'incendie du 6 juillet 2002 qui a entraîné la destruction des installations.		
+2013	04	29		2013	04	29		des_prélèvements_de_sols	Suite à la procédure de cessation d'activité du site, des prélèvements de sols ont été effectués le 29 avril 2013.		
+2004	08	30		2004	08	30		prélevées	L'analyse des eaux souterraines prélevées le 30 août 2004 dans l'un des puits à l'aval de la Scierie Vuillemin montre la persistance de traces d'éléments présents dans le produit de traitement du bois qui était utilisé sur site.		
+2002	07	06		2002	07	06		l__incendie_du	La cessation définitive d'activité, déclarée le 27 novembre 2003, a fait suite à l'incendie du 6 juillet 2002 qui a entraîné la destruction des installations.		
+2002				2002				l__incendie	De ce fait, les faibles concentrations rencontrées et l'absence de composés prédominant indiquent que l'origine probable de ces composés est la combustion de bois sur le site pendant son activité et pendant l'incendie survenu en 2002.	'ces composés'	
+1987	03	24		1987	03	24		était_soumise_à_autorisation	L'établissement était soumise à autorisation selon l'Arrêté Préfectoral du 24 mars 1987.		
+2015	07			2015	07			ont_été_évacuées	147.58 tonnes de terres ont été évacuées vers le centre de traitement de Biogénie (01) en juillet 2015.		'Biogénie ( 01'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Traitement_par_venting	- Traitement par venting pour la zone non saturée, complétée par un pompage et traitement de l'eau en fin 1998.		
+1998				1998				un_pompage	- Traitement par venting pour la zone non saturée, complétée par un pompage et traitement de l'eau en fin 1998.		
+								__Diagnostic_complémentaire	- Diagnostic complémentaire en avril 96 montrant une pollution  des sols et des eaux souterraines en hydrocarbures.	'en hydrocarbures'	
+2002	11	19		2002	11	19		Rebouchage	- Rebouchage du dernier piézomètre: 19/11/2002.		

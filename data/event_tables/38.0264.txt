@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				été_achevés	Les travaux de réaménagement ont été achevés en 1996 pour l'alvéole nord et en 1998 pour l'alvéole sud.		
+								radiologique_des	Quant à la société CEZUS, la réalisation du contrôle radiologique des eaux souterraines lui est imposée.		'souterraines lui est imposée'
+1996				1996				été_achevés	Les travaux de réaménagement ont été achevés en 1996 pour l'alvéole nord et en 1998 pour l'alvéole sud.		

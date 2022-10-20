@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	24		2005	05	24		de_la_dernière_visite	Lors de la dernière visite du site le 24 mai 2005, l'inspection des installations classées a indiqué à M. le Préfet de la Haute-Marne qu'il est important :		'le Préfet'
+2003	04			2003	04			ont_été_rejetés	Ces lixiviats ont été rejetés en avril 2003 et les analyses réalisées n'ont montré aucune incidence sur le milieu.		
+2009	03	26		2009	03	26		Visite_d__inspection	Visite d'inspection du site le 26/03/2009: le site a été mis en sécurité.		
+2006	05	04		2006	05	04		Une_visite	Une visite du site a eu lieu le 4 mai 2006 afin de dresser un état des lieux du site. il ressort de cette visite que :		
+2002	02	18		2002	02	18		ont_été_définies	Par arrêté préfectoral du 18 février 2002, les conditions de rejet de 1500 m3 de lixiviats dans l'Ornel ont été définies.		
+2010	07	09		2010	07	09		Visite	Visite d'inspection du site le 09/07/2010:  Le site est suivi périodiquement.		
+2003	07	10		2003	07	10		d__entretenir	- d’entretenir le site conformément à l’arrêté préfectoral du 10 juillet 2003,		
+2003	06			2003	06			des_travaux_de_réparation	Par arrêté préfectoral en juin 2003, des travaux de réparation du bassin de stockage des lixiviats et d'entretien du site ont été confiés à l'ADEME.		

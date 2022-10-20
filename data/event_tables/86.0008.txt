@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	05	31		1997	05	31		a_cessé_ses_activités	Le 31 mai 1997, l'entreprise TERNIER a cessé ses activités, suite au décès de son propriétaire Mr Serge TERNIER.		'TERNIER', 'Serge TERNIER'
+2008	07	30		2008	07	30		a___depuis_lors___été_vendu	Le site a, depuis lors, été vendu (30/07/2008) à la sociétè SCI Guion Sanital qui le loue a présent AMS.		'la sociétè SCI Guion Sanital'
+2003	09			2003	09			Cette_évaluation	Cette évaluation, conclue en septembre 2003, classe le site en catégorie 2 "à surveiller".		
+2002	06			2002	06			a_été_demandé	Par ailleurs, les résultats de ces analyses montrant la présence de Cadmium, il a été demandé en juin 2002 des investigations complémentaires en vue de finaliser l'évaluation simplifiée des risques.	'Cadmium'	

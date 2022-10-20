@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	08			1999	08			une_évaluation_simplifiée_des_risques	Sur sa propre initiative, la société Langlois Chimie fait réaliser en Août 1999 une évaluation simplifiée des risques du site de l'établissement de Cestas.		'la société Langlois Chimie'
+2008	04	10		2008	04	10		ont_été_autorisées	Ces installations ont été autorisées par l'arrêté préfectoral du 16/07/1991, modifié par arrêté préfectoral complémentaire du 10/04/2008.		
+2005	03	15		2005	03	15		La_campagne_du	La campagne du 15 mars 2005 montre l'absence d'impact sur la nappe.		
+1997				1997				avaient_été_décelés	Des hydrocarbures en faibles concentrations avaient été décelés en 1997 dans les eaux superficielles du fossé longeant le site.	'hydrocarbures'	

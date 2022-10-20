@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				déclare_dans_son_courrier_du	L’exploitant déclare dans son courrier du 9 mai 2019 avoir évacué cette cuve en 2015.		
+2019	05			2019	05			à_informé	L'exploitant à informé l’administration en mai 2019 de la réalisation d'actions visant à répondre aux dispositions de l'arrêté préfectoral du 24 janvier 2008.		
+2019	05	21		2019	05	21		transmet_par_courriel	En complément, il transmet par courriel le 21 mai 2019 :		
+2015				2015				avoir_évacué	L’exploitant déclare dans son courrier du 9 mai 2019 avoir évacué cette cuve en 2015.		
+2019	05	09		2019	05	09		déclare_dans_son_courrier_du	L’exploitant déclare dans son courrier du 9 mai 2019 avoir évacué cette cuve en 2015.		
+2008	03			2008	03			première_étude_historique	Conformément à l’AP du 24 janvier 2008, et en complément d’une première étude historique datant de mars 2008, l’exploitant a transmis en mai 2019 un nouveau diagnostic environnemental de la société AECOM comprenant :		'la société AECOM'
+2005				2005				Un_diagnostic_initial_réalisé	Un diagnostic initial réalisé en 2005 dans le cadre de la vente du terrain avait montré une mesure semi-quantitative au PID de 2200 ppm à proximité de la cabine de peinture.		
+2008	01	24		2008	01	24		Conformément_à	Conformément à l’AP du 24 janvier 2008, et en complément d’une première étude historique datant de mars 2008, l’exploitant a transmis en mai 2019 un nouveau diagnostic environnemental de la société AECOM comprenant :		'la société AECOM'
+2015				2015				évacuée	- La présence d’une pollution concentrée en HCT (16 660 mg/kg MS) au droit de l’ancienne cuve de 3000 litres (sondage S1), également évacuée en 2015, située à l’angle Nord-Ouest du bâtiment.	'HCT'	
+2019	05			2019	05			un_nouveau_diagnostic_environnemental	Conformément à l’AP du 24 janvier 2008, et en complément d’une première étude historique datant de mars 2008, l’exploitant a transmis en mai 2019 un nouveau diagnostic environnemental de la société AECOM comprenant :		'la société AECOM'
+2008	03			2008	03			un_nouveau_diagnostic_environnemental	Conformément à l’AP du 24 janvier 2008, et en complément d’une première étude historique datant de mars 2008, l’exploitant a transmis en mai 2019 un nouveau diagnostic environnemental de la société AECOM comprenant :		'la société AECOM'
+2008	01	24		2008	01	24		à_informé	L'exploitant à informé l’administration en mai 2019 de la réalisation d'actions visant à répondre aux dispositions de l'arrêté préfectoral du 24 janvier 2008.		

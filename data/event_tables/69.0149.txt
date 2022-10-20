@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10	03		2002	10	03		la_réalisation_d__une_étude_de_sols	Il a été prescrit à la société METEOR par arrêté préfectoral du 3 octobre 2002, la réalisation d'une étude de sols comportant un diagnostic initial et une Etude Simplifiée des Risques (ESR) suivant le guide méthodologique de gestion des sites potentiellement pollués.		'la société METEOR'
+1980	07	17		1980	07	17		a_été_réglementée	Cette activité a été réglementée par le récépissé de déclaration du 17/07/1980.		
+								a_acquis	La société METEOR a acquis le site dans les années 60 pour y exercer des activités de polissage avec traitement thermique des métaux et notamment le décapage au trempé de cuivres dans des bains acides.		'La société METEOR'
+2003	05			2003	05			L__étude_a_été_complétée	L'étude a été complétée en dernier lieu en mai 2003.		
+2004	07	02		2004	07	02		la_réalisation_d_	Par Arrêté Préfectoral du 2 juillet 2004, il a été prescrit à la société METEOR la réalisation d’un dossier en vue de l’établissement de servitudes d’utilité publique telles que prévues aux articles L.515-8 à L.515-12 du Code de l’Environnement.		'la société METEOR'
+1973				1973				a_cessé	Elle a cessé ses activités sur le site en 1973 pour déménager intégralement sur son site de Genay.		'Elle'
+								a_été_laissé_en_friche	L’arrêt de cette activité n'a pas été déclarée à l'administration et le site a été laissé en friche jusque dans les années 2000.		
+1980	07	17		1980	07	17		déclaration	Cette activité a été réglementée par le récépissé de déclaration du 17/07/1980.		
+2002	04	23		2002	04	23		a_sollicité	Par courrier du 23 avril 2002, la mairie d'Albigny sur Saône a sollicité l'administration pour donner suite à la présomption de pollution du sol.		
+								L__arrêt	L’arrêt de cette activité n'a pas été déclarée à l'administration et le site a été laissé en friche jusque dans les années 2000.		
+2001	02	16		2001	02	16		Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été réalisé le 16/02/2001 par un acquéreur potentiel du site.		
+1940				1960				aurait_été_exercée	Cette activité aurait été exercée sur le site entre 1940 et 1960.		

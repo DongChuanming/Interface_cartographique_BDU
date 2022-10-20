@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				les_travaux_ont_été_réceptionnés	Ils avaient permis de résorber la pollution et les travaux ont été réceptionnés en 1993.		
+2016	03			2016	03			n__impacte	Le benzène n'impacte plus l'ouvrage AT2 lors de la campagne de mars 2016 cependant il se remobilise au droit de l'ouvrage PZ5.	'Le benzène'	
+2007	06	07		2007	06	07		a_été_réalisé	Il a été décidé de mettre en place un pompage-écrémage des eaux souterraines au droit de deux puits (AT1 et AT2) afin de confiner la pollution au droit du site.  Les travaux ont commencé le 23/05/2007 et la mise en route de la technique de traitement a été réalisé le 07/06/2007.		
+								la_non_réapparition	Le traitement,t a été arrêté le 7/05/2008, une fois l'atteinte de l'asymptote du volume cumulé des hydrocarbures récupérés (60L) et la non réapparition de phase libre après 3 mois.	'hydrocarbures'	
+1992				1992				été_recensé	En 1992 il a été recensé 7 puits privés dont 3 en position hydraulique aval.		
+2016	06			2016	06			ont_été_rechargés	Les dispositifs DPO ont été rechargés en juin 2016, puis retirés en septembre 2016.		'DPO'
+2007	05	23		2007	05	23		__Les_travaux_ont_commencé	Il a été décidé de mettre en place un pompage-écrémage des eaux souterraines au droit de deux puits (AT1 et AT2) afin de confiner la pollution au droit du site.  Les travaux ont commencé le 23/05/2007 et la mise en route de la technique de traitement a été réalisé le 07/06/2007.		
+1992				1992				a_fait_l__objet	La station service a fait l'objet de travaux de dépollution des eaux souterraines en 1992 suite à la mise en évidence d'une contamination aux hydrocarbures au droit d'un puits appartenant à une concession automobile en Aval.	'hydrocarbures'	
+2016	09			2016	09			ont_été_rechargés	Les dispositifs DPO ont été rechargés en juin 2016, puis retirés en septembre 2016.		'DPO'
+2015	09	10		2015	09	10		La_campagne_de_prélèvements	La campagne de prélèvements et d'analyses d'eaux souterraines du 10 septembre 2015 montre une remobilisation du benzène au droit de l'ouvrage AT2 ainsi que des hydrocarbures C5-C40 au droit de l'ouvrage PZ4.	'benzène', 'hydrocarbures C5-C40'	
+2007	06	28		2007	06	28		Un_diagnostic_de_sol	Un diagnostic de sol a été effectué le 28/06/2007.		
+2016	09			2016	09			retirés	Les dispositifs DPO ont été rechargés en juin 2016, puis retirés en septembre 2016.		'DPO'
+2008	05	07		2008	05	07		n__a_été_détectée	Aucune anomalie gazeuse n'a été détectée le 07/05/2008.		
+2016	09			2016	09			La_campagne_de	La campagne de septembre 2016 met en évidence une atténuation générale des teneurs en hydrocarbures C5-C40 et BTEX au droit des ouvrages PZ4, PZ5 et AT2.	'hydrocarbures C5-C40', 'BTEX'	
+2014	03	17		2014	03	17		La_campagne_de_mesure	La campagne de mesure du 17 mars 2014  confirme la  diminution générale des teneurs en hydrocarbures, excepté pour l'ouvrage AT2 et une baisse générale des teneurs en BTEX avec toutefois un impact significatif en benzène au niveau de la zone centrale de la station service.	'en hydrocarbures', 'en BTEX', 'en benzène'	
+2015	09			2015	09			la_campagne	Par ailleurs des prélèvements d'air ambiant et d'eau potable ont permis de mettre à jour le schéma conceptuel qui conclut, sur la base de la campagne de septembre 2015, à l'absence de risque sur et hors site.		
+2011	08	01		2011	08	01		a_été_délivré	C'est une station service soumise à Déclaration dont le dernier récépissé a été délivré en date du 01/08/2011.		
+2008	05	07		2008	05	07		Le_traitement___t_a_été_arrêté	Le traitement,t a été arrêté le 7/05/2008, une fois l'atteinte de l'asymptote du volume cumulé des hydrocarbures récupérés (60L) et la non réapparition de phase libre après 3 mois.	'hydrocarbures'	
+2008	05	29		2008	05	29		La_campagne_de_mesure	La campagne de mesure du 29/05/2008 a révélé des teneurs importantes en hydrocarbures et BTEX dissous, le sens d'écoulement de la nappe est orienté vers l'Est.	'hydrocarbures', 'BTEX'	
+2009	08			2009	08			__un_traitement_de_finition_par	Depuis le mois d'août 2009,  un traitement de finition par biostimulation (diffusion passive d'oxygène) est réalisé au droit ouvrages équipés (PZ4, PZ5 et AT2).		
+2007	06	07		2007	06	07		__Les_travaux_ont_commencé	Il a été décidé de mettre en place un pompage-écrémage des eaux souterraines au droit de deux puits (AT1 et AT2) afin de confiner la pollution au droit du site.  Les travaux ont commencé le 23/05/2007 et la mise en route de la technique de traitement a été réalisé le 07/06/2007.		

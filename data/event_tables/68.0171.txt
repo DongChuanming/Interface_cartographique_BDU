@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1956				1961				Début_estimé	Début estimé entre 1956 et 1961.		
+1972				1977				l__autorisation	De 1972 à 1977, la commune a renouvelé annuellement au bénéfice de la société STUAG l'autorisation d'y déposer des déchets sur les terrains communaux dont l'autorisation a été demandée en 1963.		'la société STUAG'
+1962	03	05		1962	03	05		Rapport_géologique	Rapport géologique (sur commande de la commune) du 05/03/1962.		
+1961	05	09		1961	05	09		la_commune_de_Hégenheim_adresse	Le 09/05/1961, la commune de Hégenheim adresse au Baron de Reichnach une mise en garde sur les risques de tels dépôts pour la contamination des captages AEP.		
+1963				1963				a_été_demandée	De 1972 à 1977, la commune a renouvelé annuellement au bénéfice de la société STUAG l'autorisation d'y déposer des déchets sur les terrains communaux dont l'autorisation a été demandée en 1963.		'la société STUAG'
+1961				1964				sont_déposés	De 1961 à 1964 sont déposés des boues sur la chaussée.		
+1972				1991				l__autorisation	De 1972 à 1991, la commune a renouvelé annuellement au profit de la société Settelen l'autorisation de déposer des déblais sur son terrain.		'la société Settelen'
+1961	07	13		1961	07	13		est_formulée	Le 13/07/1961, une demande de dépôts de produits chimiques en Alsace est formulée par la société Ciba à l'adresse de la mairie de Hégenheim (brais provenant de colonne de distillation de solvant; résidus provenant de filtres).	'produits chimiques'	'la société Ciba'
+1991	10	04		1991	10	04		a_été_arrêté_et_réaménagé	Sur constat de l'Inspection des installations classées, au 04/10/1991, le dépôt Sud (section 18) a été arrêté et réaménagé.		
+1969	08	04		1969	08	04		acquière	Le 04/08/1969, la commune acquière le terrain remblayé (mais non nivelé) autrefois appartenant au Baron de Reinach.		

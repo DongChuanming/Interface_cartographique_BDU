@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Par_courrier	Par courrier du 16/09/02, l'exploitant a transmis une copie des justificatifs d'élimination des transformateurs et condensateurs contenant des PCB qui ont été échelonnés d'octobre 2000 à janvier 2002.	'justificatifs'	
+1999	10	20		1999	10	20		Le_diagnostic_initial	Le diagnostic initial phase B et l'évaluation simplifiée des risques ont été fournis le 20 octobre 1999.		
+1999	10	20		1999	10	20		évaluation	Le diagnostic initial phase B et l'évaluation simplifiée des risques ont été fournis le 20 octobre 1999.		

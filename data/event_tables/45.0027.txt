@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	06		2008	02	06		un_avis_hydrogéologique	Par ailleurs, un avis hydrogéologique du BRGM (Bureau de Recherches Géologiques et Minières) daté du 06/02/2008 et traitant de la vulnérabilité des nappes au droit de la zone industrielle des Montoires à Gien, indique que la nappe au droit de cette ZI est qualifiée de « moyennement vulnérable ».		'BRGM'
+2004				2004				en_cessation_d__activité	Cependant, le site est accessible par le site de la société TDM (en cessation d'activité depuis 2004), les deux établissements n'étant séparés par aucune clôture.		'la société TDM'
+2005	12			2005	12			est_intervenue_sur_site	En décembre 2005, une société spécialisée est intervenue sur site à la demande du liquidateur, et à procédé à l'élimination de 9 tonnes de produits.		
+				2008	04	10		Les_travaux	Les travaux d'office de l'ADEME ont été réalisés du 10 mars au 10 avril 2008. 80,878 tonnes de déchets et produits ont été évacuées.		
+2006	10			2006	10			Une_visite_conjointe	Une visite conjointe sur le site avec l'ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) a été réalisée en octobre 2006.		
+2011	06	29		2011	06	29		d__une_visite	Lors d'une visite du site le 29 juin 2011 par l'Inspection des Installations Classées, il a été constaté que le site était clôturé sur toute sa longueur et que les deux portails d'entrée étaient fermés par une chaîne et cadenassés.		
+2001				2001				est_arrêtée_depuis_l_	- La station de détoxication des effluents avant leur rejet dans le réseau communal unitaire est arrêtée depuis l’été 2001.	'effluents'	
+2003	12	16		2003	12	16		a_procédé_à_une_visite	Le 16 décembre 2003, l'inspecteur des installations classées a procédé à une visite du site.		
+2008	01	23		2008	01	23		du_contrôle	Lors du contrôle réalisé le 23 janvier 2008 avec un représentant de l’ADEME et le conseiller municipal de GIEN délégué environnement, il a été de nouveau constaté que la situation de l’établissement DEVL continuait de se dégrader.		'DEVL'
+2002	07	26		2002	07	26		a_prononcé_la_liquidation_judiciaire	Le 26 juillet 2002, le tribunal de commerce d’ORLEANS a prononcé la liquidation judiciaire de cette société.		'le tribunal de commerce d’ ORLEANS'
+2008	02	14		2008	02	14		a_fait_part	Par courrier du 14 février 2008, le ministère de l’écologie, du développement et de l’aménagement durables a fait part à Monsieur le préfet du Loiret de son accord pour charger l’ADEME à engager les mesures de sécurité pour un montant de 148 000 € TTC.		'le ministère', 'le préfet du Loiret'
+2003	04	29		2003	04	29		a_été_mis_en_demeure	Par arrêté préfectoral du 29 avril 2003, le liquidateur judiciaire a été mis en demeure, sous un délai d’un mois :		
+2007	08	22		2007	08	22		Une_visite_de_surveillance	Une visite de surveillance du site a été réalisée le 22 août 2007.		

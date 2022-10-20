@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	09	13		1994	09	13		a_été_stoppé	Le rabattement de nappe a été stoppé le 13 septembre 1994.		
+1994	09	13		1994	09	13		Le_contrôle	Le contrôle final a eu lieu le 13 septembre 1994, après dépollution du site (teneur HC inférieure à 10 ppm dans la nappe).	'HC'	

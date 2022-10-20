@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	11	21		2000	11	21		Cette_étude	Cette étude, jugée insuffisante pour une phase B, a été complétée, en application de l'arrêté préfectoral du 21 novembre 2000.		
+2001	08	16		2001	08	16		a_finalement_répondu	Suite aux relances de l'inspection des installations classées, l'exploitant a finalement répondu par courrier du 16 août 2001, que le retrait des cuves hydrocarbures et la dépollution des terres avaient été menés à bien mais que, pour la "décharge", l'ampleur des travaux avait retardé la décision.	'hydrocarbures'	
+2001	04			2001	04			Les_rapports_d__investigations	Les rapports d'investigations  et d'ESR communiqués en avril 2001 ont montré la présence de sources de pollutions au sein du site de l'ancienne tuilerie de Wahagnies :		
+2001	06	14		2001	06	14		a_été_imposée	De plus, et sans attendre les résultats d'investigations ou de travaux complémentaires, en application de la circulaire MATE du 14 juin 2001, la surveillance des eaux souterraines a été imposée sur ce site.		'MATE'
+1998	06	1		1998	06	1		l__arrêt_des_activités	Dans le cadre de l'article 34-1-II, l'exploitant a déclaré l'arrêt des activités le 1er juin 1998.		
+2001	09			2001	09			les_travaux_d__aménagement	Il était également précisé que le rapport d'intervention pour la dépollution serait envoyé à l'inspection et que les travaux d'aménagement de la décharge pourraient intervenir dès septembre 2001.		
+2001	04	27		2001	04	27		ont_été_adressés	Les rapports de phase B et d'ESR pour chacun des deux secteurs "usine" et "décharge" ont été adressés le 27 avril 2001 à l'inspection des installations classées.		

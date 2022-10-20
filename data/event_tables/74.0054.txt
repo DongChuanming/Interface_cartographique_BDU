@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1995				a_accueilli	Le site a accueilli, entre 1974 et 1995, 320000 tonnes de déchets, soit un volume compris entre 330000 et 400000 m3, sur une surface de 24000 m² et une hauteur pouvant atteindre 30 mètres.		
+1995				1995				ont_été_traitées	En 1995, les ordures ménagères du SITOM des Vallées du Mont-Blanc ont été traitées dans l'usine d'incinération de Passy et la décharge a cessé de les recevoir.		'SITOM'
+2001				2005				la_pose	- la pose de 10 cm de terre végétale sur la zone ayant accueilli des mâchefers de l'usine d'incinération exploitée par le SITOM entre 2001 et 2005,		'le SITOM'
+				2005				ont_continué_à_être_stockés_sur_site	Seuls des refus de criblage de mâchefers de l'usine d'incinération de Passy ont continué à être stockés sur site jusqu'à fin 2005.		
+2014	10	10		2014	10	10		pris	Dans le cadre de la remise en état du site, un nouvel arrêté préfectoral pris le 10 octobre 2014 abrogeant les arrêtés préfectoraux du 25 juillet 1995, prescrit les modalités de remise en état du site (dispositif mixte), le programme de surveillance des lixiviats et des eaux souterraines ainsi que l'entretien du site.		
+2013	01	07		2013	01	07		une_visite	Lors d'une visite de l'inspection des installations classées réalisée le 7 janvier 2013, il a été constaté l’apparition de crevasses en partie sommitale du site.		
+2001				2005				exploitée	- la pose de 10 cm de terre végétale sur la zone ayant accueilli des mâchefers de l'usine d'incinération exploitée par le SITOM entre 2001 et 2005,		'le SITOM'
+2001				2006				a_fait_l__objet	Sur la base de ces études, le site a fait l’objet, de 2001 à 2006, de travaux de remise en état consistant principalement à :		
+2015				2015				Les_travaux_devront_être_mis_en_œuvre	Les travaux devront être mis en œuvre pour fin 2015.		
+1995	07	25		1995	07	25		prescrit	Dans le cadre de la remise en état du site, un nouvel arrêté préfectoral pris le 10 octobre 2014 abrogeant les arrêtés préfectoraux du 25 juillet 1995, prescrit les modalités de remise en état du site (dispositif mixte), le programme de surveillance des lixiviats et des eaux souterraines ainsi que l'entretien du site.		

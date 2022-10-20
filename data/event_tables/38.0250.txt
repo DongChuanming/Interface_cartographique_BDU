@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09	06		2000	09	06		L__arrêt_d__activité	L'arrêt d'activité a été constaté le 06/09/2000.		
+2001	12	21		2001	12	21		ont_été_dégazées	Les cuves de carburant ont été dégazées et neutralisées le 21/12/2001 puis ont été bétonnées.	'carburant'	
+2004	08	23		2004	08	23		effectuée	Lors d'une visite de l'inspection effectuée le 23/08/2004, il a été constaté que toutes les épaves de véhicules ont été supprimées, que le terrain paraissait propre et sans déchets.		
+2000	09	06		2000	09	06		à_une_visite_de_surveillance	Suite à une visite de surveillance de l'inspection des installations classées, le 06/09/2000, M.		
+2001	10	02		2001	10	02		une_visite_d__inspection_des	JANET, relative à la cessation d'activités de son garage, par la Mairie de Saint Pierre d'Allevard, une visite d'inspection des installations classées a été effectuée le 02/10/2001.		"la Mairie de Saint Pierre d' Allevard"
+1957	02	14		1957	02	14		Elle_bénéficiait	Elle bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter n°76-8814 du 11/10/1976 et des récépissés de déclaration n°14026 du 09/03/1967 et n°9485 du 14/02/1957.		
+1976	10	11		1976	10	11		un_arrêté_préfectoral_d__autorisation	Elle bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter n°76-8814 du 11/10/1976 et des récépissés de déclaration n°14026 du 09/03/1967 et n°9485 du 14/02/1957.		
+2001	09	12		2001	09	12		une_plainte_formulée_par_courrier	Suite à une plainte formulée par courrier du 12/09/2001 à l'encontre de M.		

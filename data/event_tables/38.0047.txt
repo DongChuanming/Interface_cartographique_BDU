@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	01	20		1995	01	20		Le_changement_d_	Le changement d'exploitant a été acté par l'arrêté du 20/01/1995.		
+1998	09	25		1998	09	25		est_placée_en_liquidation_judiciaire	MIVA est ensuite tombé en redressement judiciaire le 24/06/1998 et est placée en liquidation judiciaire le 25/09/1998.		'MIVA'
+1820	1810			1820	1810			la_création_d_	Les premières activités recensées sur le site datent des années 1810/1820 avec la création d'une usine comprenant un atelier de tissage.		
+1998	09	25		1998	09	25		est_ensuite_tombé_en_redressement_judiciaire	MIVA est ensuite tombé en redressement judiciaire le 24/06/1998 et est placée en liquidation judiciaire le 25/09/1998.		'MIVA'
+1993	03			1993	03			dépose_le_bilan	MIVA dépose le bilan en 1992 et est placée en liquidation judiciaire en mars 1993.		'MIVA'
+2002	06	06		2002	06	06		une_crue_millénaire_de_la_rivière	Par courrier du 11/10/2002 de la Sous-Préfecture de la Tour du Pin, l'Inspection a été informée qu'une crue millénaire de la rivière a ravagé le site et la lagune le 06/06/2002.		'la Sous-Préfecture', 'la Tour du Pin'
+2000				2000				Les_travaux_ont_été_entamés	Les travaux ont été entamés durant l'année 2000.		
+2005	12	19		2005	12	19		une_réunion	Suite à une réunion le 19/12/2005 entre la Sous-Préfecture de la Tour du Pin, les Mairies  de Voissant et de Saint-Beuil, de représentants du Parc de la Chartreuse et du Cabinet Blondel, il a été retenu :		'la Sous-Préfecture', 'les Mairies', 'du Parc de la Chartreuse'
+2003	12	08		2003	12	08		ont_été_en_partie_démolis	Les bâtiments ont été en partie démolis à partir du 08/12/2003.		
+1998	06	24		1998	06	24		est_ensuite_tombé_en_redressement_judiciaire	MIVA est ensuite tombé en redressement judiciaire le 24/06/1998 et est placée en liquidation judiciaire le 25/09/1998.		'MIVA'
+2005				2005				cèdent	- Que le traitement du site étant largement hors de leurs possibilités financières, les communes cèdent le site à l'exception des lagunes, en 2005, à un entrepreneur de BTP qui, désirerait installer un manège équestre privé.		
+2000	04			2000	04			Un_diagnostic	Un diagnostic des sols ainsi qu'une Évaluation Simplifiée des Risques (ESR) ont été réalisés par le bureau 2IE en avril 2000. 7 sondages ont été réalisés jusqu'à une profondeur de 1,2 mètres et 6 autres ont été effectués au niveau des dalles de béton.		'le bureau 2IE'
+1983				1983				est_racheté	Suite à une cessation de paiement, la société est racheté par les Établissements GUYON en 1983 et devient les MANUFACTURES D'IMPRESSION du VAL D'AINAN (MIVA).		'les Établissements GUYON', "les MANUFACTURES D' IMPRESSION du VAL D' AINAN", 'MIVA'
+2005	09			2005	09			5_sondages	- 5 sondages suivis d'analyses des échantillons de sols et d'eaux superficielles ont été réalisés en septembre 2005.		
+2000	08	03		2000	08	03		ont_été_faites_en_dernier_lieu	Suite au non respect de l'Arrêté Préfectoral puis de l'arrêté de mise en demeure, des propositions de sanctions administratives ont été faites en dernier lieu le 03/08/2000).		
+1946				1946				sont_créées	En 1946, les MANUFACTURES D'IMPRESSION de SAINT BUEIL sont créées.		"les MANUFACTURES D' IMPRESSION", 'de SAINT BUEIL'
+1975	05	22		1975	05	22		signé	Un arrêté préfectoral signé le 22/05/1975 autorise cette activité.		
+1992				1992				dépose_le_bilan	MIVA dépose le bilan en 1992 et est placée en liquidation judiciaire en mars 1993.		'MIVA'
+1975				1975				met_un_terme	Cette société met un terme à l'activité de tissage en 1975 pour se concentrer sur la teinture et l’impression de matières textile.		
+1993	03			1993	03			est_placée_en_liquidation_judiciaire	MIVA dépose le bilan en 1992 et est placée en liquidation judiciaire en mars 1993.		'MIVA'

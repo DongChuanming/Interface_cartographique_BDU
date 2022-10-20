@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03			2002	03			Les_enfouissements	Les enfouissements ont cessé en mars 2002.		
+1994	02	15		1994	02	15		L__extension	L'extension du CET a été autorisé par arrêté du 15 février 1994.		'CET'
+2006	04	25		2006	04	25		a_fait_parvenir	L'exploitant a fait parvenir les éléments attendus à la Préfecture de l'OISE le 25 avril 2006.		
+2005	12	14		2005	12	14		des_mesures	Par arrêté préfectoral du 14 décembre 2005, des mesures relatives à la mise en sécurité et au suivi piézométrique du centre d'enfouissement technique et, d'autre part, la production des éléments utiles à l'instauration de servitudes d'utilité publique ont été prescrites à la société NORFOND.		'la société NORFOND'
+2003	09	08		2003	09	08		la_cessation_des_activités	Le 08 septembre 2003, l'exploitant a déclaré auprès du Préfet de l'Oise la cessation des activités du CET.		
+2007				2007				L__enquête_publique	L'enquête publique a eu lieu en 2007.		
+2010	12	21		2010	12	21		ont_été_signés	L'arrêté de servitudes d'utilité publique et l'arrêté abrogeant la surveillance piézométrique ont été signés le 21 décembre 2010.		
+2003	07	09		2003	07	09		l__étude_simplifiée_des_risques_prescrite	Le 09 juillet 2003, l'exploitant a adressé à l'inspection des installations classées l'étude simplifiée des risques prescrite.		
+2005	2004			2005	2004			l__a_réalisé	La Société NORINCO (la maison mère de Norfond) l'a réalisé pendant l'hiver 2004/2005.		'La Société NORINCO', 'Norfond'

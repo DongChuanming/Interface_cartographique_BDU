@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01			2011	01			du_forage	Toutefois, ce produit n'a pas été retrouvé lors du forage S5bis à -3,0 réalisé lors de la mise en place des piézomètres complémentaires en janvier 2011.		
+2012	07	19		2012	07	19		ont_été_chargées_et_transportées	Les terres polluées (374,74 tonnes) ont été chargées et transportées vers un centre de traitement, les 10, 11 et 19 juillet 2012.		
+2000	07	27		2000	07	27		de_déclaration	Les combustibles de Normandie a bénéficié d’un récépissé de déclaration en date du 27 juillet 2000.	'Les combustibles'	'de Normandie'
+2000	07	27		2000	07	27		a_bénéficié	Les combustibles de Normandie a bénéficié d’un récépissé de déclaration en date du 27 juillet 2000.	'Les combustibles'	'de Normandie'
+2015				2015				a_ensuite_été_racheté	La société a ensuite été racheté en 2015 par le groupe Bolloré qui gère désormais la cessation d’activité.		'le groupe Bolloré'
+								ont_été_chargées_et_transportées	Les terres polluées (374,74 tonnes) ont été chargées et transportées vers un centre de traitement, les 10, 11 et 19 juillet 2012.		

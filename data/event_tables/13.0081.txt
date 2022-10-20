@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	03		2012	01	03		AP	Un diagnostique approfondi a été édité le 19/03/2012 (demandé par l'AP du 3/01/2012).		
+2012	03	19		2012	03	19		a_été_édité	Un diagnostique approfondi a été édité le 19/03/2012 (demandé par l'AP du 3/01/2012).		
+2012	01	03		2012	01	03		a_été_édité	Un diagnostique approfondi a été édité le 19/03/2012 (demandé par l'AP du 3/01/2012).		
+				1989				ont_progressivement_cessées	Les activités exercées comme les fabrications d'acides, de soude, d'engrais ont progressivement cessées jusqu'en 1989.	'soude'	
+2011	04	18		2011	04	18		a_cessé	DUCLOS ENVIRONNEMENT a cessé son activité le 18 Avril 2011 suite à l'arrété du 01/03/2011 imposant la suspension du fonctionnement du site.		'DUCLOS ENVIRONNEMENT'
+2010	06	01		2010	06	01		un_diagnostic_simplifié	DUCLOS ENVIRONNEMENT a réalisé un diagnostic simplifié relatif à la pollution des sols ainsi qu'un bilan décennal suite à l'AP de mise en demeure du 1/06/2010.		'DUCLOS ENVIRONNEMENT'
+2016	11	07		2016	11	07		de_l__inspection	L'IIC a constaté lors de l'inspection du 07/11/2016:		'IIC'

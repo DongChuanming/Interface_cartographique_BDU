@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	24		2003	07	24		a_été_signé	Cet arrêté a été signé le 24/07/2003.		
+1998	03	23		1998	03	23		ont_conduit_à_prescrire_une_évaluation_simplifiée_des_risques	L'ancienneté de l'activité, les substances utilisées ou produites et la sensibilité du milieu ont conduit à prescrire une évaluation simplifiée des risques par arrêté préfectoral du 23 mars 1998.	'substances'	

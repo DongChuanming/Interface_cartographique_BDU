@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	06		2008	03	06		Un_procès_verbal_de_récolement	Un procès verbal de récolement de cessation d'activité a été établi le 6 mars 2008.		
+2000	03	13		2000	03	13		Elle_bénéficiait	Elle bénéficiait d’un arrêté préfectoral d’autorisation du 13 mars 2000.		
+2005	09			2005	09			a_remis	La société SONOCO ALCORE a remis en septembre 2005 un dossier de cessation d’activités.		'La société SONOCO ALCORE'
+2007	04	03		2007	04	03		ont_été_prescrits	La surveillance des eaux souterraines et l’élaboration du dossier de servitude ont été prescrits par arrêté préfectoral du 03/04/2007.		
+2008	06			2008	06			a_été_fourni	Un dossier de servitude a été fourni en juin 2008.		
+2006	03			2006	03			une_évaluation	L’exploitant a remis en mars 2006 une évaluation des risques résiduels (rapport Golder Associates 06GAsarl266).		
+2005	04			2005	04			a_cessé	Il convient de noter que la production du site a cessé en avril 2005 et que le site a été vendu le 24 novembre 2005 à la société CLIPSOL pour y entreposer des matériels (usage industriel).		'la société CLIPSOL'
+2005	11	24		2005	11	24		a_été_vendu	Il convient de noter que la production du site a cessé en avril 2005 et que le site a été vendu le 24 novembre 2005 à la société CLIPSOL pour y entreposer des matériels (usage industriel).		'la société CLIPSOL'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	31		2000	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques doit être transmise à l'administration au plus tard le 31/12/2000.		
+2007	06	05		2007	06	05		a_été_informée_par_mail	La DRIRE a été informée par mail, le mardi 5 juin 2007 à 10 heures 51, de la présence d’hydrocarbures dans la cuvette de rétention du bac 2.	'hydrocarbures'	'La DRIRE'
+2007	06	12		2007	06	12		a_été_pris	Un arrêté d'urgence n°2007-05052 a été pris le 12 juin 2007.		
+2007	06	08		2007	06	08		était_contaminée_par	Le vendredi 8 juin 2007, environ 1/3 de la surface de la cuvette de rétention (Nord, Nord-Est, Est, Sud-Est) était contaminée par du FOD.	'FOD'	
+								Ces_études_ont_été_imposées	Ces études ont été imposées par Arrêté Préfectoral n°98-8366 du 01/12/98.		
+2007	08	23		2007	08	23		ont_été_fournis	Ces documents ont été fournis le 23/08/2007.		
+								a_été_informée_par_mail	La DRIRE a été informée par mail, le mardi 5 juin 2007 à 10 heures 51, de la présence d’hydrocarbures dans la cuvette de rétention du bac 2.	'hydrocarbures'	'La DRIRE'
+2003	06	18		2003	06	18		un_rapport	Aprés examen de l'étude, l'inspection des installations classées a remis un rapport à M le Prefet de l'Isère daté du 18 juin 2003.		

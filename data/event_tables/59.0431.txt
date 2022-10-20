@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_fermé	Le site a été fermé en 2001 situé sur une ancienne sablière.		
+2005	12			2005	12			_Travaux_de_boisement	-Travaux de boisement du site en décembre 2005 et décembre 2006.		
+2001	07	1		2001	07	1		a_cessé_de_fonctionner	Le centre d'enfouissement de Solesmes a cessé de fonctionner le 1er juillet 2001.	"d' enfouissement"	
+2003	06	06		2003	06	06		imposant	Arrêté prefectoral du 06/06/2003 imposant à la SA SITA Nord des prescriptions complémentaires pour la remise en état de son exploitation.		'la SA SITA Nord'
+2004				2004				une_enquête_publique	-Concernant les servitudes d'utilité publique: dépôt du dossier en 2002, une enquête publique a été réalisée en 2004.		
+2006	12			2006	12			_Travaux_de_boisement	-Travaux de boisement du site en décembre 2005 et décembre 2006.		
+2002				2002				__dépôt	-Concernant les servitudes d'utilité publique: dépôt du dossier en 2002, une enquête publique a été réalisée en 2004.		
+1975				1975				reprend_l__exploitation	En 1975, SERTIRU reprend l'exploitation du Centre d'Enfouissement Technique ( CET ) de Solesmes,		'SERTIRU', 'Enfouissement Technique', 'CET'
+1989				1989				est_autorisée_à_procéder_à_l__extension	En 1989, SERTIRU est autorisée à procéder à l'extension du CET vers le sud.		'SERTIRU'
+1997				2001				disposa_d_	Entre 1997 et 2001, l'extension disposa d'un réseau de drainage en fond de casier et de trois puits de collecte des lixiviats.		
+2002				2002				une_enquête_publique	-Concernant les servitudes d'utilité publique: dépôt du dossier en 2002, une enquête publique a été réalisée en 2004.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	15		2006	05	15		a_déposé	Suite à la demande de l'administration par arrêté préfectoral du 15 mai 2006, l'ancien exploitant a déposé en date du 9 novembre 2006 un dossier de demande d'institution de servitude d'utilité publique concernant cette installation.		
+2006	11	09		2006	11	09		a_déposé	Suite à la demande de l'administration par arrêté préfectoral du 15 mai 2006, l'ancien exploitant a déposé en date du 9 novembre 2006 un dossier de demande d'institution de servitude d'utilité publique concernant cette installation.		
+1997								l__exploitation	Ancien site d'extraction d'or et d'argent et produits connexes par lixiviation cyanurée en cuves ou en tas dont l'exploitation est terminée depuis 1997.		
+2000				2000				sont_récupérées	Depuis 2000, elles sont récupérées pour être traitées hors site.		
+2007	07			2007	07			un_traitement_de_neutralisation	L'exploitant a opéré un traitement de neutralisation du pH sur les 2 mines à ciel ouvert en eau en juillet 2007.	'pH'	

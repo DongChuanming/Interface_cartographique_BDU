@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				mettre_en_oeuvre	Etude de faisabilité réalisée : travaux à mettre en oeuvre en 2000.		
+1996	04			1996	04			ne_reçoit_plus_de_déchets	- Le site ne reçoit plus de déchets depuis avril 1996.		
+2000				2000				Etude_de_faisabilité_réalisée	Etude de faisabilité réalisée : travaux à mettre en oeuvre en 2000.		

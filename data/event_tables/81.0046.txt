@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06	26		2012	06	26		a_été_signé	Un arrêté de travaux d'office chargeant l'ADEME de la mise en sécurité du site a été signé le 26 juin 2012.		
+2010	10	04		2010	10	04		a_constaté	Suite à une visite d'inspection du 4 octobre 2010, l'Inspection de la DREAL Midi-Pyrénées a constaté la présence de travaux de construction d'un immeuble à usage d'habitation.		'la DREAL Midi'
+2010	10	04		2010	10	04		une_visite_d__inspection	Suite à une visite d'inspection du 4 octobre 2010, l'Inspection de la DREAL Midi-Pyrénées a constaté la présence de travaux de construction d'un immeuble à usage d'habitation.		'la DREAL Midi'
+2010				2010				ont_été_construites	De plus, deux villas ont été construites en 2010.		
+2013	09	30		2013	09	30		a_soustraité	L'ADEME a soustraité nationalement son intervention sur 11 stations service ce qui a décalé la campagne de prélèvements et d'analyses sur ce site en 2014 et a nécessité la prolongation des arrêtés de travaux d'office et d'occupation temporaire des sols (signés le 30/09/2013).		
+2014				2014				a_décalé_la_campagne_de_prélèvements	L'ADEME a soustraité nationalement son intervention sur 11 stations service ce qui a décalé la campagne de prélèvements et d'analyses sur ce site en 2014 et a nécessité la prolongation des arrêtés de travaux d'office et d'occupation temporaire des sols (signés le 30/09/2013).		
+2013	09	30		2013	09	30		des_arrêtés_de_travaux_d__office	L'ADEME a soustraité nationalement son intervention sur 11 stations service ce qui a décalé la campagne de prélèvements et d'analyses sur ce site en 2014 et a nécessité la prolongation des arrêtés de travaux d'office et d'occupation temporaire des sols (signés le 30/09/2013).		
+2012	06	26		2012	06	26		a_été_signé	Un arrêté d'occupation temporaire des sols a été signé le 26 juin 2012.		
+1953				1976				exploitée	Ancienne station-service exploitée de 1953 à 1976, par le groupe FINA.		'le groupe FINA'
+1976				2011				s__est_créé	Depuis, un parking ouvert au public de 1000 m² s'est créé sur cette zone de 1976 à 2011.		
+1976				1976				La_cessation_d__activité	La cessation d'activité de la station service a eu lieu en 1976, sans remise en état.		

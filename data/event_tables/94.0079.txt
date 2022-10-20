@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								mètres_en_décembre_2012	Les investigations, dans les sols, ont consisté à réaliser 18 sondages entre 2 et 6 mètres en décembre 2012.		'ont consisté'
+								investigations___dans_les_sols	Les investigations, dans les sols, ont consisté à réaliser 18 sondages entre 2 et 6 mètres en décembre 2012.		'ont consisté'
+2014	02	05		2014	02	05		Le_récépissé_de_notification_de_cessation	Le récépissé de notification de cessation d’activité a été délivré par la préfecture le 05/02/2014.		

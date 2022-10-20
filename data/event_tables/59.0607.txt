@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				est_arrête	En 2002 le conditionnement est arrête, seule reste la logistique qui sera également arrêtée en 2010.		
+2002				2002				est_arrête	En 2002 le conditionnement est arrête, seule reste la logistique qui sera également arrêtée en 2010.		
+1923				1923				a_été_occupé	Ce site a été occupé par les brasseries-malteries MOTTE-CORDONNIER à partir de 1923.		'malteries MOTTE', 'CORDONNIER'
+1993				1993				sont_arrêtées	En 1993 les activités de brassage sont arrêtées, ne subsistent que le conditionnement et la distribution de bières spécialisées.		
+2010				2010				sera_également_arrêtée	En 2002 le conditionnement est arrête, seule reste la logistique qui sera également arrêtée en 2010.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_créé	La Communauté d'Agglomération du Val de Fensch a créé en 2006 la ZAC de la Paix.		"La Communauté d' Agglomération du Val", 'de Fensch'
+1979				1979				se_sont_installées	A partir de 1979 des entreprises industrielles se sont installées dans les bâtiments délaissés de la sidérurgie.		
+2014				2014				Les_investigations_complémentaires	Les investigations complémentaires réalisées en 2014 par la collectivité locale dans le cadre de son projet d'aménagement ont mis en évidence :		
+1971				1971				sur_une_période	Puis les installations furent progressivement arrêtées et démantelées sur une période s'étalant de 1971 à 1983.		
+1896				1896				a_débuté	L' activité industrielle a débuté sur ce site en 1896 par l'exploitation de trois hauts-fourneaux, puis par la construction d'une aciérie, de laminoirs, d'une fonderie, d'une agglomération de minerai,  d'une cimenterie et d'installations annexes ( centrale à gaz, ateliers de maintenance,..).		
+1971				1971				furent_progressivement_arrêtées	Puis les installations furent progressivement arrêtées et démantelées sur une période s'étalant de 1971 à 1983.		
+2006				2006				ont_été_enlevés	En 2006, deux spots de pollution en hydrocarbures ont été enlevés au droit des anciens laminoirs et à l’aplomb de l’ancien atelier mécanique des gros laminoirs.	'hydrocarbures'	
+1983				1983				sur_une_période	Puis les installations furent progressivement arrêtées et démantelées sur une période s'étalant de 1971 à 1983.		
+1995				1995				ont_été_cédées	En 1995, les parcelles propriétés de l’EPML ont été cédées au SIAPAX (Syndicat Intercommunal du Site de la Paix), dissous en 1998 et remplacé par la Communauté d’Agglomération du Val de Fensch.	'Syndicat'	'l’ EPML', 'SIAPAX', 'la Communauté d’ Agglomération'
+								s__est_régulièrement_développé	Le site s'est régulièrement développé jusque dans les années 60.		
+1983				1983				furent_progressivement_arrêtées	Puis les installations furent progressivement arrêtées et démantelées sur une période s'étalant de 1971 à 1983.		
+1988				1988				a_acquis	A l’issue des principaux travaux de démantèlement du site, en 1988, l’Etablissement Public de la Métropole Lorraine, aujourd’hui nommé Etablissement Public Foncier de Lorraine (EPFL), a acquis le site auprès de la sidérurgie dans le cadre du programme régional de reconquête des friches industrielles de la sidérurgie lorraine.		'la sidérurgie'
+1998				1998				dissous	En 1995, les parcelles propriétés de l’EPML ont été cédées au SIAPAX (Syndicat Intercommunal du Site de la Paix), dissous en 1998 et remplacé par la Communauté d’Agglomération du Val de Fensch.	'Syndicat'	'l’ EPML', 'SIAPAX', 'la Communauté d’ Agglomération'

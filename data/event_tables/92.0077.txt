@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ont_été_évacués	Suite à la cessation d'activité en 2003, les bains et les déchets ont été évacués.		
+								La_clôture	La clôture de la procédure de liquidation pour insuffisance d'actifs a été prononcée en date du 20/01/09 par jugement du tribunal de commerce de Nanterre.		
+1999	03	19		1999	03	19		à_un_incendie_survenu	Suite à un incendie survenu le 19/03/1999, l'atelier de traitement de surface a été refait et été autorisé par arrêté préfectoral du 13/11/2000.		
+2009	01	20		2009	01	20		la_cessation_d__activité	-que la cessation d'activité de l'atelier TS au 189 rue béranger n'a pu être achevée, conformément aux dispositions des articles R 512-39-1 à R 512-39 du code de l'environnement du fait de la disparition de la société par radiation du 20/01/2009 ;		
+								a_transmis_par_courrier	Le liquidateur judiciaire représentant le dernier exploitant a transmis par courrier du 25/08/04 les bordereaux de suivi des déchets dangereux (5 BSDD + les bons de transport correspondants) relatifs à la prise en charge des déchets, qui ont fait l'objet d'une incinération à MITRY MORY.		
+2000	11	13		2000	11	13		a_été_refait	Suite à un incendie survenu le 19/03/1999, l'atelier de traitement de surface a été refait et été autorisé par arrêté préfectoral du 13/11/2000.		
+2009	01	20		2009	01	20		radiation_du	-que la cessation d'activité de l'atelier TS au 189 rue béranger n'a pu être achevée, conformément aux dispositions des articles R 512-39-1 à R 512-39 du code de l'environnement du fait de la disparition de la société par radiation du 20/01/2009 ;		
+2003	07	10		2003	07	10		a_été_mise_en_liquidation	La société STIM a été mise en liquidation le 10/07/2003.		'La société STIM'

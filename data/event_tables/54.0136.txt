@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12			2010	12			ont_été_extraits	En décembre 2010, trois cuves de stockage de carburants et trois séparateurs d'hydrocarbures ont été extraits et éliminés, ainsi que les terres identifiées comme polluées.	'stockage de carburants', 'hydrocarbures'	
+2010	04	23		2010	04	23		a_fait_part	Le 23 avril 2010, la société TOTAL a fait part à l'inspection de sa cessation d'activité pour le 30 juin 2010.		'la société TOTAL'
+2010	06	30		2010	06	30		a_fait_part	Le 23 avril 2010, la société TOTAL a fait part à l'inspection de sa cessation d'activité pour le 30 juin 2010.		'la société TOTAL'

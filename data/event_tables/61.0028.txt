@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1896				1896				établie	Filature établie en 1896 par la SA de la filature de la Martinique puis par la société FERODO/VALEO pour le tressage et la fabrication de joints d'amiante.		'la SA de la filature de la Martinique', 'la société FERODO / VALEO'
+2003				2003				la_détection	En raison de la détection en 2003 d'une pollution des sols par des solvants chlorés, le site fait l'objet d'une surveillance des eaux de surface et de la fiche BASOL n°BNO.0014.	'solvants chlorés'	
+2003				2003				ont_été_menées	En raison de l’activité de la société Dubourg, un diagnostic de sols et une évaluation simplifiée des risques ont été menées en 2003.		'la société Dubourg'
+2006	06	23		2006	06	23		La_visite	La visite du 23 juin 2006 a permis de constater l'absence apparente de déchet d’amiante.		
+1982				1982				a_cessé_son_activité	La société VALEO a cessé son activité en 1982.		'La société VALEO'
+1985				1985				acheté	Le site a ensuite été repris par la société Philips puis acheté, en 1985, par la société Dubourg et Fils qui y exerce depuis cette date une activité de traitement de surface et d'application de peintures industrielles.		'la société Philips', 'la société Dubourg'

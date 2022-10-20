@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980	11	05		1980	11	05		est_soumise_à_déclaration	La station service est soumise à déclaration depuis le 05 novembre 1980.		
+2009	01	14		2009	01	14		a_fait_part_de_sa_cessation_d__activité	L'exploitant a fait part de sa cessation d'activité le 14 janvier 2009.		
+2009				2009				Le_diagnostic_de_sols_fait	Le diagnostic de sols fait en 2009 suite à la cessation d'activité a mis en évidence la présence de contaminations des sols en hydrocarbures, HAP, BTEX et métaux principalement à proximité de l'ancienne cuve de gasoil.	'hydrocarbures', 'HAP', 'BTEX', 'métaux principalement', 'cuve de gasoil'	
+2014	12			2014	12			de_cette_intervention	Des terres polluées au BTEX, aux hydrocarbures ont été mises à jour lors de cette intervention de décembre 2014.	'BTEX', 'hydrocarbures'	
+2013	06	13		2013	06	13		Des_travaux_ont_été_prescrit	Des travaux ont été prescrit à l'encontre du dernier exploitant par arrêté préfectoral du 13 juin 2013.		
+2013	06			2013	06			Les_travaux_ont_été_menés	Les travaux ont été menés en juin 2013.		
+2014	12			2014	12			Une_première_intervention	- Une première intervention a eu lieu en décembre 2014.		
+								Une_nouvelle_intervention	- Une nouvelle intervention a eu lieu les 02 et 03 mars 2015 et a permis d’extraire un volume complémentaire de terres impactées de 450 m3.		
+2012				2012				précédemment_extraits	Lors de cette intervention, 220 m3  de terres ont été extraites, venant s’ajouter aux 150 m3 précédemment extraits en 2012.		
+2015				2015				a_fait_parvenir	L’exploitant a fait parvenir le rapport de fin de travaux et ces compléments en 2015.		
+2014	12			2014	12			ont_été_mises_à_jour_lors	Des terres polluées au BTEX, aux hydrocarbures ont été mises à jour lors de cette intervention de décembre 2014.	'BTEX', 'hydrocarbures'	
+2015	03	03		2015	03	03		Une_nouvelle_intervention	- Une nouvelle intervention a eu lieu les 02 et 03 mars 2015 et a permis d’extraire un volume complémentaire de terres impactées de 450 m3.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03			2015	03			Un_diagnostic_des_sols_réalisé	Un diagnostic des sols réalisé en mars 2015 mettait en évidence un impact jusqu'à un mètre de profondeur au niveau de la zone de dépotage et en bordure de la cuve enterrée de la cuve SP : 350mg/Kg en hydrocarbures totaux, 57 mg/Kg en hydrocarbures volatils, 0,36 en hydrocarbures aromatiques polycycliques (HAP) et 7,3 mg/Kg en Benzène Toluène Éthylbenzène Xylènes (BTEX), ainsi qu'un autre impact au niveau de la zone dépotage de la cuve enterrée de gazole entre 2 et 3,9m : 35mg/Kg en hydrocarbures totaux.	'cuve SP', 'hydrocarbures totaux', 'hydrocarbures volatils', 'hydrocarbures aromatiques polycycliques', 'HAP', 'Benzène Toluène Éthylbenzène Xylènes', 'BTEX', 'de gazole', 'hydrocarbures totaux'	
+1992				1992				était_exploité	Le site était exploité par la société SOCHODIS depuis 1992 (récépissé du 13 octobre 1992 puis du 18 octobre 1983).		'la société SOCHODIS'
+								cuves___ont_été_inertées	Les cuves  ont été inertées les 9 et 10 septembre 2015, puis démantelées le 15 septembre 2015.		
+1983	10	18		1983	10	18		puis_du	Le site était exploité par la société SOCHODIS depuis 1992 (récépissé du 13 octobre 1992 puis du 18 octobre 1983).		'la société SOCHODIS'
+2015	09	15		2015	09	15		puis_démantelées	Les cuves  ont été inertées les 9 et 10 septembre 2015, puis démantelées le 15 septembre 2015.		
+2015	06			2015	06			a_notifié_la_cessation_d__activité	L'exploitant a notifié la cessation d'activité au préfet en juin 2015.		
+2015	09	10		2015	09	10		cuves___ont_été_inertées	Les cuves  ont été inertées les 9 et 10 septembre 2015, puis démantelées le 15 septembre 2015.		
+2015	11	25		2015	11	25		une_déclaration_préalable_de_travaux	L’extension du parking a fait l’objet d’une déclaration préalable de travaux accordée en date du 25/11/2015.		
+2009	02	09		2009	02	09		a_bénéficié_d__un_transfert	Elle a bénéficié d’un transfert de récépissé de déclaration le 09 février 2009 (actuelle rubrique 1435 (en remplacement de la rubrique 1434)).		
+2015	09	15		2015	09	15		cuves___ont_été_inertées	Les cuves  ont été inertées les 9 et 10 septembre 2015, puis démantelées le 15 septembre 2015.		

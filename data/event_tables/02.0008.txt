@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								société_prononcée	La liquidation judiciaire de cette société prononcée le 29-11-04 a été clôturée pour insuffisance d'actif par jugement du 27 mai 2009.		
+1998	08	07		1998	08	07		Un_procès_verbal_de_récolement	Un procès verbal de récolement, constatant la réalisation des travaux, a été rédigé le 7 août 1998.		
+1997	07	07		1997	07	07		Une_étude	Une étude de l'impact de la pollution sur l'environnement a été demandée par arrêté préfectoral du 07/07/1997.		
+				2010				a_été_constaté	Un impact en PCB a été constaté jusqu'en 2010.	'PCB'	
+1993				1993				ont_été_achetés	Les terrains ont été achetés par la mairie de St Quentin en 1993.		
+2009	05	27		2009	05	27		La_liquidation_judiciaire	La liquidation judiciaire de cette société prononcée le 29-11-04 a été clôturée pour insuffisance d'actif par jugement du 27 mai 2009.		
+1998				1998				initié	le suivi des eaux souterraines initié en 1998 met en évidence une atténuation des concentrations des polluants recherchés au niveau de l'ensemble des ouvrages.		
+2007				2007				a_été_ponctuellement_détectée	La présence limitée de chlorobenzène a été ponctuellement détectée (2002 et 2007).	'chlorobenzène'	
+								a_notamment_prescrit	Un arrêté préfectoral en date du 25/09/98 a notamment prescrit pour une durée de 5 ans une surveillance de la qualité des eaux souterraines.		
+2009	05	27		2009	05	27		d__actif_par_jugement	La liquidation judiciaire de cette société prononcée le 29-11-04 a été clôturée pour insuffisance d'actif par jugement du 27 mai 2009.		
+2002				2002				a_été_ponctuellement_détectée	La présence limitée de chlorobenzène a été ponctuellement détectée (2002 et 2007).	'chlorobenzène'	

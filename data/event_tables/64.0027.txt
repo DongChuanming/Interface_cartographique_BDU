@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	08	03		2005	08	03		est_reportée	L'échéance de remise de l'ESR est reportée au 03/08/2005 par l'arrêté du 03 août 2004.		"l' ESR"
+2006				2006				a_été_réalisée	Aucune mesure n'a été réalisée en 2005, 2006 et 2007.		
+2007				2007				a_été_réalisée	Aucune mesure n'a été réalisée en 2005, 2006 et 2007.		
+2006	09	05		2006	09	05		L__étude_est_finalement_remise	L'étude est finalement remise le 05/09/2006 et classe le site en classe 2 "à surveiller".		
+2009	04	27		2009	04	27		La_campagne_du	La campagne du 27 avril 2009 montre une situation non satisfaisante.		
+								La_campagne_du	La campagne du 08/04/08 montre que les concentrations de l'ensemble des paramètres chimiques sont inférieures au seuil de détection.		
+2009	10	20		2009	10	20		La_campagne_d__analyses	La campagne d'analyses du 20 octobre 2009 montre que la situation est redevenue satisfaisante et que les concentrations en arsenic et en chrome  restent en deçà des limites de quantification des appareils de mesure.	'arsenic', 'chrome'	
+2004	08	03		2004	08	03		est_reportée	L'échéance de remise de l'ESR est reportée au 03/08/2005 par l'arrêté du 03 août 2004.		"l' ESR"
+2004	03			2004	03			La_campagne_de	La campagne de mars 2004, ont révélé des teneurs très inférieures aux valeurs de constat d'impact, pour un usage non sensible.		
+1987	01	19		1987	01	19		un_nouvel_arrêté	La tannerie CARRIAT à Espelette (64), autorisée par arrêté préfectoral du 23/10/1926, a fait l'objet d'un nouvel arrêté le 19/01/1987 pour l'exploitation d'un atelier de finissage du cuir.		'La tannerie CARRIAT'
+2005				2005				a_été_réalisée	Aucune mesure n'a été réalisée en 2005, 2006 et 2007.		
+2000	03			2000	03			A_est_remise	L'étape A est remise en mars 2000.		
+2000	09	30		2000	09	30		prescrit_le_diagnostic_initial	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol,l'arrêté du 28/12/1998 prescrit le diagnostic initial et l'évaluation simplifiée des risques (ESR) à l'échéance du 30/09/2000.		
+2004	05	12		2004	05	12		est_remise	L'étape B (investigations de terrain) est remise le 12/05/2004.		

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1987				L__exploitation_d_	L'exploitation d'un dépôt d'hydrocarbures a pollué les sols et la nappe jusqu'en 1987.	'hydrocarbures'	
+2002	03			2002	03			es_analyses	es analyses d'eaux prélevées dans les puits ont été effectuées en mars 2002, les teneurs mesurées en hydrocarbures sont inférieures à la valeur de constat d'impact définie pour un usage non sensible.	'hydrocarbures'	

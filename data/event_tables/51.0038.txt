@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09			2000	09			Un_diagnostic_initial_de_sols	Un diagnostic initial de sols et une évaluation simplifiée des risques  ont été prescrits par arrêté préfectoral du 30 décembre 1999, le rapport devant être communiqué en septembre 2000.		
+2000	10	02		2000	10	02		Le_diagnostic_initial_a_été_reçu	Le diagnostic initial a été reçu le 2 octobre 2000 et l\'évaluation simplifiée des risques (ESR) le 22 mai 2001.		
+2003	09	18		2003	09	18		de_la_visite_d_inspection	Lors de la visite d\'inspection du 18 septembre 2003, la société a présenté un devis relatif à la mise en place d\'un réseau de surveillance de la qualité des eaux souterraines.		
+2001	05	22		2001	05	22		l_évaluation_simplifiée_des_risques	Le diagnostic initial a été reçu le 2 octobre 2000 et l\'évaluation simplifiée des risques (ESR) le 22 mai 2001.		
+2011	02	22		2011	02	22		Deux_visites_d_inspection	Deux visites d\'inspection ont été réalisées les 22 février 2011 et le 30 mars 2011 afin de vérifier les conditions de mise en sécurité et de remise en état du site.		
+2002	02	27		2002	02	27		La_mise_en_place_d_une	La mise en place d\'une surveillance des eaux souterraines a été demandée le 27 février 2002 à l\'exploitant par l\'inspection des installations classées.		
+2011	02			2011	02			a_été_transmis	Un complément au diagnostic de sol a été transmis en février 2011.		
+2007	03	28		2007	03	28		une_nouvelle_visite_d_inspection	Parallèlement à la notification de cet arrêté de consignation à l\'encontre du liquidateur, une nouvelle visite d\'inspection a été menée le 28 mars 2007 et a mis en évidence notamment :		
+2006				2006				a_été_pris	Un arrêté de mise en demeure à l\'encontre du liquidateur a été pris en 2006 afin que ce dernier transmette l\'ensemble des documents mentionnés ci-dessus.		
+2007	01			2007	01			a_été_notifié	L\'exploitant n\'ayant pas transmis d\'éléments suite à cet arrêté de mise en demeure, un arrêté de consignation à l\'encontre du liquidateur a été notifié en janvier 2007.		
+				2011	03	30		Deux_visites_d_inspection	Deux visites d\'inspection ont été réalisées les 22 février 2011 et le 30 mars 2011 afin de vérifier les conditions de mise en sécurité et de remise en état du site.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977	09	21		1977	09	21		a_été_délivré	La cessation d'activité a été déclarée le 27 novembre 1985 et un récépissé de déclaration a été délivré le 21 septembre 1977.		
+2012	08	02		2012	08	02		la_réalisation_d__un_diagnostic_environnemental	La mairie de Chevry a missionné le bureau d'études VALDECH pour la réalisation d'un diagnostic environnemental qui a été transmis à l'inspection des installations classées le 2 août 2012.		'VALDECH'
+2011	10	04		2011	10	04		a_réalisé_une_visite	L'inspection des installations classées a réalisé une visite du site le 4 octobre 2011 afin de mieux appréhender l'état actuel de la décharge, son environnement et le niveau de la remise en état effectuée par le SIVOM de l'Est GESSIEN.		'le SIVOM'
+1985	11	27		1985	11	27		La_cessation_d__activité	La cessation d'activité a été déclarée le 27 novembre 1985 et un récépissé de déclaration a été délivré le 21 septembre 1977.		

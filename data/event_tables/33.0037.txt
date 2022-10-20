@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	27		1999	07	27		Une_reconnaissance_des_sols	Une reconnaissance des sols a été réalisée les 26- 27/07/1999.		
+				2005				a_exploité	EDF a exploité jusqu’en 2005 ce centre de production thermique comportant six tranches, chacune d’entre elle constituée par une chaudière fonctionnant au fioul lourd et les équipements de production électrique associés.	'fioul lourd'	
+2001				2001				Le_traitement	Le traitement de la nappe par pompage est maintenu à la suite du diagnostic global du site en 2001 et ses compléments de 2002.		
+2015				2015				la_réalisations_d__études_complémentaires	Le mémoire de cessation d'activité est transmis le 31/05/2005 et complété le 23/09/2013 prévoit la réalisations d'études complémentaires sur les zones de pollution résiduelles en 2015.		
+								Une_reconnaissance_des_sols	Une reconnaissance des sols a été réalisée les 26- 27/07/1999.		
+2001	03	31		2001	03	31		Un_diagnostic_initial	Un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) ont été prescrits pour l'ensemble du site de la centrale avec l'échéance du 31/03/2001.		
+2016	01	08		2016	01	08		Le_rapport_remis	Le rapport remis le 08/01/2016 ne répond pas totalement aux prescriptions de l'article 3.1 dudit arrêté pour ce qui concerne l'étude historique et  et la compilation des données existantes.		
+								L__exploitation	L’exploitation de la zone de stockage du fioul lourd a été transférée à la société SPBA qui se situe à l'ouest de du site (ancienne raffinerie de pétrole ESSO), par arrêté préfectoral du 21 janvier  2012.	'fioul lourd'	'la société SPBA', 'raffinerie de pétrole ESSO'
+2001				2001				l__actualisation_des_diagnostics	Sur proposition de l'inspection du 20/11/2014, l'arrêté préfectoral du 15/01/2015 prescrit l'actualisation des diagnostics réalisés en 2001 selon la nouvelle approche de gestion des sites et sols polluées du 08/02/2007 et la proposition de mesures de gestion des milieux, sol et eaux souterraines, impactés.		
+2005				2005				font_l__objet_d_	Suite à la déclaration de cessation d'activité du 31/05/2005, les opérations de mise en sécurité et de démantèlement font l'objet d'un suivi régulier (réunion, inspection) depuis 2005.		
+2005	05	31		2005	05	31		est_transmis	Le mémoire de cessation d'activité est transmis le 31/05/2005 et complété le 23/09/2013 prévoit la réalisations d'études complémentaires sur les zones de pollution résiduelles en 2015.		
+2005	05	31		2005	05	31		__EDF_déclare	Le 31/05/2005, EDF déclare au Préfet la cessation d'activité du Centre de Production Thermique d'Ambès.		'EDF', "Centre de Production Thermique d' Ambès"
+2016	11	21		2016	11	21		L__étude_historique_réalisée	L’étude historique réalisée sur le site d’AMBES, complétée le 21 novembre 2016 par le bureau d’étude ERG, ainsi que des documents transmis depuis le 22 décembre 2014, répond globalement aux exigences de l’article 3.1 de l’arrêté préfectoral du 15 janvier 2015.		'AMBES', 'ERG'
+2012				2012				L__exploitation	L’exploitation de la zone de stockage du fioul lourd a été transférée à la société SPBA qui se situe à l'ouest de du site (ancienne raffinerie de pétrole ESSO), par arrêté préfectoral du 21 janvier  2012.	'fioul lourd'	'la société SPBA', 'raffinerie de pétrole ESSO'
+1999	07	15		1999	07	15		Une_fuite	Une fuite de gasoil a été identifiée le 15/07/1999 au droit du bac n° 3.	'gasoil'	
+2002	03	28		2002	03	28		Les_campagnes_de_prélèvements	Les campagnes de prélèvements du 28/03/2002 et du 10/09/2002 montrent une diminution des valeurs.		
+2002	02	11		2002	02	11		ont_été_demandées	Des informations complémentaires ont été demandées le 11/02/2002 pour valider le classement de l'ESR.		"l' ESR"
+2013	09	23		2013	09	23		complété	Le mémoire de cessation d'activité est transmis le 31/05/2005 et complété le 23/09/2013 prévoit la réalisations d'études complémentaires sur les zones de pollution résiduelles en 2015.		
+2000	11	27		2000	11	27		a_été_rendue	L'étape A a été rendue le 27/11/2000.		
+2014				2014				la_déconstruction	- la déconstruction du bloc usine devrait être terminée fin 2014,		
+1999	07	15		1999	07	15		la_fuite_de_gasoil	Suite à la fuite de gasoil du 15/07/1999, un rabattement de nappe a été mis en place afin de pomper le surnageant.	'gasoil', 'surnageant'	
+2001	12	20		2001	12	20		ont_été_remis	Le rapport final d'étape B et l'ESR du site ont été remis le 20/12/2001 classant le site en 2 "à surveiller" pour l'usage du moment.		
+2015	01	15		2015	01	15		doit_être_encore_modifié	Toutefois il doit être encore modifié avant d’engager les travaux, afin de répondre aux exigences de l’article 3.2 de l’arrêté préfectoral du 15 janvier 2015.		
+2005	05	31		2005	05	31		cessation_d__activité	Suite à la déclaration de cessation d'activité du 31/05/2005, les opérations de mise en sécurité et de démantèlement font l'objet d'un suivi régulier (réunion, inspection) depuis 2005.		
+2015				2015				est_transmis	Le mémoire de cessation d'activité est transmis le 31/05/2005 et complété le 23/09/2013 prévoit la réalisations d'études complémentaires sur les zones de pollution résiduelles en 2015.		

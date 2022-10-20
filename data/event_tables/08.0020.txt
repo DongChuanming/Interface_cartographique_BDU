@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				ont_été_réalisées	Ces actions ont été réalisées en 2001.		
+2001	03			2001	03			d__une_remise_en_état_du_site	* d'un diagnostic de l'état du sol à l'endroit d'un ancien stockage de fioul lourd et d'une remise en état du site à cet endroit avant fin mars 2001;	'fioul lourd'	
+2006	06	27		2006	06	27		a_été_communiqué	Un mémoire de cessation d'activité a été communiqué à l'inspection des installations classées le 27 juin 2006.		

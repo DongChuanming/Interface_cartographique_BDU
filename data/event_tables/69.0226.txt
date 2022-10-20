@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	11	15		2005	11	15		a_donc_été_donnée	Un avis favorable a donc été donnée par l'administration, pour la demande de permis de construire le 15 novembre 2005.		
+2004				2004				une_demande	Le site a fait l'objet d'une demande d'un permis de démolition et d'un permis de construire en 2004.		
+								Un_diagnostic_de_sols	Un diagnostic de sols a été effectué par la société SITA REMEDIATION les 29 et 30 août 2005.		'la société SITA REMEDIATION'
+2005	08	30		2005	08	30		Un_diagnostic_de_sols	Un diagnostic de sols a été effectué par la société SITA REMEDIATION les 29 et 30 août 2005.		'la société SITA REMEDIATION'

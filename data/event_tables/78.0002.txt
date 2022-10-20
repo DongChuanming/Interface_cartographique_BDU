@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				une_campagne_de_sondages_de_reconnaissance	Lors d'une campagne de sondages de reconnaissance en 1983, plusieurs fûts métalliques contenant des résidus de peintures et des solvants chlorés ont été découverts.	'des résidus de peintures', 'solvants chlorés'	
+1999	01			1999	01			Une_première_campagne_d__analyses	Une première campagne d'analyses a été effectuée en janvier 1999.		
+1985	09			1985	09			a_été_liquidée	Entre temps, la société Saint Yves a été liquidée (liquidation en septembre 1985).		'la société Saint Yves'
+1985	09			1985	09			liquidation	Entre temps, la société Saint Yves a été liquidée (liquidation en septembre 1985).		'la société Saint Yves'
+1994				1994				les_études_réalisées	Après les études réalisées en 1994 par la commune de Rambouillet et suite à l'arrêté préfectoral du 28 mars 1996 lui imposant la réalisation de travaux au niveau des zones présentant des anomalies magnétiques, les travaux de dépollution du site ont été réalisés de septembre 1997 à janvier 1998.		'la commune de Rambouillet'
+1998	02			1998	02			a_été_réaménagé	En février 1998, une partie du site a été réaménagé en espace de tir à l'arc.		
+2000				2002				a_été_réalisée	Une surveillance des eaux souterraines a été réalisée de 2000 à 2002.		
+1994				1994				a_racheté	En 1994, la mairie de Rambouillet a racheté le site et a commandé la réalisation d'une campagne de reconnaissance géophysique à un bureau d'études afin de connaitre l'état du terrain (repérage d'éventuels fûts).		'la mairie de Rambouillet'
+2002				2002				de_la_dernière_campagne	Seules des traces de chloroforme (6 µg/l), de trichloroéthane (12 à 17 µg/l), d'acétate d'éthyle (6 à 17 µg/l) et de benzène (1 à 3 µg/l) ont été identifiées lors de la dernière campagne de 2002.	'chloroforme', 'trichloroéthane', "acétate d' éthyle", 'benzène'	
+1994				1994				a_racheté	La mairie a racheté le site en 1994.		
+1997	09			1998	01			les_travaux_de_dépollution	Après les études réalisées en 1994 par la commune de Rambouillet et suite à l'arrêté préfectoral du 28 mars 1996 lui imposant la réalisation de travaux au niveau des zones présentant des anomalies magnétiques, les travaux de dépollution du site ont été réalisés de septembre 1997 à janvier 1998.		'la commune de Rambouillet'

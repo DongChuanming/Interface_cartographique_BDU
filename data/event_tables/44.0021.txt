@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Une_qualification	Une qualification du niveau de risque environnemental résiduel du site selon la méthode de l'évaluation simplifié des risques a été faite en 1998 et a conduit à proposer de classer ce dernier en classe 2 : site à surveiller, ne nécessitant pas la mise en œuvre d'actions particulières supplémentaires.		
+1994				1994				a_demandé_la_réalisation_d__une_étude_approfondie	A la suite de l'arrêt des fabrications en 1994, la DRIRE a demandé la réalisation d'une étude approfondie de la qualité du site.		'la DRIRE'
+2000	02	15		2000	02	15		ont_été_fixées	Les conditions de cette surveillance (analyses annuelles de la qualité des eaux souterraines au moyen d'un réseau de 4 piézomètres) ont été fixées par arrêté préfectoral du 15/02/2000.		
+1994				1994				A_la_suite_de	A la suite de l'arrêt des fabrications en 1994, la DRIRE a demandé la réalisation d'une étude approfondie de la qualité du site.		'la DRIRE'
+1994				1994				arrêt_des_fabrications	A la suite de l'arrêt des fabrications en 1994, la DRIRE a demandé la réalisation d'une étude approfondie de la qualité du site.		'la DRIRE'
+1994				1994				Plusieurs_campagnes_de_sondages	Plusieurs campagnes de sondages et d'analyses ont été conduites en 1994 et 1995 avec le concours de sociétés spécialisées.		
+1963				1994				a_exploité	La société chimique de la Grande Paroisse a exploité de 1963 à 1994 une usine de production d'engrais azotés sur la commune de Montoir de Bretagne.	'engrais azotés'	'La société chimique de la'
+1995				1995				Plusieurs_campagnes_de_sondages	Plusieurs campagnes de sondages et d'analyses ont été conduites en 1994 et 1995 avec le concours de sociétés spécialisées.		

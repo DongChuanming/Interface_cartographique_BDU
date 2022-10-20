@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				ont_été_arrêtés	En 1977 l'agglomération, le haut-fourneau et l'aciérie ont été arrêtés.		
+2004	04			2004	04			l__extension	Enfin, l’extension des boues près du terrain portuaire a été estimée en avril 2004 (rapport RC/L 9334- LECES).		
+2000				2000				Les_investigations_de_terrains	Les investigations de terrains réalisées en 2000 dans le cadre de l’Evaluation Simplifiée des Risques (rapport LECES RC/L 5658 d’août 2000) ont montré que les sols de la friche, constitués principalement de remblais sidérurgiques, présentent 8 sources de pollution, en métaux lourds principalement.	'métaux lourds'	
+1898				1898				a_été_fondée	L'usine de Thionville a été fondée sous le nom de Karlshütte en 1898, elle se composait alors de 4 hauts-fourneaux.		'Thionville', 'Karlshütte'
+1964				1964				ont_été_démolis	es hauts-fourneaux ont été démolis pour être modernisés en 1928,1950 et 1964 où ils ont été remplacés par un haut-founeau de 8 m de creuset d'une capacité de production de fonte de 63 000 t/mois.		
+1948				1948				a_été_construite	Une agglomération a été construite en 1948 et remplacée en 1965 par une installation plus puissante.		
+1950	1928			1950	1928			ont_été_démolis	es hauts-fourneaux ont été démolis pour être modernisés en 1928,1950 et 1964 où ils ont été remplacés par un haut-founeau de 8 m de creuset d'une capacité de production de fonte de 63 000 t/mois.		
+1950	1928			1950	1928			ont_été_remplacés	es hauts-fourneaux ont été démolis pour être modernisés en 1928,1950 et 1964 où ils ont été remplacés par un haut-founeau de 8 m de creuset d'une capacité de production de fonte de 63 000 t/mois.		
+1964				1964				ont_été_remplacés	es hauts-fourneaux ont été démolis pour être modernisés en 1928,1950 et 1964 où ils ont été remplacés par un haut-founeau de 8 m de creuset d'une capacité de production de fonte de 63 000 t/mois.		

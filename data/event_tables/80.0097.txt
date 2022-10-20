@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03	31		2011	03	31		s__est_rendue	L’inspection s’est rendue le 31/03/2011 sur le site avec le représentant de WATTS, M.		'WATTS'
+2010	07	02		2010	07	02		a_déclaré_sa_cessation_définitive	La société WATTS a déclaré sa cessation définitive de ses activités le 02/07/2010.		'La société WATTS'
+2004				2004				Abandon	Abandon des activités de fonderie en 2004		

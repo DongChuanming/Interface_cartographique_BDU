@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018				2018				a_remis	L'exploitant a remis un plan de gestion en 2018.		
+2012				2012				un_diagnostic_de_sol	En 2012, un diagnostic de sol a été réalisé afin de détecter une éventuelle pollution des sols.		
+1965				1965				a_été_créée	L’entreprise a été créée en 1965.		

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10			2010	10			a_fourni_un_diagnostic_de_pollution	Dans le cadre de la vente d'une partie du site à un nouvel acquéreur, la société SCHNEIDER ELECTRIC a fourni un diagnostic de pollution (phase A et B) accompagné d'une évaluation quantitative des risques sanitaires (EQRS) datant d'octobre 2010.		'la société SCHNEIDER ELECTRIC'
+2002				2002				arrêtées	- Zone 5 : ancienne station de nettoyage au trichloroéthylène (TCE) et ancien emplacement des cuves TCE et réservoir de boue (activités arrêtées en 2002) ;	'trichloroéthylène', 'TCE', 'réservoir de boue'	'TCE'
+2011	11	11		2011	11	11		Les_investigations_complémentaires	Les investigations complémentaires se sont déroulées le 11/11/2011 et une nouvelle EQRS a été réalisée.		
+2004				2004				Diagnostic_environnemental_réalisé	* Diagnostic environnemental réalisé par BURGEAP en 2004 :		'BURGEAP'
+2010	10			2010	10			__Diagnostic_de_pollution	* Diagnostic de pollution phase A et B en octobre 2010 :		
+1999				1999				réalisée_par	* Campagne de caractérisation du sol au droit et autour d'un puits perdu réalisée par GEOCLEAN en 1999 :		'GEOCLEAN'
+1998				1998				déversement_accidentel	* Analyses des échantillons d'eaux prélevées dans "la Coule" suite au déversement accidentel d'un résidu de nettoyage en 1998 :		
+1997				1997				Diagnostic_environnemental_réalisé	* Diagnostic environnemental réalisé par GEOCLEAN en 1997 :		'GEOCLEAN'
+2010				2010				arrêtée	- Zone 6 : ancienne activité de dégraissage au PCE (activité arrêtée en 2010) ;		'PCE'
+1998	08	31		1998	08	31		a_été_réalisé	Le 31/08/1998, suite au déversement accidentel de résidus de nettoyage d'huile diélectrique d'un transformateur dans un regard d'eau pluvial du site, un suivi de la qualité de l'eau de surface prélevée dans la Coule a été réalisé.		
+1956				1956				se_sont_succédées	Différentes activités se sont succédées sur le site depuis 1956 (réparation de matériel agricole, chaudronnerie, tuyauterie, moulage de pièces isolantes...).		
+2010	10			2010	10			une_évaluation_quantitative_des_risques_sanitaires	Dans le cadre de la vente d'une partie du site à un nouvel acquéreur, la société SCHNEIDER ELECTRIC a fourni un diagnostic de pollution (phase A et B) accompagné d'une évaluation quantitative des risques sanitaires (EQRS) datant d'octobre 2010.		'la société SCHNEIDER ELECTRIC'
+2010	01	01		2010	01	01		était_exploité	Le site était exploité par la société SDE puis par la société SOCIETE ELECTRIQUE d'AUBENAS (SEA) depuis le 01/01/2010.		'la société SDE', "la société SOCIETE ELECTRIQUE d' AUBENAS", 'SEA'
+2013	07	29		2013	07	29		déclaration	La SEA bénéficie d'un récépissé de déclaration du 29/07/2013.		'La SEA'

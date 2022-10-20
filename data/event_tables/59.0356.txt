@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	09			2008	09			une_analyse_des_risques_résiduels	Réalisation d'une analyse des risques résiduels en septembre 2008 qui conclut que pour le projet de parc archéologique prévu sur le site, il est nécessaire de réaliser des travaux afin que le site soit compatible avec l'usage voulu.		
+1987				1987				a_démantelé	En 1987, à la suite de la fermeture du site, la société ESSO a démantelé les stockages existants.		'la société ESSO'
+1923				1923				L__exploitation	L'exploitation du terrain a démarré en 1923 par l'autorisation d'un dépôt géré par une filiale d'ESSO.		"une filiale d' ESSO"
+2000				2000				Une_évaluation_sommaire_de_l__état_des_sols	Une évaluation sommaire de l'état des sols a été menée par le propriétaire des terrains (RHODIA INTERMEDIAIRES) et remise à la DRIRE en 2000.		'RHODIA INTERMEDIAIRES', 'la DRIRE'
+2004	06			2004	06			Étude_des_sols	Étude des sols et ESR réalisées en juin 2004, site en classe 2: à surveiller.		
+1987				1987				a_été_racheté	Le terrain ESSO a été racheté en 1987 par RHODIA INTERMEDIAIRES qui n'y a pas exercé d'activités relevant de la législation des installations classées pour la protection de l'environnement.		'ESSO', 'RHODIA INTERMEDIAIRES'
+				1987				ont_été_stockés	Des hydrocarbures (essence, gasoil, fioul domestique) y ont été stockés jusqu'en 1987.	'hydrocarbures', 'essence', 'gasoil', 'fioul domestique'	
+2001	08	27		2001	08	27		Une_visite	Une visite du site en date du 27 août 2001 a permis de constater que la société BM CHIMIE exploite à cette adresse un atelier d'entretien de véhicules poids lourds.		'la société BM CHIMIE'
+2007	06			2007	06			Réalisation_d__un_diagnostic_des_sols	Réalisation d'un diagnostic des sols en juin 2007 qui conclut à la présence d'une pollution au benzène sur le site.	'benzène'	

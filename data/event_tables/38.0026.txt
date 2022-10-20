@@ -1,0 +1,40 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1996				ont_été_démolies	Ces 2 centrales ont été démolies entre 1990 et 1996.		
+2008	09			2008	09			a_été_effectué	Le suivi de la qualité des eaux souterraines et superficielles et des sédiments a été effectué entre novembre 2007 et décembre 2008 ( 4 campagnes de prélèvements en novembre 2007, avril, juillet et septembre 2008), puis entre mai 2009 et décembre 2009 (4 campagnes de prélèvements, en mai, juillet, octobre et décembre 2009).		
+2007	11			2008	12			a_été_effectué	Le suivi de la qualité des eaux souterraines et superficielles et des sédiments a été effectué entre novembre 2007 et décembre 2008 ( 4 campagnes de prélèvements en novembre 2007, avril, juillet et septembre 2008), puis entre mai 2009 et décembre 2009 (4 campagnes de prélèvements, en mai, juillet, octobre et décembre 2009).		
+2009				2009				Le_suivi_réalisé_durant_l_	Le suivi réalisé durant l'année 2009 n'a pas mis en évidence de contamination des eaux souterraines en PCB.	'PCB'	
+2013				2013				a_été_réalisé	Le cahier des clauses techniques particulières pour les travaux de réhabilitation du site de l’étang des Moutières et des centrales thermiques a été réalisé courant 2013.		
+								est_cédée	Dans les années 60, une partie du terrain est cédée à la société VITTONE qui y exploitait une activité de mécanique générale.		'la société VITTONE'
+2008	04	22		2008	04	22		ont_également_été_prélevés	* 5 prélèvements de sédiments ont également été prélevés le 22/04/2008.		
+2012	09	13		2012	09	13		a_été_émis	Des investigations sur la galerie d'amenée des eaux ont été menés par le BRGM et le rapport a été émis le 13/09/2012.		'le BRGM'
+2008	04	22		2008	04	22		ont_été_réalisés	* Le 22/04/2008, 5 prélèvements dans les eaux superficielles ont été réalisés sur la Jonche et l'étang des Moutières.		
+2014	09			2014	09			Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site se sont déroulés d'avril à septembre 2014.		
+				1996	01	29		demande	Entre le 26 et le 29/01/1996, la Commune de Susville demande à la société TREDI et BONNEFOND de pomper les huiles flottantes.	'huiles flottantes'	'la Commune de Susville', 'la société TREDI'
+2009	12			2009	12			a_été_effectué	Le suivi de la qualité des eaux souterraines et superficielles et des sédiments a été effectué entre novembre 2007 et décembre 2008 ( 4 campagnes de prélèvements en novembre 2007, avril, juillet et septembre 2008), puis entre mai 2009 et décembre 2009 (4 campagnes de prélèvements, en mai, juillet, octobre et décembre 2009).		
+2007	12	27		2007	12	27		a_été_transféré	A cette date, l’ensemble des biens, droits et obligations de  CHARBONNAGES DE FRANCE a été transféré à l’Etat, à l’exception de certains qui ont été confiés au liquidateur du groupe, Maître CADOUX, nommé par arrêté du 27/12/2007.		'  CHARBONNAGES DE FRANCE', ', Maître CADOUX'
+2007	06			2007	06			Le_rapport_de_synthèse_hydrogéologique	Le rapport de synthèse hydrogéologique et préconisations de suivi a été transmis à la DREAL en juin 2007.		'la DREAL'
+2007	11	27		2007	11	27		10_sondages_de_sol	* 10 sondages de sol ont été réalisés le 27/11/2007 (S1 à S10).		
+2009	05			2009	12			a_été_effectué	Le suivi de la qualité des eaux souterraines et superficielles et des sédiments a été effectué entre novembre 2007 et décembre 2008 ( 4 campagnes de prélèvements en novembre 2007, avril, juillet et septembre 2008), puis entre mai 2009 et décembre 2009 (4 campagnes de prélèvements, en mai, juillet, octobre et décembre 2009).		
+2009	07			2009	07			de_la_campagne	Lors de la campagne de juillet 2009, la teneur des sédiments en PCB avait atteint 1 081 µg/kg MS.	'PCB'	
+								a_été_effectué	Le suivi de la qualité des eaux souterraines et superficielles et des sédiments a été effectué entre novembre 2007 et décembre 2008 ( 4 campagnes de prélèvements en novembre 2007, avril, juillet et septembre 2008), puis entre mai 2009 et décembre 2009 (4 campagnes de prélèvements, en mai, juillet, octobre et décembre 2009).		
+2008				2008				ont_été_détectées	Les sédiments de la Jonche à l'amont du site, seules des traces ont été détectées en 2008 et 2009, jusqu'à 35 mg/kg de PCB et 268 µg/kg d'arochlor 1248.	'PCB', 'arochlor 1248'	
+2009				2009				Le_suivi_réalisé	Le suivi réalisé en 2009 dans des conditions d'écoulement de basses eaux et d'étiage, ne met pas en évidence de contamination des eaux superficielles par les PCB.	'les PCB'	
+2004	02	24		2004	02	24		ont_été_transférées	Les concessions de HBCM ont été transférées à la société CHARBONNAGES DE FRANCE par arrêté ministériel du 24/02/2004.		'HBCM', 'la société CHARBONNAGES DE FRANCE'
+2012				2012				engagera_des_travaux_de_dépollution	A compter de fin 2012, le BRGM, agissant en qualité de maître d'ouvrage pour le compte de l'Etat, engagera des travaux de dépollution portant sur l'étang des Moutières et le site des anciennes centrales thermiques.		'le BRGM'
+2012	09	13		2012	09	13		Des_investigations	Des investigations sur la galerie d'amenée des eaux ont été menés par le BRGM et le rapport a été émis le 13/09/2012.		'le BRGM'
+1996	09			1996	09			réalisée	La deuxième partie réalisée en septembre 1996 du diagnostic a été réalisée en continuité avec l'étude documentaire précédente et a reposé sur des investigations de terrain, leurs résultats et leur interprétation.		
+1994				1994				se_porte_acquéreur	En 1994, la mairie de Susville se porte acquéreur du tènement HBCM et également du tènement VITTONE.		'la mairie de Susville', 'HBCM', 'VITTONE'
+1996	07	08		1996	07	16		Des_excavations	Des excavations et des piézomètres ont été réalisés du 08/07/1996 au 16/07/1996, afin de réaliser des analyses de sols et réaliser des prélèvements d'eaux souterraines et de surface (eau de l'étang).		
+2012				2012				A	A compter de fin 2012, le BRGM, agissant en qualité de maître d'ouvrage pour le compte de l'Etat, engagera des travaux de dépollution portant sur l'étang des Moutières et le site des anciennes centrales thermiques.		'le BRGM'
+								Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site se sont déroulés d'avril à septembre 2014.		
+2007	11	26		2007	11	26		des_prélèvements_ont_été_réalisés	* Au niveau des eaux souterraines et des eaux superficielles, des prélèvements ont été réalisés le 26/11/2007 et 22/04/2008.		
+2008	01	01		2008	01	01		a_été_dissous	L’établissement public CHARBONNAGES DE FRANCE a été dissous le 01/01/2008 (décret n°2007-1806).		'établissement public CHARBONNAGES DE FRANCE'
+2008	04	22		2008	04	22		des_prélèvements_ont_été_réalisés	* Au niveau des eaux souterraines et des eaux superficielles, des prélèvements ont été réalisés le 26/11/2007 et 22/04/2008.		
+1996	03	15		1996	03	15		est_posé	Un barrage flottant est posé le 15/03/1996.		
+1996	09			1996	09			diagnostic_a_été_réalisée_en	La deuxième partie réalisée en septembre 1996 du diagnostic a été réalisée en continuité avec l'étude documentaire précédente et a reposé sur des investigations de terrain, leurs résultats et leur interprétation.		
+2008	09	17		2008	09	17		Le_diagnostic_approfondi_réalisé	Le diagnostic approfondi réalisé par la société CESAME, a été transmis à la Préfecture le 17/09/2008.		'la société CESAME'
+2009				2009				ont_été_détectées	Les sédiments de la Jonche à l'amont du site, seules des traces ont été détectées en 2008 et 2009, jusqu'à 35 mg/kg de PCB et 268 µg/kg d'arochlor 1248.	'PCB', 'arochlor 1248'	
+2007	04	26		2007	04	26		Une_visite_d__inspection	Une visite d'inspection a été effectuée le 26/04/2007.		
+2007	11	26		2007	11	26		9_prélèvements_ont_été_réalisés	Le 26/11/2007, 9 prélèvements ont été réalisés dans 8 piézomètres (PZ2, PZ3, PZ4, PZ6, PZ7, PZ amont, PZ aval transfo et PZ aval éloigné) et le puits Charvet (aval hydrogéologique).		
+1996	01			1996	01			a_été_découverte	En janvier 1996, une pollution aux PCB a été découverte à la surface de l’étang des Moutières.	'PCB'	
+2008				2009				mesurées	Les teneurs en PCB des sédiments, mesurées entre 2008 et 2009, sont inférieures à 150 µg/kg MS pour les 7 campagnes sur les 8 réalisées.	'PCB'	

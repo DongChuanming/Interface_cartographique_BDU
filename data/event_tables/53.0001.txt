@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07	29		1998	07	29		a_décidé_de_faire_réaliser_une_expertise	En dernier lieu le 29 juillet 1998, la cour d'appel administrative de Nantes annulant un jugement du tribunal administratif, a décidé de faire réaliser une expertise avant de statuer définivement sur le recours introduit par le ministère de l'environnement.		"la cour d' appel administrative de Nantes"
+2004	03			2004	03			est_intervenu	Le traitement des fûts et du transformateur est intervenu en mars 2004.		
+1989	10	31		1989	10	31		le_renversement_d_	Le 31 octobre 1989 lors d'une opération de transfert, le renversement d'un transformateur a entraîné une pollution des sols par les PCB de la place Fouché à Château Gontier devant la clinique, traduite lors de la dépollution par l'évacuation de 38 tonnes de terres souillées (165 fûts de 200 l).	'les PCB'	'Château Gontier'
+1989				1989				ont_été_stockés	Les fûts ont été stockés depuis 1989 chez Aprochim, qui n'a pas été dédommagé des droits de stockage.		

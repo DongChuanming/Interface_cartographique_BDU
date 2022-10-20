@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				a_été_créée	Celle-ci a été créée en 1991 (récépissé du 20/08/1991) puis par la SA VALLEDY jusqu’en 1994.		'la SA VALLEDY'
+2010	10			2010	10			investigations_menées	Les résultats des investigations menées, sur les sols, en octobre 2010 ont montré :		
+2018	10	31		2018	10	31		informe	Par courrier du 31 octobre 2018, la SNC NORMINTER-IEM informe monsieur le préfet de Loire-Atlantique de la cessation d’activité totale des installations classées.		'la SNC NORMINTER - IEM', 'le préfet de Loire -'
+2018	10	31		2018	10	31		propose	Dans son courrier du 31 octobre 2018, la SNC NORMINTER-IEM propose la remise en état du site pour un usage industriel ou commercial.		'la SNC NORMINTER - IEM'
+1994				1994				qui_avaient_été_inertées	– l’extraction des cuves de liquides inflammables qui avaient été inertées en 1994 ;	'de liquides inflammables'	
+2018	10	31		2018	10	31		la_cessation_d__activité	Par courrier du 31 octobre 2018, l’IEM déclare la cessation d’activité du site.		
+2010	03			2010	03			était_propriétaire	La SA VALLEDY était propriétaire du site, elle a été fusionnée et absorbée par l’Immobilière Européenne des Mousquetaires (IEM) en mars 2010.		'La SA VALLEDY'
+2018	07			2018	07			Les_travaux_de_remise_en_état_du_site	Les travaux de remise en état du site se sont déroulés en juillet 2018 (voir plan-cartographique-44.0149--3).		
+2010	10			2010	10			l__état_des_sols_réalisé	Ce courrier est accompagné d’un diagnostic de l’état des sols réalisé en octobre 2010 et d’un dossier relatif au suivi environnemental des travaux de démantèlement et de dépollution (voir plan-cartographique-44.0149--2).		

@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_levée_totale	GFD a sollicité le 27/09/05 la levée totale ou un allégement de la surveillance.		'GFD'
+2009	12	11		2009	12	11		l__arrêt_définitif_de_ses_activités	La société a notifié l'arrêt définitif de ses activités en 2009 (récépissé de notification du 11/12/2009).		'La société'
+1989	1988			1989	1988			a_demandé_que_soit_relancée	Dans le courant de l'année 1995, la DRIRE a demandé que soit relancée la procédure d'examen de l'état de pollution de la lagune ébauché en 1988/1989.		'la DRIRE'
+2012	02	09		2012	02	09		des_travaux_de_réhabilitation	Au vu de ces éléments, des objectifs de qualité des eaux souterraines et des pollutions identifiées (existence de zones de contamination par les hydrocarbures dans les sols sur le site et de surnageant de type hydrocarbures en aval hydraulique du site), des travaux de réhabilitation ont été prescrits par arrêté préfectoral du 9 février 2012.	'les hydrocarbures', 'surnageant', 'type hydrocarbures'	
+2007	04	04		2007	04	04		a_été_signé	Après régularisation par l'exploitant de la cessation partielle d'activité (décaperie-lagune), un arrêté complémentaire a été signé le 4 avril 2007 pour prescrire la réalisation d’investigations approfondies pour l’élaboration et la mise en œuvre de mesures appropriées de gestion du site selon la nouvelle approche nationale.		
+2009	12	11		2009	12	11		de_notification	La société a notifié l'arrêt définitif de ses activités en 2009 (récépissé de notification du 11/12/2009).		'La société'
+2009				2009				l__arrêt_définitif_de_ses_activités	La société a notifié l'arrêt définitif de ses activités en 2009 (récépissé de notification du 11/12/2009).		'La société'
+1998				1998				a_été_demandé	Dans la mesure où avait été développée la méthodologie nationale dite d'évaluation simplifiée des risques, le classement du site selon cette méthode a été demandé à la société GFD en 1998.		'la société GFD'
+								se_sont_succédés	Il dispose d'une lagune qui, historiquement, était l'exutoire (bassin de décantation) des rejets solides et liquides des ateliers de type mécanique (visserie) qui se sont succédés sur le site depuis plus de 50 ans.		
+2006	08			2006	08			Les_compléments_d__information_reçus	Les compléments d'information reçus en août 2006 n'ont pas permis de donner une suite favorable à cette demande.		
+1995				1995				a_demandé_que_soit_relancée	Dans le courant de l'année 1995, la DRIRE a demandé que soit relancée la procédure d'examen de l'état de pollution de la lagune ébauché en 1988/1989.		'la DRIRE'
+1989	1988			1989	1988			ébauché	Dans le courant de l'année 1995, la DRIRE a demandé que soit relancée la procédure d'examen de l'état de pollution de la lagune ébauché en 1988/1989.		'la DRIRE'
+2012	11	13		2012	11	13		Une_visite_de_récolement	Une visite de récolement des travaux de réhabilitation a été réalisée le 13 novembre 2012.		
+2011	03	23		2011	03	23		a_été_remis	Le mémoire de réhabilitation a été remis le 23 mars 2011.		

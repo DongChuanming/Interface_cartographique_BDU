@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_pris	* Constatant les retards de réalisation des travaux,le Préfet ,sur proposition de la DRIRE , a pris un Arrêté Préfectoral de mise en demeure le 13 Nov 2000.		'le Préfet', 'la DRIRE'
+1990				1990				a_cessé	* Ce site industriel de 55 000 m2 est implanté à Marseille (Quartier Pont de Vivaux) en bordure immédiate de l'Huveaune, depuis le siècle dernier (BLANC DE ZINC) et a cessé l'activité de production d'oxyde de zinc (pigment pour l'industrie) en 1990.	'oxyde', 'zinc'	'BLANC DE ZINC'
+1996				1996				a_procédé	Le BRGM a procédé en 1996 à un audit des objectifs de réhabilitation.		'BRGM'
+2001				2001				réalisé	* Ce confinement ,réalisé en 2001, couvre la partie la plus sensible des terrains sur une superficie de 16.000 m2 qui renferme les déchets ( machefers ) issus de l'ancienne activité de fonderie sur une profondeur de 2 à 3 m.	'les déchets ( machefers'	
+								a_pris	* Constatant les retards de réalisation des travaux,le Préfet ,sur proposition de la DRIRE , a pris un Arrêté Préfectoral de mise en demeure le 13 Nov 2000.		'le Préfet', 'la DRIRE'
+1993				1993				Des_études_de_diagnostic	* Des études de diagnostic de sites, analogues aux ESR/EDR, ont été réalisées comme prescrites par l'AP du 29 novembre 1993, pendant la période 1993-1995.		
+1995				1995				Des_études_de_diagnostic	* Des études de diagnostic de sites, analogues aux ESR/EDR, ont été réalisées comme prescrites par l'AP du 29 novembre 1993, pendant la période 1993-1995.		

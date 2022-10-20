@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	08	22		1997	08	22		est_pris	À la suite d’une plainte du voisinage pour pollution visant l’exploitant, un arrêté préfectoral imposant la dépollution du site est pris le 22/08/1997.		
+1999	09			2000	02			la_dépollution	Entre septembre 1999 et février 2000, l’exploitant procède à la dépollution du site par venting et sparging.		
+1999				1999				traitée	Il apparaît que cette pollution est nouvelle et distincte de celle mise en évidence en 1996 et traitée en 1999.		
+2004	10			2004	10			Une_nouvelle_campagne_de_dépollution	Une nouvelle campagne de dépollution a donc lieu d’octobre 2004 à février 2007.		
+2008				2008				Les_campagnes	Les campagnes de 2007 et 2008 confirment l’absence d’hydrocarbures surnageants au droit de l’ensemble des ouvrages.	'hydrocarbures surnageants'	
+2007				2007				Les_campagnes	Les campagnes de 2007 et 2008 confirment l’absence d’hydrocarbures surnageants au droit de l’ensemble des ouvrages.	'hydrocarbures surnageants'	
+2007				2007				les_travaux_de_dépollution	En 2007, les travaux de dépollution de la nappe sont terminés.		
+2014	07			2014	07			a_demandé	L’inspection des installations classées a demandé en juillet 2014 à l’exploitant à être rendue destinataire des derniers rapports de surveillance.		
+1970				1970				exploite	La société BP exploite sur le site une station service depuis 1970.		'La société BP'
+1999	05			1999	05			Un_diagnostic_initial_réalisé	Un diagnostic initial réalisé en mai 1999 révèle une pollution aux hydrocarbures volatils dans les sols et la présence d’hydrocarbures surnageants dans la nappe à l’Est du site.	'hydrocarbures volatils', 'hydrocarbures surnageants'	
+2003	08			2003	08			sont_posés	Six piézomètres sont posés en août 2003 et février 2004.		
+2004	03			2004	03			La_réalisation_de_campagnes_de_prélèvement	La réalisation de campagnes de prélèvement dans ces ouvrages en mars 2004 met en évidence la présence de teneurs élevées en hydrocarbures totaux, HAP (hydrocarbures aromatiques polycycliques) et BTEX (benzène, toluène, éthylbenzène, xylène) dans la nappe, ainsi que la présence d’hydrocarbures volatils dans l’air des sols sur une grande partie du site (panache gazeux centré sur la station).	'hydrocarbures totaux', 'HAP', 'hydrocarbures aromatiques polycycliques', 'BTEX', 'benzène', 'toluène', 'éthylbenzène', 'xylène', 'hydrocarbures volatils'	
+2004	02			2004	02			sont_posés	Six piézomètres sont posés en août 2003 et février 2004.		
+2007	02			2007	02			Une_nouvelle_campagne_de_dépollution	Une nouvelle campagne de dépollution a donc lieu d’octobre 2004 à février 2007.		
+2004	08			2004	08			est_réalisé	Un nouvel état zéro de la pollution est réalisé en en août 2004.		

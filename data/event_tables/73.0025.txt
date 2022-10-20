@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				de_la_campagne	Les résultats analytiques obtenus lors de la campagne de 2012 confirment l'absence d'Hydrocarbures totaux (C10-C40) dans les eaux souterraines au droit des 3 piézomètres depuis le début du suivi en avril 2003.	'Hydrocarbures totaux', 'C10-C40 )'	
+2012	12			2012	12			La_dernière_surveillance	La dernière surveillance des eaux souterraines réalisée (campagne de décembre 2012), montre que la situation reste stable.		
+2004				2004				a_été_modifié	Le nom de la société responsable du site (PTB) a été modifié en 2004, et est devenu ACUMENT La Bridoire.		'PTB', 'ACUMENT'
+2009	10	08		2009	10	08		La_mise_en_place_de	La mise en place de restrictions d'usage conventionnelles au profit de l'état a été réalisée le 8 octobre 2009.		
+1981				1981				exploitées	Deux lagunes de 270 et 300 m², exploitées pendant 10 ans (1981 à 1991) pour le déversement d'eaux de lavage de pièces mécanique : travail mécanique des métaux par frappe à froid, générateur de rejets aqueux fortement chargés en hydrocarbures.	'hydrocarbures'	
+2010				2010				est_intervenu	Un changement d'exploitant est intervenu en 2010.		
+								exploitées	Deux lagunes de 270 et 300 m², exploitées pendant 10 ans (1981 à 1991) pour le déversement d'eaux de lavage de pièces mécanique : travail mécanique des métaux par frappe à froid, générateur de rejets aqueux fortement chargés en hydrocarbures.	'hydrocarbures'	

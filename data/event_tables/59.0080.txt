@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1931				1931				ont_utilisés	- Depuis 1931, divers établissements ont utilisés le site, le dernier étant un établissement textile (confection), MACOFA.		'MACOFA'
+1999				1999				site_vendu	- Aout 1999: site vendu à l'EURL GJMI		'EURL GJMI'
+2001	12	10		2001	12	10		Réalisation_d__analyses_chimiques	- Réalisation d'analyses chimiques le 10/12/2001 concluant à la présence de PCB dans les sols.	'PCB'	
+2000				2000				Vidange	- Vidange, nettoyage et ferraillage des cuves en 2000.		

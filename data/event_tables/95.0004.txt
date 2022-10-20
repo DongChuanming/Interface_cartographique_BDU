@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	05			1996	05			n__admet	Ce site, situé en limite de départements, est une décharge de classes 2 et 3 (ordures ménagères et produits inertes) qui n'admet plus de déchet depuis mai 1996.		
+2009				2009				prélèvements_effectués	Les  résultats des prélèvements effectués en 2009 montrent une tendance à la diminution des concentrations pour les paramètres NTK,Nitrates,Nickel ; toutefois des traces en HCT sont retrouvées en amont comme en aval du site sur une partie des piézomètres.	'paramètres NTK , Nitrates , Nickel', 'en HCT'	
+2006				2006				Les_analyses	Les analyses de 2006 ont montré une légère hausse des teneurs en azote en aval hydraulique non ressentie au niveau des captages AEP de Moussy le Neuf et Moussy le Vieux, une augmentation des coliformes totaux et des entérocoques sans conséquence sur les captages AEP avoisinants et une diminution des teneurs en sulfates et en nitrates.	'coliformes totaux', 'entérocoques', 'sulfates', 'nitrates'	
+2004	06	28		2004	06	28		ont_été_instituées	Des Servitudes d'Utilité Publique ont été instituées pour restreindre la réutilisation future du site par arrêté interpréfectoral en date du 28 juin 2004.		
+2008	07	08		2008	07	08		effectués	Les résultas des prélèvements effectués le 8 juillet 2008 ont effectivement porté sur 6 piezomètres désignés MW1 à MW5 et BRGM 91.		
+2011				2011				Les_campagnes_réalisées	Les campagnes réalisées en 2011 ont confirmé la présence de cyanures.	'cyanures'	
+2012				2012				a_été_rebouché	En 2012, le piézomètre MW5 a été rebouché.		

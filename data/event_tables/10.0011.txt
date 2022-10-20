@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_travaux	Les travaux et la surveillance des Eaux Souterraines à réaliser sont encadrés par un Arrêté préfectoral complémentaire du 18/11/10.		
+2001	11			2001	11			a_décidé	L'exploitant a décidé en novembre 2001 de :		
+2009				2009				des_investigations_complémentaires	En 2009, des investigations complémentaires et une surveillance des Eaux Souterraines ont été réalisées : elles ont permis de constater la présence d'une phase flottante et d'une pollution de la nappe par les hydrocarbures pour lesquelles l'exploitant s'est engagé à effectuer les travaux nécessaires.	'hydrocarbures'	
+2012	01			2012	01			Les_travaux_de_remise_en_état_ont_commencé	Les travaux de remise en état ont commencé en janvier 2012.		
+				2009				n__a_engagé_aucune_action	En raison d'un contentieux avec le bureau d'études, BOLLORE n'a engagé aucune action sur le site jusqu'en 2009.		'BOLLORE'
+1997				1997				a_cessé_ses_activités	L'ancienne papeterie a cessé ses activités fin 1997.		
+2012	01			2012	01			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en janvier 2012.		
+1998	08			1998	08			Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques ont été remis par l'exploitant en août 1998.		
+2011	06			2011	06			a_a_été_transmis	Le cahier des charges des travaux de dépollution a a été transmis et validé en juin 2011.		

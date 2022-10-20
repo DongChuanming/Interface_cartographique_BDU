@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	07		2001	02	07		a_été_remise	L'étape A de l'ESR a été remise à l'administration le 07/02/2001.		"l' ESR"
+2010	12	16		2010	12	16		complété	La société HIT bénéficie d'un arrêté préfectoral du 29/07/2010, complété le 16/12/2010.		'La société HIT'
+2000	12	31		2000	12	31		La_réalisation_du_diagnostic_initial	La réalisation du diagnostic initial et de l'évaluation simplifiée des risques (ESR) devait être effectuée avant le 31 décembre 2000 selon l'arrêté préfectoral du 21/09/1998.		
+2009	09	15		2009	09	15		Un_bilan_de_fonctionnement	Un bilan de fonctionnement de la société HIT a été transmis à l'administration le 15/09/2009.		'la société HIT'
+1998	09	21		1998	09	21		La_réalisation_du_diagnostic_initial	La réalisation du diagnostic initial et de l'évaluation simplifiée des risques (ESR) devait être effectuée avant le 31 décembre 2000 selon l'arrêté préfectoral du 21/09/1998.		
+2005	05	24		2005	05	24		a_été_délivré	Un récépissé de déclaration de changement d'exploitant a été délivré le 24/05/2005.		
+2010	07	29		2010	07	29		a_été_émis	Un arrêté préfectoral complémentaire modifiant l'arrêté du 04/10/1989 a été émis le 29/07/2010.		

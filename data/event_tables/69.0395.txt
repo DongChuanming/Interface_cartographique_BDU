@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	08	16		2016	08	16		la_cessation_d__activité	La société STEF Logistique a déclaré le 16 août 2016 la cessation d’activité de ses entrepôts situés dans le 7e arrondissement de Lyon conformément aux dispositions de l’article R512-46-25 du code de l’environnement.		'La société STEF Logistique'
+2018	07	19		2018	07	19		a_été_transmis	Ce mémoire a été transmis a posteriori les 19 juillet 2018 (caractérisation de l’état des milieux & suivi de travaux, analyse des risques résiduels) et 30 juillet 2018 (Plan de gestion).		
+2017				2017				a_fait_procéder_à_des_travaux_de_déconstruction	Fin 2017, la société STEF Logistique a fait procéder à des travaux de déconstruction et de dépollution, sans cependant avoir transmis à l’Inspection le mémoire de réhabilitation prévu à l’article R-512-46-27 du code de l’environnement.		'la société STEF Logistique'
+2018	04	10		2018	04	10		Campagne_d__analyse	Campagne d’analyse du 10 avril 2018  (après travaux de dépollution) :		
+2018	07	30		2018	07	30		a_été_transmis	Ce mémoire a été transmis a posteriori les 19 juillet 2018 (caractérisation de l’état des milieux & suivi de travaux, analyse des risques résiduels) et 30 juillet 2018 (Plan de gestion).		
+2017	04	06		2017	04	06		une_visite_d__inspection_a_eu_lieu	Afin d’acter la mise en sécurité du site, une visite d’inspection a eu lieu et a fait l’objet d’un rapport d’inspection en date du 6 avril 2017.		
+				2017	12			a_supervisé_les_opérations	Pour chaque zone identifiée, un ingénieur de ICF environnement a supervisé les opérations entre octobre et décembre 2017, et réalisé des analyses en fond de fouille.		'ICF environnement'
+2019	04	30		2019	04	30		est_transmis	Le dossier de SUP est transmis par l'exploitant le 30 avril 2019.		
+2017	09	25		2017	09	25		Campagne_d__analyse	Campagne d’analyse du 25 septembre 2017 (avant travaux de dépollution):		
+2018	07	19		2018	07	19		caractérisation_de_l__état_des_milieux	Ce mémoire a été transmis a posteriori les 19 juillet 2018 (caractérisation de l’état des milieux & suivi de travaux, analyse des risques résiduels) et 30 juillet 2018 (Plan de gestion).		
+								impose_la_transmission	Sur proposition de l'inspection, le préfet du Rhône encadre par arrêté complémentaire du 13 novembre 2018 la surveillance des eaux souterraines (durant 4 ans) et impose la transmission d'un dossier de SUP dans les 6 mois.		'le préfet du Rhône'
+2018	07	19		2018	07	19		analyse_des_risques_résiduels	Ce mémoire a été transmis a posteriori les 19 juillet 2018 (caractérisation de l’état des milieux & suivi de travaux, analyse des risques résiduels) et 30 juillet 2018 (Plan de gestion).		
+2017	04	06		2017	04	06		un_rapport_d__inspection	Afin d’acter la mise en sécurité du site, une visite d’inspection a eu lieu et a fait l’objet d’un rapport d’inspection en date du 6 avril 2017.		

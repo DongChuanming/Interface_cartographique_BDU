@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				un_diagnostic_initial	Sur le site de l’ancienne usine à gaz de Toulon , en classe 4 du protocole, ont été réalisés un diagnostic initial suivi d’un diagnostic approfondi, en 1995 et 1996.		
+2002				2002				Les_travaux_de_vidange_des_cuves_ont_été_réalisés	Les travaux de vidange des cuves ont été réalisés au premier semestre 2002.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1995				1995				un_diagnostic_initial	Sur le site de l’ancienne usine à gaz de Toulon , en classe 4 du protocole, ont été réalisés un diagnostic initial suivi d’un diagnostic approfondi, en 1995 et 1996.		
+1899				1965				a_accueilli	Il a une superficie d’environ 26000 m² et a accueilli de 1899 à 1965 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2004	04	14		2004	04	14		vidange_de_cuve_ont_été_envoyés	Le rapport parcellaire et le rapport de vidange de cuve ont été envoyés à la DRIRE le 14/04/2004.		'la DRIRE'
+2005	12	22		2005	12	22		finalisé	Le rapport finalisé le 22/12/2005, a conclu que le terrain était compatible avec son usage actuel d'agence EDF.		'agence EDF'

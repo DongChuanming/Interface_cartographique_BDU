@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				s__est_élevée	En 2012, la concentration en hydrocarbures dans le sondage S29 s’est élevée à 7600 mg/kg.	'hydrocarbures'	
+2012	06			2012	06			Le_diagnostic_environnemental	Le diagnostic environnemental réalisé en juin 2012 sur l’ensemble du site a conclu que :(voir plan-cartographique-44.0162--3.pdf)		
+2013	01	14		2013	01	14		la_cessation_d__activité	La SNCF a déclaré au préfet la cessation d’activité de l’entrepôt de messagerie le 14 janvier 2013.		'La SNCF'
+1989	08	04		1989	08	04		délivré_à	- un entrepôt soumis à autorisation (arrêté préfectoral d’autorisation délivré à la SNCF le 4/08/1989) (Bâtiment D Isover) ;		'D Isover'
+1989				1989				a_exploité	La SNCF a exploité des installations classées pour la protection de l’environnement sur son site de Nantes, au 41 boulevard de la Prairie au Duc, à partir de 1989. (voir plan-cartographique-44.0162--1.pdf)		'La SNCF'
+2012	11			2012	11			Des_travaux_de_démantèlement	Des travaux de démantèlement de l’ancienne station de distribution de carburant ont été réalisés en novembre 2012.	'carburant'	

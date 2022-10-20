@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	30		2006	10	30		son_dossier_de_cessation_d__activité	La Carrosserie Européenne a remise à la Préfecture de l'Isère son dossier de cessation d'activité en date du 30/10/2006.		'La Carrosserie Européenne'
+1978				1978				une_déclaration_d__installation	En 1978, le site a fait l'objet d'une déclaration d'installation d'une société de réparation automobile.		
+1988				1988				s__est_implanté	La Carrosserie Européenne s'est implanté sur le site en 1988.		'La Carrosserie Européenne'
+2006	10	30		2006	10	30		l__arrêt_définitif	La Carrosserie Européenne a mandaté la CETE APAVE SUREUROPE pour la réalisation d'un diagnostic de pollution des sols devant être réalisé avant l’arrêt définitif des activités du sites (30/10/2006).		'La Carrosserie Européenne', 'la CETE APAVE SUREUROPE'
+2007	03	31		2007	03	31		La_libération_des_locaux	La libération des locaux a été définie comme effective en date du 31/03/2007.		
+2006	10	30		2006	10	30		a_mandaté	La Carrosserie Européenne a mandaté la CETE APAVE SUREUROPE pour la réalisation d'un diagnostic de pollution des sols devant être réalisé avant l’arrêt définitif des activités du sites (30/10/2006).		'La Carrosserie Européenne', 'la CETE APAVE SUREUROPE'

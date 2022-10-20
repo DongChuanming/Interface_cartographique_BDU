@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				2001				des_études	Des études de sols ont été menées entre 1993 et 1996, conduisant à des études portant sur la réhabilitation menées entre 1996 et 2001.		
+								Le_PV_de_récolement	Le PV de récolement a été rédigé par l’inspection le 11/07/03.		
+1992				1992				et_ayant_cessé_son_activité	Il s'agit d'une friche implantée au PONTET, résultant de l'activité d'une usine d'engrais depuis le début du XXème siècle (REALPANIER) et ayant cessé son activité en 1992.		'REALPANIER'
+1993				1996				Des_études_de_sols	Des études de sols ont été menées entre 1993 et 1996, conduisant à des études portant sur la réhabilitation menées entre 1996 et 2001.		
+1992				1992				l__arrêt_des_activités	Suite à l’arrêt des activités de la société RENO en 1992, la DRIRE a rappelé à l’exploitant ses obligations en matière de remise en état du site.		'la société RENO', 'la DRIRE'
+				2008				a_été_prolongée	La surveillance des eaux souterraines, initialement prescrite par arrêté préfectoral du 12/08/99, a été prolongée jusqu'en 2008 par arrêté du 23/03/2005.		
+								a_été_prolongée	La surveillance des eaux souterraines, initialement prescrite par arrêté préfectoral du 12/08/99, a été prolongée jusqu'en 2008 par arrêté du 23/03/2005.		
+1978				1978				a_été_scindé_en	Ce site industriel, à l'origine propriété de la Société Industrielle de REALPANIER, a été scindé en deux terrains à partir de 1978.		'la Société Industrielle de REALPANIER'
+1999	02			1999	02			a_été_exploitée	La partie Nord a été exploitée par AGRICOLA (Ex REALPANIER), qui a été absorbé par L'ABEILLE en Février 1999, et la partie Sud par RENO.		'AGRICOLA', 'REALPANIER', "L' ABEILLE", 'RENO'

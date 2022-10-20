@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959				1959				a_été_liquidée	La société des Mines de Bouxwiller à l’origine des dépôts, a été liquidée et a disparu depuis 1959.		'La société des Mines de Bouxwiller'
+1998				1998				a_été_réalisée	Une recherche documentaire et historique, complétée par des analyses de sols, a été réalisée en 1998 par le BRGM à la demande de l’administration en vue de déterminer le responsable et d’établir le diagnostic initial du site.		'le BRGM'
+1959				1959				a_disparu	La société des Mines de Bouxwiller à l’origine des dépôts, a été liquidée et a disparu depuis 1959.		'La société des Mines de Bouxwiller'

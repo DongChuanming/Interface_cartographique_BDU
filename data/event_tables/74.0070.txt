@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12	31		1996	12	31		imposant_la_fermeture_définitive	Elle a fait l'objet d'un AP du 26 juin 1996 imposant la fermeture définitive au 31 décembre 1996.		
+2001	06			2001	06			Une_étude_documentaire	Une étude documentaire de juin 2001 réalisée par GEOARVE présente une expertise hydrogéologique réalisée le 24 juin 2001 par E.		'GEOARVE'
+2001	06	24		2001	06	24		présente_une_expertise_hydrogéologique	Une étude documentaire de juin 2001 réalisée par GEOARVE présente une expertise hydrogéologique réalisée le 24 juin 2001 par E.		'GEOARVE'
+2006	01	20		2006	09	20		la_réhabilitation	L'AP du 2 décembre 2005 autorise l'entreprise DESCOMBES Père & Fils à fournir et transporter un volume de 13 000 m3 de matériaux inertes en provenance de Genève (Suisse) nécessaire à la réhabilitation de la décharge du 20 janvier 2006 au 20 septembre 2006.		'DESCOMBES'
+1994				1996				a_accueilli	De 1994 à 1996, la décharge a accueilli une partie des ordures ménagères du canton de Reignier.	'ordures ménagères'	
+1965				1965				exploite	La commune de Nangy entretient et exploite la décharge depuis 1965 (sans autorisation).		
+1996	12	31		1996	12	31		a_fait_l__objet_d_	Elle a fait l'objet d'un AP du 26 juin 1996 imposant la fermeture définitive au 31 décembre 1996.		
+1991				1991				ont_été_confrontés_à	Les employés communaux ont été confrontés à plusieurs départs de feu, notamment dans les pneumatiques en 1991.		
+2001	12			2001	12			Un_diagnostic_environnemental	Un diagnostic environnemental de décembre 2001 réalisé par GEOARVE fait état d'une contamination dans le piézomètre profond en aluminium (45,7 mg/L pour une valeur seuil de 0,2 mg/L) et en chrome (0,09 mg/L pour une valeur seuil de 0,05 mg/L).	'aluminium', 'chrome'	'GEOARVE'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02			2008	02			sont_implantés	En février 2008, deux piézomètres (Pz) complémentaires sont implantés sur demande de la DRIRE.		'la DRIRE'
+								est_créée	Dans les années 1970, la station service est créée.		
+2006	11	27		2006	11	27		déclare_sa_cessation_d_	Le 27 novembre 2006, la direction d’Auchan déclare sa cessation d’activité, ayant implanté une station plus moderne sur le boulevard Clémentel.		
+2007	06			2007	06			le_chantier_de_suppression	En juin 2007, le chantier de suppression des cuves a lieu.		
+1999				1999				est_délivré	En 1999, un récépissé de déclaration est délivré à Auchan lors de la reprise de l’enseigne.		
+2007	08			2007	08			est_implanté	En août 2007, afin de vérifier que l'eau souterraine n'est pas impactée, 1 piézomètre à 12 m de profondeur est implanté à proximité du dépotage.		
+1972				1974				sont_installées_en_complément_de	Entre 1972 et 1974, des cuves sont installées en complément de celles existantes.		

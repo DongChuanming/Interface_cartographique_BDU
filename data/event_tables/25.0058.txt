@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04	04		2014	04	04		Un_diagnostic_environnemental	Un diagnostic environnemental a été produit le 4 avril 2014 pour le permis de construire d'un nouveau projet sur la construction d'un magasin Intermarché à Beure du site.		
+2013	01	25		2013	01	25		a_été_envoyé	Un courrier pour demander à THEVENIN DUCROT de fournir une interprétation de l'état des milieux (IEM) a été envoyé le 25 janvier 2013 et le 18 février 2015 mais toujours rien reçu.		'THEVENIN DUCROT'
+2004				2004				est_mise_à_l__arrêt	Elle est mise à l'arrêt depuis 2004.		
+				2015	02	18		a_été_envoyé	Un courrier pour demander à THEVENIN DUCROT de fournir une interprétation de l'état des milieux (IEM) a été envoyé le 25 janvier 2013 et le 18 février 2015 mais toujours rien reçu.		'THEVENIN DUCROT'
+2004				2004				a_été_mis_en_sécurité	Le site a été mis en sécurité au cours du second semestre 2004 avec l'enlèvement du poste de chargement, l'évacuation des produits restants, le nettoyage et dégazage des cuves et tuyauteries, et le démantèlement de l'ensemble des infrastructures pétrolières.		
+2005	11	02		2005	11	02		des_investigations_réalisées	Les résultats des investigations réalisées le 2 novembre 2005 sur le dépôt pétrolier AVIA ont mis en évidence		'dépôt pétrolier AVIA'
+2004				2004				a_été_mis_à_l__arrêt	Le dépôt pétrolier AVIA a été mis à l'arrêt depuis 2004.		'Le dépôt pétrolier AVIA'

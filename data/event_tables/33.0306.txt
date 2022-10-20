@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03	11		2011	03	11		son_intervention	Le 07/03/2011, l'IRSN informe l'exploitant de son intervention du 11/03/2011 sur site pour la réalisation de la cartographe de surface des terrains.		
+2009	01	06		2009	01	06		un_procès_verbal_de_récolement	Les polluants chimiques ont pu faire l'objet d'un programme d'intervention acté par un procès verbal de récolement en date du 06 janvier 2009 pour les parcelles AH 243 et AH 245.	'Les polluants chimiques'	
+2010	04	06		2010	04	06		La_visite	La visite d'inspection du 06/04/2010 montre par ailleurs l'accessibilité du site ainsi que la mise en décharge de déchets ménagers divers.		
+2011	03	07		2011	03	07		informe	Le 07/03/2011, l'IRSN informe l'exploitant de son intervention du 11/03/2011 sur site pour la réalisation de la cartographe de surface des terrains.		
+2016	03	24		2016	03	24		dépose_une_demande_de_permis	Le 24/03/2016, GIRONDE HABITAT dépose une demande de permis de construire 10 logements semi-collectifs T2 et T3 en locatif sur 1710 m2.		'GIRONDE HABITAT'
+2013	05	23		2013	05	23		La_visite_de_récolement	La visite de récolement du 23/05/2013 fait état des constats suivants sur la parcelle libérée cadastrée AH 243 :		
+2008	01	21		2008	01	21		déclare_la_cessation_définitive_d__activité	L'exploitant ne donne pas suite et déclare la cessation définitive d'activité le 21/01/2008.		
+2013	06	21		2013	06	21		Le_procès_verbal_de_récolement	Le procès-verbal de récolement est dressé le 21 juin 2013.		
+1972				2001				__a_été_utilisée	Propriété de l'indivision NAVARRA, la parcelle initialement référencée AH 144, d'une superficie de 3,5ha  et située rue du Val de l'Eyre à MARCHEPRIME, a été utilisée de façon illicite, de 1972 à 2001, comme plate-forme de stockage, regroupement et de tri de déchets dangereux ou non dangereux, matériaux et produits divers, récupérés dans le cadre de l'activité de leur société (S.	'de déchets dangereux'	'NAVARRA'
+2013	05	23		2013	05	23		la_visite_de_récolement	La conclusion de la visite de récolement du 23/05/2013 est la suivante :		
+2018	01	15		2018	01	15		Un_PV_de_récolement	Un PV de récolement a donc été proposé le 15 janvier 2018.		
+2013	06	20		2013	06	20		a_donnée_son_accord	Par courrier du 20 juin 2013, la mairie de MARCHEPRIME a donnée son accord sur l'usage prévu, la remise en état du site, sous réserve de l'accomplissement par le propriétaire actuel (indivision NAVARRA) de la dépollution du terrain dans son intégralité.		'la mairie', 'NAVARRA'
+2010	04	15		2010	04	15		prescriptions_additionnelles	Les investigations complémentaires devant permettre de répondre à l'obligation de réhabilitation des terrains présentant une contamination radioactive, ont fait l'objet de prescriptions additionnelles du 15 avril 2010.		
+2010	04	10		2010	04	10		la_découverte	Suite à la découverte de deux nouvelles zones radiocontaminées, le 10/04/2010, l'arrêté préfectoral pris en urgence le 15/04/2010, prescrit :		
+2010	04	15		2010	04	15		pris_en_urgence	Suite à la découverte de deux nouvelles zones radiocontaminées, le 10/04/2010, l'arrêté préfectoral pris en urgence le 15/04/2010, prescrit :		
+2013	06	21		2013	06	21		PV_de_récolement_fait	PV de récolement fait 21 juin 2013		

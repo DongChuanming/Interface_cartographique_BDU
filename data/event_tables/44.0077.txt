@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_réalisation_de_contrôles_périodiques_a_été_pris	Un arrêté imposant des prescriptions complémentaires relatives à la mise en place d'un réseau de surveillance des eaux souterraines et à la réalisation de contrôles périodiques a été pris le 12 aout 2002.		
+2012	12			2012	12			un_diagnostic	Dans le cadre de la cessation d'activité du site localisé dans la zone industrielle de Tabari, un diagnostic de l'état des milieux a été réalisé en décembre 2012.		
+2013	11	21		2013	11	21		réalisé	Le suivi piézométrique réalisé le 21 novembre 2013 montre que la quantité de pesticides est inférieure à la limite de qualité pour l’eau potable.		
+2002				2002				la_réalisation_de_contrôles_périodiques_a_été_pris	Un arrêté imposant des prescriptions complémentaires relatives à la mise en place d'un réseau de surveillance des eaux souterraines et à la réalisation de contrôles périodiques a été pris le 12 aout 2002.		
+2013	06	17		2013	06	17		a_adressé	Par courrier du 17 juin 2013, l'exploitant a adressé à la préfecture le rapport concernant les actions mises en œuvre afin de respecter les dispositions prévues par le code de l'environnement (mise en sécurité du site, évacuation des déchets, suppression des risques d'incendie et d'explosion).		
+2003	02	02		2003	02	02		a_acheté	WOLSELEY FRANCE BOIS ET MATÉRIAUX a acheté la société PINAULT le 2 février 2003.		'WOLSELEY FRANCE BOIS ET MATÉRIAUX', 'la société PINAULT'
+2014	11			2014	11			a_été_engagé	Pour la pollution ponctuelle des sols (ancienne cuve à carburants), un plan de gestion a été engagé en novembre 2014.	'carburants'	
+2014	04	28		2014	04	28		Une_visite	Une visite du site et des bâtiments a été réalisée lors de l’inspection du 28 avril 2014.		
+2014	04	28		2014	04	28		de_l__inspection	Une visite du site et des bâtiments a été réalisée lors de l’inspection du 28 avril 2014.		
+1997	09	03		1997	09	03		a_racheté	Le 3 septembre 1997, la société PINAULT a racheté le groupe BECOB.		'la société PINAULT', 'le groupe BECOB'
+2012	12	14		2012	12	14		a_déclaré_la_cessation_de_ses_activités	L'exploitant WOLSELEY a déclaré la cessation de ses activités auprès de la préfecture par courrier du 14 septembre 2012 pour une fermeture définitive de l'installation à compter du 14 décembre 2012.		'WOLSELEY'
+2018	05			2018	05			Les_dernières_mesures_réalisées	Les dernières mesures réalisées en mai 2018 sur les eaux souterraines font apparaître une situation normale au regard des pesticides et des hydrocarbures.	'pesticides', 'hydrocarbures'	

@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				sont_mis_en_place	Les piézomètres sont mis en place en 2002.		
+2008	05			2008	05			est_remis	Ce rapport est remis en mai 2008 et montre :		
+2009	07	24		2009	07	24		informe	Le 24/07/2009, le maire de Bazas informe le Préfet que la dépollution n'a pas été effectuée malgré une relance.		'le Préfet'
+2003	12	09		2003	12	09		déclare_procéder_à_la_cessation_définitive_d__activité	Par courriers des 20 octobre 2003 et 09 décembre 2003, l'exploitant déclare procéder à la cessation définitive d'activité sur le site de Bazas au 23 décembre 2003.		
+2003	10	08		2003	10	08		La_visite_d__inspection	La visite d'inspection du 08 octobre 2003 permet de constater une situation très dégradée vis à vis des règles élémentaires de sécurité et de protection de l'environnement.		
+2008	09	22		2008	09	22		est_racheté	Le site est racheté par la société FIXATION BAZAS le 22/09/2008.		'la société FIXATION BAZAS'
+2009	09			2009	09			PENA_devait_intervenir	Selon courrier du maire de Bazas du 13/08/2009, la société PENA devait intervenir en septembre 2009.		'la société PENA'
+2000				2000				ont_été_abandonnés	Les traitements à base de cyanures ont été abandonnés en 2000.	'cyanures'	
+2003	10	20		2003	10	20		déclare_procéder_à_la_cessation_définitive_d__activité	Par courriers des 20 octobre 2003 et 09 décembre 2003, l'exploitant déclare procéder à la cessation définitive d'activité sur le site de Bazas au 23 décembre 2003.		
+1993	05	06		1993	05	06		ont_été_autorisées	Les installations ont été autorisées par l'arrêté préfectoral du 06/05/1993.		
+2005	09			2005	09			L__excavation	L'excavation de terres de l'ancienne zone de brûlage est réalisée en septembre 2005.		
+2007	11			2007	11			s__engage_à_constituer	Le 03/08/2007, l'exploitant s'engage à constituer le dossier de cessation d'activité accompagné du diagnostic approfondi des sols pour fin novembre 2007.		
+2000				2000				la_remise_en_conformité	Entreprise de traitement de surface dont la remise en conformité au titre des installations classées a lieu début 2000.		
+2011	03	17		2011	03	17		Une_visite_des_lieux	Une visite des lieux conjointe DREAL/ADEME est organisée le 17 mars 2011.		'DREAL'
+2008	09	22		2008	09	22		informe	Par courrier du 22 septembre 2008, la société TESTOUIL SA informe l’inspecteur des installations classées de la vente par la SCI TESTE à la société FIXATION BAZAS, du bâtiment à usage industriel avec ses dépendances et du terrain d’assiette, pour une superficie totale de 7970 m2 et joint l'acte de Vente.		'la société TESTOUIL SA', 'la SCI TESTE', 'la société FIXATION BAZAS'
+2000				2000				en_fin_d_	Les études remises en fin d'année 2000 classent le site en 1, nécessitant des investigations complémentaires.		
+2009	12	28		2009	12	28		clôturée_par_jugement	La procédure de liquidation est clôturée par jugement du Tribunal de Commerce du 28 décembre 2009.		
+2009	07	03		2009	07	03		Un_devis	Un devis d'un montant de 30 253 € estimé de la société PENA est présenté le 03/07/2009 pour l'évacuation de :		'la société PENA'
+2007	08	03		2007	08	03		s__engage_à_constituer	Le 03/08/2007, l'exploitant s'engage à constituer le dossier de cessation d'activité accompagné du diagnostic approfondi des sols pour fin novembre 2007.		
+2009	09	29		2009	09	29		informe	Le 29/09/2009, l'avocat de l'ancien exploitant informe la DRIRE de la liquidation judiciaire de la société TESTOUTIL SAS par jugement en date du 18/06/2008 qui désigne Maître MANDON en qualité de Mandataire-liquidateur.		'la DRIRE', 'la société TESTOUTIL SAS', 'Maître MANDON'
+2000	01	12		2000	01	12		Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques (ESR) sont prescrits par l'arrêté du 12 janvier 2000.		
+2003	12	23		2003	12	23		déclare_procéder_à_la_cessation_définitive_d__activité	Par courriers des 20 octobre 2003 et 09 décembre 2003, l'exploitant déclare procéder à la cessation définitive d'activité sur le site de Bazas au 23 décembre 2003.		
+2008	06	18		2008	06	18		ordonne_la_liquidation_judiciaire	Par jugement du 18 juin 2008, le Tribunal de Commerce de Bordeaux ordonne la liquidation judiciaire la société TESTOUTIL et nomme la SELARL Laurent Mayon en qualité de mandataire-liquidateur.		'le Tribunal de Commerce de Bordeaux', 'la société TESTOUTIL', 'la SELARL Laurent Mayon'

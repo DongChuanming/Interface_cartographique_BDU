@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_servi	Le site a servi, au début des années 1970, de décharge de résidus industriels (AP d’autorisation des 15/11/1971 et 12/12/1972 pour une durée de 6 mois) exploitée par la société SOPROVID puis, à partir de 1973, par la société SOMIDI.	'décharge de résidus industriels'	'la société SOPROVID', 'la société SOMIDI'
+1974	07	25		1974	07	25		reçoit	Le 25/07/1974, SOMIDI reçoit l'autorisation d'exploiter une usine d'incinération sur le site.		'SOMIDI'
+2011				2011				Les_analyses	Les analyses de 2011 montrent une pollution en: Benzène, Plomb, Arsenic, Phénols, Hydrocarbures Chlorés Organiques Volatils, Chlorobenzènes, Chlorophénols, Huiles minérales.	'Benzène', 'Plomb', 'Arsenic', 'Phénols', 'Hydrocarbures Chlorés Organiques Volatils', 'Chlorobenzènes', 'Chlorophénols', 'Huiles'	
+1973				1973				a_servi	Le site a servi, au début des années 1970, de décharge de résidus industriels (AP d’autorisation des 15/11/1971 et 12/12/1972 pour une durée de 6 mois) exploitée par la société SOPROVID puis, à partir de 1973, par la société SOMIDI.	'décharge de résidus industriels'	'la société SOPROVID', 'la société SOMIDI'
+2000	12	12		2000	12	12		Certains_travaux_ont_été_effectués	Certains travaux ont été effectués en date du 12/12/2000 notamment la mise en sécurité du site, le démantèlement et l'évacuation de l'ancienne usine d'incinération.		
+1978				1978				a_cessé_et	L'exploitation a cessé et en 1978.		

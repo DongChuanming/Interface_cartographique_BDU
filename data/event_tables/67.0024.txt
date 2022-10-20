@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01			2001	01			sont_à_l__arrêt	Depuis janvier 2001, les activités de traitement de surface de la société MECAREX sont à l'arrêt.		'la société MECAREX'
+1973				1973				un_incendie_survenu	- d'un incendie survenu en 1973 ;		
+2016	12	13		2016	12	13		de_la_visite_d__inspection	Par ailleurs, il a été constaté lors de la visite d'inspection du 13 décembre 2016 la présence de trois transformateurs au PCB sur le site.	'PCB'	
+2016				2016				a_ensuite_été_engagée	Une procédure de consignation a ensuite été engagée au printemps 2016.		
+2015	06	24		2015	06	24		la_cessation_d__activité	L'exploitant a déclaré par courrier du 24 juin 2015 la cessation d'activité de son installation de traitement de surface des métaux pour laquelle il était classé au titre de la législation des ICPE.		
+1957	03	27		1957	03	27		de_déclaration	Récépissé de déclaration n°3 997 du 27 mars 1957 visant les activités de dégraissage au trichloroéthylène (solvant chloré) et le traitement électrolytique à chaud des métaux par nickelage.	'trichloroéthylène', 'solvant chloré', 'nickelage'	
+1995	05	15		1995	05	15		un_diagnostic_approfondi	Vu l'arrêté préfectoral du 15 mai 1995, un diagnostic approfondi a été réalisé la même année.		

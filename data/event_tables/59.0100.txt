@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2009				ont_été_excavées	De Mars à Aout 2009, 1250m3 de terres ont été excavées et déplacées de la zone polluée vers 6 andains.		
+2009	06			2009	06			ont_été_atteints	En Juin 2009, les objectifs de dépollution des sols fixés à 500mg/kg de MS en hydrocarbures totaux ont été atteints.	'hydrocarbures totaux'	
+2012	02			2012	02			diagnostic_environnemental	Total a vérifié l’absence de source sols sur les zones du site n’ayant pas fait l’objet de travaux d’investigation (diagnostic environnemental de février 2012)		
+1999				1999				de_sa_cessation_d__activité	- Le site a fait l’objet d’une déclaration de cessation d’activité en bonne et due forme lors de sa cessation d’activité en 1999.		
+2007	10			2007	10			ont_été_mises_en_place	Afin de limiter ces ajustements et réparations et permettre un meilleur pompage dans les ouvrages, de nouvelles pompes ont été mises en place début octobre 2007.		
+2009	11			2009	11			les_travaux_de_dépollution	En Novembre 2009, les travaux de dépollution des sols sont achevés.		
+2002	02	01		2002	02	01		imposé	- surveillance piezométrique imposé par voie d'arrêté le 01/02/2002.		
+2008	01	29		2008	01	29		a_été_créé	Un nouveau piézomètre, PZM a été créé le 29 janvier 2008 en limite aval du site.		
+2007	10			2007	10			la_campagne_d_	- l’absence d’hydrocarbures et BTEX dissous (teneurs inférieures aux seuils de détection) pour la campagne d’octobre 2007 en PZK situé en aval de PZL.	'hydrocarbures', 'BTEX'	
+2012	02			2012	02			a_vérifié	Total a vérifié l’absence de source sols sur les zones du site n’ayant pas fait l’objet de travaux d’investigation (diagnostic environnemental de février 2012)		
+2012	07			2012	07			une_dégradation	A l’échelle du site, on observe en Décembre 2011 une nette amélioration de la qualité de la nappe pour les hydrocarbures totaux et les BTEX, puis une dégradation en Juillet 2012 au centre du site, sur le côté et également en aval du site.	'hydrocarbures totaux', 'les BTEX'	
+2008	04			2008	04			est_prévue	Une première campagne de surveillance des eaux souterraines suite au démarrage de la bio stimulation est prévue en avril 2008.		
+2012	02			2012	02			de_travaux_d__investigation	Total a vérifié l’absence de source sols sur les zones du site n’ayant pas fait l’objet de travaux d’investigation (diagnostic environnemental de février 2012)		
+1994				1994				sols_réalisée	- Etude des sols réalisée en 1994.		
+2005	11	22		2005	11	22		prescrit_par	Le diagnostic approfondi,prescrit par arrêté préfectoral le 22/11/2005, a été réalisé sur le site.		
+2007	06			2007	06			Le_traitement	Le traitement de la nappe actuellement mis en place sur le site depuis le mois de juin 2007 est le suivant :		
+2010	09	01		2010	09	01		reçu	11 Juillet 2008 : Arrêté préfectoral imposant la mise en œuvre d’un plan de gestion pour assurer la dépollution du site (plan de gestion reçu le 01/09/2010)		
+2012	09			2012	09			l__écrémage_initié	Compte tenu de la forte diminution de la phase libre surnageante, l’écrémage initié en Septembre 2012 n’est pas à poursuivre.		
+2008	03	17		2008	03	17		Bilan	Bilan du dispositif de traitement de la nappe au 17 mars 2008		
+1999				1999				une_déclaration_de_cessation_d__activité	- Le site a fait l’objet d’une déclaration de cessation d’activité en bonne et due forme lors de sa cessation d’activité en 1999.		
+2008	01			2008	01			La_phase_de_bio_stimulation	La phase de bio stimulation des eaux souterraines par injection de peroxyde d’hydrogène dilué a démarré en janvier 2008 sur les ouvrages PZA, PAI, PZJ et ponctuellement au droit de PZL.	'peroxyde d’ hydrogène'	
+								Traitement_par_venting	- Traitement par venting réalisé entre juillet 95 et juillet 96.		
+1993				1993				une_pollution_chronique	identifiées une pollution chronique et une pollution accidentelle en 1993 qui a mis en jeu		

@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			de_la_campagne	Lors de la campagne de novembre 2011, l'ensemble des paramètres recherchés sont inférieurs au seuil de quantification sur le piézomètre situé en amont hydraulique.		
+2008	07			2008	07			Une_nouvelle_campagne_de_mesures_diligentée	Une nouvelle campagne de mesures diligentée en juillet 2008 n'a pas permis de confirmer la présence de ces traces d'hydrocarbures.	"la présence de ces traces d' hydrocarbures"	
+2011	05			2011	05			La_campagne_de	La campagne de mai 2011 fait ressortir la présence d'hydrocarbures et de cuivre sur le piézomètre amont.	'hydrocarbures', 'cuivre'	
+2013	03			2013	03			la_campagne	Les traces de bore sont toujours détectées sur les 3 piézomètres avals lors de la campagne de mars 2013.	'bore'	
+2007	07	23		2007	07	23		a___par_courrier	Au regard des résultats d'analyses, M. le Préfet de la Gironde a, par courrier du 23 juillet 2007, autorisé l'exploitant à réduire la recherche analytique aux paramètres suivants : propiconazole, HCT, bore, cuivre, température, pH et conductivité.	'propiconazole', 'HCT', 'bore', 'cuivre'	'le Préfet', 'la Gironde'
+2007	10			2007	10			La_campagne_d_	La campagne d'octobre 2007 confirme l'existence de traces de bore et de cuivre en aval hydraulique.	'bore', 'cuivre'	
+2009	11			2009	11			ne_sont_plus_détectés	Les hydrocarbures et le bore ne sont plus détectés lors de la campagne de novembre 2009.	'Les hydrocarbures', 'bore'	
+2009	04			2009	04			la_campagne_d_	Excepté sur un piézomètre aval, la campagne d'avril 2009 confirme la présence d'hydrocarbures, en baisse cependant.	'hydrocarbures'	
+2011	06	15		2011	06	15		a_été_autorisée	Cette installation a été autorisée par arrêté préfectoral du 25 janvier 1983 abrogé et remplacé par celui du 15 juin 2011.		
+2004	03	15		2004	03	15		ont_été_remises	Les études ont été remises le 15 mars 2004 et le 8 juillet 2005 (ESR).		
+2008	11			2008	11			La_campagne_de	La campagne de novembre 2008 met notamment en évidence des teneurs en hydrocarbures et propiconazole sur l'ensemble des piézomètres, y compris celui situé en amont hydraulique.	'hydrocarbures', 'propiconazole'	
+2009	11			2009	11			la_campagne	Les hydrocarbures et le bore ne sont plus détectés lors de la campagne de novembre 2009.	'Les hydrocarbures', 'bore'	
+2007	04			2007	04			Les_campagnes_de	Les campagnes de décembre 2004, d'octobre 2006 et avril 2007 montrent l'absence d'impact.		
+2012	04			2012	04			la_campagne_d_	Les traces de bore sont confirmées sur les 3 piézomètres avals lors de la campagne d'avril 2012.	'bore'	
+2006	10			2006	10			Les_campagnes_de	Les campagnes de décembre 2004, d'octobre 2006 et avril 2007 montrent l'absence d'impact.		
+2010	05			2010	05			de_la_campagne	Lors de la campagne de mai 2010, des traces de propiconazole sont décelées sur un seul piézomètre aval.	'propiconazole'	
+2008	06			2008	06			La_campagne	La campagne de juin 2008 confirme ces constats auxquels il y a lieu d'ajouter la détection d'hydrocarbures sur un piézomètre situé en aval hydraulique.	'hydrocarbures'	
+2012	11			2012	11			sont_mesurées	De même, des traces de bore sont mesurées sur les 3 piézomètres avals lors de la campagne de novembre 2012.	'bore'	
+2010	11			2010	11			situés_en_aval_hydraulique_lors_de_la_campagne	Des traces de bore sont décelées sur 2 piézomètres situés en aval hydraulique lors de la campagne de novembre 2010.	'bore'	
+2012	11			2012	11			la_campagne	De même, des traces de bore sont mesurées sur les 3 piézomètres avals lors de la campagne de novembre 2012.	'bore'	
+2004	12			2004	12			Les_campagnes_de	Les campagnes de décembre 2004, d'octobre 2006 et avril 2007 montrent l'absence d'impact.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				est_implantée	* L'usine UMO qui fabrique 35 000 t d'oxyde de zinc par an est implantée depuis 1992 au sein d'une zone d'aménagement concerté de la ville La Ciotat.	'oxyde de zinc'	'UMO'
+2002	12	31		2002	12	31		a_cessé_son_activité	* Elle a cessé son activité le 31/12/2002		
+1992	08	17		1992	08	17		est_autorisée	* Elle traite comme matière première du zinc de récupération (28 000 t / an) elle est autorisée par AP du 17 août 1992.	'zinc de récupération'	
+2002				2002				l__arrêt	* Le dossier de cessation d'activité ( suite à l'arrêt fin 2002) a été déposé; le récolement effectué.		

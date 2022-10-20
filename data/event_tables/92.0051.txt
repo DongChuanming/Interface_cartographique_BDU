@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_transmis	La société TRAPIL a transmis par courrier daté du 9 juillet 1999 un mémoire de cessation d'activité comprenant plusieurs diagnostics environnementaux réalisés par la société GESTER en 1998 et 1999.		'La société TRAPIL', 'la société GESTER'
+2010	12			2010	12			a_également_été_mis_en_place	Un système de traitement par extraction sous vide a également été mis en place de décembre 2010 à décembre 2011, en conformité avec le courrier préfectoral du 09/06/2010.		
+1998				1998				ont_pris_fin	Ancien dépôt pétrolier dont les activités ont pris fin en 1998.		
+1998				1998				réalisés_par	La société TRAPIL a transmis par courrier daté du 9 juillet 1999 un mémoire de cessation d'activité comprenant plusieurs diagnostics environnementaux réalisés par la société GESTER en 1998 et 1999.		'La société TRAPIL', 'la société GESTER'
+2011	12			2011	12			a_également_été_mis_en_place	Un système de traitement par extraction sous vide a également été mis en place de décembre 2010 à décembre 2011, en conformité avec le courrier préfectoral du 09/06/2010.		
+1998				1998				a_transmis	La société TRAPIL a transmis par courrier daté du 9 juillet 1999 un mémoire de cessation d'activité comprenant plusieurs diagnostics environnementaux réalisés par la société GESTER en 1998 et 1999.		'La société TRAPIL', 'la société GESTER'
+1999				1999				réalisés_par	La société TRAPIL a transmis par courrier daté du 9 juillet 1999 un mémoire de cessation d'activité comprenant plusieurs diagnostics environnementaux réalisés par la société GESTER en 1998 et 1999.		'La société TRAPIL', 'la société GESTER'
+				2016				a_ensuite_été_mis_en_place	Un écrémage passif a ensuite été mis en place jusqu'à fin 2016.		
+1999				1999				ont_été_excavées	Les terres les plus impactées ont été excavées en 1999 (envoi de 600 tonnes en centre de traitement agréé).		
+2017	08	29		2017	08	29		procès_verbal_de_récolement	Un procès-verbal de récolement a été dressé par l'inspection le 29/08/2017.		
+2010	06	09		2010	06	09		a_également_été_mis_en_place	Un système de traitement par extraction sous vide a également été mis en place de décembre 2010 à décembre 2011, en conformité avec le courrier préfectoral du 09/06/2010.		
+1999	10	29		1999	10	29		a_été_encadrée_par	Sur la base de ce mémoire, la réhabilitation du site a été encadrée par l'arrêté préfectoral du 29 octobre 1999.		
+2012	06	28		2014	12	03		a_été_mis_en_œuvre	Un traitement des eaux souterraines par extraction multi-phase a été mis en œuvre du 28/06/2012 au 03/12/2014.		
+1998	09	23		1998	09	23		la_cessation_de_ses_activités	Par courrier du 23 septembre 1998, la société TRAPIL a notifié la cessation de ses activités à compter du 13 août 1998.		'la société TRAPIL'

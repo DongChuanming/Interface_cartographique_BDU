@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_adressé	Un dossier de cessation d'activité a été adressé au préfet en 2009.		'préfet'
+1995				1995				ont_remplacé	En 1995, deux nouveaux piézomètres ont remplacé deux piézomètres colmatés.		
+2009				2009				a_transmis	L'exploitant a transmis en 2009 une étude sanitaire, des compléments ont été demandés.		
+1993				1993				Une_étude_réalisée	Une étude réalisée en 1993 a démontré que la possibilité d'un impact de la décharge sur la nappe superficielle du Cuisien ne peut être écartée et qu'il convient donc de poursuivre le contrôle de la qualité des eaux en amont et aval sur les paramètres NO2, NO3, DCO et DBO5, sulfate et potassium.	'NO2 , NO3 , DCO', 'DBO5', 'sulfate'	
+2003				2003				ne_recoit_plus_de_déchets	La décharge ne recoit plus de déchets depuis 2003.		

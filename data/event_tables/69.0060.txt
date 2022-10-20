@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	21		1999	07	21		Les_études_de_sol	Les études de sol ont été prescrites par arrêté préfectoral du 12/08/1998 modifié par arrêté  Préfectoral du 21/07/1999.		
+1996	04	03		1996	04	03		prévoyant_la_réalisation_de_diagnostics_initiaux	Le site "METALEUROP", a été choisi parmi les sites répondant à la circulaire du 03/04/1996 prévoyant la réalisation de diagnostics initiaux et de l'évaluation simplifiée des risques sur les sites industriels en activité. 165 entreprises ont été proposées en Rhône-Alpes.		'Le site " METALEUROP "'
+2003	01	08		2003	01	08		une_analyse	Elle a fait l'objet d'une analyse critique par l'INERIS dont le rapport correspondant a été transmis à l'Administration le 8 janvier 2003.		"l' INERIS"
+1996	04	03		1996	04	03		répondant_à	Le site "METALEUROP", a été choisi parmi les sites répondant à la circulaire du 03/04/1996 prévoyant la réalisation de diagnostics initiaux et de l'évaluation simplifiée des risques sur les sites industriels en activité. 165 entreprises ont été proposées en Rhône-Alpes.		'Le site " METALEUROP "'
+2003	01	08		2003	01	08		a_été_transmis	Elle a fait l'objet d'une analyse critique par l'INERIS dont le rapport correspondant a été transmis à l'Administration le 8 janvier 2003.		"l' INERIS"
+								établir	Un arrêté préfectoral du 15 décembre 2003 demande à la Sté METALEUROP d'établir sous 3 mois un projet de servitudes d'utilité publique.		'la Sté METALEUROP'
+2001	01	10		2001	01	10		L__évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques réalisée le 10/01/2001 aboutit à un site classé 2 pour le milieu eaux souterraines et 1 pour le milieu sol.		
+2002	08	06		2002	08	06		a_été_transmise	L’Étude Détaillée des Risques a été transmise à l'administration le 6 août 2002.		
+1998	03	23		1998	03	23		modifie_l__arrêté	Un arrêté préfectoral du 04 juillet 2007 modifie l'arrêté du 23 mars 1998 et demande à l'exploitant de fournir des analyses d'eaux souterraines a minima 2 fois par an par l'intermédiaire 6 piézomètres en place.		
+2001	12	1		2001	12	1		est_définitivement_arrêtée	Cette activité est définitivement arrêtée depuis le 1er décembre 2001.		
+1999	12	29		1999	12	29		a_été_transmis	Le diagnostic a été transmis à l'administration dans les délais prescrits, le 29/12/1999.		
+2003	03			2003	03			a_été_donné	Un avis critique complémentaire a été donné en mars 2003.		
+2001	03	20		2001	03	20		réalisée	Les conclusions de l'examen mené par l'administration et de la tierce expertise réalisée par l'INERIS le 20/03/2001 ne remettent pas en cause ce classement mais préconisent des investigations complémentaires notamment sur les points suivants :		
+2007	08	1		2007	08	1		a_changé_de_nom	Depuis le 1er août 2007 la société a changé de nom et se nomme dorénavant RECYLEX.		'RECYLEX'

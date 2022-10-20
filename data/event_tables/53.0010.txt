@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				a_fait_procéder_à_la_couverture_des_sols	APROCHIM a fait procéder à la couverture des sols d'une partie du site en 2015-2016 en vue de limiter les émissions diffuses hors site.  L'exploitant travaille également à la réduction des autres sources d'émissions diffuses afin de limiter les émissions en PCB dans l'environnement.	'en PCB'	'APROCHIM'
+2010	09			2010	09			dressé_par	- le rapport d'état des sols de voirie dressé par un bureau d'étude en septembre 2010		
+2016				2016				a_fait_procéder_à_la_couverture_des_sols	APROCHIM a fait procéder à la couverture des sols d'une partie du site en 2015-2016 en vue de limiter les émissions diffuses hors site.  L'exploitant travaille également à la réduction des autres sources d'émissions diffuses afin de limiter les émissions en PCB dans l'environnement.	'en PCB'	'APROCHIM'
+1990				1990				exploite	La société APROCHIM exploite depuis 1990 à Grez-en-Bouère un centre de traitement de déchets contaminés aux PCB (polychlorobiphényles).	'PCB', 'polychlorobiphényles'	'La société APROCHIM'

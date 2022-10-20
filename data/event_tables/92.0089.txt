@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09			2010	09			a_déposé	En septembre 2010, l’exploitant a déposé un dossier de cessation d’activité pour les installations situées à l’ouest du site (2 avenue Philippe Lebon).		
+2014	08	1		2014	08	1		ont_été_instituées	Elles ont été instituées par arrêté préfectoral DRE n°2014-135 du 1er août 2014.		'préfectoral DRE'
+2011	03	31		2011	03	31		il_a_été_imposé	En conséquence, par arrêté préfectoral du 31 mars 2011, il a été imposé à l'exploitant d'évaluer l'étendue de la contamination des sols en réalisant de nouveaux sondages et en cas de détection de contamination, de proposer des mesures de gestion ainsi que de rechercher la source de pollution observée sur le sondage 10 et déposer un dossier de servitudes d'utilité publique permettant de conserver la mémoire du site et de limiter les usages.		
+2014	04			2014	04			la_visite_réalisée	Suite à la visite réalisée en 04/2014 par l'inspection, et au constat de défaillance de certains piézomètres dont l'accès est visé par l'arrêté de servitudes, SEPUR et RUBIS ont procédé au comblement et à la réimplantation de certains de ces ouvrages.		'SEPUR', 'RUBIS'
+2010				2010				a_été_cédée	La partie ouest du site a été cédée en 2010 et les activités sur cette partie ont cessé.		

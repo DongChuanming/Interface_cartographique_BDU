@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12	14		2004	12	14		confirme	Par courrier du 14 décembre 2004, l’industriel confirme la vente prochaine de son terrain en vue de la réalisation d’un projet immobilier.		
+2003	12	18		2003	12	18		La_cessation_d__activité	La cessation d’activité a été notifiée par l’industriel à Monsieur le Préfet du NORD par courrier du 18 décembre 2003.		'le Préfet du NORD'
+2007	01	09		2007	01	09		indique	Par courrier du 9 janvier 2007, l'industriel indique ne plus être propriétaire du site depuis près de 2 ans.		
+								ne_plus_être_propriétaire	Par courrier du 9 janvier 2007, l'industriel indique ne plus être propriétaire du site depuis près de 2 ans.		
+1893				1893				La_création	La création du site de LILLE remonte à 1893 ; il était soumis à déclaration.		
+2007	01	04		2007	01	04		a_été_pris	Un arrêté de prescription spéciale rappelant la nécessité d'évacuer rapidement les déchets dangereux découvert et d'évacuer les terres polluées conformément à la réglementation a été pris le 4 janvier 2007.	'les déchets dangereux'	
+								fusion	Les derniers récépissés datent de 1 989 (fusion de paraffine, dépôt et emploi de produits chlorophénoliques).	'paraffine', 'produits', 'chlorophénoliques'	
+								la_création	La Société STEVERLYNCK était une savonnerie industrielle dont la création remonte à 1 847.		'La Société STEVERLYNCK'

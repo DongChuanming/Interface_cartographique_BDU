@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	12		2003	06	12		a_été_pris	En conséquence, un arrêté préfectoral complémentaire imposant une surveillance semestrielle de la qualité des eaux souterraines a été pris en date du 12 juin 2003.		
+2007	06			2007	06			a_été_décelée	Une augmentation des teneurs en tétrachloroéthylène dans la nappe souterraine a été décelée sur un piézomètre du site lors de la campagne de mesure de juin 2007.	'tétrachloroéthylène'	
+2009	12	10		2009	12	10		a_été_réceptionnée	Cette étude a été réceptionnée le 10 décembre 2009 par l'inspection.		
+2008				2008				a_alors_implanté	L'exploitant a alors implanté  en 2008 un nouveau piézomètre en amont du site pour rechercher si cette augmentation est liée à son site.		
+2013	01			2013	01			la_campagne	Les derniers résultats correspondent à la campagne de janvier 2013.		
+1911				1911				Implanté	Implanté depuis 1911, ce site est situé à 150 m de la gare d'Argenteuil et à 350 m de la Seine.		
+2007	06			2007	06			la_campagne_de_mesure	Une augmentation des teneurs en tétrachloroéthylène dans la nappe souterraine a été décelée sur un piézomètre du site lors de la campagne de mesure de juin 2007.	'tétrachloroéthylène'	
+2009	05	06		2009	05	06		la_réalisation_d__un_diagnostic	En conséquence, par arrêté du 6 mai 2009, il a été demandé à l'exploitant la réalisation d'un diagnostic de l'état des sols visant à rechercher l'origine de l'évolution défavorable de la qualité des eaux souterraines au droit du site.		
+2003	02			2003	02			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques a été remise à l'administration dans sa version finale en février 2003 et elle conclut au classement du site en classe 2, c'est à dire nécessitant une surveillance de la qualité des eaux souterraines.		
+2006				2006				la_campagne_d__analyses	Les résultats de la campagne d'analyses du second semestre 2006 montrent que certains composés organiques halogénés volatils (tri- et tetrachloroéthène...) présents dans les sols du site continuent d'impacter significativement la qualité des eaux souterraines au niveau d'un des piézomètres de contrôle.	'composés organiques halogénés', 'tri-', 'tetrachloroéthène'	
+1988				1988				est_propriétaire	La société SFBT est propriétaire et exploitant depuis 1988.		'La société SFBT'
+1998	08	17		1998	08	17		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 17 août 1998.		

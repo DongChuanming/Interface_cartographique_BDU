@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	08	29		1994	08	29		la_campagne_d__analyses	Les mesures réalisées le 09/02/2001 indiquent une diminution des concentrations en hydrocarbures totaux dans les eaux souterraines par rapport à la campagne d'analyses du 29/08/1994.	'hydrocarbures totaux'	
+1993				1993				se_fait	L'exploitation se fait depuis 1993 et est classée SEVESO « seuil haut ».	'SEVESO'	
+1999	12	02		1999	12	02		La_remise_en_service	La remise en service du bac a été autorisée par l'arrêté du 02 décembre 1999.		
+1999	05	03		1999	05	03		a_été_suspendue	A la suite d'une fuite accidentelle du réservoir D, le 18 mars 1999, l'activité de ce réservoir a été suspendue par l'arrêté du 3 mai 1999.		
+2009	03	23		2009	03	23		La_campagne_du	La campagne du 23 mars 2009 montre que les concentrations mesurées sont inférieures aux valeurs guides retenues. cependant, il a été observé une forte augmentation en hydrocarbures sur PZ5 par rapport à la dernière campagne de 2008 (2,19 mg/L en mars 2009 contre <0,05 mg/L en octobre 2008).	'hydrocarbures'	
+2008				2008				dernière_campagne	La campagne du 23 mars 2009 montre que les concentrations mesurées sont inférieures aux valeurs guides retenues. cependant, il a été observé une forte augmentation en hydrocarbures sur PZ5 par rapport à la dernière campagne de 2008 (2,19 mg/L en mars 2009 contre <0,05 mg/L en octobre 2008).	'hydrocarbures'	
+2009	07	30		2009	07	30		réalisée	Une seconde analyse, réalisée le 30 juillet 2009, donne une valeur correcte (<0,05 mg/L).		
+2011	12	20		2011	12	20		est_réglementé	L'établissement est réglementé au titre des installations classées par l'arrêté préfectoral du 20 décembre 2011.		
+1999	03	18		1999	03	18		a_été_suspendue	A la suite d'une fuite accidentelle du réservoir D, le 18 mars 1999, l'activité de ce réservoir a été suspendue par l'arrêté du 3 mai 1999.		
+1999	07	31		1999	07	31		Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques (ESR) ont été réalisés le 31 juillet 1999.		
+1999	04			1999	04			Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés au mois d'avril 1999.		
+2009	03			2009	03			dernière_campagne	La campagne du 23 mars 2009 montre que les concentrations mesurées sont inférieures aux valeurs guides retenues. cependant, il a été observé une forte augmentation en hydrocarbures sur PZ5 par rapport à la dernière campagne de 2008 (2,19 mg/L en mars 2009 contre <0,05 mg/L en octobre 2008).	'hydrocarbures'	
+1999	04			1999	04			au_mois_d_	Des travaux de dépollution ont été réalisés au mois d'avril 1999.		
+2008	10			2008	10			dernière_campagne	La campagne du 23 mars 2009 montre que les concentrations mesurées sont inférieures aux valeurs guides retenues. cependant, il a été observé une forte augmentation en hydrocarbures sur PZ5 par rapport à la dernière campagne de 2008 (2,19 mg/L en mars 2009 contre <0,05 mg/L en octobre 2008).	'hydrocarbures'	
+2003	09	24		2003	09	24		et_un_autre	Un arrêté préfectoral instituant des servitudes d'utilité publique a été pris le 27 juillet 1992, et un autre daté du 24 septembre 2003.		
+2001	02	09		2001	02	09		Les_mesures_réalisées	Les mesures réalisées le 09/02/2001 indiquent une diminution des concentrations en hydrocarbures totaux dans les eaux souterraines par rapport à la campagne d'analyses du 29/08/1994.	'hydrocarbures totaux'	
+2006	10	17		2006	10	17		La_campagne_du	La campagne du 17 octobre 2006 a révélé des concentrations inférieures à 50 µg/l, excepté sur le piézomètre 5: 750 µg/l.		
+1992	07	27		1992	07	27		a_été_pris	Un arrêté préfectoral instituant des servitudes d'utilité publique a été pris le 27 juillet 1992, et un autre daté du 24 septembre 2003.		

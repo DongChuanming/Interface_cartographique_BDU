@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	05			2000	05			Nettoyage	- Nettoyage et dégazage des cuves aériennes à fioul lourd réalisé (12/1999 à 05/2000).	'fioul lourd'	
+1999	12			1999	12			Nettoyage	- Nettoyage et dégazage des cuves aériennes à fioul lourd réalisé (12/1999 à 05/2000).	'fioul lourd'	
+2007	10			2007	10			un_complément_de_diagnostic	Dans le cadre de l'aménagement de la zone d'activité "Les Pierres Blanches" à Denain, sur la friche industrielle USINOR,la CAPH (Communauté d’Agglomération de la porte du Hainaut)a réalisé un complément de diagnostic de pollution des sols (octobre 2007).		'USINOR', 'la CAPH', 'Communauté d’ Agglomération'

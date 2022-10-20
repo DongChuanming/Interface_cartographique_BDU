@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				des_campagnes_réalisées	Les résultats des campagnes réalisées en 2012 montrent qu'il y a toujours des hydrocarbures dans les eaux au droit de l'ancien stockage de fioul et l'absence de pollution des piézomètres situés en aval.	'hydrocarbures', 'fioul'	
+				2003	05			Ce_traitement_s__est_poursuivi	Ce traitement s'est poursuivi jusqu'en mai 2003.		
+2000	04			2000	04			la_réalisation	Dans les conditions de connaissance actuelle du site et à ce stade de l'étude, la réalisation de l'ESR transmise en dernier lieu en avril 2000 conduit à un classement du site en classe 2 nécessitant la mise en place d'un dispositif de surveillance.		
+1999	06			1999	06			ne_sont_plus_exercées	Depuis juin 1999, les deux premières activités ne sont plus exercées sur le site de Bourg en Bresse; seule quelques retouches de peinture sont réalisées.		
+2001	08			2001	08			une_fuite_accidentelle	Par ailleurs, une fuite accidentelle de gazole est survenue sur le site fin août 2001, engendrant un impact sur les eaux souterraines.	'gazole'	
+2001	09			2001	09			Des_mesures	Des mesures visant à cerner l’extension de la pollution, à la confiner et la traiter ont été mises en place dès début septembre 2001.		
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 16/10/98.		
+2001	03			2001	03			Ces_campagnes_supplémentaires_ont_été_effectuées	Ces campagnes supplémentaires ont été effectuées en mars 2001.		
+				2004	06			les_mesures_réalisées	Le rapport de suivi concernant les mesures réalisées de janvier à juin 2004 montre que :		
+2001	09			2001	09			un_traitement_des_terre_in_situ	A la suite de ces différentes études, un traitement des terre in situ, par un système de bioventing a été mis en place en septembre 2001.		
+2008	03	06		2008	03	06		L__obligation	L'obligation de réaliser une surveillance semestrielle des eaux souterraines, à partir de 4 points de contrôle, a été intégrée à l'arrêté préfectoral réglementant le fonctionnement des installations, le 6/3/2008.		
+1999				1999				exerçait	Jusqu'en 1999, elle exerçait les activités suivantes:		
+2000	04	30		2000	04	30		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques doit être transmise à l'administration au plus tard le 30/04/2000 et respectivement le 31/12/2000.		
+1964				1964				implantée	Cette usine, implantée en 1964, est un centre de montage de véhicules poids lourds.		

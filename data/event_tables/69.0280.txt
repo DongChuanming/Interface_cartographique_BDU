@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	02		2010	11	02		Une_visite	Une visite de l'inspection des installations classées a été effectuée le 02/11/2010.		
+2011	10	21		2011	10	21		La_campagne	La campagne du 21/10/2011 et la campagne du 30/07/2012 ne montrent aucun  dépassement selon les valeurs seuils en vigueur.		
+2005	01			2005	01			est_effective	- la surveillance des eaux est effective depuis janvier 2005 ;		
+2005	01			2005	01			ont_dépassé_à_trois_reprises_les_normes	- les teneurs en plomb ont dépassé à trois reprises les normes en vigueur à l'époque (30 µg/L en aval en janvier 2005, 12 µg/L en amont et 32 µg/L en aval en juillet 2007) ;	'plomb'	
+2007	07			2007	07			ont_dépassé_à_trois_reprises_les_normes	- les teneurs en plomb ont dépassé à trois reprises les normes en vigueur à l'époque (30 µg/L en aval en janvier 2005, 12 µg/L en amont et 32 µg/L en aval en juillet 2007) ;	'plomb'	

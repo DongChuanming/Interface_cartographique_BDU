@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	31		2012	01	31		un_diagnostic	Par courrier en date du 31 janvier 2012, l'exploitant a transmis à l'inspection des installations classées un diagnostic de l'état des sols et des eaux souterraines réalisé dans le cadre d'une campagne d'investigations effectuée sur l'ensemble des stations-service du groupe, ainsi que le descriptif des solutions de dépollution envisagées.		
+2012	07	05		2012	07	05		La_réalisation_de_travaux_de_dépollution	La réalisation de travaux de dépollution ainsi que la réalisation d'investigations hors-site (IEM) ont été encadrées par arrêt préfectoral complémentaire du 05 juillet 2012.		
+2011	07			2011	07			Un_contrôle	Un contrôle d'étanchéité des cuves et canalisations a été réalisé en juillet 2011 ; ce contrôle n'a pas révélé de défauts d'étanchéité.		
+2016				2016				une_injection_d__oxydant	A l'issue du traitement, une injection d'oxydant au droit de la zone source a été faite en 2016.		
+2000	1998			2000	1998			lors_de_travaux_sur_les	Dans ce contexte, l'origine de  la pollution pourrait être selon l'exploitant un déversement accidentel de carburant lors de travaux sur les cuves et canalisations en 1998/2000.	'de carburant'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_décidé	Au début de l'année 2000, la Mairie de La Guéroulde a décidé, en accord avec le propriétaire d'acquérir le site pour le franc symbolique, à charge pour la commune de réhabiliter le terrain.		
+1978				1978				a_été_mise_en_liquidation	La Société HERMAUR a été mise en liquidation en 1978.		'La Société HERMAUR'
+2005	10	13		2005	10	13		réalisée_sur	Lors d'une visite réalisée sur le site le 13/10/2005 il a été constaté que ce confinement n'avait pas été mis en place.		
+1968				1973				a_exercé	La Société HERMAUR a exercé une activité de traitements de surfaces (non déclarée), de 1968 à 1973, dans les locaux appartenant aux ATELIERS MECANIQUES DE LA GUEROULDE – A.		'La Société HERMAUR', 'ATELIERS MECANIQUES DE LA GUEROULDE'
+1983	06	23		1983	06	23		a_été_clos	Le dossier a été clos par le Tribunal de Commerce par jugement du 23 juin 1983.		'le Tribunal de Commerce'
+1987	09	15		1987	09	15		ont_été_conjointement_mis_en_demeure	Le responsable de l'entreprise et le propriétaire du terrain ont été conjointement mis en demeure de remettre le site en état par arrêté préfectoral du 15.09.1987.		
+1987	05			1987	05			__a_été_informée	En mai 1987, l'inspection  a été informée de l'existence de produits toxiques stockés sur les terrains situés sur une petite île, derrière l'usine.	'de produits toxiques'	
+1968				1973				une_activité_de_traitements_de_surfaces	La Société HERMAUR a exercé une activité de traitements de surfaces (non déclarée), de 1968 à 1973, dans les locaux appartenant aux ATELIERS MECANIQUES DE LA GUEROULDE – A.		'La Société HERMAUR', 'ATELIERS MECANIQUES DE LA GUEROULDE'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	08	30		2014	08	30		sa_cessation_activité	La société SOFLOG TELIS a informé, par courrier daté du 18 juillet 2014, sa cessation activité sur son site à compter du 30 août 2014.		'La société SOFLOG TELIS'
+2015	11	24		2015	11	24		ont_été_transmis	Les différents documents attestant de la mise en sécurité du site ont été transmis par courrier du 24 novembre 2015.		
+2014	08			2014	08			Les_travaux_de_dépollution	Les travaux de dépollution consistant au démantèlement des cuves et à l'enlèvement des sols impactés en hydrocarbures (60,26 tonnes de terres polluées et de 22,52 tonnes de béton pollué) ont été réalisés en août 2014.	'hydrocarbures'	
+2014	12			2014	12			Le_diagnostic_complémentaire	Le diagnostic complémentaire de décembre 2014 réalisé après travaux indique :		
+1950				1950				a_été_occupé	Le site a été occupé par diverses sociétés depuis 1950.		
+2014	07	18		2014	07	18		sa_cessation_activité	La société SOFLOG TELIS a informé, par courrier daté du 18 juillet 2014, sa cessation activité sur son site à compter du 30 août 2014.		'La société SOFLOG TELIS'

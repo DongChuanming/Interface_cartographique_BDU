@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	10		2008	01	10		a_prescrit_une_étude_approfondie	Monsieur le préfet de la Savoie a prescrit une étude approfondie de la situation par arrêté du 10 janvier 2008.		'le préfet de la Savoie'
+2004				2004				Des_investigations_complémentaires_de_terrain	Des investigations complémentaires de terrain ont été réalisées en 2004 et la nouvelle étude de sol remise en avril 2005.		
+2007	06	04		2007	06	04		Un_courrier_a_été_envoyé	Un courrier a été envoyé à l'exploitant au 4 juin 2007 afin que celui ci se prononce sur l'origine de la pollution et sur la nécessité de procéder à de nouveaux sondages de sols pour mieux circonscrire l'étendue de la pollution.		
+2005	04			2005	04			la_nouvelle_étude_de_sol_remise	Des investigations complémentaires de terrain ont été réalisées en 2004 et la nouvelle étude de sol remise en avril 2005.		
+2007				2007				La_remontée_des_nappes	La remontée des nappes au printemps 2007 a conduit à la mobilisation de pollutions anciennes (acétone, HCT).	'acétone', 'HCT'	
+2010	11	03		2010	11	03		a_été_transmis	Un rapport a été établi par ARKEMA le 14/10/10 et a été transmis à l'inspection des installations classées le 3 novembre 2010.		'ARKEMA'
+2010				2010				a_été_transmise	Une telle étude a été transmise par ARKEMA en 2010.		'ARKEMA'
+								a_été_établi	Un rapport a été établi par ARKEMA le 14/10/10 et a été transmis à l'inspection des installations classées le 3 novembre 2010.		'ARKEMA'
+2003	12			2003	12			une_mise_à_jour	L'administration a demandé à l'exploitant une mise à jour de l'étude, dont la partie historique a été remise en décembre 2003.		
+2010	03			2010	03			22_sondages_supplémentaires_ont_alors_été_réalisés	22 sondages supplémentaires ont alors été réalisés en mars 2010 (basses-eaux) dont un sondage oblique sous le RS14 pour préciser l'extension des zones impactées en latéral et en vertical.		
+2000	08	21		2000	08	21		Le_diagnostic_initial	Le diagnostic initial et l'ESR ont été transmis à l'administration le 21/08/2000.		
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 05/10/98.		

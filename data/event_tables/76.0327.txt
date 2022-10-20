@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1908				1908				a_accueilli	Le terrain a accueilli dès 1908 une ancienne blanchisserie relevant du régime de la déclaration au titre des installations classées.		
+2008				2008				des_diagnostics_de_sols	Dans le cadre du projet de réhabilitation de l’îlot pour des usages accueillant notamment des populations sensibles, la ville du Havre a fait réaliser des diagnostics de sols dès 2008 par le cabinet HPC ENVIROTEC.		'le cabinet HPC ENVIROTEC'
+2014	04			2014	04			a_été_réalisé	Sur cette base, un plan de gestion des pollutions comprenant une analyse des risques résiduels (ARR) a été réalisé (rapport BURGEAP d’avril 2014).		'BURGEAP'
+2013	11			2013	11			Une_étude	Une étude de BURGEAP réalisée en novembre 2013 a permis de faire l'historique du site et de mettre en évidence certains impacts dans les sols.		'BURGEAP'
+2014	01			2014	01			Des_investigations_complémentaires	Des investigations complémentaires ont ensuite été menées en janvier 2014 dans les sols, notamment sur la présence éventuelle de composés volatils.		

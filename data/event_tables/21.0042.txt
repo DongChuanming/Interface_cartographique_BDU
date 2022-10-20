@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				1963				Démarrage	1963 – 1965: Démarrage de l'activité "produits spéciaux" : mastics de jointoyage, liants époxydiques pour revêtements de sol et polyuréthanne.	'polyuréthanne'	
+1975				1975				__Arrêt	1970 – 1975: Arrêt de la distillation de goudrons.	'goudrons'	
+1956				1956				Rachat	1956: Rachat du site par l'entreprise Albert Cochery.		
+2001	02	14		2001	02	14		__diagnostic_initial	- diagnostic initial, phase B : 14 février 2001		
+2000	01	12		2000	01	12		diagnostic_initial	- diagnostic initial, phase A : 12 janvier 2000		
+2005				2005				a_donné_son_accord	Interrogée sur la pérennité de la stabilité des voies, la SNCF a donné son accord à la réalisation de la barrière hydraulique et au final les travaux de dépollution, la surveillance de la qualité des eaux souterraines et le suivi piézométrique ont commencé en 2005.		'la SNCF'
+1999	06	01		1999	06	01		une_étude_diagnostic_initial	1 juin 1999: par arrêté préfectoral, la société VIALCO a été tenue de faire réaliser une étude diagnostic initial et une étude d'évaluation simplifiée des risques (ESR) conformément à l'ancien guide méthodologique national élaboré par le ministère de l'environnement.		'la société VIALCO'
+1927				1927				a_démarré	1927:L'activité industrielle du site a démarré en 1927.		
+1984				1984				__Déplacement	1984: Déplacement de l'usine de fabrication d'émulsions.		
+2001	12			2001	12			__diagnostic_complémentaire	- diagnostic complémentaire : décembre 2001		
+2005				2005				les_travaux_de_dépollution	Interrogée sur la pérennité de la stabilité des voies, la SNCF a donné son accord à la réalisation de la barrière hydraulique et au final les travaux de dépollution, la surveillance de la qualité des eaux souterraines et le suivi piézométrique ont commencé en 2005.		'la SNCF'
+1970				1970				__Arrêt	1970 – 1975: Arrêt de la distillation de goudrons.	'goudrons'	
+1991				1991				Reconstruction_de	1991: Reconstruction de l'usine INTERDESCO / Résines.		'INTERDESCO'
+1965				1965				Démarrage	1963 – 1965: Démarrage de l'activité "produits spéciaux" : mastics de jointoyage, liants époxydiques pour revêtements de sol et polyuréthanne.	'polyuréthanne'	
+								Modernisation	Années 70: Modernisation de l'usine, sans arrêts de production.		
+2003	06	26		2003	06	26		a_été_décidé	26 juin 2003: compte tenu des études précédentes et notamment du rapport de l'INERIS, il a été décidé par arrêté préfectoral d'imposer à la société EUROVIA MANAGEMENT (maison mère des sociétés VIALCO et INTERDESCO) la dépollution des sols visés par les études ci-dessus.		'la société EUROVIA MANAGEMENT', 'des sociétés VIALCO et INTERDESCO'

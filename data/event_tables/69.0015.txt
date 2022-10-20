@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	01	12		1993	01	12		bénéficie_d_	La société bénéficie d'un arrêté préfectoral d'autorisation d'exploiter datant du 12/01/1993.		
+1996	04	03		1996	04	03		a_été_sélectionné	Le site de l'établissement a été sélectionné au titre de la circulaire du 03/04/1996.		
+1999	12	28		1999	12	28		a_été_transmise	L'étude d'ESR a été transmise à l'administration le 28/12/1999.		"d' ESR"

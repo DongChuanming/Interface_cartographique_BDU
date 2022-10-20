@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	29		2003	01	29		l__arrêté	La surveillance de la nappe a été prescrite par l'arrêté du 29/01/2003 :		
+1992				1992				la_filialisation_entreprise	BNC résulte de la filialisation entreprise depuis 1992, des activités exercées sur l'ancienne poudrerie de la SNPE.		'BNC'
+2005				2005				est_exercée	L'activité de production de NC energetique est exercée depuis 2005 par MANUCO.		'NC energetique', 'MANUCO'
+								ont_été_remises	Les études ont été remises le 31/12/99 et complétées le 22 décembre 2000.		
+2007	04			2007	04			La_campagne_d_	La campagne d'avril 2007 montre une amélioration de la situation.		
+2000	12	22		2000	12	22		et_complétées	Les études ont été remises le 31/12/99 et complétées le 22 décembre 2000.		
+1998	10	19		1998	10	19		ayant_pu_conduire	Les activités exercées sur ce site ayant pu conduire par le passé, à une pollution du sols et de la nappe, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par l'arrtêté du 19 octobre 1998.		
+2005	03			2005	03			La_campagne_du_31	La campagne du 31 mars 2005 révèle l'impact de la nappe en amont du site par les nitrates, nitrites, Nickel et Zinc.	'nitrates', 'nitrites', 'Nickel', 'Zinc'	
+2000	12	22		2000	12	22		ont_été_remises	Les études ont été remises le 31/12/99 et complétées le 22 décembre 2000.		

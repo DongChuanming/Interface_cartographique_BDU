@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				une_campagne_de_mesures	Pour complément d'information, la DRIRE a fait réaliser par l'expert GEODERIS, courant 2007, une campagne de mesures de teneurs en différents polluants à la surface des sols en de nombreux points.	'polluants'	'la DRIRE', 'GEODERIS'
+2010				2010				ont_été_présentés	Les conclusions des travaux de recherche menés par l'INERIS ont été présentés début 2010.		
+								est_pris	Un arrêté municipal est pris le 3 mars et interdit, notamment, l'usage alimentaire des eaux d'ouvrages privés, la consommation de fruits et légumes; il incite également à des précautions d'hygiène renforcées.		
+2007	03			2007	03			une_étude	L'exploitant a également fourni, en mars 2007, une étude sur l'impact des activités minières et connexes, via la Crenze, sur la commune de Saint Laurent le Minier.		
+2006	02			2006	02			Des_travaux_de_décapage	Des travaux de décapage des terres polluées (50 cm) et remplacement par de la terre propre ont été réalisés en janvier et février 2006 dans les jardins du hameau, en rive droite de la Vis.		
+1953				1953				aurait_cessé	La laverie de minerai à la papeterie aurait cessé en 1953.		
+								Des_travaux_de_décapage	Des travaux de décapage des terres polluées (50 cm) et remplacement par de la terre propre ont été réalisés en janvier et février 2006 dans les jardins du hameau, en rive droite de la Vis.		
+2008				2008				ont_commencé	es travaux ont commencé en 2008 et le comité de pilotage se réunit aux points d'étapes utiles sous la présidence du sous préfet du Vigan.		'du sous préfet du Vigan'
+2010	12	15		2010	12	15		a_confirmé	Par courrier du 15 décembre 2010, le Ministre d'Etat a confirmé au Préfet du Gard qu'une intervention de l'ADEME était justifiée.		"le Ministre d' Etat", "l' ADEME"
+2004				2004				a_fait_faire_des_prélèvements	Début 2004, sur un terrain du lieu dit la papeterie, un propriétaire a fait faire des prélèvements qui révèlent des concentrations en arsenic variant de 73,4 à 910 mg/kg.	'arsenic'	
+1954				1954				L__activité	L'activité de la dernière laverie en fonctionnement sur ce site a cessé en 1954.		
+2005	06			2005	06			transmis	Suite au rapport INERIS transmis en juin 2005 et au résultat de la campagne de dépistage de saturnisme pilotée par la DDASS, la DRIRE a demandé au dernier exploitant de mettre rapidement en sécurité les habitations du hameau.		'la DDASS', 'la DRIRE'
+2005	02	10		2005	02	10		ont_été_communiqués	Les résultats ont été communiqués le 10 février 2005 lors d'une réunion publique à la mairie de St-Laurent-le-Minier.		
+2004	09			2004	09			mentionne	Ce rapport, parvenu à la DRIRE en septembre 2004, mentionne l'existence d'anciennes activités de traitement de minerais métalliques à "la papeterie" et désigne Metaleurop SA comme dernier exploitant minier ayant eu une telle activité dans cette zone, maintenant habitée.		'la DRIRE', 'Metaleurop SA'

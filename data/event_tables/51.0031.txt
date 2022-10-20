@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	23		2005	12	23		a_été_racheté	Le site a été racheté par la SCI Les Varennes le 23 décembre 2005.		'la SCI Les Varennes'
+2002	01	25		2002	01	25		a_été_remise	Celle-ci a été remise le 25 janvier 2002 et examinée par l'inspection des installations classées et la Direction de l'Action sanitaire et sociale.		
+2004	01			2004	01			a_été_signé	Un arrêté préfectoral a été signé en janvier 2004. il prescrit la mise en place d'une surveillance des nappes, la réalisation de quelques travaux complémentaires d'évacuation de terres et analyses de contrôles de réception des fouilles,limite l'usage du site et interdit les prélèvements d'eau au droit du site.		
+2000				2000				Les_travaux_suivants_ont_été_réalisés	Les travaux suivants ont été réalisés en 2000 et 2001:		
+1998	09	30		1998	09	30		Etude_de_sols_prescrite	Etude de sols prescrite par arrêté préfectoral du 30 septembre 1998.		
+2001				2001				Les_travaux_suivants_ont_été_réalisés	Les travaux suivants ont été réalisés en 2000 et 2001:		
+2005	06	29		2005	06	29		est_signé	Un arrêté préfectoral est signé le 29 juin 2005 (2005-APC-62-IC), il allège la surveillance au regard des analyses trimestrielles menées en 2004 et passée, il réduit les restrictions (temps de présence) liées à l'usage du site en distinguant les zones suite à des travaux de dépollution supplémentaires réalisés par Mac Dermid et à la remise d'un complément d'étude détaillée des risques validant ces travaux.		'Mac Dermid'

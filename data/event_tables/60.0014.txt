@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				l__érosion	A la fin de l'année 2002, l'érosion d'une partie de la berge du plan d'eau a mis au jour des déchets enfouis.		
+1992				1992				a_été_informé	Au cours de l'été 1992, le Préfet de l'OISE a été informé de l'existence d'un dépôt de déchets industriels sur le territoire communal de ST AUBIN en BRAY.	'dépôt de déchets industriels'	'le Préfet', 'ST AUBIN en BRAY'
+2006	11	30		2006	11	30		a_été_formulée	Le 30 novembre 2006, une proposition en ce sens a été formulée au Préfet de l'Oise par l'inspection des installations classées.		
+2002				2002				avait_déjà_été_constatée	Une telle situation avait déjà été constatée en 2002.		
+1994				1994				Le_confinement_mis_en_place	Le confinement mis en place en 1994 par la Société devenue RIETER AUTOMOTIVE FRANCE apparaît donc insuffisant.		'la Société devenue RIETER AUTOMOTIVE FRANCE'
+1962				1965				abandonnées	Il s'agissait de matières bitumineuses abandonnées entre les années 1962 et 1965 dans une ancienne carrière d'argile, par la société KELLER, un sous-traitant de l'industrie automobile, installé à proximité.	'bitumineuses'	'la société KELLER'
+2008	10			2008	10			a_transmis	L'exploitant a transmis en mars 2008 et en octobre 2008 des résultats d'analyses.		
+2008	03			2008	03			a_transmis	L'exploitant a transmis en mars 2008 et en octobre 2008 des résultats d'analyses.		

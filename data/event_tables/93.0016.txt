@@ -1,4 +1,6 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1912				1969					ont_accueilli								
-1970				1980					ont_été_démolies	Les_installations_de_l__usine							
-1994				1994					Les_travaux_de_réhabilitation			se_sont_déroulés					
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1980				ont_été_démolies	Les installations de l'usine ont été démolies entre 1970 et 1980.		
+1994				1994				ont_été_excavés	Les travaux de réhabilitation se sont déroulés en 1994, 70 000 m3 de matériaux ont été excavés, triés puis lorsque nécessaire triés.		
+1912				1969				ont_accueilli	Ces terrains ont accueilli entre 1912 et 1969 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1994				1994				Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont déroulés en 1994, 70 000 m3 de matériaux ont été excavés, triés puis lorsque nécessaire triés.		

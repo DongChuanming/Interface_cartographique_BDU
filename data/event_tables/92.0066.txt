@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	12		2009	10	12		Une_visite_de_contrôle	Une visite de contrôle par l'inspection le 12 octobre 2009 a permis de constater un mauvais état de la rétention pouvant expliquer la contamination des sols et vraisemblablement de la nappe souterraine.		
+2009	12	03		2009	12	03		un_diagnostic_de_pollution	UNIVAR a également fait réaliser un diagnostic de pollution le 3 décembre 2009.		'UNIVAR'
+2005	11			2005	11			Ces_études_complétées	Ces études complétées en novembre 2005  ont mis en évidence une contamination du site en BTEX (benzène, toluène, éthylbenzène et xylène), en hydrocarbures et en composés organiques volatils ainsi que la présence d'une phase flottante au niveau de la nappe alluviale.	'en BTEX ( benzène , toluène , éthylbenzène et xylène', 'en hydrocarbures', 'en composés organiques volatils'	
+2009				2009				l__apparition	En 2009, l'apparition d'une nouvelle phase flottante autour d'un bâtiment du site (bâtiment D) a été détectée par l'exploitant.	'une nouvelle phase flottante'	
+2014				2014				a_été_modifié	Le système de réhabilitation en place a été modifié puis complètement optimisé fin 2014 de la façon suivante :		
+2000	07			2000	07			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques fournie en juillet 2000 concluait à considérer le site en classe 2 (à surveiller) et préconisait un suivi de la qualité de la nappe phréatique.		
+2012				2012				ayant_disparu	Le formaldéhyde et le méthanol ayant disparu de la nappe le suivi de la nappe sur ces paramètres a été arrêté en 2012.	'formaldéhyde', 'méthanol'	
+2009	10	07		2009	10	07		un_incident	Le 7 octobre 2009, UNIVAR a signalé à l'inspection un incident sur un réservoir de stockage de méthanol ayant conduit à une fuite occasionnant une pollution des sols.	'méthanol'	'UNIVAR'
+2014	11	25		2014	11	25		a_redémarré	L’installation ainsi modifiée a redémarré le 25 novembre 2014.		
+2009				2009				des_dispositifs_de_traitement	En 2009, UNIVAR a mis en place des dispositifs de traitement de cette pollution.		'UNIVAR'

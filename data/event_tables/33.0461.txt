@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								l__absence_de_flottant_dans_les_3_ouvrages__	- l’absence de flottant dans les 3 ouvrages (Pz1 : aval latéral, Pz2 : amont et Pz3 :  amont) ;		'amont et Pz3 \xa0 :', 'amont'
+2012	07	04		2012	07	04		la_société	- le rapport du diagnostic environnemental du 04/07/2012 réalisé par la société ARCADIS (d’investigations complémentaires), qui montre :		'ARCADIS ( d’ investigations'
+								latéral___Pz2____	- l’absence de flottant dans les 3 ouvrages (Pz1 : aval latéral, Pz2 : amont et Pz3 :  amont) ;		'amont et Pz3 \xa0 :', 'amont'

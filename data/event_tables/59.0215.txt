@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	08	12		2003	08	12		est_imposée	- Une surveillance piézométrique est imposée à l'ancien exploitant par arrêté du 12 août 2003.		
+2002	09			2002	09			arrêté	- Site arrêté en septembre 2002 et vendu à un autre industriel		
+1999	06			1999	06			première_étude_transmise	- première étude transmise en juin 1999 jugée non conforme à la méthodologie du guide  nationale		
+2003	04			2003	04			cessation_d__activité_transmis	- Mémoire de cessation d'activité transmis en avril 2003		

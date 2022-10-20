@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07			2007	07			a_fait_procéder	Dans le cadre de la cessation d'activité, le liquidateur judiciaire a fait procéder à un diagnostic environnemental du site dont le rapport est daté de juillet 2007.		
+2008				2008				Un_diagnostic_approfondi	Un diagnostic approfondi des sols et des eaux souterraines, une étude de risque sanitaire et une description des mesures de gestion prises ou prévues ont été réalisés en 2008.		
+				2003	09			a_été_exploité	Le site a été exploité pendant environ 60 ans, jusqu'en septembre 2003, date de sa mise en liquidation judiciaire, pour des activités de production et de conditionnement d'appareils de chauffage.		
+								a_été_exploité	Le site a été exploité pendant environ 60 ans, jusqu'en septembre 2003, date de sa mise en liquidation judiciaire, pour des activités de production et de conditionnement d'appareils de chauffage.		
+								un_traitement	- sur la zone de contamination par des solvants chlorés, un traitement de 16 mois par 24 puits d'aspiration à partir de septembre 2014 à permis d'extraire 130 kg de solvant.	'des solvants chlorés', 'solvant'	

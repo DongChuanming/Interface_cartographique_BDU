@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				est_devenu	Par la suite, la raison sociale de CEFO est devenu STEF-TFE en 2005, qui est devenu SAS STEF Pays de Loire en 2008.		'CEFO', 'STEF - TFE', 'SAS STEF Pays', 'de Loire'
+1985				2008				s__est_déroulé	Cette activité s'est déroulé entre 1985 et 2008.		
+2008				2008				qui_est_devenu	Par la suite, la raison sociale de CEFO est devenu STEF-TFE en 2005, qui est devenu SAS STEF Pays de Loire en 2008.		'CEFO', 'STEF - TFE', 'SAS STEF Pays', 'de Loire'
+2009	05			2009	05			un_diagnostic_de_pollution_des_sols	L'exploitant a réalisé un diagnostic de pollution des sols en mai 2009 qui a permis d'identifier des teneurs anormales en hydrocarbure (800 ppm), en ammonium (200 ppm), en ammoniac (13 ppm), ainsi que la présence d'arsenic (370 ppm) et de cuivre (110 ppm) à des teneurs significativement supérieures au bruit de fond géochimique.	'hydrocarbure', 'en ammonium', 'en ammoniac', "d' arsenic", 'de cuivre'	
+2009	11	26		2009	11	26		ont_été_transmis	Les complément attendus ont été transmis à l'inspection le 26 novembre 2009 et ont conduit l'inspection à demander la proposition d'un plan de gestion.		
+2008	12	31		2008	12	31		Le_désarmement	Le désarmement du bâtiment au eu lieu le 31 décembre 2008.		
+2005				2005				est_devenu	Par la suite, la raison sociale de CEFO est devenu STEF-TFE en 2005, qui est devenu SAS STEF Pays de Loire en 2008.		'CEFO', 'STEF - TFE', 'SAS STEF Pays', 'de Loire'
+2010	09	10		2010	09	10		transmis	Ce plan de gestion, transmis le 10 septembre 2010, a permis de fixer des objectifs de dépollution pour un usage résidentiel par enlèvement des terres dépassant les seuils suivants :		
+2011				2011				a_été_déconstruit	Le bâtiment a été déconstruit en 2011.		
+2012	02	22		2012	02	22		Un_procès_verbal_de_récolement	Un procès-verbal de récolement a été établi conformément aux dispositions du code de l'environnement le 22 février 2012.		
+2011	12	06		2011	12	06		le_rapport_de_travaux	Par courrier daté du 6 décembre 2011, l'exploitant a transmis à l'inspection des installations classées le rapport de travaux et l'analyse de risques résiduels.		
+1985	06	12		1985	06	12		a_été_autorisée	Le société CEFO - filiale à 100% du groupe STEF-TFE SA depuis 2001 - a été autorisée par voie d'arrêté préfectoral le 12 juin 1985 à exploiter un entrepôt frigorifique sur le site situé sur la commune de CARQUEFOU.		'Le société CEFO', 'groupe STEF - TFE SA', 'CARQUEFOU'
+2008	12	30		2008	12	30		informait	Par courrier daté du 30 décembre 2008, l'exploitant informait l'inspection des installations classées de l'arrêt du site.		

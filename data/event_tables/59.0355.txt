@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1923				1983				a_été_exploité	Le terrain a été exploité par MOBIL (ou des filiales) de 1923 à 1983, année où il a été revendu à la société RHODIA INTERMEDIAIRES.		'MOBIL', 'la société RHODIA INTERMEDIAIRES'
+1994	06	1		1994	06	1		cessation_d__activité	Le terrain du dépôt MOBIL a ensuite été occupé par la SOCIETE CHIMIQUE DE LA COURNEUVE jusqu'en 1994 (cessation d'activité le 1er juin 1994).		'dépôt MOBIL', 'la SOCIETE CHIMIQUE DE LA COURNEUVE'
+				1994				cessation_d__activité	Le terrain du dépôt MOBIL a ensuite été occupé par la SOCIETE CHIMIQUE DE LA COURNEUVE jusqu'en 1994 (cessation d'activité le 1er juin 1994).		'dépôt MOBIL', 'la SOCIETE CHIMIQUE DE LA COURNEUVE'
+				1994				a_ensuite_été_occupé	Le terrain du dépôt MOBIL a ensuite été occupé par la SOCIETE CHIMIQUE DE LA COURNEUVE jusqu'en 1994 (cessation d'activité le 1er juin 1994).		'dépôt MOBIL', 'la SOCIETE CHIMIQUE DE LA COURNEUVE'
+2012				2012				Etude_hydrogéologique	Etude hydrogéologique de 2012 : présence de benzène, ODCB, cis-DCE, chlorure de vinyle et COHV dans les nappes.	'benzène', 'ODCB', 'cis - DCE', 'chlorure de vinyle', 'COHV'	
+1998	12	28		1998	12	28		une_procédure	A la date du 28 décembre 1998, elle avait fait l'objet d'une procédure de fusion absorption à 100% par la société anonyme CALDIC SPECIALITES (siège social à AULNAY-SOUS-BOIS).		'la société anonyme CALDIC SPECIALITES'
+1994	06	1		1994	06	1		a_ensuite_été_occupé	Le terrain du dépôt MOBIL a ensuite été occupé par la SOCIETE CHIMIQUE DE LA COURNEUVE jusqu'en 1994 (cessation d'activité le 1er juin 1994).		'dépôt MOBIL', 'la SOCIETE CHIMIQUE DE LA COURNEUVE'
+2001	08	27		2001	08	27		Une_visite	Une visite du site en date du 27 août 2001 a permis de constater que les locaux sont situés à l'intérieur du périmètre clôturé de l'usine RHODIA INTERMEDIAIRES.		'RHODIA INTERMEDIAIRES'
+1999	01	18		1999	01	18		à_été_radiée_du_registre_du_commerce	La SOCIETE CHIMIQUE DE LA COURNEUVE (n° RCS : B542080494) à été radiée du registre du commerce le 18 janvier 1999.		'La SOCIETE CHIMIQUE DE LA COURNEUVE'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	03	05		1992	03	05		Cette_opération	Cette opération a été réalisée conformément à un arrêté préfectoral en date du 05/03/1992, pour un maximum de 150 000 m3.		
+1977				1991				exploitée	A l'occasion de travaux autoroutiers en 1992, 110 000 m3 de déchets industriels divers (déchets minéraux, résidus de station d'épuration, déchets industriels banals, gravats et matériaux de démolition) constituant une décharge exploitée entre 1977 et 1991 ont été extraits et reconfinés à proximité dans une alvéole spécifique créée à cet effet.	'de déchets industriels divers', 'déchets industriels banals'	
+1992	05			1992	05			mises_en_place	mises en place d'avril 1992 à mai 1992.		
+1992				1992				A_l__occasion	A l'occasion de travaux autoroutiers en 1992, 110 000 m3 de déchets industriels divers (déchets minéraux, résidus de station d'épuration, déchets industriels banals, gravats et matériaux de démolition) constituant une décharge exploitée entre 1977 et 1991 ont été extraits et reconfinés à proximité dans une alvéole spécifique créée à cet effet.	'de déchets industriels divers', 'déchets industriels banals'	
+								compactées	Les déchets ont été déposés dans cette alvéole de 12 200 m2 en couche successives compactées pendant une période de 2 mois.	'Les déchets'	
+2000	07	11		2000	07	11		Le_prélèvement	Le prélèvement du 11/07/2000 sur PZ1 et PZ2 montrait:		
+1992	03			1992	03			Les_terrassements	Les terrassements de l'alvéole devant recevoir les déchets se sont déroulés en mars 1992.		
+1992	04			1992	04			mises_en_place	mises en place d'avril 1992 à mai 1992.		
+				1992	07	24		Le_transfert	Le transfert des déchets a été effectué à partir du 19/05/1992 jusqu'au 24/07/1992 pour une quantité totale d'environ 110 000 m3 de déchets.		

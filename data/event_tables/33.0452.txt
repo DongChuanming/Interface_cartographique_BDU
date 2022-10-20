@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	08	19		2014	08	19		des_travaux_est_dressé	Le procès-verbal de récolement des travaux est dressé le 19/08/2014 sur la base des documents transmis (disponible en page "situation technique-Rapports sur la dépollution du site").		
+2013	06	30		2013	06	30		La_cessation_définitive_d__activité	La cessation définitive d'activité est déclarée le 30/06/2013.		
+2014	08	19		2014	08	19		des_travaux_dressé	Le procès-verbal de récolement des travaux dressé le 19/08/2014 rappelle que "en cas de changement d'usage, il conviendra de procéder à des investigations complémentaires afin de déterminer si les milieux, ou la qualité des milieux, sont bien compatibles avec un usage futur de type résidentiel".		
+2013	05			2013	05			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols a été réalisé par Rincent EGEH Environnement en mai 2013.		'Rincent EGEH'
+2013				2013				des_travaux_de_démantèlement	Lors des travaux de démantèlement réalisés en 2013, toutes les installations ont été retirées (3 appareils de distribution, 3 cuves, séparateur d'hydrocarbures, boutique...).	'hydrocarbures'	
+1969				2013				exploitée	Ancienne Station-service sous l'enseigne AVIA exploitée de 1969 à 2013 par BM VO DISTRIBUTION au 202, avenue de la Libération 33 Le Bouscat.		'AVIA', 'BM VO DISTRIBUTION'
+2013				2013				ont_été_retirées	Lors des travaux de démantèlement réalisés en 2013, toutes les installations ont été retirées (3 appareils de distribution, 3 cuves, séparateur d'hydrocarbures, boutique...).	'hydrocarbures'	

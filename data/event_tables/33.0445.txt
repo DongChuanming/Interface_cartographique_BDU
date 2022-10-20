@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2006				a_été_démantelée	La station située sur la parcelle 142 a été démantelée entre 2003 et 2006.		
+2003				2003				a_été_retiré	Le matériel de la station dont les cuves et les appareils de distribution a été retiré soit en 2003 pour la station située sur la parcelle 142 soit en 2014 pour celui de la station située sur la parcelle 218.		
+1990	1989			1990	1989			a_été_fermée	En 1989/1990, cette dernière a été fermée et une nouvelle station a été implantée sur la parcelle 142.		
+2003				2003				La_remédiation_démarre	La remédiation démarre en 2003 par l'excavation des cuve de 80 m3.		
+2000				2007				plusieurs_diagnostics	Le rapport de travaux du 23 juin 2014 réalisé par AMDE mentionne plusieurs diagnostics de pollution réalisés entre 2000 et 2007.		'AMDE'
+1978				1978				a_été_déclarée	Une première station-service a été déclarée sur la parcelle 218 en 1978.		'service'
+2015	08	05		2015	08	05		a_transmis	L'exploitant a transmis ce dossier à M le Préfet le 5 août 2015.		'le Préfet'
+2014				2014				les_travaux_de_retrait_des_cuves	Concernant la parcelle 218, les travaux de retrait des cuves et d'excavation des terres polluées ont ont été effectués en 2014,  289,68 t de terres polluées ont été envoyées en traitement au biocentre OCCITANIS à Graulhet (31).		'biocentre OCCITANIS'

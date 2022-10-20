@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	03			2009	03			a_été_réalisée	La seconde phase de travaux a été réalisée et constatée par la DRIRE en mars 2009.		'la DRIRE'
+2004				2004				des_programmes_de_travaux_de_réhabilitation	En 2004, la DGAC a élaboré et chiffré des programmes de travaux de réhabilitation du site et a défini des modalités de démantèlement des installations et de traitement des éventuelles pollutions.		'la DGAC'
+2015	05	26		2015	05	26		a_été_signé	Un arrêté préfectoral portant constitution de servitudes d'utilité publique sur les parcelles du site 1244 et 794 en partie, 798, 799 et 800 de la section B a été signé par le préfet le 26 mai 2015.		'le préfet'
+2007	11			2007	11			Les_premiers_travaux	Les premiers travaux (novembre 2007 à décembre 2008) ont permis :		
+2007				2008				Des_analyses	Des analyses des niveaux d’eau et des échantillons de la nappe souterraine ont été réalisées à fréquence semestrielle entre 2007 et 2008.		
+2008	12			2008	12			Les_premiers_travaux	Les premiers travaux (novembre 2007 à décembre 2008) ont permis :		

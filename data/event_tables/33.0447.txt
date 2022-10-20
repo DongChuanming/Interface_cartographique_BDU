@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Des_travaux_de_démantèlement	Des travaux de démantèlement de la station ont eu lieu fin 2012.		
+1982				1982				a_été_exploité	Le site a été exploité de 1982 a 2012.		
+2012				2012				a_été_exploité	Le site a été exploité de 1982 a 2012.		

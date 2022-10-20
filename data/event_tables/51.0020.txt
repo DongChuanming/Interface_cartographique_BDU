@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	03	03		2005	03	03		a_demandé	Par courrier du 3 mars 2005, le commandant de la base aérienne 113 a demandé au chef de subdivision des bases aériennes de transmettre ces résultats à la préfecture de la Marne.		
+1997				1997				Un_diagnostic_initial	Un diagnostic initial et une évaluation sanitaire des risques ont été réalisés en 1997 et complétés début 1998.		
+1998				1998				complétés	Un diagnostic initial et une évaluation sanitaire des risques ont été réalisés en 1997 et complétés début 1998.		
+2005	06	09		2005	06	09		ont_été_communiqués	Les résultats ont été communiqués à l'inspection des installations classées de la DRIRE le 9 juin 2005.		'DRIRE'
+1997	05			1997	05			a_été_mise_en_évidence	La pollution par les hydrocarbures a été mise en évidence, en mai 1997, lors de l'évaluation environnementale du site qui allait être aliéné et cédé à la société d'économie mixte chargé de l'aménagement de la future plate-forme aéroportuaire Europort Vatry.	'hydrocarbures'	"la société d'", 'aéroportuaire Europort Vatry'
+1998				1998				Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été ensuite demandés et fournis fin 1998 et début 1999.		
+1999				1999				Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été ensuite demandés et fournis fin 1998 et début 1999.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06			1999	06			réalisée	L'Etape A 'historique et documentaire, réalisée en juin 1999 est remise en juin 2004.		
+2012	09	18		2012	09	18		La_campagne	La campagne du 18/09/2012 montre une augmentation des hydrocarbures dans le piézomètre amont (PZ BE2) avec une concentration de 0.1 mg/l, de même la concentration en aval (PZ BE7) augmente (0.21 mg/l).	'hydrocarbures'	
+2011	11	17		2011	11	17		La_campagne	La campagne du 17/11/2011 confirme les traces d'hydrocarbures sur le piézomètre amont qui sont en augmentation (0.06 mg/l) et sur l'un des 2 piézomètres aval avec des concentrations moindres que lors de la dernière mesure  (0.05 mg/l).	'hydrocarbures'	
+2005				2005				prescrire_une_nouvelle_étude	Compte tenu de la persisante d'un impact sur la nappe, il y a lieu par voie d'arrêté préfectoral complémentaire de prescrire une nouvelle étude relative à la source de pollution déjà identifiée en 2005.		
+2009	10	05		2009	10	05		La_campagne	La campagne du 05/10/2009 permet de constater l'absence d'impact sur la nappe.		
+2005	10			2005	10			sont_transmises	L'étape B et l'ESR sont transmises en octobre 2005.		"l' ESR"
+2011	04	06		2011	04	06		La_campagne	La campagne du 06/04/2011 montre l'apparition de traces d'hydrocarbures sur le piézomètre amont (0.05 mg/l) et sur l'un des 2 piézomètres aval (0.21 mg/l).	'hydrocarbures'	
+2007				2007				mise_en_place	Cette étude complétera celle réalisée en 2005 et aboutira à la réalisation d'un schéma conceptuel et d'un plan de gestion (tel que préconisé par la nouvelle méthodologie mise en place en 2007 par le ministère pour l'analyse des sites et sols pollués). cette étude permettra :		
+2012	04	03		2012	04	03		La_campagne	La campagne du 03/04/2012 montre qu'il n'y a plus de traces d'hydrocarbures sur le piézomètre amont (PZ BE2), la même concentration de 0.05 mg/l est relevée sur le piézomètre aval (PZ BE7).	'hydrocarbures'	
+2007	10	03		2007	10	03		La_campagne_du	La campagne du 03/10/2007 montre l'absence d'impact par les composés ci-dessus.	'les composés'	
+2004	06			2004	06			est_remise	L'Etape A 'historique et documentaire, réalisée en juin 1999 est remise en juin 2004.		

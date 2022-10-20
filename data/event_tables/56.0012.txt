@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2002	12			Les_analyses_des_eaux_opérées	Les analyses des eaux opérées de juin 2000 à décembre 2002 montrent des teneurs en composés organiques et métaux lourds du même ordre de grandeur que les valeurs-guide, associées à ces polluants.	'composés organiques', 'métaux lourds'	
+2006				2006				s__est_dotée	Afin d'améliorer la qualité des eaux rejetées dans le ruisseau, l'entreprise s'est dotée en 2006 d'une station de détoxication.		
+2014	08	1		2014	08	1		Le_raccordement_est_effectué	Le raccordement est effectué le 1er août 2014.		
+2000	12			2000	12			Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques a été réalisée en décembre 2000.		
+1999	05	20		1999	05	20		a_été_autorisée_à_exploiter	La société Bretagne Chrome a été autorisée à exploiter une installation de traitement de surface par arrêté préfectoral du 20 mai 1999.		'La société Bretagne Chrome'

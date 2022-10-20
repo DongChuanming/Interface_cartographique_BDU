@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1889				1977				a_accueilli	Le site a accueilli une usine à gaz de 1889 à 1977.		
+1977				1980				ont_été_démolies	Les installations de l'usine ont été démolies entre 1977 et 1980.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2007				2007				ont_été_déposées	Zone Nord : Le études de risques sanitaires et les plans de gestion pour le réaménagement de la zone au Nord ont été déposées à l'inspection des installations classées en 2007.		

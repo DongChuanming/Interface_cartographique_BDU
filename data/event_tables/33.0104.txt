@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_exploité	Ce site a été exploité depuis les années 1950 et a d'abord accueilli une unité de production d'essence de térébenthine à partir de résine de pin, jusque dans les années 1970.	'essence', 'térébenthine', 'résine de pin'	
+2006	04	07		2006	04	07		et_à_la_visite_de_récolement	Suite au mémoire de cessation définitive d'activité adressé au Préfet le 05 septembre 2005 et à la visite de récolement le 7 avril 2006, il est demandé à l'exploitant d'enlever les déchets restants.	'les déchets'	
+2005	02	18		2005	02	18		La_campagne_d__analyses	La campagne d’analyses des eaux souterraines du 18 février 2005 montre que la situation est satisfaisante et reste stable par rapport aux campagnes précédentes.		
+2000	11	16		2000	11	16		de_la_visite	Lors de la visite du 16 novembre 2000, l'inspecteur des installations classées constate la mise à l'arrêt définitif de nombreuses installations.		
+2002	09			2002	09			Les_travaux_sont_réalisés	Les travaux sont réalisés en septembre 2002.		
+2001	08			2001	08			Les_études_remises	Les études remises en juin et août 2001 révèlent la présence de 2 sources de pollution des sols (résine et hydrocarbures)sans impact sur la nappe.	'résine', 'hydrocarbures)sans'	
+								ont_été_développées	Dans les années 1970, des activités liées à la mécanique (moteurs marins, puis moteurs automobiles) ont été développées avec des ateliers de peinture, de traitement de surface et des bancs d'essai.		
+2002	04			2002	04			a_été_conservéej	Seule l'activité de bancs d'essai autorisée par l'arrêté préfectoral du 3 juin 1995 a été conservéej usqu'en avril 2002, date à laquelle l'ensemble de l'activité PRIM cesse définitivement.		
+2003				2005				__sont_enlevées	Les 3 cuves d'hydrocarbures  sont enlevées entre 2003 et 2005.	'hydrocarbures'	
+2005	09	05		2005	09	05		La_cessation_définitive_d__activité	La cessation définitive d'activité a été déclarée le 5 septembre 2005.		
+2005	03	10		2005	03	10		est_obturé	Le forage utilisé pour l'alimentation en eau de l'usine est obturé le 10 mars 2005.		
+2001				2001				lors_du_diagnostic	L'arrêté préfectoral du 6 août 2002 prescrit l'excavation des 2 sources de pollution identifiées lors du diagnostic de 2001.		
+								Les_études_remises	Les études remises en juin et août 2001 révèlent la présence de 2 sources de pollution des sols (résine et hydrocarbures)sans impact sur la nappe.	'résine', 'hydrocarbures)sans'	
+2006	04	07		2006	04	07		il_est_demandé	Suite au mémoire de cessation définitive d'activité adressé au Préfet le 05 septembre 2005 et à la visite de récolement le 7 avril 2006, il est demandé à l'exploitant d'enlever les déchets restants.	'les déchets'	
+								a_d__abord_accueilli	Ce site a été exploité depuis les années 1950 et a d'abord accueilli une unité de production d'essence de térébenthine à partir de résine de pin, jusque dans les années 1970.	'essence', 'térébenthine', 'résine de pin'	

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés durant l’été 2002. 198 tonnes de terres présentant une teneur en hydrocarbures supérieure à 1000 mg/kg ont été excavées et évacuées vers un centre de traitement biologique.	'hydrocarbures'	
+2004	06			2004	06			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en juin 2004. 130 tonnes de terres présentant une teneur en hydrocarbures supérieure à 1000 mg/kg ont été excavées et évacuées vers un centre de traitement biologique.	'hydrocarbures'	
+1923				1923				ont_été_construites	Les installations de production d’électricité par chaudières fonctionnant au charbon ont été construites en 1923.	'charbon'	
+2005				2005				a_été_banalisé	Le site a été banalisé en 2005 suite à la dépollution du site et à l'absence de risques sanitaires et environnementaux.		
+2004				2004				Les_contrôles	Les contrôles de la qualité des eaux souterraines et de l'Yèvre réalisés en 2004, pendant et après les travaux, ont montré des concentrations en hydrocarbures inférieures à la valeur de l'arrêté du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine.	'hydrocarbures'	
+2000	02			2000	02			a_procédé	Dans le cadre d’un projet de cession du site, l’exploitant a procédé à un diagnostic initial et une évaluation simplifiée des risques (ESR) en février 2000.		

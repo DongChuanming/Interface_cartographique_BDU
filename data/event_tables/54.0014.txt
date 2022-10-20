@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	05			2000	05			L__Etude_Simplifiée_des_Risques	L'Etude Simplifiée des Risques, ESR,réalisée par la société Bail Industrie en qualité de représentant de l'ancien exploitant sidérurgique a été rendue en mai 2000, l'étude conclue que le site est à surveiller dans le cadre  d'un usage industriel, classe 2.		'la société Bail Industrie'
+2011	12	13		2011	12	13		de_la_visite	Lors de la visite du 13 décembre 2011, ce même bâtiment est toujours présent et en cours d'ensevelissement par des matériaux inertes.		
+2001	12			2001	12			a_été_ajoutée	Depuis décembre 2001, la mesure des teneurs en HAP a été ajoutée au programme d'analyse.	'HAP'	
+2011	12	13		2011	12	13		de_la_visite	Lors de la visite du 13 décembre 2011, l'inspection a constaté la présence d'un dépôt illégal de déchets (ferrailles, batteries usagées).		
+1881				1966				a_été_en_activité	Le site sidérurgique d’HUSSIGNY-GODBRANGE a été en activité de 1881 à 1966.		'sidérurgique d’ HUSSIGNY - GODBRANGE'
+2011	12	13		2011	12	13		est_toujours_présent	Lors de la visite du 13 décembre 2011, ce même bâtiment est toujours présent et en cours d'ensevelissement par des matériaux inertes.		
+2002	03	20		2002	03	20		de_la_visite_d__inspection	Lors de la visite d'inspection du 20 mars 2002, il est constaté que la fosse à locomotive a été traité mais que le bâtiment n'est pas détruit.		
+2011	12	13		2011	12	13		a_constaté	Lors de la visite du 13 décembre 2011, l'inspection a constaté la présence d'un dépôt illégal de déchets (ferrailles, batteries usagées).		
+1965				1965				est_devenue	La société USINOR est devenue l’actionnaire principal de la Société des Hauts-Fourneaux Réunis de Saulnes et Uckange (HFRSU) en 1965.	'la Société des Hauts-Fourneaux Réunis'	'La société USINOR', 'Uckange'

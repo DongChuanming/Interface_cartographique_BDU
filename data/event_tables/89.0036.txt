@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04			2012	04			a_été_réalisée	En avril 2012: aucune campagne de suivi de la qualité des eaux souterraines n'a été réalisée depuis février 2011.		
+2010				2010				est_réalisé	En décembre  2010, un diagnostic complémentaire des sols est réalisé afin de:		
+								est_réalisé	En décembre  2010, un diagnostic complémentaire des sols est réalisé afin de:		
+2009	06			2009	06			à_cessé	Le 30 juin 2011 : Reçu pour information que l'activité exercée par la société SCHIEVER CARBURANTS sur ce site à cessé début juin 2009.		'société SCHIEVER CARBURANTS'
+2010	07			2010	07			une_diagnostic_initial_des_sols	Dans cet optique, la société SCHIEVER fait réaliser une diagnostic initial des sols en juillet 2010.		'la société SCHIEVER'
+2010				2010				envisage	En 2010, Schiver Carburants envisage le démantèlement de l'ancienne station service ainsi que la neutralisation/excavation d'une cuve de carburant de 50 m3 tri-compartimentée.	'Schiver Carburants', 'carburant'	
+2011	02			2011	02			a_été_réalisée	En avril 2012: aucune campagne de suivi de la qualité des eaux souterraines n'a été réalisée depuis février 2011.		

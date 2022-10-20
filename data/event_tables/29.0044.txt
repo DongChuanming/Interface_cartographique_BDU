@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				porte_sur	Le bilan quadriennal, réalisé en avril 2012, porte sur la période 2008 - 2012.		
+2012	04			2012	04			Le_bilan_quadriennal	Le bilan quadriennal, réalisé en avril 2012, porte sur la période 2008 - 2012.		
+2008				2008				porte_sur	Le bilan quadriennal, réalisé en avril 2012, porte sur la période 2008 - 2012.		
+2008	08			2008	08			a_cessé_ses_activités	Le site a cessé ses activités août 2008 ; les activités ont été transférées vers un autre site appartenant à la société.		
+2008	04			2008	04			Un_prélèvement_effectué	Un prélèvement effectué en avril 2008 au niveau d’un piézomètre situé à 250 mètres en aval hydraulique du site révèle l’absence d’impact sur les eaux souterraines.		

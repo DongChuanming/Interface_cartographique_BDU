@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2015	10			aux_excavations	Cela fait suite aux excavations des zones d’impact résiduelles (liées à l’ancienne zone source) réalisées de juillet à octobre 2015.		
+2015	12			2015	12			La_campagne_de	La campagne de décembre 2015 montre une baisse des concentrations globale en tétrachloroéthylène.	'tétrachloroéthylène'	
+2005	02	28		2005	02	28		était_autorisée_à_exploiter	Elle était autorisée à exploiter ses installations par arrêté préfectoral du 28 février 2005.		
+2010	03	1		2010	03	1		la_cessation_totale_d__activité	Le 1er mars 2010, la société SEBISAJO (ex METAUSEL) notifiait au préfet du Bas-Rhin la cessation totale d'activité de son site en application de l'article R.512-39-1 du code de l'environnement.		'la société SEBISAJO', 'METAUSEL'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969	01	30		1969	01	30		est_autorisée	Le 30 janvier 1969, la Manufacture de Ressorts de Carrosserie de Terrenoire est autorisée par arrêté préfectoral.		'Ressorts de Carrosserie de Terrenoire'
+2002				2002				les_études_réalisées	La zone identifiée dans les études réalisées en 2002 et 2006 comme polluée aux hydrocarbures n’a pas fait l’objet d’analyses complémentaires permettant d’en délimiter les contours en surface et profondeur	'hydrocarbures'	
+2008				2008				a_acquis	L’usage futur prévu par l’actuel propriétaire, qui a acquis le tènement en 2008, est un usage industriel et artisanal.		
+2006				2006				Des_analyses_de_sols_réalisées	Des analyses de sols réalisées en 2002 et 2006 ont fait apparaître des pollutions significatives en Hydrocarbures au droit d’une partie des bâtiments.	'Hydrocarbures'	
+2002				2002				Des_analyses_de_sols_réalisées	Des analyses de sols réalisées en 2002 et 2006 ont fait apparaître des pollutions significatives en Hydrocarbures au droit d’une partie des bâtiments.	'Hydrocarbures'	
+2006				2006				les_études_réalisées	La zone identifiée dans les études réalisées en 2002 et 2006 comme polluée aux hydrocarbures n’a pas fait l’objet d’analyses complémentaires permettant d’en délimiter les contours en surface et profondeur	'hydrocarbures'	
+2014	08	1		2014	08	1		la_réalisation_d__un_diagnostic_complémentaire_des_milieux	Il a donc été prescrit, par arrêté préfectoral de prescriptions spéciales en date du 1er août 2014, la réalisation d’un diagnostic complémentaire des milieux sols et eaux souterraines ainsi que la présentation d’un plan de gestion des pollutions constatées.		
+1909				1909				abandonnés	A l’ouest du site se trouvaient 2 puits miniers dénommés puits d’aérage et puits Ste Marie qui exploitaient une couche charbonneuse orientée ouest-est plongeant vers le sud (ouvrages abandonnés avant 1909).		
+1998				1998				s__arrête	Les activités de MRT s’arrête en 1998 et le 13 mai 2008 un courrier est adressé en préfecture pour déclarer la cessation d’activité.		'MRT'

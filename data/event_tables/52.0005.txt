@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11			2001	11			Les_travaux_ont_eu_lieu	Les travaux ont eu lieu d'août 2001 à novembre 2001.		
+2012	12			2012	12			reçues	Les derniers résultats d'analyses reçus datent de septembre 2012 (reçues en décembre 2012).		
+2003				2003				complété	Un rapport de fin de travaux a été remis par l'exploitant en mars 2002 et complété début 2003 suite à une demande du préfet sur proposition de l'inspection des installations classées (rapport en date du 27 août 2002)		
+2000	07	07		2000	07	07		déposé	Une couverture étanche dont la mise en place était explicitée dans le cahier des charges déposé le 7/07/2000 a été installée.		
+2001	09	19		2001	09	19		Une_visite_de_contrôle_des_travaux_a_eu_lieu	Une visite de contrôle des travaux a eu lieu le 19/09/2001 suivie d'une visite de récolement le 7/02/2002.		
+2005	11	10		2005	11	10		de_l__intervention	Lors de l'intervention du 10 novembre 2005, la société chargée du contrôle a signalé à l'inspection des installations classées que quatre pièzomètres étaient bouchés.		
+				1998				est_alors_laissé_en_friche	Ces activités se terminent dans les années 1980 et le site est alors laissé en friche jusqu'en 1998.		
+2005	11	10		2005	11	10		a_signalé	Lors de l'intervention du 10 novembre 2005, la société chargée du contrôle a signalé à l'inspection des installations classées que quatre pièzomètres étaient bouchés.		
+2001	08			2001	08			Les_travaux_ont_eu_lieu	Les travaux ont eu lieu d'août 2001 à novembre 2001.		
+2002	03			2002	03			a_été_remis	Un rapport de fin de travaux a été remis par l'exploitant en mars 2002 et complété début 2003 suite à une demande du préfet sur proposition de l'inspection des installations classées (rapport en date du 27 août 2002)		
+2006	04			2006	04			ont_été_implantés	C'est pourquoi, de nouveaux pièzomètres ont été implantés au début avril 2006 afin de remplacer les ouvrages endommagés.		
+2012	09			2012	09			reçues	Les derniers résultats d'analyses reçus datent de septembre 2012 (reçues en décembre 2012).		
+								est_alors_laissé_en_friche	Ces activités se terminent dans les années 1980 et le site est alors laissé en friche jusqu'en 1998.		
+2002	02	07		2002	02	07		d__une_visite_de_récolement	Une visite de contrôle des travaux a eu lieu le 19/09/2001 suivie d'une visite de récolement le 7/02/2002.		
+								a_été_construite	La cokerie de St Dizier a été construite dans les années 1920 pour produire du gaz et du coke destinés aux hauts fourneaux de l'aciérie de Micheville.	'coke'	
+2000				2000				ont_été_rassemblés_et_confinés	Aprés plusieurs années d'études qui ont permis d'évaluer le niveau de pollution du site (notamment par des hydrocarbures aromatiques polycycliques) et de définir une solution de réhabilitation, les bâtiments ont été démolis en 1998 et les sols pollués ont été rassemblés et confinés sur place pendant l'été 2000 (surface de la zone de confinement: 3500m2).	'hydrocarbures aromatiques polycycliques'	
+1932				1932				La_production_a_cessé	La production a cessé en 1932, date à laquelle la crise mondiale provoque l'effondrement de la demande en produits métallurgiques.		
+2003	09			2003	09			a_été_signée	Une servitude de type contractuelle au profit de l'Etat a été signée en septembre 2003.		
+1998				1998				ont_été_démolis	Aprés plusieurs années d'études qui ont permis d'évaluer le niveau de pollution du site (notamment par des hydrocarbures aromatiques polycycliques) et de définir une solution de réhabilitation, les bâtiments ont été démolis en 1998 et les sols pollués ont été rassemblés et confinés sur place pendant l'été 2000 (surface de la zone de confinement: 3500m2).	'hydrocarbures aromatiques polycycliques'	

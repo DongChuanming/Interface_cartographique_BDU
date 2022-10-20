@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		avait_été_retenu	En application de la circulaire du 3 avril 1996, ce site avait été retenu pour la réalisation d'un diagnostic initial et d'une étude simplifiée des risques.		
+1999	04			1999	04			23_sondages_avaient_été_réalisés	Pour cette évaluation simplifiée des risques, réalisée en avril 1999, 23 sondages avaient été réalisés dans un premier temps, puis 7 nouveaux sondages ont été réalisés en septembre 2000.		
+2000	09			2000	09			23_sondages_avaient_été_réalisés	Pour cette évaluation simplifiée des risques, réalisée en avril 1999, 23 sondages avaient été réalisés dans un premier temps, puis 7 nouveaux sondages ont été réalisés en septembre 2000.		
+1996	02	13		1996	02	13		était_déjà_prescrite	Cette surveillance était déjà prescrite par l'arrêté préfectoral du 13 février 1996.		
+1996	07			1996	07			est_équipé_d_	Le site est équipé d'un réseau de 3 piézomètres depuis juillet 1996 (1 piézomètre amont et 2 en aval).		
+1999	04			1999	04			cette_évaluation_simplifiée_des_risques	Pour cette évaluation simplifiée des risques, réalisée en avril 1999, 23 sondages avaient été réalisés dans un premier temps, puis 7 nouveaux sondages ont été réalisés en septembre 2000.		
+1938				1938				a_été_mise_en_service	Cette usine a été mise en service en 1938.		
+1996				1996				deux_campagnes_de_mesure	Depuis 1996, l'exploitant fait réaliser chaque année deux campagnes de mesure du benzène, des hydrocarbures totaux et des détergents anioniques dans les 3 piézomètres installés sur le site (1 dans le Calcaire du Lutétien, 2 dans les alluvions); l'une de ces campagnes a lieu à l'occasion des hautes eaux de la Marne, l'autre a lieu aux basses eaux.	'benzène', 'hydrocarbures totaux', 'détergents anioniques'	
+2000	09			2000	09			7_nouveaux_sondages	Pour cette évaluation simplifiée des risques, réalisée en avril 1999, 23 sondages avaient été réalisés dans un premier temps, puis 7 nouveaux sondages ont été réalisés en septembre 2000.		

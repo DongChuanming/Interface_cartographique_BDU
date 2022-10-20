@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	11			1989	11			rachète	Le groupe HOLLIDAY par le biais de la société Bow Valley Ressources Services rachète la société BLANCOMME en novembre 1989.		'Le groupe HOLLIDAY', 'la société Bow Valley Ressources Services', 'la société BLANCOMME'
+2006	03	16		2006	03	16		sera_imposé	Le suivi des eaux sera imposé par l’inspection des installations classées par le biais de l’arrêté préfectoral du 16/03/2006.		
+2004	05	17		2004	05	17		La_cession_des_actifs	La cession des actifs au profit de la société INX International a été signée le 17/05/2004.		'la société INX International'
+1993				1993				a_été_réalisée	La première étude du site a été réalisée par la société DHV Burrow-Crocker Consulting en 1993.		'la société DHV Burrow - Crocker'
+2004	01	05		2004	01	05		a_ouvert_une_procédure_de_redressement_judiciaire	Le Tribunal de Commerce a ouvert une procédure de redressement judiciaire à l’égard de la société HOLLIDAY Encre en date du 05/01/2004.		'Le Tribunal de Commerce', 'la société HOLLIDAY Encre'
+1994	12			2002	02			ont_eu_lieu	Quatre campagnes de suivi de la qualité des eaux souterraines ont eu lieu entre les mois de décembre 1994 et février 2002.		
+2004				2004				des_investigations	Dans le cadre de la cessation d’activité de la société HOLLIDAY Encre, des investigations complémentaires ont été menées par la société ERM en 2004.		'la société HOLLIDAY Encre', 'la société ERM'
+2005	06			2005	06			Une_Étude_Simplifiée_des_Risques	Une Étude Simplifiée des Risques (ESR) menée par ERM a eu lieu sur le site en juin 2005.		'ERM'
+1970				1970				a_débuté	La première activité sur le site a débuté en 1970 avec l’implantation de la société BLANCOMME.		'la société BLANCOMME'
+1998				1998				se_fait_racheter	Le groupe HOLLIDAY se fait racheter par le groupe YULE CATTO en 1998.		'Le groupe HOLLIDAY', 'le groupe YULE CATTO'
+2006	05	04		2009	05	30		Sept_campagnes_ont_été_réalisées	Sept campagnes ont été réalisées entre le 04/05/2006 et le 30/05/2009.		

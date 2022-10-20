@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								un_projet_d__aménagement	Dans les années 80, le site a fait l’objet d’un projet d’aménagement par le propriétaire de l’époque.		
+2017				2017				les_investigations	Un appel d’offre a été lancé et les investigations (sondages à la pelle mécanique, reconnaissance des gaz du sol) commenceront début 2017.		
+1970				1970				Toutes_les_activités_cessent	Toutes les activités cessent en 1970, la raffinerie et Pechelbronn-Progil vendent les terrains et le matériel.		'Pechelbronn', 'Progil'
+								l__inconstructibilité	AU début des années 2000, la DREAL a préconisé l’inconstructibilité de la zone.		'la DREAL'
+2016	04			2016	04			Une_réunion_d__information_publique	Une réunion d’information publique détaillant ces éléments s’est déroulée fin avril 2016.		

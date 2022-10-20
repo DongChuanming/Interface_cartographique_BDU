@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06	19		2002	06	19		sondages	Campagne d'investigation sols au moyen de sondages du 19 juin 2002:		
+2002	10			2002	10			réalisée	Campagne eaux souterraines réalisée en octobre 2002:		
+2002	01	01		2002	01	01		est_affiliée_en_location___gérance	1 janvier 2002: La société SANARA LOGISTIQUE AUTOMOBILE est affiliée en location-gérance à la société CAUSSE WALON;		'La société SANARA LOGISTIQUE AUTOMOBILE', 'la société CAUSSE WALON'
+2010	10	02		2010	10	02		Incendie	2 octobre 2010: Incendie de l'unité de déparaffinage.		
+2003	03	13		2003	03	13		Déclaration	Déclaration d'activité du nouvel atelier de déparaffinage au 13 mars 2003 reçu en sous-préfecture de Wissembourg.		
+1963	06	24		1963	06	24		Changement	24 juin 1963: Changement d'exploitant au nom de SANARA;		'SANARA'
+2002	10			2002	10			réalisée	Campagne sols réalisée en octobre 2002:		
+2003	01			2003	01			évaluation_simplifiée_des_risques	Étude de sol - phase B - évaluation simplifiée des risques est réalisée en janvier 2003 à la demande des services de la DRIRE Bas-Rhin par courrier du 27 septembre 2002.		'la DRIRE Bas-Rhin'
+2000	01	1		2000	01	1		L__incendie	> L'incendie de l'unité de déparaffinage le 1er janvier 2000.		
+1963	04	04		1963	04	04		__Mise_en_exploitation	4 avril 1963: Mise en exploitation d'un garage de véhicules automobile d'une surface de 15 000 m² par la société PAUL HEIDET;		'la société PAUL HEIDET'
+2003	05	13		2003	05	13		des_camapagnes	La société a mené des camapagnes eaux souterraines le 13 mai 2003, le 9 juin 2004 et le 24 mai 2005.		

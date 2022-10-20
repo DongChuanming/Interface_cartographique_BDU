@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_repris	La société FLB SAS a repris en 2005 l’activité de laminage et de travail mécanique des métaux exercée par la société Forges et Laminoirs de Breteuil S.		'La société FLB', 'la société Forges', 'et Laminoirs de Breteuil S.'
+1973				1973				le_déboisement	L'analyse des photos aériennes (1947, 1973 et 2000) a montré que le déboisement de la parcelle en cause avait débuté en 1973, ce qui indiquerait le début des dépôts sauvages.		
+								une_vidange	- boues de décanteur (du recyclage de l'eau de process) : une vidange des bassins est réalisée tous les 2 ans,	'boues de décanteur'	
+2006	06	27		2006	06	27		une_déclaration	La reprise de l’activité exercée a fait l’objet d’une déclaration de changement d’exploitant du 27 juin 2006 et le récépissé de déclaration de ce changement d’exploitant est du 11 juillet 2006.		
+2006	11			2006	11			a_été_présenté	Compte tenu des résultats des investigations réalisées et des recommandations d'ANTEA, un projet d'Arrêté Préfectoral a été présenté au CODETS du mois de novembre 2006.		'ANTEA'
+2006	07	11		2006	07	11		une_déclaration	La reprise de l’activité exercée a fait l’objet d’une déclaration de changement d’exploitant du 27 juin 2006 et le récépissé de déclaration de ce changement d’exploitant est du 11 juillet 2006.		

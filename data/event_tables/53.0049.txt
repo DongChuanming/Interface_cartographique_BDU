@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				a_cessé_ses_activités	La société a cessé ses activités en 1991.		
+								Le_début_de	Le début de l’activité fioul remonterait aux années 1950.		
+2001				2002				la_dépollution	Suite à ce constat, la dépollution du site s’est réalisée en trois phases entre 2001 et 2002 :		
+1995	01			1995	01			un_diagnostic_environnemental	Afin de réhabiliter le site, un diagnostic environnemental a été réalisé par un bureau d’étude en janvier 1995.		

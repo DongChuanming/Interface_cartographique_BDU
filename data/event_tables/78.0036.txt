@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04	25		2002	04	25		ont_été_remis	Les rapports correspondants ont été remis le 25 avril 2002.		
+2015	03			2015	03			a_fourni	Conformément à l'arrêté préfectoral de février 2011, l'exploitant a fourni en mars 2015, un bilan quadriennal de surveillance des eaux souterraines.		
+2015	07	27		2015	07	27		a_demandé_par_lettre	Suite à l'analyse de l'inspection des installations classées, Monsieur le préfet des Yvelines a demandé par lettre du 27 juillet 2015 des compléments sur ces documents et notamment que l'exploitant s'engage sur la solution qu'il retient.		'le préfet des Yvelines'
+2017				2017				des_compléments_de_diagnostics	Courant 2017, des compléments de diagnostics et une étude technico-économique présentant les solutions de gestion de la pollution ont été transmis par l'exploitant.		
+2011	12	31		2011	12	31		L__effectif	L’effectif du site des MUREAUX s’élève, au 31 décembre 2011, à 2022 personnes.		'MUREAUX'
+2015				2015				un_bilan_de_surveillance	- la réalisation d'un bilan de surveillance de la pollution pour le début de l'année 2015 assorti d'un bilan coûts-avantages du dispositif de traitement de la pollution.		
+2011	02			2011	02			a_fourni	Conformément à l'arrêté préfectoral de février 2011, l'exploitant a fourni en mars 2015, un bilan quadriennal de surveillance des eaux souterraines.		
+2019				2019				un_arrêt_du_traitement	Courant 2019, un arrêt du traitement de la zone source est programmé.		
+2000	06			2000	06			L__Étude_Simplifiée_des_Risques	L'Étude Simplifiée des Risques, remise en juin 2000, a conduit à  classer le site en Classe 1, en raison de la présence du champ captant en aval.		
+2007				2007				est_opérationnel	Ce système de confinement hydraulique est opérationnel depuis fin 2007.		
+1999	04	14		1999	04	14		Les_études_des_sols	Les études des sols ont été prescrites par l’arrêté préfectoral du 14 avril 1999.		
+2012				2012				La_campagne_de_recensement_a_été_effectuée	La campagne de recensement a été effectuée en 2012.		
+2017	11			2017	11			est_mise_en_œuvre	La solution de traitement de la zone de pollution principale est mise en œuvre en novembre 2017 et semble fonctionner avec efficacité.	'pollution principale'	

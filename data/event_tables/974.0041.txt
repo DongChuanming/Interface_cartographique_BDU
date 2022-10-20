@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								indique_que_26	Le rapport indique que 26 m3 de terres impactées par les hydrocarbures ont été excavées et évacuées dans les filières appropriées. 29 m3 d'eaux ont été pompées puis ont transitées par un séparateur d'hydrocarbure.		
+2011	03			2011	03			Les_résultats_de	Les résultats de la campagne de mars 2011 indique l'absence d'impact dans les eaux souterraines sur l'ensemble des paramètres analysés (HAP et HCT).	'eaux', "souterraines sur l'", 'des paramètres'	

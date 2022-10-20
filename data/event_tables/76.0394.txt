@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				est_construit_et_occupé	Le site est construit et occupé depuis 1972 par l’exploitant pour l’exploitation d’activités comparables à celles dernièrement exercées par ESSITY (fabrication de papiers).		'ESSITY'
+2019	04	29		2019	04	29		son_mémoire_de_cessation_d__activité	L’exploitant a transmis le 29 avril 2019 son mémoire de cessation d’activité comprenant un diagnostic de l’état de pollution des sols (rapport ANTEA référencé n°A98033B en date du 26/4/2019).		'ANTEA'

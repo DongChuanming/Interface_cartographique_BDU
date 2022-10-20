@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_été_respectivement_établis	Les rapports relatifs à ces études ont été respectivement établis en janvier et décembre 2000.		
+2007				2007				de_nouveaux_sondages_réalisés	Début 2007, de nouveaux sondages réalisés par la société FERELEC et la communauté d'agglomération ont été réalisés au droit du terrain touché par le déversement dans le cadre d'une future utilisation de ces terrains (développement de la zone industrielle).		'la société FERELEC'
+1995				1995				Des_travaux_de_dépollution	Des travaux de dépollution des terres polluées par de l'oxyde chromique ont été engagés depuis 1995 au moyen de deux puits qui pompe l'eau de la nappe des calcaires de Brie.	'oxyde chromique'	
+1975				1975				est_implanté	Cet établissement est implanté sur le site depuis 1975 et repose sur les sables/grès de Fontainebleau.		
+2009	11			2009	11			a_subi_un_incendie	La société a subi un incendie en novembre 2009 qui a détruit une partie de l'usine.		
+1991				1991				Des_prélèvements	Des prélèvements de sols et d'eaux ont été réalisés en 1991 sur le terrain au nord de l'établissement : ceux-ci mettent en évidence la présence de métaux (chrome, nickel, cuivre).	'métaux', 'chrome', 'nickel', 'cuivre'	
+2009	11			2009	11			a_détruit	La société a subi un incendie en novembre 2009 qui a détruit une partie de l'usine.		
+2010	03			2010	03			un_incident	En mars 2010, un incident sur les rejets aqueux de la société a nécessité l'intervention du gestionnaire du réseau ainsi que des services de l'inspection des installations classées.		
+2000	12			2000	12			ont_été_respectivement_établis	Les rapports relatifs à ces études ont été respectivement établis en janvier et décembre 2000.		
+2003	01			2003	01			Cette_surveillance_est_effective	Cette surveillance est effective depuis janvier 2003 avec une fréquence mensuelle.		
+								est_en_zéro_rejet	La société est en zéro rejet depuis le 01/01/14.		

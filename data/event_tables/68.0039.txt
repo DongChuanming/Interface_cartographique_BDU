@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06	12		2001	06	12		ont_été_transmises	Ces informations ont été transmises le 12/06/2001.		
+2007	11	12		2007	11	12		la_remise	A la suite de la remise du bilan de fonctionnement décennal (12 novembre 2007), les prescriptions de l'arrêté du 22/03/2002 ont été reprise tel quel dans l'arrêté codificatif du 4 avril 2008.		
+2008	04	04		2008	04	04		l__arrêté_codificatif	A la suite de la remise du bilan de fonctionnement décennal (12 novembre 2007), les prescriptions de l'arrêté du 22/03/2002 ont été reprise tel quel dans l'arrêté codificatif du 4 avril 2008.		
+2008				2008				n__ont_jamais_été_détecté	Les polluants spécifiquement recherché : dichlorométhane, chloroacétate d'éthyl, chloroformiate de methyl, phénol et méthanol n'ont jamais été détecté depuis 2008.	'Les polluants', 'dichlorométhane', "chloroacétate d' éthyl", 'chloroformiate de methyl', 'phénol', 'méthanol'	

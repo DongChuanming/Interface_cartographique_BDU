@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_investigations_réalisées	Les investigations réalisées depuis les années 1990 ont permis d'affiner la connaissance de l'état des milieux et de définir des mesures de gestion.		
+2002				2002				Des_travaux_réalisés	Des travaux réalisés en 2001-2002 ont permis d'extraire plus de 500 tonnes de goudrons pris en masse et de terres fortement imprégnées dans trois secteurs.	'goudrons'	
+								Les_investigations_réalisées	Les investigations réalisées depuis les années 1990 ont mis en évidence, sur le site de la cokerie :		
+2005	01			2005	01			L__évaluation_détaillée_des_risques	L'évaluation détaillée des risques pour la santé réalisée en janvier 2005 sur la base d'un scénario industriel et commercial (étude ANTEA référencée A35199/B) concluait à un risque cancérigène inacceptable sur l'ensemble des zones de la cokerie ; les principaux paramètres limitant étant l'arsenic, le plomb et les HAP.	'arsenic', 'le plomb', 'les HAP'	'ANTEA'
+2010				2010				un_plan_de_gestion_a_été_déposée	Pour la partie de la cokerie concernée par le parc Walygator, un plan de gestion a été déposée en 2010 pour l'implantation d'un nouveau manège du parc Walygator.		'le parc Walygator', 'parc Walygator'
+2014	07			2014	07			réalisé	Le rapport réalisé par la société ENECO en juillet 2014 synthétise l'ensemble des travaux réalisés en 2012 et 2014 et présente les contrôles de la qualité des sols superficiels menés en mars 2014.		'la société ENECO'
+2012				2012				Les_travaux_réalisés	Les travaux réalisés en 2012 et 2014 ont consisté en :		
+2001				2001				Des_travaux_réalisés	Des travaux réalisés en 2001-2002 ont permis d'extraire plus de 500 tonnes de goudrons pris en masse et de terres fortement imprégnées dans trois secteurs.	'goudrons'	
+2014				2014				Les_travaux_réalisés	Les travaux réalisés en 2012 et 2014 ont consisté en :		
+2014	03			2014	03			les_contrôles_de_la_qualité_des_sols	Le rapport réalisé par la société ENECO en juillet 2014 synthétise l'ensemble des travaux réalisés en 2012 et 2014 et présente les contrôles de la qualité des sols superficiels menés en mars 2014.		'la société ENECO'

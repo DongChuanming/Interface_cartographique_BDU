@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06	25		1999	06	25		a_été_imposé	Le 25 juin 1999, il a été imposé par arrêté préfectoral à la société SEED Logistique, pour la remise en état du site de l'ancien entrepôt SOVINAL à BIERNE :		'la société SEED Logistique', 'entrepôt SOVINAL'
+1998	06	22		1998	06	22		un_violent_incendie	Le 22 juin 1998, l'entrepôt SOVINAL de BIERNE, exploité par la société SEED Logistique pour le stockage d'huiles végétales alimentaires, a été dévasté par un violent incendie.		'SOVINAL', 'la société SEED'

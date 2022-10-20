@@ -1,7 +1,7 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1993				1993					Pollution_accidentelle	sous_sol							
-1993									est_en_place								
-1994	04			1994	04				Une_étude_de_sol			a_été_effectuée					
-2003	01	20		2003	01	20			a_été_demandée	une_ESR							
-2006	09			2006	09				avait_été_interompu								
-2007	07			2007	07				la_transmission								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				est_en_place	Un pompage des hydrocarbures est en place depuis 1993.	'hydrocarbures'	
+1994	04			1994	04			Une_étude_de_sol	Une étude de sol a été effectuée en avril 1994.		
+2006	09			2006	09			Le_pompage	Le pompage de la phase flotante avait été interompu en septembre 2006.		
+2003	01	20		2003	01	20		a_été_demandée	Le 20/01/2003, une ESR a été demandée.		
+1993				1993				Pollution_accidentelle	Pollution accidentelle du sous-sol par des hydrocarbures en 1993.	'hydrocarbures'	
+2007	07			2007	07			à_la_transmission	Suite à la transmission en juillet 2007 du suivi de la nappe il a été demandé de reprendre le pompage et de maintenir le suivi.		

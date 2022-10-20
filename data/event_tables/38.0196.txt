@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2010				a_exercé	La société AUREUS a exercé entre 2006 et 2010 des activités de récupération et de fonderie de métaux précieux à partir par exemple de films radiographiques usagés et de microprocesseurs informatiques.		'La société AUREUS'
+2010	04	15		2010	04	15		a_transmis	Suite à l'arrêt de l'exploitation, la société AUREUS a transmis le 15 avril 2010, un dossier de cessation d'activité comme exigé par la réglementation.		'la société AUREUS'
+2006				2010				des_activités_de_récupération	La société AUREUS a exercé entre 2006 et 2010 des activités de récupération et de fonderie de métaux précieux à partir par exemple de films radiographiques usagés et de microprocesseurs informatiques.		'La société AUREUS'
+2010				2010				du_transfert_des_activités	Aucune activité industrielle n'est plus exercée sur le site depuis 2010 date du transfert des activités de la société sur la commune de Saint-Quentin-Fallavier.		
+2010				2010				n__est_plus_exercée_sur	Aucune activité industrielle n'est plus exercée sur le site depuis 2010 date du transfert des activités de la société sur la commune de Saint-Quentin-Fallavier.		

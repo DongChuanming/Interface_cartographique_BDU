@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12	31		1999	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) devait être transmise à l'administration au plus tard le 31/12/1999.		
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée par arrêté préfectoral n° 98 8366 du 01/12/1998.		
+2002	07			2002	07			Un_prélèvement	Un prélèvement en amont et en aval de l'usine dans les eaux de la Romanche a été effectué en juillet 2002.		
+1999	06			1999	06			a_été_excavée	Au droit de la zone de dépôt à l'ouest du site, la zone autour de S3 a été excavée sur une superficie d'environ 20 m² et 20 cm de profondeur en juin 1999.		
+1998	05	04		1998	05	04		bénéficie_d_	Le site bénéficie d'un arrêté préfectoral d'autorisation d'exploiter du 04/05/1998.		
+1894				1894				ont_eu_lieu	L'usine fabrique du silicium à l'aide de fours mais de nombreuses autres activités ont eu lieu depuis 1894 dans cette usine (production de soude et de chlorure de chaux, d'aluminium, sodium, magnésium, carbure de calcium, ferro alliages…).	'silicium', 'soude', 'chlorure', 'aluminium', 'sodium', 'magnésium', 'carbure', 'de calcium', 'ferro'	
+1999	10	25		1999	10	25		ont_été_transmises	La phase B du diagnostic initial et l'ESR ont été transmises le 25/10/1999.		
+1998	08	18		1998	08	18		Un_diagnostic_initial	Un diagnostic initial a été transmis à l'administration le 18/08/1998.		
+2002	07			2002	07			la_campagne	Aucune différence amont/aval significative n'est observée, sauf pour le zinc lors de la campagne de juillet 2002 (0,001 mg/L de zinc en aval en novembre 1998 et 0,04 mg/kg de zinc en juillet 2002).	'le zinc', 'zinc', 'zinc'	

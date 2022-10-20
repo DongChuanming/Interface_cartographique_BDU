@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Des_analyses_ont_été_effectuées	Des analyses ont été effectuées en 2010 et en avril 2011 sur demande de l'inspection des installations classées.		
+2014	04	15		2014	04	15		a_été_déposé	Dans le cadre de la cessation d'activités, un dossier faisant objet de mémoire en réponse a été déposé le 12 novembre 2010 et complété en dernier lieu le 15 avril 2014.		
+2009	07			2009	07			des_mesures_des_retombées_atmosphériques	> des mesures des retombées atmosphériques en juillet 2009 pour les paramètres métaux et dioxines/furannes (hors site).	'métaux', 'dioxines', 'furannes'	
+2011	02			2011	02			a_cessé_de_fonctionner	L'Usine d'Incinération d'Ordures Ménagères (UIOM), située sur la commune de Sainte-Gemmes-sur-Loire, autorisée initialement par arrêté préfectoral du 28/03/1972 complété par les arrêtés préfectoraux complémentaires du 10/04/1998, 20/05/2003, 28/06/2004 et du 01/04/2009, a cessé de fonctionner en février 2011 (arrêt des fours,…).		
+2012	01	17		2012	01	17		Une_visite_de_récolement	Une visite de récolement en date du 17 janvier 2012 a été effectuée faisant état des constats suivants :		
+2010	11	12		2010	11	12		a_été_déposé	Dans le cadre de la cessation d'activités, un dossier faisant objet de mémoire en réponse a été déposé le 12 novembre 2010 et complété en dernier lieu le 15 avril 2014.		
+2009				2009				un_diagnostic_des_sols_sur_site	> d'un diagnostic des sols sur site en 2009 :		
+2011	03			2011	03			Une_première_visite_d__inspection	Une première visite d'inspection a eu lieu en mars 2011 afin de constater l'arrêt de l'usine (évacuation des déchets) et le début des travaux de démantèlement.		
+2010				2010				les_surveillances_environnementales	Par ailleurs, les surveillances environnementales de 2010-2011 (analyses de lait et lichens) indiquent des valeurs en dessous des seuils pris en référence.		
+2014	04	15		2014	04	15		complété_en_dernier_lieu	Dans le cadre de la cessation d'activités, un dossier faisant objet de mémoire en réponse a été déposé le 12 novembre 2010 et complété en dernier lieu le 15 avril 2014.		
+2009				2009				des_analyses	> des analyses en métaux, phénols et hydrocarbures qui ont été effectués sur les eaux souterraines (au niveau de trois piézomètres) et sur les eaux du ruisseau du Frotte-Pénil en 2009.	'métaux', 'phénols', 'hydrocarbures'	
+2011	04			2011	04			Des_analyses_ont_été_effectuées	Des analyses ont été effectuées en 2010 et en avril 2011 sur demande de l'inspection des installations classées.		

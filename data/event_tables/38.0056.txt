@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	1		1998	12	1		a_demandé	En application de la circulaire ministérielle du 3 avril 1996 relative à la réalisation de diagnostics initiaux et de l’évaluation simplifiée des risques sur les sites industriels en activité, la Préfecture de l’Isère a demandé à la société RHODIA de Roussillon, par arrêté préfectoral n° 98-8366 du 1er décembre 1998, de réaliser une étude simplifiée des risques (ESR).		'la société RHODIA'
+2001	07			2001	07			Les_résultats_transmis	Les résultats transmis par l’exploitant s’étalant sur la période  juillet 2001 à décembre 2003 indiquent :		
+2008	01			2008	01			ont_été_menées	Les études ont été menées par la société ATOS environnement, le rapport correspondant a été remis en janvier 2008.		'la société ATOS environnement'
+2008	05	29		2008	05	29		a_été_proposé	Sur la base des résultats des études un plan de gestion a été proposé par la société ATOS environnement le 29 mai 2008.		'la société ATOS environnement'
+2003	03			2003	03			une_hausse_des_teneurs	- la présence de cumène dans le piézomètre TI17 avec une hausse des teneurs depuis mars 2003 allant jusqu’à 37 mg/l.	'cumène'	
+2003	12			2003	12			Les_résultats_transmis	Les résultats transmis par l’exploitant s’étalant sur la période  juillet 2001 à décembre 2003 indiquent :		
+2012	03			2012	03			a_remis	Concernant la pollution aux siloxanes situées sous le site BLUESTAR SILICONES, conformément à l'arrêté préfectoral du 26 octobre 2010, l'exploitant a remis en mars 2012 une étude portant sur la récupération de la phase libre de siloxanes.	'siloxanes', 'siloxanes'	'BLUESTAR SILICONES'
+2009				2009				la_première_fois	Aucune présence de BTEX sur TG09 et pour la première fois depuis 2009 sur TI17.		'BTEX'
+2014	11	1		2014	11	1		une_réévaluation	Cette étude a fait l'objet d'un examen par l'IIC qui a donné lieu à un courrier du préfet de l'Isère daté du 13 mai 2013  fixant les investigations complémentaires à mener et demandant de fournir pour le 1er novembre 2014 une réévaluation des propositions faites dans le cadre de l'étude.		'préfet'
+2010	10	26		2010	10	26		a_remis	Concernant la pollution aux siloxanes situées sous le site BLUESTAR SILICONES, conformément à l'arrêté préfectoral du 26 octobre 2010, l'exploitant a remis en mars 2012 une étude portant sur la récupération de la phase libre de siloxanes.	'siloxanes', 'siloxanes'	'BLUESTAR SILICONES'
+								HAP_diminuent	Sur le piézomètre TL 17 les teneurs en HAP diminuent pour le 2° trimestre consécutif.	'HAP'	
+2001	12	31		2001	12	31		L__étude_de_sol	L'étude de sol est à remettre avant le 31/12/2001.		

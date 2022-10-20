@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				changement_de_raison_sociale	En 2007, changement de raison sociale de la société ETSm qui devient D2T.		'la société ETSm', 'D2T.'
+2013	2012			2013	2012			des_investigations_de_sols	Dans le cadre de la fermeture définitive du site par la société D2T, des investigations de sols et des travaux de dépollution ont été menés courant 2012/2013.		'la société D2 T'
+1959				1959				créé	Ce site, créé en 1959 a été le lieu d'exploitation d'un centre de recherche et d'essais.		
+2005	11			2005	11			a_projeté	En novembre 2005, dans le cadre d'un aménagement immobilier, la ville de Mont Saint-Aignan a projeté de vendre une partie des terrains dans le cadre de la création d'une école d'enseignement.		
+2006	02			2006	02			Des_investigations_complémentaires	Des investigations complémentaires, réalisées en janvier 2006 et février 2006, confirment la pollution et permettent de quantifier les terres souillées (800 tonnes).		
+2006	01			2006	01			Des_investigations_complémentaires	Des investigations complémentaires, réalisées en janvier 2006 et février 2006, confirment la pollution et permettent de quantifier les terres souillées (800 tonnes).		
+2013				2013				a_procédé_à_des_premiers_travaux_de_dépollution	Suite à l'arrêt des activités, la société D2T a mené une première phase d'investigations dans les sols et a procédé à des premiers travaux de dépollution courant 2012-2013.		'la société D2 T'
+1998				1998				sont_vendus	En 1998, les terrains sont vendus à la ville de Mont Saint-Aignan et les activités sont scindées pour être exercées par les entreprises ETSA et ETSP.		'les entreprises ETSA', 'ETSP'
+2015				2015				campagnes_de_dépollution_complémentaire	Au cours de l'année 2015, la SCI LEMIO a procédé à dexu campagnes de dépollution complémentaire des sols présents sous le bâtiment principal.		'la SCI LEMIO'
+2012				2012				a_mené_une_première_phase_d__investigations	Suite à l'arrêt des activités, la société D2T a mené une première phase d'investigations dans les sols et a procédé à des premiers travaux de dépollution courant 2012-2013.		'la société D2 T'
+2013				2013				a_mené_une_première_phase_d__investigations	Suite à l'arrêt des activités, la société D2T a mené une première phase d'investigations dans les sols et a procédé à des premiers travaux de dépollution courant 2012-2013.		'la société D2 T'
+2012				2012				a_procédé_à_des_premiers_travaux_de_dépollution	Suite à l'arrêt des activités, la société D2T a mené une première phase d'investigations dans les sols et a procédé à des premiers travaux de dépollution courant 2012-2013.		'la société D2 T'
+2006	06			2006	06			Un_traitement	Un traitement de la zone a finalement été réalisé pour le compte des sociétés ETSA et ETSP en juin 2006.		'des sociétés ETSA', 'ETSP'
+1989				1989				crée	En 1989, le groupe ESSO crée une filiale ESSO Technologies et Services qui deviendra indépendante en 1997 sous le nom Expertises Technologiques et Services.		'le groupe ESSO', 'ESSO Technologies'

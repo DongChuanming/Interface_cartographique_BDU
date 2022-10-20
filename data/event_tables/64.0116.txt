@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02	23		2010	02	23		a_été_fermé	- le dépôt a été fermé le 23 février 2010,		
+2009	11			2009	11			de_la_visite_d__inspection	Lors de la visite d'inspection de novembre 2009, des apports de déchets ont été constatés.		
+2009	11			2009	11			ont_été_constatés	Lors de la visite d'inspection de novembre 2009, des apports de déchets ont été constatés.		

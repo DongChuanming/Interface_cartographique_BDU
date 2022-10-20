@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	03			2017	03			l__inspection	Suite à l'inspection qui a eu lieu en mars 2017, l'exploitant doit procéder à l'élimination des fûts non utilisés et des déchets anciens et doit s'assurer se la bonne qualité des rétentions sur lesquelles sont stockés les produits et déchets.	'fûts non utilisés', 'des déchets anciens'	
+2014	12			2014	12			Les_analyses	Les analyses de décembre 2014 des eaux rejetées dans le Jouha montrent :		
+2008				2008				la_cession	Dans le cadre de la cession de l'étang de Robien à la commune de Saint-Brieuc en 2008, des analyses ont été effectuées sur les sédiments.		
+1992				1992				Une_étude_de_caractérisation	Une étude de caractérisation du site de décharge et des sables de fonderie mis en dépôt a été réalisée en 1992.		
+2016				2016				des_études_ont_été_réalisées	Dans le cadre d'un projet de réhabilitation de la décharge de sables de fonderie, des études ont été réalisées en 2015 et 2016 :		
+2004	07			2004	07			ont_été_réalisées	Elles ont été réalisées en février 2002 et juillet 2004.		
+1965	02	20		1965	02	20		a_été_autorisée_à_exploiter	La société SAMBRE et MEUSE a été autorisée à exploiter une aciérie par arrêté préfectoral du 20 février 1965.		'La société SAMBRE', 'et MEUSE'
+2002	02			2002	02			ont_été_réalisées	Elles ont été réalisées en février 2002 et juillet 2004.		
+2017	03			2017	03			l__élimination	Suite à l'inspection qui a eu lieu en mars 2017, l'exploitant doit procéder à l'élimination des fûts non utilisés et des déchets anciens et doit s'assurer se la bonne qualité des rétentions sur lesquelles sont stockés les produits et déchets.	'fûts non utilisés', 'des déchets anciens'	
+2015				2015				des_études_ont_été_réalisées	Dans le cadre d'un projet de réhabilitation de la décharge de sables de fonderie, des études ont été réalisées en 2015 et 2016 :		
+2008				2008				des_analyses	Dans le cadre de la cession de l'étang de Robien à la commune de Saint-Brieuc en 2008, des analyses ont été effectuées sur les sédiments.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	12		2003	05	12		encadrée_par	Aujourd'hui la société est encadrée par l'AP du 12 mai 2003, complété par celui du 02/11/2004.		
+2001	05	21		2001	05	21		a_été_complété	Il a été complété par l'AP du 24/01/1995, 30/06/1998, 09/02/1999, 11/07/2000, 21/05/2001.		
+1998	06	30		1998	06	30		a_été_complété	Il a été complété par l'AP du 24/01/1995, 30/06/1998, 09/02/1999, 11/07/2000, 21/05/2001.		
+1994				1994				a_été_installé	L'AP complémentaire du 24 janvier 1995 précise l'emplacement du piézomètre qui a été installé sur le site en 1994 et définis les paramètres à contrôler : pH, conductivité, hydrocarbures totaux, métaux lourds, solvants halogénés.	'pH', 'hydrocarbures totaux', 'métaux lourds', 'solvants halogénés'	
+2004	11	02		2004	11	02		encadrée_par	Aujourd'hui la société est encadrée par l'AP du 12 mai 2003, complété par celui du 02/11/2004.		
+2000	07	11		2000	07	11		a_été_complété	Il a été complété par l'AP du 24/01/1995, 30/06/1998, 09/02/1999, 11/07/2000, 21/05/2001.		
+1999	02	09		1999	02	09		a_été_complété	Il a été complété par l'AP du 24/01/1995, 30/06/1998, 09/02/1999, 11/07/2000, 21/05/2001.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				de_nouveaux_prélèvements_ont_été_effectués	Des travaux de dépollution des terres polluées par des cyanures ont été menés dans le secteur des gazomètres et de nouveaux prélèvements ont été effectués en 2004 pour vérification (étude LECES de 2004).	'cyanures'	
+1976				1979				ont_été_rasés	Tous les bâtiments ont été rasés entre 1976 et 1979.		
+1975				1975				a_été_stoppée	Toute activité cokière a été stoppée en 1975.		
+2012	09	04		2012	09	04		Il_a_été_demandé	Il a été demandé à l'exploitant, par arrêté du 4 septembre 2012, de proposer des mesures de gestion pour remette en état le site de la cokerie dans un état tel qu'il ne manifeste pas de risque ou inconvénient pour les intérêts mentionnés à l'article L.511-1 du code de l'environnement, établies sur la base d'un bilan coût-avantages.		
+1994				2004				Différentes_investigations_de_sols	Différentes investigations de sols ont été réalisées sur la zone anciennement occupée par la cokerie de MICHEVILLE entre 1994 et 2004.		
+2000				2000				ont_été_traités_par_incinération	En 2000, 58 tonnes de goudrons ont été traités par incinération sur une zone présentant des indices visuels de pollution.	'goudrons'	
+2004				2004				une_Evaluation_Simplifiée	Suite aux investigations de 2004, une Evaluation Simplifiée des Risques résiduels, a été mise en œuvre avec un scénario d’occupation des sols correspondant à une friche industrielle sans activité mais parcourue par moins de 50 personnes sensibles.		
+1950				1950				a_été_installée	La cokerie de Russange a été installée en 1950 sur le carreau de l’ancienne mine à ciel ouvert partiellement remblayée en 3 terrasses de dimensions inégales.		

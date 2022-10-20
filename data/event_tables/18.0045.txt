@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02	21		2012	02	21		La_cessation_totale_d__activité	La cessation totale d'activité du site a été annoncée le 21 février 2012.		
+2009	10			2009	10			a_été_complètement_arrêtée	L'activité du site a été complètement arrêtée en octobre 2009.		
+2011	08			2011	08			les_travaux_de_démolition	Début août 2011, les travaux de démolition étant terminés, les actions de traitement ont démarré.		
+2005	06			2005	06			une_étude_détaillée_des_risques	Dans le cadre d'un projet de cession et de développement du site (création d'un centre commercial et de parkings), une étude détaillée des risques a été menée en juin 2005.		
+1962				1962				__construit	A compter de 1962 la Compagnie générale d'électricité (filiale d'ALSTOM) construit des palans électriques.		"la Compagnie générale d' électricité", "d' ALSTOM"
+2006				2006				une_activité_d__apprêt_et_tannage_des_cuirs	L'entreprise Inter Cuir Europe a eu une activité d'apprêt et tannage des cuirs sur une partie du site (bâtiment 1) et a cessé son activité en 2006.		'Cuir Europe'
+2015	03	27		2015	03	27		a_été_notifié	Un arrêté préfectoral instituant des servitudes d'utilité publique a été notifié le 27 mars 2015 à l'exploitant.		
+2011	01			2011	01			a_été_finalisé	Le plan de gestion du site a été finalisé en janvier 2011.		
+2007	07			2007	07			Un_suivi	Un suivi de la qualité des eaux souterraines en juillet 2007 a montré que la contamination des eaux souterraines n'a pas évolué depuis 2005 (concentrations mesurées et extension du panache).		
+2006				2006				a_cessé	L'entreprise Inter Cuir Europe a eu une activité d'apprêt et tannage des cuirs sur une partie du site (bâtiment 1) et a cessé son activité en 2006.		'Cuir Europe'
+2009	10			2009	10			une_étude_complémentaire	En vue d'une cession potentielle du site à la ville de Vierzon, une étude complémentaire a été menée en octobre 2009 afin de permettre la réalisation d'une évaluation quantifiée du risque sanitaire (EQRS) et d'un plan de gestion des solvants (PGS).	'solvants'	'la'
+2006				2006				a_eu	L'entreprise Inter Cuir Europe a eu une activité d'apprêt et tannage des cuirs sur une partie du site (bâtiment 1) et a cessé son activité en 2006.		'Cuir Europe'
+2011	08			2011	08			ont_démarré	Début août 2011, les travaux de démolition étant terminés, les actions de traitement ont démarré.		
+2000	03			2000	03			une_évaluation	Dans le cadre de la location du bâtiment 1 à une entreprise de traitement du cuir, une évaluation de la qualité des sols de ce bâtiment a été réalisée en mars 2000.		
+								Des_investigations	Des investigations (sols et eaux souterraines) ont été menées en septembre et novembre 2004.		
+2012	02	23		2012	02	23		La_visite	La visite de l'inspection des installations classées du 23 février 2012 a permis de constater que celle-ci a été correctement effectuée et que les mesures réalisées finalisent le plan de gestion.		
+2004	11			2004	11			Des_investigations	Des investigations (sols et eaux souterraines) ont été menées en septembre et novembre 2004.		
+2005	11	24		2005	11	24		Des_mesures	Des mesures de la qualité de l'air ambiant le 24 novembre 2005 ont montré des concentrations en solvants chlorés nettement inférieures aux VME.	'solvants chlorés'	

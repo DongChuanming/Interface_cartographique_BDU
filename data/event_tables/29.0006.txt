@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	16		2004	06	16		ont_été_signées	Les servitudes ont été signées en avril 2004 (SCPE sous forme d'acte notarié) et ont été enregistrées au Conservatoire des Hypothèques le 16 juin 2004.		
+1999	03			2000	04			des_investigations_complémentaires	De mars 1999 à avril 2000, des investigations complémentaires ont été réalisées sur la qualité des eaux (ruisseau, puits et eaux souterraines) sur les paramètres hydrocarbures, phénols, métaux (Cu, Pb et Zn).	'hydrocarbures', 'phénols', 'métaux', 'Cu', 'Pb', 'Zn'	
+1998	12	31		1998	12	31		est_effectif	L'arrêt des activités est effectif depuis le 31 décembre 1998.		
+2004	04			2004	04			ont_été_signées	Les servitudes ont été signées en avril 2004 (SCPE sous forme d'acte notarié) et ont été enregistrées au Conservatoire des Hypothèques le 16 juin 2004.		
+2005	07	21		2005	07	21		a_été_établit	Le procès verbal de constat de fin de travaux a été établit le 21 juillet 2005.		
+1998				1998				Une_étude_environnementale	Une étude environnementale a été réalisée fin 1998 et conclut en la pollution des sols.		
+2005	06	10		2005	06	10		Une_visite	Une visite effectuée le 10 juin 2005 a permis de constater la réalisation des travaux de remise en état du site.		
+1999	09			1999	09			ont_été_excavées	A cet effet, les terres les plus contaminées ont été excavées en septembre 1999.		

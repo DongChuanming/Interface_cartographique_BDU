@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_cessations	Les cessations de ces deux activités ont été actées par récépissés préfectoraux du 24/02/87 et 7/03/91.		
+2005				2005				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'magnésie'	'la société PEM', 'la société Pechiney Bâtiment', 'Rio Tinto'
+1987				1987				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+2000	05			2000	05			Le_diagnostic_initial	Le diagnostic initial a été réalisé en mai 2000.		
+2003	07	25		2003	07	25		a_été_prescrite	La surveillance des eaux souterraines a été prescrite à l'exploitant par arrêté préfectoral du 25 juillet 2003, mis à jour par arrêté du 26 janvier 2018.		
+								elle_occupe	Employant près de 200 personnes, elle occupe la majeure partie de l’emprise maximale du site au milieu des années 1980 (11,5 ha sur 14).		
+1896				1896				elles_ont_commencé	Les activités industrielles sur le site historique de Chedde sont très anciennes : elles ont commencé en 1896.		'Chedde'
+2000				2000				réhabilite	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).		'la société PEM', ': Rio Tinto'
+1996	04	03		1996	04	03		investigations	Le site SGL Carbon a fait l'objet d'investigations dans le cadre de la circulaire du 03/04/1996.		'Le site SGL Carbon'
+2002				2002				analyser	A la demande de la DRIRE, la phase B de ce diagnostic, a consisté à échantillonner les sols à partir de divers sondages (6) et à analyser les eaux souterraines à partir de 4 piézomètres au cours du 2ème trimestre 2002 (rapport définitif remis le 26 août 2002).		'la DRIRE'
+2000				2000				a_été_fermé	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).		'la société PEM', ': Rio Tinto'
+								analyser	A la demande de la DRIRE, la phase B de ce diagnostic, a consisté à échantillonner les sols à partir de divers sondages (6) et à analyser les eaux souterraines à partir de 4 piézomètres au cours du 2ème trimestre 2002 (rapport définitif remis le 26 août 2002).		'la DRIRE'
+2006				2006				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'magnésie'	'la société PEM', 'la société Pechiney Bâtiment', 'Rio Tinto'
+1990				1990				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+2018	01	26		2018	01	26		a_été_prescrite	La surveillance des eaux souterraines a été prescrite à l'exploitant par arrêté préfectoral du 25 juillet 2003, mis à jour par arrêté du 26 janvier 2018.		
+1993				1993				exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+								exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+								ont_été_exploitées	Par exemple, les activités de production de chlorates et de perchlorates ont été exploitées en dernier lieu par la société ATOCHEM, comme acté par récépissé préfectoral du 12/05/86.	'chlorates', 'perchlorates'	'la société ATOCHEM'

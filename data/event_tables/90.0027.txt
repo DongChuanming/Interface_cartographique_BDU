@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	06			2011	06			cessent	Les activités du site cessent en juin 2011.		
+2011				2011				place	Elles concluent à la compatibilité de l'état du site avec l'usage industriel et commercial retenu, sous réserve du maintien du confinement imperméable des sols impactés par les métaux lourds et les hydrocarbures (en place depuis 2011).	'métaux lourds', 'hydrocarbures'	
+2013	10			2013	10			il_a_été_demandé	En octobre 2013, il a été demandé à l'exploitant de remettre un plan de gestion pour vérifier la compatibilité de l'état du site avec l'usage industriel et commercial retenu.		
+2008				2008				investigations	Le site a également fait l'objet d'investigations de terrain en 2005 par ARCADIS et en 2008 par TAUW France.		'ARCADIS', 'TAUW France'
+1960				1960				crée	En 1960, il crée une SARL et fait construire un niveau bâtiment pour la fabrication de réservoirs de stockage d'hydrocarbures.	'stockage', "d' hydrocarbures"	
+1975				1975				construit	En 1975, il construit un four de galvanisation à chaud, puis un deuxième plus important.		
+2005				2005				investigations	Le site a également fait l'objet d'investigations de terrain en 2005 par ARCADIS et en 2008 par TAUW France.		'ARCADIS', 'TAUW France'
+2014	03			2014	03			Les_études_demandées	Les études demandées ont été remises en mars 2014.		
+2011	06	06		2011	06	06		a_notifié_la_cessation_de_ses_activités	L'exploitant a notifié la cessation de ses activités le 6 juin 2011.		
+2002				2002				les_activités_de_galvanisation	En 2002, les activités de galvanisation à chaud sont stoppées.		
+2013	01	22		2013	01	22		un_mémoire_de_réhabilitation	Le 22 janvier 2013, l'Inspection des Installations Classées a reçu de la part de l'exploitant un mémoire de réhabilitation selon lequel des travaux ont été entrepris sur site, notamment des travaux de démolition et de mise en sécurité (évacuation des déchets).		
+1958				1958				ouvre	En 1958, Monsieur René RUST ouvre un atelier de mécanique générale à Offemont puis se lance dans la fabrication de réservoirs d'air et de montage de compresseurs qu'il commercialise. il met ensuite au point un petit atelier de machines à décoller le papier peint.		
+1983				1983				investit_dans	En 1983, il investit dans de nouveaux procédés mécaniques de poinçonnage et de pliage à commandes numériques, puis une cisaille mécanique à guillotine et à commande numérique ainsi qu'un banc de découpage plasmagène.	'plasmagène'	

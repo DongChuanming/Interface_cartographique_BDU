@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04	25		2001	04	25		a_été_modifiée	L’exploitant a transmis le rapport de l’étape A le 26 septembre 2000; elle a été modifiée le 25 avril 2001 suite aux remarques de l’inspection des installions classées le 8 janvier 2001.		
+1998	10	09		1998	10	09		est_autorisée_à_exploiter	9 octobre 1998: La société Vallourec Precision Etirage est autorisée à exploiter une unité d'étirage à froid de tubes.		'La société Vallourec Precision Etirage'
+2002	04	11		2002	04	11		n__a_pas_validé	Par courrier du 11 avril 2002, l’inspection des installations classées n’a pas validé le rapport final de l’ESR .		'ESR'
+2003	01	06		2003	01	06		impose	6 janvier 2003: Un arrêté préfectoral portant prescriptions complémentaires impose à Vallourec:		'Vallourec'
+2002	02	1		2002	02	1		a_transmis	A l’issue de l’étape B, l’exploitant a transmis le rapport final le 1er février 2002.		
+2000	09	26		2000	09	26		a_transmis	L’exploitant a transmis le rapport de l’étape A le 26 septembre 2000; elle a été modifiée le 25 avril 2001 suite aux remarques de l’inspection des installions classées le 8 janvier 2001.		
+2002	04	24		2002	04	24		ont_été_rencontrés	L’exploitant et le bureau d’études ont été rencontrés le 24 avril 2002 sur site.		
+2008	06	20		2008	06	20		impose	20 juin 2008: L'arrêté préfectoral portant mesures complémentaires impose à la société Salzgitter Mannesmann Precision Etirage de poursuivre sa surveillance concernant les polluants énumérés.	'les polluants'	'la société Salzgitter Mannesmann Precision Etirage'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				ont_été_remises	Ces études ont été remises fin 1999.		
+								Une_étude_de_sols	Une étude de sols et une évaluation simplifiée des risques ont été prescrites par arrêté préfectoral du 17/12/98.		
+				1993				ont_ensuite_servi	Certains bassins ont ensuite servi jusqu'en 1993 pour le dépôt de déchets comme des mâchefers ou des cendres et, jusqu'en 1997, pour la filtration des eaux provenant des ateliers polyoléfines de l'usine de Sarralbe.	'polyoléfines'	
+1955				1983				ont_été_utilisées	Anciens bassins de la société Solvay qui ont été utilisées de 1955 à 1983 comme bassins de filtration et décantation d'eaux résiduaires des soudières SOLVAY situées à Sarralbe (fabrication de carbonate de soude).	'soude'	'la société Solvay', 'soudières SOLVAY'

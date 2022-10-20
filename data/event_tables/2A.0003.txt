@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2008				Les_travaux_ont_démarré	Les travaux ont démarré fin 2007 et ont duré jusqu’à l’automne 2008.		
+2007				2007				la_réhabilitation	Le SITDESC a financé en 2007-2008 la réhabilitation de la décharge de Capu du Padule conformément à l’arrêté préfectoral n°08-0244 du 21 mars 2008.		'Le SITDESC', 'Capu du Padule'
+2007				2007				Les_travaux_ont_démarré	Les travaux ont démarré fin 2007 et ont duré jusqu’à l’automne 2008.		
+								a_été_réalisé	Le dépôt des déchets (OM, encombrants, inertes, déchets verts, boues de STEP, carcasses d'animaux, ...) directement sur le terrain naturel, a été réalisé depuis les années 1970.	'OM', 'STEP'	
+2008	01			2009	06	2008		Un_plan_de_surveillance	Un plan de surveillance des lixiviats et des eaux superficielles a été réalisé (janvier 2008-juin 2009) montrant des teneurs encore élevées de polluants dans les eaux souterraines et les eaux superficielles.	'polluants'	
+2008	03	21		2008	03	21		a_fixé	Par arrêté préfectoral n°08-0244 du 21 mars 2008, le préfet a fixé des prescriptions spécifiques afin d'encadrer la réhabilitation et la surveillance du site.		'le préfet'
+2008				2008				la_réhabilitation	Le SITDESC a financé en 2007-2008 la réhabilitation de la décharge de Capu du Padule conformément à l’arrêté préfectoral n°08-0244 du 21 mars 2008.		'Le SITDESC', 'Capu du Padule'
+2007	05			2007	05			a_été_remise	L'étude détaillant les modalités de réhabilitation a été remise en mai 2007.		
+2011	12	29		2011	12	29		a_été_pris	Un arrêté préfectoral d’établissement de servitudes d’utilité publique a été pris le 29 décembre 2011 (AP n°2011363-0002).		
+2006				2006				Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en 2006 selon la méthodologie ADEME pour la réhabilitation des décharges brutes.		

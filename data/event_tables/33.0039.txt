@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	08	20		1998	08	20		l__accident	Suite à l'accident du 20/08/1998 (fuite de nitrate et d'ammonium dans le sol), l'arrêté du 23/11/1998 prescrit le prédiagnostic, l'étude des sols et l'évaluation simplifiée des risques du site.	'nitrate', 'ammonium'	
+1999	04	06		1999	04	06		L__étude_remise	L'étude remise le 06/04/1999 montre la présence de nitrates, d'ammonium et d'azote dans la nappe.	'nitrates', 'ammonium', 'azote'	
+1990	05	17		1990	05	17		est_autorisée	L'installation est autorisée par l'arrêté préfectoral du 17/05/1990.		

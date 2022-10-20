@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				instruit	Ce dossier de servitude de droits privés à été complété en décembre 2010 et instruit par les services de l'Inspection des Installations Classées en 2012.		
+2002	03			2002	03			La_cessation_d__activité	La cessation d’activité a été portée à la connaissance du Préfet en mars 2002.		'Préfet'
+1969				1969				de_déclaration	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+2009	10	28		2009	10	28		a_transmis	En réponse au courrier de l'inspection des installations classées relatif à la définition des restrictions d'usage et la migration éventuelle hors site de la pollution par les eaux souterraines, la société SHELL a transmis un dossier de demande d'institution de restriction d'usage de droit privé le 28 octobre 2009.		'la société SHELL'
+2012				2012				à_été_complété	Ce dossier de servitude de droits privés à été complété en décembre 2010 et instruit par les services de l'Inspection des Installations Classées en 2012.		
+1980				1980				a_fait_l__objet_de	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+1969				1969				a_fait_l__objet_de	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+1980				1980				de_déclaration	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+2002				2002				a_été_stoppée	L’activité a été stoppée en 2002 et les installations mises en sécurité.		
+2010	12			2010	12			à_été_complété	Ce dossier de servitude de droits privés à été complété en décembre 2010 et instruit par les services de l'Inspection des Installations Classées en 2012.		
+1975				1975				a_fait_l__objet_de	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+2008	03	25		2008	03	25		a_fourni_une_analyse	Le 25 mars 2008, l'exploitant a fourni une analyse des risques résiduels.		
+2007	06	12		2007	06	12		le_rapport	Le 12 juin 2007 la société SHELL a transmis le rapport du diagnostic environnemental complémentaire.		'la société SHELL'
+1975				1975				de_déclaration	L’établissement a fait l’objet de plusieurs récépissés de déclaration de 1969, 1975 et 1980.		
+2002	10	06		2002	10	06		a_fourni	Le 6 octobre 2002, la société SHELL a fourni les compléments demandés concernant le diagnostic initial (objectifs de dépollution du site justifiés par une analyse des impacts de la pollution sur la santé et les dispositions prises pour extraire une lentille de pollution localisée sur le site).	'une lentille de pollution'	'la société SHELL'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				à_exploiter	Autorisation de la Commune à exploiter la décharge en 1965 au lieu-dit de "Largwegfeld" (parcelle n°121, section n°5).		'la Commune'
+1992				1992				a_été_constatée	La fermeture a été constatée en 1992.		
+1974				1974				exploiter	Autorisation de la Commune à exploiter la décharge en 1974 au lieu-dit "Au Winkel" (parcelle n°120, section n°5).		
+1965				1965				exploitée	Il s'agit d'une ancienne décharge exploitée dès 1965.		

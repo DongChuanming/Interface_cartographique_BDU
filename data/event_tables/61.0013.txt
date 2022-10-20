@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11	04		1998	11	04		un_diagnostic_de_sol	En réponse à un arrêté préfectoral en date du 4 novembre 1998, un diagnostic de sol et une évaluation des risques sanitaires ont été transmis en décembre 2001.		
+2002	06			2003	01			un_traitement	En raison d'une contamination significative des sols par des huiles hydrauliques, les eaux souterraines ont fait l'objet d'un traitement entre juin 2002 et janvier 2003.		
+1952				1952				implantée	Usine, implantée depuis 1952 en bordure Nord-Est de l’agglomération de Flers, spécialisée, depuis 1960, dans la production d’accessoires automobiles, notamment d’articulations pour sièges automobiles.		
+2001	12			2001	12			un_diagnostic_de_sol	En réponse à un arrêté préfectoral en date du 4 novembre 1998, un diagnostic de sol et une évaluation des risques sanitaires ont été transmis en décembre 2001.		
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'
+1995				1995				ont_été_démantelés	Une partie des installations de traitement (atelier de zingage et de bains contenant des cyanures et des chromes) ont été démantelés en 1995.	'des cyanures', 'chromes'	
+2011				2011				de_cesser	Le site prévoit de cesser son activité en 2011 et de la transférer sur le site de Caligny.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	12		2011	04	12		Une_visite_d__inspection	Une visite d’inspection a été réalisée le 12 avril 2011.		
+2012	05	14		2012	05	14		15_sondages_ont_été_réalisés	Le 14 mai 2012, 15 sondages ont été réalisés, à la pelle mécanique, d’une profondeur qui varie entre jusqu’à au moins 0,7 m et au plus 3,7 m.		
+2012	11	19		2012	11	19		Une_deuxième_campagne_de_prélèvement	Une deuxième campagne de prélèvement a été réalisée le 16 octobre 2012 (rapport de G Environnement du 19 novembre 2012), pour doser les dioxines sur les échantillons.	'dioxines'	
+1982	12	15		1982	12	15		a_été_mise_en_activité	Elle a été mise en activité le 15 décembre 1982 (maître d’ouvrage : SIVOM d’Injoux-Génissiat).		
+2012	07	09		2012	07	09		Une_étude_hydrogéologique	Une étude hydrogéologique ainsi qu’un diagnostic de pollution des mâchefers sur le site de l’ancien incinérateur ont été réalisés par G Environnement (rapport du 19/06/2012 reçu par l’inspection le 9 juillet 2012).		
+2012	10	16		2012	10	16		Une_deuxième_campagne_de_prélèvement	Une deuxième campagne de prélèvement a été réalisée le 16 octobre 2012 (rapport de G Environnement du 19 novembre 2012), pour doser les dioxines sur les échantillons.	'dioxines'	
+2012	07	09		2012	07	09		diagnostic_des_sols_reçu	Dans son courrier du 6 septembre 2012, l’inspecteur des installations classées demande des compléments au diagnostic des sols reçu le 9 juillet 2012 :		

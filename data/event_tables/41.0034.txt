@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				plusieurs_diagnostics_environnementaux_successifs	En 2005, dans le cadre d'un projet immobilier, plusieurs diagnostics environnementaux successifs (2005, 2006 et 2007) ont été réalisés sur le site.		
+2005				2005				plusieurs_diagnostics_environnementaux_successifs	En 2005, dans le cadre d'un projet immobilier, plusieurs diagnostics environnementaux successifs (2005, 2006 et 2007) ont été réalisés sur le site.		
+1995				1995				est_propriétaire	La commune d'Herbault est propriétaire du site depuis 1995.		"La commune d' Herbault"
+2010				2010				a_missionné	En 2010, dans le cadre d'un plan de cession des parcelles du site, la commune d'Herbault a missionné un bureau d'étude pour établir une stratégie de dépollution.		
+1996				1996				a_cessé	L'activité de tôlerie de la société TIAC a cessé en 1996 sur le site et l'entreprise a déménagé sur un autre site plus adapté à Herbault.		'la société TIAC'
+2007				2007				plusieurs_diagnostics_environnementaux_successifs	En 2005, dans le cadre d'un projet immobilier, plusieurs diagnostics environnementaux successifs (2005, 2006 et 2007) ont été réalisés sur le site.		
+2005				2005				établi	Le projet immobilier établi en 2005 n'a pas abouti.		

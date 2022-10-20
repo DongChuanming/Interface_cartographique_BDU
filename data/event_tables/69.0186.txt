@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984				2003				a_exploité	La société BOYER a exploité une installation de broyage et d'extrusion de matières plastiques en vue de leur recyclage de 1984 à 2003.		'La société BOYER'
+1983				1983				était_installé	Avant 1983, un fabricant de pont roulant était installé sur le site.		
+2003	10	07		2003	10	07		a_été_mise_en_liquidation_judiciaire	La société a été mise en liquidation judiciaire le 07/10/2003.		
+				2007	08	08		Les_campagnes_de_surveillance	Les campagnes de surveillance des eaux souterraines ont débuté le 29/09/2005 jusqu'au 08/08/2007.		
+2004	05	19		2004	05	19		a_été_pris	Un arrêté préfectoral a été pris le 19/05/2004, imposant au liquidateur de réaliser une ESR.		
+2003	11	28		2003	11	28		comprend	Ce diagnostic comprend 8 sondages (S1 à S8) de sols de 3 m de profondeur, effectués le 28/11/2003.		
+2004	08	26		2004	08	26		a_été_transmis	L'ESR a été transmis à la Préfecture le 26/08/2004.		'la Préfecture'
+2003	11	28		2003	11	28		8_sondages	Ce diagnostic comprend 8 sondages (S1 à S8) de sols de 3 m de profondeur, effectués le 28/11/2003.		
+2000	03	22		2000	03	22		est_soumise_à_déclaration	Cette activité est soumise à déclaration d'après le récépissé n°18714 du 22/03/2000.		

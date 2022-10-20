@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08			2001	08			a_été_remise	L'ESR a été remise en août 2001; le site est évalué en classe 2, à surveiller.		"L' ESR"
+1998	10	15		1998	10	15		Le_diagnostic	Le diagnostic et l'ESR ont été prescrits par arrêté préfectoral du 15 octobre 1998.		
+1920				1920				est_installée_sur_le_site	Elle est installée sur le site depuis 1920.		
+1999	11			1999	11			a_été_remise	L'étude historique constituant la première partie du diagnostic a été remise en novembre 1999.		
+1996	04	03		1996	04	03		a_été_proposé	En application de la circulaire du 3 Avril 1996, le site a été proposé pour la réalisation d'un diagnostic initial et d'une ESR (évaluation simplifiée des risques).		
+2010	09	17		2010	09	17		Le_contrôle	Le contrôle des Rejets de Substances Dangereuses dans l'Eau (RDSE), préconisée par l'APC du 17 septembre 2010 se poursuit.	'Substances Dangereuses'	
+2001				2003				Les_analyses_effectuées	Les analyses effectuées entre 2001 et 2003, une diminution importante des concentrations en polluants a été observée.	'polluants'	
+2013	02	20		2013	02	20		la_visite	Suite à la visite du 20 février 2013 par les services des inspecteurs des installations classées, il a été noté les point suivants:		

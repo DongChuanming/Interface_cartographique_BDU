@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04			2003	04			ont_été_faites	Les premiéres mesures ont été faites en Avril 2003.		
+2000				2000				complétée	L'étude présentée par le Cabinet Horizon, en juin 2000, et complétée à l'automne 2000, propose plusieurs solutions de dépollution.		'le Cabinet Horizon'
+2004	06			2004	06			un_avis	En juin 2004, le BRGM a émis un avis sur cette EDR  qui va dans le même sens que celui de l'inspection des Installations Classées c'est à dire que l'étude est notablement insuffisante et qu'elle doit être complétée.		'le BRGM'
+2003	12	18		2003	12	18		a_été_transmise	L'EDR a été transmise à l'inspection le 18 décembre 2003.		
+2000				2000				effectuées	Dans le cadre des études de vulnérabilité de la ressource en eau potable du syndicat Rhône-Pilat effectuées par le Cabinet HORIZON en 1999 et 2000, il a été découvert sur des puits de captage d'eau potable, la présence de solvants chlorés.	'solvants chlorés'	'le Cabinet HORIZON'
+2000				2000				a_été_découvert	Dans le cadre des études de vulnérabilité de la ressource en eau potable du syndicat Rhône-Pilat effectuées par le Cabinet HORIZON en 1999 et 2000, il a été découvert sur des puits de captage d'eau potable, la présence de solvants chlorés.	'solvants chlorés'	'le Cabinet HORIZON'
+2000				2000				propose	L'étude présentée par le Cabinet Horizon, en juin 2000, et complétée à l'automne 2000, propose plusieurs solutions de dépollution.		'le Cabinet Horizon'
+2000	06			2000	06			L__étude_présentée	L'étude présentée par le Cabinet Horizon, en juin 2000, et complétée à l'automne 2000, propose plusieurs solutions de dépollution.		'le Cabinet Horizon'
+1964	01			1964	01			a_été_démoli	En janvier 1964, l'immeuble a été démoli et le terrain a été utilisé par la DDE pour entreposer des matériaux.		'la DDE'
+1962				1962				a_procédé	L'Etat a procédé en 1962 à l'acquisition d'un terrain situé en bordure de la RN86 à Verlieux sur la commune de Chavanay en vue de l'élargissement de cette voie de communication.		
+2004	11			2004	11			a_reçu	En novembre 2004, l'inspection a reçu le rapport de dépollution du site. 1864 tonnes de terres polluées ont été évacuées en centre de traitement biologique.		
+1999				1999				effectuées	Dans le cadre des études de vulnérabilité de la ressource en eau potable du syndicat Rhône-Pilat effectuées par le Cabinet HORIZON en 1999 et 2000, il a été découvert sur des puits de captage d'eau potable, la présence de solvants chlorés.	'solvants chlorés'	'le Cabinet HORIZON'
+2003	03			2003	03			L__installation	L'installation par la DDE de 6 piézomètres autour de la zone polluée a été faite en Mars 2003.		'la DDE'
+1999				1999				a_été_découvert	Dans le cadre des études de vulnérabilité de la ressource en eau potable du syndicat Rhône-Pilat effectuées par le Cabinet HORIZON en 1999 et 2000, il a été découvert sur des puits de captage d'eau potable, la présence de solvants chlorés.	'solvants chlorés'	'le Cabinet HORIZON'

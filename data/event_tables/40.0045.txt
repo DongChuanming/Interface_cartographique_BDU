@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				sont_évacués	En 2000, lors de la création de l'avenue Clément ADER tous les déchets de sablage sont évacués (parcelle AT570), mais aucun diagnostic de pollution des sols n'est réalisé sur la parcelle AT439 comprenant le bâtiment de sablage et de peinture.		
+2018				2018				est_occupé	En 2018, le bâtiment est occupé par une entreprise non ICPE.		
+1999	04	1		1999	04	1		l__activité_cesse	Le 1er avril 1999, l'activité cesse et l'exploitant ne remet pas le site en état.		

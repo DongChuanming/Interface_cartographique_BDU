@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1730				1730				abord_en_surface	L'exploitation minière commença en 1730, d'abord en surface puis en carrières, en extrayant à même le sol le minerai de plomb (la galène).	'plomb', 'galène'	
+1843				1843				fut_découvert	En 1843 fut découvert le minerai de zinc (le blende).	'zinc'	'le blende'
+1930				1930				cette_reprise_d__activité_stoppa	En 1929, huit kilomètres de galeries, remplies d'eau, furent pompées pendant un an mais cette reprise d'activité stoppa en 1930.		
+1730				1730				L__exploitation_minière	L'exploitation minière commença en 1730, d'abord en surface puis en carrières, en extrayant à même le sol le minerai de plomb (la galène).	'plomb', 'galène'	
+1730				1730				extrayant_à_même_le_sol	L'exploitation minière commença en 1730, d'abord en surface puis en carrières, en extrayant à même le sol le minerai de plomb (la galène).	'plomb', 'galène'	
+1628				1628				C_	C'est en 1628 que fut mis à jour le filon de Pont-Péan.		
+1929				1929				furent_pompées	En 1929, huit kilomètres de galeries, remplies d'eau, furent pompées pendant un an mais cette reprise d'activité stoppa en 1930.		
+1955				1955				s__arrêta	Mais cette expérience s'arrêta en 1955.		
+1628				1628				que_fut_mis_à_jour	C'est en 1628 que fut mis à jour le filon de Pont-Péan.		
+1930				1930				furent_pompées	En 1929, huit kilomètres de galeries, remplies d'eau, furent pompées pendant un an mais cette reprise d'activité stoppa en 1930.		
+1991				1991				établi_et_approuvé	Après nivellement et reprofilage selon le cahier des charges établi et approuvé par l’Administration en 1991, la validation de l’opération a été prononcée au regard :		
+2009	08	13		2009	08	13		a_porté_à_la_connaissance	Par courrier du 13 août 2009, le préfet d'Ille-et-Vilaine a porté à la connaissance du maire de Bruz des recommandations en terme d'urbanisme afin de prendre en compte l'étude d'aléas « mouvement de terrain » et « pollutions des eaux et des sols » réalisée par le G.		"le préfet d' Ille-et-Vilaine", 'réalisée par'

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11			2009	11			a_informé	Par courrier du 13/10/2010, la société a informé l'administration, de l'existence d'une pollution des sols et des eaux souterraines, découverte en novembre 2009, lors de travaux de maintenance sur le regard de la cuve enterrée de stockage d'huiles usagées du site.		'la société'
+1999	07	30		1999	07	30		a_été_acté	L'arrêté a été acté le 30/07/1999, imposant l'exploitant :		
+2012	12	19		2012	12	19		Une_visite_d__inspection	Une visite d'inspection a été effectuée le 19/12/2012.		
+2010	05			2010	05			une_analyse_des_risques_résiduels	En mai 2010, une analyse des risques résiduels (ARR) par la société SCE a été réalisée afin de préciser la compatibilité des usages avec l'état des terrains.		'la société SCE'
+								Les_résultats_des_campagnes_d_	Les résultats des campagnes d'août et septembre  2010 révèlent la présence d'hydrocarbures sous la forme d'un film flottant) au droit du piézomètre se trouvant au niveau de la zone impactée.	"d' hydrocarbures"	
+2011	01	07		2012	07	25		Des_opérations_de_traitement	Des opérations de traitement de la nappe par pompage, séparation/filtration des eaux préalablement à leur réinjection au travers de sols non saturés de la zone polluées ont été réalisés du 07/01/2011 au 25/07/2012.		
+2010	03			2010	03			un_contrôle	En mars 2010, la société SCE a réalisé un contrôle en paroi d'excavation et un diagnostic complémentaire sous les zones bâties, afin de faire un état des pollutions résiduelles (sondages au niveau des sol SCE S1 à SCE à S8, prélèvements au niveau des gaz des sols de SCE PG1 à PG4 et des eaux souterraines, de PZ1 à PZ3).		'la société SCE', 'SCE'
+2010				2010				Les_résultats_des_campagnes_d_	Les résultats des campagnes d'août et septembre  2010 révèlent la présence d'hydrocarbures sous la forme d'un film flottant) au droit du piézomètre se trouvant au niveau de la zone impactée.	"d' hydrocarbures"	
+2010	04			2010	04			Rapport_diagnostic	(Rapport diagnostic des sols, gaz du sol et eaux souterraines d'avril 2010)		
+1985				1985				exploite	La société SEMITAG exploite depuis 1985, un établissement regroupant les activités d'entretien et de remisage des autobus de transport urbain.		'La société SEMITAG'
+1999	07	26		1999	07	26		a_été_proposé	Un projet d'arrêté préfectoral d'urgence a été proposé au Préfet par la DRIRE, dans son rapport du 26/07/1999.		'la DRIRE'
+2010	01			2010	01			Rapport_Gestion_de	(Rapport Gestion de déblais pollués, rapport d'exécution de janvier 2010)		
+2010	06			2010	06			est_effectué	En juin 2010, un suivi de la qualité des eaux souterraines est effectué pour une période d'un an.		
+2010	04			2010	04			ARR_réalisée	Le bureau d'études recommande la réalisation de campagnes de suivi de la qualité des eaux souterraines, ainsi que la mise à jour de l'ARR réalisée en avril 2010.		
+2000	02	14		2000	02	14		est_réglementé	Le site est réglementé par l'arrêté préfectoral d'autorisation d'exploiter datant du 29/04/1985 et l'arrêté préfectoral complémentaire du 14/02/2000.		
+2010	01			2010	01			la_dépollution	En janvier 2010, l'exploitant a entrepris la dépollution du site par excavation des terres polluées.		
+2010	04			2010	04			Rapport_de_diagnostic	(Rapport de diagnostic des sols, gaz du sol et eaux souterraines d'avril 2010)		

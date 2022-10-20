@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			des_travaux_de_nettoyage	Suite à la visite de l'inspection des installations classées en 2007, des travaux de nettoyage complémentaires ont été menés en juin 2008 et février 2009.		
+2004	04	01		2004	04	01		a_été_mis_en_liquidation_judiciaire	Le site a été mis en liquidation judiciaire le 01 avril 2004.		
+2006				2006				ont_été_implantés	En 2006, 3 piézomètres ont été implantés sur le site.		
+2004				2004				Une_première_évacuation_des_déchets	Une première évacuation des déchets a eu lieu en 2004.		
+2005				2005				ont_été_évacués	Suite à une visite de l'inspection des installations classées en 2005, des déchets encore présents sur le site ont été évacués en novembre 2005 et février 2006.		
+2007				2007				des_travaux_de_nettoyage	Suite à la visite de l'inspection des installations classées en 2007, des travaux de nettoyage complémentaires ont été menés en juin 2008 et février 2009.		
+2006				2006				Ce_diagnostic	Ce diagnostic s'est déroulé en 2005 et 2006.		
+2006	02			2006	02			ont_été_évacués	Suite à une visite de l'inspection des installations classées en 2005, des déchets encore présents sur le site ont été évacués en novembre 2005 et février 2006.		
+2005				2005				Ce_diagnostic	Ce diagnostic s'est déroulé en 2005 et 2006.		
+2010				2010				une_évaluation_quantitative	En 2010 , la société HPC envirotec a effectué une évaluation quantitative des risques sanitaires.		'la société HPC envirotec'
+2009	02			2009	02			des_travaux_de_nettoyage	Suite à la visite de l'inspection des installations classées en 2007, des travaux de nettoyage complémentaires ont été menés en juin 2008 et février 2009.		
+2005	11			2005	11			ont_été_évacués	Suite à une visite de l'inspection des installations classées en 2005, des déchets encore présents sur le site ont été évacués en novembre 2005 et février 2006.		

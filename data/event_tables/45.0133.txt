@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic_approfondi	En aout 2006, un diagnostic approfondi de sol a été effectué et a montré la présence d'hydrocarbures et de pesticides.	'hydrocarbures'	
+2004				2004				à_l__évaluation_simplifiée_des_risques_réalisés	Suite au diagnostic initial et à l'évaluation simplifiée des risques réalisés en 2004, des PCB et des métaux ( Cu , Pb , As  et Hg ) ont été retrouvés dans les sols.	'PCB', 'des métaux', 'Cu', 'Pb', 'As', 'et Hg'	

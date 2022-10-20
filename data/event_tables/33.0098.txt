@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Le_diagnostic_complémentaire_réalisé	Le diagnostic complémentaire réalisé en 2012 n'a porté que sur 2 points de la zone excavée.		
+				2014	07	04		Le_chantier_de_dépollution	Le chantier de dépollution s’est déroulé du 13 juin au 4 juillet 2014.		
+2008	12			2008	12			La_campagne_de	La campagne de décembre 2008 montre la persistance de l'impact Nickel en PZ1 (270 µg/l) et Aluminium en PZ2(4300 µg/l).	'Nickel', 'PZ1', 'Aluminium', 'PZ2(4300'	
+2015	01	15		2015	01	15		a_fourni	Conformément à l'article R 512-39-3 du Code de l'Environnement, l'exploitant a fourni le 15 janvier 2015 un mémoire précisant les mesures prises ou prévues pour assurer la protection des intérêts visés à l’article L 511-1 compte tenu de l’usage fixé par l’article 7 de l’arrêté préfectoral du 6 février 2014 (usage type « industriel »).		
+2011	07	25		2011	07	25		La_campagne	La campagne du 25/07/2011 montre la persistance de l'impact par le Nickel en PZ1 (153 µg/l) et en fer en PZ2 (80 µg/l) PZ2 ainsi que la présence d'un impact important par l'aluminium en PZ2 (1 010 µg/l)	'le Nickel', 'PZ1', 'fer', 'PZ2', "l' aluminium", 'PZ2'	
+2001	11	30		2001	11	30		a_prescrit_le_diagnostic_initial	L'arrêté préfectoral du 17/04/2001 a prescrit le diagnostic initial et l'évaluation simplifiée des risques (ERS) à l'échéance du 30/11/2001.		
+2014	02	06		2014	02	06		a_été_signé	L'arrêté préfectoral a été signé le 6 février 2014.		
+2009	10			2009	10			La_campagne_de	La campagne de octobre 2009 montre la persistance de l'impact par le Nickel en PZ1 (56 µg/l) et en fer en PZ2 (600 µg/l) ainsi que l'absence ponctuelle d'impact par l'aluminium en PZ2 (61 µg/l)	'le Nickel', 'PZ1', 'fer', 'PZ2', "l' aluminium", 'PZ2'	
+2014	07			2014	07			fin_des_travaux_de	Sur l’ensemble des résultats de surveillance obtenus de 2013 à 2016, l’inspection constate effectivement une amélioration sensible de la qualité des eaux souterraines, et en particulier depuis la fin des travaux de juillet 2014.		
+2001	05	31		2001	05	31		a_été_remise	L'étape A a été remise le 31/05/2001 et complétée le 28/06/2001.		
+2004	01	21		2004	01	21		sont_autorisées	Les installations sont autorisées par l'arrêté du 23/07/1998 complété par l'arrêté du 21/01/2004.		
+2011	06	25		2011	06	25		INCENDIE_DU	2 - INCENDIE DU 25/06/2011		'INCENDIE'
+2011	06	25		2011	06	25		l__incendie	Suite à l'incendie du 25/06/2011 qui a ravagé les installations, la société a déclaré la cessation définitive d'activité du site de Canéjan le 01/10/2012.		
+2002				2002				Les_mesures	Les mesures des niveaux d'eau dans les piézomètres depuis 2002 montrent des anomalies piézométriques dues à l'hétérogénéité des terrains.		
+2011	07	01		2011	07	01		pris_en_urgence	L'arrêté préfectoral, pris en urgence, le 01/07/2011, prescrit à l'exploitant :		
+2012	10	01		2012	10	01		a_déclaré_la_cessation_définitive_d__activité	Suite à l'incendie du 25/06/2011 qui a ravagé les installations, la société a déclaré la cessation définitive d'activité du site de Canéjan le 01/10/2012.		
+2011	07			2011	07			Le_diagnostic	Le diagnostic TEREO réalisé en juillet 2011 fait état de :		
+2004	11	16		2004	11	16		La_campagne	La campagne du 16/11/2004 montre une augmentation des concentrations en NO2,CN et Al.		
+2002	11	30		2002	11	30		a_été_remise	L'étape B et l'ESR a été remise le 30/11/2002 et classe le site en 2 "à surveiller", pour les eaux souterraines pour les paramètres Aluminium, Nitrites et Nickel et pour l'usage du moment.	'Aluminium', 'Nitrites', 'Nickel'	
+2011	12			2011	12			un_diagnostic_de_pollution	Le propriétaire du terrain, la SARL SHEET ANCHOR France (PROUDREED) a fait réaliser en décembre 2011, par le bureau d'étude BURGEAP, un diagnostic de pollution consécutif à l'incendie.		'la SARL SHEET ANCHOR France', 'PROUDREED', 'BURGEAP'
+								identification	- identification des zones impactées et proposition du plan de gestion, sous 1 mois.		

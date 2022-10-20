@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	15		2010	11	15		La_dernière_visite	La dernière visite du site (le 15 novembre 2010) montre que le site n'est pas suffisamment clos et que certains piézomètres ont été dégradés.		
+2001	10			2001	10			Une_EDR	Une EDR et son complément ont donc été réalisés en Aout et octobre 2001.		
+2001	01			2001	01			a_fait_réaliser	Dans le cadre de la cessation définitive de ses activités, la SOLACHAR a fait réaliser une ESR (janvier 2001).		'la SOLACHAR'

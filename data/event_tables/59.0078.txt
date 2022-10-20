@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								exploité	- Ancien site industriel exploité des années 30 aux années 70 et démantelé en plusieurs phases dans les années 70.		
+2000				2000				réalisée	- Surveillance annuelle réalisée depuis 2000 sur les eaux du canal et les eaux de nappe superficielle, en application de l'arrêté préfectoral complémentaire du 24/03/2000 (Paramètres : liste C3 du décret du 03/01/89, HCT, BTEX, HAP).	'HCT', 'BTEX', 'HAP'	
+								démantelé_en_plusieurs_phases	- Ancien site industriel exploité des années 30 aux années 70 et démantelé en plusieurs phases dans les années 70.		

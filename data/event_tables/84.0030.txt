@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	04		2008	11	04		Le_dossier_de_cessation_d__activité	Le dossier de cessation d'activité et un plan de gestion ont été adressés au Préfet du Vaucluse le 4/11/2008.		
+2003				2003				n__était_plus_exploité	Par courrier en date du 31/01/2006, la société LACROIX, a informé le sous préfet de Carpentras de l'engagement du processus de cessation d'activité du site d'essais et de destruction d'artifices situé au lieu-dit « Talaud » à Loriol-du-Comtat, en rappelant que le site n'était plus exploité depuis 2003.		'la société LACROIX', 'le sous préfet de Carpentras'
+2009	07	01		2009	07	01		Une_visite	Une visite a été réalisée le 1/07/2009, afin de vérifier l'état d'avancement des travaux.		
+2018	05	03		2018	05	03		a_transmis	L’exploitant a transmis le rapport de fin de travaux par courrier du 27 février 2018, complété le 3 mai 2018.		
+2018	06	19		2018	06	19		Une_visite_de_récolement	Une visite de récolement a été effectuée le 19 juin 2018, en présence de l’exploitant.		
+1997	12	23		1997	12	23		a_eu_lieu	Un changement d'exploitant a eu lieu le 23/12/1997, la société ETIENNE LACROIX TOUS ARTIFICES SA s'avère être le dernier exploitant.		'la société ETIENNE LACROIX TOUS ARTIFICES SA'
+2015	11	17		2015	11	17		ont_été_fournis	Ces éléments complémentaires ont été fournis par l’exploitant le 17 novembre 2015, au travers du plan gestion.		
+2018	02	27		2018	02	27		a_transmis	L’exploitant a transmis le rapport de fin de travaux par courrier du 27 février 2018, complété le 3 mai 2018.		
+2015	04	28		2015	04	28		La_visite_effectuée	La visite effectuée le 28 avril 2015 a conduit l'inspection à relever (comme précédemment) que :		
+2017				2017				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été menés au quatrième trimestre 2017.		

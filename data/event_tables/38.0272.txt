@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03	24		2013	03	24		la_loi_ALUR	Tout changement d'usage relève à présent de l'application de l'article L 556-1 du code de l'environnement qui, en application de la loi ALUR du 24 mars 2013, confère  au maître d'ouvrage la responsabilité de la gestion de la pollution en cas de réaménagement des terrains.		
+2012	09	20		2012	09	20		la_mise_à_l__arrêt_définitif	Par courrier du 20 septembre 2012, la CCPB a déclaré la mise à l'arrêt définitif de la déchèterie.		'la CCPB'
+2013	03	24		2013	03	24		confère	Tout changement d'usage relève à présent de l'application de l'article L 556-1 du code de l'environnement qui, en application de la loi ALUR du 24 mars 2013, confère  au maître d'ouvrage la responsabilité de la gestion de la pollution en cas de réaménagement des terrains.		
+2013	02	08		2013	02	08		a_été_transmis	Un dossier justificatif concernant la mise à l'arrêt des installations a été transmis à la DDPP le 8 février 2013.		'la DDPP'

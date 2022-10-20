@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				est_exploité	En 1975 le site est exploité par Renault, dont Berliet est une filiale depuis 1955.		'Renault', 'Berliet'
+2018	11	15		2018	11	15		a_été_inscrit	Le site a été inscrit en secteur d'information sur les sols (SIS) par un arrêté préfectoral du 15/11/2018.		
+2019				2019				Les_travaux_de_terrassements	Les travaux de terrassements de l’école ont débuté mi-février 2018 pour une ouverture à la rentrée 2019.		
+2013				2013				sont_identifiées	En 2013, dans le cadre d’un projet de réaménagement de la zone, des pollutions sont identifiées sur le site.		
+1929				1929				a_accueilli	Le site a accueilli à partir de 1929 les usines de fabrication automobile de la société Marius Berliet, qui y exploitait des installations d’essais de moteurs, de moulage de moteurs, de mécanique, peintures et traitement thermique, de dépôts et emploi de liquides inflammables ainsi qu’une chaufferie.	'liquides inflammables'	'la société Marius Berliet'
+2018	02			2018	02			Les_travaux_de_terrassements	Les travaux de terrassements de l’école ont débuté mi-février 2018 pour une ouverture à la rentrée 2019.		
+2019				2019				une_ouverture	Les travaux de terrassements de l’école ont débuté mi-février 2018 pour une ouverture à la rentrée 2019.		
+2015	09			2015	09			un_diagnostic_complémentaire	En septembre 2015, la ville de Lyon a transmis un diagnostic complémentaire, un plan de gestion et une analyse des risques résiduels pour l'implantation du groupe scolaire qui ont permis de lever cet avis défavorable.		'la ville de Lyon'
+								étaient_présents	Dans les années 2010, une carrosserie, une station service privée d’un loueur de véhicules avec 4 cuves simple enveloppe et un poste de distribution étaient présents sur le site ainsi qu'un concessionnaire automobile et un bowling.		
+2013	01			2013	01			Les_études_transmises	Les études transmises en janvier 2013 par le bureau d'étude BURGEAP ont montré la présence d'impacts limités en éléments traces métalliques, HAP et en hydrocarbures sur le site, ainsi que la présence de traces de BTEX et de PCB ponctuellement.	'éléments traces métalliques', 'HAP', 'hydrocarbures', 'la présence de traces de BTEX', 'PCB'	'BURGEAP'

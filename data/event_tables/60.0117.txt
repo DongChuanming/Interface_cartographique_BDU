@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Des_analyses_des_sols_réalisées	Des analyses des sols réalisées en 1995 et 2006 ont mis en évidence un impact des activités (Cr, Ni, Hg, Pb, Cu, Zn, hydrocarbures).	'Cr', 'Ni', 'Hg', 'Pb', 'Cu', 'Zn', 'hydrocarbures'	
+2010	04			2010	04			Un_mémoire_de_cessation_d__activité_réalisé	Un mémoire de cessation d’activité réalisé par l’APAVE a été transmis à la Préfecture de l’Oise par le liquidateur judiciaire, Maître Herbaut, en avril 2010.		'l’ APAVE'
+2009	10			2009	10			ont_définitivement_cessé	Les activités ont définitivement cessé en octobre 2009.		
+1995				1995				Des_analyses_des_sols_réalisées	Des analyses des sols réalisées en 1995 et 2006 ont mis en évidence un impact des activités (Cr, Ni, Hg, Pb, Cu, Zn, hydrocarbures).	'Cr', 'Ni', 'Hg', 'Pb', 'Cu', 'Zn', 'hydrocarbures'	
+2009	09	18		2009	09	18		La_liquidation_judiciaire	La liquidation judiciaire de la société RIGIDA a été prononcée par le Tribunal de Commerce de Compiègne le 18 septembre 2009.		'la société RIGIDA', 'Tribunal de Commerce de Compiègne'

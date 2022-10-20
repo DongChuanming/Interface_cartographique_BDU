@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03			2008	03			un_contrôle	En mars 2008 un contrôle de qualité de la nappe et une Évaluation Quantitative des Risques Sanitaires ont été réalisés.	'Sanitaires'	
+1964				1964				Construite	Construite en 1964 par SIMCA, l'usine débute la fabrication de suspensions et transmissions dès le 1er septembre 1965 pour le centre d'assemblage de Poissy.		'SIMCA'
+1998	06			1998	06			L__étude_des_sols	L'étude des sols a été réalisée en Juin 1998.		
+1998				1998				une_fusion_absorption_est_opérée	En 1998, une fusion absorption est opérée de l'ensemble de ces filiales		
+1991	07	08		1991	07	08		est_reprise	Le 8 juillet 1991,l'usine est reprise par le groupe Tersou Technologies.		'groupe Tersou Technologies'
+1996	05	30		1996	05	30		rachète	Le 30 mai 1996, le groupe SPIRAL rachète l'unité de fabrication Triaxe après son dépôt de bilan et lui donne le nom de SPIMEC.		'le groupe SPIRAL', 'SPIMEC'
+1970				1970				devient_la_propriété_de	En 1970, elle devient la propriété de Chrysler France et complète son activité par la fabrication de directions, pompes eau et à huile, de pièces moteur et d'éléments de boites de vitesse.		'Chrysler France'
+1979				1979				diminuent	En 1979, les effectifs diminuent suite à une baisse de productions de Poissy.		

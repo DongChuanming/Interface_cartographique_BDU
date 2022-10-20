@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	12		2013	09	12		la_visite_d__inspection	A la suite de la visite d'inspection du 12 septembre 2013, en présence du gérant de la SCI du centre, propriétaire de l'emprise foncière, il avait été constaté la présence des éléments suivants:		
+2010	02	12		2010	02	12		avait_cessé_son_activité	Par courrier, la société JAPOROP a informé les services de l'inspection qu'elle avait cessé son activité depuis le 12 février 2010.		'la société JAPOROP'
+2013	11	22		2013	11	22		a_justifié	Le propriétaire a justifié de l'évacuation des pneumatiques et des déchets liquides par courrier du 22 novembre 2013.		
+2009	06	11		2009	06	11		a_été_accordé	L'agrément relatif à l'exploitation d'une installation de dépollution et de démontage de VHU lui a été accordé par l'arrêté préfectoral du 11 juin 2009, pour une durée de six ans.		
+2017	04			2017	04			est_racheté	En avril 2017, le terrain est racheté par M Jacques SITBON  à la SCI du centre.		'Jacques SITBON'
+2014	01			2014	01			Les_investigations_menées	Les investigations menées en janvier 2014 dans ce cadre ont mis en évidence la présence localisée d'hydrocarbures et d’éléments métalliques à l'état de traces au travers de 16 sondages jusqu'à une profondeur de 3 mètres.	'hydrocarbures'	
+2017	02	15		2017	02	15		de_la_visite_d__inspection	Lors de la visite d'inspection du 15 février 2017, l'inspection des installations classés a constaté que des véhicules hors d'usage ( VHU ) ainsi que des déchets de métaux étaient entreposés sur des zones non étanches entrainant des infiltrations de fluides dans le sol.	'déchets de métaux'	'VHU'
+2013	12	31		2013	12	31		de_déclaration	À noter que la société SRTM est implantée sur le site et exerce par récépissé de déclaration du 31 décembre 2013 des activités de transit, regroupement et tri de métaux, de gravas, de plastiques, de bois et de cartons.	'plastiques'	'la société SRTM'
+2013	08	05		2013	08	05		a_invité	La société JAPOROP ayant été liquidée, Monsieur le préfet a invité le 5 août 2013 le propriétaire de l'emprise foncière, la SCI du centre, à mettre en sécurité le site.		'La société JAPOROP', 'le préfet'
+2010	02	12		2010	02	12		a_informé	Par courrier, la société JAPOROP a informé les services de l'inspection qu'elle avait cessé son activité depuis le 12 février 2010.		'la société JAPOROP'
+2017	04	24		2017	04	24		du___nouveau_diagnostic	Les résultats du  nouveau diagnostic de pollution des sols réalisé le 24 avril 2017, révèlent :		

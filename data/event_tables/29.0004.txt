@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1999	01			différents_essais_ont_été_réalisés	Ainsi, différents essais ont été réalisés jusqu’en janvier 1999.		
+								est_implanté	Cependant, le dépôt est implanté depuis les années 1960.		
+1996	04			1996	04			des_travaux_de_dépollution	Fin avril 1996, suite à un transfert de propriété, des travaux de dépollution des sols (dues à une pollution par des hydrocarbures) ont été entrepris avec la mise en place d’un important puits de pompage.	'hydrocarbures'	
+1995	09	28		1995	09	28		a_été_autorisée_à_exploiter	La société Groupement Pétrolier du Finistère (GPF) a été autorisée à exploiter un dépôt aérien d'hydrocarbures par arrêté préfectoral du 28 septembre 1995.	'GPF', 'hydrocarbures'	'La société Groupement Pétrolier du Finistère'
+2002				2002				a_repris_l__exploitation	La société Stockbrest a repris l'exploitation du site en 2002.		'La société Stockbrest'

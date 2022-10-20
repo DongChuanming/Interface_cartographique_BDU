@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	24		2006	01	24		Il_a_été_pris_acte	Il a été pris acte de la cessation d’activités en date du 24/01/2006.		
+1975				1975				a_fondé	En 1975, le groupe ERAM a fondé sur le site la société Technisynthèse pour la production de semelles de chaussures polyuréthane et PVC.		'le groupe ERAM', 'chaussures polyuréthane'
+2006	08	07		2006	08	07		déclaration	Elle a bénéficié d’un récépissé de déclaration en date du 07/08/2006 pour la rubrique 1510.2 sous le régime de la déclaration avec contrôle périodique.		
+2015				2015				une_cessation_d__activités	Sur cette base, la société VETIR, appartenant au groupe ERAM, a repris le site pour une activité de stockage qui fait l'objet d'une cessation d'activités en 2015.		'la société VETIR', 'groupe ERAM'
+2015				2015				a_repris	Sur cette base, la société VETIR, appartenant au groupe ERAM, a repris le site pour une activité de stockage qui fait l'objet d'une cessation d'activités en 2015.		'la société VETIR', 'groupe ERAM'
+2016	10	26		2016	10	26		sa_cessation_d__activités	Par courrier reçu le 26 octobre 2016, la société a notifié sa cessation d’activités de son site situé dans la ZI Les Douces sur commune de Doué-la-Fontaine.		
+1989				1989				scinde_cette_entreprise_en	En 1989, le groupe ERAM scinde cette entreprise en deux entreprises :		'le groupe ERAM'

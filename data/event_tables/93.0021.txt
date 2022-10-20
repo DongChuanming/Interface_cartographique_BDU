@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_pour_projet	En 2012, la mairie d’Aubervilliers a pour projet d’implanter sur le site une zone commerciale et de logements, ce qui constitue un changement d’usage devant faire l’objet d’études et de mesures adéquates en vue d’assurer la compatibilité entre l’état du site et le nouvel usage envisagé.		
+2017	10			2017	10			réaliser_éventuellement_une_étude_environnementale___est_déposée	En octobre 2017, une demande "au cas par cas en vue de réaliser éventuellement une étude environnementale " est déposée par un promoteur en vue de réaliser des commerces et des logements.		
+1885				1885				a_exploité	La société TRIMETAL a exploité sur ce site, à partir de 1885, des activités de production de peintures et de vernis.		'La société TRIMETAL'
+2000				2000				Le_diagnostic	Le diagnostic établi à cet effet en 2000 a mis en évidence une pollution des eaux souterraines par des COV (composés organiques volatils) et par des hydrocarbures, en particulier, les BTEX (benzène, toluène, éthylbenzène et xylènes).	'des COV', 'composés organiques volatils', 'des hydrocarbures', 'les BTEX', 'benzène', 'toluène', 'éthylbenzène', 'xylènes'	
+1999				1999				impose_la_remise_en_état_du	En 1999, un arrêté préfectoral impose la remise en état du site TRIMETAL, laquelle n’avait pas été effectuée en 1994 lors de la cessation d’activité.		'TRIMETAL'
+2003				2006				Les_travaux_se_terminent	Les travaux se terminent en 2003 et une surveillance de la qualité des eaux souterraines est effectuée entre 2003 et 2006.		
+2006	09	12		2006	09	12		procès_verbal_de_récolement	Le 12/09/2006, un procès-verbal de récolement est en conséquence dressé par l’inspection des installations classées.		
+2003				2003				Les_travaux_se_terminent	Les travaux se terminent en 2003 et une surveillance de la qualité des eaux souterraines est effectuée entre 2003 et 2006.		
+2007				2007				était_prévue	La construction d’une école sur un site voisin était prévue en 2007.		
+1994				1994				NOBEL_décide	En 1994, la société NOBEL décide de vendre le site et de cesser son activité sur ce dernier.		'la société NOBEL'
+2006				2006				une_EDR	En 2006, une EDR (Évaluation Détaillée des Risques) est réalisée pour un usage industriel du site et a conclu à un risque sanitaire acceptable.		
+1994				1994				impose_la_remise_en_état_du	En 1999, un arrêté préfectoral impose la remise en état du site TRIMETAL, laquelle n’avait pas été effectuée en 1994 lors de la cessation d’activité.		'TRIMETAL'
+2003				2006				est_effectuée	Les travaux se terminent en 2003 et une surveillance de la qualité des eaux souterraines est effectuée entre 2003 et 2006.		

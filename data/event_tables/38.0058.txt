@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				faisait_partie_de	Le site (70 000 m²) faisait partie de la fonderie de fonte puis d'acier de la société "Les Hauts Fourneaux de Chasse" (1854-1958).		'la société " Les Hauts Fourneaux'
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 01/12/1998.		
+1854				1854				faisait_partie_de	Le site (70 000 m²) faisait partie de la fonderie de fonte puis d'acier de la société "Les Hauts Fourneaux de Chasse" (1854-1958).		'la société " Les Hauts Fourneaux'
+1999	08	26		1999	08	26		ESR___a_été_transmise	L'étude Evaluation Simplifiée des Risques (ESR) a été transmise le 26/08/1999.		
+1971				1971				a_débuté_ses_activités	CONDAT a débuté ses activités en 1971.		'CONDAT'
+1999	08	26		1999	08	26		a_été_transmis	Le diagnostic initial a été transmis à l'administration le 26/08/1999.		

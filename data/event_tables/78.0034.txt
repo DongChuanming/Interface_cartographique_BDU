@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				ont_été_excavées	Les terres polluées correspondant aux zones P9S21 et PY19B2 ont été excavées et évacuées vers des installations de stockage de déchets et des centres de traitement biologique des terres en 2001 et 2002.		
+2002				2002				ont_été_excavées	Les terres polluées correspondant aux zones P9S21 et PY19B2 ont été excavées et évacuées vers des installations de stockage de déchets et des centres de traitement biologique des terres en 2001 et 2002.		
+2011				2011				Les_analyses_réalisées	Les analyses réalisées depuis 2011 et faisant partie de la synthèse environnementale transmise annuellement, montrent des teneurs faibles sur l'ensemble des paramètres suivis.		
+2002	02	04		2002	02	04		ont_été_rendus	Un second diagnostic ainsi que l'ESR ont été rendus le 4 février 2002.		'ESR'
+1940				1940				exploité	Le site, d'une superficie de 171 ha, accueille une activité d'assemblage automobile exploité par Peugeot Citroën Poissy SNC (PSA) depuis 1940.		'Peugeot Citroën Poissy SNC', 'PSA'
+2001	03	1		2001	03	1		Le_diagnostic	Le diagnostic, réalisé le 1er mars 2001, a permis de préciser le contexte géologique et hydrogéologique du site et d'en retracer l'historique industriel.		

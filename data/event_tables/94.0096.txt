@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								dans_le_sous_sol	Une excavation a été réalisée dans le sous-sol du bâtiment, jusqu’à 3 mètres de profondeur.		
+								Une_excavation_a_été_réalisée	Une excavation a été réalisée dans le sous-sol du bâtiment, jusqu’à 3 mètres de profondeur.		
+								il_a_été	Par courrier préfectoral du 22/11/2011, il a été demandé à l'exploitant de faire réaliser une étude documentaire afin de définir la vulnérabilité du site (profondeur de la nappe d’eau souterraine, sensibilité) au vu des contaminations mises en évidence et une évaluation quantitative des risques sanitaires (EQRS), afin d’évaluer les risques sanitaires vis-à-vis de l’usage projeté.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10			2007	10			Une_Évaluation_Détaillée_des_Risques	Une Évaluation Détaillée des Risques a été réalisée en octobre 2007 à la suite d'un arrêté préfectoral.		
+2003				2003				Des_analyses	Des analyses des eaux souterraines ont, par conséquent, été réalisées à nouveau, durant l'été 2003.		
+1960				1960				occupe	Elle occupe le site depuis 1960.		
+2003	03	24		2003	03	24		a_été_rappelée	Cette position a été rappelée par la DRIRE à l'exploitant, par courriers du 24 mars 2003 et du 13 juin 2003.		'la DRIRE'
+2006				2006				impose	En 2006 l'arrêté fixant des prescriptions complémentaires à celle de l'arrêté du 4 Janvier 2000 impose à l'exploitant de la fonderie LEROY-SOMER de réaliser des travaux de dépollution de la zone située au voisinage du puits de contrôle référencé pz3.		'fonderie LEROY - SOMER'
+2011	05			2011	05			Une_étude	Une étude sur l'évaluation de l'efficacité de l'extraction actuelle des hydrocarbures en phase libre et une actualisation du bilan coûts-avantages ont été réalisées en Mai 2011.	'hydrocarbures'	
+2009				2009				la_dépollution	En 2009 la dépollution des sols d'une partie du site a été effectuée (zone du piézomètre 5).		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif.		
+2011	07	04		2011	07	04		accepte	Le 4 juillet 2011 l'administration de la DREAL accepte les propositions de l'entreprise Leroy Somer.		'la DREAL', 'Leroy Somer'
+2004	12			2004	12			La_campagne	La campagne de décembre 2004 a d'ailleurs permis d'identifier 2 sources de pollution par des composés chlorés.	'composés chlorés'	
+								l__arrêt	- l'arrêt de l'unité d'extraction et suivi de l'évolution des épaisseurs de LNAPL pendant une durée de 3 mois;		
+2008	03	13		2008	03	13		Une_autre_étude_a_suivi	Une autre étude a suivi le 13 mars 2008 par demande de la DRIRE (maintenant DREAL).		'la DRIRE', 'DREAL'
+2005	09			2005	09			Les_travaux_de_traitement	Les travaux de traitement de la nappe libre ont commencé en septembre 2005 et sont prévus pour une durée de 2 à 3 ans.		
+2004	07			2004	07			ont_été_remis	Les rapports correspondants ont été remis en juillet 2004.		
+								une_période_d__essai_de	Un dispositif de traitement (écrémage) de la phase libre d'hydrocarbures a eu lieu sur une période d'essai de 3 mois.	'hydrocarbures'	
+2004	03			2004	03			ont_été_comblés	Parallèlement, afin d'empêcher toute contamination des aquifères profonds par la nappe superficielle impactée, les 3 puits industriels présents sur site ont été comblés en mars 2004.		

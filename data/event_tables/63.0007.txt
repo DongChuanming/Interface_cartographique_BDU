@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Un_rappel_de	Un rappel de ce courrier a été effectué le 15/01/03.		
+2000	09			2000	09			effectuées	Les résultats des analyses effectuées en septembre 2000 nécessitent des investigations complémentaires à proximité d'un des piézomètres( pz2).		
+1985				1985				a_été_démantelé	Le dépôt a été démantelé en 1985 et le terrain a été racheté la même année par ELF ANTARGAZ pour y exploiter un dépôt de GPL.	'dépôt de GPL'	'ELF ANTARGAZ'
+1969				1969				construit	Ancien dépôt d'hydrocarbures ELF ANTAR FRANCE construit en 1969.		"Ancien dépôt d' hydrocarbures ELF ANTAR FRANCE"
+1998	03	23		1998	03	23		évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite à l'exploitant actuel par arrêté préfectoral du 23 mars 1998.		
+2000				2000				ont_été_réalisés	Des travaux importants de mise sous talus ont été réalisés en  fin 2000.		
+2002	03	22		2002	03	22		la_pose	Des investigations permettant d'évaluer le panache de pollution autour du piézomètre Pz2, la pose de trois piézomètres supplémentaires a été demandée le 22/03/2002.		

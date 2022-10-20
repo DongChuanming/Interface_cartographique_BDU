@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	24		2003	07	24		a_été_signé	Cet arrêté de suivi et de restrictions d'usages des sols a été signé le 24/07/2003, les servitudes ont été enregistrées aux hypothèques le 23/03/04.		
+1996				1996				ont_été_installés	En 1996, un drain et une citerne de récupération des exudats ont été installés, ces derniers sont traités dans la nouvelle station d'épuration de l'entreprise.		
+1981				1981				sont_récupérées	Depuis 1981, les boues de la nouvelle station d'épuration sont récupérées pour être stockées en centre d'enfouissement de classe 2.		
+1971				1981				a_reçu	Cette décharge a reçu, de 1971 à 1981, les boues de la station d'épuration de l'entreprise qui ont été stokées dans 4 cellules de 250m3 chacunes, creusées sans confinement particulier.		
+1998	03	23		1998	03	23		étude_simplifiée_des_risques	Une étude simplifiée des risques a été prescrite par arrêté préfectoral du 23 mars 1998.		
+								ont_été_enregistrées_aux	Cet arrêté de suivi et de restrictions d'usages des sols a été signé le 24/07/2003, les servitudes ont été enregistrées aux hypothèques le 23/03/04.		

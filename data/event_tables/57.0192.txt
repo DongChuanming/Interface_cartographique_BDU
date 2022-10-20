@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	10		2008	06	10		__une_visite_d__inspection	Le 10 juin 2008,  une visite d’inspection des établissements exploités par la Société ESKA à LUTZELBOURG a été réalisée.		'par la Société ESKA', 'LUTZELBOURG'
+2008				2008				a_constaté	En 2008, lors d'une visite, l'Inspection des Installations Classées a constaté que la société ESKA avait définitivement cessé ses activités sur ce site.		'la société ESKA'
+2009	11			2009	11			Un_diagnostic_de_pollution	Un diagnostic de pollution des sols et eaux souterraines a été réalisé en novembre 2009 dans le cadre de la cessation d'activité.		

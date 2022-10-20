@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	20		2005	05	20		a_été_transmis	Le rapport de chantier a été transmis à la DRIRE le 20 mai 2005.		'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2006	04	28		2006	04	28		est_à_l__étude	La cession du site est à l'étude le 28/04/2006.		
+2002	12	03		2002	12	03		a_été_envoyé	Un rapport parcellaire a été envoyé à la DRIRE le 03/12/2002.		'la DRIRE'
+								Les_travaux_de_vidange	Les travaux de vidange des 2 cuves ont été réalisés en mai et juin 2004.		
+2004	06			2004	06			Les_travaux_de_vidange	Les travaux de vidange des 2 cuves ont été réalisés en mai et juin 2004.		
+2004	04			2004	04			ces_derniers	Le prestataire chargé de réaliser les travaux vient d’être désigné ; ces derniers devraient débuter courant avril 2004.		

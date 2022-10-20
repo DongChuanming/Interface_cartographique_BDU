@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								campagnes_de_surveillance	Les résultats des campagnes de surveillance de mai et octobre 2017 ont été joints à la demande et mettent en évidence une nette diminution de la teneur en benzène qui atteint 4.5 μg/l.	'benzène'	
+2012	12			2012	12			Les_travaux_d__excavation	Les travaux d'excavation des sols se sont déroulés en novembre et décembre 2012.		
+2013				2013				a_été_réalisée	La surveillance de la qualité des eaux souterraines a été réalisée conformément à l'arrêté préfectoral du 19 avril 2012 sur la période quadriennale 2013-2016 sur 4 piézomètres.		
+2005	12	12		2005	12	12		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 12 décembre 2005.		
+2017	10			2017	10			campagnes_de_surveillance	Les résultats des campagnes de surveillance de mai et octobre 2017 ont été joints à la demande et mettent en évidence une nette diminution de la teneur en benzène qui atteint 4.5 μg/l.	'benzène'	
+2015	10			2015	10			détectée	Seule une légère augmentation en benzène est détectée depuis octobre 2015 (37 μg/l).	'benzène'	
+2017	01			2017	01			l__arrêt_de_la_surveillance	Sur la base de ces résultats l'exploitant a sollicité, en janvier 2017, l'arrêt de la surveillance.		
+1988				2005				a_été_exploitée	Une station-service a été exploitée sur ce site de 1988 à 2005, en dernier lieu par la société BP France.	'service'	'la société BP France'
+2013	11	22		2013	11	22		a_adressé	La société BP a adressé au préfet des Yvelines, le 22 novembre 2013 un dossier de demande d'institution de servitudes d'utilité publique (SUP) visant à restreindre les usages de la parcelle occupée par la station-service, complété le 2 octobre 2014, suite aux demandes de l'inspection des installations classées d'avril 2014.	'service'	'La société BP', 'préfet des Yvelines'
+2015	10	21		2015	10	21		a_été_signé	L'arrêté préfectoral instaurant la mise en place de restrictions d'usage a été signé par le préfet le 21/10/2015.		'le préfet'
+2016				2016				a_été_réalisée	La surveillance de la qualité des eaux souterraines a été réalisée conformément à l'arrêté préfectoral du 19 avril 2012 sur la période quadriennale 2013-2016 sur 4 piézomètres.		
+2014	04			2014	04			a_adressé	La société BP a adressé au préfet des Yvelines, le 22 novembre 2013 un dossier de demande d'institution de servitudes d'utilité publique (SUP) visant à restreindre les usages de la parcelle occupée par la station-service, complété le 2 octobre 2014, suite aux demandes de l'inspection des installations classées d'avril 2014.	'service'	'La société BP', 'préfet des Yvelines'
+2018	01	12		2018	01	12		a_de_nouveau_sollicité_l__arrêt_de_la_surveillance	Par courrier en date du 12 janvier 2018, la société BP a de nouveau sollicité l'arrêt de la surveillance.		'la société BP'
+								Les_travaux_d__excavation	Les travaux d'excavation des sols se sont déroulés en novembre et décembre 2012.		

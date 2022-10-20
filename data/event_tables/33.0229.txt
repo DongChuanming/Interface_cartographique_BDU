@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02	09		2004	02	09		d__une_visite_en_date	Lors d’une visite en date du 9 février 2004 de l’Inspection des Installations Classées, il a été constaté que des dépôts anarchiques étaient encore réalisés sur le site (déchets ménagers, encombrants, déchets verts).		
+								dépôt_pour	- le reprofilage en dôme du dépôt pour établir des pentes supérieures à 3 % et garantir la stabilité du massif,		
+								établir_des_pentes	- le reprofilage en dôme du dépôt pour établir des pentes supérieures à 3 % et garantir la stabilité du massif,		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06			2012	06			_Contrôle_environnemental	-Contrôle environnemental des travaux de démantèlement , juin 2012		
+2013	04			2013	04			3_campagnes_de_surveillance	3 campagnes de surveillance des eaux souterraines ont été réalisées d'avril 2013 à janvier 2014.		
+2014	01			2014	01			3_campagnes_de_surveillance	3 campagnes de surveillance des eaux souterraines ont été réalisées d'avril 2013 à janvier 2014.		
+2015	11			2015	11			deux_campagnes_d__oxydation	Pour la campagne de mars de 2016 est constaté une diminution notable de l'ensemble des teneurs (hydrocarbures, BTEX, ETBE/METBE), suite aux deux campagnes d'oxydation de novembre 2015 et mars 2016.	'hydrocarbures', 'BTEX', 'ETBE', 'METBE'	
+								la_campagne_de	Pour la campagne de mars de 2016 est constaté une diminution notable de l'ensemble des teneurs (hydrocarbures, BTEX, ETBE/METBE), suite aux deux campagnes d'oxydation de novembre 2015 et mars 2016.	'hydrocarbures', 'BTEX', 'ETBE', 'METBE'	
+2014	10			2014	10			_Suivi_de	-Suivi de la qualité des eaux souterraines et de la qualité de l'air dans les sols, octobre 2014- octobre 2015		
+2012	06	07		2013	03	14		Les_travaux_de_démantèlement	Les travaux de démantèlement, réalisés du 7 juin 2012 au 14 mars 2013, ont consisté au retrait des cuves, des tuyauteries, du séparateur d'hydrocarbures, du manifold, des appareils de distribution et des îlots.	'hydrocarbures'	
+2012				2012				des_études_environnementales	Depuis les travaux de démantèlement de 2012, TOTAL MF a mené des études environnementales et des suivis de la qualité  des eaux et des gaz du sol réguliers.		'TOTAL MF'
+2016				2016				la_campagne_de	Pour la campagne de mars de 2016 est constaté une diminution notable de l'ensemble des teneurs (hydrocarbures, BTEX, ETBE/METBE), suite aux deux campagnes d'oxydation de novembre 2015 et mars 2016.	'hydrocarbures', 'BTEX', 'ETBE', 'METBE'	
+2012				2012				les_travaux_de_démantèlement	Depuis les travaux de démantèlement de 2012, TOTAL MF a mené des études environnementales et des suivis de la qualité  des eaux et des gaz du sol réguliers.		'TOTAL MF'
+2012	02			2012	02			un_diagnostic_a_été_réalisé	Suite à la fermeture de la station-service, un diagnostic a été réalisé en février 2012 par le bureau d'études AMDE.		'AMDE'
+2012				2013				Des_travaux_de_démantèlement	Des travaux de démantèlement ont eu lieu de 2012 à 2013.		
+				2015	27			__ont_débutés	Les travaux de la mise en œuvre d'un traitement spécifique des sources de pollution  résiduelles de la zone non saturée et de la zone de battement de nappe par oxydation chimique in situ, ont débutés entre 23 et le 27novembre 2015.		
+2012				2012				a_été_fermée	La station-service a été fermée en 2012.		
+2016	03			2016	03			deux_campagnes_d__oxydation	Pour la campagne de mars de 2016 est constaté une diminution notable de l'ensemble des teneurs (hydrocarbures, BTEX, ETBE/METBE), suite aux deux campagnes d'oxydation de novembre 2015 et mars 2016.	'hydrocarbures', 'BTEX', 'ETBE', 'METBE'	

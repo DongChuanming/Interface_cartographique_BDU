@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02			2010	02			la_mise_à_l__arrêt_définitif	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l’arrêt définitif de l'ensemble de ses activités (arrêt effectif depuis fin Février 2010).		'AZUR CHIMIE'
+2003				2009				D__autres_études_ont_eu_lieu	D'autres études ont eu lieu entre 2003 et 2009 notamment des diagnostics de pollutions des sols et des eaux (Juin 2003, Aout 2003, Septembre 2007, Mars 2009).		
+2012	03	10		2012	03	10		l__ordonnance	La mairie de Port de Bouc a acquis le terrain par l'ordonnance du TC d'Aix en Provence du 10/03/2012.		'La mairie de Port de Bouc'
+2003				2003				D__autres_études_ont_eu_lieu	D'autres études ont eu lieu entre 2003 et 2009 notamment des diagnostics de pollutions des sols et des eaux (Juin 2003, Aout 2003, Septembre 2007, Mars 2009).		
+2012	03	10		2012	03	10		a_acquis	La mairie de Port de Bouc a acquis le terrain par l'ordonnance du TC d'Aix en Provence du 10/03/2012.		'La mairie de Port de Bouc'
+2010	02			2010	02			arrêt_effectif	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l’arrêt définitif de l'ensemble de ses activités (arrêt effectif depuis fin Février 2010).		'AZUR CHIMIE'
+2003	06			2003	06			D__autres_études_ont_eu_lieu	D'autres études ont eu lieu entre 2003 et 2009 notamment des diagnostics de pollutions des sols et des eaux (Juin 2003, Aout 2003, Septembre 2007, Mars 2009).		
+2003	05			2003	05			a_été_remise	L'étude d'interprétation a été remise en mai 2003.		
+2010	02			2010	02			la_mise_à_l__arret_définitif	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l'arret définitif de l'ensemble de ses activités (arrêt affectif depuis fin Février 2010).		'AZUR CHIMIE'
+2010				2010				La_mise_en_sécurité	La mise en sécurité a commencé en milieu d'année 2010.		
+2009	10	16		2009	10	16		la_mise_à_l__arrêt_définitif	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l’arrêt définitif de l'ensemble de ses activités (arrêt effectif depuis fin Février 2010).		'AZUR CHIMIE'
+2010	02			2010	02			__arrêt_affectif_depuis	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l'arret définitif de l'ensemble de ses activités (arrêt affectif depuis fin Février 2010).		'AZUR CHIMIE'
+2009	10	16		2009	10	16		la_mise_à_l__arret_définitif	Dans le cadre de la cessation de ses activité, AZUR CHIMIE a notifié au préfet par courrier en date du 16/10/2009, la mise à l'arret définitif de l'ensemble de ses activités (arrêt affectif depuis fin Février 2010).		'AZUR CHIMIE'
+2010	06			2010	06			Un_diagnostic_environnementale	Un diagnostic environnementale ainsi qu'un plan de gestion et une EQRS ont été remis en Juin 2010.		
+1999	06	16		1999	06	16		__a_été_remise_en	. du 16/06/1999  a été remise en septembre 2001.		
+				2011	09	1		audit_réalisé	Au regard de l'audit réalisé du 26 Aout au 1er Septembre 2011, la mise en sécurité du site semble être en voie d’achèvement.		
+2007	09			2007	09			D__autres_études_ont_eu_lieu	D'autres études ont eu lieu entre 2003 et 2009 notamment des diagnostics de pollutions des sols et des eaux (Juin 2003, Aout 2003, Septembre 2007, Mars 2009).		
+2010	03	18		2010	03	18		ayant_été_mise_en_liquidation_judiciaire	AZUR CHIMIE SA ayant été mise en liquidation judiciaire le 18/03/2010 par le Tribunal de Commerce d'Aix en Provence et le non respect des engagements relatifs à la mise en sécurité du site, ont débouché sur l 'arrêté de consignation du 28/09/2010 d'un montant de 2 316 000€ (garanties financières d'AZUR CHIMIE détenu par la Compagnie Européenne de Garanties et de Caution).		'AZUR CHIMIE SA', "le Tribunal de Commerce d' Aix", "d' AZUR CHIMIE détenu", 'la Compagnie Européenne de Garanties et de Caution'
+2009	03			2009	03			D__autres_études_ont_eu_lieu	D'autres études ont eu lieu entre 2003 et 2009 notamment des diagnostics de pollutions des sols et des eaux (Juin 2003, Aout 2003, Septembre 2007, Mars 2009).		
+2001	09			2001	09			__a_été_remise_en	. du 16/06/1999  a été remise en septembre 2001.		
+1920				1930				a_été_progressivement_remblayée	Entre 1920 et 1930, la lagune a été progressivement remblayée par la SNCF pour la réalisation d'une voie ferrée.		

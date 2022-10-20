@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	15		2003	01	15		a_débuté	La procédure de SUP a débuté le 15 janvier 2003 malgré une surenchère du Syndicat en ce qui concerne le niveau de réhabilitation.		
+2003	04			2003	04			dossier_de_cessation_d__activité	Le dossier de cessation d'activité rectifié a été reçu en avril 2003, il n'apporte plus d'observation, une visite du chantier en vue du récolement est prévue le 28 mai.		
+2002	02			2002	02			Une_campagne_de_sondages_effectuée	Une campagne de sondages effectuée en février 2002 a mis en évidence la présence entre 20 et 70 cm de déchets d'amiante mélangés à des résidus de mines.		
+1992	12			1992	12			a_cessé_son_activité	Cette entreprise a cessé son activité en décembre 1992, à la suite d'un incendie.		
+2002	12			2002	12			Les_dossiers_de_déclaration	Les dossiers de déclaration de cessation d'activité et de servitudes d'utilité publique(SUP) ont été déposés par St Gobain en début du mois de décembre 2002.		'St Gobain'
+1973				1973				a_été_mise_en_service	En 1973, l'activité de fabrication de tuyaux de 100 à 400 mm a été mise en service.		
+								est_prévue	Le dossier de cessation d'activité rectifié a été reçu en avril 2003, il n'apporte plus d'observation, une visite du chantier en vue du récolement est prévue le 28 mai.		
+2003	10	15		2003	10	15		s__est_terminée	L'enquête publique a débuté le 15 septembre 2003, s'est terminée le 15 octobre 2003.		
+1983				1983				avant_sa_fermeture	Malgré une prorogation accordée, l'entreprise n'a pas été en mesure de mener à bien la construction d'une station d'épuration avant sa fermeture en 1983.		
+1972				1972				Créée	Créée en 1972, dans le cadre de la reconversion minière du bassin de St-Eloy, elle occupe une superficie de 13,8 ha ; les terrains appartenaient précedemment aux Houillères et étaient occupés par un carreau de mine et une centrale thermique.		
+2004	01	27		2004	01	27		a_été_signé	L'arrêté de servitudes a été signé le 27/01/2004.		
+1991	02	15		1991	02	15		a_été_vendu	Le site a été vendu au franc symbolique le 15 février 1991 au Syndicat Intercommunal de la zone de St Eloy-Youx-Montaigut en Combraille après que les terrains nivelés aient été recouverts de matériaux inertes.		
+1975				1975				a_été_absorbée	En 1975, l'usine a été absorbée par la société EVERITUBE, filiale de St Gobain-Pont-à-Mousson.		'la société EVERITUBE', 'St Gobain'
+1991				1991				a_loué	Ce syndicat a loué en 1991 en tant qu'usine-relais, une partie des bâtiments existants à la cartonnerie Daublat-Pintran .		
+2003	09	15		2003	09	15		L__enquête_publique	L'enquête publique a débuté le 15 septembre 2003, s'est terminée le 15 octobre 2003.		

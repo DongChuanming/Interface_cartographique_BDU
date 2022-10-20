@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				exploitait	La Société Centrale d’Asphalte (SCA) exploitait, depuis 1968, une unité de fabrication d’asphalte coulé.		'La Société Centrale d’ Asphalte', 'SCA'
+2014				2014				des_divers_diagnostics	Une synthèse des divers diagnostics des sols et de la nappe d'eau souterraine, réalisés depuis 2014, a été transmise dans le mémoire de cessation d'activité, ainsi qu'un plan de gestion.		
+2018				2018				doit_intervenir	En effet, des investigations complémentaires seront réalisées après le démantèlement de la centrale de production, qui doit intervenir au cours de l'année 2018.		
+2019	01	24		2019	01	24		transmis_par_courrier	Par courrier daté du 03/07/2019, l’exploitant a complété le plan de gestion transmis par courrier daté du 24 janvier 2019, par une proposition technique et financière des travaux de dépollution.		
+2018	10			2018	10			réalisés	Par courrier daté du 24 janvier 2019, l’exploitant a transmis le rapport de synthèse des diagnostics complémentaires réalisés en octobre 2018 (rapport daté du 10/12/2018 référencé CESIIF182869 / RESIIF08927-01).		'CESIIF182869'
+2019	01	24		2019	01	24		a_transmis	Par courrier daté du 24 janvier 2019, l’exploitant a transmis le rapport de synthèse des diagnostics complémentaires réalisés en octobre 2018 (rapport daté du 10/12/2018 référencé CESIIF182869 / RESIIF08927-01).		'CESIIF182869'
+2018				2018				seront_réalisées	En effet, des investigations complémentaires seront réalisées après le démantèlement de la centrale de production, qui doit intervenir au cours de l'année 2018.		
+2019	11	15		2019	11	15		Une_visite_d__inspection	Une visite d’inspection a eu lieu le 15/11/2019 pour constater la mise en œuvre des travaux de dépollution.		
+1988				1988				a_été_modifié	Seul le procédé de chauffage (maintien de la température) a été modifié en 1988 (utilisation de fluide caloporteur).	'fluide caloporteur'	

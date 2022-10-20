@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2000	06			ont_été_traitées_par_procédé_biologique	Les terres polluées excavées ont été traitées par procédé biologique en juin 2000.		
+1999	04			1999	04			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé en avril 1999 qui a conduit la société B.		
+1999	04			1999	04			a_conduit	Un diagnostic des sols a été réalisé en avril 1999 qui a conduit la société B.		
+1999	07			1999	07			Un_bilan_des_interventions	Un bilan des interventions a été réalisé en juillet 1999 et environ 700 m3 de terres souillées ont été stockées dans une alvéole étanche en attente d'une solution de traitement.		

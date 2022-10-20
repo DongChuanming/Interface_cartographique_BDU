@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				cesse_son_activité	DUCO cesse son activité sur le site en 1989.		'DUCO'
+2006	07	24		2006	07	24		est_notifié	Ainsi, un nouvel arrêté préfectoral de servitudes d’utilité publique est notifié à SIDEC le 24/07/2006, dont les servitudes prescrites autorisent l’extension du parc de La Courneuve.		'SIDEC'
+1993	05	10		1993	05	10		est_notifié	Un arrêté préfectoral (AP) est notifié le 10/05/1993 à CHIMINOR afin d’imposer des servitudes de type SUP (servitudes d’utilité publique) sur le site.		'CHIMINOR'
+2003				2003				est_remise	Cette dernière est remise à l’inspection des installations classées en 2003, avec par ailleurs un protocole de réhabilitation.		
+1997				1997				une_étude_complémentaire	En 1997, une étude complémentaire des sols et de la nappe est réalisée.		
+2002				2002				un_diagnostic	En 2002, un diagnostic et une EDR sont réalisés, mais l’inspection des installations classées constate que certains points n’ont pas été suffisamment approfondis et demande en conséquence une étude complémentaire.		
+2005				2005				Une_enquête_publique	Une enquête publique se déroule en 2005 et donne un avis favorable.		
+2013	04			2013	04			lieu_l__inauguration	En avril 2013 a lieu l’inauguration de l’extension du parc.		
+1991				1992				Une_réhabilitation_du_site	Une réhabilitation du site a lieu de 1991 à 1992.		

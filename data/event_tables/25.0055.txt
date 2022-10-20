@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	06			2013	06			a_été_remis	Ce plan de gestion a été remis par le liquidateur en juin 2013.		
+2013	05			2013	05			Les_machines_de_sciage	Les machines de sciage et de rabotage étaient en cours de démantèlement par une société extérieure spécialisée en mai 2013.		
+2013	05			2013	05			n__a_pu_être_investigué	A noter que ce transformateur n'a pu être investigué pour des raisons de sécurité, étant donné qu'il était encore en fonctionnement en mai 2013.		
+2010	08	30		2010	08	30		Les_investigations	Les investigations du premier diagnostic des sols se sont déroulées le 30 août 2010 et ont trouvé des sources de contamination aux hydrocarbures totaux, HAP totaux, cuivre, plomb, mercure et cadmium.	'hydrocarbures totaux', 'HAP totaux', 'cuivre', 'plomb', 'mercure', 'cadmium'	
+2004				2004				Le_volume_annuel_scié	Le volume annuel scié en 2004 était d'environ 20.000 m3, et les essences travaillées étaient essentiellement du sapin (70%) et de l'épicéa (30%).		
+2012	03	27		2012	03	27		Les_investigations_du_diagnostic_approfondi	Les investigations du diagnostic approfondi se sont déroulées le 27 mars 2012 et ont mis en évidence des contaminations des sols.		

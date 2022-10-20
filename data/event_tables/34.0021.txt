@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				Les_études_menées	Les études menées en 2001 ont montré des sols pollués sur de petites surfaces près des anciens ateliers de fabrication.		
+2012				2012				a_fait_procéder	En 2012, dans le cadre de la vente d'une des parcelles du site, à son initiative la société CEDEST a fait procéder à des investigations des terrains concernés avec pour objectif de réaliser un état des sols avant cession.		'la société CEDEST'
+2013	01	16		2013	01	16		a_été_pris	Un arrêté préfectoral a été pris le 16 janvier 2013 (modifié le 05 décembre 2013) demandant à la société CEDEST de déterminer l'origine de cette pollution et d'évaluer, le cas échéant, son extension.		'la société CEDEST'
+2016	03	08		2016	03	08		Le_PV_de_récolement_de	Le PV de récolement de ces travaux a été établi le 08 mars 2016.		
+2006	10	18		2006	10	18		Le_PV_de_récolement	Le PV de récolement des travaux a été établi le 18 octobre 2006.		
+2004				2014				réalisé	Le suivi de la qualité des eaux souterraines réalisé entre 2004 et 2014 en périphérie du cocon, a confirmé l’absence de nappe au droit de ce dernier et la faible perméabilité des terrains de la zone de confinement.		
+2016	03	04		2016	03	04		a_donné	Compte tenu de ces constats et des données obtenues sur les piézomètres, sur avis de l’inspection en charge des installations classées, le Préfet de l’Hérault a donné le 04 mars 2016 une suite favorable à la demande de la société CEDEST d’arrêter ce suivi piézométrique.		'le Préfet', 'la société CEDEST'
+								Le_chantier_de_réaménagement	Le chantier de réaménagement a débuté au 1er trimestre 2015. 4 visites du chantier ont été effectuées par les services de l'inspection des installations classées.		
+2014	03			2014	03			ses_études_de	L’inspection a estimé que sur le plan environnemental, ce réaménagement, qui permettait de recouvrir les terrains (par des terres propres) et donc de supprimer la voie de transfert des polluants vers les futurs usagers de la parcelle, n’appelait pas d'observation et qu’il pouvait répondre à l’une des solutions de réhabilitation (recouvrement par des terres végétales) proposée par CEDEST dans ses études de mars 2014.	'des polluants'	'CEDEST'
+2013				2014				ont_été_remis	En application de cet arrêté, trois rapports d’étude ont été remis entre fin 2013 et mi-2014.		
+2001				2001				a_cessé	L'exploitation a cessé en 2001.		
+2015				2015				Le_chantier_de_réaménagement	Le chantier de réaménagement a débuté au 1er trimestre 2015. 4 visites du chantier ont été effectuées par les services de l'inspection des installations classées.		
+2016				2016				Les_travaux_ont_été_achevés	Les travaux ont été achevés en 2016 (finalisation de l'engazonnement).		
+2013	12	05		2013	12	05		a_été_pris	Un arrêté préfectoral a été pris le 16 janvier 2013 (modifié le 05 décembre 2013) demandant à la société CEDEST de déterminer l'origine de cette pollution et d'évaluer, le cas échéant, son extension.		'la société CEDEST'
+2007	04	20		2007	04	20		ont_été_enregistrées	Des servitudes conventionnelles au profit de l’État ont été enregistrées à la conservation aux hypothèques le 20 avril 2007 afin de garantir dans le temps un usage du site compatible avec l'état du sol.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				ont_été_perçues	En 2008, des odeurs d'hydrocarbures ont été perçues dans la boutique.	'hydrocarbures'	
+2010				2010				une_dépollution	Lors des travaux de modernisation de la station réalisés en 2010, une dépollution du site a été entreprise.		
+2014	06			2014	06			de_l__implantation	Lors de l'implantation en juin 2014 d'un piézomètre en aval du site:		
+2010				2010				des_travaux_de_modernisation	Lors des travaux de modernisation de la station réalisés en 2010, une dépollution du site a été entreprise.		
+2010	11	23		2010	11	23		de_déclaration	Cette station-service fait l'objet du récépissé de déclaration n°12501/2 du 23/11/2010 pour les rubriques 1414-3, 1432-2b et 1435-3.		
+2004	03			2004	03			a_été_identifiée	Lors d'un diagnostic réalisé par le bureau d'étude en mars 2004, une pollution des eaux souterraines a été identifiée au droit de la station-service.		
+2004	03			2004	03			un_diagnostic	Lors d'un diagnostic réalisé par le bureau d'étude en mars 2004, une pollution des eaux souterraines a été identifiée au droit de la station-service.		
+				2013	17	11		le_traitement_des_gaz_par_venting	De plus, le traitement des gaz par venting a été poursuivi jusqu'au 11/17/2013.		

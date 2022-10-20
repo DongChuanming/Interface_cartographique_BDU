@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	04			2015	04			Trois_diagnostics_environnementaux	Trois diagnostics environnementaux ont été réalisés : en août 2010, avril 2015 et août 2015.		
+2009				2009				ne_comprenait_plus	À partir de 2009, le site ne comprenait plus d’installations classées.		
+2018	06			2018	06			a_été_remise_en_fonctionnement	Suite aux résultats d’analyses qui montraient la persistance de fortes concentrations en polluants, l’installation de traitement a été remise en fonctionnement, en juin 2018.	'polluants'	
+2017	03	08		2018				Les_travaux_de_terrassement	Les travaux de terrassement ont été réalisés entre le 8 mars 2017 et le 7 juillet 2018, sans démolition du garage.		
+2018	02			2018	02			a_débuté	Le pompage a débuté en juillet 2017 et a été arrêté en février 2018.		
+								a_été_mise_en_place	Par ailleurs, afin de poursuivre le traitement de la nappe, une nouvelle solution technique a été mise en place en juin et juillet 2018 : pompage/traitement et réinjection de l’eau de la nappe.		
+1986				1986				a_été_supprimé	Enfin, le transformateur au PCB, déclaré en 1986, a été supprimé le 29/04/2009.	'PCB'	
+2010	08			2010	08			Trois_diagnostics_environnementaux	Trois diagnostics environnementaux ont été réalisés : en août 2010, avril 2015 et août 2015.		
+2018	08			2018	08			a_été_arrêté	Elle a été arrêté en août 2018.		
+2017	06			2017	06			le_traitement_de_la_nappe	Pour la zone 3 (zone de parking en limite ouest du site), le traitement de la nappe a débuté en juin 2017.                 Mais, en mars 2018, les résultats d’analyses ont mis en évidence une augmentation des concentrations en hydrocarbures volatils. 3 sondages ont donc été réalisés, sur le pourtour de la zone, afin de déterminer l’existence d’une source de pollution.	'concentrations en hydrocarbures'	
+2018	07			2018	07			a_été_mise_en_place	Par ailleurs, afin de poursuivre le traitement de la nappe, une nouvelle solution technique a été mise en place en juin et juillet 2018 : pompage/traitement et réinjection de l’eau de la nappe.		
+1986				1986				déclaré	Enfin, le transformateur au PCB, déclaré en 1986, a été supprimé le 29/04/2009.	'PCB'	
+2009	04	29		2009	04	29		a_été_supprimé	Enfin, le transformateur au PCB, déclaré en 1986, a été supprimé le 29/04/2009.	'PCB'	
+1955	03	22		1955	03	22		a_été_déclaré	Le stockage de liquides inflammables, constitué de 3 cuves enterrées de 10 m³ a été déclaré le 22/03/1955.	'liquides inflammables'	
+2015	08			2015	08			Trois_diagnostics_environnementaux	Trois diagnostics environnementaux ont été réalisés : en août 2010, avril 2015 et août 2015.		
+2017	07			2017	07			a_débuté	Le pompage a débuté en juillet 2017 et a été arrêté en février 2018.		
+2018	02			2018	02			a_été_arrêté	Le pompage a débuté en juillet 2017 et a été arrêté en février 2018.		
+1993	03	12		1993	03	12		une_déclaration_de_cessation_d__activité	Cette dernière a fait l’objet d’une déclaration de cessation d’activité le 12/03/1993.		

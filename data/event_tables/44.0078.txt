@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06	05		2012	06	05		rapport	Suite au rapport de l'inspection des installations classées du 5 juin 2012, un arrêté complémentaire demandant la mise en œuvre d'un plan d'actions en vue de procéder à la dépollution du site a été fixé le 03/09/2012.		
+2008	09			2008	09			a_remis	Lors d'une visite d'inspection réalisée en septembre 2008, la société FAMAT a remis à l'administration les résultats d'une étude de sols et du sous-sol mettant en évidence la présence d'une pollution au trichloréthylène au droit du site, celle-ci ayant migré dans les eaux souterraines.	'trichloréthylène'	'la société FAMAT'
+2013	09			2013	09			a_averti	La société FAMAT a averti l'inspection des installations classées en septembre 2013.		'La société FAMAT'
+2013	11	12		2013	11	12		Une_visite_de_contrôle	Une visite de contrôle a donc été réalisée le 12 novembre 2013.		
+2013	03			2013	03			ont_été_mises_en_place	Les mesures du plan d'action ont été mises en place au mois de mars 2013.		
+1981				1981				est_exploité	Le site est exploité par FAMAT (Fabrication Mécanique de l'Atlantique) depuis 1981 pour une activité au titre de la réglementation des installations classées de travail des métaux et de traitement de surface.		'FAMAT', 'Fabrication'
+2009	03			2009	03			ont_été_remis	Les résultats ont été remis fin mars 2009.		
+2012	06	05		2012	06	05		a_été_fixé	Suite au rapport de l'inspection des installations classées du 5 juin 2012, un arrêté complémentaire demandant la mise en œuvre d'un plan d'actions en vue de procéder à la dépollution du site a été fixé le 03/09/2012.		
+2012	09	03		2012	09	03		a_été_fixé	Suite au rapport de l'inspection des installations classées du 5 juin 2012, un arrêté complémentaire demandant la mise en œuvre d'un plan d'actions en vue de procéder à la dépollution du site a été fixé le 03/09/2012.		
+				2004				ont_été_utilisés_comme_dégraissant	Des solvants chlorés ont été utilisés comme dégraissant jusqu'en 2004 au sein de l'établissement.	'solvants chlorés'	
+2012	04	05		2012	04	05		un_rapport_de_surveillance_initiale	Suite à l'arrêté préfectoral complémentaire du 25/01/2010 concernant la surveillance des eaux souterraines, un rapport de surveillance initiale a été réalisé le 05/04/2012.		
+2010	11			2010	11			a_été_réalisé	Suite à l'arrêté complémentaire du 21/07/2010, un plan de gestion a été réalisé en novembre 2010.		

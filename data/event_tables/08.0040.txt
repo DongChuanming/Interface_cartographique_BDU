@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								la_réalisation_d__un_diagnostic_initial	La préfecture des Ardennes a pris un arrêté préfectoral complémentaire le 27 février 2001 prescrivant à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, dans un délai de 6 mois, pour le site d'exploitation de Monthermé.		'La préfecture des Ardennes'
+2001	02	27		2001	02	27		la_réalisation_d__un_diagnostic_initial	La préfecture des Ardennes a pris un arrêté préfectoral complémentaire le 27 février 2001 prescrivant à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, dans un délai de 6 mois, pour le site d'exploitation de Monthermé.		'La préfecture des Ardennes'
+2002	08	19		2002	08	19		a_été_signé	Cet arrêté a été signé le 19 juillet 2002 et notifié le 19 août 2002 à maître Brucelle.		
+1880				1880				était_déjà_occupé	Avant 1880 le site était déjà occupé par des installations de fonderie.		
+2002	07	19		2002	07	19		a_été_signé	Cet arrêté a été signé le 19 juillet 2002 et notifié le 19 août 2002 à maître Brucelle.		
+2003	01	06		2003	01	06		notifie	Le 06 janvier 2003, le préfet notifie :		'le préfet'
+2001	02	27		2001	02	27		a_pris	La préfecture des Ardennes a pris un arrêté préfectoral complémentaire le 27 février 2001 prescrivant à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, dans un délai de 6 mois, pour le site d'exploitation de Monthermé.		'La préfecture des Ardennes'
+1892	12	26		1892	12	26		__naissance_de	Le 26 décembre 1892, naissance de la société des Fonderies de Monthermé - Laval Dieu.		'la société des Fonderies de Monthermé'
+2003				2003				ont_été_évacués	Les déchets ont été évacués début 2003.		
+2002	06	06		2002	06	06		a_prononcé_la_liquidation_judiciaire	Le 6 juin 2002, le tribunal de commerce de Charleville- Mézières a prononcé la liquidation judiciaire pour la société Artis à Monthermé.		'la société Artis'

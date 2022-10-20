@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			a_cessé_son_activité	Elle a cessé son activité en décembre 2001.		
+1996				1996				a_levé	Le préfet de l'Essonne a levé en 1996 l'obligation de surveillance des eaux souterraines.		
+2002	01	10		2002	01	10		a_été_délivré	Le récépissé de notification de cessation d'activité a été délivré le 10 janvier 2002.		
+1993				1996				s__est_effectuée	Cette surveillance s'est effectuée de 1993 à 1996.		

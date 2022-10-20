@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10			2009	10			la_campagne	- une anomalie sur les teneurs en tétra chloroéthylène et trichloro éthylène dans les eaux lors de la campagne de juillet 2009 et non confirmée par la campagne d’octobre 2009 ;	'tétra chloroéthylène', 'trichloro éthylène'	
+2008	08			2008	08			état_des_lieux	- état des lieux et proposition de mesures de gestion du site en août 2008, basé sur des investigations de terrain de 2007 :		
+2009	12			2009	12			Investigations_complémentaires_réalisées	- Investigations complémentaires réalisées en décembre 2009 (3 sondages sol (S121, S122 et S 127)		
+2010	04			2010	04			Investigations_complémentaires_réalisées	- Investigations complémentaires réalisées en avril 2010 (7 sondages sol (S 120, S 123 à S 126, S 128 et S 129)		
+2009	07			2009	07			la_campagne	- une anomalie sur les teneurs en tétra chloroéthylène et trichloro éthylène dans les eaux lors de la campagne de juillet 2009 et non confirmée par la campagne d’octobre 2009 ;	'tétra chloroéthylène', 'trichloro éthylène'	
+2008	08			2008	08			remédiation_en	(Dossier N7 112 0- v3 rédigé par SITA remédiation en août 2008);		'SITA remédiation'
+1998				1998				étude_historique_de	- étude historique de 1998;		
+1980				1980				cesse	En 1980, l’activité de tissage cesse sur le site de la Blanchardière,		
+2001	06			2001	06			évaluation_simplifié_des_risques	- évaluation simplifié des risques , étapes A et B en juin 2001 réalisé par ATE-Géoclean;		'ATE - Géoclean'
+1990				1990				s__installe_sur_le_site	En 1990 la société Bertrand Faure ( devenu FAURECIA) s’installe sur le site au droit du bâtiment BLA1,		'la société Bertrand Faure', 'devenu FAURECIA'
+2009	07			2009	07			la_campagne	- l’absence de COHV sur tous les échantillons exceptés sur le piézomètre PZ 103 situé en aval de la Blanchardière 1 où des anomalies de TCE et de PCE ont été mises en évidence lors de la campagne de juillet 2009	'COHV', 'TCE'	
+2007				2007				investigations_de_terrain	- état des lieux et proposition de mesures de gestion du site en août 2008, basé sur des investigations de terrain de 2007 :		
+1982				1994				s__implante	De 1982 à 1994, la société Flers Méca , spécialisée dans la mécanique générale s’implante sur le site au droit du bâtiment BLA5		'la société Flers Méca'
+1944	06			1944	06			subit_des_bombardements	En juin 1944, l’ensemble de la zone subit des bombardements, l’usine de la Blanchardière, l’usine à gaz, la fonderie et la gare de marchandises situées à proximité sont touchées.		
+1989				1989				s__installe	En 1989 la société SONOFOQUE s’installe sur les parcelles au sud du site		'la société SONOFOQUE'
+1947				1984				Des_photos_aériennes	Des photos aériennes de 1947 à 1984 permettent de retracer l’évolution du site, jusqu’en 1977 subsiste en bordure ouest du site un stockage important de charbon (qui n’est pas situé sur l’emprise foncière actuelle de Faurecia)	'charbon'	'Faurecia'

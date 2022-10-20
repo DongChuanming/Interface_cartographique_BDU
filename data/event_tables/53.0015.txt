@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1978	05	12		1978	05	12		déclaration	La préfecture de Mayenne lui a également délivré un récépissé de déclaration en date du 12 mai 1978 pour les installations suivantes :		'La préfecture de Mayenne'
+2013	09	25		2013	09	25		une_notification_de_cessation_d__activité	Suite à un arrêté préfectoral de mise en demeure en date du 19 mars 2013 pour une régularisation de la cessation d’activités de la STAO, une notification de cessation d'activité ainsi qu'un diagnostic de pollution du sous-sol ont été réalisés le 25/09/2013.		'la STAO'
+2013				2013				est_occupés	Une partie des bâtiments de la STAO est occupés en 2013 correspondant à la parcelle 221 section AR par la société "Espace Game" qui semble développer une activité liée à l'accueil du public en place et lieu d'une activité industrielle.		'la société "'
+2011	09	07		2011	09	07		a_donc_été_demandé	Par courrier du 7 septembre 2011, il lui a donc été demandé de transmettre la notification de cessation d'activité prévue par le code de l'environnement.		
+1997				1997				a_cessé_son_activité	La STAO a cessé son activité sur le site de LAVAL en 1997.		'La STAO'

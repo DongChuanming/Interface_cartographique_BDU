@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				mesurées	- des teneurs en métaux (As, Cr, Cu Pb, Ni) mesurées en 2007 à des valeurs proches ou supérieures aux valeurs guides considérées à l’époque (VDSS VCI).	'métaux', 'As', 'Cr', 'Cu Pb', 'Ni'	
+2013				2013				propose_un_plan_de_gestion	La société TECHNILOR propose un plan de gestion en 2013.		'La société TECHNILOR'
+2011	06	24		2011	06	24		une_cessation_partielle_d__activité	Le 24 juin 2011, l’exploitant a notifié au préfet une cessation partielle d’activité à compter de cette même date.		
+2016	12			2016	12			a_imposé	Par arrêté préfectoral du 16 décembre 2016, le Préfet a imposé à la société TECHNILOR le traitement des sources de pollution des sols identifiées dans le plan de gestion.		'le Préfet', 'la société TECHNILOR'

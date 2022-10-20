@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	09		1999	07	09		une_visite_systématique	Lors d'une visite systématique du 9 juillet 1999 de toutes les mégisseries de GRAULHET, il en a résulté un arrêté de mise en demeure en date du 12 juillet 1999, qui imposait, sous un délai de 3 mois, d'éliminer tous les produits divers et les déchets entreposés sur le site.	'les produits divers', 'les déchets'	'GRAULHET'
+1998	12			1998	12			à_compter_de	La Mégisserie a déclaré sa cessation d'activité à compter de fin décembre 1998, par courrier du 22 mai 2000.		'La Mégisserie'
+2000	05	22		2000	05	22		par_courrier	La Mégisserie a déclaré sa cessation d'activité à compter de fin décembre 1998, par courrier du 22 mai 2000.		'La Mégisserie'
+2000	05	22		2000	05	22		a_déclaré_sa_cessation_d__activité	La Mégisserie a déclaré sa cessation d'activité à compter de fin décembre 1998, par courrier du 22 mai 2000.		'La Mégisserie'
+2001	02	19		2001	02	19		PV_de_recollement	PV de recollement du 19 février 2001 suite au nettoyage de l'usine et à l'évacuation des produits susceptibles de porter atteinte à l'environnement pour les parties visibles et sous réserve de nuisances ultérieures qui pourraient provenir de partie non visibles.		
+1999	10	25		1999	10	25		Une_visite_d__inspection	Une visite d'inspection du 25 octobre 1999 a confirmé l'évacuation des déchets présents sur le site.		
+1994	12	20		1994	12	20		ampliation	Puis, par une ampliation du 20 décembre 1994.		
+1998	12			1998	12			a_cessé_son_activité	La Mégisserie a cessé son activité à la fin décembre 1998		
+1979	10	08		1979	10	08		a_été_autorisée_à_exploiter	La Mégisserie Lainière a été autorisée à exploiter par arrêté préfectoral du 08 octobre 1979.		

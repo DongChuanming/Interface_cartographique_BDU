@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06			2012	06			Démolition	- Démolition des bâtiments débuté en juin 2012 et fin prévue en juin 2013.		
+2000	02	04		2000	02	04		Dépôt_de_bilan	- Dépôt de bilan le 04/02/2000.		
+2009	02	25		2009	02	25		de_la_visite_d__inspection	- Lors de la visite d'inspection le 25/02/2009, il a été constaté que la clôture était abîmée (présence de nombreuses brèches), présence de déchets (dangereux et non-dangereux).		
+								d__évacuer	- Arrêté préfectoral du 31/01/2003 mettant en demeure la société GDF d'évacuer les déchets dans un délai de 3 mois.		'la société GDF'
+2008	11			2008	11			Acquisition_du_site	- Acquisition du site en novembre 2008 par l'EPF.		"l' EPF"
+2013	06			2013	06			Démolition	- Démolition des bâtiments débuté en juin 2012 et fin prévue en juin 2013.		
+2012	01			2012	01			Dépôt_d__un_permis_de_démolir	- Dépôt d'un permis de démolir par l'EPF en janvier 2012.		"l' EPF"
+								aurait_autorisé	- De l'examen du dossier, il apparaît qu'au environ des années 1970, la société Foulon aurait autorisé GDF à déposer des "terres bleues" sur le site.		'la société Foulon', 'GDF'

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02			2003	02			a_été_vendu	En février 2003, le site a été vendu à la société AGIP et par courrier du 13/02/2003, la société AGIP a informé la Préfecture de la reprise d'exploitation de la station-service.		'la société AGIP', 'la société AGIP', 'la Préfecture'
+2003	02	24		2003	02	24		de_déclaration	La station service dispose d'un récépissé de déclaration du 24/02/2003.		
+2003	03	06		2003	03	06		Un_diagnostic_environnemental	Un diagnostic environnemental établi par la société CECA pour La société TOTAL a été transmis à la DRIRE le 06/03/2003.		'la société CECA', 'La société TOTAL', 'la DRIRE'
+				2010	03			a_débuté	La surveillance des gaz du sous-sol a débuté en avril 2008, jusqu'en mars 2010.		
+1998				1998				L__exploitation	L'exploitation de la station-service présente sur le site a commencé en 1998 avec la société TOTAL.		'la société TOTAL'
+2008	04			2008	04			a_débuté	La surveillance des gaz du sous-sol a débuté en avril 2008, jusqu'en mars 2010.		
+2002	03	21		2002	03	21		La_mise_en_place_du_système_de_venting	La mise en place du système de venting et bioventing a été réalisée le 21/03/2002 et arrêtée le 28/10/2002.		
+2002	10	28		2002	10	28		arrêtée	La mise en place du système de venting et bioventing a été réalisée le 21/03/2002 et arrêtée le 28/10/2002.		
+2005	07	18		2005	07	18		à_été_émis	L'arrêté préfectoral de prescriptions spéciales à été émis le 18/07/2005.		
+								a_fait_effectuer	Suite à la demande de la DREAL, la société AGIP a fait effectuer le suivi mensuel de PZ8 pendant 6 mois, pour confirmer dans le temps, la présence ou non d'eau souterraine superficielle inférieure à 20 m de profondeur.		'la DREAL', 'la société AGIP'
+2003	02	24		2003	02	24		__a_été_émis	Un récépissé de changement d'exploitation  a été émis le 24/02/2003.		

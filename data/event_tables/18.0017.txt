@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				Des_travaux_de_décontamination	Des travaux de décontamination des eaux et des sols ont été engagés début 1999 par stripping et par venting, l'écrémage des hydrocarbures flottants dans les piézomètres est poursuivi.	'hydrocarbures'	
+2004				2004				a_atteint	Par ailleurs le traitement a atteint ses limites d'efficacité en 2004 et a donc été démantelé.		
+2006	03			2006	03			une_évaluation_simplifiée_des_risques	Suite à ce traitement, une évaluation simplifiée des risques a été menée sur le site et rendue en mars 2006.		
+2006				2006				se_sont_stabilisées	Les concentrations en dichloroéthylène se sont stabilisées à partir de 2006 à une valeur supérieure à la valeur guide définie par l'OMS pour l'eau potable.	'dichloroéthylène'	
+2009				2009				ont_été_réalisés	Les piézomètres ont été réalisés en 2009.		
+2010	11			2010	11			Une_étude	Une étude, sur les risques sanitaires encourus par les riverains vis à vis des composés volatils mis en évidence dans les eaux souterraines, a été remise en novembre 2010.		
+2012	07	06		2012	07	06		a_été_signé	Le 6 juillet 2012, a été signé par le préfet un l'APC n° 2012-DDCSPP-134, relatif à la surveillance pérenne des rejets de substances dangereuses dans le milieu aquatique.	'substances dangereuses'	'le préfet'
+2008	10			2008	10			a_été_réalisée	En octobre 2008, une interprétation de l'état des milieux, exigée par l'arrêté préfectoral complémentaire n°2008.1.162 du 5 mars 2008, a été réalisée.		
+1999				2004				a_baissé_régulièrement	La pollution des eaux et des sols a baissé régulièrement entre 1999 et 2004. 2556 kg de COHV ont été extraits, 409 litres d'hydrocarbures flottants ont été récupéré.	'COHV', 'hydrocarbures'	
+1996				1996				ont_été_reprises	Les activités de la société PRECITUBE ont été reprises par le groupe SANDVIK en 1996.		'la société PRECITUBE', 'groupe SANDVIK'
+				2007				ont_augmenté	Après l'arrêt du traitement, les teneurs en hydrocarbures dans les eaux souterraines ont augmenté jusqu'à fin 2007.	'hydrocarbures'	
+1980				1980				a_été_effectuée	Une extension des bâtiments a été effectuée en 1980.		
+2001	08			2001	08			ont_été_atteints	Il s’est avéré que depuis août 2001, les objectifs de depollution des eaux sur le piézomètre en aval du site ont été atteints, hormis une anomalie en juillet 2003 en trichloréthylène.	'trichloréthylène'	
+1963				1963				s__y_est_installée	La société PRECITUBE s'y est installée en 1963.		'La société PRECITUBE'
+1998				1998				a_proposé	En 1998, l'industriel a proposé des techniques de traitement.		
+1997				1997				écrémage	Un écrémage de la nappe a été mis en place en 1997.		
+1995				1998				ont_été_réalisées	Dans le cadre du rachat de PRECITUBE par SANDVIK, des investigations au niveau du sous-sol ont été réalisées entre 1995 et 1998. 3 piézomètres, dont deux à l'extérieur du site, ont été mis en place.		'PRECITUBE', 'SANDVIK'
+2006				2008				ont_diminué	Les teneurs en tétrachloroéthylène ont diminué entre 2006 et 2008.	'tétrachloroéthylène'	
+2008	03	05		2008	03	05		a_été_réalisée	En octobre 2008, une interprétation de l'état des milieux, exigée par l'arrêté préfectoral complémentaire n°2008.1.162 du 5 mars 2008, a été réalisée.		

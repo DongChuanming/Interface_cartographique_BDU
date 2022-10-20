@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				est_clôturé	Depuis 2004, le site est clôturé, il fait l'objet d'un entretien bisannuel par girobroyage.		
+2008	04			2008	04			La_campagne_d_	La campagne d'avril 2008 confirme la tendance avec une nette amélioration et une forte baisse pour le benzo(a)pyrène, sauf pour Nickel.	'le benzo(a)pyrène', 'Nickel'	
+2004	01			2004	01			Le_transfert_de_propriété	Le transfert de propriété à la Communauté Urbaine de Bordeaux a eu lieu dès juillet 2003 suivi de l'acquisition en janvier 2004.		'la Communauté Urbaine de Bordeaux'
+2003	07			2003	07			Le_transfert_de_propriété	Le transfert de propriété à la Communauté Urbaine de Bordeaux a eu lieu dès juillet 2003 suivi de l'acquisition en janvier 2004.		'la Communauté Urbaine de Bordeaux'
+1944				2000				exploitée	Ancien site de l'usine de fabrication de produits lactés exploitée par CACOLAC de 1944 à 2000 dans le quartier de la Benauge à Bordeaux (33).		'CACOLAC'
+2007	12	21		2007	12	21		La_campagne	La campagne du 21/12/2007 montre l'absence d'hydrocarbures et de plomb mais une concentration élevée en benzo(a)pyrène.	'hydrocarbures', 'plomb', 'benzo(a)pyrène'	
+2008	09	29		2008	09	29		La_campagne	La campagne du 29/09/2008 inverse la tendance avec une forte augmentation des HAP (dont benzo(a)pyrène) étroitement liées aux valeurs élevées en MES au droit des PZ6 et PZ7.	'des HAP', 'benzo(a)pyrène'	
+2007				2007				un_enrichissement	- un enrichissement en Nickel et en Arsenic depuis 2007,	'Nickel', 'Arsenic'	
+2001				2001				le_diagnostic_initial	Dans le cadre de la cessation d'activité et du projet d'achat par la Communauté Urbaine de Bordeaux, le diagnostic initial et l'évaluation simplifiée des risques ont été réalisés en 2001 pour répondre par ailleurs à l'arrêté préfectoral du 12 février 2001.		'la Communauté Urbaine'
+2003				2003				ont_été_démolis	Les bâtiments ont été démolis en 2003.		
+2006				2006				La_campagne	La campagne de 2006 confirme l'impact mais on observe une nette diminution des teneurs, expliquée en partie par la présence d'une charge particulaire plus importante (matières en suspension).		
+2009	03	11		2009	03	11		La_campagne	La campagne du 11/03/2009 est caractérisée par une très forte augmentation de la charge particulaire des eaux pour les trois ouvrages.		

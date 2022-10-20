@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	08	26		2002	08	26		Les_études_remises	Les études remises le 26 août 2002, classe le site en 2 "à surveiller" pour les eaux souterraines.		
+2006	12	19		2006	12	19		les_justificatifs_d__élimination	Le 19/12/2006, la mairie d'Arsac adresse les justificatifs d'élimination des déchets à la DRIRE.		'la DRIRE'
+				2003				resté_en_friche	Suite à la liquidation judiciaire de la société le 2 février 2000, le site resté en friche jusque fin 2003.		
+2000	02	02		2000	02	02		sa_liquidation_judiciaire	Le Tribunal de Commerce de Bordeaux prononce le redressement judiciaire de la Sté Nouvelle CISMATIC Industrie à Arsac le 8 septembre 1999, puis sa liquidation judiciaire le 2 février 2000.		'la Sté Nouvelle CISMATIC Industrie'
+2000	02	02		2000	02	02		prononce	Le Tribunal de Commerce de Bordeaux prononce le redressement judiciaire de la Sté Nouvelle CISMATIC Industrie à Arsac le 8 septembre 1999, puis sa liquidation judiciaire le 2 février 2000.		'la Sté Nouvelle CISMATIC Industrie'
+2001	01	10		2001	01	10		autorise_l__abandon_des_actifs	Le 10 janvier 2001, le juge-commissaire autorise l’abandon des actifs et la remise des clefs à la Mairie d’Arsac, propriétaire des lieux.		'la Mairie d’ Arsac'
+								est_déboutée	Le 12 septembre, la mairie d’Arsac est déboutée par le Tribunal de commerce du recours introduit contre la décision du juge-commissaire du 10 janvier 2001.		
+2000	02	02		2000	02	02		à_la_liquidation_judiciaire	Suite à la liquidation judiciaire de la société le 2 février 2000, le site resté en friche jusque fin 2003.		
+1999	09	08		1999	09	08		prononce	Le Tribunal de Commerce de Bordeaux prononce le redressement judiciaire de la Sté Nouvelle CISMATIC Industrie à Arsac le 8 septembre 1999, puis sa liquidation judiciaire le 2 février 2000.		'la Sté Nouvelle CISMATIC Industrie'
+2004				2004				a_été_vendu_à	Propriété de la commune, ce site a été vendu à une entreprise de mécanique en 2004.		
+2006	12	19		2006	12	19		s__engage_à_faire_réaliser_une_campagne	Le 19/12/2006 la mairie d'Arsac s'engage à faire réaliser une campagne en janvier 2007.		
+2007	01			2007	01			s__engage_à_faire_réaliser_une_campagne	Le 19/12/2006 la mairie d'Arsac s'engage à faire réaliser une campagne en janvier 2007.		

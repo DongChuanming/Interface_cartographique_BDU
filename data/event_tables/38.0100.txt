@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01			2001	01			est_en_dépôt_de_bilan	Fin janvier 2001, RAFI est en dépôt de bilan, l'activité cesse sur le site.		'RAFI'
+2003	01			2003	01			ont_été_évacuées	Ces terres ont été évacuées au mois de janvier 2003. 82,52 m3 de terres et de débris contaminés ont été évacués.		
+1993				1993				devient	En 1993, la société DIEDERICH devient Rhône Alpes Fonte Industries (RAFI), seule reste l'activité de fonderie.		'la société DIEDERICH', 'Rhône Alpes Fonte Industries', 'RAFI'
+2004	05	14		2004	05	14		une_réunion	Lors d’une réunion à la mairie de Bourgoin-Jallieu le 14 mai 2004, l’inspection a constaté le remblaiement d'une partie du site par des mâchefers.		
+2006	08	18		2006	08	18		a_été_envoyé	Un courrier préfectoral a été envoyé au maire de la commune le 18 août 2006 stipulant les points suivants :		
+2002	09			2002	09			des_travaux_d__évacuation	Au cours du mois de septembre 2002, des travaux d'évacuation des déchets industrielles sur le site ont été réalisés.		
+2002	05			2002	05			a_été_rédigé	Le rapport de TVD a été rédigé en date du mois de mai 2002.		'TVD'
+2003	06			2003	06			Ces_analyses	Ces analyses, réalisées en juin 2003, n’ont pas révélé de pollution que ce soit pour les métaux, les hydrocarbures ou les phénols.	'les métaux', 'hydrocarbures', 'phénols'	
+2003	11	03		2003	11	03		La_mise_en_place	La mise en place du réseau de surveillance ainsi que les premières analyses ont été réalisées en date du 03/11/2003 par le Cabinet Blondel.		
+1995				1995				devient_propriétaire	En 1995, la commune de Bourgoin-Jallieu devient propriétaire de l'ensemble du site, RAFI devient alors locataire.		'la commune de Bourgoin', 'RAFI'
+2002	11			2002	11			des_investigations_complémentaires	Au mois de novembre 2002, des investigations complémentaires ainsi qu'une nouvelle ESR ont été réalisées par la société TVD afin de déterminer si le site était contaminé en PCB.	'PCB'	'la société TVD'
+2006	09			2006	09			des_analyses	A la demande de l’inspection des installations classées, des analyses sur la qualité des mâchefers ont été réalisées au mois de septembre 2006.		
+2004	05	14		2004	05	14		le_remblaiement	Lors d’une réunion à la mairie de Bourgoin-Jallieu le 14 mai 2004, l’inspection a constaté le remblaiement d'une partie du site par des mâchefers.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	31		2000	07	31		date_de_la_cessation	Un diagnostic initial et une évaluation simplifiée des risques ont été réalisés suite à la cessation des activités (date de la cessation : 31/07/2000).		
+2000	06	28		2000	06	28		La_déclaration_de_cessation_des_activités	La déclaration de cessation des activités a été transmise à la préfecture en date du 28/06/2000.		
+2005	01			2005	01			ont_été_transmis	Par ailleurs, les justificatifs relatifs à la suppression du transformateur au PCB en janvier 2005, ont été transmis par le courrier du 16/11/2005, par le propriétaire du site.	'PCB'	
+2002	01			2002	01			Le___diagnostic_initial_réalisé	Le  diagnostic initial réalisé en janvier 2002 a mis en évidence la présence d’une pollution en métaux des sols (1840 mg/kg de chrome total ; 1920 mg/kg en cuivre ; 185 mg/kg en nickel) et de la nappe.	'en métaux', 'de chrome total', 'en cuivre', 'en nickel'	
+2001	12			2005	10			a_été_réalisé	Un suivi de la qualité des eaux souterraines a été réalisé entre décembre 2001 et octobre 2005.		
+2005				2005				a_loué	En 2005, la société SING QUANG YIN a loué les locaux existants pour exercer une activité de préparation de produits d’origine asiatique, classée à déclaration.		'la société SING QUANG YIN'
+2000	07	31		2000	07	31		Un_diagnostic_initial	Un diagnostic initial et une évaluation simplifiée des risques ont été réalisés suite à la cessation des activités (date de la cessation : 31/07/2000).		

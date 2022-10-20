@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_été_donné	Après une enquête de gendarmerie, aucun responsable de ces bidons n'ayant été identifié, un accord du Ministère de l'Aménagement du Territoire et de l'Environnement a été donné début 1999 pour la réalisation de travaux d'office menés par l'ADEME (évacuation des bidons pour un montant de 22 000F).		
+2000	12	21		2000	12	21		a_été_signé	Un arrêté préfectoral décidant de confier la réalisation de travaux d'office à l'ADEME a été signé le 21 décembre 2000 pour le transport et le traitement de ces bidons.		
+1994	10	04		1994	10	04		ont_été_abandonnés	115 bidons de peintures et solvants ont été abandonnés au lieudit Grand Val à Montréal la Cluse puis découverts le 04/10/1994.	'115 bidons de peintures', 'solvants'	
+1994	10	04		1994	10	04		puis_découverts	115 bidons de peintures et solvants ont été abandonnés au lieudit Grand Val à Montréal la Cluse puis découverts le 04/10/1994.	'115 bidons de peintures', 'solvants'	
+2002				2002				a_enlevé_les_fûts	L'ADEME a enlevé les fûts en 2002.		

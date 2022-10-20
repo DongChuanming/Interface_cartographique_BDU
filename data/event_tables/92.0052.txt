@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		Evaluation_Simplifiée_des_Risques	Une Evaluation Simplifiée des Risques (ESR) a été demandée en application de la circulaire du 03/04/1996.		
+1996	04	03		1996	04	03		Site_relevant	Site relevant de l'application de la circulaire du 03/04/1996.		
+1950				1950				sont_stockés	Des produits pétroliers sont stockés sur ce site depuis 1950, le dernier exploitant, TRAPIL, stocke des contaminats issus de l'exploitation des pipelines dans différents bacs, certains sont nouveaux, d'autres sont réaffectés.	'contaminats'	'TRAPIL'

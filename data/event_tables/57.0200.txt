@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06			2007	06			la_visite	Suite à la visite d’inspection de juin 2007, un courrier en réponse hiérarchisant les actions à engager lui a été adressé.		
+2002	03	28		2002	03	28		a_prononcé_la_liquidation_judiciaire	Le Tribunal de Grande Instance a prononcé la liquidation judiciaire de la société PROSIMETAL le 28 mars 2002.		'Le Tribunal de Grande Instance', 'la société PROSIMETAL'
+2013	12			2013	12			Les_analyses	Les analyses de décembre 2013 ne font pas apparaître la présence de COHV ni de TCE ou PCE dans les eaux souterraines.	'COHV', 'de TCE ou PCE'	
+2007	06			2007	06			un_courrier	Suite à la visite d’inspection de juin 2007, un courrier en réponse hiérarchisant les actions à engager lui a été adressé.		
+2010	07	07		2010	07	07		ont_été_transmises	Les conclusions du diagnostic environnemental réalisé ont été transmises à l’inspection le 7 juillet 2010.		

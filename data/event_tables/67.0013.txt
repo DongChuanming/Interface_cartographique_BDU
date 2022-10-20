@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				ont_été_réalisées	En vue de la réhabilitation du site, une étude d’impact et une évaluation détaillée des risques ont été réalisées en 1998.		
+				1965				est_actuellement_en_friche	L'ancienne raffinerie de la SAEM, exploitée jusqu'en 1965, est actuellement en friche.		'la SAEM'
+1995				1995				L__évacuation_d_	L’évacuation d’un bassin contenant des hydrocarbures et l’élimination des déchets extraits par incinération ont été réalisées fin 1995 (rapport BRGM R39183).	'hydrocarbures'	'BRGM'
+1995				1995				Un_diagnostic_initial	Un diagnostic initial a été réalisé en 1995 sur la partie la plus ancienne (Rapport BRGM R 38594).		'BRGM'

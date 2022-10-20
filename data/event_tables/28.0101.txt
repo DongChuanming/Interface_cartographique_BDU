@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12	26		2001	12	26		a_fusionné_par_absorption	Le 26 décembre 2001, la société SEVIA-SRRHU a fusionné par absorption de la société HAMMEL.		'la société SEVIA - SRRHU', 'la société HAMMEL'
+2003	05	19		2003	05	19		est_obtenu	Le récépissé de déclaration de changement d’exploitant est obtenu le 19 mai 2003.		
+2011	02	25		2011	02	25		a_procédé	Le 25 février 2011, l’inspection des installations classées a procédé à une campagne de prélèvement d’échantillons de sol au niveau de la zone d’enfouissement des déchets.		
+2001	02			2001	02			Les_investigations_menées	Les investigations menées dans le cadre d’un diagnostic de pollution des sols en février 2001, sur les parcelles n°321,322,323,324,325,326,327 ne révèlent aucune pollution particulière du sol et du sous-sol nécessitant de mesures de traitement ou de réhabilitation.		
+2010	07	20		2010	07	20		a_constaté	Dans le cadre d'une plainte, l’inspection des installations classées a constaté le 20 juillet 2010, la présence de déchets enterrés provenant de l’exploitation de la société HAMMEL sur la propriété de MM.		'la société HAMMEL'
+2002	12	13		2002	12	13		du	AMMEL Marcel et Mme GUTIERREZ Eudoxia, son épouse ; l’acte notarié date du 13 décembre 2002.		'Mme GUTIERREZ Eudoxia'

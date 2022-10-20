@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				Aussi___le	Aussi, le préfet prend un arrêté n°2014-3092 SG/DRCTCV du 3 avril 2014 mettant en demeure la CIREST de respecter les dispositions dudit arrêté, mais aussi celles de l’article R.512-39-2 du code de l’environnement relatif à la définition des usages futurs des terrains concernés.		
+								indique_que	L'étude indique que le terrain naturel et le massif de déchets (déchets non compactés d'une épaisseur maximale de 7 m) sont plutôt perméables favorisant l'infiltration de lixiviats dans le sol.		"L' étude indique", 'maximale de 7 m'
+								et_le_massif_de_déchets__	L'étude indique que le terrain naturel et le massif de déchets (déchets non compactés d'une épaisseur maximale de 7 m) sont plutôt perméables favorisant l'infiltration de lixiviats dans le sol.		"L' étude indique", 'maximale de 7 m'

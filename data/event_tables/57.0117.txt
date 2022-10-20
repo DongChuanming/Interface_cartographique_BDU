@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	03		2005	02	03		l__achèvement_des_travaux_de_couverture	Le 03 février 2005, l'inspection a constaté l'achèvement des travaux de couverture de la décharge.		
+1979				2000	05			déchets_de_chantiers_de_démolition	Le site est une décharge ayant reçue des déchets de chantiers de démolition de 1979 à mai 2000.		
+2004	09			2004	09			Des_prélèvements_des_eaux_souterraines_ont_été_réalisés	Des prélèvements des eaux souterraines ont été réalisés en septembre 2004, les analyses effectuées montrent une forte teneur des eaux en manganèse.	'manganèse'	
+2002	01	07		2002	01	07		une_évaluation_simplifiée_des_risques	Le 07 janvier 2002, l'exploitant a remis au Préfet une évaluation simplifiée des risques (ESR).		
+1995	05	10		1995	05	10		l__exploitation	Le 10 mai 1995, l'inspection des installations classées a constaté l'exploitation d'une décharge relevant de la nomenclature des installations classées (rubrique 322); l'inspecteur a informé l'exploitant de ses obligations légales ce dernier ne disposant pas de l'autorisation préfectorale requise.		
+2003	07	24		2003	07	24		un_arrêté_de_mise_en_demeure_a_été_pris	L'exploitant n'ayant pas obtempéré à l'injonction préfectoral, un arrêté de mise en demeure a été pris à l'encontre de l'exploitant le 24 juillet 2003.		
+2004	09	13		2004	09	13		Au_cours_d__une_visite_d__inspection	Au cours d'une visite d'inspection le 13 septembre 2004, il a constaté que les travaux de couverture de la décharge ont débuté et que les piézomètres pour la surveillance des eaux souterraines ont été installés.		
+1996				1996				des_travaux_de_nettoyage	En 1996 la société Boyon a effectué des travaux de nettoyage en surface du site.		'la société Boyon'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04			2001	04			Un_diagnostic_de_l__état_des_sols	Un diagnostic de l'état des sols a été réalisé en avril 2001 sur ce site appartenant à l'époque à la société RFF (Réseaux Ferrés de France).		'la société RFF'
+1960				1960				a_été_exploité	Ce site a été exploité a minima de 1949 à 1960.		
+1949				1949				a_été_exploité	Ce site a été exploité a minima de 1949 à 1960.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_analyses	Les analyses, qui porteront notamment sur le suivi des teneurs en HAP, devront avoir lieu deux fois par an, en période de hautes et basses eaux sur une durée minimale de 4 ans.	'HAP'	
+1958				1958				a_débuté	L'activité de la cartonnerie de la Rochette CENPA a débuté en 1958 pour cesser à la fin des années 1970.		'la Rochette CENPA'
+2010				2010				son_projet_de_reconversion	En 2010, un aménageur a porté à la connaissance du Préfet son projet de reconversion du site (futur usage avec habitats, commerces et locaux professionnels).		
+1998				1998				Des_actions_administratives	Des actions administratives ont été engagées en 1997 et 1998 afin d'éliminer 50 fûts de 200 litres de STEROL datant de fin de  l'activité de l'usine.		'STEROL'
+								a_débuté	L'activité de la cartonnerie de la Rochette CENPA a débuté en 1958 pour cesser à la fin des années 1970.		'la Rochette CENPA'
+1997				1997				Des_actions_administratives	Des actions administratives ont été engagées en 1997 et 1998 afin d'éliminer 50 fûts de 200 litres de STEROL datant de fin de  l'activité de l'usine.		'STEROL'

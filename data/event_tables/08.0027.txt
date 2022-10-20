@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	08		2003	01	08		a_été_faite	Une visite d'inpection a été faite le 08/01/2003, suivi d'une proposition adressée à Monsieur le Préfet visant à prendre :		'le Préfet'
+1999	08	20		1999	08	20		Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques ont été demandés au liquidateur judiciaire par arrêté préfectoral du 20 août 1999.		
+1998				1998				la_liquidation_judiciaire	Suite à la liquidation judiciaire de la société VAL THOME en 1998 et sur proposition de l'inspection des installations classées, un diagnostic initial et une évaluation simplifiée des risques  ont été demandés au liquidateur par arrêté préfectoral du 10/06/1998.		'la société VAL THOME'
+1998	06	10		1998	06	10		un_diagnostic_initial	Suite à la liquidation judiciaire de la société VAL THOME en 1998 et sur proposition de l'inspection des installations classées, un diagnostic initial et une évaluation simplifiée des risques  ont été demandés au liquidateur par arrêté préfectoral du 10/06/1998.		'la société VAL THOME'
+1998				1998				a_cessé	L'activité a cessé en 1998 et le site est en liquidation judiciaire depuis cette date.		

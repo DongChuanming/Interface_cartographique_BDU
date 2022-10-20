@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				diagnostic_approfondi	Dans le cadre de la fermeture du site de Nogent (transfert sur le site de Laigneville) la société Montupet avait initié des démarches de diagnostic de l'état du sol et du sous-sol (diagnostic approfondi et EDR en 2005-2006)		'Laigneville', 'la société Montupet'
+2006				2006				diagnostic_approfondi	Dans le cadre de la fermeture du site de Nogent (transfert sur le site de Laigneville) la société Montupet avait initié des démarches de diagnostic de l'état du sol et du sous-sol (diagnostic approfondi et EDR en 2005-2006)		'Laigneville', 'la société Montupet'
+2012				2012				Des_travaux_ont_été_réalisés	Des travaux ont été réalisés en 2012 (excavation des zones sources).		
+				2006				a_exploité	La société Montupet a exploité sur le site de Nogent sur Oise des installations de fonderie de l'aluminium pour le marché automobile jusqu'en 2006.		'La société Montupet'
+2010	03			2010	03			des_analyses	Les résultats des analyses des eaux souterraines et des gaz du sol réalisé en mars 2010 confirment les impacts précédemment constatés et la nécessité de réaliser les travaux prescrits.		

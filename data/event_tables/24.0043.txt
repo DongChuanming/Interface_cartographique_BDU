@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				le_rachat	Le groupe IP est propriétaire du terrain depuis le rachat en 1990 par IP du groupe Aussedat-Rey, précédent actionnaire de Polyrey, et d’autres part, reste propriétaire de la parcelle puisqu’elle n’a pas été reprise par ITW.		'Le groupe IP', 'IP', 'Polyrey', 'ITW'
+2008	01			2008	01			mis_en_place	Le réseau de surveillance mis en place en janvier 2008 comporte 2  puits privés existants et 2 piézomètres.		
+2009	04			2009	04			arrêté_de_travaux_est_prévu	L'arrêté de travaux est prévu avant avril 2009.		
+				1988				aurait_été_utilisé	Le site aurait été utilisé jusqu’en 1988 par et pour le compte d’Aussedat-Rey comme décharge des déchets industriels spéciaux et banals produits par l’usine de Couze, située sur le territoire de la commune de Baneuil.	'décharge des déchets industriels spéciaux', 'Couze'	
+1970				1970				ont_eu_lieu_de	Les dépôts ont eu lieu de 1970 à 1988.		
+2007	05			2007	05			L__étude_hydrogéologique	L'étude hydrogéologique est remise fin mai 2007 et fait état d'un milieu karstifié avec la présence d'une source.		
+2007	11	28		2007	11	28		il_a_été_demandé	Le 28/11/2007, lors d'une réunion en mairie, il a été demandé à l'exploitant de remettre le dossier pour fin mars 2008.		
+2008	10	01		2008	10	01		est_remis	Le rapport des mesures de sécurisation de long terme au regard des usages envisagés, daté de juillet 2008, est remis à la DRIRE le 01/10/2008.		'la DRIRE'
+2008	07			2008	07			La_campagne_de	La campagne de juillet 2008 confirme ces résultats.		
+2006	08			2006	08			un_diagnostic	Ce dernier a fait réalisé un diagnostic en août 2006 en vue d'une éventuelle vente à la commune de Baneuil.		
+2006	07			2006	07			a_été_racheté	La sté Polyrey filiale du groupe International Paper (IP) a été racheté en juillet 2006 par le groupe Américain « Illinois Tools Woorks inc » (ITW) qui a rattaché ensuite, l’usine à sa filiale « Wilsonart ».	'IP'	'La sté Polyrey', 'groupe International Paper', 'le groupe Américain «', 'Illinois Tools Woorks inc', 'ITW'
+2008	03			2008	03			il_a_été_demandé	Le 28/11/2007, lors d'une réunion en mairie, il a été demandé à l'exploitant de remettre le dossier pour fin mars 2008.		
+1988				1988				ont_eu_lieu_de	Les dépôts ont eu lieu de 1970 à 1988.		

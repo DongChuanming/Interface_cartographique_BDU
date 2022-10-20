@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03			2013	03			a_informé	Lors d'une inspection de l'inspection des installations classées de mars 2013, Gérard CASTILLON a informé qu'il avait cessé l'exploitation du site.		'Gérard CASTILLON'
+2004	03	03		2004	03	03		Les_études_remises	Les études remises le 03 mars 2004 et le 07 juillet 2005.		
+1991	07	29		1991	07	29		ont_été_autorisées	Les installations ont été autorisées par l'arrêté préfectoral du 29 juillet 1991.		
+2012				2012				n__est_plus_recherchée_pendant_les_analyses	A la demande de l'exploitant, cette substance n'est plus recherchée pendant les analyses depuis 2012.		
+2015	10	06		2015	10	06		est_stoppée	La surveillance est stoppée par arrêté préfectoral du 06 octobre 2015.		
+								n__est_plus_utilisé	Le PCP n'est plus utilisé depuis plus de 10 ans et n'a pas été retrouvé dans les eaux souterraines lors des analyses.	'Le PCP'	
+2013	03			2013	03			L__inspection	L'inspection de mars 2013 a permis de relever l'arrêt des activités par l'exploitant.		

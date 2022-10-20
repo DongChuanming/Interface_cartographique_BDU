@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				réalisé	* Diagnostic du site réalisé par LMCU en 1994 : légère pollution très localisée par des hydrocarbures et des solvants.	'hydrocarbures'	'LMCU'
+2001	03			2001	03			a_été_adressé	* Le rapport de phase B (investigations sur site) a été adressé à la DRIRE en mars 2001		'la DRIRE'
+2008	10	22		2008	10	22		__campagne	-22 octobre 2008: campagne de prélèvements et d'analyses		
+2000	08	30		2000	08	30		a_été_adressé	* Le rapport de phase A documentaire a été adressé à la DRIRE le 30/08/2000		'la DRIRE'

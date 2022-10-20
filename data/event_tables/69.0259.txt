@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	30		2004	03	08		de_déclaration	La société GECINA (société foncière) a bénéficié d'un récépissé de déclaration du 30/12/2003 au 08/03/2004 pour une installation de réfrigération.		'La société GECINA'
+2009	03	29		2009	03	29		une_étude_historique_et_documentaire	- un rapport sur une étude historique et documentaire du 29/03/2009 ;		
+2009	12	31		2009	12	31		La_mise_à_l__arrêt_définitif	La mise à l'arrêt définitif de l'installation a été effectuée le 31/12/2009.		
+2012	12	06		2012	12	06		a_fourni	Suite à l'avis défavorable de la DREAL le 20/11/2012 sur le permis d'aménager, la société GECINA a fourni le 06/12/2012 :		'la DREAL', 'la société GECINA'
+1997	04			1997	04			a_cessé_ses_activités	Elle a cessé ses activités en avril 1997.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1938				1938				exploitait_sur	La société EVER exploitait sur le site une usine de fabrication de peinture depuis 1938.		'La société EVER'
+2003	10	23		2003	10	23		est_suivi_par	En l’absence de réalisation du diagnostic de pollution approfondi, il est suivi par un arrêté préfectoral de consignation le 23/10/2003.		
+2011	03	22		2011	03	22		ne_s__applique_plus	La société EVER ayant juridiquement disparu le 22/03/2011, la police des installations classées ne s'applique plus.		'La société EVER'
+1995				1995				est_placée_en_liquidation_judiciaire	La société est placée en liquidation judiciaire en 1995 et l’exploitant quitte le site sans effectuer de remise en état.		
+2008				2008				une_étude_géotechnique_est_réalisée	En 2008, une étude géotechnique est réalisée.		
+1996	07	11		1996	07	11		est_pris	Le 11/07/1996, un arrêté préfectoral de consignation est pris au motif de la non réalisation d’un diagnostic de l'état des sols.		
+1996	03	14		1996	03	14		mise_en_demeure_impose	Le 14/03/1996, un arrêté préfectoral de mise en demeure impose au liquidateur judiciaire représentant la société EVER, de notifier la cessation d’activité et d'effectuer la mise en sécurité du site.		'la société EVER'
+2003	05	12		2003	05	12		mise_en_demeure_est_notifié	Le 12/05/2003, un arrêté préfectoral de mise en demeure est notifié au liquidateur judiciaire.		
+2009				2009				un_diagnostic_approfondi	En 2009, un bureau d’études effectue, pour le compte de la ville, un diagnostic approfondi et une étude historique du site.		
+1998	09			1998	09			la_mise_en_sécurité	En septembre 1998, la mise en sécurité du site est effectuée.		
+2010				2010				des_travaux_de_dépollution	En 2010, à l’initiative de la mairie, des travaux de dépollution sont effectués.		
+1999	01			1999	01			Un_diagnostic	Un diagnostic des sols est réalisé en janvier 1999.		

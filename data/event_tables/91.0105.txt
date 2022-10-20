@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07	11		2008	07	11		a_été_notifié	Afin de suivre la pollution, un arrêté préfectoral prescrivant une surveillance du site pendant deux ans a été notifié le 11 juillet 2008.		
+2016	09	07		2016	09	07		a_sollicité	L'inspection a sollicité l'exploitant le 7 septembre 2016 afin de faire le point sur la situation administrative de l'établissement ainsi que le bilan de la surveillance.		
+2010	02			2010	02			la_dernière_campagne	Au regard de l'état du réseau de surveillance et des résultats de la dernière campagne (février 2010) qui démontrent que les concentrations relatives aux paramètres mesurés sont inférieures soit aux valeurs limites pour les eaux brutes destinées à la production d'eau potable soit aux valeurs seuils définies dans la circulaire 2006/18 DCE (directive cadre sur l'eau) relative à la définition du "bon état" pour des eaux souterraines, la surveillance n'a pas lieu d'être poursuivie.		'DCE'
+2008	03	12		2008	03	12		a_pris_acte	Le 12 mars 2008, la mairie a pris acte de cette cessation partielle d’activité et informe que la parcelle libérée a vocation à conserver un usage industriel.		
+2010	08			2010	08			La_campagne_d_	La campagne d'août 2010 n'a pu être menée.		
+2004	11			2004	11			Une_première_campagne	Une première campagne a eu lieu en novembre 2004, la seconde en août 2007 (afin de compléter la première et dans le cadre d'une cessation partielle du site).		
+2004				2004				un_déversement_accidentel	- Présence résiduelle de traces de PCB au droit d’une zone sur laquelle un déversement accidentel du liquide provenant d’un transformateur s’est produit en 2004 et ce malgré la substitution des terres sur une épaisseur de 1 m (les traces de PCB sont présents jusqu’à une profondeur comprise entre 2 et 4 m).	'PCB', 'PCB'	
+								a_répondu	L'exploitant a répondu les 8 et 9 septembre.		
+2004				2004				a_réduit	Depuis 2004, la société a réduit son activité.		
+2004	11			2004	11			un_déversement_accidentel	En novembre 2004, un déversement accidentel de pyralène au niveau d'un transformateur s'est produit.	'pyralène'	

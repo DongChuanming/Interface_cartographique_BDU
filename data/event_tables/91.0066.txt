@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	08		2005	09	08		a_été_communiqué	Un rapport relatif à l'opération de traitement des terres a été communiqué à l'inspection le 8 septembre 2005 : 1420 mètres cube de terres ont été traités.		
+2000				2000				ont_été_déposées	Les études ont été déposées début 2000.		
+2000	10	18		2000	10	18		La_réalisation_de_cette_dernière_a_été_prescrite	La réalisation de cette dernière a été prescrite par arrêté préfectoral du 18 octobre 2000.		
+1999	03	15		1999	03	15		La_réalisation_d__un_diagnostic_initial	La réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR) a été prescrite par arrêté préfectoral du 15 mars 1999.		
+2002	11			2002	11			Ces_travaux_ont_débutés	Ces travaux ont débutés en novembre 2002.		
+2002	11	26		2002	11	26		a_été_signé	Cet arrêté a été signé le 26 novembre 2002.		
+				2005	09			s__est_poursuivi	Le traitement s'est poursuivi jusqu'en septembre 2005 pour le dernier lot de terres.		
+1993				1993				a_conduit_à_fermer	La nappe profonde (nappe de la craie) est affectée en aval du site ce qui a conduit à fermer le captage d'eau potable de Saint-Chéron en 1993.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1954				2005				a_exploité	La société FACOM a exploité, entre 1954 et 2005, des ateliers de production d’outillages à main soumis à autorisation, notamment selon les rubriques R.2560-1 [A] (travail mécanique des métaux et alliages) et R.2565-2-a [A] (revêtement métallique ou traitement).		'La société FACOM'
+2009	06			2009	06			a_eu_lieu	Une deuxième partie des travaux a eu lieu en juin 2009.		
+2011	05			2011	05			Traitement_de	* Traitement de la nappe souterraines (mars 2008 à mai 2011) :		
+2009	06			2009	06			__Traitement	* Traitement de l'ancienne zone de galvanisation (juillet 2008 à juin 2009) :		
+2008	03			2008	03			Traitement_de	* Traitement de la nappe souterraines (mars 2008 à mai 2011) :		
+2013	09			2016	03			Le_suivi_de	Le suivi de la qualité des eaux souterraines, réalisé de septembre 2013 à mars 2016, a mis en évidence des impacts significatifs en nickel, benzène, chlorure de vinyle, 1,1-dichloroéthane et en hydrocarbures.	'nickel', 'benzène', 'chlorure', 'vinyle', '1,1-dichloroéthane', 'hydrocarbures'	
+2007				2007				a_été_démoli	L’ensemble des éléments bâtis a été démoli en 2007, à l’exception de la dalle de sol qui assure une étanchéité en surface.		
+2009	12			2009	12			ont_été_installés_successivement	Les travaux de pompage-écrémage se sont appuyés sur l’installation de 8 puits de pompage. 15 ouvrages supplémentaires ont été installés successivement ainsi que deux puits de rabattement en décembre 2009. 21 m3 de produits surnageant ont été récupérés dont 20 m3 entre mai 2008 et août 2010.	'produits surnageant'	
+2008	07			2008	07			__Traitement	* Traitement de l'ancienne zone de galvanisation (juillet 2008 à juin 2009) :		
+2005	03	14		2005	03	14		La_cessation_d__activité_définitive	La cessation d’activité définitive a eu lieu le 14 mars 2005.		
+2002				2002				Des_investigations_environnementales	Des investigations environnementales ont été menées sur le site depuis 2002.		
+2014	01			2014	01			Réhabilitation	* Réhabilitation de la parcelle AH16 (décembre 2013 à janvier 2014) :		
+2011	05	13		2011	05	13		a_été_mise_en_place	Une surveillance de la qualité des eaux souterraines a été mise en place suite aux opérations de pompage-écrémage de la nappe souterraine, arrêtées le 13/05/2011.		
+2016	10			2016	10			il_a_été_demandé	En Octobre 2016, il a été demandé à l'exploitant de poursuivre le suivi trimestriel de la qualité des eaux souterraines, réaliser un bilan quadriennal du suivi de la qualité des eaux souterraines à la fin de la période initiale et formaliser ses propositions de restrictions d’usage.		
+2013	12			2013	12			Réhabilitation	* Réhabilitation de la parcelle AH16 (décembre 2013 à janvier 2014) :		
+2011	05	13		2011	05	13		aux_opérations_de_pompage	Une surveillance de la qualité des eaux souterraines a été mise en place suite aux opérations de pompage-écrémage de la nappe souterraine, arrêtées le 13/05/2011.		

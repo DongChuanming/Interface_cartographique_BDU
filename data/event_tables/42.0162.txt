@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1900				1900				____Construction_du_premier_bâtiment	- Vers 1900-1910 : Construction du premier bâtiment, nommé aujourd’hui « magasin », le plus ancien du site.		
+1910				1910				____Construction_du_premier_bâtiment	- Vers 1900-1910 : Construction du premier bâtiment, nommé aujourd’hui « magasin », le plus ancien du site.		
+2007	09	24		2007	09	24		le_récépissé	La société PANHARD GENERAL DEFENSE est réglementée par le récépissé de déclaration n°2829 du 24 septembre 2007 et celui n°2857 du 24 septembre 2008.		'La société PANHARD GENERAL DEFENSE'
+2015	10			2015	10			est_transmise	La surveillance des eaux souterraines est transmise régulièrement à l’inspection depuis octobre 2015.		
+2016	07			2016	07			a_été_transmis	Un dossier de recollement a été transmis en juillet 2016 suite aux travaux de dépollution qui ont consisté :		
+2001				2001				reprend_l__exploitation	- 1984-2001 : La société AUVERLAND reprend l’exploitation du site pour y fabriquer des 4x4 destinés aux secteurs civil et militaires.		': La société AUVERLAND'
+2008	09	24		2008	09	24		le_récépissé	La société PANHARD GENERAL DEFENSE est réglementée par le récépissé de déclaration n°2829 du 24 septembre 2007 et celui n°2857 du 24 septembre 2008.		'La société PANHARD GENERAL DEFENSE'
+2012	03			2012	03			des_investigations_des_sols	Dans le cadre de l’acquisition de PANHARD GENERAL DEFENSE, le groupe RENAULT TRUCKS DEFENSE a fait réaliser en mars 2012 par la société URS des investigations des sols par carottage ainsi que l’analyse de la qualité des eaux sur le site de Saint Germain Laval.		'PANHARD GENERAL DEFENSE', 'le groupe RENAULT TRUCKS DEFENSE', 'la société URS'
+2008	09	24		2008	09	24		est_réglementée	La société PANHARD GENERAL DEFENSE est réglementée par le récépissé de déclaration n°2829 du 24 septembre 2007 et celui n°2857 du 24 septembre 2008.		'La société PANHARD GENERAL DEFENSE'
+2012	05			2012	05			a_demandé	Dans ce contexte, la société PANHARD GENERAL DEFENSE a demandé en mai 2012 à la société ORGANCE d’intervenir afin de déterminer l’ampleur de la pollution au droit de cette zone et d’étudier la sensibilité globale de l’environnement du site afin d’examiner les principales mesures pour remettre en état le site.		'la société PANHARD GENERAL DEFENSE', 'la société ORGANCE'

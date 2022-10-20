@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10			2012	10			Résiduels___basée	Une Analyse des Risques Résiduels, basée sur l'analyse de l'air ambiant dans les locaux en 4 points de mesure, a été produite en octobre 2012.		
+								surveiller___pour_le_milieu_sol_au_niveau	L'étude avait déterminé une classe 2, site "à surveiller" pour le milieu sol au niveau de la plateforme déchet.		
+								Résiduels___basée	Une Analyse des Risques Résiduels, basée sur l'analyse de l'air ambiant dans les locaux en 4 points de mesure, a été produite en octobre 2012.		
+2011				2011				de_décembre	Les eaux souterraines ont été traitées de décembre 2011 à janvier 2013.		'souterraines ont été'
+2013	01			2013	01			de_décembre	Les eaux souterraines ont été traitées de décembre 2011 à janvier 2013.		'souterraines ont été'
+								une	L'étude avait déterminé une classe 2, site "à surveiller" pour le milieu sol au niveau de la plateforme déchet.		

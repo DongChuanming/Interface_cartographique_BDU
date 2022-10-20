@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	14		2005	06	14		l__arrêt_définitif_des_activités	L'atelier de fabrication a été détruit au cours d'un incendie le 24 avril 2003 et l'arrêt définitif des activités a été déclaré le 14 juin 2005.		
+2003	04	24		2003	04	24		a_été_détruit	L'atelier de fabrication a été détruit au cours d'un incendie le 24 avril 2003 et l'arrêt définitif des activités a été déclaré le 14 juin 2005.		
+2005	06	16		2005	06	16		a_présenté	L'exploitant a donc engagé la procédure d'arrêt définitif de l'usine et a présenté le 16 juin 2005 :		
+2005	06	14		2005	06	14		a_été_détruit	L'atelier de fabrication a été détruit au cours d'un incendie le 24 avril 2003 et l'arrêt définitif des activités a été déclaré le 14 juin 2005.		
+2005	06	16		2005	06	16		a_donc_engagé_la_procédure_d__arrêt_définitif	L'exploitant a donc engagé la procédure d'arrêt définitif de l'usine et a présenté le 16 juin 2005 :		

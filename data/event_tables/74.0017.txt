@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		une_étude_de_sol	Compte tenu de la nature de ses activités et au vu des critères précisés par circulaire du 3 avril 1996, une étude de sol relative à cet établissement a été prescrite à son exploitant par arrêté préfectoral du 19 août 1998.		
+2007				2007				ont_été_détectés	Durant l’année 2007, dans le rejet pluvial au ruisseau de l’Herbe, des hydrocarbures ont été détectés à des concentrations significatives, allant jusqu’à 318 mg/l, ainsi que des traces de solvants chlorés, malgré le traitement mis en place.	'hydrocarbures', 'des traces de solvants chlorés'	
+2007				2007				établie	Cette étude a été prescrite selon la méthode établie en 2007 par le Ministère en charge de l’écologie et du développement durable.		
+1999				2002				Les_investigations_conduites	Les investigations conduites dans le cadre de l’étude du site de Seynod, de 1999 à 2002, ont permis de conclure à la présence :		
+1998	08	19		1998	08	19		une_étude_de_sol	Compte tenu de la nature de ses activités et au vu des critères précisés par circulaire du 3 avril 1996, une étude de sol relative à cet établissement a été prescrite à son exploitant par arrêté préfectoral du 19 août 1998.		
+2005	03			2005	03			a_été_constaté	En mars 2005, un rejet d’hydrocarbures dans le ruisseau de l’herbe a été constaté.	'hydrocarbures'	
+2005	07			2005	07			Les_études_complémentaires	Les études complémentaires dont les conclusions ont été rendues en juillet 2005 ont permis de mettre en évidence :		
+2014				2014				Les_mesures_de_mise_en_securité	Les mesures de mise en securité à long terme du site seront définies début 2014 sur la base de l'ensemble des éléments collectés.		
+1967				1967				implantée	L'usine NTN SNR Roulements, implantée depuis 1967 sur la commune de Seynod dans la banlieue d'Annecy, est spécialisée dans la fabrication de roulements à billes.		'NTN SNR Roulements', 'Seynod'

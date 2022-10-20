@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				DANNE_est_décédée	Mme DANNE est décédée en 2014 et ses héritiers ont entamé une démarche volontariste et échangent avec l'Andra afin d'assainir le site (élimination des objets radioactifs et réhabilitation des terres contaminées du jardin).		'Mme DANNE'
+2008				2008				a_découvert	L'Autorité de sûreté nucléaire a découvert ce site en 2008 en effectuant des recherches autour de la Société d'Etudes et d'Application du Radium.	'Radium'	
+2012				2012				ont_été_annulés	Mme Béatrice DANNE a par contre refusé de faire éliminer ces objets dont le coût d'élimination est de l'ordre de 300000 euros, et ce malgré une mise en demeure du maire de Bandol (les actes du maire ont été annulés en 2012 par le tribunal administratif de Toulon pour non respect de la procédure contradictoire).		'Béatrice DANNE', 'le tribunal administratif de Toulon'

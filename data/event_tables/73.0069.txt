@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	27		2005	09	27		a_confirmé	Par courrier du 27 septembre 2005, l'exploitant a confirmé le caractère banalisable du site et fait état de sa remise en état (couverture de 30 cm de remblais propre et engazonnement).		
+1982				1990				a_été_exploité	Un four d’incinération d’ordures ménagères, d’une capacité de 1 tonne par heure, a été exploité de 1982 à 1990 par la CCHMV sur la commune de Sollières-Sardières, au lieu-dit "le Mulleney".		'la CCHMV'
+2004	11			2004	11			le_diagnostic_de_sol	Dans le diagnostic de sol de novembre 2004, SITA REMEDIATION a indiqué que les scories d'incinération avaient été acheminées sur la commune voisine de Termignon.	'les scories'	'SITA REMEDIATION'
+2004	11			2004	11			Une_telle_étude	Une telle étude, réalisée par SITA REMEDIATION, a été remise en novembre 2004 à l'inspection de l'environnement et conclut :		'SITA REMEDIATION'
+2008	05	22		2008	05	22		La_visite_d__inspection	La visite d'inspection du 22 mai 2008 a permis de constater que :		

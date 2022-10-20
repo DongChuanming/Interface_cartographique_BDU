@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	11	08		2001	11	08		a_interdit_la_distribution	Le 8 novembre 2001, le ministère de l'agriculture et de la Pêche a interdit la distribution et l'utilisation de tous les produits phytosanitaires destinés à la vigne formulés avec de l'arsénite de soude.	'les produits phytosanitaires', "l' arsénite", 'de soude'	
+2005	08			2005	08			ont_été_excavées	En août 2005, les terres polluées par les hydrocarbures, le chrome, le cuivre et le nickel au niveau de l'aire de lavage ont été excavées et éliminées en centre autorisé à cet effet.	'hydrocarbures', 'le chrome', 'le cuivre', 'nickel'	
+2015	06	04		2015	06	04		a_été_remis	Le rapport de cette étude a été remis le 04 juin 2015.		
+2014				2014				a_mis_en_évidence	En 2014, l'autosurveillance des eaux souterraines a mis en évidence la présence de produits phytosanitaires (isoproturon et nicosulfuron) au droit de certains piézomètres du site.	'produits phytosanitaires', 'isoproturon', 'nicosulfuron'	

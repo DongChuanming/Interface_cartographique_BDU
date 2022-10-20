@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09			2011	09			Les_investigations_des_sols	Les investigations des sols réalisées en septembre 2011 montrent sur le sol :		
+1991	08			1991	08			accueillait	Le site accueillait la société SOTROLEC depuis le 2  août 1991 par l'arrêté préfectoral d'autorisation n °910/2285.		'la société SOTROLEC'
+								accueillait	Le site accueillait la société SOTROLEC depuis le 2  août 1991 par l'arrêté préfectoral d'autorisation n °910/2285.		'la société SOTROLEC'
+2012	02	23		2012	02	23		la_partie_application	- le 23 février 2012 pour la partie application et séchage de peinture.		

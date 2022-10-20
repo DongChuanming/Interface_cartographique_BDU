@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	10		2003	02	10		un_rapport	-Un expert, mandaté par le Tribunal Administratif de Lille, à la demande de la société BOONE a remis un rapport au tribunal le 10/02/2003 dans lequel il conclu que la société BOONE a exécuté une partie des travaux.		'le Tribunal Administratif de Lille', 'la société BOONE', 'la société BOONE'
+1971				1971				une_convention	-Les consorts LUTUN ont concédés à la société BOONE, par une convention en date des 3 et 4 aout 1971, l'exclusivité de la décharge sur une parcelle de terre leur appartenant.		'-Les consorts LUTUN', 'la société BOONE'
+1991	02			1991	02			mise_en_place_de_remblais	-Travaux: mise en place de remblais en février 1991		
+								une_convention	-Les consorts LUTUN ont concédés à la société BOONE, par une convention en date des 3 et 4 aout 1971, l'exclusivité de la décharge sur une parcelle de terre leur appartenant.		'-Les consorts LUTUN', 'la société BOONE'
+2002	07	31		2002	07	31		_Travaux	-Travaux: nivellement de terres saine sur le site, le 31/07/2002.		
+1990	02	09		1990	02	09		__déclaration	-09/02/1990: déclaration écrite de cessation d'activité par BOONE COMENOR.		'BOONE COMENOR'

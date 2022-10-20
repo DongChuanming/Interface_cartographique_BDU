@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	05	09		1994	05	09		déclaration_par_récépissé	Activités soumise à déclaration par récépissé du 9 mai 1994 pour l'activité de dépôt et d'installation de liquide inflammable.	'liquide inflammable'	
+2008	06			2008	06			un_diagnostic_de_sols	L'exploitant a transmis au préfet un diagnostic de sols le 3 mars 2008, en vue de la future cessation d'activité sur le site, prévue courant juin 2008.		
+2007	12	13		2007	12	13		Ce_diagnostic	Ce diagnostic a été réalisé par la société SOCOTEC Industries le 13 décembre 2007.		'la société SOCOTEC Industries'
+2008	03	03		2008	03	03		un_diagnostic_de_sols	L'exploitant a transmis au préfet un diagnostic de sols le 3 mars 2008, en vue de la future cessation d'activité sur le site, prévue courant juin 2008.		

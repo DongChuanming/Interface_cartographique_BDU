@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12			2009	12			Un_diagnostic_de_sol_réalisé	Un diagnostic de sol réalisé en décembre 2009, à la demande du propriétaire des terrains, a mis en évidence la présence de solvants chlorés dans la nappe alluviale et les sols.	'solvants chlorés'	
+2010	06			2010	06			De_nouvelles_analyses	De nouvelles analyses des eaux de la nappe ont été réalisées en juin 2010, juin 2011 et décembre 2011, par l'exploitant.		
+2012	07	12		2012	07	12		a_été_signé	L'arrêté préfectoral prescrivant la surveillance semestrielle des eaux souterraines a été signé le 12/07/2012.		
+2017				2017				analyses_réalisées	Les résultats des analyses réalisées en 2016 et 2017 ont confirmé l'augmentation des concentrations des produits de dégradation du PCE et du TCE.	'PCE', 'TCE'	
+2011	06			2011	06			De_nouvelles_analyses	De nouvelles analyses des eaux de la nappe ont été réalisées en juin 2010, juin 2011 et décembre 2011, par l'exploitant.		
+				2013	08	22		ont_été_réalisées	Des investigations complémentaires ont été réalisées du 19 au 22 août 2013.		
+2011	12			2011	12			De_nouvelles_analyses	De nouvelles analyses des eaux de la nappe ont été réalisées en juin 2010, juin 2011 et décembre 2011, par l'exploitant.		
+2016				2016				analyses_réalisées	Les résultats des analyses réalisées en 2016 et 2017 ont confirmé l'augmentation des concentrations des produits de dégradation du PCE et du TCE.	'PCE', 'TCE'	

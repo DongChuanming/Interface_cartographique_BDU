@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03			2003	03			L__étude_remise	L'étude remise en mars 2003 met en évidence l'absence de pollution des sols et la présence d'un écran étanche (sol imperméable et nappe en charge à 10 m de profondeur) qui implique un transfert négligeable vers les eaux souterraines.		
+2014	02	18		2014	02	18		Une_visite_d__inspection	Une visite d’inspection sur site le 18 février 2014 a permis de mettre en évidence :		
+2014	04			2014	04			Le_diagnostic	Le diagnostic et le schéma conceptuel ont été réalisés en mars et avril 2014 et transmis au préfet le 2 juillet 2014.		
+2017	04	19		2017	04	19		mises_à_jour	La mission a été réalisée conformément aux guides méthodologiques établis par le ministère en charge de l’environnement et notamment les circulaires du 8 février 2007 mises à jour le 19 avril 2017 relatives aux modalités de gestion des sites et sols pollués.		'le ministère'
+2012	10	22		2012	10	22		remis_par_courrier	- Mémoire de cessation d’activité, première partie, remis par courrier du 22 octobre 2012 (mise en sécurité)		
+2014	07	02		2014	07	02		__Diagnostic_approfondi	- Diagnostic approfondi et schéma conceptuel remis le 2 juillet 2014		
+								Le_diagnostic	Le diagnostic et le schéma conceptuel ont été réalisés en mars et avril 2014 et transmis au préfet le 2 juillet 2014.		
+2012	01	04		2012	01	04		__Déclaration	- Déclaration de cessation d’activité d’EPC du 4 janvier 2012		'd’ EPC'
+1968				1968				était_exploité	Le dépôt pétrolier était exploité depuis 1968, disposait d'une capacité de stockage d'environ 44 000 m3, pour des produits de 1ère et 2ème catégories (essence, fioul domestique, gazole) implantés dans deux cuvettes de rétention.	'essence', 'fioul domestique', 'gazole'	
+2013	09			2014	02			Les_opérations_de_démantèlement	Les opérations de démantèlement par des sociétés spécialisées se sont déroulées de septembre 2013 à février 2014.		
+2012	04	1		2012	04	1		a_déclaré_la_cessation_de_ses_activités	Par courrier du 4 janvier 2012, l’Établissement Pétrolier de Chambéry implanté sur la commune de Chignin a déclaré la cessation de ses activités au préfet de la Savoie à compter du 1er avril 2012.		'Pétrolier de Chambéry', 'Chignin'
+2012	01	04		2012	01	04		a_déclaré_la_cessation_de_ses_activités	Par courrier du 4 janvier 2012, l’Établissement Pétrolier de Chambéry implanté sur la commune de Chignin a déclaré la cessation de ses activités au préfet de la Savoie à compter du 1er avril 2012.		'Pétrolier de Chambéry', 'Chignin'
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 10/11/98.		
+2002	06			2002	06			est_réalisé	Un suivi de la qualité des eaux souterraines est réalisé depuis juin 2002 au droit du site.		

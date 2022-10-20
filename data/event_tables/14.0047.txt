@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_repris	Suite à l’arrêt des activités de ZIMAVAL, le site a été repris par la société CITE+, elle-même absorbée par la société SNN en 2010.		'ZIMAVAL', 'la société CITE+', 'la société SNN'
+2015				2015				des_investigations	Aucune trace de mercure n'a été retrouvée lors des investigations de 2015.	'mercure'	
+2008	03	28		2008	03	28		a_fait_l__objet_d_	Cette exploitation, qui n’a duré que quelques semaines en 2008, a fait l’objet d’un récépissé de déclaration daté du 28 mars 2008, sous l’appellation SA CITE+.		'SA CITE+'
+2016	04	28		2016	04	28		Le_procès_verbal_de_récolement	Le procès-verbal de récolement a été dressé le 28 avril 2016 par l'inspection de l'environnement.		
+2003				2003				Les_opérations_de_mise_en_sécurité	Les opérations de mise en sécurité suivantes ont été réalisées en 2003 et 2004 :		
+2008				2008				n__a_servi_qu_	Depuis fin 2008, le site n’a servi qu’à des fins logistiques ponctuelles (entreposage de contenants vides).		
+2008				2008				a_fait_l__objet_d_	Cette exploitation, qui n’a duré que quelques semaines en 2008, a fait l’objet d’un récépissé de déclaration daté du 28 mars 2008, sous l’appellation SA CITE+.		'SA CITE+'
+2010				2010				absorbée	Suite à l’arrêt des activités de ZIMAVAL, le site a été repris par la société CITE+, elle-même absorbée par la société SNN en 2010.		'ZIMAVAL', 'la société CITE+', 'la société SNN'
+2016	02			2016	02			ont_été_excavées	Néanmoins, 17 tonnes de sols ont été excavées en février 2016.		
+2008				2008				n__a_duré_que_quelques_semaines	Cette exploitation, qui n’a duré que quelques semaines en 2008, a fait l’objet d’un récépissé de déclaration daté du 28 mars 2008, sous l’appellation SA CITE+.		'SA CITE+'
+1999				2003				a_été_exploité	Auparavant, le site a été exploité pour le recyclage de piles par la société ZIMAVAL de 1999 à 2003.		'piles', 'la société ZIMAVAL'
+2004				2004				Les_opérations_de_mise_en_sécurité	Les opérations de mise en sécurité suivantes ont été réalisées en 2003 et 2004 :		
+2005				2015				phases_de_diagnostics	Plusieurs phases de diagnostics de sols ont été réalisées entre 2005 et 2015.		

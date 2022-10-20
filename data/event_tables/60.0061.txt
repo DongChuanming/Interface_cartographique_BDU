@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				l__accord	Après avoir obtenu en 2005 l'accord de la propriètaire de l'immeuble, la SARL de l'Esches,  FIMALAC a d'abord cloturé le site pour en interdire l'accès au public avant de proposer de curer les deux premières et de confiner superficiellment, par création d'un parking, la troisième : sa proposition vise à rendre au site l'usage non sensible qu'il avait lors  du fonctionnement de la tréfilerie.		"la SARL de l' Esches", '  FIMALAC'
+2004	03	22		2004	03	22		Au_regard	Au regard des projets d'urbanisation du site, le 22 mars 2004, la Société		
+2005	01	20		2005	01	20		a_fait_parvenir	Le 20 janvier 2005, la Société FIMALAC a fait parvenir à l'inspection des installations classées un rapport d'étude		'la Société FIMALAC'
+2001				2001				a_fait_parvenir	A la fin de l'annéee 2001, la SARL de l'Esches a fait parvenir à l'inspecteur des installations classées la copie d'un rapport		
+2008	05	06		2008	05	06		l__arrêté_de_travaux	Le 06/05/2008 le tribunal administratif d'Amiens a annulé l'arrêté de travaux du 10/01/2006.		
+2006	01	10		2006	01	10		l__arrêté_de_travaux	Le 06/05/2008 le tribunal administratif d'Amiens a annulé l'arrêté de travaux du 10/01/2006.		
+2006	01	10		2006	01	10		réaliser_les_travaux_de_réhabilitation	Cette opposition n'ayant pu être levée, par arrêté du 9 novembre 2007 le préfet de l'OISE a autoriséla Société FIMALAC à occuper provisoirement le site en cause, afin d'y réaliser les travaux de réhabilitation et de surveillance qu'il avait prescrits le 10 janvier 2006.		'le préfet', 'autoriséla Société FIMALAC'
+2009	05	15		2009	05	15		a_été_pris	Le nouvel arrêté a été pris le 15/05/2009.		
+2006	03	06		2006	03	06		informe	Par lettre du 6 mars 2006, la SARL de l'ESCHES, propriétaire de l'immeuble, informe la Société FIMALAC de son refus de la laisser accéder au site pour réaliser les travaux prescrits à l'arrêté précité.		"la SARL de l' ESCHES", 'la Société FIMALAC'

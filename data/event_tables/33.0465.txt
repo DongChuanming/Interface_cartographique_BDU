@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1979				activité_cesse	En 1968, TOTAL est le nouvel exploitant du dépôt pétrolier (récépissé de changement d'exploitant daté du 21 janvier 1969), jusqu'en 1979 où son activité cesse.	'TOTAL'	
+2012	12			2012	12			est_propriétaire_des_terrains	La société ASB Greenworld qui a cessé son activité en décembre 2012, est propriétaire des terrains depuis 1994, après acquisition auprès de la Commune de Blaye.		'La société ASB Greenworld'
+				1990				est_ensuite_utilisé	Le site est ensuite utilisé comme dépôt libre-service jusqu'en 1990, puis est démantelé en 1991.		
+1877				1968				a_été_occupé_dans_un_premier_temps	Il a été occupé dans un premier temps par la raffinerie de pétrole Desmarais entre 1877 et 1968.		'la raffinerie de pétrole Desmarais'
+1994				1994				ont_été_réalisées	Plusieurs études environnementales ont été réalisées au nord du site en 1994 et 1998 suite à la cessation d'activité de TOTAL.		
+1994	10	26		1994	10	26		l__acte_d__acquisition	L’exploitant fait valoir l’acte d’acquisition du terrain du 26 octobre 1994 auprès de la Commune de Blaye, déchargeant la société acquéreuse « de toute responsabilité au regard d’éventuels résidus faisant suite aux installations pétrolières qui ont existé sur le terrain vendu » et engageant la Commune de Blaye « à supporter tous frais éventuels pour mettre le terrain vendu en conformité avec les règles relatives à l’environnement. »		
+2012	12			2012	12			a_cessé	La société ASB Greenworld qui a cessé son activité en décembre 2012, est propriétaire des terrains depuis 1994, après acquisition auprès de la Commune de Blaye.		'La société ASB Greenworld'
+2016				2016				réalise_une_évaluation_environnementale	Tereo réalise une évaluation environnementale pour le compte de la société ASB Greenworld en 2016 suite à la cession d'activité de cette dernière.		'Tereo', 'la société ASB Greenworld'
+1991				1991				est_démantelé	Le site est ensuite utilisé comme dépôt libre-service jusqu'en 1990, puis est démantelé en 1991.		
+1998				1998				ont_été_réalisées	Plusieurs études environnementales ont été réalisées au nord du site en 1994 et 1998 suite à la cessation d'activité de TOTAL.		
+1994				1994				est_propriétaire_des_terrains	La société ASB Greenworld qui a cessé son activité en décembre 2012, est propriétaire des terrains depuis 1994, après acquisition auprès de la Commune de Blaye.		'La société ASB Greenworld'
+2001				2012				exploitée	Ancienne installation de fabrication de support de culture (terreau) exploitée par la société ASB Greenworld de 2001 à 2012, au 36 Cours Bacalan dans la zone d'activité de Blaye (33390).		'la société ASB Greenworld'
+1998				1998				une_évaluation_simplifiée_des_risques	En 1998, la société ATE a réalisé une évaluation simplifiée des risques (ESR) à partir des deux études de 1994.		'la société ATE'

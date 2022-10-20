@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05			2008	05			ont_été_vendus_aux_enchères	Elle a été mise en liquidation judiciaire le 09/03/2004 et les terrains ont été vendus aux enchères au mois de mai 2008.		
+2005	01	10		2005	01	10		ont_été_prises	Des sanctions administratives ont été prises à l'encontre du mandataire judiciaire le 10/01/2005, afin de compléter le dossier de cessation d'activités, d'éliminer les produits dangereux et les déchets du site ainsi que la mise en œuvre de la surveillance des eaux souterraines.	'les produits dangereux'	
+								bénéficiait	La société bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter datant du 08/08/1990 et a exercé ses activités durant 15 ans.		
+2011	07			2011	07			des_prélèvements_ont_été_réalisés	Deux puits d'infiltration ont été découverts et des prélèvements ont été réalisés en juillet 2011 :		
+2012	08	01		2012	08	01		a_été_transmis	Suite à la visite d'inspection du 31/07/2012, un plan de gestion a été transmis à l'administration le 01/08/2012.		
+2010	02	19		2010	02	19		une_étude_des_sols	Le 19/02/2010, une étude des sols et un plan de gestion ont été établis.		
+2004	11	23		2004	11	23		a_été_émis	Le 23/11/2004, un arrêté préfectoral a été émis, prescrivant une étude des sols et la mise en place d'une surveillance de la qualité des eaux souterraines.		
+2011				2011				a_été_construite	Suites aux mesures réalisées au niveau des fondations de la maison qui n'ont pas révélées de pollution, celle-ci a été construite en 2011.		
+2008	05			2008	05			a_été_mise_en_liquidation_judiciaire	Elle a été mise en liquidation judiciaire le 09/03/2004 et les terrains ont été vendus aux enchères au mois de mai 2008.		
+2004	03	09		2004	03	09		a_été_mise_en_liquidation_judiciaire	Elle a été mise en liquidation judiciaire le 09/03/2004 et les terrains ont été vendus aux enchères au mois de mai 2008.		
+								a_exercé_ses_activités	La société bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter datant du 08/08/1990 et a exercé ses activités durant 15 ans.		
+2006	01	18		2006	01	18		ont_été_prises	Suite à une visite d'inspection des installations classées le 26/01/2006, des sanctions administratives ont été prises le 18/01/2006 envers le mandataire judiciaire pour la réalisation d'un diagnostic sol et d'une ESR, l'inertage des cuves et l'envoi des justificatifs d'évacuation des peintures et des solvants.	'des peintures'	
+2008	04	23		2008	04	23		un_diagnostic_environnemental	Le 23/04/2008, un diagnostic environnemental des eaux souterraines a été établi.		

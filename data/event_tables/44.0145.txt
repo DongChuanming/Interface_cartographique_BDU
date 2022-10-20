@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	06	21		2017	06	21		a_transmis	Le 21 juin 2017, la SE MAINDRON a transmis un mémoire de cessation d’activité qui mentionne que les sols et les eaux souterraines sont fortement contaminés par des pesticides et des hydrocarbures.	'pesticides', 'hydrocarbures'	'la SE MAINDRON'
+				2013	06	1		exploitera	Elle exploitera le site jusqu’au 1er juin 2013, date à laquelle elle s’implante sur la commune voisine de Treillières.		
+1984				1984				Créée	Créée en 1984, la société assurait des prestations techniques autour de l’habitat, notamment de traitement de charpentes en bois pour les particuliers et les collectivités.		
+2014	2013			2014	2013			les_précédents_travaux	Ce point est relevé au niveau de la paroi BFE1 correspondant à la zone de séparation entre les précédents travaux de 2013/2014 et ceux de 2017.		
+2017				2017				les_précédents_travaux	Ce point est relevé au niveau de la paroi BFE1 correspondant à la zone de séparation entre les précédents travaux de 2013/2014 et ceux de 2017.		
+2016	10	31		2016	10	31		est_revendu	Le 31 octobre 2016, le site est revendu.		
+2014	2013			2014	2013			une_première_opération_d__excavation	Il précise qu’en 2013/2014 une première opération d’excavation de sol (d’environ 50 tonnes) a été réalisée sur la zone correspondant au stockage du produit de préservation des bois (Cf. plan cartographique 44-015-2).		
+2018	05			2018	05			relevées	Les concentrations relevées en mai 2018 sont de 966 µg/l en pesticides totaux et de 360 µg/l d’hydrocarbures totaux.	'pesticides totaux', 'hydrocarbures totaux'	
+2004	05	18		2004	05	18		un_déversement_accidentel	L’exploitant a précisé qu’un déversement accidentel de produit de préservation du bois sur les sols s’est produit le 18 mai 2004 lors d’une opération de livraison de produit (rupture du flexible de dépotage) ; il n’a pas été déclaré aux autorités compétentes conformément à l’article R.512-68 du code de l’environnement.		
+1991	07	23		1991	07	23		est_reprise_sous_la_dénomination	Le 23 juillet 1991, la société est reprise sous la dénomination « SE MAINDRON ».		'\xa0 SE MAINDRON'
+2016				2016				Les_investigations_réalisées	Les investigations réalisées en 2016 ont porté sur les sols (14 sondages), les eaux souterraines (mise en place de 2 piézomètres PZ1 et PZ2) et les eaux de surface (Le Gesvres).		
+1987	06	10		1987	06	10		déclaration	L’activité a été régulièrement déclarée par récépissé de déclaration en date du 10 juin 1987 pour les rubriques suivantes :		
+2016	10	28		2016	10	28		s__est_rapprochée	Dans le cadre de la vente du site, la SE MAINDRON s’est rapprochée de l’inspection des installations classées (IIC) le 28 octobre 2016.		'la SE MAINDRON'
+				2017	09	21		a_par_anticipation_procédé	L’exploitant a par anticipation procédé du 18 au 21 septembre 2017, à des travaux d’excavation des terres les plus contaminées.		
+2017	10	03		2017	10	03		la_réalisation_d__investigations	Considérant que l’absence de risque de transfert de la pollution vers l’extérieur, via les eaux souterraines, n’est pas démontrée, la réalisation d’investigations complémentaires a été demandée par arrêté préfectoral du 3 octobre 2017.		
+2018	10	11		2018	10	11		a_transmis	Le 11 octobre 2018, la SE MAINDRON a transmis à l’IIC le plan de gestion pour les eaux souterraines.		'la SE MAINDRON'
+2017	10			2017	10			ont_été_implantés	En octobre 2017 deux piézomètres supplémentaires ont été implantés (PZ3 et PZ4).		

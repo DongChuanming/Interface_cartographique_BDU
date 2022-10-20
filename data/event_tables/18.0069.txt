@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	01	09		2017	01	09		a_informé	Par courrier du 9 janvier 2017, la société LIOT a informé la Préfète du Cher, de sa décision de cesser son activité.		'la société LIOT', 'la Préfète du Cher'
+2017	10	13		2017	10	13		étude_environnementale	Une étude environnementale des sols et des eaux souterraines a été rédigée le 13 octobre 2017.		
+								Par_transmissions	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+2017	01	27		2017	01	27		a_communiqué	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+2017	10	26		2017	10	26		a_été_vendu	La société a indiqué que le terrain, dont elle était propriétaire, a été vendu le 26 octobre 2017 à une entreprise du milieu agricole.		
+2018	08	23		2018	08	23		a_été_émis	Le récépissé de fin d’activité a été émis le 23 août 2018.		
+2017	04	30		2017	04	30		a_programmé_la_fermeture_définitive	L’exploitant a programmé la fermeture définitive du site au 30 avril 2017.		
+2017	01	27		2017	01	27		Par_transmissions	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+2018	06	21		2018	06	21		de_la_visite	Lors de la visite du 21 juin 2018, l’inspection a pu constater la réalisation effective des mesures prises pour la mise en sécurité du site ainsi que la présence de remblais au niveau des zones identifiées comme polluées.		
+1979	03	30		1979	03	30		a_accueilli	Il a accueilli de 1972 à 2017, une activité d’usine de fabrication d’aliments encadrée par l’arrêté préfectoral du 25 janvier 2011 et de deux récépissés de déclaration datés du 15 mars 1972 et du 30 mars 1979.		
+2018	06	18		2018	06	18		a_communiqué	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+2018	06	18		2018	06	18		Par_transmissions	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+2016	04	28		2016	04	28		de_la_visite	Lors de la visite du site du 28 avril 2016, l’inspection des installations classées a relevé notamment :		
+1972				2017				a_accueilli	Il a accueilli de 1972 à 2017, une activité d’usine de fabrication d’aliments encadrée par l’arrêté préfectoral du 25 janvier 2011 et de deux récépissés de déclaration datés du 15 mars 1972 et du 30 mars 1979.		
+								a_communiqué	Par transmissions des courriers du 27 janvier 2017, 23 janvier, 10 avril et 18 juin 2018, l’exploitant a communiqué les éléments suivants :		
+				2018	05	30		a_fait_procéder	Pour remédier aux constats de pollution, la société LIOT a fait procéder à l’excavation des terres souillées (29 tonnes) et au remblaiement de la zone terrassée par des terres inertes du 28 au 30 mai 2018.		'la société LIOT'

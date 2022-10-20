@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03			2012	03			Les_dernières_reconnaissances	Les dernières reconnaissances pour préciser l'étendue des points chauds ont été réalisées en mars 2012.		
+2000				2000				__Création_de	- 2000 : Création de l’unité AKERS « Specialty Rolls »		'AKERS'
+2011	01	06		2011	01	06		son_rapport	Dans son rapport du 06/01/2011, l'inspection indique que le 1er janvier 2011, le SDIS a été appelé pour une pollution de l'Ondaine par des hydrocarbures.	'hydrocarbures'	'le SDIS'
+2010	11	29		2010	11	29		l__arrêt_total	AKERS informe la préfecture de l'arrêt total de ses activités de production le 29/11/2010.		'AKERS'
+2011	04	20		2011	04	20		cessation_d__activité_est_attendu	- le dossier de cessation d'activité est attendu pour le 20 avril 2011.		
+2011	01	1		2011	01	1		a_été_appelé	Dans son rapport du 06/01/2011, l'inspection indique que le 1er janvier 2011, le SDIS a été appelé pour une pollution de l'Ondaine par des hydrocarbures.	'hydrocarbures'	'le SDIS'
+2010	11	29		2010	11	29		informe	AKERS informe la préfecture de l'arrêt total de ses activités de production le 29/11/2010.		'AKERS'
+								l__évacuation	L'exploitant est mis en demeure, de mettre le site en sécurité, avec notamment l'évacuation sous 10 jours des eaux polluées de la fosse HF3, mais aussi de tous les liquides présents dans les différentes fosses du site, ainsi que les éventuels déchets encore sur site.	'les liquides', 'les éventuels déchets'	
+2011				2011				Le_diagnostic	Le diagnostic de l'état des sols est en cours depuis l'été 2011.		
+2010	12			2010	12			a_eu_lieu	De plus une fuite d'eau très importante a eu lieu sur le site courant décembre 2010.		
+2013				2013				attaquent	Les travaux de dépollution attaquent au 2ème trimestre 2013.		
+1983				1983				__Création	- 1983 : Création de C3F (Membre du groupe USINOR-SACILOR)		'C3F', 'groupe USINOR - SACILOR'
+								attaquent	Les travaux de dépollution attaquent au 2ème trimestre 2013.		
+1829				1829				Première_usine_construite	- 1829 : Première usine construite sur le site (HOLTZER)		'HOLTZER'

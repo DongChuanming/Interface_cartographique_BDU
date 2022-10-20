@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2008	12			a_été_exploité_par	Ce site, situé en zone résidentielle, d'une surface de 1000 m2, a été exploité par un dépôt de fioul jusqu'en décembre 2008.	'fioul'	
+2008	12			2008	12			L__étude_de_sols	L'étude de sols de décembre 2008 montre la présence d'une pollution aux hydrocarbures (7300 mg/kg)très localisée, au niveau de l'ancien bras de chargement (zone dépourvu de dalle béton).	'hydrocarbures'	
+2008	12	31		2008	12	31		a_déclaré_la_cessation_d__activité	L'exploitant a déclaré la cessation d'activité à partir du 31 décembre 2008 auprès de la DRIRE.		'la DRIRE'

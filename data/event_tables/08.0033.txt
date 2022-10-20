@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				est_en_place	Un contrôle de la qualité des eaux superficielles de l'Ennemane est en place depuis 2005, et un écrémage de la phase flottante présente sur la nappe souterraine est effectué régulièrement depuis 2004.		
+2005				2005				est_en_place	Un contrôle de la qualité des eaux superficielles de l'Ennemane est en place depuis 2005, et un écrémage de la phase flottante présente sur la nappe souterraine est effectué régulièrement depuis 2004.		
+2005				2005				ont_été_installés	Au cours de l'année 2005, trois nouveaux piézomètres ont été installés, au total 8 piézomètres sont donc présents sur le site.		
+2003	05	06		2003	05	06		Les_premiers_prélèvements_ont_été_réalisés	Les premiers prélèvements ont été réalisés le 6 mai 2003.		
+2006	06	08		2006	06	08		remet	Le 8 juin 2006, l'exploitant remet au préfet un mémoire de remise en état.		
+2006	06	14		2006	06	14		a_été_notifié	Un arrêté préfectoral complémentaire a été notifié le 14 juin 2006, il est demandé à l'exploitant de réaliser un traitement de la pollution, une surveillance des eaux souterraines et des eaux superficielles ainsi que la réalisation d'un mémoire de remise en état.		
+2009	03	20		2009	03	20		bilan_des_travaux_réalisés	Le 20 mars 2009, l'exploitant remet à l'inspection des installations classées un bilan des travaux réalisés.		
+2003				2003				a_installé	Suite à cet arrêté, l'exploitant a installé cinq piézomètres sur le site, durant le printemps et l'été 2003.		
+2002	12	11		2002	12	11		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 11 décembre 2002.		

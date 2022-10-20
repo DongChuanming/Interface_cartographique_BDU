@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	22		2002	01	22		il_a_été_demandé	Le 22 janvier 2002, il a été demandé à la ville de Saint-Aubin-Les-Elbeuf de compléter le dossier sur la dépollution du site.		
+1990				1990				__activité_arrêtée	Les derniers exploitants recensés sont les sociétés Elindel, fabricant de produits radio-électroniques au 11 rue du Maréchal Leclercq (activité arrêtée en 1990), et la société de tissage Wasson  au 2 rue de Verdun (activité fermée en 1965)		'les sociétés Elindel', 'la société'
+2001	09			2001	09			se_sont_achevées	Ainsi, plusieurs excavations successives ont été opérées et se sont achevées en septembre 2001.		
+2001				2001				achevée	La seconde phase de la dépollution devait être achevée au premier trimestre 2001.		
+2002	05	14		2002	05	14		ayanr_été_complété	Le dossier ayanr été complété en avril 2002, il a été pris acte de la dépollution le 14 mai 2002.		
+1965				1965				fermée	Les derniers exploitants recensés sont les sociétés Elindel, fabricant de produits radio-électroniques au 11 rue du Maréchal Leclercq (activité arrêtée en 1990), et la société de tissage Wasson  au 2 rue de Verdun (activité fermée en 1965)		'les sociétés Elindel', 'la société'
+2002	04			2002	04			ayanr_été_complété	Le dossier ayanr été complété en avril 2002, il a été pris acte de la dépollution le 14 mai 2002.		

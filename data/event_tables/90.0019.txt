@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				Les_analyses_de_sol_effectuées	Les analyses de sol effectuées en 2005 ne mettaient pas en évidence de pollution en COHV au droit du site.	'COHV'	
+1980				1980				débute	La sous-traitance automobile débute en 1980.		
+1919				1919				Le_démarrage	Le démarrage des activités industrielles sur le site d'Amstutz Levin remonte à 1919 avec la création d'une usine pour fabriquer des machines de visseries boulonneries.		
+1919				1919				la_création_d_	Le démarrage des activités industrielles sur le site d'Amstutz Levin remonte à 1919 avec la création d'une usine pour fabriquer des machines de visseries boulonneries.		
+2009	04	16		2009	04	16		a_été_prescrit	Dans le cadre de la cessation définitive d'activité du site, il a été prescrit à l'exploitant, par l'arrêté préfectoral du 16 avril 2009, d'évacuer l'ensemble des produits dangereux et déchets encore présents sur le site et de nettoyer les cuvettes et zones de rétentions polluées ; tous les déchets devant être évacués dans des filières de traitement dûment autorisées à les accueillir.	'des produits dangereux'	
+2012	11	05		2012	11	05		L__arrêt_de_la_surveillance	L'arrêt de la surveillance des hydrocarbures, BTEX, métaux et cyanures a été actée par courrier du 5/11/2012.	'hydrocarbures', 'BTEX', 'métaux', 'cyanures'	
+2009				2009				ont_été_détruits	Les bâtiments du site ont été détruits en 2009 et le terrain a été vendu pour un usage industriel.		
+2012	08	21		2012	08	21		a_formulé	L'exploitant a formulé une demande d'allègement du dispositif de surveillance eaux souterraines par courrier en date du 21 août 2012.		
+1993				1993				cesse	La fabrication d'appareils de chauffage débute en 1930 et celle de machines outils cesse en 1993.		
+2008	03			2008	03			a_été_arrêté_définitivement	Le site du faubourg de Belfort a été arrêté définitivement en mars 2008.		'Belfort'
+2009				2009				a_transmis	L'exploitant a transmis en 2009 différents documents justifiant l'évacuation des déchets.		
+2011				2011				a_réclamé	L'inspection lui a réclamé en 2011 des pièces justificatives du nettoyage des cuvettes et zones de rétention polluées en complément.		
+1930				1930				débute	La fabrication d'appareils de chauffage débute en 1930 et celle de machines outils cesse en 1993.		
+2005	08			2005	08			Un_audit_environnemental	Un audit environnemental de phase 2 a été réalisé en août 2005 dans le but de caractériser à l'aide de sondages la qualité des sols et des eaux souterraines au droit des deux zones suscitées et de 5 autres zones suspectes et de réaliser une évaluation du passif environnemental du site. 17 sondages ont été effectués et 3 piézomètres installés.		
+2005	05	26		2005	05	26		Un_audit_environnement_de_phase_1	Un audit environnement de phase 1 a été effectué le 26 mai 2005 pour le compte d'un acquéreur potentiel.		

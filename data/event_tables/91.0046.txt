@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				est_devenue_propriétaire	L'Aérospatiale, présente sur le site depuis 1970, en est devenue propriétaire en 1995.		
+1970				1970				est_devenue_propriétaire	L'Aérospatiale, présente sur le site depuis 1970, en est devenue propriétaire en 1995.		
+2002	07	18		2002	07	18		ont_été_établis	Un rapport constatant la fin des travaux de remise en état du site et un procès verbal de récolement ont été établis le 18 juillet 2002 conformément aux dispositions de l'article R512-39-3 du code de l'environnement.		
+2001	06			2001	06			un_bilan_des_travaux_de_dépollution	L'exploitant a transmis en juin 2001 un bilan des travaux de dépollution et investigations complémentaires réalisés.		

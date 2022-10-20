@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07	11		2016	07	11		Investigation_environnementale	Investigation environnementale ciblée 11/07/2016 :		
+2016	04	30		2016	04	30		un_arrêt_définitif	La notification de cessation mentionnait un arrêt définitif du site prévu le 30 avril 2016.		
+2016	03	14		2016	03	14		Date_de_la_notification	L'exploitant a informé l'inspection de la mise en sécurité du site lors de sa notification de cessation d'activité. (Date de la notification : 14/03/2016, date de la cessation d'activité du site : 30/04/2013)		
+2016	07	11		2016	07	11		Le_diagnostic	Le diagnostic de l'état des milieux en date du 11/07/2016 a montré la présence :		
+2013	04	30		2013	04	30		Date_de_la_notification	L'exploitant a informé l'inspection de la mise en sécurité du site lors de sa notification de cessation d'activité. (Date de la notification : 14/03/2016, date de la cessation d'activité du site : 30/04/2013)		
+1979	07	13		1979	07	13		déclara_un_dépôt	Le 13/07/1979, la division SERVCO de la société SMITH INTERNATIONAL FRANCE déclara un dépôt de 220 m3 d'acétylène ainsi qu'un dépôt d'oxygène de 240 m3.	'acétylène', 'oxygène'	'la division SERVCO', 'la société SMITH INTERNATIONAL FRANCE'
+2016	08	11		2016	08	11		Présentation	Présentation des options de réhabilitation par mail le 11/08/2016 :		
+2007				2007				a_été_retiré_du_site	Le transformateur PCB a été retiré du site en 2007, le séparateur huile/eau pompé et nettoyé en 2015 par un sous-traitant.	'PCB'	
+2015				2015				nettoyé	Le transformateur PCB a été retiré du site en 2007, le séparateur huile/eau pompé et nettoyé en 2015 par un sous-traitant.	'PCB'	
+1968				1968				activités_déclarées	Les activités déclarées sur ce site depuis 1968 comportent :		
+2000				2000				ont_été_installés	4 piézomètres ont été installés en 2000 à une profondeur d'environ 10 m.		
+1973	05	30		1973	05	30		la_situation_est_régularisée	Après enquête (début 1973), la situation est régularisée le 30/05/1973 : c'est la société SERVCO-EUROPE qui exploita un atelier de fabrication et réparation de matériels de forage.		'la société SERVCO - EUROPE'
+2016	03	14		2016	03	14		a_notifié	L'exploitant a cessé son activité le 30/04/2013 et en a notifié la préfecture le 14 mars 2016 (date preuve de dépôt).		
+2013	04	30		2013	04	30		a_cessé_son_activité	L'exploitant a cessé son activité le 30/04/2013 et en a notifié la préfecture le 14 mars 2016 (date preuve de dépôt).		

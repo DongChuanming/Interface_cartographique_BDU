@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				2000				est_repris	De 1993 à 2000, le site est repris par M Blaise HENRION, qui exploite les forges de l'Eminée sur Celles-sur-Durolle.		'M Blaise HENRION'
+1962				1962				un_incendie_se_déclare	En 1962, un incendie se déclare dans l'entreprise.		
+1950				1950				est_repris	En 1950, le site est repris par la société Forge de l'Eminée qui exerce une activité de forge.		'la société Forge'
+2000				2000				appartient_à_nouveau_à	Depuis 2000, le site appartient à nouveau à la famille ISSARD.		
+2007	07	25		2007	07	25		est_délivré	Le 25 juillet 2007 est délivré le récépissé de déclaration de cessation d'activité.		

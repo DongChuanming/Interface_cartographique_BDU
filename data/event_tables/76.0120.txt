@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								complété	Un plan de gestion a été produit en octobre 2010 puis complété en janvier et mars 2011.		
+2011	03			2011	03			complété	Un plan de gestion a été produit en octobre 2010 puis complété en janvier et mars 2011.		
+2009				2009				un_diagnostic	A la suite de l'arrêt définitif des activités fin 2009, un diagnostic de la qualité des sols et des eaux souterraines a été réalisé en octobre 2010.		
+2011	05	11		2011	05	11		a_été_pris	Un arrêté préfectoral complémentaire a été pris le 11 mai 2011 afin d'encadrer les travaux de réhabilitation lesquels ont démarré durant l'été 2011.		
+2011				2011				les_travaux_de_réhabilitation_lesquels_ont_démarré	Un arrêté préfectoral complémentaire a été pris le 11 mai 2011 afin d'encadrer les travaux de réhabilitation lesquels ont démarré durant l'été 2011.		
+2010	10			2010	10			un_diagnostic	A la suite de l'arrêt définitif des activités fin 2009, un diagnostic de la qualité des sols et des eaux souterraines a été réalisé en octobre 2010.		
+2012	09			2012	09			a_été_arrêté	Compte tenu des résultats satisfaisants obtenus, le traitement des terres en biopiles a été arrêté en septembre 2012.		
+2010				2011				les_prélèvements_réalisés	Concernant les eaux souterraines, les prélèvements réalisés au droit des piézomètres de la zone entre 2010 et 2011 ont montré l’absence d’impact sur la nappe par des composés en phase dissoute, les teneurs mesurées étant toutes inférieures aux normes de potabilité/potabilisation définies dans l’arrêté ministériel du 11 janvier 2007 ou définis par L’OMS.	'composés'	
+2012	05	25		2012	05	25		L__achèvement_des_travaux_de_démantèlement	L'achèvement des travaux de démantèlement et de réhabilitation des parcelles EA11 et EA12 a été constaté par l'inspection par procès-verbal lors de sa visite du site le 25 mai 2012.		
+2010				2010				les_opérations	L'activité du site a cessé en novembre 2009 et les opérations liées au démantèlement se sont déroulées en 2010 pour se terminer au mois de juillet 2010.		
+2010	10			2010	10			a_été_produit	Un plan de gestion a été produit en octobre 2010 puis complété en janvier et mars 2011.		
+2009	11			2009	11			a_cessé	L'activité du site a cessé en novembre 2009 et les opérations liées au démantèlement se sont déroulées en 2010 pour se terminer au mois de juillet 2010.		
+2013	05	14		2013	05	14		lors_de_la_visite	Les parcelles EA15 à EA20 ont quand à elles fait l'objet d'un récolement par l'inspection des installations classées lors de la visite du 14 mai 2013.		
+2013	05	14		2013	05	14		un_récolement	Les parcelles EA15 à EA20 ont quand à elles fait l'objet d'un récolement par l'inspection des installations classées lors de la visite du 14 mai 2013.		
+2010	07			2010	07			a_cessé	L'activité du site a cessé en novembre 2009 et les opérations liées au démantèlement se sont déroulées en 2010 pour se terminer au mois de juillet 2010.		
+2011	03			2011	03			a_été_produit	Un plan de gestion a été produit en octobre 2010 puis complété en janvier et mars 2011.		
+								a_été_produit	Un plan de gestion a été produit en octobre 2010 puis complété en janvier et mars 2011.		
+2010	07			2010	07			se_sont_déroulées	L'activité du site a cessé en novembre 2009 et les opérations liées au démantèlement se sont déroulées en 2010 pour se terminer au mois de juillet 2010.		
+2009				2009				de_l__arrêt_définitif	A la suite de l'arrêt définitif des activités fin 2009, un diagnostic de la qualité des sols et des eaux souterraines a été réalisé en octobre 2010.		

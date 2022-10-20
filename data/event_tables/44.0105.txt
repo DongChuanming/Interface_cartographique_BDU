@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				étaient_destinés_à	Avant 1989-1990, les terrains étaient destinés à l'agriculture.		
+2015	04	02		2015	04	02		dix_sondages_de_sol	Le 2 avril 2015, dix sondages de sol ont été effectués.		
+1989				1989				l__agriculture	Avant 1989-1990, les terrains étaient destinés à l'agriculture.		
+2014	11	24		2014	11	24		était_autorisé	Le fonctionnement de cette installation était autorisé par l'arrêté préfectoral du 15 mars 2002 suivi de l'arrêté complémentaire du 24 novembre 2014.		
+1990				1990				étaient_destinés_à	Avant 1989-1990, les terrains étaient destinés à l'agriculture.		
+2015	05	07		2015	05	07		au_cours_de_sa_visite	L'inspection des installations classées a constaté, au cours de sa visite du 7 mai 2015, l'absence de produit ou déchet sur le site et la présence d'une clôture interdisant l'accès au site.		
+1990				1990				l__agriculture	Avant 1989-1990, les terrains étaient destinés à l'agriculture.		
+								a_été_créé	Le site a été créé au début des années 1990 et a été exploité successivement par les sociétés DERICHEBOURG, SEDIMO et SITA OUEST.		'les sociétés DERICHEBOURG', 'SEDIMO', 'SITA OUEST'
+2015	04	21		2015	04	21		informe	Par courrier du 21 avril 2015, la société SITA informe le Préfet de Loire-Atlantique de la cessation d'activité totale des installations classées qu'elle exploitait à Malville.		'la société SITA', 'le Préfet'
+2015	05	07		2015	05	07		a_constaté	L'inspection des installations classées a constaté, au cours de sa visite du 7 mai 2015, l'absence de produit ou déchet sur le site et la présence d'une clôture interdisant l'accès au site.		

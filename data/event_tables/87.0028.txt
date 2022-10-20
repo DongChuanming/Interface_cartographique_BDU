@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	08			2012	08			Le_diagnostic_demandé	Le diagnostic demandé, qui est l\'un des éléments du dossier de cessation d\'activité, a été transmis à l\'inspection des installations classées en août 2012.		
+1998				1998				a_été_divisée	Suite à l\'arrêt des activités de la CGEP en 1998, cette plateforme a été divisée en trois entités :		'la CGEP'
+2010	12	09		2010	12	09		la_cessation_définitive	L\'exploitant a notifié au préfet de Haute-Vienne la cessation définitive des activités au droit du site en date du 9 décembre 2010.		'préfet de Haute-Vienne'
+1998				1998				à_l_arrêt_des_activités	Suite à l\'arrêt des activités de la CGEP en 1998, cette plateforme a été divisée en trois entités :		'la CGEP'

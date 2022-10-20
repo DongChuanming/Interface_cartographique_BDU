@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10	04		2012	10	04		envisage	A l'issue de sa visite du 4 octobre 2012, l'inspection des installations classées envisage de solliciter une nouvelle fois l'ADEME afin notamment :		
+2007	12	10		2007	12	10		a_constaté	Le 10 décembre 2007, l'inspection des installations classées a constaté que la totalité des déchets identifiés comme devant être enlevés par l’ADEME dans le cadre de la mise en sécurité du site avait été enlevée.		'par l’ ADEME'
+2001				2001				est_en_liquidation_judiciaire	Depuis 2001, cette société est en liquidation judiciaire.		
+2012	10	04		2012	10	04		A_l__issue_de_sa_visite	A l'issue de sa visite du 4 octobre 2012, l'inspection des installations classées envisage de solliciter une nouvelle fois l'ADEME afin notamment :		
+2007	06	28		2007	06	28		Cette_intervention_est_effectuée	Cette intervention est effectuée sur la base de l'arrêté préfectoral de travaux d'office du 28 juin 2007.		
+								la_réalisation_d__analyses	- l'implantation de piézomètres et la réalisation d'analyses des eaux souterraines pendant une période de 3 ans.		
+2003				2003				Un_diagnostic	Un diagnostic sur l’état du site est réalisé en 2003 par la société HPC Envirotec à la demande du liquidateur judiciaire.		'la société HPC Envirotec'
+2019	10	10		2019	10	10		La_liquidation	La liquidation a été cloturée le 10 octobre 2019 pour insuffisance d'actifs.		
+2001	12	27		2001	12	27		une_liquidation_judiciaire_par_jugement	La société a fait l’objet d’une liquidation judiciaire par jugement du tribunal de commerce d’Evreux en date 27 décembre 2001.		'Evreux'

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	05			1998	05			L__excavation	L'excavation des terres polluées et leur évacuation  pour traitement dans un centre spécialisé ont été effectuées en Mai 1998.		
+1999				1999				n__étaient_plus_considérées_comme_contaminées	Fin 1999, les eaux n'étaient plus considérées comme contaminées.		
+1997				1997				a_été_stoppée	L'exploitation a été stoppée en 1997.		
+1998				1998				Une_étude_de_caractérisation	Une étude de caractérisation de l'état de pollution du site a été réalisée début 1998, à l'initiative de l'exploitant.		
+2004	05	06		2004	05	06		Les_travaux_ont_été_réalisés	Les travaux ont été réalisés le 6 mai 2004 et un rapport a été établi par l'industriel pour en justifier.		
+2004	01	22		2004	01	22		a_informé	Le Préfet en a informé l'industriel par lettre du 22 janvier 2004 et lui a demandé de reboucher les piézomètres.		'Le Préfet'

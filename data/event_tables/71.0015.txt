@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				pris_fin	Les activités de KODAK INDUSTRIE ont progressivement pris fin à partir de 2005 pour cesser totalement au second semestre 2006.		'KODAK INDUSTRIE'
+2005				2005				avaient_été_transférées	A partir de 2005, les autorisations d'exploiter certaines installations avaient été transférées au profit de sociétés telles que La Mesta Bourgogne (chimie de synthèse) ou Cofathec Services (centrale thermique).		'La Mesta Bourgogne', 'Cofathec Services'
+2007				2007				ont_été_dépolluées	En 2007, des zones de dépotage et stockage d'hydrocarbures (cuves enterrées du "bâtiment 24") ont été dépolluées par démantèlement des installations puis excavation et évacuation des sols contaminés.	'hydrocarbures'	
+2007	01	17		2007	01	17		la_cessation_d__activité_officiellement_déclarée	Suite à la cessation d'activité officiellement déclarée par Kodak le 17 janvier 2007, la société a produit un mémoire de cessation d'activité le 29 mars 2007 complété par :		'Kodak'
+2007				2009				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés par KODAK INDUSTRIE entre 2007 et 2009, en accord avec le plan de gestion du dossier de cessation d'activité.		'KODAK INDUSTRIE'
+2008	09	30		2008	09	30		transmis	- le dossier transmis le 30 septembre 2008 relatif au diagnostic approfondi de la zone "Grandes Largeurs" ;		
+2014	04			2014	04			a_été_transmis	Le bilan quadriennal de cette surveillance a été transmis par KODAK en avril 2014.		'KODAK'
+1998				1998				L__étude_simplifiée_des_risques	L'étude simplifiée des risques réalisée en 1998 par le cabinet GESTER concluait à un site à surveiller (classement en catégorie 2).		'GESTER'
+2007	05			2007	05			transmis	- le dossier transmis en mai 2007 relatif à l'extraction de cuves enterrées à l'Est du site, près du bâtiment 24 ;		
+2005				2005				fait_l__objet	Si certaines activités et installations ont fait l'objet dès 2005 d'un transfert à des exploitants tiers (La Mesta Bourgogne, Cofathec Services, Chalon Photochimie), la majeure partie de l'emprise a été cédée à des aménageurs et à une Association Syndicale Libre, afin d'assurer la reconversion du site en un "Campus Industriel Le Grand Chalon en Bourgogne" au sein d'une nouvelle zone industrielle "Saôneor", à l'initiative de la communauté de communes Grand Chalon.		'La Mesta', 'Cofathec Services', 'la communauté de communes Grand Chalon'
+2009	05	12		2009	05	12		Une_visite_d__inspection	Une visite d'inspection en date du 12 mai 2009 est venue confirmer la mise en œuvre des opérations de dépollution et de mise en sécurité du site conformément au dossier de cessation d'activité.		
+1962				1962				L__implantation_de	L'implantation de la société Kodak dans cette zone industrielle remonte à 1962 (société KODAK-PATHE).		'la société Kodak', 'société KODAK - PATHE'
+2007	12	13		2007	12	13		transmis	- le dossier transmis le 13 décembre 2007 relatif au diagnostic des sols au droit du bassin de décantation de l'ancienne « station argent » (bâtiment 32) ;		
+2008	12	11		2008	12	11		transmis	- le dossier transmis le 11 décembre 2008 relatif à la réhabilitation de la zone "ESTAR" ;		
+2009	01	05		2009	01	05		la_fusion___absorption	Par ailleurs la fusion-absorption de KODAK INDUSTRIE au sein de sa maison-mère KODAK SA a été déclarée le 5 janvier 2009.		'KODAK INDUSTRIE', 'KODAK SA'
+2009	03	17		2009	03	17		transmis	- le dossier transmis le 17 mars 2009 relatif à la réhabilitation de la zone "Grandes Largeurs".		
+2002	07	15		2002	07	15		établi	Ce complément d'étude a été réalisé par la société URS et le rapport final établi le 15 Juillet 2002.		'la société URS'
+2008	05	15		2008	05	15		transmis	- le dossier transmis le 15 mai 2008 relatif au plan de gestion de la zone "ESTAR" ;		'ESTAR "'
+2007	01	17		2007	01	17		a_produit_un_mémoire_de_cessation_d__activité	Suite à la cessation d'activité officiellement déclarée par Kodak le 17 janvier 2007, la société a produit un mémoire de cessation d'activité le 29 mars 2007 complété par :		'Kodak'
+2007	03	29		2007	03	29		a_produit_un_mémoire_de_cessation_d__activité	Suite à la cessation d'activité officiellement déclarée par Kodak le 17 janvier 2007, la société a produit un mémoire de cessation d'activité le 29 mars 2007 complété par :		'Kodak'
+2007				2007				ont_été_prises	Diverses mesures de mise en sécurité ont été prises pour l'ensemble du site à partir de 2007, avec notamment le démantèlement des installations et l'élimination des sources de pollution potentielles (cuves, dépôts de produits etc.)	'cuves', 'dépôts de produits'	
+2007	12	13		2007	12	13		transmis	- le dossier transmis le 13 décembre 2007 relatif au diagnostic des sols de l'ancien bâtiment 19 ;		
+2006				2006				pris_fin	Les activités de KODAK INDUSTRIE ont progressivement pris fin à partir de 2005 pour cesser totalement au second semestre 2006.		'KODAK INDUSTRIE'

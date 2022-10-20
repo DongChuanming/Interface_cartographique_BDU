@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				établissement_est	Depuis 1999 l'établissement est exploité par la société ISP.		
+2014	06			2014	06			transmis_un	En juin 2014, la société ISP a transmis un diagnostic environnemental d'une partie de son établissement dans le cadre de projet de modification d'une partie de son établissement.		'diagnostic environnemental'

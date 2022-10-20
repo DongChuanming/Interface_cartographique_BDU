@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				a_été_installée	La centrale PROMAROUTE a été installée sur le site en 1970 sur une parcelle faisant l’objet d’une location à la société SMG.		'La centrale PROMAROUTE', 'la société SMG'
+2010	03	29		2010	03	29		de_fin_de_travaux_a_été_transmis	Un bilan de fin de travaux a été transmis le 29 Mars 2010.		
+2001	06	28		2001	06	28		a_procédé	Par suite d’un AP de mise en demeure daté du 28 Juin 2001, PROMAROUTE a procédé le 5/10/2001 à l’établissement d’un dossier d’actualisation transmis à la Préfecture.		'PROMAROUTE', 'la Préfecture'
+2007	08	21		2007	08	21		a_été_délivré	L’usage futur du site est à vocation d’infrastructure routière.  Un PV de récolement pour la cessation d’activité et la mise en sécurité du site a été délivré le 21/08/2007.		
+2007	07	17		2007	07	17		a_été_remis	Le mémoire de cessation d’activité a été remis le 17/07/2007.		
+2007	02	22		2007	02	22		l__arrêt_définitif_de_ses_activités	Par courrier en date du 22 Février 2007, PROMAROUTE a notifié à Monsieur le Préfet l’arrêt définitif de ses activités de la centrale.		'PROMAROUTE', 'le Préfet'
+2001	06	28		2001	06	28		un_AP_de_mise_en_demeure	Par suite d’un AP de mise en demeure daté du 28 Juin 2001, PROMAROUTE a procédé le 5/10/2001 à l’établissement d’un dossier d’actualisation transmis à la Préfecture.		'PROMAROUTE', 'la Préfecture'
+2001	10	05		2001	10	05		a_procédé	Par suite d’un AP de mise en demeure daté du 28 Juin 2001, PROMAROUTE a procédé le 5/10/2001 à l’établissement d’un dossier d’actualisation transmis à la Préfecture.		'PROMAROUTE', 'la Préfecture'
+1971				1971				a_démarré	La production de PROMAROUTE a démarré début 1971.		'PROMAROUTE'
+2007	03	31		2007	03	31		a_été_tenue_de_cesser_toute_activité	Par suite d’une expropriation, PROMAROUTE a été tenue de cesser toute activité sur le site au 31/03/2007.		'PROMAROUTE'
+2010	05	31		2010	05	31		site_a_été_rédigé_et_transmis	Le rapport de fin de travaux stipule qu’à la suite des opérations réalisées, le site est en classe 3 « banalisable ».  Le 31 Mai 2010, un PV de récolement concernant la remise en état du site a été rédigé et transmis.		

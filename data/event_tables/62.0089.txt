@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				devient	- 1993: l'activité de production de fil tapis devient NOVALIS FIBRES.		'NOVALIS FIBRES'
+								Création_de	- Création de l'activité sur site par NORSYNTEX en 196 (fabrication de fil textile synthétique)	'fil textile synthétique'	'NORSYNTEX'
+1971				1971				__reprise_de	- 1971: reprise de l'activité par Rhone Poulenc.		'Rhone Poulenc'
+								Reprise_des_activités	Reprise des activités par la société LAMATO le 5 septembre.		'la société LAMATO'
+2000				2000				_Des_études_de_sols	-Des études de sols ont été effectuées en 2000 (partie textile) et ont aboutis à un classement 3 (site banalisable) du site.		
+								__cessation	- 2005: cessation de l'activité de production de fil tapis le 9 mai.		
+2008				2008				__cession	- 2008: cession de l'entreprise LAMATO (fil tapis) à NYLSTAR (fil textile) qui change de dénomination sociale: MERYL FIBER SAS (récépissé du 10/06/2008).		'LAMATO', 'NYLSTAR', 'MERYL FIBER SAS'
+2007				2007				__Mise_en_redressement_judiciaire	- 2007: Mise en redressement judiciaire de NYLSTAR et LAMATO.		'NYLSTAR'
+2013				2013				à_partir_de	- Évacuation des transfo PCB à partir de début 2013 et toujours en cours actuellement.	'PCB'	
+2005				2005				Un_diagnostic	- Un diagnostic de pollution des sols (partie tapis) a été effectué en 2005 par Rhodia lors de la cessation d'activité.		'Rhodia'
+1994				1994				devient	- 1994: l'activité de production de fil textile devient NYLSTAR.		'NYLSTAR'
+2005				2005				__cessation	- 2005: cessation de l'activité de production de fil tapis le 9 mai.		
+2012	05	30		2012	05	30		a_prononcé_la_liquidation	- Le 30 mai 2012, le tribunal d'Arras a prononcé la liquidation  et la cessation d'activité de la société.		

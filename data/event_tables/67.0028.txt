@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				un_déversement_de_cuve	Les eaux souterraines sont polluées par du 1-1-1 Trichloroéthane, suite à un déversement de cuve en 1992.	'Trichloroéthane'	
+2008				2008				A_partir_de	A partir de fin 2008, la surveillance a essentiellement porté sur les 3 piézomètres de contrôle de la nappe situés en amont (PZ1) et en aval des installations (PZ2 et PZ3).		
+2009				2009				a_été_mis_en_place	Au printemps 2009, un puits de pompage unique a été mis en place (profondeur : 5 m, diamètre de forage : 1 m).		
+2007	12	31		2007	12	31		a_été_extraite	Au 31/12/2007, une quantitée estimée à 3148 kg de 1-1-1 trichloroéthane (1-1-1 TCE) a été extraite de la nappe.	'1 - 1 trichloroéthane', '- 1 - 1 TCE'	
+2009	07			2009	07			est_opérationnel	Il est opérationnel depuis juillet 2009.		
+1997	08			1997	08			mise_en_place	La solution de traitement mise en place depuis août 1997 consiste en un venting des sols et pompage dans 6 puits de dépollution, avec stripping de l'eau pompée puis rejet dans le réseau.		
+2008				2008				a_été_arrêtée_en	La production de colles solvantées sur ce site a été arrêtée en fin 2008.	'colles solvantées'	
+								l__évaluation	L'AP du 29/11/96 prescrit l'évaluation et le traitement de cette pollution.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				L__étude_environnementale	L'étude environnementale réalisée en 2006 a démontré la présence de boues de neutralisations (environ 4 000 m3) au sein du crassier.		
+1990				1990				a_reçu	Jusqu'en 1990, il a reçu des déchets acides, des boues de neutralisation d'effluents acides de la cristallerie DAUM et des ordures ménagères des communes de Vannes le Châtel et Allamps.	'des déchets acides', 'des ordures ménagères'	'la cristallerie DAUM'
+1992	12	07		1992	12	07		L__utilisation	L'utilisation de ce crassier comme exutoire des déchets générés par l'usine DAUM a été interdite par arrêté préfectoral du 07 décembre 1992.		'DAUM'
+				1950				servait	Ce crassier servait jusqu'en 1950 de dépôt pour les réfractaires, les déchets de verres, les résidus de combustion de coke.	'les déchets de verres', 'coke'	
+2006				2006				relevée	En aval du site une teneur marquée en arsenic et relevée depuis 2006.	'arsenic'	

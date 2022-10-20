@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03	07		2006	03	07		ont_alerté	Le 7 mars 2006, les services techniques de la ville ont alerté le gérant du supermarché car des odeurs d'hydrocarbures se répandaient dans le réseau municipal d'égouts et dans le restaurant d'entreprise d'Adisséo.	"des odeurs d' hydrocarbures"	
+2006	06	23		2006	06	23		a_été_signé	Un arrêté de levée de suspension a été signé le 23 juin 2006 et la station a pu être remise en activité après 4 mois d'arrêt.		
+1990				1990				a_été_crée	La station service du supermarché a été crée en 1990, rue Edouard Vaillant à Commentry.		
+								a_pu_être_remise_en_activité	Un arrêté de levée de suspension a été signé le 23 juin 2006 et la station a pu être remise en activité après 4 mois d'arrêt.		

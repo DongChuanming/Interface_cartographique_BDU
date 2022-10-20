@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06	25		1999	06	25		a_été_transmis	Un mémoire pour la réhabilitation du site a été transmis le 25/06/1999.		
+1998	11			1998	11			Les_études	Les études du sol et des eaux souterraines ont été conduites en deux phases avec 14 sondages en mars 1998 et 16 sondages en novembre 1998, entraînant la mise en place de 8 piézomètres de contrôle sur la nappe alluviale, située à faible profondeur (4 mètres), en relation hydrique probable avec la Marne.		
+2010	05	20		2010	05	20		un_arrêté_de_mise_en_demeure_a_été_pris	En l'absence de réponse, un arrêté de mise en demeure a été pris en date du 20/05/2010.		
+1999	06			1999	06			transmise	L'étude transmise juin 1999, a conclu, du fait de la proximité de la Marne, que le site devait être réhabilité.		
+1998				1998				a_cessé_ses_activités	Elle a cessé ses activités sur le site de Saint-Maur au cours de l'été 1998 (notification de cessation d'activité du 26/06/1998).		
+2003	06	12		2003	06	12		a_été_pris	Un arrêté complémentaire complémentaire, demandant le suivi de la qualité des eaux souterraines, a été pris le 12/06/2003.		
+2000	12			2000	12			fin_de_travaux_a_été_fourni	Un dossier de fin de travaux a été fourni en décembre 2000.		
+2017	02	22		2017	02	22		Une_visite_de_contrôle	Une visite de contrôle a été effectuée le 22/02/2017.		
+1998	06	26		1998	06	26		a_cessé_ses_activités	Elle a cessé ses activités sur le site de Saint-Maur au cours de l'été 1998 (notification de cessation d'activité du 26/06/1998).		
+								a_cessé_l__exploitation	TRANSRACK a cessé l'exploitation du site au 2e semestre 1998 par transfert progressif de ses activités à BONNEUIL-SUR-MARNE (94).		'TRANSRACK'
+2002	03	14		2002	03	14		a_été_mise_en_liquidation_judiciaire	La société TRANSRACK a été mise en liquidation judiciaire le 14/03/2002.		'La société TRANSRACK'
+2001	10			2001	10			évaluation_détaillée_des_risques	Une évaluation détaillée des risques sur la santé et les ressources en eau a été déposée en octobre 2001 (attente des compléments demandés) pour la pollution de la nappe.		
+1977	09	21		1977	09	21		la_réalisation_d__un_diagnostic_environnemental	Dans le cadre de cette cessation d'activité, TRANSRACK a confié à un bureau d'études la réalisation d'un diagnostic environnemental du site, afin qu'il constitue le mémoire relatif à la remise en état du site prévu à l'article 34-1 du décret du 21/09/1977.		'TRANSRACK'
+1998	11			1998	11			16_sondages	Les études du sol et des eaux souterraines ont été conduites en deux phases avec 14 sondages en mars 1998 et 16 sondages en novembre 1998, entraînant la mise en place de 8 piézomètres de contrôle sur la nappe alluviale, située à faible profondeur (4 mètres), en relation hydrique probable avec la Marne.		
+2000	01			2000	01			achevés	Les travaux de réhabilitation des sols ont été réalisés en décembre 1999 et achevés en janvier 2000 (parcelle DS43, 20-22 avenue Raspail).		
+1998	03			1998	03			14_sondages	Les études du sol et des eaux souterraines ont été conduites en deux phases avec 14 sondages en mars 1998 et 16 sondages en novembre 1998, entraînant la mise en place de 8 piézomètres de contrôle sur la nappe alluviale, située à faible profondeur (4 mètres), en relation hydrique probable avec la Marne.		
+1998	06	26		1998	06	26		__notification_de_cessation_d__activité	Elle a cessé ses activités sur le site de Saint-Maur au cours de l'été 1998 (notification de cessation d'activité du 26/06/1998).		
+1998				1998				a_cessé_l__exploitation	TRANSRACK a cessé l'exploitation du site au 2e semestre 1998 par transfert progressif de ses activités à BONNEUIL-SUR-MARNE (94).		'TRANSRACK'
+1999	12			1999	12			Les_travaux_de_réhabilitation_des_sols	Les travaux de réhabilitation des sols ont été réalisés en décembre 1999 et achevés en janvier 2000 (parcelle DS43, 20-22 avenue Raspail).		

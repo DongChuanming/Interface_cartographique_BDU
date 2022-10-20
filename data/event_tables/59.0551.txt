@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			Des_prélèvements_complémentaires_ont_été_réalisés	Des prélèvements complémentaires ont été réalisés en avril 2011 au niveau de l'ancienne cuve d'huiles usagées et dans l'air ambiant à différents endroits  :	"d' huiles usagées"	
+2010	09			2010	09			Des_prélèvements_ont_été_réalisés	Des prélèvements ont été réalisés dans les sols en septembre 2010 aux endroits suivants  :		
+2012	03			2012	03			Une_dernière_mesure	Une dernière mesure des HAP dans l'air de la cave a été réalisée en mars 2012.	'HAP'	

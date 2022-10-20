@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1936				1936				n__a_cessé_d__évoluer	Créé en 1936 pour la fabrication d'avions Dewoitine, le site n'a cessé d'évoluer avec le développement d'activités tels que bureaux d'étude, centre d'informatique.		
+1996	04	03		1996	04	03		a_été_sélectionné	Ce site a été sélectionné par l'inspection des installations classées (IIC), dans le cadre de l'application de la circulaire du 3 avril 1996, pour faire l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques.		
+2016				2016				a_été_réalisé	Un nouveau piézomètre a été réalisé, à proximité, afin d'être opérant pour la campagne du 2e semestre 2016.		
+2016	11			2016	11			Les_analyses_effectuées	Les analyses effectuées en novembre 2016 montrent des teneurs inférieures aux valeurs de référence sur ce nouveau piézomètre.		
+2001	11	29		2001	11	29		L__étude_des_sols	L'étude des sols (diagnostic initial du site et évaluation simplifiée des risques) a été présentée à l'IIC le 29 novembre 2001.		
+								la_campagne	Un nouveau piézomètre a été réalisé, à proximité, afin d'être opérant pour la campagne du 2e semestre 2016.		
+2005	10	10		2005	10	10		a_été_signé	L’arrêté préfectoral complémentaire imposant cette surveillance a été signé le 10/10/2005.		
+2013	06			2013	06			campagnes	Un faible dépassement en tétrachloroéthylène a été constaté sur un piézomètre situé en amont hydraulique du site (campagnes de juin 2013 : 17 µg/l, novembre 2013 : 14 µg/l et mai 2014 : 14 µg/l pour une valeur seuil de 10 µg/l).	'tétrachloroéthylène'	
+2016				2016				la_campagne	Un nouveau piézomètre a été réalisé, à proximité, afin d'être opérant pour la campagne du 2e semestre 2016.		
+								a_été_réalisé	Un nouveau piézomètre a été réalisé, à proximité, afin d'être opérant pour la campagne du 2e semestre 2016.		
+2011	09	12		2011	09	12		est_réglementé	Le site est réglementé par l’arrêté préfectoral du 12/09/2011.		

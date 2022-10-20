@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				la	Dans la dernière année d'exploitation (2001), ce fonctionnement de type "déchetterie" s'affine avec un tri des pneumatiques, batteries, encombrants métalliques, etc.		
+2004	06			2004	06			ont_débuté	Les travaux de réhabilitation ont débuté en septembre 2003 pour se terminer en juin 2004.		
+2002	03	31		2002	03	31		La_fermeture_effective_et_définitive	La fermeture effective et définitive de la décharge est intervenue le 31 mars 2002 (entérinée par arrêté municipal du 30 août 2002).		
+2004	06			2004	06			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont débuté en septembre 2003 pour se terminer en juin 2004.		
+2003	10	21		2003	10	21		ont_été_prescrites	Ces mesures ont été prescrites à la commune de Vailly par l'Arrêté préfectoral du 21 octobre 2003.		
+1990				2002				reste_ouvert_aux	- de 1990 à 2002 : le site reste ouvert aux encombrants, déchets verts et inertes sous contrôle des services de la municipalité.		
+1987				1990				un_ramassage_intercommunal	- de 1987 à 1990 : les 3 communes Vailly, Reyvroz et Lullin ont pratiqué un ramassage intercommunal, avec des dépôts qui alternaient dans leur décharge respective ;		
+1975				1975				l__exploitation_d_	A partir de 1975, la commune de Vailly a débuté l’exploitation d'une décharge d'ordures ménagères au lieu-dit "Les charges" située en contre-bas de la RD 26 qui n'a jamais fait l'objet d'une régularisation administrative.		
+2002	06			2002	06			Cette_étude	Cette étude "diagnostic environnement", réalisée en juin 2002, a mis en évidence un impact faible du massif de déchets sur l'environnement local.		
+2003	09			2003	09			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont débuté en septembre 2003 pour se terminer en juin 2004.		

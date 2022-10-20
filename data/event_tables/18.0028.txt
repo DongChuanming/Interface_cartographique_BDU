@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				a_accueilli	Il a accueilli un dépôt d’hydrocarbures (gasoil et fuel) à partir de 1985 et une station service à partir de 1972.	'd’ hydrocarbures', 'fuel'	
+2015	03	05		2015	03	05		a_sollicité	Par lettre en date du 5 mars 2015, le représentant de la société CALDEO a sollicité l’institution de servitudes d’utilité publique concernant ce dépôt pétrolier.		'le représentant de la société CALDEO'
+2015	10			2015	10			amendé	Ce dossier amendé en octobre 2015 est en cours d'instruction.		
+2002	08			2002	08			a_été_demandée	Une surveillance trimestrielle des eaux souterraines s'écoulant au droit du site a été demandée en août 2002 sur les paramètres suivants: hydrocarbures totaux (HCT), HAP, BTEX (Benzène, Toluène, Ethylbenzène, Xylènes).	'hydrocarbures totaux', 'HCT', 'HAP', 'BTEX', 'Benzène', 'Toluène', 'Ethylbenzène', 'Xylènes'	
+2005	06			2005	06			a_été_détruit	Un piézomètre a été détruit et remplacé par un autre en juin 2005.		
+2004	11			2004	11			des_travaux_de_dépollution	En novembre 2004, des travaux de dépollution ont été réalisés. 2034 tonnes de terres polluées ont évacuées en filières agréées.		
+2000				2000				La_cessation_d__activité	La cessation d’activité a été portée à la connaissance du Préfet fin 2000.		'du Préfet'
+2011				2011				une_demande_de_réduction	Fin 2011, l'ancien exploitant a formulé une demande de réduction de la fréquence de contrôle des eaux souterraines au droit de l'ancien dépôt avec contrôle limité aux hydrocarbures totaux et aux BTEX.	'hydrocarbures totaux', 'BTEX'	
+1988				1988				est_devenue_exploitant	La société Mercier est devenue exploitant du site en 1988.		'La société Mercier'
+2002				2002				des_travaux_de_dépollution	A l'automne 2002, des travaux de dépollution ont eu lieu.		
+								3_campagnes_de_prélèvement	Un écrémage passif a été mis en place pour récupérer la phase flottante détectée dans la nappe de l'Eocène. 3 campagnes de prélèvement ont été menées en septembre ainsi qu'en octobre 2002.		
+2001	07			2001	07			a_changé_de_nom	En juillet 2001, la société Mercier a changé de nom pour devenir Caldeo.		'la société Mercier', 'Caldeo'
+2008	04			2008	04			à_partir_d_	Suite aux teneurs élevées en hydrocarbures au droit de la station, un traitement de la nappe a été mené à partir d'avril 2008 par ozonation in situ.	'hydrocarbures'	
+2007				2007				a_cessé	La station ELAN, exploitée par Caldeo, a cessé d'exploiter en 2007.		'La station ELAN', 'Caldeo'
+2008	01	29		2008	01	29		a_été_installé	L'impact sur les eaux souterraines persistant au droit du dépôt et à une augmentation des teneurs en hydrocarbures dans les eaux, un dispositif passif d'oxygénation (DPO) a été installé le 29 janvier 2008 dans deux piézomètres.	'hydrocarbures'	
+2006	11			2006	11			a_fait_réaliser_un_diagnostic	En novembre 2006, suite à la cessation temporaire d'activité de la station service et au projet de cessation définitive, CALDEO a fait réaliser un diagnostic des sols et des eaux souterraines au droit de la station.		
+2008	06			2009	06			s__est_stabilisé	- au droit de la station, un impact en hydrocarbures qui, après une baisse importante des concentrations entre juin 2008 et juin 2009, s'est stabilisé, et un impact en BTEX sur un piézomètre sur les 5 utilisés pour le suivi, stable depuis décembre 2009.	'hydrocarbures', 'BTEX'	
+1998				1998				a_été_stoppée	L’activité de stockage a été stoppée en 1998 et les installations mises en sécurité.		
+2008				2008				des_campagnes	Afin de vérifier l'impact de la pollution du site sur l'eau potable, des campagnes de suivi de qualité de l'air ambiant et du réseau AEP ont été menées en 2008.		

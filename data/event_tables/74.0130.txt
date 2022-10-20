@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_cessations	Les cessations de ces deux activités ont été actées par récépissés préfectoraux du 24/02/87 et 7/03/91.		
+2005				2005				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'ferro', 'magnésie', 'Rio Tinto'	'la société PEM', 'la société Pechiney Bâtiment'
+2000				2000				a_été_fermé	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).	': Rio Tinto'	'société PEM'
+1990				1990				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+2018	10			2018	10			et_complété	ARKEMA et Pechiney Bâtiment ont produit un inventaire des puits privés situés à l’aval du site historique de Chedde (rapport transmis en mai 2018 et complété en octobre 2018).		'ARKEMA', 'Pechiney Bâtiment'
+1942				1942				à	° les 2 autres, dénommés "PCl1 et 2", utilisés au plus tôt à partir de 1942, et jusqu’en 1990, étaient situés à l’ouest du site.		
+2019	10			2019	10			devrait_être_transmis	Le rapport définitif devrait être transmis en octobre 2019.		
+2018	04			2018	04			a_été_remis	Le rapport a été remis par ARKEMA en avril 2018.		'ARKEMA'
+2017				2017				a_été_détectée	En 2017, une pollution en perchlorates a été détectée dans la nappe d’eau souterraine transfrontalière du genevois.	'perchlorates'	
+2018	04			2018	04			L__étude_historique_transmise	L’étude historique transmise par ARKEMA en avril 2018 localise les anciens bâtiments de production de perchlorates :	'perchlorates'	'ARKEMA'
+1993				1993				exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+1896				1896				elles_ont_commencé	Les activités industrielles sur le site historique de Chedde sont très anciennes : elles ont commencé en 1896.		
+								exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+								ont_été_exploitées	Par exemple, les activités de production de chlorates et de perchlorates ont été exploitées en dernier lieu par la société ATOCHEM, comme acté par récépissé préfectoral du 12/05/86.	'chlorates', 'perchlorates'	'la société ATOCHEM'
+2018	09			2018	09			d__effectuer	Cet inventaire a permis à l’ARS d’effectuer en juillet et septembre 2018 des analyses d’eau au droit de certains puits privés de la commune de Passy.		
+1987				1987				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+1990				1990				la_cessation_d__activité	L’ion perchlorates, polluant "émergent" depuis 2011 en France, n’a semble-t-il jamais fait l’objet d’investigations particulières sur le site historique de Chedde lors de la période d’exploitation de l’usine ou lors de la cessation d’activité en 1990.	'L’ ion perchlorates', 'polluant "'	
+2018				2018				Les_campagnes_de_surveillances	Les campagnes de surveillances sont réalisées par ARKEMA au pas trimestriel depuis 2018, comme prévu par l’arrêté préfectoral.		'ARKEMA'
+2006				2006				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'ferro', 'magnésie', 'Rio Tinto'	'la société PEM', 'la société Pechiney Bâtiment'
+2000				2000				réhabilite	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).	': Rio Tinto'	'société PEM'
+								d__effectuer	Cet inventaire a permis à l’ARS d’effectuer en juillet et septembre 2018 des analyses d’eau au droit de certains puits privés de la commune de Passy.		
+2018	05			2018	05			rapport_transmis	ARKEMA et Pechiney Bâtiment ont produit un inventaire des puits privés situés à l’aval du site historique de Chedde (rapport transmis en mai 2018 et complété en octobre 2018).		'ARKEMA', 'Pechiney Bâtiment'
+								elle_occupe	Employant près de 200 personnes, elle occupe la majeure partie de l’emprise maximale du site au milieu des années 1980 (11,5 ha sur 14).		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_découverte	La pollution au trichloréthylène a été découverte le 12/07/95.	'trichloréthylène'	
+2005	07	04		2005	07	04		La_réalisation_d__un_diagnostic_approfondi	La réalisation d'un diagnostic approfondi et l'étude d'un dispositif de dépollution complémentaire à la source ont été prescrites par arrêté du 4 juillet 2005.		
+2003	01	13		2003	01	13		ont_été_prescrits	En conséquence, une nouvelle ESR, un bilan et une évaluation du dispositif de dépollution en place ont été prescrits par arrêté du 13/01/2003.		
+1995				1995				a_été_découverte	La pollution a été découverte en 1995 en aval des installations de dégraissage aujourd'hui démantelées.		
+2001				2001				Les_analyses_effectuées	Les analyses effectuées en 2001 révélaient une concentration en trichloroéthylène de 124 000 µg/l.	'trichloroéthylène'	
+1996	02			1997	04			a_été_mis_en_place	Un pompage complété d'un stripping avec rejet des eaux dans le réseau pluvial a été mis en place de février 1996 à avril 1997, et a permis d'extraire environ 25 Kg de solvants chlorés.	'chlorés'	
+2004	07			2004	07			a_classé	L'étude, remise en juillet 2004, a classé le site en classe 1.		
+2004	07			2004	07			remise_en	L'étude, remise en juillet 2004, a classé le site en classe 1.		
+								un_PV_a_été_signé	Les contrôles des eaux souterraines de 1998 et 1999 n'ayant pas été remis par l'industriel, un PV a été signé le 10/12/99 ainsi qu'une mise en demeure de l'exploitant.		

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	07	17		2012	07	17		est_alors_dressé	Le 17/07/2012, un Procès-Verbal de récolement constatant la fin des travaux prévus par l’arrêté préfectoral du 24 février 2003 modifié est alors dressé par l’inspection des installations classées.		
+2004				2004				Une_EDR_intégrant	Une EDR intégrant les puits privés est alors réalisée, cette dernière révèle un risque inacceptable pour l’un des puits, il sera comblé en 2004.		
+2002				2002				sont_recensés	En 2002, des puits privés sont recensés autour du site.		
+2000				2002				Des_diagnostics	Des diagnostics et des EDR (Évaluation Détaillée des Risques) sont effectués de 2000 à 2002.		
+2003	02	24		2003	02	24		une_dépollution	Le 24/02/2003, un arrêté préfectoral complémentaire de remise en état du site impose à KODAK une dépollution des sols et de la nappe, ainsi que la réalisation d’une ARR (analyse des risques résiduels) à l’issue des travaux.		'KODAK'
+1925				1995				a_exploité	La société KODAK a exploité sur le site une activité de développement photographique et cinématographique de 1925 à 1995.		'La société KODAK'
+2014	07	04		2014	07	04		La_dernière_visite_d__inspection	La dernière visite d’inspection a eu lieu le 04/07/2014.		
+2006				2006				sont_cédés	En 2006, les terrains sont cédés à la mairie par acte de vente ou donation.		
+1950				1976				était_exploitée	Une activité de synthèse chimique était exploitée sur la partie nord-ouest du site de 1950 à 1976.		
+2015	03	05		2015	03	05		confirme	Par courrier du 05 mars 2015, la société Kodak confirme avoir procédé aux comblements de 17 ouvrages en octobre 2014 et de 4 autres en janvier 2015. 3 ouvrages n'ont pas été retrouvés du fait des travaux d'aménagement réalisés ou en cours sur le site.		'la société Kodak'
+2014	10			2014	10			avoir_procédé_aux_comblements	Par courrier du 05 mars 2015, la société Kodak confirme avoir procédé aux comblements de 17 ouvrages en octobre 2014 et de 4 autres en janvier 2015. 3 ouvrages n'ont pas été retrouvés du fait des travaux d'aménagement réalisés ou en cours sur le site.		'la société Kodak'
+2002	03	18		2002	03	18		est_notifié	Un arrêté préfectoral complémentaire est notifié à KODAK le 18/03/2002.		'KODAK'
+2012	03			2012	03			transmet	En mars 2012, la société KODAK transmet à la DRIEE les justificatifs de l’enlèvement de l’installation de traitement de la nappe.		'la société KODAK', 'la DRIEE'
+2008				2008				se_terminent	Les travaux de remise en état du site se terminent en 2008.		
+2015	01			2015	01			confirme	Par courrier du 05 mars 2015, la société Kodak confirme avoir procédé aux comblements de 17 ouvrages en octobre 2014 et de 4 autres en janvier 2015. 3 ouvrages n'ont pas été retrouvés du fait des travaux d'aménagement réalisés ou en cours sur le site.		'la société Kodak'
+2013	10			2013	10			La_dernière_campagne_de_surveillance	La dernière campagne de surveillance a lieu en octobre 2013.		
+2011				2011				transmet	En 2011, KODAK transmet à la DRIEE un rapport de fin de travaux et une ARR.		'KODAK', 'la DRIEE'

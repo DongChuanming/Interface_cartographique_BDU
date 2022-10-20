@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1967				1967				exploité	Le site a accueilli un dépôt pétrolier exploité par la société CHARVET dès 1967.		'la société CHARVET'
+1978	01	18		1978	01	18		un_récépissé	L'exploitation a fait l'objet d'un récépissé de déclaration d'activité le 18 janvier 1978.		
+2009				2009				a_été_démantelé	Celui-ci a été démantelé au début de l'année 2009.		
+2009	07			2009	07			Les_premières_interventions	Les premières interventions de dépollution en juillet 2009 ont consisté à un nettoyage et dégazage des cuves et des tuyauteries de distribution de carburants.	'carburants'	

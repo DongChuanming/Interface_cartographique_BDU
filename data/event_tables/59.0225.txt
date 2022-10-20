@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1882				1941				a_été_exploité	Ce site a été exploité comme filature de 1882 à 1941 puis orienté vers la production actuelle à compter de 1947 suite à la reprise par les frères BRUNEL.		'les frères BRUNEL'
+1992	04	17		1992	04	17		exploite_à	La société CHIMIE DERIVES exploite à l'adresse mentionnée une usine de production de détergents autorisée par arrêté préfectoral du 17 avril 1992.	'détergents'	'La société CHIMIE DERIVES'
+2000	08			2000	08			Les_travaux_réalisés	Les travaux réalisés durant le mois d'août 2000 ont consisté à excaver les terres polluées dont l'extension était connue.		

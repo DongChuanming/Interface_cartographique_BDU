@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				a_cessé	L'activité a cessé en 1990 sans notification.		
+1932				1932				a_été_exploitée_par	La station service ESSO SERVICE LE FUR a été exploitée par M. et Mme LE FUR sans autorisation, depuis 1932 (trois exploitants se sont succédés).		'La station service ESSO SERVICE LE FUR', 'LE FUR'
+2004	12			2004	12			a_arraché_accidentellement	En décembre 2004, lors de travaux de terrassement, un engin de chantier a arraché accidentellement une canalisation enterrée contenant des hydrocarbures.	'hydrocarbures'	

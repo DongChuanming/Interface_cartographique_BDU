@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	10			s__effectue	Cette surveillance s'effectue au point de rejet des eaux industrielles de mai à octobre 2011.		
+2011	08	31		2011	08	31		est_en_situation_de_redressement_judiciaire	Le 31 août 2011 puis le 4 janvier 2013, la société est en situation de redressement judiciaire.		
+				2013	01	04		est_en_situation_de_redressement_judiciaire	Le 31 août 2011 puis le 4 janvier 2013, la société est en situation de redressement judiciaire.		
+2005	09			2005	09			a_au_préalable_été_chargé	Lors de la cession de ses activités à la société STYLEWOOD le 24 avril 2006, le bureau d'étude EnvirEauSol a au préalable été chargé en septembre 2005 de réaliser un état des lieux environnemental du site.		'la société STYLEWOOD'
+2000	10	23		2000	10	23		l__adoption	Suite à l'adoption de la directive cadre sur l'eau (DCE) du 23 octobre 2000, une circulaire du 5 janvier 2009 fixe les modalités des actions de recherche et de réduction des rejets des substances dangereuses dans l'eau (RSDE).	'substances dangereuses'	
+2005	09			2005	09			Le_changement	Le changement d'exploitant en septembre 2005 a donné lieu à une investigation du sol et des eaux superficielles par le bureau d'étude EnvirEauSol.		
+2000	10	23		2000	10	23		fixe	Suite à l'adoption de la directive cadre sur l'eau (DCE) du 23 octobre 2000, une circulaire du 5 janvier 2009 fixe les modalités des actions de recherche et de réduction des rejets des substances dangereuses dans l'eau (RSDE).	'substances dangereuses'	
+2006	12	20		2006	12	20		ont_été_éliminés	Deux transformateurs contenant des PCB ont été éliminés le 20 décembre 2006.	'des PCB'	
+2013	08	26		2013	08	26		cesse_définitivement	L'activité cesse définitivement le 26 août 2013.		
+2006	04	24		2006	04	24		a_au_préalable_été_chargé	Lors de la cession de ses activités à la société STYLEWOOD le 24 avril 2006, le bureau d'étude EnvirEauSol a au préalable été chargé en septembre 2005 de réaliser un état des lieux environnemental du site.		'la société STYLEWOOD'
+2013	05	30		2013	05	30		est_placée_en_liquidation_judiciaire_par_jugement	Le 30 mai 2013, STYLEWOOD est placée en liquidation judiciaire par jugement du Tribunal de Commerce de Chartres.		'STYLEWOOD'
+1986	05	27		1986	05	27		devient	Le 27 mai 1986 la société STEELCASE STRAFOR devient le nouvel exploitant du site dont elle dispose d'un arrêté préfectoral d'autorisation en date du 26 avril 1995 pour la fabrication d'équipement de bureau.		'la société STEELCASE STRAFOR'
+1941				1941				a_débuté	L'usine de Senonches a été le lieu d'une succession de sociétés qui a débuté en 1941 par la création de la scierie DUCOEUR et JOLY, reprise en 1961 par DASSAS (fabriquant de meubles de bureau).		'la scierie DUCOEUR et JOLY', 'DASSAS'
+1961				1961				la_création_de	L'usine de Senonches a été le lieu d'une succession de sociétés qui a débuté en 1941 par la création de la scierie DUCOEUR et JOLY, reprise en 1961 par DASSAS (fabriquant de meubles de bureau).		'la scierie DUCOEUR et JOLY', 'DASSAS'

@@ -1,0 +1,32 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	06			2016	06			un_dépassement_de_la_valeur_limite	Le piézomètre 1 a fait l’objet, pour la première fois, d’un dépassement de la valeur limite en HAP lors de la campagne de juin 2016.	'HAP'	
+2007				2007				des_travaux_de_réhabilitation	Suite au changement d'exploitant au profit de FIRMENICH en 2007, des travaux de réhabilitation pour les deux zones impactées en hydrocarbures ont été effectués (lagune et cuve de fioul).	'hydrocarbures', 'fioul'	'FIRMENICH'
+2007	11	27		2007	11	27		récépissé	FRIMENICH a succédé à DANISCO en 2007 (récépissé de déclaration de changement d'exploitant en date du 27/11/2007).		'FRIMENICH', 'DANISCO'
+2007	11	27		2007	11	27		a_succédé	FRIMENICH a succédé à DANISCO en 2007 (récépissé de déclaration de changement d'exploitant en date du 27/11/2007).		'FRIMENICH', 'DANISCO'
+2012	01	12		2012	01	12		a_été_réalisé	De plus, une Analyse des Risques Résiduels (ARR) a été réalisé (12/01/2012).		
+2005	10	07		2005	10	07		Des_investigations_de_sols	Des investigations de sols et d'eaux souterraines ont été effectuées le 07/10/2005 sur l'ensemble du site.		
+2008				2008				ont_cessées	En 2008, les activités de FIRMENICH ont cessées et un dossier de cessation d’activité a été remis.		'FIRMENICH'
+2005	11			2005	11			a_été_détectée	Suite au suivi piézométrique de Novembre 2005, un phase libre d'hydrocarbures (fioul/gasoil) a été détectée sur PZ3.	'hydrocarbures', 'fioul'	
+2006	05			2006	05			Des_investigations_de_sols_ont_été_effectué	Des investigations de sols ont été effectué fin 2006 au niveau des cuves de fioul qui avaient été dégazées et nettoyées en Mai 2006. 2 sondages sur les 12 réalisés montrent des concentrations en HCT supérieures à la VDSS.	'fioul', 'HCT'	
+2008	12			2008	12			est_vendu_à	En Décembre 2008, le site est vendu à la société Charles Investissement puis loué à la société PIZZORNO qui en devient le nouvel exploitant.		'la société Charles Investissement', 'la société PIZZORNO'
+2011	12	13		2011	12	13		un_diagnostic_de_pollution	Dans le cadre de la cessation d’activité, un diagnostic de pollution des sols et des eaux a été effectué (13/12/2011).		
+2009				2009				Une_déclaration	Une déclaration de changement d’exploitant a été adressée en préfecture en 2009.		
+2006				2006				Des_investigations_de_sols_ont_été_effectué	Des investigations de sols ont été effectué fin 2006 au niveau des cuves de fioul qui avaient été dégazées et nettoyées en Mai 2006. 2 sondages sur les 12 réalisés montrent des concentrations en HCT supérieures à la VDSS.	'fioul', 'HCT'	
+2016	06			2016	06			a_été_mis_en_évidence	Un impact significatif en benzène au droit du piézomètre 5 a été mis en évidence en juin 2016.	'benzène'	
+2014	11	25		2014	11	25		a_établi	Après réalisation des travaux, l'inspection de l'environnement chargée des installations classées a établi le procès-verbal de constat de la réalisation des travaux, en inspectant notamment le site le 25/11/2014.		
+2015	06	02		2015	06	02		a_imposé	Le Préfet a imposé cette surveillance par arrêté préfectoral du 02/06/2015.		'Le Préfet'
+2016	06			2016	06			la_campagne	Le piézomètre 1 a fait l’objet, pour la première fois, d’un dépassement de la valeur limite en HAP lors de la campagne de juin 2016.	'HAP'	
+2003				2003				ont_été_arrêtées	Les activités d'extraction de solvants et de distillation à la vapeur ont été arrêtées sur le site en 2003 et 2005.		
+2006	03	22		2006	03	22		est_dédié	Le site est dédié au stockage de différents produits à destination des autres usine du groupe (AP du 22/03/2006).		
+2016	12			2016	12			est_repassée	Cette teneur est repassée sous seuil en décembre 2016.		
+2005	11			2005	11			suivi_piézométrique	Suite au suivi piézométrique de Novembre 2005, un phase libre d'hydrocarbures (fioul/gasoil) a été détectée sur PZ3.	'hydrocarbures', 'fioul'	
+2007				2007				a_succédé	FRIMENICH a succédé à DANISCO en 2007 (récépissé de déclaration de changement d'exploitant en date du 27/11/2007).		'FRIMENICH', 'DANISCO'
+2016	12			2016	12			est_repassée	La concentration est repassée sous seuil en décembre 2016.		
+2002				2002				le_suivi_en_place	Les résultats montrent des concentrations dans les eaux souterraines en hydrocarbures supérieures à la Valeur de Constat d'Impact (VCI) pour les hydrocarbures et HAP au droit d'un piézomètre et le suivi en place depuis 2002 indique des dépassements sur deux piézomètres en HCT par rapport à la VCI.	'hydrocarbures', 'les hydrocarbures', 'HAP', 'HCT'	
+2006	05			2006	05			avaient_été_dégazées_et_nettoyées	Des investigations de sols ont été effectué fin 2006 au niveau des cuves de fioul qui avaient été dégazées et nettoyées en Mai 2006. 2 sondages sur les 12 réalisés montrent des concentrations en HCT supérieures à la VDSS.	'fioul', 'HCT'	
+2002				2002				ont_été_implantés	Deux piézomètres ont été implantés à l'aval du site en 2002, les analyses effectuées la même année montrent l’absence d'impact sur les eaux souterraines.		
+2005				2005				ont_été_arrêtées	Les activités d'extraction de solvants et de distillation à la vapeur ont été arrêtées sur le site en 2003 et 2005.		
+2001				2001				ont_été_vidées	Le 30/10/2003, les anciennes lagunes utilisées pour le traitement des effluents industriels qui ont été vidées et nivelées en 2001, ont fait l'objet d'un diagnostic de sol qui n'a révélé aucun impact, de même que pour les investigations de sol réalisées au niveau de la rétention du Parc Solvant E.	'effluents industriels'	'Parc Solvant E.'
+2007				2007				changement	Suite au changement d'exploitant au profit de FIRMENICH en 2007, des travaux de réhabilitation pour les deux zones impactées en hydrocarbures ont été effectués (lagune et cuve de fioul).	'hydrocarbures', 'fioul'	'FIRMENICH'
+2003	10	30		2003	10	30		un_diagnostic	Le 30/10/2003, les anciennes lagunes utilisées pour le traitement des effluents industriels qui ont été vidées et nivelées en 2001, ont fait l'objet d'un diagnostic de sol qui n'a révélé aucun impact, de même que pour les investigations de sol réalisées au niveau de la rétention du Parc Solvant E.	'effluents industriels'	'Parc Solvant E.'
+2001				2001				un_diagnostic	Le 30/10/2003, les anciennes lagunes utilisées pour le traitement des effluents industriels qui ont été vidées et nivelées en 2001, ont fait l'objet d'un diagnostic de sol qui n'a révélé aucun impact, de même que pour les investigations de sol réalisées au niveau de la rétention du Parc Solvant E.	'effluents industriels'	'Parc Solvant E.'

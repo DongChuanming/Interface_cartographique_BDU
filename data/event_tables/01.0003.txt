@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	02	18		1992	02	18		a_été_adressé	Un procès-verbal de contravention a été adressé le 18 février 1992 à la société TIFLEX, représentée par M.		'la société TIFLEX'
+1992	02	11		1992	02	11		a_été_prise_en_flagrant_délit	Le 11 février 1992, la société TIFLEX a été prise en flagrant délit d’abandonner des déchets industriels sur la décharge communale, située au lieu-dit « Avrillat ».	'des déchets industriels'	'la société TIFLEX'
+1992	02			1992	02			a_stoppé_toute_mise_en_décharge	TIFLEX a stoppé toute mise en décharge dès février 1992 et a confié à GEOCLEAN la réalisation d’une étude d’impact de ses déchets sur la décharge et de son environnement direct.		'TIFLEX', 'GEOCLEAN'
+1992	07			1992	07			L__étude_réalisée	L’étude réalisée en juillet 1992 a consisté en une campagne de prélèvements d’échantillons avec recherche des hydrocarbures totaux, ainsi que de 5 métaux pouvant entrer dans la composition de pigments organiques utilisés par TIFLEX.	'hydrocarbures totaux', 'métaux', 'la composition de pigments organiques'	'TIFLEX'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06			2010	06			Les_travaux	Les travaux d’évacuation de la butte et de remblaiement des cavités sur la zone où le stade et ses annexes ont été construits ont été achevés en juin 2010, l’unité de production de béton n’a pas été installée.		
+2017	02	23		2017	02	23		dernier_rapport	Le dernier rapport de la campagne d'analyse d'eau souterraine de février 2017 (document référencé KA17.02.013 du 23 février 2017) conclut sur le fait que le site ne présente pas d'impact significatif sur la nappe de la Craie sur cette campagne de prélèvement.		
+2012				2012				une_visite_d__inspection	Suite à la déclaration de cessation d'activités, une visite d'inspection valant récolement a été entreprise le 13 juin 2012 (rapport de l'IIC en date du 8 août 2012).		
+				2014	05	1		mise_à_disposition	- une zone mise à disposition par la MEL jusqu'au 1er mai 2014 qui a servi à la mise en œuvre des travaux (stockage de matériaux inertes et zone de tri).		'la MEL'
+2012	08	08		2012	08	08		une_visite_d__inspection	Suite à la déclaration de cessation d'activités, une visite d'inspection valant récolement a été entreprise le 13 juin 2012 (rapport de l'IIC en date du 8 août 2012).		
+2017	02			2017	02			la_campagne_d__analyse	Le dernier rapport de la campagne d'analyse d'eau souterraine de février 2017 (document référencé KA17.02.013 du 23 février 2017) conclut sur le fait que le site ne présente pas d'impact significatif sur la nappe de la Craie sur cette campagne de prélèvement.		
+2012	10	18		2012	10	18		est_désormais_trimestrielle	Par arrêté préfectoral complémentaire du 18 octobre 2012, la fréquence des analyses des eaux de nappe est désormais trimestrielle.		
+								une_visite_d__inspection	Suite à la déclaration de cessation d'activités, une visite d'inspection valant récolement a été entreprise le 13 juin 2012 (rapport de l'IIC en date du 8 août 2012).		

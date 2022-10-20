@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	12			2000	03			cette_évaluation	La ville de Rouen, dans le cadre d'un projet de construction d'un lotissement sur ce terrain à l'état de friche a fait réaliser une étude de sols (ESR). cette évaluation, réalisée de décembre 1999 à mars 2000, a révélé la présence de métaux (Cu, cd, As) et d'hydrocarbures (HAPs) dans le sol et dans la nappe d'eau souterraine.	'métaux', 'Cu', 'cd', 'As', 'hydrocarbures', 'HAPs'	'La ville de Rouen'
+2007	06			2007	09			Des_travaux_ont_été_réalisés	Des travaux ont été réalisés de juin 2007 à septembre 2007.		

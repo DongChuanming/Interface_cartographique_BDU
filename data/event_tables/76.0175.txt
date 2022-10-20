@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03			2006	03			diagnostic_environnemental	Dans le cadre de la cessation d'activité des étude ont été réalisé: diagnostic des sols en 2003, diagnostic environnemental en mars 2006, un dossier de réhabilitation en mars 2007 et un diagnostic complémentaire de la qualité des sols en juillet 2007.		
+2003				2003				diagnostic_des_sols	Dans le cadre de la cessation d'activité des étude ont été réalisé: diagnostic des sols en 2003, diagnostic environnemental en mars 2006, un dossier de réhabilitation en mars 2007 et un diagnostic complémentaire de la qualité des sols en juillet 2007.		
+2004	07			2004	07			est_retrouvé_mort	En juillet 2004, un employé est retrouvé mort au fond d'un cuve de stockage de DCM.		'DCM'
+2007	07			2007	07			un_diagnostic_complémentaire	Dans le cadre de la cessation d'activité des étude ont été réalisé: diagnostic des sols en 2003, diagnostic environnemental en mars 2006, un dossier de réhabilitation en mars 2007 et un diagnostic complémentaire de la qualité des sols en juillet 2007.		
+2003	09			2003	09			a_rejeté	En septembre 2003 la société a rejeté du DiChloroMéthane (DCM) à l'atmosphère.	'DiChloroMéthane', 'DCM'	
+2003				2003				un_incident	Depuis 2003 la société HAG COFFEX a connu un incident et un accident.		'la société HAG COFFEX'
+1971				1971				était_implantée	Cette société était implantée sur un site de 5072m² depuis 1971.		
+2003				2003				diagnostic_environnemental	Dans le cadre de la cessation d'activité des étude ont été réalisé: diagnostic des sols en 2003, diagnostic environnemental en mars 2006, un dossier de réhabilitation en mars 2007 et un diagnostic complémentaire de la qualité des sols en juillet 2007.		

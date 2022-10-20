@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963	05	24		1963	05	24		Elle_bénéficiait	Elle bénéficiait d'un arrêté préfectoral d'autorisation d'exploiter datant du 24/05/1963.		
+2006	06	27		2006	06	27		écoulait_vers_le_sud	Au 27/06/2006, la nappe s'écoulait vers le sud au droit de l'emprise de la société CHIMICOLOR, soit parallèlement au Rhône.		'la société CHIMICOLOR'
+1999	10	18		1999	10	18		L__étude_a_été_transmise	L'étude a été transmise à l'administration le 18/10/1999.		
+1995				1995				Cette_étude_a_été_remise	Cette étude a été remise durant l'été 1995.		
+1999				1999				est_réalisée	L'ESR est réalisée et finalisée en 1999 avec les résultats d'analyse de la nappe d'eaux souterraines.		
+1995	05	16		1995	05	16		Une_campagne_de_prélèvements	Une campagne de prélèvements des eaux souterraines a été effectuée le 16/05/1995.		
+1995				1995				durant_l_	Cette étude a été remise durant l'été 1995.		
+2005	08			2005	08			a_débuté	Un projet de construction d'un parking à 7 niveaux, sous un immeuble de bureaux, a débuté en août 2005.		
+1999	07	29		1999	07	29		Des_prélèvements_d__eaux_souterraines_ont_été_effectués	Des prélèvements d'eaux souterraines ont été effectués le 29/07/1999.		
+1963				1994				exploitait	La société CHIMICOLOR exploitait de 1963 à 1994, une usine de travail et gravure sur métaux ou autres supports (plastiques et aluminium) et occupait une partie de l'îlot 4 de la ZAC de Gerland, avec la station-service TOTAL (située en partie nord de l'îlot) (voir la fiche BASOl n°69.0214).	'plastiques', 'aluminium'	'La société CHIMICOLOR', 'service TOTAL'

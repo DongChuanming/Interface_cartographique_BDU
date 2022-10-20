@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic_de_pollution_des_sols	Préalablement à la cessation d'activité du site, la société POLYROC (groupe ALLIA) a fait réaliser en 2006 un diagnostic de pollution des sols et de la nappe.		'la société POLYROC', 'groupe ALLIA'
+1960				1960				a_été_créé	Le premier bâtiment a été créé en 1960 et le site compte aujourd'hui 3 bâtiments dont un repris à une ancienne société de chaudronnerie.		

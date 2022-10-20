@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_surveillance_trimestrielle	Depuis 2005, le site fait l'objet d'une surveillance trimestrielle de la qualité des eaux souterraines.		
+2003	08			2003	08			des_travaux_de_dépollution	Les installations de la station-service ont été démantelées et des travaux de dépollution ont été réalisés par la société POLLUTION SERVICE d'août 2003 à octobre 2004.		'la société POLLUTION SERVICE'
+								établis	Un second courrier du 14 février 2012 communique les rapports trimestriels de suivi des eaux de juillet et octobre 2011 (établis par SERPOL).		'SERPOL'
+2014	05	12		2014	05	12		de_la_séance	A l'issue de la procédure simplifiée de mise en œuvre de Servitudes d'Utilité Publique sur un ancien site industriel pollué prévue par l'article L.515-12 et définie par les articles R.515-24 et R.515-28 du code de l'environnement, l'inspection des installations classées a reçu lors de la séance du 12 mai 2014 un avis favorable des membres du Conseil Département de l'Environnement et des Risques Sanitaires et Technologiques sur le projet de Servitudes d'Utilité Publique.		
+1981	01	13		1981	01	13		délivré	La station service ELF ANTAR FRANCE a fait l’objet d’un récépissé préfectoral délivré le 13 janvier 1981 pour les activités :		'La station service ELF ANTAR FRANCE'
+2004	10			2004	10			ont_été_démantelées	Les installations de la station-service ont été démantelées et des travaux de dépollution ont été réalisés par la société POLLUTION SERVICE d'août 2003 à octobre 2004.		'la société POLLUTION SERVICE'
+2014	06	24		2014	06	24		a_été_signée	L'arrêté préfectoral instituant les servitudes d'utilité publique a été signée le 24/06/2014.		
+2005				2005				fait_l__objet_d_	Depuis 2005, le site fait l'objet d'une surveillance trimestrielle de la qualité des eaux souterraines.		
+2004	10			2004	10			des_travaux_de_dépollution	Les installations de la station-service ont été démantelées et des travaux de dépollution ont été réalisés par la société POLLUTION SERVICE d'août 2003 à octobre 2004.		'la société POLLUTION SERVICE'
+2010	09	21		2010	09	21		Le_diagnostic_approfondi_des_sols	Le diagnostic approfondi des sols a été transmis par la DDPP à la DREAL le 21 septembre 2010.		'la DDPP', 'la DREAL'
+2012	06	11		2012	06	11		on_été_analysés	Les pièces jointes à ces deux derniers envois on été analysés dans un rapport de l'inspection  en date du 11 juin 2012.		
+2008	06	26		2008	06	26		a_réalisé	SERPOL a réalisé au 26 juin 2008, à la demande de TOTAL FRANCE, un diagnostic approfondi du sous-sol et une analyse des risques résiduels pour deux scénarios correspondant :		'SERPOL', 'TOTAL FRANCE'
+2011	11	29		2011	11	29		communique	Par sa lettre du 29 novembre 2011, la société TOTAL communique trois documents :		'la société TOTAL'
+2011	10			2011	10			établis	Un second courrier du 14 février 2012 communique les rapports trimestriels de suivi des eaux de juillet et octobre 2011 (établis par SERPOL).		'SERPOL'
+2003	08			2003	08			ont_été_démantelées	Les installations de la station-service ont été démantelées et des travaux de dépollution ont été réalisés par la société POLLUTION SERVICE d'août 2003 à octobre 2004.		'la société POLLUTION SERVICE'
+2005	11	02		2005	11	02		a_été_délivré_par	Un récépissé déclaration de cessation d'activité a été délivré par la Préfecture de la Loire le 2 novembre 2005.		'la Préfecture de la Loire'

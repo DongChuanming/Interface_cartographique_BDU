@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1994	03	18		ont_été_déversés	Par ailleurs, des sables de fonderie ont été déversés sur ce site par la société des Fonderies de l'Isère jusqu'au 18 mars 1994, date à laquelle EPIDA a transmis à cette société une demande d'arrêt immédiat tout dépôt de sable de fonderie dans la carrière.		'la société des Fonderies', 'EPIDA'
+1999	01			1999	01			L__audit	L'audit et le diagnostic ont été remis à l'administration en janvier 1999.		
+1994				1994				Ces_analyses	Ces analyses, réalisées fin 1994, mettent en avant l'absence de phénol (inférieur à 0,5 ug/l).		
+1996				1996				a_été_intégrée	A cause de la présence de ces sables cette carrière a été intégrée à l'inventaire 1996 des sites et sols pollués connus.		
+1998	06			1998	06			la_réapparition	En juin 1998 la DRIRE a à nouveau signalé à EPIDA la réapparition de dépôts sauvages sur le site et demandé la prise de mesures pour que cessent ces dépôts.		'la DRIRE', 'EPIDA'
+1998	10			1998	10			ont_informé	Afin de statuer sur ce dossier, les services de la DRIRE ont informé EPIDA en octobre 1998 de la nécessité de réaliser un audit et un diagnostic du site, afin de définir les conditions de son réaménagement .		'les services de la DRIRE', 'EPIDA'
+1988				1988				la_remise_en_état	Dès 1988, EPIDA a commencé la remise en état de la carrière LEMAND.		'EPIDA'

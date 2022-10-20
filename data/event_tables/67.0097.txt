@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				déversés	Ce puits pose un double problème car il a été comblé en partie par des déchets déversés dans les années 1965-1975.		
+1965				1965				déversés	Ce puits pose un double problème car il a été comblé en partie par des déchets déversés dans les années 1965-1975.		
+1962	05			1963	01			a_été_fermé	Le puits a été fermé par une dalle de surface entre mai 1962 et janvier 1963.		
+1925				1925				débute_le_fonçage	En 1925 débute le fonçage d’un nouveau puits, appelé De Chambrier ou puits VI.		
+1938				1938				ne_reprirent	Les travaux ont été interrompus et ne reprirent qu’en 1938 pour s’achever en 1943.		
+2011				2011				des_travaux_d__instrumentation	Le BRGM/DRP/DPSM a également réalisé des travaux d’instrumentation du puits en 2011, par la mise en place d’une sonde piézométrique associée à un automate de télégestion et de transmission, pour suivre l’évolution du réservoir minier.		'Le BRGM / DRP / DPSM'
+2010	09			2010	09			a_racheté	A la demande de l’Etat, le BRGM a racheté les parcelles du site du puits VI en septembre 2010 pour mettre le site en sécurité.		'le BRGM'
+1943				1943				ne_reprirent	Les travaux ont été interrompus et ne reprirent qu’en 1938 pour s’achever en 1943.		
+1998	08			1998	08			Des_travaux	Des travaux ont été menés sur les puits en août 1998, qui consistaient en :		

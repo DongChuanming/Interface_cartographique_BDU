@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				Son_rachat	Son rachat en 1994 marquait le point de départ de la politique de diversification de LEROUX.		'LEROUX'
+2002	04	25		2002	04	25		la_visite	Le site étant totalement imperméabilisé, les investigations documentaires et la visite du site le 25 Avril 2002 par le bureau d’étude mandaté par l’industriel n’ont pas mis en évidence d’indices de pollutions des sols.		
+2002	04	15		2002	04	15		une_étude_simplifiée_des_risques_a_été_prescrite_par	Compte tenu de la nature de l'ancienneté des activités exercées et afin de juger des démarches de remise en état du site prises ou envisagées (démantèlement des installations,…), une étude simplifiée des risques a été prescrite par arrêté préfectoral du 15/04/2002.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				mise_à_l__arrêt	- Fonderie mise à l'arrêt en 2002, suite à un incendie qui a ravagé le sous sol et une partie du matériel d'exploitation.		
+2006				2006				était_en_liquidation_judiciaire	- En 2006, la société était en liquidation judiciaire et la vente du site était prévue.		
+2006	12	01		2006	12	01		a_été_réalisé	- Un mémoire de cessation d'activité a été réalisé le 01/12/2006.		
+2002	10	08		2002	10	08		Notification_de_cessation_d__activité	- Notification de cessation d'activité: 08/10/2002.		

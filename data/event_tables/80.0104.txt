@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	07			2010	07			la_cessation_du_site	Suite à la fusion avec la société PROSPA, les activités soumises à autorisation au titre des installations classées pour la protection de l'environnement ont été transférées sur le site de Longpré-les-Corps-Saints et la cessation du site de la rue Molière à Amiens a été notifiée en juillet 2010.		'la société PROSPA'
+2012				2012				Un_premier_diagnostic	Un premier diagnostic a été réalisé en 2012, dans le cadre de la cessation d'activité, et a notamment mis en évidence plusieurs sources de pollutions en hydrocarbures totaux, BTEX et HAP.	'hydrocarbures totaux', 'BTEX', 'HAP'	
+2017				2017				Les_investigations_complémentaires	Les investigations complémentaires réalisées en 2017 dans le cadre du plan de gestion ont permis de préciser la caractérisation des zones sources sans toutefois les délimiter entièrement.		
+1948				1948				accueillait_déjà	D'après l'étude historique, il accueillait déjà ce type d'activités en 1948.		
+2016	07	04		2016	07	04		La_réalisation_d_	La réalisation d'un plan de gestion a été prescrite à l'exploitant par arrêté préfectoral du 4 juillet 2016.		
+2020				2020				La_réalisation_d__investigations_complémentaires	La réalisation d'investigations complémentaires et de tests de faisabilité pour les techniques de dépollution envisagées est prévue en 2020.		
+2010	07			2010	07			la_cessation_d__activité	Le dossier de demande d'autorisation déposé par l'exploitant a été jugé irrecevable et la cessation d'activité du site a été notifié par l'exploitant en juillet 2010.		

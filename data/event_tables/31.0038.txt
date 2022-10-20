@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09			1999	09			Une_étude_des_sols_a_été_réalisée	Une étude des sols a été réalisée en septembre 1999 sur demande de l’inspection des installations classées (IIC).		
+2006	03			2006	03			Une_étude_de_sol	Une étude de sol a été remise fin mars 2006 à l’IIC qui l’a validée.		'IIC'
+2005				2005				a_été_constatée	Les contrôles semestriels de la qualité de la nappe ayant révélé des anomalies par la présence d’hydrocarbures sur quelques piézomètres, une pollution historique au kérosène a été constatée en 2005 en provenance du dispositif de récupération des purges.	'hydrocarbures', 'kérosène'	
+2005	10			2005	10			la_suppression_d__une_cuve_enterrée	Des travaux de dépollution ont alors été entrepris notamment par la suppression d’une cuve enterrée en octobre 2005.		
+2005	11			2005	11			travaux_effectués	La dépollution a consisté d'une part, à excaver les terres polluées (travaux effectués en novembre 2005) et d'autre part, à traiter la nappe.		
+1997	11	18		1997	11	18		L__exploitation	L’exploitation de la station de carburant par la SASCA est encadrée par l’arrêté préfectoral d’autorisation d’exploiter du 18/11/1997.	'carburant'	'la SASCA'
+2005				2005				a_été_mis_en_place	Ainsi un dispositif de traitement par pompage/écrémage a été mis en place fin 2005.		
+2008	08			2008	08			les_analyses	En effet, les analyses d'eaux souterraines d'août 2008 ont montré :		
+2018	06			2018	06			sont_relevées	En juin 2018, des teneurs de 4800 et 24 000 µg/l en hydrocarbures C10-C40 sont relevées sur 2 piézomètres.	'hydrocarbures C10-C40'	

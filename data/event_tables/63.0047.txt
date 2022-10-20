@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06			2015	06			estime	D’après les éléments à sa disposition, l’ADEME estime en juin 2015 que la nappe d’eau au droit du site est peu profonde (de 1,5 à 3 m de profondeur) et vulnérable (des remblais sableux ont été détectés dans des sondages réalisés à 300 m du site).		
+2015	11	19		2015	11	19		prend_un_arrêté_de_travaux	Le 19 novembre 2015, le préfet du Puy-de-Dôme prend un arrêté de travaux d’office et confie la mise en sécurité du site Chrom’Ancien à l’ADEME.		'le préfet du Puy-de-Dôme'
+2017	02	20		2017	02	20		a_lieu_la_visite	Le 20 février 2017 a lieu la visite de réception des travaux.		
+2004	12			2004	12			galvanoplastie___change	René Petillon » (galvanoplastie) change d’exploitant en décembre 2004.		
+1984	11	06		1984	11	06		nouvelle_activité	Sa nouvelle activité (cuivrage, nickelage, étamage et chromage), soumise à autorisation au titre des installations classées pour la protection de l’environnement, est autorisée par arrêté préfectoral du 6 novembre 1984.		
+2016	11			2017	02			les_travaux_sont_réalisés	De novembre 2016 à février 2017, les travaux sont réalisés par l’entreprise OGD pour le compte de l’ADEME.		'OGD'
+1984				1984				2_inondations	En 1984, suite à 2 inondations de son atelier 1 rue Zola à Aulnat, où il exploite un atelier de traitement électrolytique des métaux (récépissé de la préfecture du Puy-de-Dôme du 2 juin 1969), M.		
+2010				2010				est_reprise	Fin 2010, l’entreprise Chrom’Ancien est reprise par M.		
+2012	05	16		2012	05	16		ouvre_une_procédure_de_liquidation_judiciaire	Par jugement du 16 mai 2012, le tribunal de commerce de Clermont-Ferrand ouvre une procédure de liquidation judiciaire à l’encontre de la société.		'le tribunal de commerce de Clermont - Ferrand'
+2007	05			2007	05			une_inspection	Les bains de traitement sont sur rétention mais une inspection de mai 2007 rappelle à l’exploitant la nécessité de refaire l’étanchéité de sa rétention.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			Le_diagnostic_approfondi	Le diagnostic approfondi et l'étude détaillée des risques ont été reçues successivement en mai 2006, 3 octobre 2006 et 17 juillet 2007.		
+2006	03	28		2006	03	28		a_été_signé	Cet arrêté a été signé le 28 mars 2006.		
+2009	01	07		2009	01	07		a_reçu	Le 7 janvier 2009 l'IIC a reçu le rapport des travaux d'excavation et de traitement des terres polluées de l'ancienne zone de rejets des eaux d'électrolyse (source 3) en attendant le dépôt du dossier de demande d'instauration des servitudes.		'IIC'
+2006	10	03		2006	10	03		Le_diagnostic_approfondi	Le diagnostic approfondi et l'étude détaillée des risques ont été reçues successivement en mai 2006, 3 octobre 2006 et 17 juillet 2007.		

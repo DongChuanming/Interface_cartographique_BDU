@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989	03	13		1989	03	13		est_soumise_à_déclaration	Cette activité est soumise à déclaration au titre de la législation sur les installations classées et a fait l'objet de récépissés de déclaration en dates des 13 mars 1989 et 17 avril 2014.		
+1989				1989				a_été_mise_en_service	Cette installation a été mise en service en 1989 et a fait l'objet de travaux d'aménagements en 2011.		
+2014	04	17		2014	04	17		est_soumise_à_déclaration	Cette activité est soumise à déclaration au titre de la législation sur les installations classées et a fait l'objet de récépissés de déclaration en dates des 13 mars 1989 et 17 avril 2014.		
+2011				2011				Des_investigations_de_sols	Des investigations de sols ont été réalisées dans le cadre du réaménagement de la station qui a eu lieu en 2011.		
+2011				2011				travaux_d__aménagements	Cette installation a été mise en service en 1989 et a fait l'objet de travaux d'aménagements en 2011.		
+2011				2011				excavations	- excavations d'environ 2900 tonnes de terres souillées au printemps 2011,		
+2011				2011				a_été_mise_en_service	Cette installation a été mise en service en 1989 et a fait l'objet de travaux d'aménagements en 2011.		
+2012				2012				traitement	- traitement des eaux souterraines en 2012, le pompage et le traitement ayant été assez rapidement arrêté en raison de la faible efficacité du dispositif,		
+2007	02	08		2007	02	08		a_été_mise_en_oeuvre	La méthodologie nationale en matière de sols pollués, définie dans la circulaire du ministère chargé de l'environnement du 8 février 2007, a été mise en oeuvre.		

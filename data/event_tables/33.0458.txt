@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	06			2014	06			des_travaux_de_démantèlement	Lors des travaux de démantèlement de la station-service réalisés en juin 2014, les cuves ont été dégazées et ferraillées.		
+2014	09			2014	09			Des_sondages_de_sols	Des sondages de sols ont été réalisés en septembre 2014.		
+1970				1970				arrêtées	- 2 cuves de 3 m3 arrêtées en 1970		
+2014				2014				son_démantèlement	Avant son démantèlement en 2014, elle comportait :		
+2014	06			2014	06			ont_été_dégazées	Lors des travaux de démantèlement de la station-service réalisés en juin 2014, les cuves ont été dégazées et ferraillées.		
+1937				2014				exploitée	Ancienne station-service exploitée de 1937 à 2014 exploitée par M. marie sur la commune de Aygues Mortes les Graves (33).		
+1970				1970				a_été_modifiée	Cette station a été modifiée en 1970.		

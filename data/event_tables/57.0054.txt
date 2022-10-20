@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1885				1897				a_été_remblayée	Après démolition de la cokerie cette zone a été remblayée de 1885 à 1897 par du "blanc de soudière" sur une hauteur de 2m.		
+1999	10	1		1999	10	1		la_réalisation_d__un_diagnostic_initial	Le Préfet a imposé par arrêté préfectoral du 1er octobre 1999, à la Société SOLVAY la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques portant sur l'ancienne cokerie de Willerwald.		'Le Préfet', 'la Société SOLVAY'
+2000	10	10		2000	10	10		L__étude_historique	L’étude historique et le diagnostic initial (étape A) ont été remis le 10 octobre 2000.		
+2001	03	30		2001	03	30		évaluation_simplifiée_des_risques	L’évaluation simplifiée des risques (étape B) a été remise le 30 mars 2001.		
+2003				2003				sont_effectuées_régulièrement	Les analyses sont effectuées régulièrement depuis 2003.		
+1898				1921				a_été_exploitée	Une cokerie a été exploitée sur ce site de 1898 à 1921, pour fournir du coke et de l'ammoniaque pour la fabrication de soude selon le procédé inventé par Solvay.	'coke', 'soude'	'Solvay'

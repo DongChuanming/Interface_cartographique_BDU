@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	11		2001	07	11		a_été_remis	Un rapport d'étape a été remis le 11 juillet 2001, et a fait l'objet d'observations.		
+2002	04	18		2002	04	18		a_fait_l__objet	Un diagnostic initial ( étapes A et B) aété remis le 8 février 2002, et a fait l'objet d'observations le 18 avril 2002.		
+2002	05	28		2002	05	28		ont_été_fournies	Des informations complémentaires ont été fournies par l'industriel le 28 mai 2002.		
+2002	02	08		2002	02	08		Un_diagnostic_initial	Un diagnostic initial ( étapes A et B) aété remis le 8 février 2002, et a fait l'objet d'observations le 18 avril 2002.		
+2000	07			2000	07			a_constaté	En juillet 2000 la société SOLVAY a constaté la présence de divers produits dans le sous-sol, ne correspondant pas aux activités de l'entreprise.		'la société SOLVAY'
+				1980				occupé	Site occupé par la société CORDOUAL jusqu'en 1980, qui enduisait des tissus de caoutchouc ou de résines.		'la société CORDOUAL'
+2005				2005				Des_travaux_de_restructuration_ont_été_réalisés	Des travaux de restructuration ont été réalisés sur le site en 2005.		

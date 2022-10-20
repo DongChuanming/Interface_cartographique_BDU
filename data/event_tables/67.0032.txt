@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	01	31		2014	01	31		la_mise_à_l__arrêt_définitif	Cet exploitant a notifié la mise à l'arrêt définitif le 31 janvier 2014.		
+2014	10	30		2014	10	30		__a_été_cédé	Par ordonnance déposée au greffe du TGI de Strasbourg le 30 octobre 2014, l'ensemble des biens immeubles, des équipements et ouvrages recensés sur le site  a été cédé pour un euro symbolique au profit de BF2 RHEINPARK filiale de BROWNFIELDS.		'Strasbourg', 'de BF2 RHEINPARK', 'filiale de BROWNFIELDS'
+2011				2011				au_cours	A l'issue d'une phase d'investigation au cours de l'année 2011, les résultats ont mis en évidence un impact des activités sur les milieux sols, air du sol et eaux souterraines.		
+1963				1963				fut_mise_en_service	La raffinerie fut mise en service en 1963 par la Compagnie Rhénane puis reprise en 2008 par la société Pétroplus Raffinage Reichstett.		'la Compagnie Rhénane', 'la société Pétroplus Raffinage'
+2014	01	31		2014	01	31		Notification_de_cessation_définitive	Notification de cessation définitive d'activité de raffinage transmise par courrier de PRR en date du 31 janvier 2014.		'PRR'
+2008				2008				reprise	La raffinerie fut mise en service en 1963 par la Compagnie Rhénane puis reprise en 2008 par la société Pétroplus Raffinage Reichstett.		'la Compagnie Rhénane', 'la société Pétroplus Raffinage'

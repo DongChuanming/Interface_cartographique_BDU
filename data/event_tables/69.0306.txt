@@ -1,0 +1,44 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				2002___Diagnostic	L'examen des documents remis (Etude hydrogéologique du site, 2002, Diagnostic de pollutions des sols, 2010, Rapport de travaux, traitement des sols par venting, 2013, VALTECH, Analyses des risques – ARR-  2013) a fait l'objet des rapports de l'inspection des installations classées  en date du 18 novembre 2009, 6 mai 2010, 21 janvier 2011 et 20 février 2013.		'VALTECH'
+2010				2010				L__examen	L'examen des documents remis (Etude hydrogéologique du site, 2002, Diagnostic de pollutions des sols, 2010, Rapport de travaux, traitement des sols par venting, 2013, VALTECH, Analyses des risques – ARR-  2013) a fait l'objet des rapports de l'inspection des installations classées  en date du 18 novembre 2009, 6 mai 2010, 21 janvier 2011 et 20 février 2013.		'VALTECH'
+2013	01	09		2013	01	09		13_sondages_ont_été_réalisés	Le 9 janvier 2013, 13 sondages ont été réalisés au droit de la zone de traitement, à des profondeurs comprises entre 0 et 2 m.		
+								est_racheté_par	Au début des années 2000, le groupe VALFOND est racheté par le groupe UBS.		'le groupe VALFOND', 'groupe UBS'
+				2013	01	09		l__issue_des_10_mois_de_traitement	A l’issue des 10 mois de traitement (du 9 mars au 9 janvier 2013), environ 620 kg d’ammoniac ont été extraits et traités sur un charbon actif adapté. 8,26 t de charbon actif ont été éliminées en centre de stockage de classe 1, bordereaux de suivis de déchets à l’appui.	'ammoniac', 'charbon actif', 'charbon actif'	
+2015	02			2015	02			a_débuté	L’activité a débuté mi-février 2015.		
+2016	05	24		2016	05	24		la_fin_de_la_procédure	A la suite de la transmission d'un document de synthèse des travaux réalisés et de différents compléments (courriers du 28 janvier et du 25 avril 2016), la DREAL a acté la fin de la procédure de cessation dans un rapport du 24 mai 2016.		'la DREAL'
+2013	12			2013	12			5_campagnes_ont_été_réalisées	5 campagnes ont été réalisées : décembre 2013, octobre 2013, septembre 2013, 6 novembre 2012, 22 mars 2012		
+2010	10			2010	10			a_été_réalisée	Une caractérisation complémentaire a été réalisée en octobre 2010 avec la réalisation de 8 sondages (C22 à C29) autour du sondage C18.		
+2012	12			2012	12			ont_été_réceptionnés	Les travaux de démantèlement ont été réceptionnés en décembre 2012.		
+2019	04	15		2019	04	15		a_été_prise	La réhabilitation du site a été actée par un rapport de la DREAL du 24 mai 2016 et une servitude d'utilité publique a été prise le 15/04/2019 pour encadrer les usages futurs sur le site.		'la DREAL'
+2010	06			2010	06			ont_été_détectés	Lors de la campagne d'analyse des sols de juin 2010, les PCB ont été détectés en faible concentration (69 µg/kg) au droit de la zone des crasses.	'PCB'	
+2010	05			2010	05			la_cessation_d__activité	La société BARTIN RECYCLING a déclaré la cessation d’activité de l’installation en mai 2010.		'La société BARTIN RECYCLING'
+2013	09			2013	09			5_campagnes_ont_été_réalisées	5 campagnes ont été réalisées : décembre 2013, octobre 2013, septembre 2013, 6 novembre 2012, 22 mars 2012		
+2015	06	30		2015	06	30		L__inspection	L'inspection du 30 juin 2015 a permis de constater que le site a été réaménagé en centre de tri par VEOLIA.		'VEOLIA'
+1993				1993				scinde	En 1993, VANALP scinde son entreprise en deux unités et cède son entrepôt, le dépôt de bilan est réalisé en 1994.		'VANALP'
+1985				1985				est_ensuite_repris	Le site est ensuite repris en 1985 par la société VANHOVE (qui deviendra peu après VANALP).		'la société VANHOVE', 'VANALP'
+1984				1984				fait_faillite	Elle fait faillite en 1984.		
+2014	04			2014	04			Les_travaux_se_sont_déroulés	Les travaux se sont déroulés de 2013 (fondation) à  fin avril 2014.		
+2009				2009				a_été_rattachée_au	En avril 2007, le site et l'activité sont repris par la société BARTIN METAL RECYCLING qui a été rattachée au groupe BARTIN RECYCLING en 2009.		'la société BARTIN METAL RECYCLING', 'groupe BARTIN RECYCLING'
+2015	08			2015	08			ont_été_réalisées	D'autre campagnes de suivi de la qualité des eaux souterraines ont été réalisées en août 2014, avril 2015 et août 2015.		
+								ont_été_démantelées	Les voiries et dallages ont été démantelées de fin septembre à début octobre.		
+2002				2002				est_signé	Un nouvel arrêté d'autorisation d'exploiter est signé en 2002.		
+2010	07			2010	07			une_reconnaissance_de_l__état_des_sols_a	Dans le cadre de la cessation d'activité de la société BARTIN METAL RECYCLING, une reconnaissance de l'état des sols a été réalisé par la société EGEH au mois de juillet 2010.		'la société BARTIN METAL RECYCLING', 'la société EGEH'
+2012	05			2012	05			Les_travaux_de_démantèlement	Les travaux de démantèlement du site BARTIN ont débutés en mai 2012 par les superstructures.		'BARTIN'
+1986	12	12		1986	12	12		est_autorisée	Elle est autorisée par l'arrêté préfectoral du 12/12/1986.		
+2010	06			2010	06			de_la_campagne_d__analyse	Lors de la campagne d'analyse des sols de juin 2010, les PCB ont été détectés en faible concentration (69 µg/kg) au droit de la zone des crasses.	'PCB'	
+2013				2013				Les_travaux_se_sont_déroulés	Les travaux se sont déroulés de 2013 (fondation) à  fin avril 2014.		
+2013	10			2013	10			5_campagnes_ont_été_réalisées	5 campagnes ont été réalisées : décembre 2013, octobre 2013, septembre 2013, 6 novembre 2012, 22 mars 2012		
+2015	08			2015	08			de_la_campagne_d_	Lors de la campagne d'août 2015, les HAP étaient inférieures à la limite de quantification.		
+1998				1998				se_poursuit_sous	L'activité se poursuit sous la raison VANALP avant de devenir VALFOND en 1998.		'la raison VANALP', 'VALFOND'
+2013	08			2013	08			ont_été_installés	Quatre piézomètres ont été installés : 3 piézomètres Pz1, PZ2, PZ3 et deux piézomètres en août 2013 PZ4 et PZ5 de 19 m environ.		
+2010	08			2010	08			a_déclaré_la_cessation_de_ses_activités	La société BARTIN METAL RECYCLING a déclaré la cessation de ses activités en août 2010.		'société BARTIN METAL RECYCLING'
+2013	08			2013	08			a_été_neutralisé	Le piézomètre PZ3, défectueux a été neutralisé en août 2013 selon la norme AFNOR NF X10-999.  La nappe est située à plus de 18 m de profondeur.		
+1968				1968				l__implantation	L'activité industrielle à débuté sur le site avec l'implantation des fonderies ROUX en 1968.		'fonderies ROUX'
+1994				1994				scinde	En 1993, VANALP scinde son entreprise en deux unités et cède son entrepôt, le dépôt de bilan est réalisé en 1994.		'VANALP'
+2015	09			2015	09			a_été_réalisée	ne esquisse piézométrique a été réalisée en septembre 2015.		
+2015	04			2015	04			ont_été_réalisées	D'autre campagnes de suivi de la qualité des eaux souterraines ont été réalisées en août 2014, avril 2015 et août 2015.		
+2007	04			2007	04			sont_repris	En avril 2007, le site et l'activité sont repris par la société BARTIN METAL RECYCLING qui a été rattachée au groupe BARTIN RECYCLING en 2009.		'la société BARTIN METAL RECYCLING', 'groupe BARTIN RECYCLING'
+2016	05	24		2016	05	24		un_rapport	La réhabilitation du site a été actée par un rapport de la DREAL du 24 mai 2016 et une servitude d'utilité publique a été prise le 15/04/2019 pour encadrer les usages futurs sur le site.		'la DREAL'
+				2012	03	22		5_campagnes_ont_été_réalisées	5 campagnes ont été réalisées : décembre 2013, octobre 2013, septembre 2013, 6 novembre 2012, 22 mars 2012		
+2014	08			2014	08			ont_été_réalisées	D'autre campagnes de suivi de la qualité des eaux souterraines ont été réalisées en août 2014, avril 2015 et août 2015.		
+				2012	11	06		5_campagnes_ont_été_réalisées	5 campagnes ont été réalisées : décembre 2013, octobre 2013, septembre 2013, 6 novembre 2012, 22 mars 2012		

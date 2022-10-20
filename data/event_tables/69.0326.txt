@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03			2012	03			ont_été_confirmés	Les fortes teneurs en PCE dans les eaux souterraines ont été confirmés (44,6 µg/l en mars 2012).	'PCE'	
+								a_été_complétée	Cette étude a été complétée au mois de mars de la même année.		
+1897				1897				a_débuté	L'activité a débuté sur le site en 1897 avec l'implantation de la société des CÂBLES DE LYON.		'la société des CÂBLES DE LYON'
+2008	12	16		2008	12	16		Une_demande_de_cessation_partielle_d__activité	Une demande de cessation partielle d'activité a été remise le 16/12/2008 ;		
+2009	05	06		2009	05	06		cessation_d__activité_partielle_a_été_remis	Un dossier de cessation d'activité partielle a été remis pour cette zone en date du 06/05/2009.		
+2012	03			2012	03			Une_seconde_campagne_de_terrain	Une seconde campagne de terrain a été conduite par ARTELIA au mois de mars 2012. 8 autres sondages ont alors été réalisés.		'ARTELIA'
+2012	12			2012	12			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé sur cette zone en décembre 2012 par ARTELIA. 40 sondages ont été réalisés sur une maille de 20 m et jusqu'à une profondeur de 5 m.		'ARTELIA'
+2012	12			2012	12			a_été_remis	Un Plan de Gestion a été remis à l'Inspection des Installations Classées en décembre 2012.		
+2013				2013				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont démarrés au courant de l'année 2013 sur cette parcelle.		
+2008	03			2008	03			Un_diagnostic	Un diagnostic a été mené sur cette zone en même temps que pour la parcelle sud (janvier 2008 complétée en mars 2008).		
+1980				1980				démolis	Cette zone avait été exploitée par un ancien magasin de stockage de matières première, démolis en 1980.		
+2009	03			2009	03			rédigé	Une Analyse des Risques Résiduels (ARR) prévisionnelle a été comprise dans le mémoire de réhabilitation rédigé au mois de mars 2009.		
+2008	01			2008	01			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé sur cette parcelle au mois de janvier 2008 par le bureau d'étude ARTELIA (anciennement SOGREAH).		'ARTELIA', 'SOGREAH'
+1987				1987				démolies	Elle occupe une superficie de 9 020 m² et a été occupée par d'anciens bâtiments de menuiserie et de maintenance, démolies en 1987, et une ancienne carrosserie avant l'achat du site par les CÂBLES DE LYON.		'les CÂBLES DE LYON'

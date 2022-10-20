@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	07		2003	01	07		a_été_signé	Un arrêté préfectoral a été signé le 7 janvier 2003 et impose à l’exploitant la réalisation d’un diagnostic approfondi et d’une étude détaillée des risques (EDR).		
+2005	07	22		2005	07	22		a_proposé_des_mesures_de_réhabilitation	Par lettre au Préfet du 22 juillet 2005, la Société RIETER a proposé des mesures de réhabilitation ou de mise en sécurité des trois sources de pollution identifiées : pour celle au Sud du site, l'excavation des matériaux pollués pour traitement externe, pour les deux autres : maintien en place des confinements superficiels.		'la Société RIETER'
+2001	03	12		2001	03	12		de_son_inspection	Lors de son inspection du 12 mars 2001, l'inspecteur a constaté que des déchets industriels étaient enfouis, sur le site Rieter, le long de la berge du ru de la Crapaudière.	'des déchets industriels'	'le site Rieter'
+1999	12			1999	12			a_été_inondé	Le site a été inondé, par débordements de la rivière "Avelon", en décembre 1999, décembre 2000 et mars 2001.		
+2001	03			2001	03			a_été_inondé	Le site a été inondé, par débordements de la rivière "Avelon", en décembre 1999, décembre 2000 et mars 2001.		
+								réalisées	Selon ces études, réalisées en août et décembre 2003, le site présente des risques inacceptables pour ses occupants, pour les enfants promeneurs sur le chemin rural qui le longe et pour les consommateurs de poissons pêchés dans la rivière, à son aval.		
+2005				2005				a_fait_revêtir	Par ailleurs, durant l'été 2005, en accord avec la Mairie de Lachapelle aux Pots, l’exploitant a fait revêtir d'une couverture goudronnée la section polluée du chemin rural qui longe le site.		
+2007	12			2007	12			ont_été_éliminés	Ces déchets, qui contenaient de l'amiante, ont été éliminés dans des filières appropriées en décembre 2007.	'amiante'	
+2009	08	25		2009	08	25		a_été_envoyé	Un rapport demandant la mise en place de servitudes d'utilité publique a été envoyé par l'exploitant à l'inspection des installations classées le 25 août 2009.		
+2006				2006				Ces_travaux_ont_été_effectués	Ces travaux ont été effectués au début de l'année 2006, en particulier les 1461 tonnes de matériaux du massif pollué caractérisé le plus important ont été excavées et traitées dans un centre autorisé à cet effet.		
+2000	12			2000	12			a_été_inondé	Le site a été inondé, par débordements de la rivière "Avelon", en décembre 1999, décembre 2000 et mars 2001.		
+2011	12	20		2011	12	20		a_été_signé	L'arrêté de servitudes d'utilité publique a été signé le 20 décembre 2011.		
+2003	12			2003	12			réalisées	Selon ces études, réalisées en août et décembre 2003, le site présente des risques inacceptables pour ses occupants, pour les enfants promeneurs sur le chemin rural qui le longe et pour les consommateurs de poissons pêchés dans la rivière, à son aval.		
+2000				2000				excavées	L’exploitant a été mis en demeure de justifier de l'élimination des déchets ou terres polluées excavées durant l’année 2000 lors de travaux de terrassement.		
+2006	03	30		2006	03	30		a_découvert	Le 30 mars 2006, la société RIETER a découvert des matériaux pollués lors d'une opération de génie civil sur son site.		'la société RIETER'
+2005				2005				durant_l_	Par ailleurs, durant l'été 2005, en accord avec la Mairie de Lachapelle aux Pots, l’exploitant a fait revêtir d'une couverture goudronnée la section polluée du chemin rural qui longe le site.		

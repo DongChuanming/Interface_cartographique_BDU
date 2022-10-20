@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12			1996	12			furent_démolis	Les bâtiments furent démolis en décembre 1996.		
+1923				1923				installée	-L'usine PAINDAVOINE installée en 1923 sur un terrain de 25 342 m2 était spécialisée dans la construction de charpentes métalliques d'importants matériels de levage (ponts roulants, portiques, grues).		'PAINDAVOINE'
+1967				1967				fut_arrêtée	-L'usine fut arrêtée en février 1965 pour être reconvertie en entrepôts en 1967.		
+1965	02			1965	02			fut_arrêtée	-L'usine fut arrêtée en février 1965 pour être reconvertie en entrepôts en 1967.		

@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	11			2006	11			les_deux_campagnes	Entre les deux campagnes de mai et novembre 2006, les analyses révèlent:		
+2005	10			2005	10			La_campagne_d_	La campagne d'octobre 2005 révèle un impact dans les eaux souterraines par les hydrocarbures.	'hydrocarbures'	
+2007	12			2007	12			La_campagne_de	La campagne de décembre 2007 montre que la tendance à la diminution des concentrations en HCTX et BTEX se poursuit par rapport aux campagnes précédentes.	'HCTX', 'BTEX'	
+2002				2002				ont_été_démantelées	Les installations ont été démantelées en 2002.		
+2005	06	10		2005	06	10		justifie	Par note du 10 juin 2005, le bureau d'études LISEC justifie et confirme le choix de dépollution.		'LISEC'
+2004	06			2004	06			Le_traitement	Le traitement des sols et des eaux par air stripping est réalisé de mai 2003 à juin 2004.		
+2009	11			2009	11			La_campagne_de	La campagne de novembre 2009 montre que les teneurs en BTEX sont inférieures aux limites de quantification du laboratoire (0,5 µg/l), à l'exception du benzène mesuré en PZ2 (2,6 µg/l).	'BTEX', 'benzène', 'PZ2'	
+2003	05			2003	05			Le_traitement	Le traitement des sols et des eaux par air stripping est réalisé de mai 2003 à juin 2004.		
+2002				2002				identifiées	2- les traces d'hydrocarbures relevées au droit du PZ2 sont certainement celles identifiées en 2002 (il n'y pas eu d'activité sur le site depuis).	"les traces d'", 'hydrocarbures'	
+2006	02	27		2006	02	27		fait_parvenir	Par courrier du 27 février 2006, la Mairie de la Teste de Buch fait parvenir à l'Inspection des Installations Classées le projet de réaménagement de l'ancienne station service.		'la Mairie', 'la Teste'
+2010	06			2010	06			La_campagne_de	La campagne de juin 2010 montre des concentrations en hydrocarbures totaux de 200 µg/l en PZ1 et de 60 µg/l en PZ2 et PZ3 et demeurent inférieures aux valeurs limites définies pour les eaux brutes de toutes origines.	'hydrocarbures totaux', 'PZ1', 'PZ2', 'PZ3'	
+2005	07	07		2005	07	07		prend_acte	Le 7 juillet 2005, le Sous-Préfet d'Arcachon prend acte de la cessation d'activité.		"le Sous-Préfet d' Arcachon"
+2005	03	09		2005	03	09		fait_réaliser	A la suite des travaux de dépollution des sols et de la nappe effectués par LISEC en 2003 et 2004 (stripping air), l'exploitant fait réaliser une Évaluation Détaillée des Risques (EDR) le 20 octobre 2004 qu'il remet le 9 mars 2005 à l'Inspection des Installations Classées.		
+2002	12			2002	12			Une_Évaluation_Simplifiée_des_Risques	Une Évaluation Simplifiée des Risques du site est réalisée par ATE Geoclean à l'initiative de l'exploitant en décembre 2002.		'ATE Geoclean'
+2010	12			2010	12			La_campagne_de	La campagne de décembre 2010 a porté uniquement sur PZ1 et PZ2, le PZ3 ayant été vandalisé.		'PZ3'
+2005	11	08		2005	11	08		sont_installés	Les piézomètres sont installés conformément aux prescriptions de l'arrêté préfectoral du 8 novembre 2005.		
+								les_deux_campagnes	Entre les deux campagnes de mai et novembre 2006, les analyses révèlent:		
+1997	05	22		1997	05	22		a_été_autorisée_par_récépissé	Cette installation a été autorisée par récépissé du 22 mai 1997.		
+2006	05			2006	05			La_campagne_de	La campagne de mai 2006 montre une forte diminution de la concentration en hydrocarbures au droit du PZ1 ainsi qu'une forte augmentation de la teneur en hydrocarbures, en benzène et en xylènes au droit de PZ2.	'hydrocarbures', 'hydrocarbures', 'benzène', 'xylènes'	
+2004	10	20		2004	10	20		une_Évaluation_Détaillée_des_Risques	A la suite des travaux de dépollution des sols et de la nappe effectués par LISEC en 2003 et 2004 (stripping air), l'exploitant fait réaliser une Évaluation Détaillée des Risques (EDR) le 20 octobre 2004 qu'il remet le 9 mars 2005 à l'Inspection des Installations Classées.		
+2008	06			2008	06			La_campagne	La campagne de juin 2008 montre que des impacts sont toujours constatés sur les échantillons.		
+2007	06			2007	06			La_campagne	La campagne de juin 2007 fait état d’une augmentation de la concentration en hydrocarbures lourds (C10-40)sur le piézomètre PZ1 et en BTEX sur le piézomètre PZ2 et d'une odeur d'hydrogène sulfuré.	'hydrocarbures lourds', 'C10 -', 'BTEX', 'hydrogène sulfuré'	
+2002	10			2002	10			ont_été_démantelées	Les installations ont été démantelées en octobre 2002.		
+2005	05	03		2005	05	03		déclare_la_cessation_d__activité	L'exploitant déclare la cessation d'activité le 3 mai 2005 et s'engage à remettre le site en état.		

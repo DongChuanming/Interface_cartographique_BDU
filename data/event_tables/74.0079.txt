@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	12		2007	10	12		Une_visite_de_récolement	Une visite de récolement du 12 octobre 2007 par l'inspection des installations classées a permis de constater que les travaux de réhabilitation ont été réalisés :		
+1970				1998				a_été_exploitée	Elle a été exploitée, sans autorisation, de 1970 jusqu'à 1998 et réhabilitée entre 2003 et 2007.		
+2003				2007				a_été_exploitée	Elle a été exploitée, sans autorisation, de 1970 jusqu'à 1998 et réhabilitée entre 2003 et 2007.		
+2001	12			2001	12			un_rapport_d__étude	Le site a fait l'objet d'un rapport d'étude du cabinet GEO ARVE, finalisé en décembre 2001, ayant pour objet de faire l'historique du site, caractériser le milieu et les pollutions engendrées, et définir les mesures de réaménagement.		'GEO ARVE'
+2003				2007				et_réhabilitée	Elle a été exploitée, sans autorisation, de 1970 jusqu'à 1998 et réhabilitée entre 2003 et 2007.		
+2003	11			2003	11			a_réalisé	GEOS INGENIEURS CONSEILS SA a réalisé un dossier d'Avant-Projet de réhabilitation en novembre 2003, en tenant compte des remarques de l'inspection des installations classées.		'GEOS INGENIEURS CONSEILS SA'

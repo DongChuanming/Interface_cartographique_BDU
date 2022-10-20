@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	02			2011	02			renversement_de_transformateurs	Suite au renversement de transformateurs lors d'une effraction sur le site en février 2011,  des huiles contaminées aux PCB ont été déversées sur le sol.	'aux PCB'	
+2011	02			2011	02			d__un_acte	Lors d'un acte de malveillance survenu en février 2011, trois transformateurs contenant des PCB en teneur supérieure à 50 ppm ont été ouverts et le contenu des transformateurs a été renversé en dehors de la rétention prévue à cet effet.	'PCB'	
+2011	02			2011	02			ont_été_ouverts	Lors d'un acte de malveillance survenu en février 2011, trois transformateurs contenant des PCB en teneur supérieure à 50 ppm ont été ouverts et le contenu des transformateurs a été renversé en dehors de la rétention prévue à cet effet.	'PCB'	

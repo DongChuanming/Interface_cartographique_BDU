@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								rachètera	La société TISSAVEL rachètera les 2 sites au cours des années 60; l'ancien site DUFOUR est rasé et des bâtiments industriels sont construits.		'La société TISSAVEL', 'DUFOUR'
+2017	03	24		2017	03	24		La_cessation_définitive_d__activité	La cessation définitive d'activité est notifiée le 24/03/2017.		
+2018	08	03		2018	08	03		La_mise_à_jour	La mise à jour des mesures de gestion suite à la réalisation d'investigations supplémentaires afin de circonscrire la zone à traiter est transmise lors de la visite du site le 03/08/2018.		
+2016	10	07		2016	10	07		est_remis	Un mémoire de cessation d'activité pour un usage industriel est remis le 07/10/2016.		
+1996				1996				l__exploitation	En 1996, la société FRANCODIM débute l'exploitation de l'entrepôt pour le stockage d'ameublement.		'la société FRANCODIM'
+2017	12	05		2017	12	05		est_remis	Un mémoire complété pour un usage d'habitat est remis le 05/12/2017.		

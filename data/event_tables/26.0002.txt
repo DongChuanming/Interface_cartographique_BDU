@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02	17		1998	02	17		ont_été_imposées	Les conditions de surveillance de la nappe ont été imposées par arrêté préfectoral du 17/02/1998.		
+2001	11	23		2001	11	23		la_campagne	Après une remontée significative des concentrations en tétrachloroéthylène en 1999 et 2000, les résultats de la campagne du 23/11/2001 montrent une baisse des concentrations malgré une pluviométrie encore importante.	'tétrachloroéthylène'	
+2006				2006				la_remontée_des_concentrations_mesurées	Les résultats des campagnes depuis cette date ont montré qu'en 2006, la remontée des concentrations mesurées n'était finalement qu'un relargage ponctuel lié aux précipitations de septembre et octobre 2006.		
+2005	11			2005	11			la_campagne_de	Le rapport de surveillance transmis, sur les résultats de la campagne de novembre 2005 mentionne un retour des concentrations au niveau des concentrations mesurées avant 2000 et dans tous les cas inférieures au seuil de potabilité.		
+2006	11			2006	11			la_campagne	Le rapport de surveillance transmis concernant les résultats de la campagne de novembre 2006 montre une concentration en tetrachloroéthylène inférieure au seuil de potabilité sur l'ancien puits AEP d'Erome mais un accroissement de cette concentration sur le puits de SARMA à SERVES (42 µg/l).	'tetrachloroéthylène'	'SARMA'
+2012	11			2012	11			la_campagne	Pourtant, il faut noter que le niveau d'eau dans la nappe n'a pas été aussi haut que lors de la campagne de novembre 2012, depuis 2000.		
+2000				2000				une_remontée	Après une remontée significative des concentrations en tétrachloroéthylène en 1999 et 2000, les résultats de la campagne du 23/11/2001 montrent une baisse des concentrations malgré une pluviométrie encore importante.	'tétrachloroéthylène'	
+1992	12	20		1992	12	20		L__étude_de_sols	L'étude de sols a été transmise à l'administration le 20 décembre 1992.		
+2000				2000				n__a_pas_été_aussi_haut	Pourtant, il faut noter que le niveau d'eau dans la nappe n'a pas été aussi haut que lors de la campagne de novembre 2012, depuis 2000.		
+2006				2006				plus_haut_qu_	La nappe est ainsi remontée bien plus haut qu'en 2006, date du dernier relargage ponctuel observé, sans que les concentrations relevées n'aient augmenté.		
+1992				1992				a_été_détectée	La pollution a été détectée en 1992, suite à des analyses sur le captage d'eaux potable du forage d'EROME, situé au sud de l'usine.		"d' EROME"
+1999				1999				une_remontée	Après une remontée significative des concentrations en tétrachloroéthylène en 1999 et 2000, les résultats de la campagne du 23/11/2001 montrent une baisse des concentrations malgré une pluviométrie encore importante.	'tétrachloroéthylène'	
+2012	11			2012	11			n__a_pas_été_aussi_haut	Pourtant, il faut noter que le niveau d'eau dans la nappe n'a pas été aussi haut que lors de la campagne de novembre 2012, depuis 2000.		
+2000				2000				les_campagnes	La tendance à la hausse mise en évidence sur les campagnes de 1999 et 2000 n'est pas confirmée.		
+1999				1999				les_campagnes	La tendance à la hausse mise en évidence sur les campagnes de 1999 et 2000 n'est pas confirmée.		
+2001				2004				Les_analyses_réalisées	Les analyses réalisées entre 2001 et 2004 ont montré :		
+								précipitations	Les résultats des campagnes depuis cette date ont montré qu'en 2006, la remontée des concentrations mesurées n'était finalement qu'un relargage ponctuel lié aux précipitations de septembre et octobre 2006.		
+2006	10			2006	10			précipitations	Les résultats des campagnes depuis cette date ont montré qu'en 2006, la remontée des concentrations mesurées n'était finalement qu'un relargage ponctuel lié aux précipitations de septembre et octobre 2006.		

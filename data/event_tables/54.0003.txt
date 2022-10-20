@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_proposé	Au cours de l'année 2009, le site UFP a été proposé par l'inspection des installations classées de la DRIRE,		'site UFP', 'la DRIRE'
+1993				1993				L__intervention	L'intervention de l'ADEME a débuté en 1993 par la décontamination d'un wagon contenant plus de 38 tonnes d'huiles usagées contaminées par des PCB ainsi que l'élimination de ces dernières vers une installation de traitement réglementée.	'huiles usagées', 'des PCB'	
+2012				2012				Le_diagnostic_approfondi_de	Le diagnostic approfondi de pollution des sols a été réalisé au cours de l'année 2012.		
+								a_été_impacté_par	Le site a été impacté par un incendie au début des années 1988, il a été mis à l'arrêt puis autorisé à fonctionner à nouveau par l'arrêté préfectoral du 13 juillet 1990.		
+2010	08			2010	08			a_ensuite_fait_part	Le ministère a ensuite fait part, en avril 2010 et août 2010, de son accord pour le financement de l'ensemble		
+1997	03	06		1997	03	06		prescrit	Le 6 mars 1997, un arrêté préfectoral prescrit la remise en état du site.		
+2010	04			2010	04			a_ensuite_fait_part	Le ministère a ensuite fait part, en avril 2010 et août 2010, de son accord pour le financement de l'ensemble		
+								a_exercé_à_DIEULOUARD	Depuis le début des années 50, la société Union Française des Pétroliers UFP a exercé à DIEULOUARD (54) une activité de régénération d'huiles noirs.		'la société Union Française des Pétroliers UFP'
+1995				1995				a_constaté	En 1995, le maire a constaté que 300 litres d'huile usagée s'étaient répandus sur le sol, les caniveaux intérieurs étaient remplis d'huile et le ruisseau de la Bouillante avait été pollué.	'huile', 'huile'	
+2006				2006				a_sollicité	En 2006, la DRIRE de Lorraine a sollicité le BRGM, dans le cadre de sa mission d’appui technique aux		'la DRIRE', 'de Lorraine', 'le BRGM'
+2008				2008				a_missionnée	Au vu de l’ensemble des constats du rapport du BRGM, l’ADEME a missionnée en 2008, la Société LECES		'BRGM'
+2011				2011				ont_donc_été_démolies	Au cours du deuxième semestre 2011, les superstructures ont donc été démolies et le site a été entièrement		
+1992	11			1992	11			a_été_placé_en_liquidation_judiciaire	En novembre 1992, le site a été placé en liquidation judiciaire.		

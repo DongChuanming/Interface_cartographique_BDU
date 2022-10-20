@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1998				est_installé	En ce qui concerne les eaux souterraines, un réseau de 13 piézomètres est installé entre 1996 et 1998.		
+2006	08			2006	08			La_mise_en_conformité	La mise en conformité de l’usine par rapport à l’arrêté ministériel du 20/09/2002 s’est achevée en août 2006 et a représenté au total un investissement de 25 M d’euros (dont 14 M d’euros pour le traitement des fumées).		
+2002	09	20		2002	09	20		a_modifié	L’arrêté préfectoral complémentaire du 16 mai 2011 a mis à jour le tableau de classement du site au regard des modifications intervenues dans la nomenclature des installations classées et a ajouté des prescriptions issues de l’arrêté ministériel du 3 août 2010 lequel a modifié l’arrêté du 20/09/2002.		
+2014				2014				a_imposé	En 2014, l’arrêté préfectoral complémentaire du 25 juillet 2014 a imposé la constitution de garanties financières, mis à jour le classement de l’installation et autorisé le traitement des boues de station d’épuration.		
+2002				2002				a_traité	En 2002, l'usine de Bayet a traité près de 52000t de déchets répartis en 35000t d'ordures, 4800t de déchets industriles banals, 7000t de farine de viande et 5000t de déchets à risques infectieux.	'infectieux'	
+1982				1982				exploite	Depuis 1982, il exploite un premier four d'incinération d'ordures ménagères de 4t/h, complété en 1988 par un second four de 5t/h de capacité.		
+1978				1978				exploite	Le SICTOM Sud Allier de Bayet exploite depuis 1978 une unité d'incinération de déchets.		'Le SICTOM Sud Allier'

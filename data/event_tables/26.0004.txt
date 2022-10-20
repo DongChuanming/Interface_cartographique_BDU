@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	18		2004	10	18		L__analyse	L'analyse du 18/10/2004 met en évidence l'absence de solvant dans le puits de surveillance.		
+1991				1991				a_été_détectée	La pollution a été détectée en 1991 par analyse de l'eau de distribution de VALENCE.		
+1999				1999				disparaître	Néanmoins, la surveillance annuelle de la nappe prescrite par arrêté préfectoral du 30/04/96 a vu les concentrations en solvant s'abaisser d'année en année pour disparaître en 1998 et 1999.		
+1998				1998				disparaître	Néanmoins, la surveillance annuelle de la nappe prescrite par arrêté préfectoral du 30/04/96 a vu les concentrations en solvant s'abaisser d'année en année pour disparaître en 1998 et 1999.		
+2007	03	14		2007	03	14		a_reçu	Cette proposition a reçu un avis favorable du CODERST le 14/03/2007.		'du CODERST'
+2011	07			2011	07			un_diagnostic_de_pollution	En outre un diagnostic de pollution a été réalisé en 07/2011 dans le cadre d'un projet de changement de propriété.		

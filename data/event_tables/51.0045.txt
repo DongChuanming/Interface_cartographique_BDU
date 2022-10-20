@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	19		2005	01	19		a_été_signé	Cet arrêté a été signé le 19 janvier 2005, de ce fait, le réseau de surveillance est désormais constitué de 6 points de prélèvements (au niveau de 4 piézomètres, de l'étang situé en aval du site, du ruisseau situé en amont).		
+2003	11			2003	11			a_été_remise	La phase B a été remise en novembre 2003.		
+2002	02	25		2002	02	25		a_été_déposé	Cet acte de cautionnement a été déposé le 25 février 2002.		
+2002	02	04		2002	02	04		a_été_signé	L'arrêté a été signé le 4 février 2002.		
+2004	01	22		2004	01	22		Une_visite	Une visite du site s'est déroulée le 22 janvier 2004.		

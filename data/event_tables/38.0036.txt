@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1922				1922				a_ensuite_été_rachetée	Elle a ensuite été rachetée par les ACIERIES ELECTRIQUES d’UGINE en 1922, est devenue UGINE KUHLMANN en 1966, ELF ATOCHEM en 1983 et ATOFINA en 2000.		'les ACIERIES ELECTRIQUES d’ UGINE', 'UGINE KUHLMANN', 'ELF ATOCHEM', 'ATOFINA'
+								Un_chantier_pilote	Un chantier pilote réalisé pendant 2 ans à Jarrie n’a pas permis de descendre à une teneur résiduelle inférieure à 200 ppm (teneur initiale de l’ordre de 2000 ppm).		
+1916				1916				a_été_créée	L’usine a été créée en 1916 pour la fabrication de chlore.	'chlore'	
+2017	11	22		2017	11	22		a_été_pris	un arrêté préfectoral a été pris en date du 22 novembre 2017.		
+2017	04			2017	04			a_été_demandé	En particulier, un bilan massique a été demandé par l'inspection, conformément à la méthodologie nationale de gestion des sites et sols pollués d'avril 2017.		
+2018	04	30		2018	04	30		renforcement	- renforcement de la barrière hydraulique permettant la fixation du panache mercuriel par mise en fonctionnement d’un puits de pompage supplémentaire (délai = 30 avril 2018).	'mercuriel'	
+2000				2000				a_ensuite_été_rachetée	Elle a ensuite été rachetée par les ACIERIES ELECTRIQUES d’UGINE en 1922, est devenue UGINE KUHLMANN en 1966, ELF ATOCHEM en 1983 et ATOFINA en 2000.		'les ACIERIES ELECTRIQUES d’ UGINE', 'UGINE KUHLMANN', 'ELF ATOCHEM', 'ATOFINA'
+2018				2018				a_été_foré	Le puits a été foré au printemps 2018 (A10-3).		
+1976				1976				est_imposé	C’est la raison pour laquelle il est imposé depuis 1976 par arrêté préfectoral à la société ARKEMA de prélever dans la nappe par des pompages industriels un débit permanent de 1m3/s afin de maintenir un confinement hydraulique empêchant toute pollution de dériver vers les captages.		'la société ARKEMA'
+2018	08			2018	08			une_inspection	- enfin, étanchéification du canal usinier par busage, afin de limiter le risque d'infiltration de chlorates/perchlorates dans les eaux souterraines: cette action a été réalisée par Arkema et constatée au cours d'une inspection en août 2018.	'chlorates', 'perchlorates'	'Arkema'
+2018				2018				ont_été_accomplis	Ces plans d'actions ont été accomplis au cours du premier semestre de l'année 2018.		
+2015				2015				a_été_finalisée	L’étude, réalisée par le BRGM, a été finalisée en 2015.		'le BRGM'
+2018	08			2018	08			a_été_réalisée	- enfin, étanchéification du canal usinier par busage, afin de limiter le risque d'infiltration de chlorates/perchlorates dans les eaux souterraines: cette action a été réalisée par Arkema et constatée au cours d'une inspection en août 2018.	'chlorates', 'perchlorates'	'Arkema'
+2007	06	29		2007	06	29		La_réalisation_d__un_plan_de_gestion	La réalisation d’un plan de gestion des terres polluées au mercure des terrains anciennement occupés par l’atelier Jarrie 1, arrêté en 1986, a été prescrite à Arkema par AP du 29 juin 2007, une étude des sols étant tout d’abord attendue sur cette zone au 30 décembre 2008.	'mercure'	'Arkema'
+2010				2010				une_étude_hydrogéologique_approfondie	Entre 2010, une étude hydrogéologique approfondie a été lancée, cette étude ayant été identifiée comme un préalable nécessaire a un plan de gestion des pollutions mercurielles efficace.	'mercurielles'	
+2016	12			2016	12			a_été_présenté	Suite à cette étude un plan de gestion, réalisé par le bureau d’études ERM, a été présenté à l’inspection en décembre 2016.		'ERM'

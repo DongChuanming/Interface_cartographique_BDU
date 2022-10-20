@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				a_transmis	Depuis la cessation de ses activités en 2002, l’exploitant a transmis, à l’inspection des installations classées, divers dossiers dont :		
+2005				2005				des_premiers_sondages_de_sols	Après avoir défini les zones potentiellement polluées en 2005, l’exploitant a réalisé, en 2006, des premiers sondages de sols au droit de ces zones avec un maillage assez large.		
+2005				2005				a_réalisé	Après avoir défini les zones potentiellement polluées en 2005, l’exploitant a réalisé, en 2006, des premiers sondages de sols au droit de ces zones avec un maillage assez large.		
+2002				2002				exploitation	- 1924 à 2002, exploitation d'une activité de fonderie, de grenaillage, d'ébarbage et d'émaillerie par la société Invicta.		'la société Invicta'
+2005	09			2005	09			une_évaluation_simplifiée_des_risques	- une évaluation simplifiée des risques (étape A) réalisée par le bureau d’études BUREAU VERITAS en septembre 2005 ;		'BUREAU VERITAS'
+2016	09			2016	09			un_diagnostic_de_pollution	- un diagnostic de pollution des sols réalisé par le bureau d’études ANTEA GROUP en juillet 2012 et transmis à l’inspection des installations classées en septembre 2016.		'ANTEA GROUP'
+2012	07			2012	07			un_diagnostic_de_pollution	- un diagnostic de pollution des sols réalisé par le bureau d’études ANTEA GROUP en juillet 2012 et transmis à l’inspection des installations classées en septembre 2016.		'ANTEA GROUP'
+1890				1890				__mise_en	- en 1890, mise en place d'un petit four de fusion pour la fabrication de pièces en fonte ;		
+2006				2006				des_premiers_sondages_de_sols	Après avoir défini les zones potentiellement polluées en 2005, l’exploitant a réalisé, en 2006, des premiers sondages de sols au droit de ces zones avec un maillage assez large.		
+1850				1884				__création_d_	- de 1850 environ à 1884, création d'une tannerie par les moines en parallèle de l'exploitation agricole ;		
+1884				1884				__installation	- en 1884, installation d'un atelier de fabrication d'appareils de chauffage en tôle d'acier émaillé ;		
+1924				1924				exploitation	- 1924 à 2002, exploitation d'une activité de fonderie, de grenaillage, d'ébarbage et d'émaillerie par la société Invicta.		'la société Invicta'
+2016	10	20		2016	10	20		une_visite_d__inspection	Au regard de l'ensemble de ces éléments, une visite d'inspection du site a été réalisée le 20 octobre 2016.		
+2002				2002				la_cessation_de_ses_activités	Depuis la cessation de ses activités en 2002, l’exploitant a transmis, à l’inspection des installations classées, divers dossiers dont :		
+2012				2012				les_investigations_de_terrains	En 2012, il a complété les investigations de terrains par 20 prélèvements de sols.		

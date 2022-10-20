@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				afin_d__assurer_la_réalisation_des_travaux	Une mise en demeure de la COMMUNAUTE DE COMMUNES DU VERCORS à été prise par le Préfet le 03 Juin 2005 afin d'assurer la réalisation des travaux pendant l'été 2005.		'la COMMUNAUTE DE COMMUNES DU VERCORS', 'le Préfet'
+2002	04			2002	04			a_été_transmise	L'ESR a été transmise à l'administration en avril 2002.		"L' ESR"
+2007	09	26		2007	09	26		avaient_pas_encore_démarré	Le 26/09/2007, les travaux de démolition n'avaient pas encore démarré alors que la commission d'appels d'offre du 08 aout 2007 a désigné les bénéficiaires.		
+2005	06	03		2005	06	03		Une_mise_en_demeure	Une mise en demeure de la COMMUNAUTE DE COMMUNES DU VERCORS à été prise par le Préfet le 03 Juin 2005 afin d'assurer la réalisation des travaux pendant l'été 2005.		'la COMMUNAUTE DE COMMUNES DU VERCORS', 'le Préfet'
+2005	03	08		2005	03	08		les_travaux_n_	Au 08/03/2005, les travaux n'ont pas encore débuté.		
+2013	10	08		2013	10	08		Une_visite	Une visite effectuée le 8 octobre 2013 a permis de constater que la remise en état des lieux avait été réalisée.		

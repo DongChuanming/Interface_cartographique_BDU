@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				la_cessation_définitive_de_ces_activités	Le 22/01/2007, la société SOPREMA a notifié à Monsieur le Préfet du Vaucluse la cessation définitive de ces activités à l'été 2008.		'la société SOPREMA', 'le Préfet du Vaucluse'
+				2009	05			L__enlèvement	L'enlèvement des terres polluées et leur évacuation dans les filières appropriées, ainsi que la remise en état des sols, se sont déroulés entre février et mai 2009.		
+2009	05			2009	05			La_réception_des_travaux_a_été_réalisée	La réception des travaux a été réalisée en mai 2009.		
+				2009	04			Les_opérations_de_démolition	Les opérations de démolition et déconstruction des bâtiments se sont déroulées entre janvier et avril 2009.		
+2009	06			2009	06			a_transmis	La société SOPREMA a transmis son rapport de fin de travaux de démolition et dépollution en juin 2009.		'La société SOPREMA'
+2007	08	24		2007	08	24		Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés conformément à l'arrêté préfectoral du 24/08/2007.		
+2007	01	22		2007	01	22		la_cessation_définitive_de_ces_activités	Le 22/01/2007, la société SOPREMA a notifié à Monsieur le Préfet du Vaucluse la cessation définitive de ces activités à l'été 2008.		'la société SOPREMA', 'le Préfet du Vaucluse'
+1944				1944				a_été_bombardé	Le site industriel a été bombardé en 1944.		

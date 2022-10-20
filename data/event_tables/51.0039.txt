@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	03		2003	06	03		l__évaluation_détaillée_des_risques	La société a transmis le 3 juin 2003, à la préfecture de la Marne, l'évaluation détaillée des risques.		'La société'
+2009	11	02		2009	11	02		Arrêté_de_mise_en_demeure_prescrit	Arrêté de mise en demeure prescrit le 2 novembre 2009, demandant l'avis d'un hydrologue agréé, une surveillance des eaux souterraine ainsi qu'une étude technico-économique visant à supprimer l'ensemble des sources de pollutions.		
+2002	06	10		2002	06	10		a_adressé	Après examen, l'inspection des installations classées a adressé ses commentaires le 10/06/2002.		
+2009	08			2009	08			la_campagne_de_surveillance	Seule la campagne de surveillance des eaux souterraines a été effectué par l'exploitant en juin et août 2009.		
+2002	05	14		2002	05	14		a_transmis	L'exploitant a transmis à l'inspection des installations classées, le 14 mai 2002, le cahier des charges de l'évaluation détaillée des risques.		
+2006				2006				a_transmis	La société a transmis au cours du premier trimestre 2006 ses derniers résultats d'analyses relatifs à la qualité des eaux souterraines.		
+1994	06			1994	06			était_demandée	Une analyse trimestrielle des eaux souterraines était demandée par l'arrêté préfectoral d'autorisation de juin 1994, sans que le trichloréthylène soit listé dans les paramètres à surveiller; depuis le dernier trimestre 1999, il est inclus dans les paramètres à surveiller.	'le trichloréthylène'	
+								la_campagne_de_surveillance	Seule la campagne de surveillance des eaux souterraines a été effectué par l'exploitant en juin et août 2009.		

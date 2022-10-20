@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09			2007	09			analyses_des_prélèvements	Les résultats d'analyses des prélèvements de septembre 2007 montrent la présence croissante, dans les eaux souterraines, d'HAP, de phénols et de chrome total, ce qui nécessitait donc la réalisation d'investigations complémentaires.	'HAP', 'phénols', 'chrome total'	
+2004	09	16		2004	09	16		une_Evaluation_Simplifiée_des_Risques	Le site a fait l'objet d'une Evaluation Simplifiée des Risques (ESR), cette étude a été remise à l'inspection le 16 septembre 2004.		
+2004	09	16		2004	09	16		cette_étude_a_été_remise	Le site a fait l'objet d'une Evaluation Simplifiée des Risques (ESR), cette étude a été remise à l'inspection le 16 septembre 2004.		
+1932				1932				est_pratiquée	Cette activité est pratiquée sur ce site depuis 1932 et est soumise à autorisation au titre de la législation sur les installations classées pour la protection de l'environnement (ICPE).		

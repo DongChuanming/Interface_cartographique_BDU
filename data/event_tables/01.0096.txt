@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06			2012	06			reprend	Le propriétaire des locaux reprend l'activité à son compte fin juin 2012 et demande un diagnostic de qualité environnementale du terrain et des locaux avant le départ de son locataire.		
+2012	07			2012	07			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont débuté en juillet 2012 par l'enlèvement des cuves enterrées puis le démantèlement du poste de distribution et des dalles béton.		
+1977				1977				exploite	La société Logidis Comptoirs Modernes exploite depuis 1977 une plateforme logistique comprenant une installation de distribution de carburants pour les poids-lourds de la société.	'carburants'	'La société Logidis Comptoirs Modernes'
+2012	09			2012	09			Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont terminés fin septembre 2012 par un remblaiement à l'aide de granulats 0-100 et la réfection des trottoirs, des voies de circulation et des espaces verts.		

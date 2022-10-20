@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07	28		2004	07	28		une_Évaluation_Simplifiée_des_Risques	Compte tenu de la nature des activités exercées par le passé, une Évaluation Simplifiée des Risques a été fournie par l'exploitant le 28 juillet 2004.		
+								a_prescrit_ce_diagnostic	L'arrêté du 26 juillet 2005 a prescrit ce diagnostic à échéance de 3 mois.		
+2009				2009				est_devenu_propriétaire	La Communauté Urbaine de Bordeaux (CUB) est devenu propriétaire du terrain concerné depuis 2009.		'La Communauté Urbaine de Bordeaux', 'CUB'
+1994	01	22		1994	01	22		étaient_réglementées	Les installations étaient réglementées par les arrêtés des 9 février 1959, 24 avril 1951, 24 avril 1991 et 22 janvier 1994.		
+1991	04	24		1991	04	24		étaient_réglementées	Les installations étaient réglementées par les arrêtés des 9 février 1959, 24 avril 1951, 24 avril 1991 et 22 janvier 1994.		

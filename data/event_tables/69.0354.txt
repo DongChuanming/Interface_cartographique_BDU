@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	09	21		2012	09	21		ont_été_réalisés	9 sondages complémentaires (SC1 à SV9) ont été réalisés le 21/09/2012.		
+2012	10			2012	10			Les_travaux_ont_début	Les travaux ont début courant octobre 2012.		
+2012	01	12		2012	01	12		17_sondages_de_sol	17 sondages de sol ont été réalisé le 12/01/2012 (S1 à S16 et T1).		
+2012	10	30		2012	10	30		a_transmis	Par courriers du 29/10/2012 et 30/10/2012, la société DANFOSS COMMERCIAL COMPRESSORS a transmis à la Préfecture les bordereaux de suivi des déchets suite au démantèlement des installations et l'évacuation des déchets sur le site.		'la société DANFOSS COMMERCIAL COMPRESSORS', 'la Préfecture'
+2012	10	29		2012	10	29		a_transmis	Par courriers du 29/10/2012 et 30/10/2012, la société DANFOSS COMMERCIAL COMPRESSORS a transmis à la Préfecture les bordereaux de suivi des déchets suite au démantèlement des installations et l'évacuation des déchets sur le site.		'la société DANFOSS COMMERCIAL COMPRESSORS', 'la Préfecture'
+2012	10	28		2012	10	28		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 28/10/2012 afin de vérifier les mesures de sécurité prises et le travaux de dépollution effectués.		
+2012	11	14		2012	11	14		a_été_établi	Le rapport de fin de travaux a été établi le 14/11/2012.		
+2012	04	25		2012	04	25		a_été_transmis	Le mémoire de cessation d'activité a été transmis à la Préfecture le 25/04/2012.		'la Préfecture'
+2007	03	28		2007	03	28		est_autorisée_à_exploiter	la société DANFOSS COMMERCIAL COMPRESSORS est autorisée à exploiter une activité de fabrication de compresseurs par arrêtés préfectoraux du 23/04/1993 et 19/07/2001, complétés par un arrêté complémentaire en date du 28/03/2007.		'la société DANFOSS COMMERCIAL COMPRESSORS'

@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	08	1		2006	08	1		s__engage_à_faire_appel	Le 1er/08/2006, en mairie de Martignas sur Jalles, l'exploitant s'engage à faire appel à un prestatire extérieur pour contrôler la bonne exécution de travaux de couverture dont le rapport doit être rendu pour le 30 septembre 2006.		
+2003	01			2003	01			L__étude	L'étude de janvier 2003 confirme les mesures prescrites par l'arrêté du 27/03/1995.		
+2011	07	07		2011	07	07		PV_de_récolement	PV de récolement du 07/07/2011 :		
+2004	04			2004	04			la_campagne	Les analyses des ruisseaux et des eaux souterraines de la campagne  de juin 2003 et d'avril 2004 révèlent un impact variable mais certain et pérenne de cette décharge.		
+				2005	03	03		Visites_d__inspection	Visites d'inspection des 12/11/2001, 03/03/2005 : inexécution des prescriptions, mise en demeure du 02/05/2002 et consignation de 800 000 € du 23/07/2003.		
+2007				2007				démarrage_prévu	Le projet est conforme aux objectifs des arrêtés des 27/05/1995 et 02/02/2002 (démarrage prévu fin printemps 2007).		
+2002				2002				s__est_très_nettement_améliorée	- Les résultats d’analyses de la nappe du 20/08/2008 sur les cinq piézomètres montrent que la qualité des eaux s’est très nettement améliorée depuis 2002.		
+2008	12	10		2008	12	10		PV_de_récolement	PV de récolement du 10/12/2008 :		
+2011	05	19		2011	05	19		a_été_faite	La demande a été faite par l’inspecteur à BCCD par courrier du 19 mai 2011.		'BCCD'
+2003	06			2003	06			la_campagne	Les analyses des ruisseaux et des eaux souterraines de la campagne  de juin 2003 et d'avril 2004 révèlent un impact variable mais certain et pérenne de cette décharge.		
+2009	12	17		2009	12	17		PV_de_récolement	PV de récolement du 17/12/2009 :		
+2001	11	12		2001	11	12		Visites_d__inspection	Visites d'inspection des 12/11/2001, 03/03/2005 : inexécution des prescriptions, mise en demeure du 02/05/2002 et consignation de 800 000 € du 23/07/2003.		
+								La_réunion	La réunion de la Commission Locale D’information et de surveillance (CLIS), pour les deux décharges ONYX et ABCCD, est programmée pour septembre ou octobre 2011.		'ONYX', 'ABCCD'
+2006	06	28		2006	06	28		d__importants_travaux_de_terrassement_sont_réalisés	le 28/06/2006 : d’importants travaux de terrassement sont réalisés, notamment sur le talus Ouest et sur le dôme.		
+2002	07	04		2002	07	04		rejeteé	Par jugement du 4 juillet 2002, le Tribunal Administratif de Bordeaux rejeteé la requête de la société ABCCD visant à la suspension provisoire d'exécution de l'arrêté du 2 mai 2002 prescrivant la mise en sécurité et la réhabilitation de la décharge.		'le Tribunal Administratif de Bordeaux', 'la société ABCCD'
+1995	12	31		1995	12	31		prévoyait_la_fin_d__exploitation	L'article 21 du dit arrêté prévoyait la fin d'exploitation au 31 décembre 1995.		
+2006	12	06		2006	12	06		est_remise	L'étude de faisabilité réalisée par ANTEA, est remise le 06 décembre 2006.		'ANTEA'
+2011	10			2011	10			La_réunion	La réunion de la Commission Locale D’information et de surveillance (CLIS), pour les deux décharges ONYX et ABCCD, est programmée pour septembre ou octobre 2011.		'ONYX', 'ABCCD'
+2006	09	30		2006	09	30		s__engage_à_faire_appel	Le 1er/08/2006, en mairie de Martignas sur Jalles, l'exploitant s'engage à faire appel à un prestatire extérieur pour contrôler la bonne exécution de travaux de couverture dont le rapport doit être rendu pour le 30 septembre 2006.		
+2010	03	12		2010	03	12		la_campagne_de_prélèvements_et_d__analyses	- la campagne de prélèvements et d’analyses des eaux souterraines dans les 5 piézomètres nommés PZA, PZB, PZC, PZD et PZ E, et de l’eau de la Jalle aux point nommés J1 et J2 respectivement en amont et en aval de la décharge, a été réalisée le 12 mars 2010,		
+2006	05			2006	05			est_placée_en_redressement_judiciaire	la société ABCCD est placée en redressement judiciaire par le Tribunal de Commerce de Bordeaux depuis mai 2006.		'la société ABCCD', 'le Tribunal de Commerce de Bordeaux'

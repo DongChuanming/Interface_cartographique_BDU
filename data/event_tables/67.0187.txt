@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	23		2007	07	23		est_prescrite	Concernant la qualité des eaux souterraines sur le site, une surveillance est prescrite dans l'AP du 23 juillet 2007.		
+2005	09	21		2005	09	21		AP_complémentaire	L'AP complémentaire du 21 septembre 2005 prescrit un diagnostic de l'état des sols au regard d'une contamination éventuelle en métaux sur le site de la société ALSAFIL à Sélestat.	'métaux'	'la société ALSAFIL'
+1996				1996				a_repris	La société ALSAFIL a repris l'activité de la société MARTEL CATALA sur le site de Sélestat en 1996.		'La société ALSAFIL', 'la société MARTEL CATALA'
+				2006	01	25		ont_été_réalisées	Les analyses ont été réalisées du 23 au 25 janvier 2006.		

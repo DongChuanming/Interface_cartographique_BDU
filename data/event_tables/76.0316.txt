@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								des_travaux_d__extraction	Depuis la fermeture de la station au début des années 90, DMS a réalisé en mai et juin 2003 des travaux d’extraction des installations souterraines :		'DMS'
+1969	02	05		1969	02	05		de_déclaration	Un récépissé de déclaration en date du 5 février 1969 a été délivré à la société SHIPP pour un dépôt de liquide inflammable de 3 réservoirs : 10 m3 (2ème catégorie), 20 m3 (1ère catégorie) et 30 m3 (1ere catégorie).	'dépôt de liquide inflammable'	'la société SHIPP'
+1992				2008				a_été_exploité	Le site a été exploité de 1992 à 2008 par la société SCAPE pour un usage de station de lavage de véhicule.		'la société SCAPE'
+2003	06			2003	06			des_travaux_d__extraction	Depuis la fermeture de la station au début des années 90, DMS a réalisé en mai et juin 2003 des travaux d’extraction des installations souterraines :		'DMS'
+1969				1991				a_eu_lieu	Cette activité a eu lieu de 1969 à 1991.		

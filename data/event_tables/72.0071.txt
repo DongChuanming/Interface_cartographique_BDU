@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								cessation_d__activité	En 2010, les travaux de remis en état du site, pour un usage industriel (non sensible), sont actés par l'état (procès verbal de récolement de cessation d'activité du 17 février).		
+2010				2010				les_travaux_de_remis_en_état_du_site	En 2010, les travaux de remis en état du site, pour un usage industriel (non sensible), sont actés par l'état (procès verbal de récolement de cessation d'activité du 17 février).		
+1994				1994				à	Le site a accueilli une activité de scierie avec stockage de bois et installation de traitement de bois soumis à autorisation à partir de 1994.		
+2004				2004				déclare_en_Préfecture	En 2004, la société BARILLET déclare en Préfecture l'arrêt de ses activités.		'la société BARILLET'
+2013				2013				sont_réalisés	En 2013, une analyse des risques résiduels sont réalisés par l'ancien exploitant propriétaire du site.		
+2006				2009				Le_bilan_quadriennal	Le bilan quadriennal de suivi de la qualité des eaux souterraines réalisé entre 2006 et 2009 montre des teneurs inférieures ou proches des seuils de détection, pour les substances recherchées, au niveau de la nappe.		
+2013				2013				est_classée_en_zone_constructible	En 2013, une grande partie du site est classée en zone constructible pour habitations par le PLU (plan local d'urbanisme) de la commune d'Ecommoy.		
+2004				2004				a_mis_en_évidence	Dans le cadre de la cessation d'activité déclarée en 2004, une étude de diagnostic de pollution des sols et de la nappe a mis en évidence des impacts sur le sol, notamment par une substance de traitement du bois :		
+2004				2004				la_cessation_d__activité_déclarée	Dans le cadre de la cessation d'activité déclarée en 2004, une étude de diagnostic de pollution des sols et de la nappe a mis en évidence des impacts sur le sol, notamment par une substance de traitement du bois :		
+2010				2010				acte	En 2010, le préfet acte la cessation d'activité du site pour un usage futur de type industriel.		'le préfet'

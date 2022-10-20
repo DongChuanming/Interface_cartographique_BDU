@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				__Création	- Ancien site chimique (Création en 1930 par FINALENS, arrêté en 1989) à pollutions multiples.		'par FINALENS'
+1996				1996				terminé	Réaménagement du site par remodèlement et verdissement terminé en 1996.		
+2010	04			2010	04			un_rapport_de_caractérisation	- Réalisation d'un rapport de caractérisation du dépôt impacté par l'acide phosphorique en avril 2010.	'phosphorique'	
+1991				1991				__évaluation_du_site	- Diagnostic - évaluation du site et de son impact réalisé en 1991.		
+2002	12			2002	12			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en décembre 2002.		
+1930				1930				__Création	- Ancien site chimique (Création en 1930 par FINALENS, arrêté en 1989) à pollutions multiples.		'par FINALENS'
+2008	12			2008	12			a_confié_les_travaux_de_démolition	- La société Grande Paroisse a confié les travaux de démolition et de réhabilitation à la société RETIA , à travers un contrat de prestations de maîtrise d'ouvrage délégué, à partir de décembre 2008.		'La société Grande Paroisse', 'la société RETIA'

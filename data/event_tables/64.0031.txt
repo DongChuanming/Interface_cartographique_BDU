@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	24		2002	01	24		engage	Le 24/01/2002, la DRIRE engage l'exploitant à réaliser l'étape B et l'ESR.		'la DRIRE'
+2001				2001				la_déclaration	Depuis 2001, les installations relèvent du régime de la déclaration (récépissé du 12/03/2001).		
+1974				1974				abrite	Ce site abrite l'usine SAT, devenue depuis SAGEM SA, depuis sa création en 1974.		'SAT', 'SAGEM SA'
+1997	07	1		1997	07	1		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral 1er juillet 1997.		
+2001	05	30		2001	05	30		a_a_été_remise	L'étape a a été remise le 30/05/2001.		

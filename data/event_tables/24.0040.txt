@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	15		2005	09	15		informe	Les 2 mai et 15 septembre 2005, l'exploitant informe la DRIRE de la détection d'une pollution des sols par du toluène et de l'acétate de butyle au droit du parc à solvants lors du chantier de remplacement d'une cuve enfouie.	'toluène', 'acétate de butyle'	'la DRIRE'
+2005				2005				prend_l_	En 2005, suite à la découverte de la pollution des sols par le Toluène, l'exploitant prend l'initiative d'excaver les terres polluées.	'Toluène'	
+2006	09	25		2006	09	25		L__étude_hydrogéologique	L'étude hydrogéologique réalisée le 25 septembre 2006 ne permet pas de mettre en évidence l'existence d'une nappe souterraine.		
+2009				2009				des_prélèvements_ont_été_réalisés	En 2009, des prélèvements ont été réalisés pour le suivi de la qualité des gaz du sol.		
+2007				2007				a_réalisé	La société SITA REMEDIATION , mandatée par CHROMADURLIN, a réalisé cette étude courant 2007.		'La société SITA', 'CHROMADURLIN'
+								la_réalisation_du_diagnostic_approfondi	L'arrêté préfectoral du 07/08/2006 prescrit,sous 4 mois, la réalisation du diagnostic approfondi du site pour connaître l'extension de la pollution ainsi que l'évaluation détaillée des risques (EDR).		
+2007	06	11		2007	06	11		L__étude_remise	L'étude remise le 11 juin 2007, confirme la pollution des sols par le Toluène et l'Acétate de Butyle et révèle la présence de traces de BTEX et d'hydrocarbures dans le réseau d'eau potable de l'usine.	'le Toluène', "l' Acétate de Butyle", 'BTEX', "d' hydrocarbures"	
+2005	08			2005	08			Les_travaux_sont_effectués	Les travaux sont effectués au droit des réservoirs de toluène et d'acétate de butyle lors de leur enlèvement en août 2005 : 125 tonnes environ de terres polluées sont évacuées pour subir un traitement biologique sur le centre SEDA à Champteussé sur Baconne (49).	'toluène', 'butyle'	'le centre SEDA'
+								informe	Les 2 mai et 15 septembre 2005, l'exploitant informe la DRIRE de la détection d'une pollution des sols par du toluène et de l'acétate de butyle au droit du parc à solvants lors du chantier de remplacement d'une cuve enfouie.	'toluène', 'acétate de butyle'	'la DRIRE'
+2006				2006				le_traitement_par_venting	Dans ces conditions, il serait nécessaire d'étudier les possibilités techniques et économiques de supprimer ces sources (le traitement par venting a été envisagé par l'exploitant en 2006).		
+1990	12	10		1990	12	10		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 10/12/1990.		
+2003	12	12		2003	12	12		est_déclaré_au_profit	Le 12 décembre 2003, le changement d'exploitant est déclaré au profit de SA DURLIN.		'SA DURLIN'

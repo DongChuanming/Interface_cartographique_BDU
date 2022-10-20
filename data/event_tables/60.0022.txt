@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				ont_cessé	Cette étude a été demandée par arrêté préfectoral du 2 avril 1998.  Les activités ont cessé depuis fin 1998.		
+1960				1998				a_été_exploité	Le site a été exploité entre 1960 et 1998 par différentes sociétés		
+2009	03			2009	03			transmet	En mars 2009, le représentant de la société Valfond (qui a été liquidée en 2007) transmet au préfet des justificatifs de l'exécution partielle des prescriptions de l'arrêté du 04/09/2002 :		'la société Valfond'
+2005	07			2005	07			d__une_réunion	Au cours d'une réunion en juillet 2005, l'exploitant a proposé à l'inspection la mise en sécurité du site par destruction des batiments, la poursuite de la surveillance des eaux souterraines, la remise d'une Evaluation Détaillée des Risques ainsi que les restrictions nécessaires au vu des conclusion de l'étude.		
+2005	03	01		2005	03	01		un_arrêté_de_consignation	Suite au non-respect de cet arrêté, le préfet a signé le 01/03/2005 un arrêté de consignation correspondant au montant des travaux à réaliser.		'le préfet'
+2002	09	04		2002	09	04		ont_été_prescrites	Aussi, des prescriptions complémentaires ont été prescrites par arrêté préfectoral en date du 4 septembre 2002 (surveillance des eaux souterraines et superficielles, scénarios de réhabilitation).		
+2007				2007				a_été_liquidée	En mars 2009, le représentant de la société Valfond (qui a été liquidée en 2007) transmet au préfet des justificatifs de l'exécution partielle des prescriptions de l'arrêté du 04/09/2002 :		'la société Valfond'
+1998	04	02		1998	04	02		Cette_étude_a_été_demandée	Cette étude a été demandée par arrêté préfectoral du 2 avril 1998.  Les activités ont cessé depuis fin 1998.		

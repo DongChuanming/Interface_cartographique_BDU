@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	12	02		2014	12	02		présente	Le 02/12/2014, La société JMJ présente à l'administration son projet d'aménagement de l'ancien site de la scierie du Flamand, qui comporte l'aménagement de 75 lots au maximum destinés à la construction individuelle et d'espaces publics.		'La société JMJ'
+2000	12			2000	12			des_campagnes_de	Cette surveillance n'a pas été réalisée de façon constante  et nous disposons des résultats des campagnes de décembre 2000, novembre 2001 et mai 2003.		
+2010	12	20		2010	12	20		Cette_information	Cette information a été portée à la connaissance de l'Inspection par le Maire de Naujac, le 20/12/2010.		'le Maire'
+1978	08	02		1978	08	02		est_constatée	Le 02/08/1978, une importante pollution est constatée sur 30 km de fossés et de canaux entre Naujac sur Mer et la Gironde, entraînant la mortalité de la totalité de la faune aquatique sur les communes de Naujac, St Vivien, Vensac et Vendays Montalivet suite à un déversement de PCPNa et de créosote.	'PCPNa', 'créosote'	
+1992				1992				a_cessé	L'activité a cessé en 1992 à la suite du dépôt de bilan et de la liquidation judiciaire de la société exploitante Le Flamand St Isidore.		'Le Flamand St Isidore'
+2001	11			2001	11			des_campagnes_de	Cette surveillance n'a pas été réalisée de façon constante  et nous disposons des résultats des campagnes de décembre 2000, novembre 2001 et mai 2003.		
+1997				1997				que_le_diagnostic_des_terrains_réalisé	Il est  rappelé à l'aménageur que le diagnostic des terrains réalisé en 1997 est ancien, qu'on ne connaissait pas l'usage futur à l'époque , et qu'il serait prudent de compléter ce diagnostic avant le lancement du projet.		
+2003	09	29		2003	09	29		vente_en_l__état_au	Le site a fait l'objet d'un sous-seing de vente en l'état au 29/09/2003 à un investisseur privé.		
+2015	11	24		2015	11	24		__informe	Le 24/11/2015 la SELARL MALMEZAT – PRAT  informe le Préfet que la société JMJ, repreneuse potentielle du site pour en faire un lotissement, ne donne pas suite à son projet (contraintes examen au cas par cas" notamment).		'la SELARL MALMEZAT – PRAT', 'informe le Préfet', 'que la société JMJ'
+2003	05			2003	05			des_campagnes_de	Cette surveillance n'a pas été réalisée de façon constante  et nous disposons des résultats des campagnes de décembre 2000, novembre 2001 et mai 2003.		
+2015	06	12		2015	06	12		a_été_bouché	- le puits n° 4 (162 m dans l'Eocène) a été bouché le 12/06/2015 par l'entreprise FORADOUR,		'FORADOUR'

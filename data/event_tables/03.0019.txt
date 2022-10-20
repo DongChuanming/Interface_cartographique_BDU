@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01	07		2002	01	07		La_fourniture_d__analyses_récentes	La fourniture d'analyses récentes (07/01/2002) a montré que les activités exercées n'ont plus d'impact sur la qualité des eaux souterraines.		
+								a_été_acté	A la suite d'une réunion en préfecture de l'Allier, il a été acté que le procès verbal de récolement qui n'avait pas été délivré en temps voulu le serait à l'issue de la visite de récolement du 07/04/03.		
+2003	03	06		2003	03	06		a_été_signé	Cet arrêté a été signé le 6 mars 2003 par le préfet de l'Allier.		'le préfet'
+1993				1993				quatre_campagnes_de_reconnaissance	Depuis 1993, quatre campagnes de reconnaissance ont été réalisées, elles ont mis en évidence trois types de contamination des sols et sous-sol par les hydrocarbures( pollution des terres, présence de gaz, pollution de la nappe).	'hydrocarbures'	
+				1989				a_fonctionné	Le dépôt d'hydrocarbures d'une capacité de 13000 m3  composé de stockages aériens a fonctionné jusqu'en1989, date de la cessation de l'activité.	'hydrocarbures'	
+2005	02	10		2005	02	10		a_été_signé	Un arrêté préfectoral du 24 mars 2004 a été pris en ce sens et une convention de restriction d'usage au profit de l'Etat a été signé le 10 février 2005.		
+								récolement	A la suite d'une réunion en préfecture de l'Allier, il a été acté que le procès verbal de récolement qui n'avait pas été délivré en temps voulu le serait à l'issue de la visite de récolement du 07/04/03.		

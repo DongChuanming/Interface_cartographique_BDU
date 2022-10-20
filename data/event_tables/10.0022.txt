@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1919				1919				l__activité	Une partie du site a été depuis le début de l'activité de l'usine (1919) utilisée pour la mise en dépôt des sables issus des fonderies bronze et inox.		
+1999				1999				a_été_initié	Le suivi de la qualité des eaux souterraines a été initié par le biais de la demande d'autorisation faie par la société PONS en 1999.		'la société PONS'
+1999	06	08		1999	06	08		est_arrêtée_définitivement	Cette activité est arrêtée définitivement depuis le 08/06/1999.		
+								ont_été_communiquées	Les remarques formulées ont été communiquées à l'exploitant par courrier du 24/12/04.		
+1999	05			1999	05			a_été_défini	Le choix de leur implantation a été défini en fonction de la conclusion du rapport de diagnostic initial de sol de mai 1999.		
+2005				2005				a_été_ajouté	Un 3ème piézomètre PZ3 (en aval) a été ajouté au réseau lors du premier semestre 2005.		
+1999	05			1999	05			rapport_de_diagnostic_initial	Le choix de leur implantation a été défini en fonction de la conclusion du rapport de diagnostic initial de sol de mai 1999.		
+								par_courrier	La mise en place d'une autosurveillance sur le site, à la fois au titre de l'article 65 de l'arrêté ministériel du 02/02/98 modifié (relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation) et au titre de la présence du dépôt de sables de fonderie a été demandée à l'exploitant par courrier du 03/06/02.		
+								Le_diagnostic_initial	Le diagnostic initial correspondant à cette zone a été adressé par courrier du 26/05/99.		
+								un_examen	Celui-ci a fait l'objet d'un examen par l'inspection des installations classées qui a donné suite à un rapport au préfet en date du 28/12/04.		'préfet'
+								donné_suite_à	Celui-ci a fait l'objet d'un examen par l'inspection des installations classées qui a donné suite à un rapport au préfet en date du 28/12/04.		'préfet'

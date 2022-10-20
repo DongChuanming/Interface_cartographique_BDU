@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				Un_écoulement_accidentel	Un écoulement accidentel de 1 000 litres d'hydrocarbures a pollué en 1991 les terrains de l'aire de service de l'autoroute A41 ("Aire des Fontanelles"), sur une surface de 2 500 m2.	'hydrocarbures'	
+2001				2001				Des_dernières_analyses	Des dernières analyses ont été réalisées en 2001 et ne montrent plus d'impact de pollution des sols.		
+1992	12	27		1992	12	27		Une_étude	Une étude d'un hydrogéologue datée du 27 décembre 1992 conclut que le volume d'hydrocarbures (super carburant plombé) perdu dans le sol est minime, que les sondages ont montré que l'essentiel de ces hydrocarbures étaient piégés dans le sous sol, que la migration vers le ruisseau proche était assez limitée et que dans ces conditions ces hydrocarbures seront rapidement dégradés dans le milieu sableux superficiel, et que l'impact sur l'environnement sera faible.	'hydrocarbures', 'super carburant plombé', 'hydrocarbures', 'hydrocarbures'	
+1993				1993				a_cessé	La surveillance a cessé en 1993.		

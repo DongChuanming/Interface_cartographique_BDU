@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988	09			1988	09			d__une_visite	Lors d'une visite en septembre 1988, il est apparu que des produits chimiques (20 bidons de 20 à 200 litres) ainsi que deux transformateurs étaient laissés à l'abandon.	'des produits chimiques'	
+1978				1978				a_été_mise_en_liquidation_judiciaire	Cette société a été mise en liquidation judiciaire en 1978 et la liquidation des biens a été prononcée en 1997.		
+1989				1989				a_poursuivi_les_actions_de_mise_en_sécurité	Avec la disparition de la société CFMD, le complexe minier et industriel est devenu orphelin et l'Etat a poursuivi les actions de mise en sécurité, commencées en 1989.		'la société CFMD'
+2010	09			2010	09			Les_travaux_ont_débuté_en	Les travaux ont débuté en septembre 2010 et ont consisté à:		
+								Exploitée	Exploitée de façon très irrégulière depuis le début du 19éme siècle, cette mine comportait une laverie de minerais.		
+1967				1967				a_cessé_toute_activité	La mine d'antimoine d'Ouche, proche de Massiac, exploitée en dernier lieu par la Compagnie Française des Mines de Dèze (CFMD) a cessé toute activité en 1967.		"d' antimoine d' Ouche", 'la Compagnie Française des Mines de Dèze', 'CFMD'
+2003				2003				en_début_d_	Les déchets ont été évacués en début d'année 2003.		
+2012	04			2012	04			Le_récolement	Le récolement a été réalisé en avril 2012.		
+1997				1997				a_été_prononcée	Cette société a été mise en liquidation judiciaire en 1978 et la liquidation des biens a été prononcée en 1997.		
+1997				1997				a_été_mise_en_liquidation_judiciaire	Cette société a été mise en liquidation judiciaire en 1978 et la liquidation des biens a été prononcée en 1997.		

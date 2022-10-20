@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				mise_en_service	L'installation, mise en service début 2011, utilise des procédés qui consistent à produire un aggloméré de minerai de fer par cuisson d'un mélange de matières premières constitué de minerai de fer, de coke, de castine et d'autres résidus métalliques recyclés.	'coke', 'castine', 'résidus métalliques'	
+								exploitée	Le site est l'ancien carreau de la mine de fer de Saizerais exploitée jusqu'aux années 1980.		
+1999	11			1999	11			la_phase_B	L'étude est rendue, pour la phase A en avril 1999, et pour la phase B en novembre 1999.		
+1960				1960				exploitée	La société SAINT GOBAIN PAM a repris l'installation d'agglomération de minerai exploitée depuis 1960 et contrôlée par PONT A MOUSSON S.		'La société SAINT GOBAIN PAM', 'PONT A MOUSSON S.'

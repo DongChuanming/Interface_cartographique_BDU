@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				créé	L'usage futur du site est clairement défini dans le cadre de la création du Lotissement créé en 2000 et qui a fait l’objet d’une autorisation de lotir de la préfecture des Pyrénées Atlantiques déposée le 16/02/2000.		'la préfecture des Pyrénées'
+2006				2008				s__étaleront	Suite à l'arrêt en 2005 des unités de fractionnement du gaz et de l'unité éthylène, des travaux de démantèlement sont programmés et s'étaleront de 2006 à 2008.	'éthylène'	
+2010	08			2010	08			ont_été_menés	Ces travaux, décrits dans un rapport d'ANTEA en août 2010, ont été menés suivants 3 étapes :		"d' ANTEA"
+2010				2010				Le_diagnostic_ANTEA_de	Le diagnostic ANTEA de déc. 2008 et janv. 2010 montre :		
+				2015	03			Le_diagnostic	Le diagnostic BURGEAP réalisé entre février et mars 2015 met en évidence la présence de :		'BURGEAP'
+1999	02			1999	02			Les_études_remises_par_étapes	Les études remises par étapes en février 1999, novembre 1999 et février 2002, classe le site en 1 "nécessitant des investigations complémentaires " pour les milieux "eaux souterraines" et "eaux superficielles" en ce qui concerne les polluants traceurs hydrocarbures et benzène.	'traceurs hydrocarbures', 'benzène'	
+1951	1949			1951	1949			a_démarré	L’activité industrielle du Lotissement a démarré en 1957, après la découverte de Lacq Supérieur (pétrole) et Lacq Profond (gaz) en 1949/1951.		
+2002	02			2002	02			Les_études_remises_par_étapes	Les études remises par étapes en février 1999, novembre 1999 et février 2002, classe le site en 1 "nécessitant des investigations complémentaires " pour les milieux "eaux souterraines" et "eaux superficielles" en ce qui concerne les polluants traceurs hydrocarbures et benzène.	'traceurs hydrocarbures', 'benzène'	
+2005				2005				a_contraint	En 2005, le déclin des gisements a contraint TEPF à remodeler et à optimiser les unités de traitement de gaz brut et d’huile du Lotissement afin de poursuivre l’exploitation des champs du Sud-Ouest de la France (Lacq - Meillon principalement) dans des conditions techniques et économiques satisfaisantes.		'TEPF', 'Lacq', 'Meillon'
+				2015	01	31		Recompression	2.6 - Pavé 2 Recompression 31/12/2015 - 31/01/2015		
+2000	02	16		2000	02	16		défini	L'usage futur du site est clairement défini dans le cadre de la création du Lotissement créé en 2000 et qui a fait l’objet d’une autorisation de lotir de la préfecture des Pyrénées Atlantiques déposée le 16/02/2000.		'la préfecture des Pyrénées'
+2010	08			2010	08			L__analyse	L'analyse des risques résiduels réalisée en août 2010 par ANTEA à l'issue des travaux de dépollution montre que les travaux de dépollution réalisés sur le lot U permettent d'envisager :		'ANTEA'
+				2015	01	31		Stabilisation	2.7 - Pavé 3 Stabilisation 31/01/2016 - 31/01/2015		
+2005				2005				l__arrêt	Suite à l'arrêt en 2005 des unités de fractionnement du gaz et de l'unité éthylène, des travaux de démantèlement sont programmés et s'étaleront de 2006 à 2008.	'éthylène'	
+2015	12	31		2015	12	31		Recompression	2.6 - Pavé 2 Recompression 31/12/2015 - 31/01/2015		
+2016	01	31		2016	01	31		Stabilisation	2.7 - Pavé 3 Stabilisation 31/01/2016 - 31/01/2015		
+2006				2008				des_travaux_de_démantèlement	Suite à l'arrêt en 2005 des unités de fractionnement du gaz et de l'unité éthylène, des travaux de démantèlement sont programmés et s'étaleront de 2006 à 2008.	'éthylène'	
+2017	09	30		2017	09	30		Traitements	2.8 - Pavé 4 Traitements des gaz Nord : 30/09/2017 - 30/04/2018		
+2000	08			2000	08			L__étude_hydraulique_réalisée	L’étude hydraulique réalisée par la société SOGREAH en août 2000 « Sud de l’Usine de Lacq – Etude hydraulique » a confirmé la situation en zone non inondable de l’usine de Lacq, selon une périodicité de 30 ans.		'la société SOGREAH'
+2004				2004				ont_été_menées	Des investigations complémentaires nécessitant la création de piézomètres supplémentaires ont été menées durant le premier semestre 2004.		
+1976				1976				extension_vers	L’extension vers la partie Sud ne se fait que vers 1976.		
+1957				1957				a_démarré	L’activité industrielle du Lotissement a démarré en 1957, après la découverte de Lacq Supérieur (pétrole) et Lacq Profond (gaz) en 1949/1951.		
+1999	11			1999	11			Les_études_remises_par_étapes	Les études remises par étapes en février 1999, novembre 1999 et février 2002, classe le site en 1 "nécessitant des investigations complémentaires " pour les milieux "eaux souterraines" et "eaux superficielles" en ce qui concerne les polluants traceurs hydrocarbures et benzène.	'traceurs hydrocarbures', 'benzène'	
+				2018	04	30		Traitements	2.8 - Pavé 4 Traitements des gaz Nord : 30/09/2017 - 30/04/2018		
+2008				2008				Le_diagnostic_ANTEA_de	Le diagnostic ANTEA de déc. 2008 et janv. 2010 montre :		
+2003				2003				a_été_remis	Un rapport intermédiaire a été remis fin 2003.		

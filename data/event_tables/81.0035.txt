@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985	01	30		1985	01	30		de_déclaration	· récépissé de déclaration en date du 30 janvier 1985 par laquelle la SARL BORCHERS FRANCE signale avoir succédé à la SARL NUODEX FRANCE dans l'exploitation d'une usine de fabrication de siccatifs pour peintures au lieu-dit " Montbrésil " commune de Castres,	'siccatifs'	'la SARL BORCHERS FRANCE', 'la SARL NUODEX FRANCE'
+1940				1940				a_été_fondée	Cette usine a été fondée en 1940 par la société Dupont de Nemours pour délocaliser en zone libre son activité de fabrication de peintures pour avions, initialement située à Stains en région parisienne.		'la société Dupont', 'de Nemours'
+2003	03			2003	03			Une_étude_de_sols	Une étude de sols et une étude simplifiée des risques ont été réalisées en mars 2003.		
+2004				2004				a_été_prescrit	a été prescrit en 2004.		

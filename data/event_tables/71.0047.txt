@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	04		2006	10	04		a_réalisé_plusieurs_investigations	Pendant l'année 2006 et suite à un arrêté préfectoral complémentaire du 10 mars 2006, la société ESSO SAF a réalisé plusieurs investigations et synthèses des précédents diagnostics avant de réaliser une étude détaillée des risques en date du 4 octobre 2006.		'la société ESSO SAF'
+1969				2008				établie	Le site objet de cette description est une station-service établie entre 1969 et 2008 sur l'aire de Saint-Ambreuil de l'autoroute A6, sens province-Paris.		
+2005	10			2005	10			des_investigations_complémentaires	En octobre 2005, des investigations complémentaires ont été effectuées dont les principaux objectifs étaient de :		
+				2004	04	29		Les_investigations_ont_été_effectuées	Les investigations ont été effectuées du 27 au 29 avril 2004 ; celles-ci consistaient en la réalisation de 13 sondages entre 2 et 8 mètres de profondeur.		
+2006				2006				les_dernières_analyses	- pour la nappe captive (profonde), un impact localisé en hydrocarbures, MTBE et BTEX ; les dernières analyses de 2006 ont montré une nette diminution des teneurs de ces polluants pour tous les piézomètres.	'hydrocarbures', 'MTBE', 'BTEX'	
+2006	10			2006	10			une_étude_détaillée_des_risques	Suite aux conclusions de ces différentes investigations et études environnementales, une étude détaillée des risques a été réalisée en octobre 2006.		
+2007	05	04		2007	05	04		a_informé	Le 4 mai 2007, la société BP France a informé Madame La Préfète de Saône-et-Loire de la cessation d'activité de la station service Ex-ESSO pour le 27 juin 2007.		'la société BP France', 'La Préfète'
+2006				2006				a_réalisé_plusieurs_investigations	Pendant l'année 2006 et suite à un arrêté préfectoral complémentaire du 10 mars 2006, la société ESSO SAF a réalisé plusieurs investigations et synthèses des précédents diagnostics avant de réaliser une étude détaillée des risques en date du 4 octobre 2006.		'la société ESSO SAF'
+2008	09			2008	09			a_été_réalisé	En septembre 2008, le rapport de fin de travaux a été réalisé.		
+2006	03	10		2006	03	10		a_réalisé_plusieurs_investigations	Pendant l'année 2006 et suite à un arrêté préfectoral complémentaire du 10 mars 2006, la société ESSO SAF a réalisé plusieurs investigations et synthèses des précédents diagnostics avant de réaliser une étude détaillée des risques en date du 4 octobre 2006.		'la société ESSO SAF'
+2007				2008				a_été_démantelée	Cette station a été démantelée de 2007 à 2008 après des travaux de dépollution.		
+				2008				s__est_déroulée	La deuxième phase de travaux de dépollution et de remédiation s'est déroulée entre le 7 et le 18 juillet 2008.		
+2007	05	04		2007	05	04		une_déclaration	Par la suite, une déclaration de cessation d'activité a été transmise en Préfecture le 4 mai 2007.		
+2007	11			2008	03			La_première_phase_des_travaux_de_dépollution	La première phase des travaux de dépollution et remédiation du site s'est déroulée entre novembre 2007 et mars 2008.		
+2007				2007				Des_campagnes_de	Des campagnes de suivi de la qualité des eaux souterraines ont eu lieu régulièrement à partir de 2007.		
+2010				2010				la_transmission	Dans le cadre de la démarche de cessation d'activité, l'inspection des installations classées a requis en 2010 la transmission par l'exploitant de :		
+2005	12			2005	12			a_proposé	En décembre 2005, l'inspection des installations classées a proposé un arrêté préfectoral portant prescriptions complémentaires.		
+2006	03	23		2006	03	23		un_changement	Suite à la cessation du Contrat de Concession Autoroutière entre ESSO SAF et APRR (Autoroutes Paris Rhin Rhône), la station-service a fait l'objet d'un changement d'exploitant au profit de la société BP France, suivant récépissé du 23 mars 2006.		'ESSO SAF', 'APRR', 'la société BP France'
+2004	04			2004	04			les_investigations_d_	- caractériser le sous-sol à proximité d'installations pétrolières n'ayant pas été approchées par les investigations d'avril 2004 ;		
+2007	06	27		2007	06	27		a_informé	Le 4 mai 2007, la société BP France a informé Madame La Préfète de Saône-et-Loire de la cessation d'activité de la station service Ex-ESSO pour le 27 juin 2007.		'la société BP France', 'La Préfète'

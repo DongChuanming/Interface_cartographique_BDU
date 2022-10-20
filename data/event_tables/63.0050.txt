@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	03	02		1992	03	02		Un_changement_d__exploitation	Un changement d’exploitation est déclaré le 2 mars 1992, l’activité étant reprise par la Société Thiernoise d’Orfèvrerie.		'la Société Thiernoise'
+2005	09	19		2005	09	19		La_visite	La visite du 19 septembre 2005 a permis de faire le point sur la situation de l'usine.		
+2004	05			2004	05			l__arrêt_de	La cessation d’activité est déclarée le 13/04/2005, mais l’arrêt de la production est effectif en mai 2004.		
+2004	05			2004	05			La_cessation_d__activité	La cessation d’activité est déclarée le 13/04/2005, mais l’arrêt de la production est effectif en mai 2004.		
+2005	04	13		2005	04	13		La_cessation_d__activité	La cessation d’activité est déclarée le 13/04/2005, mais l’arrêt de la production est effectif en mai 2004.		
+1992	03	27		1992	03	27		déclaration	- Un récépissé de déclaration du 27 mars 1992 qui établit la déclaration de transformateurs électriques dont le diélectrique qui contient de polychlorobiphényls.	'transformateurs électriques', 'diélectrique qui contient de', 'polychlorobiphényls'	
+2005	06			2005	06			Une_étude_de_sols_réalisée	Une étude de sols réalisée en juin 2005 par le cabinet BIOBASIC n’a pas mis en évidence de pollution caractérisée, excepté un sondage effectué proche du lieu de stockage d’huiles usagées à l’extérieur des bâtiments.	'stockage d’ huiles'	'BIOBASIC'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	23		2008	06	23		va_remplacer	La mairie informe également que le SIAEP va remplacer la canalisation d'eau potable le 23/06/2008		'le SIAEP'
+2009	07	15		2009	07	15		Ils_sont_finalement_remis	Ils sont finalement remis le 15/07/2009 et ne montrent aucune anomalie.		
+2003	10	26		2003	10	26		informe	Le 26/10/2003, l'exploitant informe la DRIRE qu'une tuyauterie d'aspiration d'essence sans plomb 95 fuyarde a été remplacée.	'essence sans plomb 95'	'la DRIRE'
+2009	06	09		2009	06	09		propose_de_faire_réaliser_une_étude	Le 09/06/2009, la DRIRE propose de faire réaliser une étude de l'état de contamination des milieux dans l'objectif de la mise en oeuvre éventuelle des mesures de gestion adaptées.		'la DRIRE'
+								enterrés	L'arrêté du 26 août 2003 met l'exploitant en demeure de faire procéder au contrôle d'étanchéité des réservoirs enterrés sous 3 mois.		
+2010	01	08		2010	01	08		est_proposé	Le projet d'arrêté préfectoral est proposé le 08/01/2010.		
+2009	04	23		2009	04	23		est_délivré	Le récépissé de déclaration est délivré le 23/04/2009 au profit de Patrick Jacques LAXALDE.		
+2003	06	19		2003	06	19		informe	Le 19 juin 2003, la mairie de BOUCAU informe la DRIRE de la découverte d'une pollution des sols par des hydrocarbures au droit du 3 rue Raoul Bramarie à Boucau.	'hydrocarbures'	'la mairie de BOUCAU', 'la DRIRE'
+2008	06	06		2008	06	06		informe_à_nouveau	Le 06/06/2008, la municipalité de Boucau informe à nouveau la DRIRE de la pollution de la nappe par des hydrocarbures lors de travaux de réfection de la chaussée.	'hydrocarbures'	'la municipalité de Boucau', 'la DRIRE'

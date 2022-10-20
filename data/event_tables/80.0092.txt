@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	10		2009	11	10		a_été_signé	L'arrêté de Servitudes d'Utilité Publique a été signé par le préfet de la Somme, préfet de la région Picardie le 10 novembre 2009.		'le préfet de la Somme , préfet de la région Picardie'
+				2004				a_été_exploité	Le site a été exploité jusqu'en 2004.		
+2006				2006				a_été_déposé	A l'issue des opérations de réaménagement, un dossier de servitudes d'utilité publique a été déposé fin 2006.		

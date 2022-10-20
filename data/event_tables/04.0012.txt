@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	18		2010	03	18		Les_travaux_ont_été_achévé	Les travaux ont été achévé le 18/03/2010.		
+2007				2007				Une_étude_préalable	Une étude préalable a été réalisée en 2007.		
+2011	09			2011	09			La_dernière_campagne	La dernière campagne de Septembre 2011 a montré que seul un piézomètre (PZ3) à une teneur en PCB supérieure à la norme eau potable.	'PCB'	
+2008	05	06		2008	05	06		Le_diagnostique_initial_réalisé	Le diagnostique initial réalisé le 6 mai 2008 a permit le maillage du site et la création de 15 sondages (jusqu'a une profondeur de 3m).  Cette campagne demontre comme l'étude préalable des concentrations anormales (de 0 à 0.8m de profondeur) en :		

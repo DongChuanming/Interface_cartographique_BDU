@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12	11		1998	12	11		Une_étude_de_sols	Une étude de sols a été imposée par arrêté préfectoral du 11 décembre 1998.		
+								n__est_pas_utilisé	Elle possède un embranchement particulier SNCF qui n'est pas utilisé depuis 9 ans.		
+1999	12	23		1999	12	23		une_déclaration	Par un courrier en date du 23 décembre 1999, la société a transmis une déclaration de cessation d'activité pour l'ensemble du site.		
+1966				1966				créée	Cette unité créée en 1966 est un dépôt de produits pétroliers.	'dépôt de produits pétroliers'	
+								prescrit_la_mise_en_oeuvre_d_	Un Arrêté Préfectoral en date du 5 janvier 2001 prescrit la mise en oeuvre d'un programme de surveillance de la qualité des eaux souterraines pour une durée minimale de 2 ans.		
+2000	07			2000	07			des_travaux_de_démantèlement	L'exploitation des activités s'est arrêtée en décembre 1999 et des travaux de démantèlement et de dépollution ont été terminés fin juillet 2000.		
+1999	12			1999	12			L__exploitation	L'exploitation des activités s'est arrêtée en décembre 1999 et des travaux de démantèlement et de dépollution ont été terminés fin juillet 2000.		
+2000	07			2000	07			L__exploitation	L'exploitation des activités s'est arrêtée en décembre 1999 et des travaux de démantèlement et de dépollution ont été terminés fin juillet 2000.		
+1999	12	23		1999	12	23		un_courrier	Par un courrier en date du 23 décembre 1999, la société a transmis une déclaration de cessation d'activité pour l'ensemble du site.		
+2002	02			2002	02			Les_analyses_de	Les analyses de février 2002 ne montraient plus d'anomalies.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								étaient_encore	Mais les concentrations en hydrocarbures étaient encore importantes (265070 µg/l sur le P4 en janvier 2016).		
+265070				265070				étaient_encore	Mais les concentrations en hydrocarbures étaient encore importantes (265070 µg/l sur le P4 en janvier 2016).		
+2010	08	25		2010	08	25		Un_diagnostic_des_sols	- Un diagnostic des sols en date du 25/08/2010 ;		
+2016	01			2016	01			étaient_encore	Mais les concentrations en hydrocarbures étaient encore importantes (265070 µg/l sur le P4 en janvier 2016).		
+2014	07			2014	07			notamment_au_droit	Cependant, notamment au droit du piézomètre P4 situé en aval du site, les concentrations en hydrocarbures ont à nouveau augmenté à partir du mois de juillet 2014.		'piézomètre'
+								de_la_campagne_d__analyse	Lors de la campagne d’analyse du mois d’avril 2013, les ouvrages situés en aval hydrauliques n’ont pas fait l’objet de prélèvement, car la présence d’irisations indiquait une forte concentration en hydrocarbures.	'hydrauliques', 'prélèvement , car', 'présence'	
+2014	12	01		2014	12	01		place_des_piézomètres_en_dehors_du_site___il	L'exploitant n'ayant pas eu la possibilité de mettre en place des piézomètres en dehors du site, il lui a été demandé, par courrier préfectoral du 01/12/2014, de proposer, des solutions pour définir le panache de pollution hors du site, à la fois dans les eaux souterraines et dans les gaz du sol.	'piézomètres en dehors'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	08		2011	04	08		un_procès_verbal_de_récolement	Les travaux de dépollution de la zone ont fait l’objet d’un procès-verbal de récolement daté du 08 avril 2011.		
+2008				2008				transmis	Une Évaluation Détaillée des Risques (EDR) datée de juillet 2006 (étude EACM) et son complément transmis en 2008 ont montré que le site était compatible avec les usages envisagés selon les projets répartis en 3 zones (zone « logements », zone « bureaux » et zone « mairie »).		
+2013	06	12		2013	06	12		a_déposé	La société RIBER a déposé un dossier d'institution de Servitudes d'Utilité Publique (SUP) en date du 12 juin 2013.		'La société RIBER'
+2006	11	28		2006	11	28		a_été_vendu_à	Le 28 novembre 2006 le site a été vendu à la société KAUFMAN&BROAD DEVELOPPEMENT pour la construction de bureaux, de logements et d’un parc communal.		'la société KAUFMAN&BROAD DEVELOPPEMENT'
+2014	08	21		2014	08	21		de_lancer	Sur la base de ce dossier et de compléments apportés par l'exploitant, l'inspection a proposé à Monsieur le Préfet par rapport daté du 21/08/2014 de lancer la procédure d'institution de SUP prévue aux articles R.515-31-1 à R.515-31-7 du code de l’environnement.		'le Préfet'
+2006	07			2006	07			Une_Évaluation_Détaillée_des_Risques	Une Évaluation Détaillée des Risques (EDR) datée de juillet 2006 (étude EACM) et son complément transmis en 2008 ont montré que le site était compatible avec les usages envisagés selon les projets répartis en 3 zones (zone « logements », zone « bureaux » et zone « mairie »).		
+2006	06	30		2006	06	30		informait	Par courrier daté du 15 février 2006, RIBER informait l’inspection de la cessation d’activité de la société à compter du 30 juin 2006.		'RIBER'
+2006	02	15		2006	02	15		informait	Par courrier daté du 15 février 2006, RIBER informait l’inspection de la cessation d’activité de la société à compter du 30 juin 2006.		'RIBER'

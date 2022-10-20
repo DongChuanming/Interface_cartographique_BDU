@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	04		2011	10	04		s__est_achevée	La phase d'écrémage a démarré le 10 avril 2011 et s'est achevée le 4 octobre 2011.		
+2011	04	10		2011	04	10		a_démarré	La phase d'écrémage a démarré le 10 avril 2011 et s'est achevée le 4 octobre 2011.		
+1995				1995				une_première_opération_de_dépollution	Dans le cadre de la procédure de cessation d'activité, une première opération de dépollution de la nappe a été menée en 1994-1995 (venting et pompage du flottant).		
+1995	10			1995	10			la_réapparition	Le suivi de la nappe a permis de mettre en évidence la réapparition du flottant en octobre 1995.		
+				2010	03			sont_mis_en	Entre juillet 2009 et mars 2010 2 pilotes sont mis en place pour la réalisation de l'élimination du flottant de la nappe.		
+2007				2007				a_commencé	En l'absence de projet précis de réaménagement des terrains, l’exploitant a commencé à partir de 2007 à étudier les conditions de réhabilitation du site avec la réalisation d'une synthèse des données déjà recueillies.		
+2007				2007				réactualisée	Une surveillance périphérique des hydrocarbures flottants sur la nappe a été mise en place et réactualisée en permanence depuis 2007.	'hydrocarbures'	
+1994				1994				une_première_opération_de_dépollution	Dans le cadre de la procédure de cessation d'activité, une première opération de dépollution de la nappe a été menée en 1994-1995 (venting et pompage du flottant).		
+1996	07	16		1996	07	16		Un_diagnostic_a_été_réalisé	Un diagnostic a été réalisé conformément à l'AP du 16/07/1996.		
+1992	03			1992	03			Arrêt_des_activités	Arrêt des activités en mars 1992.		
+2007				2007				a_été_mise_en_place	Une surveillance périphérique des hydrocarbures flottants sur la nappe a été mise en place et réactualisée en permanence depuis 2007.	'hydrocarbures'	
+1968				1968				Important_incendie	Important incendie en 1968.		
+2005	05			2005	05			Une_évaluation_détaillée_des_risques	Une évaluation détaillée des risques a été réalisée en mai 2005 ;		

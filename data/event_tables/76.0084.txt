@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	07	13		1999	07	13		une_étude_de_sol	Compte tenu des activités exercées et de l'ancienneté du site, une étude de sol (étape A) a été prescrite à CHEVRON ORONITE par arrêté préfectoral du 13 juillet 1999.		'CHEVRON ORONITE'
+								ont_débuté	Les premières activités ont débuté dans les années 1950.		
+2000	06			2000	06			étude_a_été_remise	Une première version de cette étude a été remise en juin 2000.		
+2001				2001				ont_été_fournis	Ces compléments ont été fournis au cours du premier semestre 2001, accompagnés de propositions pour la conduite de l'étape B qui fera l'objet d'une projet pour un nouvel arrêté préfectoral.		

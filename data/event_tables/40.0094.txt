@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_été_réalisée	La surveillance semestrielle des eaux souterraines a été réalisée depuis 2009 sur 5 piézomètres et 3 forages.		
+2008	09			2008	09			Le_changement_de_dénomination_sociale	Le changement de dénomination sociale pour CELSA France a été effectué en septembre 2008.		'CELSA France'
+2008	03			2008	03			a_été_rendue	L'ERS a été rendue en mars 2008.		
+2010	08			2010	08			aux_travaux_réalisés	Suite aux travaux réalisés sur le poste des scories noires en août 2010 visant à réduire les émissions atmosphériques, CELSA France a demandé la mise à jour de l'ERS.		'CELSA France'
+1995	08	14		1995	08	14		a_été_délivrée	L'autorisation d'exploiter a été délivrée à la société ADA (aciérie de l'Atlantique) par l'arrêté préfectoral du 14 août 1995.		'la société ADA'
+2013	02			2013	02			L__étude	L'étude datée de février 2013 a été remis en avril 2013, elle est en court d'analyse.		
+2013	04			2013	04			L__étude	L'étude datée de février 2013 a été remis en avril 2013, elle est en court d'analyse.		
+2006	05	27		2006	05	27		prescrit_ce_diagnostic	L'arrêté inter-préfectoral du 27 février 2006 prescrit ce diagnostic à l'échéance du 27 mai 2006.		

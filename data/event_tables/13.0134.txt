@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				L__exploitation	L'exploitation du terril de BRAMEFAN a débuté en 1986 pour stocker les stériles de mines et les cendres de combustion de la centrale électrique de provence (Cf fiche BASOL spécifique).		'BRAMEFAN'
+1986	01	20		1986	01	20		AP	Le dépôt de BRAMEFAN est edifié conformément à l'AP du 20/01/1986 autorisant les Houillères de Provence à exploiter une installation d'élimination de déchets industriels complété par différents AP.	'déchets industriels'	'Le dépôt de BRAMEFAN', 'les Houillères de Provence'
+1986				1986				ont_été_implantés	5 piézomètres ont été implantés sur le site en 1986.		
+2010				2010				Une_étude_hydrogélogique	Une étude hydrogélogique a été réalisée en Aout 2010 a montré que sur les 76 ha du site, 2/3 ont été réhabilités suite à la diminution du volume du terril.		
+2005				2005				un_changement	En 2005, un changement d'exploitant a lieu, la SNET est autorisée a poursuivre l'exploitation du terril par AP du 19/11/2005, pour le dépôt de cendres de combustion et de boues provenant de la Centrale Electrique de Provence.	'cendres de combustion'	'la SNET', 'la Centrale Electrique de Provence'

@@ -1,0 +1,36 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				responsabilité_du_liquidateur	En 1996, le patrimoine immobilier est sous la responsabilité du liquidateur, la SCP SILVESTRI-BAUDET qui reste dépositaire des clés du site.		'la SCP SILVESTRI', 'BAUDET'
+2013	09	18		2013	09	18		par_temps_sec	La CUB a mené au cours du dernier trimestre 2013, 2 campagnes d'analyses de PCB, par temps sec le 18/09/2013 et par temps humide le 22/10/2013, au niveau du collecteur d'assainissement de la rue Delbos en 4 points de prélèvements au droit, en amont et en aval du site SREE, rue Delbos, rue Achard et rue Lauzun.	'PCB'	'La CUB', 'SREE'
+2004	02			2004	02			La_campagne_de	La campagne de février 2004 met en évidence la hausse des teneurs en PCB qui dépassent la valeur de référence "eaux de consommation".	'PCB'	
+2012	04	27		2012	04	27		a_été_chargée_de_réaliser_les_prestations	Par arrêté préfectoral d'exécution de travaux d'office en date du 27 avril 2012, l'ADEME a été chargée de réaliser les prestations suivantes :		
+2010	06			2010	06			ont_été_démolis	Les bâtiments ont été démolis en juin 2010.		
+2009	09			2009	09			La_campagne_de	La campagne de septembre 2009 confirme cette situation avec une lègère remontée des traces de PCB dans Gisol, PZ7 et Tirebois.	'PCB'	
+2015	03			2015	03			Les_analyses_réalisées	Les analyses réalisées en mars 2015 ont montré la présence, dans les eaux souterraines :		
+2015	10			2015	10			de_la_première_campagne_de_suivi_d_	Lors de la première campagne de suivi d'octobre 2015, les deux piézomètres de la rue Delbos (Pz9 et		
+2013	10	22		2013	10	22		et_par_temps_humide	La CUB a mené au cours du dernier trimestre 2013, 2 campagnes d'analyses de PCB, par temps sec le 18/09/2013 et par temps humide le 22/10/2013, au niveau du collecteur d'assainissement de la rue Delbos en 4 points de prélèvements au droit, en amont et en aval du site SREE, rue Delbos, rue Achard et rue Lauzun.	'PCB'	'La CUB', 'SREE'
+2012	12	03		2012	12	03		Cette_prestation_a_été_confiée	Cette prestation a été confiée le 3 décembre 2012 au groupement TESORA / EAUGEO.		'groupement TESORA', 'EAUGEO'
+2008	07	07		2008	07	07		a_acquis	La CUB a acquis les terrains le 07/07/2008.		'La CUB'
+2008	03			2008	03			La_campagne	La campagne de mars 2008 confirme la présence d'une contamination importante par les PCB à proximité du site SREE :	'les PCB'	'SREE'
+2015				2015				Surveillance_post_travaux_de_dépollution	2.5 - Surveillance post travaux de dépollution de 2015		
+2004	08			2004	08			La_campagne_de	La campagne de août 2004 montre que :		
+2015	03			2015	03			la_campagne	La Synthèse de la campagne de mars 2015, qui achève la mission de l'ADEME est la suivante :		
+2009	08	11		2009	08	11		Le_permis_de_démolir	Le permis de démolir a été délivré par la mairie de Bordeaux le 11/08/2009.		
+2016	04	26		2016	04	26		a_été_transmis	Le rapport final de travaux a été transmis à l'inspection le 26 avril 2016.		
+2015				2015				relevés	Les niveaux relevés en 2013-2015 dans les piézomètres captant la "nappe profonde" sous la rue Delbos ne permettent pas de préciser la direction d'écoulement de cette nappe sous la rue.		
+2007				2007				la_campagne_de	A l'issue de la campagne de nov 2007, confirmé par celle de mars 2008, on peut penser que le rayon de servitudes de 100 m est sans doute un minimum, qu'il vaudrait mieux établir à partir des limites du site plutôt que du PZ SREE.		
+				2015	09	22		Les_travaux_ont_été_réalisés	Les travaux ont été réalisés du 13 avril au 22 septembre 2015.		
+2013				2013				2_campagnes_d__analyses	La CUB a mené au cours du dernier trimestre 2013, 2 campagnes d'analyses de PCB, par temps sec le 18/09/2013 et par temps humide le 22/10/2013, au niveau du collecteur d'assainissement de la rue Delbos en 4 points de prélèvements au droit, en amont et en aval du site SREE, rue Delbos, rue Achard et rue Lauzun.	'PCB'	'La CUB', 'SREE'
+2009	03			2009	03			La_campagne	La campagne de mars 2009 montre que le PZ6, proche du site, est toujours le plus contaminé par les PCB, monochlorobenzènes et le Benzène.	'les PCB', 'monochlorobenzènes', 'le Benzène'	
+								l__étude	Compte tenu de la sensibilité qui entoure la problématique des PCB avec les mesures de restriction de la pêche, l'étude du plan de gestion est prescrite en priorté avec la remise du rapport dans le délai de 9 mois.	'PCB'	
+2007	11			2007	11			La_campagne	La campagne de novembre 2007 montre que la pollution par les PCB s'est répandue dans toutes les directions autour du site.	'PCB'	
+2008	07	07		2008	07	07		sont_propriétés	Les terrains sont propriétés de la CUB depuis le 07/07/2008		'la CUB'
+								les_travaux_de_dépollution	Le procès-verbal de l'inspection du 27/09/2016 conclut que les travaux de dépollution des terrains de l’ancien site SREE rue Delbos, exécutés d’avril à septembre 2015 sont conformes aux objectifs de prescriptions de l'arrêté du 03/04/2015 aux réserves des demandes ci-après, que :		'SREE'
+2013				2013				relevés	Les niveaux relevés en 2013-2015 dans les piézomètres captant la "nappe profonde" sous la rue Delbos ne permettent pas de préciser la direction d'écoulement de cette nappe sous la rue.		
+2003	07	09		2003	07	09		Les_analyses	Les analyses du 09/07/2003 montrent des résultats non satisfaisants en augmentation par rapport à la campagne de février 2003.		
+2015	03			2015	03			les_analyses	Globalement, les analyses de mars 2015 confirment que l'état qualitatif des eaux souterraines hors du site est peu dégradé en dehors du Pz6 (situé à 2 m à l'est du site SREE) ; d'autre part la faible perméabilité des couches profondes et le faible gradient de la nappe ne sont pas favorables à une dissémination importante des polluants loin du site.		'SREE'
+1996	05			1996	05			une_liquidation_judiciaire	Cette société a fait l'objet d'une liquidation judiciaire en mai 1996.		
+2010	12	10		2010	12	10		Le_bilan_de_3_années	Le bilan de 3 années de suivi de la qualité des eaux souterraines est présenté à la DREAL le 10/12/2010.		'la DREAL'
+								sera_réalisée	La surveillance sera réalisée pendant une durée de 3 ans au moyen des six points ci-dessous :		
+2002	01	24		2002	01	24		La_première_campagne_de_prélèvements	La première campagne de prélèvements du 24/01/2002 confirme la présence de PCB dans la nappe à l'aval du site, avec une augmentation de la concentration dans le puits privatif du 37 rue Delbos, analysé en 1999.	'PCB'	
+1996	07	08		1996	07	08		La_procédure_d__intervention	La procédure d'intervention d'urgence de l'Etat est décidée le 08/07/1996, l'arrêté du 31/07/1996 mandate l'ADEME pour évacuer et éliminer les fûts, transformateurs et le nettoyage surfacique des sols et de la cour principale et du hangar.		
+2015	09			2015	09			les_travaux_de_dépollution	Le procès-verbal de l'inspection du 27/09/2016 conclut que les travaux de dépollution des terrains de l’ancien site SREE rue Delbos, exécutés d’avril à septembre 2015 sont conformes aux objectifs de prescriptions de l'arrêté du 03/04/2015 aux réserves des demandes ci-après, que :		'SREE'

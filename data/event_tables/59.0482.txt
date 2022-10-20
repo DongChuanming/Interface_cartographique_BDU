@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12	20		2006	12	20		un_acte_de_vandalisme	-Le transformateur a été l'objet d'un acte de vandalisme le 20 décembre 2006.		
+2007	03	28		2007	03	28		fin_de	-28 mars 2007: fin de l'enlèvement des transformateurs au pyralène	'pyralène'	
+2007	10	10		2007	10	10		__dépollution	-10 octobre 2007: dépollution du site terminée		
+2007	03	29		2007	03	29		est_pris	-Le 29 mars 2007, un arrêté préfectoral est pris pour imposer à RFF de délimiter la pollution et d'évacuer les terres et matériaux imprégnés par les PCB.	'PCB'	'RFF'
+2006	12	21		2006	12	21		est_intervenue	EDF Distribution est intervenue le 21 décembre 2006 pour déraccorder le transformateur.		'EDF Distribution'

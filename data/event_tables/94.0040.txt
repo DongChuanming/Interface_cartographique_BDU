@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				un_diagnostic_approfondi	Un diagnostic initial a été réalisé sur ces terrains en 1998, suivi d’un diagnostic approfondi en 1999 en raison d’un projet de cession.		
+2003	02	20		2003	02	20		un_procès_verbal_de_récolement	La conformité des travaux de réhabilitation par rapport à l'arrêté préfectoral du 19 mars 2001 a fait l'objet d'un procès-verbal de récolement, en date du 20/02/2003.		
+2001	03	07		2001	04	10		Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont déroulés du 7 mars 2001 au 10 avril 2001. 1700 tonnes de terres ont été excavées et triés.		
+1999	05	31		1999	05	31		a_été_soumis	Néanmoins, en raison du changement d'usage du site, un projet de réglementation fixant des seuils de dépollution a été soumis le 31/05/1999 à GDF, qui a souhaité revoir ces seuils.		'GDF'
+2001	03	19		2001	03	19		a_été_notifié	Un arrêté préfectoral de remise en état de site a été notifié à GDF le 19/03/2001.		'GDF'
+1998				1998				Un_diagnostic_initial	Un diagnostic initial a été réalisé sur ces terrains en 1998, suivi d’un diagnostic approfondi en 1999 en raison d’un projet de cession.		
+1996	04	25		1996	04	25		des_travaux_de_remise_en_état	En raison du changement d'usage du site, des travaux de remise en état ont été demandé à GDF (en accord avec le protocole signé entre le MATE et GDF le 25/04/1996).		'GDF', 'le MATE et GDF'
+1925				1925				a_accueilli	Le terrain situé au Nord-Ouest du centre ville d’Alfortville a accueilli de 1925 à 1959 une station gazométrique.		

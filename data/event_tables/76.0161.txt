@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1927				1927				implantée	ce site a été occupé par une usine de cycles (établissement Letellier) implantée en 1927, puis par une unité de fabrication de meubles (ferronnerie, menuiserie, peinture, traitement électrolytique), jusque dans les années 80.		'Letellier'
+2001	05			2001	05			ont_été_levées	Mai 2001, suite à la réalisation d'investigations complémentaires concernant l'importance de la contamination des sols du site et suite à d'importants travaux d'excavations des zones contaminées (44 tonnes), les réserves émises sur la demande de permis de construire ont été levées.		
+2000	09			2000	09			une_étude	En septembre 2000 une étude annexée à la demande de permis de construire (28 logements répartis en 2 immeubles) a révélé la présence non négligeable de métaux (notament cuivre et chrome)sur le site.	'métaux', 'cuivre', 'chrome)sur'	

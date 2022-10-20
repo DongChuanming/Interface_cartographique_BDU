@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				un_audit	A la suite d'un audit en 1994 et de travaux en 1995, des sondages de sol ont révélé une pollution par des hydrocarbures aromatiques polycycliques.	'hydrocarbures aromatiques polycycliques'	
+1998				1998				est_réalisé	De plus, à la suite d'un déversement accidentel de formol en 1998, un suivi qualitatif de la nappe est réalisé.	'formol'	
+2004	04			2004	04			a_été_mis_en_place	Un pompage a été mis en place sur le site depuis avril 2004 (4 piézomètres de grand diamètre), pour capter les eaux polluées et les éliminer, à l'extérieur, par incinération.		
+				2015	05			ont_augmenté	Les concentrations de polluants ont augmenté dans le fossé entre octobre et décembre 2014, suivi d'une tendance régulière à la baisse jusqu'en mai 2015.	'polluants'	
+2002	11	04		2002	11	04		une_réactualisation	Un arrêté préfectoral complémentaire, en date du 4 novembre 2002, a imposé une réactualisation des données (analyses des eaux et du sol), une évaluation simplifiée des risques (ESR) et un programme renforcé de surveillance des eaux souterraines.		
+2005				2005				ont_été_éliminées	En 2005, 2 anciennes cuves enterrées de fioul lourds ainsi que les terres excavées (216 T) ont été éliminées a l'extérieur.	'fioul lourds'	
+1995				1995				de_travaux	A la suite d'un audit en 1994 et de travaux en 1995, des sondages de sol ont révélé une pollution par des hydrocarbures aromatiques polycycliques.	'hydrocarbures aromatiques polycycliques'	
+2010				2010				a_été_installé_dans	En 2010, un système d'extraction permanent (en pompage continue) a été installé dans 6 puits afin d'augmenter la quantité de contaminants récupérés.	'contaminants'	
+2003				2003				ont_été_remises	Les études ont été remises fin 2002 et début 2003.		
+2011				2011				L__extraction_a_été_stoppée	L'extraction a été stoppée en 2011, il apparaît que l'hydrogéologie et la géologie au droit du site amène un confinement de la contamination et que l'extraction par pompage entreprise n'a connu qu'un impact limité.		
+				2014	12			ont_augmenté	Les concentrations de polluants ont augmenté dans le fossé entre octobre et décembre 2014, suivi d'une tendance régulière à la baisse jusqu'en mai 2015.	'polluants'	
+1995				1995				des_sondages_de_sol_ont_révélé	A la suite d'un audit en 1994 et de travaux en 1995, des sondages de sol ont révélé une pollution par des hydrocarbures aromatiques polycycliques.	'hydrocarbures aromatiques polycycliques'	
+2008	02			2008	02			de_nouvelles_investigations	En février 2008, de nouvelles investigations ont été réalisées.		
+1998				1998				un_déversement_accidentel	De plus, à la suite d'un déversement accidentel de formol en 1998, un suivi qualitatif de la nappe est réalisé.	'formol'	
+2009	06			2009	06			Les_travaux_de_comblement	Les travaux de comblement de l'ancienne canalisation d'eaux pluvial ont été effectué en juin 2009, l'objectif étant d'éviter toute migration potentielle des polluants hors site.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit par arrêté préfectoral.		
+2002				2002				ont_été_remises	Les études ont été remises fin 2002 et début 2003.		
+1984	07	18		1984	07	18		a_fait_l__objet_d_	Le site de 9 ha a fait l'objet d'un arrêté préfectoral d'autorisation d'exploiter en date du 18 juillet 1984.		
+2013				2013				a_été_mis_en_place	En 2013, un plan d'actions pour prévenir la migration des eaux souterraines contaminées a été mis en place.		
+2013	03			2013	03			a_été_augmentée	La fréquence de surveillance a été augmentée depuis mars 2013.		
+2012				2012				des_investigations_approfondies	En 2012, des investigations approfondies sur les eaux souterraines et sur le sous-sol ont été effectuées.		
+1999				1999				a_remis	La société a remis les rapports de l'étape A et de l'étape B, de son étude de sols, en 1999.		

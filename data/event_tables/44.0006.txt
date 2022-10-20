@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__0_5_mg__	Cette pollution tend à migrer très lentement (0.5 mg/l pour le chrome et 0.7 mg/l pour le cadmium) dans les piézomètres situés à proximité et à l'extérieur des ateliers.		
+2007				2007				inspection_des_installations	Par ailleurs, le rapport de l’inspection des installations classées daté de 2007 indique que les deux piézomètres (pz2 et pz3) ne sont toujours pas utilisables et recommande la remise en état de ces deux piézomètres défectueux afin d’effectuer une campagne de mesures conformément aux dispositions de l’arrêté du 25 janvier 2001.	'recommande la', 'remise en état', 'ces deux'	

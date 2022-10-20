@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019				2019				est_réaménagée	En 2019, l'extrême partie sud de cette zone est réaménagée en zone commerciale et tertiaire et héberge notamment le lycée professionnel Albert Einstein (sud-est).		
+2019				2019				opération_de_rénovation	De nouveaux diagnostics des sols sont envisagés dans le cadre de l'opération de rénovation du lycée fin 2019-début 2020.		
+2020				2020				opération_de_rénovation	De nouveaux diagnostics des sols sont envisagés dans le cadre de l'opération de rénovation du lycée fin 2019-début 2020.		
+1868				1975				exploite	De 1868 à 1975, la société des produits chimiques Péchiney Saint-Gobain exploite sur la zone une usine de fabrication d'acide sulfurique, de superphosphates, d'engrais en mélange, résine PVC, produits vyniliques, film plastique....	'acide sulfurique', 'superphosphates', 'résine PVC', 'produits vyniliques'	'la société des produits chimiques Péchiney Saint-Gobain'
+								est_rachetée	A la fin des années 1980, la friche industrielle est rachetée par la commune.		

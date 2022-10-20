@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959				1988				ont_été_démolies_progressivement	Les installations ont été démolies progressivement entre 1959 et 1988.		
+2006	10			2006	10			La_campagne_de_surveillance	La campagne de surveillance des eaux souterraines d'octobre 2006 montrait un impact en HAP jusqu'alors non détectés dans les piézomètres.	'HAP'	
+2004	04			2004	04			a_été_remis	Le mémoire de fin de travaux a été remis en avril 2004.		
+2003	07			2003	07			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés de juillet 2003 à janvier/février 2004.		
+								Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés de juillet 2003 à janvier/février 2004.		
+2001				2001				une_étude_historique	Conformément aux engagements du protocole, ce site fait l'objet d'une étude historique avec localisation des éventuelles cuves (recherches bibliographiques, enquêtes) en 2001.		
+2012	04			2012	04			sont_encore_détectées	Quelques traces sont encore détectées en avril 2012, très proches ou inférieures aux valeurs-seuil du SDAGE.		
+1880				1957				a_accueilli	Ce site a accueilli une usine fabricant du gaz à partir de la distillation de la houille de 1880 à 1957.		
+2002	06			2002	06			un_diagnostic_approfondi	Gaz de France a fait réaliser un diagnostic initial suivi d'un diagnostic approfondi du site remis en juin 2002.		'Gaz de France'
+2004	02			2004	02			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés de juillet 2003 à janvier/février 2004.		
+2012	07			2012	07			la_levée_de_la_surveillance	L'exploitant a demandé en juillet 2012 la levée de la surveillance.		
+1959				1959				l__arrivée	En 1959, l'arrivée du gaz naturel a entraîné l'achat du site par Gaz de France.		'Gaz de France'

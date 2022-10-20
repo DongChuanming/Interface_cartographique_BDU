@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Excavation	Excavation des terres polluées par les hydrocarbures et les PCB réalisée au 1er semestre 2006.	'hydrocarbures', 'PCB'	
+2006	09			2006	09			Réalisation_d__une_EDR	Réalisation d'une EDR en septembre 2006.		
+								Excavation	Excavation des terres polluées par les hydrocarbures et les PCB réalisée au 1er semestre 2006.	'hydrocarbures', 'PCB'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				un_diagnostic_approfondi	-En raison d'un projet de réaménagement, un diagnostic approfondi a été réalisé en 1997 par un bureau d'études à la demande de Gaz de France.		'Gaz de France'
+1930				1940				a_été_arrêtée	La production de gaz a été arrêtée entre 1930 et 1940.		
+2004	04	30		2004	04	30		_Vidange	-Vidange des cuves en février 2004 et rapport de fin de travaux transmis le 30/04/2004.		
+2004	04	30		2004	04	30		fin_de_travaux_transmis	-Vidange des cuves en février 2004 et rapport de fin de travaux transmis le 30/04/2004.		
+2004	06	30		2004	06	30		Première_campagne_de_mesure	-30 juin 2004 :Première campagne de mesure des eaux souterraines par trois piézomètres.		
+1941				1941				ont_été_démantelées	Les installations de production ont été démantelées en 1941.		
+2004	02			2004	02			_Vidange	-Vidange des cuves en février 2004 et rapport de fin de travaux transmis le 30/04/2004.		
+								a_accueilli	-Il a accueilli pendant 60 ans environ une usine fabriquant du gaz de ville à partir de la distillation de la houille.		

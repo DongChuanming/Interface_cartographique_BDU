@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	12		2010	05	12		un_diagnostic_de_pollutions	Par transmission du 12 mai 2010, la société C&V COSSERAT a adressé un diagnostic de pollutions des sols et de surveillance des eaux souterraines pour son site situé sur la commune d’Amiens complétant l'étude de 2004. cet envoi fait suite à l’arrêté préfectoral complémentaire du 18/11/2009, imposant l’élaboration d’un schéma conceptuel, d’un plan de gestion et d’une surveillance des eaux souterraines.		'la société C&V COSSERAT'
+2012				2012				a_été_mis_en_liquidation_judiciaire	Le site a été mis en liquidation judiciaire en 2012 et la liquidation a été clôturée le 12/09/2014.		
+2014	09	12		2014	09	12		a_été_clôturée	Le site a été mis en liquidation judiciaire en 2012 et la liquidation a été clôturée le 12/09/2014.		
+2004	06			2004	06			avaient_été_réalisés	Dans le cadre d’un audit environnemental simplifié de pollution potentielle du site Cosserat réalisé par la société CERDIS en Juin 2004, 10 sondages avaient été réalisés. on constaté sur certaines parties du site :		'la société CERDIS'
+2014	09	12		2014	09	12		a_été_mis_en_liquidation_judiciaire	Le site a été mis en liquidation judiciaire en 2012 et la liquidation a été clôturée le 12/09/2014.		
+2009				2009				Les_études_antérieures	Les études antérieures (2004 et 2009) à ces résultats présentent des éléments justifiant la pollution du site sans être exhaustif.		
+2008	10			2008	10			s__est_achevée	L’activité industrielle de production du site s’est achevée en octobre 2008.		
+2004				2004				Les_études_antérieures	Les études antérieures (2004 et 2009) à ces résultats présentent des éléments justifiant la pollution du site sans être exhaustif.		
+2004	06			2004	06			réalisé	Dans le cadre d’un audit environnemental simplifié de pollution potentielle du site Cosserat réalisé par la société CERDIS en Juin 2004, 10 sondages avaient été réalisés. on constaté sur certaines parties du site :		'la société CERDIS'
+1856				1856				accueillait	Le site accueillait une activité de manufacture de velours et de coton depuis 1856.		
+1856				1856				une_activité_de_manufacture_de_velours_et_de_coton	Le site accueillait une activité de manufacture de velours et de coton depuis 1856.		

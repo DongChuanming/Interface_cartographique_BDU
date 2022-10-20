@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			De_nouvelles_investigations	De nouvelles investigations ont été réalisées en avril-mai 2006 sur les sols et les eaux souterraines.		
+2014	09			2014	09			Un_arrêt_temporaire	Un arrêt temporaire de l'unité de rabattement a été opérée en septembre 2014 pour vérifier le comportement hydrogéologique de la nappe et un éventuel "effet rebond" de la pollution sur une période de trois mois.		
+2003	11			2003	11			un_diagnostic_de_sol	En novembre 2003, un diagnostic de sol a été réalisé et a mis en évidence une pollution des sols par les hydrocarbures.	'hydrocarbures'	
+2004	12			2005	11			Des_investigations_complémentaires	Des investigations complémentaires ont alors été réalisées de décembre 2004 à novembre 2005 sur les eaux souterraines.		
+2017	10			2017	10			La_campagne_d_	La campagne d'octobre 2017 montre		
+2014	10			2014	10			la_campagne_de_surveillance	Les résultats de la campagne de surveillance des eaux souterraines d'octobre 2014 mettent en évidence :		
+1989	12	1		1989	12	1		est_autorisée_a_exploiter	La société COMBUSTIBLES DE L'OUEST est autorisée a exploiter un dépôt d'hydrocarbures par arrêté préfectoral d'autorisation du 1er décembre 1989.	"d' hydrocarbures"	"La société COMBUSTIBLES DE L' OUEST"
+2017	07			2017	07			a_été_arrêté	L’unité de traitement et du dispositif de mise en sécurité hydraulique a été arrêté en juillet 2017.		
+								De_nouvelles_investigations	De nouvelles investigations ont été réalisées en avril-mai 2006 sur les sols et les eaux souterraines.		
+2014	01	1		2014	01	1		a_repris_les_activités	La SAS CPO a repris les activités le 1er janvier 2014.		'La SAS CPO'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971				1971				est_exploité	Le site est exploité depuis 1971 pour le stockage de pièces liées à l'industrie automobile (SOFRASTOCK est une filiale du groupe RENAULT).		'SOFRASTOCK', 'groupe RENAULT'
+2006				2006				Les_dernières_investigations	- Les dernières investigations, analyses et études ont été effectuées fin 2006 début 2007 dans le cadre d'un arrêté préfectoral du 14 juin 2006 et suite à une proposition de l'inspection des installations classées.		
+2002				2002				est_en_place	- Une surveillance de la qualité de la nappe est en place depuis 2002.		
+2007				2007				Les_dernières_investigations	- Les dernières investigations, analyses et études ont été effectuées fin 2006 début 2007 dans le cadre d'un arrêté préfectoral du 14 juin 2006 et suite à une proposition de l'inspection des installations classées.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	10	29		2014	10	29		un_incendie_s__est_déclaré	Le 29 octobre 2014, un incendie s'est déclaré dans une cellule destockage de sciures de bois destinées à la valorisation énergétique dans la chaudière biomasse.		
+2005				2005				a_été_curé	Ce bassin a été curé puis rendu étanche à l'été 2005.		
+				2003	05	22		Les_campagnes	Les campagnes des 24/05/2001, 22/05/2003 et 12/10/20O4 révèlent un indice phénol élevé dont l'origine est la fissuration d'un bassin proche du piézomètre concerné.		
+								Les_campagnes	Les campagnes des 24/05/2001, 22/05/2003 et 12/10/20O4 révèlent un indice phénol élevé dont l'origine est la fissuration d'un bassin proche du piézomètre concerné.		
+2014	07			2014	07			de_la_campagne	Lors de la campagne de juillet 2014, les concentrations en phénol au droit du Pz9 sont quasiment nulles alors qu'elles étaient de 2.1 mg/L, le seuil de qualité est fixé à 0.1mg/L.	'phénol'	
+2014	07			2014	07			de_la_campagne	Cependant, lors de la campagne de juillet 2014, les concentrations en Arsenic au droit du Pz6 et du Pz9 sont en dessous du seuil de qualité et quasiment nulles.	'Arsenic'	
+2001				2001				est_effective	La surveillance des eaux souterraines est effective depuis 2001.		
+2001	05	24		2001	05	24		Les_campagnes	Les campagnes des 24/05/2001, 22/05/2003 et 12/10/20O4 révèlent un indice phénol élevé dont l'origine est la fissuration d'un bassin proche du piézomètre concerné.		
+2001	11	11		2001	11	11		L__étude_remise	L'étude remise le 11 novembre 2001 classe le site en 2 "à surveiller" pour les milieux, eaux souterraines, eaux superficielles et sols.		
+2005				2005				rendu_étanche	Ce bassin a été curé puis rendu étanche à l'été 2005.		
+2011				2011				Les_campagnes_réalisées	Les campagnes réalisées en 2011 et 2012 sur 5 piézomètres (2 localisés en amont de l'établissement et 3 en aval) laissent apparaître  des valeurs significatives en arsenic au niveau de l'ouvrage référencé PZ9 situé en aval hydraulique du site.	'en arsenic'	
+2012				2012				Les_campagnes_réalisées	Les campagnes réalisées en 2011 et 2012 sur 5 piézomètres (2 localisés en amont de l'établissement et 3 en aval) laissent apparaître  des valeurs significatives en arsenic au niveau de l'ouvrage référencé PZ9 situé en aval hydraulique du site.	'en arsenic'	
+2007								vont_en_diminuant	- des teneurs significatives en phénols en Pz9 (ancien bassin tampon des eaux blanches et rejet des eaux claires) qui vont en diminuant seulement depuis 2007 ; absence de phénols dans les prélèvements Avance ;	'phénols', 'phénols'	
+2015	02			2015	02			a_été_ajouté	En février 2015, un ouvrage Pz16 a été ajouté en amont de la lagune temporaire de stockage des eaux d'incendie (suite incident).	'Pz16'	
+2014				2014				a_été_créé_en	En 2014, un nouvel ouvrage a été créé en plus des 15 déjà en place, le Pz11bis pour remplacer le Pz11 qui a été détruit.		
+2014	11	07		2014	11	07		en_découle	Un arrêté préfectoral de mise en urgence en découle le 07/11/2014.		

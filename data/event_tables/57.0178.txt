@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				ont_été_enlevées	Ainsi, en 2007, des terres polluées aux hydrocarbures et de l'eau contenant des hydrocarbures ont été enlevées et traitées.	'hydrocarbures', 'hydrocarbures'	
+2012				2012				Le_suivi	Le suivi de la qualité des eaux souterraines en 2012 a mis en évidence :		
+2006	03	28		2006	03	28		de_déclaration	.F. bénéficie du récépissé de déclaration du 28 mars 2006 pour la poursuite de l’exploitation d'une station-service.		
+2003				2003				un_diagnostic_environnemental	Dans le cadre du transfert des activités, la société TOTAL a effectué un diagnostic environnemental en 2003.		'la société TOTAL'

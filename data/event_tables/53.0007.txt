@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				a_été_progressivement_transformé	A partir de 1960, le site a été progressivement transformé.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2003				2003				une_étude_historique	Conformément aux engagements pris dans le protocole, Gaz de France a réalisé en 2003 une étude historique avec localisation des cuves.		'Gaz de France'
+1862				1960				a_accueilli	Le site de Laval a accueilli de 1862 à 1960 des installations liées à la fabrication du gaz à partir de la distillation de la houille.		

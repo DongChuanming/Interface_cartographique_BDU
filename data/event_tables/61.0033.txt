@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	05			1995	05			a_été_excavée	Seule une partie des déchets (60 m3 sur un total de 240 m3) a été excavée et évacuée par les Etablissements Julienne en mai 1995.		'les Etablissements Julienne'
+1991				1991				a_été_réaménagé	Le site a été réaménagé en 1991 (destruction de l'atelier d'effilochage d'amiante, aménagement d'une réserve à poissons).		
+2006	07	26		2006	07	26		a_été_constatée	Lors de la visite de l'inspection des installations classées (IC) le 26 juillet 2006, l'absence de déchets d’amiante issus de l'activité industrielle passée a été constatée.	'déchets d’ amiante'	
+1954				1978				y_a_également_été_exercée	De  1954 à 1978, une activité, non déclarée, d'effilochage de fils d'amiante invendable y a également été exercée pour le compte de la société Ferlam .	"d' amiante invendable"	'de la société Ferlam'
+1984				1984				de_la_vente_du_site	Lors de la vente du site en 1984, 25 tonnes d'amiante ont été récupérées par le fournisseur d'origine (Ferlam).	'amiante'	'Ferlam'
+2006	07	26		2006	07	26		de_la_visite	Lors de la visite de l'inspection des installations classées (IC) le 26 juillet 2006, l'absence de déchets d’amiante issus de l'activité industrielle passée a été constatée.	'déchets d’ amiante'	
+1994				1994				a_été_mis_à_jour	En 1994, un stockage de déchets d'amiante enterré a été mis à jour suite à un incendie.		
+1984				1984				a_été_acheté	En 1984, le site a été acheté par la Fédération de Pêche de l'Orne et l’association de pêche de la Flérienne.		'la Fédération de Pêche'

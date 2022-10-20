@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	08			2009	08			Les_opérations_de_dépollution	Les opérations de dépollution par excavation des sols de cette zone ont été menées en août 2009 et ont excavées, sur des profondeurs allant jusqu’à 2,6 m, 1300 m³ de terres envoyées vers des filières adaptées.		
+2008				2008				ont_eu_lieu	L'arrêt définitif des activités sur le site et leur transfert vers une zone d’activité située dans la même commune ont eu lieu fin 2008.		
+2005				2005				nettoyé	• le plan d'eau a été recalibré et nettoyé en 2005 ;		
+2006	02	16		2006	02	16		a_fait_part_de	Lors de la visite de l'inspection des installations classées du 16 février 2006, l'exploitant a fait part de son projet de déménagement sur un nouveau site en zone industrielle de Sainte-Pazanne.		
+2008	03	25		2008	03	25		a_transmise	Un arrêté préfectoral complémentaire le 10 avril 2007 a imposé l’exploitant une étude approfondie pour la définition de mesures de gestion qu’il a transmise le 25 mars 2008 puis complétée en octobre 2008 par une analyse des risques résiduelles.		
+2012	06	19		2012	06	19		Un_procès_verbal_de_récolement	Un procès-verbal de récolement a été établi conformément aux dispositions du code de l'environnement le 19 juin 2012.		
+1965				1965				a_démarré	L'activité de fabrication artisanale de charpentes a démarré en 1965 et a fait l’objet en 1968, d’un récépissé de déclaration au titre de la réglementation sur les installations classées.		
+1968				1968				a_fait_l__objet	L'activité de fabrication artisanale de charpentes a démarré en 1965 et a fait l’objet en 1968, d’un récépissé de déclaration au titre de la réglementation sur les installations classées.		
+2006				2006				investi_gués	Les puits privés en nappe superficielle, investi gués en 2006, ne montrent pas d’impact du fait du site.		
+2012	05			2012	05			de_nouveaux_prélèvements	En mai 2012, de nouveaux prélèvements et analyses sont menés sur les 3 puits privés en nappe  profonde et sur PZ2.		
+1973				1999				divers_agrandissements	La société LEDUC créée en 1971, a opéré entre 1973 et 1999 divers agrandissements et développements d’activités mettant en œuvre des bacs de traitement de bois par immersion ainsi qu’une installation de distribution de carburants pour les véhicules de la société.	'carburants'	'La société LEDUC'
+2019				2019				est_intervenue	Dans le cadre d’une démarche de levée de doutes, à la demande de la DREAL, l’ADEME (Agence de l’Environnement et de la maîtrise de l’Energie) est intervenue en 2019 pour		'la DREAL', 'Energie'
+2007				2007				investigué	Un troisième puits privé (C) investigué en 2007 en aval hydraulique du site ne montrait pas d’impact du fait du site.		
+2005				2005				de_l__étang	Historiquement, cet étang a subi des incidents de pollutions et des curages de sédiments ont été menés (dernier « nettoyage » de l’étang en 2005).		
+2009				2010				La_cessation_d__activité	La cessation d’activité, la mise en sécurité et la remise en état du site pour un usage d’habitation ont eu lieu entre 2009 et 2010.		
+1971				1971				créée	La société LEDUC créée en 1971, a opéré entre 1973 et 1999 divers agrandissements et développements d’activités mettant en œuvre des bacs de traitement de bois par immersion ainsi qu’une installation de distribution de carburants pour les véhicules de la société.	'carburants'	'La société LEDUC'
+2006	11			2006	11			a_été_transmise	Une caractérisation de la pollution des sols et des eaux souterraines a été transmise par l'exploitant en novembre 2006.		
+2010	02			2010	02			Des_analyses	Des analyses des eaux et des sédiments du plan d’eau en pesticides organochlorés ont été réalisés en février 2010.	'pesticides organochlorés'	
+2011	12			2011	12			ont_été_investi_gués	Des mesures des eaux souterraines réalisées en juin 2011 au niveau de PZ2 montrent encore un impact en Lindane et en HCH totaux  mais bien moindres qu’en septembre 2009. 3 puits d’eau situés au niveau de nappe profonde et en aval du site ont été investi gués en décembre 2011 à la demande de l’Inspection.	'Lindane', 'HCH'	
+2006	02	16		2006	02	16		de_la_visite	Lors de la visite de l'inspection des installations classées du 16 février 2006, l'exploitant a fait part de son projet de déménagement sur un nouveau site en zone industrielle de Sainte-Pazanne.		

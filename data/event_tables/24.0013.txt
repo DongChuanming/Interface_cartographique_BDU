@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	07		2004	01	07		a_transmis	Gaz de France a transmis le rapport parcellaire à la DRIRE en date du 7 janvier 2004.		'Gaz de France', 'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2004				2004				une_étude_historique	Conformément aux engagements pris dans le protocole, Gaz de France réalisera d'ici 2004 une étude historique avec localisation des cuves, qui seront systématiquement vidées et comblées.		'Gaz de France'
+2004	06			2004	06			ont_été_vidangés	Les deux ouvrages ont été vidangés en juin 2004, 46 tonnes de remblais souillés ont été acheminés et traités chez SIAP, en même temps que le caniveau démantelé.		'SIAP'
+2004	03	11		2004	03	11		la_procédure_de_vidange_lancée	Le 11/03/04, Lors de la procédure de vidange lancée le 11 mars 2004, a mis en évidence une cuve située sous celui-ci.		
+2004	03	11		2004	03	11		a_mis_en_évidence	Le 11/03/04, Lors de la procédure de vidange lancée le 11 mars 2004, a mis en évidence une cuve située sous celui-ci.		
+2004	11	08		2004	11	08		a_été_envoyé	Le rapport de fin de chantier a été envoyé à la DRIRE le 8 novembre 2004.		'la DRIRE'
+								a_mis_en_évidence	Le 11/03/04, Lors de la procédure de vidange lancée le 11 mars 2004, a mis en évidence une cuve située sous celui-ci.		

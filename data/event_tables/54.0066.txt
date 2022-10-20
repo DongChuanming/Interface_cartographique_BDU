@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07	28		2000	07	28		a_été_prescrite	La surveillance de l'impact du site sur les eaux souterraines et de la Moselle a été prescrite par arrêté préfectoral du 28/07/2000.		
+2006	05	24		2006	05	24		a_été_mis_en_place	Il a été mis en place le 24 mai 2006 et a consisté en la réalisation de 4 sondages (3 à 0.3m de profondeur et 1 à 2.05m).		
+2007	11			2007	11			Les_analyses	Les analyses de novembre 2007 sur le piézomètre G2 montrent que la teneur en fluorures a augmenté par rapport aux campagnes d'analyses précédentes et est supérieure à la valeur de référence ER.	'fluorures'	
+2003				2003				ce_crassier	Une étude réalisée sur ce crassier en 2003, a mis en évidence la présence d'une zone constituée de laitiers pollués par des goudrons (HAP)et partiellement par des cyanures et des métaux lourd.	'HAP)et', 'des cyanures', 'métaux lourd'	
+2007				2007				Une_étude_de_caractérisation	Une étude de caractérisation du site a été réalisée courant 2007 montrant notamment qu'une zone du crassier correspondant à une fosse comblée avec des déblais de démolition de la cokerie et présente des teneurs en métaux et HAP marquées.	'métaux', 'HAP'	
+2007	06			2007	06			de_la_campagne	Comme lors de la campagne de juin 2007, la teneur en DCO est supérieure à la valeur de référence sur le piézomètre G2.	'DCO'	
+2007				2007				Une_évaluation_de_risque	Une évaluation de risque sanitaire pour un usage industriel a alors été menée en aout 2007.		
+2003				2003				a_mis_en_évidence	Une étude réalisée sur ce crassier en 2003, a mis en évidence la présence d'une zone constituée de laitiers pollués par des goudrons (HAP)et partiellement par des cyanures et des métaux lourd.	'HAP)et', 'des cyanures', 'métaux lourd'	
+2000				2000				s__est_poursuivie	La gestion de ce secteur est assuré par la Société des Aciers d'armatures pour le Béton (SAM) pour les alvéoles dont l'exploitation s'est poursuivie au-delà de 2000 et par la société ARCELORMITTAL France pour les alvéoles dites historiques.		'la Société des Aciers', 'le Béton ( SAM', 'la société ARCELORMITTAL France'

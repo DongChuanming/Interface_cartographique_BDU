@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12			2011	12			a_été_réalisé_par	Compte tenu des impacts constatés et du projet d’aménagement prévoyant le terrassement de terres (fondations bâtiment), un plan de gestion a été réalisé par BURGEAP en décembre 2011 en se basant sur les éléments de l’EQRS réalisée par HPC en 2007.		'BURGEAP', 'HPC'
+2007	10			2007	10			une_Évaluation	Sur la base de ces résultats, une Évaluation Quantitative des Risques Sanitaires (EQRS) a été réalisée en octobre 2007 par HPC.	'Risques Sanitaires'	'HPC'
+2006	11			2006	11			__réalisation	· novembre 2006 : réalisation de 19 sondages et de 3 piézomètres (profondeurs des sondages et des piézomètres non précisées) ;		
+2013	06			2013	06			dernières_évacuations_de_terres	Les dernières évacuations de terres devaient se dérouler courant juin 2013.		
+2013	03			2013	03			Les_travaux_de_dépollution	Les travaux de dépollution ont été engagés en mars 2013 par la société BOUTTE.		'la société BOUTTE'
+								1_5_m_de_profondeur	1 zone d'une superficie de 650 m², entre 0,05 et 1,5 m de profondeur (concentration max. = 16 041 mg/kg en),		
+				1974				__exploitation	· jusqu’en 1974 : exploitation du site par la société SICOT (entreprise de déménagement) ;		'la société SICOT'
+2007	06			2007	06			__réalisation_de_18_sondages	· juin 2007 : réalisation de 18 sondages  jusqu’à 3,6 m au maximum, de 4 prélèvements d’air des sols  et de prélèvements d’eaux souterraines dans les 3 piézomètres existants.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07	09		1998	07	09		ont_été_remis_respectivement	Les rapports d'études des étapes A et B ont été remis respectivement les 9 juillet 1998 et 28 janvier 1999.		
+2013	07			2013	07			a_transmis	L'exploitant a transmis le rapport associé à cette étude en juillet 2013.		
+2012				2012				une_actualisation	Afin de vérifier cette hypothèse, une actualisation du diagnostic des sols de 1999 évoqué ci-dessus, selon la méthodologie introduite par la circulaire du 08/02/2007 relative à la nouvelle approche de gestion des sites et sols pollués a été prescrite en 2012.		
+1985				1985				implantée	Installation de distillation et de régénération de solvants chlorés implantée depuis 1985 sur la plate-forme SOBEGI de Mourenx.	'solvants chlorés'	'la plate - forme SOBEGI'
+1999	01	28		1999	01	28		ont_été_remis_respectivement	Les rapports d'études des étapes A et B ont été remis respectivement les 9 juillet 1998 et 28 janvier 1999.		
+1999				1999				diagnostic_des_sols	Afin de vérifier cette hypothèse, une actualisation du diagnostic des sols de 1999 évoqué ci-dessus, selon la méthodologie introduite par la circulaire du 08/02/2007 relative à la nouvelle approche de gestion des sites et sols pollués a été prescrite en 2012.		
+				2012				Les_différentes_campagnes_de_suivi	Les différentes campagnes de suivi réalisées (jusqu'en 2012) au droit du site ont permis de mettre en évidence la présence, à des concentrations significatives :		
+1997	03	13		1997	03	13		ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine d'une pollution potentielle du sol et du sous-sol, un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par l'arrêté du 13 mars 1997.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09	16		2003	09	16		__a_été_remise	L'ESR  a été remise le 16/04/2003, complétée le 16/09/2003.		"L' ESR"
+2003	04	16		2003	04	16		__a_été_remise	L'ESR  a été remise le 16/04/2003, complétée le 16/09/2003.		"L' ESR"
+2001	10	17		2001	10	17		ont_été_trouvées	Le 17 octobre 2001, des traces de xylène ont été trouvées en surface d'un puits artésien aujourd'hui inexploité et implanté sur le site de l'usine.	'xylène'	
+								les_pompages_entrepris	En ce qui concerne la pollution constatée, les pompages entrepris le 17 octobre ont cessé le 15 décembre suivant et ont permis la récupération de 200l d'un mélange eau-xylène.	'xylène'	
+1926				1926				__année_de_création	L'usine est spécialisée dans la fabrication de peintures et vernis depuis 1926, année de création de la société Prospa.		'la société Prospa'

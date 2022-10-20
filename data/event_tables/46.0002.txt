@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	02	17		1992	02	17		est_actuellement_réglementé	Ce site est actuellement réglementé par un arrêté préfectoral d'autorisation du 17 février 1992.		
+2001	09	17		2001	09	17		ont_été_remis	A l'issue de ces deux phases, le rapport de l'étape B et l'évaluation simplifiée des risques ont été remis à la DRIRE Midi-Pyrénées le 17 septembre 2001.		'la DRIRE Midi'
+2001	04	17		2001	04	17		a_été_remis	Le rapport de l'étape A de l'étude (étude documentaire de l'historique et de la vulnérabilité environnementale du site) a été remis à la DRIRE Midi-Pyrénées le 17 avril 2001.		'la DRIRE Midi'
+2016	06	21		2016	06	21		a_écrit	La poursuite de cette surveillance n'étant plus justifiée, Madame la Préfète a écrit à l'exploitant, le 21 juin 2016 pour lui signifier l'arrêt de la surveillance.		'Madame la Préfète'
+2004	09			2005	04			Les_premières_mesures_réalisées	Les premières mesures réalisées entre septembre 2004 et avril 2005 avaient fait apparaitre des teneurs élevées en plomb sur l'un des points de prélèvement, liées à une erreur relative au protocole d'échantillonnage.	'plomb'	
+2005	06			2005	06			ont_été_constatés	Seuls deux dépassements des seuils de détection ont été constatés depuis la mise en place de cette surveillance (juin 2005) et ont montré une valeur maximale de 18 microgrammes/l pour le plomb et 47 microgrammes/l pour le toluène.	'le plomb', 'le toluène'	
+2001	05			2001	05			a_été_effectuée	L'étape B (investigations de terrain) incluant la réalisation de 4 sondages avec prises d'échantillons de sols et la mise en place de 2 piézomètres, l'un à l'amont et à l'autre à l'aval du site, a été effectuée en mai 2001.		

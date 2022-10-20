@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				le_diagnostic	Sur sa propre initiative, l'exploitant fait réaliser en 2002 le diagnostic des sols et de la nappe qui révèle un impact des sols de l'ancienne zone du parc à déchets par des solvants chlorés.	'solvants chlorés'	
+2008	04	03		2008	04	03		demande	Le 03/04/2008, la DRIRE demande à l'exploitant de faire réaliser le diagnostic approfondi de la zone et de définir la (ou les) solution(s) de dépollution, préalablement à l'aménagement de ce bassin.		'la DRIRE'
+2002				2002				étude_simplifiée_des_risques	La surveillance périodique des eaux souterraines mise en place sur le site fait suite aux conclusions de l'étude simplifiée des risques réalisée en 2002 et qui relève en conséquence de l’article 65 b) de l’arrêté ministériel du 2 février 1998 modifié relatif à la surveillance des eaux souterraines de par ses activités actuelles et passées et de par la sensibilité ou la vulnérabilité des eaux souterraines.		
+2007				2007				Les_deux_campagnes	Les deux campagnes de 2007 montrent un impact par le Trichlorométhane dans un piézomètre à l'aval des deux zones ci-dessus.	'Trichlorométhane'	
+2005				2012				Les_campagnes_semestrielles	Les campagnes semestrielles de 2005 à 2012 montrent :		
+2008				2008				La_création	La création du bassin de récupération des eaux d'extinction d'incendie de 700 m3 est programmée pour l'été 2008.	"des eaux d' extinction"	
+2012	07			2012	07			est_opérationnel	Ce bassin est opérationnel depuis juillet 2012.		
+2008				2013				n__est_plus_détecté	Ce polluant n'est plus détecté de 2008 à 2013 en périodes de hautes et basses eaux,	'Ce polluant'	
+2010	08			2010	08			Ce_diagnostic	Ce diagnostic réalisé en juillet/août 2010 ne révèle pas d'anomalies nécessitant la mis en oeuvre de travaux de remédiation.		
+								Ce_diagnostic	Ce diagnostic réalisé en juillet/août 2010 ne révèle pas d'anomalies nécessitant la mis en oeuvre de travaux de remédiation.		
+2007	01	11		2007	01	11		du	Cependant, ce paramètre ne figurant pas dans les valeurs guides des arrêtés du 17 décembre 2008 et du 11 Janvier 2007.		
+2001	03			2001	03			La_campagne_de	La campagne de mars 2001 montre la présence de traces de Chloroforme 95µg/l, tétrachloréthylène 1,4µg/l et dichlorométhane 9,6µG/l dans le PZ3 (aval hydraulique parc à déchets).	'Chloroforme', 'tétrachloréthylène', 'dichlorométhane 9,6µG'	
+2010	08			2010	08			Le_diagnostic_réalisé_en	Le diagnostic réalisé en août 2010 montre que :		

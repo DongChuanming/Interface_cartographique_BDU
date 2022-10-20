@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11			2010	11			Des_études_menées	Des études menées dans le cadre des mesures de gestion liées à l'état du sous-sol du site ont été réalisées le 29/06/2010 puis complétées en novembre 2010 et en janvier 2011.		
+2010	12			2010	12			Une_simulation_de_transfert	Une simulation de transfert de la pollution résiduelle des eaux souterraines en cadmium a également été menée en décembre 2010.	'cadmium'	
+2002	12	31		2002	12	31		à_la_cessation_de_son_activité_intervenue	La société MBDA y a exercé une activité de fabrication et d'essais de pièces d'armement jusqu'à la cessation de son activité intervenue le 31/12/2002 (procès verbal de récolement du 20/12/2005).		'La société MBDA'
+2010	11			2010	11			puis_complétées	Des études menées dans le cadre des mesures de gestion liées à l'état du sous-sol du site ont été réalisées le 29/06/2010 puis complétées en novembre 2010 et en janvier 2011.		
+2011	01			2011	01			puis_complétées	Des études menées dans le cadre des mesures de gestion liées à l'état du sous-sol du site ont été réalisées le 29/06/2010 puis complétées en novembre 2010 et en janvier 2011.		
+2010	06	29		2010	06	29		Des_études_menées	Des études menées dans le cadre des mesures de gestion liées à l'état du sous-sol du site ont été réalisées le 29/06/2010 puis complétées en novembre 2010 et en janvier 2011.		
+2006	03	30		2006	03	30		a_été_signée	Une convention de servitudes a été signée entre la Commune de Salbris, l'État et MBDA (publication et enregistrement aux hypothèques le 30 mars 2006).		'la Commune', 'MBDA'
+1985				1985				démantelée	Ces sols auraient été impactés par des éluas ou des sédiments de curage issus de l'ancienne station d'épuration (démantelée vers 1985).		
+2011	01			2011	01			Des_études_menées	Des études menées dans le cadre des mesures de gestion liées à l'état du sous-sol du site ont été réalisées le 29/06/2010 puis complétées en novembre 2010 et en janvier 2011.		

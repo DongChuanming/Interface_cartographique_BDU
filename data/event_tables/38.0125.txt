@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				des_opérations_de_dépollution	Suite a ce diagnostic, des opérations de dépollution ont été mises en œuvre par la société ATE en 1997.		'la société ATE'
+1996	04	16		1996	04	16		a_été_envoyé	Un mémoire de cessation d'activité a été envoyé à l'inspection des installations classées en date du 16/04/1996.		
+2004	06			2004	06			Une_nouvelle_campagne_d__investigations	Une nouvelle campagne d’investigations a été réalisée en juin 2004 par SERPOL dans le cadre des différents projets de réhabilitation du site. 26 sondages ont été réalisés et 4 piézomètres ont été implantés sur le site, les paramètres analysés ont été les HCT, les Hydrocarbures Aromatiques Polycycliques (HAP) et monocycliques (BTEX) et métaux lourds.	'les HCT', 'les Hydrocarbures Aromatiques Polycycliques', 'HAP', 'monocycliques', 'BTEX', 'métaux lourds'	'SERPOL'
+2005	05	31		2005	05	31		Un_diagnostic_approfondi_des_sols	Un diagnostic approfondi des sols a été réalisé par le cabinet BLONDEL en date du 31/05/2005. 3 sondages ont été réalisés en différent point du lot.		'le cabinet BLONDEL'
+1975	02	21		1975	02	21		a_été_autorisée	Cette activité a été autorisée par l'arrêté du 04/09/1974, modifié le 21/02/1975.		
+2005	06	23		2005	06	23		a_transmis	L'inspection des installations classées a transmis le 23 juin 2005 des observations sur l'EDR.		
+1996	03			1996	03			Un_premier_diagnostic	Un premier diagnostic du site a été réalisé par la société SIMECSOL dans le cadre de la cessation d’activité du DPG en mars 1996.		'la société SIMECSOL', 'DPG'
+1997	08			1997	08			a_été_réalisé	Parallèlement à ces travaux, un diagnostic complémentaire a été réalisé en août 1997 par ATE.		
+2005	08	30		2005	08	30		Une_étude_hydrogéologique	Une étude hydrogéologique a été réalisée par le cabinet BLONDEL le 30/08/2005 en vue de la mise en place d’un suivi de la qualité des eaux souterraines.		'le cabinet BLONDEL'
+2005	08	04		2005	08	04		Un_diagnostic_approfondi_des_sols	Un diagnostic approfondi des sols a été réalisé par le cabinet BLONDEL en date du 04/08/2005. 2 sondages ont été réalisés lors de cette étude.		'le cabinet BLONDEL'
+1974				1974				s__implante	En 1974, la société DPG (Dépôt Pétrolier du Gresivaudan) s'implante sur le site qui été auparavant occupé par des terrains agricoles.		'la société DPG'
+2005	06	06		2005	06	06		Un_diagnostic_approfondi_des_sols	Un diagnostic approfondi des sols a été réalisé par le cabinet BLONDEL en date du 06/06/2005. 15 sondages ont été réalisés sur la zone lors de cette étude.		'le cabinet BLONDEL'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	07	28		2015	07	28		à_la_cessation_d__activité	Suite à la cessation d'activité du 28/07/2015, la mise en sécurité du site a été effectuée par l'exploitant, comme suit :		
+2015	07	28		2015	07	28		a_cessé	Le 28/07/2015, le site a cessé son activité de stockage et de distribution de carburants par liquidation judiciaire de la SA CLEMABA.	'carburants'	'la SA CLEMABA'
+2017	11			2017	11			a_été_réalisée	Une interprétation de l'Etat des Milieux (IEM) a été réalisée en novembre 2017.		
+2018				2018				Aucun_travaux_de_dépollution	Aucun travaux de dépollution n'ont été réalisés en 2018.		
+2016	09			2016	09			Ces_investigations_réalisées	Ces investigations réalisées en septembre 2016 ont mis en évidence :		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			un_diagnostic	Suite à ces travaux un diagnostic des sols et des eaux souterraines a été mené en avril 2014, le rapport SERPOL 7492-2 associé conclut à l'absence d'anomalie dans les sols, à la présence de traces d'hydrocarbures et de BTEX dans les eaux souterraines et à l'absence de voies de transfert.	'hydrocarbures', 'BTEX'	
+2004	10			2004	10			ont_été_retirées	Suite à des travaux en octobre 2004, 12.5t de terres souillées ont été retirées.		
+2004	10			2004	10			à_des_travaux	Suite à des travaux en octobre 2004, 12.5t de terres souillées ont été retirées.		
+2003	07	31		2003	07	31		ont_été_démantelées	Ces unités ont été démantelées au 31 juillet 2003 car elles avaient permis d'atteindre l'objectif fixé par le prestataire en matière de dépollution à savoir 1mg/L d'hydrocarbures dans les eaux souterraines (limite de potabilité des eaux) et 5000mg/kg dans les sols.	'hydrocarbures'	
+2013				2013				ont_été_évacuées	Suite à des travaux de rénovation en 2013, 37.92t de terres impactées ont été évacuées en biocentre et des mesures quant aux impacts résiduels ont été réalisées.		
+2013				2013				à_des_travaux_de_rénovation	Suite à des travaux de rénovation en 2013, 37.92t de terres impactées ont été évacuées en biocentre et des mesures quant aux impacts résiduels ont été réalisées.		
+2002				2002				à_une_pollution	Suite à une pollution aux hydrocarbures (gazole) en 2002, l'exploitant a procédé à des travaux de dépollution de type biologique in situ avec récupération de phases libres (200L de produits purs récupérés).	'hydrocarbures', 'gazole'	
+2002				2002				a_procédé	Suite à une pollution aux hydrocarbures (gazole) en 2002, l'exploitant a procédé à des travaux de dépollution de type biologique in situ avec récupération de phases libres (200L de produits purs récupérés).	'hydrocarbures', 'gazole'	

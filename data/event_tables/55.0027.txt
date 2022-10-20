@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				L__exploitation_du_crassier	L'exploitation du crassier a cessé pendant l'été 2002.		
+2003	10	09		2003	10	09		Cette_étude_a_été_réalisée	Cette étude a été réalisée par les Fonderies de Vaucouleurs, le rapport final a été remis à la DRIRE le 9 octobre 2003.		'les Fonderies', 'de Vaucouleurs', 'la DRIRE'

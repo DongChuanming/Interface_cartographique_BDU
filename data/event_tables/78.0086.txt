@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				Un_porter_à_connaissance	Un porter à connaissance de l’État a été livré au Maire de Triel-sur-Seine par lettre en 2011.		
+2005				2005				la_réalisation_d__un_diagnostic_initial	Considérant l'intention de l'exploitant de cesser l'activité de son site dans le courant de l'année 2005, un arrêté préfectoral du 10 janvier 2005 a imposé à la société LABO SERVICES la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR).		'la société LABO SERVICES'
+2005				2005				cesser_l__activité	Considérant l'intention de l'exploitant de cesser l'activité de son site dans le courant de l'année 2005, un arrêté préfectoral du 10 janvier 2005 a imposé à la société LABO SERVICES la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR).		'la société LABO SERVICES'
+2005	09			2005	09			ont_été_fournis	Ces documents ont été fournis en septembre 2005.		
+2008	02			2008	02			La_vente_du_terrain	La vente du terrain ayant eu lieu en février 2008.		
+2011	06	28		2011	06	28		ont_été_neutralisés	Les piézomètres Pz1 à Pz4 ont été neutralisés le 28 juin 2011.		
+2005	12			2005	12			a_déclaré_sa_cessation_d__activité_définitive	La société LABO SERVICES a déclaré sa cessation d'activité définitive en décembre 2005.		'société LABO SERVICES'
+2011				2011				l__arrêt	Compte tenu des résultats et de la pollution résiduelle (traces) en considérant les valeurs de référence en vigueur, l'arrêt de la surveillance de la qualité des eaux souterraines a été acté début 2011.		
+1998				1998				a_exploité	La société LABO SERVICES a exploité un centre de transit, de regroupement et de pré-traitement de déchets industriels à partir de 1998.	'déchets industriels'	'La société LABO SERVICES'
+2012	01			2012	01			a_été_transmis	Le rapport relatif aux opérations de comblement des piézomètres a été transmis en janvier 2012.		

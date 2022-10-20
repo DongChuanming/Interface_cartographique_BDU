@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977				1977				a_été_découverte	Une pollution des terrains ayant accueilli l’usine a été découverte en 1977 : la présence de boues issues du traitement des eaux résiduaires de l'établissement SOTRACMI a été constatée.	'eaux résiduaires'	'SOTRACMI'
+1992				1992				un_diagnostic	Le BRGM a réalisé, en 1992, un diagnostic de la qualité des sols qui a mis en évidence la présence de métaux (plomb, manganèse...) en quantité importante dans la partie superficielle des sols.	'métaux', 'plomb', 'manganèse'	'Le BRGM'
+2001	05	09		2001	05	09		ont_été_condamnés_à	Par décision du Conseil d'État du 9 mai 2001, l'État et la commune ont été condamnés à indemniser les propriétaires des 9 parcelles incriminées, le reste devant être à la charge du lotisseur.		
+2013	03	28		2013	03	28		a_été_interrogée	La mairie a été interrogée le 28 mars 2013 sur le type d’informations transmises aux occupants.		'La mairie'
+1992				1992				implanté	Un piézomètre de contrôle, implanté en 1992, a permis de vérifier la qualité de la nappe superficielle retenue par des assises argileuses protégeant les autres nappes souterraines sous-jacentes.		
+2013	02	28		2013	02	28		s__est_rendue_sur_site	L'inspection des installations classées s'est rendue sur site le 28 février 2013 et a constaté que des maisons individuelles ont été construites sur les deux dernières parcelles en friche.		
+1992	06			1992	06			Une_étude_a_donc_été_menée	Une étude a donc été menée par le BRGM, en juin 1992, en vue de déterminer la qualité des sols au droit de la zone pavillonnaire ainsi créée.		'le BRGM'
+2008	09	09		2008	09	09		a_proposé	L'inspection des installations classées a proposé le 9/09/2008 à monsieur le préfet de demander à la mairie de Saint Chéron d'établir un dossier de servitudes d'utilité publique sur les parcelles concernées.		'le préfet', 'la mairie de Saint Chéron'
+				1972				a_exploité	La société SOTRACMI a exploité jusqu’en 1972 des activités de la fabrication de dioxyde de manganèse destiné à la production de piles électriques.	'dioxyde de manganèse'	'La société SOTRACMI'
+1974				1974				la_démolition_des_bâtiments_survenue	Aucune opération particulière de remise en état du site n'a été engagée lors de l'arrêt de l'installation excepté la démolition des bâtiments survenue en 1974.		

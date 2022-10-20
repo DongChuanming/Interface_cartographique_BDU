@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09			2010	09			des_travaux_de_traitement	Suite au constat d'une re-mobilisation d'hydrocarbures sous forme dissoute en aval et au droit du site, des travaux de traitement par injection d'oxygène dissous dans la nappe ont été menés d'avril à septembre 2010.	'hydrocarbures', 'oxygène'	
+2007				2007				l__apparition_pour_la_première_fois	- avec l'apparition pour la première fois depuis 2007 d'une phase libre d'hydrocarbures de type fioul domestique ou gasoil non routier (2 cm d'épaisseur) en latéral du parc à cuves ;	'hydrocarbures', 'fioul domestique', 'gasoil', 'non routier'	
+2005				2005				un_diagnostic	Fin 2005, un diagnostic et une évaluation quantitative des risques sanitaires ont été réalisés : le site est identifié en classe 2 (site à surveiller).		
+2006	03			2006	03			a_été_arrêtée	La barrière hydraulique a été arrêtée en mars 2006.		
+2003	03	10		2003	03	10		déclaration_de_succession	La société Bolloré Energie a été autorisée à exploiter un dépôt pétrolier par récépissé de déclaration du 7 août 1975 et récépissé de déclaration de succession du 10 mars 2003.		'La société Bolloré Energie'
+2014	08			2014	08			des_campagnes_trimestrielles	Dans ce contexte, des campagnes trimestrielles ont eu lieu d'octobre 2013 à août 2014.		
+2004	11			2004	11			un_déversement_accidentel	En novembre 2004, un déversement accidentel de 9m3 de fioul domestique, lors du chargement d'une cuve de stockage, a généré une pollution des sols et des eaux souterraines par des hydrocarbures.	'fioul domestique', 'hydrocarbures'	
+2011	08			2011	08			Des_études_complémentaires	Des études complémentaires (investigations complémentaires des sols, Interprétation de l'Etat Milieu, Analyse des Risques Résiduels d'août 2011 à janvier 2012) ont démontré que :		
+1975	08	07		1975	08	07		par_récépissé	La société Bolloré Energie a été autorisée à exploiter un dépôt pétrolier par récépissé de déclaration du 7 août 1975 et récépissé de déclaration de succession du 10 mars 2003.		'La société Bolloré Energie'
+								des_travaux_de_traitement	Suite au constat d'une re-mobilisation d'hydrocarbures sous forme dissoute en aval et au droit du site, des travaux de traitement par injection d'oxygène dissous dans la nappe ont été menés d'avril à septembre 2010.	'hydrocarbures', 'oxygène'	
+2012	01			2012	01			Des_études_complémentaires	Des études complémentaires (investigations complémentaires des sols, Interprétation de l'Etat Milieu, Analyse des Risques Résiduels d'août 2011 à janvier 2012) ont démontré que :		
+2014	08			2014	08			Le_suivi_d_	Le suivi d'août 2014 met en évidence :		
+2013	10			2013	10			des_campagnes_trimestrielles	Dans ce contexte, des campagnes trimestrielles ont eu lieu d'octobre 2013 à août 2014.		

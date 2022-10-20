@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_été_inertée	- la cuve U2 a été inertée en 1992 ;		
+2004	07			2004	07			un_diagnostic_des_sols_établi	* un diagnostic des sols établi par SITA REMEDIATION en juillet 2004 ;		'SITA REMEDIATION'
+2005	04	25		2005	04	25		rapport_de_dépollution	Par courrier du 16/05/2005, la société PHOENIX a transmis à la DRIRE un mémoire définitif sur l'état du site datant du 13/05/2005 et le rapport de dépollution du site datant du 25/04/2005.		'la société PHOENIX', 'la DRIRE'
+1999	05			1999	05			un_diagnostic_des_sols_établi	* un diagnostic des sols établi par le bureau d'étude ATE en mai 1999 ;		
+1930				1930				un_usage_industriel	Ce site fait l'objet d'un usage industriel depuis 1930, avec la société PIRELLI, puis la société ICS et enfin la société PHOENIX.		'la société PIRELLI', 'la société ICS', 'la société PHOENIX'
+2004	12	10		2004	12	10		établi	* un rapport de reconnaissance du site établi par PESCHLA+ROHMES le 10/12/2004.		'PESCHLA+ROHMES'
+2004	03	25		2004	03	25		un_diagnostic_environnemental	* un diagnostic environnemental du site établi par le bureau d'étude URS le 25/03/2004 ;		'URS'
+2005	03	03		2005	03	07		Les_travaux_de_dépollution	Les travaux de dépollution ont été menés du 03/03/2005 au 07/03/2005.		
+2008	11	25		2008	11	25		a_été_radiée_du_registre_du_commerce	La société PHOENIX a été radiée du registre du commerce le 25/11/2008 (SIRET  56368026300016).		'La société PHOENIX'
+2000	05	02		2000	05	02		bénéficie_d_	La société bénéficie d'un arrêté préfectoral d'autorisation d'exploiter du 02/05/2000.		
+2004	12			2004	12			Un_compromis_de_vente	Un compromis de vente a été signé fin décembre 2004 :		
+2004	12	10		2004	12	10		un_rapport_de_reconnaissance	* un rapport de reconnaissance du site établi par PESCHLA+ROHMES le 10/12/2004.		'PESCHLA+ROHMES'

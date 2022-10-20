@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				sont_sous_traitées	En 1988/89, les opérations de traitement de surface sont sous-traitées à l’extérieur et l’atelier de chromage / nickelage est mis à l’arrêt.		
+2006	01			2006	01			La_dépollution	La dépollution du site a commencé en janvier 2006 et a été finie en décembre 2006.		
+2005	09	28		2005	09	28		a_transmis	Le 28 septembre 2005, la société RONIS a transmis à l’inspection des installations classées un rapport de recensement des usagers de la nappe, un diagnostic approfondi et une Evaluation Détaillée de Risques (EDR) avec un changement d'usage du site (immeubles d’habitation).		'la société RONIS'
+2005	07	25		2005	07	25		a_pris	Au vu de ces éléments, le préfet a pris le 25 juillet 2005 un arrêté d’urgence imposant l'excavation des terres les plus polluées (huiles) et la recherche d’éventuelles cibles susceptibles d’être concernées par la pollution des eaux souterraines.		'le préfet'
+2007	04	12		2007	04	12		s__est_rendu_sur_place	L’inspecteur des installations classées s’est rendu sur place le 12 avril 2007 et a visité l'ensemble de son site.		
+2006	03	1		2006	03	1		un_arrêté	Pour régulariser la situation administrative de l'EDR et imposer la surveillance des eaux souterraines au droit du site, le préfet a pris un arrêté le 1er mars 2006.		'le préfet'
+2006	03	1		2006	03	1		imposer	Pour régulariser la situation administrative de l'EDR et imposer la surveillance des eaux souterraines au droit du site, le préfet a pris un arrêté le 1er mars 2006.		'le préfet'
+								disposait_d_	La société RONIS disposait d'un arrêté préfectoral du 9 février 1977 modifié.		'La société RONIS'
+2005	09	30		2005	09	30		a_informé_de_l__arrêt_de	- a informé de l'arrêt de l'activité pour le 30 septembre 2005.		
+2006	12			2006	12			a_été_finie	La dépollution du site a commencé en janvier 2006 et a été finie en décembre 2006.		
+2007	04	24		2007	04	24		ont_été_transmis	L'EDR résiduelle du site et un dossier de servitudes ont été transmis à l’inspection des installations classées le 24 avril 2007.		
+1919				1919				a_démarré	La société RONIS (société Rhône Isère à l’époque) a démarré l’activité de fabrication de serrures et de clés sur le site en 1919.		'La société RONIS', 'société Rhône Isère'
+1977				1977				disposait_d_	La société RONIS disposait d'un arrêté préfectoral du 9 février 1977 modifié.		'La société RONIS'
+1993				1993				est_arrêtée	En 1993, la deuxième chaîne de galvanoplastie est arrêtée.		
+2006	12			2006	12			La_dépollution	La dépollution du site a commencé en janvier 2006 et a été finie en décembre 2006.		
+2007	05	04		2007	05	04		a_été_établi	Le procès verbal de récolement a été établi le 4 mai 2007.		

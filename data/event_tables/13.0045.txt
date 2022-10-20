@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	01	03		1990	01	03		est_autorisé_par	La société est autorisé par les AP du 24/12/1984, 3/01/1990, 9/10/1997, 22/09/1999.		'La société'
+2002	10	14		2002	10	14		a_cessé	SCORI a cessé ces activités le Lundi 14 Octobre 2002		'SCORI'
+1999	06	16		1999	06	16		a_classé	. du 16/06/1999 a classé le site en catégorie 2.		
+1997	10	09		1997	10	09		est_autorisé_par	La société est autorisé par les AP du 24/12/1984, 3/01/1990, 9/10/1997, 22/09/1999.		'La société'
+1999	09	22		1999	09	22		est_autorisé_par	La société est autorisé par les AP du 24/12/1984, 3/01/1990, 9/10/1997, 22/09/1999.		'La société'
+1984				1984				son_implantation_sur_site	Depuis son implantation sur site en 1984, la Compagnie des Huiles Usagées (COHU) a développé une activité de transit et  de prétraitement de déchets hydrocarburés (20.000 t /an) avec valorisation des hydrocarbures contenus sont forme de combustible de substitution.	'de déchets hydrocarburés', 'des hydrocarbures', 'de combustible de substitution'	'la Compagnie des Huiles Usagées', 'COHU'
+1999	01	01		1999	01	01		L__exploitation	L'exploitation du site a été reprise le 01/01/1999 par SCORI.		'SCORI'
+2002	10	14		2002	10	14		a_cessé	SCORI a cessé ces activités le Lundi 14 Octobre 2002.		'SCORI'
+2004	03			2004	03			a_été_remis	Un dossier de cessation d'activité a été remis en Mars 2004.		
+1983				1983				était_utilisés	Avant 1983, les terrains de ce site était utilisés par la raffinerie TOTAL témoin des activités antérieures.		

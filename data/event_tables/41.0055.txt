@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1840								était_exploité_par	Avant cette date et depuis 1840, le site était exploité par une tannerie pour la fabrication du cuir.		
+2004	03			2004	03			était_certifiée_ISO	L'entreprise était certifiée ISO 9001 version 2000 depuis mars 2004.		
+1986				1986				a_été_créée	La société LORCET, filiale du groupe Saint Gobain, a été créée en 1986 lors du rachat de la société par le groupe.		'La société LORCET', 'groupe Saint Gobain'
+2012	01	26		2012	01	26		a_été_mis_à_jour	Le diagnostic complémentaire de pollution des sols a été mis à jour le 26 janvier 2012.		

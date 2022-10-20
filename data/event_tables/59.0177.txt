@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Diagnostic_initial_phase_A_réalisé	- Diagnostic initial phase A réalisé en mars 98.		
+1994	03			1994	03			La_poursuite_de	La poursuite de l'exploitation, demandée en mars 1994, a été refusée par la Préfecture par AP du 17/05/1996.		'la Préfecture'
+1998	12			1998	12			Cessation_d__activité	- Cessation d'activité en décembre 1998.		
+2000	05	16		2000	05	16		__Remise_en_état_imposée	- Remise en état imposée par Arrêté préfectoral du 16/05/2000.		
+								Évaluation_Simplifiée_des_Risques	- Diagnostic initial phase B et Évaluation Simplifiée des Risques réalisés en mai 98 : site classé en catégorie 1 pour la paramètre sol et en catégorie 2 pour l'eau souterraine, superficielle et l'air.		
+1998	12			1998	12			Évaluation_détaillée_des_risques	- Diagnostic approfondi et Évaluation détaillée des risques réalisés en décembre 1998.		
+1998	12			1998	12			Diagnostic_approfondi	- Diagnostic approfondi et Évaluation détaillée des risques réalisés en décembre 1998.		
+1996	05	17		1996	05	17		La_poursuite_de	La poursuite de l'exploitation, demandée en mars 1994, a été refusée par la Préfecture par AP du 17/05/1996.		'la Préfecture'
+1984				1984				A_compter	A compter de 1984, la société DRT a exercé l'activité de récupération de métaux, ferrailles, fonte et platine.		'la société DRT'

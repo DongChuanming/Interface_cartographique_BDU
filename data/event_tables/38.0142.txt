@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_procédé_au_démantèlement	En 2004 l'exploitant a procédé au démantèlement des cuves et à une première excavation de terres souillées sur une profondeur d'environ 4 m.		
+2004	04			2004	04			ont_été_retirées	En avril 2004, suite à la cessation d'activité de la société sur le site, les cuves de la station services ont été retirées.		
+1975	10	05		1975	10	05		a_ouvert_ses_portes	Le centre commercial Leclerc a ouvert ses portes le 05/10/1975 sur le site.		
+2005	02	03		2005	02	03		a_été_signé	Un arrêté préfectoral a été signé le 03/02/2005 en vue d'imposer à la société LECLERC la réalisation :		'la société LECLERC'
+2005	05	19		2005	05	19		L__étude_historique	L'étude historique a été rédigée par le bureau d'étude BURGEAP en date du 19/05/2005.		'BURGEAP'

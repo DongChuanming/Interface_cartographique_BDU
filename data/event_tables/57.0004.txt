@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en 2002-2003.		
+								A	A compter des années 1950, des activités de fabrication de coke ont été exercées sur le site de Marienau par la société HBL.	'coke'	'la société HBL'
+1989				1989				a_été_démantelée	La cokerie de Marienau a été démantelée en 1989.		
+2004	02	03		2004	02	03		ont_été_transférés	Les activités, droits et obligations de la société HBL ont été transférés à la société Charbonnage de France (CDF) par décret la loi du 03 février 2004.		'la société HBL', 'la société Charbonnage de France', 'CDF'
+2014				2014				un_document_de_synthèse	En 2014, à la demande de l’Etat, le BRGM-DPSM a réalisé un document de synthèse relatif à la réalisation des travaux de confinement des terres polluées sur le site de l’ancienne cokerie (rapport « Bassin houiller lorrain - Installations ICPE - Synthèse des travaux de confinement des terres polluées sur le site de l’ancienne cokerie de Marienau », référencé BRGM/RP-63738-FR et daté de juillet 2014).		'le BRGM - DPSM'
+1986				1986				ont_cessé_définitivement	Les activités ont cessé définitivement en 1986.		
+1986	12	18		1986	12	18		a_été_prescrite	Après l'arrêt des installations, la remise en état du site a été prescrite par arrêté préfectoral du 18 décembre 1986.		
+2003				2003				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en 2002-2003.		

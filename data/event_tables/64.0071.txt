@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								prescrit_le_diagnostic_approfondi	L'arrêté préfectoral du 30 novembre 2005 prescrit le diagnostic approfondi à l'échéance de 3 mois.		
+1973				1973				construite	Usine d'incinération d'ordures ménagères de l'agglomération paloise construite en 1973 sur la commune de Lescar (64).	'ordures ménagères'	
+2005	10	26		2005	10	26		a_été_remis	Le plan d'échantillonnage a été remis le 26/10/2005.		
+2007	06	27		2007	06	27		L__étude_démarre	L'étude démarre le 27 juin 2007.		
+2008	08	28		2008	08	28		__il_a_été_demandé	Conformément aux préconisations du bureau d’études BURGEAP, il a été demandé à l’exploitant le 28/08/2008 de réaliser des prélèvements de sols complémentaires dans cette zone (sur les parcelles d’implantation de la maison d’habitation) et d’analyser la teneur des sols en plomb, cadmium et mercure.	'plomb', 'cadmium', 'mercure'	'BURGEAP'
+2009	06	26		2009	06	26		a_mis_en_évidence	Ce diagnostic complémentaire, remis le 26 juin 2009, a mis en évidence un impact sur la pelouse de l’habitation, en façade arrière.		
+2006	03	27		2006	03	27		L__étude_remise	L'étude remise le 27 mars 2006 classe le site en "2a"* du guide INERIS pour l'orientation des actions à mettre en oeuvre autour d'un site dont les sols sont potentiellement pollués par le plomb, c'est à dire que certains points présentent des valeurs comprises entre 100 et 200 mg/kg.	'plomb'	

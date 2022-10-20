@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2007				travaux	De 2005 à 2007, l'occasion de travaux, l'entreprise a mené par étapes successives l'énlèvement de terres polluées situées sous la chaîne de traitement de surface n°1.		
+2000	11			2000	11			a_été_aménagée	En novembre 2000, une tranchée drainante a été aménagée pour améliorer la récupération des eaux qui sont traitées dans la station d'épuration de l'usine.		
+1999	05			1999	05			signalée	Elle est signalée à l'administration en mai 1999.		
+2005				2007				l__énlèvement	De 2005 à 2007, l'occasion de travaux, l'entreprise a mené par étapes successives l'énlèvement de terres polluées situées sous la chaîne de traitement de surface n°1.		

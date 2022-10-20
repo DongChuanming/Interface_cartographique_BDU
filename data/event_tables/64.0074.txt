@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				la_cessation_d__activité	Suite à la cessation d'activité en 2008, l’exploitant ne justifie pas l’élimination de l’huile usagée présente dans la cuve de récupération ni les conditions dans lesquelles les cuves ont été vidées, dégazées et inertées.	'l’ huile', 'cuve de récupération'	
+2008	11	27		2008	11	27		La_cessation_d__activité	La cessation d'activité a été signalée à la Préfecture des Pyrénées Atlantique par courrier du 27 novembre 2008.		'la Préfecture des Pyrénées'
+2003				2003				à_cessé_définitivement	Mestelan à cessé définitivement son activité en 2003.		
+2008	11	27		2008	11	27		La_déclaration_de_cessation_d__activité	La déclaration de cessation d'activité n'a été effective par l'Indivision Lamerain, propriétaire des terrains, que le 27/11/2008.		
+1965				2003				exploitée	la station-service SHELL sise avenue André Ithurralde (RD 810) 64500 SAINT-JEAN-DE-LUZ, exploitée de 1965 à 2003 par M.		'la station - service SHELL', 'Ithurralde', 'SAINT-JEAN-DE-LUZ'
+2008	05			2008	05			un_diagnostic_des_sols	Dans le cadre de la cessation d'activité de cette station service et la vente des terrains, l'indivision LAMERAIN a fait réaliser un diagnostic des sols et de la nappe en mai 2008.		
+1965				2003				gérant	Mestelan le 07/05/1969, gérant de la station entre 1965 et 2003.		
+				2011	12	15		les_travaux_d__excavation	Du 15 novembre au 15 décembre 2011, le bureau d'études AMDE a réalisé les travaux d'excavation des terres polluées en 3 phases:		'AMDE'

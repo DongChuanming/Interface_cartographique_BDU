@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				est_repris	En 2002, le site est repris par la société RENCAST, qui devient la société FAN EUROPE au 1er janvier 2010.		'société RENCAST', 'la société FAN EUROPE'
+1972				1972				identifiée_à	La date de construction de l’usine et les activités exercées antérieurement sont inconnues (activité identifiée à partir de 1972).		
+2014	04			2014	04			cesse_définitivement	Le site est enfin repris par la société FAN TECHNOLOGY, qui cesse définitivement ses activités en avril 2014.		'la société FAN TECHNOLOGY'
+2010	01	1		2010	01	1		est_repris	En 2002, le site est repris par la société RENCAST, qui devient la société FAN EUROPE au 1er janvier 2010.		'société RENCAST', 'la société FAN EUROPE'
+1989				1989				ont_fait_l__objet_de	Les activités ont fait l’objet de récépissés de déclarations en 1989 au titre de la législation sur les installations classées.		
+2014	04			2014	04			est_enfin_repris	Le site est enfin repris par la société FAN TECHNOLOGY, qui cesse définitivement ses activités en avril 2014.		'la société FAN TECHNOLOGY'
+2018	02	28		2018	02	28		a_été_dressé	Un procès-verbal de récolement actant de la cessation d'activité a été dressé le 28 février 2018.		
+2013	02			2013	02			est_placée_en_liquidation_judiciaire	La société FAN EUROPE est placée en liquidation judiciaire en février 2013.		'La société FAN EUROPE'
+2018	02	09		2018	02	09		de_la_visite	Des constatations effectuées lors de la visite du 9 février 2018 réalisée par sondage par l’inspection des installations classées et de l’examen des différentes études environnementales transmises , il ressort que les opérations de mise en sécurité du site ne sont pas totalement abouties.		
+2010	01	1		2010	01	1		devient	En 2002, le site est repris par la société RENCAST, qui devient la société FAN EUROPE au 1er janvier 2010.		'société RENCAST', 'la société FAN EUROPE'

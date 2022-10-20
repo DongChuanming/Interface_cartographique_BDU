@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	02	21		1996	02	21		une_évaluation_simplifiée_des_risques	Par arrêté préfectoral du 21 février 1996, une évaluation simplifiée des risques a été demandée.		
+1996	02	21		1996	02	21		du	Par arrêté préfectoral du 21 février 1996, une évaluation simplifiée des risques a été demandée.		
+				2003	12	31		dépolluer	L'exploitant a jusqu'au 31 décembre 2003 pour dépolluer.		
+1998	04	30		1998	04	30		il_a_été_demandé	Par arrêté préfectoral du 30 avril 1998, il a été demandé à l'exploitant de dépolluer la zone.		

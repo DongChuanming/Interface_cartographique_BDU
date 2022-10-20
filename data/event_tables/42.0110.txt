@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10	20		2008	10	20		__déclarait_succéder	Par courrier du 20 octobre 2008, la société AUTOS DIFFUSION SAINT ETIENNE (ADSE) déclarait succéder à RENAULT RETAIL GROUP dans l'exploitation de ce site.		'la société AUTOS DIFFUSION SAINT ETIENNE', 'ADSE', 'RENAULT RETAIL GROUP'
+2009	09	30		2009	09	30		a_été_transmise	Une analyse des études complémentaires a été transmise à l’inspection le 30 septembre 2009.		
+1900				1900				a_été_exploitée	Cette couche a été exploitée par la société Charbonnage de France avant 1900.		'la société Charbonnage de France'
+2010	10	29		2010	10	29		a_donc_été_signé	Un arrêté préfectoral de prescriptions complémentaires a donc été signé dans ce sens le 29 octobre 2010.		
+2011	01	28		2011	01	28		a_fait_parvenir	Le 28 janvier 2011, pour faire suite à cet arrêté préfectoral, le Groupe THIVOLLE a fait parvenir le rapport établi par SITA Remédiation en date du 27 janvier 2011.		'le Groupe THIVOLLE', 'SITA Remédiation'
+2008	10	20		2008	10	20		Par_courrier	Par courrier du 20 octobre 2008, la société AUTOS DIFFUSION SAINT ETIENNE (ADSE) déclarait succéder à RENAULT RETAIL GROUP dans l'exploitation de ce site.		'la société AUTOS DIFFUSION SAINT ETIENNE', 'ADSE', 'RENAULT RETAIL GROUP'
+2008	09	1		2009	05	05		a_été_réalisé	- le traitement a été réalisé du 1er septembre 2008 au 5 mai 2009, avec une interruption de 2 mois du fait des conditions climatiques (gel),		
+2007	05			2007	05			Le_diagnostic_initial	Le diagnostic initial (étape A de l'ancienne méthodologie) a été réalisé en mai 2007 et le diagnostic des sols (étape B de l'ancienne méthodologie) date de janvier 2008.		
+1996	03	11		1996	03	11		a_été_créée	Il est précisé que la rubrique 2930 a été créée par arrêté de nomenclature en date du 11 mars 1996, et qu'à cette date, le Groupe RENAULT, qui exploitait directement la concession automobile, disposait déjà des installations de réparation et entretien de véhicules à moteur.		'le Groupe RENAULT'
+1972	10	31		1972	10	31		__autorisation_d__extension	- 31 octobre 1972 : autorisation d'extension de l'établissement,		
+2009	07	08		2009	07	08		faisait_part	Le 8 juillet 2009, le nouvel exploitant faisait part de la cessation partielle des activités autorisées et transmettait deux rapports d'audit environnemental.		
+2009	09	30		2009	09	30		étaient_transmis	Le 30 septembre 2009, deux rapports complémentaires relatifs à deux zones polluées du site étaient transmis par l'exploitant.		
+2008	01			2008	01			Le_diagnostic_initial	Le diagnostic initial (étape A de l'ancienne méthodologie) a été réalisé en mai 2007 et le diagnostic des sols (étape B de l'ancienne méthodologie) date de janvier 2008.		
+2011	01	27		2011	01	27		a_fait_parvenir	Le 28 janvier 2011, pour faire suite à cet arrêté préfectoral, le Groupe THIVOLLE a fait parvenir le rapport établi par SITA Remédiation en date du 27 janvier 2011.		'le Groupe THIVOLLE', 'SITA Remédiation'
+2009	11	30		2009	11	30		de_la_cessation_partielle_d__activités_déclarée	Un projet d'arrêté préfectoral prend acte de la cessation partielle d'activités déclarée le 30 novembre 2009 et est soumis à l'avis du Comité Départemental de l'Environnement et des Risques Sanitaires et Technologiques.		"Comité Départemental de l' Environnement et des Risques Sanitaires"
+1976	12	28		1976	12	28		__récépissé	- 28 décembre 1976 : récépissé d'autorisation pour stockage d'hydrocarbures,	"d' hydrocarbures"	
+1978	06	02		1978	06	02		est_soumis_à_autorisation	- 2 juin 1978 : le site est soumis à autorisation et  réglementé par l'arrêté préfectoral du 2 juin 1978,		
+1990	01	15		1990	01	15		extension	- 15 janvier 1990 : extension du magasin d'exposition,		

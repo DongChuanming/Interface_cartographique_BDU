@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				béton_incendie	Les déblais de l'incendie de l'établissement (cendres, gravats, béton)(incendie de 1994) sont stockés dans le sous sol de l'établissement.		
+1996	03	22		1996	03	22		a_informé_officiellement	Par courrier du 22 mars 1996, M le Préfet de l'Isère a informé officiellement le Directeur de l'Usine Dynastar , suite aux investigations réalisées et rapport de l'inspection, que les risques pour l'environnement étaient faibles et qu'il n'était pas nécessaire de procéder à l'élimination de terres.		"le Préfet de l' Isère", "l' Usine Dynastar"
+1995				1995				réalisé	Le rapport réalisé par GEP Lyon en 1995 atteste du non risque pour la pollution des eaux et des sols de ces déblais.		'GEP Lyon'

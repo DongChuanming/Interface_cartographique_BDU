@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	11			2015	11			un_contrôle	Sur demande de l'inspection, GDF SUEZ a fait réaliser un contrôle des piézomètres en novembre 2015, ces derniers sont inopérants.		'GDF SUEZ'
+1996				1996				des_travaux_de_remblaiement	En 1996, à la suite d'un effondrement de fontis, des travaux de remblaiement ont été réalisés, après vérification de l'absence de pollution.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1847				1962				a_été_exploité	Le terrain, d'un hectare environ, situé dans la partie Sud du centre ville, a été exploité de 1847 à 1962 pour la production de gaz à partir de la distillation de la houille.		
+2001	01	31		2001	01	31		a_été_signée	Une convention de servitudes a été signée le 31/01/2001.		
+				2009				des_campagnes_d__analyses	GDF SUEZ a procédé à des campagnes d'analyses des eaux souterraines jusqu'en 2009.		'GDF SUEZ'
+1994	08			1994	08			des_travaux	A la suite de cette étude et des investigations de terrain, des travaux, en août 1994, se sont déroulés ainsi:		

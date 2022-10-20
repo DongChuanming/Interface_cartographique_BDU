@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								de_traitement_autorisé	L'ensemble des déchets dangereux a été reconditionné puis évacué en centres de traitement autorisé le 14 et 16/12/2009.	'des déchets dangereux'	
+2009	12	16		2009	12	16		de_traitement_autorisé	L'ensemble des déchets dangereux a été reconditionné puis évacué en centres de traitement autorisé le 14 et 16/12/2009.	'des déchets dangereux'	
+2009	03	12		2009	03	12		La_liquidation_judiciaire	La liquidation judiciaire de la société DMS a été prononcée par jugement du 12/03/2009.		'la société DMS'
+2009	12	16		2009	12	16		a_été_reconditionné	L'ensemble des déchets dangereux a été reconditionné puis évacué en centres de traitement autorisé le 14 et 16/12/2009.	'des déchets dangereux'	
+2010	04	13		2010	04	13		ont_été_transmis	Le mémoire de cessation d'activités et un diagnostic des sols ont été transmis à la DREAL par courrier datant du 13/04/2010.		'la DREAL'
+1990	12	17		1990	12	17		a_repris	La société a repris les activités d'application de vernis par procédé au trempé et cuisson soumise à autorisation de la société ABB (arrêté préfectoral d'autorisation d'exploiter du 17/12/1990).		'La société', 'la société ABB'
+2009	12	10		2009	12	10		9_sondages_de_sol	9 sondages de sol ont été réalisés le 10/12/2009. (S1 à S8 et P1)		
+								a_été_reconditionné	L'ensemble des déchets dangereux a été reconditionné puis évacué en centres de traitement autorisé le 14 et 16/12/2009.	'des déchets dangereux'	

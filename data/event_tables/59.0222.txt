@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03	28		2003	03	28		une_étude_de_sols	- Réalisation d'une étude de sols, investigations complémentaires, en date du 28/03/2003, qui conclue que "l'accès direct à la source sol est limité par la présence d'une couche de terre végétalisée.		
+2002	04			2002	04			évacuation_des_déchets	- mise en sécurité du site réalisée (évacuation des déchets en avril 2002).		
+								liquidation_judiciaire	- Industrie de fabrication de batteries au plomb, liquidation judiciaire en date du 9/10/00, pas de pollution importante des sols retenue	'plomb'	
+2002	11			2002	11			réalisé	- étude des sols réalisées (classe 2) réalisé en novembre 2002.		
+								liquidation_judiciaire	- liquidation judiciaire en date du 9/10/00.		

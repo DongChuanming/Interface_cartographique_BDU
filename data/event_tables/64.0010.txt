@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	11			1999	11			Le_démantèlement_de	Le démantèlement de l'usine s'achève en novembre 1999.		
+1992				1992				cesse	En 1992, ALUMINIUM PECHINEY cesse l'activité de fabrication de l'aluminium de son site de Noguères (64).		'ALUMINIUM PECHINEY'
+2004	05			2004	05			ESR_remise	L'ESR remise en mai 2004, complétée en septembre 2005, classe le site en 1 (investigations approfondies nécessaires) pour les eaux souterraines à usage non sensible et en cas d'occupation industrielle du site pour le fluor et l'aluminium.	'le fluor', 'aluminium'	
+2011				2011				Les_derniers_diagnostics	Les derniers diagnostics ont été réalisés en 2011 et 2013 ils ont montré l'efficacité des travaux de dépollution réalisés après la déconstruction de l'ensemble des installations (secteurs usine et pilotes), ainsi que la persistance de l'impact des anciennes décharges sur la qualité des eaux souterraines.		
+1992				1992				créée	La fonderie RHENALU PECHINEY créée en 1992 sur une partie du site cesse définitivement son activité  dans le courant de l'été 1999.		'La fonderie RHENALU PECHINEY'
+1992				1992				a_été_réhabilitée	Elle a été réhabilitée en 1992 (couverture argileuse, terre arable et engazonnement).		
+1983				1983				a_été_mise_en_service	La deuxième a été mise en service en 1983 avec une couche d'argile rapportée en fond de décharge, elle a été réhabilitée en 1995 de la même façon que la première décharge (quantités stockées :110 000 m3 dont 25 000 m3 issus des opérations de mise à l'arrêt de l'usine de fabrication d'aluminium à laquelle étaient associées ces décharges).		
+1999				1999				cesse_définitivement_son_activité	La fonderie RHENALU PECHINEY créée en 1992 sur une partie du site cesse définitivement son activité  dans le courant de l'été 1999.		'La fonderie RHENALU PECHINEY'
+1959				1959				a_été_mise_en_service	La première a été mise en service en 1959 et exploitée jusqu'en 1982 (quantité de déchets stockés: 285 000 m3).		
+2012	04			2012	04			supprimer_le_transfert	- meilleures solutions techniques à mettre en oeuvre sur les décharges pour supprimer le transfert dans la nappe pour avril 2012,		
+				1982				exploitée	La première a été mise en service en 1959 et exploitée jusqu'en 1982 (quantité de déchets stockés: 285 000 m3).		
+2014				2014				travaux_de_remise_en_état_achevés	Hormis les décharges le reste du site à fait l'objet de travaux de remise en état achevés en 2014.		
+2006	02	07		2006	02	07		fait_part_de	Le 7 février 2006, l'exploitant fait part de l'état d'avancement des travaux de nettoyage.		
+								prescrit_l__étude	L'arrêté préfectoral du 11/12/2008 prescrit l'étude des solutions à mettre en oeuvre pour atteindre ces objectifs, dans le délai de 12 mois.		
+2012	01			2012	01			à_instituer	- le plan de gestion et la nature des servitudes à instituer pour janvier 2012,		
+2005	09			2005	09			ESR_remise	L'ESR remise en mai 2004, complétée en septembre 2005, classe le site en 1 (investigations approfondies nécessaires) pour les eaux souterraines à usage non sensible et en cas d'occupation industrielle du site pour le fluor et l'aluminium.	'le fluor', 'aluminium'	
+2011	10			2011	10			Les_diagnostics_complémentaires	Les diagnostics complémentaires et les orientations du plan de gestion sont présentés en octobre 2011 à la DREAL :		'la DREAL'
+2015	01	14		2015	01	14		est_dressé	Le procès-verbal de récolement des travaux est dressé le 14/01/2015.		
+2008	03	26		2008	03	26		propose	Considérant la persistance de la pollution de la nappe, le 26/03/2008, la DRIRE propose de supprimer les sources de pollution, de stopper ou de  maîtriser leur transfert dans la nappe.		'la DRIRE'
+2015	08	18		2015	08	18		remis	Le plan de gestion remis le 18/08/2015 prévoit l'excavation compléte de la décharge "Sud" et son transfert sur la décharge "Nord".		
+1995				1995				a_été_mise_en_service	La deuxième a été mise en service en 1983 avec une couche d'argile rapportée en fond de décharge, elle a été réhabilitée en 1995 de la même façon que la première décharge (quantités stockées :110 000 m3 dont 25 000 m3 issus des opérations de mise à l'arrêt de l'usine de fabrication d'aluminium à laquelle étaient associées ces décharges).		
+2013				2013				Les_derniers_diagnostics	Les derniers diagnostics ont été réalisés en 2011 et 2013 ils ont montré l'efficacité des travaux de dépollution réalisés après la déconstruction de l'ensemble des installations (secteurs usine et pilotes), ainsi que la persistance de l'impact des anciennes décharges sur la qualité des eaux souterraines.		
+				1999	07			fait_réaliser_un_diagnostic_de_sol	Suite à cette cessation d'activité et à la remise en état du site, ALUMINIUM PECHINEY fait réaliser un diagnostic de sol de mai à juillet 1999.		'ALUMINIUM PECHINEY'

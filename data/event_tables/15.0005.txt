@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	09			2012	09			a_mis_en_place	A la  demande de l'administration, suite à une visite d'inspection effectuée le 3 juillet 2012, la Sté UNIVAR a mis en place, en septembre 2012, une installation de dépollution des eaux de la nappe, par pompage et traitement sur charbon actif, à partir des  ces 3 piézomètres.	'sur charbon actif'	', la Sté UNIVAR'
+2011				2011				arrête	En 2009, la société arrête son activité de stockage de produits, seule subsiste une activité commerciale jusqu'à la fermeture définitive du site en 2011.		
+2010	05			2011	01			des_travaux_de_dépollution	De mai 2010 à janvier 2011, des travaux de dépollution des sols ont été menés, ils ont consisté :		
+2012	12			2012	12			Les_dernières_analyses	Les dernières analyses de décembre 2012, effectuées sur l'ensemble des piézomètres, indiquent une nette décroissance des concentrations de polluant dans la nappe.		
+2009				2009				arrête	En 2009, la société arrête son activité de stockage de produits, seule subsiste une activité commerciale jusqu'à la fermeture définitive du site en 2011.		
+2010	06			2010	06			est_mise_en_place	Une surveillance semestrielle de la qualité des eaux souterraines est mise en place par la Sté UNIVAR à partir de juin 2010.		'la Sté UNIVAR'
+2012	07	03		2012	07	03		à_une_visite	A la  demande de l'administration, suite à une visite d'inspection effectuée le 3 juillet 2012, la Sté UNIVAR a mis en place, en septembre 2012, une installation de dépollution des eaux de la nappe, par pompage et traitement sur charbon actif, à partir des  ces 3 piézomètres.	'sur charbon actif'	', la Sté UNIVAR'
+2011				2011				la_fermeture_définitive_du_site	En 2009, la société arrête son activité de stockage de produits, seule subsiste une activité commerciale jusqu'à la fermeture définitive du site en 2011.		
+2009				2009				une_cessation_partielle_de_l_	En 2009, une cessation partielle de l'activité est déclarée.		

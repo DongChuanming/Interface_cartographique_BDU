@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Le_suivi	Le suivi des eaux souterraines sur la période 2007-2012 a mis en évidence principalement :		
+2010	11			2010	11			est_devenue	) est devenue EUROPEROXYDES le 12 décembre 2007 puis AZELIS PEROXIDES en novembre 2010.		'devenue EUROPEROXYDES', 'AZELIS PEROXIDES'
+1997				1997				n__exerce_plus_qu_	Elle n'exerce plus qu'une activité de stockage et distribution de peroxydes organiques, la fabrication de ces produits ayant été stoppée en 1997.	'peroxydes organiques'	
+2007	12	12		2007	12	12		est_devenue	) est devenue EUROPEROXYDES le 12 décembre 2007 puis AZELIS PEROXIDES en novembre 2010.		'devenue EUROPEROXYDES', 'AZELIS PEROXIDES'
+2000	12	26		2000	12	26		est_quant_à_elle_réglementée	L'activité de stockage et distribution de produits chimiques d'AZELIS PEROXIDES est quant à elle réglementée par l'arrêté préfectoral du 8 avril 2009, suite au transfert de l'autorisation précédemment délivrée à EUROPEROXYDES le 26 décembre 2000.	'produits chimiques'	'AZELIS PEROXIDES', 'EUROPEROXYDES'
+1999	12	10		1999	12	10		est_réglementée	Du point de vue administratif, l'activité de BIOXAL est réglementée par l'arrêté préfectoral du 10 décembre 1999, après transfert à son profit de l'autorisation délivrée à CHEMOXAL le 19 janvier 1981 d'exploiter une installation de fabrication de produits chimiques.		'BIOXAL', 'CHEMOXAL'
+1932				1932				s__est_développée	L'usine du site BIOXAL s'est développée à partir de 1932 autour des deux axes suivants :		'BIOXAL'
+2007				2007				Le_suivi	Le suivi des eaux souterraines sur la période 2007-2012 a mis en évidence principalement :		
+2009	04	08		2009	04	08		est_quant_à_elle_réglementée	L'activité de stockage et distribution de produits chimiques d'AZELIS PEROXIDES est quant à elle réglementée par l'arrêté préfectoral du 8 avril 2009, suite au transfert de l'autorisation précédemment délivrée à EUROPEROXYDES le 26 décembre 2000.	'produits chimiques'	'AZELIS PEROXIDES', 'EUROPEROXYDES'
+1998	09	1		1998	09	1		une_étude_simplifiée_des_risques	Par arrêté préfectoral du 1er septembre 1998, une étude simplifiée des risques (ESR) a été prescrite à l'exploitant.		

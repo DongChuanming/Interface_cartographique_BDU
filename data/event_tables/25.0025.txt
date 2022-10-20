@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	10		2003	02	10		L__étude	L'étude, remise le 10 février 2003, a conclut à un site de classe 2 (à surveiller).		
+2001	05	02		2001	05	02		ont_été_prescrit	En conséquence, une évaluation simplifiée des risques et un suivi piézométrique ont été prescrit par arrêté préfectoral du 2/05/2001.		
+2009	07			2009	07			Les_campagnes_de_suivi_d_	Les campagnes de suivi d'avril et juillet 2009 mettent en évidence des concentrations en métaux inférieures aux limites de quantification.	'métaux'	
+1996	10	23		1996	10	23		une_cessation_d__activité	Suite à une cessation d'activité en date du 23/10/1996, les évacuations des matières premières, produits consommables et crasses de fusion ont été déclarées.		
+								Les_campagnes_de_suivi_d_	Les campagnes de suivi d'avril et juillet 2009 mettent en évidence des concentrations en métaux inférieures aux limites de quantification.	'métaux'	

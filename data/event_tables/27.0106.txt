@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				un_diagnostic_de_sol	Lors du changement d'actionnaires courant 2015, un diagnostic de sol a été réalisé par l'exploitant.		
+2015	11			2015	11			a_été_réalisé	Le diagnostic de sol a été réalisé par le cabinet AXE de Bruz (35) en juillet 2016 : des sondages de sol ont été réalisés en novembre 2015 et juin 2016, ainsi qu’un prélèvement d’eau dans le local de production.		'le cabinet AXE de Bruz'
+2016	06			2016	06			a_été_réalisé	Le diagnostic de sol a été réalisé par le cabinet AXE de Bruz (35) en juillet 2016 : des sondages de sol ont été réalisés en novembre 2015 et juin 2016, ainsi qu’un prélèvement d’eau dans le local de production.		'le cabinet AXE de Bruz'
+2015				2015				du_changement	Lors du changement d'actionnaires courant 2015, un diagnostic de sol a été réalisé par l'exploitant.		
+2016	07			2016	07			Le_diagnostic_de_sol	Le diagnostic de sol a été réalisé par le cabinet AXE de Bruz (35) en juillet 2016 : des sondages de sol ont été réalisés en novembre 2015 et juin 2016, ainsi qu’un prélèvement d’eau dans le local de production.		'le cabinet AXE de Bruz'
+2004				2004				est_en_place	La surveillance de la qualité des eaux souterraines est en place depuis 2004 et a été précisée dans le dernier arrêté préfectoral du 2 mars 2017		
+1992				1992				est_implantée	La société EQIOM, groupe CRH, ex GEOCYCLE - HOLCIM est implantée sur la commune de Saint-Etienne du Vauvray depuis 1992 (anciennement plateforme SOVRAC).		'La société EQIOM', 'groupe CRH', 'ex GEOCYCLE - HOLCIM', 'plateforme SOVRAC'

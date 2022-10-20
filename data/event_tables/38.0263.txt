@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				a_été_racheté	Le site a été racheté en 1983 par la SCI Le PETIT ROCHEFORT, après l'arrêt de l'exploitation.		'la SCI Le PETIT ROCHEFORT'
+2007	01	18		2007	01	18		sont_détectées_lors_de	La présence de cuivre (130 µg/L), chrome (5 µg/L), nickel (11 µg/L), plomb (10 µg/L), zinc (130 µg/L), hydrocarbures (0,03 µg/L), naphtalène (0,3 µg/L), fluorène (0,03 µg/L), phénanthrène (0,07 µg/L), fluoranthène (0,02 µg/L) et de PCE (3,3 µg/L) sont détectées lors de la campagne de prélèvement du 18/01/2007.	'cuivre', 'chrome', 'nickel', 'plomb', 'zinc', 'hydrocarbures', 'naphtalène', 'fluorène', 'phénanthrène', 'fluoranthène', 'PCE'	
+2012	03	05		2012	03	05		Un_avis_de	Un avis de l'inspection a été transmis le 05/03/2012 à la société CERIM.		'la société CERIM'
+								8_sondages_ont_été_effectués	8 sondages ont été effectués (P1 à P8) le 23 et 24/08/2006 :		
+2007	01	18		2007	01	18		la_campagne_de_prélèvement	La présence de cuivre (130 µg/L), chrome (5 µg/L), nickel (11 µg/L), plomb (10 µg/L), zinc (130 µg/L), hydrocarbures (0,03 µg/L), naphtalène (0,3 µg/L), fluorène (0,03 µg/L), phénanthrène (0,07 µg/L), fluoranthène (0,02 µg/L) et de PCE (3,3 µg/L) sont détectées lors de la campagne de prélèvement du 18/01/2007.	'cuivre', 'chrome', 'nickel', 'plomb', 'zinc', 'hydrocarbures', 'naphtalène', 'fluorène', 'phénanthrène', 'fluoranthène', 'PCE'	
+				1979				a_été_exploité	Le site a été exploité par les Tanneries de Varces jusqu'en 1979, sans déclaration de cessation d'activités.		'les Tanneries de Varces'
+2011	11	14		2011	11	14		Le_diagnostic_des_sols	Le diagnostic des sols a été transmis à l'inspection le 14/11/2011.		
+1968	12	20		1968	12	20		disposait_alors_d_	Cet établissement disposait alors d'un arrêté d'autorisation d'exploiter en date du 20/12/1968.		
+2012				2012				étude_hydrogéologique	- de compléter le réseau de surveillance des eaux souterraines par la réalisation de 2 piézomètres, un amont et un aval comme mentionné dans l'étude hydrogéologique de 2012 et de procéder à des analyses des eaux. si un impact est avéré, la suppressions des différentes sources de pollution devra être étudiée ;		
+2012	05	09		2012	05	09		une_étude_hydrogéologique	Suite aux remarques de l'Inspection des Installations Classées dans un courrier du 05/03/2012, la société SOGESTIM a transmis à la DREAL une étude hydrogéologique du site le 09/05/2012.		'la société SOGESTIM', 'la DREAL'
+2006	08	24		2006	08	24		8_sondages_ont_été_effectués	8 sondages ont été effectués (P1 à P8) le 23 et 24/08/2006 :		
+2007	01	17		2007	01	17		a_été_réalisé	Concernant les eaux souterraines, un piézomètre a été réalisé à l'aval des anciennes tanneries le 17/01/2007.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				qu__un_incendie	De plus la filature avait été à l'origine, en 1986, d'une pollution du ruisseau longeant le site , Le Neuné, suite à une fausse manoeuvre sur une vanne de fuel, ainsi qu'un incendie en 1997.	'fuel'	
+2005	08			2005	08			Des_mesures_complémentaires_ont_été_effectuées	Des mesures complémentaires ont été effectuées en août 2005 afin de définir l'étendue du dépôt, le volume de scories est d'environ 1500 m3 sur une superficie de 900m2.		
+2010				2010				Des_travaux_de_mise_en_sécurité_du_site	Des travaux de mise en sécurité du site et de dépollution (excavation des pollutions organiques concentrées) ont eu lieux en 2009-2010, notamment :		
+2005	08			2005	08			La_seconde_campagne_de_prélèvements	La seconde campagne de prélèvements effectuée en août 2005, a permis de mettre en évidence l'existence de plusieurs secteurs contaminés par des hydrocarbures.	'hydrocarbures'	
+2002	11			2002	11			a_cessé_ses_activités	L'ancienne filature de LAVELINE-DEVANT-BRUYERES a cessé ses activités en novembre 2002 suite à la liquidation de la société MOSSLEY-BADIN qui exploitait cette unité.		'DEVANT - BRUYERES', 'la société MOSSLEY - BADIN'
+2009				2009				Des_travaux_de_mise_en_sécurité_du_site	Des travaux de mise en sécurité du site et de dépollution (excavation des pollutions organiques concentrées) ont eu lieux en 2009-2010, notamment :		
+2004	03	30		2004	03	30		une_visite	Le liquidateur judiciaire a fait réaliser un diagnostic des sols et de la qualité  des eaux souterraines, à la suite d'une visite effectuée sur le site le 30 mars 2004, où de fortes présomptions de pollutions des sols ont été mises en évidence.		
+1986				1986				l__origine	De plus la filature avait été à l'origine, en 1986, d'une pollution du ruisseau longeant le site , Le Neuné, suite à une fausse manoeuvre sur une vanne de fuel, ainsi qu'un incendie en 1997.	'fuel'	

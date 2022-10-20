@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				ont_été_vendus	Ils étaient la propriété de BOSTIK-FINDLEY, mais ont été vendus début 2007 à la société "Les déménageurs de la Mauldre".		'BOSTIK - FINDLEY', 'Mauldre'
+				2006	09			des_campagnes_de_surveillance	Depuis mars 2004 des campagnes de surveillance des eaux de la nappe ont été menées tous les 6 mois jusqu'en septembre 2006.		
+2007				2007				les_campagnes_de_surveillance	A partir de l'année 2007, les campagnes de surveillance ont été effectuées tous les ans en période de "basses eaux", les résultats d'analyse ne montrant pas d'évolution significative de la qualité des eaux souterraines.		
+2007				2007				A_partir_de_l_	A partir de l'année 2007, les campagnes de surveillance ont été effectuées tous les ans en période de "basses eaux", les résultats d'analyse ne montrant pas d'évolution significative de la qualité des eaux souterraines.		
+2010	10			2010	10			La_dernière_campagne_a_été_effectuée	La dernière campagne a été effectuée en octobre 2010.		
+								des_campagnes_de_surveillance	Depuis mars 2004 des campagnes de surveillance des eaux de la nappe ont été menées tous les 6 mois jusqu'en septembre 2006.		
+2004	03			2004	03			des_campagnes_de_surveillance	Depuis mars 2004 des campagnes de surveillance des eaux de la nappe ont été menées tous les 6 mois jusqu'en septembre 2006.		
+2011	06			2011	06			a_transmis	En juin 2011, la société BOSTIK a transmis à la Préfecture des Yvelines les éléments justifiant des travaux de comblement des puits et piézomètres du site, conformément aux règles de l'art.		'la société BOSTIK'

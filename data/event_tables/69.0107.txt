@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	11			1998	11			Les_études_correspondantes	Les études correspondantes ont été transmises à l'administration en novembre 1998.		
+2012	05			2012	05			a_été_établi	Un rapport provisoire d'investigations complémentaires et du plan de gestion a été établi en Mai 2012.		
+2008				2008				doit_cesser_définitivement_son_activité	Le site doit cesser définitivement son activité en 2008.		
+2008				2008				est_devenu_exploitant	Huntsman est devenu exploitant du site en Juillet 2006 et a cessé ses activités en 2008.		'Huntsman'
+2009				2009				est_resté	Ciba est resté le propriétaire du terrain jusqu’en 2009, date du rachat de CIBA par BASF.		'Ciba', 'CIBA par BASF'
+1998	11	20		1998	11	20		étape_A_remise	L'étape A remise à l'administration le 20/11/1998 n'a pas mis en évidence selon l'exploitant de source potentielle de pollution.		
+2006	07			2006	07			est_devenu_exploitant	Huntsman est devenu exploitant du site en Juillet 2006 et a cessé ses activités en 2008.		'Huntsman'
+								deux_campagnes_ont_été_effectuées	au niveau des eaux souterraines deux campagnes ont été effectuées en mai et décembre 2011,		
+2009				2009				du_rachat	Ciba est resté le propriétaire du terrain jusqu’en 2009, date du rachat de CIBA par BASF.		'Ciba', 'CIBA par BASF'
+2008				2008				a_cessé	Huntsman est devenu exploitant du site en Juillet 2006 et a cessé ses activités en 2008.		'Huntsman'
+2011	12			2011	12			deux_campagnes_ont_été_effectuées	au niveau des eaux souterraines deux campagnes ont été effectuées en mai et décembre 2011,		
+2008	09	25		2008	09	25		a_transmis	Le 25/09/2008, Huntsman a transmis le mémoire de cessation d'activité du site de production  Huntsman Textile Effects Saint-Fons, au 31/12/2008.		'Huntsman', '  Huntsman'
+2007	06			2007	06			un_diagnostic_de_phase_B_a_été_remis	Dans ce cadre, un diagnostic de phase B a été remis en juin 2007 à l'administration.		

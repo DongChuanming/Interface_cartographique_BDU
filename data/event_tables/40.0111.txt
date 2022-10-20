@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								d_	Selon les campagnes piézométriques d'avril et d'octobre 2010, le marnage de la nappe (fluctuation du niveau statique entre la période de basses eaux et de hautes eaux) est d'environ un mètre.		
+2010	10	26		2010	10	26		était_toujours_en_exploitation	Le 26 octobre 2010, cette décharge interne était toujours en exploitation.		
+2010	10	29		2010	10	29		la_cession	Le 29 octobre 2010, SMURFIT KAPPA a déclaré la cession de l’usine de contreplaqué de Labouheyre à une société affiliée à SYNTAGMA Capital.		'SMURFIT KAPPA', 'SYNTAGMA Capital'
+2009	01			2009	01			Un_premier_diagnostic_initial_de_pollution	Un premier diagnostic initial de pollution a été réalisé par la société SITA Remediation en janvier 2009 au droit de l’usine de contreplaqué SMURFIT ROLPIN dont l’emprise globale correspond à une		'la société SITA Remediation', 'contreplaqué SMURFIT ROLPIN'
+2012	06	20		2012	06	20		a_été_rédigé	Le rapport de fin de travaux a été rédigé par SITA REMEDIATION le 20/06/2012 et transmis à la DREAL le 05 juillet 2012.		'SITA REMEDIATION', 'DREAL'
+2009	04			2009	04			Un_diagnostic_complémentaire	Un diagnostic complémentaire permettant de compléter les données acquises au droit de la décharge interne, des anciennes lagunes, du fossé est et de l’aire des déchets dangereux, a été mené en avril 2009, notamment sur la description lithologique des déchets et des sols.	'déchets dangereux'	
+								prescrit_la_remise_d_	L'arrêté du 09/01/2007 prescrit la remise d'un dossier de réhabilitation dans le délai de 6 mois.		
+2010	10	20		2010	10	20		La_cessation_d__activité	La cessation d'activité est intervenu le 20/10/2010 lors de la cession du site ROL PIN.		'ROL PIN'
+2014	03	26		2014	03	26		L__arrêté	L'arrêté instituant les servitudes d'utilité publique est signé le 26 mars 2014 (voir document § F page 6 ).		
+				2012	07	04		Les_travaux_se_sont_déroulés	Les travaux se sont déroulés du 6 février au 04 juillet 2012.		
+2007	01	09		2007	08	31		a_été_autorisée	Son extension a été autorisée par l'arrêté du 09/01/2007 jusqu'au 31 août 2007 date à laquelle elle devait prendre fin et être réhabilitée.		
+2010	10	29		2010	10	29		intervenue	L'ancienne décharge exploitée par SMURFIT KAPPA ROL PIN reste la propriété du groupe SMURFIT à compter de la cession intervenue le 29/10/2010.		'SMURFIT KAPPA ROL PIN', 'groupe SMURFIT'
+2012	03	13		2012	03	13		a_fait_l__objet_de	Le plan de gestion a fait l'objet de la note technique SITA REMEDIATION du 13/03/2012.		'SITA REMEDIATION'
+2010	10			2010	10			d_	Selon les campagnes piézométriques d'avril et d'octobre 2010, le marnage de la nappe (fluctuation du niveau statique entre la période de basses eaux et de hautes eaux) est d'environ un mètre.		

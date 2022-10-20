@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				exploitait	La société Guy Dauphin Environnement exploitait depuis 1975 une installation de tri, transit et regroupement de déchets dangereux, non dangereux et de démontage, dépollution de véhicules hors d’usage.	'déchets dangereux'	'La société Guy Dauphin Environnement'
+2010	11			2010	11			La_surveillance_des_effets	- La surveillance des effets de l’installation sur son environnement : un premier diagnostic a été réalisé en novembre 2010.		
+2010	11			2010	11			__un_premier_diagnostic	- La surveillance des effets de l’installation sur son environnement : un premier diagnostic a été réalisé en novembre 2010.		
+2013	01			2013	01			réalisée	Cette dernière réalisée en janvier 2013, indique qu’au regard des résultats de l’évaluation quantitative des risques sanitaires, aucune mesure corrective spécifique n’est préconisée.		

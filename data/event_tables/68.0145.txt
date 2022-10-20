@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	01	07		1997	01	07		autorise_à_exploiter	L'arrêté préfectoral du 31/07/1963 puis du 07/01/1997 l’autorise à exploiter des installations de stockage, de reconditionnement et de redistribution de produits chimiques.	'produits chimiques'	
+2009				2009				a_complètement_cessé	En 2009, le site a complètement cessé son activité de stockage de produits chimiques.	'produits chimiques'	
+2014	12	16		2014	12	16		a_envoyé	L’exploitant a envoyé sa notification de cessation d’activité le 16 décembre 2014.		
+1999				2009				appartenait_au	Entre 1999 et 2009, après l'évolution de ses activités, l'établissement appartenait au régime de la déclaration pour le même type d’activité.		
+1963	07	31		1963	07	31		autorise_à_exploiter	L'arrêté préfectoral du 31/07/1963 puis du 07/01/1997 l’autorise à exploiter des installations de stockage, de reconditionnement et de redistribution de produits chimiques.	'produits chimiques'	
+2014	12	16		2014	12	16		une_déclaration	Le 16 décembre 2014, l'exploitant a déposé une déclaration de cessation d'activité du site.		

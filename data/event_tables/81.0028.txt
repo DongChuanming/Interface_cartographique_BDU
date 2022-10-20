@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	03		1996	04	03		la_réalisation_d__un_diagnostic_initial	Ce dépôt étant susceptible d'avoir été à l'origine de pollutions ponctuelles ou diffuses du sol, sur proposition et rapport de la DREAL Midi-Pyrénées, un arrêté préfectoral du 7 mai 1998 pris conformément à la circulaire du 3 avril 1996, a prescrit à l'exploitant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques sur ce site.		'la DREAL Midi'
+2007	01	1		2007	01	1		la_mise_à_l__arrêt	EDF a décidé la mise à l'arrêt de la centrale thermique et de ses parcs associés le 1er janvier 2007.		'EDF'
+2012	07			2012	07			réalisé	Le plan de gestion réalisé en juillet 2012 a montré la nécessité de surveiller la présence d'arsenic dans les eaux superficielles (ruisseau de la Mouline), compte-tenu de sa mobilité.	'arsenic'	
+2002				2002				ne_reçoit_plus_de_cendres	Le site ne reçoit plus de cendres depuis 2002.		
+1978	06			1978	06			d__exploiter	Le parc à cendres de la Mouline a fait l'objet de sa première autorisation préfectorale d'exploiter en juin 1978.		
+								a_été_exploité	Le parc représente une superficie voisine de 9 ha et a été exploité pendant près de 25 ans.		
+2010	09	30		2010	09	30		a_transmis	La société a transmis le 30 septembre 2010 à la Préfecture du Tarn, les dossiers de cessation d'activité.		'La société', 'la Préfecture du Tarn'
+2006				2006				ont_été_enlevées	La plupart des cendres ont été enlevées du site en 2006.		
+2007				2007				Un_diagnostic_complémentaire_a_été_effectué	Un diagnostic complémentaire a été effectué en 2007 et a permis de localiser ces résidus stockés sous forme de poches.		
+2012	05	24		2012	05	24		a_été_signé	.R...) du site a été signé le 24 mai 2012.		
+2013	07	09		2013	07	09		a_été_réalisé	Au terme des travaux de réhabilitation, un rapport de synthèse a été réalisé par l’exploitant et l’inspection a constaté par procès-verbal la réalisation des travaux en date du 9 juillet 2013.		
+1978	06			1978	06			a_fait_l__objet_de	Le parc à cendres de la Mouline a fait l'objet de sa première autorisation préfectorale d'exploiter en juin 1978.		

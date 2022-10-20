@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				une_étude_historique	Conformément aux engagements du protocole, ce site a fait l’objet d’une étude historique avec localisation des cuves (recherches bibliographiques, enquêtes) effectuée par un bureau d’études à la demande de Gaz de France en 2000.		'Gaz de France'
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+2000				2000				Des_travaux	Des travaux à la fin de l'année 2000 ont confirmé la présence des deux cuves.		
+1961				1961				est_arrêtée	La production de gaz de houille est arrêtée en 1961, date de l’arrivée du gaz naturel.		

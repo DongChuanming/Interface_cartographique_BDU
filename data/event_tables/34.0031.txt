@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				a_été_effectué	Le diagnostic complémentaire a été effectué en 2013 et a fait l'objet de compléments en 2014.  Le plan de gestion a été remis en août 2015.		
+2002				2002				a_fusionné	La DRIRE a demandé à la société ESSO SAF qui a fusionné avec la Mobil Oil Française en 2002, d'effectuer de nouvelles études du site conformément au guide méthodologique "Gestion des Sites (potentiellement) pollués -version 2 de décembre 2002.		'La DRIRE', 'la société ESSO SAF', 'la Mobil Oil Française'
+2010	02	26		2010	02	26		ont_été_présentés	Le bilan des investigations de 2009 et le programme d'actions envisagées ont été présentés à la DREAL au cours d'une réunion tenue le 26/02/2010.		'la DREAL'
+2012	12			2012	12			ont_été_communiqués	Les résultats de ces essais ont été communiqués en décembre 2012.		
+2015	08			2015	08			a_été_remis	Le diagnostic complémentaire a été effectué en 2013 et a fait l'objet de compléments en 2014.  Le plan de gestion a été remis en août 2015.		
+								ont_été_réalisées	En 2011, deux nouvelles campagnes de caractérisation de l'état du site ont été réalisées (janvier et septembre 2011).		
+2012	02	28		2012	02	28		Une_visite	Une visite du site a été effectuée le 28 février 2012 par l'inspection des installations classées de la DREAL afin de faire un point de synthèse des essais entrepris.		'la DREAL'
+2013	06	18		2013	06	18		a_été_pris	A l'issue de l'analyse de ces données par l'inspection des installations classées de la DREAL, un arrêté préfectoral a été pris le 18 juin 2013 demandant à ESSO, après réalisation d'un diagnostic complémentaire des sols, de proposer un plan de gestion permettant de traiter la phase d'hydrocarbures flottants présente dans les eaux souterraines au droit du site, et de traiter les sols contaminés.	'hydrocarbures', 'flottants'	'la DREAL', 'ESSO'
+2016				2016				ont_fonctionné	Les biopiles tests ont fonctionné en 2016 durant 3 trimestres.		
+1990				1990				dépollué	Les installations industrielles ont été démantelées et le site dépollué dans les années 1987 à 1990 pour un usage industriel.		
+2017	01			2018	01			des_investigations	Afin de mieux préparer le plan de phasage des travaux de réhabilitation, des investigations détaillées dans le sous-sol ont été réalisées de janvier 2017 à janvier 2018.		
+1987				1987				dépollué	Les installations industrielles ont été démantelées et le site dépollué dans les années 1987 à 1990 pour un usage industriel.		
+2005	10	21		2005	10	21		Ces_études_ont_été_transmises	Ces études ont été transmises le 21/10/2005.		
+2011				2011				ont_été_réalisées	En 2011, deux nouvelles campagnes de caractérisation de l'état du site ont été réalisées (janvier et septembre 2011).		
+2011	03	17		2011	03	17		Une_visite_du_site_a_été_effectuée	Une visite du site a été effectuée le 17 mars 2011 par l'inspection des installations classées de la DREAL afin de faire un point de synthèse des actions de réhabilitation engagées.		'la DREAL'
+1993				1993				a_été_cédé_à_la_commune	Il a été cédé à la commune en 1993.		
+2009				2009				De_nouvelles_investigations	De nouvelles investigations ont été menées en 2009 (installation de piézomètres supplémentaires, suivi de l'évolution d'épaisseur de flottants, écrémage manuel, test de réalimentation en produit, caractérisation des produits,...) en vue, notamment, d'évaluer la faisabilité de différentes techniques de récupération de produits et la nécessité de mettre en place une barrière physique le long de la clôture séparant le site de celui de GDH.		'GDH'
+2009				2009				ont_été_présentés	Le bilan des investigations de 2009 et le programme d'actions envisagées ont été présentés à la DREAL au cours d'une réunion tenue le 26/02/2010.		'la DREAL'
+2008				2008				Une_nouvelle_campagne	Une nouvelle campagne destinée à évaluer l'extension de la lentille de flottants identifiée en plusieurs points a eu lieu en 2008.	'la lentille de flottants'	
+1986				1986				a_cessé_son_activité	L'ancienne raffinerie "MOBIL" de Frontignan, dont l'origine remonte à 1904, a cessé son activité en 1986.		'raffinerie " MOBIL "'
+2008	01			2008	01			a_été_transmis	Le document "reprise des calculs de risques avec les résultats de la nouvelle campagne de mesure" a été transmis en janvier 2008.		
+2016	05	24		2016	05	24		a_été_prescrit	Un projet d'arrêté encadrant les travaux de réhabilitation proposés dans le plan, a été prescrit le 24 mai 2016.		
+2014				2014				a_été_effectué	Le diagnostic complémentaire a été effectué en 2013 et a fait l'objet de compléments en 2014.  Le plan de gestion a été remis en août 2015.		
+2011	09			2011	09			ont_été_réalisées	En 2011, deux nouvelles campagnes de caractérisation de l'état du site ont été réalisées (janvier et septembre 2011).		
+2012				2012				Des_essais_pilote	Des essais pilote de récupération des flottants par écrémage ont été réalisé fin 2011/début 2012.	'flottants'	
+2014				2014				fait_l__objet_de	Le diagnostic complémentaire a été effectué en 2013 et a fait l'objet de compléments en 2014.  Le plan de gestion a été remis en août 2015.		
+2011				2011				Des_essais_pilote	Des essais pilote de récupération des flottants par écrémage ont été réalisé fin 2011/début 2012.	'flottants'	
+								ont_fonctionné	Les biopiles tests ont fonctionné en 2016 durant 3 trimestres.		

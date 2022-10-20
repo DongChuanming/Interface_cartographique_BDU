@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				est_placé_en_liquidation_judiciaire	En 2005, le site est placé en liquidation judiciaire.		
+2005	03	18		2005	03	18		Liquidation_judiciaire	18 Mars 2005 : Liquidation judiciaire de la société ODO S.		'la société ODO S.'
+2007				2007				sont_réalisés	2007 : Une interprétation de l'état des milieux (IEM) et un plan de gestion (PGS) sont réalisés.		
+2012				2012				Les_dernières_analyses_réalisées	Les dernières analyses réalisées dans les eaux souterraines fin 2012 ne mettent pas en évidence d'impacts sanitaires significatifs.		
+1973				1973				a_été_repris	Depuis 1973, il a été repris par la société ODO qui l'a exploité pour ses activités, notamment la menuiserie des horloges comtoises et leur vernissage.		'la société ODO'
+								a_connu	Le site est situé sur la commune de DOMBLANS et a connu, au cours de son existence, des activités variées depuis le début du 20 ème siècle.		'DOMBLANS'
+1973				1973				Fin	1973 : Fin des activités de la société SERIB et reprise du site par la société ODO.		'la société SERIB', 'la société ODO'
+2008				2008				a_été_racheté	Il a été racheté par la communauté de communes des coteaux de la Haute-Seille en 2008.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07	1		2009	07	1		un_pré_diagnostic_de_pollution	Dans le cadre du dossier de fin d'activité présenté le 27 avril 2009 et complété le 1er juillet 2009, l'exploitant a fait réaliser un pré-diagnostic de pollution.		
+2009	04	27		2009	04	27		du_dossier_de_fin_d__activité	Dans le cadre du dossier de fin d'activité présenté le 27 avril 2009 et complété le 1er juillet 2009, l'exploitant a fait réaliser un pré-diagnostic de pollution.		
+1994				1994				a_été_construit	Le supermarché Super U de Loisin a été construit en 1994 et comportait une station service.		
+2009	07	1		2009	07	1		complété	Dans le cadre du dossier de fin d'activité présenté le 27 avril 2009 et complété le 1er juillet 2009, l'exploitant a fait réaliser un pré-diagnostic de pollution.		
+2005				2005				a_été_transféré	Ce supermarché a été transféré sur un nouveau site sur la commune de Loisin en 2005.		

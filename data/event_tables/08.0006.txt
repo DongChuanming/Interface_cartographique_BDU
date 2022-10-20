@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				est_poursuivi_sur	Le suivi des eaux souterraines est poursuivi sur le paramètre ammonium en 2015 globalement stable même si une faible tendance à la hausse est constatée.	'ammonium'	
+2006	04			2006	04			à_la_réunion_annuelle	Suite à la réunion annuelle d'avril 2006, la surveillance sur les paramètres cyanures et ammonium est poursuivie.	'cyanures', 'ammonium'	
+2002	07	25		2002	07	25		Les_premiers_résultats_d__analyses	Les premiers résultats d'analyses des eaux souterraines 2001 ont été adressés le 25 juillet 2002 à l'inspection des installations classées.		
+1998	03			1998	03			335_tonnes	En mars 1998, des travaux de vidange et de comblement de la cuve ont été réalisés en éliminant 335 tonnes de déchets et 100 tonnes de sol souillé.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+1880				1956				a_été_exploitée	Sur une superficie de 9 600 m2, une usine à gaz a été exploitée depuis les années 1880 jusqu'à 1956.		
+2010				2010				a_été_allégée	La surveillance des eaux souterraines a été allégée en 2010 avec l'arrêt de la surveillance des cyanures compte tenu d'une stabilisation de la pollution observée depuis 2007 à des teneurs inférieures aux valeurs de référence.	'cyanures'	
+2015				2015				Le_suivi	Le suivi des eaux souterraines est poursuivi sur le paramètre ammonium en 2015 globalement stable même si une faible tendance à la hausse est constatée.	'ammonium'	
+1998	03			1998	03			des_travaux_de_vidange	En mars 1998, des travaux de vidange et de comblement de la cuve ont été réalisés en éliminant 335 tonnes de déchets et 100 tonnes de sol souillé.		
+1998	07			1998	07			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en juillet 1998, conduisant à l'établissement de la classe 2 pour ce site.		
+2001				2001				Les_premiers_résultats_d__analyses	Les premiers résultats d'analyses des eaux souterraines 2001 ont été adressés le 25 juillet 2002 à l'inspection des installations classées.		

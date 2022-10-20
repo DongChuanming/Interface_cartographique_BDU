@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	08	13		2012	08	13		a_été_délivré_par	Le récépissé de cessation d'activité a été délivré par la préfecture le 13/08/2012.		
+2012	06	22		2012	06	22		un_diagnostic_de_pollution	Par lettre du 30/11/2012, la SADEV 94, l'aménageur de la ZAC, a adressé à la préfecture un diagnostic de pollution complémentaire, en date du 22/06/2012.		'la SADEV 94'
+2016	07	06		2016	07	06		a_également_été_faite	En parallèle, la demande a également été faite à la SADEV 94 par courriel, le dernier datant du 06/07/2016.		'la SADEV 94'
+2009				2009				a_été_réalisé	Un premier diagnostic pollution a été réalisé en 2009 dans le cadre d'une expertise judiciaire relative à l'incidence de pollutions au niveau des sols sur l'évaluation des indemnités de dépossession pour 5 terrains situés le long de la nationale 7.		
+2014	09	30		2014	09	30		la_visite_d__inspection	Suite à la visite d'inspection du 30/09/2014 qui a permis de constater que le site avait été réaménagé en jardin, il a été demandé à l’exploitant, par courrier préfectoral du 28/11/2014 de transmettre les documents attestant de la réhabilitation de son ancien site.		
+2011	02	20		2011	02	20		que_ses_activités_cesseraient	L’exploitant précisait que ses activités cesseraient le 20/02/2011, suite à un arrêté d’expropriation, au profit de la société d'aménagement de la zone, la SADEV 94.		'la SADEV 94'

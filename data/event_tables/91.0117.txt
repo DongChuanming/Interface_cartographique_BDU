@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	12			2014	12			Les_mesures	Les mesures de concentration en perchloréthylène dans l’air des locaux voisins à la source de pollution ont été réalisées en décembre 2014, sur financement DRIEE.	'perchloréthylène'	'financement DRIEE'
+2012	01			2012	01			De_nouvelles_investigations_ont_été_menées	De nouvelles investigations ont été menées en janvier 2012 sur le terrain, en dehors des bâtiments. 13 nouveaux sondages sur site mais également hors site ont été réalisés ainsi que deux piézairs.		
+								Les_mesures	Les mesures des concentrations en perchloréthylène dans l’air intérieur des pavillons ont été réalisées par méthode passive sur une durée de 7 jours du 10 au 17 décembre 2014.	'perchloréthylène'	
+1960	02	23		1960	02	23		a_été_signé	Un arrêté d'autorisation avec bénéfice de l'antériorité a été signé le 23/02/1960 pour ces activités.		
+1977	08	11		1977	08	11		a_constaté_sur_place	L'inspection des installations classées a constaté sur place le 11 août 1977 que l'établissement était fermé.		
+2012				2012				Investigations_menées_sur_le_site	2/Investigations menées sur le site en 2012		
+1977	08	10		1977	08	10		a_subi_un_incendie	L'établissement a subi un incendie le 10 août 1977.		
+2011	08			2011	08			Les_investigations_ont_été_réalisées	Les investigations ont été réalisées fin août 2011 et ont consisté en la réalisation de sept sondages sur le site, deux piézomètres et des mesures de la qualité des gaz du sol.		
+2014	11	05		2014	11	05		Une_réunion_d__information	Une réunion d’information des riverains a eu lieu le 05 novembre 2014 en mairie de Draveil.		
+				2014	12	17		Les_mesures	Les mesures des concentrations en perchloréthylène dans l’air intérieur des pavillons ont été réalisées par méthode passive sur une durée de 7 jours du 10 au 17 décembre 2014.	'perchloréthylène'	
+1892				1977				ont_accueilli	Les terrains, d'une superficie de 1350 m2, ont accueilli de 1892 à 1977 une blanchisserie/teinturerie industrielle (activité utilisant des solvants organohalogénés de type perchloréthylène).	'des solvants organohalogénés', 'perchloréthylène'	
+2011				2011				Investigations_menées_sur_le_site	1/Investigations menées sur le site en 2011 :		

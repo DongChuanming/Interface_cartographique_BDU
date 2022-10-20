@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10			2003	10			ont_finalement_été_transmises	Elles ont finalement été transmises en octobre 2003 et ont mis en évidence une pollution des sols aux solvants chlorés (Trichloroéthylène).	'solvants chlorés', 'Trichloroéthylène'	
+2006	03	16		2006	03	16		a_été_prescrite_par	Au vu des conclusions de celles-ci, de l'usage du site et de son environnement, une surveillance des eaux de la rivière "la Vère" a été prescrite par un arrêté préfectoral en date du 16 mars 2006.		
+2002	11	22		2002	11	22		a_été_signé	Ces études n'ayant pas été remises dans le délai imparti, un arrêté préfectoral de mise en demeure a été signé le 22 novembre 2002.		
+1985				1985				occupe_le_site	Depuis 1985, la société Dubourg occupe le site.		'la société Dubourg'
+2006	06			2006	06			La_visite_d__inspection	La visite d'inspection de juin 2006, réalisée dans ce cadre, ainsi que les sondages et les travaux réalisés par l'entreprise DUBOURG FILS, n'ont pas mis en évidence la présence de dépôt de déchets d'amiante.		'DUBOURG FILS'
+1896				1896				a_accueilli	Le site du Réservoir, situé sur la commune d’Athis de l’Orne, a accueilli une filature à partir de 1896 dont l’exploitant était la SA Filature de la Martinique.		'la SA Filature'
+2006				2006				a_été_sélectionné	En raison de l'activité exercée historiquement par la société VALEO (déchets d'amiante), ce site a été sélectionné en 2006 dans le cadre de l'action nationale "amiante".	'amiante'	'la société VALEO'
+2007				2007				Des_analyses	Des analyses ont été réalisées en 2007 et 2008 qui n'ont pas montré d'impact sur l'eau de "la Vère" et les sédiments.		
+2013	06			2013	06			sa_liquidation_judiciaire	La société a été mise en demeure de réaliser une surveillance en juin 2013, soit juste avant sa liquidation judiciaire.		
+1996	04	03		1996	04	03		a_été_sélectionné	Étant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'
+2008				2008				n__a_plus_réalisé_d__analyse	Depuis 2008, l'exploitant n'a plus réalisé d'analyse.		
+2013	07			2013	07			est_placé_sous_mandataire	Suite à la liquidation de l'entreprise prononcée en juillet 2013, le site est placé sous mandataire.		
+2008				2008				Des_analyses	Des analyses ont été réalisées en 2007 et 2008 qui n'ont pas montré d'impact sur l'eau de "la Vère" et les sédiments.		

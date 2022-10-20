@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				plan_de_cession	Usine de fabrication de vêtements et de bonneterie exploitée par la société BEATEX implantée dans le bourg de Oloron Sainte Marie (64), de 1990 (reprise des Ets Laulhère) à 2008 (plan de cession et liquidation judiciaire).		'la société BEATEX', 'des Ets Laulhère'
+1990				1990				__reprise	Usine de fabrication de vêtements et de bonneterie exploitée par la société BEATEX implantée dans le bourg de Oloron Sainte Marie (64), de 1990 (reprise des Ets Laulhère) à 2008 (plan de cession et liquidation judiciaire).		'la société BEATEX', 'des Ets Laulhère'
+1977	09	21		1977	09	21		réaliser	- réaliser un dossier de cessation d'activité concernant la zone non exploitée et cédée à la Mairie conformément à l'article 34.1 du décret n° 77-1133 du 21 septembre 1977.		

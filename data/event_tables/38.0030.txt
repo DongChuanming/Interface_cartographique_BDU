@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1856				1856				est_utilisé_à_des_fins_industrielles	Le site est utilisé à des fins industrielles depuis 1856.		
+2000	10	16		2000	10	16		Cette_étude_a_été_transmise	Cette étude a été transmise à l'administration le 16 octobre 2000.		
+2008				2008				sont_repassées	De même, depuis 2008, les concentrations en nickel sont repassées en dessous des seuils en vigueurs.	'nickel'	
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée à SYLACHIM par l'arrêté préfectoral n° 98-8366 du 01/12/1998.		
+2000	08	23		2000	08	23		a_été_rédigée	L’usine élabore des principes actifs et commercialise des produits, et reprend l'autorisation d'exploitation qui a été rédigée en date du 23/08/2000.		
+				1966				ont_été_exploités	Des hauts fourneaux y ont été exploités jusqu’en 1966 (fabrication de fonte).		
+2009	02			2009	02			ont_été_réalisés	Neuf campagnes de suivi de qualité des eaux souterraines ont été réalisés depuis février 2009.		
+1965				1965				a_implanté	Le groupe pharmaceutique DELALANDE y a implanté les installations SYLACHIM en 1965.		'Le groupe pharmaceutique DELALANDE', 'les installations SYLACHIM'
+2009	09	23		2009	09	23		a_été_rédigé	Le dernier bilan de fonctionnement a été rédigé par la société ENVIRON en date du 23/09/2009.		'la société ENVIRON'
+2000	08	23		2000	08	23		élabore	L’usine élabore des principes actifs et commercialise des produits, et reprend l'autorisation d'exploitation qui a été rédigée en date du 23/08/2000.		
+2002	02			2009	02			réalisés	Ce bilan prend en considération les résultats de 23 campagnes de suivi de la qualité des eaux souterraines réalisés entre février 2002 et février 2009.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	09		2010	09	09		a_ouvert_une_procédure_de_liquidation_judiciaire	Par jugement en date du 9 septembre 2010, le tribunal de commerce de Nevers a ouvert une procédure de liquidation judiciaire à l'encontre de la SCI POUGUES BAUDRAS.		'le tribunal de commerce de Nevers', 'la SCI POUGUES BAUDRAS'
+2011	03			2011	03			a_été_transmis	Un diagnostic initial a été réalisé au droit du site ; le mémoire de cessation d'activité a été transmis à l'inspection des installations classées, en mars 2011.		
+2011	12			2011	12			__des_investigations_complémentaires_ont_été_réalisées	A la demande de l'inspection des installations classées, des investigations complémentaires ont été réalisées en décembre 2011 au niveau de l'ancienne aire de lavage et de l'ancien atelier.		

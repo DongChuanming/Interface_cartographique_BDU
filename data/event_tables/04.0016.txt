@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				Le_démantèlement_du_four	Le démantèlement du four d'incinération a été réalisé en 2006.		
+2001	12	31		2001	12	31		sont_stockés	Depuis le 31/12/2001, les déchets ménagers sont stockés dans une benne couverte sur le site de l'incinérateur, devenu quai de transfert géré par le SYDEVOM 04, puis transportés quotidiennement par camion à l'installation de stockage de déchets non dangereux de Valensole.	'déchets non dangereux'	'le SYDEVOM 04'
+2004				2004				Les_travaux_de_résorption	Les travaux de résorption du stock de mâchefers ont été réalisés au cours de l'année 2004, et ont consisté à niveler et compacter le sol de deux casiers situés au Nord du stock existant.	'mâchefers'	
+2005				2005				un_diagnostic_complémentaire_a_été_établi	A l'issue du diagnostic initial du site du mémoire de cessation d’activité, un diagnostic complémentaire a été établi courant 2005.		
+2001	12	31		2001	12	31		La_fermeture_effective	La fermeture effective de l'incinérateur est survenue le 31/12/2001.		
+2004				2004				au_cours_de_l_	Les travaux de résorption du stock de mâchefers ont été réalisés au cours de l'année 2004, et ont consisté à niveler et compacter le sol de deux casiers situés au Nord du stock existant.	'mâchefers'	

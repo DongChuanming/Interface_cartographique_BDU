@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988	07	11		1988	07	11		de_déclaration	La station service est exploitée depuis les années 1980 (Récépissé de déclaration du 11/07/1988).		
+2016				2016				a_été_constaté	Sur l'année 2016, un impact en hydrocarbures a été constaté dans les eaux souterraines.	'hydrocarbures'	
+1988	07	11		1988	07	11		est_exploitée	La station service est exploitée depuis les années 1980 (Récépissé de déclaration du 11/07/1988).		
+								est_exploitée	La station service est exploitée depuis les années 1980 (Récépissé de déclaration du 11/07/1988).		
+2017	11			2017	11			des_travaux_de_modernisation	Sur la période allant de novembre 2017 à juin 2018, des travaux de modernisation de la station-service ont été réalisés conduisant à la destruction de plusieurs ouvrages de surveillance.		
+2019	07	26		2019	07	26		ont_été_transmis	Les résultats des 2 campagnes de surveillance du premier semestre 2019 ont été transmis par courrier du 26 juillet 2019.		
+2014	01	29		2014	02	19		Des_travaux	Des travaux qui se sont déroulés du 29/01/2014 au 19/02/2014 ont permis la mise en sécurité du site.		
+2014	06			2014	06			n__observe_plus	Depuis juin 2014, on n'observe plus d'impact sur les eaux souterraines.		
+2016				2016				a_été_remis	Le diagnostic complémentaire relatif aux mesures dans les sols et dans les eaux souterraines a été remis début 2016.		
+2016				2016				Sur_l_	Sur l'année 2016, un impact en hydrocarbures a été constaté dans les eaux souterraines.	'hydrocarbures'	
+2018	11			2018	11			de_la_campagne_de_mesure	Lors de la campagne de mesure de novembre 2018 suivant l'installation des piézomètres, un impact important en hydrocarbures a été constaté sur les piézomètres Pz5bis, Pz7bis au centre de la station-service.	'hydrocarbures'	
+								ont_été_remplacés	Les ouvrages ont été remplacés pour la réalisation de deux campagnes de suivi des eaux souterraines et des gaz du sol sur novembre et décembre 2018.		
+2014	01			2014	01			l__incident	Selon SERPOL, les anomalies détectées ne semblent pas liées à l’incident de janvier 2014 (hydrocarbures de type gazole/kérosène/white-spirit, non essence), mais néanmoins probablement liées à l’activité passée de la station-service.	'hydrocarbures', 'gazole', 'kérosène', 'white - spirit', 'essence'	'SERPOL'
+2016	05	04		2016	05	04		a_précisé	Par courrier du 4 mai 2016, l'exploitant a précisé que les travaux d'excavations pour retirer les anomalies détectées dans les sols auraient un coût disproportionné compte tenu de l'étroitesse du site et des mesures de consolidation nécessaires par rapport à l'absence de mobilisation dans les eaux souterraines de cette pollution.		
+2019				2019				2_campagnes_de_surveillance	Les résultats des 2 campagnes de surveillance du premier semestre 2019 ont été transmis par courrier du 26 juillet 2019.		
+2014	01	29		2014	01	29		s__est_produite	Le 29/01/2014, une fuite de 2700 L de SP95 s’est produite au niveau de la tuyauterie enterrée reliée à la cuve de carburant et située à proximité du mur du parking de l’immeuble à l'ouest (au niveau R-1).	'SP95', 'carburant'	
+2018	12			2018	12			ont_été_remplacés	Les ouvrages ont été remplacés pour la réalisation de deux campagnes de suivi des eaux souterraines et des gaz du sol sur novembre et décembre 2018.		
+2018	06			2018	06			des_travaux_de_modernisation	Sur la période allant de novembre 2017 à juin 2018, des travaux de modernisation de la station-service ont été réalisés conduisant à la destruction de plusieurs ouvrages de surveillance.		
+2014	01	29		2014	01	29		a_eu_lieu	Une fuite d'essence a eu lieu le 29 janvier 2014, la station est depuis en arrêt temporaire.	'essence'	

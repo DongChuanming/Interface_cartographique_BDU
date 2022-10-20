@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				une_mise_à_jour	Dans l’optique de la fermeture annoncée, une mise à jour de l’ESR a été effectuée en 2005, confirmant la classe 2, et une EDR a été réalisée.		'l’ ESR'
+1996	02	16		1996	02	16		était_autorisé_par	L’établissement était autorisé par AP du 16 Février 1996.		
+				2013	10	04		Un_traitement_par_____Venting	*Un traitement par « Venting » s'est poursuivit jusqu'au 4 octobre 2013 sur la partie centrale du site (zones T et H).		
+2006	10	26		2006	10	26		la_cessation_définitive_de_ses_activités	Le 26 Octobre 2006, SBM Formulation a notifié au préfet des Bouches du Rhône la cessation définitive de ses activités à compter du 31 Janvier 2007.		'SBM Formulation'
+2014	12	11		2014	12	11		a_été_déposée	Une demande d'institution de servitudes d'utilité publique (SUP) a été déposée le 11 décembre 2014 par SBM Formulation.		'SBM Formulation'
+				1995				entrant_dans	Dans les années 1950, sous le nom de Procida, il a été utilisé pour la synthèse de principes actifs, entrant dans la formulation des pesticides jusqu’en 1995.	'Procida'	
+1999	12	23		1999	12	23		Une_étude_historique	Une étude historique, un diagnostic initial ainsi que l’Evaluation Simplifiée des Risques (ESR) ont été remis le 23 Décembre 1999.		
+2011	12	23		2011	12	23		Un_premier_procès_verbal_de_récolement	Un premier procès-verbal de récolement a été établit le 23 décembre 2011 pour l'ensemble du site à l'exception des zones T et H.		
+2010				2010				Les_travaux_se_sont_déroulés	Les travaux se sont déroulés pendant l’année 2010 :		
+2016	01	04		2016	01	04		a_été_établit	Un second procès-verbal a été établit le 4 janvier 2016 pour les zones T et H.		
+2007	01	31		2007	01	31		la_cessation_définitive_de_ses_activités	Le 26 Octobre 2006, SBM Formulation a notifié au préfet des Bouches du Rhône la cessation définitive de ses activités à compter du 31 Janvier 2007.		'SBM Formulation'
+								a_été_utilisé	Dans les années 1950, sous le nom de Procida, il a été utilisé pour la synthèse de principes actifs, entrant dans la formulation des pesticides jusqu’en 1995.	'Procida'	

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				construction_de	1958 : construction de l'usine FRIMATIC-CAMPS		
+1972				1972				__Reprise	1972: Reprise du site par Cycles Peugeot		
+2004	08	02		2004	08	02		a_transmis	L'exploitant a transmis le 02/08/2004 un rapport correspondant à l'étape A du diagnostic initial ainsi qu'une proposition d'investigations pour la phase B.		
+2002	04	26		2002	04	26		informe	Par courrier du 7 mai 2002, l'exploitant informe l'inspection des installations classées de l'arrêt de l'installation de traitement des eaux le 26 avril 2002.		
+1992				1992				__Reprise	1992: Reprise du site par CYCLEUROPE.		
+2002	05	07		2002	05	07		informe	Par courrier du 7 mai 2002, l'exploitant informe l'inspection des installations classées de l'arrêt de l'installation de traitement des eaux le 26 avril 2002.		
+2006				2006				Le_suivi_a_en_réalité_débuté	Le suivi a en réalité débuté lors du premier semestre de l'année 2006.		
+2004	08	30		2004	08	30		a_adressé_un_courrier	n réponse, l'inspection des installations classées lui a adressé un courrier le 30/08/2004 lui demandant quelques compléments ainsi que la réalisation de l'Etude simplifiée des risques.		
+2001				2001				ont_été_arrêtées	Les installations de découpage acier et aluminum ont été arrêtées en 2001.		
+1962				1962				dépôt_de_bilan	1962 : dépôt de bilan de FRIMATIC et reprise du site par les groupes CLARET et THOMSON.		'FRIMATIC', 'les groupes CLARET', 'THOMSON'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	12			2012	12			aux_travaux_d__excavations	L’augmentation des teneurs sur le 3e piézomètre serait due aux travaux d’excavations (benzène = 270 µg/l en mai 2012 et 53 µg/l en décembre 2012).	'benzène'	
+2011	02			2011	02			a_été_vendu	Le terrain a été vendu à la ville du Perreux-sur-Marne en février 2011.		
+2011	05			2011	05			Les_prélèvements_et_analyses_réalisés	Les prélèvements et analyses réalisés au mois de mai 2011 mettent en évidence la conformité de la qualité des eaux souterraines par rapport aux critères de qualité définis pour l'eau potable dans l'arrêté ministériel du 11 janvier 2007 ou à défaut par l'OMS.		
+								doivent_être_mis_en_place	- Des piézairs doivent être mis en place, dans un délai de 3 mois, afin de vérifier la présence ou non de benzène dans les gaz du sol et l’ARR devra être mise jour avec les résultats.	'benzène'	
+1971				1971				déclarée	Le site a été occupé par une station service, déclarée en 1971.		
+				2011	04	06		Les_travaux_de_démantèlement	Les travaux de démantèlement ont été échelonnés du 22 février au 06 avril 2011. 7 fouilles ont été réalisées au droit du site,  2144 tonnes de terres impactées ont été excavées et éliminées en centre agréé.		
+2012	12			2012	12			a_cessé	SHELL a cessé la surveillance de la qualité des eaux de la nappe en décembre 2012, vu la compatibilité du site avec un usage comparable à la dernière période d'exploitation (industrielle et commerciale), l'absence de risque pour les habitations riveraines, la nette diminution des concentrations en benzène dans les eaux de la nappe suite aux travaux de dépollution.	'benzène'	'SHELL'
+2009	11	12		2009	11	12		sa_notification	Par courrier du 22/10/2010, SHELL a adressé à la préfecture sa notification de cessation d'activité, accompagnée d'un diagnostic pollution en date du 12/11/2009.		'SHELL'
+2009	11	12		2009	11	12		d__un_diagnostic_pollution	Par courrier du 22/10/2010, SHELL a adressé à la préfecture sa notification de cessation d'activité, accompagnée d'un diagnostic pollution en date du 12/11/2009.		'SHELL'
+2010	11	23		2010	11	23		La_fermeture_de	La fermeture de la station a été effective au 23/11/2010.		

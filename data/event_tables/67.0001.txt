@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				La_dépollution	La dépollution par pompage prescrite par AP du 20/01/95 a été effectuée en 1995.		
+2002	07			2002	07			ont_été_mis_à_l__arrêt	Les dispositifs de traitement atteignant les limites de leur efficacité ont été mis à l'arrêt en juillet 2002.		
+2000	12	07		2000	12	07		Un_traitement_par_venting	Un traitement par venting a été mis en place le 07/12/2000, complété par air-sparging depuis le 06/02/2001.		
+2006	02	13						La_station_de_dépollution_des_sols	La station de dépollution des sols par la méthode dite "air-sparging/venting" est en place et fonctionne depuis le 13 février 2006. 17 puits d'injection d'air et 12 puits d'aspiration de l'air du sol fonctionnent en alternance suivant des séquences préétablies suivies à distance par l'entreprise installatrice.		
+1993	03			1993	03			Une_dépollution	Une dépollution a été entreprise en mars 1993 par le nettoyage de trois fosses et par l'évacuation des boues polluées en centre de destruction.		
+1999				1999				une_étude_globale	En 1999, suite à une remontée des valeurs en tétrachloroéthylène en limite de site, une étude globale a été réalisée, montrant qu'il subsiste une source résiduelle de pollution par les COHV dans les sols.	'tétrachloroéthylène', 'les COHV'	

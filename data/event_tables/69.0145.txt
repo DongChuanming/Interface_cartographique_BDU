@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03	02		2000	03	02		a_été_mise_en_liquidation_judiciaire	La Société « Tannerie RONZON » a été mise en liquidation judiciaire le 2 mars 2000.		'La Société « Tannerie RONZON'
+2002	08	22		2002	08	22		la_réalisation_d__un_diagnostic_initial	Compte tenu de la présomption de pollution des sols sur le site concerné, Monsieur le Préfet a imposé le 22 août 2002 aux Etablissements RONZON la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR).		'le Préfet', 'Etablissements RONZON'
+2003	01	23		2003	01	23		de_mise_en_demeure	Cet arrêté a été suivi d'un arrêté préfectoral de mise en demeure du 23 janvier 2003, puis d'un arrêté préfectoral du 2 septembre 2003, engageant une procédure de consignation de somme (10 000 €).		
+1998				1998				a_été_exploité	Cet établissement a été exploité durant plusieurs dizaines d'années par les Etablissements RONZON, avant d'être cédé en 1998 à la Société « Tannerie RONZON ».		'les Etablissements RONZON', 'la Société « Tannerie RONZON'
+2009	06	23		2009	06	23		a_imposé	Par un nouvel arrêté du 23 juin 2009, le préfet a imposé au liquidateur judiciaire des prescriptions complémentaires à savoir :		'le préfet'
+2009	06	23		2009	06	23		un_nouvel_arrêté	Par un nouvel arrêté du 23 juin 2009, le préfet a imposé au liquidateur judiciaire des prescriptions complémentaires à savoir :		'le préfet'
+2013	07	26		2013	07	26		a_été_vendu	Le site a été vendu à l'Établissement Public Foncier de l'Ouest Rhône-Alpes (EPORA) le 26/07/2013 qui doit prendre à sa charge la dépollution et remise en état du site.		'Ouest Rhône - Alpes', 'EPORA'
+2008	12	04		2008	12	04		a_été_mise_en_liquidation_judiciaire	La société «Établissements RONZON» a été mise en liquidation judiciaire le 4 décembre 2008.		'La société « Établissements RONZON'
+2003				2003				en_fin_d_	Les études correspondantes ont été transmises en fin d'année 2003.		
+2003				2003				ont_été_transmises	Les études correspondantes ont été transmises en fin d'année 2003.		

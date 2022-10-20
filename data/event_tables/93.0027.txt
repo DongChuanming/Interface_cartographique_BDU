@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_été_remise_en_service	Elle a été remise en service en aout 2008.		
+2002	10			2002	10			a_été_interrompue	La surveillance de la nappe a été interrompue en octobre 2002 du fait du terrassement du site.		
+1997				1997				Cessation_d__activité	Cessation d'activité en 1997.		
+2000	12			2000	12			a_été_mise_en_place	Une surveillance de la nappe a été mise en place à partir de décembre 2000.		
+1999	12	22		1999	12	22		Des_opérations_de_dépollution	Des opérations de dépollution (excavation des terres et traitement biologique) ont été réalisées en application de l'arrêté préfectoral de mise en demeure du 22/12/1999.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_revendu	Le site a été revendu en 2010 à une SCI.		
+2006	09	27		2006	09	27		a_demandé	Le préfet a demandé le 27/09/2006 la poursuite de la surveillance piézométrique au propriétaire du site, sans réponse de sa part.		'Le préfet'
+				2006				une_surveillance_trimestrielle	Le site a fait l'objet d'une surveillance trimestrielle sur 6 piézomètres jusqu’en 2006.		
+1996				1996				Un_premier_diagnostic_et_devis_a_été_établi	Un premier diagnostic et devis a été établi en 1996 par le liquidateur judiciaire, suite à un courrier de la préfecture.		
+				1998				Les_travaux_de_dépollution	Les travaux de dépollution du sol et de la nappe ont été conduits jusqu'en 1998, en conformité avec l'arrêté préfectoral de dépollution et surveillance du 16/07/1997.		
+1997	07	16		1997	07	16		a_été_notifié	Un arrêté préfectoral de remise en état a été notifié au liquidateur de la société SFRM le 16/07/1997.		'la société SFRM'
+1997	07	16		1997	07	16		Les_travaux_de_dépollution	Les travaux de dépollution du sol et de la nappe ont été conduits jusqu'en 1998, en conformité avec l'arrêté préfectoral de dépollution et surveillance du 16/07/1997.		
+2013	12	03		2013	12	03		a_été_informé	Le propriétaire actuel du site a été informé par le préfet, par courrier du 3/12/2013, des dernières informations connues sur la pollution des eaux souterraines.		'le préfet'
+				2006				a_fait_l__objet_d_	Le site a fait l'objet d'une surveillance trimestrielle sur 6 piézomètres jusqu’en 2006.		
+2006				2006				L__étude_transmise	L'étude transmise en 2006 sur les prélèvements de mai 2006 a montré que la pollution reste très importante et les teneurs en hydrocarbures ont augmenté sur les piézomètres  1 et 4 (150 mg/l et 590 mg/l).	'hydrocarbures'	
+2006	05			2006	05			les_prélèvements	L'étude transmise en 2006 sur les prélèvements de mai 2006 a montré que la pollution reste très importante et les teneurs en hydrocarbures ont augmenté sur les piézomètres  1 et 4 (150 mg/l et 590 mg/l).	'hydrocarbures'	
+				1995				a_exploité	La société SFRM a exploité sur ce site une usine de fonderie d'aluminium de 1989 jusqu’en 1995, date de sa mise en liquidation judiciaire.		'La société SFRM'
+1995				1995				a_occupé	La société FIRSTINOX a racheté en toute connaissance les terrains et a occupé le site à partir de 1995.		'La société FIRSTINOX'

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Des_essais_de_traçage	Des essais de traçage en 1998 montrent sans ambiguité le cheminement des hydrocarbures entre les cuves et la résurgence.	'hydrocarbures'	
+1995	09	20		1995	09	20		a_été_pollué	Le ruisseau de Viville situé en contrebas de la RN10 a été pollué le 20 septembre 1995 par des hydrocarbures provenant d'une résurgence qui l'alimente.	'hydrocarbures'	
+2000	07	29		2000	07	29		un_incendie_survenu	La station service de la société Picoty a été totalement détruite lors d'un incendie survenu le 29 juillet 2000.		'la société Picoty'
+1996	10	08		1996	10	08		Ces_travaux_ont_été_imposés	Ces travaux ont été imposés par arrêté du 8 octobre 1996.		
+2000	07	29		2000	07	29		a_été_totalement_détruite	La station service de la société Picoty a été totalement détruite lors d'un incendie survenu le 29 juillet 2000.		'la société Picoty'
+1998				1998				Des_essais_de_lavage_de_sols	Des essais de lavage de sols, toujours en 1998, n'ont pas permis d'améliorer le taux de récupération des hydrocarbures au niveau de la résurgence, ce qui laissait supposer qu'il y avait une autre source de pollution.	'hydrocarbures'	
+2009	06	25		2009	06	25		a_été_signé_le	Cet AP a été signé le 25 juin 2009.		
+1995	09	20		1995	09	20		à_une_pollution_par_les_hydrocarbures_du_ruisseau_de___Viville___à_Champniers	Suite à une pollution par les hydrocarbures du ruisseau de "Viville" à Champniers le 20 septembre 1995, les investigations menées ont amené l'inspection à attribuer la responsabilité de cette pollution à la station service exploitée par la S.	'hydrocarbures'	'la S.'

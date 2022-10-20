@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_transmise	Suite à ces travaux, une étude finale a été transmise le 3/04/98.		
+1996	08			1996	08			L__étude_de_sol	L'étude de sol a été transmise en dernier lieu en août 1996 de manière compléte.		
+1994	12			1994	12			l__évacuation	A la découverte de cette situation, l'administration a demandé en décembre 1994 à l'exploitant, l'évacuation de ces produits en décharges et une étude du sol sous le stockage.		
+1994				1994				__étaient_stockés_sur	Jusqu'en 1994, des déchets de polypropylène souillés issus de cette activité  étaient stockés sur une zone de 13 000 m2 dans l'enceinte de l'usine.	'déchets de polypropylène'	

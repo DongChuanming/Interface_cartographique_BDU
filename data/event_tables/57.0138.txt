@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				a_scindé	En 1997, la société a scindé ses 2 activités principales :		
+1960	10	24		1960	10	24		de_déclaration	La société Fabert a été autorisée par récepissé de déclaration du 24 octobre 1960 à exploiter 3 cuves de 12000 litres de liquides inflammables en fosse sur le territoire de la commune de METZ dans le cadre de ses activités de conditionnement et de stockage de peinture et de produits d’hygiène.	'liquides inflammables'	'La société Fabert'
+2001				2001				ont_été_inertées	En 2001, suite à l’arrêt de leur exploitation, 3 des 4 cuves de stockage ont été inertées et évacuées.		
+1999				1999				a_été_cédée	La société Fabert, 100% filiale de SOFFAB, a été cédée à ZOLPAN en 1999.		'La société Fabert', 'SOFFAB', 'ZOLPAN'
+1990				1990				a_cessé	L’activité de conditionnement a cessé en 1990.		

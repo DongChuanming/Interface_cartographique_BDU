@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	06		2003	05	06		a_remis	Suite à la réunion du 6 mai 2003, l'exploitant a remis une ESR actualisée le 16 juillet 2004.		
+2012				2012				s__est_poursuivie	En 2010 et en 2011, l'exploitant a mis en œuvre 3 dispositifs pilotes de confinement de la pollution au droit du site (hydraulique, biologique et unité d’écrémage automatique) ; l'étude de ces pilotes s'est poursuivie en 2012.		
+2004				2004				a_remis	L'exploitant a remis le 30 août 2005 des éléments complémentaires en réponse au courrier préfectoral, qui ont contribué à la révision de l'ESR de 2004.		
+2009				2009				a_établi	En 2009, l'exploitant a établi un plan de gestion et une synthèse hydrogéologique.		
+2010				2010				a_mis_en_œuvre	En 2010 et en 2011, l'exploitant a mis en œuvre 3 dispositifs pilotes de confinement de la pollution au droit du site (hydraulique, biologique et unité d’écrémage automatique) ; l'étude de ces pilotes s'est poursuivie en 2012.		
+2011				2011				a_mis_en_œuvre	En 2010 et en 2011, l'exploitant a mis en œuvre 3 dispositifs pilotes de confinement de la pollution au droit du site (hydraulique, biologique et unité d’écrémage automatique) ; l'étude de ces pilotes s'est poursuivie en 2012.		
+1976	08			1976	08			a_été_détectée	Une lentille d'hydrocarbures due à des fuites sur des canalisations enterrées de fabrication a été détectée en août 1976.	'hydrocarbures'	
+2012	08			2012	08			une_évaluation_quantitative	La raffinerie a réalisé en août 2012 une évaluation quantitative des risques sanitaire au niveau de la cuve de stockage A33.		
+2007	07			2007	07			a_été_découverte	En marge du suivi de la pollution de la zone des unités de fabrication et de stockages, une pollution aux hydrocarbures sur la zone des chargements a été découverte au mois de juillet 2007, un arrêté préfectoral d'urgence du 16 juillet 2007 a prescrit l'élimination de la source de pollution (fosse n°17 fuyarde), la réalisation de piézomètres et l'analyse des eaux souterraines.	'hydrocarbures'	
+1964				1964				est_implantée	La raffinerie de Feyzin est implantée depuis 1964 sur un site où il n'y avait pas auparavant d'activité industrielle, à 10 km au sud de Lyon.		
+2013	06			2013	06			un_bilan	En juin 2013, l’exploitant a transmis un bilan qui montre que chacun de ces dispositifs permet de réduire la pollution des eaux souterraines.		
+2011				2011				s__inscrit_dans	Cette évaluation s’inscrit dans le contexte du plan de gestion et du pilote hydraulique mis en place sur le site courant 2011.		
+2007	02	05		2007	02	05		a_été_pris	Suite à ces constats, un arrêté préfectoral a été pris le 5 février 2007, prescrivant la surveillance renforcée de ces pollutions, afin de déterminer si elles dépassent les limites du site.		
+2008	02			2008	02			a_été_réalisée	En février 2008, une IEM a été réalisée et a conclu sur la nécessité d’approfondir la « réflexion sur la situation avant d’engager un plan de gestion.		
+2014	09	18		2014	09	18		Le_rapport	Le rapport de l’inspection du 18 septembre 2014 avait pour but de faire le point sur l’évolution de la pollution au droit du site.		
+2005	01	06		2005	01	06		d__une_réunion	Les observations sur cette étude ont fait l'objet d'un courrier préfectoral adressé à l'exploitant le 5 novembre 2004 et d'une réunion le 6 janvier 2005 entre la DRIRE et l'exploitant.		'la DRIRE'
+2003	05	06		2003	05	06		à_la_réunion	Suite à la réunion du 6 mai 2003, l'exploitant a remis une ESR actualisée le 16 juillet 2004.		
+2004	07	16		2004	07	16		a_remis	Suite à la réunion du 6 mai 2003, l'exploitant a remis une ESR actualisée le 16 juillet 2004.		
+2005	08	30		2005	08	30		a_remis	L'exploitant a remis le 30 août 2005 des éléments complémentaires en réponse au courrier préfectoral, qui ont contribué à la révision de l'ESR de 2004.		
+2004	07	16		2004	07	16		actualisée	Suite à la réunion du 6 mai 2003, l'exploitant a remis une ESR actualisée le 16 juillet 2004.		
+2011				2011				mis_en_place	Cette évaluation s’inscrit dans le contexte du plan de gestion et du pilote hydraulique mis en place sur le site courant 2011.		
+2006	06			2006	06			Les_résultats_des_analyses_réalisées	Les résultats des analyses réalisées en juin 2006 ont fait apparaître des concentrations importantes en hydrocarbures au droit du site et de fortes concentrations en benzène sur la partie ouest du site, au niveau de la cuvette A33 et dans une moindre mesure des cuvettes A25 et 24.	'hydrocarbures', 'benzène'	

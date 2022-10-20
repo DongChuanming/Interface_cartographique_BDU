@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984	12	12		1984	12	12		liquidée_judiciairement	Cette usine a été créée en 1970 par la société Mécaprotech, liquidée judiciairement le 12 décembre 1984.		'la société Mécaprotech'
+1985				1985				créée	La société Mécaprotec Industries, créée en 1985, a repris, modernisé et développé les activités de la société disparue.		'La société Mécaprotec Industries'
+2001	10			2001	10			réalisée	L'étape A réalisée en octobre 2001 a répertorié 6 zones à risque potentiel correspondant aux activités de traitement de surfaces, d'usinage, de stockage de produits chimiques et de déchets résultant de l'activité industrielle exercée.	'produits chimiques'	
+2009	07	17		2009	07	17		a_validé	L’inspection a validé cette solution par courrier du 17 juillet 2009, en demandant la transmission d'un bilan semestriel du fonctionnement de ce dispositif.		
+2009				2009				a_été_mis_en_place	Celui-ci a été mis en place au 2ème semestre 2009, et le pompage et le traitement des eaux ont débuté en janvier 2010.		
+2009	04			2009	04			a_été_élaboré	Par ailleurs, un plan de gestion des pollutions a été élaboré par la société, et remis en avril 2009.		'la société'
+2016	08			2016	08			l__enlèvement	A noter que la mise en place d'une nouvelle chaîne de traitement de surfaces (chaîne N) a entraîné l'enlèvement et l'élimination de 270 t de terres polluées, en août 2016.		
+2008	01	29		2008	01	29		a_été_signé	Un arrêté préfectoral complémentaire a été signé le 29 janvier 2008, pour imposer une surveillance trimestrielle des eaux souterraines au droit du site.		
+2016	08			2016	08			la_mise_en_place_d_	A noter que la mise en place d'une nouvelle chaîne de traitement de surfaces (chaîne N) a entraîné l'enlèvement et l'élimination de 270 t de terres polluées, en août 2016.		
+1970				1970				a_été_créée	Cette usine a été créée en 1970 par la société Mécaprotech, liquidée judiciairement le 12 décembre 1984.		'la société Mécaprotech'
+								a_été_mis_en_place	Celui-ci a été mis en place au 2ème semestre 2009, et le pompage et le traitement des eaux ont débuté en janvier 2010.		
+2010	01			2010	01			a_été_mis_en_place	Celui-ci a été mis en place au 2ème semestre 2009, et le pompage et le traitement des eaux ont débuté en janvier 2010.		
+2008	01	29		2008	01	29		signé	Un arrêté préfectoral complémentaire signé le 29 janvier 2008 encadre la surveillance des eaux souterraines.		
+1984	12	12		1984	12	12		a_été_créée	Cette usine a été créée en 1970 par la société Mécaprotech, liquidée judiciairement le 12 décembre 1984.		'la société Mécaprotech'
+2006				2006				des_travaux_de_mise_en_conformité	En 2006, des travaux de mise en conformité ont été réalisés sur le site (remplacement des canalisations existantes, imperméabilisation des rétentions...).		
+2002	03			2002	03			un_diagnostic_initial	En mars 2002, un diagnostic initial ainsi qu’une évaluation simplifiée des risques ont été réalisés.		
+2010	01			2010	01			ont_débuté	Celui-ci a été mis en place au 2ème semestre 2009, et le pompage et le traitement des eaux ont débuté en janvier 2010.		

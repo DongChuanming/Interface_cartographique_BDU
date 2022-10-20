@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	10	12		2017	10	12		de_prélèvements_a_eu_lieu	Une première phase d’excavation des terres et de prélèvements a eu lieu dans la semaine du 5 au 12 octobre 2017.		
+2017	10	19		2017	10	19		Une_seconde_phase_d__excavation	Une seconde phase d’excavation et de prélèvements a eu lieu le 19 octobre 2017.		
+2017	11	29		2017	11	29		a_transmis	La société PICOTY ATLANTIQUE SERVICES a transmis le 29 novembre 2017 en Préfecture un dossier de cessation d’activité comprenant un rapport relatif aux opérations de démolition et de dépollution, les résultats des analyses de sol et l’analyse des risques résiduels.		'La société PICOTY ATLANTIQUE SERVICES'
+								de_prélèvements_a_eu_lieu	Une première phase d’excavation des terres et de prélèvements a eu lieu dans la semaine du 5 au 12 octobre 2017.		
+2017	10			2017	10			Le_diagnostic_de_pollution_des_sols	Le diagnostic de pollution des sols a été mené par la société EGEH Rincent Eau et Environnement (rapport n°2017437V1 – novembre 2017) et se base sur des investigations réalisées sur site au mois d’octobre 2017.		'la société EGEH Rincent'
+2017	11			2017	11			Le_diagnostic_de_pollution_des_sols	Le diagnostic de pollution des sols a été mené par la société EGEH Rincent Eau et Environnement (rapport n°2017437V1 – novembre 2017) et se base sur des investigations réalisées sur site au mois d’octobre 2017.		'la société EGEH Rincent'
+2017	10			2017	10			mois_d_	Le diagnostic de pollution des sols a été mené par la société EGEH Rincent Eau et Environnement (rapport n°2017437V1 – novembre 2017) et se base sur des investigations réalisées sur site au mois d’octobre 2017.		'la société EGEH Rincent'

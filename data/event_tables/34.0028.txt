@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			a_cessée	En 1988, la zone Est de l'établissement, constituant ce site a été reprise par la société La Méditerranéenne pour exercer une activité de fabrication d'engrais et d'amendements organiques qui a cessée en juillet 2002.		'la société La Méditerranéenne'
+1988				1988				a_été_reprise	En 1988, la zone Est de l'établissement, constituant ce site a été reprise par la société La Méditerranéenne pour exercer une activité de fabrication d'engrais et d'amendements organiques qui a cessée en juillet 2002.		'la société La Méditerranéenne'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				est_créée	En 1974, la Société Industrielle de la Vesgre (VIC) est créée et entreprend la construction d'une usine de production de rubans adhésifs sur la commune de Pierres.		'la Société Industrielle de la Vesgre'
+2001	09			2001	09			a_été_classé	A l'issue d'une évaluation simplifiée des risques, remise en septembre 2001, le site a été classé dans la catégorie des sites "à surveiller".		
+2018	09	05		2018	09	05		A	A compter du 5 septembre 2018, la société SUPERTAPE met à l'arrêt définitif ses activités d'exploitation sur le site rue de Boisricheux.		'la société SUPERTAPE'
+2018	09	05		2018	09	05		met_à_l__arrêt_définitif	A compter du 5 septembre 2018, la société SUPERTAPE met à l'arrêt définitif ses activités d'exploitation sur le site rue de Boisricheux.		'la société SUPERTAPE'
+2014	10	09		2014	10	09		la_création_de	L’inspection de l’environnement a demandé le 9 octobre 2014 la création de deux nouveaux piézomètres en amont et aval hydraulique du site ainsi qu’une étude pour préciser la contribution de l’établissement à la pollution de l’eau souterraine.		
+2010				2013				ont_ponctuellement_été_décelées	Entre 2010 et 2013 des substances ont ponctuellement été décelées avec des concentrations supérieures aux limites données par l'arrêté du 11 janvier 2007 relatif à la qualité des eaux brutes et des eaux destinées à la consommation humaine.		
+1990	05	30		1990	05	30		une_explosion_s__est_produite	Le 30 mai 1990, une explosion s'est produite sur le site entraînant la propagation du feu à un stockage de caoutchouc naturel, résines et colorants.	'colorants'	
+2001				2007				Le_suivi_de	Le suivi de la qualité des eaux souterraines entre 2001 et 2007 montre :		
+1997				1997				est_absorbée	En 1997, cette dernière est absorbée par le groupe hollandais RAY TECHNOLOGY sous la dénomination SUPERTAPE France.		'le groupe hollandais RAY TECHNOLOGY', 'la dénomination SUPERTAPE France'
+1991				1991				reprend	La société SUPERTAPE reprend en 1991 la société SIV qui devient alors SUPERTAPE SIV.		'La société SUPERTAPE', 'la société SIV', 'SUPERTAPE SIV'

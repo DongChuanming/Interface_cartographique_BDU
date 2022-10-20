@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10	18		2000	10	18		fait_parvenir	Arrêté abrogé le 18 mars 2001 puisque la Société ELF ANTAR FRANCE fait parvenir le 18 octobre 2000 le diagnostic des sols et de la nappe effectué en le 16 octobre 1996.		'la Société ELF ANTAR FRANCE'
+2001	01	02		2001	01	02		__met	le 2 janvier 2001, La sociéte ELF ANTAR FRANCE, de sa propre initiative, met son site en sécurité par la vidange et la neutralisation des cuves.		'La sociéte ELF ANTAR FRANCE'
+2000	10	18		2000	10	18		fait_parvenir	la Société ELF ANTAR FRANCE fait parvenir le 18 octobre 2000 le certificat d'extraction des réservoirs et des tuyauteries effectuée en 1997.		'la Société ELF ANTAR FRANCE'
+1996	10	16		1996	10	16		le_diagnostic_des_sols	Arrêté abrogé le 18 mars 2001 puisque la Société ELF ANTAR FRANCE fait parvenir le 18 octobre 2000 le diagnostic des sols et de la nappe effectué en le 16 octobre 1996.		'la Société ELF ANTAR FRANCE'
+1997				1997				d__extraction	la Société ELF ANTAR FRANCE fait parvenir le 18 octobre 2000 le certificat d'extraction des réservoirs et des tuyauteries effectuée en 1997.		'la Société ELF ANTAR FRANCE'

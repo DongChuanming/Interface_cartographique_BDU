@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Michel_GABANOU_est_décédé	Michel GABANOU est décédé en 2000, ainsi que sa femme en 2012.		
+2000				2000				Michel_GABANOU_est_décédé	Michel GABANOU est décédé en 2000, ainsi que sa femme en 2012.		
+2012				2012				déclare_avoir_clôturé_l__affaire	Aujourd’hui, il déclare avoir clôturé l’affaire en 2012 pour insuffisance d’actifs et avoir remis le dossier au notaire maître BOISTEL de Gaillon.		'BOISTEL de Gaillon'
+								____a_été_consignée	Par arrêté préfectoral du 7 mars 1979, la somme de 13 300 F (2 027,57 €) a été consignée et recouvrée le 11 juillet 1979 à l’encontre de Michel GABANOU pour le non-débarrassement total de la parcelle n° 127 .		
+2007				2007				est_intervenue_plusieurs_fois	L'inspection des installations classées est intervenue plusieurs fois, avec le maire, notamment auprès du liquidateur des biens, Maître Yves BOURGOIN en 2003, 2006 et 2007, mais celui-ci n’a jamais répondu, ni  au courrier du préfet de 2007.		'Maître Yves BOURGOIN'
+2006				2006				est_intervenue_plusieurs_fois	L'inspection des installations classées est intervenue plusieurs fois, avec le maire, notamment auprès du liquidateur des biens, Maître Yves BOURGOIN en 2003, 2006 et 2007, mais celui-ci n’a jamais répondu, ni  au courrier du préfet de 2007.		'Maître Yves BOURGOIN'
+2003				2003				est_intervenue_plusieurs_fois	L'inspection des installations classées est intervenue plusieurs fois, avec le maire, notamment auprès du liquidateur des biens, Maître Yves BOURGOIN en 2003, 2006 et 2007, mais celui-ci n’a jamais répondu, ni  au courrier du préfet de 2007.		'Maître Yves BOURGOIN'

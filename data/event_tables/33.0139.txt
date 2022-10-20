@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01			2005	01			ont_été_remises	Les études ont été remises en janvier 2004 et janvier 2005.		
+1983	03	02		1983	03	02		est_autorisée	Cette installation est autorisée par l'arrêté préfectoral du 2 mars 1983.		
+2004	01			2004	01			ont_été_remises	Les études ont été remises en janvier 2004 et janvier 2005.		

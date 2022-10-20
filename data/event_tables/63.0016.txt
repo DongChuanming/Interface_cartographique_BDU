@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1938				1938				Créée	Créée en 1938, l'usine a pour activité la fonderie, le laminage et filage de produits en alliages d'aluminium destinés à l'aéronautique, au transport, à la mécanique et à la chaudronnerie.		
+1998	03	23		1998	03	23		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 23 mars 1998.		
+2002	09	24		2002	09	24		une_visite_de_contrôle	Le rapport définitif de l'étude simplifiée des risques a été adressé à la DRIRE fin juillet 2002, il conduit à classer en classe 2 le site (à surveiller), une visite de contrôle a été effectuée le 24/09/2002 afin de finaliser les dispositions de l'arrêté de suivi qui va être mis en place.		'la DRIRE'
+2008	04			2008	04			L__implantation_de_piézomètres	L'implantation de piézomètres sur les terrains de l'entreprise voisine a été demandé en avril 2008, les résultats permettront de déterminer l'origine de la pollution du Pz6.		
+2003	05	16		2003	05	16		il_a_été_demandé	Par courrier du 16 mai 2003, il a été demandé à l'exploitant de communiquer à la Drire, les résultats des investigations complémentaires demandées.		'la Drire'
+2000	05	11		2000	05	11		Le_diagnostic_initial_a_été_présentée	Le diagnostic initial a été présentée le 11 mai 2000 et trois campagnes de sondages ont été réalisées.		
+								a_été_validée	L'étape A de l'étude simplifiée des risques a été validée le 4/12/01 engageant ainsi l'étape suivante.		
+2002	07			2002	07			a_été_effectuée	Le rapport définitif de l'étude simplifiée des risques a été adressé à la DRIRE fin juillet 2002, il conduit à classer en classe 2 le site (à surveiller), une visite de contrôle a été effectuée le 24/09/2002 afin de finaliser les dispositions de l'arrêté de suivi qui va être mis en place.		'la DRIRE'
+2003	05	27		2003	05	27		ont_été_validées	Les conclusions de l'étape B et de l'ESR ont été validées le 27/05/2003.		

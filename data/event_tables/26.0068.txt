@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12			2004	12			Ces_investigations	Ces investigations ont été conduites en décembre 2004 et ont mis en évidence une zone polluées par les hydrocarbures au niveau de l’emplacement du bras de chargement des camions citernes (8600 mg/kg en hydrocarbures totaux).	'hydrocarbures', 'camions citernes', 'hydrocarbures totaux'	
+1990	06	06		1990	06	06		a_fait_l__objet_du	Elle a fait l’objet du récépissé de déclaration n° 90/32 en date du 6 juin 1990.		
+2005	10	20		2005	10	20		Les_travaux_préconisés	Les travaux préconisés ont été réalisés le 20 octobre 2005.		
+2006	01	05		2006	01	05		La_notification_de_cessation_d__activité	La notification de cessation d’activité a été effectuée le 5 janvier 2006.		
+2004				2004				Le_diagnostic	Le diagnostic réalisé courant 2004 a préconisé des investigations du sol au niveau des zones susceptibles d’avoir été polluées par les activités historiquement exercées.		

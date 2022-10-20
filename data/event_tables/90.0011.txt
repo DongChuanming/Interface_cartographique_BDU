@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05			2002	05			ont_été_remises	La dernière partie de l'étude des sols et l'évaluation simplifiée des risques ont été remises en mai 2002.		
+2003				2003				a_cessé	L'autre partie était occupée par la société ARA (Allevard Rejna Autosuspensions), qui a cessé son activité en 2003 (voir fiche BASOL correspondante).		'la société ARA'
+2011	11			2011	11			a_racheté	La société Frauenthal Automotive a racheté en novembre 2011 les anciens terrains de la société ARA.		'La société Frauenthal Automotive', 'la société ARA'
+2000	07			2000	07			un_diagnostic_initial	Compte tenu de l’activité du site, de son ancienneté et de son historique, un diagnostic initial avec une évaluation simplifiée des risques a été demandée à l’exploitant par voie d’arrêté préfectoral en juillet 2000.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	28		2003	05	28		a_été_fourni	Ce dossier comportant un mémoire sur l'état du site a été fourni par le liquidateur le 28/05/2003.		
+2002	06	25		2002	06	25		a_été_demandé	Un dossier de cessation d'activité a été demandé le 25/06/2002 par le préfet au liquidateur judiciaire, suite à la liquidation de la société prononcée le 19/03/2002.		'le préfet'
+2003	02			2003	02			Une_étude_historique_du_site_a_été_réalisée	Une étude historique du site a été réalisée en février 2003.		
+1998	12	01		1998	12	01		a_été_imposée	Cette étude a été imposée par arrêté préfectoral du 01/12/1998.		
+2003	04			2003	04			Des_travaux_de_reconnaissance	Des travaux de reconnaissance ont été réalisés par la suite en avril 2003.		
+1999	01	20		1999	01	20		est_soumise	Cette activité est soumise par arrêté préfectoral d'autorisation d'exploiter n°75-2876 du 28/03/1975 puis n°99-0522 du 20/01/1999.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04			2007	04			réalisées_chaque_semestre	Elle suit directement des campagnes antérieures de qualité des eaux souterraines réalisées chaque semestre depuis avril 2007 (excepté en 2009 où une seule campagne a été réalisée dans l'année).		
+2011	10			2011	10			ont_été_analysés	Les Composés Aromatiques Volatils (CAV), dont les BTEX, ont été analysés à partir d'octobre 2011.	'Composés Aromatiques Volatils', 'CAV', 'les BTEX'	
+2008	01			2008	01			ont_été_menées	Suite à ces résultats, des investigations complémentaires ont été menées en janvier 2008 et ont fait ressortir les points suivants :		
+2011	01	26		2011	01	26		Le_PV_de_récolement	Le PV de récolement des travayux est dressé par l'inspecteur le 26 janvier 2011.		
+2012	04	26		2012	04	26		Acquisition	Acquisition par la Communauté de Commune de la Vallée d'Ossau par acte notarié du 26/04/2012.		"la Communauté de Commune de la Vallée d'"
+2011	05			2011	05			a_été_mise_en_place	La surveillance des eaux souterraines suite à la cessation d'activité a été mise en place dès mai 2011.		
+2007	08			2007	08			la_réalisation_d__un_diagnostic_initial_de_pollution	Dans le cadre d'un projet de cession du site, la société THYSSENKRUPP SOFEDIT SUD OUEST a mandaté la société SITA REMEDIATION pour la réalisation d'un diagnostic initial de pollution en août 2007.		'la société THYSSENKRUPP SOFEDIT SUD OUEST', 'la société SITA REMEDIATION'
+2008	02	18		2008	02	18		le	le 18 février 2008, la réhabilitation de la zone polluée par des huiles de compresseurs a été opérée.	'des huiles'	
+2008	02	18		2008	02	18		la_réhabilitation	le 18 février 2008, la réhabilitation de la zone polluée par des huiles de compresseurs a été opérée.	'des huiles'	
+2011	11	24		2011	11	24		informe_de	Le rapport d'Antea Group de la surveillance des eaux souterraines informe de la conformité du programme avec l'arrêté préfectoral complémentaire n°2405-11-18 du 24 novembre 2011.		'Antea'
+2009	06	30		2009	06	30		la_cessation_des_activités	Par lettre du 30 juin 2009, la société THYSSENKRUPP SOFEDIT SUD OUEST a officiellement déclaré la cessation des activités du site.		'la société THYSSENKRUPP SOFEDIT SUD OUEST'

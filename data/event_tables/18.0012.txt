@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	04			1999	04			a_été_construite	Suite à son remplissage, une deuxième lagune de même capacité a été construite en avril 1999.		
+2000				2000				ont_été_traités	Les boues et bains usés présents dans les lagunes ont été traités par la station en 1999 et en 2000.	'bains usés'	
+				2000	01			Les_analyses	Les analyses dans les eaux souterraines sur le cuivre et le nickel ont été arrêtées après la campagne de janvier 2000 suite aux résultats obtenus sur ces paramètres.	'le cuivre', 'le nickel'	
+1998	08			1998	08			a_été_construite_en	La lagune a été construite en août 1998.		
+1997	06			1997	06			une_visite_d__inspection	Au cours d'une visite d'inspection de l'usine en juin 1997, il a été constaté que l'exploitant procédait au dépôt d'un certain nombre de déchets industriels sur le site, sans y être autorisé.	'déchets industriels'	
+1999				1999				ont_été_traités	Les boues et bains usés présents dans les lagunes ont été traités par la station en 1999 et en 2000.	'bains usés'	
+2000	11			2000	11			ont_été_demandées	Après qu'un premier rapport ait été rendu en septembre 2000, des recherches et des simulations informatiques complémentaires, dont une modélisation de la migration de la pollution ont été demandées en novembre 2000.		
+2000	01			2000	01			a_été_mis_en_place	D'octobre 1998 à janvier 2000, un contrôle trimestriel de la qualité des eaux souterraines a été mis en place afin d'évaluer l'impact réel de ce site pollué sur son environnement.		
+2015				2015				ont_été_rebouchés	Les 2 piézomètres ont été rebouchés en 2015.		
+1998	10			1998	10			a_été_mis_en_place	D'octobre 1998 à janvier 2000, un contrôle trimestriel de la qualité des eaux souterraines a été mis en place afin d'évaluer l'impact réel de ce site pollué sur son environnement.		
+1998				1998				ESR___ont_été_réalisés	Suite à la demande de l'administration, un diagnostic  de l'état de pollution du site et une évaluation simplifiée des risques (ESR) ont été réalisés au cours du premier semestre 1998.		
+1999	08			1999	08			a_été_mise_en_service	La station d'épuration a été mise en service à la fin du mois d'août 1999 sur le site des Usines de Rosières, encore en activité.		
+2000	09			2000	09			ont_été_demandées	Après qu'un premier rapport ait été rendu en septembre 2000, des recherches et des simulations informatiques complémentaires, dont une modélisation de la migration de la pollution ont été demandées en novembre 2000.		

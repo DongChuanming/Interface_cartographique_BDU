@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1967				1967				est_réglementée	L'activité est réglementée par l'arrêté préfectoral du 21 octobre 1965, modifié les 10 octobre 1967 et 13 avril 1972 (prescriptions complémentaires suite à une extension des capacités).		
+2010				2010				est_signé	19 AOUT 2010: Un arrêté prefectoral instituant des servitudes d'utilité publiques est signé.		
+1995				1995				a_été_déposé	Un premier dossier de cessation d'activités a été déposé en 1995.		
+1965				1965				est_réglementée	L'activité est réglementée par l'arrêté préfectoral du 21 octobre 1965, modifié les 10 octobre 1967 et 13 avril 1972 (prescriptions complémentaires suite à une extension des capacités).		
+								est_signé	19 AOUT 2010: Un arrêté prefectoral instituant des servitudes d'utilité publiques est signé.		
+1995	11			1995	11			un_diagnostic	Suite à la cessation d'activités de 1995, un diagnostic relatif à la qualité du sous-sol a été réalisé en novembre 1995.		
+1999	03	23		1999	03	23		un_nouveau_dossier_de_demande_d_	Racheté peu après par la société STORAPRO STOCKAGE, un nouveau dossier de demande d'autorisation a été déposé en préfecture, donnant lieu à un nouvel arrêté préfectoral du 23 mars 1999.		'la société STORAPRO STOCKAGE'
+1995				1995				la_cessation_d__activités	Suite à la cessation d'activités de 1995, un diagnostic relatif à la qualité du sous-sol a été réalisé en novembre 1995.		
+2002				2004				des_travaux_d__extraction_de_terres_ont_été_réalisés	Concernant le diagnostic des sols, des travaux d'extraction de terres ont été réalisés entre 2002 et 2004 afin d'éliminer les trois sources de pollution des sols.		
+2002	07			2002	07			a_été_rédigé	Suite aux travaux de démolition (terminés en mars 2002) et au regard des activités ayant été exercées, un rapport de diagnostic environnemental approfondi complété par une Etude Simplifiée des Risques (ESR) a été rédigé en juillet 2002 afin de détecter une éventuelle pollution des eaux souterraines et des sols.		
+								Les_analyses	Les analyses sur ces terres, présentées dans le rapport de suivi de site de mai 2003, ont permis d'obtenir les conclusions suivantes :		
+2003				2003				Les_analyses	Les analyses sur ces terres, présentées dans le rapport de suivi de site de mai 2003, ont permis d'obtenir les conclusions suivantes :		
+2002	03			2002	03			aux_travaux_de_démolition	Suite aux travaux de démolition (terminés en mars 2002) et au regard des activités ayant été exercées, un rapport de diagnostic environnemental approfondi complété par une Etude Simplifiée des Risques (ESR) a été rédigé en juillet 2002 afin de détecter une éventuelle pollution des eaux souterraines et des sols.		
+1965				1965				exploite	La Société des Pétroles SHELL exploite depuis 1965 un dépôt de liquides inflammables de 2ème catégorie sur le territoire de la commune d'AUXERRE.	'dépôt de liquides inflammables'	'La Société des Pétroles SHELL'
+								est_réglementée	L'activité est réglementée par l'arrêté préfectoral du 21 octobre 1965, modifié les 10 octobre 1967 et 13 avril 1972 (prescriptions complémentaires suite à une extension des capacités).		
+2005	06			2005	06			ont_été_observés	En juin 2005, des fûts n'appartenant pas à la Société des Pétroles SHELL ont été observés sur site.		'la Société des Pétroles SHELL'
+2002				2002				le_remblayage_des_fouilles_ouvertes_de	Ces terres ont ensuite été utilisées pour le remblayage des fouilles ouvertes de juillet 2002.		
+2006	07	10		2006	07	10		un_Procès_Verbal	Le 10 juillet 2006, la société a obtenue de la part de l'Inspection des Installations Classées, un Procès Verbal de récolement.		
+2010	03	09		2010	03	09		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 9 mars 2010.		
+								le_remblayage_des_fouilles_ouvertes_de	Ces terres ont ensuite été utilisées pour le remblayage des fouilles ouvertes de juillet 2002.		
+1995				1995				un_diagnostic	Suite à la cessation d'activités de 1995, un diagnostic relatif à la qualité du sous-sol a été réalisé en novembre 1995.		
+2006	01			2006	01			Le_rapport_de_diagnostic	Le rapport de diagnostic de sol et des travaux de dépollution de janvier 2006 retrace l'élimination de ces déchets et l'état de la nouvelle pollution des sols.		

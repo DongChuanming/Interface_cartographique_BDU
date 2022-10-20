@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				l_	Durant l'année 2007, un diagnostic approfondi et une étude détaillée des risques ont été menés.		
+1983				1988				ont_été_démantelées	La plupart des infrastructures et superstructures ont été démantelées entre 1983 et 1988.		
+1984				1984				a_cessé	L'activité de dépôt pétrolier a cessé en 1984.		
+2011	02	07		2011	02	07		a_été_signé	Un arrêté préfectoral complémentaire en ce sens a été signé le 7 février 2011.		
+2009	12			2009	12			Une_visite_de_récolement	Une visite de récolement a eu lieu en décembre 2009.		
+2011	02	07		2011	02	07		a_été_signé	En outre, un arrêté préfectoral de servitudes d'utilité publique a été signé le 7 février 2011 en vue notamment de conserver l’usage industriel du site et d'interdire entre autres d’utiliser les eaux souterraines, de cultiver sur le site des plantes destinées à l’alimentation humaine ou animale ou encore de supprimer les piézomètres.		
+2008	05			2009	01			Les_travaux_de_dépollution	Les travaux de dépollution (bio-traitement) ont été effectués de mai 2008 à janvier 2009.		
+				1984				été_stockés	Des produits pétroliers y ont été stockés : carburants, pétrole lampant (kerdane) et solvants (white spirit) jusqu'en 1960 puis essence ordinaire (SC / super carburant), FOD (fioul oil domestique) et gazole jusqu'en 1984.	'Des produits pétroliers', 'carburants', 'pétrole lampant', 'spirit', 'essence ordinaire', 'SC', 'super carburant', 'FOD', 'fioul oil domestique', 'gazole'	
+1994				1994				est_loué_à	Depuis 1994, le terrain est loué à une entreprise pour le stockage de véhicules industriels.		
+								a_été_construit	L'ancien dépôt pétrolier TOTAL a été construit au 19e siècle.		
+2007				2007				un_diagnostic_approfondi	Durant l'année 2007, un diagnostic approfondi et une étude détaillée des risques ont été menés.		

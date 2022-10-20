@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				a_été_accordée	Une autorisation d'exploitation sur le site d'une station de transit de déchets industriels a été accordée en 1985.	'déchets industriels'	
+2004				2004				Des_investigations_complémentaires	Des investigations complémentaires ont donc été réalisées en 2004 et ont montré :		
+1927	07	18		1927	07	18		a_été_autorisée	La déposante de matières de vidange Patrick GESSET a été autorisée le 18 Juillet 1927.		'GESSET'
+2012	03	11		2012	03	11		a_sollicité	Par lettre du 11 mars 2012, la SAS Sun’R a sollicité directement les services de la DREAL pour connaître l’état de pollution du le site et les démarches à engager afin de pouvoir développer un projet de centrale photovoltaïque sur ce site ainsi que la parcelle géré par la ville de Vierzon et celle géré par la société Jean GESSET.		'la SAS Sun’ R', 'la DREAL', 'la ville de Vierzon', 'la société Jean GESSET'
+1999	09			1999	09			la_réalisation_d__un_diagnostic_initial	Afin d'anticiper la fermeture de ces déposantes, l'administration a demandé en septembre 1999 la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques, afin de caractériser l'état du site et définir la réhabilitation éventuelle à prévoir.		
+2001				2001				a_été_remise	La première étape du diagnostic, l'étude historique a été remise en 2001.		
+2003	10			2003	10			Des_prélèvements_d__eau	Des prélèvements d'eau en octobre 2003 au niveau de ces piézomètres et d'un puits proche du site ont été analysés.		
+1994				1994				a_été_inscrit_à_l__inventaire	Ce site a été inscrit à l'inventaire de 1994 en raison de présomptions de pollution et de risques de contamination des eaux souterraines.		
+2000	08	30		2000	08	30		La_mise_en_sécurité	La mise en sécurité du site a été prescrite par arrêté préfectoral du 30 août 2000.		
+1990				2003				n__a_exploité	Il n'a exploité que la déposante, sans transit de déchets industriels entre 1990 et 2003.	'déchets industriels'	
+2013	05	14		2013	05	14		une_inspection_inopinée	L’inspection des installations classées a réalisé sur ce site une inspection inopinée le 14 mai 2013 en présence du représentant de la société GESSET Jean et Fils, M.		'la société GESSET Jean'

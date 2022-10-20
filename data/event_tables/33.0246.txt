@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				sont_collectées_et_traitées_par	Depuis 1990, les ordures ménagères sont collectées et traitées par le SMICOTOM qui les envoie au CET de Naujac.	'les ordures ménagères'	'le SMICOTOM', 'CET'
+2006	04	11		2006	04	11		a_été_mise	Par arrêté préfectoral du 11 avril 2006, la Mairie du Verdon sur Mer a été mise en demeure de déposer un dossier de remise en état de l’ancienne décharge non autorisée, située sur sa commune, au lieu dit  « Les Huttes ».		
+1985				2002				a_exploité	La commune du Verdon a exploité la décharge sans autorisation de 1985 à 2002.		

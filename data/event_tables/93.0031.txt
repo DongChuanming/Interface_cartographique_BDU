@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				Un_diagnostic_approfondi	Un diagnostic approfondi ainsi qu'une EDR (étude détaillée des risques)  ont été réalisés en 2003.		
+1951				1951				activités_d_	A partir de 1951, les voies ferrées et les bâtiments ont servi aux activités d'une société privée (nettoyage et rénovation de wagon citernes), la société BENITAH.		'la société BENITAH'
+								Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en mai-juin 2005 par l'aménageur (rapport de fin de travaux de juillet 2005) conformément aux préconisations de l'EDR.		
+2005	06			2005	06			Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en mai-juin 2005 par l'aménageur (rapport de fin de travaux de juillet 2005) conformément aux préconisations de l'EDR.		
+2005				2005				ont_été_rachetés	Les terrains ont été rachetés en 2005 par Plaine Commune Développement pour un aménagement de l'ensemble de l'emprise de l'ancienne gare.		
+2005	07			2005	07			fin_de_travaux	Des travaux de dépollution ont été réalisés en mai-juin 2005 par l'aménageur (rapport de fin de travaux de juillet 2005) conformément aux préconisations de l'EDR.		
+1999	04			1999	04			Un_diagnostic_a_été_effectué	Un diagnostic a été effectué en avril 1999 par le propriétaire, dans le cadre d'une promesse de vente du terrain.		
+2018				2018				était_réaménagé	En 2018, le site était réaménagé (ou en cours d'aménagement) en bureaux et local de stockage.		
+1992	12			1992	12			a_été_liquidée	La société BENITAH a été liquidée en décembre 1992 et reconnue non solvable.		'La société BENITAH'
+1994				1995				ont_été_dégazées	Les cuves présentes sur le site ont été dégazées, nettoyées puis enlevées entre 1994 et 1995.		
+1951				1951				ont_servi_aux	A partir de 1951, les voies ferrées et les bâtiments ont servi aux activités d'une société privée (nettoyage et rénovation de wagon citernes), la société BENITAH.		'la société BENITAH'

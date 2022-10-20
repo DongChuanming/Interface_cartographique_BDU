@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	03	09		2017	03	09		La_mise_en_oeuvre_de_ces_mesures_a_été	La mise en oeuvre de ces mesures a été actée par un rapport de l'inspection du 09 mars 2017.		
+2009	10			2009	10			La_cessation_d__activité_a_été_déclarée	La cessation d'activité a été déclarée en octobre 2009 et l'activité a été arrêtée définitivement à la fin de l'année 2009.		
+2009				2009				La_cessation_d__activité_a_été_déclarée	La cessation d'activité a été déclarée en octobre 2009 et l'activité a été arrêtée définitivement à la fin de l'année 2009.		

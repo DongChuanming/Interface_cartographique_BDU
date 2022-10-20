@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	08	11		2016	08	11		Le_diagnostic_des_sols	Le diagnostic des sols (28 sondages) réalisé en date du 11 août 2016 met en évidence certaines anomalies en hydrocarbures totaux et volatils :	'hydrocarbures totaux'	
+1948				1948				a_été_déclaré	D’autre part, un dépôt de liquides inflammables a été déclaré en 1948 (stockage dans une cuve enterrée de 8000 litres de carburants).	'de liquides inflammables', 'carburants'	
+1971	06	24		1971	06	24		de_déclaration	Elle a bénéficié d’un récépissé de déclaration en date du 24 juin 1971 pour lequel aucune mise à jour n’est intervenue.		
+2016	12	20		2016	12	20		a_indiqué_par_courriel	L’exploitant a indiqué par courriel du 20 décembre 2016 que la surface des ateliers est de 951m² et de la station de contrôle poids-lourds est de 168m² (soit un total inférieur à 2000m² seuil du régime DC déclaration avec contrôle périodique).		

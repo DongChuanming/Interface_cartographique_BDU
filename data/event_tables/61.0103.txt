@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	09	12		1997	09	12		déclaration	Cette déchetterie a fait l’objet d’un récépissé de déclaration en date du 12 septembre 1997.		
+1997	09	12		1997	09	12		a_fait_l__objet_d_	Cette déchetterie a fait l’objet d’un récépissé de déclaration en date du 12 septembre 1997.		
+2005	11	15		2005	11	15		Le_procès_verbal_de_récolement	Le procès-verbal de récolement suite à la mise à l’arrêt définitif des installations a été établi  le 15/11/2005.		
+2005	10	1		2005	10	1		ayant_cessé_leur_activité	En conséquence, les obligations incombant à l’exploitant en matière de remise en état en application pour les établissements ayant cessé leur activité avant le 1er octobre 2005 étaient sont les suivantes :		

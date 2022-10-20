@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1994				a_été_exploitée	Les études remises en juin 200 et janvier 2001 montre que la zone de stockage a été exploitée de 1965 à 1994, date de son réaménagement actuel, et qu'elle a reçu des matériaux "inertes" : incuits, gravats divers, calcaires.		
+2010				2010				Les_travaux_sont_réalisés	Les travaux sont réalisés au cours de l'été 2010.		
+2011	07	08		2011	07	08		la_visite	Le Procès-verbal de récolement des travaux est dressé le 12 juillet 2011, suite à la visite du 08/07/2011 :		
+2001	01			2001	01			Les_études_remises	Les études remises en juin 200 et janvier 2001 montre que la zone de stockage a été exploitée de 1965 à 1994, date de son réaménagement actuel, et qu'elle a reçu des matériaux "inertes" : incuits, gravats divers, calcaires.		
+1983				1983				est_mise_à	En 1983, l'exploitation est mise à l'arrêt et seule est maintenue une activité de broyage de clinker.	'clinker'	
+2004				2004				Le_bilan_quadriennal	Le bilan quadriennal 2004-2008, remis le 04/11/08, montre que par rapport au bruit de fond éloigné de la nappe, les éléments traceurs de l'impact sont les Hydrocarbures, le Manganèse, le potassium et le Sélénium.	'les Hydrocarbures', 'Manganèse', 'potassium', 'Sélénium'	
+2010	10	11		2010	10	11		est_remis	Le rapport de fin de travaux ANTEA est remis le 11 octobre 2010.		'ANTEA'
+2003				2003				est_réalisé	Un fossé en limite ouest du site est réalisé en 2003 pour collecter les eaux de ruissellement de la zone de stockage désormais orientées vers le ruisseau longeant le site Nord.		
+2011	07	12		2011	07	12		Le_Procès_verbal_de_récolement	Le Procès-verbal de récolement des travaux est dressé le 12 juillet 2011, suite à la visite du 08/07/2011 :		
+1994				1994				cette_unité_cesse	En 1994, cette unité cesse son activité.		
+2010								a_été_réalisé	Le bilan des résultats sur la nappe depuis 2010, date à la quelle le confinement de surface a été réalisé, le constat d'impact sur la réduction des concentrations pourra être démontré si l'amorce de la tendance à la baise, comme celle qui semble s'initier sur le potassium et le thallium, se confirme.	'le potassium', 'le thallium'	
+								Les_études_remises	Les études remises en juin 200 et janvier 2001 montre que la zone de stockage a été exploitée de 1965 à 1994, date de son réaménagement actuel, et qu'elle a reçu des matériaux "inertes" : incuits, gravats divers, calcaires.		
+1950				1950				avoir_été_exploité	Le site d'Angoumé semble avoir été exploité depuis 1950 (usine à chaux).		
+2008				2008				Le_bilan_quadriennal	Le bilan quadriennal 2004-2008, remis le 04/11/08, montre que par rapport au bruit de fond éloigné de la nappe, les éléments traceurs de l'impact sont les Hydrocarbures, le Manganèse, le potassium et le Sélénium.	'les Hydrocarbures', 'Manganèse', 'potassium', 'Sélénium'	

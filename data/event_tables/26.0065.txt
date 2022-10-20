@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	05			2014	03			se_sont_déroulés	Ces derniers se sont déroulés de mai 2013 à mars 2014.		
+2012	10	22		2012	10	22		La_dernière_analyse	La dernière analyse réalisée le 22/10/2012 montre simplement des traces de naphtalène (de 0,03 µg/L à 0,22 µg/L).	'naphtalène'	
+1983				1983				avaient_été_détectées	En 1983, des odeurs avaient été détectées dans le regard surplombant les nouvelles cuves remplaçant les cuves fuyardes.		
+2011	08			2011	08			un_diagnostic_de_pollution_des_sols	En août 2011 dans le cadre du renouvellement de la concession ASF, un diagnostic de pollution des sols et de la nappe a été effectué à partir de 53 sondages réalisés entre 2 m et 12 m de profondeur.		'ASF'
+1976				1976				avait_été_détectée	Une fuite de carburant avait été détectée sur 2 cuves de 60 m3 (R4 et R5) en 1976, cette fuite a été traitée en son temps.	'carburant'	

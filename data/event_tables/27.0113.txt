@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	09		2010	11	09		cesse_par_liquidation_judiciaire	L’activité cesse par liquidation judiciaire le 9 novembre 2010.		
+2008				2008				est_intervenue	Le site était une fromagerie soumise à Déclaration mais l’inspection est intervenue courant 2008 suite à une plainte pour le débordement d’un bassin de lagunage vers un captage AEP.		
+2014				2014				de_mise_à_l__arrêt_définitif	Le liquidateur a réalisé la notification de mise à l’arrêt définitif courant 2014 avec notamment la justification de l'évacuation de l’ammoniac pour la réfrigération, la reprise de la cuve de gaz par Total Gaz, la vidange des bassins et l’évacuation des déchets.	'l’ ammoniac', 'cuve de gaz'	'Total Gaz'
+2014				2014				ont_été_identifiées	Fin 2014, le liquidateur a fait réaliser un diagnostic de sol du site par SOCOTEC et 2 zones ont été identifiées comme contaminées aux hydrocarbures totaux.	'hydrocarbures totaux'	'SOCOTEC'
+2007				2007				ont_racheté	Suite à la liquidation judiciaire de la société mi-2006, 2 groupements d’agriculteurs qui étaient fournisseurs de lait à la fromagerie, ont racheté le site en 2007, sous le nom de Société Nouvelle DI BENEDETTO.		'Société Nouvelle DI BENEDETTO'
+2010	11	09		2010	11	09		a_cessé	L'activité a cessé suite à liquidation judiciaire le 9 novembre 2010.		
+2006				2006				la_liquidation_judiciaire	Suite à la liquidation judiciaire de la société mi-2006, 2 groupements d’agriculteurs qui étaient fournisseurs de lait à la fromagerie, ont racheté le site en 2007, sous le nom de Société Nouvelle DI BENEDETTO.		'Société Nouvelle DI BENEDETTO'
+1982				1982				agrandie	La fromagerie a été créée en 1973, puis agrandie en 1982 sous le nom de Fromagerie DI BENEDETTO, puis à nouveau en 1991.		'Fromagerie DI BENEDETTO'
+2014				2014				un_diagnostic_de_sol	Fin 2014, le liquidateur a fait réaliser un diagnostic de sol du site par SOCOTEC et 2 zones ont été identifiées comme contaminées aux hydrocarbures totaux.	'hydrocarbures totaux'	'SOCOTEC'
+1973				1973				a_été_créée	La fromagerie a été créée en 1973, puis agrandie en 1982 sous le nom de Fromagerie DI BENEDETTO, puis à nouveau en 1991.		'Fromagerie DI BENEDETTO'
+2015	01			2015	01			Des_investigations_complémentaires	Des investigations complémentaires sur ces 2 zones ont été réalisées en janvier 2015, préconisant l’excavation de ces zones, pour un volume d’environ 10 à 15 m³ de terres.		

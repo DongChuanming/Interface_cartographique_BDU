@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				ne_nécessite_plus	Ce site ne nécessite plus d’action supplémentaire de la part de l’administration pour l’usage industriel actuel de 2005.		
+1987				1987				repreneur_du_site	polystyrène, issus de l'exploitation par SEMIBAT (repreneur du site en 1987),	'polystyrène'	'SEMIBAT'
+1987	02	05		1987	02	05		a_été_vendu	Le site a été vendu le 5 février 1987 à la société SEMIBAT pour l'installation d'une production de polystyrène extrudé.		'la société SEMIBAT', 'polystyrène extrudé'
+1991				1991				a_été_liquidée	Cette société a été liquidée et revendue à la société KNAUF FOAM en 1991.		'la société KNAUF FOAM'
+1993				1993				Les_premières_investigations	Les premières investigations de 1993 ont montré l'absence d'impact de la nappe, la surveillance périodique des eaux souterraines n'est pas nécessaire.		
+1995	06	13		1995	06	13		__fin_des_travaux_de_remise_en_état_du_site	Le 13/06/1995 : fin des travaux de remise en état du site et procès-verbal de récolement : les travaux sont conformes à ceux prescrits dans l'arrêté prefectoral.		
+2005	04	18		2005	04	18		le_rapport_de_diagnostic	Le 18 avril 2005 EDF  a transmis à la DRIRE le rapport de diagnostic des sols sur le site de l’ancienne centrale thermique d’Artix.		'à la DRIRE'

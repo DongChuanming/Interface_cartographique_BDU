@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	12	09		2011	12	09		ont_donc_été_prescrits	une étude complémentaire permettant de statuer sur ce point (démarche d'interprétation des milieux), ainsi qu'un suivi semestriel des hydrocarbures et des composés volatils en vue de la réalisation d'un bilan quadriennal ont donc été prescrits par arrêté préfectoral du 9 décembre 2011.	'hydrocarbures', 'composés'	
+1989	05	26		1989	05	26		font	Les eaux souterraines font depuis l’objet d’une surveillance annuelle qui témoigne d’une absence d’impact résiduel de cette pollution (arrêté préfectoral du 26/05/1989).		
+2000	07	31		2000	07	31		une_évaluation_simplifiée_des_risques	Compte tenu de l'historique du site et de la nature de l'activité qui y est conduite, une évaluation simplifiée des risques a toutefois été demandée à l’exploitant, par arrêté préfectoral en date du 31 juillet 2000.		
+1989				1989				s__est_produite	Une pollution aux hydrocarbures s’est produite en 1989.	'hydrocarbures'	
+2010				2010				Ces_travaux	Ces travaux, réalisés en fin d'année 2010, ont permis d'évacuer 1890 tonnes de terres contaminées par des hydrocarbures et 50 tonnes de béton souillés, auxquelles s'ajoutent 180 tonnes de ferrailles.	'hydrocarbures'	
+2010	02	22		2010	02	22		a_fait_l__objet_d_	Le site a fait l'objet d'un récépissé de cessation d'activité en date du 22 février 2010.		

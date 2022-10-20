@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01	27		2012	01	27		La_visite	La visite du 27 Janvier 2012 a permis la constatation de l'évacuation et le traitement d'une grande partie des résidus de production d'alumine, cependant les prescriptions de l’arrêté de mise en demeure ne sont pas encore totalement respectées, puisqu'il subsiste quelques déchets et produits dangereux.	'alumine', 'déchets et produits dangereux'	
+2007				2007				Les_inspections	Les inspections de 2004, 2005 et 2007 n'ont pas mis en évidence de dysfonctionnement important sur le site de DUCLOS CHIMIE .		'DUCLOS CHIMIE'
+2005				2005				Les_inspections	Les inspections de 2004, 2005 et 2007 n'ont pas mis en évidence de dysfonctionnement important sur le site de DUCLOS CHIMIE .		'DUCLOS CHIMIE'
+2015	12			2016	01			ont_été_évacués	Les derniers déchets (terres alumineuses) ont été évacués entre décembre 2015 et janvier 2016.	'Les derniers déchets'	
+2009	11	12		2009	11	12		par_le_jugement	DUCLOS CHIMIE a été mise en redressement judiciaire par le jugement du 12/11/2009 par le tribunal de commerce d'AIX EN PROVENCE puis mise en liquidation judiciaire par jugement du 13/03/2012 par ce même tribunal.		'DUCLOS CHIMIE', "le tribunal de commerce d' AIX EN PROVENCE"
+2015	12			2015	12			Restitution	Décembre 2015 : Restitution du plan de gestion valant mémoire de réhabilitation pour Duclos Chimie		'Duclos Chimie'
+2004				2004				Les_inspections	Les inspections de 2004, 2005 et 2007 n'ont pas mis en évidence de dysfonctionnement important sur le site de DUCLOS CHIMIE .		'DUCLOS CHIMIE'
+2012	03	13		2012	03	13		par_jugement	DUCLOS CHIMIE a été mise en redressement judiciaire par le jugement du 12/11/2009 par le tribunal de commerce d'AIX EN PROVENCE puis mise en liquidation judiciaire par jugement du 13/03/2012 par ce même tribunal.		'DUCLOS CHIMIE', "le tribunal de commerce d' AIX EN PROVENCE"

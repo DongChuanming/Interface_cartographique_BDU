@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01	11		2010	01	11		a_informé	Le mandataire liquidateur de la société a informé le Préfet de Meurthe et Moselle de cette cessation d'activité par courrier du 11 janvier 2010.		'le Préfet de Meurthe'
+2007	05	25		2007	05	25		de_déclaration	Les installations exploitées par la société CEMPI étaient règlementées par récépissé de déclaration du 25 mai 2007 pour ses activités de récupération et de recyclage de matières plastiques.		'la société CEMPI'
+2011	11	09		2011	11	09		a_été_constaté	Lors de la visite du 09 novembre 2011, il a été constaté que le sol du local compresseur est souillé par des hydrocarbures mais qu'il s'agit d'une dalle bétonnée en bonne état.	'hydrocarbures'	
+2012	01			2012	01			de_la_visite	Lors de la visite d'inspection de janvier 2012, il a été constaté que:		
+2011	11	09		2011	11	09		de_la_visite	Lors de la visite du 09 novembre 2011, il a été constaté que le sol du local compresseur est souillé par des hydrocarbures mais qu'il s'agit d'une dalle bétonnée en bonne état.	'hydrocarbures'	
+2011	01	11		2011	01	11		a_été_mise_en_demeure_de_procéder_à_la_mise_en_sécurité	Par arrêté préfectoral n°2011-400 du 11 janvier 2011, la société CEMPI a été mise en demeure de procéder à la mise en sécurité du site puis à sa remise en état.		'la société CEMPI'

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_résultats_des_campagnes_de	Les résultats des campagnes de décembre 2002, janvier et mars 2003 montrent la présence de pesticides, notamment isophenphos et mercaptodiméthur, dans la nappe.	'pesticides', 'isophenphos', 'mercaptodiméthur'	
+2008	12	09		2008	12	09		on_été_évacuées	14 tonnes de terres polluées on été évacuées vers le centre SOVAL de Bénac(65) le 09/12/2008.		'centre SOVAL'
+2003	03			2003	03			Les_résultats_des_campagnes_de	Les résultats des campagnes de décembre 2002, janvier et mars 2003 montrent la présence de pesticides, notamment isophenphos et mercaptodiméthur, dans la nappe.	'pesticides', 'isophenphos', 'mercaptodiméthur'	
+2006	02	23		2006	02	23		l__extension_d__activité	Une procédure de régularisation administrative est en cours le 23 février 2006 pour l'extension d'activité.		
+2005	05			2005	05			l__actualisation_du_diagnostic	Suite à l'incertitude relative au sens d'écoulement de la nappe dans le contexte perturbé par le plan d'eau artificiel situé à proximité du site, l'arrêté préfectoral du 15 mai 2007 prescrit l'actualisation du diagnostic de mai 2005 pour estimer la surface des sols contaminés en pesticides au droit du bâtiment n°7 (200 m2) et d'évaluer l'extension verticale globalement limitée aux terrains superficiels (0 - 0,5m).		
+2006	02	23		2006	02	23		est	Une procédure de régularisation administrative est en cours le 23 février 2006 pour l'extension d'activité.		
+2002	12			2002	12			Les_résultats_des_campagnes_de	Les résultats des campagnes de décembre 2002, janvier et mars 2003 montrent la présence de pesticides, notamment isophenphos et mercaptodiméthur, dans la nappe.	'pesticides', 'isophenphos', 'mercaptodiméthur'	
+2008				2008				a_été_identifiée	La zone impactée par des HCRX a été identifiée lors de l'ESR de 2008.		'HCRX'
+2007	05	15		2007	05	15		est_signé	L'arrêté d'autorisation est signé le 15 mai 2007.		

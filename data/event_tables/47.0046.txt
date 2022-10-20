@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	20		2008	02	20		L__action_nationale_de_résorption	L’action nationale de résorption des anciens stocks de pneus usagés du 20 février 2008 prévoit la résorption et la réhabilitation de 61 stocks de pneus usagés sur une durée de 8 ans.	'pneus usagés', 'pneus usagés'	
+2005				2005				sera_évacué	Le 9 février 2005, le gérant de la SARL CTUC précise aux services préfectoraux  que le site de pneumatiques de Villeneuve sur Lot sera évacué dès le début de l’été 2005.		'le gérant de la SARL CTUC'
+2004	01	26		2004	01	26		a_été_déposée	Le 26 janvier 2004, une demande d’agrément préfectoral concernant la collecte, le regroupement et le tri de pneumatiques usagés a été déposée aux services de la préfecture du Lot et Garonne.	'pneumatiques usagés'	
+2007	03			2007	03			une_nouvelle_visite	N’ayant pas reçu de justificatif concernant l’élimination du dépôt de pneumatiques au terme de l’échéance de la mise en demeure, une nouvelle visite d'inspection a lieu en mars 2007.		
+2011	08			2011	08			les_enlèvements	D'août 2011 à mai 2012, les enlèvements des pneumatiques par les dépositaires et une levée des arrêtés de consignation d'août 2011 ont lieu.		
+2006	06			2006	06			a_été_transmise	En juin 2006, aucune notification de cessation d’activité n’a été transmise aux services de la DRIRE.		'la DRIRE'
+2013	10	1		2013	10	1		est_entièrement_évacué	Le 1er/10/2013, le stock est entièrement évacué.		
+2013	01			2013	01			La_visite	La visite d'inspection de janvier 2013 atteste l'avancée de l'enlèvement (777 t de pneumatiques par l'association Recyvalor).	'pneumatiques'	'Recyvalor'
+2006	06	16		2006	06	16		La_visite_d_	La visite d'inspection du 16 juin 2006 a permis de constater le défaut de mise en sécurité du site notamment concernant le danger potentiel d’incendie, caractérisé par la présence d’un important stock de pneumatiques, pouvant être aggravé du fait de l’absence d’aménagements destinés  aux facilités d’accès des services de secours et d’incendie.	'pneumatiques'	
+								prévoit	L’action nationale de résorption des anciens stocks de pneus usagés du 20 février 2008 prévoit la résorption et la réhabilitation de 61 stocks de pneus usagés sur une durée de 8 ans.	'pneus usagés', 'pneus usagés'	
+2011	08			2011	08			la_visite_d__inspection	Suite à la visite d'inspection d'août 2011, il est constaté l'avancé importante auprès des clients identifiés de CTUC (la prise en charge concerne à cette date 3300 t sur les 3650 t à client identifié).		'CTUC'
+2006	12	15		2006	12	15		est_mis_en_liquidation_judiciaire	La société est mis en liquidation judiciaire le 15/12/2006.		
+2010	02			2010	02			sont_relancés	En février 2010, les clients sont relancés.		
+2012	05			2012	05			les_enlèvements	D'août 2011 à mai 2012, les enlèvements des pneumatiques par les dépositaires et une levée des arrêtés de consignation d'août 2011 ont lieu.		
+2011	07			2011	07			surestimé	En juillet 2011, le stock global est surestimé à 7000 t nettement supérieur à l'estimation précédente de 2006 de 4000 t.		
+2007	05	23		2007	05	23		La_liquidation_est_déclarée_impécunieuse	La liquidation est déclarée impécunieuse le 23 mai 2007.		

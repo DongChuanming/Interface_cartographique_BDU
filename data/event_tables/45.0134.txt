@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				exploitées_par	Il s'avère que depuis la cessation d'activité des installations exploitées par Monsieur FAURE en 2002, la parcelle concernée est limitée à un usage industriel .		'FAURE'
+2017	01	24		2017	01	24		l__étude_de_sols	Il s'avère que le bureau d'étude, ayant réalisé l'étude de sols du 24 janvier 2017, ne démontre pas une certification conforme à la norme.		
+1999	12	31		1999	12	31		la_cessation_d__activité	Le 19 février 2002, l'exploitant a déclaré la cessation d'activité de son site , en précisant que l'arrêt définitif des activités était effectif depuis le 31 décembre 1999.		
+1999	12	31		1999	12	31		l__arrêt_définitif_des_activités	Le 19 février 2002, l'exploitant a déclaré la cessation d'activité de son site , en précisant que l'arrêt définitif des activités était effectif depuis le 31 décembre 1999.		
+2017	02			2017	02			un_diagnostic_des_sols	Pour ce faire, l'exploitant a fait réaliser un diagnostic des sols en février 2017.		
+2002	02	19		2002	02	19		la_cessation_d__activité	Le 19 février 2002, l'exploitant a déclaré la cessation d'activité de son site , en précisant que l'arrêt définitif des activités était effectif depuis le 31 décembre 1999.		
+1992				2002				a_été_exploitée	Une installation de mise en œuvre de préservation de bois a été exploitée sur le site de 1992 à 2002 ( réglementée par arrêté préfectoral du 29 juin 1992 ).		
+2002				2002				est_limitée_à	Il s'avère que depuis la cessation d'activité des installations exploitées par Monsieur FAURE en 2002, la parcelle concernée est limitée à un usage industriel .		'FAURE'

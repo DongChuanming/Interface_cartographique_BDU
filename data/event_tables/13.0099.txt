@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1890				1890				implanté	* Ce site implanté à Septèmes "Vallon du Maire" depuis le siècle dernier (1890) a été le siège de plusieurs activités (chimie organique, minérale, pesticide) regroupées sous l'ancien exploitant SCHLOESING jusqu'en 1974 sur une superficie d'environ 1,3 ha.		'SCHLOESING'
+1974				1974				la_propriété_successive	* Les terrains ont ensuite été la propriété successive depuis 1974 de DUCLOS-GESTION puis de RHONE POULENC RORER, dernier propriétaire foncier sans jamais avoir exploité, devenu depuis "AVENTIS".		'DUCLOS - GESTION', 'RHONE POULENC RORER', '" AVENTIS "'
+1997	06			1997	06			Une_étude_de_diagnostic_de_site	* Une étude de diagnostic de site a été réalisée en juin 1997.		

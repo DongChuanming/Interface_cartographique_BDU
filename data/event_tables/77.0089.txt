@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974	01			1975	04			s__est_déroulée	La construction de l'usine s'est déroulée de janvier 1974 à avril 1975.		
+1973	05			1973	05			a_été_fondée	La Société  des Aciéries de Montereau a été fondée en mai 1973 en vue de construire et d'exploiter une aciérie électrique pour la production de masse d'acier au carbone en utilisant la ferraille comme matière première.		'La Société   des Aciéries', 'de Montereau'
+2006	07			2006	07			réalisé	Ce rapport, réalisé en juillet 2006, a permis d'évaluer l'imprégnation des sols en plomb et en cadmium dans l'environnement du site.	'plomb', 'cadmium'	
+2001	12	04		2001	12	04		a_été_remise	Une première partie de l'étude a été remise à l'inspection des installations classées le 4 décembre 2001.		

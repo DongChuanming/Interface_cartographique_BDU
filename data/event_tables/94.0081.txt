@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				à_la_suppression_de	Suite à la suppression de l'atelier de traitement de surface en 1998, un diagnostic du sol a été effectué le 10/02/1999.		
+2011	08	24		2011	08	24		Les_investigations_ont_été_menées	Les investigations ont été menées le 24/08/2011.		
+2012	10	24		2012	11	06		Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés entre le 24/10/2012 et le 06/11/2012.		
+2012	10	05		2012	10	05		un_diagnostic	Par courrier du 25/02/2015, l'exploitant a transmis un diagnostic en date du 25/02/2010 et un plan de gestion du 05/10/2012.		
+1998				1998				un_diagnostic_du_sol	Suite à la suppression de l'atelier de traitement de surface en 1998, un diagnostic du sol a été effectué le 10/02/1999.		
+2012	10			2012	10			rapport_intitulé	Le rapport mentionne un rapport de synthèse rédigé suite à des fouilles à la pelle mécanique réalisées en 2012 ainsi qu’un rapport intitulé plan de gestion des terres impactées réalisé en octobre 2012.		
+								La_cessation_d__activité	La cessation d’activité était effective au 25/10/11.		
+1967				2004				ont_été_exercées	Des activités ont été exercées sur ce site entre 1967 et 2004 par plusieurs sociétés qui se sont succédées : GELB, ESTAG et ERCUIS.		': GELB , ESTAG et ERCUIS'
+2010	02	25		2010	02	25		un_diagnostic	Par courrier du 25/02/2015, l'exploitant a transmis un diagnostic en date du 25/02/2010 et un plan de gestion du 05/10/2012.		
+2014	10	14		2014	10	14		La_visite	La visite d’inspection du 14/10/2014 a permis de constater que le projet de construction de logements n’avait pas débuté et que le terrain était en friche.		
+2011	09	15		2011	09	15		un_diagnostic_des_sols	Suite à l'arrêt définitif de toutes les activités du site, l'exploitant a transmis par courrier du 05/04/2012 un diagnostic des sols, concernant des prélèvements et analyses de sol complémentaires, en date du 15/09/2011.		
+2012				2012				des_fouilles	Le rapport mentionne un rapport de synthèse rédigé suite à des fouilles à la pelle mécanique réalisées en 2012 ainsi qu’un rapport intitulé plan de gestion des terres impactées réalisé en octobre 2012.		
+2012	10			2012	10			plan_de_gestion	Le rapport mentionne un rapport de synthèse rédigé suite à des fouilles à la pelle mécanique réalisées en 2012 ainsi qu’un rapport intitulé plan de gestion des terres impactées réalisé en octobre 2012.		
+1998	10	05		1998	10	05		a_cessé	La société ERCUIS exploitait, sur un terrain de 8900 m², un atelier de traitement de surface classé sous la rubrique 2565-2-a [A] qui a cessé son activité le 05/10/1998 ainsi que des installations classées à déclaration sous les rubriques suivantes :		'La société ERCUIS'
+1999	02	10		1999	02	10		un_diagnostic_du_sol	Suite à la suppression de l'atelier de traitement de surface en 1998, un diagnostic du sol a été effectué le 10/02/1999.		

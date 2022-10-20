@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	08	27		1998	08	27		a_été_notifié_au_liquidateur_judiciaire	Compte tenu de la cessation d'activité de l'entreprise, cet arrêté a été notifié au liquidateur judiciaire (27 août 1998).		
+1930				1930				est_exercée	L'activité y est exercée depuis 1930 et semble avoir toujours porté sur de la fonderie de fonte et d'alliages.		
+				1998				a_exploité	La société GENEVEE MOBILUR a exploité une fonderie de fonte jusqu'en 1998.		'La société GENEVEE MOBILUR'
+1999	02	04		1999	02	04		a_été_tournée_vers	En l'absence de fonds, l'action a été tournée vers le propriétaire du site, la Mairie de Fréteval (courrier du Préfet du 4 février 1999).		'la Mairie de Fréteval', 'Préfet'

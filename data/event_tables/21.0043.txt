@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	23		2005	02	23		impose	23 février 2005 : un arrêté préfectoral complémentaire concernant les actions de dépollution et la surveillance des eaux souterraines impose :		
+2004	04			2004	04			ont_été_transmises	Les études ont été transmises à l'inspection des installations classées en avril 2004 et juillet 2004.		
+2006	03			2006	03			Le_rapport_de_dépollution	Le rapport de dépollution des eaux souterraines, remis en mars 2006,  souligne une baisse importante de la pollution.		
+2000	03			2000	03			Une_étude_de_sols	Une étude de sols et dalles de compression a  été réalisée par TAUW Environnement en mars 2000 et remis à la Mairie.		
+2004	07			2004	07			ont_été_transmises	Les études ont été transmises à l'inspection des installations classées en avril 2004 et juillet 2004.		
+								cessation_d__activité_effective	Information de la Préfecture sur la cessation d’activité en février 2002, cessation d’activité effective au 31/03/02 après une période de location, indiquant que les mesures de remise en état prises concernent essentiellement l’évacuation des déchets.	'des déchets'	'la Préfecture'
+2004	08			2004	08			des_investigations_complémentaires	En août 2004, des investigations complémentaires à l'extérieur du site ont été menées dans le cadre de l'étude détaillée des risques :		
+1969				1969				Implantation	Implantation en 1969 d’OREGA ; fabrication de composants électroniques autorisé par arrêté du 31/12/1969.		'OREGA'
+2012				2012				campagnes_menées_pour_l_	Les résultats des campagnes menées pour l'année 2012 sont assortis de recommandations de la part de la société ANTEA et notamment de procéder à une recherche de source "sol" de pollution.		'la société ANTEA'
+2004	01	21		2004	01	21		une_étude_de_sols	Par arrêté préfectoral en date du 21 janvier 2004, une étude de sols suivie d'une étude simplifiée des risques (ESR) suivant la méthodologie nationale est imposée.		
+2006	04			2006	04			un_rapport_d__investigations	En avril 2006, l'inspection des installations classées a reçu un rapport d'investigations complémentaires réalisées sur une zone de remblais destinée à la construction d'un bâtiment.		
+1997				1997				n__était_plus_soumis	L’activité a évolué et en 1997, il n’était plus soumis qu’à simple déclaration.		
+2002	02			2002	02			Information	Information de la Préfecture sur la cessation d’activité en février 2002, cessation d’activité effective au 31/03/02 après une période de location, indiquant que les mesures de remise en état prises concernent essentiellement l’évacuation des déchets.	'des déchets'	'la Préfecture'
+2003	03			2003	03			des_analyses	En mars 2003, la mairie d'Auxonne a fait réaliser des analyses d'eau et de sol qui ont révélé la présence de trichloréthylène dans un puits (P2) au nord-ouest du site.	'trichloréthylène'	
+2003	11	07		2003	11	07		a_informé	La mairie a informé La DRIRE et la préfecture le 7 novembre 2003.		'La DRIRE'
+2001	03			2001	03			Vente	Vente du site à la Mairie d’Auxonne en mars 2001.		
+2002	02			2002	02			la_cessation_d__activité	Information de la Préfecture sur la cessation d’activité en février 2002, cessation d’activité effective au 31/03/02 après une période de location, indiquant que les mesures de remise en état prises concernent essentiellement l’évacuation des déchets.	'des déchets'	'la Préfecture'

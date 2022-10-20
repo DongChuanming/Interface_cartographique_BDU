@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07	28		2005	07	28		a_adressé	L’exploitant a adressé le 28 juillet 2005 les copies de bordereaux de suivi de déchets industriels censés prouver ainsi la dépollution des terrains.	'déchets industriels'	
+2005	04	08		2005	04	08		le_diagnostic_initial	En réponse à cet arrêté, l’exploitant a fourni, le 8 avril 2005, le diagnostic initial réalisé par un bureau d’étude pour le compte du promoteur immobilier, pour le tènement situé avenue de Pressensé.		
+1986	09	09		1986	09	09		a_été_autorisée_à_exploiter	Elle a été autorisée à exploiter un centre de dépôts de ferrailles et de véhicules hors d'usage par l'arrêté préfectoral du 9 septembre 1986.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03	22		2006	03	22		L__étude_a_été_remise	L'étude a été remise le 09/02/04 et complétée le 22/03/2006.		
+2007	10	12		2007	10	12		être_inscrites_au_registre_des_hypothèques	Ces restrictions d'usage doivent être inscrites au registre des hypothèques avant le 12/10/2007 selon une procédure d'institution de servitudes laissé au choix de l'exploitant.		
+1977				2002				a_accueilli	Cette décharge a été autorisée par l'arrête préfectoral du 13/05/1977, et a accueilli 45.000 tonnes de déchets de 1977 à 2002.		
+2011	10			2011	10			Les_campagnes_d_	Les campagnes d'Avril et Octobre 2011 montrent un impact en PZ2 et PZ3, à priori situés à l'aval hydraulique : Chlorures (40 à 116 mg/l) et sulfates (109 à 159 mg/l), charge organique importante (COT 20mg/l et NH4 15 à 40 mg/l), manganèse (230 à 1100 µg/l) et contamination fécale en PZ3.	'PZ2', 'PZ3', 'Chlorures', 'sulfates', 'COT', 'NH4', 'manganèse', 'PZ3'	
+2002	01	01		2002	01	01		a_été_reprise	Le 01/01/2002, la gestion de la décharge anciennement exploitée par la commune de BAZAS a été reprise par la communauté de commune du Bazadais.		'la communauté de commune du Bazadais'
+								Les_campagnes_d_	Les campagnes d'Avril et Octobre 2011 montrent un impact en PZ2 et PZ3, à priori situés à l'aval hydraulique : Chlorures (40 à 116 mg/l) et sulfates (109 à 159 mg/l), charge organique importante (COT 20mg/l et NH4 15 à 40 mg/l), manganèse (230 à 1100 µg/l) et contamination fécale en PZ3.	'PZ2', 'PZ3', 'Chlorures', 'sulfates', 'COT', 'NH4', 'manganèse', 'PZ3'	
+2012	10			2012	10			Les_campagnes_d_	Les campagnes d'Avril et Octobre 2012 montrent que les eaux du piézomètre n° 1 sont globalement de bonne qualité physico-chimique.		
+2006	03	22		2006	03	22		complétée	L'étude a été remise le 09/02/04 et complétée le 22/03/2006.		
+								Les_campagnes_d_	Les campagnes d'Avril et Octobre 2012 montrent que les eaux du piézomètre n° 1 sont globalement de bonne qualité physico-chimique.		
+								L__étude_a_été_remise	L'étude a été remise le 09/02/04 et complétée le 22/03/2006.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	12	06		1996	12	06		La_cessation_d__activité	La cessation d'activité de l'UIOM a été effective le 6 décembre 1996.		"l' UIOM"
+1997	02	04		1997	02	04		exploite	Depuis cette date, la société DRAGUI TRANSPORTS exploite l'ancien site en tant que quai de transfert (AP du 4/02/1997).		'la société DRAGUI TRANSPORTS'
+2006	01	05		2006	01	05		Le_mémoire_de_cessation_d__activité	Le mémoire de cessation d'activité a été réalisé le 05/01/2006.		
+1995	12	06		1995	12	06		une_visite	Au cours d'une visite le 06/12/1995 par l'inspection des installations classées, il avait été relevé notamment le non respect de la température minimale des gaz de combustion, le dépassement de la concentrations maximale en poussière des gaz de combustion.		

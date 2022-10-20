@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12	30		2004	12	30		a_été_envoyé	Le rapport parcellaire a été envoyé à la DRIRE le 30 décembre 2004.		'la DRIRE'
+2004	12			2004	12			les_travaux_de_recherche_de_cuves_réalisées	Etat au 23/03/2005 : les travaux de recherche de cuves réalisées en décembre 2004 ont permis de découvrir une cuve.		
+2005	03	23		2005	03	23		Etat	Etat au 23/03/2005 : les travaux de recherche de cuves réalisées en décembre 2004 ont permis de découvrir une cuve.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2006				2006				une_étude_historique	Conformément aux engagements pris dans le protocole, Gaz de France réalisera d'ici 2006 une étude historique avec localisation des cuves, qui seront systématiquement vidées et comblées.		'Gaz de France'
+2005	12			2005	12			a_été_vidangée	La cuve a été vidangée en décembre 2005, le rapport de fin de chantier a été transmis à la DRIRE le 4 mars 2006.		'la DRIRE'
+2006	03	04		2006	03	04		a_été_vidangée	La cuve a été vidangée en décembre 2005, le rapport de fin de chantier a été transmis à la DRIRE le 4 mars 2006.		'la DRIRE'

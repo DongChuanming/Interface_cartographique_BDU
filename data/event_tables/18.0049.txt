@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1975				a_été_exploité	De 1969 à 1975, le site de LA CHAPELLE SAINT URSIN a été exploité par la mairie de LA CHAPELLE SAINT URSIN comme centre de stockage d’ordures ménagères.		'LA CHAPELLE SAINT URSIN', 'CHAPELLE SAINT URSIN'
+1989	05	29		1989	05	29		La_cessation_d__activité	La cessation d’activité du centre de stockage de déchets exploité par la société CTSP a été actée par l’arrêté préfectoral du 29 mai 1989.		'la société CTSP'
+1975				1975				A	A partir de 1975, date à laquelle l’exploitation du centre de stockage a été prise en charge par la société CTSP, des déchets industriels étaient également apportés.	'des déchets industriels'	'la société CTSP'

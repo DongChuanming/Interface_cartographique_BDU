@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04	12		2013	04	12		a_cessé_son_activité	La station n°2 a cessé son activité le 12 avril 2013.		
+				2013	05	19		Les_travaux_de_démantèlement	Les travaux de démantèlement et de décontamination ont été réalisés du 15 au 19 mai 2013.		
+2013	11	05		2013	11	05		a_été_autorisée_à_construire	Par arrêté municipal du 04 avril 2013, modifié le 05 novembre 2013, la Sté Pays Basque Distribution a été autorisée à construire :		'la Sté Pays Basque'
+2002	01	03		2002	01	03		a_cessé_son_activité	La station n°1 a cessé son activité le 3 janvier 2002.		
+2013	02			2013	02			le_diagnostic_environnemental	L'exploitant a fait réalisé en février 2013 le diagnostic environnemental du site de la station n°2, comprenant le plan de gestion des zones contaminées, les bordereaux de suivi des déchets et les attestations d’élimination des cuves, canalisations et séparateur d’hydrocarbures.	'd’ hydrocarbures'	

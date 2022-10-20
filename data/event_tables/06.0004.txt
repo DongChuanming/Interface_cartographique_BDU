@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04			2000	04			a_fait_procéder	En avril 2000, l'ADEME a fait procéder, dans le cadre de l'Arrêté Préfectoral du 18/03/1998, par une société spécialisée à la vidange, au conditionnement et à l'évacuation des bains restant encore sur le site, au nettoyage et décapage des rétentions souillées, à la vidange d'une cuve d'huiles usagées et à l'évacuation de futs contenant des boues cyanurées ainsi qu'un transformateur au PCB.	"d' huiles usagées", 'des boues cyanurées', 'PCB'	
+2001	03			2001	03			exprimées	Prévenue de la situation, elle a, selon les recommandations de l'ADEME exprimées en mars 2001, entrepris une étude (ESR) complémentaire de la qualité des sols autour des bâtiments d'exploitation.		
+2005	05	26		2005	05	26		est_actuellement_exploité	Le site est actuellement exploité selon la rubrique 286 par arrêté préfectoral du 26 05 2005.		
+1995				1995				a_cessé	L'activité a cessé en 1995 suite à une liquidation judiciaire.		
+1996				1996				Une_première_opération_de_reconditionnement	Une première opération de reconditionnement et d'évacuation de déchets stockés hors des bâtiments a été réalisée par la Sté OREDUI en 1996 (10 tonnes concernées).		'la Sté OREDUI'
+2003				2003				est_repris_par_acquisition	Le site est repris par acquisition en 2003 par la Sté de Compactage Niçois.		'la Sté de Compactage'

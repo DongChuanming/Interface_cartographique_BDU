@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	26		2010	05	26		Un_diagnostic_des_sols	Un diagnostic des sols a eu lieu le 26 mai 2010, au moyen de 8 sondages.		
+2018	12	03		2018	12	03		un_contrôle	En l'absence de documents traçant le retrait des réservoirs enterrés, l'exploitant a diligenté un contrôle le 3 décembre 2018.		
+2019	01	15		2019	01	15		la_mise_en_sécurité	Au vu de ces éléments, la mise en sécurité et la compatibilité du site avec un usage de type industriel ont été constatées par rapport de l'inspection des installations classées du 15 janvier 2019.		
+				2012	12	21		Des_travaux_de_dépollution	Des travaux de dépollution ont eu lieu du 17 au 21 décembre 2012, avec le retrait de près de 240 tonnes de terres impactées, qui ont été évacuées vers un centre de biotraitement.		
+2018	10	05		2018	10	05		la_cessation_d__activité_par_télédéclaration	La société CARREFOUR PROPERTY, repreneur du site, a formalisé la cessation d'activité par télédéclaration du 5 octobre 2018.		'La société CARREFOUR PROPERTY'
+1986	04	1		1986	04	1		de_déclaration	La société COMPTOIRS MODERNES - STOC a bénéficié d'un récépissé de déclaration en date du 1er avril 1986, pour l'exploitation d'une station-service sur ce site.		'La société COMPTOIRS MODERNES - STOC'
+2015	03	23		2015	03	23		Un_dossier_de_déclaration	Un dossier de déclaration pour les mêmes activités a été par la suite déposé par la société SAS LCA - Franprix le 23 mars 2015.		'la société SAS LCA'
+2003				2003				La_fin_de_l__exploitation	La fin de l'exploitation et le démantèlement aurait eu lieu vers 2003, selon les photo aériennes consultables.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986				1986				Stockage	Stockage de mousses expansées (20000 m3 environ) qui ont été enlevées puis éliminées en 1986.	'mousses expansées'	
+1986				1986				ont_été_enlevées	Stockage de mousses expansées (20000 m3 environ) qui ont été enlevées puis éliminées en 1986.	'mousses expansées'	
+1986	10	10		1986	10	10		un_incendie	Le 10 octobre 1986, un incendie a affecté la quasi-totalité des déchets de mousses en attente d'élimination.		

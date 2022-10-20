@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1992	07	29		ont_été_autorisées	Ses activités ont été autorisées par arrêtés préfectoraux en dates des 23 avril 1990, 29 juillet 1992 et 21 février 2002.		
+1990	04	23		1990	04	23		ont_été_autorisées	Ses activités ont été autorisées par arrêtés préfectoraux en dates des 23 avril 1990, 29 juillet 1992 et 21 février 2002.		
+2005	10	27		2005	10	27		a_été_reçue	L'étude détaillée des risques (EDR) a été reçue le 27 octobre 2005.		
+2002	02	21		2002	02	21		ont_été_autorisées	Ses activités ont été autorisées par arrêtés préfectoraux en dates des 23 avril 1990, 29 juillet 1992 et 21 février 2002.		
+2005	02	15		2005	02	15		a_été_signé	Un arrêté préfectoral a été signé le 15 février 2005 imposant à l’exploitant la réalisation d’un diagnostic approfondi et d’une évaluation détaillée des risques ainsi que la mise en place d’une surveillance piézométrique de la qualité des eaux souterraines au droit du site.		
+2005	11	16		2005	11	16		Le_suivi_analytique	Le suivi analytique de la qualité des eaux souterraines opéré depuis le 16 novembre 2005 n'a pas mis en évidence la présence significative de polluants autres que le Fluoranthène (un hydrocarbure aromatique polycyclique).	'le Fluoranthène', 'un hydrocarbure aromatique polycyclique'	

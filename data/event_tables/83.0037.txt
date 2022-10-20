@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				a_été_constaté	Dans le cadre de différentes investigations des milieux qui ont été menées par l’exploitant depuis 2008, il a été constaté la présence d’une pollution aux hydrocarbures totaux dans les sols et les eaux souterraines du droit du sondage PZS6.	'hydrocarbures totaux'	
+								était_autorisée_à_exploiter	La société Firmenich était autorisée à exploiter sur son site de Seillans des installations destinées à la fabrication de produits aromatiques, naturels ou de synthèse par, en particulier, un arrêté préfectoral d’autorisation du 05/12/83, complété par les arrêtés complémentaires du 29/11/01 et du 29/05/09.		'La société Firmenich'
+2011	05	03		2011	05	03		informé_de	En date du 3 mai 2011, Firmenich a informé de son intention de réhabiliter le site, pour un usage futur du type résidentiel.		'Firmenich'
+2016	06	07		2016	06	07		a_été_adressé	2- Le dossier de fin de travaux concernant la zone des anciennes cuves a été adressé en date du 7 juin 2016.		
+2016	11	03		2016	11	03		une_demande_de_compléments	Celui-ci a fait l’objet d’une demande de compléments qui ont été adressés le 3 novembre 2016.		
+2011	03	31		2011	03	31		la_cessation_définitive_des_activités	La société Firmenich a notifié le 23 décembre 2010 la cessation définitive des activités au 31 mars 2011.		'La société Firmenich'
+2017	08	09		2017	08	09		a_été_pris	Un AP prescrivant le suivi de la qualité des eaux souterraines et superficielles au droit du site a été pris le 9 août 2017.		
+2008				2008				différentes_investigations_des_milieux	Dans le cadre de différentes investigations des milieux qui ont été menées par l’exploitant depuis 2008, il a été constaté la présence d’une pollution aux hydrocarbures totaux dans les sols et les eaux souterraines du droit du sondage PZS6.	'hydrocarbures totaux'	
+2015	10	26		2015	10	26		a_été_adressé	1- Le rapport de fin de travaux pour la parcelle privée en MW5 a été adressé en date du 26 octobre 2015.		
+2010	12	23		2010	12	23		la_cessation_définitive_des_activités	La société Firmenich a notifié le 23 décembre 2010 la cessation définitive des activités au 31 mars 2011.		'La société Firmenich'

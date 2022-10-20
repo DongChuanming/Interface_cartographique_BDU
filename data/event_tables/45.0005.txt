@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				la_découverte_de_cette_pollution	Lors de la découverte de cette pollution en 1993, la quantité de polluants avait été estimée à un maximum de 12 kg avec toutefois des concentrations observées allant jusqu'à 17 mg/l de composés organiques volatils.	'polluants', 'composés organiques volatils'	
+1997				1997				a_été_arrêté	Il a été arrêté en 1997.		

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	10			2015	10			a_cessé	L'activité a cessé en octobre 2015.		
+2009				2015				a_accueilli	Il a accueilli de 2009 à 2015 une activité de traitement et de stockage de bois.		

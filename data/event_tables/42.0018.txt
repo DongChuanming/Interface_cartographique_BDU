@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				Une_étude_GEOCLEAN	Une étude GEOCLEAN de 1997 avait constaté une pollution autour de la fosse à copeaux dont le fond était perméable ainsi que la présence de solvants chlorés dans les eaux des Piézomètres.	'copeaux', 'la présence de solvants chlorés'	'GEOCLEAN'

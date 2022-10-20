@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2020				2020				créer_de_l__habitat_collectif	L'objectif est à terme de créer de l'habitat collectif sur ces terrains en 2020.		
+2020				2020				Les_travaux_de_dépollution	Les travaux de dépollution sont en cours depuis plusieurs mois, le démarrage de la construction des collectifs est prévu en 2020.		
+1992	05			1992	05			a_été_vidé_et_envoyé_pour_traitement	Son contenu, pour un volume de 835 m3 de matériaux souillés a été vidé et envoyé pour traitement dans des centres agréés, en mai 1992.	'matériaux souillés'	
+1979				1979				a_été_vendu	Les installations de l'usine ont été démantelées avec l'arrivée du gaz naturel et le terrain a été vendu en 1979, dans le cadre d'un échange avec la ville de Saint-Nazaire, dans la perspective de la construction d'un parking.		'la ville de Saint-Nazaire'
+2015				2015				a_engagé	La SONADEV, aménageur pour l'usage habitat, a engagé les études et démarches recommandées dans ce type de cas dès 2015.		'La SONADEV'
+2020				2020				sont_en_cours	Les travaux de dépollution sont en cours depuis plusieurs mois, le démarrage de la construction des collectifs est prévu en 2020.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	06	15		2009	06	15		La_campagne	La campagne du 15 juin 2009 confirme la situation par l'observation de traces sur l'ensemble des points.		
+2008	03	03		2008	03	03		La_campagne_du	La campagne du 3 mars 2008 montre que :		
+2009	11	24		2009	11	24		La_campagne	La campagne du 24 novembre 2009 montre l'absence de HAP et de Phénols et l'absence d'impact dans le forage.	'HAP', 'Phénols'	
+2008	09	02		2008	09	02		La_campagne	La campagne du 2 septembre 2008 montre une amélioration de la situation mais avec l'apparition de traces d'Hydrocarbures Aliphatiques Polycycliques (HAP) :	'Hydrocarbures Aliphatiques Polycycliques', 'HAP'	
+2005	02	07		2005	02	07		Les_relevés_piézométriques	Les relevés piézométriques du 7 février 2005 ont montré des incohérences entre le (ou les) sens d'écoulement de la nappe et les résultats des analyses des eaux souterraines.		
+1991	12	23		1991	12	23		ont_été_autorisées	Les installations ont été autorisées par l'arrêté préfectoral du 23 décembre 1991.		
+2004				2004				sont_remises	Les études et l'ESR sont remises en 2004 et le 7 juillet 2005.		
+2008	07	22		2008	07	22		La_campagne_du	La campagne du 22 juillet 2008 montre une aggravation de la situation par le propiconazole en PZ1 (6,63 µg/l) et l'apparition de l'IPBC sur le forage (0,655 µg/l).	'le propiconazole', "l' IPBC"	
+2005	07	07		2005	07	07		sont_remises	Les études et l'ESR sont remises en 2004 et le 7 juillet 2005.		

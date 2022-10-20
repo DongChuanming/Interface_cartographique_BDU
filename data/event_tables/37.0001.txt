@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés en 2004, tels qu'ils été prévus dans l'étude préalable, et suivis par l'ADEME dans le cadre d'une convention départementale.		
+2000	08			2000	08			est_complétée	Elle est complétée par la mise en place d'un 3ème piézomètre en août 2000.		
+								la_campagne	Le suivi de la qualité des eaux se poursuit et les résultats obtenus lors de la campagne d'avril permettent de mettre en évidence un impact notable du site sur les eaux souterraines (présence de fer, aluminium, manganèse)au regard des écarts de concentrations obtenus entre l’amont et l’aval de l’ancien CET.	'fer', 'aluminium', 'manganèse)au'	
+1999				1999				est_mise_en_place	Une surveillance de la qualité des eaux souterraines à partir de deux piézomètres de contrôle, et des eaux superficielles est mise en place en 1999.		
+1999	04	19		1999	04	19		la_campagne_d__analyse_préalable	Les premiers résultats issus de la campagne d'analyse préalable du 19/04/1999 montrent l'absence de pollution des eaux.		
+1995				1995				a_cessé	Son activité a cessé en 1995.		
+2000	11	02		2000	11	02		prélevés_sous	- sur les sols prélevés sous les déchets le 02/11/2000 confirment que "sur les 3 échantillons de sols analysés, aucune contamination particulière n'est décelée pour les paramètres recherchés";		
+1978				1978				a_été_mise_en_service	* Cette ancienne décharge brute de déchets ménagers et industriels exploitée par la commune de Descartes a été mise en service en 1978.		
+2001	04	26		2001	04	26		Une_nouvelle_campagne_de_surveillance	Une nouvelle campagne de surveillance effectuée le 26/04/2001 confirme cette situation.		
+2000	11	02		2000	11	02		des_sondages_effectués	Par ailleurs, des sondages effectués le 02/11/2000 en pied de décharge confirment l'absence de lixiviats, au sein des déchets et l'absence de sous écoulement en pied des dépôts.		
+2001	02	19		2001	02	19		Les_nouvelles_analyses_transmises	Les nouvelles analyses transmises le 19/02/2001 et effectuées :		

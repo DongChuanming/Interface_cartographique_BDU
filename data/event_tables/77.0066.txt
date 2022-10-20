@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_repris_les_activités	La société DELACHAUX a repris les activités de la société DEVAUX-WERTZ en 2005 (changement d'exploitant)avant la cessation définitive d'activité intervenue en 2006.		'La société DELACHAUX', 'la société DEVAUX - WERTZ'
+2006				2006				la_cessation_définitive_d__activité	La société DELACHAUX a repris les activités de la société DEVAUX-WERTZ en 2005 (changement d'exploitant)avant la cessation définitive d'activité intervenue en 2006.		'La société DELACHAUX', 'la société DEVAUX - WERTZ'
+2000	04	21		2000	04	21		a_été_déposée	La première partie (diagnostic initial) a été déposée le 21 avril 2000.		
+2006				2006				a_cessé_d__exploiter	L'entreprise a cessé d'exploiter le site à la fin du premier semestre 2006. l'exploitant, qui est également le propriétaire, a pris les mesures nécessaires au gardiennage et à la mise en sécurité des 3 sites.		
+1999	02	03		1999	02	03		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 3 février 1999.		
+2003	03	26		2003	03	26		étape_B_du_diagnostic_initial	Après examen et demandes de compléments, l'étape B du diagnostic initial et les conclusions de l'ESR ont été transmises le 26 mars 2003.		"l' ESR"

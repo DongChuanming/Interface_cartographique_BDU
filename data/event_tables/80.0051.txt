@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1936				1975				a_existé	Une fonderie a existé dans les locaux de 1936 à 1975.		
+2001	12			2001	12			de_la_visite	Lors de la visite de décembre 2001, l'inspection des installations classées a découvert que certaines activités citées dans l'arrêté préfectoral de 1983 n'étaient plus exercées.		
+2003	02	13		2003	02	13		a_été_envoyé	Le 13 février 2003, un courrier de la préfecture de la Somme a été envoyé à l'inspection faisant acte de la cessation d'activité partielle de la SA NEWELL WINDOW FASHIONS FRANCE.		'la préfecture de la Somme', 'la SA NEWELL WINDOW FASHIONS FRANCE'
+2003	02			2003	02			a_été_déposé	Le dossier de cessation d'activité partielle a été déposé en février 2003.		
+2001	12			2001	12			a_découvert	Lors de la visite de décembre 2001, l'inspection des installations classées a découvert que certaines activités citées dans l'arrêté préfectoral de 1983 n'étaient plus exercées.		

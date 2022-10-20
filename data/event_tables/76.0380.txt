@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	11			2018	03			des_sols_réalisés	Les diagnostics des sols réalisés entre novembre 2017 et mars 2018 ont révélé des contaminations diffuses (principalement en HC et BTEX) au droit des installations existantes et anciennes.	'HC', 'BTEX'	

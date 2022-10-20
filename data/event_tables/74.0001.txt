@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	12	19		1997	12	19		est_instaurée	Celle-ci est instaurée par un acte notarié soussigné les 19/12/1997 et 23/01/1998.		
+2002	02	13		2002	02	13		demande_une_modification	Le 13 février 2002, suite aux analyses pratiquées sur l'eau souterraine depuis plus de 5 ans, PEM demande une modification des dispositions prescrites par les AP suscités.		
+1998	01	23		1998	01	23		est_instaurée	Celle-ci est instaurée par un acte notarié soussigné les 19/12/1997 et 23/01/1998.		
+1993	10			1993	10			étude_hydrogéologique	- étude hydrogéologique du site de l'usine et des crassiers, par le BRGM en octobre 1993 ;		'le BRGM'
+1994	02			1994	02			réalisée_par	- étude historique de l'usine et de ses fabrications réalisée par PEM en février 1994 ;		'PEM'
+1997	09	23		1997	09	23		Une_visite_de_récolement	Une visite de récolement par l'inspection a été réalisée le 23/09/1997 et fait état de l'entière réhabilitation du site.		
+1997				1997				ont_été_réhabilitées	Les deux décharges (petit crassier et grand crassier), qui ont reçu des scories et des laitiers de Mn et de Mo, ont été réhabilitées en 1997.	'Mn', 'Mo'	
+2005	05	31		2005	05	31		signe_un_acte_notarié	Le 31 mai 2005, Pechiney Bâtiment (Alcan) signe un acte notarié dans le but d'acquérir les parcelles cadastrales suivantes : 1, 2, 3, 2434, 2437, 2440, 2442, 2444, 2447, 2449, 2982, 2983 ("petit crassier" d'environ 0,97 ha) ; 356 357 361 368 269, 371, 372, 373, 374, 377, 378, 379, 388, 3821, 2823, 2825, 2827, 2829, 2847, 2849, 2956 et 2972 ("grand crassier" d'environ 3 ha 96) de la section C de la commune de Saint-Jeoire (en Faucigny).		'Pechiney Bâtiment ( Alcan'

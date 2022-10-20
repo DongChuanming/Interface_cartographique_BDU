@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01			2001	01			a_été_envoyé	En janvier 2001, un rapport a été envoyé à l’Inspection des installations classées,  présentant les travaux réalisés et les travaux prévus pour répondre aux prescriptions de l'arrêté préfectoral du 14 novembre 2000.		
+2001	04			2001	04			mise_en_place	- mise en place de 7 piézomètres en avril 2001.		
+2001	05			2001	05			investigation_radiologique	- investigation radiologique en mai 2001.		
+2001	04			2001	04			est_réalisé	Un suivi piézométrique est réalisé sur ce site depuis avril 2001.		
+2000	11	14		2000	11	14		a_été_envoyé	En janvier 2001, un rapport a été envoyé à l’Inspection des installations classées,  présentant les travaux réalisés et les travaux prévus pour répondre aux prescriptions de l'arrêté préfectoral du 14 novembre 2000.		
+2001	04			2001	04			__excavation	- excavation des terres polluées de la zone Z1 en avril 2001.		
+1976				1995				exploité	Ancien atelier de reconditionnement de produits chimiques, exploité de 1976 à 1995 par Omnium Scientific puis de 1995 à 1999 par Fischer Scientific.	'produits chimiques'	'Omnium Scientific', 'Fischer Scientific'

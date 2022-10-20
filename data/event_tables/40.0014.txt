@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	09	11		2009	09	11		et_du	Les installations sont autorisées par les arrêtés préfectoraux du 23 décembre 1991, du 09 juillet 1993 et du 11 septembre 2009, complété par l'arrêté du 27 juin 2011.		
+2011	06	27		2011	06	27		sont_autorisées	Les installations sont autorisées par les arrêtés préfectoraux du 23 décembre 1991, du 09 juillet 1993 et du 11 septembre 2009, complété par l'arrêté du 27 juin 2011.		
+1999	08	27		1999	08	27		ont_été_remises	Les études ont été remises le 27 août 1999.		
+1998	11	13		1998	11	13		une_Évaluation_Simplifiée_des_Risques	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol, un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) ont été prescrits par l'arrêté préfectoral du 13 novembre 1998.		
+2012	03	14		2012	03	14		informe	Le 14 mars 2012, l'exploitant informe l'inspection des installations classées que de nouvelles substances biocides sont utilisées sur le site.	'substances biocides'	
+1954				1954				a_démarré	L'activité a démarré en 1954.		
+2009	09	11		2009	09	11		sont_autorisées	Les installations sont autorisées par les arrêtés préfectoraux du 23 décembre 1991, du 09 juillet 1993 et du 11 septembre 2009, complété par l'arrêté du 27 juin 2011.		

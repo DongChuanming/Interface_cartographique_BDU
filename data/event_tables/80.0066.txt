@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	01	13		1995	01	13		a_été_autorisée	L'exploitation des équipements de traitement de surface et de montage de pièces de robinetterie a été autorisée par arrêté préfectoral en date du 13 janvier 1995.		
+1994				1994				s__est_implantée_sur	La société s'est implantée sur ce site vierge en 1994.		
+2001				2001				a_été_rachetée	Diams a été rachetée en 2001 par la société Volevatch.		'Diams', 'la société Volevatch'
+2005	01	18		2005	01	18		a_donc_été_adopté	Un arrêté préfectoral a donc été adopté le 18 janvier 2005 imposant cette surveillance au droit et à proximité de l'atelier de traitement de surfaces.		
+2004	08			2004	08			a_été_déposé	Un dossier de cessation d'activité a été déposé en août 2004 par la société, conformément à l'article 34-1 du décret n°77.1133 du 21 septembre 1977 modifié.		

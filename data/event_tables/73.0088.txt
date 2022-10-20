@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03			2003	03			est_posé	Un piézomètre est posé en amont de la décharge en mars 2003.		
+2006	12			2006	12			L__étude_de_la_stabilité	L'étude de la stabilité de la décharge a été réalisée par CSD AZUR en décembre 2006 et conclut que la décharge ne présente pas de risque d'instabilité à court terme.		'CSD AZUR'
+2012	10	11		2012	10	11		couvre	Par courrier du 3 octobre 2012, RETIA transmet à l'inspection des installations classées un acte de cautionnement solidaire établi par SOFAX BANQUE qui couvre la période du 11 octobre 2012 au 10 octobre 2014.		'RETIA', 'SOFAX BANQUE'
+1991				1991				est_exploitée	A partir de 1991, seule la partie basse est exploitée, la partie amont est ré-engazonnée.		
+2009	04	17		2009	04	17		réalise	Le 17 avril 2009, CSD AZUR réalise le schéma conceptuel de la décharge.		'CSD AZUR'
+2014	10	10		2014	10	10		transmet	Par courrier du 3 octobre 2012, RETIA transmet à l'inspection des installations classées un acte de cautionnement solidaire établi par SOFAX BANQUE qui couvre la période du 11 octobre 2012 au 10 octobre 2014.		'RETIA', 'SOFAX BANQUE'
+2011	03			2011	03			une_demande	La société RETIA a transmis par courrier du 29 en mars 2011 à l'inspection des installations classées une demande d'institution de SUP.		'La société RETIA'
+2014	10	10		2014	10	10		couvre	Par courrier du 3 octobre 2012, RETIA transmet à l'inspection des installations classées un acte de cautionnement solidaire établi par SOFAX BANQUE qui couvre la période du 11 octobre 2012 au 10 octobre 2014.		'RETIA', 'SOFAX BANQUE'
+1988				1988				sont_établis	A partir de 1988 et jusqu'à la fin de l'exploitation, des bordereaux de mise en décharge sont établis.		
+2000				2000				des_travaux_de_remise_en_état	En 2000, des travaux de remise en état de la décharge sont menés par la société CECA :		'la société CECA'
+2003	12	1		2003	12	1		Un_diagnostic_initial	Un diagnostic initial et une ESR, réalisés par CECA, sont transmis à l'inspection des installations classées par courrier en date du 1er décembre 2003 et classe le site en classe 2, site à surveiller.		'CECA'
+2010				2012				La_surveillance	La surveillance des eaux superficielles de 2010 à 2012 (10 campagnes) met en évidence les contaminations suivantes :		
+								a_été_créée	D'après les témoignages recueillis au cours des investigations, la décharge a été créée au début des années 1960 et les dépôts étaient limités à l'actuelle partie haute de la décharge.		
+1991				1991				se_font	Les derniers dépôts de boues de décantation se font en 1991.		
+2005	03	30		2005	03	30		Une_inspection_réalisée	Une inspection réalisée le 30 mars 2005 a permis de constater la nécessité de réaliser quelques travaux complémentaires de remise en état, que l'exploitant s'est engagé à réaliser avant la fin du premier semestre 2005.		
+2012	10	03		2012	10	03		transmet	Par courrier du 3 octobre 2012, RETIA transmet à l'inspection des installations classées un acte de cautionnement solidaire établi par SOFAX BANQUE qui couvre la période du 11 octobre 2012 au 10 octobre 2014.		'RETIA', 'SOFAX BANQUE'
+2012	10	11		2012	10	11		transmet	Par courrier du 3 octobre 2012, RETIA transmet à l'inspection des installations classées un acte de cautionnement solidaire établi par SOFAX BANQUE qui couvre la période du 11 octobre 2012 au 10 octobre 2014.		'RETIA', 'SOFAX BANQUE'
+1995				1995				sont_installés	En 1995, deux piézomètres sont installés en aval de la décharge afin de respecter ces prescriptions.		
+2010	05			2010	05			écoulement_orienté_vers_le_sud_ouest	- mai 2010 (hautes eaux) : écoulement orienté vers le sud-ouest ;		
+2005				2005				nécessité_de_réaliser_quelques_travaux_complémentaires_de_remise_en_état	Une inspection réalisée le 30 mars 2005 a permis de constater la nécessité de réaliser quelques travaux complémentaires de remise en état, que l'exploitant s'est engagé à réaliser avant la fin du premier semestre 2005.		

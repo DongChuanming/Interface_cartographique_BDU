@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			Trois_campagnes_d__investigation	Trois campagnes d'investigation de l'état environnemental du site avaient eu lieu en octobre 2009, novembre 2011 et janvier 2012.		
+2014	05			2014	05			ainsi_qu_	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		
+2013	04	11		2013	04	11		un_encadrement	Les mesures de gestion proposées ont fait l'objet d'un encadrement par arrêté préfectoral en date du 11 avril 2013.		
+2009	10			2009	10			Trois_campagnes_d__investigation	Trois campagnes d'investigation de l'état environnemental du site avaient eu lieu en octobre 2009, novembre 2011 et janvier 2012.		
+2007	06			2007	06			Ecuisses_a_été_mis_définitivement_à_l__arrêt	En raison d'une réorganisation des activités de la société CICOFER, ce site d'Ecuisses a été mis définitivement à l'arrêt en juin 2007.		'la société CICOFER', 'Ecuisses'
+								Quatre_campagnes_de_prélèvement	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		
+2014	05			2014	05			Quatre_campagnes_de_prélèvement	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		
+1989	02			1989	02			Une_visite_d__inspection	Une visite d'inspection en février 1989 avait constaté l'extension du dépôt de ferrailles de la "plate-forme basse" à une parcelle attenante (parcelle 113), non prévue dans le périmètre de l'autorisation.		
+2009	06	19		2009	06	19		La_notification_de_cessation_d__activité	La notification de cessation d'activité a été transmise en Préfecture le 19 juin 2009.		
+2012	01			2012	01			Trois_campagnes_d__investigation	Trois campagnes d'investigation de l'état environnemental du site avaient eu lieu en octobre 2009, novembre 2011 et janvier 2012.		
+2013	04	11		2013	04	11		La_dépollution_réalisée	La dépollution réalisée en 2013 a été encadrée par l'arrêté préfectoral du 11 avril 2013.		
+2013	07			2013	07			ainsi_qu_	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		
+2013	07			2013	07			Quatre_campagnes_de_prélèvement	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		
+2013				2013				La_dépollution_réalisée	La dépollution réalisée en 2013 a été encadrée par l'arrêté préfectoral du 11 avril 2013.		
+2012	10	24		2012	10	24		a_été_adressé	Par la suite un mémoire de cessation d'activité détaillant les mesures prises ou prévues pour la réhabilitation du site a été adressé en préfecture le 24 octobre 2012.		
+2007				2007				Des_opérations_de_mise_en_sécurité	Des opérations de mise en sécurité (enlèvement de déchets, démantèlement d'installations) avaient été effectuées après la mise à l'arrêt du site en 2007, permettant l'élimination de sources potentielles de pollution.		
+2014	02			2014	02			des_analyses	La partie Est de cette plate-forme a ainsi pu être effectivement dépolluée, comme indiqué par des analyses en février 2014.		
+2014	06	18		2014	06	18		la_remise	Ces travaux ont donné lieu à la remise d'un mémoire de fin de travaux adressé en préfecture le 18 juin 2014, lequel inclut également une mise à jour du schéma conceptuel et du plan de gestion du site.		
+2013	05			2013	05			Quatre_campagnes_de_prélèvement	Quatre campagnes de prélèvement ont été effectuées : en avril et mai 2013 (portant sur Pz2, Pz3, le Puits 1) ainsi qu'en juillet 2013 et mai 2014 (avec ajout de prélèvements issus du Puits 2).		

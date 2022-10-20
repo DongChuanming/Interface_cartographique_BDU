@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	04	22		2013	04	22		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d’activité le de 30/04/2012 et un récépissé de cessation a été délivré le 22/04/2013.		'La société'
+2012	04	30		2012	04	30		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d’activité le de 30/04/2012 et un récépissé de cessation a été délivré le 22/04/2013.		'La société'
+2012	04	30		2012	04	30		a_déclaré_la_cessation_d__activité	L’exploitant a déclaré la cessation d’activité le 30/04/2012 puis fourni les justificatifs de dégazage et enlèvement des cuves d’hydrocarbures.	'd’', 'hydrocarbures'	
+2014	10	22		2014	10	22		a_imposé	Par suite, le 22/10/2014, Monsieur le Préfet des Hauts-de-Seine a imposé par arrêté préfectoral :		'le Préfet des Hauts-de-Seine'
+				2012	04	30		a_été_exploitée	Une activité de distribution de carburant a été exploitée sur ce site jusqu’au 30/04/2012 par la société SHELL puis en dernier lieu par la société OIL FRANCE (dernier exploitant).	'carburant'	'la société SHELL', 'la société OIL FRANCE'
+2013	04	22		2013	04	22		a_été_délivré	La société a notifié sa cessation d’activité le de 30/04/2012 et un récépissé de cessation a été délivré le 22/04/2013.		'La société'

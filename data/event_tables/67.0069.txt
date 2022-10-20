@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	19		2005	12	19		Les_résultats_des_analyses_des_prélèvements	Les résultats des analyses des prélèvements du 19 décembre 2005 sur cinq piézomètres et 3 puits de jardin en aval du site montrent des teneurs en hydrocarbures totaux inférieures à 10 µg/l sur 6 points , < 20 µg/l sur 1 point, <40 µg/l sur le dernier .	'hydrocarbures totaux'	
+2001	02	12		2001	02	12		une_pollution	Découverte d'une pollution de la nappe aux hydrocarbures le 12 février 2001.		
+2001	02	14		2001	02	14		ont_été_demandé	Des études complémentaires ont été demandé par AP le 14/02/2001, notamment sur la détermination de la pollution, et des solutions de dépollution.		
+2001	03			2001	03			ont_été_mis_en	En mars 2001, 14 piézomètres ont été mis en place pour cercler le site.		
+								Les_dernières_analyses	Les dernières analyses du 13/12/01 et du 31/01/02 ne montrent plus d'hydrocarbures dissous sur les piézomètres situés en aval et dans les pompes à main des jardins ouvriers.	'hydrocarbures'	
+2001	02	24		2001	02	24		__mise_en_service_d_	Le 24/02/2001, mise en service d'un puit de dépollution (profondeur 10 mètres).		
+2001	06	15		2001	06	15		recupérer	Celui-ci à dejà permis de recupérer au 15 juin 2001, 8475 litres d'hydrocarbures.	'hydrocarbures'	
+								ont_été_récupérés	Au 06/02/02, 13070 L de produit ont été récupérés.		
+2001	02	21		2001	02	21		a_été_dressé	Un procès verbal a été dressé le 21/02/2001 par l'inspecteur des installations classées à l'encontre de la société STRASBOURG ENERGIE pour exploitation d'une installation classée soumise à autorisation en infraction aux prescriptions fixées par l'arrêté d'autorisation.		'la société STRASBOURG ENERGIE'

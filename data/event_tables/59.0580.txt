@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	06			2013	06			__effective	Par courrier du 9 janvier 2013, l’exploitant a prévenu Monsieur le Préfet de la future cessation d’activité du site de Roubaix, au 8 rue Descartes (effective en juin 2013).		'le Préfet'
+2013	01	09		2013	01	09		a_prévenu	Par courrier du 9 janvier 2013, l’exploitant a prévenu Monsieur le Préfet de la future cessation d’activité du site de Roubaix, au 8 rue Descartes (effective en juin 2013).		'le Préfet'
+2013	12			2013	12			a_été_précisée	Par ailleurs, dans le complément de décembre 2013, la situation hydrogéologique a été précisée grâce à un forage situé à 300m au Nord-Est du site.		
+2013	07	12		2013	07	12		a_été_envoyé	Un dossier complet de juillet 2013 (amendé en décembre 2013), a été envoyé par l’exploitant à Monsieur le Préfet en date du 12 juillet 2013.		'le Préfet'
+2013				2013				l__ouverture	Par ailleurs,l’ouverture de la maison vers la cour du site sera fermée avec des parpaings d’ici la fin 2013.		

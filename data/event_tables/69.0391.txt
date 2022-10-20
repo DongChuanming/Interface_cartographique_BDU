@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								__Des_phases_de_reconnaissances	Des canalisations de dépotage de carburants non étanches ont été mises en évidence en février 2017.  Des phases de reconnaissances de la qualité des milieux sont alors menées en mars, juin et novembre 2017 par AUCHAN.	'carburants'	'par AUCHAN'
+2017	02			2017	02			ont_été_mises_en_évidence	Des canalisations de dépotage de carburants non étanches ont été mises en évidence en février 2017.  Des phases de reconnaissances de la qualité des milieux sont alors menées en mars, juin et novembre 2017 par AUCHAN.	'carburants'	'par AUCHAN'
+2017	11			2017	11			__Des_phases_de_reconnaissances	Des canalisations de dépotage de carburants non étanches ont été mises en évidence en février 2017.  Des phases de reconnaissances de la qualité des milieux sont alors menées en mars, juin et novembre 2017 par AUCHAN.	'carburants'	'par AUCHAN'

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07	04		2011	07	04		un_nouveau_déversement_accidentel	Une nouvelle visite d'inspection a été réalisée le 4 juillet 2011 suite à un nouveau déversement accidentel d'hydrocarbures lié à l'épurateur 4S le 4 juillet 2011.	'hydrocarbures'	
+2011	07	04		2011	07	04		Une_visite_d__inspection_a_été_réalisée	Une visite d'inspection a été réalisée le 11 juillet 2011 afin de faire le point suite au déversement accidentel de solvants qui a eu lieu sur site le 9 mars 2011 et au déversement accidentel d'hydrocarbures qui a eu lieu le 4 juillet 2011.	'hydrocarbures'	
+2005				2005				est_vendue_à	En 2005, la partie fabrication de moquettes est vendue à ENIA devenue TECSOM depuis peu.		'ENIA devenue TECSOM'
+2013	05	24		2013	05	24		Une_visite_d__inspection	Une visite d'inspection a eu lieu le 24 mai 2013.		
+2011	03	10		2011	03	10		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 10 mars 2011 suite à un déversement accidentel de solvants ayant eu lieu sur le site le 9 mars 2011.		
+2012	06	11		2012	06	11		son_diagnostic	Dans son diagnostic de qualité des milieux, transmis le 11 juin 2012, l’exploitant indique que des remblais présents au droit de la zone des épurateurs n°1 et n°2 SV4 (zone difficile d’accès et complexe à traiter sans démanteler les installations) présentent un marquage surfacique aux hydrocarbures (concentrations comprises entre 540 et 1500 mg/kg).	'hydrocarbures'	
+2011	07	06		2011	07	06		a_été_notifié	Un arrêté préfectoral de mesures d'urgence a été notifié à l'exploitant le 6 juillet 2011 afin que celui-ci gère les effluents liquides des deux épurateurs 4S et SV4 et traite les zones polluées aux hydrocarbures autour des deux épurateurs.	'les effluents', 'hydrocarbures'	
+								Un_rapport_circonstancié	Un rapport circonstancié d'incident a été envoyé le 16/12/11 par l'exploitant.		
+2012	02	16		2012	02	16		Un_diagnostic_de_qualité_des_milieux	Un diagnostic de qualité des milieux et un rapport géochronologique ont été envoyés le 16/02/2012 à l'inspection des installations classées.		
+1960				1960				existe	L'usine existe depuis 1960.		
+2011	03	09		2011	03	09		un_déversement_accidentel	Une visite d'inspection a été réalisée le 10 mars 2011 suite à un déversement accidentel de solvants ayant eu lieu sur le site le 9 mars 2011.		
+2011	07	11		2011	07	11		Une_visite_d__inspection_a_été_réalisée	Une visite d'inspection a été réalisée le 11 juillet 2011 afin de faire le point suite au déversement accidentel de solvants qui a eu lieu sur site le 9 mars 2011 et au déversement accidentel d'hydrocarbures qui a eu lieu le 4 juillet 2011.	'hydrocarbures'	
+1997				1997				elle_devient	En 1997, elle devient TARKETT SOMMER puis en 2003 TARKETT.		'TARKETT SOMMER', 'TARKETT'
+2011	07	04		2011	07	04		Une_nouvelle_visite_d_	Une nouvelle visite d'inspection a été réalisée le 4 juillet 2011 suite à un nouveau déversement accidentel d'hydrocarbures lié à l'épurateur 4S le 4 juillet 2011.	'hydrocarbures'	
+2011	03	09		2011	03	09		déversement_accidentel	Une visite d'inspection a été réalisée le 11 juillet 2011 afin de faire le point suite au déversement accidentel de solvants qui a eu lieu sur site le 9 mars 2011 et au déversement accidentel d'hydrocarbures qui a eu lieu le 4 juillet 2011.	'hydrocarbures'	

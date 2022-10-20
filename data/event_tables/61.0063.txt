@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1963				1963				L__exploitation	L'exploitation de l'usine a été autorisée en 1963 (existe depuis 1882).		
+2014	09			2014	09			une_inspection_réalisée	La suite susceptible d'être réservée à l'affaire est l'institution de servitudes et la mise en place d'une surveillance des eaux souterraines (lors d'une inspection réalisée en septembre 2014, il avait été constaté que si le site était encore en activité, beaucoup d'installations avaient déjà été évacuées, le site étant essentiellement utilisé à usage d'entrepôt, pour le taillage de bandes caoutchouc ainsi que pour la maintenance ; la principale installation relevant de la déclaration est un réservoir de propane utilisé pour le chauffage des locaux) : l'élaboration des projets d'arrêtés correspondants est en cours.	'propane'	
+2013				2013				a_été_déposé	Ce dossier a été déposé fin 2013 et comprend un diagnostic de sol et des eaux souterraines.		
+2002	04			2002	04			devient	En avril 2002, devient la S.		'la S.'
+1882				1882				L__exploitation	L'exploitation de l'usine a été autorisée en 1963 (existe depuis 1882).		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09			2000	04			La_réhabilitation	La réhabilitation des terrains a ensuite été menée de septembre 1999 à avril 2000 par mise à nu de la nappe autour du piézomètre où la pollution avait été constatée (excavation de 2000 m3 de terres) et écrémage de celle-ci.		
+1995				1995				a_été_réalisée	Une première phase de mise en sécurité des installations a été réalisée en 1995 suite à l'arrêt d'activité (prinicipalement nettoyage et dégazage des divers réservoirs, consignation de l'alimentation électrique, évacuation de 61 tonnes de déchetsdus à la mise en sécurité).		
+2000				2000				Remise_en_état_du_site	Remise en état du site de l’ancien dépôt pétrolier (Société ELF ANTAR France à LOOS) en 2000		'dépôt pétrolier ( Société ELF ANTAR France'
+1997	06			1997	06			Le_diagnostic_initial	Le diagnostic initial a été réalisé en juin 1997.		
+1998				1998				démantèlement_complet_du_dépôt	Une seconde phase de mise en sécurité a consisté au démantèlement complet du dépôt en 1998 une fois rendue certaine la non réutilisation de celui-ci.		
+2004	10	05		2004	10	05		inspection	05/10/2004 : inspection de la DRIRE, conclusion « ces terres ne peuvent être considérées comme inertes et qu’elles ne peuvent donc pas être valorisées en travaux publics.		'la DRIRE'
+1995	12			1995	12			l__arrêt_des_activités	Suite à l'arrêt des activités en décembre 1995, une étude de sols a mis en évidence la présence d'une pollution par les hydrocarbures dans la nappe d'accompagnement de la rivière voisine (la Deûle).	'hydrocarbures'	
+2004	09			2004	09			réalisé_par	Diagnostic de pollution (prélèvements et analyses de sol) de la zone ex ELF réalisé par AIRELE en septembre 2004 : les concentrations en HCT et en HAP sont très faibles et ne dépassent pas la Valeur de Définition de Source Sol.	'HCT', 'HAP'	'ELF', 'AIRELE'
+1995	12			1995	12			a_mis_en_évidence	Suite à l'arrêt des activités en décembre 1995, une étude de sols a mis en évidence la présence d'une pollution par les hydrocarbures dans la nappe d'accompagnement de la rivière voisine (la Deûle).	'hydrocarbures'	
+1968				1995				a_exploité	La société ELF a exploité de 1968 à 1995 un dépôt pétrolier d'une capacité nominale de 27 436 m3.		'La société ELF'

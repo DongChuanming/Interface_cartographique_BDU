@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04	14		2011	04	14		une_excavation	Le propriétaire des installations a opté pour une excavation de la totalité des terres polluées les 13 et 14 avril 2011 et leur traitement en biocentre.		
+2011	04	14		2011	04	14		leur_traitement_en_biocentre	Le propriétaire des installations a opté pour une excavation de la totalité des terres polluées les 13 et 14 avril 2011 et leur traitement en biocentre.		
+2011	05			2011	05			Une_étude	Une étude des sols et des résultats de surveillance de la qualité de la nappe ont été reçus par les services de l'Administration en mai 2011.		
+2010	06	21		2010	06	21		des_investigations_de_terrain	Dans le cadre de la cessation définitive de l'activité de la société MARCADET, des investigations de terrain ont été menées le 21 juin 2010 ; elles ont consisté à réaliser 3 sondages à la tarière :		'la société MARCADET'
+								leur_traitement_en_biocentre	Le propriétaire des installations a opté pour une excavation de la totalité des terres polluées les 13 et 14 avril 2011 et leur traitement en biocentre.		
+								une_excavation	Le propriétaire des installations a opté pour une excavation de la totalité des terres polluées les 13 et 14 avril 2011 et leur traitement en biocentre.		

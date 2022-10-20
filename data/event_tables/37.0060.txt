@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	09	16		2016	09	16		a_été_constaté	Lors de l’inspection du 16 septembre 2016, il a été constaté que le transformateur PCB avait été éliminé.	'PCB'	
+1997				1997				a_implanté	De plus, c'est à partir de 1997 que la société STIN a implanté une station de traitements des effluents et mis en place un contrôle suivi des rejets.		'la société STIN'
+2017	05	17		2017	05	17		a_indiqué	Par courrier du 17 mai 2017, l'exploitant a indiqué qu'il cherchait à vendre la société.		
+2017	05	12		2017	05	12		une_évaluation_du	Pour ce faire, une évaluation du risque de pollution (phase I) a été réalisée le 12 mai 2017 puis la phase II le 14 novembre 2017 avec le prélèvement de 10 échantillons de sol.		
+1964				1964				était_réalisé	Avant l’implantation de la société STIN en 1993, une activité de traitements de surface était réalisé depuis 1964 par la société NARDEUX.		'la société STIN', 'la société NARDEUX'
+1993				2018				exploite_également	De 1993 à 2018, la société STIN exploite également un atelier de traitement de surface.		'la société STIN'
+2016	09	16		2016	09	16		l__inspection	Lors de l’inspection du 16 septembre 2016, il a été constaté que le transformateur PCB avait été éliminé.	'PCB'	
+1993				1993				l__implantation	Avant l’implantation de la société STIN en 1993, une activité de traitements de surface était réalisé depuis 1964 par la société NARDEUX.		'la société STIN', 'la société NARDEUX'
+1964				1964				une_activité_de_traitements_de_surface	Avant l’implantation de la société STIN en 1993, une activité de traitements de surface était réalisé depuis 1964 par la société NARDEUX.		'la société STIN', 'la société NARDEUX'

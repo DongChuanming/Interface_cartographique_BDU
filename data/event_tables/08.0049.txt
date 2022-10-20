@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1828				1930				ont_été_renommés	Entre 1828 et 1930, les établissements GRUNBERG, LEOL et Cie ont été renommés sous le nom des Etablissements LEON PICARD, LUCIEN SAUERBACH et Cie.		'les établissements GRUNBERG', 'LEOL', 'Etablissements LEON PICARD', 'LUCIEN SAUERBACH'
+2005	02	25		2005	02	25		émit_un_procès_verbal	le 07 juillet 2005,  l'inspection des installations classées émit un procès verbal pour  non-respect de l'arrêté de mise en demeure 25 février 2005.		
+2007	01	11		2007	01	11		fait_réaliser_un_bilan_environnemental	Maitre Brucelle fait réaliser un bilan environnemental le 11 janvier 2007.		
+1999	11	15		1999	11	15		prescrit	Le 15 novembre 1999 un arrêté préfectoral prescrit à l'exploitant de la Fonderie L'UNION, M.		"la Fonderie L' UNION"
+2002	11	07		2002	11	07		ordonne	Le 7 novembre 2002, le tribunal de commerce de Charleville-Mézières ordonne la liquidation judiciaire de la société L'UNION à Renwez et nommant Maitre BRUCELLE mandataire liquidateur de la société.		"la société L' UNION", 'Maitre BRUCELLE'
+								Un_diagnostic_initial	Un diagnostic initial a été réalisé pour l'étape A en février et pour l'étape B en juin 2000.		
+1987				1987				est_reprise	En 1987, la société est reprise par Mr MANGIN, qui pris la direction de la Société PICARD et SAUETBACH FONDERIE DE L'UNION, dont le siege social est implanté à Renwez.		'Mr MANGIN', "la Société PICARD et SAUETBACH FONDERIE DE L' UNION"
+2008	07	03		2008	07	03		est_notifié	Le 3 juillet 2008, un arrêté de restitution des sommes consignées de 1 100 euros est notifié par le préfet, cette somme est remise à Maitre BRUCELLE.		'le préfet', 'Maitre BRUCELLE'
+1993	11	03		1993	11	03		est_notifié	L'arrêté d'autorisation d'exploiter pour la Fonderie L'UNION est notifié par le préfet le 03 novembre 1993.		"la Fonderie L' UNION", 'le préfet'
+2011	06			2011	06			est_remise	En juin 2011, les résultats de l'autosurveillance des eaux souterraines est remise à l'inspection des installations classées.		
+2003	02	25		2003	02	25		est_notifié	Le 25 février 2003, un Arrêté préfectoral complémentaire est notifié par le préfet, il prescrit à Maitre BRUCELLE de réaliser une Evaluation détaillée des Risques et de mettre en place un suivi des eaux souterraines au droit du site.		'le préfet', 'Maitre BRUCELLE'
+2005	04	1		2005	04	1		est_pris	Le 1er avril 2005, un arrêté préfectoral de consignation d'une somme de 15 000 euros est pris afin de pouvoir respecter les conditions de l'arrêté de mise en demeure du 30 janvier 2003.		
+2000	06			2000	06			Un_diagnostic_initial	Un diagnostic initial a été réalisé pour l'étape A en février et pour l'étape B en juin 2000.		
+2008	02	18		2008	02	18		un_arrêté_de_déconsignation_partielle	Le 18 février 2008, un arrêté de déconsignation partielle de 13 900 euros est notifié par le préfet, cette somme est versée à la société SETMIPRO pour servir de garantie à l'exécution des travaux de remise en état du site.		'le préfet', 'la société SETMIPRO'
+2008				2008				la_réalisation	La mairie demande aussi la réalisation le 06 aout 2008 d'un rapport diagnostic déchets avant la destruction de la fonderie de L'UNION.		
+2005	01	21		2005	01	21		un_procès_verbal	Le 21 janvier 2005, l'inspection des installations classées émit un procès verbal pour  non-respect de l'arrêté de mise en demeure du 30 janvier 2003 et de l'arrêté préfectoral complémentaire du 25 février 2003.		
+2003	01	30		2003	01	30		notifie_un_Arrêté_de_mise_en_demeure	Le 30 janvier 2003, le préfet notifie un Arrêté de mise en demeure, qui prescrit à Maitre BRUCELLE de fournir le mémoire de cessation d'activité de la société L'UNION.		'le préfet', 'Maitre BRUCELLE', "la société L' UNION"
+2007	07			2007	07			est_réalisé	En juillet 2007 un plan d'action pour la réhabilitation est réalisé pour le compte de la mairie de la commune de Renwez.		
+2000	07			2000	07			L__évaluation_Simplifiée_des_Risques	L'évaluation Simplifiée des Risques a été réalisé en juillet 2000 et range le site de la décharge en classe 2.		
+1887				1887				est_implantée_sur_le	L'usine est implantée sur le terrain actuel depuis 1887, elle appartenait aux Etablissement GRUNBERG, LEON et Cie.		'Etablissement GRUNBERG'
+								la_réalisation	La mairie demande aussi la réalisation le 06 aout 2008 d'un rapport diagnostic déchets avant la destruction de la fonderie de L'UNION.		
+2003	01	30		2003	01	30		est_pris	Le 1er avril 2005, un arrêté préfectoral de consignation d'une somme de 15 000 euros est pris afin de pouvoir respecter les conditions de l'arrêté de mise en demeure du 30 janvier 2003.		

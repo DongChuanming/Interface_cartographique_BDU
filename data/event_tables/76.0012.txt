@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_été_découvert_après_enquête	Ce Stockage de 1700 tonnes de produits a été réalisé avant 1965 et a été découvert après enquête en 1992 de la gendarmerie sous ordre du Préfet.		'Préfet'
+1994	07			1994	07			Evacuation_et_traitement_des_produits_stockés	- Evacuation et traitement des produits stockés (fin : juillet 1994) dans l'unité pyrométallurgique de Salsigne (SEPS).		'Salsigne', 'SEPS'
+1965				1965				a_été_réalisé	Ce Stockage de 1700 tonnes de produits a été réalisé avant 1965 et a été découvert après enquête en 1992 de la gendarmerie sous ordre du Préfet.		'Préfet'

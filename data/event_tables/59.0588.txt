@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1889	12	1		1889	12	1		délivré	• Le récépissé délivré le 1er décembre 1889 à la SARL Teinturerie Remy Lenfant pour l’exploitation à Hem d’une teinturerie ;		'la SARL Teinturerie Remy'
+1968				1968				est_installé	Le dossier mentionne qu'un dépôt en un seul réservoir aérien de 110 m3 de fuel lourd n°2 est installé depuis 1968.	'fuel lourd'	

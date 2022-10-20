@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				projette	-La Chambre des métiers et de l'artisanat du Nord a un projet d'habitats, et la ville de Lille qui est détentrice d'une partie du terrain projette en 2009, d'établir une cuisine industrielle pour fabrication des repas des cantines scolaires de la ville.		'la ville de Lille'
+1998	06			1998	06			a_été_réalisée	- Une ESR a été réalisée par l'industriel en juin 1998.		
+2001	08	03		2001	08	03		Le_diagnostic_approfondi	- Le diagnostic approfondi et l'Evaluation Détaillée des Risques ont tout de même été réalisés et transmis à la DRIRE le 3 août 2001.		'la DRIRE'
+2009	02			2009	02			Le_pompage	- Le pompage de la lentille d'hydrocarbure a été réalisé en février 2009: pompage puis traitement par filtre à sable et séparateur double à charbon actif, puis réinjections dans la nappe après ajout de peroxyde de calcium afin de renforcer la dégradation bactérienne des hydrocarbures restants.	"la lentille d'", 'hydrocarbure', 'charbon actif', 'peroxyde de calcium', 'hydrocarbures'	
+2009				2009				a	-La Chambre des métiers et de l'artisanat du Nord a un projet d'habitats, et la ville de Lille qui est détentrice d'une partie du terrain projette en 2009, d'établir une cuisine industrielle pour fabrication des repas des cantines scolaires de la ville.		'la ville de Lille'
+1999	03	03		1999	03	03		Le_diagnostic_approfondi	- Le diagnostic approfondi et l'Evaluation Détaillée des Risques ont été imposés par Arrêté Préfectoral du 3 mars 1999.		
+2005	10			2005	10			est_à_nouveau_en_place	.C.), une surveillance est à nouveau en place depuis octobre 2005 par 9 piézomètres.		
+2004	01	29		2004	01	29		a_réformé	- Par jugement du 29 janvier 2004, le Tribunal Administratif de Lille a réformé cet Arrêté Préfectoral, au motif que la pollution aux hydrocarbures ne pouvait provenir des activités de la société Arbel.	'hydrocarbures'	'le Tribunal Administratif de Lille', 'la société Arbel'
+2009	04	27		2009	04	27		__Remise	- Remise d'un rapport de fin de travaux le 27/04/2009.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04	10		2007	04	10		revendu	Le terrain a été acquis par la ville de MELUN le 18 février 2000 et revendu, après démolition des bâtiments, le 10 avril 2007 à la société SOGEPROM, promoteur immobilier.		'la société SOGEPROM'
+1997	12	31		1997	12	31		ont_été_transférées_vers	Les activités ont été transférées vers LES MOULINS DE NEMOURS à NEMOURS, le 31 décembre 1997.		'LES MOULINS DE NEMOURS', 'NEMOURS'
+2007	08	02		2007	08	22		____dépollution	• du 2 août 2007 au 22 août 2007 :  dépollution du site hors emprise des talus		
+2008	02	26		2008	03	11		__excavation	• du 26 février 2008 au 11 mars 2008 : excavation des talus résiduels périphériques.		
+2009	04	15		2009	04	15		a_été_prononcé	Le jugement de clôture après cession de la société a été prononcé le 15 avril 2009.		
+2006	02			2006	02			__une_étude_détaillée_des_risques	En vue de la construction d’un ensemble immobilier à usage de logements, et afin de  s’assurer de la compatibilité du projet avec l’état du site, une étude détaillée des risques (EDR) pour la ressource en eau et pour la santé, a été réalisée en février 2006.		
+2000	02	18		2000	02	18		l__emprise_foncière	La ville de MELUN  a acquis l'emprise foncière le 18 février 2000.		'La ville de MELUN'
+1997	04	28		1997	04	28		a_été_déclarée_en_redressement_judiciaire	La société a été déclarée en redressement judiciaire le 28 avril 1997.		
+2000	02	18		2000	02	18		a_été_acquis	Le terrain a été acquis par la ville de MELUN le 18 février 2000 et revendu, après démolition des bâtiments, le 10 avril 2007 à la société SOGEPROM, promoteur immobilier.		'la société SOGEPROM'

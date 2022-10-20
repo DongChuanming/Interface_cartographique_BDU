@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+78500				78500				Sa_capacité_de_production	Sa capacité de production est de 78500 tonnes/an de polymère et de 45 tonnes/jour de films Polyester.	'polymère'	'films Polyester'
+1922				1922				est_exploité	Ce site industriel d'une surface de 20 ha est exploité depuis 1922.		
+2006	12			2006	12			a_été_instruite	L'ESR a été instruite en décembre 2006.		"L' ESR"

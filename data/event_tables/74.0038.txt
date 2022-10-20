@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	04			2011	04			avait_été_constaté_sur	Le dépassement limité et ponctuel (480 µg/L en benzène) qui avait été constaté sur l'ouvrage PZ3 en avril 2011 n'a pas pu être contrôlé car l'ouvrage (comme PZ2, PZ3, PZ4, PZ7, PZ8, PZ9, PZ'1, PZ'2, PZ'3, S5 et S7) a été détruit au cours des travaux de modernisation du site.	'benzène'	
+2003	01			2003	01			une_tranchée_sont_apparues	A l’occasion des travaux d’assainissement préalables à l’aménagement d’un rond-point pour accéder à l’hypermarché, des arrivées importantes d’hydrocarbures dans une tranchée sont apparues fin janvier 2003.	'hydrocarbures'	
+2008	11			2008	11			ont_été_demandées	Suite à cette présentation, des investigations complémentaires ont été demandées (en novembre 2008) par l'administration :		
+2003	02	19		2003	02	19		pris	L’arrêté préfectoral pris le 19/02/2003 a prescrit également la mise en œuvre des dispositions nécessaires à l’élimination des eaux polluées par les hydrocarbures, au stockage et à l’élimination des terres excavées.	'hydrocarbures'	
+2010	03			2010	03			a_été_complété	Dans le cadre du suivi environnemental, le réseau de surveillance des eaux souterraines a été complété par 2 ouvrages installés hors site en aval hydraulique, en mars 2010.		
+2008	10			2008	10			ont_été_présentés	Ces résultats ont été présentés à l'inspection des installations classées en octobre 2008.		
+2002	02	18		2002	02	18		la_cessation_de_l__activité	L’exploitant a déclaré la cessation de l’activité de cette station et son démantèlement le 18/02/2002.		
+2004				2006				Des_travaux	Des travaux (excavation de terres + pompage/écrémage) ont été réalisés entre 2004 et 2006 dans le cadre de l'arrêté préfectoral du 20/10/2004.		
+2010	03			2010	03			a_été_créé	Par ailleurs, un réseau de surveillance des gaz du sol (sur site et hors site) a été créé en mars 2010.		

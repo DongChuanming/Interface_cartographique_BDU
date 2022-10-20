@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	02			2013	02			Des_études_ont_été_réalisées	Des études ont été réalisées par l'exploitant depuis 2004 afin de caractériser la pollution, évaluer son impact et proposer des actions de correction (plan de gestion - février 2013)		
+2004				2004				Des_études_ont_été_réalisées	Des études ont été réalisées par l'exploitant depuis 2004 afin de caractériser la pollution, évaluer son impact et proposer des actions de correction (plan de gestion - février 2013)		
+				2012	07	12		Les_dernières_visites_d__inspections	Les dernières visites d'inspections ont été réalisées le 23 mars 2011 et le 12 juillet 2012 et portaient respectivement sur la situation administrative et les rejets (aqueux et atmosphériques) ainsi que sur les risques technologiques.		
+2011	03	23		2011	03	23		Les_dernières_visites_d__inspections	Les dernières visites d'inspections ont été réalisées le 23 mars 2011 et le 12 juillet 2012 et portaient respectivement sur la situation administrative et les rejets (aqueux et atmosphériques) ainsi que sur les risques technologiques.		

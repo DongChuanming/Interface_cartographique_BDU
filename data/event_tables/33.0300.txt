@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06			2007	06			La_campagne	La campagne de juin 2007 montre une altération sensible de la nappe superficielle avec une teneur importante en ammonium, sulfates et métaux (arsenic, nickel, mercure).	'ammonium', 'sulfates', 'métaux', 'arsenic', 'nickel', 'mercure'	
+1975	09	12		1975	09	12		a_lieu	La reprise de l'activité a lieu le 12 septembre 1975 suite à une ordonnance du conseil d'état.		
+2006	01			2006	01			des_campagnes_d__analyses	Suite à l'ESR réalisée en 2005, des campagnes d'analyses des eaux souterraines ont été effectuées en janvier 2006, août 2006 et juin 2007.		
+2005	08	19		2005	08	19		a_été_remise	Cette étude a été remise le 19 août 2005.		
+2004	09	27		2004	09	27		une_Évaluation_Simplifiée_des_Risques	Suite à la demande par courrier de la préfecture du 27 septembre 2004, la société ARCADIS a fourni, pour le compte de l'exploitant,une Évaluation Simplifiée des Risques (ESR) pour la décharge de « La Rafette ».		'la société ARCADIS'
+2007	06			2007	06			des_campagnes_d__analyses	Suite à l'ESR réalisée en 2005, des campagnes d'analyses des eaux souterraines ont été effectuées en janvier 2006, août 2006 et juin 2007.		
+2006	08			2006	08			des_campagnes_d__analyses	Suite à l'ESR réalisée en 2005, des campagnes d'analyses des eaux souterraines ont été effectuées en janvier 2006, août 2006 et juin 2007.		
+1974				1974				exploitée	Ancienne décharge d’ordures ménagères et de déchets assimilés exploitée à partir de 1974 par la STMB devenu ONYX AQUITAINE sur la commune de Saint-Loubès (33).		'la STMB devenu ONYX AQUITAINE'
+								a_transmis	Le 3 août l'autorité environnementale a transmis son avis concernant la demande de permis de construire relatif au projet de centrale photovoltaïque de la société du parc photovoltaïque de la Raffete. (cf Situation technique).		'la société du parc photovoltaïque', 'de la Raffete'
+2014	12			2014	12			La_campagne_de	La campagne de décembre 2014 montre que il y a eu une altération pour les valeurs de COT, ammonium, sulfates et mercure.	'COT', 'ammonium', 'sulfates', 'mercure'	
+1963				1977				exploitées	Cette décharge correspond à d'anciennes gravières exploitées entre 1963 et 1977.		
+1974	07	25		1974	07	25		annule	Le 25 juillet 1975, le tribunal administratif annule l'arrêté d'autorisation du 25 juillet 1974.		
+2012	05			2012	05			reçoit	En mai 2012, la DREAL reçoit un courrier relatif à un projet de parc photovoltaïque sur le site.		'la DREAL'
+2005				2005				des_campagnes_d__analyses	Suite à l'ESR réalisée en 2005, des campagnes d'analyses des eaux souterraines ont été effectuées en janvier 2006, août 2006 et juin 2007.		
+1995	04			1995	04			prend_le_nom	En avril 1995, la STMB prend le nom de ONYX AQUITAINE, depuis devenu VEOLIA Propreté.		'la STMB', 'ONYX AQUITAINE', 'VEOLIA Propreté'
+								fut_exploitée_illicitement	Durant les années 1980, une partie du site fut exploitée illicitement en dépôt de ferraille.		
+1975	07	25		1975	07	25		annule	Le 25 juillet 1975, le tribunal administratif annule l'arrêté d'autorisation du 25 juillet 1974.		
+1974	07	25		1974	07	25		a_été_autorisée	La décharge a été autorisée par arrête préfectoral du 25 juillet 1974.		

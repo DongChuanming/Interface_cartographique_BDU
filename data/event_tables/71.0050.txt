@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02			2008	12			travaux_ont_été_réalisées	De février 2007 à décembre 2008, plusieurs études et travaux ont été réalisées :		
+2007	01			2007	01			Des_travaux_de_dépollution_complémentaires	Des travaux de dépollution complémentaires visant la suppression des sources de pollution ont été menés en janvier 2007.		
+2009				2011				les_campagnes_de_surveillance	De 2009 à 2011, les campagnes de surveillance se sont poursuivies grâce à un total de 8 ouvrages de surveillance répartis sur l'emprise du site (PZ1 et 2, PZA, un puits et un puits perdu) et la parcelle située immédiatement à l'est du site (PZ3, 4 et 5).		
+2012	04			2012	04			un_état_zéro	En avril 2012, un état zéro de la qualité des eaux souterraines a été réalisé et un traitement de la nappe phréatique par bio-stimulation et bio-augmentation a été initié au droit des 2 piézomètres situés à l'aval hydraulique immédiat du site.		
+2016	08			2016	08			une_analyse_des_risques_résiduels	En août 2016, une analyse des risques résiduels (ARR) , au droit du site ,a été réalisé à partir des résultats de la campagne de surveillance des gaz du sol.		
+2014	08			2014	08			des_travaux_de___dépollution	En août 2014 , des travaux de  dépollution complémentaire ont été réalisés :		
+2017	05	18		2017	05	18		ont_été_remblayés	Le 18 mai 2017 , les ouvrages de surveillance et du drain au droit et en aval du site ont été remblayés en respectant la norme NF X 10-999 d'avril 2007 et recouverts d'une galette de ciment.		
+2017	03			2017	03			des_prélèvements	En mars 2017, des prélèvements supplémentaires des gaz du sol ont été réalisés , 2 cannes gaz ont été réalisées en aval immédiat du site.		
+2013	07			2013	07			la_campagne	Le suivi des puits particuliers initié en octobre 2010 s'est de ce fait achevé avec la campagne de juillet 2013.		
+2013	07			2013	07			s__est_de_ce_fait_achevé	Le suivi des puits particuliers initié en octobre 2010 s'est de ce fait achevé avec la campagne de juillet 2013.		
+2010	10			2010	10			initié	Le suivi des puits particuliers initié en octobre 2010 s'est de ce fait achevé avec la campagne de juillet 2013.		
+2005	07			2005	07			Le_démantèlement_de	Le démantèlement de la station a été effectuée en juillet 2005.		
+2006	10			2006	10			un_diagnostic_complémentaire_des_sols	Suite à ces constats, un diagnostic complémentaire des sols a été réalisé en octobre 2006.		
+2008				2008				les_dernières_campagnes_de_suivi	Les teneurs en benzène sont inférieures aux valeurs seuils réglementaires pour les dernières campagnes de suivi de 2008.	'benzène'	
+2014	11			2016	01			a_été_réalisé	De novembre 2014 à janvier 2016 , un suivi trimestriel puis semestriel depuis juillet 2015 a été réalisé.		

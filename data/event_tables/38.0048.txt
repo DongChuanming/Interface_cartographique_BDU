@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	22		2012	05	22		La_dernière_en_date	La dernière en date a été effectuée le 22/05/2012.		
+2007	10	31		2007	10	31		un_rapport	A la demande de l’Inspection des Installations Classées, ces investigations ont été réalisées par le bureau d’étude SOGREAH qui en rend compte dans un rapport daté du 31/10/2007.		'SOGREAH'
+2011	07	1		2011	07	1		change_de_nom	Le 1er juillet 2011, la société WHEELABRATOR ALLEVARD change de nom pour devenir WINOA.		'la société WHEELABRATOR ALLEVARD', 'WINOA'
+2000	06	20		2000	06	20		à_été_rédigé	Un rapport préliminaire reprenant l’historique du site à été rédigé par le bureau d’étude URS en date du 20/06/2000.		'URS'
+1986	05			1986	05			a_entraînée_une_pollution_de	En mai 1986, une fuite de fuel domestique sur une conduite d’alimentation de la chaudière a entraînée une pollution de la nappe phréatique.	'fuel domestique'	
+1961				1961				étaient_pas_exploités	Avant 1961, les terrains, alors appartenant aux HAUTS FOURNEAUX ET FORGES D'ALLEVARD, n’étaient pas exploités.		"HAUTS FOURNEAUX ET FORGES D' ALLEVARD"
+2007	10	31		2007	10	31		ces_investigations_ont_été_réalisées	A la demande de l’Inspection des Installations Classées, ces investigations ont été réalisées par le bureau d’étude SOGREAH qui en rend compte dans un rapport daté du 31/10/2007.		'SOGREAH'
+1996	04	03		1996	04	03		la_réalisation	L’arrêté préfectoral du 01/12/1998 a imposé à l’exploitant la réalisation des études demandées par la circulaire du 03/04/1996.		
+1961	11			1961	11			La_création	La création de WHEELABRATOR ALLEVARD date du mois de novembre 1961 et de la fusion de la société BELL avec les HAUTS FOURNEAUX ET FORGES D'ALLEVARD.		'WHEELABRATOR ALLEVARD', 'la société BELL', "les HAUTS FOURNEAUX ET FORGES D' ALLEVARD"
+2013	05	22		2013	05	22		ont_été_réalisées	Au 22/05/2013, 25 campagnes de suivi des eaux souterraines ont été réalisées.		
+2004				2004				un_suivi_trimestriel	Les eaux souterraines ont quant à elle fait l’objet d’un suivi trimestriel depuis le second trimestre 2004.		
+1961	11			1961	11			la_fusion	La création de WHEELABRATOR ALLEVARD date du mois de novembre 1961 et de la fusion de la société BELL avec les HAUTS FOURNEAUX ET FORGES D'ALLEVARD.		'WHEELABRATOR ALLEVARD', 'la société BELL', "les HAUTS FOURNEAUX ET FORGES D' ALLEVARD"

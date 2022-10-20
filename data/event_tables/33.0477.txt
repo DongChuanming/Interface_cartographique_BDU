@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				une_demande_d__un	A la suite du diagnostic présenté dans le mémoire de cessation d'activité en 2003, une demande d'un plan d'action a été faite par courrier du préfet en date du 11 octobre 2004.		
+2018	07	12		2018	07	12		la_visite	Suite à la visite de l'Inspection des Installations Classées du 12 juillet 2018, il a été constaté vis-à-vis des travaux:		
+2003	02	06		2003	02	06		a_été_déposé	Suite à la visite d'inspection du 6 février 2003, un dossier de cessation d'activités a été déposé par l'exploitant.		
+2018	02			2018	02			rapport	Après plusieurs relances, un rapport complémentaire a été fourni en mai 2017 puis en mars 2018 (rapport datant de février 2018).		
+2003	02	06		2003	02	06		la_visite	Suite à la visite d'inspection du 6 février 2003, un dossier de cessation d'activités a été déposé par l'exploitant.		
+2000	03			2000	03			__a_été_signée	En mars 2000, une convention d’occupation  a été signée entre  le propriétaire et la SA DOUENCE, pour l’exercice par la SA DOUENCE sur le site d’ «activités de stockage de marc, vin et lie».		'et la SA DOUENCE', 'par la SA DOUENCE'
+2018				2018				a_été_remise_en_état	Enfin, fin 2018, la clôture a été remise en état et la mise en sécurité a ainsi été finalisée.		
+1983	05	04		1983	05	04		a_fait_l__objet_d_	L’établissement OUVRARD de GENISSAC, exploité en Société Anonyme d’Exploitation (SAE) depuis 1985, a fait l’objet d’un Arrêté Préfectoral d’autorisation d’exploiter le 04 mai 1983.		'OUVRARD'
+2018	07	12		2018	07	12		la_visite	Suite à la visite de l'Inspection des Installations Classées du 12 juillet 2018, il a été constaté :		
+2017	05			2017	05			a_été_fourni	Après plusieurs relances, un rapport complémentaire a été fourni en mai 2017 puis en mars 2018 (rapport datant de février 2018).		
+2003				2003				La_cessation_d__activité	La cessation d’activité ayant été débuté en 2003, l’usage futur du site est un usage industriel.		
+2017	05			2017	05			a_procédé	Lors du diagnostic de mai 2017, le bureau d'études a procédé à la pose et au prélèvement d’un nouvel ouvrage piézométrique, PZ1, captant la nappe des alluvions et situé au plus près de la zone excavée.		
+2003	05	26		2003	05	26		La_phase_d__investigations	La phase d’investigations de cette étude a été réalisée le 26 mai 2003 et a consisté en la réalisation :		
+2018	09	18		2018	09	18		a_notifié	Par courriel datant du 18 septembre 2018, l'exploitant a notifié à l'Inspection des Installations Classées :		
+				1999				s__est_poursuivie	L’activité de distillerie s’est poursuivie jusqu’en 1999.		
+2017	11	27		2017	11	27		éliminée_hors_site	La totalité des terres excavées a été chargée en camions bennes et éliminée hors site vers l’ISDND de Lapouyade le 27 novembre 2017.		'l’ ISDND'
+2019	03	15		2019	03	15		des_travaux_réalisés	Aussi, dans le procès-verbal de constat des travaux réalisés du 15 mars 2019, l’inspection note qu’une servitude d’utilité publique va être proposée afin de garder en mémoire la pollution résiduelle en hydrocarbures en limite de terrain.	'hydrocarbures'	
+2004	10	11		2004	10	11		une_demande_d__un	A la suite du diagnostic présenté dans le mémoire de cessation d'activité en 2003, une demande d'un plan d'action a été faite par courrier du préfet en date du 11 octobre 2004.		
+2017	05			2017	05			du_diagnostic	Lors du diagnostic de mai 2017, le bureau d'études a procédé à la pose et au prélèvement d’un nouvel ouvrage piézométrique, PZ1, captant la nappe des alluvions et situé au plus près de la zone excavée.		

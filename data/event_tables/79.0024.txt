@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1939				1951				a_été_occupé	Ce site de 5,6 ha a été occupé par la société TUDOR, de 1939 à 1951, pour la fabrication de batteries et d'accumulateurs.		'la société TUDOR'
+2005				2005				plusieurs_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, plusieurs diagnostics environnementaux ont été réalisés en 2002, 2003, 2005 afin d'estimer la pollution et le chiffrage de la dépollution.		
+2016	02			2016	02			des_investigations_complémentaires	En février 2016, des investigations complémentaires (sol et eaux souterraines) ont été effectuées par le bureau d'études Galtier Expertise Environnement pour la SEITA.		'la SEITA'
+1986	01	31		1986	01	31		a_effectué_les_démarches_de_déclaration	Lorsque la société SEITA a effectué les démarches de déclaration aux installations classées le 31 janvier 1986, bien qu'aucun acte administratif n'ait été retrouvé, les activités déclarées relevaient à cette date du régime d'autorisation, au titre de la rubrique n°391 de la nomenclature des installations classées alors en vigueur.		'la société SEITA'
+2016	05	23		2016	05	23		un_arrêté_de_mise_en_demeure_a_été_pris	Les services de l'état n'ayant pas reçu tous les documents attendus pour une cessation d'activité, un arrêté de mise en demeure a été pris en date du 23 mai 2016, en application des articles L171-6 et L514-5 du Code de l'Environnement.		"Les services de l'"
+1951				1998				a_été_exploité	Par la suite, il a été exploité, de 1951 à 1998, par la société SEITA (toujours propriétaire du site) pour le traitement des feuilles de tabac.		'la société SEITA'
+1998				1998				a_été_démoli	L'ensemble des bâtiments a été démoli en 1998.		
+2002				2002				plusieurs_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, plusieurs diagnostics environnementaux ont été réalisés en 2002, 2003, 2005 afin d'estimer la pollution et le chiffrage de la dépollution.		
+2005				2005				est_laissé_en_l__état	Le site est laissé en l'état depuis 2005.		
+2013				2013				une_évaluation	En 2013, dans le cadre d'un projet d'aménagement d'une ZAC, la mairie de Niort a fait réaliser une évaluation de la qualité des sols par le bureau d'études ECR Environnement.		'ECR Environnement'
+2003				2003				plusieurs_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, plusieurs diagnostics environnementaux ont été réalisés en 2002, 2003, 2005 afin d'estimer la pollution et le chiffrage de la dépollution.		
+1998				1998				l__arrêt_des_activités	Aucune procédure de cessation d'activité n'a été engagée selon les dispositions du Code de l'Environnement lors de l'arrêt des activités en 1998.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				a_proposé_un_traitement	En 1997, la société Schisler, en relation avec Sarp Industries, a proposé un traitement par inertage des terres souillées.		'la société Schisler', 'Sarp'
+2008				2008				Les_dernières_analyses_semestrielles_éffectuées	Les dernières analyses semestrielles éffectuées en 2008 confirment le		
+1997	12	12		1997	12	12		a_demandé	L'inspection a demandé à l'exploitant, par courrier du 12 décembre 1997, qu'une surveillance semestrielle de la nappe soit réalisée.		
+1994				1994				a_demandé	Début 1994, dans le cadre d'une autorisation d'extension de l'usine, l'inspection a demandé à la société Schisler de proposer une solution de mise en sécurité des anciennes fosses de stockage d'encre.	"des anciennes fosses de stockage d'"	'la société Schisler'

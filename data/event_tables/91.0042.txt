@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Ces_études_ont_été_déposées	Ces études ont été déposées le 18 /10/2000 et ont été validées par l\'administration.		
+1994	03	15		1994	03	15		sont_encadrées	Les activités de la société sont encadrées par l\'arrêté préfectoral du 15/03/1994.		
+2000	10			2000	10			Ces_études_ont_été_déposées	Ces études ont été déposées le 18 /10/2000 et ont été validées par l\'administration.		
+1998	10	28		1998	10	28		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 28 octobre 1998.		
+1952				1952				a_été_créée	La société SZRETTER à Morsang sur Orge a été créée en 1952.		'La société SZRETTER'

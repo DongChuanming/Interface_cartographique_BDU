@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	26		2011	10	26		a_été_excavée	Afin de réaménager le site en parking, une partie des terres, estimée à 200 m3, a été excavée les 25 et 26 octobre 2011, sans que les objectifs de dépollution aient été préalablement définis.		
+2010	11			2010	11			Des_diagnostics_de_pollution	Des diagnostics de pollution ont été réalisés en novembre 2010 et en novembre 2011.		
+								a_été_excavée	Afin de réaménager le site en parking, une partie des terres, estimée à 200 m3, a été excavée les 25 et 26 octobre 2011, sans que les objectifs de dépollution aient été préalablement définis.		
+2013	05	24		2013	05	24		a_reçu	La sous-préfecture d'Arcachon a reçu le 24 mai 2013 un dossier qui présente le plan de gestion des terres excavées (voir 3 - TRAVAUX) et le schéma conceptuel de transmission de la pollution.		"La sous-préfecture d' Arcachon", 'TRAVAUX'
+2012	12	12		2012	12	12		reçu	Le dossier de cessation d'activité, reçu le 12 décembre 2012, décrit les mesures de mise en sécurité qui ont été réalisées en 2010 :		
+2013	03			2013	03			sont_quantifiés	En mars 2013, les hydrocarbures C10-C40 sont quantifiés dans les andains à des teneurs inférieures au seuil d'acceptation dans les installations de stockage des déchets inertes.	'hydrocarbures C10-C40'	
+2010	06	23		2010	06	23		ont_cessé	Les activités ont cessé le 23 juin 2010.		
+1987	08	18		1987	08	18		a_fait_l__objet_d_	Le site a fait l'objet d'un récépissé de déclaration le 18 août 1987.		
+2011	11			2011	11			Des_diagnostics_de_pollution	Des diagnostics de pollution ont été réalisés en novembre 2010 et en novembre 2011.		
+2011				2011				les_diagnostics	Lors de la réalisation du parking, les piézomètres réalisés pour les diagnostics de 2010 et 2011 ont été détruits.		
+2013	07	04		2013	07	04		s__est_engagé_à_excaver	Par courrier du 4 juillet 2013, l'exploitant s'est engagé à excaver les terres polluées laissées en place, à réaliser un plan de gestion pour ces travaux et à communiquer ces informations aux services de l'état.		
+2010				2010				décrit_les_mesures_de_mise_en_sécurité	Le dossier de cessation d'activité, reçu le 12 décembre 2012, décrit les mesures de mise en sécurité qui ont été réalisées en 2010 :		
+2010				2010				les_diagnostics	Lors de la réalisation du parking, les piézomètres réalisés pour les diagnostics de 2010 et 2011 ont été détruits.		
+2012	10			2012	10			Les_analyses	Les analyses d'eau dans le Cirès, réalisées en octobre 2012, montrent l'absence d'impact de l'ancienne station service sur ce ruisseau.		
+2012	12	03		2012	12	03		a_transmis	L'exploitant a transmis le dossier de cessation d'activité le 3 décembre 2012 qui reprend les études précédentes.		

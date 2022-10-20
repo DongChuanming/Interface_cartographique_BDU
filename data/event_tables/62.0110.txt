@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1836				1929				a_accueilli	Il a accueilli pendant 93 ans, de 1836 à 1929, une usine fabriquant du gaz à partir de la distillation de la houille.		
+								a_été_démolie	La centrale électrique a été démolie à la fin des années 1970.		
+1961				1975				ont_été_démolis	La plupart des anciens bâtiments ont été démolis entre 1961 et 1975.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz, entre le Ministère de l'Environnement et Gaz de France, signé le 25 Avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+								a_accueilli	Il a accueilli pendant 93 ans, de 1836 à 1929, une usine fabriquant du gaz à partir de la distillation de la houille.		
+1894				1957				a_également_abrité	Parallèlement, entre 1894 et 1957, le site a également abrité une usine de production électrique.		

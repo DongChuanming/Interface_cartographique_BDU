@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				a_été_classé	2007 : Le site a été classé comme étant "à surveiller".		
+2012				2012				impose_la_réalisation_d__une_cartographie	2012 : un arrêté complémentaire du 25/07/2012 impose la réalisation d'une cartographie de l'étendue du panache de polluants, et le suivi de la surveillance de la qualité des eaux de nappes par l'intermédiaire des 5 piézomètres installés hors site pour les paramètres tétrachloroéthylène (PER), trichloroéthylène (TCE), cis-1,2-dichloroéthylène (DCE) et chlorure de vinyle (CV).	'polluants', 'tétrachloroéthylène', 'PER', 'trichloroéthylène', 'TCE', 'cis-1,2-dichloroéthylène', 'DCE', 'chlorure de vinyle', 'CV'	
+1999	03			1999	03			du_diagnostic_initial_transmis	La phase A du diagnostic initial transmis à l'administration en mars 1999, conclut qu'il n'y a pas lieu de procéder à des investigations complémentaires.		
+								au_plus	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques devait être transmise à l'administration au plus tard le 31/12/99.		
+2008				2008				a_été_arrêté	Le traitement de surface des métaux réalisé sur ce site a été arrêté en 2008.		
+1997				1997				disposait_d_	La société disposait d'une station de traitement des effluents issus du traitement de surface qui a été arrêtée en 1997.	'effluents'	
+1997				1997				a_été_arrêtée	La société disposait d'une station de traitement des effluents issus du traitement de surface qui a été arrêtée en 1997.	'effluents'	
+1998	01	23		1998	01	23		ont_été_imposés_par_arrêté	Ils ont été imposés par arrêté du 23/01/1998.		
+								nouvel_AP_d__autorisation	2008 : (06/03) nouvel AP d'autorisation demandant la définition des mesures de gestion du site, ainsi qu'une caractérisation de l'état des milieux.		

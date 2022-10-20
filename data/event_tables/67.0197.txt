@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				Les_analyses_effectuées	Les analyses effectuées en 2013 montrent : des teneurs en aluminium et en fer largement supérieures aux normes de potabilité avec une concentration de 1740 ug/l pour l'aluminium alors que la limite de qualité est fixée à 200 ug/l et une concentration en fer de 2720 ug/l pour une limite fixée à 200 ug/l.	'aluminium', 'fer', 'aluminium', 'fer'	
+2006	11			2006	11			Une_étude_hydrogéologique	Une étude hydrogéologique réalisée en novembre 2006 a permis l'implantation d'un piézomètre en limite sud est du site (en aval).		

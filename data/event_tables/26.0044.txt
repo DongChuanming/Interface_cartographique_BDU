@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	11		2003	02	11		des_campagnes_d__analyses	En application d'un arrêté préfectoral du 11 février 2003, la commune de Rochegude a réalisé en 2003-2004 des campagnes d'analyses des eaux souterraines et a élaboré une servitude conventionnelle au profit de l’État.		
+2004				2004				des_campagnes_d__analyses	En application d'un arrêté préfectoral du 11 février 2003, la commune de Rochegude a réalisé en 2003-2004 des campagnes d'analyses des eaux souterraines et a élaboré une servitude conventionnelle au profit de l’État.		
+1983				1983				est_réservée	A partir de 1983, la décharge est réservée aux seuls gravats et déblais divers ; le site sert de lieu de transfert pour les ordures ménagères.		
+1994				1994				a_été_réaménagé	Depuis 1994 le site a été réaménagé par création d’un quai de transfert avec 3 bennes pour les ordures ménagères, les déchets métalliques et les encombrants.	'les ordures ménagères', 'les déchets métalliques'	
+2003				2003				des_campagnes_d__analyses	En application d'un arrêté préfectoral du 11 février 2003, la commune de Rochegude a réalisé en 2003-2004 des campagnes d'analyses des eaux souterraines et a élaboré une servitude conventionnelle au profit de l’État.		
+1959				1959				a_été_clôturée	Cette décharge a été clôturée dès 1959 par mesure de sécurité.		

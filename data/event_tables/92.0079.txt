@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973	12	04		1973	12	04		de_déclaration	Le site était occupé par une station-service comprenant 3 cuves de carburants exploitée depuis 1973 et soumise à déclaration au titre de la législation relative aux installations classées (récépissé de déclaration du 04/12/1973).	'carburants'	'service comprenant'
+2010	06	08		2010	06	08		a_notifié_la_cessation_de_ses_activités	L'exploitant a notifié la cessation de ses activités le 8 juin 2010.		
+2014	03			2014	03			la_dernière_campagne_de_surveillance	Le 21 juillet 2014, l’exploitant a transmis un rapport de fin de travaux de dépollution du site ainsi que les résultats de la dernière campagne de surveillance de la qualité des eaux souterraines réalisée en mars 2014, après le traitement des eaux.		
+2012	04			2012	04			Les_travaux_d__écrémage	Les travaux d'écrémage du surnageant et de traitement des eaux souterraines ont débuté en avril 2012 et se sont achevés en mai 2014.	'surnageant'	
+2014	05			2014	05			Les_travaux_d__écrémage	Les travaux d'écrémage du surnageant et de traitement des eaux souterraines ont débuté en avril 2012 et se sont achevés en mai 2014.	'surnageant'	
+2012	07			2013	11			Des_travaux_d__extraction	Des travaux d'extraction et traitement de l'air du sol ont été menés de juillet 2012 à novembre 2013.		
+2011	07	06		2011	07	06		un_diagnostic	Le 6 juillet 2011, BP FRANCE a transmis un diagnostic du site, une évaluation des risques sanitaires et un plan de gestion.		'BP FRANCE'
+1973				1973				exploitée	Le site était occupé par une station-service comprenant 3 cuves de carburants exploitée depuis 1973 et soumise à déclaration au titre de la législation relative aux installations classées (récépissé de déclaration du 04/12/1973).	'carburants'	'service comprenant'
+2012	04	24		2014	05	27		Les_opérations_de_traitement	Les opérations de traitement ont été menées du 24/04/2012 au 27/05/2014.		
+2011	01			2011	01			a_transmis	Il a transmis, en janvier 2011, le rapport des travaux de démantèlement des installations.		
+								a_transmis	Le 1er et le 17 octobre 2014, l'exploitant a transmis un bilan final des opérations, une analyse des risques sanitaires résiduels et une interprétation de l'état des milieux.		
+				2014	10	17		a_transmis	Le 1er et le 17 octobre 2014, l'exploitant a transmis un bilan final des opérations, une analyse des risques sanitaires résiduels et une interprétation de l'état des milieux.		
+2014	05			2014	05			se_sont_achevés	Les travaux d'écrémage du surnageant et de traitement des eaux souterraines ont débuté en avril 2012 et se sont achevés en mai 2014.	'surnageant'	
+2015	07			2015	07			la_campagne_de_surveillance	Les résultats de la campagne de surveillance des eaux souterraines de juillet 2015 ont confirmé l'absence de phase hydrocarburée surnageante sur les 4 ouvrages de surveillance et un impact localisé en partie Sud-Est du site en BTEX et hydrocarbures.	'hydrocarburée', 'BTEX', 'hydrocarbures'	
+2014	07	21		2014	07	21		a_transmis	Le 21 juillet 2014, l’exploitant a transmis un rapport de fin de travaux de dépollution du site ainsi que les résultats de la dernière campagne de surveillance de la qualité des eaux souterraines réalisée en mars 2014, après le traitement des eaux.		

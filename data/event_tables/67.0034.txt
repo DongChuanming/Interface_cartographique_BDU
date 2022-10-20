@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1998	07			ont_fonctionné	Ces installations ont fonctionné jusqu'en juillet 1998, avec des interruptions (technique d'alternance permettant un meilleur rendement), et ont permis d'extraire plus de 140 Kg de Trichloréthylène sur les 2 sites.	'Trichloréthylène'	
+1994				1994				mise_en_évidence	La situation, mise en évidence en 1994, se caractérise par une pollution des sols et des eaux souterraines par des COHV principalement, dont du Trichloréthylène(TCE).	'des COHV principalement', 'du Trichloréthylène(TCE'	
+								a_été_mise_en_place	Une installation de traitement des sols par venting a été mise en place le 18/03/97 au voisinage de la station de dégraissage, et une autre a été mise en place le 08/07/97 sur le site dit prototype .		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	10			1994	10			ne_recoit_plus_de_déchets	Le site ne recoit plus de déchets contenant du chrome depuis octobre 1994, et plus aucun déchet depuis le 6 novembre 1995.	'chrome'	
+1994	10			1994	10			remis_en_état	Le site a été progressivement remis en état d'octobre 1994 à mars 1997 en application de plusieurs arrêtés préfectoraux.		
+1994				1994				suintements_observés	La qualité du sol est satisfaisante et les suintements observés en 1994 ont été colmatés (aucune fuite n'a été observée depuis).		
+1997	03			1997	03			remis_en_état	Le site a été progressivement remis en état d'octobre 1994 à mars 1997 en application de plusieurs arrêtés préfectoraux.		

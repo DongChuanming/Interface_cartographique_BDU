@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	04			2005	04			Les_travaux_de_dépollution	Les travaux de dépollution ont commencé en avril 2005 par l'excavation de terres souillées.		
+2005	01	17		2005	01	17		ont_été_transmis	Enfin les résultats d'analyses complémentaires concernant les sols situés à proximité du site mais en dehors de son emprise ont été transmis le 17 janvier 2005.		
+2004	09	03		2004	09	03		à_mis_en_demeure	Compte tenu des lacunes importantes du document, le préfet à mis en demeure la société METRIX de les compléter, par arrêté du 3 septembre 2004.		'le préfet', 'la société METRIX'
+2005	07			2005	07			a_été_mis_en_place	Le traitement des eaux souterraines a été mis en place en juillet 2005.		
+2000	03	23		2000	03	23		a_été_transmis	Le dossier a été transmis le 23 mars 2000.		
+2004	07	30		2004	07	30		a_été_transmise	Une première version du diagnostic approfondi et de l'évaluation détaillée des risques a été transmise le 30 juillet 2004.		
+2005	04	12		2005	04	12		a_prescrit	Suite à l'analyse de l'ensemble de ces documents, le préfet a prescrit, par arrêté du 12 avril 2005, au représentant de l'exploitant :		'le préfet'
+1999				1999				De_nouvelles_investigations	De nouvelles investigations et études ont été menées en 1997 et 1999.		
+2006	12	06		2006	12	06		La_tierce_expertise_prescrite	La tierce expertise prescrite a été réalisée le 6 décembre 2006.		
+2004	11	04		2004	11	04		a_donc_été_transmise	Une seconde version de l'étude a donc été transmise le 4 novembre 2004.		
+1997				1997				De_nouvelles_investigations	De nouvelles investigations et études ont été menées en 1997 et 1999.		

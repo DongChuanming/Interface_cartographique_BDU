@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								_contrôles	-contrôles tous les 2 mois de la teneur en CVM dans l'air ambiant	'CVM'	'ambiant'
+2001	09			2001	09			ont_été_demandés	Des compléments ont été demandés pour septembre 2001.		
+2000	06	05		2000	06	05		a_été_transmise	La première partie (diagnostic) a été transmise le 05/06/2000.		
+1966				1966				exploite	La société Atofina exploite sur ce site une usine de fabrication de matières plastiques, depuis 1966.		'La société Atofina'
+2000	06	19		2000	06	19		Évaluation_Simplifiée_des_Risques	L'Évaluation Simplifiée des Risques qui a été transmise à l’administration le 19/06/2000 conclut à un site classé 2 (à surveiller).		

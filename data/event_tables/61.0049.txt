@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1969				s__est_implantée	La société STYL’FER s’est implantée en 1969 à La Ferrière aux Etangs.		'La société STYL’ FER'
+1996	04	09		1996	04	09		a_été_mise_en_place	En 1995 l’activité de la société Styl’fer a fait l’objet d’un dossier de régularisation extension qui a abouti à l’arrêté préfectoral du 9 avril 1996, un station de traitement a été mise en place		'la société Styl’ fer'
+2009	07			2009	07			sommaire_a_été_envoyé	Un mémoire de cessation d’activité  sommaire a été envoyé à la préfecture courant juillet 2009.		
+2008	12	31		2008	12	31		a_cessé_son_activité	La société a cessé son activité au 31 décembre 2008.		
+2016	05	04		2016	05	04		a_été_pris_le	L'arrêté de servitudes NOR 1200-16-0186 a été pris le 4 mai 2016		
+1995				1995				a_fait_l__objet_d_	En 1995 l’activité de la société Styl’fer a fait l’objet d’un dossier de régularisation extension qui a abouti à l’arrêté préfectoral du 9 avril 1996, un station de traitement a été mise en place		'la société Styl’ fer'
+2002				2002				a_été_racheté_à	Le site a été racheté à notre connaissance par le groupe Torbel en 2002.		'groupe Torbel'

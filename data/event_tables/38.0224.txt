@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				ont_débuté	L'usine ALLIBERT, dont les activités ont débuté dans les années 1950 jusqu'à la fermeture du site à la fin de l'année 1995, réalisait et commercialisait des objets en matière plastique moulés et/ou injectés.		'ALLIBERT'
+1997	01	1		1997	01	1		a_été_repris_à	Ce site a été repris à partir du 1er janvier 1997 par la société CASTORAMA pour le louer à des entreprises :		'la société CASTORAMA'
+1995				1995				à_la_fermeture_du_site	L'usine ALLIBERT, dont les activités ont débuté dans les années 1950 jusqu'à la fermeture du site à la fin de l'année 1995, réalisait et commercialisait des objets en matière plastique moulés et/ou injectés.		'ALLIBERT'
+2007	03			2007	03			un_dossier_de_demande	Cette activité a fait l’objet d’un dossier de demande d’autorisation d’exploiter rédigé en date du mois de mars 2007.		
+2006	09	15		2006	09	15		De_nouvelles_investigations_ont_été_menées	De nouvelles investigations ont été menées par G Environnement à la demande de la société FONCIERE DU DAUPHINE en date du 15/09/2006. 3 sondages ont été effectués sur le site et 6 piézomètres ont été réalisés.		'la société FONCIERE DU DAUPHINE'
+2005	11	08		2005	11	08		a_été_signé	Un arrêté préfectoral a été signé le 08/11/2005 imposant à l'exploitant la réalisation de ces travaux de mise en sécurité et la mise en place d’investigations supplémentaires sur le site.		
+								ont_débuté	L'usine ALLIBERT, dont les activités ont débuté dans les années 1950 jusqu'à la fermeture du site à la fin de l'année 1995, réalisait et commercialisait des objets en matière plastique moulés et/ou injectés.		'ALLIBERT'

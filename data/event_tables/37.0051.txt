@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	06	12		2017	06	12		a_été_constaté	À la suite d’une visite d’inspection le 12 juin 2017, il a été constaté que le site n’était pas clôturé sur toute sa périphérie.		
+2017	04	21		2017	04	21		a_fait_connaître	Par courrier du 21 avril 2017, l’inspection a fait connaître à la commune d’Azay-le-Rideau, la possibilité, permise par la loi ALUR, à un tiers de se substituer à l’exploitant pour réaliser les travaux de réhabilitation.		'ALUR'
+1972				1989				a_accueilli	Le site a accueilli de 1972 à 1989 une activité de station-service.		
+2017	06	12		2017	06	12		une_visite_d__inspection	À la suite d’une visite d’inspection le 12 juin 2017, il a été constaté que le site n’était pas clôturé sur toute sa périphérie.		
+2013	11	22		2013	11	22		a_été_reçu	Un projet de dossier d’enquête publique préalable à la déclaration d’utilité publique et parcellaire, en vue de l’acquisition des terrains, a été reçu par la préfecture le 22 novembre 2013.		'la préfecture'
+2012				2012				a_émis	En 2012, la mairie d’Azay-le-Rideau a émis le souhait d’enclencher une démarche d’expropriation pour cause d’utilité publique devant l’absence d'exploitant, le dernier étant décédé, à effectuer la démolition de l’édifice requise par la commune.		
+1989				1989				a_été_laissé_en_friche	Depuis 1989, le terrain a été laissé en friche.		
+2007	05	23		2007	05	23		a_demandé	Par courrier du 23 mai 2007, la préfecture a demandé à Mme VAULTIER de déclarer la cessation définitive de son activité.		'la préfecture', 'VAULTIER'
+2009	11	23		2009	11	23		a_fait_savoir	Le 23 novembre 2009, Mme VAULTIER a fait savoir par courrier que les cuves avaient été neutralisées par du sable mais aucun justificatif ne permet de l’attester.		'Mme VAULTIER'
+2013	05	07		2013	05	07		a_décidé	Par délibération du 7 mai 2013, le conseil municipal d’Azay-le-Rideau a décidé d’initier une procédure d’expropriation.		

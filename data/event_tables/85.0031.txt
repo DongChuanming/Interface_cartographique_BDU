@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_réhabilité	Il a été réhabilité par la municipalité au début des années 2000 (couverture terreuse et plantation d’arbres et d’arbustes).		
+1973				1973				C__est	C'est en 1973 qu'une autorisation préfectorale d'exploiter a été délivrée à la société Froger de La Roche-sur-Yon.		'la société Froger', 'La Roche-sur-Yon'
+1990				1990				n__est_plus_exploité	Le site n’est plus exploité depuis 1990.		
+1973				1973				a_été_délivrée	C'est en 1973 qu'une autorisation préfectorale d'exploiter a été délivrée à la société Froger de La Roche-sur-Yon.		'la société Froger', 'La Roche-sur-Yon'
+1981	11	24		1981	11	24		étaient_évacuées	Le 24 novembre 1981, les déchets huileux et la mise en place d’une couverture périodique de terre étaient évacuées.	'les déchets huileux'	
+2016	04			2016	04			à_fait_appel_à	Suites aux plaintes émises par les riverains de la commune de Rives sur Yon, la mairie à fait appel à un bureau d’étude afin de réaliser un diagnostic environnemental du milieu et une étude vulnérabilité des milieux (avril 2016).		'Rives sur Yon'

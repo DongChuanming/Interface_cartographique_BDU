@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				est_implantée	Elle est implantée depuis 1983 dans des locaux situés à Falaise.		
+2002	01			2002	01			Ces_études_ont_été_transmises	Ces études ont été transmises en janvier 2002.		
+2006				2006				ont_été_installés	Sur la base des compléments d'étude réalisés, trois piézomètres ont été installés courant 2006 afin de surveiller la qualité de la nappe superficielle en présence.		
+2006				2006				Le_traitement	Le traitement de ces terres a été effectué fin 2006 conformément à un arrêté préfectoral en date du 18 avril 2005.		
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie, dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	03	03		2006	03	03		Le_jugement	Le jugement du 3 mars 2006 a prononcé la liquidation judiciaire de la société.		
+1983	11	16		1983	11	16		a_été_autorisée_à_exploiter	La société FREQUELIN ELECTROLYSE a été autorisée à exploiter une installation de traitement de surface de pièces métalliques par électrolyse, par arrêté préfectoral du 16 novembre 1983.		'La société FREQUELIN ELECTROLYSE'
+2011	02			2011	02			étaient_en_place	Lors d'une visite en février 2011, les bacs de traitement de surface étaient en place et le local de stockage des produits chimiques était vide.	'produits chimiques'	
+2011	02			2011	02			d__une_visite	Lors d'une visite en février 2011, les bacs de traitement de surface étaient en place et le local de stockage des produits chimiques était vide.	'produits chimiques'	
+2010	11	15		2010	11	15		a_été_acquis_par	Le site a été acquis par une SCI le 15 novembre 2010.		

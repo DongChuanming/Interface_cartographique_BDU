@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	12			1993	12			à_l__incident	Suite à l'incident de décembre 1993, des travaux de dépollution ont été effectués et ont permis de récupérer 17 m3 de fioul domestique de 1993 à 1995.	'fioul domestique'	
+2007	01	11		2007	01	11		constat	- en cas de constat de concentrations en hydrocarbures dépassant les valeurs limites réglementaires (arrêté du 11 janvier 2007) sur les piézomètres en aval hydraulique du site, de conduire une enquête de voisinage dans le but d'identifier la présence de cibles potentielles et en cas de présence avérée de puits de particuliers, d'effectuer une évaluation des risques sanitaires.	'hydrocarbures'	
+1999	11			1999	11			fourni	Un bilan de la pollution résiduelle fourni en novembre 1999, a montré que les différents puits situés dans le voisinage n'étaient pas touchés.		
+2010	06			2010	06			a_été_supprimé	Depuis Juin 2010, le bac aérien a été supprimé, seuls ont été conservés les réservoirs enterrés et les zones de chargement et de déchargement.		
+2012				2012				de_réaliser_une_nouvelle_campagne_de_surveillance	- mettre en place 3 piézomètres supplémentaires le long de la voie ferrée et de réaliser une nouvelle campagne de surveillance pour mi-2012,		
+2011	07			2011	07			un_écrémage_mensuel	L'exploitant réalise depuis juillet 2011 un écrémage mensuel de la phase flottante qui sera poursuivie pendant au moins 6 mois.		

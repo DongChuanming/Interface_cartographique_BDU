@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_cessé_toutes_activités	DFI a cessé toutes activités en 2009 à Rougemont-le-Château.		'DFI'
+1830				1830				est_à_vocation_industrielle	L'emprise du site est à vocation industrielle depuis 1830.		
+2001				2001				a_été_repris	Après avoir été exploité par plusieurs sociétés, ce site a été repris par DFI en 2001.		'DFI'
+2001	06			2001	06			un_premier_diagnostic	En juin 2001, suite à la reprise du site par DFI, un premier diagnostic de pollution des sols a été réalisé par la société PériChimie et a mis en évidence dans les sols :		'DFI', 'la société PériChimie'
+2009	12	15		2009	12	15		La_visite_d__inspection	La visite d'inspection du 20/12/2010 a été réalisée suite à la cessation d'activité du 15/12/2009.		
+2007	12	06		2007	12	06		Les_visites_d__inspection_réalisées	Les visites d'inspection réalisées les 06/12/2007 et 09/04/2008 actent du non enlèvement du transformateur au PCB présent sur le site.	'PCB'	
+1965				1965				a_été_construite	En 1965, une station de traitement de détoxication physico-chimique a été construite pour traiter les eaux issues des ateliers de galvanoplastie.		
+2008	04	09		2008	04	09		Les_visites_d__inspection_réalisées	Les visites d'inspection réalisées les 06/12/2007 et 09/04/2008 actent du non enlèvement du transformateur au PCB présent sur le site.	'PCB'	
+2010	12	20		2010	12	20		La_visite_d__inspection	La visite d'inspection du 20/12/2010 a été réalisée suite à la cessation d'activité du 15/12/2009.		
+								a_été_réalisé	Le site est traversé par un bief (rivière Saint Nicolas) qui a été réalisé au 19° siècle afin de disposer d'un moulin à eau.		
+2001	09	26		2001	09	26		La_visite_d__inspection	La visite d'inspection du 26/09/2001 indique que les 4 fosses dans lesquelles est effectué le traitement des effluents ne comportent pas de dispositif de rétention.		
+2016				2016				d__établir	Ces éléments complémentaires couplés au recensement d'éventuels puits privés et/ou agricoles devront permettre à l'exploitant de compléter son schéma conceptuel puis d'établir au cours du premier semestre 2016 un plan de gestion.		
+2010	02			2010	02			informe	Le courrier daté du 20/10/2010 de la Société DFI informe le Préfet de l'élimination de son transformateur au PCB depuis fin février 2010.	'PCB'	'la Société DFI', 'le Préfet'
+2009	12	15		2009	12	15		la_cessation_d__activité	La visite d'inspection du 20/12/2010 a été réalisée suite à la cessation d'activité du 15/12/2009.		
+1998	07	16		1998	07	16		ont_été_rejetés	Le 16/07/1998, 11 m3 d'eaux usés provenant de la station de traitement ont été rejetés dans la rivière et ont entrainé la mort de 130 kg de truites.		
+2009	12	15		2009	12	15		la_cessation_d__activité	Dans son courrier du 11/09/2009, DFI notifie au Préfet la cessation d'activité de son établissement à Rougemont-le-Château pour le 15/12/2009.		'DFI'
+2014	07			2014	07			des_investigations_supplémentaires_ont_été_conduites_par	Dans le cadre de la procédure de cessation d'activité, des investigations supplémentaires ont été conduites par TAUW en juillet 2014 au niveau des aires potentiellement polluées.		'TAUW'

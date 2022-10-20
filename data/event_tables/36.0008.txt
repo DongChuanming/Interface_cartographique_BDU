@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	07		2008	11	07		Une_campagne_de_prélèvements_a_été_réalisée	Une campagne de prélèvements a été réalisée courant décembre 2008 suite à un arrêté préfectoral de mise en demeure du 7 novembre 2008.		
+2008	12			2008	12			Une_campagne_de_prélèvements_a_été_réalisée	Une campagne de prélèvements a été réalisée courant décembre 2008 suite à un arrêté préfectoral de mise en demeure du 7 novembre 2008.		
+2012	10	20		2012	10	20		a_cessé_toute_activité	La liquidation judiciaire a été prononcée le 10 octobre 2012 par le tribunal de commerce de Châteauroux et l'entreprise a cessé toute activité le 20 octobre 2012.		
+2013	04	04		2013	04	04		a_été_signé	Un arrêté de mise en demeure d'élimination du transformateur contenant du polychlorobiphényles et d'évacuation des déchets dangereux présent sur le site a été signé le 4 avril 2013.	'transformateur contenant du polychlorobiphényles', 'des déchets dangereux'	
+2002	09			2002	09			Les_mesures_de_surveillance	Les mesures de surveillance datant de septembre 2002 révèlent une nette amélioration de la situation au niveau de la nappe souterraine ainsi que du sol sur les paramètres Hydrocarbures Aromatiques Polycycliques.	'Hydrocarbures Aromatiques Polycycliques'	
+2007				2007				les_campagnes_semestrielles	En 2008 il a été mis en évidence que les campagnes semestrielles de surveillance des eaux souterraines et du ruisseau de Saint Denis n'avaient pas été réalisées de façon régulière depuis 2007.		
+2009	10			2009	10			datant_d_	Les derniers résultats de surveillance datant d'octobre 2009 indiquent:		
+2010	07	07		2010	07	07		a_été_mise_en_redressement_judiciaire	L'entreprise a été mise en redressement judiciaire le 7 juillet 2010 et a fonctionné sous contrôle d'un administrateur judiciaire jusqu'au 14 décembre 2011.		
+				2011	12	14		a_fonctionné_sous_contrôle	L'entreprise a été mise en redressement judiciaire le 7 juillet 2010 et a fonctionné sous contrôle d'un administrateur judiciaire jusqu'au 14 décembre 2011.		
+								à_informé_par_courrier	Le mandataire liquidateur à informé par courrier du 3 novembre qu'il n'y avait pas de repreneur.		
+1999	03			1999	03			Un_diagnostic_initial	Un diagnostic initial sites et sols pollués suivi d'une Evaluation Simplifiée des Risques (mars 1999) ont été réalisés.		
+2004	07	07		2004	07	07		a_été_mis_en_demeure_de_les_réaliser	L'industriel n'ayant pas procédé à la surveillance en 2003 a été mis en demeure de les réaliser par arrêté préfectoral du 7 juillet 2004.		
+2012				2012				traitement_de_produits_dangereux	- l'absence d'évacuation et de traitement de produits dangereux (présence d'un transformateur imprégné en PCB qui aurait du être éliminé lors du premier semestre 2012)	'produits dangereux', 'PCB'	
+2004	11	22		2004	11	22		Une_campagne_de_mesures	Une campagne de mesures a été réalisée le 22 novembre 2004.		
+2012	10	10		2012	10	10		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée le 10 octobre 2012 par le tribunal de commerce de Châteauroux et l'entreprise a cessé toute activité le 20 octobre 2012.		
+2012	12	19		2012	12	19		une_inspection	L'inspection des installations classées a réalisé une inspection le 19 décembre 2012 pour examiner les mesures prises pour assurer la mise en sécurité et la remise en état du site.		
+1999				1999				réalisée	De plus, aucune opération de dépollution ou de réhabilitation n'a été mise en place, et aucun plan de gestion ou de diagnostic exhaustif n'a été mis en place depuis l'étude simplifiée réalisée en 1999.		
+2012	10	20		2012	10	20		le_tribunal_de_commerce	La liquidation judiciaire a été prononcée le 10 octobre 2012 par le tribunal de commerce de Châteauroux et l'entreprise a cessé toute activité le 20 octobre 2012.		
+1998	12			1998	12			28_échantillonnages	Afin de caractériser la pollution du site, 28 échantillonnages de sols, 3 échantillonnages de sédiments et huit échantillonnages d'eaux souterraines ont été réalisés en décembre 1998.		
+2003				2003				n__ayant_pas_procédé_à_la_surveillance	L'industriel n'ayant pas procédé à la surveillance en 2003 a été mis en demeure de les réaliser par arrêté préfectoral du 7 juillet 2004.		
+2002				2002				__une_stabilité	-  une stabilité depuis 2002 des valeurs en HAP contrôlés dans les eaux souterraines (toutes les valeurs étant comprises entre 0.02µg/L et 0,1µg/L) et une amélioration globale des résultats concernant les métaux lourds.	'en HAP', 'les métaux lourds'	

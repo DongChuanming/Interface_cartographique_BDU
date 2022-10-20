@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				un_diagnostic_de_sol	L'évacuation des déchets divers (véhicules hors d'usage et carcasses) de la parcelle S79 s'est finalisée courant 2012 et un diagnostic de sol a été réalisé fin 2016.	'des déchets divers'	
+								est_installée	La société TESSIER Jacques est installée à Guichainville depuis les années 1970.  Elle y exploitait une activité de récupération de vieilles voitures et disposait d'un arrêté préfectoral d'autorisation du 23 juillet 1974.		'La société TESSIER Jacques'
+1974	07	23		1974	07	23		y_exploitait	La société TESSIER Jacques est installée à Guichainville depuis les années 1970.  Elle y exploitait une activité de récupération de vieilles voitures et disposait d'un arrêté préfectoral d'autorisation du 23 juillet 1974.		'La société TESSIER Jacques'
+2007				2007				de_la_cession_à	Lors de la cession à son fils, monsieur TESSIER Grégory en 2007, une actualisation des activités et de l'autorisation ont été entreprises.		'monsieur TESSIER'
+2007				2007				une_actualisation_des_activités	Lors de la cession à son fils, monsieur TESSIER Grégory en 2007, une actualisation des activités et de l'autorisation ont été entreprises.		'monsieur TESSIER'
+2011	01	26		2011	01	26		l__autorisation_d__exploiter	TESSIER Grégory a donc actualisé l'autorisation d'exploiter au nom de CIMETIÈRE AUTOS sur la parcelle S80, par arrêté préfectoral du 26 janvier 2011.		'TESSIER Grégory', 'CIMETIÈRE AUTOS'
+2012				2012				L__évacuation	L'évacuation des déchets divers (véhicules hors d'usage et carcasses) de la parcelle S79 s'est finalisée courant 2012 et un diagnostic de sol a été réalisé fin 2016.	'des déchets divers'	

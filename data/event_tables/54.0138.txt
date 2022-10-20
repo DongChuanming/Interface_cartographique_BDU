@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				la_cessation_des_activités	L'exploitant a notifié la cessation des activités de son établissement pour la fin de l'été 2014.		
+1993				1993				a_été_éliminé	- le transformateur au pyralène a été éliminé en 1993.	'pyralène'	
+2014	07	23		2014	07	23		courrier	Le rapport SOCOTEC de notification de cessation d’activité  joint au courrier du 23 juillet 2014 de l’exploitant indique que l’usage futur du site n’est pas précisément déterminé.		'SOCOTEC'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	01	07		2003	01	07		la_présence	Suite à une plainte de la mairie de Mérignac, l'Inspection des Installations Classées a constaté le 7 janvier 2003 la présence des dépôts de ferrailles, de cuves et de carcasses sur une surface supérieure à 50m² sur le terrain derrière le garage de l’Étoile.		
+2008	07	07		2008	07	07		a_reçu	Le 7 juillet 2008, l'exploitant a reçu une injonction relative à l'état d'avancement du nettoyage et à la demande de justificatifs.		
+2004	10	1		2004	10	1		ont_été_reçus	Des justificatifs de la réalisation de mesures de mise en sécurité ont été reçus le 1er octobre 2004.		
+				2004	08	17		ont_été_exploitées	Les installation ont été exploitées par Mme De Lima jusqu'au 17 août 2004.		

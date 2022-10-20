@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				des_travaux_d__étanchéification	Après une période sans entretien du site, l'EPFL a fait réaliser en 2001 des travaux d'étanchéification et de mise en sécurité du bassin aval et des plantations de végétaux.		
+2007	12			2007	12			Les_analyses_des_eaux_de	Les analyses des eaux de décembre 2007 montrent :		
+1998				1998				Travaux_de_dépollution	Travaux de dépollution réalisés par Bail Industrie (1993 à 1998):		'Bail Industrie'
+1998				1998				ne_doit_plus	Suite aux travaux de réhabilitation et une expertise en 1998, le secteur des gazogènes ne doit plus être considéré comme source de pollution.	'gazogènes'	
+1993				1993				Travaux_de_dépollution	Travaux de dépollution réalisés par Bail Industrie (1993 à 1998):		'Bail Industrie'
+2005	06	14		2005	06	14		réalise_une_étude_de_mise_en_œuvre	A la date du 14 juin 2005, BI réalise une étude de mise en œuvre de servitude au droit des 3 zones suivantes :		
+1987				1987				a_cessé	Ancien site sidérurgique dont l'activité a cessé en 1987.	'sidérurgique'	
+1993	06			1993	06			Des_travaux_de_mise_en_sécurité	Des travaux de mise en sécurité de la canalisation de la fouille 49 ont été réalisés en juin 1993.		
+1998				1998				des_travaux_de_dépollution	En 1998, BI a également entrepris des travaux de dépollution au droit de la zone des gazogènes.	'gazogènes'	
+1998				1998				une_expertise	Suite aux travaux de réhabilitation et une expertise en 1998, le secteur des gazogènes ne doit plus être considéré comme source de pollution.	'gazogènes'	
+2010	09			2010	09			la_visite	Suite à la visite d'inspection de septembre 2010, le représentant de l'ancien exploitant doit transmettre à l'inspection :		
+1996				1997				Ces_travaux_ce_sont_déroulés	Ces travaux ce sont déroulés de 1996 à 1997 et ont consisté en la réalisation de bassins d'agréments dans le Vallon du Croix Chaudron.		
+1998				1998				effectuées	Les analyses effectuées en 1998 par le LCDI dans ce faciès sont confirmés par les analyses d'ANTEA de 1999.		'LCDI'

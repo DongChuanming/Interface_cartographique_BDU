@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	06	22		2009	06	22		a_été_pris	Un arrêté de mise en demeure a été pris le 22 juin 2009.		
+2009	03	12		2009	03	12		a_été_pris	Un arrêté préfectoral complémentaire imposant la mise en sécurité et la réhabilitation du site a été pris le 17 avril 2009 (coderst du 12 mars 2009).		
+2010	12	07		2010	12	07		a_été_établi_dans	Un projet d'arrêté a été établi dans ce sens (rapport du 7/12/2010).		
+2009	04	17		2009	04	17		a_été_pris	Un arrêté préfectoral complémentaire imposant la mise en sécurité et la réhabilitation du site a été pris le 17 avril 2009 (coderst du 12 mars 2009).		
+2009	01	20		2009	01	20		a_été_portée_à_la_connaissance	La fermeture du site a été portée à la connaissance de l'inspection le 20/01/2009.		

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_proposer	Dans le cadre du ré-aménagement final de cette décharge en partenariat avec VEOLIA (filiale GRS VALTECH), la société Bluestar Silicones a proposer au printemps 2009 de remplacer la couverture finale imposée par l'arrêté ministériel du 30/12/2002 par un concept innovant de couverture assurant également une production d'électricité photovoltaïque.		'VEOLIA', 'GRS VALTECH', 'la société Bluestar Silicones'
+2010	11			2010	11			a_été_adressé	Ce dossier a été adressé à monsieur le préfet de l’Isère fin novembre 2010 bien que la probabilité qu'il soit finalement mis en œuvre soit très faible.		'le préfet'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	25		2005	01	25		_Cessation_d__activité	-Cessation d'activité: 25/01/2005.		
+2007	10	17		2007	10	17		_Réalisation_d__un_diagnostic_approfondi	-Réalisation d'un diagnostic approfondi et d'un plan de gestion, remis le 17/10/2007.		
+2005	07	01		2005	07	01		_Réalisation_d__un_diagnostic_initial	-Réalisation d'un diagnostic initial le 01/07/2005 révélant un impact sur les eaux souterraines en HAP, pas d'impact sur les sols.	'HAP'	

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	13		2008	11	13		une_inspection_réalisée	Sur ce point, il convient de noter que suite à une inspection réalisée le 13/11/2008, l'exploitant était invité à transmettre sous deux mois un rapport proposant un nouveau mode de traitement de la pollution dans lequel serait précisé les mesures choisies en définissant et justifiant les objectifs de dépollution.		
+								le_démantèlement	En Avril et Mai 2006, le démantèlement des infrastructures pétrolières est réalisé et 716,98 tonnes de terres polluées ont été excavées.		
+2006	05			2006	05			le_démantèlement	En Avril et Mai 2006, le démantèlement des infrastructures pétrolières est réalisé et 716,98 tonnes de terres polluées ont été excavées.		
+2004	08	20		2004	08	20		est_observée	Le 20/08/2004 une fuite sur une canalisation de dépotage est observée.		
+2007	12			2007	12			n__a_donc_pas_été_arrêtée	L’unité de dépollution n’a donc pas été arrêtée au mois de décembre 2007 comme cela était prévu.		
+2001	10	01		2001	10	01		devient_le_nouvel_exploitant	Le 01/10/2001, la société CARREFOUR (CARAUTOROUTE) devient le nouvel exploitant de ces installations.		'la société CARREFOUR ( CARAUTOROUTE'
+2007	02	28		2007	02	28		a_été_délivré_à	Un récépissé de cessation d'activité a été délivré à la société CARAUTOROUTE le 28/02/2007.		'la société CARAUTOROUTE'
+2008	07			2008	07			Les_mesures	Les mesures de Juillet 2008 montrent des venues de produits essentiellement en P2 et P3.		
+2004	09	23		2004	09	23		une_unité_de_dépollution	Le 23/09/2004, une unité de dépollution de type pompage/traitement associée à un dispositif d’écrémage est mise en place.		
+2004	09	03		2004	09	03		est_tenu	En application de l'arrêté préfectoral d'urgence du 3 septembre 2004, l'exploitant est tenu de procéder à un suivi périodique de la qualité des eaux souterraines.		
+2004	09			2004	09			l__installation_du_dispositif_de_traitement	Depuis l’installation du dispositif de traitement de la nappe (septembre 2004), une diminution de l’épaisseur de flottant et des concentrations en hydrocarbures dissous est constatée, après un pic observé en Juin 2007.	'hydrocarbures'	
+2008	08			2008	08			est_effectué	Un bilan d'hydrocarbures dissous et sur les épaisseurs de flottant est effectué à la fin Août 2008.	'hydrocarbures'	
+2008	02			2008	02			ont_été_stoppées	A partir du mois de février 2008, les pompes des puits P2 et P3 ont été stoppées.		
+2008	08			2008	08			à_la	Un bilan d'hydrocarbures dissous et sur les épaisseurs de flottant est effectué à la fin Août 2008.	'hydrocarbures'	
+2001	12	14		2001	12	14		un_récépissé	Le 14/12/2001, une nouvelle installation de GPL fait l’objet d’un récépissé de déclaration.	'GPL'	
+2004	08	27		2004	10	27		a_été_curé	A la suite de cet incident, du 27/08/2004 au 27/10/2004, le fossé situé en sortie de la station service (côté voie d’accès) a été curé et l’état des terres au niveau d’une fouille dans le cadre d’un remplacement de canalisation a été contrôlé.		

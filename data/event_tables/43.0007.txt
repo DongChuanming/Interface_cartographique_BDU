@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	04	25		1996	04	25		signé	Ce site fait parti des 467 sites d’anciennes usines à gaz gérés par GDF, selon le protocole signé le 25 avril 1996 avec le Ministère de l'Environnement.		'GDF'
+2004	12	17		2004	12	17		Un_diagnostic_approfondi	Un diagnostic approfondi, du 17/12/2004, conclut à l'absence de risque pour l'environnement et considère le site compatible avec un usage de type industriel ou tertiaire.		
+2004	03			2004	03			4ième_cuve_découverte	Une 4ième cuve découverte en mars 2004 a été vidangée et neutralisée en février 2005.		
+2005	02			2005	02			4ième_cuve_découverte	Une 4ième cuve découverte en mars 2004 a été vidangée et neutralisée en février 2005.		
+2001	08			2001	08			ont_été_réalisés	A la suite de ce diagnostic des travaux de déconstruction de 3 cuves enterrées, implantées sur la parcelle AN340, et de traitement des goudrons et des  eaux résiduaires ont été réalisés en août 2001.	'goudrons', '  eaux résiduaires'	
+1879				1956				a_accueilli	Le terrain situé en zone agricole d'une superficie de 4.900 m² a accueilli de 1879 à 1956 une usine de fabrication de gaz à partir de la distillation de la houille.		

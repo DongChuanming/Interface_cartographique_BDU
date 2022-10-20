@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				avait_été_découverte	En 1995, une pollution de la nappe souterraine avait été découverte au droit du site.		
+2005	07	18		2005	07	18		a_demandé	Par courrier du 18 juillet 2005, l'inspection des installations classées a demandé à Fluidap, société occupant actuellement le site, de faire réaliser une campagne d'analyses sur les piézomètres présents sur le site.		'Fluidap'

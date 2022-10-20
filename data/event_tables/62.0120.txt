@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	01		2006	01	01		_Etat_des_lieux_environnemental_après_dépollution	-Etat des lieux environnemental après dépollution réalisée en 01/01/2006.		
+								a_été_imposée	-Cette surveillance a été imposée par arrêté préfectoral en date du 19/04/02 et porte sur le paramètre des hydrocarbures totaux	'hydrocarbures totaux'	
+2003	08			2003	08			ont_été_dégazées	-En août 2003, les cuves de stockage ont été dégazées et retirées, ainsi que 750 tonnes de sables pollués.		
+2002				2002				_Démantèlement	-Démantèlement des structures en 2002.		
+1999	07	1		1999	07	1		_Une_évaluation_simplifiée_des_risques	-Une évaluation simplifiée des risques a été réalisée le 1er juillet 1999.		
+2011	01	06		2011	01	06		Rapport	Rapport d'intervention des travaux de réhabilitation par Soléo: 06/01/2011.		'Soléo'
+1996	07			1996	07			_Une_cessation_d__activité	-Une cessation d'activité a eu lieu en juillet 1996.		
+2010	09			2010	09			__dépollution	-Septembre 2010: dépollution complémentaire par Soléo: purge des terres résiduelles polluées (excavation, évacuation et remblaiement).		'Soléo'

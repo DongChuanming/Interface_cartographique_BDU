@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971	01	01		1971	01	01		est_loué	- Le fort de Maulde est loué à la société Manufacture Française de carrelage pour y décharger ses déchets de fabrication le 01/01/1971.		'Le fort de Maulde', 'la société Manufacture Française'
+1990				1990				déchargent	- Jusqu'à 1990: cette société et par la suite la société Mulliez France Carrelages déchargent dans le fort (fossé périphérique et dans les contreforts entourant les casemates et la cour encaissée) des boues de polissage et des dalles cassées (environ 40 000 Tonnes).		'la société Mulliez France Carrelages'
+1969	09	04		1969	09	04		achète	- La SCI du Fort de Maulde achète le fort de Maulde le 04/09/1969.		'La SCI du Fort', 'de Maulde achète le fort de Maulde'
+1990	08	06		1990	08	06		Dépôt_de_bilan	- Dépôt de bilan de Mulliez France Carrelages le 06/08/1990.		
+1995	02			1995	02			__Réalisation	- Réalisation d'une étude hydrogéologique en février 1995, cette étude conclu qu'il y a des traces de métaux lourds (plomb, chrome, nickel et zinc) et d'hydrocarbures.	'métaux lourds', 'plomb', 'chrome', 'nickel', 'zinc', 'hydrocarbures'	

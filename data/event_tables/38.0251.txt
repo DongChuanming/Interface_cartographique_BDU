@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02	19		2010	02	19		a_été_vendu	Le site a été vendu le 19/02/2010 à la société LIDL.		'la société LIDL'
+1981	10	07		1981	10	07		de_déclaration	Elle bénéficiait d'un récépissé de déclaration n°20656 du 07/10/1981.		
+2011	02	28		2011	02	28		Des_prélèvements_ont_été_effectués	Des prélèvements ont été effectués le 28/02/2011 et 1,2 µg/L de benzène ont été trouvés au droit de PZ1 bis et 1,7 µg/L au droit de PZ3 bis.	'benzène'	
+1981	10	07		1981	10	07		Elle_bénéficiait	Elle bénéficiait d'un récépissé de déclaration n°20656 du 07/10/1981.		
+2011	10	06		2011	10	06		La_première_campagne_semestrielle	La première campagne semestrielle a eu lieu le 06/10/2011.		
+2011	01	18		2011	01	18		5_sondages_après_travaux	5 sondages après travaux ont été effectués le 18/01/2011:		
+2009	05	04		2009	05	04		informe	Le 04/05/2009, la société SUPER U informe de l'arrêt de l'activité station-service.		'la société SUPER U'
+2008	08	28		2008	08	28		Des_investigations_ont_été_effectuées	Des investigations ont été effectuées le 28/08/2008.		
+2009	09	30		2009	09	30		De_nouvelles_investigations_complémentaires	De nouvelles investigations complémentaires ont été effectuées le 30/09/2009.		
+2008	10	27		2008	10	27		Des_investigations_complémentaires	Des investigations complémentaires ont été effectuées le 27/10/2008.		

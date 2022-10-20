@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				une_étude_simplifiée_des_risques	Du fait de l'ancienneté du site et des risques de pollution, une étude simplifiée des risques avait été prescrite en 2003.		
+2004	10	22		2004	10	22		la_cessation_définitive	Les 22 octobre 2004 et 13/12/2004 la société SACA a déclaré à M. le Préfet des Yvelines la cessation définitive de l'exploitation de ses installations classées sur le site.		'la société SACA', 'le Préfet des Yvelines'
+2008	01	08		2008	01	08		a_demandé	Par courrier du 8 janvier 2008, l'inspection des installations classées a demandé à la mairie de lui fournir un plan de localisation des terres polluées résiduelles ainsi que le rapport relatif aux travaux effectués, concernant notamment l'élimination de terres polluées.		
+				2004				ont_été_exploitées	Sur ce site ont été exploitées des années 1960 jusqu'en 2004 des installations de traitements de surface comprenant des bains de nickel, de chrome, de cuivre et de zinc en circuit fermée pour un volume total de 14000 litres.	'nickel', 'chrome', 'cuivre', 'zinc'	
+2005	10	1		2005	10	1		déclaration_de_cessation_d__activité	Par arrêté préfectoral du 20 février 2006 la société SACA a été mise en demeure de réaliser le mémoire de cessation d'activité prévu par l'article 34-1-III du décret n° 77-1133 (déclaration de cessation d'activité antérieure au 1er octobre 2005).		'la société SACA'
+2004	01			2004	01			une_étude_simplifiée_des_risques	En janvier 2004, la société SACA a rendu une étude simplifiée des risques mettant en évidence une pollution du sol par :		'la société SACA'
+2008	06	05		2008	06	05		a_été_fourni	Le rapport a été fourni par la mairie, par courrier du 5 juin 2008.		
+2007	12			2007	12			a_transmis	En décembre 2007, la mairie a transmis un rapport de fin de travaux daté du 22/07/2005.		

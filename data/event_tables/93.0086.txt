@@ -1,10 +1,11 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-2015	12			2015	12				est_placée_en_liquidation_judiciaire	la_société							
-2009				2009					un_diagnostic_est_réalisé								
-2015	06	09		2015	06	09		le_Tribunal_de_Grande_Instance	ordonne	l__expulsion							
-									doit_cesser								
-2015	08	27		2015	08	27			est_transmis	un_arrêté_préfectoral							
-2015	12	28		2015	12	28		le_Tribunal_de_Commerce	place	la_société_BERTHOLLET_AMM_Industrie							
-2016	01	12		2016	01	12			une_visite	site							
-2016	01	21		2016	01	21		le_préfet	a_pris								
-2009				2009					diagnostic_établi								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12	28		2015	12	28		place	Le 28 décembre 2015, le Tribunal de Commerce place la société BERTHOLLET AMM Industrie en liquidation judiciaire.		'le Tribunal de Commerce place la société BERTHOLLET AMM Industrie'
+								doit_cesser_ses_activités	Le préfet indique à l’exploitant qu’il doit cesser ses activités dans un délai de 12 mois et lui rappelle les obligations liées à la cessation d’activité.		'Le préfet'
+2009				2009				un_diagnostic_est_réalisé	En 2009, dans le cadre d'une procédure judiciaire, un diagnostic est réalisé, montrant des traces de trichloroéthylène, de tétrachloroéthylène, des concentrations faibles en HCT (Hydrocarbures Totaux) ainsi que de fortes teneurs en métaux (notamment cuivre, chrome, nickel et mercure).	'trichloroéthylène', 'tétrachloroéthylène', 'HCT', 'Hydrocarbures Totaux', 'métaux', 'cuivre', 'chrome', 'nickel', 'mercure'	
+2009				2009				du_diagnostic_établi	Le mémoire fait état du diagnostic établi en 2009.		
+2015	12			2015	12			est_placée_en_liquidation_judiciaire	En décembre 2015, la société est placée en liquidation judiciaire.		
+2015	08	27		2015	08	27		est_transmis	Suite à la visite de l’inspection du 18 juin 2015, un arrêté préfectoral de mise en demeure de respecter les conditions d’exploitation est transmis le 27 août 2015 à l’exploitant.		
+2016	01	12		2016	01	12		a_procédé_à_une_visite	L’inspection des installations classées a procédé à une visite du site le 12 janvier 2016 qui lui a permis de constater que les activités avaient cessé et que l’état du site s’était dégradé.		
+2015	06	18		2015	06	18		est_transmis	Suite à la visite de l’inspection du 18 juin 2015, un arrêté préfectoral de mise en demeure de respecter les conditions d’exploitation est transmis le 27 août 2015 à l’exploitant.		
+2015	06	09		2015	06	09		ordonne	Le 9 juin 2015, le Tribunal de Grande Instance ordonne l’expulsion de la société AMM Industrie du site.		'le Tribunal de Grande Instance', 'la société AMM Industrie'
+2016	01	21		2016	01	21		un_arrêté_préfectoral	Sur proposition de l’inspection, le préfet a pris, le 21 janvier 2016, un arrêté préfectoral prescrivant des mesures d’urgence.		'le préfet'

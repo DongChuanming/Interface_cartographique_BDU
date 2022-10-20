@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10			2005	10			Un_diagnostic_complémentaire_des_sols	Un diagnostic complémentaire des sols a été réalisé en octobre 2005.		
+				2011				est_réalisée	Une surveillance des eaux souterraines est réalisée depuis mars 2005, à fréquence semestrielle jusqu'en 2011, annuelle depuis.		
+1994				1994				demande_d__autorisation	Le dossier de demande d'autorisation de 1994 comporte un récapitulatif des études réalisées sur les eaux souterraines.		
+1838				1838				a_accueilli_de	Usine de fabrication d'appareillages thermiques implantée sur le site depuis 1838 qui a accueilli de nombreuses décennies durant des installations de fonderie.		
+2005	03			2005	03			est_réalisée	Une surveillance des eaux souterraines est réalisée depuis mars 2005, à fréquence semestrielle jusqu'en 2011, annuelle depuis.		
+1838				1838				implantée	Usine de fabrication d'appareillages thermiques implantée sur le site depuis 1838 qui a accueilli de nombreuses décennies durant des installations de fonderie.		
+1994				1994				n__ont_plus_lieu	Ces dernières ne montrent pas d'atteinte de la nappe par les dépôts de sables de fonderie (qui n'ont plus lieu depuis 1994), hormis des teneurs fortes en fer et une augmentation de la DCO.	'fer'	

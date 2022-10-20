@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12			2004	12			a_été_installé	D'avril 2004 à décembre 2004 un pilote de traitement(air sparging) a été installé mais les résultats n'ont pas été concluants.		
+2007				2007				s__est_engagé	Depuis 2007, l'exploitant s'est engagé à surveiller les eaux souterraines et de surface.		
+2001				2001				L__étude_diagnostique	L'étude diagnostique et l'étude simplifiée des risques ont été remises au 1er trimestre 2001.		
+2004	04			2004	04			a_été_installé	D'avril 2004 à décembre 2004 un pilote de traitement(air sparging) a été installé mais les résultats n'ont pas été concluants.		
+2003	03			2003	03			L__évaluation_détaillée_des_risques	L'évaluation détaillée des risques de mars 2003 conclut à une pollution acceptable pour les cibles hors du site mais à des risques non acceptables pour les travailleurs, provenant de la consommation de poisson et de l'inhalation possible des gaz des sols.		
+2007	02	23		2007	02	23		La_nouvelle_étude_complémentaire	La nouvelle étude complémentaire du 23/02/2007 écarte le risque lié à l'ingestion de poisson et conclut à un risque acceptable pour l'usage industriel (voies d'exposition par inhalation de gaz des sols ou contact avec des surfaces de sols pollués).		
+								L__étude_diagnostique	L'étude diagnostique et l'étude simplifiée des risques ont été remises au 1er trimestre 2001.		
+2014	11			2014	11			La_campagne	La campagne de novembre 2014 a mis en évidence une réapparition du benzène sur l'ensemble des piézomètres  sauf PZ 44, une diminution sensible des COHV, l'absence d'extension latérale de la pollution vers la Vaucouleur.	'benzène', 'des COHV'	

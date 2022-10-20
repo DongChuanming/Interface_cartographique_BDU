@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1962				1962				est_implanté	*   Le Centre d'Etude Nucléaire de Cadarache est implanté sur ce site depuis 1962-1963 sur une superficie de 1600 hectares.		
+1997				1997				est_autorisé	Il est autorisé, pour les ICPE civiles, par arrêté préfectoral datant de 1986 modifié en dernier lieu en 1997.		
+1963				1963				est_implanté	*   Le Centre d'Etude Nucléaire de Cadarache est implanté sur ce site depuis 1962-1963 sur une superficie de 1600 hectares.		
+2006				2006				sont_mis_en_place	* deux nouveaux puits d'observations sont mis en place début 2006.		

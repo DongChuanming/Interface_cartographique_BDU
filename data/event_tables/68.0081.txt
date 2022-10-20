@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05	13		2002	05	13		__diagnostic_sols_remis	Ce site est soumis à la réalisation d'une étude détaillée des risques(EDR): AP du 02/05/2001, étude historique remise le 06/03/2002, diagnostic sols remis le 13/05/2002		
+2009	08	05		2009	08	05		prescription_d_	A la suite des mesures réalisées en 2008, prescription d'un plan de gestion par arrêté préfectoral complémentaire du 5 août 2009.		
+2005				2005				ont_été_mis_en_place	Trois piézomètres supplémentaires ont été mis en place en 2005.		
+2010	12	22		2010	12	22		Avancement	Avancement du plan de gestion, au 22 décembre 2010, l'étendue de la pollution est correctement définie ainsi que l'usage de la nappe. a solution d'un traitement des eaux souterraines par pompage dépollution est retenue et validée.		
+2008				2008				prescription_d_	A la suite des mesures réalisées en 2008, prescription d'un plan de gestion par arrêté préfectoral complémentaire du 5 août 2009.		
+2004	12			2004	12			Analyse_sol	Analyse sol en décembre 2004.		
+2002	03	06		2002	03	06		__étude_historique_remise	Ce site est soumis à la réalisation d'une étude détaillée des risques(EDR): AP du 02/05/2001, étude historique remise le 06/03/2002, diagnostic sols remis le 13/05/2002		

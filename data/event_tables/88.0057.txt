@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1977	04	25		1977	04	25		un_activité_de_travail_mécanique_des_métaux	Le société SEB exerçait sur ce site un activité de travail mécanique des métaux, soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement (ICPE) par l'arrêté préfectoral du 25 avril 1977.		'Le société SEB'
+2007	02	08		2007	02	08		est_à_l__arrêt_définitif	Le 8 février 2007 l'établissement est à l'arrêt définitif.		
+2006	10	05		2006	10	05		un_diagnostic_initial_des_sols	Par ailleurs, un diagnostic initial des sols a été réalisé le 5 octobre 2006.		
+1977	04	25		1977	04	25		exerçait_sur	Le société SEB exerçait sur ce site un activité de travail mécanique des métaux, soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement (ICPE) par l'arrêté préfectoral du 25 avril 1977.		'Le société SEB'
+2006	02	16		2006	02	16		mesures	A la date du 16 février 2006, plusieurs mesures pour mettre en sécurité le site ont été mises en œuvre : limitation des accès au site, évacuation des produits dangereux et déchets, vidange des cuves de fioul.	'des produits dangereux', 'de fioul'	
+2004				2004				VECOUX_ont_été_transférées	Les activités sur le site du territoire de la commune de VECOUX ont été transférées en 2004 vers un autre site.		'VECOUX'
+2007	07			2007	07			L__élimination	L'élimination de cette source a été réalisée en juillet 2007. 12,4 tonnes de terres ont été éliminées en traitement biologique.		
+2007				2007				ont_été_réalisés	Suite aux résultats de ce diagnostic, des prélèvements complémentaires ont été réalisés courant 2007.		

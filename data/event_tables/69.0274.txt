@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	12	06		2004	12	06		la_réalisation_d__un_diagnostic_approfondi	Le 06/12/2004, un arrêté préfectoral a prescrit la réalisation d'un diagnostic approfondi et une évaluation détaillée des risques (EDR).		
+2007	04			2007	04			ont_été_trouvés	En avril 2007, des impacts en Sulfates (470 mg/L au droit de PZ9), en Cyanures totaux (50 mg/L au droit de PZ9), en Arsenic (25 µg/L au droit du puits n°4), en Baryum (130 µg/L au droit du puits n°4), en Manganèse (jusqu'à 2000 µg/L au droit du puits n°4) et en Nickel (jusqu'à 43 µg/L au droit de PZ9) ont été trouvés.	'Sulfates', 'Cyanures totaux', 'Arsenic', 'Baryum', 'Manganèse', 'Nickel'	
+2007	04			2007	04			Des_analyses	Des analyses des eaux souterraines ont été effectuées en janvier et avril 2007.		
+2007	07	10		2007	07	10		a_été_transmis	Un dossier de cessation d'activité a été transmis à l'administration le 10/07/2007.		
+2007				2007				est_partiellement_occupé	Le site est partiellement occupé par la société SNV2 depuis fin 2007, dont l'activité est l'ennoblissement textile, l'apprêt mécanique et l'impression numérique.		'la société SNV2'
+2006	03	02		2006	03	02		Un_diagnostic_approfondi	Un diagnostic approfondi et une EDR ont été remis à la Préfecture le 02/03/2006.		
+2005	10	25		2005	10	25		a_été_établie	L'ESR a été établie le 25/10/2005 pour un usage industriel du site.		
+								Des_analyses	Des analyses des eaux souterraines ont été effectuées en janvier et avril 2007.		
+1995	09	01		1995	09	01		a_été_acté	L'arrêté préfectoral d'autorisation avec enquête publique a été acté le 01/09/1995.		
+1993	12	22		1993	12	22		un_dossier_d__autorisation_d_	Vu l'augmentation de ses activités, un dossier d'autorisation d'exploiter a été transmis à l'administration le 22/12/1993.		
+1989	05	26		1989	05	26		déclaration	Elle bénéficie d'un arrêté préfectoral de déclaration du 26/05/1989.		
+2006	10			2006	10			a_été_effectuée	La surveillance des eaux souterraines imposée par l'arrêté préfectoral du 08/11/2005 a été effectuée en avril, juillet et octobre 2006.		
+2005	04	14		2005	04	14		Le_diagnostic_initial	Le diagnostic initial datant du 14/04/2005 montre une pollution des sols par les métaux :	'métaux'	
+1989	05	26		1989	05	26		bénéficie_d_	Elle bénéficie d'un arrêté préfectoral de déclaration du 26/05/1989.		
+								a_été_effectuée	La surveillance des eaux souterraines imposée par l'arrêté préfectoral du 08/11/2005 a été effectuée en avril, juillet et octobre 2006.		
+2005	11	08		2005	11	08		a_été_acté	Le 08/11/2005, un arrêté préfectoral imposant des prescriptions complémentaires a été acté pour la réalisation d'un diagnostic initial des sols et une ESR, ainsi qu'une surveillance de la qualité des eaux souterraines au droit du site.		

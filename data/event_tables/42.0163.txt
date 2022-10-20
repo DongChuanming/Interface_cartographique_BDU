@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	19		2013	09	19		a_été_signé	La station service est à l’arrêt depuis 2012, le récépissé de la déclaration de mise à l’arrêt définitif de la station service a été signé le 19 septembre 2013.		
+2012				2012				est_à_l__arrêt	La station service est à l’arrêt depuis 2012, le récépissé de la déclaration de mise à l’arrêt définitif de la station service a été signé le 19 septembre 2013.		
+1986	05	29		1986	05	29		était_régulièrement_déclarée	Elle était régulièrement déclarée en date du 29 mai 1986, date de création de la station-service.		

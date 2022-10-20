@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	06	30		2012	06	30		_une_demande	-une demande d'un dossier de mise en place de servitudes d'utilité publique à fournir avant le 30 juin 2012.		
+1997				1997				avaient_été_menées	En 1997, à la demande de l'Inspection des Installations Classées, un diagnostic initial de pollution et une évaluation simplifiée des risques avaient été menées par le bureau d'étude ANTEA.		'ANTEA'
+2004	07	29		2004	07	29		a_été_remise	L'EDR a été remise le 29 juillet 2004.		
+2006	12			2006	12			ont_été_interrompus	Compte tenu des conditions climatiques, les travaux ont été interrompus début décembre 2006.		
+2006	09			2006	09			Les_travaux_ont_débuté	Les travaux ont débuté en septembre 2006.		
+1981				1981				change_de_raison_sociale	En 1981, le site change de raison sociale et devient SILAC (Société Industrielle Louis André Chaignaud).		'SILAC'
+2011	06			2011	06			a_été_signé	Un arrêté complémentaire a été signé en juin 2011 portant sur les points suivants:		
+1950				1950				étaient_exploitées	De 1950 à 1981, les deux unités étaient exploitées par la SARL Ets L A CHAIGNAUD.		'la', 'CHAIGNAUD'
+2011	02			2011	02			a_été_réalisé	Une étude pilote de traitement des boues des Lagunes a été réalisé en février 2011.		
+2004	03			2004	03			a_cessé	Elle a cessé cette activité en mars 2004.		
+2009	09	08		2009	09	08		l__inspection	Lors de l'inspection du 08 septembre 2009 il a été constaté des différences de niveaux sur le terrain et la présence d’eau au plus bas.		
+1965				1978				a_conduit_à_son_colmatage_partiel	Entre 1965 et 1978, le mauvais entretien du gouffre principal a conduit à son colmatage partiel.		
+2000				2000				survient	En 2000, survient la différenciation des raisons sociales SIMTEX (teinture – usine de Saint Florent – commune de La Rochefoucauld) et POLYTEX (enduction latex – usine de Taracole – commune de Saint Projet – Saint Constant).	'SIMTEX', 'teinture', 'latex'	'POLYTEX', 'Taracole'
+2007	07			2007	07			n__ont_pu_reprendre	Ils n'ont pu reprendre qu'en juillet 2007.		
+2013	06	30		2013	06	30		_la_réalisation_de_travaux_de_dépollution	-la réalisation de travaux de dépollution des deux lagunes avant le 30 juin 2013		
+1995				1995				a_été_totalement_abandonné	L'emploi du gouffre a été totalement abandonné en 1995.		
+2007	09	05		2007	09	05		a_pu_être_constaté	Le 5 septembre 2007, il a pu être constaté par l'Inspection des Installations Classées, que l'ensemble des terres contaminées avaient été extraites.		
+1837				1837				L__implantation	L'implantation d'une usine spécialisée dans la teinture de fibres textiles à La Rochefoucauld remonte à 1837.		
+1991				1991				la_mise_en_place_d_	En 1991, le colmatage des 2 gouffres et la pression de l'administration conduisent à la mise en place d'une station d'épuration.		

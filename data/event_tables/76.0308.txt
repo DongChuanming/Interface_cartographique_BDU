@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03	25		2008	03	25		__complété	Suite à une déclaration de cessation d'activité du 23/01/2008, complété les 25/03/2008 et 10/12/2008, la préfecture de Seine maritime a délivré récépissé de déclaration le 22/12/2008.		'la préfecture de Seine maritime'
+2006	12	20		2006	12	20		une_étude_complémentaire	Un réseau de piézomètres est mis en place dans le cadre d'une étude complémentaire du 20 décembre 2006.		
+2006	05	15		2006	05	15		Le_premier_diagnostic	Le premier diagnostic date du 15 mai 2006.		
+2008	01	23		2008	01	23		à_une_déclaration_de_cessation_d__activité	Suite à une déclaration de cessation d'activité du 23/01/2008, complété les 25/03/2008 et 10/12/2008, la préfecture de Seine maritime a délivré récépissé de déclaration le 22/12/2008.		'la préfecture de Seine maritime'
+2009	01	13		2009	01	13		Un_troisième_diagnostic	Un troisième diagnostic, du 13 janvier 2009, cherche à déterminer l'extension du panache de pollution par la pose de piézomètres complémentaires et l'analyse des eaux souterraines.		
+2008	12	22		2008	12	22		a_délivré_récépissé	Suite à une déclaration de cessation d'activité du 23/01/2008, complété les 25/03/2008 et 10/12/2008, la préfecture de Seine maritime a délivré récépissé de déclaration le 22/12/2008.		'la préfecture de Seine maritime'
+2008	12	10		2008	12	10		__complété	Suite à une déclaration de cessation d'activité du 23/01/2008, complété les 25/03/2008 et 10/12/2008, la préfecture de Seine maritime a délivré récépissé de déclaration le 22/12/2008.		'la préfecture de Seine maritime'

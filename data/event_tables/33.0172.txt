@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	21		2005	09	21		est_remis	Le cahier des charges des travaux est remis à la DRIRE le 21/09/2005 et propose l’excavation des sols imprégnés par l’urée, l'entreposage en forme d'andain sur son terrain et le traitement par ensemencement de végétaux.	'urée'	'la DRIRE'
+2002	11			2002	11			les_dégâts_des_eaux	Selon l’exploitant, les dégâts des eaux de Février et Novembre 2002 ont probablement provoqué la dissolution de 500 tonnes d’urée, déversées sur le terrain voisin.	'tonnes d’ urée'	
+								les_dégâts_des_eaux	Selon l’exploitant, les dégâts des eaux de Février et Novembre 2002 ont probablement provoqué la dissolution de 500 tonnes d’urée, déversées sur le terrain voisin.	'tonnes d’ urée'	
+2006	02			2006	02			procède_au_travaux	En Février 2006, l'exploitant procède au travaux prévus par le cahier des charges.		
+2003	05	27		2003	05	27		se_rend	le 27/05/2003, à la demande de la société SOVAL, l'inspection des installations classées se rend sur le site et a relevé des pollutions notables des sols de la réserve foncière par des matières dégageant de fortes odeurs d'ammoniac et des aliments pour bétail en décomposition.	'ammoniac', 'des aliments', 'bétail'	'la société SOVAL'
+2003	09	22		2003	09	22		prescrit_le_diagnostic_initial	L'arrêté du 22/09/2003 prescrit le diagnostic initial et l'évaluation simplifiée des risques (ESR) du site SOVAL.		'SOVAL'
+2005	09	28		2005	09	28		donne	Bien que cette filière ne soit pas explicitement prévue par l'arrêté du 14/06/2005, la DRIRE donne son aval le 28/09/2005.		'la DRIRE'
+2005	09	14		2005	09	14		la_dépollution	Considérant qu'il y a lieu de supprimer la source de pollution que représente les sols souillés par l'Urée, l'arrêté préfectoral du 14/06/2005 prescrit à Sea Invest Bordeaux (nouvel exploitant du site) la dépollution des sols de la réserve foncière de la société SOVAL-PROCINER à l'échéance du 14/09/2005.		'la société SOVAL - PROCINER'
+1995	09	29		1995	09	29		est_autorisée	Cette installation est autorisée par l'arrêté préfectoral du 29 septembre 1995.		
+2004	06	23		2004	06	23		Le_diagnostic_remis	Le diagnostic remis le 23/06/2004 met en évidence la présence dans les sols, d’urée et de ses sous-produits (ammonium, nitrates, nitrites).	'urée', 'ammonium', 'nitrates', 'nitrites'	

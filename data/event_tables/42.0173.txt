@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12	08		2009	12	08		Cette_cessation_a_été_complétée	Cette cessation a été complétée le 8 décembre 2009 et le 5 janvier 2010 d’une deuxième déclaration de cessation pour la mise à l’arrêt d’un transformateur contenant des PCB.	'PCB'	
+1983				1983				ont_été_démantelées	En 1983, les cuves aériennes de stockages d'enrobés ont été démantelées.		
+2017	10	30		2017	10	30		Une_inspection_de_récolement	Une inspection de récolement a été réalisée le 30 octobre 2017 et à conduit l'Inspection à conclure :		
+2017	08	1		2017	08	1		a_été_transmis	Un rapport de fin de travaux a été transmis à l'Inspection des installations classées le 24 mai 2016, complété le 1er août 2017.		
+2016	05	24		2016	05	24		a_été_transmis	Un rapport de fin de travaux a été transmis à l'Inspection des installations classées le 24 mai 2016, complété le 1er août 2017.		
+2006	04			2006	04			a_déclaré_la_cessation_d__activité	L’exploitant (devenu APPIA à l’époque, avant de devenir EIFFAGE TP RHONE-ALPES AUVERGNE par la suite puis EIFFAGE ROUTE CENTRE-EST aujourd'hui) a déclaré la cessation d’activité du site en avril 2006.		'APPIA', 'EIFFAGE TP RHONE - ALPES AUVERGNE', 'EIFFAGE ROUTE CENTRE - EST'
+1962				1962				l__implantation	La première activité recensée sur le site date de 1962 avec l'implantation de la Société Chimique de la Route (SCR).		'la Société Chimique de la Route'
+2016	2015			2016	2015			a_été_fortement_réaménagé	Le site a été fortement réaménagé en 2015/2016 dans le cadre de la "ZAC Nord du quartier de l'Industrie" et il correspond aujourd'hui :		
+2019	02	1		2019	02	1		la_mise_en_place_d__un_programme_de_surveillance	A la suite à ce rapport, la société EIFFAGE ROUTE CENTRE-EST a proposé par courrier du 1er février 2019 la mise en place d’un programme de surveillance de la qualité de l’air dans l’immeuble afin :		'la société EIFFAGE ROUTE CENTRE - EST'
+1962	10	29		1962	10	29		ont_fait_l__objet_d_	Ces activités ont fait l'objet d'un arrêté préfectoral d’autorisation pour l’exploitation d’un établissement de classe 2 en date du 29/10/1962.		

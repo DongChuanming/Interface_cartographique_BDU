@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985	08	13		1985	08	13		a_été_bouché	Le puits a été bouché le 13 août 1985.		
+2014	08	06		2014	08	06		La_réhabilitation	La réhabilitation des terrains a été constatée par Procès Verbal de récolement le 06/08/2014.		
+2015				2015				a_conduit_à_la_levée	Le rapport de fin de travaux en date du 15/12/2015 a conduit à la levée de la police des mines par l'arrêté préfectoral MINES/2015/20 du 31/12/2015.		'MINES/2015/20'
+1988				1988				ont_été_resituées	Les parcelles ont été resituées aux propriétaires en 1988 pour un usage agricole (champs de maïs).		
+2015	12	31		2015	12	31		a_conduit_à_la_levée	Le rapport de fin de travaux en date du 15/12/2015 a conduit à la levée de la police des mines par l'arrêté préfectoral MINES/2015/20 du 31/12/2015.		'MINES/2015/20'
+				1985	08	12		a_été_foré	Le puits a été foré du 23 juillet au 12 août 1985 par Total mais s'est révélé sec.		

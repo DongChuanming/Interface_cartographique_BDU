@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2008				une_activité_de_démolisseur_de_véhicules_usagés	La société BIG AUTO a exercé jusqu'en 2008 sur ce site une activité de démolisseur de véhicules usagés.		'La société BIG AUTO'
+2011	12	19		2011	12	19		un_diagnostic_pollution	L'exploitant a transmis à la préfecture le 19/12/2011 un diagnostic pollution.		
+2011	11	12		2011	11	12		a_cessé	L'activité a cessé au cours de l'année 2008 mais la déclaration de cessation des activités n'a été faite que le 12/11/2011.		
+2014	02	06		2014	02	06		transmis	Le rapport de fin de travaux, transmis le 06/02/2014, précise que :		
+2011	11	12		2011	11	12		la_déclaration_de_cessation	L'activité a cessé au cours de l'année 2008 mais la déclaration de cessation des activités n'a été faite que le 12/11/2011.		
+2008				2008				a_cessé	L'activité a cessé au cours de l'année 2008 mais la déclaration de cessation des activités n'a été faite que le 12/11/2011.		
+				2008				a_exercé	La société BIG AUTO a exercé jusqu'en 2008 sur ce site une activité de démolisseur de véhicules usagés.		'La société BIG AUTO'
+2012	08	01		2012	08	01		a_transmis	A la demande de la préfecture, l'exploitant a transmis le 01/08/2012 un plan de gestion présentant les mesures de gestion envisageables.		

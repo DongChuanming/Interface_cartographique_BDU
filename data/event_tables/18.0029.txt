@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06	22		2001	06	22		La_liquidation_judiciaire_de	La liquidation judiciaire de la société est prononcée le 22 juin 2001 par le tribunal de Commerce de Bourges.		'le tribunal de Commerce de Bourges'
+2010	09	21		2010	09	21		a_prononcé_la_clôture_de_la_liquidation_judiciaire	Le tribunal de commerce de Bourges a prononcé la clôture de la liquidation judiciaire le 21 septembre 2010 pour insuffisance d'actif.		'Le tribunal de commerce de Bourges'
+2000	12			2000	12			ont_été_formulées	Suite aux constats faits lors d’une visite d’inspection du site en Décembre 2000, des présomptions de pollution des sols ont été formulées par l’inspection des installations classées.		
+2005	02			2005	02			un_diagnostic_des_sols	Dans le cadre d'une possible reprise du site, l'acheteur potentiel, KR EXPANSION, a fait réaliser un diagnostic des sols, remis en février 2005.		'KR EXPANSION'
+2012	03	20		2012	03	20		La_visite	La visite de l'inspection des installations classées du 20 mars 2012 a donné lieu aux constats suivants:		
+2010	09	21		2010	09	21		La_clôture_de_la_liquidation_judiciaire	La clôture de la liquidation judiciaire pour insuffisance d'actif a été prononcée par le tribunal de commerce de Bourges le 21 septembre 2010.		
+2000	12			2000	12			aux_constats_faits_lors_d_	Suite aux constats faits lors d’une visite d’inspection du site en Décembre 2000, des présomptions de pollution des sols ont été formulées par l’inspection des installations classées.		
+2002	01	04		2002	01	04		a_été_prescrite	L’exploitant puis le mandataire-liquidateur n’ayant pas donné suite dans le délai prévu, une consignation de fonds a été prescrite le 4 Janvier 2002 à l’encontre du mandataire-liquidateur pour réaliser les études demandées.		
+2013	08	05		2013	08	05		a_été_signé	Un arrêté préfectoral instituant les SUP a été signé le 5 août 2013, pour restreindre l'usage des terrains et la réalisation de travaux.		
+2001	06	22		2001	06	22		a_été_mise_en_liquidation_judiciaire_immédiate	La société exploitante a été mise en liquidation judiciaire immédiate le 22 Juin 2001.		

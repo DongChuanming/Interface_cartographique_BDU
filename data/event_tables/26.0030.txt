@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07			2000	07			sont_à_nouveau_excavées	Ainsi en juillet 2000, 41 tonnes de terres polluées sont à nouveau excavées et dirigées vers un centre de traitement extérieur.		
+1960				1960				est_exploité	Il est exploité depuis 1960 et spécialisé dans la fabrication de composants électroniques pour l'aéronautique.		
+2000	09			2000	09			la_mise_en_place	Le système de biodégradation in situ est optimisé par la mise en place d’une aspiration des vapeurs et gaz saturés dans les sols avec traitement sur charbon actif pendant une durée de six  mois à partir de septembre 2000.	'charbon actif'	
+1998	04	19		1998	04	19		la_réalisation_d__une_Evaluation_Simplifiée_de_Risques	Compte tenu de la proximité de cet usage sensible et de la forte perméabilité de la zone non saturée, M. le Préfet impose à la société, par arrêté préfectoral en date du 19 avril 1998, la réalisation d’une Evaluation Simplifiée de Risques ainsi que la mise en place immédiate de mesures destinées à protéger la ressource.		'le Préfet', 'la société'
+1999	05			1999	05			l__issue_de_cette_seconde_phase_de_diagnostic	A l’issue de cette seconde phase de diagnostic, en mai 1999 :		
+1998	09			1998	09			une_première_phase_de_diagnostic	A l’issue d’une première phase de diagnostic en août, septembre 1998 la réalisation de sondages au niveau du sol mettait en évidence :		
+1998	07			1998	07			est_détectée	En juillet 1998, une fuite de FOD sur une canalisation enterrée, est détectée dans l’enceinte de l’établissement  situé dans le périmètre de protection éloigné d’un des captages AEP qui alimente la ville de Valence.	'FOD'	
+								une_première_phase_de_diagnostic	A l’issue d’une première phase de diagnostic en août, septembre 1998 la réalisation de sondages au niveau du sol mettait en évidence :		
+2001				2001				Les_travaux_de_dépollution	Les travaux de dépollution ont été achevés fin 2001.		
+1998	07			1998	07			la_pollution_accidentelle_a_été_déclarée	Le site industriel sur lequel la pollution accidentelle a été déclarée en juillet 1998, occupe une superficie égale à 7 hectares en périphérie est de la commune de Valence.		
+2000	02			2000	02			réalisée	Une nouvelle campagne de reconnaissance de l’impact de la pollution réalisée en février 2000 à la demande de l’administration, confirme :		

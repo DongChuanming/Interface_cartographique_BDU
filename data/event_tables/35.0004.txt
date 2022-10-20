@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								un_dépôt_d__hydrocarbures_liquides_et_liquéfiés	La société ELF ANTAR FRANCE a été autorisée à exploiter un dépôt d'hydrocarbures liquides et liquéfiés dans les années 1960.	'hydrocarbures'	'La société ELF ANTAR FRANCE'
+2003				2003				le_démantèlement	En 2003, le démantèlement du poste libre service a été organisé et un diagnostic de pollution réalisé.		
+2004				2004				ont_été_démantelés	En 2004, 5 bacs aériens ont été démantelés.		
+2004				2004				ont_été_éliminées_en_biocentre	Les terres polluées à plus de 2 500 mg/kg d'hydrocarbures totaux (500 tonnes environ) ont été éliminées en biocentre en 2004.	'hydrocarbures totaux'	
+2009	03			2009	03			Le_pic	Le pic d'hydrocarbures C5-C6, observé sur un piézomètre en mars 2009, n'a pas été confirmé depuis.	'hydrocarbures'	
+2002	01	30		2002	01	30		a_été_prescrit	Un suivi trimestriel des eaux souterraines a été prescrit par arrêté préfectoral du 30 janvier 2002, avec la mise en place d'un réseau de 4 piézomètres, pour les HCT (C10-C40, C5-C10, C5-C40).		
+1994				1994				a_été_repris	Depuis 1994, le dépôt a été repris par la société TOTAL.		'la société TOTAL'
+								a_été_autorisée	La société ELF ANTAR FRANCE a été autorisée à exploiter un dépôt d'hydrocarbures liquides et liquéfiés dans les années 1960.	'hydrocarbures'	'La société ELF ANTAR FRANCE'

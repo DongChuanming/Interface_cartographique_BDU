@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01			2004	01			ont_annoncé_la_cessation_d__activité	En janvier 2004, les responsables de la société PAPETERIES MATUSSIERE ET FOREST ont annoncé la cessation d’activité (procédure de redressement judiciaire).		'la société PAPETERIES MATUSSIERE ET FOREST'
+1990				1990				a_été_acquis	Le site a été acquis par la société PAPETERIES MATUSSIERE ET FOREST en 1990.		'la société PAPETERIES MATUSSIERE ET FOREST'
+2012				2014				des_études_environnementales	Par ailleurs, des études environnementales ont été menées entre 2012 et 2014 sur ce site par l'Etablissement Public Foncier de Lorraine (EPFL).		
+2015	09	17		2015	09	17		La_dernière_visite	La dernière visite de l'inspection des installations classées, réalisée le 17 septembre 2015, a permis de constater que le site n'est pas mis en sécurité et peut porter atteinte aux intérêts liés l’article L. 511-1 du Code de l’Environnement car :		
+1993				1993				n__ont_plus_été_évacuées	Les boues n’ont plus été évacuées vers ce bassin à partir de 1993, mais les anciens dépôts de boues accumulées pendant 14 années y sont restés stockés.	'les anciens dépôts de boues'	

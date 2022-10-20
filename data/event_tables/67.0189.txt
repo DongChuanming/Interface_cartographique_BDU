@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01			2009	01			Les_dernières_analyses_effectuées	Les dernières analyses effectuées datent de janvier 2009, les résultats de cette analyse montrent :		
+2009	01			2009	01			a_été_mesurée	Une teneur en trichloroéthylène de 1200 ug/L a été mesurée sur le piézomètre du site en janvier 2009.	'trichloroéthylène'	
+1965	06	02		1965	06	02		délivré	Le récépissé de déclaration délivré le 2 juin 1965 à la société MUNSCH Père et Fils, l'autorise à exploiter ses ateliers où sont employés des cyanures alcalins , de chromage et de traitement électrolytique des métaux.	'cyanures alcalins'	'la société MUNSCH'
+2006	06	13		2006	06	13		Le_diagnostic_des_sols	Le diagnostic des sols a été réalisé le 13 juin 2006.		
+2009	01			2009	01			ont_été_réalisés	Deux piézomètres supplémentaires ont été réalisés en janvier 2009, le réseau de contrôle des eaux souterraines est ainsi composé de trois piézomètres.		
+2006	07	17		2006	07	17		Le_diagnostic_des_eaux_souterraines	Le diagnostic des eaux souterraines a été réalisé le 17 juillet 2006.		
+2007				2007				d__exploiter	La société a cessée d'exploiter son activité en 2007.		
+2007				2007				a_cessée	La société a cessée d'exploiter son activité en 2007.		
+1985	09	26		1985	09	26		sont_édités	Un arrêté et une instruction technique sont édités le 26 septembre 1985 et sont relatifs à la prévention des pollutions des sols, des eaux souterraines et du réseau d'assainissement.		

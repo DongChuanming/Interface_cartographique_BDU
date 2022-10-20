@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_délivré	L'agrément au titre des véhicules hors d'usage a été délivré le 22 mars 2007 pour une durée de 6 ans.		
+2009	10	02		2009	10	02		a_été_remise	L'étude a été réalisée en mai 2009 et a été remise à l'inspection des installations classées le 2 octobre 2009.		
+2008	10	09		2008	10	09		une_visite_a_été_réalisée	Le 9 octobre 2008, une visite a été réalisée par l'inspection des installations classées  sur le site qui a fait l'objet d'une attention particulière, en raison de plusieurs rappels à la réglementation, notamment pour des questions de sécurité liées à la présence du dépôt ANTARGAZ à proximité.		'du dépôt ANTARGAZ'
+2009	05			2009	05			L__étude_a_été_réalisée	L'étude a été réalisée en mai 2009 et a été remise à l'inspection des installations classées le 2 octobre 2009.		
+2007	03	22		2007	03	22		a_été_délivré	L'agrément au titre des véhicules hors d'usage a été délivré le 22 mars 2007 pour une durée de 6 ans.		
+2013	06	04		2013	06	04		une_visite	Le 4 juin 2013, une visite du site a été menée par l'inspection des installations classées en collaboration avec la brigade de gendarmerie de Loriol.		

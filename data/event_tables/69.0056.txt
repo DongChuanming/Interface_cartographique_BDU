@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	02	17		1992	02	17		ont_été_autorisées	Les activités ont été autorisées par l'arrêté préfectoral du 17 février 1992.		
+2006	06	30		2006	06	30		a_été_découverte	Le 30 juin 2006, lors de travaux de forage en vue de la réalisation de nouveaux puits de pompage et de réinjection des eaux souterraines utilisées pour le refroidissement des installations, une pollution de la nappe a été découverte .		
+1950				1950				s__est_progressivement_développée	Depuis cette date, l'usine s'est progressivement développée en s'étendant d'ouest en est (1950), puis vers le nord (1966) pour atteindre la rue Léon Blum.		
+2009	09	28		2009	09	28		ont_été_adressés	Ces documents ont été adressés à l'inspection des installations classées le 28 septembre 2009.		
+2006	10	26		2006	10	26		un_traitement_de_la_nappe	En application de l'arrêté préfectoral d'urgence du 26 octobre 2006, un traitement de la nappe par pompage écrémage aux alentours de la zone incriminée a été mis en œuvre.		
+2008				2008				Les_données_antérieures	Les données antérieures à 2008 n'ont pas été jugées représentatives de la qualité actuelle des eaux de la nappe.		
+2009	05			2009	05			l__enquête_de_voisinage_réalisée	L'interprétation de l'état des milieux est basée sur les données recueillies : lors de l'enquête de voisinage réalisée en mai 2009 et visant à identifier les usages de l'eau hors site éventuellement existant ; à partir de l'ensemble des données analytiques disponibles au droit des ouvrages piézométriques situés en aval hydraulique du site.		
+1998	06			1998	06			fait_partie_du	Après avoir été appelée ACED, Delle - Alsthom, Alsthom, GEC – ALSTHOM, depuis juin 1998 l'usine fait partie du groupe ALSTOM qui est propriétaire du terrain.		'ACED , Delle', 'Alsthom', 'Alsthom', 'GEC – ALSTHOM', 'groupe ALSTOM'
+2008	01			2009	04			mesurées	Les concentrations retenues correspondent aux concentrations maximales mesurées pour chaque paramètre entre janvier 2008 et avril 2009 au droit des piézomètres aval PZ13, PZ5, PZ11, PZ19, PZ2, PZ6 et PZ10.		
+2007	09			2007	09			a_été_arrêté	Ayant atteint ses limites techniques, ce traitement a été arrêté en septembre 2007 en accord avec l'inspection des installations classées.		

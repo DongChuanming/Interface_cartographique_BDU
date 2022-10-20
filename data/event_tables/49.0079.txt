@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	07	02		1996	07	02		Un_incendie	• Un incendie, survenu le 2 juillet 1996, détruit un bâtiment de stockage isolé d’une capacité de 980 m² contenant 441 t de matières premières et 98 t de produits finis.		
+2010				2010				construit	• Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+2009				2009				à_un_nouvel_incendie	• Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+2015	01	04		2015	01	04		est_déclarée_en_liquidation_judiciaire	La société COPROARLV EFFIREAL & SCI DU PONT est déclarée en liquidation judiciaire le 4 janvier 2015.		'La société COPROARLV EFFIREAL & SCI DU PONT'
+2004	09	20		2004	09	20		un_incendie_a_lieu	• Le 20 septembre 2004, un incendie a lieu dans la zone où sont stockées environ 40 t de feutrine.	'feutrine'	
+								déclare	Le mandataire déclare le 13/09/17 que le portail situé en bordure de route est fermé par un cadenas et une pancarte limitant l'accès est présente.		
+2010				2010				construit	Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+1999				1999				connaît	A partir de 1999, la production connaît une évolution vers la fabrication de matériaux isolants (laine de chanvre), de paillage biodégradable et de sous-couches pour parquets.	'matériaux isolants'	
+2009				2009				construit	Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+1995	09	07		1995	09	07		la_reprise_du_site	Puis, la société EFFIREAL (Coproarlv) régularise la situation administrative en 1998, suite à la reprise du site le 7 septembre 1995 et à un incendie survenu le 2 juillet 1996.		'la société EFFIREAL', 'Coproarlv'
+1949				1949				a_été_repris	En 1949 le site a été repris par l’entreprise BAUGAS, qui a cessé le traitement des chiffons à l’acide chlorhydrique et agrandi les locaux en 1976.	'acide chlorhydrique'	'entreprise BAUGAS'
+2014	10	24		2014	10	24		prononce_l__ouverture_d__une_procédure_de_redressement_judiciaire	Le 24 octobre 2014 le tribunal de commerce d’Angers prononce l’ouverture d’une procédure de redressement judiciaire.		
+1998				1998				régularise	Puis, la société EFFIREAL (Coproarlv) régularise la situation administrative en 1998, suite à la reprise du site le 7 septembre 1995 et à un incendie survenu le 2 juillet 1996.		'la société EFFIREAL', 'Coproarlv'
+1996	07	02		1996	07	02		régularise	Puis, la société EFFIREAL (Coproarlv) régularise la situation administrative en 1998, suite à la reprise du site le 7 septembre 1995 et à un incendie survenu le 2 juillet 1996.		'la société EFFIREAL', 'Coproarlv'
+2014	06	26		2014	06	26		construit	• Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+2009				2009				construit	• Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+1996	07	02		1996	07	02		un_incendie_survenu	Puis, la société EFFIREAL (Coproarlv) régularise la situation administrative en 1998, suite à la reprise du site le 7 septembre 1995 et à un incendie survenu le 2 juillet 1996.		'la société EFFIREAL', 'Coproarlv'
+								de_la_visite_d__inspection	Lors de la visite d’inspection du 26/09/19, le site était entièrement clos et les déchets liés à l'ancienne activité évacués.		
+2009				2009				à_un_nouvel_incendie	Suite à un nouvel incendie en 2009, EFFIREAL construit en 2010 un nouveau bâtiment de stockage (arrêté préfectoral d’autorisation du 26 juin 2014).		'EFFIREAL'
+1998	10	08		1998	10	08		a_été_autorisé_à_exploiter	EFFIREAL a été autorisé à exploiter un dépôt et une installation de traitement de fibres pour la fabrication d’isolant à base de fibres végétales et textiles par arrêté préfectoral du 8 octobre 1998.	'fibres végétales'	'EFFIREAL'
+								para___textile_existe	La présence d’activité textile et para-textile existe à Chemillé depuis la moitié du 18ᵉ siècle au droit de formations argileuses dans la vallée de l’Hyrôme relativement encaissée.		
+								Lors_de_la_visite_d__inspection	Lors de la visite d’inspection du 26/09/19, il est constaté que :		
+2009	07	1		2009	07	1		touche	• Puis, le 1e juillet 2009 un autre incendie touche une zone de stockage détruisant entre 300 à 400 t de fibres végétales et environ 600 m² de hangar au nord du site.	'fibres végétales'	
+2016	06	17		2016	06	17		a_évacué	Le 17 juin 2016, une entreprise spécialisée a évacué 3,4 t de déchets dangereux en centre agréé.	'de déchets dangereux'	
+1976				1976				agrandi_les_locaux	En 1949 le site a été repris par l’entreprise BAUGAS, qui a cessé le traitement des chiffons à l’acide chlorhydrique et agrandi les locaux en 1976.	'acide chlorhydrique'	'entreprise BAUGAS'

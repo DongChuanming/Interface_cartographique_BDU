@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	23		2005	05	23		a_procédé_à_la_déclaration	La société Minnesota Rubber Europe a procédé à la déclaration de cessation d'activité auprès de M. le préfet de l'Eure le 23 mai 2005 et a remis les justificatifs d'élimination de 300 tonnes de déchets suite à cette cessation d'activité.		'La société Minnesota Rubber Europe', "le préfet de l' Eure"
+2003				2003				La_première_campagne	La première campagne réalisée fin 2003 est basée uniquement sur l'identification des zones potentielles à risque identifiées dans l'étude historique.		
+2006	09	21		2006	09	21		le_document_définitif	La société MATMUT a remis à l'inspection des installations classées le document définitif présentant le Diagnostic Approfondi du site  et l'Evaluation Détaillée des Risques sanitaires le 21 septembre 2006.		'La société MATMUT'
+2007	07			2007	07			Les_travaux_de_dépollution	Les travaux de dépollution du site ont débuté début juillet 2007		
+2007	01	05		2007	01	05		a_été_signé	L'arrêté Préfectoral a été signé le 5 janvier 2007.		
+2005				2005				Cette_deuxième_campagne_s__est_déroulée	Cette deuxième campagne s'est déroulée fin 2005 et a consisté en la réalisation de :		
+1914				1914				_E__débuta	.E. débuta en 1914 avec la construction, par la société Luchaire, d'une usine de fabrication de caoutchouc pour l'armement.		'la société Luchaire'

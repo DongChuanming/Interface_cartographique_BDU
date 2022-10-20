@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08			2001	08			ont_été_demandés	Des compléments d'analyse ont été demandés à St Gobain en août 2001 par la DRIRE.		'St Gobain', 'la DRIRE'
+2002				2010				les_analyses_réalisées	Un piézomètre ancien a été remis en service en 2001. les analyses réalisées de 2002 à 2010 montrent :		
+1999	10			1999	10			Les_analyses_réalisées	Les analyses réalisées en octobre 1999 ont confirmé un relargage d'éléments issus de la décharge notamment le fer, l'ammonium, les chlorures, les sulfates et le sodium.	'fer', 'ammonium', 'les chlorures', 'sulfates', 'sodium'	
+1997				1997				Les_analyses_réalisées	Les analyses réalisées en 1997 ont montré la persistance des teneurs élevées en sodium et sulfates.	'sodium', 'sulfates'	
+2001				2001				a_été_remis_en_service	Un piézomètre ancien a été remis en service en 2001. les analyses réalisées de 2002 à 2010 montrent :		

@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	14		2012	05	14		sont_finalement_remis	Le mémoire de réhabilitation et le plan de gestion définitifs sont finalement remis le 14 mai 2012.		
+1901				1901				a_commencé	L’activité de l’usine a commencé en 1901.		
+2012	05	14		2012	05	14		prescrit_les_mesures	Sur la base du mémoire de réhabilitation définitif du 14 mai 2012, l'arrêté préfectoral du 13/11/2013 prescrit les mesures de gestion suivantes :		
+2015	06			2015	06			est_prévue	La finalisation des opérations de réhabilitation est prévue pour fin juin 2015.		
+2012	10	12		2012	10	12		transmet	Le 12/10/2012, La CUB transmet au Préfet le mémoire justifiant l'incompatibilité manifeste de la réhabilitation proposée par le plan de gestion avec l'usage mixte modifié par le PLU de 2012.		'La CUB'
+				2015	04			__le_chantier_de_neutralisation	2- zones de pollution diffuse acide : le chantier de neutralisation des sols acides s’est déroulé de février à avril 2015.	'sols acides'	
+2008	04			2008	04			Les_premiers_travaux_de_démolition	Les premiers travaux de démolition (dont désamiantage) démarrent en avril 2008.		
+2012				2012				la_modification_du_PLU_en	Toutefois, la modification du PLU en en 2012, classe le secteur à usage mixte, habitations, activités tertiaires et activités diverses.		
+2012	09	03		2012	09	03		est_notifié	Le désaccord de Grande Paroisse est notifié le 03/09/2012.		
+								le_démarrage_des_dits_travaux	L'échéancier des travaux doit être transmis à la DRIRE 15 jours avant le démarrage des dits travaux.		'la DRIRE'
+				2015	03			les_travaux_de_dépollution	Le 06/10/2014, l'inspection constate que les travaux de dépollution ont démarré et devraient se poursuivre jusqu'en mars 2015.		
+2008	06			2008	06			a_cessé	SOFERTI conserve temporairement qu'une production de sulfate d'alumine qui a cessé en juin 2008 (activité soumise au régime de l'autorisation).	"sulfate d' alumine"	'SOFERTI'
+2009	11	02		2009	11	02		La_cessation_définitive	La cessation définitive de l'activité est notifiée à l'administration le 02/11/2009.		
+1999	09	02		1999	09	02		Les_études_remises	Les études remises le 02/09/1999 montrent que la source principale de pollution potentielle des sols est imputable à l'utilisation de pyrites et à l'activité des chambres de plomb arrêtées en 1960.		
+2015	06	04		2015	06	04		__SOFERTI_a_transmis	Pour ce qui concerne le risque inondation  / conformité au PPRI, le 4 juin 2015, SOFERTI a transmis à l’inspection des installations classées la note BURGEAP RESISO4565-01 présentant une analyse de la conformité des opérations de réhabilitation comprenant des travaux d’excavations et de remblayage, avec le règlement du plan de prévention du risque inondation (PPRI) en vigueur.		', SOFERTI', 'note BURGEAP RESISO4565'
+2007	08	10		2007	08	10		a_notifié	SOFERTI a notifié l'arrêt partiel de ses activités le 10/08/2007.		'SOFERTI'
+2014	08			2015	09			les_travaux_de_dépollution	- les travaux de dépollution ont été menés de août 2014 à septembre 2015,		
+2015	12	15		2015	12	15		est_remis	Le dossier de servitudes est remis le 15/12/2015.		
+2008	12	05		2008	12	05		est_remis	Le rapport d'évaluation du niveau des rayonnements ionisants est remis le 05/12/2008.		
+2015	12	15		2015	12	15		est_remis	- le rapport de fin de travaux est remis le 15/12/2015,		
+2008	07	01		2008	07	01		sont_supervisés	Ces travaux sont supervisés par la société RETIA, filiale du groupe TOTAL depuis le 01/07/2008.		'la société RETIA', 'groupe TOTAL'
+2008	04			2008	04			ont_été_vidés	Les cuves et les stockages ont été vidés et nettoyés, 20000 tonnes de produits finis sont évacués depuis avril 2008.	'produits finis'	
+2008	11	04		2008	11	04		est_remis	Le planning est remis le 04/11/2008.		
+2009	01	15		2009	01	15		Le_diagnostic_remis	Le diagnostic remis le 15/01/2009 montre une pollution quasi généralisée des sols et de la nappe des remblais par des métaux et métalloïdes (As, Cd, Cu, Zn, Pb, Ni, Cr) et des solubles (sulfates, nitrates, chlorures, fluorures et orthophosphates).	'des métaux', 'métalloïdes', 'As', 'Cd', 'Cu', 'Zn', 'Pb', 'Ni', 'Cr', 'des solubles', 'sulfates', 'nitrates', 'chlorures', 'fluorures', 'orthophosphates'	
+2010	04	19		2010	04	19		est_remis	Le plan de gestion est remis le 19/04/2010 qui a fait l'objet d'observations et de demandes de l'inspection.		
+1960				1960				arrêtées	Les études remises le 02/09/1999 montrent que la source principale de pollution potentielle des sols est imputable à l'utilisation de pyrites et à l'activité des chambres de plomb arrêtées en 1960.		

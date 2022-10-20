@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	31		2007	08	31		est_aujourd_hui_à_l__arrêt	La station service Relais Elf-Total, située 2 avenue du Général De Gaulle est aujourd'hui à l'arrêt, en cessation d'activité depuis le 31/08/2007.		'La station service Relais Elf - Total', 'Général De Gaulle'
+2007	07			2007	07			une_étude_environnementale	Dans le cadre du projet de fermeture définitive de la station, une étude environnementale du sous-sol a été réalisée en juillet 2007.		
+2007	08	31		2007	08	31		en_cessation_d__activité	La station service Relais Elf-Total, située 2 avenue du Général De Gaulle est aujourd'hui à l'arrêt, en cessation d'activité depuis le 31/08/2007.		'La station service Relais Elf - Total', 'Général De Gaulle'
+2008				2009				un_suivi	Un suivi environnemental, des travaux de démantèlement ont été réalisés en 2008, puis un suivi de la qualité des eaux souterraines et des gaz du sol entre 2008 et 2009 avec une analyse des risques résiduels mise à jour en 2010.		
+2008	03			2008	03			Un_démantèlement	Un démantèlement des installations pétrolières a été effectué en février et mars 2008.		
+2007	07			2007	07			Le_diagnostic	Le diagnostic des eaux souterraines et des sols a été réalisé en juillet 2007.		
+2014				2014				ont_été_inertés_dans	Les piézomètres et piézairs du site ont été inertés dans les règles de l'art en 2014.		
+2010				2010				L__analyse	L'analyse des risques résiduels (ARR) mise à jour en 2010 indique une compatibilité de l'état des milieux avec un usage futur résidentiel avec ou sans sous-sol.		
+2013	01	24		2013	01	24		Une_visite_de_contrôle	Une visite de contrôle de l'Inspection des installations classées a été réalisée le 24 janvier 2013 et n'a pas relevé de non-conformités par rapport aux éléments contrôlés.		
+2013	03	07		2013	03	07		a_été_délivré_par	Le récépissé de clôture de la procédure de cessation d'activité a été délivré par la préfecture du Bas-Rhin le 7 mars 2013.		'la préfecture du Bas-Rhin'
+								Un_démantèlement	Un démantèlement des installations pétrolières a été effectué en février et mars 2008.		
+2008				2009				Le_suivi	Le suivi de la qualité des eaux souterraines et gaz du sol entre 2008 et 2009 montre l'absence d'impact.		
+2008				2008				ont_été_réalisés	Un suivi environnemental, des travaux de démantèlement ont été réalisés en 2008, puis un suivi de la qualité des eaux souterraines et des gaz du sol entre 2008 et 2009 avec une analyse des risques résiduels mise à jour en 2010.		

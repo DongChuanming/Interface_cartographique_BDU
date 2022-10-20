@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06	29		2008	06	29		un_incendie	Le 29 juin 2008 un incendie au droit des installations de travail du bois a été déclaré.		
+2004				2004				Les_campagnes_de	Les campagnes de 2004, du 17 mai 2005, du 20 septembre 2005 et du 18 octobre 2006 ne montrent aucun impact sur la nappe.		
+2005	05	17		2005	05	17		Les_campagnes_de	Les campagnes de 2004, du 17 mai 2005, du 20 septembre 2005 et du 18 octobre 2006 ne montrent aucun impact sur la nappe.		
+2005	09	20		2005	09	20		Les_campagnes_de	Les campagnes de 2004, du 17 mai 2005, du 20 septembre 2005 et du 18 octobre 2006 ne montrent aucun impact sur la nappe.		
+2006	02	23		2006	02	23		Le_changement	Le changement d'exploitant ESCOBOIS au profit de GASCOGNE WOOD est intervenu le 23 février 2006.		'ESCOBOIS', 'GASCOGNE WOOD'
+2008	06	11		2008	06	11		GASCOGNE_WOOD	Le 11 juin 2008, l'exploitant GASCOGNE WOOD devient GASCOGNE WOOD PRODUCTS.		'GASCOGNE WOOD devient GASCOGNE WOOD PRODUCTS'
+				2006	10	18		Les_campagnes_de	Les campagnes de 2004, du 17 mai 2005, du 20 septembre 2005 et du 18 octobre 2006 ne montrent aucun impact sur la nappe.		
+1996	11	27		1996	11	27		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 27 novembre 1996.		

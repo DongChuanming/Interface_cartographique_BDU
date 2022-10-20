@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	10		2012	04	10		a_révélé	Le 10 avril 2012, l'inspection de la DREAL a révélé le bon entretien et la mise en sécurité du site par des clôtures.		'la DREAL'
+1985	01	10		1985	01	10		ont_commencé	Les premiers apports de déchets ont commencé le 10 janvier 1985.		
+1999	06	14		1999	06	14		a_été_mise_à_l__arrêt	L'installation a été mise à l'arrêt le 14 juin 1999.		
+1985				1994				a_été_exploité	Le site "1" a été exploité de 1985 à 1994 et le site "2" de 1995 à 1999.		
+1995				1999				a_été_exploité	Le site "1" a été exploité de 1985 à 1994 et le site "2" de 1995 à 1999.		
+1984	08	1		1984	08	1		relève_du_régime	Depuis le 1er août 1984, la société SITA relève du régime d'autorisation pour l'exploitation d'une installation de stockage de déchets ménagers non dangereux.		'la société SITA'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06			2001	06			a_donc_transmis	La société PCE a donc transmis en complément un plan d'opération de dépollution de la nappe en juin 2001.		'La société PCE'
+1999				1999				les_installations	- démantelé les installations et éliminé le transformateur au PCB en 1999,	'PCB'	
+2008	03			2008	03			la_campagne_dʼéchantillonnage	Le rapport dʼactivité n°12 est relatif à la campagne dʼéchantillonnage de Mars 2008, il s'agit du dernier rapport.		
+1999				1999				éliminé_le_transformateur	- démantelé les installations et éliminé le transformateur au PCB en 1999,	'PCB'	
+2005	03			2005	03			a_été_vendu	En mars 2005, le site a été vendu à la commune de Liancourt.		
+2001	03			2001	03			une_évaluation_détaillée_des_risques	La société PCE a communiqué une évaluation détaillée des risques en mars 2001, pour un usage industriel, qui conclut à un niveau de risque acceptable concernant la pollution des sols, mais à la nécessité de dépolluer la nappe d'eau souterraine.		'La société PCE'
+2015	03			2015	03			une_nouvelle_évaluation_environnementale	En mars 2015, une nouvelle évaluation environnementale (eau, sol, gaz du sol) a été conduite à la demande de la mairie de Liancourt, réalisée en référence à la méthodologie nationale établie par les circulaires du 8 février 2007 et les outils méthodologiques concernant la gestion des sites pollués.		
+1997				1997				réalisé_un_diagnostic	- réalisé un diagnostic de l'état des sols et des eaux souterraines en 1997, complété en 1999.		
+1999				1999				réalisé_un_diagnostic	- réalisé un diagnostic de l'état des sols et des eaux souterraines en 1997, complété en 1999.		
+2003				2003				les_travaux_de_dépollution	En 2003 ont débuté les travaux de dépollution de la nappe d'eau souterraine.		
+1999				1999				La_cessation_d__activité	La cessation d'activité a été déclarée en 1999.		
+1999	1997			1999	1997			Les_investigations_réalisées	Les investigations réalisées en 1997/1999 ont détectées :		

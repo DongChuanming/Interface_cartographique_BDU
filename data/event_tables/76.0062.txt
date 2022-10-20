@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	04	28		1998	04	28		Une_évaluation_détaillée_des_risques	Une évaluation détaillée des risques a été remise le 28 avril 1998.		
+1921				1998				a_été_exploitée	Une fabrication de boulets de charbon, à partir de fines de charbon et de brai, a été exploitée sur ce site de 1921 à 1998.	'charbon', 'charbon'	
+1998	12	10		1998	12	10		a_été_signé	Un APC comportant les conditions de remise en état du site a été signé le 10 décembre 1998.		
+1998				1998				la_remise	À la suite de la fermeture du site en 1998, la remise d'un mémoire sur l'état du site et la réalisation d'une évaluation détaillée des risques ont été imposés par APC du 3 février 1998.		
+1999	10	13		1999	10	13		a_remis	La Société FRANCE CHARBON a remis à l'Inspection des Installations Classées le 13 octobre 1999 un mémoire relatif à l'ensemble des opérations de dépollution (analyse initiale des sols avant dépollution, EDR, traitement des terres polluées, rapport de synthèse).		'La Société FRANCE CHARBON'
+1998	02	03		1998	02	03		la_remise	À la suite de la fermeture du site en 1998, la remise d'un mémoire sur l'état du site et la réalisation d'une évaluation détaillée des risques ont été imposés par APC du 3 février 1998.		

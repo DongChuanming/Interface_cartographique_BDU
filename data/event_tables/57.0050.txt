@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				avait_été_décelée	Une pollution aux hydrocarbures avait été décelée près de la zone des hydrocarbures : les terres polluées ont été excavées en 2006.	'hydrocarbures'	
+2006	11	30		2006	11	30		une_visite_de_récolement	Le 30 novembre 2006, une visite de récolement des travaux de remise en état du site a été effectuée.		
+2001	09			2001	09			_un_diagnostic	-un diagnostic de la qualité des eaux de la nappe phréatique à l'aval immédiat de la zone de tri et à l'aval immédiat de la cuve et du poste de distribution de gazole  (septembre 2001).	'gazole'	
+2006				2006				le_démantèlement_des	Cette visite a fait l'objet d'un rapport du 12 décembre 2006 dans lequel il est précisé que le démantèlement des installations de compression serait engagé fin 2006 lors de l'arrêt de l'exhaure, avec la démolition du bâtiment.		
+2008	03			2008	03			le_récolement	En mars 2008 le récolement du site du Carreau a été réalisé.		
+1999	06	04		1999	06	04		une_inspection	Le 4 juin 1999, une inspection a été réalisée sur le site de la société SURSCHISTE et a permis de constater que la remise en état du site était achevée et conforme aux dispositions prévues.		'la société SURSCHISTE'
+2007	06	06		2007	06	06		de_la_visite	Lors de la visite du 6 juin 2007, il a été constaté que les deux compresseurs ont été démontés et évacués des bâtiments.		
+1994	08	03		1994	08	03		autorisation	L'activité exercée était soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 03 août 1994.		
+				2007				a_été_exploité	Le site a été exploité par Charbonnages de France (anciennement Houillères du Bassin de Lorraine) jusqu'en 2007 (année du récolement).		'Charbonnages de France'
+1998	12	14		1998	12	14		Un_diagnostic_initial	Un diagnostic initial et une étude simplifiée des risques (ESR) ont été demandés par l'arrêté préfectoral du 14 décembre 1998.		
+2004	08			2004	08			a_été_fournis	Le dossier de remise en état partiel a été fournis en août 2004 à l'inspection des installations classées qui l'a jugé complet.		
+1994	08	03		1994	08	03		L__activité_exercée	L'activité exercée était soumise à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 03 août 1994.		

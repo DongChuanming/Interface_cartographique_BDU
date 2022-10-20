@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_été_mis_en_place	En 2003, un réseau de surveillance composé de 3 piézomètres a été mis en place conformément aux dispositions de l’arrêté ministériel du 2 février 1998, le site relevant du régime de l’autorisation à cette date.		
+1998	02	02		1998	02	02		a_été_mis_en_place	En 2003, un réseau de surveillance composé de 3 piézomètres a été mis en place conformément aux dispositions de l’arrêté ministériel du 2 février 1998, le site relevant du régime de l’autorisation à cette date.		
+1998	03			1998	03			ont_été_excavées	430 m3 de terres ont été excavées en février-mars 1998 en vue de leur traitement sur site par biotertre. 350 m3 ont donc été mis en andains sur 3 zones de traitement.		
+2015	06	22		2015	06	22		ont_été_mises_à_l__arrêt	Ces installations ont été mises à l'arrêt le 22 juin 2015.		
+1999				1999				un_nouveau_diagnostic	En 1999, un nouveau diagnostic a été mené au droit de la zone des anciennes cuves dans le cadre d’un projet de travaux de modernisation. 6 sondages de sols ont fait apparaître des teneurs en hydrocarbures comprises entre 100 et 12 000 mg/kg de MS.	'hydrocarbures'	
+1992				1992				__déversement_de_500	-  en 1992 : déversement de 500 l de gasoil,	'de gasoil'	
+1988	12	20		1988	12	20		est_réglementée	Cette activité exercée depuis 1970 est réglementée par l’arrêté préfectoral n°88.3421 du 20 décembre 1988.		
+1997	12			1997	12			__déversement_de	-  en décembre 1997 : déversement de 9 m3 de gasoil dans le réseau eaux pluviales du site conduisant à une pollution de l’Essonne.	'de gasoil'	
+1998				1998				démantelé	Des drains de réinjection permettant le lessivage de la source résiduelle au droit de l’ancien parc à cuves démantelé en 1998, complètent le dispositif.		
+1998	04	14		1998	04	14		a_été_entreprise	Suite au  second déversement, une vérification de la qualité des sols et des eaux souterraines a été entreprise et a fait l’objet du rapport du 14 avril 1998.		
+								ont_été_excavées	430 m3 de terres ont été excavées en février-mars 1998 en vue de leur traitement sur site par biotertre. 350 m3 ont donc été mis en andains sur 3 zones de traitement.		
+2010				2012				était_intégré_au_projet_de	Pour mémoire, le site était intégré au projet de recherche ATTENA entre 2010 et 2012.		'ATTENA'
+2015				2015				relève_du_régime_de_déclaration	Depuis 2015, elle relève du régime de déclaration avec contrôle périodique notamment pour cette activité de distribution de liquides inflammables classée sous la rubrique 1435 de la nomenclature des installations classées pour l’environnement.	'liquides inflammables'	

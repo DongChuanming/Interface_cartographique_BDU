@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	08		2001	02	08		a_été_signé	L'arrêté préfectoral a été signé le 8 février 2001.		
+2005	04			2005	04			Evaluation_Simplifiée_des_Risques	L'Evaluation Simplifiée des Risques a été mise à jour en avril 2005 concluant que les eaux de la nappe ne présentent pas de concentrations en arsenic et hydrocarbures supérieures à la limite de quantification.	'arsenic', 'hydrocarbures'	
+2003	06	10		2003	06	10		ont_ensuite_été_fournis	Des compléments ont ensuite été fournis par l'exploitant le 10 juin 2003.		
+2003	02			2003	02			a_été_reçue	L'étude a été reçue en février 2003.		

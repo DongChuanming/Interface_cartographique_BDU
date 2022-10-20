@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	12			2009	12			La_visite	La visite de décembre 2009 a été menée pour faire le point sur la situation administrative de l'établissement et vérifier le respect des arrêtés préfectoraux.		
+2003	05	1		2003	05	1		l__incendie	Aucune régularisation administrative n'avait été effectuée par l'exploitant jusqu'à l'incendie qui s'est produit sur le site le 1er mai 2003 et qui a pu avoir un impact sur la qualité des sols et des eaux souterraines.		
+2011	08			2011	08			Un_dossier_de_demande	Un dossier de demande d'autorisation d'exploiter a été déposé en août 2011 et comprend une étude de sol (5 prélèvement de sol montrant un impact).		

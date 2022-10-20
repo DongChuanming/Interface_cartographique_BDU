@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	02		2012	04	02		Les_investigations_de_terrain	Les investigations de terrain se sont déroulées le 02/04/2012.		
+2012	03	30		2012	03	30		Les_prélèvements_ont_été_effectués	Les prélèvements ont été effectués le 30/03/2012 sur 5 piézairs (PzA1 à PzA5).		
+1976	08	06		1976	08	06		de_déclaration	Le site bénéficiait d'un récépissé de déclaration en date du 06/08/1976.		
+2012	11	27		2012	11	27		a_été_remis	Le rapport de fin de travaux a été remis à la DREAL le 27/11/2012.		'la DREAL'
+2009	02			2009	02			DIAGNOSTIC_ENVIRONNEMENTAL	* DIAGNOSTIC ENVIRONNEMENTAL (établi en février 2009 par G ENVIRONNEMENT)		'ENVIRONNEMENTAL', 'G ENVIRONNEMENT'
+2012	11	27		2012	11	27		Une_réunion	Une réunion s'est tenue le 27/11/2012 entre la DREAL, TERRITOIRE 38, la société CIRMAD (responsable du projet) et le bureau d'études ERG.		'la DREAL', 'TERRITOIRE 38', 'la société CIRMAD', 'ERG'
+2012	09			2012	09			ont_été_implantés_hors_site	Deux piézomètres (aval et aval latéral hors site) complémentaires ont été implantés hors site en septembre 2012 et des prélèvements ont été effectués.		
+				2012	03	06		Les_travaux	Les travaux se sont déroulés du 5 au 06/03/2012.		
+2012	06	11		2012	06	11		MISE_EN_SÉCURITÉ	* MISE EN SÉCURITÉ DU SITE ET MESURES DE GESTION (Plan de gestion établi le 11/06/2012)		'SÉCURITÉ'
+				2012	11			Les_travaux_seront_effectués	Les travaux seront effectués sur une période de 4 mois jusqu'en novembre 2012 et comprenant la surveillance des eaux souterraines hors site en aval hydraulique.		
+2012	03	29		2012	03	29		a_été_implanté	Un piézomètre complémentaire (PZ4) a été implanté le 29/03/2012.		
+2008	12			2008	12			Les_prélèvements_effectués	Les prélèvements effectués en décembre 2008 ont mis en évidence des anomalies en PZ1 et PZ2 avec 230 mg/L d'HCT, 4,3 mg/L de HAP, 670 µg/L de BTEX.	"L d' HCT", 'HAP', 'BTEX'	
+2014	08	22		2014	08	22		l__arrêt	Compte tenu de l’absence de dépassement des seuils de référence au niveau de 'l’ensemble des ouvrages de surveillance, l'arrêt de la surveillance a été confirmé par courrier du 22 août 2014.		
+2016	07	1		2016	07	1		ont_été_instaurées	Afin de pérenniser les hypothèses prises en compte dans l'évaluation des risques sanitaires, des servitudes ont été instaurées par arrêté préfectoral en date du 1er juillet 2016.		
+2012	04			2012	04			Les_prélèvements_ont_eu_lieu	Les prélèvements ont eu lieu en mars 2012 et avril 2012.		
+2012	08	16		2012	08	16		a_été_mise_en_fonctionnement	L'unité de traitement a été mise en fonctionnement le 16/08/2012.		
+2012	10	31		2012	10	31		Des_investigations	Des investigations des eaux souterraines et des gaz du sol ont été réalisées le 31/10/2012.		
+2007	06	26		2007	06	26		dégazées_et_neutralisées	- 2 cuves enterrées pour l'activité station-service (dégazées et neutralisées le 26/06/2007) ;		
+2012	06	11		2012	06	11		établi	* MISE EN SÉCURITÉ DU SITE ET MESURES DE GESTION (Plan de gestion établi le 11/06/2012)		'SÉCURITÉ'
+2012	03			2012	03			Les_prélèvements_ont_eu_lieu	Les prélèvements ont eu lieu en mars 2012 et avril 2012.		
+2012	08	03		2012	08	03		a_été_transmis	Le dossier de cessation d'activités établi par ERG ENVIRONNEMENT pour le compte de TERRITOIRE 38, a été transmis à la Préfecture le 03/08/2012.		'ERG ENVIRONNEMENT', 'TERRITOIRE 38', 'la Préfecture'
+2007	06	26		2007	06	26		Rapport_établi	* RAPPORT DE RECONNAISSANCE DES SOLS (Rapport établi le 26/06/2007)		
+2009	01			2009	01			La_campagne_complémentaire	La campagne complémentaire effectuée en janvier 2009 a mis en évidence une épaisseur de flottant de 10 cm au droit de PZ2.		
+1976	08	06		1976	08	06		bénéficiait_d_	Le site bénéficiait d'un récépissé de déclaration en date du 06/08/1976.		

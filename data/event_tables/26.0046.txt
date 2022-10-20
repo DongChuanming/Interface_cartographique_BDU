@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	12		2006	07	12		transmet	Le 12 juillet 2006, l'inspection des installations classées transmet les observations suivantes :		
+								nous_transmettait	Le 13  janvier 2005, la Ville de Romans nous transmettait, pour avis, directement l’ESR ainsi que le rapport de contrôle de la dépollution du site.		', la Ville de Romans'
+2004	02	23		2004	02	23		a_transmis	Le 23 février 2004, à l’issue de l’examen du rapport visé, l’Inspection des Installations Classées a transmis son avis à M. le Maire de Romans.		'le Maire de Romans'
+2005	01			2005	01			nous_transmettait	Le 13  janvier 2005, la Ville de Romans nous transmettait, pour avis, directement l’ESR ainsi que le rapport de contrôle de la dépollution du site.		', la Ville de Romans'
+1931				1931				libèrent	A  partir de 1931, toutefois, les Tanneries ROBERT libèrent certaines parcelles du site où d’autres activités industrielles s’installent(transformation de vinyle, imprimerie, dépôt …).		', les Tanneries ROBERT'
+2006	07	06		2006	07	06		__transmettait	Le 06 juillet 2006 la SCI ROBERT  transmettait à l'inspection le rapport final de remise en état du site.		'la SCI ROBERT'

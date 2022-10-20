@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	08			1995	08			a_été_placée_en_liquidation_judiciaire	La société Alpha Décoration a été placée en liquidation judiciaire avec arrêt immédiat des activités en août 1995.		'La société Alpha Décoration'
+2010				2010				L__étude_réalisée	L’étude réalisée par l’EPFL en 2010 sur ce site montre la nécessité, en fonction des usages pris en compte, de mettre en œuvre les mesures de gestion appropriées afin de s’assurer qu’à tout moment l’état du site est compatible avec les usages considérés.		
+1993	12			1993	12			a_été_placée_en_liquidation_judiciaire	La société International Décor a été placée en liquidation judiciaire en décembre 1993.		'La société International Décor'
+1996				2007				ont_été_réalisés	Compte  tenu de l’impécuniosité des liquidations judiciaires, des études et des travaux de mise en sécurité du site ont été réalisés par l’Agence de l’Environnement et de la Maîtrise de l’Energie (ADEME) entre 1996 et 2007 :		
+2012	04			2012	04			a_été_porté_à_la_connaissance	En avril 2012, l'état de ce site a été porté à la connaissance du maire de Celles-sur-Plaine		
+								des_études	Par ailleurs, l'EPFl a fait réaliser des études sur le site dans les années 2010 et suivantes.		"l' EPFl"
+1999				1999				un_diagnostic_préliminaire	- 1999 : réalisation d'un diagnostic préliminaire visant à l'élaboration d'une étude simplifiée des risques		
+2007				2007				__aménagement	- 2007 : aménagement de la berge de la rivière La Plaine se situant au droit d'une des digues des lagunes (réalisation d’une fascine permettant la stabilisation de la berge en bordure d’une des lagunes).		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								12_sondages	Il a été effectué 12 sondages les 6 et 7 juillet 2016 aux abords des points de sondage au droit desquels la contamination avait été identifiée en 2005, c’est-à-dire les points de sondage S5 à S9.		
+2005				2005				points_de_sondage	Il a été effectué 12 sondages les 6 et 7 juillet 2016 aux abords des points de sondage au droit desquels la contamination avait été identifiée en 2005, c’est-à-dire les points de sondage S5 à S9.		
+2016	07	07		2016	07	07		12_sondages	Il a été effectué 12 sondages les 6 et 7 juillet 2016 aux abords des points de sondage au droit desquels la contamination avait été identifiée en 2005, c’est-à-dire les points de sondage S5 à S9.		
+2010	08	1		2010	08	1		quitte	La société SGTE quitte le site le 1er août 2010 pour s'installer dans la zone industrielle Sud du Mans.		'La société SGTE'
+2011	04			2011	04			est_reçue	En avril 2011, une notification de mise à l'arrêt définitif du site SGTE Power est reçue en préfecture.		'SGTE Power'
+2005				2005				un_changement_d_	En 2005, un changement d'exploitant a lieu avec la société SGTE Power.		'la société SGTE Power'
+2005				2005				Un_diagnostic	Un diagnostic sur l’état des sols du site avait été réalisé en 2005 .		

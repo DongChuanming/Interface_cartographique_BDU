@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	09	26		1991	09	26		amodiation	La Société Minière de Chessy est créée en 1989 et le BRGM lui cède ses droits et obligations sur le gisement et les installations existantes, par amodiation du 26 septembre 1991.		'La Société Minière', 'de Chessy', 'le BRGM'
+1989				1989				est_créée	La Société Minière de Chessy est créée en 1989 et le BRGM lui cède ses droits et obligations sur le gisement et les installations existantes, par amodiation du 26 septembre 1991.		'La Société Minière', 'de Chessy', 'le BRGM'
+1938				1938				ont_été_exploitées	Les anciennes mines situées sur la commune de Chessy-les-Mines ont été exploitées dans le cadre de l'ancienne concession de plomb et de cuivre de Chessy (1798 à 1938).	'cuivre'	
+1877				1877				L__exploitation_cessa	L'exploitation cessa en 1877 en laissant 200 000 tonnes de résidus de grillage appelés "pyrites grillées", ainsi qu'un écoulement d'eau acide neutralisée à la chaux.		
+1998				1998				la_future_exploitation_conduit	En 1998, l’insuffisante rentabilité économique de la future exploitation conduit l’exploitant à décider de l’arrêt définitif des travaux miniers et à entreprendre les travaux et formalités prévus par la police des mines.		
+1798				1798				ont_été_exploitées	Les anciennes mines situées sur la commune de Chessy-les-Mines ont été exploitées dans le cadre de l'ancienne concession de plomb et de cuivre de Chessy (1798 à 1938).	'cuivre'	
+1983				1989				les_travaux_de_recherche	Entre 1983 et 1989, les travaux de recherche du BRGM dans le cadre du permis exclusif de recherche (PER) du "Breuil", mettant en évidence du minerai sulfuré contenant du cuivre, du zinc, de la barytine et de la pyrite.	'minerai sulfuré', 'du cuivre', 'zinc', 'barytine', 'pyrite'	'BRGM'
+								est_attribuée	La concession de "La Ronze" est attribuée par décret du 29 janvier 1988 au BRGM pour 50 ans.		

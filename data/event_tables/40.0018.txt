@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07			2006	07			La_campagne_d__analyses	La campagne d'analyses de juillet 2006 montre l'absence de composés volatils dans le tertre et des concentrations en hydrocarbures totaux entre 170 et 1800 mg/kg avec une moyenne de 600 mg/kg.	'hydrocarbures totaux'	
+2012	09			2012	09			Le_diagnostic	Le diagnostic daté de septembre 2012 et remis à la DREAL en février 2013 propose le choix entre deux solutions de traitement :		'la DREAL'
+				2008	03	31		Les_travaux_de_démantèlement	Les travaux de démantèlement et le régalage des terres dépolluées sont effectués du 25/02/08 au 31/03/2008 date à laquelle l'exploitant a adressé à la DRIRE le rapport de fin de chantier relatif aux travaux de dépollution, ce document étant le rapport final présentant les opérations de démantèlement des installations de traitement et par ailleurs les opérations de régalage des terres de l'andain.		'la DRIRE'
+1998				1998				se_produit	En 1998, une fuite importante de super carburant se produit  dans la zone de chargement et de déchargement suite à une rupture de tuyauterie.	'super carburant'	
+1995				1995				a_engendré_une_pollution	L'historique montre qu'une rupture de canalisation en 1995, a engendré une pollution du réseau d'assainissement urbain.		
+1998				1998				Les_investigations_menées	Les investigations menées en 1998 puis en 1999 portent sur la zone concernée par ces pollutions : partie Ouest du dépôt, zone de chargement déchargement, décanteur deshuileur, secteur des bureaux.		
+2010	10	20		2010	10	20		a_été_approuvé	Le PPRT (Plan de Prévention des Risques Technologiques) du site a été approuvé le 20 octobre 2010.		
+2012	02	14		2012	02	14		L__inspection_réalisée	L'inspection réalisée le 14 février 2012, a mis en évidence la persistance d'un impact important en xylène sur la qualité des eaux souterraines.	'xylène'	
+2006	01			2006	01			Les_prélèvements_et_analyses_demandés	Les prélèvements et analyses demandés ont été réalisés dans les locaux de l'entreprise voisine durant le mois de janvier 2006 en deux emplacements :		
+2007	07	28		2007	07	28		et_remise	L'étude d'impact environnementale demandée par la DRIRE le 12/01/2007 et remise le 28 juillet 2007 montre que les terres traitées ne constituent pas une source de pollution sur les sols et la nappe.		'la DRIRE'
+1999				1999				Les_investigations_menées	Les investigations menées en 1998 puis en 1999 portent sur la zone concernée par ces pollutions : partie Ouest du dépôt, zone de chargement déchargement, décanteur deshuileur, secteur des bureaux.		
+2006	02	27		2006	02	27		Les_résultats_transmis	Les résultats transmis le 27 février 2006 montrent l'absence de détection de benzène par chromatographie.	'benzène'	
+2012	06	05		2012	06	05		une_mise_en_demeure	Ces actions ont fait l'objet d'une mise en demeure le 05 juin 2012.		
+2012	02	14		2012	02	14		a_mis_en_évidence	L'inspection réalisée le 14 février 2012, a mis en évidence la persistance d'un impact important en xylène sur la qualité des eaux souterraines.	'xylène'	
+2006	01	19		2006	01	19		Les_travaux_sont_effectués	Les travaux sont effectués les 18 et 19 janvier 2006.		
+2007	11	26		2007	11	26		autorise	Le 26/11/2007, la DRIRE autorise l'exploitant à épandre ces terres sur une surface de 3000 m2 sur une hauteur de 30 cm.		'la DRIRE'
+								Les_travaux_sont_effectués	Les travaux sont effectués les 18 et 19 janvier 2006.		

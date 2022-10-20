@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_cessations	Les cessations de ces deux activités ont été actées par récépissés préfectoraux du 24/02/87 et 7/03/91.		
+2005				2005				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'magnésie'	'la société PEM', 'la société Pechiney Bâtiment', 'Rio Tinto'
+1987				1987				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+2015				2015				a_été_menée	Cette surveillance a été menée par PEM puis par SGL Carbon à partir de 2015.		'PEM', 'SGL Carbon'
+								elle_occupe	Employant près de 200 personnes, elle occupe la majeure partie de l’emprise maximale du site au milieu des années 1980 (11,5 ha sur 14).		
+1896				1896				elles_ont_commencé	Les activités industrielles sur le site historique de Chedde sont très anciennes : elles ont commencé en 1896.		'Chedde'
+2000				2000				réhabilite	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).		'la société PEM', ': Rio Tinto'
+2000				2000				a_été_fermé	Il a été fermé puis réhabilite en l'an 2000, sous la responsabilité de la société PEM (responsable actuel : Rio Tinto).		'la société PEM', ': Rio Tinto'
+2004	07	22		2004	07	22		Un_document_hypothécaire_normalisé	Un document hypothécaire normalisé du 22/07/2004 acte la vente du site PEM (parcelle n°4676 et 4680 section D) à la commune de Passy.		
+1997				1997				a_procédé_à_la_démolition_partielle_des_bâtiments	En 1997, dans le cadre de la réhabilitation du site, PEM a procédé à la démolition partielle des bâtiments.		'PEM'
+								ne_fait_pas_l__objet	Au 9/08/19 le site ne fait pas l’objet de servitudes d’utilité publique ni n’est classé en secteur d’information sur les sols.		
+2006				2006				a_été_transférée	En 2005-2006, la responsabilité environnementale des anciennes activités de la société PEM (ferro-alliages, magnésie et ancienne décharge notamment) a été transférée à la société Pechiney Bâtiment, filiale du groupe anglo-australien Rio Tinto dédiée à la gestion des sites fermés ("héritage industriel").	'magnésie'	'la société PEM', 'la société Pechiney Bâtiment', 'Rio Tinto'
+1990				1990				se_sont_arrêtées_respectivement	Elles se sont arrêtées respectivement en 1987 et 1990.		
+1993				1993				exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+								exercée_sous	Cette activité est exercée sous la responsabilité de la société SGL Carbon depuis 1993, sous couvert de l’arrêté préfectoral d’autorisation du 29/12/95, mis à jour le 26/01/18.		'la société SGL Carbon'
+1998				1998				Un_diagnostic_initial	Un diagnostic initial a été réalisé en 1998.		
+								ont_été_exploitées	Par exemple, les activités de production de chlorates et de perchlorates ont été exploitées en dernier lieu par la société ATOCHEM, comme acté par récépissé préfectoral du 12/05/86.	'chlorates', 'perchlorates'	'la société ATOCHEM'

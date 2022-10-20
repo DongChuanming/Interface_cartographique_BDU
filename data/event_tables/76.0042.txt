@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	06	02		1997	06	02		ont_été_prescrites	Les conditions de dépollution ont été prescrites par l'arrêté préfectoral du 2 juin 1997.		
+								Les_travaux	Les travaux, réalisés en 1997-98, ont consisté dans le traitement des deux tiers des terres polluées par le procédé de désorption thermique (chauffage des matériaux puis récupération des polluants sous forme gazeuse).	'polluants'	
+1997				1997				Les_travaux	Les travaux, réalisés en 1997-98, ont consisté dans le traitement des deux tiers des terres polluées par le procédé de désorption thermique (chauffage des matériaux puis récupération des polluants sous forme gazeuse).	'polluants'	
+1998	11	17		1998	11	17		a_fait_appel_auprès	Cette société a fait appel auprès du tribunal administratif de Rouen, qui par jugement du 19 juin 2000  a annulé l'arrêté du 17 novembre 1998.		'tribunal administratif de Rouen'
+1997	06	25		1997	06	25		un_rapport_final_d__intervention	Ces travaux ont fait l'objet d'un rapport final d'intervention de la société Gester le 11 juin 1997, et d'un procès verbal de réception de la préfecture le 25 juin 1997.		'la société Gester'
+1998	11	17		1998	11	17		__a_annulé_l__arrêté_du	Cette société a fait appel auprès du tribunal administratif de Rouen, qui par jugement du 19 juin 2000  a annulé l'arrêté du 17 novembre 1998.		'tribunal administratif de Rouen'
+1994				1994				travaux	En 1994, à l'occasion de travaux de la voirie (Rue P.		
+2007	05			2007	05			Une_purge_anticipée	Une purge anticipée d'une zone de 4,5 ha a été réalisée en mai 2007 pour la construction de l'usine OCG et le tronçon adjacent de la rue P.		'OCG'
+1997	06	11		1997	06	11		un_rapport_final_d__intervention	Ces travaux ont fait l'objet d'un rapport final d'intervention de la société Gester le 11 juin 1997, et d'un procès verbal de réception de la préfecture le 25 juin 1997.		'la société Gester'
+1970				1970				ont_été_détruits	À la suite de la fermeture des deux entreprises, en 1967, les bâtiments ont été détruits en 1970.		
+2000	06	19		2000	06	19		par_jugement	Cette société a fait appel auprès du tribunal administratif de Rouen, qui par jugement du 19 juin 2000  a annulé l'arrêté du 17 novembre 1998.		'tribunal administratif de Rouen'
+1995				1995				Un_diagnostic_approfondi	Un diagnostic approfondi, réalisé en 1995 à la demande de la DRIRE, a confirmé ces observations et a montré que les eaux souterraines n'étaient pas touchées par la pollution.		'la DRIRE'
+1967				1967				ont_été_détruits	À la suite de la fermeture des deux entreprises, en 1967, les bâtiments ont été détruits en 1970.		

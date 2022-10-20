@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1869				1869				a_été_construite	L'usine de SAILLY FLIBEAUCOURT a été construite en 1869 par la société VACHETTE pour fabriquer de la serrurerie.		'SAILLY FLIBEAUCOURT', 'la société VACHETTE'
+1998				2000				des_travaux_de_dépollution	Par suite, des travaux de dépollution de ces deux milieux ont été menés fin 1997 (excavation des sols pollués en surface) puis de fin 1998 à début 2000 (sols plus profonds et nappe).		
+1964				1993				suivantes_ont_été_exercées	Entre 1964 et 1993, les activités suivantes ont été exercées : décolletage, presses, presses de reprise, dégraissage, assemblage.		
+1997				1997				des_travaux_de_dépollution	Par suite, des travaux de dépollution de ces deux milieux ont été menés fin 1997 (excavation des sols pollués en surface) puis de fin 1998 à début 2000 (sols plus profonds et nappe).		

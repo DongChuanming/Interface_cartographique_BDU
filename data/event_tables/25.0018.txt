@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				Des_prélèvements_opérés	Des prélèvements opérés par le Conseil Supérieur de la Pêche en 1993 et 1994 ont confirmé la présence de micropolluants dans le Doubs et attesté la présence de substances utilisées dans le traitement du bois, en particulier l'aldrine.	'aldrine'	'le Conseil Supérieur de la Pêche'
+2001	06	19		2001	06	19		Les_inspections_diligentées	Les inspections diligentées le 19 juin 2001 et le 6 juin 2002 par la DRIRE ont permis de s'assurer de la conformité des installations aux dispositions édictées par les arrêtés préfectoraux qui la règlementent.		'la DRIRE'
+1971				1971				appartenait	Avant 1971, la scierie appartenait aux établissements PASTEUR, originaires de PONTARLIER, qui y exerçaient une activité identique à celle pratiquée actuellement, à savoir le sciage et le traitement antiparasitaire du bois.		'aux établissements PASTEUR', 'PONTARLIER'
+2003				2003				a_été_mise_en_évidence_lors_de_la_surveillance	Une nouvelle pollution liée à un incident d'exploitation a été mise en évidence lors de la surveillance en 2003-2004.		
+2014	06	13		2014	06	13		Les_dernières_analyses	Les dernières analyses d'étude hydrogéologique du 13 juin 2014 ont montré que la situation s'améliore :		
+2012				2012				Un_bilan	Un bilan des résultats de la surveillance réalisé en 2012 met en évidence :		
+2004				2004				a_été_mise_en_évidence_lors_de_la_surveillance	Une nouvelle pollution liée à un incident d'exploitation a été mise en évidence lors de la surveillance en 2003-2004.		
+1997	12	31		1997	12	31		Par_jugement	Par jugement du 31 décembre 1997 M.		
+2012	07			2012	07			Les_analyses	Les analyses de juillet 2012 montrent une situation globalement stable, avec une efficacité du système de pompage pour les paramètres aldrine, cyperméthrine, pentachlorophénol et lindane (confinés sur site), mais des concentrations en propiconazole et tébuconazole supérieures aux valeurs-seuil du SDAGE en bordure du Doubs (aval du site).	'aldrine', 'cyperméthrine', 'pentachlorophénol', 'lindane', 'propiconazole', 'tébuconazole'	
+2005				2005				a_été_repris	Le site a été repris en 2005 par la SAS Lonchampt.		
+1994				1994				Des_prélèvements_opérés	Des prélèvements opérés par le Conseil Supérieur de la Pêche en 1993 et 1994 ont confirmé la présence de micropolluants dans le Doubs et attesté la présence de substances utilisées dans le traitement du bois, en particulier l'aldrine.	'aldrine'	'le Conseil Supérieur de la Pêche'

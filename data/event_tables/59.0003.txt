@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	12			2016	12			__Demande_de_mise_à_jour	- décembre 2016 : Demande de mise à jour de l'étude de faisabilité d'enlèvement de la pollution selon la nouvelle méthodologie		
+1994	04			1994	04			est_reprise	- L'activité de Protectal Aluminium est reprise en partie suite à sa liquidation judiciaire par Protectal Color en avril 1994 (fermeture de l'atelier d'anodisation).	'Protectal Aluminium'	'Protectal Color'
+2006				2006				__remise	- aout 2006 : remise de l'étude technico-économique		
+1996				1996				est_ensuite_racheté	Le site est ensuite racheté par la SA Sofilac en 1996 et l'activité est arrêté en 1998.		'la SA Sofilac'
+1998				1998				est_ensuite_racheté	Le site est ensuite racheté par la SA Sofilac en 1996 et l'activité est arrêté en 1998.		'la SA Sofilac'
+1991	01			1991	01			__Implantation_d_	- janvier 1991 : Implantation d'un piézomètre.		
+1999	07	27		1999	07	27		est_placée_en_redressement_judiciaire	- La SA Sofilac est placée en redressement judiciaire le 27/07/1999, et elle est radiée en septembre 2010.		'La SA Sofilac'
+1992	03			1992	03			__Cessation_d__activité	- mars 1992 : Cessation d'activité de l'atelier d'anodisation.		
+1998				1998				est_arrêté	Le site est ensuite racheté par la SA Sofilac en 1996 et l'activité est arrêté en 1998.		'la SA Sofilac'

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02			2003	02			a_été_réalisé	Jusqu'en février 2003, un suivi de la qualité des eaux au droit du site a été réalisé.		
+2013	05	28		2013	05	28		remis	Le plan de gestion remis le 28 mai 2013 prévoit la mise en place d'une unité pilote de traitement des eaux souterraines, entre septembre 2013 et janvier 2014.		
+2010	03	15		2010	03	15		des_travaux_de_modernisation	Du 15 mars 2010 au 16 juin 2010 : des travaux de modernisation de la station service ont été effectués.		
+2006	12			2006	12			avaient_été_mises	En décembre 2006, dans le cadre du démantèlement d'une cuve de gazole jouxtant l'aire de distribution Poids Lourds, des terres polluées avaient été mises à jour.	'gazole'	
+2011				2011				semblait_s_	Jusqu'en 2011, une légère amélioration de la qualité des eaux souterraines semblait s'observer au droit et en aval hydraulique du site.		
+2011				2011				Les_campagnes_semestrielles	Les campagnes semestrielles de 2011 ont cependant montré une augmentation des teneurs en hydrocarbures et benzène dissous.	'hydrocarbures', 'benzène'	
+1999	07			1999	07			une_évaluation_simplifiée_des_risques	Suite à ce constat, une évaluation simplifiée des risques (ESR) avait été réalisée en juillet 1999 (conformément à l'ancienne réglementation en vigueur en matière de sites et sols pollués).		
+2013	09			2014	01			la_mise_en_place_d_	Le plan de gestion remis le 28 mai 2013 prévoit la mise en place d'une unité pilote de traitement des eaux souterraines, entre septembre 2013 et janvier 2014.		
+2013	09			2014	01			prévoit	Le plan de gestion remis le 28 mai 2013 prévoit la mise en place d'une unité pilote de traitement des eaux souterraines, entre septembre 2013 et janvier 2014.		
+				2010				des_campagnes_de_suivi	Suite à ces travaux, des campagnes de suivi de la qualité des eaux souterraines ont été poursuivies 2 fois par an jusqu'en 2010.		
+1999	03			1999	03			avait_été_observée	En mars 1999, la présence de gazole avait été observée dans le local technique de la piscine d'un hôtel jouxtant la station-service.	'gazole'	
+2010	06	16		2010	06	16		des_travaux_de_modernisation	Du 15 mars 2010 au 16 juin 2010 : des travaux de modernisation de la station service ont été effectués.		
+2010	06			2010	06			a_été_réalisée___campagne	A l'issue de ces travaux, une campagne de suivi de la qualité des eaux a été réalisée (campagne de juin 2010).		
+2006				2006				Les_campagnes_de	Les campagnes de 2005 et 2006 continuaient à montrer que les eaux restaient fortement impactées par les hydrocarbures, y compris en limite de site et en aval hydraulique.	'hydrocarbures'	
+2005				2005				Les_campagnes_de	Les campagnes de 2005 et 2006 continuaient à montrer que les eaux restaient fortement impactées par les hydrocarbures, y compris en limite de site et en aval hydraulique.	'hydrocarbures'	

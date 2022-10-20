@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979	11			1979	11			a_été_stoppée	La production du celluloïd a été stoppée en novembre 1979.	'celluloïd'	
+1994	04	15		1994	04	15		La_cessation_d__activité	La cessation d'activité date du 15 avril 1994 et la fermeture du site du 30 avril 1994.		
+2001	02	28		2001	02	28		de_nouvelles_analyses	Les conclusions de l’ESR n’étant pas remises en cause, les concentrations en benzène dans les piézomètres PZ3 et PZ4 étant proches de la VCI et les dernières analyses datant du 28 février 2001, de nouvelles analyses (4 sur un an) des eaux des 5 piézomètres existant et du cours d’eau « le Lange » ont été imposées par arrêté préfectoral complémentaire du 21 septembre 2005.	'benzène'	'ESR'
+1970	06			1970	06			un_incendie_a_concerné	En juin 1970, un incendie a concerné le bâtiment qui abritait la presse à polir le celluloïd.	'celluloïd'	
+1830				1830				a_été_fondée	La société CONVERT a été fondée en 1830.		'La société CONVERT'
+1935				1935				a_fonctionné	Un atelier de moulage de poupées et autres jouets en celluloïd a fonctionné sur le site approximativement entre 1935 et 1950.	'celluloïd'	
+1986	08			1986	08			une_pollution_colorée	En août 1986, un incendie du local de stockage de certaines naxelloses et des pigments a entraîné une pollution colorée de la rivière Lange.	'naxelloses', 'pigments'	
+1986	08			1986	08			un_incendie	En août 1986, un incendie du local de stockage de certaines naxelloses et des pigments a entraîné une pollution colorée de la rivière Lange.	'naxelloses', 'pigments'	
+1969				1969				a_été_arrêtée	IL a été autorisé par deux arrêtés préfectoraux datés du 09 juillet 1932 et du 22 mai 1948 ; la fabrication de "coton nitré", a été arrêtée début 1969.	'coton nitré "'	
+2005	09	21		2005	09	21		ont_été_analysés	En cohérence avec les prescriptions de l’arrêté préfectoral du 21 septembre 2005, les éléments suivants ont été analysés :		
+1994	02	15		1994	02	15		a_été_rédigé	Un "inventaire des matières premières produites synthétiques" a été rédigé  le 15 février 1994.		
+2006	08			2006	08			sur_la_dernière_campagne	En ce qui concerne le paramètre « hydrocarbures totaux », des teneurs supérieures à la limite de détection analytique n’ont été relevées que sur la dernière campagne d’août 2006, y compris sur les eaux de surface du Lange, en amont comme en aval du site.	'hydrocarbures totaux'	
+1950				1950				a_fonctionné	Un atelier de moulage de poupées et autres jouets en celluloïd a fonctionné sur le site approximativement entre 1935 et 1950.	'celluloïd'	
+1971	09	07		1971	09	07		a_été_agrandi	Le 07 septembre 1971, le stockage des résines polyester a été agrandi par la construction des cuves n° 35 à 39.	'résines polyester'	
+2002	02	07		2002	02	07		un_dossier_de_déclaration	Le 07 février 2002, un dossier de déclaration de cessation d’activité, au titre de l’article 34.1 du décret n°77.1133 a été déposé en Préfecture.		
+1970	06			1970	06			L__incendie_de	L'incendie de juin 1970 a également touché le stockage du collodion.		
+2005	10	13		2006	08	24		Quatre_campagnes_de_prélèvement	Quatre campagnes de prélèvement ont été réalisées entre le 13 octobre 2005 et le 24 août 2006.		
+1994				1994				a_cessé_son_activité	L'entreprise a cessé son activité en 1994.		
+								Un_PV_de_récolement	Un PV de récolement a donc été délivré le 23/07/07.		

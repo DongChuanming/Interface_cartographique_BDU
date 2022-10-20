@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_mise_en_place_mensuellement	La surveillance des rejets de substances au niveau du rejet d'eau usée est mise en place mensuellement pour 6 mois à partir du 03/05/2011.		
+2011	05	03		2011	05	03		est_mise_en_place_mensuellement	La surveillance des rejets de substances au niveau du rejet d'eau usée est mise en place mensuellement pour 6 mois à partir du 03/05/2011.		
+1998	03	30		1998	03	30		Une_étude_de_sol	Une étude de sol et une évaluation simplifiée des risques ont été réalisées en date du 30/03/1998, ne relevant aucune pollution des sols.		

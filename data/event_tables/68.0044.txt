@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	15		2001	02	15		a_été_transmise	Celle-ci a été transmise par courrier du 15/02/2001.		
+2007	09	07		2007	09	07		Le_bilan_de_fonctionnement_décennal_remis	Le bilan de fonctionnement décennal remis le 7 septembre 2007 par l'exploitant dans le cadre de la directive IPPC, mentionne les activités industrielles du site ont lieu sur des surfaces étanches, que les conduites souterraines sont doubles enveloppe et les réseaux enterrés contenant les eaux chimiques résiduaires sont visitables et placés dans des galeries étanches, ce bilan conclu a un impact négligeable de l'activité du site sur les sols et les eaux souterraines se trouvant au droit du site.	'les eaux chimiques résiduaires'	
+2010	07	13		2010	07	13		une_pollution_accidentel	le 13 juillet 2010 une pollution accidentel a eu lieu dans les sous sols du bâtiment 7 suite à une fuite d'environ 150 litres d'un produits de fabrication dangereux contenant 70% de solvants et 1% de chrome.	'produits de fabrication dangereux', 'chrome'	
+2001	02	15		2001	02	15		par_courrier	Celle-ci a été transmise par courrier du 15/02/2001.		
+2001	05	07		2001	05	07		a_demandé_par_courrier	Cependant, l'inspecteur en charge du dossier a demandé par courrier en date du 07/05/2001 plusieurs renseignements complémentaires.		

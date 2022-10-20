@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	18		2005	01	18		Trois_campagnes	Trois campagnes de prélèvement des eaux souterraines ont été réalisées suite à ce rapport en date du : 18/01/2005, 07/06/2005 et 26/01/2006.		
+1960				1960				deviennent	D'origine à vocation agricole, les terrains deviennent à partir de 1960, la propriété de PECHINEY RHENALU, qui devient ALCAN RHENALU en 1967, entreprise qui exerce alors une activité la fusion de l’aluminium et le laminage à froid (autorisé par l'arrêté préfectoral du 15/05/2000).		'PECHINEY RHENALU', 'ALCAN RHENALU'
+2006	01	26		2006	01	26		Trois_campagnes	Trois campagnes de prélèvement des eaux souterraines ont été réalisées suite à ce rapport en date du : 18/01/2005, 07/06/2005 et 26/01/2006.		
+2005	11	24		2005	11	24		prend_possession_du_site	Cette activité est maintenue par les Laminoirs d’Aluminium de Froges (LAF) qui prend possession du site le 24/11/2005.	'Laminoirs d’ Aluminium'	'les', 'de Froges', 'LAF'
+2008	03	31		2008	03	31		Un_diagnostic_complémentaire	Un diagnostic complémentaire ainsi qu’une interprétation de l’état des milieux ont été réalisés en date du 31/03/2008.		
+2008	09			2008	09			a_été_réalisée	L’EQRS a été réalisée par SOGREAH au mois de septembre 2008.		'SOGREAH'
+2005	11	24		2005	11	24		est_maintenue	Cette activité est maintenue par les Laminoirs d’Aluminium de Froges (LAF) qui prend possession du site le 24/11/2005.	'Laminoirs d’ Aluminium'	'les', 'de Froges', 'LAF'
+2007	07	10		2007	07	10		prononcé	Suite à la liquidation judiciaire prononcé par le tribunal de commerce le 10/07/2007, les LAF ont cessé toute activité sur le site.		'les LAF'
+				2005	06	07		Trois_campagnes	Trois campagnes de prélèvement des eaux souterraines ont été réalisées suite à ce rapport en date du : 18/01/2005, 07/06/2005 et 26/01/2006.		
+2004	06	04		2004	06	04		un_diagnostic_initial	Dans l’optique d’évaluer le passif sur son site de Brignoud à Froges, la société PECHINEY RHENALU a fait réaliser en date du 04/06/2004 un diagnostic initial de l’état des sols et une étude simplifié des risques.		'la société PECHINEY RHENALU'

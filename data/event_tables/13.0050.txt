@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06	16		1999	06	16		classe	. du 16/06/1999 classe le site en catégorie 2.		
+2009				2009				vont_être_mises_à_l__enquête_publique	* Le dossier de proposition de servitudes d'utilité publiques a été constitué par CPB ( ex SPM Shell) et vont être mises à l'enquête publique pour être mises en place courant 2009 ( prévisionnel).		'CPB ( ex SPM Shell'
+1963				1963				implanté_à	Il s'agit d'un site en activité implanté à Rognac depuis 1963, (antérieurement Sté Sopdechim) sur une superficie d'environ  10.800 m2 et situé à proximité de l'Etang de Berre.		'Sté Sopdechim'
+2003	10	14		2003	10	14		Les_études_hydrogéologiques	Les études hydrogéologiques du cabinet Burgeap ont été complétées après avis du BRGM puis présentées au groupe de travail le 14/10/2003.		'cabinet Burgeap', 'BRGM'

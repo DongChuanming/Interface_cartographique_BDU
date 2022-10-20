@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				L__évacuation	L'évacuation des boues des lagunes a eu lieu en 2007 et 2008.		
+1994				1994				ont_débuté	A la demande de l'administration, les recherches de pollution ont débuté en 1994 par des analyses de sols.		
+2002	10	03		2002	10	03		ont_été_formalisées	Ces dispositions ont été formalisées par un arrêté préfectoral en date du 3 octobre 2002.		
+1995				1995				un_traitement_en	Depuis 1995, un traitement en place des terres polluées est effectué sur un secteur du site.		
+								Un_diagnostic_complet_du_site	Un diagnostic complet du site, avec des investigations de terrain, ainsi qu'une évaluation simplifiée des risques (ESR) ont été réalisés durant le 1er semestre 2000.		
+1995				1995				Une_deuxième_campagne_d__analyses	Une deuxième campagne d'analyses a été réalisée en 1995.		
+1998				1998				a_procédé_a_un_nouveau_contrôle_de	En 1998, l'exploitant a procédé a un nouveau contrôle de la teneur en cuivre et en zinc des sols qui confime la présence de foyers de pollution.	'cuivre', 'zinc'	
+2000				2000				Un_diagnostic_complet_du_site	Un diagnostic complet du site, avec des investigations de terrain, ainsi qu'une évaluation simplifiée des risques (ESR) ont été réalisés durant le 1er semestre 2000.		
+2008				2008				L__évacuation	L'évacuation des boues des lagunes a eu lieu en 2007 et 2008.		

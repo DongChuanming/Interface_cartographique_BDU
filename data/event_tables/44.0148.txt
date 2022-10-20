@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	03			2018	03			est_rédigé	Un rapport d’analyses des eaux souterraines est rédigé en mars 2018.		
+								est_installée	Une aire de lavage est installée dans les années 2000.		
+2017	03			2017	03			Un_diagnostic_du_site_est_mené	Un diagnostic du site est mené en mars 2017. 23 sondages sont effectués aux abords de l’aire de lavage, des pistes de distribution de carburants, des cuves enterrées de stockage de carburants, de la zone de déchargement de carburant, du séparateur d’hydrocarbures et du débourbeur-dessableur (voir plan-cartographique-44.0148--3).	'carburants', 'carburants', 'carburant', 'hydrocarbures'	
+2017	09			2017	09			Le_terrassement	Le terrassement des terres contaminées inertes s’est déroulé mi-septembre 2017.		
+1987				1987				était_occupé_par	Le site était occupé par des parcelles agricoles avant l’arrivée du centre commercial et de la station-service en 1987.		

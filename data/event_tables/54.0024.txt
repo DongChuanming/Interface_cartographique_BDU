@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Il_ressort	Il ressort des investigations que le terrain est recouvert d'une couche d'enrobé puis de remblais sur une épaisseur de 0.5 mètres puis d'argiles et de marnes relativement perméables.		'puis de remblais sur une'
+								terrain_est_recouvert_d__une	Il ressort des investigations que le terrain est recouvert d'une couche d'enrobé puis de remblais sur une épaisseur de 0.5 mètres puis d'argiles et de marnes relativement perméables.		'puis de remblais sur une'

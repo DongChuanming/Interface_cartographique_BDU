@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08	09		2000	08	09		un_arrêté_de_dépollution	La station service a cessé ses activités en 1999 et a fait l’objet d’une dépollution de la nappe, suite à un arrêté de dépollution du 09/08/2000 (traitement entre 1999 et 2006).		
+1999				2006				traitement	La station service a cessé ses activités en 1999 et a fait l’objet d’une dépollution de la nappe, suite à un arrêté de dépollution du 09/08/2000 (traitement entre 1999 et 2006).		
+1999				2006				a_cessé_ses_activités	La station service a cessé ses activités en 1999 et a fait l’objet d’une dépollution de la nappe, suite à un arrêté de dépollution du 09/08/2000 (traitement entre 1999 et 2006).		
+1999				1999				a_cessé_ses_activités	La station service a cessé ses activités en 1999 et a fait l’objet d’une dépollution de la nappe, suite à un arrêté de dépollution du 09/08/2000 (traitement entre 1999 et 2006).		
+2014	01	23		2014	01	23		a_transmis	Par courrier du 23 janvier 2014, la société TOTAL a transmis le rapport de mise à jour de l’Analyse des Risques Résiduels prenant en compte les résultats des nouveaux piézomètres et piézairs demandés.		'la société TOTAL'
+2011				2011				de_la_campagne_de_mesures	Les concentrations les plus importantes de ces polluants ont été observées lors de la campagne de mesures de 2011 sur un des piézomètres aux niveaux suivants :	'ces polluants'	
+1999				2006				un_arrêté_de_dépollution	La station service a cessé ses activités en 1999 et a fait l’objet d’une dépollution de la nappe, suite à un arrêté de dépollution du 09/08/2000 (traitement entre 1999 et 2006).		

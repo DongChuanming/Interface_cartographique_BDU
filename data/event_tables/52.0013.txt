@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	10	05		1998	10	05		des_travaux_de_réhabilitation	Compte-tenu de l'utilisation prévisionnelle du site par la société PLASTIFER, (et donc du transfert de responsabilité), des travaux de réhabilitation ont été imposés par l'arrêté préfectoral n°2890 du 5 octobre 1998.		'la société PLASTIFER'
+1998				1998				Une_étude_de_sols	Une étude de sols a été réalisée mi-1997 et complétée début-1998.		
+1998	10			1998	10			Des_travaux_d__excavation_sur	Des travaux d'excavation sur 3 zones réalisés par la société ATE début octobre 1998 ont permis d'évacuer 120 tonnes de terres polluées par des hydrocarbures présentant des teneurs supérieurs à 2500 mg/kg.	'hydrocarbures'	'la société ATE'
+1964				1997				a_exploité	La société BOLLORE ENERGIE a exploité de 1964 à 1997 un dépôt d'hydrocarbures (type fuel - gasoil + charbon) sur le site.	'hydrocarbures', 'fuel', 'charbon'	'La société BOLLORE ENERGIE'
+1997				1997				Une_étude_de_sols	Une étude de sols a été réalisée mi-1997 et complétée début-1998.		

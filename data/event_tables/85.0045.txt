@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	05			2000	05			Un_prélèvement_à_été_fait	Un prélèvement à été fait en mai 2000 sur les paramètres suivants : pH, conductivité, DCO, DBO5, Chlorures.	', DCO , DBO5 , Chlorures'	
+1999				1999				La_cessation_d__activité	La cessation d'activité à été déclarée au préfet en 1999.		
+2000				2000				une_étude_préalable	En 2000, une étude préalable à la réhabilitation (diagnostic du site) à été faite avec des mesures sur les lixiviats, le biogaz et les eaux souterraines.		
+1999	1980||			1999	1980||			exploitée	Le site est une ancienne décharge exploitée entre 1980-1999.		
+								Une_série_de_mesures	Une série de mesures à été réalisée le 15 mai 200 sur les paramètres suivants : Hydrogène sulfuré (H2S), dioxyde de soufre (S02), monoxyde de carbone (CO), méthane et oxygène.	': Hydrogène sulfuré ( H2S', ', dioxyde de soufre ( S02', ', monoxyde de carbone', '( CO', ', méthane'	
+1994				1994				mis_en_place	Un contrôle à été réalisée sur les trois piézomètres mis en place en 1994.		
+1995				1999				à_été_autorisée_par	L'activité à été autorisée par arrêté préfectoral du 11/03/1980 à la société SAUR (Société d’aménagement urbain et rural) puis exploitée par la COVED de 1995 à 1999.		'la société SAUR', 'la COVED'
+2003				2003				des_travaux_de_réhabilitations	En 2003, des travaux de réhabilitations ont été faits avec mise en place d’une couverture d’argile et de terres sur l’ensemble des zones de stockages de déchets.		
+1995				1999				exploitée	L'activité à été autorisée par arrêté préfectoral du 11/03/1980 à la société SAUR (Société d’aménagement urbain et rural) puis exploitée par la COVED de 1995 à 1999.		'la société SAUR', 'la COVED'

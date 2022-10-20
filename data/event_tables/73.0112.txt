@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	09	24		1998	09	24		déclaration	L'entreprise bénéficiait d'un récépissé de déclaration en date du 24 septembre 1998 pour des activités de traitement de surface de métaux et matières plastiques (rubrique 2565 de la nomenclature des ICPE).		
+								__déclaré	Pour mémoire, sur le site exploité par cette société rue Archimède à La Ravoire, les activités ont été reprises par la société Alpes Décap Métal et Bois (ADMB ; changement d'exploitant au 15/07/13, déclaré le 3/11/16 - récépissé préfectoral délivré le même jour).	'Métal'	'la société Alpes Décap', 'ADMB'
+								comprenait	Le dossier comprenait un diagnostic de pollution de sol réalisé par le bureau G Environnement et daté du 5/09/11.		
+								avoir_été_placée_en_liquidation_judiciaire	Après avoir été placée en liquidation judiciaire le 24/06/13, la société DECAPAGE METALBOI a été radiée du RCS le 7/11/16, du fait de l'insuffisance d'actif.		'la société DECAPAGE METALBOI'
+2011	08	12		2011	08	12		Les_investigations_ont_eu_lieu	Les investigations ont eu lieu le 12 août 2011.		
+2012	12	12		2012	12	12		ont_été_demandés	Par suite, des compléments ont été demandés à l'exploitant par courrier de l'inspection des installations classées du 12 décembre 2012.		
+								avait_fait_l__objet_d_	La régularisation administrative et technique de l'établissement avait fait l'objet d'un arrêté préfectoral de mise en demeure à l'encontre de la société Décapage Métalboi le 22/09/05.		'la société Décapage Métalboi'
+				2011				a_été_exploité	L'atelier de la rue de la Concorde a été exploité jusqu'en 2011.		
+2014	02			2014	02			a_été_constaté	En février 2014, il a été constaté que l'atelier de la rue de la Concorde était désormais occupé par la société ALP RENOV, spécialisée dans le menuiserie et l'ameublement, dont les activités ne relèvent pas a priori de la réglementation sur les installations classées.		'la société ALP RENOV'
+								__changement_d__exploitant	Pour mémoire, sur le site exploité par cette société rue Archimède à La Ravoire, les activités ont été reprises par la société Alpes Décap Métal et Bois (ADMB ; changement d'exploitant au 15/07/13, déclaré le 3/11/16 - récépissé préfectoral délivré le même jour).	'Métal'	'la société Alpes Décap', 'ADMB'
+								un_diagnostic_de_pollution_de_sol	Le dossier comprenait un diagnostic de pollution de sol réalisé par le bureau G Environnement et daté du 5/09/11.		

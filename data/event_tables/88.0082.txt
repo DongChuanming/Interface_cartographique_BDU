@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2007				Les_investigations_menées	Les investigations menées entre 2003 et 2007 ont mis en évidence la présence d'hydrocarbures dans les sols et les eaux souterraines, à des teneurs supérieures aux valeurs de référence.	'hydrocarbures'	
+2004	10			2004	10			a_été_mise_à_l__arrêt	Cette station, exploitée depuis 1964 par des exploitants successifs, a été mise à l'arrêt en octobre 2004;		
+1964				1964				exploitée	Cette station, exploitée depuis 1964 par des exploitants successifs, a été mise à l'arrêt en octobre 2004;		
+2014	03	13		2014	03	13		ont_été_instaurées	Compte tenu de la présence de pollutions résiduelles sur le site, des restrictions d’usage ont été instaurées par l'arrêté préfectoral du 13 mars 2014.		
+2002				2002				Les_travaux_de_vidange	Les travaux de vidange, nettoyage et enlèvement des 3 cuves présentes sur le site ont été réalisées en 2002.		

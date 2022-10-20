@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				Une_demande_d_	Une demande d'autorisation a été déposée en 2010 et complétée en 2014.		
+2012	01			2012	01			Une_étude	Une étude des sols du site a été réalisée en janvier 2012.		
+1996				1996				exploite	La société RABOINE exploite le site depuis 1996.		'La société RABOINE'
+2010				2010				Une_demande_d_	Une demande d'autorisation a été déposée en 2010 et complétée en 2014.		

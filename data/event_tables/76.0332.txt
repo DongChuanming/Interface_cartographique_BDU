@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				a_été_constaté	Suite à une visite d'inspection de 2011, il a été constaté l'évacuation du transformateur de marque UNELEC datant de 1973, ayant contenu des PCB.	'PCB'	'marque UNELEC'
+2014	08			2014	08			Une_évaluation_environnementale	Une évaluation environnementale a été réalisée en août 2014.		
+2011				2011				à_une_visite_d__inspection	Suite à une visite d'inspection de 2011, il a été constaté l'évacuation du transformateur de marque UNELEC datant de 1973, ayant contenu des PCB.	'PCB'	'marque UNELEC'

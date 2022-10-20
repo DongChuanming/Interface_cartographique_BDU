@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				avait_alerté	En 2009, l'actuel exploitant du site (vente de voitures d'occasion) avait alerté l'administration de la présence de résurgence de goudrons sur le site.		
+1993				1993				a_cessé_toute_activité	Cette usine a cessé toute activité depuis 1993.		
+2010	10			2010	10			Un_premier_diagnostic	Un premier diagnostic a été réalisé en octobre 2010 et a confirmé la pollution de sols en hydrocarbures et Hydrocarbures aromatiques polycycliques (HAP).	'hydrocarbures', 'Hydrocarbures aromatiques polycycliques', 'HAP'	

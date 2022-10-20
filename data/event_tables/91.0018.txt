@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				ont_été_réalisées	Deux études ont été réalisées par la société MIGNON sur ce site en 1994 et 1997.		'la société MIGNON'
+1994				1994				ont_été_réalisées	Deux études ont été réalisées par la société MIGNON sur ce site en 1994 et 1997.		'la société MIGNON'
+1974				1993				a_été_exploité	Le site a été exploité de 1974 à 1993.		

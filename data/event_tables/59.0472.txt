@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				Évaluation_simplifiée_des_risques	- l'Étude des sols et Évaluation simplifiée des risques (ESR)de 2000,		
+1973				1997				a_été_géré	Ce site, autrefois utilisé pour les besoins de l'usine (production et formation des apprentis) a été géré comme lycée technique de 1973 à 1997.		
+1998				1998				Une_étude_historique	Une étude historique a été menée en 1998 et a mis en évidence la présence sur le site d’une couche de remblais de 2 m d’épaisseur.		
+1973				1973				était_stocké_sur	- avant 1973, du coke de charbon était stocké sur le terrain ou dans des soutes couvertes accolées à l'atelier des forges ; il était utilisé pour l'atelier du lycée technique,	'coke', 'charbon'	
+2012				2012				l__acte_de_vente	- les restrictions d'usage mentionnées dans l'acte de vente de 2012.		
+2006	12	21		2006	12	21		imposait	Par arrêté du 21 décembre 2006, M. le préfet du Nord imposait à la société S.		'le préfet du Nord', 'la société S.'
+1912				1912				était_propriétaire	La société FCB (aujourd'hui disparue, dont le passif a été repris par la société mère COMPAGNIE DE FIVES-LILLE) était propriétaire depuis 1912 d'un terrain d'une superficie de 1,59 ha à HELLEMMES ; à l'angle des rues Chanzy et Dordin (parcelle cadastrale section 298AN n°1049).		'La société FCB', 'la société mère COMPAGNIE DE FIVES - LILLE'

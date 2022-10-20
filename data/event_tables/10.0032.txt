@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09	18		2007	09	18		a_été_signé	L'arrêté préfectoral encadrant les travaux de dépollution a été signé le 18 septembre 2007.		
+2011	03	16		2011	03	16		Une_visite_d__inspection	Une visite d'inspection a été menée le 16 mars 2011.		
+2003	03	05		2003	03	05		Un_réunion_entre	Un réunion entre Benetton, le bureau d'études ICF Environnement et l'inspection des installations classées a eu lieu le 5 mars 2003.		'Benetton', 'ICF Environnement'
+2000				2000				qui_a_cessé	Usine textile qui a cessé son activité au printemps 2000 et dans laquelle étaient exercées des activités de teinture ; du dégraissage à sec par solvant organo chlorés ; du tricotage et de la confection.	'organo chlorés'	
+2002				2002				La_mise_en_place_de	La mise en place de la surveillance trimestrielle des eaux souterraines a été mise en place en 2002, dans le puits PZ8 situé en aval du site porte sur le cis 1-2 dicloroéthylène et sur le tétrachloroéthylène.	'dicloroéthylène', 'le tétrachloroéthylène'	
+2005	07	20		2005	07	20		communiqué	L'avis de la DDASS communiqué le 20 juillet 2005 est favorable sous réserve de la prise en compte de quelques remarques.		'la DDASS'
+2007	02	16		2007	02	16		Une_visite	Une visite du site a été menée le 16 février 2007 : celle-ci a permis de constater la mise en place du système de dépollution (extraction triple phase, confinement hydraulique, injection d'oxydant, séparation des phases, oxydation et traitement des gaz).	'oxydant'	
+2003	02			2003	02			une_campagne_d__analyses	Les résultats d'une campagne d'analyses des eaux souterraines (de février 2003) ont été communiqués à l'inspection des installations classées le 8 avril 2003.		
+2005	04	04		2005	04	04		a_présenté	Lors d'une autre réunion le 4 avril 2005, le bureau d'études ICF Environnement a présenté le protocole de réhabilitation du site.		'ICF Environnement'
+2005	04			2005	04			a_donné_son_accord	L'inspection des installations classées a donné son accord pour débuter ce protocole en avril 2005.		
+2002	02			2002	02			a_fait_réaliser	L'exploitant a fait réaliser une évaluation détaillée des risques (EDR) pour les eaux souterraines et la santé publique, qui a été remise à l'inspection des installations classées fin février 2002.		
+2003	04	08		2003	04	08		ont_été_communiqués	Les résultats d'une campagne d'analyses des eaux souterraines (de février 2003) ont été communiqués à l'inspection des installations classées le 8 avril 2003.		

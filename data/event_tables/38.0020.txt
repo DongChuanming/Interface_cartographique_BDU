@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	12		2005	01	12		à_la_visite	Suite à la visite d'inspection du 12/01/2005, celle-ci a dressé un procès verbal de délit.		
+1996	07			1996	07			arrêté_de_mise_en_demeure	- de procéder à une consignation de somme répondant aux travaux demandés dans l'arrêté de mise en demeure de 07/1996.		
+1994	04			1994	04			ont_stoppé	Les activités sur le site ont stoppé en avril 1994.		
+2004	08	27		2004	08	27		a_été_signé	L’arrêté préfectoral a été signé le 27/08/2004.		
+1995	06	26		1995	06	26		Un_complément_d__étude	Un complément d'étude a de nouveau été réalisé par SIMECSOL en date du 26/06/1995. 3 échantillons de sols ont été effectués (dont 2 dans la rivière de la Rau) et 3 échantillons d'eau ont prélevés dans les puits alentours.		'SIMECSOL', 'la Rau'
+2005	06	28		2005	06	28		ont_été_prises	Des sanctions financières ont été prises à l'encontre de Mr MARRA par le biais de l'arrêté du 28/06/2005.		'Mr MARRA'
+1995	07	10		1995	07	10		a_été_rendu	Un dossier de cessation d'activité comprenant un diagnostic des sols , un rapport de prélèvement de sol ainsi qu'un examen toxicologique a été rendu en date du 10/07/1995.		
+1995	02	10		1995	02	10		Un_examen_toxicologique_a_été_effectué	Un examen toxicologique a été effectué sur les bâtiments du site le 10/02/1995 par la Société d’Études des Risques Toxiques (SERT). 15 échantillons ont été prélevés sur les murs, les tuiles et le sol des locaux présents.	'Risques Toxiques'	'la Société d’', 'SERT'
+2004	12	22		2004	12	22		ont_été_signés	Les arrêtés de mise en demeure ont été signés le 22/12/2004 et le 01/02/2005.		
+2005	04	28		2005	04	28		s__est_de_nouveau_rendu_sur_site	L'inspection des installations classées s'est de nouveau rendu sur site le 28/04/2005 et a pu constater que la situation était inchangée.		
+								a_été_saisi	Le Tribunal administratif de Grenoble a été saisi le 10/05/96 par M.		'Le Tribunal administratif de Grenoble'
+2004	10	25		2004	10	25		a_été_proposé_et_signé	Suite au non respect de la prescription relative à la mise en sécurité du site, une arrête préfectoral de mise en demeure a été proposé et signé le 25/10/2004.		
+				2005	02	01		ont_été_signés	Les arrêtés de mise en demeure ont été signés le 22/12/2004 et le 01/02/2005.		
+1972	04	12		1972	04	12		a_été_autorisé_initialement	MARRA a été autorisé initialement le 12 avril 1972 puis par AP du 21.06.88 (extension) à exercer une activité de récupération des métaux contenus dans les câbles électriques et de communication par incinération.		'MARRA'
+1995	02	22		1995	02	22		a_été_rédigé	Le rapport des études menées a été rédigé en date du 22/02/1995. 20 sondages ont été réalisés sur la parcelles et confirme la pollution du site en :		
+1995				1995				Les_observations_faites	Les observations faites en 1995 ne reflètent sans doute pas le contexte hydrogéologique habituel.		
+1995				1995				de_la_réalisation_des_sondages	Lors de la réalisation des sondages en 1995, un niveau d'eau a été observé entre 0.5 et 1 m de profondeur.		
+								a_fait_appel	Le Ministère de l'environnement a fait appel de ce jugement devant la cour administrative d'Appel de Lyon en date du 26/02/97 ; cette juridiction a annulé le 23/06/98 le jugement du tribunal administratif de Grenoble et rejeté les demandes de M.		'Le Ministère', "la cour administrative d' Appel de Lyon", 'tribunal administratif de Grenoble'
+								l__étude_réalisée	MARRA a fourni le 10/07/95 l'étude réalisée par un organisme tiers et a adressé une déclaration de cessation d'activité en proposant des travaux de remise en état du site.		'MARRA'
+								a_annulé	Le Ministère de l'environnement a fait appel de ce jugement devant la cour administrative d'Appel de Lyon en date du 26/02/97 ; cette juridiction a annulé le 23/06/98 le jugement du tribunal administratif de Grenoble et rejeté les demandes de M.		'Le Ministère', "la cour administrative d' Appel de Lyon", 'tribunal administratif de Grenoble'
+2004	10	25		2004	10	25		une_requête	MARRA dépose devant le tribunal administratif de Grenoble une requête en annulation de l'arrêté préfectoral du 25/10/2004.		

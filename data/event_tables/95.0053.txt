@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	06	20		2013	06	20		La_campagne	La campagne du 20 juin 2013 confirme notamment l'évolution favorable de l'état de la nappe d'eau souterraine, puisque l'ensemble des paramètres mesurés sont sous les seuils de référence des eaux potables.		
+2004	03			2004	03			évaluation_simplifiée_des_risques	L'évaluation simplifiée des risques, réalisée en mars 2004 classe le site en classe 2 et recommande la surveillance des eaux souterraines.		
+1989				1989				s__y_est_installée	Le terrain acquis par la commune d’Us à la SNCF a été revendu à la société HUCK qui s’y est installée en 1989.		'la société HUCK'

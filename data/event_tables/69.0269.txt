@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	09			2001	10			Le_suivi_de	Le suivi de la qualité de la nappe a été effectué de septembre 2000 à octobre 2001 au droit de PZ7 (aval), PZ8 (aval) et PZ9 (amont).		
+2000	07	06		2000	07	06		a_été_transmis	Un rapport de propositions techniques et financières a été transmis à l'administration le 06/07/2000.		
+1999	07	29		1999	07	29		La_cessation_d__activités	La cessation d'activités de la station TOTAL a été déclarée par courrier du 29/07/1999.		'la station TOTAL'
+2002	04	24		2002	04	24		a_été_transmis	Un rapport de synthèse des travaux de réhabilitation a été transmis à l'administration le 24/04/2002.		
+2001	05	02		2001	05	02		de_la	Une valeur en HCT a été mise en évidence lors de la campagne du 02/05/2001, pour 0,11 mg/L au droit de PZ7.	'HCT'	
+1999	11	10		1999	11	10		ont_été_demandés	Des compléments d'informations sur la réhabilitation du site ont été demandés à la société par courrier en date du 10/11/1999.		
+2002	08	08		2002	08	08		a_été_transmis	L'inspection des installations classées  a conclu à la conformité des travaux de remise en état du site et un procès verbal de recolement a été transmis le 08/08/2002.		
+1998	12	04		1998	12	04		Un_diagnostic_environnemental	Un diagnostic environnemental a été réalisé le 04/12/1998 et transmis à l'administration le 16/06/1999.		
+1999	06	16		1999	06	16		Un_diagnostic_environnemental	Un diagnostic environnemental a été réalisé le 04/12/1998 et transmis à l'administration le 16/06/1999.		

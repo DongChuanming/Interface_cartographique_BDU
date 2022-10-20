@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				a_été_arrêté	La surveillance de la qualité des eaux souterraines n'a pas montré de pollution des eaux et a été arrêté en 2007.		
+1999				1999				Une_réhabilitation	Une réhabilitation du site a été entreprise en 1999.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usine à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+2018				2018				Un_premier_dossier_déposé	Un premier dossier déposé en 2018 a été refusé par le préfet le 30 novembre 2018.		'le préfet'
+2001	06			2001	06			Des_travaux_d__imperméabilisation	Des travaux d'imperméabilisation du terrain (enrobés bi-couche) ont été achevés au mois de Juin 2001.		
+2019	09			2019	09			Un_deuxième_dossier_complété	Un deuxième dossier complété selon les éléments de la procédure Tiers demandeur a été déposé en septembre 2019, il est en cours d'instruction par l'inspection des installations classées.		
+1874				1944				a_accueilli	Il a une superficie de 1262 m² et a accueilli de 1874 à 1944 une usine fabriquant du gaz à partir de la distillation de la houille.		
+1998				1998				un_diagnostic_initial	Conformément aux engagements du protocole, ce site à fait l’objet d’un diagnostic initial en 1998 dont les principaux objectifs sont, outre les recherches historiques et documentaires, la recherche des ouvrages enterrées, l’évaluation de l’impact du site sur les ressources locales en eau (eaux souterraines et superficielles) et la caractérisation du sol superficiel pour évaluer les risques de contact direct et ceux liés à d’éventuelles émanations gazeuses.		
+2018	11	30		2018	11	30		Un_premier_dossier_déposé	Un premier dossier déposé en 2018 a été refusé par le préfet le 30 novembre 2018.		'le préfet'

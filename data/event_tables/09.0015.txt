@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03	02		1999	03	02		a_fait_l__objet_d_	La première phase de l'étude (étape A) remise lors d'une visite du site le 2 mars 1999, a fait l'objet d'observations qui ont été notifiées à l'exploitant par le courrier de l'IIC envoyé le 4 mars 1999 suite à la visite du site.		
+1992				1992				a_été_mis_sous_rétention	En 1992, l'ensemble de l'atelier a été mis sous rétention et une station de détoxication de tous les effluents a été créée.		
+1990	12	27		1990	12	27		est_réglementé	L'établissement est réglementé par arrêté préfectoral d'autorisation du 27 décembre 1990.		
+2002	11			2002	11			transmise	L'étape B transmise en novembre 2002 montre une légère pollution des sols en chrome et en nickel (valeurs supérieures aux VDSS mais très inférieures aux VCI usage sensible) et l'absence de pollution des eaux souterraines pour les polluants recherchés.	'chrome', 'nickel', 'les polluants'	
+1969	04			1969	04			a_été_mis_en_place	Un atelier de galvanoplastie (traitement de surface) a été mis en place à partir d'avril 1969.		
+1999	03	02		1999	03	02		remise_lors_d__une_visite	La première phase de l'étude (étape A) remise lors d'une visite du site le 2 mars 1999, a fait l'objet d'observations qui ont été notifiées à l'exploitant par le courrier de l'IIC envoyé le 4 mars 1999 suite à la visite du site.		
+2003	04			2003	04			Une_nouvelle_analyse	Une nouvelle analyse des eaux souterraines a été réalisée en avril 2003 sur les puits et les piézomètres amont et aval du site.		
+2015	05	28		2015	05	28		la_visite	La mise en sécurité a été demandée au mandataire liquidateur suite à la visite du 28 mai 2015.		
+2012				2012				a_été_rachetée	La Société Centrale d'Eclairage a été rachetée en 2012 par la société ORIZONA, suite à sa liquidation.		"La Société Centrale d' Eclairage", 'la société ORIZONA'
+2014	03			2014	03			Un_diagnostic_de_pollution_des_sols	Un diagnostic de pollution des sols, réalisé en mars 2014, a montré au niveau du parc à déchets une pollution des sols pour les paramètres cuivre, plomb, cadmium et zinc.	'cuivre', 'plomb', 'cadmium', 'zinc'	
+2015	05	28		2015	05	28		La_mise_en_sécurité_a_été_demandée	La mise en sécurité a été demandée au mandataire liquidateur suite à la visite du 28 mai 2015.		

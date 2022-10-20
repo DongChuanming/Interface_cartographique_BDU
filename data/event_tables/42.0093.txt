@@ -1,0 +1,52 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07			2013	07			ont_été_réalisés	Les travaux d’excavation de la zone 3 ont été réalisés en juillet 2013, les terres ont été placées sur les biotertres.		
+				2015	12	18		ont_été_évacuées_vers	Du 16 au 18 décembre 2015, les terres ont été évacuées vers la plateforme de traitement Suez à Ternay.		'Suez'
+2011	01	05		2011	01	05		rapport_d__inspection_approfondie	Suite au rapport d'inspection approfondie du 5 janvier 2011, l'inspection a donné l'analyse suivante concernant :		
+								une_installation_dûment_autorisée	- évacuer les terres stockées en biotertre présentant une concentration en PCB supérieure à 2 mg/kg vers une installation dûment autorisée (18 mois).	'PCB'	
+								une_période_de_traitement_de	Malgré une période de traitement de 24 mois, ces analyses montrent toujours une très forte pollution des eaux souterraines au droit de la zone.		
+2013	09	27		2013	09	27		avait_été_mis_en_place	Ce suivi avait été mis en place suite à la découverte de PCB dans les terres excavées (lettre de l’inspection du 27 septembre 2013).	'PCB'	
+								leur_maintient_en_place	Vis-à-vis de la proposition de la société SAG, l’inspection accepte l’arrêt des installations de traitement d’extraction multiphasique et leur maintient en place pour une durée minimale de 6 mois, période retenue pour l’observation de l’évolution de la concentration en COHV des eaux souterraines au droit de la zone.	'COHV'	'la société SAG'
+2016	03			2016	03			de_nouvelles_analyses	Comme demandé dans le précédent rapport d’inspection, l’exploitant a réalisé de nouvelles analyses d’air ambiant au niveau du bâtiment voisin exploité par l’Adapei (deux campagnes ont été réalisées en octobre 2015 et mars 2016).		
+								être_réalisée	La mise en place des aiguilles pour l’extraction multiphasique doit être réalisée en juillet et août 2014.		
+2016	11	16		2016	11	16		réalisée	La visite, objet du rapport du 16 novembre 2017, a porté principalement sur l’examen des suites données aux observations émises lors de la précédente inspection réalisée le 16 novembre 2016.		
+2012	09	11		2012	09	11		les_travaux_de_dépollution	En regard des dispositions de l’arrêté préfectoral du 11 septembre 2012, l’exploitant a réalisé les travaux de dépollution prévus à l’article 1.2.		
+2013	11			2013	11			ont_été_évacués	Ces déchets ont été évacués vers une installation de traitement dûment autorisée (SITA à Noyelles) en novembre 2013.		'SITA'
+2014	09			2014	09			être_mise_en_service	L’unité d’extraction et de traitement devrait être mise en service en septembre 2014, pour une durée estimée à 24 mois.		
+2013	07			2013	07			Les_travaux_d__excavation	Les travaux d’excavation de la zone 1 ont été réalisés en juillet 2013.		
+2012	09	11		2012	09	11		devront_faire_l__objet_d_	Toutefois, conformément à l’article 2.6 de l’arrêté préfectoral du 11 septembre 2012, ces eaux souterraines devront faire l’objet d’un suivi qualitatif mensuel durant 6 mois après la fin des travaux.		
+2015	10			2015	10			deux_campagnes_ont_été_réalisées	Comme demandé dans le précédent rapport d’inspection, l’exploitant a réalisé de nouvelles analyses d’air ambiant au niveau du bâtiment voisin exploité par l’Adapei (deux campagnes ont été réalisées en octobre 2015 et mars 2016).		
+2017	07	26		2017	07	26		peut_être_démantelée	Observation n°3 : Au vu des éléments présentés, l’installation d’extraction multiphasique peut être démantelée (information déjà communiquée à l’exploitant par courrier électronique du 26 juillet 2017).		
+2017	11	16		2017	11	16		La_visite	La visite, objet du rapport du 16 novembre 2017, a porté principalement sur l’examen des suites données aux observations émises lors de la précédente inspection réalisée le 16 novembre 2016.		
+2016	06			2016	06			adresser	L’ensemble de ces éléments a conduit l’inspection à adresser un courrier à l’ARS en juin 2016 pour l’informer de la situation.		
+								deux_nouvelles_campagnes_d__analyses	Depuis la précédente visite, deux nouvelles campagnes d’analyses ont été réalisées en février et octobre 2016, elles montrent ponctuellement des concentrations supérieures à l’objectif de dépollution.		
+								traiter	- traiter sous un délai de 18 mois les terres présentant une concentration supérieure à 1 mg/kg par espèce de solvant chloré.	'de solvant chloré'	
+								__le_traitement_doit_être_poursuivi	Conformément à l’arrêté préfectoral, le traitement doit être poursuivi sur une durée minimale de 24 mois et tant que la phase pure ne sera pas supprimée.		
+								transmettra	Considérant la fin des travaux de dépollution, la société SAG transmettra à l’inspection des installations classées, sous un délai de 6 mois, un rapport de fin travaux.		'la société SAG'
+2014	11	17		2014	11	17		est_en_fonctionnement	L’extraction multiphasique est en fonctionnement depuis le 17 novembre 2014, ce qui signifie que l’objectif de fonctionnement pendant 24 mois fixé par l’arrêté préfectoral du 11 octobre 2012 est atteint.		
+2012	09	11		2012	09	11		a_accusé_réception	Par arrêté préfectoral du 11 septembre 2012, madame la Préfète de la Loire a accusé réception du plan de gestion proposé par la SAG France et a imposé des travaux de dépollution au droit de 3 zones polluées identifiées sur le site		'la Préfète de la Loire', 'la SAG France'
+2013				2013				a_confirmé	L’exploitant a confirmé ses engagements de 2013.		
+								sera_réalisée	Si le bâtiment est toujours fréquenté, une campagne de mesure d’air ambiant sera réalisée sous un délai de 3 mois dans les conditions prévues par l’article 3.2.3 de l’arrêté préfectoral du 31 mars 2009,		
+2015	09	29		2015	09	29		La_visite_sur_site	La visite sur site du 29 septembre 2015 a porté sur le suivi des prescriptions de l'arrêté préfectoral complémentaire n°322-DDPP-12 du 11 septembre 2012 relatif aux travaux de dépollution du site, et a permis de faire le point sur l’état d’avancement des différentes zones à dépolluer.		
+2013	08			2013	08			les_travaux_de_dépollution	Aussi, les travaux de dépollution devront être mis en œuvre en août 2013 avec la technique d’extraction multiphasique.		
+2015				2015				envisage	L’exploitant envisage une évacuation de ces terres au printemps 2015.		
+1997	08	27		1997	08	27		est_actuellement_réglementé	Le site est actuellement réglementé par un arrêté préfectoral d'autorisation du 27 août 1997.		
+2009	04	03		2009	04	03		impose	Un arrêté préfectoral, en date du 3 avril 2009, impose à l'exploitant de réaliser :		
+								stopper	- stopper l’unité de traitement, sans démantèlement, avec un suivi trimestriel des eaux souterraines au droit des piézomètres de la zone 2 pendant 6 mois,		
+2016				2016				moins_d__anomalies_ont_été_relevées	- Au niveau de Pz13, moins d’anomalies ont été relevées depuis le début de l’année 2016.		
+2017	02			2017	02			La_visite	La visite, objet du rapport de février 2017, a permis de faire le point sur l’état d’avancement des différentes zones à dépolluer et le bilan des actions mises en œuvre en regard des remarques du précédent rapport.		
+2010				2010				Les_sondages_de_sols	Les sondages de sols complémentaires prévus par l'arrêté préfectoral ont été réalisés en 2010.		
+2012	09			2012	09			sera_traitée_en_premier	ZONE 1 : Compte tenu des enjeux industriels (construction d'un bâtiment de stockage) , cette zone sera traitée en premier (début des travaux : septembre 2012).		
+								exploité	Sur ce site exploité depuis plus de 60 ans, différents exploitants se sont succédés (IMI PACIFIC, SOFRATTOL, ROFAUSS…) avec des activités diverses (tôlerie, fabrication de chauffe-eaux, fabrication de réservoirs…).		'IMI PACIFIC , SOFRATTOL , ROFAUSS'
+2014	08			2014	08			doit	La mise en place des aiguilles pour l’extraction multiphasique doit être réalisée en juillet et août 2014.		
+								doit	La mise en place des aiguilles pour l’extraction multiphasique doit être réalisée en juillet et août 2014.		
+2016	03			2016	03			deux_campagnes_ont_été_réalisées	Comme demandé dans le précédent rapport d’inspection, l’exploitant a réalisé de nouvelles analyses d’air ambiant au niveau du bâtiment voisin exploité par l’Adapei (deux campagnes ont été réalisées en octobre 2015 et mars 2016).		
+2013	07			2013	07			Les_travaux_d__excavation_de	Les travaux d’excavation de la zone 3 ont été réalisés en juillet 2013, les terres ont été placées sur les biotertres.		
+2002				2002				l__élimination_des_cuves_de_fuel	. une analyse des hydrocarbures totaux dans les eaux souterraines suite à l'élimination des cuves de fuel en 2002,	'hydrocarbures totaux', 'de fuel'	
+2016	10			2016	10			deux_nouvelles_campagnes_d__analyses	Depuis la précédente visite, deux nouvelles campagnes d’analyses ont été réalisées en février et octobre 2016, elles montrent ponctuellement des concentrations supérieures à l’objectif de dépollution.		
+2002				2002				une_analyse	. une analyse des hydrocarbures totaux dans les eaux souterraines suite à l'élimination des cuves de fuel en 2002,	'hydrocarbures totaux', 'de fuel'	
+2015				2015				une_évacuation	L’exploitant envisage une évacuation de ces terres au printemps 2015.		
+2015	10			2015	10			de_nouvelles_analyses	Comme demandé dans le précédent rapport d’inspection, l’exploitant a réalisé de nouvelles analyses d’air ambiant au niveau du bâtiment voisin exploité par l’Adapei (deux campagnes ont été réalisées en octobre 2015 et mars 2016).		
+2013	10			2013	10			le_brassage_mécanique	En ce qui concerne la dépollution de la nappe et des terres au toit de la nappe (soil mixing), le brassage mécanique des terres au toit de la nappe et de l’oxydant chimique biodégradable a été réalisé en octobre 2013.	'oxydant chimique biodégradable'	
+2011	01	05		2011	01	05		a_donné	Suite au rapport d'inspection approfondie du 5 janvier 2011, l'inspection a donné l'analyse suivante concernant :		
+2009				2010				Campagnes	Campagnes d'analyses des eaux souterraines de 2009 à 2010 :		
+2014	08			2014	08			être_réalisée	La mise en place des aiguilles pour l’extraction multiphasique doit être réalisée en juillet et août 2014.		

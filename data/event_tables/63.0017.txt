@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06	30		1999	06	30		Le_diagnostic_initial	Le diagnostic initial a été présenté le 30 juin 1999.		
+2002	09	05		2002	09	05		la_visite	Des compléments d'investigations ont été demandés à la suite de la visite du 05/09/2002.		
+1907				1907				la_création	Usine dont la création remonte à 1907 dont l'activité est l'élaboration et la transformation d'aciers spéciaux et d'alliages haute performance.		
+1998	03	23		1998	03	23		Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été prescrite par arrété préfectoral du 23 Mars 1998.		

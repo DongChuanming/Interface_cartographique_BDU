@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				entreprise_est_placée_en_redressement_judiciaire	En 2003, l'entreprise est placée en redressement judiciaire.		
+2003	01			2003	01			a_eu_lieu	La première campagne a eu lieu au mois de janvier 2003.		
+1999	06	07		1999	06	07		est_réglementé	Cet établissement est réglementé par l'arrêté préfectoral n°99 4067 du 07/06/1999.		
+1998	12	01		1998	12	01		L__étude_de_sols	L'étude de sols a été imposée par arrêté préfectoral n°98 8356 du 1/12/1998.		
+2003	06	18		2003	06	18		a_été_remise	L'ESR a été remise en date du 18/06/2003 18/06/2003. 3 sondages ont été réalisés sur le site et 3 piézomètres ont été mis en place.		
+				2008	06			Une_contamination_constante_en_Plomb	- Une contamination constante en Plomb jusqu'au mois de juin 2008 avec une concentration maximale observée à 170 µg/l en juin 2008.	'Plomb'	
+1961				1961				débutée	L’activité principale de la fonderie Giroud, débutée depuis 1961, est la fabrication de pièces en fonte à l'aide de fours à induction.		'fonderie Giroud'
+1993				1993				totalité_de	En 1993, la famille GIROUD cède la totalité de ses parts au groupe suisse VON ROLL.		'la famille GIROUD', 'groupe suisse VON ROLL'

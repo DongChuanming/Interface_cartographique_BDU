@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_fonctionné	Ces cokerie ont fonctionné pendant 22 ans sans changement notable fournissant du gaz domestique et du coke.	'coke'	
+1921				1921				prend_son_essor	En 1921, la plate-forme prend son essor avec la découverte de la synthèse de l'ammoniac.	'ammoniac'	
+1899				1899				a_été_choisi	En 1899, le site de Mazingarbe a été choisi par la compagnie de		'la compagnie de'

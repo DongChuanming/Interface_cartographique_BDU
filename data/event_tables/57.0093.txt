@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	10	08		1998	10	08		a_été_demandée	Une étude, définissant les travaux nécessaires de remise en état du site après la fin de l'exploitation, a été demandée par arrêté du 08 octobre 1998.		
+1991	09	04		1991	09	04		a_été_mise_en_liquidation_judiciaire	Le 4 septembre 1991, la société LORRAINE ZINGAGE a été mise en liquidation judiciaire.		'la société LORRAINE ZINGAGE'
+1977	09	21		1977	09	21		a_été_mise_en_demeure_de_remettre_en_état	Par arrêté préfectoral n° 92-AG/2-113 du 27 février 1992, la société a été mise en demeure de remettre en état le site anciennement exploité par la société LORRAINE ZINGAGE en vertu de l’article 34-1 du décret n° 77-1133 du 21 septembre 1977.		'la société LORRAINE ZINGAGE'
+2007	04	04		2007	04	04		de_la_visite	- Lors de la visite du 4 avril 2007, il a été constaté que la porte d'accès du bâtiments n'est plus fermée par cadenas ainsi que la présence de bidons vides et d'un sac de sulfure de sodium à l'extérieur.	'bidons vides', 'sulfure de sodium'	
+2002	07	31		2002	07	31		Un_diagnostic_initial	Un diagnostic initial de l'étude de l'Evaluation Simplifiée des Risques (ESR), a été remis à l'inspection le 31 juillet 2002.	'ESR'	
+1990				1990				exploitait	La société CLEMENS exploitait, en 1990, un atelier de traitement de surface (activités de chromage, nickelage, laitonnage et palissage) qui a été scindé en 2 unités :		'La société CLEMENS'
+2013	06	24		2013	06	24		sont_toujours_en_place	A la date de la dernière visite d'inspection le 24 juin 2013, les prescriptions sont toujours en place, et la surveillance doit être poursuivie.		
+1997				1997				a_cessé_son_activité	La société CLEMENS a cessé son activité sur le site des ETANGS en 1997 suite à son placement en liquidation judiciaire.		'La société CLEMENS'
+1999				1999				a_été_nettoyé	En 1999 le site a été nettoyé les poussières récupérées et les terres les plus polluées excavées puis dirigées vers un centre de traitement.		

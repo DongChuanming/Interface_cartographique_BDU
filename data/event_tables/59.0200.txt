@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07			2004	07			Réalisation_d__un_diagnostic_initial	- Réalisation d'un diagnostic initial, phase B et d'une évaluation simplifiée des risques en juillet 2004.		
+2009	09			2009	09			Changement	- Changement d'exploitant déclaré en septembre 2009.		
+2004				2008				Élimination	- Élimination de la totalité des transformateurs PCB du site: de 2004 à 2008.	'PCB'	
+1999	10	14		1999	10	14		Réalisation_d__une_étude_des_sols	- Réalisation d'une étude des sols, phase A en date du 14/10/1999.		
+2009	09			2009	09			déclaré	- Changement d'exploitant déclaré en septembre 2009.		

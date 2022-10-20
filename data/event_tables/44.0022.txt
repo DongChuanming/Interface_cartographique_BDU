@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_utilisé	Le parc construit en 1976 a été utilisé en tant que parc à suies au moins jusqu'en 88, en tant que déversoir à effluents liquides et solides de lavage d'éléments de tranches au moins jusqu'en 1990, en tant que décharge interne de produits solides (mâchefers, vases) au moins jusqu'en 1992.	'effluents liquides', 'produits solides'	
+1982				1982				de_poser	Les premières actions allant dans le sens de la protection de l'environnement ont été de poser 3 piézomètres fin 1982.		
+2006	12	31		2006	12	31		est_fixée	La date butée de l'opération est fixée au 31 décembre 2006.		
+1976				1976				construit	Le parc construit en 1976 a été utilisé en tant que parc à suies au moins jusqu'en 88, en tant que déversoir à effluents liquides et solides de lavage d'éléments de tranches au moins jusqu'en 1990, en tant que décharge interne de produits solides (mâchefers, vases) au moins jusqu'en 1992.	'effluents liquides', 'produits solides'	
+1979				1979				les_actions_de_surveillances	Toutefois, les actions de surveillances ont été engagées dès 1979.		
+				1992				a_été_utilisé	Le parc construit en 1976 a été utilisé en tant que parc à suies au moins jusqu'en 88, en tant que déversoir à effluents liquides et solides de lavage d'éléments de tranches au moins jusqu'en 1990, en tant que décharge interne de produits solides (mâchefers, vases) au moins jusqu'en 1992.	'effluents liquides', 'produits solides'	
+1982	12			1982	12			a_reçu	La centrale a reçu l'autorisation de poursuivre l'exploitation du parc à suies fioul en décembre 1982.		
+2005				2005				Le_chantier_commencera	Le chantier commencera le second semestre 2005.		
+1992				1992				ont_été_arrêtées	Depuis 1992, toutes ces actions ont été arrêtées.		
+2006				2006				Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont terminés fin 2006.		
+1982	12			1982	12			de_poursuivre	La centrale a reçu l'autorisation de poursuivre l'exploitation du parc à suies fioul en décembre 1982.		
+1990				1990				contrôlés	Néanmoins, depuis fin 1990, les effluents rejeté sont contrôlés avec rigueur.	'effluents'	
+				1990				a_été_utilisé	Le parc construit en 1976 a été utilisé en tant que parc à suies au moins jusqu'en 88, en tant que déversoir à effluents liquides et solides de lavage d'éléments de tranches au moins jusqu'en 1990, en tant que décharge interne de produits solides (mâchefers, vases) au moins jusqu'en 1992.	'effluents liquides', 'produits solides'	

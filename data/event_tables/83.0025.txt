@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10	15		2004	10	15		Un_dossier_de_Demande_d_	Un dossier de Demande d'Autorisation d'Exploiter (DAE) a donc été déposé le 15/10/2004 suite à l'AP de mise en demeure du 19/07/2004 et l'AP d'autorisation a été signé le 7/07/2006.		
+2008	03	11		2008	03	11		Un_diagnostic_des_sols	Un diagnostic des sols a été effectué le 11/03/2008 suite aux constats d'impacts par hydrocarbures aromatiques dissous (BTEX, caractéristioque des hydrocarbures volatils de 1ere catégorie type super sans plomb ) dans l'eau souterraine au droit de 2 piézomètres.	'hydrocarbures', 'BTEX', 'hydrocarbures volatils', 'super sans plomb'	
+2006	09	22		2006	09	22		Une_étude_hydrogéologique	Une étude hydrogéologique a été effectuée le 22/09/2006.		
+								ont_été_transmis	Suite à cet APC, un rapport de contrôle de l'étanchéité de l'ensemble des cuves et canalisations (l'ensemble des installations est étanche) ainsi qu'un bilan de la surveillance des eaux souterraines ont été transmis par courrier du 10/01/17.		
+2008	01	17		2008	01	17		AP_de_mise_en_demeure	Suite à l'AP de mise en demeure du 17/01/2008, des travaux ont été effectués afin de réduire les émissions de COV de la station, notamment le remplacement du dispositif de raccordement de la phase vapeur au niveau du poste de dépotage (AP d'abrogation du 9/07/2008).	'COV'	
+1980				1980				est_en_activité	La station service est en activité depuis 1980 et est exploitée par la société carrefour HYPERMARCHE FRANCE SAS.		'la société carrefour HYPERMARCHE FRANCE'
+1999				1999				démantelée	Ces piézomètres sont situés sur le secteur d'implantation d'une ancienne station service démantelée en 1999 dont la partie Est a été remplacée par un centre de maintenance automobile et la partie Ouest par l'actuelle station.		
+2009				2009				un_impact_fort	un impact fort des eaux souterraines en HCT au droit de PZ'4 depuis 2009,		
+2006	07	07		2006	07	07		a_été_signé	Un dossier de Demande d'Autorisation d'Exploiter (DAE) a donc été déposé le 15/10/2004 suite à l'AP de mise en demeure du 19/07/2004 et l'AP d'autorisation a été signé le 7/07/2006.		
+2006	07	07		2006	07	07		Un_dossier_de_Demande_d_	Un dossier de Demande d'Autorisation d'Exploiter (DAE) a donc été déposé le 15/10/2004 suite à l'AP de mise en demeure du 19/07/2004 et l'AP d'autorisation a été signé le 7/07/2006.		
+2004	05	06		2004	05	06		une_visite_d__inspection	Lors d'une visite d'inspection le 06/05/2004, il a été constaté que le débit réel des installations est supérieur au seuil d'autorisation.		
+2009	01			2009	01			est_réalisée	La surveillance semestrielles des eaux souterraines est réalisée depuis janvier 2009 au droit de 5 piézomètres (3 piézomètres en amont PZ1, PZ2, PZ3 et 2 piézomètres aval PZ'4 et PZ5).		
+2016	10	18		2016	10	18		a_été_remplacé	Le séparateur à hydrocarbures a été remplacé les 17 et 18 octobre 2016.	'hydrocarbures'	
+2008	11	21		2008	11	21		ont_été_reçus	Un schéma conceptuel et un plan de gestion ont été reçus le 21/11/2008.		
+								a_été_remplacé	Le séparateur à hydrocarbures a été remplacé les 17 et 18 octobre 2016.	'hydrocarbures'	

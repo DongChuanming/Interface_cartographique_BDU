@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	07			2011	07			Diagnostic_de_l__état_du_site	- Diagnostic de l’état du site, rapport AXE, ref AXE/OC/LORGE ET CIE/diag/2011-359-V2, juillet 2011 mis à jour en septembre 2012		'AXE', 'AXE / OC', 'LORGE ET CIE'
+1987	11	27		1987	11	27		était_autorisée_par	L’exploitation du site était autorisée par arrêté préfectoral du 27 novembre 1987.		
+1969				1969				a_débuté	L’activité sur ce site a débuté en 1969.		
+2013	09	09		2013	09	09		__Investigations_complémentaires_quantification	-  Investigations complémentaires quantification des risques sanitaires sur site « plan de gestion » et hors site « IEM » rapport AXE, ref Axe/LK/Hazane/2013-460, 9 septembre 2013.		
+2014	04	25		2014	04	25		Analyse	- Analyse critique INERIS (rapport INERIS DRC-14_142841-03969A) du 25 avril 2014,		'INERIS', 'INERIS DRC-14_142841'
+2012	09			2012	09			Diagnostic_de_l__état_du_site	- Diagnostic de l’état du site, rapport AXE, ref AXE/OC/LORGE ET CIE/diag/2011-359-V2, juillet 2011 mis à jour en septembre 2012		'AXE', 'AXE / OC', 'LORGE ET CIE'
+2012	07	18		2012	07	18		LORGE_et_Cie_a_été_placée_en_liquidation_judiciaire	La société LORGE et Cie a été placée en liquidation judiciaire, le 18 juillet 2012, par le tribunal de Compiègne.		'La société LORGE'

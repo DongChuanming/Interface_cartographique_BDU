@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	01	23		2013	01	23		est_passé	Le site est passé d'ARKEMA à KEM ONE le 23/01/2013.		"d' ARKEMA", 'KEM ONE'
+1965				1972				au_déversement	- l’origine de la pollution est due au déversement dans des fosses d’infiltration, entre 1965 et 1972, de 5000 tonnes de résidus visqueux de distillation (composition : 1,1,2 trichloroéthane, 1,2 dichloroéthane) ;	'résidus visqueux', '1,1,2 trichloroéthane', '1,2 dichloroéthane'	
+2006				2006				ont_été_détectées	De fortes teneurs en chlorure de vinyle monomère (CVM) ont été détectées au droit du site à l'été 2006 (en milliers et millions de microgrammes par litres).	'chlorure de vinyle monomère', 'CVM'	
+1994				1995				une_étude_historique	Entre 1994 et 1995, ELF ATOCHEM a fait réaliser une étude historique, une étude hydrogéologique, un prédiagnostic puis un diagnostic du site, en application de l’arrêté préfectoral du 10/01/1994.		'ELF ATOCHEM'
+								poursuivre	- poursuivre les mesures de suivi et de contrôle de l'évolution du panache ;		
+2002	06	12		2002	06	12		a_annulé	. du 12/06/2002 a annulé les arrêtés préfectoraux notifiés à ELF-ATOCHEM, et a rejeté les différentes requêtes de RHODIA ; la société a fait appel.		'ELF - ATOCHEM', 'RHODIA', 'la société'
+1993				1993				a_été_détectée	La pollution a été détectée en 1993 lors d’une campagne d’analyses de micropolluants sur les eaux d’un puits de la société RHODIA SILICONES, organisée par la DRIRE.		'la société RHODIA SILICONES', 'la DRIRE'
+2006				2006				le_diagnostic	Les puits industriels recensés dans le diagnostic réalisé en 2006 restent éloignés de la zone polluée.		
+2008	11	07		2008	11	07		a_été_remise	L'IEM a été remise le 07/11/2008.		
+2009	02			2009	02			a_mis_en_place	ARKEMA a mis en place en février 2009 un nouveau piézomètre en bordure du canal de dérivation, à l'ouest du site BLUESTAR SILICONES, afin de vérifier les teneurs rejoignant le Rhône susceptibles d'impacter l'écosystème rhodanien.		'ARKEMA', 'BLUESTAR SILICONES'
+1850				1850				se_sont_succédés	Des exploitants différents se sont succédés sur ce site depuis 1850 (ELF-ATOCHEM, ATOFINA, ARKEMA).		'ELF - ATOCHEM', 'ATOFINA', 'ARKEMA'
+2009	01	16		2009	01	16		a_été_remis	Le plan de gestion a été remis le 16/01/2009.		
+2005	12	25		2005	12	25		est_pris	Un arrêté préfectoral complémentaire est pris le 25/12/2005 à l'encontre de RHODIA CHIMIE afin de poursuivre les efforts d'investigation.		'RHODIA CHIMIE'

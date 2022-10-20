@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10	26		2000	10	26		met_en_demeure	Le 26 octobre 2000, un arrêté préfectoral met en demeure l'exploitant de poursuivre des travaux.		
+1981	05	19		1981	05	19		ont_été_déclarées_par_récépissé	Les installations ont été déclarées par récépissé du 9 février 1970 et du 19 mai 1981 relatif aux rubriques 3, 68 et 261 bis de la nomenclature des Installations Classées.		
+				2000	06	16		ont_été_effectués	Ils ont été effectués par la société GRS VALTECH du 13 au 16 juin 2000 : le faurcadage et l'écrémage de l'étang.		'la société GRS VALTECH'
+1970	02	09		1970	02	09		ont_été_déclarées_par_récépissé	Les installations ont été déclarées par récépissé du 9 février 1970 et du 19 mai 1981 relatif aux rubriques 3, 68 et 261 bis de la nomenclature des Installations Classées.		
+2000	03	27		2000	03	27		récole_des_travaux_effectués_et_demandés	Le rapport de l'Inspection des Installations Classées du 24 juillet 2000 récole des travaux effectués et demandés dans l'arrêté du 27 mars 2000.		

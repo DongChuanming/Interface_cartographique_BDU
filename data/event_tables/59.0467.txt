@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_cessé	Toute activité industrielle a cessé sur le site depuis le premier trimestre 2006.		
+2006	07	15		2006	07	15		Visite	Visite du 15/07/2006 :		
+2006	06	30		2006	06	30		un_acte_de_vandalisme_sur_transformateur	Pollution des sols par les PCB suite à un acte de vandalisme sur transformateur le 30 juin 2006.	'PCB'	

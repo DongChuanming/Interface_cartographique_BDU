@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				_Arrêt_production	-Arrêt production en 1994		
+								_Cessation_d__activité	-Cessation d'activité le 1 aout 2005		
+2006	04			2006	04			__travaux_de_mise_en_sécurité	-Avril 2006: travaux de mise en sécurité: évacuation des déchets et des équipements, élimination de transformateurs électriques contenant des PCB, diagnostic des réseaux...	'PCB'	
+1996	12	30		1996	12	30		la_réalisation_d__une_étude_de_risque	-Arrêté préfectoral imposant des prescriptions complémentaires à la société Etilam pour la réalisation d'une étude de risque, de pollution, et de danger présentés par l'exploitation de son établissement de Solesmes le 30 décembre 1996		'la société Etilam'
+								_Cessation_d__activité	-Cessation d'activité le 1er aout 2005		
+2005				2005				_Cessation_d__activité	-Cessation d'activité le 1er aout 2005		
+2005	07			2005	07			__diagnostic_initial	-Juillet 2005: diagnostic initial et Évaluation simplifiée des risques par Etilam, réalisation de 27 sondages.		'Etilam'
+2009	10			2009	10			__curage	-Octobre 2009: curage des sédiments du cours d'eau de la Selle et réaménagement du barrage.		
+2005				2005				_Cessation_d__activité	-Cessation d'activité le 1 aout 2005		

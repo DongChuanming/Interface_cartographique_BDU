@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				2001				Des_travaux_de_dépollution	Des travaux de dépollution se sont déroulés entre 1999 et 2001.		
+1981				1981				a_été_construit	En 1981, un entrepôt a été construit pour le stockage de lubrifiants et a été exploité quelques années (par Elf lubrifiant).	'lubrifiants'	'Elf lubrifiant'
+1991				1991				rachat_du_terrain	Le site a été libéré pour la construction d'immeuble après rachat du terrain en 1991.		
+1991				1991				a_été_racheté	En 1991, le site a été racheté par la SEM92 pour l’aménagement de la ZAC des Bords de Seine.		'la SEM92'
+1976				1976				a_été_radiée	La société LASSAILLY et BICHEBOIS a été radiée en 1976.		'La société LASSAILLY', 'BICHEBOIS'
+2001	09	20		2001	09	20		Une_étude_de_risques	Une étude de risques fournie le 20/09/2001 a confirmé la compatibilité du site avec les projets de construction de la SEM 92.		
+1968				1968				arrêtée	L'activité anciennement exercée sur le site par la société LASSAILLY et BICHEBOIS était la distillation de goudrons de houille issus d'usines à gaz (activité arrêtée en 1968).	'goudrons de houille'	'la société'
+				1980				a_ensuite_été_exploité	Le site a ensuite été exploité jusqu'en 1980 comme dépôt de bitume et centrale d'enrobage (par le Société Chimique de la Route).	'bitume'	'le Société Chimique de la Route'

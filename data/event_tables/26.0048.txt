@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								signale	A la fin du mois de février, le centre social signale un problème d’odeurs et découvre des traces d’hydrocarbure dans le vide sanitaire.	'des traces d’', 'hydrocarbure'	
+2007	08	06		2007	08	06		une_évaluation_détaillée_des_risques	- une évaluation détaillée des risques effectuée par ANTEA visant le centre social (06 août 2007) ,		'ANTEA'
+2012	05	29		2012	05	29		L__excavation	L'excavation des cuves s'est achevée le 29 mai 2012.		
+2008	09			2008	09			a_été_associée_à	Une seconde unité de pompage/écrémage a été associée à une tranchée drainante à proximité du centre social en septembre 2008 et a permis de récupérer 81kg de polluant.		
+2011	12	18		2011	12	18		cesse_son_activité	la SARL GARAGE DU TRICASTIN cesse son activité le 18 décembre 2011.		'la SARL GARAGE DU TRICASTIN'
+2011	12	30		2011	12	30		est_vendue_à	la station-service est vendue à la commune de Saint Paul Trois Châteaux le 30 décembre 2011 ; La commune s'engage à neutraliser les cuves et les tuyauteries de la station-service.		'Saint Paul Trois Châteaux'
+2007	06	15		2007	06	15		a_présenté	Le vendredi 15 juin 2007, la société ANTEA a présenté les résultats de ses investigations lors d’une réunion rassemblant les différentes parties et administrations concernées.		'la société ANTEA'
+								la_communication	- la communication des autres mesures de gestion accompagnées de la proposition de suivi des milieux dans un délai de 6 mois.		
+2009	08			2009	08			__a_été_arrêté	la phase surnageante ayant disparu, le dispositif d'écrémage au niveau de la station service et du centre social a été arrêté en août 2009 avec mise en place d'un contrôle mensuel sur les trois premiers mois puis trimestriel par sonde d'interface sur tous les ouvrages. Il est alors prévu une remise en service des dispositifs de pompage si la surveillance des eaux souterraines révèle une réapparition de surnageant.	'réapparition de surnageant'	
+2008	04			2008	04			a_été_mise_en_place	Depuis avril 2008, une unité de pompage a été mise en place au niveau de la station avec filtration sur charbon actif.	'charbon actif'	
+2008	07			2008	07			a_été_initié	Le suivi trimestriel de la qualité de l'air ambiant a été initié en juillet 2008.		
+2008	08	07		2008	08	07		a_été_mis_en_service	La mise en dépression du vide sanitaire du centre social a été mis en service le 07 août 2008 afin d'extraire les polluants sous formes gazeuses.		
+2007	07			2007	07			le_diagnostic_approfondi	- le diagnostic approfondi de l’installation classée (juillet 2007),		
+2012	08	31		2012	08	31		est_produite	Une Analyse des Risques Résiduels est produite le 31 août 2012.		
+2007	07			2007	07			une_étude_d_	- une étude d’ANTEA, fournie par la commune, caractérisant l’état du milieu entre la station et le centre social (juillet 2007),		'ANTEA'
+2007	03			2007	03			s__est_vue_dans_l__obligation	La commune s’est vue dans l’obligation de fermer le centre social et de replacer l’ensemble de ses occupants, suite à des mesures d’air ambiant réalisées en mars 2007.		
+2007	08	02		2007	08	02		impose	Le 02 août 2007, un arrêté préfectoral n° 07-4075, impose à l’exploitant des prescriptions complémentaires.		
+1993				1993				a_eu_lieu	En réponse à nos demandes d’informations quant au suivi technique de la station, monsieur BELOTTI nous indique par courrier du 18 mai 2007, le remplacement d’une cuve SP (Sans Plomb) « percée » qui a eu lieu en 1993, alors que TOTAL était exploitant de la station (de 1990 à 1996).	'SP', 'Sans Plomb'	'monsieur BELOTTI'
+2007	05	18		2007	05	18		indique_par_courrier	En réponse à nos demandes d’informations quant au suivi technique de la station, monsieur BELOTTI nous indique par courrier du 18 mai 2007, le remplacement d’une cuve SP (Sans Plomb) « percée » qui a eu lieu en 1993, alors que TOTAL était exploitant de la station (de 1990 à 1996).	'SP', 'Sans Plomb'	'monsieur BELOTTI'
+								la_communication_du_diagnostic_approfondi	- la communication du diagnostic approfondi et de la caractérisation de l’état des milieux à l’inspection des installations classées, dans un délai de 3 mois,		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	07		2007	08	07		Les_mêmes_investigations_ont_été_menées	Les mêmes investigations ont été menées par le bureau d'étude ICF Environnement sur les parcelles DT 32, 45, 47 et 71 du site le 07/08/2007.		'ICF Environnement'
+2009	01	16		2009	01	16		L__exploitation_d_	L'exploitation d'une cuve enterrée d'une contenance de 100 m3 d'éthanol a également été autorisée par l'arrêté du 16/01/2009.	'éthanol'	
+				1967	08	23		a_été_cédé_à	Le site a appartenu à la SNCF jusqu'au 23/08/1967, date à laquelle il a été cédé à la société ANTAR.		'la société ANTAR'
+1993	11	03		1993	11	03		avant_d__appartenir_à	Le 14/10/1968, le site appartenait à la société RHIN-RHONE avant d'appartenir à la société BOLLORE ÉNERGIE le 3/11/1993.		'la société RHIN - RHONE', 'la société BOLLORE ÉNERGIE'
+1995	12	27		1995	12	27		a_fusionné_avec	Cette société a fusionné avec la CPA le 27/12/1995 pour formé la Société des Dépôts de Saint Priest (SDSP).		'la CPA', 'la Société des Dépôts de Saint Priest'
+2012	06	09		2012	06	09		est_ensuite_passé	Le volume exploitable est ensuite passé à 580 m3 suite à l'arrêté du 09/06/2012.		
+2002				2002				effectuée_pendant_l_	Compte tenu des résultats de la campagne de surveillance mensuelle de la qualité des eaux souterraines effectuée pendant l'année 2002, l'exploitant a sollicité un allègement de la fréquence de contrôle (semestrielle au lieu de mensuelle).		
+				1967	08	23		a_appartenu_à	Le site a appartenu à la SNCF jusqu'au 23/08/1967, date à laquelle il a été cédé à la société ANTAR.		'la société ANTAR'
+1947				1947				à_été_créé	Le dépôt à été créé en 1947 sur une ancienne emprise de la SNCF.		
+2000	08			2000	08			ont_été_transmises	Le diagnostic prévu et l’ESR ont été transmises à l'administration en août 2000.		
+2001	04	25		2001	04	25		ont_été_transmis	Des compléments et éclaircissements ont été demandés à l'exploitant et ont été transmis à l'administration le 25/04/2001.		
+1948	08	26		1948	08	26		a_été_signé	L'arrêté d'autorisation a été signé le 26/08/1948 pour une capacité de 2 980 m3 de liquide inflammable de 2eme catégorie en bacs aérien.	'liquide inflammable'	
+1968	10	14		1968	10	14		appartenait_à	Le 14/10/1968, le site appartenait à la société RHIN-RHONE avant d'appartenir à la société BOLLORE ÉNERGIE le 3/11/1993.		'la société RHIN - RHONE', 'la société BOLLORE ÉNERGIE'
+2000				2003				s__est_implantée	Entre 2000 et 2003, la société METALEX s'est implantée sur le site pour exercer une activité de récupération de métaux et un centre de tri.		'la société METALEX'
+2006	10	27		2006	10	27		Un_diagnostic_initial	Un diagnostic initial ainsi qu'une ESR ont été réalisée sur la parcelle DT 68 par SOCOTEC le 27/10/2006.		'SOCOTEC'
+2002				2002				a_sollicité_un_allègement	Compte tenu des résultats de la campagne de surveillance mensuelle de la qualité des eaux souterraines effectuée pendant l'année 2002, l'exploitant a sollicité un allègement de la fréquence de contrôle (semestrielle au lieu de mensuelle).		

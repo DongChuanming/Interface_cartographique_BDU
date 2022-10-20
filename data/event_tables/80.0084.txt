@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	12	04		2008	12	04		Une_visite_réalisée	Une visite réalisée le 4 décembre 2008 a permis de constater l'arrêt et le démantèlement des installations de traitement de surface soumises à autorisation.		
+2007	09			2007	09			a_été_arrêtée	L'activité de traitement de surface a été arrêtée en septembre 2007.		
+2007	02	28		2007	02	28		une_visite	Dans le cadre de la circulaire du 17 août 2005 relative aux anciens sites industriels d’exploitation ou de transformation d’amiante, une visite du site a été réalisée le 28 février 2007.		
+2005	08			2005	08			a_été_finalisée	Une évaluation simplifiée des risques de pollution a été finalisée en août 2005 concluant à la nécessité de procéder à une surveillance de la qualité des eaux souterraines.		
+2004	02			2004	02			la_campagne_de_surveillance	Les résultats de la campagne de surveillance de février 2004 ont mis en évidence :		
+2002				2004				une_forte_augmentation	- une forte augmentation de la pollution entre 2002 et 2004 pour tous les paramètres sauf le chlorure de vinyle qui diminue légèrement.	'le chlorure de vinyle'	
+2002	08	08		2002	08	08		est_en_place	Depuis l'arrêté préfectoral du 8 août 2002, une surveillance des eaux souterraines est en place sur le site de FAIVELEY à Amiens.		'FAIVELEY'

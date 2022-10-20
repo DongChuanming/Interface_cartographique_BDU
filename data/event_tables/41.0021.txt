@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07			2009	07			a_été_élaborée	Une stratégie de réhabilitation a été élaborée en juillet 2009 puis validée par la ville de Blois, l'exploitant et le promoteur.		
+2008				2008				Les_investigations_environnementales	Les investigations environnementales réalisées en 2008, ont mis en évidence 6 zones où les sols sont impactés par des hydrocarbures.	'hydrocarbures'	
+1949				1949				A_l__origine	A l'origine des activités, c'est-à-dire vers 1949, la société DBA-AIR EQUIPEMENT exploitait un très grand site industriel composé de 4 usines dites A, B, C et D.		'la société DBA - AIR EQUIPEMENT'
+2010				2010				ont_été_évacuées	En 2010, 1500 tonnes de terres impactées ont été évacuées du site.		
+2005				2005				ont_été_éliminés	Les déchets ont été éliminés et la surveillance des eaux souterraines a été mise en place au cours de l'été 2005.		
+2007				2007				a_mandaté	En 2007, la ville de Blois a mandaté un bureau d'étude pour évaluer les investigations environnementales nécessaires à l'élaboration de solutions de réhabilitation.		
+2005				2005				a_été_mise_en_place	Les déchets ont été éliminés et la surveillance des eaux souterraines a été mise en place au cours de l'été 2005.		

@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	12			2015	12			Les_opérations_de_réhabilitation	Les opérations de réhabilitation ont été finalisées en décembre 2015.		
+2016	06			2016	06			une_attestation	Le bureau d'études certifié dans le domaine des sites et sols pollués a produit en juin 2016 une attestation de prise en compte des mesures de dépollution dans le projet de réhabilitation du site, qui confirme sa compatibilité sanitaire avec l'usage futur, tout en préconisant l'instauration de restrictions d'usage (interdiction d'un usage résidentiel, interdiction d'utilisation des eaux souterraines à des fins de consommation ou d'arrosage, interdiction de cultures potagères et fruitières notamment).		
+2009	03	19		2009	03	19		un_arrêté_de_mise_en_demeure	Plusieurs prescriptions ont été prises à l'encontre de Maître SERRANO sous forme d'un arrêté de mise en demeure (n°2009-02363 du 19 mars 2009) et d'un arrêté préfectoral de consignation (n°2009-06934 du 14 août 2009), pour la réalisation de la mise en sécurité du site.		'Maître SERRANO'
+1968	07	1		1968	07	1		fut_inauguré	Le bâtiment principal (localisé au sud-est du site le long de la route nationale) fut inauguré le 1er juillet 1968.		
+2008	09	23		2008	09	23		a_été_mise_en_liquidation_judiciaire	Par décision du tribunal de commerce de Lyon, en date du 23 septembre 2008, la société Papeteries de Voiron et de Lancey a été mise en liquidation judiciaire : Maître SERRANO a été nommé liquidateur judiciaire.		'Lyon', 'la société Papeteries de Voiron', 'Maître SERRANO'
+2010	04	27		2010	04	27		un_rapport	De plus, par courrier du 27 avril 2010, Maître SERRANO a transmis à l'inspection des installations classées un rapport de décembre 2009 relatif au diagnostic de l'état des milieux du site réalisé par SOGREAH.		'Maître SERRANO', 'SOGREAH'
+2014	01			2014	01			a_été_établie	Une analyse des risques résiduels prédictive a été établie en janvier 2014.		
+2009	03	05		2009	03	05		une_visite_a_été_réalisée	Dans le cadre de la liquidation judiciaire de la papeterie, une visite a été réalisée sur site le 5 mars 2009 par l'inspection des installation classées pour vérifier la mise en sécurité du site telle que prévue par l'article R512-74 du livre V du code de l'environnement.		
+2013				2013				Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site ainsi planifiés ont démarré fin 2013 pour se terminer en décembre 2015.		
+2010	09	17		2010	09	17		la_mise_en_sécurité	Compte tenu des éléments fournis par la suite l'inspection des installations classées a pris acte la mise en sécurité du site dans son rapport du  17 septembre 2010.		
+2009	12			2009	12			un_rapport	De plus, par courrier du 27 avril 2010, Maître SERRANO a transmis à l'inspection des installations classées un rapport de décembre 2009 relatif au diagnostic de l'état des milieux du site réalisé par SOGREAH.		'Maître SERRANO', 'SOGREAH'
+1999	10	13		1999	10	13		__exploitation	'exploitation du site a été autorisée par l'arrêté préfectoral n°99-7467 du 13 octobre 1999.		
+2012	06			2012	06			a_été_transmis	Ce rapport a été transmis à l'inspection des installations classées le 12 décembre 2011, puis complété en juin 2012.		
+2010	09	28		2010	09	28		a_été_pris	Un arrêté préfectoral de levée de consignation a été pris le 28 septembre 2010.		
+1973				1973				ont_été_construits	En 1973 trois bâtiments de plus ont été construits sur le site.		
+2011	12	12		2011	12	12		a_été_transmis	Ce rapport a été transmis à l'inspection des installations classées le 12 décembre 2011, puis complété en juin 2012.		
+2012	06			2012	06			complété	Ce rapport a été transmis à l'inspection des installations classées le 12 décembre 2011, puis complété en juin 2012.		
+2015	12			2015	12			Les_travaux_de_réhabilitation	Les travaux de réhabilitation du site ainsi planifiés ont démarré fin 2013 pour se terminer en décembre 2015.		
+2005				2005				l__inondation	- La présence de teneurs remarquables en mercure (0,75 à 1,5 mg/kg MS) dans le stockage de remblais issus de l'inondation du site de Villard Bonnot en 2005 et entreposés à l'entrée du site ;	'mercure'	

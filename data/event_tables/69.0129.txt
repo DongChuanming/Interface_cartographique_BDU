@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				avait_demandé	Suite à ces incidents le préfet avait demandé en 1975 une première étude des sols et de la vulnérabilité de la nappe.		
+1947				1987				a_été_exploité	Il a été exploité de 1947 à 1987.		
+1987				1987				de_l__incendie	A la suite de l'incendie de 1987, des travaux de réhabilitation du site ont été precrits par arrété préfectoral du 5 décembre 1995.		
+1987	06	02		1987	06	02		a_été_détruit_par_un_incendie	Le dépôt principal a été détruit par un incendie le 2 juin 1987.		
+1998	01	30		1998	01	30		Une_étude_relative	Une étude relative à la réhabilitation du site a été adressée à M le préfet du rhône le 30/01/1998.		'le préfet du rhône'
+2001	06	13		2001	06	13		a_informé	Par lettre du 13 juin 2001, la société Shell a informé M. le préfet de l'achévement des travaux.		'la société Shell', 'le préfet'
+								débordements_de_crues	Diverses pollutions accidentelles ont eu lieu en 73-74 (débordements de crues).		
+2001	09	05		2001	09	05		a_été_imposé	Par arrété préfectoral du 5 septembre 2001, il a été imposé à la société SHELL de participer à la surveillance globale de la nappe dans la zone pétroliére.		'la société SHELL'
+1978				1978				est_en_place	Une surveillance pièzométrique globale de la zone pétrolière est en place depuis 1978.		
+2009	11			2009	11			La_dernière_campagne_renseigné	La dernière campagne renseigné de ce suivi (ayant eu lieu en novembre 2009) fait état d'une concentration en HCT inférieure à 0,03 mg/l.	'HCT'	
+2008	02			2008	02			a_été_rédigé	Le dernier en date a été rédigé au mois de février 2008.		
+				2005	06	09		a_ensuite_progressivement_diminué	La concentration a ensuite progressivement diminué jusqu'au 09/06/2005 où elle atteignait 3,5 mg/l.		
+1999				1999				une_modification	Elle a fait l'objet d'une modification en 1999 afin de tenir compte des résultats acquis et de l'évolution prévisible du site. 2 groupes d'ouvrages sont analysés:		
+1995				1995				a_été_démantelé	L'ensemble des installations a été démantelé en 1995 et réaménagé en centre de gestions de containers.		
+1944				1944				des_sabordements___1940__	Au cours de la seconde guerre mondiale (1939/45), les dépôts d'hydrocarbures ont connu des sabordements (1940) et un bombardement (1944).	'hydrocarbures'	
+1937				1937				à	Le Port Édouard Herriot a été aménagé par la Compagnie Nationale du Rhône à partir de 1937.		'Le Port', 'la Compagnie Nationale du Rhône'
+1990	01	31		1990	01	31		a_été_atteinte	La concentration maximale a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du port), elle était alors de 64 260 mg/l.		

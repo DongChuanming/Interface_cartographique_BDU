@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	1		2007	08	1		dossier_de_cessation_d__activité	Le dossier de cessation d'activité (version finale) a été reçu en préfecture de Savoie le 1er août 2007.		
+2005	03			2005	03			a_demandé	En mars 2005, le Préfet a demandé à la CCLA de déposer un dossier de cessation d'activité détaillant les impacts du site sur l'environnement et les modalités de réhabilitation adaptées.		'le Préfet', 'la CCLA'
+1998				1998				A	A partir de 1998, la Communauté de Communes du Lac d'Aiguebelette (CCLA) devient exploitant du site.		"la Communauté de Communes du Lac d' Aiguebelette"
+2006				2006				Les_analyses_effectuées	- Les analyses effectuées en 1999 et 2006 n'ont pas montré de dégagement de biogaz significatif, ce qui témoigne d'une dégradation des déchets déjà très avancée.		
+				2005				déchets_divers_et_inertes	Cette décharge a accueilli les ordures ménagères collectées dans 8 communes jusqu'en 1989, puis des déchets divers et inertes jusqu'en 2005, date de la fermeture totale.	'des déchets divers'	
+1999				1999				fait_procéder_à	En 1999, la CCLA fait procéder à un premier diagnostic environnemental du site, qui conclut à une quasi absence d'impact.		'la CCLA'
+1999				1999				Les_analyses_effectuées	- Les analyses effectuées en 1999 et 2006 n'ont pas montré de dégagement de biogaz significatif, ce qui témoigne d'une dégradation des déchets déjà très avancée.		

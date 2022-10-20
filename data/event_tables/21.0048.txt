@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09			2011	09			La_campagne_de	La campagne de septembre 2011 concernant le suivi de la qualité des eaux révèle une présence d'hydrocarbures (pour un piézomètre seulement) à une teneur supérieure à la valeur réglementaire française pour les eaux brutes.	'hydrocarbures'	
+2004	09	27		2004	09	27		alerte	27 septembre 2004 : le maire de Beaune alerte la DDASS quant à une présomption de pollution de la nappe souterraine compte tenu d'odeurs dans des puits privés.		'la DDASS'
+								impose	24 juin 2008 : Monsieur le préfet de la côte d'Or impose, par arrêté préfectoral complémentaire une surveillance des eaux souterraines pendant 2 ans.		'le préfet'
+1999				1999				a_provoqué_une_fuite	22 novembre 2004 : SITA -Remédiation (chargé de la remise en état du site) et le nouveau directeur d'Intermarché annonce que le changement d'une canalisation a provoqué une fuite d'environ 800 litres de super-carburant en 1999.	'super-carburant'	'SITA'
+2008	04	09		2008	04	09		est_transmis	9 avril 2008: Le rapport de fin de travaux de dépollution du site est transmis à l'inspection des installations classées.		
+								la_réalisation_d__une_étude_détaillée_des_risques	- la réalisation d'une étude détaillée des risques (sous 3 mois) ;		
+1983	06			2004	01			a_fonctionné	La station service a fonctionné de juin 1983 à janvier 2004.		
+2008	06	24		2008	06	24		une_surveillance_des_eaux_souterraines	24 juin 2008 : Monsieur le préfet de la côte d'Or impose, par arrêté préfectoral complémentaire une surveillance des eaux souterraines pendant 2 ans.		'le préfet'
+								une_surveillance_des_eaux_souterraines	24 juin 2008 : Monsieur le préfet de la côte d'Or impose, par arrêté préfectoral complémentaire une surveillance des eaux souterraines pendant 2 ans.		'le préfet'
+2014	03			2014	03			La_campagne	La campagne de mars 2014 a mis en évidence l'absence de détection de l'ensemble des composés analysés ou en faible teneur (inférieures aux valeurs guides lorsqu'elles existent) au droit des 3 piézomètres du site et du puits privé.	'composés'	
+2004	01	28		2004	01	28		le_transfert	28 janvier 2004 : CHADEGO déclare le transfert de la station service.		'CHADEGO'
+2008	06	24		2008	06	24		impose	24 juin 2008 : Monsieur le préfet de la côte d'Or impose, par arrêté préfectoral complémentaire une surveillance des eaux souterraines pendant 2 ans.		'le préfet'
+								doit	- une surveillance de la nappe doit être mise en œuvre  pendant au moins 3 ans.		
+2005	02			2005	02			rend_une_étude_simplifiée_des_risques	Février 2005 : la société SITA- Remédiation rend une étude simplifiée des risques.		'la société SITA- Remédiation'

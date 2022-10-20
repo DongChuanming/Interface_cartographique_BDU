@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	06	25		2004	06	25		courrier_de	La 28/07/2004 : Récépissé de déclaration suite au courrier de l'exploitant en date du 25/06/2004 sur les modifications des produits stockés et distribués.		
+2012	02	15		2012	02	15		Liquidation_judiciaire	Le 15/02/2012 : Liquidation judiciaire.		
+2012	07	02		2012	07	02		Cessation_d__activité	Le 02/07/2012 : Cessation d'activité.		
+2012	10	01		2012	10	01		Un_diagnostic_de_pollution	Un diagnostic de pollution a été réalisé le 01/10/2012 par la société TEREO.		'la société TEREO'
+1969	11	26		1969	11	26		Changement	Le 26/11/1969 : Changement d'exploitant.		

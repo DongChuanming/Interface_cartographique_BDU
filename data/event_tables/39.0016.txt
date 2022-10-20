@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05			2003	05			Cette_surveillance_est_réalisée	Cette surveillance est réalisée depuis mai 2003.		
+2002	06			2002	06			évaluation_Simplifiée_des_risques	L'évaluation Simplifiée des risques (ESR) a été remise en juin 2002, complétée en août 2002.		
+1999	02	20		1999	02	20		a_fait_l__objet	Le site est une ancienne carrière de matériaux calcaires qui a fait l'objet le 20 février 1999 d'un arrêté préfectoral de refus de poursuivre l'exploitation.		
+2003	05			2003	05			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés courant mai 2003.		
+2015	01			2015	01			Les_dernières_analyses	Les dernières analyses en date de janvier 2015 ne montrent aucune pollution des eaux souterraines.		
+2003	05			2003	05			Des_travaux_d__excavation	Des travaux d'excavation des terres souillées ont étés prescrits par voie d'arrêté préfectoral à l'exploitant en mai 2003.		

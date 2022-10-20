@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				des_travaux_d__instrumentation	En 2010, le BRGM/DPSM a réalisé des travaux d’instrumentation du puits, par la mise en place d’une sonde piézométrique associée à un automate de télégestion et de transmission, pour suivre l’évolution du réservoir minier.		'le BRGM / DPSM'
+1920				1920				a_été_foncé	Le puits IV a été foncé jusqu’au premier étage de 1920 à mars 1921.		
+1993				1993				proposait	En 1993, l’étude réalisée conjointement par l’INERIS et le BRGM proposait la mise en sécurité des puits vis-à-vis du risque gaz.		'INERIS', 'le BRGM'
+								Le_fonçage	Le fonçage du puits I, commencé en 1916, appelé d’abord puits Noellenburg puis Clémenceau, fut inauguré le 20 avril.		
+1993				1993				en_lors_des_mesures	De petites quantités de produits polluants (éventuellement d’origine agricole : présence de pesticides) ont été détectées dans le puits IV en lors des mesures en 1993.	'produits polluants', 'pesticides'	
+1919				1919				aux_graves_incendies	Suite aux graves incendies qui ont affecté le puits en 1919, ainsi qu’à l’évolution des règlements miniers, il a été doublé par un puits de sortie d’air, dénommé puits IV.		
+2008	05	05		2008	05	05		Une_télé_inspection	Une télé-inspection réalisée le 5 mai 2008 par le BRGM/DRP/DPSM/UTAM Est qui avait pour but de vérifier l’état du puits dans le cadre de sa mise en sécurité n’a pas mis en évidence d’anomalie particulière.		'le BRGM / DRP / DPSM / UTAM Est'
+1962	05			1963	01			ont_été_obstrués	Les puits ont été obstrués par des dalles de surface entre mai 1962 et janvier 1963.		
+1996				1996				ont_été_mises_en_place	Une déviation et une couverture du Willenbach pour éviter sa pollution ont été mises en place début 1996 sur le siège Clémenceau, complétées par le traitement des eaux dans un débourbeur et un séparateur d'hydrocarbures.	'hydrocarbures'	
+1923				1923				Le_creusement	Le creusement a été repris en 1923 pour atteindre sa profondeur définitive.		
+1997				1997				__faisait_poser	En 1997, la DREAL Alsace, sur la base de l’étude de 1993, faisait poser sur chaque tête de puits un évent muni d’un arrête-flammes.		'la DREAL Alsace'
+1921	03			1921	03			a_été_foncé	Le puits IV a été foncé jusqu’au premier étage de 1920 à mars 1921.		
+1998	08			1998	08			Des_travaux	Des travaux ont été menés sur les puits en août 1998, qui consistaient en :		
+2010				2010				la_mise_en_conformité	En 2010, le BRGM/DRP/DPSM/UTAM Est, qui s’est vu confier la gestion des exutoires de gaz de mines, a fait réaliser la mise en conformité d’après la note « Instruction exutoires de gaz de mine 01/2009 – Analyse de risque et principes  d’installation ».		'le BRGM / DRP / DPSM / UTAM Est'

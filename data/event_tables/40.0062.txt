@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				démarre	A partir de 2011, l'agence SEIXO démarre un projet d'aménagement résidentiel.		'SEIXO'
+2008	09	25		2008	09	25		dépose_plainte_pour_mise_en	Le 25/09/2008, le Maire de Labenne dépose plainte pour mise en danger d'autrui.		'le Maire'
+2011				2011				une_évaluation_quantitative	En 2011, une évaluation quantitative des risques sanitaires est réalisée afin de s'assurer de la comptabilité d'un usage résidentiel par rapport à l'état du sol.		
+2007	02			2007	02			opération_achevée_par_remplissage_au_béton	- confirmation avec justificatifs de la mise en sécurité des 4 cuves d'hydrocarbures (opération achevée par remplissage au béton en février 2007).	'hydrocarbures'	
+2005	09	01		2005	09	01		a_été_faite	Cette demande a été faite au mandataire le 01/09/2005.		
+2004	05	19		2004	05	19		la_cessation_définitive_d__activité_déclarée	Suite à la cessation définitive d'activité déclarée par maître JUN, mandataire judiciaire le 19 mai 2004, l'arrêté préfectoral du 4 septembre 2006 met le liquidateur en demeure d'évacuer les déchets et les matières dangereuses et polluantes et de faire procéder au dégazage et à l'inertage des cuves d'hydrocarbures, dans le délai de 3 mois et d'en transmettre les justificatifs à la DRIRE.	'les déchets', 'hydrocarbures'	'maître JUN', 'la DRIRE'
+2012	12			2012	12			ont_été_demandés	Les justificatifs des travaux prévus par le plan de gestion ont été demandés par la DREAL à SEIXO en décembre 2012 mais n'ont jamais été reçus.		'la DREAL', 'SEIXO'
+2005	06	07		2005	06	07		Les_études_remises	Les études remises les 18 mai 2004 et 7 juin 2005, classent le site en 3 "banalisable" pour l'usage du moment.		
+2006				2006				prévoyait	En 2006, le mandataire prévoyait la cession des terrains pour un usage résidentiel.		
+2009	02	05		2009	02	05		consignation_est_signé	L'arrêté de consignation est signé le 05/02/2009.		
+								d__évacuer	Suite à la cessation définitive d'activité déclarée par maître JUN, mandataire judiciaire le 19 mai 2004, l'arrêté préfectoral du 4 septembre 2006 met le liquidateur en demeure d'évacuer les déchets et les matières dangereuses et polluantes et de faire procéder au dégazage et à l'inertage des cuves d'hydrocarbures, dans le délai de 3 mois et d'en transmettre les justificatifs à la DRIRE.	'les déchets', 'hydrocarbures'	'maître JUN', 'la DRIRE'
+2007	05	16		2007	05	16		rappelle_ces_obligations	Face à l'inexécution des travaux, le Préfet rappelle ces obligations au mandataire liquidateur par courrier du 16/05/2007.		'le Préfet'
+2011	04			2011	04			Le_diagnostic_des_sols_d_	Le diagnostic des sols d'avril 2011 ne met en évidence aucun impact significatif.		
+2011				2011				étudie_un_projet_d__aménagement	En 2011, la société SEIXO étudie un projet d'aménagement sur le terrain et réalise les études de sols nécessaires.		'la société SEIXO'
+2002	01	02		2002	01	02		va_procéder_à_la_démolition	Par l'arrêté du 02 janvier 2002, l'agence SEIXO va procéder à la démolition des bâtiments de l'ancienne usine après diagnostic nécessaire.		"l' agence SEIXO"
+2004	05	18		2004	05	18		Les_études_remises	Les études remises les 18 mai 2004 et 7 juin 2005, classent le site en 3 "banalisable" pour l'usage du moment.		
+2004				2004				a_été_extrait	Maître JUN précise par ailleurs qu'un terrain de 7500 m² utilisé par TECMA a été extrait de l'emprise de l'établissement en 2004.		'Maître JUN', 'TECMA'
+2005	06	07		2005	06	07		le_diagnostic_remis	Selon le diagnostic remis le 07/06/2005, la position Aval des 2 puits témoins de prélèvement dans la nappe doit être vérifiée.		
+2003	11	19		2003	11	19		est_mise_en_liquidation_judiciaire_par_jugement	Cette société est mise en liquidation judiciaire par jugement du Tribunal de Commerce du 19 novembre 2003.		
+1983	05	27		1983	05	27		étaient_autorisées	Les installations étaient autorisées par l'arrêté préfectoral du 27 mai 1983.		
+2008	01	11		2008	01	11		envoie	les 25/04/2007 et 11/01/2008, le mandataire envoie 2 bordereaux de suivi de déchets pour l'élimination de 5,5 m3 et 2,5 m3 de mélange Eau-Hydrocarbures en décembre 2004 et avril 2007.	'Eau - Hydrocarbures'	
+2007	04	25		2007	04	25		envoie	les 25/04/2007 et 11/01/2008, le mandataire envoie 2 bordereaux de suivi de déchets pour l'élimination de 5,5 m3 et 2,5 m3 de mélange Eau-Hydrocarbures en décembre 2004 et avril 2007.	'Eau - Hydrocarbures'	
+2007	04			2007	04			l__élimination	les 25/04/2007 et 11/01/2008, le mandataire envoie 2 bordereaux de suivi de déchets pour l'élimination de 5,5 m3 et 2,5 m3 de mélange Eau-Hydrocarbures en décembre 2004 et avril 2007.	'Eau - Hydrocarbures'	
+2008	12	02		2008	12	02		La_visite	La visite de la DRIRE du 02/12/2008 permet de constater que :		'la DRIRE'
+2002				2002				diagnostic_de_repérage	Début 2002, diagnostic de repérage de l'amiante : de nombreux bâtiments sont affectés.		
+2004	12			2004	12			l__élimination	les 25/04/2007 et 11/01/2008, le mandataire envoie 2 bordereaux de suivi de déchets pour l'élimination de 5,5 m3 et 2,5 m3 de mélange Eau-Hydrocarbures en décembre 2004 et avril 2007.	'Eau - Hydrocarbures'	

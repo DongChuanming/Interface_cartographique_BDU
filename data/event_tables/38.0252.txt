@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01	26		2011	01	26		réalisé	- un rapport de suivi environnemental des travaux de fermeture et gestion des terres polluées réalisé par la société ARCADIS en date du 26/01/2011.		'la société ARCADIS'
+2010	07	29		2010	07	29		plusieurs_campagnes_de_surveillance	Par la suite, plusieurs campagnes de surveillance de la qualité des eaux souterraines ont été réalisées le 24/04/2009, le 09/10/2009, le 13/01/2010, le 15/04/2010 et le 29/07/2010.		
+2010	07	06		2010	07	06		un_certificat_de_dégazage	- un certificat de dégazage en date du 06/07/2010 établi par la société PETRAM ;		'la société PETRAM'
+2010	09	09		2010	09	09		Les_travaux_de_démantèlement	* Les travaux de démantèlement ont débuté le 09/09/2010.		
+2010	07	06		2010	07	06		en	- un certificat de dégazage en date du 06/07/2010 établi par la société PETRAM ;		'la société PETRAM'
+2009	03	12		2009	03	12		un_diagnostic_environnemental	* Qu'un diagnostic environnemental a été effectué le 12/03/2009, comportant une étude historique et une étude de vulnérabilité.		
+2010	09	16		2010	09	16		certificat_de_destruction	- un certificat de destruction des réservoirs en date du 16/09/2010 établi par la société PETRAM ;		'la société PETRAM'
+2010	09	26		2010	09	26		établis	- les bordereaux de suivi des déchets des réservoirs en date du 26/09/2010 établis par la société SCORI ;		'la société SCORI'
+2009	04	24		2009	04	24		plusieurs_campagnes_de_surveillance	Par la suite, plusieurs campagnes de surveillance de la qualité des eaux souterraines ont été réalisées le 24/04/2009, le 09/10/2009, le 13/01/2010, le 15/04/2010 et le 29/07/2010.		
+2010	07	02		2010	07	02		la_cessation_de_ses_activités	Par courrier du 07/02/2011, la société TOTAL a informé la Préfecture de la cessation de ses activités le 02/07/2010, en raison d'une expropriation partielle du terrain dans le cadre d'une création de ligne de tramway.		'la société TOTAL', 'la Préfecture'
+2010	09	13		2010	09	13		Le_suivi_environnemental	* Le suivi environnemental a débuté le 13/09/2010.		
+2010	09	27		2010	09	27		Une_campagne_de_prélèvement_d__eaux_souterraines_a_été_réalisée_après_travaux	Une campagne de prélèvement d'eaux souterraines a été réalisée après travaux le 27/09/2010, sur PZ1, PZ2 et PZ3.		

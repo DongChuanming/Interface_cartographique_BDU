@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	09		2010	09	09		est_établi	Le 09 septembre 2010 est établi le dossier de cessation d'activité des sites "Richier, Volvo, Bonfanti, Lino, Poclain et Yoplait".	'Volvo'	'" Richier'
+2012	01	10		2012	01	10		ont_été_établis	Des rapports de fin de travaux ont été établis le 7 novembre 2011 pour les sites Bonfanti, Volvo et Richier et le 10 janvier 2012 pour les sites Caterpillar et Vignes.		'Bonfanti', 'Volvo', 'les sites Caterpillar'
+2011	12	19		2011	12	19		Les_travaux	Les travaux du 19 décembre 2011 ont permis l'excavation de 30 m3 de terres polluées selon la répartition suivante:		
+2011	12			2011	12			le_plan_de_gestion	Ce sont probablement ces traces qui ont induit la concentration élevée retrouvée au droit de cette zone lors des investigations réalisées pour le plan de gestion de décembre 2011.		
+2011	12			2011	12			des_investigations_réalisées	Ce sont probablement ces traces qui ont induit la concentration élevée retrouvée au droit de cette zone lors des investigations réalisées pour le plan de gestion de décembre 2011.		
+2011	04	21		2011	04	21		est_établi	Un deuxième dossier de cessation d'activité est établi le 21 avril 2011 pour les sites "Caterpillar" et "Vignes".	'"'	'Caterpillar "', 'Vignes'
+								exploitées	Ancienne installations de stockage de véhicules de travaux publics hors d'usage et de démontage de pièces détachées exploitées depuis la fin des années 80 par la SAS CODIMATRA, sur le territoire des communes de BON ENCONTRE et CASTELCULIER.		'la SAS CODIMATRA', 'CASTELCULIER'
+2012	02	09		2012	02	09		a_été_déposé	Un dossier de cessation d'activité a été déposé le 9 février 2012 à la DREAL.		'la DREAL'
+2011	11	07		2011	11	07		ont_été_établis	Des rapports de fin de travaux ont été établis le 7 novembre 2011 pour les sites Bonfanti, Volvo et Richier et le 10 janvier 2012 pour les sites Caterpillar et Vignes.		'Bonfanti', 'Volvo', 'les sites Caterpillar'
+1986				1986				a_été_créée	CODIMATRA a été créée en 1986.		'CODIMATRA'
+2011	12			2011	12			Des_travaux_de_réhabilitation_des_sols	Des travaux de réhabilitation des sols sur les sites Caterpillar et Vignes  ont été réalisés en décembre 2011.		'Caterpillar'
+2011	05	18		2011	05	18		a_été_finalisé	Le plan de gestion pour les sites Bonfanti, Lino, Poclain, Richier et Volvo a été finalisé le 18 mai 2011.		'Bonfanti'
+2010	02	02		2010	02	02		ont_été_vendus	Les terrains du site LINO ont été vendus le 2 février 2010 à la SCI DE CHARME, une société civile immobilière au capital de 40.000 euros, dont le siège social est sis 14 avenue Portacomero 47550 BOE.		'la SCI DE CHARME'
+2011	12			2011	12			a_été_réalisé	Le plan de gestion pour les sites Caterpillar et Vignes a été réalisé en décembre 2011 mais pas transmis à l'IIC.		'les sites Caterpillar', 'Vignes'
+1999	04	16		1999	04	16		étaient_autorisées	Les installations étaient autorisées par l'arrêté préfectoral du 16 avril 1999.		
+2011	08			2011	08			Des_travaux_de_réhabilitation	Des travaux de réhabilitation des sols sur les sites Bonfanti, Volvo et Richier ont été réalisés en août 2011.		'Bonfanti'
+2010	04	15		2010	04	15		la_demande_d__autorisation	Ces installations étaient en cessation progressive d'activité et de transfert sur le nouveau site, objet de la demande d'autorisation déposée le 7 décembre 2009 et complétée le 15 avril 2010.		
+2010	09	09		2010	09	09		La_déclaration	La déclaration de cessation partielle d'activité a été effectuée par l'exploitant le  09 septembre 2010 pour les sites "Richier, Volvo, Bonfanti, Lino, Poclain et Yoplait".	', Volvo'	'pour les sites " Richier'
+2011	10			2011	10			une_reprise_de_ces_travaux_a_été_réalisée	Au vu des résultats non-conformes aux objectifs de dépollution, une reprise de ces travaux a été réalisée en octobre 2011 sur les sites de Volvo et de Richier.		

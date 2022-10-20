@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				rupture_de_tuyauteries	La pollution potentielle résulterait à la fin de l'activité et d'accidents (incendie en 1986, boil-over et rupture de tuyauteries en 1992).		
+1986				1986				incendie	La pollution potentielle résulterait à la fin de l'activité et d'accidents (incendie en 1986, boil-over et rupture de tuyauteries en 1992).		
+1978				1978				à_2_reprises	Le site a été remblayé à 2 reprises (1978 et 1991) par des mâchefers et des alluvions pour le protéger des inondations.		
+1991				1991				à_2_reprises	Le site a été remblayé à 2 reprises (1978 et 1991) par des mâchefers et des alluvions pour le protéger des inondations.		
+1978				1978				procède_au_traitement	SCORI procède au traitement des huiles solubles et d'hydrocarbures non chlorés depuis son origine en 1978.	'huiles', 'hydrocarbures', 'non chlorés'	'SCORI'
+2000	07			2000	07			__ont_été_fournies	Le rapport et les compléments demandés par l'inspection des installations classées  ont été fournies en juillet 2000.		
+2000	05			2000	05			l__étude_de_sol_réalisée	Lors de la phase A de l'étude de sol réalisée en mai 2000, des analyses de la qualité des eaux souterraines ont été effectuées.		
+2000	05			2000	05			des_analyses	Lors de la phase A de l'étude de sol réalisée en mai 2000, des analyses de la qualité des eaux souterraines ont été effectuées.		
+2008	03	13		2008	03	13		de_la_campagne_de	Les résultats de la campagne de suivi de la qualité des eaux souterraines réalisée le 13 mars 2008 sur l'ensemble des piézomètres du site (PZ1 à PZ4) confirment que la pollution présente sur le site provient d'une pollution historique.		
+2006				2006				ont_nettement_diminuées	mars 2008 : pollution conséquente car les teneurs en HCT mesurées sont 16 à 2230 fois supérieures à la limite de qualité des eaux brutes : respectivement 24,347, 16,8 et 2230 mg/l du PZ1 au PZ4), ces valeurs ont nettement diminuées depuis 2006.	'HCT'	
+1998	03	13		1998	03	13		a_donc_demandé	Par arrêté préfectoral du 13 mars 1998, l'administration a donc demandé à ECOHUILE de lui remettre une évaluation simplifiée des risques (ESR) -étape A-.		'ECOHUILE'
+2001	10			2001	10			a_été_réalisée	La phase B de l'ESR a été réalisée en octobre 2001, celle-ci a permis de classer le site en catégorie 2 : « site à surveiller ».		"l' ESR"

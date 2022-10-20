@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	07		2001	02	07		a_constaté	Le 7 février 2001, l’inspection des installations classées a constaté la présence d’un important stockage de déchets à dominante métallique (matériels ménagers, fûts métalliques, véhicules hors d’usage,…) situé sur le site de « l’ancienne carrière », à proximité des bâtiments d’exploitation.		
+2008	02	06		2008	02	06		a_été_mise_en_liquidation_judiciaire	La société Brocante de Torfou a été mise en liquidation judiciaire le 6 février 2008.		'La société Brocante', 'de Torfou'
+2002	07	02		2002	07	02		a_été_notifié	Un arrêté préfectoral de mise en demeure de déposer un dossier de cessation d’activité et de remettre en état le site a été notifié le 2 juillet 2002 à la société BROCANTE DE TORFOU.		'la société BROCANTE DE TORFOU'
+2002	08	31		2002	08	31		une_évaluation_simplifiée_des_risques	Celui-ci intégrait une étude des sols et une évaluation simplifiée des risques qui ont été transmis le 31 août 2002 et le 31 mars 2003.		
+2007	01	22		2007	01	22		la_mise_en_place_d_	Par arrêté préfectoral complémentaire du 22 janvier 2007, sont prescrits la mise en place d’une surveillance périodique de la qualité des eaux souterraines ainsi que l'actualisation de l'évaluation simplifiée des risques.		
+				2003	03	31		une_évaluation_simplifiée_des_risques	Celui-ci intégrait une étude des sols et une évaluation simplifiée des risques qui ont été transmis le 31 août 2002 et le 31 mars 2003.		
+2003				2003				a_informé	Suite à plusieurs sanctions administratives, la société BROCANTE DE TORFOU a informé en 2003 la préfecture du CHER qu’elle arrêtait son activité et qu'elle évacuait la totalité des déchets présents sur le site.		'la société BROCANTE DE TORFOU'
+2011	02			2011	02			une_visite_sur_site	Lors d'une visite sur site en février 2011, l’inspection a constaté :		

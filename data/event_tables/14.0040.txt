@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				Ces_investigations_préliminaires	Ces investigations préliminaires se sont déroulées en 2010 et 2011 (coût : 74 000 euros).		
+1960				2001	08			exploité	Dépôt de pneumatiques usagés exploité par la société SONORREC entre 1960 et août 2001, date à laquelle le dépôt a été vendu.		'la société SONORREC'
+2013				2013				se_dérouler	Les travaux de réhabilitation du site devraient se dérouler sur les années 2013-2014.		
+2009	09	1		2009	09	1		Un_incendie_s__est_déclaré	Un incendie s'est déclaré le 1er septembre 2009, brûlant la quasi-totalité des pneumatiques.		
+2008				2008				mis_en_place	Le site, à responsable défaillant, devait faire l'objet d'une évacuation dans le cadre du dispositif national de résorption des dépôts de pneumatiques usagés mis en place en 2008 par le ministère de l'écologie et les manufacturiers (61 sites à traiter sur 6 ans, via l'association Recyvalor).	'pneumatiques usagés'	'Recyvalor'
+2014				2014				se_dérouler	Les travaux de réhabilitation du site devraient se dérouler sur les années 2013-2014.		
+2012	10	10		2012	10	10		Des_arrêtés_préfectoraux_de_travaux	Des arrêtés préfectoraux de travaux d'office et d'occupations des sols ont été émis le 10 octobre 2012 et prévoient un décapage de la couche de terre de recouvrement ainsi qu'un tri et une évacuation des couches inférieures constituées d'un mélange de terre et de résidus de combustion des pneumatiques.	'combustion des pneumatiques'	
+2011				2011				Ces_investigations_préliminaires	Ces investigations préliminaires se sont déroulées en 2010 et 2011 (coût : 74 000 euros).		

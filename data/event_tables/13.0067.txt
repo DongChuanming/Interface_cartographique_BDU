@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	10	01		1999	10	01		a_été_dissoscié	.  Depuis le 01/10/1999, le site a été dissoscié et un deuxième exploitant : QUARRECHIM S.		': QUARRECHIM'
+1999	06	16		1999	06	16		destinée	. du 16/06/1999 initialemnt destinée à Gazechim ,a été répercutée sur QUARRECCHIM - UNIVAR; suite à différentes questions administratives de transmissoin, elle est en voie d'achèvement et devrait classer le site en catégorie 2.		'Gazechim', 'QUARRECCHIM', 'UNIVAR'

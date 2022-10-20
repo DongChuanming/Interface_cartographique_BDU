@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1984				1984				a_été_curée	Ces lagunes, dont l’une a été curée en 1984, sont fortement polluées par de multiples composés chimiques dont du trichloroéthylène à très fortes concentrations.	'multiples composés chimiques', 'du trichloroéthylène'	
+2009				2009				l__usage	Depuis 2009, l'usage du cyanure et chrome hexavalent (utilisé sur les 3 chaînes de zingage) a été remplacé par 2 chaînes Zinc-Nickel.	'cyanure', 'chrome hexavalent', 'Zinc', 'Nickel'	
+				2004	10	14		Traitement	- Traitement de l'air des sols par venting du 5 février au 14 octobre 2004 : un volume d’environ 2 281 000 m3 d’air a été aspiré et traité sur charbon actif avec extraction théorique d’environ 607 kg de trichloroéthylène et élimination de 3214kg de charbon actif en centre de traitement ;	'charbon actif', 'trichloroéthylène', 'charbon actif'	
+1998	04	29		1998	04	29		Le_diagnostic_initial	Le diagnostic initial et l’évaluation simplifiée des risques ont donc été prescrits par arrêté préfectoral n° 683 du 29 avril 1998.		
+2006	06	13		2006	06	13		a_été_réalisé	Le rapport de remise en état des anciennes lagunes d'enfouissement de résidus de production du site a été réalisé le 13 juin 2006 par un bureau d'études.		
+2007				2007				a_été_supprimée	L'utilisation du trichloroéthylène pour la dégraisseuse a été supprimée depuis 2007.	'trichloroéthylène'	
+2002	11			2002	11			L__étude_détaillée_des_risques_remise	L'étude détaillée des risques remise en novembre 2002 a été réalisée sur la zone des anciennes lagunes d'enfouissement de résidus de production, située en partie Nord de l'usine sur une superficie de 1000 m2.		
+2005	04	04		2006	02	08		élimination_en_centres_d__incinération	- Excavation des terres contaminées et élimination en centres d'incinération du 4 avril 2005 au 8 février 2006 : 500 tonnes de terres traitées hors site ;		
+2000	10	27		2000	10	27		a_été_prescrit	Il a été prescrit à la société PAULSTRA, par arrêté préfectoral n° 1654 du 27 octobre 2000, la surveillance de la qualité des eaux souterraines et la résorption de la décharge selon un procédé à définir par un diagnostic approfondi.		'la société PAULSTRA'
+1997				1997				des_diagnostics	En 1997, le ministère a lancé des diagnostics des sols sur un certain nombre de sites en fonction de leur activité ou encore de leur ancienneté.		
+1999				1999				Des_campagnes_de_reconnaissance_des_terrains	Des campagnes de reconnaissance des terrains ont été menées en 1999 :		

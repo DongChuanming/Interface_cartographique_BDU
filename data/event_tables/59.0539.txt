@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	24		2011	05	24		_Travaux_de_désamiantage	-Travaux de désamiantage, 24/05/2011.		
+2009	01	19		2009	01	19		_Évacuation_des_déchets	-Évacuation des déchets: 19/01/2009.		
+2008	10	26		2008	10	26		_Réalisation_d__un_diagnostic	-Réalisation d'un diagnostic de l'état des milieux: 26/10/2008.		
+								Etude_des_sols	- Rapport de diagnostic Etude des sols phase 2 version 1 du 28/06/2010 par Ecofield Consulting transmis par courrier du 16/10/12.		
+2007	12	26		2007	12	26		la_société	- site en liquidation judiciaire, revendu à la société Valgo (26/12/2007) puis à la société LF Nieppe (23/07/2010)		'la société Valgo', 'la société LF Nieppe'
+2007	05	31		2007	05	31		_Cessation_d__activité	-Cessation d'activité: 31/05/2007.		
+								Rapport_de_diagnostic_investigations_complémentaires	- Rapport de diagnostic investigations complémentaires n°3 version 1 du 07/11/10 par Ecofield Consulting transmis par courrier du 16/10/12.		'Ecofield Consulting'
+2009	04	22		2009	04	22		Etude_historique_et_diagnostic_de_l__état_du_sous_sol	- Etude historique et diagnostic de l'état du sous-sol version 1 du 26/10/08 par Valgo transmis par courrier du 22/04/2009.		'Valgo'
+								transmis_par_courrier	- Plan de gestion  version 1 du 20/06/2013 par  Ecofield Consulting transmis par courrier du 30/09/13.		'par   Ecofield Consulting'
+								Consulting_transmis_par_courrier	- Analyse des risques résiduels prédictive version 2 du 19/09/13 par  Ecofield Consulting transmis par courrier du 30/09/13.		
+2011	03	28		2011	03	28		_Curage_des_bassins	-Curage des bassins de la station d'épuration et évacuation de boues: 28/03/2011.		
+2009	06	15		2009	06	15		_Élimination	-Élimination de transformateur PCB: 15/06/2009.	'transformateur PCB'	
+2011	09	08		2011	09	08		_Démolition_des_bâtiments	-Démolition des bâtiments: 08/09/2011.		

@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	09	22		1997	09	22		ont_été_démantelées	Le reste des installations liées à la station service ont été démantelées le 22/09/1997.		
+2016	12			2016	12			Une_évaluation_environnementale	Une évaluation environnementale sur la qualité des sols est réalisée en décembre 2016.		
+1997	09	22		1997	09	22		ont_été_nettoyées	Les cuves enterrées de carburants ont été nettoyées, vidangées, dégazées, excavées puis transportées pour destruction et/ou valorisation le 22/09/1997.	'carburants'	
+1993				1996				à_été_exploité	Historiquement, ce site à été exploité par la société LE DEAN et fils entre 1967 et 1993 puis par la société CHANARD AUTOMOBILE entre 1993 et 1996.		'la société LE DEAN', 'la société CHANARD AUTOMOBILE'
+1967				1967				est_créée	La station service est créée en 1967 (récépissé de déclaration du 21/04/1967) et était alors constituée de 3 cuves enterrées et d'une zone de distribution avec volucompteurs.		
+1997	12	31		1997	12	31		mise_à_l__arrêt_définitif	Le site concerné est une ancienne station-service mise à l'arrêt définitif au 31/12/1997.		
+1996	09	01		1996	09	01		est_exploité	Depuis le 01/09/1996, il est exploité par la BAULOISE AUTOMOBILES SA.		'la BAULOISE AUTOMOBILES SA'
+1967	04	21		1967	04	21		de_déclaration	La station service est créée en 1967 (récépissé de déclaration du 21/04/1967) et était alors constituée de 3 cuves enterrées et d'une zone de distribution avec volucompteurs.		
+2017	06			2017	06			Un_diagnostic_approfondi	Un diagnostic approfondi a été effectué en juin 2017.		
+1997	12	31		1997	12	31		BAULOISE_Automobiles_décide	Au 31/12/1997, la BAULOISE Automobiles décide de mettre à l’arrêt la station service et d’opérer au désarmement et au démantèlement des installations enterrées et de distribution de carburants.	'carburants'	'la BAULOISE Automobiles'
+1967				1993				à_été_exploité	Historiquement, ce site à été exploité par la société LE DEAN et fils entre 1967 et 1993 puis par la société CHANARD AUTOMOBILE entre 1993 et 1996.		'la société LE DEAN', 'la société CHANARD AUTOMOBILE'
+2017	06			2017	06			une_évaluation_quantitative_des_risques_sanitaires	A la suite des résultats du diagnostic approfondi, une évaluation quantitative des risques sanitaires (EQRS) est réalisée en juin 2017.		
+1997	09	22		1997	09	22		ont_été_neutralisés	Les volucompteurs/distributeurs de carburants ont été neutralisés et démantelés le 22/09/1997.	'carburants'	
+1986	01	03		1986	01	03		de_déclaration	En 1986, les installations sont modifiées (récépissé de déclaration du 03/01/1986) et sont constituées de 5 cuves enterrées, 5 distributeurs et un mélangeur 2 temps électrique.		
+1997	09	22		1997	09	22		pour_destruction_et___ou_valorisation	Les cuves enterrées de carburants ont été nettoyées, vidangées, dégazées, excavées puis transportées pour destruction et/ou valorisation le 22/09/1997.	'carburants'	
+1986				1986				sont_modifiées	En 1986, les installations sont modifiées (récépissé de déclaration du 03/01/1986) et sont constituées de 5 cuves enterrées, 5 distributeurs et un mélangeur 2 temps électrique.		

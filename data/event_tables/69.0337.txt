@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05			2012	05			recommande_la_mise_en_place_de_courtes_phases	Le bureau d'études recommande la mise en place de courtes phases d'arrêt de pompage de l'ordre de 2 à 4 h par jour, pour permettre de recréer les conditions favorables à la remobilisation des composés, observées lors des niveaux hauts en mai 2012.	'composés'	
+2010	06	01		2010	06	04		ont_été_réalisés	Du 01/06/2010 au 04/06/2010, 25 sondages ont été réalisés au droit de la station service.		
+2010	08			2010	08			est_effectué	Un suivi de la qualité et du traitement des eaux souterraines est effectué depuis août 2010.		
+2010	07	29		2010	07	29		a_été_émis	L'arrêté préfectoral a été émis le 29/07/2010.		
+2010	04			2010	04			de_la_découverte_de_la_pollution	Lors de la découverte de la pollution en avril 2010, 49,86 tonnes de terres ont été excavées, triées et envoyées en centre de traitement agrée.		
+2012	05			2012	05			de_la_dernière_campagne	- 30 µg/L de benzène depuis novembre, puis entre 60 et 90 µg/L d'hydrocarbures C5-C10, 228 µg/L C10-C40, 1,2 µg/l de toluène, 16,9 µg/L d'éthylbenzène et 15,1 µg/L de xylènes lors de la dernière campagne en mai 2012, au droit de P9 ;	'benzène', 'hydrocarbures C5-C10', 'C10-C40', 'toluène', 'éthylbenzène', 'xylènes'	
+2010	10	11		2010	10	25		Un_suivi_environnemental	Un suivi environnemental des terres excavées lors de la pose du réseau d'assainissement sous la voirie a été effectuée du 11/10/2010 au 25/10/2010.		
+2012	04			2012	04			d_	- le nombre de pompes écrémeuses a été réduit de 6 à 3, au vu de l'absence de flottant depuis août 2011 au droit des puits P5, P8 et P2 puis P5, P8 et P9 à partir d'avril 2012.		
+2010	07	20		2010	08	19		a_été_installée	Une unité de traitement des eaux souterraines (pompage/écrémage) a été installée du 20/07/2010 au 19/08/2010.		
+2010	04			2010	04			ont_été_excavées	Lors de la découverte de la pollution en avril 2010, 49,86 tonnes de terres ont été excavées, triées et envoyées en centre de traitement agrée.		
+2010	07	05		2010	07	05		ont_été_communiqués_lors_de_la_visite_d__inspection	De plus, les résultats d'analyses réalisées sur 11 puits situés autour du site, et en aval hydraulique pour la plupart, ont été communiqués lors de la visite d'inspection du 05/07/2010.		
+2011	09	08		2011	11	16		Des_travaux_de_modernisation	Des travaux de modernisation ont été réalisés sur le site et un suivi a été effectué du 08/09/2011 au 16/11/2011.		
+2010	08			2010	08			décelé	- aucune anomalie en hydrocarbures et BTEX n'est décelé en amont hydraulique (PZ1) depuis août 2010 ;	'hydrocarbures', 'BTEX'	
+2010	09	01		2010	09	01		Le_démarrage_de_l__installation_est_effectif	Le démarrage de l'installation est effectif depuis le 01/09/2010.		
+2010	06			2010	06			Un_diagnostic	Un diagnostic des sols et des eaux souterraines en mai et juin 2010 a été réalisé.		
+2010	08			2010	08			le_traitement	Le dispositif mis en place a permis la récupération de 69 L d'hydrocarbures en phase pure et le traitement de 205 870 m3 d'eaux depuis août 2010.	'hydrocarbures'	
+2011	09	08		2011	11	16		a_été_effectué	Des travaux de modernisation ont été réalisés sur le site et un suivi a été effectué du 08/09/2011 au 16/11/2011.		
+								Un_diagnostic	Un diagnostic des sols et des eaux souterraines en mai et juin 2010 a été réalisé.		

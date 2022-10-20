@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_été_détecté_dans	En 2003, du chlorure de vinyle a été détecté dans 2 des 5 puits d'Alimentation en Eau Potable, situés à Bischwiller, exploités pour le Syndicat Intercommunal des Eaux de Basse Moder.	'chlorure de vinyle'	'le Syndicat Intercommunal des Eaux'
+1977				1977				exploite	Le groupe Hager exploite sur le site de Bischwiller, depuis 1977, une unité de production dédiée aux systèmes de goulottes, moulures et plinthe pour aménagements électriques et une unité de production et montage de matériels électriques (disjoncteurs, blocs différentiels, interrupteurs, ...).		'Le groupe Hager'
+2007	09			2007	09			Les_premières_analyses	Les premières analyses effectuées en septembre 2007 ne mettent pas non plus en évidence la présence d'une source quelconque de pollution.		

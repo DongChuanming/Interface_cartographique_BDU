@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10	11		2010	10	11		Par_transmission	Par transmission du 11 octobre 2010, la société OIL FRANCE a transmis au Préfet son mémoire de cessation d'activité.		'la société OIL FRANCE'
+2010	09	10		2010	09	10		la_cessation	Elle est donc tenue de respecter l’article R.512-66-1 du Code de l’Environnement relatif à la cessation d’activité des Installations Classées pour la Protection de l’Environnement (ICPE) relevant du régime de la déclaration, applicable au 10 septembre 2010.		
+2010	09	10		2010	09	10		a_déclaré	Elle a déclaré au Préfet le 10 septembre 2010 avoir cessé ses activités sur le site de Metz le 07 septembre 2009.		'Elle'
+2011	02	1		2011	02	1		Par_transmission	Par transmission en date du 1er février 2011, la société OIL FRANCE a transmis son Dossier d’Ouvrage Exécuté (DOE) correspondant à la dépollution du site.		'la société OIL FRANCE'
+2009	09	07		2009	09	07		a_déclaré	Elle a déclaré au Préfet le 10 septembre 2010 avoir cessé ses activités sur le site de Metz le 07 septembre 2009.		'Elle'
+2009	09	07		2009	09	07		avoir_cessé_ses_activités	Elle a déclaré au Préfet le 10 septembre 2010 avoir cessé ses activités sur le site de Metz le 07 septembre 2009.		'Elle'
+2010	10	11		2010	10	11		a_transmis	Par transmission du 11 octobre 2010, la société OIL FRANCE a transmis au Préfet son mémoire de cessation d'activité.		'la société OIL FRANCE'
+2011	02	1		2011	02	1		a_transmis	Par transmission en date du 1er février 2011, la société OIL FRANCE a transmis son Dossier d’Ouvrage Exécuté (DOE) correspondant à la dépollution du site.		'la société OIL FRANCE'

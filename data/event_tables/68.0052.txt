@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				avaient_été_démontées	- un ancien dépôt de carburants dont les cuves avaient été démontées en 1983-1984.	'carburants'	
+2004	04			2004	04			a_racheté	La communauté de communes de la vallée de Saint-Amarin a racheté le site en avril 2004, prenant ainsi à sa charge la dépollution.		
+2003	09	16		2003	09	16		a_été_a_été_remis	Ce complément a été a été remis le 16/09/2003.		
+2011	10			2011	10			Le_diagnostic_initial	Le diagnostic initial a été remis en octobre 2011.		
+2003	03			2003	03			a_été_mis_en_liquidation_judiciaire	Le dernier exploitant, la Compagnie de développement textile (CDT), a été mis en liquidation judiciaire en mars 2003.		'la Compagnie de développement textile', 'CDT'
+2003	06	30		2003	06	30		a_été_pris	Un arrêté préfectoral de mise en demeure a été pris le 30/06/2003 pour la réalisation de la suite de l'étude.		
+2001	04	11		2001	04	11		a_été_soumis	Ce site a été soumis à la réalisation d'une ESR (évaluation simplifiée des risques) par arrêté préfectoral de mise en demeure du 11/04/2001.		
+1984				1984				avaient_été_démontées	- un ancien dépôt de carburants dont les cuves avaient été démontées en 1983-1984.	'carburants'	

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				fût_supprimé	L’aciérie et les gazogènes ont été démantelés avant 1955 et un atelier de fabrication de Tubes Soudés Electriquement (TSE) a été implanté sur le site, les gazogènes ont été remplacés par un stockage de fuel lourd qui fût supprimé en 1988.	'TSE', 'fuel lourd'	'Tubes Soudés Electriquement'
+1993				1993				ont_été_abandonnés	Les ateliers de décapage et galvanisation ont été abandonnés en 1993.		
+2003				2003				ont_été_dépolluées_par_excavation	Aussi, ces zones ont été dépolluées par excavation des terres polluées en 2003.		
+1916				1916				fondée	Cette usine, fondée en 1916, a été exploitée précédemment par la société " Tubes de Vincey".		'la société " Tubes'
+2001				2001				a_procédé	La société LORRAINE TUBES a procédé au cours de l’année 2001 à une étude simplifiée des risques (ESR) liée à une pollution potentielle des sols.		'La société LORRAINE TUBES'
+1921				1921				comprenait	L'usine comprenait en 1921: une aciérie Martin, des laminoirs à tubes sans soudure, un atelier de décapage, une sulfaterie, un atelier de galvanisation, des gazogènes, un parc à ferrailles, des ateliers généraux et un laboratoire.	'sulfaterie'	

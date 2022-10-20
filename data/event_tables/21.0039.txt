@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1857				1857				ont_démarré	Les activités de l'usine du Bourg ont démarré en 1857 et la fabrication de la cocotte minute en 1955.		
+2001	12			2001	12			Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) a été réalisée en décembre 2001, conformément à l'ancienne méthodologie nationale en matière de gestion de sites et sols pollués.		
+1976				1976				ont_été_déposés	Il apparaît qu'avant 1976, les déchets générés par l'usine (tels que les boues de polissage) ainsi qu'une partie des effluents liquides issues des lignes de dégraissage ont été déposés dans plusieurs sites, le plus important étant le site de la décharge de la Gare.	'les déchets', 'des effluents liquides'	
+2002	03	20		2002	03	20		les_les_suivis	Conformément à l'arrêté du 20 mars 2002, l'inspection a reçu les les suivis de la décharge réhabilitée.		
+2005	05	02		2005	05	02		ont_été_signées	Des Servitudes Conventionnelles au Profit de l'Etat (SCPE) ont été signées le 2 mai 2005.		'SCPE'
+1976				1976				n__est_plus_exploitée	La décharge de la Gare, qui n'est plus exploitée depuis 1976, est située au sud-est de Selongey, entre la Départementale 27 et la rivière La Venelle, à environ 500 m de la gare.		

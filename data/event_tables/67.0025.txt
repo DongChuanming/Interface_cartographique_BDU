@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	09	23		1998	09	23		Le_PV_de_récolement	Le PV de récolement a été établi le 23/09/1998.		
+1998				1998				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en 1998.		
+1991				1991				a_cessé	L’exploitation de l’ancienne usine de thermomètres au mercure a débuté en 1922 et a cessé en 1991.	'mercure'	
+								impose_la_réalisation_d__une_étude	L’AP du 23/12/96 impose la réalisation d’une étude et l’AP du 18/12/97 prescrit les mesures de dépollution et de mise en sécurité du site par le démantèlement, la mise en place d’une chape étanche, l’enlèvement des sédiments pollués et le contrôle.		
+1996				1996				L___étude_réalisée	L’ étude réalisée début 1996 a conclu à une pollution très faible des sols en profondeur malgré des teneurs ponctuellement élevées en surface, à une contamination des berges de la Moder, à l’absence de mercure dans les eaux de surface et des traces dans les eaux souterraines.	'mercure'	
+								les_mesures_de_dépollution	L’AP du 23/12/96 impose la réalisation d’une étude et l’AP du 18/12/97 prescrit les mesures de dépollution et de mise en sécurité du site par le démantèlement, la mise en place d’une chape étanche, l’enlèvement des sédiments pollués et le contrôle.		
+1922				1922				L__exploitation	L’exploitation de l’ancienne usine de thermomètres au mercure a débuté en 1922 et a cessé en 1991.	'mercure'	
+								le_démantèlement	L’AP du 23/12/96 impose la réalisation d’une étude et l’AP du 18/12/97 prescrit les mesures de dépollution et de mise en sécurité du site par le démantèlement, la mise en place d’une chape étanche, l’enlèvement des sédiments pollués et le contrôle.		
+1991				1991				L__exploitation	L’exploitation de l’ancienne usine de thermomètres au mercure a débuté en 1922 et a cessé en 1991.	'mercure'	

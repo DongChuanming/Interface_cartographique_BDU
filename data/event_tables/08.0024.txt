@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				a_été_missionnée_par	La société GESTER a été missionnée par l'exploitant et a remis le diagnostic initial à l'automne 1999.		'La société GESTER'
+2006	10			2006	10			une_demande_d__autorisation	L'exploitant a déposé une demande d'autorisation d'exploiter au titre de la législation des installations classées en octobre 2006.		
+1999				1999				a_remis_le_diagnostic_initial	La société GESTER a été missionnée par l'exploitant et a remis le diagnostic initial à l'automne 1999.		'La société GESTER'
+1999	07			1999	07			L__évaluation_simplifiée_des_risques_remise	L'évaluation simplifiée des risques remise en juillet 1999 à l'inspection des installations classées conclut que le site est en classe 3 (site banalisable), pour son usage actuel.		

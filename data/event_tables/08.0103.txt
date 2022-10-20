@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								à_la_demande_de	Un premier diagnostic de sol a été réalisé à la demande de l'OPAC 08 (désormais habitat 08), les trois prélèvements démontrent la présence de métaux dans les sols notamment de chrome, cuivre et nickel.	'métaux', 'chrome', 'cuivre', 'nickel'	
+2004				2004				Un_second_diagnostic_sol	Un second diagnostic sol a été réalisé en 2004, les investigations portaient sur la réalisation de 6 fouilles à la pelle mécanique d'une profondeur comprise entre 2.5 et 3 mètres.		
+1968				1968				aurait_cessée	Cette activité aurait cessée en 1968 (donnée recueillie suite à une brève recherche sur internet).		
+2004				2004				la_réalisation	Un second diagnostic sol a été réalisé en 2004, les investigations portaient sur la réalisation de 6 fouilles à la pelle mécanique d'une profondeur comprise entre 2.5 et 3 mètres.		
+2010	09	25		2010	09	25		Une_étude_a_été_réalisée	Une étude a été réalisée le 25 septembre 2010 porte sur le parcellaire restant.		

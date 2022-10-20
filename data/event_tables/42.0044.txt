@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	23		2009	11	23		l__arrêté	Les difficultés rencontrées sur les traitements de certains points et l’augmentation du niveau de connaissance sur certains secteurs à travers les études réalisées par l’EPORA ont justifié une mise à jour des prescriptions de l’arrêté du 23 novembre 2009 et la prescription d’une deuxième tranche de travaux.		'l’ EPORA'
+2008	11			2008	11			ont_été_remis	Une étude d’interprétation de l’état des milieux et un mémoire de réhabilitation ont été remis à l’inspection respectivement en novembre 2007 et novembre 2008.		
+2009	05			2009	05			l__examen	A l’issue de l’examen de ces documents (le plan de gestion du mémoire de réhabilitation a été complété en mai 2009), l’inspection a proposé une première tranche de travaux de réhabilitation sur les points chauds de pollution : 5, 7, 13, 16.		
+1997	01	29		1997	01	29		était_autorisé	Le site était autorisé par arrêté préfectoral du 29/01/1997.		
+1999	11	29		1999	11	29		une_étude_de_sols	Dans le cadre de cessation d’activités de la ligne de traitement de surface, une étude de sols a été demandée par AP du 29/11/1999.		
+2003	12			2003	12			est_en_place	La surveillance de la nappe est en place depuis décembre 2003.		
+2003	07			2003	07			Cette_étude_a_été_fournie	Cette étude a été fournie en Juillet 2003 et ne montre pas de problème particulier.		
+2007	10			2007	10			de_réaliser_une_étude_d_	- de réaliser une étude d'interprétation de l'état des milieux (remise en octobre 2007),		
+2009	11	23		2009	11	23		une_deuxième_tranche_de_travaux	Il a ainsi été prescrit à la société GIAT Industries, par arrêté préfectoral du 22 août 2011, une deuxième tranche de travaux sur son site de Saint-Chamond, concernant les points chauds 12, 13 et 15 à la suite des travaux prescrits par l’arrêté préfectoral du 23 novembre 2009.		'la société GIAT Industries'
+2007	11			2007	11			ont_été_remis	Une étude d’interprétation de l’état des milieux et un mémoire de réhabilitation ont été remis à l’inspection respectivement en novembre 2007 et novembre 2008.		
+2012	04	12		2012	04	12		établissait	Le 12 avril 2012, l’inspection établissait deux rapports, l’un relatif à la gestion du PC 7, l’autre relatif à la gestion des PC 12 et 15, visant à faire procéder à la dépollution complète de ces secteurs, sauf contrainte liée à la présence d’ouvrages, ou solution alternative permettant d’obtenir, par confinement, un risque résiduel acceptable.		
+2006	04			2006	04			a_déposé_son_dossier_de_cessation_d__activité	L'exploitant a déposé son dossier de cessation d'activité en avril 2006.		
+2012	05	30		2012	05	30		faisait_parvenir	Le 30 mai 2012, GIAT INDUSTRIES faisait parvenir des éléments complémentaires émanant du Bureau d’études missionné pour le suivi des travaux.		'GIAT INDUSTRIES'
+2009	11	23		2009	11	23		Ces_travaux_ont_été_prescrits	Ces travaux ont été prescrits par arrêté préfectoral du 23 novembre 2009.		

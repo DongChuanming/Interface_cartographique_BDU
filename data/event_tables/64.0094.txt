@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10	15		2007	10	15		à	- SARL FANNY à partir du 15 octobre 2007,		'SARL FANNY'
+1996	05	16		1996	05	16		La_déclaration	La déclaration d'activité de dépôt souterrain d'essence a été faite le 16 mai 1996.	'essence'	
+2009	01	26		2009	02	02		les_travaux_de_remise_en_état_ont_été_réalisés	Après la démolition des bâtiments, les travaux de remise en état ont été réalisés du 26 janvier 2009 au 2 février 2009.		
+2006	03			2006	03			a_été_remis	Il a été remis en mars 2006.		
+2009	03	03		2009	03	03		est_reçu	Le dossier de cessation d'activité est reçu le 3 mars 2009.		

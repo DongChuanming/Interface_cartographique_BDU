@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993	06	29		1993	06	29		a_été_autorisée	La décharge a été autorisée par arrêté préfectoral du 29 juin 1993.		
+								prescrit_les_travaux_de_réhabilitation	L'arrêté préfectoral du 21 mars 2008 prescrit les travaux de réhabilitation suivants dans un délai de 12 mois :		
+				2002	01	1		a_été_exploitée	Elle a été exploitée par le SICTOM du Haut Béarn à partir de 1993 et jusqu'au 1er janvier 2002, puis par le SMTD (Syndicat Mixte et Traitement des Déchets du Bassin Est).	'Syndicat', 'Déchets'	'le SICTOM du Haut Béarn', 'le SMTD'
+2007				2007				a_cessé_son_activité	Elle a cessé son activité en 2007 (transmission du dossier de cessation d'activité par l'exploitant le 4 juin 2007).		
+2007	06	04		2007	06	04		a_cessé_son_activité	Elle a cessé son activité en 2007 (transmission du dossier de cessation d'activité par l'exploitant le 4 juin 2007).		
+2007	06	04		2007	06	04		__transmission	Elle a cessé son activité en 2007 (transmission du dossier de cessation d'activité par l'exploitant le 4 juin 2007).		

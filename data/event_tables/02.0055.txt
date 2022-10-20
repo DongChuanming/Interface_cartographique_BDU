@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	13		2001	07	13		ont_toutes_été_levées	Ces mesures ont toutes été levées le 13/07/2001		
+2012	05	16		2012	05	16		une_étude_de_pollution	L'exploitant a transmis le 16/05/2012 une étude de pollution des sols qui concluent à la présence d'arsenic et de plomb.	'arsenic', 'plomb'	
+2005	05	17		2005	05	17		Arrêté_de_mise_en_demeure	Arrêté de mise en demeure du 17 mai 2005, exigeant notamment la remise d'un dossier de demande de régularisation administrative (augmentation de production de l'ordre de 20%)		
+2010	11	19		2010	11	19		a_transmis	L'exploitant a transmis l'étude de l'impact des lagunes le 19/11/2010.		
+2010	06	11		2010	06	11		L__arrêt_des_lagunes_de_décantation	L'arrêt des lagunes de décantation de l’usine est effectif depuis le 11 juin 2010.		
+2001	06	18		2001	06	18		Incendie	Incendie 18/06/2001: 5 transformateur contenant des pcb sont impactés	'transformateur contenant des pcb'	
+1924				1924				exploitée	Usine spécialisée dans la fabrication de papier à partir de vieux papiers et de bois de feuillus, exploitée sur le site de Vénizel depuis 1924.		
+2006	05	02		2006	05	02		a_été_présenté	Compte tenu de cela un projet d'arrêté a été présenté au coderst du 2 mai 2006, visant à imposer la surveillance de la qualité des eaux souterraines et la réalisation d'un diagnostic approfondi sur la globalité du site (site + lagunes + gravière).		
+2009				2009				devrait_arrêter	Etude BURGEAP 2007 sur l'impact des lagunes - les lagunes semblent fuyardes, toutefois la société devrait arrêter leur utilisation en 2009.		'Etude BURGEAP', 'lagunes', 'lagunes', 'la société'
+2009	06	18		2009	06	18		a_été_signé	L'arrêté de régularisation a été signé le 18 juin 2009.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	06	11		1999	06	11		a_été_mise_en_demeure	Ce constat a été relevé par procès verbal transmis à Monsieur le Procureur de la République de Belley et la société a été mise en demeure, par arrêté préfectoral du 11 juin 1999, de réaliser les travaux nécessaires à la mise en conformité du site dans un délai de 15 jours.		'le Procureur de la République'
+1999	09	16		1999	09	16		la_liquidation_judiciaire	Le 16 septembre 1999, la liquidation judiciaire de la société a été prononcée, impliquant la cessation définitive d'activité et l'évacuation des pneumatiques accumulés sur le site.		
+2001	01			2001	01			a_informé	En janvier 2001, Monsieur le Trésorier Payeur Général de l'Ain a informé Monsieur le Préfet que cette consignation s'avérait irrécouvrable.		"le Trésorier Payeur Général de l' Ain", 'le Préfet'
+2000	11	23		2000	11	23		Aucun_travaux_n__avait_été_réalisé	Aucun travaux n'avait été réalisé au 23 novembre 2000.		
+2000	11	24		2000	11	24		a_pris	Le 24 novembre 2000, Monsieur le préfet de l'Ain a pris un arrêté de mesures d'urgence prescrivant au liquidateur judiciaire la réalisation des travaux nécessaires à l'évacuation des pneus restants et des résidus de combustion.	'des pneus restants', 'résidus de combustion'	'le préfet'
+2006				2006				ont_été_enlevés	Courant 2006, les pneus ont été enlevés par ALIAPUR.	'pneus'	'ALIAPUR'
+								réaliser_les_travaux	Ce constat a été relevé par procès verbal transmis à Monsieur le Procureur de la République de Belley et la société a été mise en demeure, par arrêté préfectoral du 11 juin 1999, de réaliser les travaux nécessaires à la mise en conformité du site dans un délai de 15 jours.		'le Procureur de la République'
+1999	10			1999	10			Une_visite_réalisée	Une visite réalisée sur le site en octobre 1999 a montré que la situation ne s'était pas améliorée.		

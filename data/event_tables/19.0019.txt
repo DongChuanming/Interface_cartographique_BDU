@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_émis_un	Ces conseils municipaux ont émis un avis favorable respectivement les 12 et 5 décembre 2014.		
+2015	04	07		2015	04	07		a_été_cosigné	L'arrêté a été cosigné des préfets de la Corrèze et du Cantal le 7 avril 2015.		'préfets de la Corrèze'
+2012	12	06		2012	12	06		fin_de_travaux_établi	Rapport de fin de travaux établi le 6 décembre 2012.		
+2011	07			2011	07			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en juin-juillet 2011.		
+1996				1996				lors_des_travaux_de_terrassement	Il semblerait que la présence de mercure provienne d'un apport de terre pour réaliser un remblai lors des travaux de terrassement et d’aménagement effectués sur le site en 1996.	'mercure'	
+2007	02	08		2007	02	08		un_plan_de_gestion	Compte tenu que la zone polluée au mercure est essentiellement en espaces verts (surface perméable et potentialité de contact direct), et à la demande de l'Inspection des Installations Classées, l'exploitant a fait réaliser par le Bureau Véritas un plan de gestion au sens de la méthodologie nationale résultant des circulaires ministérielles du 8 février 2007.	'mercure'	
+2010	05			2010	05			soit_mise_en_place	Suite à l'examen des propositions du Bureau Véritas et de l'exploitant l'Inspection des Installations Classées a demandé qu'une une surveillance semestrielle de la nappe soit mise en place (fait en mai 2010) et que ses résultats lui soient adressés régulièrement.		
+1997				1997				est_installée	Elle est installée sur le site de Bort-les-Orgues depuis 1997.		
+2014	12	05		2014	12	05		ont_émis_un	Ces conseils municipaux ont émis un avis favorable respectivement les 12 et 5 décembre 2014.		
+2015	02	23		2015	02	23		a_été_présenté	Le projet d'arrêté a été présenté au CODERST de la Corrèze le 18 février 2015 et au CODERST du Cantal le 23 février 2015.		'CODERST de la Corrèze', 'CODERST du Cantal'
+2012	12	31		2012	12	31		intention	L'exploitant a exprimé l'intention, dès lors qu'il n'a pas été détecté d'impact et que des travaux de confinement ont été réalisés, d'arrêter la surveillance des eaux souterraines au 31 décembre 2012.		
+								Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en juin-juillet 2011.		
+2011	05	24		2011	05	24		a_été_proposé	Le plan de gestion a été proposé par Bureau Véritas le 24 mai 2011 (rapport référencé FR/AF/231703/1) et a reçu un avis favorable de l'Inspection.		
+2012	11	08		2012	11	08		a_été_remis	Le dossier de demande de servitudes a été remis à l'inspection des installations classées le 8 novembre 2012 (référence FR/AF/2448235/1).		

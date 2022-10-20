@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	06	25		2003	06	25		se_réunit_une_1ère_fois	Cette réunion initie la mise en place d'un comité technique franco - allemand qui se réunit une 1ère fois chez l'exploitant le 25 juin 2003 et dont la dernière réunion a eu lieu le 2 octobre 2013		
+2015	02	1		2015	02	1		a_stoppé	La station d'épuration des eaux de lavage chimique a stoppé le 1er février 2015.		
+								est_alors_prescrit	Un programme de surveillance de la nappe en aval de la décharge et sur le territoire allemand est alors prescrit par AP en date du 18/6/03.		
+1988				1988				créé	Un barrage hydraulique créé en 1988, par les puits de pompage de l'usine, engendre un cône de rabattement suffisant pour collecter la quasi-totalité des eaux circulant sous le site.		
+2003	06	18		2003	06	18		Le_bilan	Le bilan des exigences de l'AP du 18 juin 2003 est dressé en mars 2004.		
+2015	03	31		2015	03	31		a_été_remis	Le bilan final de l'opération a été remis le 31 mars 2015.		
+1998				1998				une_évaluation_des_risques	L'exploitant conduit en 1998 une évaluation des risques présentés par la décharge et des solutions de fermeture.		
+				1997				a_déposé	Dans sa décharge interne, la société Rohm and Haas a déposé jusqu'en 1997 des boues issues de la production de sulfate de manganèse et de la station d'épuration des eaux usées.	'sulfate', 'manganèse'	'la société Rohm'
+2003	04			2003	04			d__une_réunion_d__information	Le préfet du Bas-Rhin dresse un bilan lors d'une réunion d'information chez l'exploitant en avril 2003 à laquelle les autorités allemandes sont invitées.		
+2007				2007				La_mise_à_jour	La mise à jour du modèle est abandonnée en 2007 par l'exploitant.		
+				2012	10			a_débuté	Après construction de la plate forme de traitement des déchets, celui-ci a débuté en septembre 2010, par une phase pilote jusqu'en octobre 2012, suivi d'une phase opérationnelle qui s'est achevée fin 2014, qui ont permis de traiter, dans le cadre d'une première tranche 57300 tonnes de terres et d'une deuxième tranche 21200 tonnes supplémentaires.		
+1958				1997				a_été_exploitée	La décharge interne a été exploitée de 1958 à 1997.		
+2005				2005				travaillait	La société Rohm and Haas travaillait depuis 2005, sans en avoir informé l'inspection, à un projet d'assainissement partiel de la décharge.		'La société Rohm'
+2013	10	02		2013	10	02		se_réunit_une_1ère_fois	Cette réunion initie la mise en place d'un comité technique franco - allemand qui se réunit une 1ère fois chez l'exploitant le 25 juin 2003 et dont la dernière réunion a eu lieu le 2 octobre 2013		
+2010	04	12		2010	04	12		a_été_pris	Un arrêté complémentaire encadrant les conditions de surveillance de l'impact des travaux sur l'environnement a été pris le 12 avril 2010.		
+								l__étude_des_conditions_de_gestion	- l'étude des conditions de gestion à long terme de la décharge (9 mois);		
+2010	09			2010	09			a_débuté	Après construction de la plate forme de traitement des déchets, celui-ci a débuté en septembre 2010, par une phase pilote jusqu'en octobre 2012, suivi d'une phase opérationnelle qui s'est achevée fin 2014, qui ont permis de traiter, dans le cadre d'une première tranche 57300 tonnes de terres et d'une deuxième tranche 21200 tonnes supplémentaires.		
+2014				2014				s__est_achevée	Après construction de la plate forme de traitement des déchets, celui-ci a débuté en septembre 2010, par une phase pilote jusqu'en octobre 2012, suivi d'une phase opérationnelle qui s'est achevée fin 2014, qui ont permis de traiter, dans le cadre d'une première tranche 57300 tonnes de terres et d'une deuxième tranche 21200 tonnes supplémentaires.		
+2004	03			2004	03			Le_bilan	Le bilan des exigences de l'AP du 18 juin 2003 est dressé en mars 2004.		

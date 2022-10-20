@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				a_été_transférée	L’activité du site d'Izeaux a été transférée sur le site de Saint-Vulbas en fin d'année 2012.		
+2013	10			2013	10			DIAGNOSTIC	* DIAGNOSTIC DU SOUS-SOL ET ANALYSE DES RISQUES RÉSIDUELS PRÉDICTIVE (établi en octobre 2013 par ANTEA - transmis à la DREAL le 24/10/2013)	'SOUS-SOL'	'ANTEA', 'la DREAL'
+2008	08	05		2008	08	05		était_autorisée	Cette activité était autorisée par arrêté préfectoral du 05/08/2008.		
+2013	09	10		2013	09	10		a_été_réalisé	Le 10/09/2013, il a été réalisé :		
+2013	08	09		2013	08	09		a_été_réalisé	Le 09/08/2013, il a été réalisé :		
+2013	07	29		2013	08	01		a_été_réalisé	Du 29/07/2013 au 01/08/2013, il a été réalisé :		
+2012				2012				d_	L’activité du site d'Izeaux a été transférée sur le site de Saint-Vulbas en fin d'année 2012.		

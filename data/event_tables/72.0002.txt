@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	12		2006	06	12		une_visite_de_récolement	Le 29 octobre 2007, une visite de récolement a eu lieu par rapport aux exigences de l'arrêté du 12 juin 2006.		
+2007	10	29		2007	10	29		une_visite_de_récolement	Le 29 octobre 2007, une visite de récolement a eu lieu par rapport aux exigences de l'arrêté du 12 juin 2006.		
+2006	06			2006	06			a_été_réhabilitée	Suite à l’arrêté de juin 2006, une partie du terrain a été réhabilitée :		
+1986				1986				la_neutralisation	Gaz de France a entrepris la neutralisation des cuves à savoir une cuve de matières épurantes et deux cuves à goudrons respectivement en 1986 et 1995, ainsi que l'excavation et le traitement  des terres souillées alentours.	'matières épurantes', 'goudrons'	'Gaz de France'
+1995				1995				la_neutralisation	Gaz de France a entrepris la neutralisation des cuves à savoir une cuve de matières épurantes et deux cuves à goudrons respectivement en 1986 et 1995, ainsi que l'excavation et le traitement  des terres souillées alentours.	'matières épurantes', 'goudrons'	'Gaz de France'
+2007	11	29		2007	11	29		a_été_délivré	L'ensemble des travaux a été réalisé (en particulier le confinement des matières épurantes) et un récépissé de notification de fin d'exploitation a été délivré le 29 novembre 2007.	'des matières épurantes'	
+2009	06			2009	06			des_prélèvement_ont_été_réalisés	En juin 2009, des prélèvement ont été réalisés dans :		
+1994	11			1994	11			un_diagnostic_approfondi	Dans le cadre d'un projet de réaménagement interne pour les besoins d'EDF et de Gaz de France, ce site a fait l'objet  d'un diagnostic approfondi en novembre 1994.		'EDF', 'Gaz de France'
+2008	2007			2008	2007			accueille	Depuis 2007/2008, cette partie accueille un jardin public.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'

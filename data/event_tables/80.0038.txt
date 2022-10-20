@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02	25		2010	02	25		a_constaté_leur_réalisation	L'inspection a constaté leur réalisation lors des visites de récolement du 17 septembre 2009 et du 25 février 2010.		
+1946				1946				a_été_créée	Cette société a été créée en 1946 pour la fabrication d'ustensiles de cuisine d'autocuiseurs et de cadres de vélo.		
+2008				2008				Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité (évacuation des déchets, nettoyage des sols des ateliers et condamnation des accès au site) ont été réalisés par l'ADEME en 2008 et 2009.		
+2009				2009				Les_travaux_de_mise_en_sécurité	Les travaux de mise en sécurité (évacuation des déchets, nettoyage des sols des ateliers et condamnation des accès au site) ont été réalisés par l'ADEME en 2008 et 2009.		
+2009	09	17		2009	09	17		des_visites_de_récolement	L'inspection a constaté leur réalisation lors des visites de récolement du 17 septembre 2009 et du 25 février 2010.		
+2006	ô	17		2006	ô	17		a_donner_son_accord	le ministère du développement durable a donner son accord, en date du 17 aôut 2006, afin  de faire intervenir l'ademe pour la mise ne sécurité du site.		
+2005	09			2005	09			Il_est_apparu	Il est apparu en septembre 2005 que le site est aisèment accessible aux tiers, et que des déchets ou produits dangereux sont encore présents dans les bâtiments.		
+2006	07	10		2006	07	10		Une_visite	Une visite du 10 juillet 2006 a permis de constater qu'aucune mersure n' a été prise.		
+2004	02	05		2004	02	05		La_mise_en_liquidation_judiciaire	La mise en liquidation judiciaire de la société a été prononcée le 5 février 2004.		

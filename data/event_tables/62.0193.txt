@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				__fusion	- En 1993: fusion avec Mory Combustibles filiale du groupe Total.	'Combustibles'	'Mory', 'groupe Total'
+1964				1964				installe	- En 1964, l société des Pétroles Hantute y installe un dépôt de charbon et d'hydrocarbures.	'charbon'	'l société des Pétroles Hantute'
+1985				1985				deviennent	- En 1985, fusion de la société des Pétroles Hantute et des Etablissements Toulemeonde & Fils, ils deviennent la Société des Pétroles Hantute - Toulemonde.	'la société des Pétroles'	'Hantute', 'des Etablissements Toulemeonde', 'la Société des Pétroles Hantute'
+2008	11			2008	11			une_étude_historique	- Réalisation d'une étude historique, documentaire et diagnostic de sol en novembre 2008 qui constate que le sol et la nappe sont pollués mais en l'état actuel, les voies possibles de transfert par contact direct, ingestion ou inhalation sont contrôlées.		
+2001				2001				fusionne	- En 2001, Mory Combustibles fusionne avec DCA et Shipp pour devenir DMS.	'Combustibles'	'Mory', 'DCA et Shipp', 'devenir DMS'
+1995				1995				résilie	En 1995, Mory Combustibles alors locataire du site résilie le contrat de location après démantèlement d'une partie des installations.	'Mory Combustibles'	

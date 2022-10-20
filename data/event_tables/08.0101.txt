@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03	13		2013	03	13		a_été_constaté	Lors de la visite d'inspection du 13 mars 2013, la présence de véhicules qualifiés de VHU et de carcasses de VHU a été constaté par l'inspection des installations classées.		'VHU', 'VHU'
+2013	05	16		2013	05	16		a_été_signé	L'arrêté de mise en demeure a été signé le 16 mai 2013.		
+2013	03	13		2013	03	13		de_la_visite_d__inspection	Lors de la visite d'inspection du 13 mars 2013, la présence de véhicules qualifiés de VHU et de carcasses de VHU a été constaté par l'inspection des installations classées.		'VHU', 'VHU'

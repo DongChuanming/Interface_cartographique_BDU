@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1995	12			Une_étude_demandée	Une étude demandée par arrêté préfectoral du 25 juillet 1995 a été menée entre juillet et décembre 1995 pour connaître les caractéristiques et l'impact sur l'environnement de cette pollution.		
+1995	07	25		1995	07	25		Une_étude_demandée	Une étude demandée par arrêté préfectoral du 25 juillet 1995 a été menée entre juillet et décembre 1995 pour connaître les caractéristiques et l'impact sur l'environnement de cette pollution.		
+1995	07			1995	07			usine_occupée	L'usine occupée par CATIDOM (traitement de surface) a brûlé en juillet 1995.		'CATIDOM'

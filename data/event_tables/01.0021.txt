@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	10			2007	10			La_campagne_d_	La campagne d'octobre 2007 a montré un niveau en position de basses eaux, conforme aux niveaux observés antérieurement à cette même période.		
+1997				1997				du_diagnostic	La caractérisation des sources a été établie à partir des données obtenues par le bureau TAUW lors du diagnostic des sols et des eaux souterraines réalisé en 1997, au moment de l'acquisition de la société VERILAC par la société AKZO NOBEL.		'le bureau TAUW', 'la société VERILAC', 'la société AKZO NOBEL'
+2002	03			2002	03			le_contrôle	- le contrôle des teneurs en BTEX réalisé en mars 2002 dans l'air du sol, après arrêt du "venting", n'a montré aucune présence de BTEX.	'BTEX', 'BTEX'	
+1997				1997				ont_été_mesurées	Les teneurs suivantes ont été mesurées en 1997 :		
+2011				2011				ont_été_abandonnés	Ces captages ont été abandonnés début 2011.		
+2001	02			2001	02			Ce_traitement_a_débuté_de_manière_effective	Ce traitement a débuté de manière effective en février 2001.		
+1996	04	03		1996	04	03		la_réalisation_d__études_de_sols	Par circulaire du 3 avril 1996, le Ministère chargé de l'environnement a demandé la réalisation d'études de sols pour un ensemble de sites industriels en activité et relevant de secteurs d'activité prioritaires.		
+2007	10			2007	10			la_campagne_d_	Le bilan hydrochimique de la campagne d'octobre 2007 est satisfaisant : teneurs en hydrocarbures inférieures aux limites de détections du laboratoire, seules quelques traces de BTEX (toluène et xylènes surtout) sont détectées à un niveau très faible.	'hydrocarbures', 'quelques traces de BTEX', 'toluène', 'xylènes'	
+1992	02	26		1992	02	26		__exploite	La société AKZO NOBEL (anciennement VERILAC) exploite à PONT D'AIN une unité de fabrication de peintures industrielles, autorisée au titre des installations classées par arrêté préfectoral du 26 février 1992.	'peintures industrielles'	'La société AKZO NOBEL', 'VERILAC'
+2010	07	21		2010	07	21		la_cessation_définitive_d__activité	Par courrier du 21 juillet 2010, la société Akzo Nobel a notifié la cessation définitive d'activité du site de Pont d'Ain, depuis le 1er janvier 2008.		'la société Akzo Nobel'
+2003	11	24		2003	11	24		L__étude_a_été_remise	L'étude a été remise le 24/11/2003.		
+2011	04	01		2011	04	01		a_été_délivré	Le procès-verbal de récolement a été délivré le 1/4/2011.		
+1997				1997				a_été_acquise	La société VERILAC a été acquise par la société AKZO NOBEL en 1997.		'La société VERILAC', 'la société AKZO NOBEL'
+2003	07	04		2003	07	04		Cette_étude_a_été_prescrite	Cette étude a été prescrite par arrêté préfectoral du 4 juillet 2003.		
+1946				1946				s__est_installée	La société VERILAC s'est installée en 1946, à Pont d'Ain, dans les locaux de la société JOCELLO qui fabriquait et assemblait des produits plastiques.		'La société VERILAC', 'la société JOCELLO'
+1998	10	16		1998	10	16		la_réalisation_d__une_étude_de_sol	Par arrêté du 16 octobre 1998, a été imposée à la société AKZO NOBEL la réalisation d'une étude de sol, suivant le guide méthodologique élaboré par le Ministère chargé de l'environnement.		'la société AKZO NOBEL', 'le Ministère'
+2002	04			2002	04			a_été_arrêté	Le traitement par "venting" a été arrêté en avril 2002 ;		
+2007	10			2007	10			les_dernières_analyses	La surveillance des eaux a été a arrêtée depuis la cessation d'activité. les dernières analyses datent d'octobre 2007, et avaient mis en évidence de faibles teneurs en benzène (0,1 µg/l), toluène (1.6 µg/l), Ethylb (0.1 µg/l) et xylènes (0.7 µg/l).	'benzène', 'toluène', 'Ethylb', 'xylènes'	
+2002	04	23		2002	04	23		Une_inspection_du_site_a_eu_lieu	Une inspection du site a eu lieu le 23 avril 2002.		
+1980				1980				a_repris	La société VERILAC s'est implantée progressivement sur le site et a repris à partir de 1980 l'ensemble des installations existantes.		'La société VERILAC'
+2008	01	1		2008	01	1		la_cessation_définitive_d__activité	Par courrier du 21 juillet 2010, la société Akzo Nobel a notifié la cessation définitive d'activité du site de Pont d'Ain, depuis le 1er janvier 2008.		'la société Akzo Nobel'
+1999	09	10		1999	09	10		L__étude_de_sols_prescrite	L'étude de sols prescrite a été transmise à l'Administration le 10 septembre 1999.		

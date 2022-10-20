@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	08			2010	08			a_procédé_aux_travaux_décrits	En juillet 2010, l'exploitant a transmis un dossier de remise en état du crassier et a procédé aux travaux décrits dès août 2010.		
+2010	09			2010	09			La_visite	La visite de septembre 2010 a permis de constater la mise en oeuvre des travaux de couverture.		
+2009				2009				a_demandé	En 2009, l'inspection des installations classées a demandé à l'exploitant de remettre en état ce crassier qui constitue un stockage de déchets vraisemblablement dangereux.		
+1999				1999				Des_mesures_ont_été_réalisées	Des mesures ont été réalisées début 1999, les eaux souterraines ont été prélevées sur un forage au travers du dépôt et dans une résurgence en aval du site, les eaux prélevées satisfont aux critères de potabilité même si à ce jour cette ressource n'est pas utilisée pour l'alimentation en eau potable.		
+2010	07			2010	07			a_transmis	En juillet 2010, l'exploitant a transmis un dossier de remise en état du crassier et a procédé aux travaux décrits dès août 2010.		
+2000	11	17		2000	11	17		a_été_modifié	Afin de prendre en compte les mesures d'urbanisme proposées, Le POS de la commune de Cousances-Les-Forges a été modifié le 17 novembre 2000.		
+2001	01	11		2001	01	11		a_été_validé	Ce classement a été validé par un hydrogéologue agréé le 11 janvier 2001.		
+1998	11			1998	11			de_cessation_d__activité	Ancienne unité de fabrication d'articles culinaires en fonte émaillée.(déclaration de cessation d'activité de novembre 1998)		
+2005	05	17		2005	05	17		ont_été_constituées	Des servitudes (RUCPE) ont été constituées le 17 mai 2005 afin de maintenir l'entretien du site.		'RUCPE'
+2010	08			2010	08			a_transmis	En juillet 2010, l'exploitant a transmis un dossier de remise en état du crassier et a procédé aux travaux décrits dès août 2010.		

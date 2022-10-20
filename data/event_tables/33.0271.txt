@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	03			2003	03			arrête	En mars 2003, l'USTOM arrête son installation de broyage-compostage de déchets.		"l' USTOM"
+2004	10	20		2004	10	20		est_autorisé	Par arrêté préfectoral du 20 octobre 2004, l'USTOM est autorisé à exploiter sur le site de Massugas une installation de :		
+2002	06	18		2002	06	18		est_mis_en_demeure	Le 18 juin 2002, l'USTOM est mis en demeure de réaliser une Évaluation Simplifiée des Risques (ESR).		"l' USTOM"
+2003	05	1		2003	05	1		est_remise	L'ESR est remise le 1er mai 2003 et ne met pas en évidence de pollution des sols.		
+2001				2001				met_en_place	En 2001, le syndicat met en place un quai de transfert de déchets propres et secs.		
+1983	04	29		1983	04	29		L__installation	L'installation de broyage-compostage d'ordures ménagères brutes est autorisée par arrêté préfectoral du 29 avril 1983.		

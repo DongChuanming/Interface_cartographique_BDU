@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	05	25		2004	05	25		Un_diagnostic_environnemental	Un diagnostic environnemental a été effectué le 25/05/2004 sur la station alors exploité par AVIA.		'AVIA'
+2006	03	23		2006	03	23		un_diagnostic_environnemental_de_sortie	Dans le cadre des procédures de renouvellement de contrats de sous-concession de stations services sur le réseau autoroutier le 01/01/2006, un diagnostic environnemental de sortie a été effectué le 23/03/2006.		
+2008	04	04		2008	04	04		a_été_délivré	Le dernier récépissé de déclaration a été délivré le 4/04/2008 (stockage de liquides inflammables et distribution de carburant).	'liquides inflammables', 'carburant'	
+2006	03	14		2006	03	23		ont_été_excavées	Les terres contaminées identifiées près des cuves 7 et 8 ont été excavées du 14/03/2006 au 23/03/2006.		

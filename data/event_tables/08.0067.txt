@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				le_diagnostic_environnemental	Les investigations et travaux, ci-après résumés, ont été initiés par le diagnostic environnemental réalisé en 1996 par la société SHELL, alors propriétaire et exploitant du site.		'la société SHELL'
+2003	07	25		2003	07	25		l__excavation	l'excavation et l'élimination hors site des terres polluées par des hydrocarbures (SITA Remediation) du 25 juillet 2003,	'hydrocarbures'	'SITA'
+2002	07	15		2002	07	15		du_diagnostic_environnemental	du diagnostic environnemental (URS) du 15 juillet 2002,		
+1965				1965				a_été_créé	Le dépôt pétrolier a été créé en 1965 par la société SHELL, propriétaire des terrains et des installations.		'la société SHELL'
+2005	09			2005	09			Un_rapport_de_travaux	- Un rapport de travaux (septembre 2005) :		
+								sera_réalisé	Cet surveillance sera réalisé à minima sur une période de 4 années.		
+2009	09	30		2009	09	30		une_visite	Le 30 septembre 2009, une visite de l'inspection des installations classées est réalisée, elle a permis de vérifier que les exigences réglementaires (en matière de cessation d'activité) sont bien respectées.		
+2010	04	19		2010	04	19		est_notifié	Le 19 avril 2010 un arrêté préfectoral complémentaire est notifié par le préfet.		'le préfet'
+2005	07			2005	07			Un_diagnostic_de_sol_comportant	- Un diagnostic de sol comportant (en juillet 2005)  :		
+2005	07			2005	07			Les_analyses_réalisées_lors	Les analyses réalisées lors des travaux d'excavation, de juillet 2005, ont montré que les terres laissées en place (fond et côtés de fouilles) respectaient désormais les valeurs seuils.		
+2002				2002				exploite	En effet, l'exploitant (Bolloré Energie) exploite ce site depuis 2002.		'( Bolloré Energie'
+2002				2002				a_relancé_les_investigations	Le dernier exploitant (Bolloré Energie) ayant eu la connaissance des investigations mais n'ayant pas eu le rapport de 1996 a relancé les investigations à partir de 2002.		'( Bolloré Energie'

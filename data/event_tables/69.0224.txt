@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	25		2011	08	02		Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés du 25 mai 2011 au 2 août 2011 par la société GRS VALTECH.		'la société GRS VALTECH'
+2007				2007				du_diagnostic	Les travaux effectués ont permis de traiter l'ensemble des zones polluées identifiées lors du diagnostic de 2007-2008 effectué par SITA REMEDIATION.		'SITA REMEDIATION'
+2009	04	10		2009	04	10		a_été_mis_en_demeure_par	Mr BEAUCOURT se dégageant de toutes ses responsabilités et de toutes ses obligations administratives au regard de la législation des ICPE, a été mis en demeure par arrêté préfectoral du 10 avril 2009, de produire un dossier de cessation d'activité sous un mois et de réaliser une évaluation de l'état du milieu sous 3 mois.		'Mr BEAUCOURT'
+2011	04	07		2011	04	07		a_donné	Le 7 avril 2011, le Ministère a donné son accord pour réaliser les interventions suivantes :		
+2007	12	07		2007	12	07		Un_diagnostic_de_sols_initial	Un diagnostic de sols initial daté du 7 décembre 2007 a été réalisé par la société SITA REMEDIATION.		'la société SITA REMEDIATION'
+2008				2008				du_diagnostic	Les travaux effectués ont permis de traiter l'ensemble des zones polluées identifiées lors du diagnostic de 2007-2008 effectué par SITA REMEDIATION.		'SITA REMEDIATION'
+2009	01	07		2009	01	07		transmis	Un rapport de gestion de la problématique de dépollution transmis le 7 janvier 2009, réalisé par SITA REMEDIATION, propose une méthodologie et un devis pour la gestion de la dépollution de ce site.		'SITA REMEDIATION'
+								régulariser	- dans un délai de 3 mois de régulariser la situation administrative de ses activités,		
+2007	12	31		2007	12	31		la_cessation_d__activité	Un procès verbal contradictoire en date du 28 décembre 2007 atteste de la cessation d'activité et du départ de Mr BEAUCOURT, le 31 décembre 2007.		'Mr BEAUCOURT'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				a_été_vendu_aux_enchères	=> le bien a été vendu aux enchères courant 2010 mais que la liquidation n'est pas clôturée,		
+2012	10	22		2012	10	22		a_transmis	En date du 22 octobre 2012, le mandataire judiciaire a transmis les bordereaux de suivi de déchets suivants pour la mise en sécurité du site :		
+2007	11	09		2007	11	09		La_cessation_définitive_d__activité	La cessation définitive d'activité est déclarée le 09/11/2007. (DATE DE DELIVRANCE DU RECEPISSE)		
+2008	07			2008	07			L__étude	L'étude de caractérisation de l'état des milieux a été remise par le cabinet BERRE à LAROIN en juillet 2008.		'le cabinet BERRE', 'LAROIN'
+2007	11	09		2007	11	09		à_la_cessation_d__activité_déclarée	Suite à la cessation d'activité déclarée le 09/11/2007, la DRIRE demande au mandataire de mettre le site en sécurité et d'évacuer les déchets.	'les déchets'	'la DRIRE'
+2008	07	21		2008	07	21		prescrit	L'arrêté préfectoral du 21 avril 2008 prescrit le diagnostic approfondi du site à l'échéance du 21 juillet 2008 et la proposition d'un plan de gestion des éventuelles pollutions rencontrées.		
+2007	04	30		2007	04	30		étaient_autorisées	Les installations étaient autorisées par l'arrêté préfectoral du 30 avril 2007.		

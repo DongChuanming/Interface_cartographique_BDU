@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				__diagnostic_réalisé	- Consignation suite à l'immobilisme de l'exploitant : diagnostic réalisé en 1998.		
+2005	12			2005	12			imposant_des_études_pour_la_remise_en_état_du_site	- La société Transport Jovenaux a obtenu l'abrogation, auprès du tribunal adminsitratif, des arrêtés préfectoraux imposant des études pour la remise en état du site en décembre 2005.		'La société Transport Jovenaux'
+1973				1973				mis_en_décharge	- Ancien dépôt de déchets chimiques (exploité par Rhone Progil jusqu'en 1973) sur lequel sont mis en décharge depuis 1973 des déchets divers par la société Joveneaux (en défaut de régularisation administrative).	'dépôt de déchets chimiques', 'des déchets divers'	'Rhone Progil', 'la société Joveneaux'

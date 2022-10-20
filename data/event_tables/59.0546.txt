@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10	30		2012	10	30		une_visite	Le 30 octobre 2012, une visite conjointe ADEME/DREAL a eu lieu afin d'estimer et de préciser les conditions techniques et financières d'une éventuelle intervention sur le site GLASS Deco.		'DREAL', 'GLASS Deco'
+2007	10	29		2007	10	29		est_déposé	Le dossier de cessation d'activités est déposé le 29 octobre 2007.		
+2008	04	24		2008	04	24		Mise_en_demeure	Mise en demeure du 24 avril 2008 pour mise en sécurité du site		
+2013	07	25		2013	07	25		autorise	L'arrêté préfectoral d'occupation des sols du 29 juillet 2013 autorise l'ADEME à procéder aux travaux visés par de l'arrêté préfectoral de travaux d'office du 25 juillet 2013.		
+2013	07	25		2013	07	25		avait	Cette inspection avait pour objet de vérifier la réalisation des opérations de mise en sécurité du site prescrites dans l'arrêté préfectoral du 25 juillet 2013.		
+2006	09	22		2006	09	22		La_liquidation_judiciaire	La liquidation judiciaire de la société GLASS Deco a été prononcée le 22 septembre 2006 par le tribunal de commerce d’Avesnes sur Helpe.		'la société GLASS Deco'
+2014	04	16		2014	04	16		ont_procédé_à_une_visite_conjointe	Le 16 avril 2014, l'ADEME et l'Inspection des Installations Classées ont procédé à une visite conjointe du site.		
+2014	07	10		2014	07	10		un_dossier_de_fin_de_travaux	L'ADEME a remis le 10/07/2014 un dossier de fin de travaux à l'Inspection des Installations Classées.		"L' ADEME"
+2011	08	05		2011	08	05		Consignation	Consignation du 5 août 2011		
+2005	04	28		2005	04	28		est_pris	- 28 avril 2005 : un arrêté préfectoral imposant des mesures pour la recherche des substances dangereuses dans l’eau est pris à l’encontre de la société de PARACHEVEMENT DU NORD		'de la société de PARACHEVEMENT DU NORD'
+2005				2005				reprend	- En 2005, la société GLASS Deco reprend la société PARACHEVEMENT DU NORD.		'la société GLASS Deco', 'la société PARACHEVEMENT DU NORD'
+2013	07	25		2013	07	25		la_réalisation_de_travaux_de_mise_en_sécurité_du_site_imposés	L’inspection a constaté la réalisation de travaux de mise en sécurité du site imposés par l’arrêté préfectoral du 25 juillet 2013.		
+1992	06	17		1992	06	17		est_délivré	- 17 juin 1992 : un arrête d’autorisation d’exploiter est délivré à la société de PARACHEVEMENT DU NORD.		'à la société de PARACHEVEMENT DU NORD'
+2004	05	26		2004	05	26		__un_nouveau_dossier_de_demande_d__autorisation_est_déposé	- 26 mai 2004 : un nouveau dossier de demande d’autorisation est déposé.		
+2001	09	06		2001	09	06		est_pris	- 06 septembre 2001 : un arrêté préfectoral de mise en demeure est pris à l’encontre de la société PARACHEVEMENT DU NORD en raison de l’augmentation significative sur le site des quantités de matières dangereuses notamment d’acide fluorhydrique.	'de matières dangereuses notamment d’ acide', 'fluorhydrique'	'de la société PARACHEVEMENT DU NORD'
+2004				2004				reprennent_100___du_capital	- En 2004, les NOUVELLES VERRERIES de Momignies reprennent 100 % du capital.		'les NOUVELLES VERRERIES de Momignies'
+2011	05	24		2011	05	24		a_constaté	Lors de l'inspection du 24 mai 2011, l'inspection des installations classées a constaté que l'évacuation des déchets et produits dangereux n'a pas été réalisée.	'produits dangereux'	

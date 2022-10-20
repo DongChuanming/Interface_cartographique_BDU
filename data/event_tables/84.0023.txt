@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic_initial	A l'occasion de la vente des terrains (reconversion immobilière), la Sté SITELEC a fait réaliser en aout 2006 un diagnostic initial ainsi qu'une Évaluation Simplifiée des Risques (ESR).		'la Sté SITELEC'
+2007	03	02		2007	03	02		se_sont_achevés	Les travaux ont commencé le 27 Février 2007 et se sont achevés 02/03/2007.		
+1972				1972				s__est_implantée	L'entreprise SITTELEC s'est implantée à Montfavet en 1972 pour y exploiter des activités liées à la réparation et à la reconstruction de machines électriques tournantes et statiques (moteurs et transformateurs électriques essentiellement).		'SITTELEC'
+2006	12			2006	12			a_racheté	La société EITB, filiale du groupe KSB a racheté en Décembre 2006 la société SITELEC.		'La société EITB', 'KSB', 'la société SITELEC'
+2009	10	30		2009	10	30		un_dossier_de_demande	Le 30 Octobre 2009, EITB a déposé un dossier de demande d'autorisation qui a été jugé irrecevable par courrier en date du 28 Janvier 2010.		'EITB'
+2007	03	02		2007	03	02		Les_travaux_ont_commencé	Les travaux ont commencé le 27 Février 2007 et se sont achevés 02/03/2007.		
+2010	01	28		2010	01	28		un_dossier_de_demande	Le 30 Octobre 2009, EITB a déposé un dossier de demande d'autorisation qui a été jugé irrecevable par courrier en date du 28 Janvier 2010.		'EITB'
+2007	02	27		2007	02	27		Les_travaux_ont_commencé	Les travaux ont commencé le 27 Février 2007 et se sont achevés 02/03/2007.		
+2007	11	21		2007	11	21		a_été_délivré	Le récépissé de changement d'exploitant a été délivré en date du 21/11/2007.		

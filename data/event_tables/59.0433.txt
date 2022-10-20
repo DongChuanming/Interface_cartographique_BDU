@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ont_été_implantés	Par ailleurs, 8 piézomètres ont été implantés en 2003 dont 3 en amont, 1 sur site et 4 en aval.		
+1920				1920				1927_et_démoli	Dans cette étude, les prélèvements de sol se sont limités à 5 sondages au droit d'un ancien bâtiment d'usinage, construit entre 1920 et 1927 et démoli après 1978 où était utilisé du trichloroéthylène.	'trichloroéthylène'	
+1920				1920				construit	Dans cette étude, les prélèvements de sol se sont limités à 5 sondages au droit d'un ancien bâtiment d'usinage, construit entre 1920 et 1927 et démoli après 1978 où était utilisé du trichloroéthylène.	'trichloroéthylène'	
+2002	09	13		2002	09	13		a_donc_été_imposée	Par arrêté préfectoral complémentaire du 13 septembre 2002, une étude de sol phase B a donc été imposée à l'exploitant.		
+2003	01			2003	01			a_été_suivie_deux_fois_par_an	Après janvier 2003 et jusqu'à aujourd'hui, la nappe superficielle a été suivie deux fois par an, une fois en période de hautes eaux et une fois en période de basses eaux.		
+2005				2005				a_fait_procéder	Après des investigations en 2004 démontrant la présence d’hydrocarbures aux alentours de la fosse, l’exploitant a fait procéder en 2005 à son excavation.	'hydrocarbures'	
+2003	09			2003	09			Cette_étude	Cette étude, référencée Projet N°45526-004-412, a été réalisée par la société URS et date du 8 septembre 2003.		'la société URS'
+2004				2004				Les_investigations	Les investigations de 2004 avaient permis de prédéfinir l’ampleur de la zone à excaver (environ 150 m² sur une profondeur de 3,5 m).		
+				1978				1927_et_démoli	Dans cette étude, les prélèvements de sol se sont limités à 5 sondages au droit d'un ancien bâtiment d'usinage, construit entre 1920 et 1927 et démoli après 1978 où était utilisé du trichloroéthylène.	'trichloroéthylène'	
+1998	09	04		1998	09	04		une_étude	Par arrêté préfectoral du 4 septembre 1998, a été imposée une étude de sol phase A (méthodologie de l'époque) afin de vérifier la vulnérabilité du site et de ses environs et vérifier les pollutions susceptibles d'être intervenues.		
+2002	09	13		2002	09	13		du	Par arrêté préfectoral complémentaire du 13 septembre 2002, une étude de sol phase B a donc été imposée à l'exploitant.		
+2004	08			2004	08			extraite	à une ancienne fosse enterrée en béton contenant des cuves de solvants et d'huiles usagées, extraite en août 2004 ; et	'de solvants'	
+2004				2004				Après_des_investigations	Après des investigations en 2004 démontrant la présence d’hydrocarbures aux alentours de la fosse, l’exploitant a fait procéder en 2005 à son excavation.	'hydrocarbures'	
+2007	08			2007	08			extraite	à une ancienne cuve enterrée recueillant les effluents provenant de l'atelier de traitement de surface, extraite en août 2007.	'les effluents'	
+								Cette_étude	Cette étude, référencée Projet N°45526-004-412, a été réalisée par la société URS et date du 8 septembre 2003.		'la société URS'

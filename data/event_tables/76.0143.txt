@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Les_investigations_menées	Les investigations menées sur le site le 22/3/00 ont mis en évidence des traces d'hydrocarbures au niveau du piézomètre Pz3 (voir plan ci-joint) dans la nappe.	'hydrocarbures'	
+2000	08			2000	08			ont_été_prélevés	En août 2000, 7 échantillons de sols ont été prélevés à l'emplacement des cuves et analysés pour leurs teneurs en hydrocarbures totaux : pas de source de pollution (concentration inférieure à 2500 mg/kg).	'hydrocarbures totaux'	
+2000	04	11		2000	04	11		de_déclaration	- Récépissé de déclaration du 11 avril 2000 relatif à l'arrêt de l'installation cataphorèse.		
+								mises_en_place	A cet endroit étaient situées deux anciennes cuves semi-enterrées de 25 m3 mises en place à la fin des années 30 par la fabrique de textile, précédente exploitation du site.		
+2000	07	27		2000	07	27		de_déclaration	- Récépissé de déclaration du 27 juillet 2000 relatif à l'installation de chauffage utilisant comme fluide caloporteur des corps organiques.	'fluide caloporteur', 'des corps organiques'	

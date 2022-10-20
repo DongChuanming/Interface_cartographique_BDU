@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03	08		2013	03	08		a_porté_à_connaissance	Par courrier du 08 mars 2013, la DDPP a porté à connaissance du maire de St Chamond les éléments à prendre en compte dans le règlement d'urbanisme.		'la DDPP'
+2007	01	31		2007	01	31		la_clôture_de_la_liquidation	Le 31 janvier 2007, la clôture de la liquidation de la société Nitech a été prononcée par le tribunal de commerce de Saint-Étienne pour insuffisance d'actifs.		'la société Nitech', 'le tribunal de commerce de Saint-Étienne'
+1995	07	15		1995	07	15		avait_été_autorisée	Cette installation avait été autorisée par Arrêté Préfectoral du 15 juillet 1995.		
+2007	04	25		2007	04	25		a_averti	La préfecture a averti la commune de St Chamond (propriétaire du site) via un courrier le 25/04/2007.		'La préfecture', 'la commune de St Chamond'
+2002	08	28		2002	08	28		a_informé	Par lettre du 28 août 2002, Maître ROCHE liquidateur judiciaire de la Société NITECH a informé le Préfet de la cessation d'activités de cette installation et a transmis un diagnostic initial de la qualité des sols.		'Maître ROCHE', 'la Société NITECH', 'le Préfet'
+2005	02	18		2005	02	18		Des_servitudes_conventionnelles	Des servitudes conventionnelles au profit de l'état ont été prises le 18 février 2005 imposant l'usage industriel du site.		
+2002	07			2002	07			ont_été_faits	Les investigations de terrain ont été menées en juillet 2002, une dizaine de sondage ont été faits.		
+2002	07			2002	07			Les_investigations_de_terrain	Les investigations de terrain ont été menées en juillet 2002, une dizaine de sondage ont été faits.		

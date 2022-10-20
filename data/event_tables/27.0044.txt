@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12			2003	12			a_cessé	Il s'agit d'un site industriel existant depuis les années 40 ayant eu une activité de fonderie et de travail mécanique des métaux pour la fabrication de segments automobiles. le site a cessé son activité en décembre 2003.		
+2005				2005				la_première_campagne_d__analyse	Les évacuations des terres ont été réalisées et la première campagne d'analyse des eaux souterraines a été effectuée à l'été 2005.		
+								existant	Il s'agit d'un site industriel existant depuis les années 40 ayant eu une activité de fonderie et de travail mécanique des métaux pour la fabrication de segments automobiles. le site a cessé son activité en décembre 2003.		

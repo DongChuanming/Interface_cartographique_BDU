@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Un_mémoire_de_remise_en_état	Un mémoire de remise en état du site d'ATTIGNY est reçu, le 18 novembre, 1998 à l'inspection des installations classées.		
+1997	1996			1997	1996			la_fin	La sucrerie d'ATTIGNY , dont la première fabrication datait de 1864, a cessé son activité à la fin de la campagne 1996/1997, le 02 décembre 1996.		'La sucrerie'
+1993				1993				est_pollué_en_début	En 1993, le canal est pollué en début de campagne.		
+1996	12	02		1996	12	02		a_cessé_son_activité	La sucrerie d'ATTIGNY , dont la première fabrication datait de 1864, a cessé son activité à la fin de la campagne 1996/1997, le 02 décembre 1996.		'La sucrerie'
+								Un_mémoire_de_remise_en_état	Un mémoire de remise en état du site d'ATTIGNY est reçu, le 18 novembre, 1998 à l'inspection des installations classées.		
+1999	05	12		1999	05	12		est_notifié	Un Arrêté préfectoral complémentaire est notifié le 12 mai 1999, celui-ci prévoit une autosurveillance des eaux souterraines semestrielle sur l'ensemble du site :		
+1988	01	26		1988	01	26		a_était_notifié	Un arrêté préfectoral d'autorisation a était notifié pour la société ERIDANIA BEGHIN SAY le 26 janvier 1988.		'la société ERIDANIA BEGHIN SAY'
+1997	09			1997	09			un_diagnostic_environnemental	En Septembre 1997 un diagnostic environnemental, un diagnostic initial et une Evaluation Simplifié des Risques est réalisés.		
+1996	12	02		1996	12	02		a_cessé_toutes_ses_activités	La société ERIDANIA BEGHIN SAY a cessé toutes ses activités sur le site de sa sucrerie à ATTIGNY depuis le 02 décembre 1996.		'La société ERIDANIA BEGHIN SAY'
+1999	09	07		1999	09	07		est_notifié_par	Le 7 septembre 1999, un arrêté préfectoral d'autorisation est notifié par le préfet pour l'exploitation d'un complexe céréalier sur une partie du site de BEGUIN SAY, par la société CHAMPAGNE CÉRÉALES.		'le préfet', 'la société CHAMPAGNE CÉRÉALES'

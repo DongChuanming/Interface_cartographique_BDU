@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07			2006	07			une_pollution_accidentelle	En juillet 2006, une pollution accidentelle a été détectée(rupture d'une canalisation souterraine alimentant le poste de chargement.		
+1998	03	23		1998	03	23		une_évaluation_simplifiée_des_risques	Compte tenu de la sensibilité du milieu et du type d'activité, une évaluation simplifiée des risques a été prescrite par arrêté préfectoral du 23 mars 1998.		
+1948				1948				créé	Dépôt d'hydrocarbures d'une capacité de 26 000 m3 créé en 1948.	'hydrocarbures'	

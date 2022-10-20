@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				des_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, Total a fait réaliser des diagnostics environnementaux en 2008 puis entre 2009 et 2011.		'Total'
+2010	11			2011	02			a_fait_procéder	Compte tenu des conclusions de ces investigations, Total a fait procéder entre novembre 2010 et février 2011 au démantèlement de ses installations et à l'excavation de 1100 tonnes de terres polluées orientées vers un biocentre.		'Total'
+2011				2011				des_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, Total a fait réaliser des diagnostics environnementaux en 2008 puis entre 2009 et 2011.		'Total'
+				2012	11			un_dispositif_de_traitement_des_eaux_souterraines	Total a aussi mis en œuvre entre juillet 2011 et novembre 2012 un dispositif de traitement des eaux souterraines sur le site et en aval du site par la technique de venting/sparging qui a permis de traiter près de 900kg équivalent octane de COV présents dans la nappe.	'octane de COV'	'Total'
+2011	11			2011	11			ont_été_remises	Une interprétation de l'état des milieux et un schéma conceptuel concernant le lycée ainsi que le projet hôtelier à proximité immédiate ont été remises en novembre 2011 et juillet 2012.		
+2011				2011				a_été_démantelé	L'ensemble des installations pétrolières a été démantelé en 2011.		
+2013	02	1		2013	02	1		a_été_délivré_par	Au vu des travaux effectué et des études produites par l'exploitant, un récépissé de cessation d'activité a été délivré par la préfecture de la Manche le 1er février 2013.		'la préfecture de la Manche'
+2012	07			2012	07			ont_été_remises	Une interprétation de l'état des milieux et un schéma conceptuel concernant le lycée ainsi que le projet hôtelier à proximité immédiate ont été remises en novembre 2011 et juillet 2012.		
+2010	10			2010	10			a_été_arrêtée	L'exploitation du site a été arrêtée en octobre 2010.		
+1978				1978				a_été_créée	La station a été créée en 1978 et a été exploitée par M.		
+2013				2013				a_été_retiré	Le dispositif a été retiré début 2013 après accord de l'inspection des installations classées.		
+2009				2009				des_diagnostics_environnementaux	Dans le cadre de la cessation d'activité, Total a fait réaliser des diagnostics environnementaux en 2008 puis entre 2009 et 2011.		'Total'

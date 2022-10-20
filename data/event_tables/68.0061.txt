@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				arrêtée	Usine de production de colorants et de substances pharmaceutiques arrêtée en 2011.	'colorants'	
+2014	12			2014	12			La_démolition_des	La démolition des superstructures est finie depuis décembre 2014.		
+2011				2011				a_cessé_son_activité	La société Clariant a cessé son activité en 2011.		'La société Clariant'
+2016	07			2016	07			Un_essai_d__injection_d__oxygène_pur_a_commencé	Un essai d’injection d’oxygène pur a commencé en juillet 2016 dans la zone à l’ouest du bâtiment 233.	'oxygène'	
+2003				2003				a_également_été_identifiée	Une pollution par des solvants chlorés (dichlorobenzènes) a également été identifiée en 2003 dans le secteur.	'des solvants chlorés', 'dichlorobenzènes'	
+2009				2009				a_été_suspectée	Jusqu'en 2009 la source de pollution a été suspectée sur le site de Novartis, les sens d'écoulement des eaux souterraines étant perturbées dans le secteur par les importants pompages pour des travaux routiers à Bâle.		
+2001				2001				Une_pollution_accidentelle_survenue	Une pollution accidentelle survenue en 2001  a provoqué une pollution des eaux souterraines en aval du site.		
+2001	07	13		2001	07	13		a_été_pris	Un arrêté de prescriptions d'urgence a été pris le 13 juillet 2001 par le Préfet du Haut Rhin.		'le Préfet du Haut Rhin'
+2010				2010				ont_cessé	Les activités ont cessé en 2010.		
+				2016	10			____a_été_effectué	Un essai de sparging/venting dans la zone « parc 441 » a été effectué de juin à octobre 2016.		

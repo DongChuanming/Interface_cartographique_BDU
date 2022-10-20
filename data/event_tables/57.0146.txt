@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05			2006	05			a_été_remise	Une ESR a été remise en mai 2006 (diagnostic de la qualité des sols dans le cadre de la mise à jour du dossier d'autorisation d'exploiter).		
+2016	03	22		2016	03	22		la_cessation_définitive_d__activité	Lors de la visite d'inspection du 22 mars 2016, la cessation définitive d'activité a été constatée.		
+2016	04	23		2016	04	23		la_cessation_définitive_d__activité	Suite au placement en liquidation judiciaire de la société, la cessation définitive d'activité au 23 avril 2016 a été notifiée au Préfet.		
+1959				1959				repris	Le site est installé sur une ancienne propriété de la SNCF, repris en 1959 par la société SOFERLOR, qui y exercait une activité de récupération de métaux.		'la société SOFERLOR'
+2016	03	22		2016	03	22		de_la_visite_d__inspection	Lors de la visite d'inspection du 22 mars 2016, la cessation définitive d'activité a été constatée.		
+2006				2006				vont_remonter	Au droit du site, les eaux de la nappe des grès qui convergaient vers les puits d'exhaure de Freyming-Merlebach vont remonter dès 2008 du fait de l'arrêt des exhaures mi-2006.		
+2008				2008				vont_remonter	Au droit du site, les eaux de la nappe des grès qui convergaient vers les puits d'exhaure de Freyming-Merlebach vont remonter dès 2008 du fait de l'arrêt des exhaures mi-2006.		
+2006				2006				l__arrêt_des_exhaures	Au droit du site, les eaux de la nappe des grès qui convergaient vers les puits d'exhaure de Freyming-Merlebach vont remonter dès 2008 du fait de l'arrêt des exhaures mi-2006.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				des_diagnostics	Lors de la cessation d'activité, des diagnostics de sols et des eaux ont été réalisés en 1998 et ont mis en évidence une pollution du milieu.		
+1999	09			1999	09			et_envoyés_en_centre_de_traitement	A cet effet, les sols les plus contaminés (incluant celles de la fonderie de plomb) ont été excavés et envoyés en centre de traitement en septembre 1999.	'plomb'	
+2015				2015				en_cours_d__élaboration	En 2015, le Plan Local d'Urbanisme est en cours d'élaboration et prévoit de classer le secteur à vocation résidentielle.		
+2005	09	21		2005	09	21		a_été_établi	Le procès verbal de récolement a été établi le 21 septembre 2005.		
+1998	12	31		1998	12	31		est_effectif	L'arrêt des activités est effectif depuis le 31 décembre 1998.		
+1967				1967				exploité	Le site correspond à un ancien dépôt de ferrailles exploité depuis 1967 sans autorisation.		
+2004	04			2004	04			ont_été_signées	Les servitudes ont été signées en avril 2004 (SCPE sous forme d'acte notarié) et ont été enregistrées au Conservatoire des Hypothèques le 16 juin 2004.		
+2000	01			2000	01			ont_été_menées	D'août 1999 à janvier 2000, des investigations complémentaires ont été menées sur la qualité des eaux (hydrocarbures (HC), indice phénol, métaux - Cu, Pb et Zn) du ruisseau en aval, des eaux superficielles d’écoulement du site et des eaux souterraines (en aval).	'hydrocarbures', 'HC', 'phénol', 'métaux - Cu', 'Pb', 'Zn'	
+1999	08			1999	08			ont_été_menées	D'août 1999 à janvier 2000, des investigations complémentaires ont été menées sur la qualité des eaux (hydrocarbures (HC), indice phénol, métaux - Cu, Pb et Zn) du ruisseau en aval, des eaux superficielles d’écoulement du site et des eaux souterraines (en aval).	'hydrocarbures', 'HC', 'phénol', 'métaux - Cu', 'Pb', 'Zn'	
+2004	06	16		2004	06	16		ont_été_signées	Les servitudes ont été signées en avril 2004 (SCPE sous forme d'acte notarié) et ont été enregistrées au Conservatoire des Hypothèques le 16 juin 2004.		
+2005	06	10		2005	06	10		La_visite	La visite effectuée le 10 juin 2005 a permis de constater la bonne exécution et l'achèvement des opérations de remise en état du site.		
+2003				2003				2è_campagne	Les résultats de l'autosurveillance des eaux souterraines d'avril 2004 montrent globalement une contamination limitée sans évolution significative ; à noter une amélioration sensible de la situation en HC au regard des résultats de la 2è campagne de 2003.	'HC'	

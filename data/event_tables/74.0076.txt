@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2008				a_été_réhabilité	Le site a été réhabilité de 2003 à 2008 par la Communauté de Communes Arve et Salève.		'la Communauté de Communes Arve'
+1956				1996				a_exploité	Le syndicat de voirie du canton de Reignier a exploité, sans autorisation, de 1956 à 1996 une décharge d'ordures ménagères dans la plaine des Rocailles à Reignier.		
+2003	03			2003	03			une_étude_diagnostic	Le site a fait l'objet d'une étude diagnostic réalisée par le cabinet GEOARVE en décembre 2001 et d'un dossier technique relatif aux conditions de réhabilitation établi par le bureau GEOS INGENIEURS CONSEILS SA en mars 2003.		'GEOARVE', 'le bureau GEOS INGENIEURS CONSEILS SA'
+2001	12			2001	12			une_étude_diagnostic	Le site a fait l'objet d'une étude diagnostic réalisée par le cabinet GEOARVE en décembre 2001 et d'un dossier technique relatif aux conditions de réhabilitation établi par le bureau GEOS INGENIEURS CONSEILS SA en mars 2003.		'GEOARVE', 'le bureau GEOS INGENIEURS CONSEILS SA'
+2008				2008				La_mise_en_place	La mise en place de la couche argileuse imperméable est prévue avant l'été 2008 ;		
+2004	12	10		2004	12	10		Une_visite	Une visite de l'inspection des installations classées du 10 décembre 2004 a permis de constater qu'une partie des travaux a été réalisée :		

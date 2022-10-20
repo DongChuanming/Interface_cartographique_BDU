@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				cesser_définitivement	L'activité de ce site commence dans les années 1950, pour cesser définitivement en 1995.		
+2003				2003				La_campagne	La campagne de suivi de la qualité de la nappe souterraine en 2003 conclut toujours à un impact de la pollution au chrome sur le milieu eau souterraine.	'chrome'	
+2000	05	05		2000	05	05		trois_campagnes_de_sondages_ont_été_réalisées	Pour cela trois campagnes de sondages ont été réalisées sur le site le 23 décembre 1999, les 3, 4 et 5 mai 2000 et enfin les 5, 6, 7, 8 et 9 février 2001.		
+2006				2006				Un_traitement_in_situ	Un traitement in situ des zones les plus polluées a été réalisé en 2006 par injection d'un agent réducteur (hydrosulfite de sodium) et transformation du chrome VI en chrome III.	'un agent', 'hydrosulfite', 'sodium', 'chrome VI', 'chrome III'	
+								cesser_définitivement	L'activité de ce site commence dans les années 1950, pour cesser définitivement en 1995.		
+2006	07	31		2006	07	31		a_été_déposé	Un permis de construire a été déposé par la société NORMINTER ILE DE FRANCE le 31 juillet 2006, pour l’extension de l'INTERMARCHE voisin avec construction d'un mail et de boutiques, la création d’un parking VL d’environ 300 places et le transfert d’une station service soumise à déclaration préfectorale.		'la société NORMINTER ILE DE FRANCE'
+								trois_campagnes_de_sondages_ont_été_réalisées	Pour cela trois campagnes de sondages ont été réalisées sur le site le 23 décembre 1999, les 3, 4 et 5 mai 2000 et enfin les 5, 6, 7, 8 et 9 février 2001.		
+1999	12	23		1999	12	23		trois_campagnes_de_sondages_ont_été_réalisées	Pour cela trois campagnes de sondages ont été réalisées sur le site le 23 décembre 1999, les 3, 4 et 5 mai 2000 et enfin les 5, 6, 7, 8 et 9 février 2001.		

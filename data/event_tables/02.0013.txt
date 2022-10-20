@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02	15		2012	02	15		s__est_rendue	L'inspection s'est rendue sur le site le 15/02/2012.		
+1998	11	20		1998	11	20		Liquidation_prononcée	Liquidation prononcée le 20/11/1998.		
+2003	09	19		2003	09	19		Dépot_de_bilan_clôturé	Dépot de bilan clôturé le 19/9/2003 pour insuffisance d'actif.		
+2009				2009				Cette_intervention	Cette intervention, menée en 2009, a conduit à évacuer 145 tonnes de déchets dangereux, dont des déchets enterrés cyanurés.	'déchets dangereux', 'cyanurés'	
+2000	01			2000	01			a_été_recherchée	L'exploitant et le liquidateur judiciaire ayant été reconnus insolvables en janvier 2000 par le TPG, la responsabilité de la propriétaire a été recherchée : une ordonnance du TA d'AMIENS du 11/03/2003 a annulé les arrêtés préfectoraux des 17/01/2001, 18/07/2001 et 21/06/2002 pris à l'encontre de la SCI de PAVANT.		'le TPG', "TA d' AMIENS", 'la SCI de PAVANT'
+2006				2006				reconditionnement_des_produits_dangereux	Evacuation ou reconditionnement des produits dangereux réalisés fin 2006 par l'ADEME.	'des produits dangereux'	
+2015	05	27		2015	05	27		a_été_signé	Un nouvel arrêté préfectoral d’occupation temporaire des sols a été signé le 27/05/2015.		
+2007	10	11		2007	10	11		la_mise_en_sécurité_prescrite	Poursuite de la mise en sécurité prescrite par l'arrêté du 11/10/2007.		
+								créé	Atelier de traitement de surface (235 m3 de bains) et d'application de peinture créé dans les années 1960 et ayant changé plusieurs fois d'exploitants.		
+1998	03			1998	03			abandonné	Site abandonné en mars 1998, avec une grande quantité de déchets et produits dangereux facilement accessibles.		
+2003	11			2003	11			Information	Information du TPG en novembre 2003 : 123956,22 euros remis par le liquidateur suite aux consignations de sommes prescrites en août 1997 et décembre 1998 après mises en demeures.		

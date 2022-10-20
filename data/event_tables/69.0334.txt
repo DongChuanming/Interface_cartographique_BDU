@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06			2005	06			Avant_travaux	Avant travaux (juin 2005) :		
+2005	07	01		2005	09	05		de_terres_polluées	- la zone 2 a fait l'objet d'une excavation de terres polluées du 01/07/2005 au 05/09/2005.		
+2002	11	27		2002	11	27		Un_diagnostic_initial_des_sols	Un diagnostic initial des sols a été réalisé le 27/11/2002 (étape A) et le 18/04/2003 (étape B).		
+2006	04			2006	04			Après_travaux__	Après travaux (avril 2006) :		
+2005	06	07		2005	06	08		de_terres_polluées	- la zone 3 a fait l'objet d'une excavation de terres polluées du 07/06/2005 au 08/06/2005, avec validation des concentrations en HAP (jusqu'à 40,61 mg/kg de la somme des 16 HAP) restant sur place par des analyses en bords et fond de fouille.	'HAP', '16 HAP'	
+2006	10	27		2006	10	27		a_été_émis	L'arrêté préfectoral a été émis le 27/10/2006, prescrivant à la SNCF, pour le site "Marchandises nord", la réalisation d'un dossier de servitudes et la mise en place d'une surveillance des eaux souterraines.		
+2006	11	27		2006	11	27		Par_transmission	Par transmission du 27/11/2006, le Préfet à transmis à l'inspection, le dossier de récolement concernant la réhabilitation du site, qui lui a été transmis par la SEM.		'le Préfet', 'la SEM'
+2005	07	01		2005	09	05		une_excavation	- la zone 2 a fait l'objet d'une excavation de terres polluées du 01/07/2005 au 05/09/2005.		

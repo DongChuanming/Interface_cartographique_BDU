@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	05	07		2008	05	07		transmis	Les justificatifs transmis les 7 février 2008 et 7 mai 2008 permettent à la DRIRE de proposer la levée de l'arrêté de mise en demeure du 04 octobre 2007 (arrêté préfectoral de levée de mise en demeure du 07/08/2008).		'la DRIRE'
+								réaliser_les_travaux_prescrits	L'arrêté du 4 octobre 2007 met le mandataire judiciaire es-qualité, en demeure de réaliser les travaux prescrits sous 3 mois.		
+2006	04	05		2006	04	05		à_une_visite	Suite à une visite du 5 avril 2006 (plainte), un arrêté du 27 octobre 2006 a prescrit les mesures complémentaires de dépollution suivantes :		
+2005	10	17		2005	10	17		a_été_placée_en_liquidation_judiciaire	La SARL René Barbe a été placée en liquidation judiciaire le 17 octobre 2005.		
+2000	10	11		2000	10	11		à_des_plaintes_des_riverains	Suite à des plaintes des riverains le 11 octobre 2000 et à la visite de la DRIRE du 30 octobre 2000, l'arrêté préfectoral du 20 avril 2001 prescrit les travaux suivants:		'DRIRE'
+2004	01	08		2004	01	08		est_classé_en	Le site est classé en zone rouge du Plan de Prévention des Risques d'Inondation (PPRI) approuvé le 08 janvier 2004.		
+2002	09			2002	09			était_en_redressement_judiciaire	La Société était en redressement judiciaire depuis septembre 2002.		
+2000	10	30		2000	10	30		prescrit_les_travaux	Suite à des plaintes des riverains le 11 octobre 2000 et à la visite de la DRIRE du 30 octobre 2000, l'arrêté préfectoral du 20 avril 2001 prescrit les travaux suivants:		'DRIRE'
+2008	02	07		2008	02	07		transmis	Les justificatifs transmis les 7 février 2008 et 7 mai 2008 permettent à la DRIRE de proposer la levée de l'arrêté de mise en demeure du 04 octobre 2007 (arrêté préfectoral de levée de mise en demeure du 07/08/2008).		'la DRIRE'
+2005	10	17		2005	10	17		décide	Le Tribunal de Commerce de Pau décide le 17 octobre 2005 la liquidation de la SARL René BARBE.		'Le Tribunal de Commerce de Pau', 'la SARL René BARBE'

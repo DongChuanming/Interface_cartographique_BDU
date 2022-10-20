@@ -1,0 +1,38 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1859				1859				a_été_construite	Sur les vestiges d’un ancien laminoir contruit en 1820 lié à la fonderie du château de Castelnau, une papeterie a été construite en 1859.		
+2013	12	24		2013	12	24		Une_requête	Une requête présentée par la SCP SILVESTRI-BAUJET a été enregistrée le 24/12/2013 sous le numéro 1304617-2 auprès du tribunal administratif de Bordeaux.		'la SCP SILVESTRI', 'BAUJET', 'du tribunal administratif de Bordeaux'
+2015	01	22		2015	01	22		Par_transmission	Par transmission du 22 janvier 2015, la SCP a transmis à l’inspection un rapport d’ECOTOM (novembre 2014) sur le diagnostic de pollution du site Hexaform.		'la SCP', 'ECOTOM', 'Hexaform'
+2012	11	26		2012	11	26		a_répondu_favorablement	Par courrier du 26 novembre 2012, la mairie de Saint Michel de Castelnau a répondu favorablement à cette proposition.		
+2015	05	20		2015	05	20		La_visite_de_récolement	La visite de récolement du 20 mai 2015 constate que l'étude historique et documentaire a été réalisée avec la proposition d'investigations de terrain notamment au droit d'une ancien décharge interne ainsi qu'à proximité des anciens stockages de produits dangereux sur le site.	'produits dangereux'	
+1820				1820				contruit	Sur les vestiges d’un ancien laminoir contruit en 1820 lié à la fonderie du château de Castelnau, une papeterie a été construite en 1859.		
+2012	07	04		2012	07	04		les_courriers	La notification de cessation d’activité a été complétée par les courriers du 18/04/2012 et 04/07/2012.		
+2015	05	20		2015	05	20		a_été_constaté	Il a été constaté le 20 mai 2015, la mise en place :		
+2014	11			2014	11			un_rapport	Par transmission du 22 janvier 2015, la SCP a transmis à l’inspection un rapport d’ECOTOM (novembre 2014) sur le diagnostic de pollution du site Hexaform.		'la SCP', 'ECOTOM', 'Hexaform'
+2018	08	29		2018	08	29		__vente	- le 29/08/2018 : vente du site à l’association LA PAPET (anciennement association CIRKULEZ).		'LA PAPET', 'CIRKULEZ'
+2015	01	22		2015	01	22		un_rapport	Par transmission du 22 janvier 2015, la SCP a transmis à l’inspection un rapport d’ECOTOM (novembre 2014) sur le diagnostic de pollution du site Hexaform.		'la SCP', 'ECOTOM', 'Hexaform'
+2018	03	05		2018	03	05		L__inspection	L’inspection du 5 mars 2018 a permis de constater que le site Hexaform – anciennes papeterie du Ciron n’est pas mis en sécurité conformément à l’article R. 512-39-1 -II du code de l’Environnement.		'le site Hexaform'
+								aura_jusqu__à	Jusque dans les années 1970, cette entreprise aura jusqu’à six papeteries dont quatre sur le Ciron.		
+1991				1991				vend	En 1991, SAPSO vend cette usine à un groupe étranger qui arrête la production le 1er avril 1993.		
+2013	06	27		2013	06	27		Une_nouvelle_inspection	Une nouvelle inspection a été réalisée sur le site le 27/06/2013 pour faire le point sur la mise en sécurité du site.		
+2012	07	04		2012	07	04		La_notification_de_cessation_d__activité	La notification de cessation d’activité a été complétée par les courriers du 18/04/2012 et 04/07/2012.		
+2012	04	18		2012	04	18		La_notification_de_cessation_d__activité	La notification de cessation d’activité a été complétée par les courriers du 18/04/2012 et 04/07/2012.		
+1995	03	1		1995	03	1		redémarre	La société HEXAFORM redémarre la production le 1er mars 1995.		'La société HEXAFORM'
+2009	02	25		2009	02	25		ont_été_mises_à_jour	Les prescriptions techniques de fonctionnement ont été mises à jour par l'arrêté du 06/03/1998 puis par l'arrêté préfectoral complémentaire n° 14525/2 du 25/02/2009.		
+2012	01	04		2012	01	04		a_été_mise_en_liquidation_judiciaire	La société HEXAFORM-PAPETERIES DU CIRON a été mise en liquidation judiciaire le 04/01/2012 par jugement du tribunal de commerce de Bordeaux.		'La société HEXAFORM - PAPETERIES DU CIRON', 'de commerce de Bordeaux'
+2018	07	04		2018	07	04		a_été_transmis	Un rapport d'évaluation environnementale a été transmis le 4 juillet 2018.		
+2016	10	03		2016	10	03		a_eu_lieu	-Le 03/10/2016 : l'audience a eu lieu.		
+2018	08	29		2018	08	29		est_vendu_à	le 29/08/2018 : le site est vendu à l’association LA PAPET (anciennement association CIRKULEZ).		'LA PAPET', 'CIRKULEZ'
+2012	07	26		2012	07	26		une_visite_d__inspection	Dans le cadre de la cessation d'activité, une visite d'inspection a eu lieu sur le site le 26/07/2012.		
+2013	12	04		2013	12	04		2013_11_18___018_remis	Le rapport ECOTOM 2013/11/18-018 remis le 04/12/2013 propose, à partir des résultats d'analyses des eaux stockées dans les différents ouvrages de la station de :		
+1993	04	1		1993	04	1		arrête_la_production	En 1991, SAPSO vend cette usine à un groupe étranger qui arrête la production le 1er avril 1993.		
+1918				1918				entreprise_familiale_rejoint	Cette entreprise familiale rejoint en 1918 le groupe SAPSO.		'SAPSO'
+1993	04	1		1993	04	1		vend	En 1991, SAPSO vend cette usine à un groupe étranger qui arrête la production le 1er avril 1993.		
+2018	03	05		2018	03	05		Une_nouvelle_inspection	Une nouvelle inspection a eu lieu le 5 mars 2018.		
+								le_diagnostic_du_site	L'arrêté préfectoral du 07/11/2013 prescrit à la SCP SILVESTRI-BAUJET de réaliser sous 6 mois, le diagnostic du site et de proposer les mesures de gestion éventuelles, comportant notamment:		'la SCP SILVESTRI'
+2017	05	15		2017	05	15		modifiant_le_précèdent_arrêté	L'arrêté préfectoral du 29/11/2018 modifiant le précèdent arrêté du 15/05/2017 et notamment l'article 1 :		
+2017	02	24		2017	02	24		Une_Inspection_a_ensuite_eu_lieu	Une Inspection a ensuite eu lieu le 24 février 2017, après l'installation de l'association CICULEZ sur le site.		
+2012	11	21		2012	11	21		a_consulté	Par courrier du 21 novembre 2012, la SCP Silvestri-Baujet a consulté la mairie de Saint Michel de Castelnau sur l’usage futur du site en proposant de retenir un usage de type industriel.	'Silvestri'	'la SCP', '- Baujet'
+1998	03	06		1998	03	06		ont_été_mises_à_jour	Les prescriptions techniques de fonctionnement ont été mises à jour par l'arrêté préfectoral du 6 mars 1998.		
+2017	05	15		2017	05	15		a_été_mise_en_demeure_par	Suite au non respect de l'arrêté préfectoral complémentaire du 7 novembre 2013 la société HEXAFORM a été mise en demeure par l'arrêté du 15 mai 2017 pour respecter :		'la société HEXAFORM'
+1995	01	17		1995	01	17		L__exploitation	L'exploitation de la papeterie a été autorisée par l'arrêté préfectoral du 17 janvier 1995.		
+2012	04	18		2012	04	18		les_courriers	La notification de cessation d’activité a été complétée par les courriers du 18/04/2012 et 04/07/2012.		

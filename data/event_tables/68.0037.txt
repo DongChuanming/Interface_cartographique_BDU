@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				Les_travaux_de_dépollution	Les travaux de dépollution ont été entrepris en 2005 par la Communauté de Communes de la Vallée de Saint Amarin.		'la Communauté de Communes'
+2005				2005				les_travaux_de_dépollution_terminés	La Communauté de communes de la Vallée de saint-Amarin a pris en charge les travaux de dépollution terminés en 2005.		
+								a_été_signé	Un arrêté de mise en demeure a été signé le 08/08/97, resté sans effet, suivi d'un AP de consignation le 15/03/99.		
+1995	07			1995	07			avait_été_enlevé	Lorsque cessa l'activité en juillet 1995, seul le fioul avait été enlevé, l'article 34-1 du décret du 21/09/77 n'étant pas respecté.	'fioul'	

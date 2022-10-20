@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	04		2007	06	04		faisait_état	Par courrier du 4 juin 2007, Monsieur le Directeir Régional de la société KP1 faisait état du changement d'exploitant en lieu et place de la société LESPEAU & FILS.		'le Directeir Régional de la société KP1', 'la société LESPEAU & FILS'
+2011	06	23		2011	06	23		l__inspection	Suite à l'inspection du 23 juin 2011 et compte tenu l'évolution de l'établissement, de ses extensions successives ainsi que des modifications intervenues dans la nomenclature des Installations Classées, l'inspecteur a constaté que le site relève du régime de l'enregistrement.		
+2007				2007				ont_fait_l__objet_de	Les différentes activités du site ont fait l'objet de récépissés de déclaration entre 1977 et 1988, puis en 2007.		
+2012	07	03		2012	07	03		a_été_transmis	Un dossier a été transmis par l'exploitant le 3 juillet 2012.		
+1977				1988				ont_fait_l__objet_de	Les différentes activités du site ont fait l'objet de récépissés de déclaration entre 1977 et 1988, puis en 2007.		

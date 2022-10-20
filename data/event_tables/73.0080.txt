@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12			2003	12			a_sollicité	La commune de la Bâthie s'est proposée de mener à bien l'ESR et a sollicité le bureau d'études ANTEA, qui a remis son rapport définitif (ESR étape A, B et C), en décembre 2003.		"l' ESR", 'ANTEA'
+2004	07			2004	07			rapport_hydrogéologique	Un rapport hydrogéologique a été réalisé par un hydrogéologue, en juillet 2004 afin de valider le réseau des piézomètres existants.		
+2006	05	22		2006	05	22		a_rappelé	Dans un courrier du 22 mai 2006, le Préfet a rappelé les conditions de valorisation de tels déchets prévues par la circulaire du 9 mai 1994 relative à l'élimination des mâchefers d'incinération des résidus urbains.	'résidus urbains'	'le Préfet'
+1971	11	20		1971	11	20		a_commencé_à_être_exploitée	L'installation a commencé à être exploitée par le SIGEDBT le 20 novembre 1971.		'le SIGEDBT'
+1971	02	05		1971	02	05		a_fait_l__objet_d_	L'incinérateur, d'une petite capacité (inférieure à 1 T/h) a fait l'objet d'AP autorisant sa construction, les 22 février 1968 et 5 février 1971.		
+2009	12	03		2009	12	03		se_poursuit	La surveillance des eaux souterraines sur 3 piézomètres se poursuit et ne montre pas d'impact (dernière analyse en date du 03/12/2009).		
+2003	12			2003	12			s__est_proposée	La commune de la Bâthie s'est proposée de mener à bien l'ESR et a sollicité le bureau d'études ANTEA, qui a remis son rapport définitif (ESR étape A, B et C), en décembre 2003.		"l' ESR", 'ANTEA'
+2003	10	14		2003	10	14		de_la_campagne_de_hautes_eaux	A noter toutefois, un dépassement de certains seuils de la circulaire du 23 octobre 2012 lors de la campagne de hautes eaux du 14/10/2003 sur Pz1 et Pz2 en arsenic (27 µg/L), en nickel (30 µg/L) et en plomb (62 µg/L).	'arsenic', 'nickel', 'plomb'	
+1968	02	22		1968	02	22		autorisant_sa_construction	L'incinérateur, d'une petite capacité (inférieure à 1 T/h) a fait l'objet d'AP autorisant sa construction, les 22 février 1968 et 5 février 1971.		
+1971	02	05		1971	02	05		autorisant_sa_construction	L'incinérateur, d'une petite capacité (inférieure à 1 T/h) a fait l'objet d'AP autorisant sa construction, les 22 février 1968 et 5 février 1971.		
+1968	02	22		1968	02	22		a_fait_l__objet_d_	L'incinérateur, d'une petite capacité (inférieure à 1 T/h) a fait l'objet d'AP autorisant sa construction, les 22 février 1968 et 5 février 1971.		

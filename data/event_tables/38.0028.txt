@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	06			2008	06			a_été_détecté_qu__une_seule_fois	En aval hors site, il a été détecté qu'une seule fois en juin 2008 à 360 µg/L ;		
+1999	09	15		1999	09	15		mise_en_place	- débâchage 15/09/1999 --> 31/01/2000 pour mise en place		
+2006	01	27		2006	01	27		a_été_délivré	Le récépissé de déclaration de changement d'exploitant a été délivré le 27/01/2006 à la société RETIA.		'la société RETIA'
+2007	05			2007	05			ne_plus_être_détectée	Cette teneur a baissé jusqu'à ne plus être détectée en mai 2007.		
+2001	01	30		2001	01	30		a_été_transmise	Elle a été transmise le 30/01/2001.		
+2012	12	18		2012	12	18		de_la_réunion	Le compte rendu de la réunion du 18/12/2012 sur l'avancée du diagnostic approfondi, de l'évaluation quantitative des risques sanitaires (EQRS) et du plan de gestion indique :		
+1998	12	01		1998	12	01		L__étude_de_sol	L'étude de sol a été imposée par l'arrêté préfectoral n° 78.8366 du 01/12/1998.		
+2008	09			2008	09			la_campagne	- présence de chlorure de vinyle au droit de PZ2bis, jusqu'à 24,6 µg/L lors de la campagne de septembre 2008.	'chlorure de vinyle'	
+2008	11			2008	11			de_la_campagne	La moyenne sur l'ensemble des analyses réalisées depuis fin 2006, est de 15 µg/L. lors de la campagne de novembre 2008, la teneur en arsenic était de 21 µg/L ;	'arsenic'	
+1993				1993				Le_réaménagement_a_été_effectué	Le réaménagement a été effectué dans le cadre de la déviation de Brignoud en 1993.		
+2008	11			2008	11			de_la_campagne	Il a été de nouveau détecté lors de la campagne de novembre 2008 jusqu'à 23 µg/L.	'Il'	
+2009	03	25		2009	03	25		ont_transmis	Ces éléments ont transmis par l'exploitant le 25/03/2009 :		
+2011	07	07		2011	07	07		a_été_émis	L'arrêté préfectoral imposant des investigations complémentaires hors site a été émis le 07/07/2011.		
+2000	02	08		2000	02	08		__2ème_bâchage	- 2ème bâchage : 08/02/2000 ;		
+2008	10	23		2008	10	23		a_remis	La société CSD AZUR a remis sont rapport d'expertise à la DRIRE le 23/10/2008.		'La société CSD AZUR', 'la DRIRE'
+2011	07	07		2011	07	07		a_été_émis	L'arrêté préfectoral fixant les objectifs de réhabilitation et travaux sur site a été émis le 07/07/2011.		
+1999	09	09		1999	09	09		1er_bâchage	- 1er bâchage : 09/09/1999 ;		
+2008	02	14		2008	02	14		par_courrier_du	Le mémoire environnemental complémentaire a été transmis par courrier du 14/02/2008 à la Préfecture.		
+				2004	12			a_exploité	ATOFINA) a exploité jusqu'en décembre 2004 sur le site, une usine chimique qui fabriquait notamment du PVC, des produits dérivés du phosphore et, depuis début 2000, d'émulsions acryliques.	'PVC', 'produits dérivés du phosphore'	'ATOFINA )'
+2000	07	27		2000	07	27		a_été_transmis	Le diagnostic a été transmis à la DRIRE le 27/07/2000.		'la DRIRE'
+2007	01			2007	01			est_détecté	- l'arsenic est détecté au droit de Pz2bis jusqu'à 27 µg/L en janvier 2007.	'arsenic'	
+2006	09			2006	09			a_été_reprise	La surveillance a été reprise en septembre 2006 suite à l'arrêt des activités du site.		
+								la_remise_d__un_diagnostic	Suite à la découverte d'une pollution historique au mercure, un arrêté d'urgence n°99-62-73 du 30/08/1999 a imposé à l'exploitant la remise d'un diagnostic sous un délai de 6 mois à compter de cette date de notification (reporté à 10 mois par arrêté préfectoral n°2000.3939 du 08/06/2000) et un premier rapport d'étapes sous trois mois.	'mercure'	

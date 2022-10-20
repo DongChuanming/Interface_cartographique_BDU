@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				un_diagnostic_initial	EDF a réalisé en 2006 un diagnostic initial sur la base de la méthodologie nationale applicable en matière de sites et sols potentiellement pollués. il a ainsi détecté la présence de plusieurs sources de pollution avérées ou potentielles par des hydrocarbures.	'hydrocarbures'	
+1982				1982				a_été_autorisé_en_premier_lieu	L'établissement exploité par EDF sur le site de Jaary nord a été autorisé en premier lieu en 1982 pour la production d'énergie.		

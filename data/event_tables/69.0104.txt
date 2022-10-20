@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	13		2005	01	13		a_été_transmise	L’étape B de l’ESR a été transmise le 13 janvier 2005 et a confirmé les conclusions de l’étape A.		'l’ ESR'
+1998	06			1998	06			de_travaux_de_terrassement	Lors de travaux de terrassement en juin 1998 pour la construction d’un échangeur routier, des terres polluées ont été mises à jour sur des terrains ayant appartenu à BAYER CROPSCIENCE (ex Aventis cropscience et ex Rhône Poulenc Agro) et contigus au centre de la Dargoire.		'BAYER CROPSCIENCE', 'Aventis cropscience', 'Rhône Poulenc Agro'
+2000	01	20		2000	01	20		a_été_transmise	L'étape A de l'ESR a été transmise le 20/01/2000.		"l' ESR"
+1998	06	11		1998	06	11		enlevées_et_traitées_dans	Conformément à un arrêté préfectoral d’urgence du 11 juin 1998, les terres souillées (2500 m3) ont été intégralement enlevées et traitées dans un centre autorisé.		
+1998				1998				ont_été_mis_à_jour	Des dépôts anciens de produits agropharmaceutiques ont été mis à jour en 1998 à l’occasion de travaux de terrassement.		

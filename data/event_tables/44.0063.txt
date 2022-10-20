@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10	15		2009	10	15		La_cessation_définitive	La cessation définitive des activités de production sur ce site a été enregistré le 15/10/2009.		
+				2011	09	22		ont_été_transmis	Les 11 avril 2011, 22 septembre 2011 et 24 mai 2012, des compléments au mémoire de réhabilitation du site ont été transmis à l'inspecteur des installations classées.		
+								la_nuit_du	Le deuxième accident consiste en une fuite de lait écrémé dans le réseau d'eaux pluviales donnant dans le ruisseau "Pisse pré, pas d'Hin, pas Guillaume" dans la nuit du 3-4 janvier 2002.		
+2006	06	17		2006	06	17		a_été_autorisée_à_poursuivre_ses_activités	La société a été autorisée à poursuivre ses activités par arrêté préfectoral d'autorisation du 17/06/2006.		
+1965				1965				a_racheté	En 1965, l'Union Laitière Normande a racheté la société NEGOBEUREUF.		'Laitière Normande', 'la société NEGOBEUREUF'
+1992				1992				la_création	En 1992 a eu lieu la création de la Compagnie Laitière Européenne, l'usine fait alors partie de la filiale ELVIR.		'la Compagnie Laitière Européenne', 'la filiale ELVIR'
+2012	07	17		2012	07	17		a_été_établi	Un procès-verbal de récolement relatif à la mise à l'arrêt définitif de l'installation a été établi le 17/07/2012.		
+2011	11	17		2011	11	17		Lors_de_la_visite	Lors de la visite du site le 17 novembre 2011, l'inspecteur des installations classées a constaté des fissures au niveau du revêtement de surface de la zone de stockage des acides et bases ainsi que des dépôts de soude.	'stockage des acides', 'bases', 'soude'	
+2010	06	1		2010	06	1		transmis	- la remise en état correspond aux engagements pris par l'exploitant dans son dossier relatif à la cessation des activités transmis le 1er juin 2010 puis complété le 11 avril 2011, 22 septembre 2011 et 24 mai 2012,		
+1996				1996				a_été_créée	La filiale compagnie laitière de Derval a été créée en 1996.		'La filiale compagnie laitière de Derval'
+2012	05	24		2012	05	24		les_mesures_de_dépollution	Par courrier du 24 mai 2012, l'exploitant a transmis les mesures de dépollution mises en place dans la zone des cuves de stockage des acides et des bases.	'stockage des acides'	
+2011	04	11		2011	04	11		ont_été_transmis	Les 11 avril 2011, 22 septembre 2011 et 24 mai 2012, des compléments au mémoire de réhabilitation du site ont été transmis à l'inspecteur des installations classées.		
+1973				1973				La_construction_d_	La construction d'un Atelier de Fabrication de lait UHT a été effectué en 1973 pour un démarrage de la fabrication du lait UHT en 1979.		'lait UHT', 'UHT'
+2012	07	17		2012	07	17		a_procédé	Le 17 juillet 2012, l'inspecteur des installations classées a procédé à une visite de récolement.		
+1994				1994				ont_été_séparées	En 1994 les activités de collecte du lait (CLEPS) et de transformation (ELVIR) ont été séparées.		'ELVIR'
+2012	05	24		2012	05	24		ont_été_transmis	Les 11 avril 2011, 22 septembre 2011 et 24 mai 2012, des compléments au mémoire de réhabilitation du site ont été transmis à l'inspecteur des installations classées.		
+1986	04	02		1986	04	02		a_obtenu_ensuite_une_autorisation	Ce site a obtenu ensuite une autorisation avec enquête publique le 02/04/1986 au titre de la législation sur les installations classées.		
+1973	09	07		1973	09	07		__a_d__abord_appartenu	La laiterie de DERVAL  a d'abord appartenu à la société NEGOBEUREUF qui a acheté la laiterie de Derval en 1959 et fut l'objet d'un récépissé de déclaration le 07/09/1973.		'DERVAL', 'à la société NEGOBEUREUF', 'de Derval'
+				2002	01	04		la_nuit_du	Le deuxième accident consiste en une fuite de lait écrémé dans le réseau d'eaux pluviales donnant dans le ruisseau "Pisse pré, pas d'Hin, pas Guillaume" dans la nuit du 3-4 janvier 2002.		
+1959				1959				qui_a_acheté	La laiterie de DERVAL  a d'abord appartenu à la société NEGOBEUREUF qui a acheté la laiterie de Derval en 1959 et fut l'objet d'un récépissé de déclaration le 07/09/1973.		'DERVAL', 'à la société NEGOBEUREUF', 'de Derval'

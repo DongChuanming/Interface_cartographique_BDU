@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	08	24		2008	08	24		a_cessé_ses_activités	La société a cessé ses activités le 24 août 2008.		
+2009	09	29		2009	09	29		a_procédé_à_une_visite	L’inspection des installations classées a procédé à une visite du site le 29 septembre 2009.		
+2008	05	28		2008	05	28		une_visite_inopinée	Suite à une visite inopinée de l'inspection le 28 mai 2008, un arrêté de mise en demeure et un arrêté de mesure d'urgence ont été pris à l'encontre de la société en raison de concentrations trop importantes en zinc et fer dans les eaux industrielles résiduaires qui rejoignaient ensuite les eaux de la Vire.	'zinc', 'fer', 'les eaux industrielles résiduaires'	
+2008	07	22		2008	07	22		la_liquidation_judiciaire	En mars 2009, Maître HUILLE-HERAUD a informé la préfecture du Calvados de la liquidation judiciaire de la société AUVRAY, prononcée le 22 juillet 2008.		'Maître HUILLE - HERAUD', 'la préfecture du Calvados', 'la société AUVRAY'
+1925				1925				fondée	Cette société, fondée en 1925, était réglementée par la voie d’un arrêté préfectoral en date du 6 juillet 1988.		
+2008	05	28		2008	05	28		ont_été_pris	Suite à une visite inopinée de l'inspection le 28 mai 2008, un arrêté de mise en demeure et un arrêté de mesure d'urgence ont été pris à l'encontre de la société en raison de concentrations trop importantes en zinc et fer dans les eaux industrielles résiduaires qui rejoignaient ensuite les eaux de la Vire.	'zinc', 'fer', 'les eaux industrielles résiduaires'	
+1988	07	06		1988	07	06		était_réglementée	Cette société, fondée en 1925, était réglementée par la voie d’un arrêté préfectoral en date du 6 juillet 1988.		
+2009	03			2009	03			a_informé	En mars 2009, Maître HUILLE-HERAUD a informé la préfecture du Calvados de la liquidation judiciaire de la société AUVRAY, prononcée le 22 juillet 2008.		'Maître HUILLE - HERAUD', 'la préfecture du Calvados', 'la société AUVRAY'
+2013	2012			2013	2012			sont_programmées	Ces opérations sont programmées sur les années 2012/2013.		

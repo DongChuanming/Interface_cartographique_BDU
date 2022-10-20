@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03			2013	03			analyses_piézométriques	Rapport des analyses piézométriques de mars 2013 :		
+2006				2006				ont_été_changés	Les produits utilisés ont été changés en 2006 et en 2008.		
+2005	07			2005	07			a_fait_extraire	En réponse, l'exploitant a fait extraire 15 tonnes de terres souillées en juillet 2005 qui ont été mises en décharge de classe 1.		
+2004	01			2004	01			a_été_remise	L'étape A a été remise en janvier 2004 et l'étape B le 7 juillet 2005.		
+2011	02	11		2011	02	11		Un_incendie_a_été_déclaré	Un incendie a été déclaré le 11 février 2011 sur le site.		
+2008				2008				ont_été_changés	Les produits utilisés ont été changés en 2006 et en 2008.		
+2009	11			2009	11			n__ont_plus_été_analysés	Le TCMTB et carbendazime n'ont plus été analysés à partir de novembre 2009, car ces substances n'ont pas été détectées.	'Le TCMTB', 'carbendazime'	
+2005	09	07		2005	09	07		a_été_créé	Un troisième puits de contrôle PZ3 a été créé suite une visite d'inspection du 07 septembre 2005.		
+2005	09	07		2005	09	07		une_visite_d__inspection	Un troisième puits de contrôle PZ3 a été créé suite une visite d'inspection du 07 septembre 2005.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	02	17		2006	02	17		Une_campagne_de_prélèvements_a_été_réalisée	Une campagne de prélèvements a été réalisée le 17 février 2006, le programme analytique a porté sur le plomb, le cadmium, le chrome, le zinc, le nickel, le cuivre, le cobalt et le chrome hexavalent.	'plomb', 'le cadmium', 'le chrome', 'le zinc', 'nickel', 'cuivre', 'cobalt', 'chrome hexavalent'	
+2013				2013				réalisé	Le rapport de surveillance de la qualité des eaux souterraines réalisé en 2013 montre que :		
+2009	11	03		2009	11	03		soumet	L'arrêté préfectoral (AP) du 08 mars 2006, complété par les AP du 3 novembre 2009 et du 30 octobre 2014, soumet la société à effectuer une autosurveillance de ses rejets atmosphériques, du bruit,des eaux superficielles (Zorn) et des eaux souterraines.		
+				2014	10	30		soumet	L'arrêté préfectoral (AP) du 08 mars 2006, complété par les AP du 3 novembre 2009 et du 30 octobre 2014, soumet la société à effectuer une autosurveillance de ses rejets atmosphériques, du bruit,des eaux superficielles (Zorn) et des eaux souterraines.		

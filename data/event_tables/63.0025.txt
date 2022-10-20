@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	02			2002	02			de_la_visite_effectuée	Lors de la visite effectuée en février 2002, il a été constaté que des fûts étaient renversés et que des produits s'étaient répandus non seulement sur le parking de l'entreprise mais également dans les terrains en terre battue, proches du parking.	'produits'	
+1952				1952				devient	Créé en 1948 en région parisienne, l'établissement Jacquemain et Feuillard devient en 1952 la société Lavoilotte, spécialisée dans la fabrication de ressorts et le découpage.		'la société Lavoilotte'
+2008				2008				L__étude_de_sol	L'étude de sol a été réalisée en 2008, elle fait apparaitre une pollution par le trichloroéthylène, il convient d'implanter un autre piézomètre et de poursuivre l'étude de caractérisation demandée.	'trichloroéthylène'	
+2002	07	03		2002	07	03		a_été_signé	Uu arrêté de mise en demeure a été signé le 3 juillet 2002  à l'encontre du liquidateur pour faire réaliser une étude des sols.		
+1948				1948				Créé	Créé en 1948 en région parisienne, l'établissement Jacquemain et Feuillard devient en 1952 la société Lavoilotte, spécialisée dans la fabrication de ressorts et le découpage.		'la société Lavoilotte'
+2003	08	20		2003	08	20		a_été_signé	Un arrêté de consignation a été signé le 20/08/2003 afin d'obliger le liquidateur à faire consigner entre les mains d'un comptable public, une somme nécessaire à la réalisation d'une étude de sols.		
+2008	08	20		2008	08	20		a_été_signé	Un arrêté de restitution de sommes consignées a été signé le 20 août 2008.		
+1989				1989				a_été_rachetée	Cette entreprise, qui a compté jusqu'à 70 employés, a été rachetée en 1989 par le groupe Bourin, actuel propriétaire du site.		'le groupe Bourin'
+1964				1964				est_transférée	En 1964, elle est transférée à Montaigut en Combraille(63) et se spécialise dans la production de pièces métalliques à partir de fils et feuillards, dans des bâtiments ayant autrefois abrité des abattoirs.		

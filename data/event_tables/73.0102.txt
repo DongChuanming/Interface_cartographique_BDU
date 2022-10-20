@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	15		2007	06	15		il_a_été_demandé	Par courrier du 15 juin 2007, il a été demandé en parallèle à l'exploitant de réaliser une étude de sol sur tout le site de la société.		
+1996				1996				ont_été_découvertes	Dans le cadre de l'aménagement de la zone de réception en 1996, cinq carcasses de fûts vides ont été découvertes.		
+2006	10			2006	10			a_été_mise_en_place	Une rétention a été mise en place sous la bande convoyeuse en octobre 2006.		
+2006	10			2006	10			une_résurgence	Suite à une résurgence d'hydrocarbures dans les eaux du Tiers en octobre 2006, des investigations ont été réalisées entre octobre 2006 et janvier 2007.	'hydrocarbures'	
+2012	12	17		2012	12	17		Un_rapport	- Un rapport du 17/12/2012 sur la surveillance de la qualité des eaux souterraines pour l'année 2012, montre que la situation est stable.		
+2006	10			2006	10			des_investigations	Suite à une résurgence d'hydrocarbures dans les eaux du Tiers en octobre 2006, des investigations ont été réalisées entre octobre 2006 et janvier 2007.	'hydrocarbures'	
+2007	12			2007	12			n__est_plus_utilisé	Le réseau de récupération des huiles usées n'est plus utilisé et condamné depuis décembre 2007.		
+1996				1996				l__aménagement	Dans le cadre de l'aménagement de la zone de réception en 1996, cinq carcasses de fûts vides ont été découvertes.		
+2012				2012				Un_rapport	- Un rapport du 17/12/2012 sur la surveillance de la qualité des eaux souterraines pour l'année 2012, montre que la situation est stable.		

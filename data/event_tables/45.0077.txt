@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								PARC_a_confirmé_à_l__inspection_avoir	Par courrier du 23 novembre 2011, LES TERRASSES DU PARC a confirmé à l’inspection avoir extrait et évacué les trois cuves en novembre et décembre 2008, suite à la démolition des bâtiments présents sur le site de DISVAL.		'novembre 2011 , LES TERRASSES DU', 'trois cuves en novembre'
+2012				2012				Le_rapport_de_diagnostic_de_pollution	Le rapport de diagnostic de pollution remis à la CCL le 26 janvier 2012 a montré que le terrain présentait d’importantes traces de pollution aux métaux lourds, aux hydrocarbures et aux composés volatils BTEX (Benzène, Toluène, Éthylbenzène et Xylènes).		'remis à la CCL le 26 janvier 2012'
+2007	10	25		2007	10	25		a_été_vendu	Le 25 octobre 2007, le site a été vendu à la société LES TERRASSES DU PARC, qui l’a par la suite démantelé.		'le site'
+2015				2015				été_évacué___palettes_en_bois___débris_métalliques	Le 28 juillet 2015, l'inspection a constaté, à l'occasion d'un contrôle visuel du site, que l'ensemble des déchets n'avait pas été évacué (palettes en bois, débris métalliques éparses...).		"constaté , à l' occasion d' un contrôle"
+2011	01	05		2011	01	05		fusionné_avec	Le 5 janvier 2011, DISVAL a fusionné avec CODIFRANCE.		'avec CODIFRANCE .'

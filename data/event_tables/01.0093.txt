@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957				1992				a_exploité	Entre 1957 et 1992, la DDE de l’Ain a exploité le site Saint Roch (chemin d’Eternaz à Bourg-en-Bresse) pour ses activités de goudronnage.		'la DDE'
+2008	11	24		2008	11	24		une_réunion_de_travail	Au préalable, une réunion de travail entre DRIRE, DDE et CETE s'est tenue le 24 novembre 2008.		'DRIRE , DDE et CETE'
+1992				1992				ont_été_transférés	L’activité et l’installation des liants bitumineux ont été transférés en 1992 sur le site de la Chambière (Viriat).	'bitumineux'	
+2008	04	18		2008	04	18		une_nouvelle_version	Suite à la réunion du 18 avril 2008, la DDE a transmis à monsieur le préfet de l'Ain une nouvelle version du diagnostic environnemental.		'la DDE', 'le préfet'
+2008	12	12		2008	12	12		a_transmis	Par courrier du 12 décembre 2008, le directeur départemental de l'équipement a transmis le dossier de fin de travaux concernant la déconstruction de l'usine du parc Saint Roch.		'le directeur départemental'
+1981	07	17		1981	07	17		l__exploitation	D’un point de vue administratif, l’exploitation de ce site était réglementée par une arrêté préfectoral du 17 juillet 1981.		
+1992				1992				sont_la_propriété_du	Depuis 1992, les terrains sont la propriété du conseil général de l’Ain.		
+2007	04	12		2007	04	12		une_demande	Ce dossier de cessation d'activité a fait l'objet d'une demande de compléments de la DRIRE, formulée dans son rapport du 12 avril 2007.		'la DRIRE'
+2007	02	13		2007	02	13		a_transmis	Par courrier du 13 février 2007, le directeur départemental de l’équipement a transmis à monsieur le préfet un rapport établi par le CETE de Lyon afin d’engager la démarche de cessation d’activité du parc à goudrons Saint Roch.		'le directeur départemental', 'le préfet', 'le CETE de Lyon', 'goudrons Saint Roch'
+1975				1975				est_plus_en_activité	L’installation de goudrons n'est plus en activité depuis 1975.	'goudrons'	
+2009	06	11		2009	06	11		a_demandé_par_courrier	** Monsieur le préfet de l’Ain a demandé par courrier du 11 juin 2009 à monsieur le directeur départemental de l’équipement des compléments au dossier de fin de travaux afin de conclure sur la recevabilité des travaux de réhabilitation du site, compte tenu de l'usage envisagé.		'le préfet', 'le directeur départemental'
+2008	04	18		2008	04	18		une_réunion	Le diagnostic environnemental a été notamment présenté lors d'une réunion entre DDE et DRIRE, le 18 avril 2008, réunion au cours de laquelle l'inspection des installations classées a formulé un certain nombre de remarques, portant sur les points suivants :		'DDE', 'DRIRE'
+2008	04	18		2008	04	18		à_la_réunion	Suite à la réunion du 18 avril 2008, la DDE a transmis à monsieur le préfet de l'Ain une nouvelle version du diagnostic environnemental.		'la DDE', 'le préfet'

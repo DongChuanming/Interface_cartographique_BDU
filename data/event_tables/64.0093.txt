@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	10	20		2005	10	20		a_été_remise	L'ESR a été remise le 20 octobre 2005.		
+2004	07	22		2004	07	22		est_survenu	Une fuite sur la tuyauterie d'aspiration de SP98 est survenu le 22 juillet 2004 et a conduit à des travaux et un diagnostic (voir 1- MISE EN SÉCURITÉ et 2- DIAGNOSTICS).	'SP98'	'SÉCURITÉ'
+2008	04	28		2008	04	28		a_été_neutralisé_dans	Le piézomètre PZ6 a été neutralisé dans les règles de l'art le 28 avril 2008 et le piézomètre PZ3 en juin 2009.		
+2004				2004				la_fuite_de_canalisation_détectée	Suite à la fuite de canalisation détectée en 2004, l'exploitant prend l'initiative de réaliser un diagnostic environnemental et le suivi de la qualité des eaux souterraines.		
+				2004	08	03		Ce_diagnostic_environnemental	Ce diagnostic environnemental est effectué du 1er au 3 août 2004.		
+2005	03	02		2005	03	02		prescrit_la_réalisation_d__un_pré_diagnostic	Suite aux résultats de la campagne d'analyse des eaux souterraines réalisée par la société AMDE le 2 mars 2005, l'arrêté préfectoral du 08 décembre 2005 prescrit la réalisation d'un pré-diagnostic, l'étude des sols et l’Évaluation Simplifiée des Risques (ESR) du site.		'la société AMDE'
+2009	10	15		2009	10	15		une_explosion_intervient	Le 15 octobre 2009, une explosion intervient lors du découpage de cuves.		
+				2009	12			ont_été_évacuées	Les terres polluées (255 tonnes) ont été évacuées lors de travaux de modernisation entre octobre et décembre 2009 vers le centre de traitement spécialisé Occitanis à Graulhet (81).		'Occitanis'
+2005	03	02		2005	03	02		la_campagne_d__analyse	Suite aux résultats de la campagne d'analyse des eaux souterraines réalisée par la société AMDE le 2 mars 2005, l'arrêté préfectoral du 08 décembre 2005 prescrit la réalisation d'un pré-diagnostic, l'étude des sols et l’Évaluation Simplifiée des Risques (ESR) du site.		'la société AMDE'
+2004				2004				prend_l__initiative	Suite à la fuite de canalisation détectée en 2004, l'exploitant prend l'initiative de réaliser un diagnostic environnemental et le suivi de la qualité des eaux souterraines.		
+2004	07	22		2004	07	22		Le_suivi_du_remplacement_de	Le suivi du remplacement de la tuyauterie du 22 juillet 2004 a permis de vérifier l'absence de pollution sous forme adsorbée le long de la canalisation de SP98.	'SP98'	
+2008	06	26		2008	06	26		est_délivré	Le 26 juin 2008, un récépissé de déclaration est délivré pour le stockage de liquides inflammables dans :	'liquides inflammables'	

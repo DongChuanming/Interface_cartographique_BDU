@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	06		2004	09	06		a_été_remise	L’étude correspondante a été remise le 6 septembre 2004, suivie d'un rapport sur l'excavation de terres polluées du 17 janvier 2005 et d'un diagnostic de sols complémentaire du 3 février 2005.		
+2005	02	03		2005	02	03		un_diagnostic_de_sols	L’étude correspondante a été remise le 6 septembre 2004, suivie d'un rapport sur l'excavation de terres polluées du 17 janvier 2005 et d'un diagnostic de sols complémentaire du 3 février 2005.		
+				2013				a_été_pratiquée	La surveillance des eaux souterraines a été pratiquée jusqu'en 2013 au travers de 10 piézomètres, (3 amont, 3 latéraux et 4 aval), puis au travers de 6 piézomètres suite à la destruction et à l'ensablement des précédents (2 amont et 4 aval).		
+2004				2004				ont_été_excavées	Les installations sont entièrement démantelées et les terres polluées ont été excavées en 2004.		
+2003	04	30		2003	04	30		une_évaluation_détaillée_des_risques	Sur proposition de la DRIRE, un arrêté du 3 août 2001 a demandé à l’exploitant de réaliser un diagnostic approfondi du site et une évaluation détaillée des risques a donc été prescrite le 30 avril 2003 par le Préfet.		'la DRIRE', 'le Préfet'
+2008	08	1		2008	08	1		ont_été_pris	Suite à la destruction des 4 piézomètres aval due à l'ouverture d'un chantier de destruction de traverses de chemin de fer par la SNCF, deux arrêtés préfectoraux ont été pris le 1er août 2008 pour imposer à l'exploitant le comblement des piézomètres détruits et leur remplacement par des ouvrages équivalents.		'la SNCF'
+2009				2009				ont_été_remplacés	Ces ouvrages ont été remplacés début 2009.		
+2004				2004				sont_entièrement_démantelées	Les installations sont entièrement démantelées et les terres polluées ont été excavées en 2004.		
+2001				2001				ont_été_remis	Des compléments d’étude ont été remis en 2001.		
+2005	01	17		2005	01	17		l__excavation	L’étude correspondante a été remise le 6 septembre 2004, suivie d'un rapport sur l'excavation de terres polluées du 17 janvier 2005 et d'un diagnostic de sols complémentaire du 3 février 2005.		
+2013	09			2013	09			de_la_campagne	D'après les derniers résultats de la surveillance des eaux souterraines de la campagne de septembre 2013, la situation s'est améliorée (si ce n'est la présence de Manganèse en amont et en aval), d'où la réponse favorable de l'inspection des installations classées en date du 17 février 2014 pour l'arrêt de cette surveillance.	'Manganèse'	
+1967				1967				a_accueilli	Le site a accueilli depuis 1967 un dépôt de fuel oil domestique en 5 réservoirs représentant un volume de 3000 m3.	'fuel oil'	

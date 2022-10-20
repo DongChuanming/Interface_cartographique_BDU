@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01			2001	01			installé	Le réseau de contrôle de la qualité des eaux souterraines est assuré par 12 piézomètres (P1 à P12) depuis janvier 1996 et d'un treizième installé en janvier 2001.		
+								a_été_transmise	Une étude de sols (évaluation simplifiée des risques) a été transmise à l'administration le 12/11/97.		
+				1997				a_appartenu_au	Cette  Société a appartenu au groupe Péchiney jusqu'en fin 1997.		'au groupe Péchiney'

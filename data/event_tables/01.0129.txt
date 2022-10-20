@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	09	17		2018	09	17		Des_travaux_de_dépollution	Des travaux de dépollution des zones dont les sols & gaz du sol présentent un impact significatif en PCE ont été imposés à l'exploitant par arrêté préfectoral complémentaire du 17 septembre 2018.		
+2000	02	11		2000	02	11		a_été_autorisée_à_cet_effet	Elle a été autorisée à cet effet par arrêté préfectoral du 11 février 2000.		
+2017	09			2017	09			la_cessation	La société a notifié à monsieur le préfet de l’Ain en septembre 2017 la cessation d’activité de production pour le site à compter du 22 décembre 2017.		'La société', 'le préfet'

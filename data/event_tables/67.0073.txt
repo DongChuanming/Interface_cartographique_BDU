@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	01			2002	01			ont_été_mis_à_l__arrêt	Les équipements de dépollution actifs ont été mis à l'arrêt en janvier 2002.		
+2001	02	13		2001	02	13		L__étude_remise	L'étude remise le 13/02/2001 a mis en évidence la faible vulnérabilité du site et de son environnement.		
+				2000	12	01		a_connu_deux_incidents	Cette station service a connu deux incidents graves consécutifs, le 23 novembre et le 1 décembre 2000, entrainant la fuite de près de 20 000 litres de SP95 sur l'aire de distribution et ses abords.	'SP95'	
+								a_connu_deux_incidents	Cette station service a connu deux incidents graves consécutifs, le 23 novembre et le 1 décembre 2000, entrainant la fuite de près de 20 000 litres de SP95 sur l'aire de distribution et ses abords.	'SP95'	

@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	05	22		2001	05	22		a_constaté	Suite à une visite, le 22/05/2001, l'inspection des installations classées a constaté des conditions d'exploitation des installations non satisfaisantes et pouvant conduire à une pollution de la nappe.		
+2001	04	22		2001	04	22		reçue	Une réponse, reçue le 22/04/2001, a été examinée et a fait l'objet d'un courrier en date du 19/06/2001 indiquant les observations de l'inspection des installations classées sur les compléments fournis.		
+2001	10	29		2001	10	29		a_été_signé	Cet arrêté a été signé le 29/10/2001.		
+1999	05	03		1999	05	03		a_dressé_procès_verbal	N'ayant toujours pas reçu ces études le 3 mai 1999, l'inspection des installations classées a dressé procès-verbal et a proposé un arrêté préfectoral de mise en demeure qui a été signé le 14 mai 1999.		
+1999	05	14		1999	05	14		a_dressé_procès_verbal	N'ayant toujours pas reçu ces études le 3 mai 1999, l'inspection des installations classées a dressé procès-verbal et a proposé un arrêté préfectoral de mise en demeure qui a été signé le 14 mai 1999.		
+2001	03	22		2001	03	22		a_été_demandé_par_courrier	Un complément a été demandé par courrier du 22/03/2001.		
+2005	03			2005	03			ont_été_reçus	Les résultats d'analyses et compléments demandés relatifs à la qualité des sédiments du ruisseau ont été reçus en mars 2005.		
+2001	12			2001	12			ont_été_transmis	Les résultats des analyses des eaux souterraines ont été transmis pour juillet 2001, décembre 2001, janvier 2003 (résultats donnés avec réserve étant donné que les échantillons ont été fournis au laboratoire un mois après prélèvement) et octobre 2004.		
+2003	01			2003	01			ont_été_transmis	Les résultats des analyses des eaux souterraines ont été transmis pour juillet 2001, décembre 2001, janvier 2003 (résultats donnés avec réserve étant donné que les échantillons ont été fournis au laboratoire un mois après prélèvement) et octobre 2004.		
+2007				2007				a_été_relancé	Il a été relancé sur le sujet suite à la dernière visite d'inspection et certains résultats ont été communiqués en 2007.		
+2001	07			2001	07			ont_été_transmis	Les résultats des analyses des eaux souterraines ont été transmis pour juillet 2001, décembre 2001, janvier 2003 (résultats donnés avec réserve étant donné que les échantillons ont été fournis au laboratoire un mois après prélèvement) et octobre 2004.		
+1999	05	14		1999	05	14		a_été_signé	N'ayant toujours pas reçu ces études le 3 mai 1999, l'inspection des installations classées a dressé procès-verbal et a proposé un arrêté préfectoral de mise en demeure qui a été signé le 14 mai 1999.		
+								ont_été_remises	La phase B du diagnostic initial et l'évaluation simplifiée des risques ont été remises dans le courant du 1er trimestre 2001.		
+1998	05	14		1998	05	14		Le_diagnostic_initial_et_l__évaluation_simplifiée_des_risques	Le diagnostic initial et l'évaluation simplifiée des risques ont été demandés par arrêté préfectoral en date du 14/05/1998.		
+2000	03	01		2000	03	01		une_commande	La phase B du diagnostic initial et l'évaluation simplifiée des risques ont fait l'objet d'une commande par l'industriel auprès du bureau d'études, suite à la demande formulée par l'inspection des installations classées le 01/03/2000.		
+2001				2001				ont_été_remises	La phase B du diagnostic initial et l'évaluation simplifiée des risques ont été remises dans le courant du 1er trimestre 2001.		
+1999	07	21		1999	07	21		Le_diagnostic_initial_réalisé	Le diagnostic initial réalisé par le cabinet LISEC a été reçu le 21/07/1999.		'le cabinet LISEC'
+2007				2007				ont_été_communiqués	Il a été relancé sur le sujet suite à la dernière visite d'inspection et certains résultats ont été communiqués en 2007.		

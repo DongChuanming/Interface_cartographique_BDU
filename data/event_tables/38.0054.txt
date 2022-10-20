@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	03		2000	04	03		Le_diagnostic_initial_de_l__état_des_sols	Le diagnostic initial de l'état des sols a été réalisé par le bureau d'étude ATE en date du 03/04/2000.		
+1960				1960				de	- Fabrication de carbure de calcium (de 1902 à 1912 puis de 1931 à 1960) ;	'carbure', 'de calcium'	
+1999				1999				ont_été_démantelées	Aucune activité  n’existe sur le site actuellement et toutes les installations ont été démantelées en 1999 sauf un bâtiment utilisé auparavant comme magasin.		
+				2006	05	22		a_été_observée	Une contamination en Aluminium et en Manganèse a été observée jusqu'au 22/05/2006 avec une concentration maximale respective de 16 400 µg/l et de 2 440 µg/l le 07/12/2005.	'Aluminium', 'Manganèse'	
+								L__étude_des_sols	L’étude des sols a été imposée par l’Arrêté Préfectoral du 01/12/98.		
+2004	04	09		2004	04	09		a_été_remise	La nouvel ESR a été remise à l'admuinistration en date du 09/04/2004.		
+1824				1824				a_démarré	Le site, sur lequel l'activité a démarré vers 1824, a connu plusieurs types d’activités :		
+2000	10			2000	10			a_été_rédigé	L'ESR correspondant a cette étude a été rédigé au mois d'octobre 2000.		
+2005	12	07		2005	12	07		a_été_observée	Une contamination en Aluminium et en Manganèse a été observée jusqu'au 22/05/2006 avec une concentration maximale respective de 16 400 µg/l et de 2 440 µg/l le 07/12/2005.	'Aluminium', 'Manganèse'	
+2020				2020				La_construction_d_	La construction d'un nouvel ouvrage devrait voir le jour à l'horizon 2020.		
+1931				1931				de	- Fabrication de carbure de calcium (de 1902 à 1912 puis de 1931 à 1960) ;	'carbure', 'de calcium'	
+2005	06	20		2005	06	20		est_en_place	Une surveillance semestrielle de la qualité des eaux superficielles et souterraines est en place depuis le 20/06/2005. 16 campagnes ont à ce jour été réalisées.		

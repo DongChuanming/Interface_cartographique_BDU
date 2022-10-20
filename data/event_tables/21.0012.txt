@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2000	09			les_travaux_de_dépollution	C'est pour cette raison que les travaux de dépollution des sols ont été réalisés de mars à septembre 2000.		
+1999	04			1999	04			établies	Les conclusions établies en avril 1999 concluaient à l'absence de risque de pollution de la nappe.		
+1990				1990				a_cessé_son_activité	Elle a cessé son activité en 1990.		
+1996	08			1996	08			un_acte_de_vandalisme	Ce transformateur a fait l'objet d'un acte de vandalisme en août 1996.		

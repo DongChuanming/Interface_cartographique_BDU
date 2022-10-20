@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957	01	16		1957	01	16		à_ce_titre_d__une_autorisation	Elle bénéficiait à ce titre d'une autorisation ministérielle du 16 janvier 1957 en application de la loi du 19 décembre 1917.		
+2007	05			2007	05			un_diagnostic	la SNCF a fait réaliser en mai 2007 un diagnostic de l'état des sols au droit de la station service, qui a mis en évidence une pollution aux hydrocarbures au droit des cuves.	'hydrocarbures'	
+2002				2002				avait_été_démantelé	L'atelier de maintenance n'était plus en activité depuis la fin des années 1980 et avait été démantelé en 2002.		
+2006				2006				a_définitivement_cessé	Le site, en activité depuis la fin du XIXème siècle, a définitivement cessé son activité en 2006.		
+2007	10			2007	10			un_diagnostic	-à faire réaliser en octobre 2007 un diagnostic de l'état des sols sur l'ensemble du site et qui a mis en évidence plusieurs zones polluées par des hydrocarbures	'des hydrocarbures'	
+								n__était_plus_en_activité	L'atelier de maintenance n'était plus en activité depuis la fin des années 1980 et avait été démantelé en 2002.		

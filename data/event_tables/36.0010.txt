@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	03	23		2001	03	23		ne_étude_complémentaire_remise	ne étude complémentaire remise le 23 mars 2001 évalue le volume des terres à 18 m3.		
+2002	02	05		2002	02	05		L__évacuation_des_terres_polluées	L'évacuation des terres polluées (14 t) vers le CET1 exploité par France Déchets à Villeparisis a eu lieu le 05 février 2002.		'France Déchets'
+1999	11			1999	11			une_demande_de_décapage	En novembre 1999, une demande de décapage et d'élimination des terres contaminées, en surface et en profondeur, a été formulée auprès de l'industriel avec justification de l'absence résiduelle de pollution.		
+2004	07	26		2004	07	26		a_été_délivré	Un récépissé de cessation d'activité a été délivré le 26 juillet 2004.		

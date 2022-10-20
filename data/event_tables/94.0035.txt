@@ -1,9 +1,11 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-2000	01	24		2000	01	24			Demande	arrêté_préfectoral							
-2000	06			2000	06				un_diagnostic_pollution								
-2002	07			2002	07				vendu								
-2003	07			2003	07				Nettoyage_du_site			réalisé					
-2003	12	19		2003	12	19			demandant	propriétaire							
-2004				2004					ont_été_éliminés	Les_derniers_déchets							
-2002	07			2002	07				a_été_vendu	Le_terrain							
-2007				2007					devraient_démarrer								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	07			2002	07			Terrain_vendu	- Terrain vendu en juillet 2002 en vue d'une nouvelle activité industrielle.		
+								documents_complétés	- La société Paris-Log a en octobre 2004 une version partielle du diagnostic complémentaire et de l'évaluation détaillée des risques, puis le 1/06/05 ces documents complétés ainsi qu'un plan de réhabilitation qu’elle s’engageait à réaliser.		'La société Paris - Log'
+2002	07			2002	07			a_été_vendu	- Le terrain a été vendu en juillet 2002 à la société Paris-Log, dont le gérant est M.		'la société Paris -'
+				1998				a_exercé	Sur un terrain d'environ 2 ha, la Société VULCAIN INDUSTRIE a exercé sur ce site une activité de travail mécanique des métaux (ICPE soumise à autorisation) jusqu'en 1998, date à laquelle une procédure de redressement judiciaire suivie d'un plan de cession a abouti à une cessation des activités.		'la Société VULCAIN INDUSTRIE'
+2007				2007				les_opérations_de_dépollution	A ce jour, le réseau de "sparging" et "venting" est installé et les opérations de dépollution devraient démarrer au dernier trimesre 2007.		
+2004				2004				ont_été_éliminés	- Les derniers déchets ont été éliminés début 2004.		
+2005	07	20		2005	07	20		__la_dépollution	- Sur cette base, l'arrêté préfectoral du 20/07/2005 demande à la société ParisLog,la dépollution du site et la surveillance des eaux souterraines.		'la société ParisLog'
+1998	08			1998	08			Cessation_des_activités	- Cessation des activités sur le site en août 1998 suite au redressement judiciaire et au plan de cession.		
+2003	07			2003	07			Nettoyage	- Nettoyage du site réalisé en juillet 2003 en vue de la démolition des bâtiments ; restaient alors sur le site les déchets issus de ce nettoyage collectés dans des conteneurs en attente d'élimination ainsi que des condensateurs PCB (dans des boitiers inaccessibles).	'PCB'	
+2000	06			2000	06			d__un_diagnostic_pollution	- Entre temps, fourniture par le propriétaire d'un diagnostic pollution en juin 2000 indiquant une pollution du sol et de la nappe par hydrocarbures et solvants halogénés.	'hydrocarbures', 'halogénés'	

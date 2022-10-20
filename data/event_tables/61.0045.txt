@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				est_mise_en_liquidation_judiciaire	La société CFFC PAMCO est mise en liquidation judiciaire en 2009, le terrain et certaines installations sont rachetés par la société Focast Normandie.		'La société CFFC PAMCO', 'la société Focast Normandie'
+2005				2005				Des_campagnes_de_surveillance	Des campagnes de surveillance ont été réalisées en 2002, 2005 et 2008 pour le sol, les eaux souterraines et les végétaux.		
+1990				1990				à_la	Suite à une plainte déposée par un riverain à la fin des année 1990, un dossier à été réalisé pour déterminer la pertinence d'un dépistage du saturnisme en 2000.		
+1990				1990				à_été_réalisé	Suite à une plainte déposée par un riverain à la fin des année 1990, un dossier à été réalisé pour déterminer la pertinence d'un dépistage du saturnisme en 2000.		
+2008				2008				Des_campagnes_de_surveillance	Des campagnes de surveillance ont été réalisées en 2002, 2005 et 2008 pour le sol, les eaux souterraines et les végétaux.		
+2012	05			2012	05			de_la_dernière_visite	Lors de la dernière visite sur le site en mai 2012, la présence de déchets a été observée sur le site : des bidons d'hydrocarbures, des dépôts de cendres de fonderie, des déchets de fonderies, des casiers de bouteilles d'oxygènes, d'azote et une cuve de peinture.	"bidons d' hydrocarbures", 'cendres de fonderie', 'des déchets de fonderies', "bouteilles d'", 'azote', 'de peinture'	
+2002				2002				Des_campagnes_de_surveillance	Des campagnes de surveillance ont été réalisées en 2002, 2005 et 2008 pour le sol, les eaux souterraines et les végétaux.		
+2012	03			2012	03			a_été_pris	Un arrêté préfectoral de mise en demeure a été pris en mars 2012 pour mettre en sécurité le site.		
+2000				2000				à_été_réalisé	Suite à une plainte déposée par un riverain à la fin des année 1990, un dossier à été réalisé pour déterminer la pertinence d'un dépistage du saturnisme en 2000.		
+1920				1980				se_sont_se_succédés	Entre 1920 et 1980, plusieurs propriétaires se sont se succédés, les fonderies et ateliers d'usinage de Pontchardon (FAP), la société des fonderies de Randonnai et PAMCO.		'la société des fonderies de Randonnai', 'PAMCO'
+2005				2005				est_mise_en_redressement_judiciaire	En 2005, la fonderie est mise en redressement judiciaire, un plan de reprise par les salariés est proposé sous la forme d'une SCOP (société coopérative ouvrière de production) en 2007.		
+2008				2008				avait_été_repris	Le crassier avait été repris dès 2008 par la Communauté de communes de camembert.		'la Communauté de communes'
+1995				1995				fusionne_avec	En 1995, PAMCO fusionne avec la société CFFC de Rochefort (compagnie française des fontes en coquille), ils deviennent alors la CFFC PAMCO industries du groupe CF2M.		'PAMCO', 'la société CFFC', 'de Rochefort', 'la CFFC PAMCO industries', 'groupe CF2M.'
+1835				1835				a_été_crée	La fonderie a été crée en 1835 sur le site actuel.		
+2012	05			2012	05			a_été_rédigé	Un arrêté de consignation de sommes a été rédigé en mai 2012 pour couvrir les frais d'évacuation et de traitement des déchets dangereux et non dangereux présents sur le site, mais également pour répondre au coût de la surveillance de l'installation (réalisation d'un mémoire de cessation d'activité et d'un diagnostic sol).		
+2011				2011				est_en_liquidation_judiciaire	Depuis la fin de l'année 2011, la société Focast Normandie est en liquidation judiciaire.		'la société Focast Normandie'

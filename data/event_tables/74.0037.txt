@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				ont_à_nouveau_été_excavées	Au cours de ces travaux, réalisés en 2009, des terres souillées ont à nouveau été excavées en vue de leur traitement mais un point de pollution en hydrocarbures de 2000 mg/kg n'a pu être retiré.	'hydrocarbures'	
+2000	01	06		2000	01	06		a_été_découverte	Dans le cadre de la procédure d'arrêt définitif de l'exploitation de la station service BP située avenue d'Aléry à Annecy, notifiée le 6 janvier 2000, une pollution par des hydrocarbures a été découverte dans les sols et les eaux souterraines.	'hydrocarbures'	'BP'
+2002	12			2004	12			De_nouveaux_travaux_de_dépollution	De nouveaux travaux de dépollution ont été réalisés de décembre 2002 à décembre 2004.		
+2005	06			2005	06			transmise	Sur la base de ces éléments une évaluation détaillée des risques sanitaires transmise en juin 2005 a conclu que l'état du site était compatible avec la réalisation de logements collectifs.		
+2009				2009				ces_travaux	Au cours de ces travaux, réalisés en 2009, des terres souillées ont à nouveau été excavées en vue de leur traitement mais un point de pollution en hydrocarbures de 2000 mg/kg n'a pu être retiré.	'hydrocarbures'	
+2000	01	06		2000	01	06		l__exploitation	Dans le cadre de la procédure d'arrêt définitif de l'exploitation de la station service BP située avenue d'Aléry à Annecy, notifiée le 6 janvier 2000, une pollution par des hydrocarbures a été découverte dans les sols et les eaux souterraines.	'hydrocarbures'	'BP'

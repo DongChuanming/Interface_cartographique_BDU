@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				2005				a_été_traité_par_dissolution_accélérée	Le terril Fernand a été traité par dissolution accélérée de 1995 à 2005.		
+1913				1968				ont_été_déposés	Sur ce terril ont été déposés entre 1913 et 1968 environ 3,45 millions de tonnes de résidus miniers issus de l'exploitation de la potasse, dont 1,54 Mt de chlorures de sodium.	'résidus miniers', 'chlorures', 'sodium'	

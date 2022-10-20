@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968	08	29		1968	08	29		de_déclaration	Pour exploiter son garage, Monsieur JADAUD bénéficiait d'un récépissé de déclaration du 29 août 1968.		'Monsieur JADAUD'
+1968				1968				s__associent	En 1968, les frères JADAUD s'associent.		'les frères JADAUD'
+2012	03	07		2012	03	07		Ce_diagnostic	Ce diagnostic a été réalisé par la société SOCOTEC le 7 mars 2012.		'la société SOCOTEC'
+1968	08	29		1968	08	29		bénéficiait	Pour exploiter son garage, Monsieur JADAUD bénéficiait d'un récépissé de déclaration du 29 août 1968.		'Monsieur JADAUD'
+1963				1963				La_construction	La construction du bâtiment accueillant le garage automobile date de 1962-1963, date à laquelle M.		
+1986				1986				se_développe	En 1986, l'activité de distribution de carburants se développe avec une nouvelle capacité de 5 m3 de super carburant.	'carburants', 'super carburant'	
+1963				1963				a_commencé	L'activité de garage automobile a commencé en 1962-1963 avec une activité de distribution d'essence ordinaire pour une capacité de 5 m3.		
+1962				1962				a_commencé	L'activité de garage automobile a commencé en 1962-1963 avec une activité de distribution d'essence ordinaire pour une capacité de 5 m3.		
+1962				1962				La_construction	La construction du bâtiment accueillant le garage automobile date de 1962-1963, date à laquelle M.		
+				2000	03			sont_poursuivies	Après cette date les activités de mécanique sont poursuivies jusqu'en mars 2000, jusqu'à la cessation totale d'activités.		

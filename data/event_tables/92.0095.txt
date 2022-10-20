@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	02			2012	02			des_investigations_complémentaires	Il a été complété par des investigations complémentaires dans les sols (février 2012) et une analyse des risques sanitaires (février 2012).		
+1905				2011				a_été_exploitée	Une activité de fabrication de papier a été exploitée sur ce site de 1905 à 2011, en dernier lieu par la société SMURFIT KAPP Papier Recyclé .		'la société SMURFIT KAPP Papier Recyclé'
+2015	08	27		2015	08	27		a_transmis	Par courriers du 27 août 2015 et du 15 septembre 2015, l'exploitant a transmis ces compléments.		
+2015	09	15		2015	09	15		a_transmis	Par courriers du 27 août 2015 et du 15 septembre 2015, l'exploitant a transmis ces compléments.		
+2010				2010				éliminés	- la vidange et l'élimination des boues biologiques issues de la station de traitement des eaux du site, éliminés dès 2010.	'boues biologiques'	
+2011	12	06		2011	12	06		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 6 décembre 2011.		
+2012	02			2012	02			a_été_complété	Il a été complété par des investigations complémentaires dans les sols (février 2012) et une analyse des risques sanitaires (février 2012).		
+2012	06	05		2012	06	05		Une_visite	Une visite du site par l'Inspection des Installations Classées en date du 5 juin 2012 a permis de confirmer ces travaux et de constater que le site avait bien été mis en sécurité (clôture, élimination de tous les produits dangereux, des déchets présents sur le site...).	'les produits dangereux'	
+2012	02			2012	02			une_analyse_des_risques_sanitaires	Il a été complété par des investigations complémentaires dans les sols (février 2012) et une analyse des risques sanitaires (février 2012).		
+2015	10	07		2015	10	07		Une_visite_d__inspection	Une visite d'inspection a été réalisée sur site le 7 octobre 2015.		

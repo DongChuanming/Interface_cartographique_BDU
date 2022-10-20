@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	14		2010	06	14		la_déclaration	D'après la déclaration datée du 14/06/2010 relative à la cessation définitive des activités du site Protec Decors, les installations sont à l'arrêt depuis le 01/12/2010 et le site n'est plus exploité.		'Protec Decors'
+2015	02	03		2015	02	03		a_été_notamment_pris_à	Un arrêté préfectoral a été notamment pris à cet effet par le préfet de la Seine-Saint-Denis le 03 février 2015.		'le préfet'
+2010	12	01		2010	12	01		sont_à_l__arrêt	D'après la déclaration datée du 14/06/2010 relative à la cessation définitive des activités du site Protec Decors, les installations sont à l'arrêt depuis le 01/12/2010 et le site n'est plus exploité.		'Protec Decors'
+2012	05	14		2012	07	03		a_procédé_à	Du 14/05/2012 au 03/07/2012, l'exploitant a procédé à des travaux de depollution de son site, en excavant la source principale identifiée lors des investigations réalisées sur son site, située au droit des anciennes fosses enterrées de bains usés.		
+2012	07	01		2012	07	18		ont_été_remblayées	Du 01/07/2012 au 18/07/2012, les fouilles ont été remblayées par des terres inertes et les dalles refaites.		
+2012	03	13		2012	03	13		a_formulé	A cette occasion, l’inspection des installations classées a formulé des préconisations dans son rapport daté du 13/03/2012.		

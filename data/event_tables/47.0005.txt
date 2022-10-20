@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				échappé_au_diagnostic	En avril 2002, lors de travaux de terrassement pour la construction d'une unité de soins sur une partie du site, il a été mis à jour une ancienne cuve à goudrons qui avait échappé au diagnostic de 1993.	'goudrons'	
+1993				1993				une_action_volontaire	En vue de l'aménagement d'un parc de promenade, GDF a menée, en 1993, une action volontaire sur ce site avant que le protocole ne délimite clairement les engagements de GDF au sujet des anciennes usines à gaz.		'GDF', 'GDF'
+1993				1993				a_toutefois_été_pris	Il a toutefois été pris en charge par GDF en 1993 lors de l'aménagement d'un en jardin d'agrément par l'Hopital St Cyr, dernier propriétaire.		'GDF'
+2002	04			2002	04			a_été_mis_à_jour	En avril 2002, lors de travaux de terrassement pour la construction d'une unité de soins sur une partie du site, il a été mis à jour une ancienne cuve à goudrons qui avait échappé au diagnostic de 1993.	'goudrons'	
+1983				1983				cédé_à	Ancien site de l'usine à gaz de Villeneuve cédé à la ville en 1983, puis à l'hôpital Saint Cyr en 1993.		

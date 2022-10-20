@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	06		2007	07	06		La_notification_de_la_cessation_d__activité	La notification de la cessation d’activité a été réalisée le 6 juillet 2007.		
+1996	08	08		1996	08	08		a_accueilli	La société EUROZINGAGE à AMNEVILLE a accueilli des activités de traitement de surface des métaux, autorisées au titre de la législation sur les installations classées pour la protection de l'environnement par l’arrêté préfectoral du 8 août 1996.		'La société EUROZINGAGE', 'AMNEVILLE'
+1996	08	08		1996	08	08		des_activités_de_traitement_de_surface	La société EUROZINGAGE à AMNEVILLE a accueilli des activités de traitement de surface des métaux, autorisées au titre de la législation sur les installations classées pour la protection de l'environnement par l’arrêté préfectoral du 8 août 1996.		'La société EUROZINGAGE', 'AMNEVILLE'
+2007	07			2007	07			a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire en juillet 2007.		

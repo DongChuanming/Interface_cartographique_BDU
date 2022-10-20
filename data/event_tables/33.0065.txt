@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04	29		2004	04	29		La_campagne_d__analyses	La campagne d’analyses des eaux souterraines du 29/04/2004 montre que la situation est satisfaisante et en diminution par rapport aux dernières campagnes, depuis 2002.		
+2010	10	03		2010	10	03		s__est_déclaré_autonome	Par courrier du 24/12/2012 , l'exploitant s'est déclaré autonome au sens de l'article 43-2-2 de l'arrêté du 3 octobre 2010.		
+2005				2009				Les_campagnes_menées	Les campagnes menées entre 2005 et 2009 confirment l'absence d'impact sur la nappe (teneurs en hydrocarbures et HAP systématiquement inférieures au seuil de détection).	'hydrocarbures'	
+2000	10	06		2000	10	06		est_présenté	Le rapport final du 18/08/2000 est présenté à la DRIRE le 06/10/2000.		'la DRIRE'
+1993	08	19		1993	08	19		a_été_autorisé	Il a été autorisé par arrêté préfectoral du 19/08/1993.		
+2013	06			2013	06			remplacera	Il remplacera la torchère à compter du mois de juin 2013.		
+2002	06	14		2002	06	14		La_nouvelle_évaluation_des_risques	La nouvelle évaluation des risques réalisée le 14/06/2002, à l'issue des travaux de dépollution, classe le site en "2 - à surveiller" pour l'usage du moment.		
+2007	06	01		2007	06	01		Le_changement_d_	Le changement d'exploitant a été acté par l'arrêté préfectoral du 01/06/2007.		

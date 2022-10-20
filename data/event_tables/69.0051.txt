@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	09	23		2003	09	23		sont_autorisées	Les activités exercées sur le centre sont autorisées par les arrêtés préfectoraux du 11/12/1986, 03/07/1992, 23/09/2003 et 26/12/2007.		
+2007	12	26		2007	12	26		sont_autorisées	Les activités exercées sur le centre sont autorisées par les arrêtés préfectoraux du 11/12/1986, 03/07/1992, 23/09/2003 et 26/12/2007.		
+2002	11	27		2002	11	27		L__étude_de_sol	L'étude de sol a été transmise à l'administration le 27/11/2002.		
+				2001	11	21		5_sondages	5 sondages (S1 à S5) ont été réalisés le 20/11/2001 et le 21/11/2001.		
+2001	11	20		2001	11	20		5_sondages	5 sondages (S1 à S5) ont été réalisés le 20/11/2001 et le 21/11/2001.		
+1998	08	12		1998	08	12		ESR___a_été_prescrite	Ce site relevant de l'application de la circulaire du 03/04/1996, un diagnostic initial et une évaluation simplifiée des risques (ESR) a été prescrite par arrêté préfectoral du 12 août 1998.		
+1986				1986				exploite	La société LABO SERVICES exploite depuis 1986 des unités de tri, reconditionnement, prétraitement et traitement de déchets chimiques en petites et moyennes quantités.	'déchets chimiques'	'La société LABO SERVICES'
+				2011	09	13		11_sondages_ont_été_réalisés	11 sondages ont été réalisés (S1 à S11) entre le 6 et le 13 septembre 2011.		
+2011	09	14		2011	09	14		Les_prélèvements_ont_été_réalisés	Les prélèvements ont été réalisés le 14/09/2011.		
+2002	01	23		2002	01	23		les_prélèvements_ont_été_effectués	les prélèvements ont été effectués sur 3 piézomètres, PZamont, PZbassin et PZ6 (PzAval) le 23/01/2002.		
+2009	02	26		2009	02	26		la_visite_d__inspection	Dans le cadre de la visite d'inspection du 26/02/2009,  il a été constaté une évolution de la qualité des eaux souterraines.		
+				2011	09	08		ont_été_réalisés	ont été réalisés (PZ1 à PZ4 sur site) et hors site (PZ5) entre le 6 et le 8 septembre 2011.		

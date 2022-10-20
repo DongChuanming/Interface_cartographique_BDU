@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1979	08	23		1979	08	23		étaient_soumises_à_autorisation_par	Ces activités étaient soumises à autorisation par arrêté préfectoral datant du 23/08/1979.		
+2000	04			2000	04			un_diagnostic_environnemental	Dans le cadre de l'acquisition du site de POL EQUIPEMENT à Givors par l'EPORA, un diagnostic environnemental a été établi dans un rapport datant d'avril 2000.		'POL EQUIPEMENT', "l' EPORA"
+2001	05	10		2001	05	10		a_été_établi	Le mémoire de cessation d'activité a été établi le 10/05/2001.		
+1995	03	27		1995	03	27		La_liquidation_judiciaire_de	La liquidation judiciaire de la société est intervenue le 27/03/1995.		
+2000	05	03		2000	05	03		a_acquis	Le 03/05/2000, l'EPORA a acquis le site de la société POL EQUIPEMENT.		"l' EPORA", 'la société POL EQUIPEMENT'
+2000	09	12		2000	09	12		démantèlement_du_transformateur	Lors du démantèlement du transformateur aux PCB le 12/09/2000, des prélèvements et des analyses en fond de fouille  ont été effectués.	'PCB'	
+2000	01			2000	01			La_déclaration_de_cessation	La déclaration de cessation d'activité n'a pas eu lieu et l'Etat a été informé de la cessation des activités par une lettre de l'EPORA de janvier 2000.		"l' EPORA"
+2001	03	23		2001	03	23		ont_été_prises	Des sanctions ont été prises par arrêté du 23/03/2001 contre le liquidateur judiciaire pour la remise en état du site de POL EQUIPEMENT et pour la réalisation d'un mémoire de l'état du site.		'POL EQUIPEMENT'
+2002				2002				Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés par la mairie de Givors fin 2002 et les résultats d'analyses complémentaires sur l'état du sol sous la dalle ont été transmis à l'administration.		
+2002				2002				a_été_radiée	La société POL EQUIPEMENT a été radiée en 2002 du registre du commerce.		'La société POL EQUIPEMENT'

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	10			2015	10			Les_travaux_ont_été_réceptionnés	Les travaux ont été réceptionnés en octobre 2015.		
+2009	11	23		2009	11	23		a_mandaté	Face à l'inaction de l'exploitant, les concentrations de perchloroéthylène étant toujours trop élevées, le préfet des Yvelines a mandaté l'ADEME, par arrêté en date du 23 novembre 2009, pour procéder à l'exécution de ces travaux.	'perchloroéthylène'	'le préfet des Yvelines'
+2007	09			2007	09			a_été_mise_en_place	Suite aux différents arrêtés de mise en demeure et de sanction, une installation d'aspiration de l'air de la cave du pressing et du local commercial a été mise en place au mois de septembre 2007.		
+								Les_deux_campagnes_de_prélèvements_effectuées	Les deux campagnes de prélèvements effectuées aux mois de mars et juin 2013, ont confirmé cette diminution.		
+2014	07	13		2014	07	13		a_mandaté	Par arrêté préfectoral en date du 13 juillet 2014, le préfet des Yvelines a mandaté l'ADEME pour mettre en œuvre des actions complémentaires, notamment :		'le préfet des Yvelines'
+2007	12			2007	12			a_été_retirée	La machine de nettoyage à sec n'était plus exploitée depuis le mois de juillet 2007 et a été retirée au mois de décembre 2007.		
+2011				2011				Les_travaux	Les travaux répondant à l'arrêté précité ont été réalisés par l'ADEME en 2011.		
+2019				2019				Les_travaux	Les travaux prévus par l'arrêté préfectoral du 13 juillet 2014 se sont achevés début 2019.		
+2010				2010				est_occupé	Depuis 2010, le local commercial est occupé par une agence immobilière.		
+								a_constaté	A la suite d'une plainte du propriétaire de l'appartement situé au premier étage, au-dessus du pressing, l'inspection des installations classées a constaté les 25 et 27 juillet 2007 de fortes odeurs de perchloroéthylène dans la cave du pressing.	'perchloroéthylène'	
+2007	12			2007	12			n__était_plus_exploitée	La machine de nettoyage à sec n'était plus exploitée depuis le mois de juillet 2007 et a été retirée au mois de décembre 2007.		
+2007	07	27		2007	07	27		a_constaté	A la suite d'une plainte du propriétaire de l'appartement situé au premier étage, au-dessus du pressing, l'inspection des installations classées a constaté les 25 et 27 juillet 2007 de fortes odeurs de perchloroéthylène dans la cave du pressing.	'perchloroéthylène'	
+2019	04			2019	04			Une_campagne_de_surveillance	Une campagne de surveillance de la qualité de l'air intérieur a été réalisée en avril 2019 et ne met pas en évidence de concentrations en perchloroéthylène supérieures à la valeur recommandée par le HCSP à l'exception de l'échantillon prélevé dans la cave.	'perchloroéthylène'	'le HCSP'
+2007	07			2007	07			n__était_plus_exploitée	La machine de nettoyage à sec n'était plus exploitée depuis le mois de juillet 2007 et a été retirée au mois de décembre 2007.		
+2012	07			2012	07			Une_campagne_de_surveillance	Une campagne de surveillance de la qualité de l'air réalisée au mois de juillet 2012 a mis en évidence une nette diminution des concentrations de perchloroéthylène notamment dans l'appartement du premier étage.	'perchloroéthylène'	
+2010	09	23		2010	09	23		a_été_placée_en_liquidation_judiciaire_par_jugement	La société Saint Germain Pressing a été placée en liquidation judiciaire par jugement du Tribunal de Commerce de Versailles en date du 23 septembre 2010, et radiée du registre du commerce le 3 novembre 2011, suite à la clôture de la liquidation pour insuffisance d’actifs.		'La société Saint Germain Pressing'
+2013	06			2013	06			Les_deux_campagnes_de_prélèvements_effectuées	Les deux campagnes de prélèvements effectuées aux mois de mars et juin 2013, ont confirmé cette diminution.		

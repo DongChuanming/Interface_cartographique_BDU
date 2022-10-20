@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	12	15		2005	12	15		a_notifié	La société CPO a notifié le 15 décembre 2005 l'arrêt des activités survenue en mai 2011.		'La société CPO'
+2009	02	06		2009	02	06		ont_été_signées	Les RUCPE ont été signées le 6 février 2009 et publiées et enregistrées le 24 mars 2009 à la conservation des Hypothèques de Morlaix.		'Les RUCPE'
+2006	05			2006	05			de_nouvelles_campagnes_ont_été_réalisées	En mai 2006 de nouvelles campagnes ont été réalisées :		
+				2000	10			un_diagnostic_de_pollution	En 2000, suite à la constatation d'une perte de fioul, la Société SOFIQUEM a réalisé un diagnostic de pollution de mars à octobre 2000.	'fioul'	'la Société SOFIQUEM'
+2001	07			2001	07			Les_travaux_de_réhabilitation	Les travaux de réhabilitation réalisés en juillet 2001 ont consisté en :		
+2010				2017				Les_campagnes_de_surveillance	Les campagnes de surveillance des eaux souterraines de 2010 à 2017 montrent la présence d'hydrocarbures C10-C40 :	'hydrocarbures C10-C40'	
+2000				2000				un_diagnostic_de_pollution	En 2000, suite à la constatation d'une perte de fioul, la Société SOFIQUEM a réalisé un diagnostic de pollution de mars à octobre 2000.	'fioul'	'la Société SOFIQUEM'
+1964	11	07		1964	11	07		de_déclaration	La société Pétroles SHELL-BERRE a été autorisée à exploiter un dépôt de produits pétroliers par récépissé de déclaration du 7 novembre 1964.	'produits pétroliers'	'La société Pétroles SHELL - BERRE'
+2002				2002				a_repris	La société SOFIQUEM a repris l'activité puis la société des COMBUSTIBLES DE L'OUEST (CPO) en 2002.		'La société SOFIQUEM', "la société des COMBUSTIBLES DE L' OUEST ( CPO"
+1964	11	07		1964	11	07		a_été_autorisée_à_exploiter	La société Pétroles SHELL-BERRE a été autorisée à exploiter un dépôt de produits pétroliers par récépissé de déclaration du 7 novembre 1964.	'produits pétroliers'	'La société Pétroles SHELL - BERRE'
+2009	03	24		2009	03	24		enregistrées	Les RUCPE ont été signées le 6 février 2009 et publiées et enregistrées le 24 mars 2009 à la conservation des Hypothèques de Morlaix.		'Les RUCPE'
+2016				2016				forte_irisation	- systématiquement dans le puits ; à noter, la présence d'une lentille d'hydrocarbures dans le puits en 2012 et 2013 et une très forte irisation en 2016.	"lentille d' hydrocarbures"	

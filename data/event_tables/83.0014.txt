@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	05			2002	05			ont_été_remis	Le Diagnostic Initial et l'ESR prescrits par AP du 10/01/2000 ont été remis fin mai 2002. 16 sondages et trois piézomètres ont été implantés.		
+2003	10	09		2003	10	09		Les_travaux	Les travaux se sont achevés le 9/10/2003.		
+2003	07			2003	07			s__est_produit	Un second incident s'est produit en juillet 2003 lors d'un transfert de fuel, ce qui a entrainé le déversement d'hydrocarbures sur le sol, entre les rails.	'fuel', 'hydrocarbures'	
+2004	12			2004	12			Un_diagnostic	Un diagnostic a été réalisé sur cette zone en Décembre 2004.		
+1997	03	10		1997	03	10		a_été_autorisé_par_AP	Ce dépôt a été autorisé par AP du 6/06/1979 modifié principalement par l'arrêté complémentaire du 10/03/1997.		
+1979	06	06		1979	06	06		a_été_autorisé_par_AP	Ce dépôt a été autorisé par AP du 6/06/1979 modifié principalement par l'arrêté complémentaire du 10/03/1997.		
+2002				2002				autres_installés	Le site fait l'objet d'un suivi piézométrique à partir des 3 puits réalisés lors de l'ESR et de 4 autres installés fin 2002.		
+1996				1996				un_incident	Au cours de l'année 1996, un incident s'est produit sur le site avec un déversement de 30 000 L de kérosène au niveau du réservoir R3.	'kérosène'	
+1974				1974				implanté	Il s'agit d'un dépôt d'hydrocarbures implanté depuis 1974 sur des terrains situés dans la zone industrielle de Toulon Est en bordure de la voie ferrée Marseille-Nice sur une superficie d'environ 1,5 ha.	'hydrocarbures'	'Marseille - Nice'

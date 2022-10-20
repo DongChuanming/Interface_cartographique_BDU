@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002				2002				ont_été_arrêtées	Les activités de la société ont été arrêtées en 2002.		
+1996	04	15		1996	04	15		de_déclaration	La société CANTREL a exploité légalement, sur ce site d'une surface de 900 m2, un atelier d'entretien et de réparation de véhicules à moteur et une cabine de peinture(récépissé de déclaration du 15 avril 1996).		'La société CANTREL'
+2000				2000				a_été_constaté	A la suite de plaintes, il a été constaté en 2000 par l'inspection des installations classées, une activité de démantèlement de véhicules usagés dans l'arrière cours de la société.		
+1996	04	15		1996	04	15		a_exploité_légalement	La société CANTREL a exploité légalement, sur ce site d'une surface de 900 m2, un atelier d'entretien et de réparation de véhicules à moteur et une cabine de peinture(récépissé de déclaration du 15 avril 1996).		'La société CANTREL'
+2000	07	13		2000	07	13		ont_été_prises	En conséquence, des sanctions administratives ont été prises sous la forme de prescriptions d'urgence le 13 juillet 2000.		

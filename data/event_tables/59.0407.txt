@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09			2008	05			Traitement	- Traitement de septembre 2001 à mai 2008: traitement du sol par venting et pompage/écrémage des hydrocarbures surnageants.	'hydrocarbures surnageants'	
+1999	06	18		1999	06	18		a_subi	- Il s'agit d'une station service de distribution de carburants qui a subi une pollution accidentelle le 18 juin 1999: une cuve de super sans plomb 95 en fosse maçonnée fuyarde a entraîné une pollution sur le site de la station service avec pour conséquence un risque d'explosion et une pollution de la nappe de la craie.	'carburants'	'super sans plomb 95'
+1999	09			1999	09			Écrémage_manuel	- Écrémage manuel et récupération d'environ 1500 litres d'hydrocarbures surnageants en septembre 1999.	'hydrocarbures', 'surnageants'	
+2011	09	13		2011	09	13		Réalisation_d__investigations_complémentaires	- Réalisation d'investigations complémentaires / analyse des risques résiduels / Interprétation de l'Etat des Milieux/ Plan de gestion: 13 septembre 2011.		
+2010	03	29		2010	03	29		__Notification_de_cessation_d__activité	- Notification de cessation d'activité, le 29/03/2010.		
+				2010	10	19		Travaux	- Travaux du 7 au 19 octobre 2010: démantèlement des cuves, évacuation en biocentre agrée de 566.28T de matériaux impactés, mise en place d'une clôture.		

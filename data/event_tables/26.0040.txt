@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	08	17		2006	08	17		un_rapport_transmis	Par un rapport transmis à monsieur le préfet de la Drôme  le 17/08/2006 l'inspection a préconisé que  monsieur le préfet acte le suspension de la surveillance de la nappe en informant par courrier M. le gérant de la SCI LA CELLONITE.		'le préfet de la Drôme', 'monsieur le préfet', 'M. le gérant de la SCI LA CELLONITE'
+2006	04			2006	04			la_SCI_adressait	Le 26 mai 2006 la SCI adressait le rapport de la dernière campagne des eaux souterraines réalisée en avril 2006.		
+2002	04			2002	04			Le_diagnostic_initial	Le diagnostic initial, demandé par l'Administration suite à un projet de réhabilitation, lui a été transmis en avril 2002.		
+2006	02	17		2006	02	17		__transmettait	Le 17 février 2006 la SCI LA CELLONITE  transmettait un rapport relatif au suivi des travaux d’excavation et de réhabilitation des terres polluées par des  PCB.	'des   PCB'	'la SCI LA CELLONITE'
+2006	04			2006	04			la_dernière_campagne	Le 26 mai 2006 la SCI adressait le rapport de la dernière campagne des eaux souterraines réalisée en avril 2006.		
+2006	05	26		2006	05	26		la_SCI_adressait	Le 26 mai 2006 la SCI adressait le rapport de la dernière campagne des eaux souterraines réalisée en avril 2006.		

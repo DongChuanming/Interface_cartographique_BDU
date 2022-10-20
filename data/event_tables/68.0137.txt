@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	07		2006	07	07		EDR___a_été_signé	Au vu des résultats et du suivi analytique, un arrêté préfectoral complémentaire prescrivant un diagnostic approfondi plus une étude détaillée des risques (EDR) a été signé le 07/07/2006.		
+2006	02	22		2006	02	22		informe	Par fax du 22 février 2006, le Directeur de la société SURFINSER informe l'inspection des installations classées de la présence d'une pollution au chrome au droit du piézomètre de surveillance situé en aval d'une douzaine de mètres (par rapport au sens d'écoulement de la nappe) de l'usine :	'chrome'	'la société SURFINSER'
+2004	07	19		2004	07	19		Prélèvement_du	- Prélèvement du 19/07/2004 : Chrome total< 2 µg/l, Chrome hexavalent < 5 µg/l	'Chrome', 'Chrome hexavalent'	
+2005	12	20		2005	12	20		Prélèvement_du	- Prélèvement du 20/12/2005 : Chrome total : 160 mg/l, Chrome hexavalent: 147 mg/l	'Chrome total', 'Chrome hexavalent'	
+2009	01			2009	01			a_été_mis_en_place	Le piézomètre 5 a été mis en place en janvier 2009.		
+2007	03	13		2007	03	13		a_été_rendue	L'Etude Détaillée des Risques eau a été rendue le 13 mars 2007.		
+2004				2005				l__arrêt_des_pompages	Or, l'arrêt des pompages (entre 2004 et 2005) dans les puits industriels Rodolphe situés près du site  a provoqué une remontée brutale des eaux souterraines de 2 à 3 mètres, saturant les terrains pollués sous la rétention.		
+2006	09	06		2006	09	06		a_remis_le_diagnostic_approfondi	Surfinser a remis le diagnostic approfondi le 06/09/2006.		
+1979				1979				exerce	La société SURFINSER exerce une activité de traitement de surface par chromage depuis 1979 (ancien atelier d'entretien mécanique Mines de Potasse d'Alsace) à PULVERSHEIM.		'La société SURFINSER', 'PULVERSHEIM'

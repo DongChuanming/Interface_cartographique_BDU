@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				est_réalisé	Un suivi piézométrique de la qualité des eaux souterraines au droit du site est réalisé depuis 1998.		
+1961				1961				est_implanté	L’établissement est implanté depuis 1961 sur la commune d’Amilly et occupe une superficie totale de 76 095 m².		
+2009	02	25		2009	02	25		a_été_établi	Conformément à l’arrêté préfectoral du 25 février 2009, un plan de gestion relatif à la pollution susceptible d’être encore présente sur le site SANOFI a été établi par la société ARCADIS en juillet 2009.		'SANOFI', 'la société ARCADIS'
+2009	07			2009	07			a_été_établi	Conformément à l’arrêté préfectoral du 25 février 2009, un plan de gestion relatif à la pollution susceptible d’être encore présente sur le site SANOFI a été établi par la société ARCADIS en juillet 2009.		'SANOFI', 'la société ARCADIS'
+2017				2017				avoir_diminué	Les concentrations semblent avoir diminué depuis 2017 en PZ3.	'PZ3'	
+2017	07			2017	07			avoir_amorcé_une_décroissance	Les concentrations relevées au sein de l’ouvrage P2, semblent avoir amorcé une décroissance depuis juillet 2017, tendance confirmée en juillet 2018.		
+2011	11			2011	11			ont_régulièrement_été_mesurées	Les concentrations les plus élevées ont régulièrement été mesurées au droit de l’ouvrage P3 avec un maximum à 27 000 μg/L en novembre 2011 (valeur de référence 78 μg/L).		
+				2014	08	27		sont_encadrées	Elles sont encadrées par les dispositions de l’arrêté préfectoral d’autorisation du 25 février 2009, complété par les arrêtés préfectoraux des 20 décembre 2013, 27 août 2014 et 11 décembre 2018.		
+2007				2007				La_campagne_de_prélèvement	La campagne de prélèvement de 2007 réalisée sur le site et dans la vallée du Loing a permis de consolider ces observations.		
+1996				1996				n__est_pas_ailleurs_plus_utilisé	Le MCB n’est pas ailleurs plus utilisé sur le site depuis 1996.		
+2018				2018				ont_tendance_à_diminuer	Concernant le Baryum,les concentrations les plus élevées sont observées sur P3 et P5 et ont tendance à diminuer en 2018, alors qu’une légère augmentation est constatée au droit de P6.	'le Baryum'	
+2018	12	11		2018	12	11		sont_encadrées	Elles sont encadrées par les dispositions de l’arrêté préfectoral d’autorisation du 25 février 2009, complété par les arrêtés préfectoraux des 20 décembre 2013, 27 août 2014 et 11 décembre 2018.		
+2006				2006				au_droit_de	Ces campagnes de prélèvements ont permis de mettre en évidence l’impact globalement limité du site sur les eaux souterraines en aval hydraulique éloigné, puisqu’aucune trace de monochlorobenzène n’a été détectée au droit de l’ancien captage AEP de la Mère-Dieu depuis 2006 situé à plus d’un kilomètre en aval du site.	'monochlorobenzène'	
+2013	12	20		2013	12	20		sont_encadrées	Elles sont encadrées par les dispositions de l’arrêté préfectoral d’autorisation du 25 février 2009, complété par les arrêtés préfectoraux des 20 décembre 2013, 27 août 2014 et 11 décembre 2018.		

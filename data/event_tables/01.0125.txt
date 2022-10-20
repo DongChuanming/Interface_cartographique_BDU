@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	02	25		2016	02	25		un_diagnostic	Dans le cadre de la procédure de cessation d’activité, l’exploitant a remis le 25 février 2016 un diagnostic de l’état des sols au droit du site, complété le 13 juillet 2016, ainsi que les justificatifs de mise en sécurité et d’évacuation des déchets dangereux.	'déchets dangereux'	
+2014	11	18		2014	11	18		a_notifié_la_cessation_d__activité	L'exploitant a notifié la cessation d'activité du site auprès de monsieur le préfet, par courrier du 18 novembre 2014.		'le préfet'
+2014	12	17		2014	12	17		a_été_délivré	Un récépissé de déclaration de cessation d'activité lui a été délivré le 17 décembre 2014.		
+2016	07	13		2016	07	13		un_diagnostic	Dans le cadre de la procédure de cessation d’activité, l’exploitant a remis le 25 février 2016 un diagnostic de l’état des sols au droit du site, complété le 13 juillet 2016, ainsi que les justificatifs de mise en sécurité et d’évacuation des déchets dangereux.	'déchets dangereux'	

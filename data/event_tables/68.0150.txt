@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	10			2009	10			a_transmis	En octobre 2009 l'exploitant a transmis comme imposé par l'arrêté de mai 2009, un rapport de diagnostic complémentaire et mise en place de piézomètre (rapport SITA S2.09.002.0).		'SITA S2.09.002.0'
+2009	05	04		2009	05	04		a_été_signé	Suite à ces informations un arrêté portant prescriptions spéciales a été signé le 4 mai 2009, imposant notamment :		
+2009	02	03		2009	02	03		a_fourni	Suite à une demande d'informations complémentaires (lettre préfectorale du 28 janvier 2009), et notamment s'agissant de la nécessité de mettre en place des puits de contrôle de la qualité des eaux souterraines, la Sté TOTAL a fourni le 3 février 2009, quelques informations complémentaires sur les quantités impliquée (1000 litres estimés), sur la possibilité que ces hydrocarbures n'est pas été confiné dans la fosse maçonnée, sur la programmation d'une mise en place de 3 piézomètres de contrôle pour surveiller les impacts de cette fuite sur les eaux souterraines à l'aval du site.	'hydrocarbures'	'la Sté TOTAL'
+2009	05			2009	05			a_transmis	En octobre 2009 l'exploitant a transmis comme imposé par l'arrêté de mai 2009, un rapport de diagnostic complémentaire et mise en place de piézomètre (rapport SITA S2.09.002.0).		'SITA S2.09.002.0'
+2008	11	21		2008	11	21		une_transmission	Suite à une transmission de la Sté TOTAL le 21 novembre 2008 (dépôt le 26 novembre 2008).		'la Sté TOTAL'
+2009	10			2009	10			sont_actuellement	Les installations sont actuellement (octobre 2009) composées de :		
+2008	11	26		2008	11	26		une_transmission	Suite à une transmission de la Sté TOTAL le 21 novembre 2008 (dépôt le 26 novembre 2008).		'la Sté TOTAL'

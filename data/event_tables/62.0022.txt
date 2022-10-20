@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1985	04			de_stabilisation_réalisé_sur_site	- Site traité mais à conserver en mémoire : traitement physico-chimique de stabilisation réalisé sur site de février à avril 1985 (coût : 5 MF).		
+1962				1962				était_utilisé_comme	- Avant 1962, le site était utilisé comme sablière.		
+1962				1962				sablière	- Avant 1962, le site était utilisé comme sablière.		
+2005				2005				Investigations	- Investigations en 2005 afin de définir l'extension et l'épaisseur des goudrons acides, de les définir en terme physico-chimique et d'évaluer la nature et l'extension des impacts dans les sols.	'goudrons acides'	
+1962				1975				__exploitation	Entre 1962 et 1975, exploitation par la société Gerland comme dépôt de goudrons acides, et de déchets domestiques.	'goudrons acides'	'la société Gerland'
+1985	12			1985	12			a_remis	- En décembre 1985, la DRIRE a remis un certificat de réhabilitation à Gerland.		'la DRIRE'

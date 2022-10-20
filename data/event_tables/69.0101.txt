@@ -1,0 +1,31 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08			2011	08			ont_été_mis_en_place	Deux piézomètres supplémentaires par rapport à ceux effectués en mars 2011 ont été mis en place en août 2011.		
+2011	04	22		2011	04	22		a_été_effectuée	Une EQRS a été effectuée le 22/04/2011 Deux hypothèses ont été prises en compte dans l'EQRS:		
+								s__établit	la nappe superficielle (première nappe rencontrée au droit du site) s’établit à ces dates entre 6.97 m et 8.48 m de profondeur.		
+2012	04	06		2012	04	06		et_mis_en_place	Le plan de gestion pour le traitement des terres polluées a été établi le 13/01/2012 et mis en place le 06/04/2012.		
+2012	01	13		2012	01	13		a_été_établi	Le plan de gestion pour le traitement des terres polluées a été établi le 13/01/2012 et mis en place le 06/04/2012.		
+2011	04			2011	04			la_première_campagne_de_mesure	Le rapport du bureau d'étude , montre que les résultats analytiques effectués lors de la première campagne de mesure de la qualité chimique des eaux souterraines (en avril 2011), ont mis en évidence la présence de métaux et métalloïdes notamment en zinc, en arsenic et en cadmium :	'métaux', 'métalloïdes', 'zinc', 'arsenic', 'cadmium'	
+2011	01	31		2011	01	31		a_été_déposé	Le dossier de cessation d’activité de ces ateliers a été déposé le 31/01/2011.		
+2012	10	23		2012	10	23		a_été_acté	Un arrêté préfectoral complémentaire réglemantant les activités de la société et modifiant l'arrêté préfectoral du 10/09/1987 a été acté le 23/10/2012.		'la société'
+2011	02	21		2011	02	21		Une_étude_historique	Une étude historique a été effectuée le 21/02/2011.		
+2011	01	31		2011	01	31		la_cessation_définitive	Le 31/01/2011, Rhodia Operations a déclaré la cessation définitive des ateliers COUMARINE et GLYCERYL-GAÏACOL.		'Rhodia Operations', 'COUMARINE', 'GLYCERYL - GAÏACOL'
+2012	08	24		2012	08	24		a_été_présenté	Un projet de servitudes d'utilité publique, notamment sur l'usage des eaux souterraines et l'usage des sols et sous-sols a été présenté au CoDERST le 24/08/2012.		'CoDERST'
+2011	03			2011	03			ont_été_implantés	Afin d’analyser les eaux souterraines au droit du site, 3 piézomètres (Pz1 à Pz3) ont été implantés sur la zone d’étude en mars 2011 au carottier battu jusqu’à une profondeur de 10 m.		
+2011	08			2011	08			ont_fusionné	Le groupe SOLVAY et le groupe RHODIA ont fusionné en août 2011.  L'établissement s'appelle désormais Solvay usine Saint Fons Chimie.		'Le groupe SOLVAY', 'le groupe RHODIA', 'désormais Solvay'
+								a_débuté_son_activité	D’après les documents et les informations consultés, le site a débuté son activité dès la fin du 19e siècle avec la naissance des usines chimiques de St-Fons.		
+1987	09	10		1987	09	10		est_soumise_à_autorisation	Elle est soumise à autorisation par arrêté du 10/09/1987.		
+2011	12	20		2011	12	20		a_été_établie	Une deuxième EQRS a été établie le 20/12/2011 pour un usage de type industriel identique à celui de la dernière exploitation en incluant des bureaux.		
+2012	04	06		2012	04	06		a_été_établi	Le plan de gestion pour le traitement des terres polluées a été établi le 13/01/2012 et mis en place le 06/04/2012.		
+2011	11	01		2011	11	01		est	La société Novacyl est depuis le 01/11/2011, l'exploitant de cet atelier.		'La société Novacyl'
+2012	07	02		2012	07	02		a_été_acté	Suite au rapport de l'inspection des installations classées datant du 24/04/2012, un arrêté préfectoral de prescriptions complémentaires a été acté le 02/07/2012 pour la réhabilitation et la surveillance du site par SOLVAY usine SAINT-FONS CHIMIE (ex- RHODIA OPERATIONS).		'SOLVAY usine SAINT-FONS CHIMIE', 'RHODIA OPERATIONS'
+1999	06	21		1999	06	21		Les_études_ont_été_transmises	Les études ont été transmises à l'administration les 21/06/1999 et 12/10/1999.		
+1999	10	12		1999	10	12		Les_études_ont_été_transmises	Les études ont été transmises à l'administration les 21/06/1999 et 12/10/1999.		
+				2011	10			a_été_effectué	Suite au constat de concentrations notables en arsenic en aval hydraulique du site mesurées sur Pz1, un suivi de la qualité chimique de la nappe a été effectué afin de suivre l’évolution des teneurs entre avril et octobre 2011.	'arsenic'	
+2012	10	15		2012	10	15		a_été_effectué	Ce rapport de fin de travaux de stabilisation chimique in-situ des points chauds en arsenic a été effectué le 15/10/2012.	'arsenic'	
+2019				2019				la_cessation_partielle	En 2019, suite à une visite d'inspection, il est acté la cessation partielle d'activité pour la parcelle cadastrale 161 AM, devenue propriété de la Metropole de Lyon et occupée désormais par l'installation GAYA de la société ENGIE.		'la Metropole de Lyon', 'installation GAYA', 'la société ENGIE'
+2011	04			2011	04			ont_été_réalisés	d’eau et des prélèvements d’eaux souterraines ont été réalisés en avril 2011 dans ces 3 piézomètres ainsi que dans le piézomètre PzU.		
+				2011	10			a_été_effectué	Le suivi des concentrations en arsenic sur les différents ouvrages présents sur site (PzU, Pz1, pz2, Pz3 et Pz4) et hors site (Pz448, Pz5 et Pz7) a été effectué entre avril et octobre 2011.	'arsenic'	
+2013	07	01		2013	07	01		ne_restera_plus	Au 01/07/2013, il ne restera plus d'ateliers en exploitation dans cette zone.		
+2011	02	03		2011	02	03		a_accusé_réception	La préfecture en a accusé réception par retour de courrier le 03/02/2011.		'La préfecture'
+2010	12	20		2010	12	20		Un_rapport_d__investigation_initale	Un rapport d'investigation initale des sols a été établi le 20/12/2010.		
+2011	01	31		2011	01	31		la_cessation_d__activités	Le 31/01/2011 l'exploitant a déclaré la cessation d'activités des ateliers situés sur la partie sud et le futur réaménagement de cette partie.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	10	24		2001	10	24		a_été_imposée	La surveillance de ces 3 sources a été imposée par arrêté préfectoral en date du 24 octobre 2001.		
+1989				1989				a_été_fermé	Ce broyeur a été fermé en 1989 et remplacé par un quai de transfert et une déchetterie.		
+2002				2002				ont_été_évacuées	Elle a également mis en évidence un stockage irrégulier de boues de traitement de surface chargées en chrome, nickel et cuivre d'environ 200 m3 qui ont été évacuées en 2002 en CET de classe 1.	'chrome', 'nickel', 'cuivre'	
+2002				2005				effectuée	Au vu notamment des résultats de la surveillance effectuée entre 2002 et 2005 ainsi que de l'enlèvement des déchets industriels qui avaient été mis en évidence à la faveur de l'étude simplifiée des risques qui avait été menée, l'arêtée préfectoral du 5 février 2001 imposant cette surveillance a été abrogé (arrêté du 4 mai 2006).	'déchets industriels'	

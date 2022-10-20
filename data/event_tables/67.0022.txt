@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1987				1987				est_intervenue	L'arrêté préfectoral du 6 novembre 1986 a encadré les conditions de fermeture de la décharge qui est intervenue au début de l'année 1987.		
+2000				2000				au_cours_de	Les travaux de réhabilitation ont  été réalisés au cours de l'été 2000.		
+1987				1987				a_encadré	L'arrêté préfectoral du 6 novembre 1986 a encadré les conditions de fermeture de la décharge qui est intervenue au début de l'année 1987.		
+								la_réalisation_d__analyses_annuelles	La surveillance de l'impact du site sur son environnement a été encadrée par l'arrêté préfectoral complémentaire du 31 juillet 2009 qui impose à l'exploitant la réalisation d'analyses annuelles (en mai) dans les eaux souterraines et dans les eaux du ruisseau Mosselbach s'écoulant au pied de la décharge.		
+2000				2000				Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont  été réalisés au cours de l'été 2000.		
+2011				2011				est_géré	Le site est géré depuis 2011 par la société NCI Environnement (ABILIS à l'époque, puis ISS Environnement).		'la société NCI Environnement'

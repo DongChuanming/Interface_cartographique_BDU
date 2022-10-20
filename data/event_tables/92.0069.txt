@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	06	02		2017	06	02		a_transmis	L'ancien exploitant a transmis une demande d'arrêt des travaux de dépollution le 2 juin 2017.		
+2008	02			2008	02			Les_travaux_de_réhabilitation	Les travaux de réhabilitation menés depuis février 2008 ont permis de résorber une grande partie des phases flottantes d'hydrocarbures présentes dans les eaux souterraines.	'flottantes', 'hydrocarbures'	
+2015	03	05		2015	03	05		a_été_transmise	L'Interprétation de l'état des milieux a été transmise le 15 janvier 2013 et fut complétée à la demande de l'Inspection des installations classées le 5 mars 2015.		
+2004	12	21		2004	12	21		a_donc_été_pris	Un arrêté de mesures d'urgence imposant la dépollution du site et encadrant les mesures de surveillance des eaux souterraines a donc été pris le 21 décembre 2004.		
+2013	01	15		2013	01	15		a_été_transmise	L'Interprétation de l'état des milieux a été transmise le 15 janvier 2013 et fut complétée à la demande de l'Inspection des installations classées le 5 mars 2015.		
+2015	09	07		2015	09	07		le_non_usage_des_eaux_souterraines	Par courrier du 7 septembre 2015, l'exploitant justifie le non-usage des eaux souterraines par l'absence de puits privé au droit de la maison rue Jules Quentin.		
+2004				2004				procède_actuellement_aux_travaux_de_réhabilitation	Conformément aux arrêtés préfectoraux de 2001 et de 2004, la société TOTAL RAFFINAGE MARKETING procède actuellement aux travaux de réhabilitation du site.		'la société TOTAL RAFFINAGE MARKETING'
+2004				2004				survenu	A cette pollution historique, s'est ajoutée une pollution accidentelle suite à un incident sur un pipeline survenu en 2004 lors des travaux de démantèlement des bâtiments.		
+2015	01	21		2015	01	21		a_transmis	Par ailleurs, l'ancien exploitant a transmis un rapport d'avancement des travaux de dépollution le 21 janvier 2015.		
+2015	09	07		2015	09	07		justifie	Par courrier du 7 septembre 2015, l'exploitant justifie le non-usage des eaux souterraines par l'absence de puits privé au droit de la maison rue Jules Quentin.		
+2008	02			2011	04			Les_deux_premières_phases_de_dépollution	Les deux premières phases de dépollution se sont déroulées de février 2008 à avril 2011.		
+2001	06	11		2001	06	11		a_été_pris	Aussi, un premier arrêté préfectoral a été pris le 11 juin 2001 afin d'imposer à la société TOTAL RAFFINAGE DISTRIBUTION la dépollution de la nappe d'eau souterraine impactée.		'la société TOTAL RAFFINAGE DISTRIBUTION'

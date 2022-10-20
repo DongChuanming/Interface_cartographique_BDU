@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1975				se_porte_ensuite_acquéreur	La société DORLYL se porte ensuite acquéreur du site en 1975.		'La société DORLYL'
+2006	08	09		2006	08	09		la_cessation_de_ses_activités	DORLYL déclare à l'administration la cessation de ses activités le 09/08/2006.		'DORLYL'
+1997	02	25		1997	02	25		a_été_observée	La teneur maximale a été observée le 25/02/1997 (123 µg/l) tandis que la concentration n'était que de 49,9 µg/l le 27/05/1997.		
+1971				1971				est_devenue_propriétaire	Cette société est devenue propriétaire des terrains en 1971.		
+2018	01	10		2018	01	10		a_été_signé	L'arrêté préfectoral instaurant cette servitude a été signé le 10 janvier 2018.		
+1995				1995				ont_été_perdus	Environ 17 tonnes de produits ont été perdus dans le sous-sol en 1995.	'produits'	
+2008	03			2008	03			a_eu_lieu	Une nouvelle campagne du suivi des eaux a eu lieu au mois de mars 2008.		
+1975	07	21		1975	07	21		exploite	Elle exploite alors sur le site un atelier de compression d'air et de gaz combustible et fabrique également des composant à base de PVC, autorisé par le récépissé de déclaration signé le 21/07/1975.	'gaz combustible', 'PVC'	
+2013	02	20		2013	02	20		a_avoir_été_renseignée	La dernière a avoir été renseignée à l'Inspection des Installations Classées date du 20/02/2013.		
+2005	12			2005	12			Une_nouvelle_phase_d__investigations	Une nouvelle phase d'investigations a eu lieu au mois de décembre 2005 suite à la cessation d'activité de la société DORLYL. 4 sondages ont alors été réalisés jusqu'à une profondeur de 5 m.		'la société DORLYL'
+2011	02	07		2011	02	07		a_repris	La surveillance de la qualité des eaux souterraine a repris le 07/02/2011.		
+1999	04			1999	04			Un_nouveau_diagnostic_des_sols	Un nouveau diagnostic des sols a été réalisé par la CECA en avril 1999.		'la CECA'
+2008				2008				a_alors_été_recommandé_pour_l_	La poursuite du suivi de la qualité des eaux souterraines a alors été recommandé pour l'année 2008.		
+1995				1995				Un_premier_diagnostic	Un premier diagnostic de la pollution a été réalisé en 1995 à partir d’analyses de sol et d’eau de la nappe par le bureau d'étude ANTEA.		'ANTEA'
+2011	02	23		2011	02	23		a_été_transmis	Le dossier de proposition de servitudes a été transmis à l'administration en date du 23/02/2011.		
+1963				1963				la_création_de	Les terrains étaient à usage agricole jusqu'à la création de la zone industrielle de Meyzieu en 1963.		
+1995	10	06		1997	05	27		7_campagnes_de_suivi	Ce dossier reprend les données de 7 campagnes de suivi effectuées entre le 06/10/1995 et le 27/05/1997.		
+2010	04	26		2010	04	26		a_été_signé	Cet arrêté a été signé le 26/04/2010 et impose un suivi trimestriel des eaux souterraines sur les paramètres suivants :		
+2007				2007				Une_étude_complémentaire	Une étude complémentaire à été mené par SOCOTEC au mois d'aout 2007.		'SOCOTEC'
+1975	07	21		1975	07	21		déclaration_signé	Elle exploite alors sur le site un atelier de compression d'air et de gaz combustible et fabrique également des composant à base de PVC, autorisé par le récépissé de déclaration signé le 21/07/1975.	'gaz combustible', 'PVC'	
+2002	01	30		2002	01	30		a_été_appliqué	Un traitement biologique a été appliqué sur les terres du site le 30/01/2002.		
+				2000	12	20		Des_travaux_de_réhabilitation	Des travaux de réhabilitation ont alors été effectués sur le site entre le 7 et le 20/12/2000. 4 sondages préliminaires ont été réalisé montrant des teneurs en Étain de l'ordre de 4 300 mg/kg et en Di-octyl-étain de 34 594 mg/kg.	'Étain', 'Di-octyl-étain'	
+1997				1997				a_été_remis	Un bilan de suivi a été remis à l'administration à la fin de l'année 1997.		

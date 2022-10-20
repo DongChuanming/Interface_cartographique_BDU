@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996	01	01		1996	01	01		de_la_cession	Lors de la cession de l'usine Rhone Poulenc au Groupe Astra (le 01/01/1996) la S.		'Rhone Poulenc', 'Groupe Astra'
+1972				1972				a_été_arrêtée	L'activité chimique a été arrêtée en 1972.		
+1982				1982				__arrêté_d_	- ROGER BELLON seul : fabrication de médicaments (arrêté d'autorisation en 1982)		'ROGER BELLON'
+1996				1996				La_pollution	La pollution de la zone (intégralement traitée en 1996) remonte au début des années 60.		
+1997	10	23		1997	10	23		Le_procès_verbal_de_récolement	Le procès verbal de récolement suite à la remise en état du site a été établi par l'inspection le 23/10/1997.		
+								La_pollution	La pollution de la zone (intégralement traitée en 1996) remonte au début des années 60.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01	10		2005	01	10		liquidée	Cette société, liquidée le 10 janvier 2005, exploitait à Bayonne, depuis 1840, une fonderie de fonte de deuxième fusion.		
+1840				1840				exploitait	Cette société, liquidée le 10 janvier 2005, exploitait à Bayonne, depuis 1840, une fonderie de fonte de deuxième fusion.		
+2005	01	10		2005	01	10		exploitait	Cette société, liquidée le 10 janvier 2005, exploitait à Bayonne, depuis 1840, une fonderie de fonte de deuxième fusion.		
+1988				1988				opération_d__aménagement	Ces terrains font partie du périmètre de l'opération d'aménagement (ZAC) créée en 1988 - 1990.		
+1990				1990				opération_d__aménagement	Ces terrains font partie du périmètre de l'opération d'aménagement (ZAC) créée en 1988 - 1990.		
+1991				1991				met_en_place	En 1991, la SAFAM met en place un mode d'élimination de ses sables usagés conforme aux dispositions de l'arrêté ministériel du 16 juillet 1991 relatif à l'élimination des sables de fonderie contenant des liants organiques de synthèse.	'contenant des liants organiques'	'la SAFAM'
+2004				2004				L__étude_remise	L'étude remise en 2004 confirme l'absence d'impact du dépôt sur la nappe et révèle la présence de zinc dans les sols.	'zinc'	
+2005	01	10		2005	01	10		La_liquidation	La liquidation de la SAFAM a été prononcée par jugement du Tribunal de commerce du 10 janvier 2005.		'la SAFAM'
+				1994				s__est_poursuivie	Cette surveillance qui s'est poursuivie jusqu'en 1994, n' a pas permis de mettre en évidence une pollution significative tant des sols que des eaux de sub-surface par les phénols et les cyanures.	'les phénols', 'les cyanures'	
+2000	09	18		2000	09	18		un_remblaiement	Cette zone, objet de la présente fiche, fait l'objet d'un remblaiement par des gravats et des remblais inertes, autorisé par l'arrêté du 18 septembre 2000, pris au titre de la loi sur l'eau.		

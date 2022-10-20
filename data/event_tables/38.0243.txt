@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	02	03		1997	02	03		Elle_bénéficiait	Elle bénéficiait d'un récépissé de déclaration datant du 03/02/1997.		
+2012	07	19		2012	07	19		a_été_établi	Un rapport complémentaire au diagnostic environnemental a été établi le 19/07/2012.		
+2012	10	10		2012	10	10		ont_été_transmis	L'ensemble des autres éléments manquants ont été transmis à la Préfecture par courrier du 10/10/2012.		'la Préfecture'
+2011	09			2011	09			le_diagnostic_environnemental	Le rapport de l'inspection en date du 16/01/2012 retrace la synthèse des études réalisées sur le site, notamment le diagnostic environnemental effectué par le bureau ECODEV en septembre 2011 qui ne fait pas état de changement d'usage du site.		'le bureau ECODEV'
+2012	11	20		2012	11	20		Le_procès_verbal_de_récolement	Le procès verbal de récolement des travaux de l'inspection des installations classées date du 20/11/2012.		
+2011	09	01		2011	09	01		a_cessé_toute_activité	Elle a cessé toute activité sur son site de Sillans depuis fin 2009 et en a informé la Préfecture par courrier du 01/09/2011.		'la Préfecture'
+2009				2009				a_cessé_toute_activité	Elle a cessé toute activité sur son site de Sillans depuis fin 2009 et en a informé la Préfecture par courrier du 01/09/2011.		'la Préfecture'
+								était_initialement_exploité	Le site était initialement exploité par la société SAPRA dans les années 70 pour les mêmes activités.		'la société SAPRA'
+2011	09	29		2011	09	29		Un_diagnostic_initial	Un diagnostic initial et le dossier de cessation d'activité ont été transmis à la Préfecture le 29/09/2011.		'la Préfecture'

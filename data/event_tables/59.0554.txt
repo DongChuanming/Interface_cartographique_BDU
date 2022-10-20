@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	24		2006	05	24		Réalisation_d__une_étude_de_sols__	- Réalisation d'une étude de sols: 24 mai 2006.		
+1999	11	16		1999	11	16		Liquidation_judiciaire	- Liquidation judiciaire prononcée le 16 novembre 1999.		
+1999	07			1999	07			Cessation_d__activité	- Cessation d'activité en juillet 1999.		
+2007	01			2007	01			cessation_d__activité_transmis	- Mémoire de cessation d'activité transmis en janvier 2007.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				réalisation	Avant 1958 réalisation du site par la société SICO, avec un atelier de fabrication de lindane et lagunage.	'lindane'	'la société SICO'
+2001				2001				a_été_fournie	L'ESR a été fournie à la DRIRE en 2001, le site a été classé 2.		"L' ESR", 'la DRIRE'
+2000	12	31		2000	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques doit être transmise à l'administration au plus tard le 31/12/2000.		
+1958				1958				est_racheté	1958 : le site est racheté par ICV (industrie chimique de Voreppe) pour la production de tensio actifs.	'tensio actifs'	'ICV'

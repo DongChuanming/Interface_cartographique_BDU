@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			une_première_campagne_d__analyse	Le bureau d'études a réalisé une première campagne d'analyse des eaux souterraines en avril 2004 et réévalué l’ESR.		
+2011	10			2011	10			des_campagnes_de_surveillances	Les résultats des campagnes de surveillances suivantes de juillet 2006 à octobre 2011 indiquent que les concentrations suivent une tendance globale à la baisse.		
+2003	10	23		2003	10	23		a_été_fournie	L'étape B de l'ESR a été fournie à l'administration le 23 octobre 2003.		"l' ESR"
+1999	12	16		1999	12	16		a_été_remise	L'étape A (diagnostic initial) de l'Evaluation Simplifiée des Risques (ESR) a été remise à l'administration le 16 décembre 1999.		
+2006	08			2006	08			un_diagnostic_approfondi	En août 2006, un diagnostic approfondi du sous-sol a été réalisé, et une synthèse est présentée ci-dessous :		
+2011				2011				2_campagnes_de_mesures_de_l_	En effet, les résultats des 2 campagnes de mesures de l'année 2011 font ressortir un maximum en tensio-actifs anioniques de 46 mg/l  en Pz1, et 19 mg/l en Pz6, et un maximum en HCT de 19 mg/l en Pz1 et 0.13 mg/l en Pz6.	'tensio - actifs anioniques', 'en HCT', 'en Pz6 .'	
+1960				1960				une_unité_de_production_de_détergents	La société CHIMIOTECHNIC exploite depuis 1960, une unité de production de détergents et différents produits nettoyants ménagers.		'La société CHIMIOTECHNIC'
+2006	07			2006	07			des_campagnes_de_surveillances	Les résultats des campagnes de surveillances suivantes de juillet 2006 à octobre 2011 indiquent que les concentrations suivent une tendance globale à la baisse.		
+2004	10			2004	10			Une_seconde_campagne_d__analyse	Une seconde campagne d'analyse des eaux souterraines a été réalisée en octobre 2004 afin de connaître l'évolution de la pollution de la nappe suite aux travaux de réfection du réseau interne d'égout.		

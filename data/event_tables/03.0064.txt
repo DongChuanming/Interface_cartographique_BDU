@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	01	11		2019	01	11		de_la_visite	Lors de la visite du 11 janvier 2019 en présence du maire de la commune, de l’ancien exploitant, et de l’ADEME, l’inspection des installations classées à fait les constats suivants :		
+1995				1995				exploitait	L’établissement JYS CHROME exploitait depuis 1995 un établissement de traitement de surface		'JYS CHROME'
+2018	02	21		2018	02	21		est_placé_en_liquidation_judiciaire	La société Joël Christ est placé en liquidation judiciaire le 21 février 2018.		'La société Joël Christ'
+2018				2018				est_contactée	Suite à l’impécuniosité de la liquidation judiciaire, la délégation régionale de l'ADEME est contactée en 2018 par l'inspection des installations classées, dans le but d’assurer la mise en sécurité du site.		

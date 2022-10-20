@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04			2010	04			mis_à_jour	Un arrêté de restriction d'usage de l'eau a été pris en avril 2007 et mis à jour en avril 2010 ; il porte sur les communes de Richwiller et Kingersheim.		
+2007	04			2007	04			a_été_pris	Un arrêté de restriction d'usage de l'eau a été pris en avril 2007 et mis à jour en avril 2010 ; il porte sur les communes de Richwiller et Kingersheim.		
+2002				2002				une_évaluation_simplifiée_des_risques	En 2002, une évaluation simplifiée des risques (ESR) a été réalisée.		
+1977				1977				a_fait_état	En 1977, Traitements de surface Nobel BOZEL a fait état d'un changement de raison sociale (en Traitements de surface et mécanique, TSM) et non d'un changement d'exploitant.		'TSM'
+2009				2009				avait_été_évoquée	La réduction du Cr VI en Cr III par injection d'un réducteur à déterminer avait été évoquée en 2009 comme possibilité de traitement in situ.	'Cr VI', 'Cr III'	
+2009				2009				a_été_présenté	En 2009, un bilan coûts/avantages a été présenté à la mission interministérielle de l’eau du Haut-Rhin ainsi qu’en CODERST.		
+1968				1968				occupé	Site occupé depuis 1968 (Sté Traitements de surface NOBEL BOZEL) qui exploitait déjà une activité de traitements de surface, sur un site plus grand que celui sur lequel est actuellement implanté TSM (des parcelles ont été vendues aux entreprises riveraines).		'Sté Traitements de surface NOBEL BOZEL', 'TSM'

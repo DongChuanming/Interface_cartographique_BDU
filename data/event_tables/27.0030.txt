@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_récompensée	La Mairie de LA GUÉROULDE a été récompensée en 2001 par les "Rubans du patrimoine", pour la réhabilitation de ce site industriel.		'La Mairie de LA GUÉROULDE'
+1993	11			1993	11			a_informé	En novembre 1993, la Société ACHESON a informé la DRIRE que les opérations de nettoyage et d'élimination des déchets de surface étaient en grande partie réalisées.		'la Société ACHESON', 'la DRIRE'
+1995	04			1995	04			a_eu_connaissance	Ce n'est qu'en avril 1995, après une nouvelle visite du site, que la DRIRE a eu connaissance des pollutions constatées (par huiles minérales et hydrocarbures chlorés aliphatiques).	'huiles minérales', 'hydrocarbures chlorés aliphatiques'	'la DRIRE'
+1995	05			1995	05			les_travaux_de_réhabilitation	Un cahier des charges de dépollution a été approuvé et les travaux de réhabilitation ont commencé en mai 1995.		
+1870				1870				avaient_été_occupés	Le site et ses environs avaient été occupés à partir de 1870 par une petite fonderie, une fabrique de casseroles, puis une fabrique de cartouches.		
+1987				1987				avait_été_reprise	La Société GRAPHOIL, autorisée en 1955 pour la fabrication d'huiles graphitées, avait été reprise en 1987 par le groupe américain ACHESON.		'La Société GRAPHOIL', 'le groupe américain ACHESON'
+1997	07	1		1997	07	1		a_présenté	Le 1er juillet 1997, l’inspection des installations classées a présenté au Conseil Départemental d'Hygiène de l’Eure, pour information, un rapport exposant les actions menées lors de la réhabilitation du site.		
+1992	08	17		1992	08	17		a_cessé_toute_activité	La société ACHESON FRANCE a cessé toute activité à La Guéroulde le 17 août 1992.		'La société ACHESON FRANCE'

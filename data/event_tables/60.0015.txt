@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				a_cessé_son_activité	Cette décharge (réglementée par arrêté préfectoral du 27 décembre 1985) a cessé son activité en 1990.		
+1993				1993				a_été_implanté	Un réseau de surveillance des eaux souterraines comportant 4 piézomètres a été implanté sur le site en 1993.		
+1995				2000				ont_mis_en_évidence	Entre 1995 et 2000, les analyses de la qualité de la nappe ont mis en évidence en amont hydraulique du site une baisse des teneurs en sulfates, des teneurs en hydrocarbures totaux globalement stables mais également une augmentation de la teneur en baryum.	'sulfates', 'hydrocarbures totaux', 'baryum'	

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	05	02		2006	05	02		La_campagne_du	La campagne du 2 mai 2006 montre que la concentration en ammonium est en dessous de la VCI usage sensible en PZ2 bis.	'ammonium'	
+1997				1997				un_diagnostic_initial	Conformément aux engagements pris, ce site a fait l'objet d'un diagnostic initial en 1997 dont les principaux objectifs sont, outre les recherches historiques et documentaires, la recherche des ouvrages enterrés, l'évaluation de l'impact du site sur les ressources locales en eau (eaux souterraines et superficielles), et la caractérisation du sol superficiel pour évaluer les risques de contact direct et ceux liés à d'éventuelles émanations gazeuses.		
+2003	10			2003	10			Deux_campagnes_d__analyses	Deux campagnes d’analyses des eaux ont été réalisées en mai et octobre 2003.		
+2004	11	08		2004	11	08		Campagne	Campagne du 8 novembre 2004 :tous les paramètres en baisse sauf l'ammonium en PZ2 BIS et PZ3 amont.	'ammonium'	
+2003				2003				Une_campagne_sera_réalisée	Une campagne sera réalisée en 2003 en période de hautes et basses eaux sur les 3 piézomètres avec les anlyses de ammonium, 6 HAP et indice phénol.	'ammonium', '6 HAP', 'phénol'	
+2001	06			2001	06			La_neutralisation	La neutralisation de la cuve a été réalisée en juin 2001.		
+2003	02	03		2003	02	03		transmise	Une ESR a été réalisée par URS et transmise le 03/02/2003 à la DRIRE.		'URS', 'la DRIRE'
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de GAZ DE FRANCE ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usine à gaz entre le Ministère de l'Environnement et GAZ DE FRANCE, signé le 25 avril 1996.		'GAZ DE FRANCE', "le Ministère de l' Environnement", 'GAZ DE FRANCE'
+2004	06			2004	06			La_campagne_de	La campagne de juin 2004 met en évidence la baisse généralisée des teneurs en HAP et ammonium, en dessous de la valeur de constat d'impact usage sensible.	'HAP', 'ammonium'	
+								Deux_campagnes_d__analyses	Deux campagnes d’analyses des eaux ont été réalisées en mai et octobre 2003.		
+2004				2004				de_poursuivre_les_campagnes	La DRIRE demande à Gaz de France de remédier au problème de Pz2 et de poursuivre les campagnes en 2004, en basses et hautes eaux.	'Pz2'	'La DRIRE', 'Gaz de France'

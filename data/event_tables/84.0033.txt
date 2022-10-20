@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997				1997				est_établit	Le site a été racheté en 1978 par PANZANI et en 1997 une activité de production de nourriture pour animaux est établit par la création de la société MAC'ANI SA qui sera rachetée le 11/01/2001 par la société QUESNEL PARTICIPATION.		'PANZANI', "la société MAC' ANI SA", 'la société QUESNEL'
+								se_transforme	Au début des années 1900, le site se transforme en fabrique d'engrais chimiques et trituration de graine de luzerne.		
+2015	01	20		2015	01	20		une_visite_d__inspection	Suites à ces envois, une visite d'inspection a été programmée le 20 janvier 2015.		
+1978				1978				a_été_racheté	Le site a été racheté en 1978 par PANZANI et en 1997 une activité de production de nourriture pour animaux est établit par la création de la société MAC'ANI SA qui sera rachetée le 11/01/2001 par la société QUESNEL PARTICIPATION.		'PANZANI', "la société MAC' ANI SA", 'la société QUESNEL'
+2007				2007				sols_réalisé	Le mandataire de justice, Maître Bouvet a notifié l'arrêt définitif par courrier du 2 décembre 2009 auquel était joint un diagnostic des sols réalisé en 2007 par la SOCOTEC.		'Maître Bouvet', 'la SOCOTEC'
+1796				1796				est_exploité	Le site est exploité depuis 1796 par l'implantation d'un moulin à farine, puis de 1820 à 1827 la transformation du moulin en fabrique de garance et l'ajout d'une usine à soie développent les activités du site.		
+2009	04	27		2009	04	27		a_été_mise_en_liquidation_judiciaire	La société CANISSIMO a été mise en liquidation judiciaire (prononcée le 27 avril 2009) et a en effet cessé toute activité.		'La société CANISSIMO'
+2015	04	02		2015	04	02		a_été_pris	Un arrêté d'urgence a été pris le 27 janvier 2015, suivi d'une mise en demeure en date du 2 avril 2015.		
+2015	04	02		2015	04	02		d__une_mise_en_demeure_en	Un arrêté d'urgence a été pris le 27 janvier 2015, suivi d'une mise en demeure en date du 2 avril 2015.		
+2013	11	07		2013	11	07		la_réalisation_d__un_mémoire_de_réhabilitation	Par arrêté complémentaire en date du 7 novembre 2013, il a été prescrit la réalisation d'un mémoire de réhabilitation.		
+2007	08	08		2007	08	08		a_été_remis	Ce diagnostic a été remis le 08/08/2007.		
+2007	01			2007	01			est_exploité	Le site est exploité depuis Janvier 2007 par CANISSIMO appartenant au groupe ALPINA SAVOIR, qui a racheté le fond de commerce de QUESNEL PARTICIPATION.		'CANISSIMO', 'groupe ALPINA SAVOIR', 'QUESNEL'
+2009	04	27		2009	04	27		prononcée	La société CANISSIMO a été mise en liquidation judiciaire (prononcée le 27 avril 2009) et a en effet cessé toute activité.		'La société CANISSIMO'
+2016				2016				en_début_d_	Un nouvel arrêté préfectoral complémentaire sera proposé en début d'année 2016 pour prescrire les opérations de dépollution.		
+2015	01	27		2015	01	27		a_été_pris	Un arrêté d'urgence a été pris le 27 janvier 2015, suivi d'une mise en demeure en date du 2 avril 2015.		
+2001	01	11		2001	01	11		sera_rachetée	Le site a été racheté en 1978 par PANZANI et en 1997 une activité de production de nourriture pour animaux est établit par la création de la société MAC'ANI SA qui sera rachetée le 11/01/2001 par la société QUESNEL PARTICIPATION.		'PANZANI', "la société MAC' ANI SA", 'la société QUESNEL'
+1925				1978				devient	De 1925 à 1978, l'activité du site devient la fabrication de pâtes alimentaire par la société COCORICO.		'la société COCORICO'
+2014	06	12		2014	06	12		a_été_remis	Ce mémoire a été remis le 12 juin 2014, suivi d'un plan de gestion reçu le 10 décembre 2014.		
+								Un_nouvel_incendie	Un nouvel incendie est survenu le 15 janvier provoquant une pollution des eaux de surface.		
+								ont_été_ouvertes	Ces pollutions proviennent d'un acte de malveillance dans les années 60-70 où les vannes d'arrivée du fioul ont été ouvertes.	'fioul'	
+								un_acte	Ces pollutions proviennent d'un acte de malveillance dans les années 60-70 où les vannes d'arrivée du fioul ont été ouvertes.	'fioul'	
+2010	04	16		2010	04	16		un_incendie_s__est_déclaré	Le liquidateur n'a pas immédiatement assuré la mise en sécurité du site et un incendie s'est déclaré dans une partie des locaux de l'ancienne usine le 16 avril 2010.		

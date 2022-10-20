@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	08	31		2000	08	31		a_été_remise	L'ESR a été remise le 31/08/2000.		
+2004	12	10		2004	12	10		a_été_réalisé	Le 1er complément d’étude a été réalisé par SITA Remédiation et a été remis à l’inspection par courrier du 10/12/2004.		'SITA Remédiation'
+1961				1961				exerce	CEZUS exerce son activité  depuis 1961, dans les domaines de la chimie minérale et de la métallurgie.		'CEZUS'
+1999	12	01		1999	12	01		L__étude_de_sols	L'étude de sols a été imposée par l’arrêté préfectoral n° 98-8366 du 01/12/1999.		
+2000	12	31		2000	12	31		au_plus_tard	Cette étude qui comprend un diagnostic initial et une Évaluation Simplifiée des Risques (ESR) doit être transmise à l'administration au plus tard le 31/12/2000.		

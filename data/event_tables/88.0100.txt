@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								La_notification_de_cessation_d__activités	La notification de cessation d’activités a été reçue par Monsieur le Préfet des Vosges le 18 septembre 2013.		'le Préfet des Vosges'
+								était_autorisée_par	La société SOUCHE PAPERS était autorisée par arrêté préfectoral n° 443/2010 du 23 février 2010 à produire 64 000 tonnes/an de papier couché.		'La société SOUCHE PAPERS'
+2010				2010				était_autorisée_par	La société SOUCHE PAPERS était autorisée par arrêté préfectoral n° 443/2010 du 23 février 2010 à produire 64 000 tonnes/an de papier couché.		'La société SOUCHE PAPERS'
+2013				2013				La_notification_de_cessation_d__activités	La notification de cessation d’activités a été reçue par Monsieur le Préfet des Vosges le 18 septembre 2013.		'le Préfet des Vosges'
+2013	09			2013	09			Les_opérations_de_mise_en_sécurité	Les opérations de mise en sécurité et dépollution ont débuté en septembre 2013.		

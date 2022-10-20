@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								actualisation_des_prescriptions_applicables	Le 05/03/2009, le projet d'arrêté préfectoral d'actualisation des prescriptions applicables aux installations de l'usine de Frimont mentionne le confinement de l'ancienne fosse d'incinération. (art 41).		'Le 05/03/2009'
+2006	09	22		2006	09	22		récolement_de_réalisation	La DRIRE dresse le procès-verbal de récolement de réalisation des travaux de confinement le 22/09/2006.		
+								procéder	- de procéder à la révision de l’étude de sols dans un délai de 3 mois.		

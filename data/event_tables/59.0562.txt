@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05	31		2010	05	31		Réalisation_d__un_diagnostic_environnemental_complémentaire	- Réalisation d'un diagnostic environnemental complémentaire, le 31/05/2010.		
+2013	01			2013	01			Réalisation_d__une_étude_complémentaire	- Réalisation d'une étude complémentaire en janvier 2013 susceptible de modifier les conclusions de l'EQRS de 2009 (citée plus haut).		
+2008	06			2008	06			Évacuation_d_	- Évacuation d'un transformateur PCB en juin 2008.	'PCB'	
+2010	06			2010	06			débuté	- Réalisation d'aménagement: "Projet Hub", projet débuté en juin 2010, construction d'un hall logistique de 11 000 m2 dans la partie Sud du site et d'un siège social.		'Hub "'
+2009				2009				Démolition_d_	- Démolition d'un bâtiment au sud du site en 2009.		
+2010				2010				Installation_de	- Installation de trois piézomètres dans le domaine public, en aval du site, afin de caractériser l'étendue de la pollution des eaux souterraines, en 2010.		
+2009				2009				Réalisation_d__une_évaluation_quantitative_des_risques_sanitaires	- Réalisation d'une évaluation quantitative des risques sanitaires en 2009, mise à jour en 2010, laquelle évalue l'exposition des employés travaillant dans les bâtiments du site, a confirmé l'absence de risque sanitaire pour ces employés, par contre, un risque inacceptable existe pour les résidents au Sud-Ouest du site relatif à l'inhalation dans les habitations, de vapeurs contenant du chlorure de vinyle.	'vapeurs', 'contenant du chlorure de vinyle'	
+2012	07			2012	07			__Test_pilote	- Actions mises en place: Test pilote en juillet 2012: mise en place d'une barrière sur la nappe avec traitement des eaux souterraines.		
+2010	06			2010	06			Réalisation_d__aménagement	- Réalisation d'aménagement: "Projet Hub", projet débuté en juin 2010, construction d'un hall logistique de 11 000 m2 dans la partie Sud du site et d'un siège social.		'Hub "'

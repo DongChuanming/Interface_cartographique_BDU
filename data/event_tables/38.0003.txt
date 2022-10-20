@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				a_été_imposé	L'arrêt des dépôts a été imposé en 1990.		
+2000				2000				les_travaux_prévus_pour_le_réaménagement	- de lui demander de l'informer lorsque les travaux prévus pour le réaménagement seront exécutés à la fin de l'année 2000 et de lui transmettre un bilan global de surveillance avec la synthèse des contrôles analytiques, évaluant l'impact du dépôt au regard de l'environnement.		
+1914				1914				remonte_à_l_	La première activité recensée sur le site remonte à l'année 1914 et à l'implantation de la société BARON VIAL, spécialisée dans la construction de camions électriques.		'la société BARON VIAL'
+1999				1999				a_déposé	La société MARTIN PNEUS a déposé en 1999, un dossier de déclaration pour une activité de stockage de pneumatiques sur le site.		'La société MARTIN PNEUS'
+2000	07	13		2000	07	13		a_transmis	Suite à des arrêtés de prescriptions et de sanctions administratives, la société des FONDERIES D'ARANDON a transmis le 13/07/2000, un dossier de cessation d'activités.		"la société des FONDERIES D' ARANDON"
+1947	09	05		1947	09	05		exercera	Elle exercera une activité de fonderie d'aluminium bénéficiant d'un récépissé de déclaration signé le 05/09/1947.	'aluminium'	
+2011	07	20		2011	07	20		a_donné	Le 20/07/2011, le Directeur Général de la Prévention des risques a donné son accord de principe pour faire intervenir l'ADEME.		'le Directeur Général de la Prévention des risques'
+1995	01	05		1995	01	05		a_été_signé	Un arrêté préfectoral a été signé le 05/01/1995 en vue d'imposer à la société ARANDON la réalisation d'un inventaire des déchets et la confirmation des quantités de déchets.		'la société ARANDON'
+2011	10	05		2011	10	05		Une_visite_du_site_a_été_effectuée	Une visite du site a été effectuée par l'ADEME et l'Inspection des Installations Classées le 05/10/2011.		
+1914				1914				l__implantation	La première activité recensée sur le site remonte à l'année 1914 et à l'implantation de la société BARON VIAL, spécialisée dans la construction de camions électriques.		'la société BARON VIAL'
+				2003				un_contrôle	Le bureau d'étude conclut son rapport en affirmant qu'un contrôle de la qualité des eaux souterraine à fréquence semestrielle devra être réalisé jusqu'en 2003.		
+1987				1987				dépose_le_bilan_au_courant	PIERRE CALIGNON dépose le bilan au courant de l'année 1987.		'PIERRE CALIGNON'
+				1993	10			s__arrête	L'activité de la fonderie de pièces métallique s’arrête en septembre 1991 tandis que celle de la fonderie de contre-poids se poursuit jusqu'en octobre 1993.		
+2009	09	08		2009	09	08		a_transmis	Par fax du 08/09/2009, la Communautés de Communes du Pays des Couleurs a transmis à la DREAL, un rapport établi par la société SERPOL, sur l'identification sommaire des déchets dangereux sur le site.	'des déchets dangereux'	'la Communautés de Communes', 'la DREAL', 'la société SERPOL'
+								est_créée	La société des FONDERIES D'ARANDON est créée en novembre de la même année par les FONDERIES G-H BOUHYER.		"La société des FONDERIES D' ARANDON", 'les FONDERIES G - H BOUHYER'
+2000	05			2000	05			a_été_réalisé	Ce dernier a été réalisé par la société GEOSCOP en mai 2000.		'la société GEOSCOP'
+2009	12	21		2009	12	21		a_été_émis	L'arrêté préfectoral d'urgence n°2009-09905 a été émis le 21/12/2009.		
+1946				1946				est_créé	La société SOFAL est créé en 1946 et s'installe sur le site.		'La société SOFAL'
+1967				1967				cesse	SOFAL cesse son activité sur le site en 1967 et cède son usine à la société PIERRE CALLIGNON.		'SOFAL', 'la société PIERRE CALLIGNON'
+1947	09	05		1947	09	05		signé	Elle exercera une activité de fonderie d'aluminium bénéficiant d'un récépissé de déclaration signé le 05/09/1947.	'aluminium'	
+1991	09			1991	09			s__arrête	L'activité de la fonderie de pièces métallique s’arrête en septembre 1991 tandis que celle de la fonderie de contre-poids se poursuit jusqu'en octobre 1993.		
+2000	05			2002	12			6_campagnes_de_suivi_auront_été_réalisées	Au total, 6 campagnes de suivi auront été réalisées entre les mois de mai 2000 et décembre 2002.		

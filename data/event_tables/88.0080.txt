@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10			2012	10			un_diagnostic_environnemental	Dans le cadre de la cessation d’activité de l’ancien relais TOTAL, un diagnostic environnemental a été réalisé en octobre 2012.		
+2008	08			2008	08			a_définitivement_fermée	La station service a définitivement fermée en août 2008.		
+2014	09			2014	09			comprennent	En septembre 2014, les travaux de fermeture du site comprennent le démantèlement de l’auvent et des infrastructures suivantes : cuve 60 m3, dépotage, séparateur à hydrocarbures et appareil de distribution.	'hydrocarbures'	
+2015	05	25		2015	05	25		La_campagne_de_prélèvement	La campagne de prélèvement a été réalisée le 25 mai 2015.		
+2001				2008				a_été_exploitée	La station service a été exploitée par TOTAL Marketing Services entre 2001 et 2008.		'TOTAL'

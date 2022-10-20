@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				un_diagnostic	En 1999, après arrêt du site, un diagnostic du site à été réalisé sur l’ancienne décharge.		
+1998				1998				n__a_jamais_été_officiellement_actée	Le site est à l’arrêt depuis 1998 mais si la cessation est effective depuis 1998, elle n’a jamais été officiellement actée.		
+1995				1998				Syndicat_intercommunal_à_vocation_multiples___puis_exploitée	L'activité à été autorisée par arrêté préfectoral du 13/06/1979 au SIVOM (Syndicat intercommunal à vocation multiples) puis exploitée par la communauté de communes de 1995 à 1998.		
+1998				1998				est_effective	Le site est à l’arrêt depuis 1998 mais si la cessation est effective depuis 1998, elle n’a jamais été officiellement actée.		
+1998	1979||			1998	1979||			exploitée	Le site est une ancienne décharge exploitée entre 1979-1998.		
+1998				1998				est_à_l__arrêt	Le site est à l’arrêt depuis 1998 mais si la cessation est effective depuis 1998, elle n’a jamais été officiellement actée.		
+1995				1998				à_été_autorisée	L'activité à été autorisée par arrêté préfectoral du 13/06/1979 au SIVOM (Syndicat intercommunal à vocation multiples) puis exploitée par la communauté de communes de 1995 à 1998.		

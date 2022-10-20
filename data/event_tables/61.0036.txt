@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				souterraines_est_exercée_depuis	Une surveillance des eaux de surface ainsi que des eaux souterraines est exercée depuis 1996.		
+2002				2002				période_1996	Sur la base des résultats obtenus sur la période 1996-2002, les modalités de la surveillance ont été allégées en accord avec l'inspection des installations classées.		'modalités de la surveillance'
+2002				2002				allégées_en_accord_avec_l__inspection	Sur la base des résultats obtenus sur la période 1996-2002, les modalités de la surveillance ont été allégées en accord avec l'inspection des installations classées.		'modalités de la surveillance'

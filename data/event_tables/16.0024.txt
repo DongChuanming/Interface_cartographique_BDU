@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_mené	Un diagnostic complémentaire a été mené en 2005 et 2006.		
+2012				2012				Une_nouvelle_campagne_de_sondages	Une nouvelle campagne de sondages a été menée en 2012 afin de localiser d’éventuelles sources de pollution de type essence à proximité d’anciennes infrastructures.		
+2003				2003				excavation_réalisée	- impact résiduel en fond de fouille de l’excavation réalisée en 2003 (5 200 mg/kg),		
+2015	09			2015	09			de_la_campagne	La concentration maximale en hydrocarbures C5-C10 est retombée à 1 200 µg/l lors de la campagne de septembre 2015 (niveau de nappe en forte baisse).	'hydrocarbures C5-C10'	
+2014				2014				un_prélèvement_a_été_effectué	Lors de la campagne de 2014, un prélèvement a été effectué dans un puits en aval de la friche, hors site.		
+2015	07	06		2015	07	06		a_été_reçu	Le 6 juillet 2015, un dossier de demande de Servitude d'Utilité Publique (SUP) consignant les restrictions d'usage au droit du site a été reçu par l'Inspection.		
+2003				2005				Des_travaux_de_dépollution	Des travaux de dépollution ont été menés de 2003 à 2005 :		
+2015	06	18		2015	06	18		pris	Un arrêté préfectoral, pris le 18 juin 2015, prescrit une surveillance semestrielle pendant une durée de deux ans.		
+2014				2014				de_la_campagne	Lors de la campagne de 2014, un prélèvement a été effectué dans un puits en aval de la friche, hors site.		
+2005				2005				8_campagnes	Depuis 2005, 8 campagnes de suivi de la qualité des eaux souterraines ont été réalisées via des prélèvements dans une dizaine de piézomètres répartis au droit du site, les analyses portant sur les paramètres de type composés aromatiques volatils (BTEX), hydrocarbures C5-C40 et MTBE (éther additif à l’essence).	'composés aromatiques volatils', 'BTEX', 'hydrocarbures C5-C40', 'MTBE', 'éther additif', 'essence'	
+2015	06	18		2015	06	18		prescrit	Un arrêté préfectoral, pris le 18 juin 2015, prescrit une surveillance semestrielle pendant une durée de deux ans.		
+2016	05	30		2016	05	30		a_été_faite	Après avoir sollicité l'avis de la commune, de la société des Pétroles SHELL et la DDT, une proposition d'arrêté préfectoral de SUP a été faite le 30 mai 2016.		'la société des Pétroles SHELL', 'la DDT'
+2003	02			2003	02			Un_diagnostic_des_sols_établi	Un diagnostic des sols établi en février 2003 a mis notamment en évidence la présence de produit flottant dans la nappe au droit de la zone de distribution poids-lourds (PL).	'produit flottant'	
+2016	07	12		2016	07	12		a_été_notifié	Un récépissé de déclaration de cessation d'activité a été notifié le 12 juillet 2016.		
+2006				2006				a_été_mené	Un diagnostic complémentaire a été mené en 2005 et 2006.		
+2016	10	17		2016	10	17		a_été_signé	L'arrêté de SUP a été signé le 17/10/2016.		

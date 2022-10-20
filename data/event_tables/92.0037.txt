@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1978				1978				a_été_actée	La cessation a été actée en 1978.		
+2004	10	18		2004	10	18		Un_diagnostic_approfondi	Un diagnostic approfondi et une étude détaillée des risques (EDR) ont été fournis le 18/10/2004.		
+1993				1993				a_cessé_d__être_exploité	En 1993, le site a cessé d'être exploité.		
+2010	12	22		2010	12	22		une_demande	Dans le cadre d'une demande de permis de construire datée du 22/12/2010, l'exploitant a fourni le 04/02/2011 une Analyse des risques résiduels, permettant de vérifier la compatibilité entres les teneurs résiduelles et le projet d'aménagement.		
+1996	01	18		1996	01	18		Un_diagnostic_de_pollution	Un diagnostic de pollution du sol a été établi le 21/11/1997 à la suite d'une demande de l'administration adressée au propriétaire par arrêté préfectoral du 18/01/1996.		
+2006	10			2006	10			Évaluation_des_Risques_Sanitaires	Des servitudes privées sur la base de l’Évaluation des Risques Sanitaires d'octobre 2006 ont été annexées à l'acte de vente.		
+1997	11	21		1997	11	21		Un_diagnostic_de_pollution	Un diagnostic de pollution du sol a été établi le 21/11/1997 à la suite d'une demande de l'administration adressée au propriétaire par arrêté préfectoral du 18/01/1996.		
+2007	11			2007	11			un_traitement_de_la_nappe	Le terrain a fait l’objet d’une réhabilitation (dont notamment un traitement de la nappe réalisé d'avril 2007 à novembre 2007 afin de supprimer la phase libre d'hydrocarbures), exceptée une parcelle occupée à l'époque par la société SOLOTRAT.	'hydrocarbures'	'la société SOLOTRAT'
+2008				2008				a_été_cédé	Le site a été cédé en 2008 par la CIM à la Société d’Économie Mixte d'Aménagement de Gennevilliers (SEMAG 92).		'la CIM', 'la Société d’', 'Gennevilliers', 'SEMAG 92'
+2001				2001				est_réalisée	Depuis 2001, une surveillance piézométrique des eaux souterraines est réalisée.		
+2011	02	04		2011	02	04		a_fourni	Dans le cadre d'une demande de permis de construire datée du 22/12/2010, l'exploitant a fourni le 04/02/2011 une Analyse des risques résiduels, permettant de vérifier la compatibilité entres les teneurs résiduelles et le projet d'aménagement.		
+2007	04			2007	04			un_traitement_de_la_nappe	Le terrain a fait l’objet d’une réhabilitation (dont notamment un traitement de la nappe réalisé d'avril 2007 à novembre 2007 afin de supprimer la phase libre d'hydrocarbures), exceptée une parcelle occupée à l'époque par la société SOLOTRAT.	'hydrocarbures'	'la société SOLOTRAT'
+2007	12	28		2007	12	28		a_été_délivré_le	Le procès verbal de récolement a été délivré le 28 décembre 2007.		
+1976				1976				arrêtée	La CIM a exercé sur le site situé 227 rue des Caboeufs à Gennevilliers une activité de stockage d'hydrocarbures arrêtée en 1976.	'hydrocarbures'	'La CIM'
+								a_été_notifié	L'EDR ayant conclu à des risques inacceptables pour les futurs usagers du site liés à la pollution du sols, un arrêté préfectoral de dépollution a été notifié à l'ancien exploitant le 04/08/05.		
+1976				1976				a_exercé	La CIM a exercé sur le site situé 227 rue des Caboeufs à Gennevilliers une activité de stockage d'hydrocarbures arrêtée en 1976.	'hydrocarbures'	'La CIM'
+								A_l__issue	A l'issue des 3 ans de surveillance, un rapport final de synthèse doit permettre de conclure à l'arrêt ou à la poursuite de cette surveillance ;		
+2015	05			2015	05			a_fourni	La société CIM a fourni en mai 2015 un rapport final de synthèse.		'La société CIM'

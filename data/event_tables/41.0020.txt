@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				un_état_des_lieux	En 2004, dans le cadre d'un projet immobilier résidentiel qui n'a pas abouti, un état des lieux  de la qualité des sols est réalisé.		
+2012				2012				à_la_visite	Situation du site suite à la visite d'inspection de 2012:		
+2009	09			2009	09			l__inspection	Lors de l'inspection du site en septembre 2009, il a été constaté que le mandataire judiciaire en charge de la liquidation n'avait pas respecté les dispositions de l'arrêté préfectoral de mise en demeure.		
+2004	12	30		2004	12	30		des_mesures	Par arrêté préfectoral du 30 décembre 2004, des mesures de sécurisation sont prescrites à l'ancien exploitant.		
+2010	06	09		2010	06	09		a_été_vendu_par_contrat_de	Le site a été vendu par contrat de droit privé à un particulier le 09/06/2010 pour un usage d'habitation individuelle.		
+2010	05	11		2010	05	11		lever_la	1. de lever la consignation de fonds prescrite par arrêté n°2010-131-6 du 11 mai 2010, considérant que toutes les dispositions de mise en sécurité du site, imposées par l’arrêté préfectoral de mise en demeure n°2009-198-3 du 17 juillet 2009, étaient satisfaites ;		
+2009	01	16		2009	01	16		La_liquidation_judiciaire_de	La liquidation judiciaire de la société est prononcée le 16 janvier 2009.		
+2013				2013				la_visite	Un porter à connaissance a été transmis à la mairie (suite à la visite de 2013 et à l’étude historique) pour préconiser, en l'absence d'investigations complémentaires :		
+2013	05	02		2013	05	02		ont_procédé_à	Les services de la Direction régionale de l'environnement, de l'aménagement et du logement (DREAL Centre) ont procédé à une inspection du site le 2 mai 2013.		'DREAL Centre'
+2005	04	27		2005	04	27		la_mise_en_place_d_	Par arrêté du 27 avril 2005, le préfet de Loir et Cher prescrit à la société Les Tanneries Solognotes, la mise en place d'une surveillance des eaux souterraines et la réalisation d'une étude détaillée des risques.		'le préfet', 'la société Les Tanneries Solognotes'
+2005				2005				transmet	En 2005, l'exploitant transmet à l'inspection des installations classées 2 bordereaux de suivi de déchets industriels correspondant à l'élimination de 200 kg de déchets.		
+2013	05			2013	05			Une_étude_historique_a_été_réalisée	Une étude historique a été réalisée en mai 2013 et les résultats ont été portés à la connaissance de l'inspection des installations classées.		
+2010	05	11		2010	05	11		a_été_pris	Comme le prévoit le code de l'Environnement en son article L514-1, une procédure de consignation de fonds a été engagée et un arrêté préfectoral de consignation a été pris le 11/05/2010 à l'encontre du mandataire.		
+2009	09			2009	09			a_été_constaté	Lors de l'inspection du site en septembre 2009, il a été constaté que le mandataire judiciaire en charge de la liquidation n'avait pas respecté les dispositions de l'arrêté préfectoral de mise en demeure.		
+2012				2012				une_division_devant_notaire	Le site a fait l'objet d'une division devant notaire au profit d'un tiers en 2012.		
+1850				2002				a_exploité	De 1850 à 2002, la société "Les Tanneries Solognotes" a exploité une installation de tannage à VENDOME.		'Les Tanneries Solognotes'
+2010				2010				Des_analyses_réalisées	Des analyses réalisées en 2010 sur le contenu des cuves de tannage mettent en évidence la présence de certains métaux lourds retrouvés dans les sols (cuivre, baryum).	'métaux lourds', 'cuivre', 'baryum'	

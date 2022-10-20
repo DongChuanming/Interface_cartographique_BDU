@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_été_réalisé	- Le diagnostic initial - phase A - a été réalisé en 2001.		
+2011	03			2011	03			complétée	- Réalisation d'une nouvelle Évaluation Simplifiée des Risques remise le 02/12/2010 et complétée en mars 2011.		
+								Diagnostic_du_site_réalisée	- Diagnostic du site réalisée dans le cadre de la circulaire du 03/04/96.		
+2003				2003				a_été_résorbé	Ce dépôt a été résorbé en 2003.		
+2010	12	02		2010	12	02		Réalisation_d__une_nouvelle_Évaluation_Simplifiée_des_Risques	- Réalisation d'une nouvelle Évaluation Simplifiée des Risques remise le 02/12/2010 et complétée en mars 2011.		
+2011	03			2011	03			Réalisation_d__une_nouvelle_Évaluation_Simplifiée_des_Risques	- Réalisation d'une nouvelle Évaluation Simplifiée des Risques remise le 02/12/2010 et complétée en mars 2011.		

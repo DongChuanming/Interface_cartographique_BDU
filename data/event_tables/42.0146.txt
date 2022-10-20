@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	28		2008	01	28		a_informé	Ayant cessé son activité, l’exploitant a informé la préfecture de la mise à l’arrêt définitif de ses installations par courrier en date du 28 janvier 2008.		
+2012	11	19		2012	11	19		a_été_signé_dans	Un arrêté préfectoral complémentaire a été signé dans ce sens le 19 novembre 2012.		
+2011	01	06		2011	01	06		a_été_rendu_destinataire	En date du 6 janvier 2011, l’exploitant a été rendu destinataire d’un premier rapport de l’inspection, demandant que soient communiqués :		
+1997	10	10		1997	10	10		de_déclaration	La société PLASSARD, installée à VEAUCHE, exploitait un dépôt d’hydrocarbures qui a fait l’objet d’un récépissé de déclaration en date du 10 octobre 1997, au titre des rubriques 1430 et 1434 de la nomenclature des installations classées.	'hydrocarbures'	'La société PLASSARD'
+1965	03	12		1965	03	12		déclaration	JP PLASSARD avait été titulaire d’un récépissé de déclaration en date du 12 mars 1965, pour la détention à la même adresse d’un réservoir aérien de 35 000 m3 de FOD (ancienne rubrique 255 de la nomenclature).	'm3 de FOD'	'JP PLASSARD'

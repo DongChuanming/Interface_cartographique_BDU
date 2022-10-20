@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	11			2011	11			Démantèlement	- Démantèlement de l'atelier d'anhydride maléique en novembre 2011.	'anhydride maléique'	
+2003	07	18		2003	07	18		Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques et d'un schéma conceptuel, en date du 18/07/2003.		
+1993				2000				Travaux_de_purge	- Travaux de purge et curage des lagunes, avec pose d'un géotextile entre 1993 et 2000.		
+2004	09			2004	09			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en septembre 2004: celle-ci conclut que les risques sont acceptables pour les travailleurs au droit des zones sources de pollution et pour les habitants hors site.		
+1995	03			1995	03			__Résorption_des_dépôts_réalisée_par_enlèvement_et_destruction_des_déchets_à_l__extérieur	- Résorption des dépôts réalisée par enlèvement et destruction des déchets à l'extérieur en mars 1995.		
+2010	01	19		2010	01	19		Réalisation_d_	- Réalisation d'une interprétation de l'état des milieux, en date du 19/01/2010.		
+2010	05	04		2010	05	04		Réalisation_d__investigations	- Réalisation d'investigations du sous-sol au droit du bassin d'orage et de l'ancien atelier pilote, en date du 04/05/2010.		
+1993				2000				avec_pose_d_	- Travaux de purge et curage des lagunes, avec pose d'un géotextile entre 1993 et 2000.		
+2011	10	28		2011	10	28		Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic de la qualité des bétons et des sols après démantèlement de l'ancien atelier de MAA, en date du 28/10/2011.		'MAA'
+2010	06	22		2010	06	22		Réalisation_d__un_rapport_de_synthèse_d__investigations	- Réalisation d'un rapport de synthèse d'investigations complémentaire du milieu souterrain à proximité de piézomètre A, piézomètre B, au droit des anciennes zones de stockage et des anciennes lagunes, en date du 22/06/2010.		

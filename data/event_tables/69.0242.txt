@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1957				1957				ses_activités_de_Mécanicien___Constructeur	- En 1957, la société PIV était classée par ses activités de Mécanicien-Constructeur		'la société PIV'
+2012	12	19		2012	12	19		a_été_radiée	L'entreprise PIV a été radiée le 19/12/2012.		"L' entreprise PIV"
+1995				1995				une_nouvelle_déclaration	- En 1995, les activités ont fait l'objet d'une nouvelle déclaration sous le récépissé du 17 mars 1995 pour les activités suivantes :		
+1958				1958				a_été_construite	- La nouvelle usine a été construite en 1958, rue Eugène Pottier, sur un terrain en friche, pour la fabrication de variateurs de vitesse mécanique et la société a fait l'objet d'une reprise du récépissé de déclaration par la rubrique n°405 B-2° (vernis, peinture, encre d'impressions.		
+1958				1995				aucune_déclaration	- Entre 1958 et 1995, aucune déclaration en préfecture n'a été réalisée.		
+1995	03	17		1995	03	17		était_soumise_à_déclaration	L'activité était soumise à déclaration au titre de la réglementation des Installations Classées sous couvert d'un récépissé de déclaration en date du 17 mars 1995.		
+1958				1958				appartenait	- En 1958, l'entreprise appartenait à la troisième classe des Établissements Classés.		
+2009	06			2009	06			a_été_placée_en_procédure_de_liquidation_judiciaire	L'entreprise a été placée en procédure de liquidation judiciaire par le tribunal de commerce de Lyon en juin 2009.		
+2011	07	06		2011	07	06		a_informé	Par  courrier en date du 6 juillet 2011, le mandataire judiciaire a informé l'administration qu'il n'était pas en mesure de réaliser ces opérations.		
+2010	06	21		2010	06	21		un_dossier_de_cessation_d__activité	Maître Sabourin, désigné en qualité de mandataire judiciaire, a transmis à monsieur le préfet un dossier de cessation d'activité en date du 21 juin 2010, réalisé par le bureau d'études Néodyme EnviSol.		'Maître Sabourin', 'le préfet', 'Néodyme EnviSol'
+1957				1957				était_classée_par	- En 1957, la société PIV était classée par ses activités de Mécanicien-Constructeur		'la société PIV'
+1958				2010				a_exploité	La société PIV a exploité entre 1958 et 2010 des activités de fabrication de variateurs mécaniques et de renvois d'angles.		'La société PIV'

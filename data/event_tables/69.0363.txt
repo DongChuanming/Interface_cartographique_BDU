@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	01			1998	01			le_transfert	Deux ateliers, aujourd'hui inoccupés, accueillaient la papeterie et le stockage des produits finis, avant le transfert de l'activité de transformation en janvier 1998.		
+2004				2004				a_été_effectuée	Une première démarche de cessation d'activités a été effectuée en 2004, pour l'arrêt des activités de la papeterie avec un dépôt d'un dossier le 20 juillet 2004.		
+2006	10	26		2006	10	26		Cette_cessation	Cette cessation d'activité a été validée par la Préfecture du Rhône et l'inspection des installations classées par courrier du 26 octobre 2006, en concluant que les anciennes lagunes pouvait être classée en zone banalisable, sans prescriptions particulières.		'la Préfecture du Rhône'
+1784				1784				a_été_créée	La société papeterie du Val d'Ardières a été créée en 1784, au lieu-dit "Les Dépôts", en bordure de la RD 43, sur les communes Les Ardillats et Saint-Didier-sur-Beaujeu.		"La société papeterie du Val d' Ardières"
+1987	01	26		1987	01	26		était_autorisé_par	Le site était autorisé par l'arrêté préfectoral du  26 janvier 1987.		
+2011	12	22		2011	12	22		Un_diagnostic_des_sols	Un diagnostic des sols a été transmis à l'inspection des installations classées le 22 décembre 2011.		
+2011	01	21		2011	01	21		a_transmis	Par transmission du 21 janvier 2011, l'exploitant a transmis un dossier de cessation d'activités.		
+1998	01			1998	01			la_papeterie	Deux ateliers, aujourd'hui inoccupés, accueillaient la papeterie et le stockage des produits finis, avant le transfert de l'activité de transformation en janvier 1998.		
+2011	01	21		2011	01	21		Par_transmission	Par transmission du 21 janvier 2011, l'exploitant a transmis un dossier de cessation d'activités.		
+2004	07	20		2004	07	20		un_dépôt_d__un_dossier	Une première démarche de cessation d'activités a été effectuée en 2004, pour l'arrêt des activités de la papeterie avec un dépôt d'un dossier le 20 juillet 2004.		
+2012	08	1		2012	08	1		à_demandé	Par courrier du 1er août 2012, l'inspection des installations classées à demandé à l'exploitant de se positionner sur le maintien de la pollution résiduelle avec mise en place d'une restriction d'usage ou l'excavation des terres pollués.		
+2012	10			2012	10			Des_travaux_ont_été_réalisés	Des travaux ont été réalisés en octobre 2012 et les analyses des échantillons de sols réalisés après travaux ont donné les teneurs en hydrocarbures suivantes :	'hydrocarbures'	
+2013	02	13		2013	02	13		La_visite_d__inspection	La visite d'inspection du 13 février 2013 a permis de constater que :		
+2013	04	25		2013	04	25		ont_été_transmis	Ces bordereaux ont été transmis le 25 avril 2013.		
+1990				1990				ont_été_arrêtées	Les activités de production de papier ont été arrêtées en 1990, l'activité s'orientant alors vers la production et la transformation de carton ondulé.		
+2013	02	13		2013	02	13		a_demandé	Par courrier du 13 février 2013, l'inspection des installations classées a demandé à l'exploitant de fournir les bordereaux d'élimination de ces déchets.		
+2004	07	20		2004	07	20		a_été_effectuée	Une première démarche de cessation d'activités a été effectuée en 2004, pour l'arrêt des activités de la papeterie avec un dépôt d'un dossier le 20 juillet 2004.		
+2006				2006				Un_seul_cas_de_pollution_accidentelle	Un seul cas de pollution accidentelle de la rivière par déversement d'hydrocarbures (fuel domestique) lors d'une opération de remplissage de cuve a été constaté en 2006.	'hydrocarbures', 'fuel domestique'	
+1998	01			1998	01			accueillaient	Deux ateliers, aujourd'hui inoccupés, accueillaient la papeterie et le stockage des produits finis, avant le transfert de l'activité de transformation en janvier 1998.		

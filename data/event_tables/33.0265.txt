@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				en_fin_d_	Le stockage de déchets dans cette zone semble avoir débuté en fin d'année 2007.		
+2008	09	12		2008	09	12		une_inspection	Sur proposition de la DRIRE, suite à une inspection du site le 12/09/2008 ayant permis de constater l'exploitation illicite de cette décharge, le Préfet de la Gironde a pris :		'la DRIRE', 'le Préfet de la Gironde'
+2007				2007				semble	Le stockage de déchets dans cette zone semble avoir débuté en fin d'année 2007.		

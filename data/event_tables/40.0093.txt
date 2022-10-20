@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	07	22		2008	07	22		déclare_mettre	Le 22/07/2008, l'exploitant déclare mettre les 3 cuves d'hydrocarbures hors service.	'hydrocarbures'	
+1999				1999				a_été_arrêtée	L'installation de traitement du bois a été arrêtée en 1999.		
+2009	10	1		2009	10	1		envisage	Le 1er/10/2009, la DRIRE envisage de suspendre cette surveillance par arrêté complémentaire.		'la DRIRE'
+2005				2005				diagnostic	La campagne réalisée dans le cadre du diagnostic de 2005 permet de constater l'absence d'impact sur la nappe.		
+1964				1964				a_été_crée	Cet établissement a été crée en 1964.		
+2005	06			2005	06			Les_études_remises	Les études remises en juin 2005 ne montrent pas d'anomalie notable sur les sols.		

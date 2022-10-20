@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	11	09		2016	11	09		un_diagnostic_environnement	Le site a fait l'objet d'un diagnostic environnement en aout 2016 (rapport INOVADIA C16-050 du 9 novembre 2016).		
+				2017	05			les_travaux	Le site a ensuite fait l'objet d'un rapport concernant la mise en sécurité et le suivi environnemental des travaux de démantèlement (rapport Inovedia du 13 juillet 2017 relatant les travaux qui ont été réalisés entre janvier et mai 2017).		'Inovedia'
+2016				2016				un_diagnostic_environnement	Le site a fait l'objet d'un diagnostic environnement en aout 2016 (rapport INOVADIA C16-050 du 9 novembre 2016).		
+2017	10	26		2017	10	26		est_déposé	un dossier de servitude d'utilité publique est déposé par AS24 le 26 octobre 2017.		'AS24'

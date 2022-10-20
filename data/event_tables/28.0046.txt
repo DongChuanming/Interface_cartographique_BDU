@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			est_condamnée	La cuve est condamnée en avril 2004 suite au passage au gaz naturel de l'installation de chauffage.		
+2010	03			2010	03			ont_été_détectées	- Des traces d'acénaphtène et de fluorène ont été détectées au niveau du piézomètre amont en mars 2010	'acénaphtène', 'fluorène'	
+2004	03	15		2004	03	15		a_fait_l__objet_d_	L'industriel a fait l'objet d'un arrêté préfectoral de mise en demeure de régulariser sa situation administrative en date du 07 janvier 2004 puis d'un arrêté préfectoral complémentaire prescrivant un audit environnemental, en date du 15 mars 2004.		
+2004				2014				Les_campagnes_d__analyses_successives	Les campagnes d'analyses successives de 2004 à 2014 confirment l'absence de pollution dans l'eau au droit du site.		
+2004	02	04		2004	02	04		L__étude_a_été_transmise	L'étude a été transmise au service d'inspection le 04 février 2004.		
+2004	01	27		2004	01	27		une_réépreuve	Le 27 janvier 2004, une réépreuve du réservoir d'hydrocarbure et des canalisations a été effectuée.	'hydrocarbure'	
+2003	10	14		2003	10	14		s__est_rendue_responsable	La société CLAIRCELL CLASSEMENT, s'est rendue responsable le 14 octobre 2003 d'une pollution de l'Ozanne par déversement d'hydrocarbures.	'hydrocarbures'	'La société CLAIRCELL CLASSEMENT'
+2001				2001				a_été_vendue	En 2001, cette dernière a été vendue au groupe ExaCompta-ClaireFontaine pour devenir la société CLAIRCELL CLASSEMENT.		'groupe ExaCompta', 'ClaireFontaine', 'la société CLAIRCELL CLASSEMENT'

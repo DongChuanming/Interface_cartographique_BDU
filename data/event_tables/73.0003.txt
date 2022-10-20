@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12	11		2000	12	11		une_demande	La société PEM a déposé le 11 décembre 2000 une demande d'institution de servitudes d'utilité publique telles que prévues à l'article L 515-12 du code de l'environnement.		'La société PEM'
+2001	05			2001	05			des_enquêtes_publiques	Ce dossier complété après remarques de l'administration a fait l'objet des enquêtes publiques (mai 2001) et administratives.		
+2000	01	15		2000	01	15		d__une_évaluation_simplifiée_des_risques_transmise	La décharge a fait l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques transmise le 15 janvier 2000 à l'administration par la Société ANTEA.		'la Société ANTEA'
+2000	11			2000	11			a_été_validé	Ce projet a été validé par l'INERIS en novembre 2000.		
+2000	10	10		2000	10	10		ont_été_déposés_à_titre_provisoire	Par ailleurs, au cours du 1er semestre 2000, environ 11000 m3 de déchets arséniés stabilisés provenant de la décharge voisine des Nantieux à Saint-Marcel(voir cette fiche spécifique) ont été déposés à titre provisoire conformément aux dispositions des arrêtés des 21 mars et 10 octobre 2000.	'déchets arséniés'	
+2000				2000				ont_été_déposés_à_titre_provisoire	Par ailleurs, au cours du 1er semestre 2000, environ 11000 m3 de déchets arséniés stabilisés provenant de la décharge voisine des Nantieux à Saint-Marcel(voir cette fiche spécifique) ont été déposés à titre provisoire conformément aux dispositions des arrêtés des 21 mars et 10 octobre 2000.	'déchets arséniés'	
+1977				1998				a_été_exploité	Il a été exploité de 1977 à 1998, et abrite environ 20 000 m3 de résidus de fabrications :		
+2001	10			2001	10			Les_travaux	Les travaux se sont achevés en octobre 2001.		
+								ont_été_déposés_à_titre_provisoire	Par ailleurs, au cours du 1er semestre 2000, environ 11000 m3 de déchets arséniés stabilisés provenant de la décharge voisine des Nantieux à Saint-Marcel(voir cette fiche spécifique) ont été déposés à titre provisoire conformément aux dispositions des arrêtés des 21 mars et 10 octobre 2000.	'déchets arséniés'	
+1998	12	1		1998	12	1		Une_étude_de_sol	Une étude de sol a été imposée à l'exploitant par arrêté préfectoral du 1er décembre 1998.		

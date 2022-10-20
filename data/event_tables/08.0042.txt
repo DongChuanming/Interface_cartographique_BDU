@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	06	24		1998	06	24		a_été_notifié	ans cet objectif, un arrêté préfectoral prescrivant la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques a été notifié à l'exploitant, le 24 juin 1998.		
+1979	09			1979	09			a_été_mis_en_place	Un plan de réhabilitation du site en zone industrielle a été mis en place par la Commuanuté de Commune des trois cantons et la chambre de commerce et d'industrie, dès septembre 1979.		'la Commuanuté de Commune'
+				1979	07	30		ont_été_présentes	Des activités de moulin à grains, huilerie, scierie, métiers à clous et à pointes, d'aciéries, parcs à bétails ont été présentes sur le site, jusqu'au 30 juillet 1979.		
+2010				2010				ont_été_extraite	En 2010 la lentille de produit hydrocarboné et les terres hydrocarboné à sa périphérie ont été extraite et traité.	'produit hydrocarboné', 'hydrocarboné'	
+2004	09			2004	09			une_campagne_de_contrôle	Conformément à la notice hydrogéologique remise le 18 juin 2004 à 'linspection des installations classées, une campagne de contrôle de la qualité des eaux souterraines est en place depuis septembre 2004.		
+2009				2009				Un_complément_aux_diagnostics	Un complément aux diagnostics antérieurs est réalisé en 2009,  il met en évidence la présence d'une lentille de produits hydrocarbonés au niveau du secteur de l'ancien gazogène (Secteur A).	"d' une lentille de produits hydrocarbonés", 'gazogène'	
+2005	04	19		2005	04	19		Les_campagnes_de_surveillance_débutent	Les campagnes de surveillance débutent le 19 avril 2005.		

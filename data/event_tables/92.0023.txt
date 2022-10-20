@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	07	07		1998	07	07		Liquidation_judiciaire	Liquidation judiciaire le 07/07/1998.		
+2000	03			2000	03			repris	Terrain repris ensuite par la SCI Colombes Metropoly en mars 2000.		
+1999	01	17		1999	01	17		effectué	Diagnostic pollution effectué le 17/01/1999 mais insuffisant.		
+								rédigé	Diagnostic complémentaire (rédigé le 28/07/00) par ATE pour la SCI.		
+1998	12	29		1998	12	29		imposant_la_remise_en_état_de_site	Arrêté préfectoral imposant la remise en état de site le 29/12/1998 notifié au liquidateur.		
+2003	09	02		2003	09	02		des_matériaux_excavés	BSDI des matériaux excavés envoyés en CET de classe 1 le 25/01/2002 (transmis par courrier du 2/09/2003).		
+1999	12			1999	12			Enlèvement_effectué	Enlèvement effectué par la SCI, de tous les déchets et produits présents sur site, en décembre 1999.	'les déchets'	

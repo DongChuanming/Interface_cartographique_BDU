@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	12			1998	12			Les_études_réalisées	Les études réalisées en décembre 1998 et mars 1999 ont montré la présence d'une pollution des sols dans une partie de la parcelle CX 108 par des hydrocarbures, des xylènes et des composés métalliques (cuivre, arsenic, plomb, chrome).	'hydrocarbures', 'des xylènes', 'des composés métalliques', 'cuivre', 'arsenic', 'plomb', 'chrome'	
+2004				2004				ont_été_réalisées	Celles-ci ont été réalisées fin 2004.		
+1999	03			1999	03			Les_études_réalisées	Les études réalisées en décembre 1998 et mars 1999 ont montré la présence d'une pollution des sols dans une partie de la parcelle CX 108 par des hydrocarbures, des xylènes et des composés métalliques (cuivre, arsenic, plomb, chrome).	'hydrocarbures', 'des xylènes', 'des composés métalliques', 'cuivre', 'arsenic', 'plomb', 'chrome'	
+1999				1999				achète	En 1999, PAULSTRA achète deux parcelles (CX 108 et CX 114 du plan cadastral de la commune) situées derrière ses ateliers afin d’y implanter un stockage sous abris de déchets.	'de déchets'	'PAULSTRA'
+1930				1963				accueille	Entre 1930 et 1963, il accueille des activités de fonderie, forge et chaudronnerie.		
+1930				1963				des_activités_de_fonderie	Entre 1930 et 1963, il accueille des activités de fonderie, forge et chaudronnerie.		
+2004				2004				Un_diagnostic	Un diagnostic de la parcelle CX108, avec des investigations de terrain, ainsi qu’une évaluation simplifiée des risques (ESR) ont été réalisés début 2004.		
+2006				2006				Les_travaux_ont_été_réalisés	Les travaux ont été réalisés au 1er semestre 2006.		
+1963				1963				est_racheté	En 1963, il est racheté par la société Paulstra.		'la société Paulstra'
+1999				1999				les_recherches_de_pollution	A la demande de l'administration, les recherches de pollution ont débuté en 1999.		
+2005	03			2005	03			Une_nouvelle_évaluation_simplifiée_des_risques	Une nouvelle évaluation simplifiée des risques a été réalisée à la lumière de ces nouvelles informations en mars 2005.		
+2003	11			2003	11			ont_été_mis_en_place	Deux piézomètres ont été mis en place en novembre 2003 :		
+								Les_travaux_ont_été_réalisés	Les travaux ont été réalisés au 1er semestre 2006.		

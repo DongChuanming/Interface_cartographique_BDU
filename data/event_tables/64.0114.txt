@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11			2009	11			ont_été_constatés	Lors de la visite d'inspection de novembre 2009, des apports de déchets ont été constatés.		
+2010	02	17		2010	02	17		a_été_pris	Compte tenu de la sensibilité de l'environnement (Gave en contrebas et habitations à proximité), un arrêté de mise en demeure a été pris à l'encontre de la Mairie de Saint-Jean-Pied-de Port (arrêté préfectoral n° 010/IC/037 du 17 février 2010) fixant les mesures d'urgence suivantes :		'la Mairie'
+								un_diagnostic	Il était également demandé à l'exploitant de transmettre sous 3 mois un diagnostic visant à définir les mesures à prendre pour assurer la remise en état du site, diagnostic réalisé sur la base du guide méthodologique de l'ADEME.		
+2009				2009				était_toujours_en_exploitation	Cette décharge était toujours en exploitation en 2009.		
+2009	11			2009	11			de_la_visite_d__inspection	Lors de la visite d'inspection de novembre 2009, des apports de déchets ont été constatés.		

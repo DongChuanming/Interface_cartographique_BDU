@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2007				Diverses_études_et_contrôles	Diverses études et contrôles destinés à évaluer la pollution dans les sols et les eaux souterraines ont été réalisés entre 2000 et 2007, date du démantèlement.		
+2007				2007				a_été_démantelé	Le dépôt "historique" a été démantelé en 2007, il subsiste à ce jour une petite activité de distribution de carburants pour la desserte des besoin locaux assurée à partir de 4 réservoirs horizontaux aériens de 300 m3 de gazole et 100 m3 de fioul et d'un bras de chargement.	'carburants', 'gazole', 'fioul'	
+1931				1931				dont_les_premières_activités	Ancien dépôt aérien d'hydrocarbures liquides dont les premières activités (Ets COINEAU)remontent à 1931.	'hydrocarbures liquides'	'Ets COINEAU)remontent'
+2001	07			2001	07			se_sont_succédés	Plusieurs exploitants se sont succédés, COINEAU Distribution puis THERMOFINA et SNC ALVEA en juillet 2001.		'COINEAU Distribution puis THERMOFINA', 'SNC ALVEA'

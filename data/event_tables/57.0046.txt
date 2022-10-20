@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				des_investigations_sur_les_sols	Sur le reste du site : des investigations sur les sols de 2014 ont révélé la présence de métaux sur l'ensemble du site, d'hydrocarbures totaux, de COHV au sein de la lagune.	'métaux', "d' hydrocarbures totaux", 'COHV'	'la lagune'
+2004				2004				une_procédure_de_liquidation_judiciaire	La société BATA HELLOCOURT a fait l'objet d'une procédure de liquidation judiciaire en 2004.		'La société BATA HELLOCOURT'
+2005	09	01		2005	09	01		a_été_mandatée	Le 01 septembre 2005, une société a été mandatée par le mandataire judiciaire pour effectuer les travaux de dépollution.		
+2002				2002				a_repris	. a repris, en 2002, une partie des activités de la société BATA.		'la société BATA'
+2001				2001				a_cessé_son_activité	L'usine a cessé son activité en 2001.		
+2004	05	25		2004	05	25		un_diagnostic_a_été_réalisé	Conformément aux prescriptions de l'arrêté du 28 juillet 2002, un diagnostic a été réalisé 'bureau d'études ARCADIS) et transmis à l'inspection le 25 mai 2004.		'ARCADIS'
+2002	07	26		2002	07	26		la_réalisation_d__une_étude_préliminaire	Cette exploitation ayant été, de fait, mise à l’arrêt définitif, le Préfet de la Moselle a, par arrêté préfectoral du 4 juillet 2002, mis en demeure l’administrateur judiciaire de remettre le site en état, et a prescrit, par arrêté du 26 juillet 2002, la réalisation d’une étude préliminaire (diagnostic initial) de cette décharge.		'le Préfet', 'de la Moselle'
+2001	12			2001	12			ont_signalé	En décembre 2001, plusieurs personnes ont signalé à la DRIRE Lorraine l’existence sur le site d’une décharge dans laquelle auraient été enfouis 30 à 40 fûts de déchets toxiques en provenance d’un autre site de production de BATA (Usine de VERNON dans l’Eure).	'déchets toxiques'	'la DRIRE', 'BATA'
+2002	07	28		2002	07	28		un_diagnostic_a_été_réalisé	Conformément aux prescriptions de l'arrêté du 28 juillet 2002, un diagnostic a été réalisé 'bureau d'études ARCADIS) et transmis à l'inspection le 25 mai 2004.		'ARCADIS'
+2005	06			2005	06			la_liquidation_judiciaire	En juin 2005, la liquidation judiciaire de cette société a été prononcée.		
+2005	11			2005	11			finalisés	En novembre 2005, le rapport sur les travaux de dépollution et l'étude simplifiée des risques (ESR) sont finalisés.		
+2002	07	26		2002	07	26		par_arrêté	Cette exploitation ayant été, de fait, mise à l’arrêt définitif, le Préfet de la Moselle a, par arrêté préfectoral du 4 juillet 2002, mis en demeure l’administrateur judiciaire de remettre le site en état, et a prescrit, par arrêté du 26 juillet 2002, la réalisation d’une étude préliminaire (diagnostic initial) de cette décharge.		'le Préfet', 'de la Moselle'
+2002	01	24		2002	01	24		exploitée_sans_autorisation_découverte	Décharge interne exploitée sans autorisation découverte le 24 janvier 2002.		

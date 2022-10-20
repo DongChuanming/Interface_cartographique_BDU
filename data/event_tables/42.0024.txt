@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 08/12/98.		
+1999	10	20		1999	10	20		le_diagnostic_initial	L'exploitant a transmis le diagnostic initial (1ère partie de l'étude) le 20/10/1999 dont la conclusion préconise des investigations complémentaires (analyses d'eaux et de sols).		
+1976				1990				présentaient	De 1976 à 1990, un certains nombres de zones de stockage non couvertes présentaient des risques potentiels de pollution.		
+2001	06	14		2001	06	14		L__étude_de_sol	L'étude de sol (étapes B et C) a été transmise à l'administration le 14 juin 2001.		
+								impose_la_réalisation_d__une_étude_détaillée_des_risques	Un nouvel arrêté du 27/10/2004 réglemente le fonctionnement de l'ensemble de l'établissement et notamment impose la réalisation d'une étude détaillée des risques sous un délai de 9 mois.		
+2004	10	27		2004	10	27		Un_nouvel_arrêté	Un nouvel arrêté du 27/10/2004 réglemente le fonctionnement de l'ensemble de l'établissement et notamment impose la réalisation d'une étude détaillée des risques sous un délai de 9 mois.		
+2000				2000				a_été_foré	TRois piézomètres, dont le dernier a été foré en 2000 ont été suivis et analysés au cours de l'année 2001.		

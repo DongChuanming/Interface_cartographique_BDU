@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	28		2003	07	28		Lors_d__une_seconde_visite	Lors d'une seconde visite le 28 juillet 2003, de nouveaux prélèvements ont été effectués.		
+2003	07	28		2003	07	28		de_nouveaux_prélèvements_ont_été_effectués	Lors d'une seconde visite le 28 juillet 2003, de nouveaux prélèvements ont été effectués.		
+2003	06	25		2003	06	25		A_l__occasion_d__une_visite	A l'occasion d'une visite le 25 juin 2003, l'inspection des installations classées a pu vérifier que le décapage avait été réalisé.		

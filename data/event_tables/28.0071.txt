@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				la_campagne_réalisée	Pour la campagne réalisée en 2013, aucune corrélation n’a pu être mise en évidence concernant les concentrations en solvants chlorés et la profondeur des points de prélèvements dans les piézairs.	'chlorés'	
+2015	04	1		2015	04	1		a_été_cédé	Le site a été cédé par PHILIPS à la societé LUMILEDS le 1er avril 2015 et l'activité reste inchangée.		'PHILIPS', 'la societé LUMILEDS'
+2012	04			2012	04			ont_été_réalisés	En avril 2012, 6 prélèvements d’air ambiant ont été réalisés à l’intérieur des bâtiments au niveau de la zone DPC.		
+2010				2010				n__est_plus_soumis_à_autorisation	Suite à des modifications de la nomenclature des installations classées survenues en 2010, l’établissement n’est plus soumis à autorisation mais à déclaration.		
+2002				2002				avaient_été_mis_en_place	En 2002, 3 premiers piézomètres avaient été mis en place suite à un audit interne sans obligation réglementaire et dans le cadre d’une démarche volontaire.		
+2014	08	06		2014	08	06		L__information	L'information du maire a été faite par la préfecture le 6 août 2014.		'la préfecture'
+2012				2012				Une_campagne_de_prélèvements_réalisée	Une campagne de prélèvements réalisée en 2012 avaient mis en évidence une augmentation des concentrations en PCE et TCE en fonction de la profondeur.	'PCE', 'TCE'	
+2016	11			2016	11			les_campagnes_de	Au droit du site, les dernières mesures transmises par l’exploitant portent sur les campagnes de novembre 2016 et janvier 2017.		
+2017	01			2017	01			les_campagnes_de	Au droit du site, les dernières mesures transmises par l’exploitant portent sur les campagnes de novembre 2016 et janvier 2017.		
+2013	12	20		2013	12	20		a_informé	Le 20 décembre 2013, par courrier,  l’exploitant a informé l’administration qu’un impact important en solvants chlorés a été mis en évidence sur les eaux souterraines et notamment en tétrachloroéthylène (PCE) et trichloroéthylène (TCE) avec des teneurs bien supérieures à la valeur limite de l’arrêté ministériel du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine (PCE+TCE > 10 µg/L).	'en solvants chlorés', 'en tétrachloroéthylène ( PCE', 'et trichloroéthylène ( TCE', '( PCE+TCE'	
+2013	08			2013	08			une_modélisation_hydrodispersive	En août 2013, une modélisation hydrodispersive a été réalisée par une bureau d’études mandaté par la société PHILIPS.		'la société PHILIPS'

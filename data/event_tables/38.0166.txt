@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01	17		2011	01	17		a_été_mis_en	Par arrêté préfectoral n°2011-017-0031 du 17 janvier 2011, Me SERRANO, a été mis en demeure de respecter les prescriptions des articles précédents.		'Me SERRANO'
+2011	02	25		2011	02	25		a_fourni	Par courriers, en date du 25 février 2011 et du 14 mars 2011, Me SERRANO a fourni les justificatifs attendus au titre de la mise en sécurité du site.		'Me SERRANO'
+2008	06	17		2008	06	17		Par_décision	Par décision du tribunal de commerce en date du 17 juin 2008, la société Papeteries de Pont de Claix a été mise en liquidation judiciaire.		'la société Papeteries de Pont', 'de Claix'
+2009	04	15		2009	04	15		avait_constaté	Lors d'une inspection réalisée le 15 avril 2009, l'inspecteur des installations classées avait constaté la présence sur le site de quelques produits et déchets en faible quantité ainsi que de transformateurs PCB et huile.	'PCB'	
+								premières_analyses	- la surveillance des eaux souterraines avec transmission des résultats des premières analyses sous 4 mois (article 3),		
+2008	12	16		2008	12	16		a_imposé	Par arrêté préfectoral n°2008-11435 du 16 décembre 2008, monsieur le préfet de l'Isère a imposé à Maître SERRANO :		'le préfet', 'Maître SERRANO'
+1821				1821				a_été_fondée	La société Papeteries de Pont de Claix a été fondée en 1821, au niveau de l'avenue du Maquis de l'Oisans 38800 Le Pont de Claix.		'La société Papeteries de Pont de Claix'
+2011	03	14		2011	03	14		a_fourni	Par courriers, en date du 25 février 2011 et du 14 mars 2011, Me SERRANO a fourni les justificatifs attendus au titre de la mise en sécurité du site.		'Me SERRANO'
+2000	04			2000	04			a_retrouvé_son_indépendance	Ayant successivement appartenue au groupe Aussedat-Rey à compter de 1971, puis au groupe International Paper en 1989, la société a retrouvé son indépendance en avril 2000.		'groupe International Paper'
+2009	04	15		2009	04	15		d__une_inspection_réalisée	Lors d'une inspection réalisée le 15 avril 2009, l'inspecteur des installations classées avait constaté la présence sur le site de quelques produits et déchets en faible quantité ainsi que de transformateurs PCB et huile.	'PCB'	
+2008	06	17		2008	06	17		a_été_mise_en_liquidation_judiciaire	Par décision du tribunal de commerce en date du 17 juin 2008, la société Papeteries de Pont de Claix a été mise en liquidation judiciaire.		'la société Papeteries de Pont', 'de Claix'
+2010	03	12		2010	03	12		a_transmis	Par courrier du 12 mars 2010, Maître SERRANO a transmis à l'inspection des installations classées un dossier comprenant :		'Maître SERRANO'
+1971				1971				a_retrouvé_son_indépendance	Ayant successivement appartenue au groupe Aussedat-Rey à compter de 1971, puis au groupe International Paper en 1989, la société a retrouvé son indépendance en avril 2000.		'groupe International Paper'

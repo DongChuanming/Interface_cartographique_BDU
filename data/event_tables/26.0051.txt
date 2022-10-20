@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	05	12		2011	05	12		diagnostic_approfondi	Conclusion du diagnostic approfondi du 12/05/2011 :		
+2012	06			2012	06			des_sondages_complémentaires	Dans le cadre d'une reconversion du site qui ferait suite à un déménagement de la société EROME SA, l'EPORA a fait réaliser des sondages complémentaires aux mois de mai et juin 2012.		'la société EROME SA', "l' EPORA"
+2012				2012				le_déménagement_futur	- envisager à partir du résultat de ces nouvelles investigations la réalisation d'une évaluation quantitative des risques sanitaires pour  vérifier la compatibilité avec l'usage sensible prévu pour le site, dès le déménagement futur des activités à l'été 2012.		
+2008	05			2008	05			Un_diagnostic_de	Un diagnostic de pollution des sols a été réalisé en mai 2008 dans le cadre d'un futur transfert de l'activité de transformation de matières plastiques exercée par la société EROME SA sur un autre site.		'la société EROME SA'
+								des_sondages_complémentaires	Dans le cadre d'une reconversion du site qui ferait suite à un déménagement de la société EROME SA, l'EPORA a fait réaliser des sondages complémentaires aux mois de mai et juin 2012.		'la société EROME SA', "l' EPORA"

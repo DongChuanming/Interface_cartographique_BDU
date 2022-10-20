@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	11	22		2006	11	22		un_arrêté_en	La surveillance a fait l'objet d'un arrêté en date du 22 novembre 2006.		
+2010	11	16		2010	11	16		Un_acte_de_vente	Un acte de vente daté du 16/11/2010 rend propriétaire du terrain la SCI Romorantin Le Jardin des Trois Rois, afin de faire construire une résidence avec jardin public.		'la SCI Romorantin'
+2003				2003				a_cessé	Cette installation classée soumise à autorisation a cessé sont activité en 2003.		
+1961				1961				s__y_est_installée	La société MATRA s'y est installée en 1961 pour y réaliser l'assemblage d'automobiles, succédant progressivement à une industrie textile implantée sur le site (entre 1961 et 1969).		'La société MATRA'
+				2007				a_été_occupé	Un des bâtiments du site a été occupé en location par une société d'assemblage d'engins type quad et buggy jusqu'en 2007.		
+2004				2004				La_cession_du_site	La cession du site Romo 4 à la commune de Romorantin a été effectuée en 2004.		'Romorantin'

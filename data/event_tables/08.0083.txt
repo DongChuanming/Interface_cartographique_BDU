@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	23		2010	04	23		a_été_pris	En date du 23 avril 2010, un arrêté préfectoral complémentaire a été pris demandant notamment :		
+2011				2011				a_été_détectée	Une seule valeur dépassant les seuils de qualité des eaux souterraines a été détectée depuis sa mise en place (0,8 µg/l de dichloroéthylène au droit du piézomètre sentinelle situé à 150 m du site en 2011).	'dichloroéthylène'	
+2010	05			2010	05			a_été_mise_en_place	Ainsi, une barrière hydraulique fonctionnant de manière continue a été mise en place en mai 2010.		
+								sur	la mise en place d'une unité pilote avec traitement par bio-stimulation et oxydation chimique si nécessaire sur une période de 1 an ;		
+2012				2012				investigations	Avant 2012, seules les zones correspondantes aux anciennes activités de l'évaporateur, de la station de chromatation, de la station de traitement des effluents aqueux et de l'installation de dégazage ont fait l'objet d'investigations de la part de l'exploitant.	'effluents aqueux'	
+2011	12			2011	12			la_réunion	un bilan du test pilote (objet du rapport transmis par DELPHI en décembre 2011 et de la réunion du 11 janvier 2012) au terme de la période de test ;		'DELPHI'
+2010	02			2011	08			Les_tests_pilotes	Les tests pilotes, réalisés sur les zones REC 0 et REC 5 en plusieurs étapes, se sont déroulés entre février 2010 et août 2011.		
+2011	12			2011	12			a_été_revendu	Il est à noter, par ailleurs, que le site a été revendu à la société NEXANS en décembre 2011.		'la société NEXANS'
+2010	04			2010	04			sont_traitées	Les eaux pompées dans la nappe superficielle à environ 7 m de profondeur, pour un débit oscillant entre 0,4 et 1 m3/h, sont traitées et rejetées dans la Meuse en aval du site suivant les paramètres fixés dans l'arrêté préfectoral d'avril 2010.		
+2012	01	11		2012	01	11		la_réunion	un bilan du test pilote (objet du rapport transmis par DELPHI en décembre 2011 et de la réunion du 11 janvier 2012) au terme de la période de test ;		'DELPHI'
+2011	09			2011	09			a_traité	A la fin du mois de septembre 2011, l'installation a traité environ 7500 m3 d'eau souterraine depuis sa mise en service pour une extraction de 50 kg solvants chlorés.	'solvants chlorés'	
+2009	08			2009	08			plan_de_gestion	Toutefois, depuis lors (plan de gestion d'août 2009), la société DELPHI a décidé de cesser toutes ses activités sur le site de Donchery et a réalisé de nouvelles études.		'la société DELPHI'
+2013	03	26		2013	03	26		a_été_pris_le	Un arrêté préfectoral complémentaire a été pris le 26 mars 2013 demandant à la société DELPHI :		'la société DELPHI'
+2003				2003				une_campagne_européenne_de_réhabilitation	À partir de 2003, le groupe DELPHI a entrepris, sur l’ensemble de ses sites ayant exercé des activités de dégraissage au trichloréthylène, dont son site de Donchery dans les Ardennes, une campagne européenne de réhabilitation.	'trichloréthylène'	'le groupe DELPHI'
+2010	02			2010	02			mise_en_place	la barrière hydraulique mise en place en février 2010 donne des résultats satisfaisants ;		

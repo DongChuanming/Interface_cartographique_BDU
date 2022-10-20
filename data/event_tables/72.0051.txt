@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1961				1961				a_été_exploité	Le site a été exploité comme terre agricole, puis pour un usage industriel à partir de 1961 par la société SOURIAU et Compagnie et à partir de 1989 par la société FCI (FRAMATOME CONNECTORS INTERNATIONAL).		'la société SOURIAU', 'la société FCI ( FRAMATOME', 'CONNECTORS INTERNATIONAL'
+2010	06			2010	06			La_mise_en_œuvre	La mise en œuvre du plan de gestion de la pollution débute en juin 2010.		
+2009	07	31		2009	07	31		La_cessation_d__activité	La cessation d'activité est notifiée au préfet par l'exploitant le 31 juillet 2009.		
+								a_été_actée	Une Servitude d’utilité publique (SUP) a été actée le 12/10/17.		
+2010	06			2010	06			Des_investigations_ont_été_réalisées	Des investigations ont été réalisées en juin 2010.		
+2013	12			2013	12			Ces_travaux_se_sont_terminés	Ces travaux se sont terminés en décembre 2013.		
+2014	09	24		2014	09	24		acte	Le 24 septembre 2014 le préfet acte la remise en état du site pour un usage industriel.		'le préfet'

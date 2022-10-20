@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	26		2007	06	26		L__analyse	L'analyse du 26/06/2007 n'a pas mis en évidence de concentrations supérieures au seuil de quantification, sur les paramètres recherchés, que ce soit pour l'échantillon prélevé sur le puits ou celui prélevé sur le piézomètre.		
+2002	04	24		2002	04	24		a_été_transmise	L'ESR a été transmise les 09 mai, 26 décembre 2001 et 24 avril 2002, à M. le Préfet de la DROME.		"L' ESR", 'le Préfet', 'de la DROME'
+				2001	12	26		a_été_transmise	L'ESR a été transmise les 09 mai, 26 décembre 2001 et 24 avril 2002, à M. le Préfet de la DROME.		"L' ESR", 'le Préfet', 'de la DROME'
+								a_été_transmise	L'ESR a été transmise les 09 mai, 26 décembre 2001 et 24 avril 2002, à M. le Préfet de la DROME.		"L' ESR", 'le Préfet', 'de la DROME'
+2002	03			2002	03			Les_analyses_effectuées	Les analyses effectuées en mars 2002  et en juillet 2002 dans le puits et le piézomètre de l’établissement , n’ont pas révélé d'impact de la nappe par les substances mises en évidence dans les sols .		
+2002	07			2002	07			Les_analyses_effectuées	Les analyses effectuées en mars 2002  et en juillet 2002 dans le puits et le piézomètre de l’établissement , n’ont pas révélé d'impact de la nappe par les substances mises en évidence dans les sols .		

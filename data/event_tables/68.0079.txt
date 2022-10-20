@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1991				des_affaissements	De 1989 à 1991: des affaissements se manifestent ponctuellement.		
+1998	07			1998	07			Les_analyses	Les analyses effectuées en juillet 1998 n'ont pas permis de détecter de HCH dans les eaux souterraines en aval hydraulique.	'HCH'	
+2005				2005				Les_premières_analyses	Les premières analyses en 2005 montrent un impact:		
+				1970				se_poursuivant	Entre 1960 et 1963: commencement de l'activité de remblaiement à grande échelle, se poursuivant jusqu'en 1970 environ.		
+1970				1972				__achat	Entre 1970 et 1972: achat par la Commune de Huningue pour la construction d'un stade.		
+1955				1955				__arrêt	En 1955: arrêt de l'extraction de graviers avec maintien d'une activité sporadique jusqu'en 1961.		
+1969				1969				est_entièrement_comblée	En 1969, la carrière est entièrement comblée et nivelée (photographie aérienne et note de la DDAF 68).		'la DDAF'
+1960				1963				__commencement	Entre 1960 et 1963: commencement de l'activité de remblaiement à grande échelle, se poursuivant jusqu'en 1970 environ.		
+1972				1972				construction_du_nouveau	1972: construction du nouveau stade (photographie aérienne 1973).		
+1998				1998				est_réalisée	Une étude est réalisée par le BRGM et la Police des eaux, en 1998.		'le BRGM'

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								abattement	Les résultats finaux du traitement ont été probants et conformes à l'objectif fixé de 500 mg/kg MS en hydrocarbures avec un abattement quasi-total des teneurs des terres traitées (teneur de 12 mg/kg MS en HCT après 6 mois de traitement).	'hydrocarbures', 'HCT'	
+2009	07			2009	07			a_été_démantelée	L'aire de traitement a été démantelée en juillet 2009.		
+2009				2009				ont_été_retirés	Depuis 2007, aucune activité n’est pratiquée au droit du site et l’ensemble des infrastructures pétrolières et des bâtiments ont été retirés en 2009.		
+2007				2007				n__est_pratiquée	Depuis 2007, aucune activité n’est pratiquée au droit du site et l’ensemble des infrastructures pétrolières et des bâtiments ont été retirés en 2009.		
+2008	07	22		2008	07	22		Une_notification	Une notification de la cessation d’activité en date du 22 juillet 2008 a été transmise par la société DMS à la Préfecture de Seine-Maritime, déclarant la cessation définitive d’activité de l’ancien dépôt pétrolier.		'la société DMS', 'la Préfecture de Seine - Maritime'
+2009				2009				n__est_pratiquée	Depuis 2007, aucune activité n’est pratiquée au droit du site et l’ensemble des infrastructures pétrolières et des bâtiments ont été retirés en 2009.		
+1970	07	23		1970	07	23		a_été_exploité_initialement	Le dépôt pétrolier a été exploité initialement par la société AUGER Frères, Fils CHARVET successeurs, à partir du 23/07/1970.		'la société AUGER Frères', 'CHARVET'
+1999	03	01		2008	07	22		a_exploité	La société DMS a exploité entre le 01/03/1999 et le 22/07/2008 un dépôt pétrolier, assujetti au régime de la déclaration au titre des installations classées pour la protection de l'environnement, localisé au Hameau de la station à Bolbec (76).		'La société DMS'
+2011				2011				a_été_réalisée	Une analyse des risques résiduels a été réalisée en 2011 en considérant un usage futur industriel (dernière période d'exploitation d'un site à déclaration et conforme au PLU).		
+2009	11			2009	11			Des_travaux_de_dépollution	Des travaux de dépollution par excavation ont été menés en novembre 2009 (35.48 tonnes de terres évacuées).		
+2008	09			2009	11			des_travaux_de_dépollutions	Suite à différents diagnostics, et sur la base d'un plan de gestion (juillet 2008) des travaux de dépollutions des sols par traitements biologique (570 m3 traités par landfarming) ont été menés sur le site entre septembre 2008 et novembre 2009.		
+2007	03			2009				démantelés	Le site a été mis en sécurité et l'ensemble des déchets et infrastructures pétrolières et bâtiments ont été soit éliminés vers des installations autorisées soit démantelés entre mars 2007 et juillet 2009.		

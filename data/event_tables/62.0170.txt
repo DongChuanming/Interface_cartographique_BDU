@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02	21		2007	02	21		cessation_d__activité_remis	-Mémoire de cessation d'activité remis le 21/02/2007.		
+2009	12	02		2009	12	02		de_début_des_travaux	-Travaux: Évacuation de terres impactées par les hydrocarbures et élimination en filière agrée (15.8T), confinement de la pollution résiduelle, le 02/12/2009 (date de début des travaux)	'hydrocarbures'	
+2008	11	20		2008	11	20		_Évacuation_de_déchets	-Évacuation de déchets: 20/11/2008.		
+2008	02	06		2008	02	06		investigations_sur_les_sols	-Diagnostic de pollution - investigations sur les sols: 06/02/2008.		
+2006	12	18		2006	12	18		_Cessation_d__activité_notifiée	-Cessation d'activité notifiée le 18/12/2006.		

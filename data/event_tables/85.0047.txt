@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	01			2016	01			a_été_réalisé	Un schéma conceptuel a été réalisé en janvier 2016.		
+1996				1996				comprend	Il comprend depuis 1996 des installations de préservation du bois.		
+2018	04			2018	04			des_campagnes	En aval immédiat du bac (pz1), les anomalies mesurées lors des campagnes d’août 2017 à avril 2018 sont comprises entre 26 µg/l et 42 µg/l pour le tébuconazole et entre 56 µg/l et 82 µg/l pour le propiconazole.	'pour le tébuconazole', 'l pour le propiconazole'	
+2017	08			2017	08			des_campagnes	En aval immédiat du bac (pz1), les anomalies mesurées lors des campagnes d’août 2017 à avril 2018 sont comprises entre 26 µg/l et 42 µg/l pour le tébuconazole et entre 56 µg/l et 82 µg/l pour le propiconazole.	'pour le tébuconazole', 'l pour le propiconazole'	
+2015	12			2015	12			un_diagnostic	En décembre 2015, un diagnostic de pollution des sols a été réalisé.		

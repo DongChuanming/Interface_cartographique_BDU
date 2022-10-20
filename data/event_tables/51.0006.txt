@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				analyses	Les derniers résultats d'analyses de 2009 ne mettent pas en évidence d'évolution de la pollution.		
+2004	10			2004	10			des_analyses_d_	Les résultats des analyses d'avril et octobre 2004 (haute et basse eaux) sur les trois piézomètres ont été transmis à l'inspection des installations classées le 26 novembre 2004.		
+2003	07	08		2003	07	08		a_indiqué_la_fermeture_du_site_immédiate	A la suite de la visite d'inspection du 8 juillet 2003, il a indiqué la fermeture du site immédiate.		
+2004	11	26		2004	11	26		ont_été_transmis	Les résultats des analyses d'avril et octobre 2004 (haute et basse eaux) sur les trois piézomètres ont été transmis à l'inspection des installations classées le 26 novembre 2004.		
+2003	07	08		2003	07	08		la_visite_d__inspection	A la suite de la visite d'inspection du 8 juillet 2003, il a indiqué la fermeture du site immédiate.		
+2004	06	30		2004	06	30		des_risques_remise	Le diagnostic initial et l'étude simplifiée des risques remise le 30 juin 2004, montrent des traces de métaux (nickel et cuivre) dans le sol et des traces de chlorures, nitrates, benzène et nickel dans les eaux souterraines.	'métaux', 'nickel', 'cuivre', 'chlorures', 'nitrates', 'benzène', 'nickel'	
+2004	02	04		2004	02	04		a_été_signé	Un arrêté préfectoral complémentaire relatif à la remise d'un diagnostic initial et au suivi de la qualité des eaux souterraines a été signé par le préfet le 4 février 2004.		'le préfet'
+2003	08	11		2003	08	11		Des_analyses	Des analyses sur les eaux souterraines ont été réalisées sur les 2 piézomètres existants le 11/08/2003.		
+								des_analyses_d_	Les résultats des analyses d'avril et octobre 2004 (haute et basse eaux) sur les trois piézomètres ont été transmis à l'inspection des installations classées le 26 novembre 2004.		

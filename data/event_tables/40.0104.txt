@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03	30		2004	03	30		devait_effectuer	Par arrêté préfectoral de mise en demeure du 23 juin 2011, l’exploitant devait effectuer la surveillance des eaux souterraines (deux fois par an en périodes de basses et hautes eaux), telle que prévue par l'article 3.4 de l'arrêté préfectoral du 30 mars 2004.		
+2011	06	23		2011	06	23		devait_effectuer	Par arrêté préfectoral de mise en demeure du 23 juin 2011, l’exploitant devait effectuer la surveillance des eaux souterraines (deux fois par an en périodes de basses et hautes eaux), telle que prévue par l'article 3.4 de l'arrêté préfectoral du 30 mars 2004.		
+2010	05	20		2010	05	20		est_repreneur	La société PLOMBY CULTURE est repreneur de la SCA DE MATHA le 20 mai 2010.		'La société PLOMBY CULTURE', 'la SCA DE MATHA'

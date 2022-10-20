@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	17		2005	06	17		a_été_rejetée	La demande d'annulation a été rejetée par jugement du TA de Strasbourg du 17 juin 2005.		'du TA de Strasbourg'
+2004	04	05		2004	04	05		a_fait_l__objet	L'arrêté du 02/02/2004 portant prescriptions complémentires pour réaliser la surveillance des eaux souterraines a fait l'objet le 05/04/2004 d'un recours en annulation auprès du Tribunal Administratif.		
+2004	02	02		2004	02	02		a_fait_l__objet	L'arrêté du 02/02/2004 portant prescriptions complémentires pour réaliser la surveillance des eaux souterraines a fait l'objet le 05/04/2004 d'un recours en annulation auprès du Tribunal Administratif.		
+2003				2003				a_été_présenté	Un nouveau projet d'arrêté a été présenté fin 2003 au conseil départemental dhygiène, en vue d'imposer au propriétaire une mesure de la qualité des eaux souterraines à l'aval du site.		
+2002				2002				a_été_présenté	Mi 2002, un projet d'arrêté préfectoral a été présenté au conseil départemental d'hygiène afin que le propriétaire réalise une étude historique de l'ancienne gravière utilisée comme décharge et mette en place un réseau de surveillance de la qualité des eaux souterraines.		
+1991				1991				a_recensé	Le BRGM a recensé en 1991, à la demande de l'ANRED les sites potentiellement pollués dans la région des trois frontières.		'BRGM'

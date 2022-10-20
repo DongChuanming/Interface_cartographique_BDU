@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	02	21		2000	02	21		la_réalisation_d__une_évaluation_simplifiée_des_risques	Toutefois, compte tenu de l'ampleur du site, de son long passé industriel et de l'existence d'événements polluants anciens, il a été prescrit le 21 février 2000 la réalisation d'une évaluation simplifiée des risques.		
+2000	12	20		2000	12	20		a_été_reçue	Cette dernière a été reçue le 20 décembre 2000.		
+1977				1977				La_rupture	La rupture d'une tuyauterie d'alimentation en fuel domestique a entraîné en 1977 une pollution significative de la nappe	'fuel domestique'	
+1924				1924				fondée	Cette usine fondée en 1924 par Henri POTEZ est utilisée depuis 1975 pour la fabrication d'avions ou d'éléments.		'Henri POTEZ'
+1977				1977				une_pollution_significative	La rupture d'une tuyauterie d'alimentation en fuel domestique a entraîné en 1977 une pollution significative de la nappe	'fuel domestique'	
+1975				1975				est_utilisée	Cette usine fondée en 1924 par Henri POTEZ est utilisée depuis 1975 pour la fabrication d'avions ou d'éléments.		'Henri POTEZ'
+2001	08	03		2001	08	03		a_été_signé	Suite à une visite de l'inspection des installations classées, un arrêté préfectoral a été signé le 03 août 2001, prescrivant une auto surveillance des eaux souterraines et l'envoi des résultats de manière semestrielle.		
+2009				2009				Les_deux_semestres	Les deux semestres de 2009 montrent que la pollution par les hydrocarbures persiste là où elle avait déjà été constatée.	'hydrocarbures'	

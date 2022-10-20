@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				arrêt	Sur les parcelles 0D-0002, 132, 134, 135 : ancien site industriel de production d'osséine (activité arrêtée en 1950), puis équarissage et fonte de suif (arrêt en 1994), puis transit de matières animales (arrêt en 2001)	'suif'	
+2001				2001				__arrêt	Sur les parcelles 0D-0002, 132, 134, 135 : ancien site industriel de production d'osséine (activité arrêtée en 1950), puis équarissage et fonte de suif (arrêt en 1994), puis transit de matières animales (arrêt en 2001)	'suif'	
+1950				1950				activité_arrêtée	Sur les parcelles 0D-0002, 132, 134, 135 : ancien site industriel de production d'osséine (activité arrêtée en 1950), puis équarissage et fonte de suif (arrêt en 1994), puis transit de matières animales (arrêt en 2001)	'suif'	
+1972				1972				arrêtée	Sur la parcelle 0D-0004: ancien site industriel de production d'osséine (activité arrêtée en 1972)		

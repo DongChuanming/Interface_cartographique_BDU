@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1913				1974				a_accueilli	Le site, d'une superficie d'environ 95.557m2 à proximité du stade Geoffroy Guichard, a accueilli de 1913 à 1974 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2004	01	05		2004	01	05		a_reçu	Le 16 janvier 2004, l’inspection a reçu un rapport de fin de travaux de vidange de cuve réalisé par le cabinet ERG Environnement le 5 janvier 2004.		'le cabinet ERG Environnement'
+1995				1995				un_audit_environnemental	Conformément aux engagements du protocole et en raison d’un projet d’aménagement du site, un audit environnemental a été réalisé en 1994 et 1995.		
+2005	03	04		2005	03	04		la_réunion	D’après le compte-rendu de la réunion du 4 mars 2005 réunissant la DRIRE et GDF, le dossier est terminé vis-à-vis des engagements du protocole dans la mesure ou le site n’est pas l’objet de projets d’aménagement, de ventes ou de changements d’usage.		'la DRIRE', 'GDF'
+2004	01	05		2004	01	05		réalisé	Le 16 janvier 2004, l’inspection a reçu un rapport de fin de travaux de vidange de cuve réalisé par le cabinet ERG Environnement le 5 janvier 2004.		'le cabinet ERG Environnement'
+2004	01	16		2004	01	16		a_reçu	Le 16 janvier 2004, l’inspection a reçu un rapport de fin de travaux de vidange de cuve réalisé par le cabinet ERG Environnement le 5 janvier 2004.		'le cabinet ERG Environnement'
+1994				1994				un_audit_environnemental	Conformément aux engagements du protocole et en raison d’un projet d’aménagement du site, un audit environnemental a été réalisé en 1994 et 1995.		

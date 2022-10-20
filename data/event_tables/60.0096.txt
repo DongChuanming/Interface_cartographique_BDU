@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				a_été_racheté	La production de la papeterie a démarré en 1932. le site a été racheté par le groupe suédois MODO en 1968 avec une production annuelle de 32000 tonnes de papier.		'groupe suédois MODO'
+1932				1932				a_été_créée	L'usine a été créée en 1932.		
+1932				1932				a_démarré	La production de la papeterie a démarré en 1932. le site a été racheté par le groupe suédois MODO en 1968 avec une production annuelle de 32000 tonnes de papier.		'groupe suédois MODO'
+2011	07	11		2011	07	11		a_été_pris	our cela, un arrêté préfectoral a été pris le 11/07/2011.		
+2009	05	11		2009	05	11		a_adressé	La société PSM, représentée par Maître LEHERICY, liquidateur judiciaire a adressé un dossier de cessation d’activité le 11 mai 2009.		'La société PSM', 'Maître LEHERICY'

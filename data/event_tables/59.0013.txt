@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06			2001	06			a_dû_être_remplacé	Un drain du grand terril a dû être remplacé en juin 2001 compte tenu de son obstruction occasionnant un relargage d'eaux chargées de chrome sur la voirie contiguë (coût : 1 MF).	'chrome'	
+2013	10	31		2013	10	31		Rapport_de_visite_d__inspection	Rapport de visite d’inspection du 31 octobre 2013 :		
+1905				1984				a_été_exploitée	De 1905 à 1984 a été exploitée une plate-forme chimique successivement par la société Chimique de Roubaix, Kuhlmann, PCUK et Rhône-Poulenc.		'la société Chimique de Roubaix', 'Kuhlmann', 'PCUK', 'Rhône - Poulenc'

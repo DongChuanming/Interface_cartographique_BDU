@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1980	11	03		1980	11	03		date_du	Le premier arrêté préfectoral autorisant l'exploitation du site date du 3 novembre 1980.		
+								a_été_pris	Un arrêté préfectoral a été pris le 5 octobre 2011 relatif au site de MHS et exprimant les prescriptions sur :		'de MHS'
+1979				1979				a_été_créé	Le site industriel localisé à "La Chantrerie" à Nantes a été créé en 1979 par le groupe MATRA à partir d'une zone non construite à vocation agricole.		'le groupe MATRA'
+2011				2011				a_été_pris	Un arrêté préfectoral a été pris le 5 octobre 2011 relatif au site de MHS et exprimant les prescriptions sur :		'de MHS'
+								ont_fait_l__objet_d_	Les activités exercées par la société MHS ont fait l’objet d'un arrêté préfectoral d'autorisation du 27 juillet 2000.		'la société MHS'
+1979				1979				n__a_pas_été_modifié	Le procédé de fabrication n'a pas été modifié depuis la création en 1979.		
+1979				1979				la_création	Le procédé de fabrication n'a pas été modifié depuis la création en 1979.		
+2010	12	15		2010	12	15		la_mise_en_liquidation	Le tribunal du commerce a déclaré la mise en liquidation du site industriel MHS de NANTES en date du 15/12/2010 pour un arrêt de l'activité fixé au 15/06/2011.		'Le tribunal du commerce', 'MHS de NANTES'
+2011	03	30		2011	03	30		a_été_portée	Cette proposition d'usage futur a été portée à la connaissance de la mairie de Nantes et du propriétaire du terrain le 30 mars 2011.		
+2011	06	15		2011	06	15		un_arrêt_de_l__activité	Le tribunal du commerce a déclaré la mise en liquidation du site industriel MHS de NANTES en date du 15/12/2010 pour un arrêt de l'activité fixé au 15/06/2011.		'Le tribunal du commerce', 'MHS de NANTES'
+2010	03			2010	03			Les_investigations_réalisées	Les investigations réalisées en mars 2010 ont donné les résultats suivants :		
+2011	03	30		2011	03	30		a_adressé	Par courrier daté du 30 mars 2011, la société MHS a adressé à l'administration un mémoire décrivant les mesures de mise en sécurité et de décontamination du site en référence aux exigences des articles R 512-39-1 à 4 du code de l'environnement.		'la société MHS'
+2011	12	14		2011	12	14		de_la_visite	Lors de la visite de l'inspection des installations classées du 14 décembre 2011, il a été constaté que les éléments suivants ont été effectués :		
+2005				2005				a_été_achetée	Après avoir été la propriété de plusieurs exploitants (TEMIC, ATMEL), l'activité production a été achetée en 2005 par la société XbyBus, baptisée depuis SAS Microcomposants de Haute Sécurité (MHS) électronics.	'MHS'	'TEMIC , ATMEL', 'la société XbyBus', 'Microcomposants de Haute Sécurité'
+2000	07			2000	07			ont_fait_l__objet_d_	Les activités exercées par la société MHS ont fait l’objet d'un arrêté préfectoral d'autorisation du 27 juillet 2000.		'la société MHS'
+2011	06	15		2011	06	15		la_mise_en_liquidation	Le tribunal du commerce a déclaré la mise en liquidation du site industriel MHS de NANTES en date du 15/12/2010 pour un arrêt de l'activité fixé au 15/06/2011.		'Le tribunal du commerce', 'MHS de NANTES'

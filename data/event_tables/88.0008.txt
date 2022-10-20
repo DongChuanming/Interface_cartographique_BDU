@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10			2003	10			est_placée_en_liquidation_judiciaire	La société SARL BTT est placée en liquidation judiciaire en octobre 2003.		'La société SARL BTT'
+1994				1994				Deux_études_ont_été_réalisées	Deux études ont été réalisées en 1994 pour le compte de l’EPFL (Etablissement Public Foncier de Lorraine).		'EPFL'

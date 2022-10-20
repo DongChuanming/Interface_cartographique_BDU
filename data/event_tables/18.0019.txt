@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_déposé	En juin 1981, le dépôt de bilan est déposé.		'1981 , le dépôt de bilan'

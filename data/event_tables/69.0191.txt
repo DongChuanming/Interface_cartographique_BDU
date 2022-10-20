@@ -1,0 +1,26 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	09	06		1991	09	06		Déclaration	Elle bénéficie des récépissés de Déclaration du 11/01/2000 et du 06/09/1991.		
+2005	04			2005	04			a_été_établie	Une EDR "ressources en eau et santé" a été établie en avril 2005.		
+1991	09	06		1991	09	06		bénéficie	Elle bénéficie des récépissés de Déclaration du 11/01/2000 et du 06/09/1991.		
+2012	07	25		2012	07	25		a_été_établi	Le bilan d'efficacité de l'installation de dépollution a été établi le 25/07/2012.		
+2006	03			2006	03			ont_été_mis_en_place	Un pompage-traitement de la nappe pour assurer la barrière de confinement et des opérations d'injection de Fenton et de permanganate ont été mis en place en mars 2006 et un rapport sur l'opération de dépollution du 29/10/2007 a été transmis à l'administration.	'Fenton', 'permanganate'	
+2010	06	15		2010	06	15		ont_été_mis_en_place	Un nouveau dispositif de traitement des sols (sparging/venting) et de la nappe (traitement biologique) ont été mis en place le 15/06/2010.		
+2012	08	09		2012	08	09		a_débuté	La surveillance des eaux souterraines hors site a débuté le 09/08/2012 sur 7 piézomètres supplémentaires installés hors site en août 2012 :		
+2008	08	05		2008	08	05		la_mise_en_place_d_	Le 05/08/2008, un arrêté préfectoral complémentaire impose à l'exploitant la mise en place d'un réseau de surveillance de la qualité des eaux souterraines sur site et hors site, la réalisation d'analyses d'air et d'une étude technico-économique relative à la suppression des sources de pollution dans les sols au droit du site, et la mise en place d’une barrière de confinement permettant de contenir les eaux polluées sous le site afin de limiter l’impact sanitaire en aval hydraulique du site.		
+2012	08			2012	08			installés_hors_site	La surveillance des eaux souterraines hors site a débuté le 09/08/2012 sur 7 piézomètres supplémentaires installés hors site en août 2012 :		
+2012	06	12		2012	06	12		a_été_établie	Une synthèse de suivi de l'installation de dépollution a été établie dans le rapport du 12/06/2012.		
+2012	03	22		2012	03	22		a_été_acté	Au vu du rapport de l'inspection des installations classées du 14/03/2012 , le 22/03/2012, un arrêté préfectoral prescrivant des mesures d'urgence a été acté.		
+								Deux_injections_ont_été_effectuées	Deux injections ont été effectuées le 06/04 et le 01/06/2012.		
+				2012	06	01		Deux_injections_ont_été_effectuées	Deux injections ont été effectuées le 06/04 et le 01/06/2012.		
+								a_fait_procéder_à_des_analyses	L’exploitant a fait procéder à des analyses de la qualité des eaux souterraines au droit du site en juillet et août 2004.		
+2000	01	11		2000	01	11		Déclaration	Elle bénéficie des récépissés de Déclaration du 11/01/2000 et du 06/09/1991.		
+2012	12			2012	12			ont_été_détectées	- des concentrations importantes en PCE ont été détectées au droit de URS3, URS4, URS5, URS7 et URS10 (respectivement 2730 µg/L, 26,4 µg/L, 11,8 µg/L, 565 µg/L et 2180 µg/L en août 2012 et 1600 µg/L, 93,9 µg/L, 57,5 µg/L, 500 µg/L et 2140 µg/L en décembre 2012) ;	'PCE', 'URS4', 'URS10'	
+2005	07	18		2005	07	18		a_donc_été_acté	Un arrêté préfectoral d'urgence a donc été acté le 18/07/2005 pour la mise en place d'une barrière hydraulique de confinement.		
+								Reprise	- Reprise du traitement et poursuite pendant 16 mois y compris installation de nouveaux puits ;		
+2004	08			2004	08			a_fait_procéder_à_des_analyses	L’exploitant a fait procéder à des analyses de la qualité des eaux souterraines au droit du site en juillet et août 2004.		
+2011	12			2011	12			a_été_découverte	Une pollution aux composés organiques volatils des puits d'alimentation en eau potable du champ captant du pré aux Îles a été découverte en décembre 2011.	'composés organiques volatils'	
+2013	12	17		2013	12	17		Une_visite_préliminaire_du_site_a_été_réalisée	Une visite préliminaire du site a été réalisée le 17/12/2013 par l’inspection des installations classées, l’ADEME et la société JEC INDUSTRIE.		'la société JEC INDUSTRIE'
+2005	02			2005	02			Un_diagnostic_approfondi	Un diagnostic approfondi a été établi en février 2005.		
+2010	06	15		2012	03	20		a_été_évaluée	Entre le 15/06/2010 et le 20/03/2012, la quantité de polluant extraite cumulée a été évaluée par le bureau d'étude à environ 3,8 tonnes.		
+2004	08	11		2004	08	11		la_cessation_de_son_activité	Le 11/08/2004, la société a déclaré par courrier la cessation de son activité sur le site de Quincieux.		'la société'
+2007	10	29		2007	10	29		l__opération_de_dépollution	Un pompage-traitement de la nappe pour assurer la barrière de confinement et des opérations d'injection de Fenton et de permanganate ont été mis en place en mars 2006 et un rapport sur l'opération de dépollution du 29/10/2007 a été transmis à l'administration.	'Fenton', 'permanganate'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09			2001	09			a_été_rédigé	En septembre 2001, un projet d'arrêté préfectoral a été rédigé pour prescrire le suivi de la qualité des eaux souterraines.		
+1996	03	05		1996	03	05		une_pollution_par	Une fuite du "Pipe TJ" a entraîné sur la zone industrielle de Gonfreville l'Orcher une pollution par hydrocarbures (melange de gazole, naphta, supercarburant), le 5 mars 1996.	'hydrocarbures', 'gazole', 'naphta', 'supercarburant'	'" Pipe TJ "'
+1996	04			1996	04			__travaux_de_reconnaissance	Avril 1996 : travaux de reconnaissance (30 fouilles sur le terrain d'HUREL-HISPANO LE HAVRE , 15 fouilles sur la rive gauche du canal, 8 sondages piézométriques), qui ont mis en évidence une auréole de pollution sur un diamètre de 280 mètres, une quantité de produits perdu estimée à 400 m3.	'produits perdu'	"d' HUREL - HISPANO LE HAVRE"
+2000				2000				remise	Début 2000 : remise d'un rapport de fin de dépollution.		
+1999	08			1999	08			fin_de_travaux_de_dépollution	Août 1999 : fin de travaux de dépollution.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	01	25		2018	01	25		ont_été_réalisés	Durant la campagne du 24 au 25/01/2018, 4 prélèvements dynamiques d’air ambiant ont été réalisés dans  2 zones habitées et localisées en limite sud du site, à savoir :		
+2018	01			2018	01			lors_de_celle	Son épaisseur  était de 6 mm lors de la campagne précédente et de 56 mm lors de celle de janvier 2018.		
+2017	09	28		2017	09	28		__Surveillance_semestrielle	De l’examen global du rapport « Surveillance semestrielle des eaux souterraines – Campagne du 28/09/2017 » référencé V1 – C11-020-12, il ressort :		
+2018	10	10		2018	10	10		__Surveillance_semestrielle	De l’examen global du rapport « Surveillance semestrielle des eaux souterraines – Campagne du 10/10/2018 » référencé V1 – C11-020-15, il ressort :		
+2018	10	10		2018	10	10		la_campagne	Surveillance de la nappe souterraine relative à la campagne du 10/10/2018 :		
+2016	04	06		2016	04	06		le_mémoire_de_réhabilitation	Le 06/04/2016, l’exploitant a transmis à la préfecture le mémoire de réhabilitation (V1 du 30/03/2016, référencé C13-110-3) comprenant la réalisation d’investigations complémentaires sur les milieux et l’identification des options de gestion des eaux souterraines et des sols.		'la préfecture'
+								sont_effectuées	Des analyses d'eau de la nappe souterraine sont effectuées tous les 6 mois et des analyses d'eaux sont opérées sur un puits hors site localisé en aval hydraulique éloigné.		
+								ont_été_réalisés	Durant la campagne du 24 au 25/01/2018, 4 prélèvements dynamiques d’air ambiant ont été réalisés dans  2 zones habitées et localisées en limite sud du site, à savoir :		
+2018	01			2018	01			la_campagne	- au regard des résultats d’analyses de la campagne de janvier 2018 ainsi que des conclusions de l’EQRS menée dans le cadre de l’IEM en novembre 2016, aucune modification n’est apportée à l’analyse des enjeux sanitaires, confirmant l’absence de risque inacceptable pour la population hors site par inhalation de substances volatiles liées à la présence d’impacts dans les milieux sols et eaux souterraines ;	'substances volatiles'	

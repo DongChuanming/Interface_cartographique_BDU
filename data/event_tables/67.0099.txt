@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	04			2007	04			a_été_étudié	d'habitations a été étudié sur ce site en avril 2007, afin de s'assurer qu'il est compatible avec l'état des sols.		
+2003	01	13		2003	01	13		a_été_remise	Celle-ci a été remise le 13/01/2003.		
+2005	08			2005	08			a_été_adressée	L'étude complétée a été adressée au service compétént en août 2005.		
+2001	04	13		2001	04	13		Des_prélèvements_effectués_en_fin_de_travaux	Des prélèvements effectués en fin de travaux (13/04/2001) en fond de fouille ou de sondage font apparaître des teneurs en hydrocarbures absorbés encore significatives (en avril 2001, une analyse d'eau souterraine prélevée à partir d'un piezomètre fournit une valeur de concentration en hydrocarbures de 19 mg/l, ce qui est bien supérieur à la teneur maixmale admise de 10 µg/l pour les eaux potable).	'hydrocarbures', 'hydrocarbures'	
+2001	07			2001	07			prélèvements	Les dernières analyses des eaux souterraines (prélèvements de juillet 2001) ne permettent pas, eu égard aux comptes rendus des travaux de dépollution, de raisonnablement présumer que le site est dépollué et que la pollution ne s'est pas diffusée.		
+2001	05			2001	05			un_diagnostic	En vue de la cessation d'activité de la société BOLLORE ENERGIE à Selestat, un diagnostic de sol réalisé par ATR-Geoclean datant de mai 2001, a permis de constater sur le site la présence en quantité notable d'hydrocarbures dans le sous sol (jusqu'à 3,6 g/kg de sol prélevé) et dans les eaux souterraines (jusqu'à 17 mg/l).	'hydrocarbures'	'la société BOLLORE ENERGIE', 'Selestat'
+2012	05			2012	05			a_remis	En mai 2012, l'entreprise a remis un rapport relatif à l'analyse des risques résiduels en vue de finaliser la cessation d'activités.		
+2001	05			2001	05			vu_du_diagnostic_de_pollution	Les travaux d'excavation auraient été menés au vu du diagnostic de pollution de mai 2001.		

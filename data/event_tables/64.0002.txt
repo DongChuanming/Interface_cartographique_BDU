@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12	23		2003	12	23		cessation_d__activité	En l'absence de déclaration officielle de cessation d’activité, on peut considérer que le mémoire de cessation d’activité du 23/12/2003 en tient lieu.		
+1983	02			1983	02			a_été_autorisée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+								a_été_autorisée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+2013				2013				Les_campagnes_2012	Les campagnes 2012 et 2013 sur ces différents points ne montrent pas d'évolution significative de l'inclinaison et de l'altimétrie des terrains.		
+1983				1986				Elle_a_été_exploitée	La première décharge, appelée décharge n°1, située sur la parcelle 430 section E, a été autorisée par l’arrêté préfectoral du 14  février 1983.  Elle a été exploitée de 1983 à 1986.		
+2004	11			2004	11			réalisée	L’étude de perméabilité de la couverture réalisée en novembre 2004 montre que les perméabilités varient de 7.10-6 m/s à 1.10-5 m/s, soit bien supérieures aux perméabilités des argiles.		
+2012	01	12		2012	01	12		est_signé	La procédure d'institution sans enquête publique, conformément à l'article L515-12 du code de L'environnement, est lancée en décembre 2010, et l'arrêté est signé le 12 janvier 2012.		
+2010	12	23		2010	12	23		Le_procès_verbal_de_récolement	Le procès-verbal de récolement de ces travaux est dressé par l'inspection le 23/12/2010, conformément aux dispositions de l'arrêté préfectoral N°09/IC/10 du 20 janvier 2009.		
+2004	11			2004	11			réalisée	L’étude de perméabilité de la couverture réalisée en novembre 2004 montre que la perméabilité de la couche d’argile est homogène et inférieure à 5.10-8 m/s.		
+2004	10			2004	10			étude_pédologique	Les conditions d’exploitation et de réhabilitation ci-après découlent de ce mémoire, de l’étude pédologique d’octobre 2004 et de son complément sur la perméabilité de la couverture de novembre 2004.		
+1986				1994				Elle_a_été_exploitée	La deuxième décharge, appelée décharge n°2, située sur la parcelle 521 section E, a été autorisée par l’arrêté préfectoral du 05 décembre 1985.  Elle a été exploitée de 1986 à 1994.		
+2010	12			2010	12			La_procédure_d__institution_sans_enquête_publique	La procédure d'institution sans enquête publique, conformément à l'article L515-12 du code de L'environnement, est lancée en décembre 2010, et l'arrêté est signé le 12 janvier 2012.		

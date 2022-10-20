@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	11	06		2012	11	06		est_prescrite	Une surveillance de la qualité des eaux souterraines est prescrite dans l'AP du 18/06/2003 puis complétée par AP du 06/11/2012.		
+2012	09	18		2012	09	18		un_pic	Une seule anomalie en nitrates, avec un pic le 18/09/2012 sur R1 (67mg/L) et le piézomètre amont (R2) (77mg/L) pour des valeurs habituelles sur le site entre 12 et 16 mg/L.	'nitrates'	
+2013				2013				__mise_en_place_prescrite	Le site etait équipé de 2 pièzomètres (un amont et un aval) jusqu'à la  prescription de piézomètres supplémentaires en aval du site par l'AP du 6 novembre 2012 ( mise en place prescrite d'un troisième piézomètre en 2013).		
+2012				2012				Les_analyses	Les analyses des eaux souterraines pour la période 2010-2012 montre que leurs compositions est similaire à celle constatée habituellement pour les eaux souterraines du secteur.		
+1963				1963				est_implantée	La société SCHROLL est implantée sur le site du 6, rue de Cherbourg à STRASBOURG PORT DU RHIN depuis 1963.		'La société SCHROLL', 'STRASBOURG PORT DU RHIN'
+2010				2010				Les_analyses	Les analyses des eaux souterraines pour la période 2010-2012 montre que leurs compositions est similaire à celle constatée habituellement pour les eaux souterraines du secteur.		

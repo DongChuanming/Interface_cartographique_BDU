@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								En_sortie_de_traitement	En sortie de traitement, d'avril à juin 2012, les teneurs maximales rejetées en COV et benzène sont inférieures aux seuils de rejet fixés.	'COV', 'benzène'	
+2012	06			2012	06			la_campagne_de_prélèvement_d__air	Les résultats d'analyse de la campagne de prélèvement d'air de juin 2012 montrent :		
+2007	07			2007	07			ont_été_extraits_par_venting	De juillet 2007 au 28/06/2012, 42629 kg de COV ont été extraits par venting.	'COV'	
+2007	07			2007	07			a_été_identifiée	Une contamination des sols a été identifiée début juillet 2007, sur la zone C ou zone de chargement, située au sud-est de la raffinerie, suite à de fortes odeurs d'hydrocarbures sur le site moyen de RHONE GAZ.	'hydrocarbures'	'RHONE GAZ'
+2012	06			2012	06			En_sortie_de_traitement	En sortie de traitement, d'avril à juin 2012, les teneurs maximales rejetées en COV et benzène sont inférieures aux seuils de rejet fixés.	'COV', 'benzène'	
+2007	07	16		2007	07	16		a_été_mise_en_vidange	- La fosse n°17 a été mise en vidange dès le 16/07/2007 au moyen d'un pompage complémentaire par hydrocureur et que des investigations supplémentaires seraient effectuées pour déterminer l'état de l'étanchéité de la fosse.		
+2008	03	04		2008	03	04		une_visite_d__inspection	Le 04/03/2008, une visite d'inspection a été effectuée.		
+2006	06			2006	06			des_campagnes_ont_été_effectuées	Concernant les analyses des eaux souterraines, des campagnes ont été effectuées sur les piézomètres à proximité du site RHONE GAZ depuis juin 2006.		'RHONE GAZ'
+2007	11			2007	11			a_transmis	En novembre 2007, la raffinerie TOTAL a transmis les résultats d'analyses des eaux souterraines ainsi que les analyses de sol au niveau des forages, dans un rapport de diagnostic des sols et des eaux souterraines.		'la raffinerie TOTAL'
+2012	06	28		2012	06	28		ont_été_extraits_par_venting	De juillet 2007 au 28/06/2012, 42629 kg de COV ont été extraits par venting.	'COV'	
+1993	06	07		1993	06	07		bénéficie	Elle bénéficie d'un arrêté préfectoral modifié d'autorisation d'exploiter datant du 07/06/1993.		
+				2008				a_été_installé	Le système de traitement a été installé entre juillet 2007 et juillet 2008.		
+2007	08	06		2007	08	06		Les_travaux_de_forage	Les travaux de forage ont débuté le 06/08/2007.		
+2008	07	23		2008	07	23		un_arrêté_de_travaux	Le 23/07/2008, un arrêté de travaux a été émis, prescrivant à la société TOTAL RAFFINAGE MARKETING, la surveillance des eaux souterraines, de la qualité de l'air et des mesures de gestions des sols pollués (dispositifs de venting) au niveau du site de RHONE GAZ.		'la société TOTAL RAFFINAGE MARKETING', 'RHONE GAZ'

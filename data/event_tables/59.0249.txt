@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	03			2011	03			élimination	- février et mars 2011: élimination des déchets.$		
+2011	06	10		2011	06	10		rapport_de_diagnostic	- rapport de diagnostic par SOCOTEC le 10 juin 2011.		'SOCOTEC'
+								élimination	- février et mars 2011: élimination des déchets.$		
+2010	09			2010	09			Cessation	- Cessation des activités de production en septembre 2010.		
+1998	09	04		1998	09	04		arrêté_demandant_une_étude_de_sols	- arrêté demandant une étude de sols (phase A et évaluation simplifiée des risques) en date du 04 septembre 1998.		
+1984				1984				situé	- établissement situé depuis 1984 à Noyelles les Seclin sur un site occupé précédemment (à partir de 1968) par la société textile PINTOCHIMIE.		'la société textile PINTOCHIMIE'
+2000	02	15		2000	02	15		arrêté_demandant_un_complément_d__étude	- arrêté demandant un complément d'étude : 15 février 2000.		
+1999	02	17		1999	02	17		remise_du_rapport	- remise du rapport le 17/02/1999.		
+2011	11			2011	11			élimination_du_transformateur	- novembre 2011: élimination du transformateur.		
+								installation_soumise_à_déclaration	- installation soumise à déclaration mais Arrêté Préfectoral  en date du 25/10/89 selon article 11 de la loi de 76.		

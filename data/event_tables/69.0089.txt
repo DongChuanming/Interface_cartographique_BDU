@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								Cette_étude_globale	Cette étude globale a été demandée en s'appuyant sur les travaux préparatoires de la circulaire du 03/04/96.		
+1973				1973				sont_implantés	De nouvelles cuves sont implantés sur le site en 1962, 1966 et 1973.		
+2008	02			2008	02			a_été_rédigé	Le dernier a été rédigé au mois de février 2008.		
+1978				1978				est_réalisé	Un suivi piézométrique global du Complexe Pétrolier (sur les hydrocarbures) est réalisé depuis 1978.	'hydrocarbures'	
+1990	01	31		1990	01	31		la_concentration_maximale	Sur l'ensemble des 29 dernières années la concentration maximale en HCT a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du Port Édouard Herriot), elle était alors de 64 260 mg/l.	'HCT'	
+1937				1937				a_eu_lieu	La construction du site a eu lieu en 1937.		
+1997				1997				devient_opérateur_du_DPL	La société BP FRANCE devient opérateur du DPL en 1997.		'La société BP FRANCE'
+1996				1996				Une_étude_globale	Une étude globale de la pollution de sol du Complexe a été réalisée en 1996, elle fait l'objet d'une fiche spécifique. (Complexe Pétrolier Port Edouard Herriot – Lyon, fiche Basol n°69.0010).		'Complexe Pétrolier Port Edouard Herriot'
+1955				1955				se_renomme	En 1949, la CIP devient la société SOCONY VACCUM FRANCAISE, puis, en 1955, se renomme MOBIL.		'la CIP', 'la société SOCONY VACCUM FRANCAISE', 'MOBIL'
+1962				1962				sont_implantés	De nouvelles cuves sont implantés sur le site en 1962, 1966 et 1973.		
+				2005	06	09		a_ensuite_progressivement_diminué	La concentration a ensuite progressivement diminué jusqu'au 09/06/2005 où elle atteignait 3,5 mg/l.		
+1949				1949				devient	En 1949, la CIP devient la société SOCONY VACCUM FRANCAISE, puis, en 1955, se renomme MOBIL.		'la CIP', 'la société SOCONY VACCUM FRANCAISE', 'MOBIL'
+2010				2010				Elle_cède_sa_place	Elle cède sa place en 2010 pour le groupement DELEK et CARFUEL.		'DELEK et CARFUEL'
+1948				1948				sont_mis_en_place	De nouveaux bacs et cuves sont mis en place sur le site en 1948.		
+1966				1966				sont_implantés	De nouvelles cuves sont implantés sur le site en 1962, 1966 et 1973.		
+1998	06	19		1998	06	19		a_été_signé	Un arrêté préfectoral d'autorisation d'exploiter a été signé en date du 19/06/1998.		

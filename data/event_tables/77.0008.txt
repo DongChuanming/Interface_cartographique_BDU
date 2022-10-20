@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1999	05	27		Le_chantier_s__est_déroulé	Le chantier s'est déroulé du 1er février au 27 mai 1999.		
+2006	09	28		2006	09	28		a_été_déposé	Un dossier visant à instituer des servitudes d'utilité publique a été déposé par la société SYNGENTA AGRO SAS le 28 septembre 2006 afin de garder la mémoire de la pollution résiduelle.		'la société SYNGENTA AGRO SAS'
+				1963				a_exploité	La société La Quinoléine a exploité jusqu'en 1963 une usine de fabrication de produits phytosanitaires à Vernou-la-Celle-sur-Seine.		'La société La Quinoléine'
+1967				1967				a_été_polluée	La nappe exploitée alors pour la consommation humaine a été polluée en 1967.		
+1996	12			1996	12			la_réalisation_des_travaux_de_dépollution	Sur la base de cette étude, déposée en 1996 et complétée par une étude approfondie en décembre 1996, l'arrêté du 2 juin 1997 a prescrit à Novartis Agro la réalisation des travaux de dépollution.		
+2008	10	10		2008	10	10		a_été_pris	L'arrêté préfectoral instituant les servitudes d'utilité publique visant à interdire toute construction ou mouvement des sols sur le site a été pris le 10 octobre 2008.		
+1996	12			1996	12			une_étude_approfondie	Sur la base de cette étude, déposée en 1996 et complétée par une étude approfondie en décembre 1996, l'arrêté du 2 juin 1997 a prescrit à Novartis Agro la réalisation des travaux de dépollution.		
+1994	07	05		1994	07	05		a_été_prescrite_par	Celle-ci, ainsi qu'un diagnostic de sols, a été prescrite par le préfet de Seine-et-Marne, le 5 juillet 1994, à Novartis Agro (ayant acquis la responsabilité des pollutions de la société La Quinoléine par achat et fusion).		'le préfet', 'Novartis Agro', 'la société La Quinoléine'

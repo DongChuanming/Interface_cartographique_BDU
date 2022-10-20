@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995				1995				démantelé	Cet ancien dépôt pétrolier, démantelé en 1995, est en cours d'aménagement par EDF.		'EDF'
+2005	07			2005	07			Un_nouvel_état_des_lieux	Un nouvel état des lieux a été réalisé par l'ancien exploitant en juillet 2005 dans le cadre de la 2ème phase de travaux (poste de transformation)qui a mis en évidence une pollution résiduelle.		
+2000				2000				avait_été_suspendue	La validation de l'efficacité du traitement avait été suspendue en 2000 lors des travaux d'aménagement (groupement des laboratoires).		

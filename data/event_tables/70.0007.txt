@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	01			2012	01			La_dernière_campagne	La dernière campagne réalisée en janvier 2012 confirme l'absence d'impact sur les eaux souterraines.		
+2008				2008				a_relancé	En l'absence de transmission des résultats d'analyse de la qualité des eaux souterraines depuis 2008, l'inspection a relancé l'exploitant en 2011 pour lui demander de reprendre cette surveillance dans les conditions fixées par l'arrêté préfectoral du 17 août 1999.		
+2013	04	08		2013	04	08		a_donc_été_levée	La surveillance de la qualité des eaux souterraines a donc été levée sur rapport de l'inspection le 08 avril 2013.		
+1994	10			1994	10			a_opéré	Suivant les préconisations d'une étude d'octobre 1994, l'exploitant a opéré à l'enlèvement des déchets superficiels et mis en œuvre un traitement biologique sur site des terres en place.		
+2011				2011				a_relancé	En l'absence de transmission des résultats d'analyse de la qualité des eaux souterraines depuis 2008, l'inspection a relancé l'exploitant en 2011 pour lui demander de reprendre cette surveillance dans les conditions fixées par l'arrêté préfectoral du 17 août 1999.		
+1987				1987				accueille	Le site accueille depuis 1987 la Société Européenne de Construction spécialisée dans la fabrication de tiges filetées.		'la Société Européenne de Construction'
+1999	08	17		1999	08	17		a_été_prescrit	Par arrêté préfectoral du 17 août 1999, il a été prescrit la surveillance par piézomètres de la nappe sous-jacente au site pour contrôler l'impact de celui-ci sur les eaux.		
+1987				1994				ont_été_déversés	Entre 1987 et 1994 ces déchets ont été déversés sur le site à même le sol formant ainsi une décharge interne en bordure de la rivière Le Breuchin.		
+1997	12			1997	12			dressé	Le constat final de la qualité du site dressé en décembre 1997 par un tiers expert à la demande de la  DRIRE au terme de ce traitement, concluait à une pollution des sols rémanente encore importante sans toutefois d'atteinte des eaux souterraines.		'la   DRIRE'
+1999	08	17		1999	08	17		a_relancé	En l'absence de transmission des résultats d'analyse de la qualité des eaux souterraines depuis 2008, l'inspection a relancé l'exploitant en 2011 pour lui demander de reprendre cette surveillance dans les conditions fixées par l'arrêté préfectoral du 17 août 1999.		

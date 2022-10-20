@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1926	07			1926	07			_Implantée	-Implantée sur la commune de Merville depuis juillet 1926, la société des Fonderies Franco-Belge, aujourd'hui Staub Fonderie, est issue de la complémentarité entre le management et la gamme des produits de chauffage belges et l'expérience métallurgique française.		'la société des Fonderies Franco-Belge', 'Staub Fonderie'
+2005				2005				ayant_fourni_un_bilan_de_fonctionnement	-Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2005.		'IPPC'

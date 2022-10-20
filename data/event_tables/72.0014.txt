@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03			2000	03			a_bien_procédé_à_la_remise_en_état_de_la_zone_contaminée_par	La préfecture a demandé au propriétaire des lieux de confirmer qu'il a bien procédé à la remise en état de la zone contaminée par les PCB au cours du mois de mars 2000, en communiquant tous les documents portant sur la nature des travaux de dépollution entrepris sur le site et attestant leur bonne exécution.	'PCB'	'La préfecture'
+1987				1987				s__est_implanté	Une activité de vente de vêtements "Usine Center" s'est implanté en 1987 sur le site, puis le terrain est resté plusieurs années en friche.		
+1998	10			1998	10			Une_première_étude	Une première étude a été réalisée en octobre 1998 par un organisme spécialisé qui a conclu à la présence de PCB dans tous les échantillons prélevés.	'PCB'	
+1999	01	15		1999	01	15		a_été_engagée	Une procédure de consignation a été engagée par arrêté préfectoral du 15 janvier 1999.		
+2003				2003				l__activité	Puis, en 2003, l'activité a repris sur le site (vente d'automobiles, grande surface de bricolage, supermarché discount puis une coopérative d'achats pour les artisans du bâtiment).		

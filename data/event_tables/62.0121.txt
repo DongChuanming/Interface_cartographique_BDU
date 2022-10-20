@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1959				1959				Le_démarrage_de	Le démarrage de l'usine de Biscuits a eu lieu en 1959.		
+2007				2007				est_réalisée	Une 2ème phase de réhabilitation est réalisée en 2007.		
+								à_un_arrêt_définitif	Suite à un arrêt définitif de l'usine le 31/03/03 une remise en état a été effectuée.		
+2003	02			2003	02			de_mise___en_sécurité___réalisé	Dossier de cessation d'activité de l'usine LU de Calais/Dossier de mise  en sécurité: réalisé en 02/2003.		
+2003	02	24		2003	02	24		Les_études_initiales	Les études initiales (Phases A et B) et l'évaluation simplifiée des risques ont été remises à l'administration le 24/02/2003.		
+2003	04			2003	04			étude_détaillée_des_risques	Une étude détaillée des risques a été remise en avril 2003.		
+2004				2004				est_racheté	En 2004 le site est racheté par la société SARL Conseil Immobilier située à Calais.		
+1925				1925				ont_débuté_sur	Les premières activités industrielles ont débuté sur le site en 1925 : dépôt de matériel de construction, dépôt de charbon, entreprise de chargement de péniche.	'charbon'	

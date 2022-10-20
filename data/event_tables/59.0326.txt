@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02	10		2003	02	10		ont_été_imposées	Les mesures de remise en état et de surveillance ont été imposées à l'ancien exploitant, la Société Worex, par l'arrêté préfectoral du 10 février 2003.		'la Société Worex'
+1998				1998				Vente	Vente du site à un particulier aux fins de construction d'une habitation en 1998.		
+								Remise	Remise de rapports de suivi de la qualité des eaux du puit en avril et juillet 2003.		
+2001	11	21		2001	11	21		le	le 21 novembre 2001, SERPOL réalise des travaux de dépollution: écrémage des hydrocarbures flottants par boudins hydrophobes et injection de solution nutritive (activateur de biodégradation).	'hydrocarbures', 'solution nutritive'	'SERPOL'
+1998				1998				a_découvert	En 1998, le nouveau propriétaire a découvert un ancien forage dans le fond de la parcelle.		
+				1950				a_été_occupé	Activités: Brasserie détruite pendant la première guerre mondiale, puis le site a été occupé par les Ponts et Chaussées jusqu'en 1950, puis Worex y a exploité un dépôt de combustibles (charbon, fuel) soumis à simple déclaration ICPE jusqu'en 1997 (cessation d'activité).	'combustibles', 'charbon', 'fuel'	'Worex'
+2003	07			2003	07			Remise	Remise de rapports de suivi de la qualité des eaux du puit en avril et juillet 2003.		
+2001	11	21		2001	11	21		réalise_des_travaux_de_dépollution	le 21 novembre 2001, SERPOL réalise des travaux de dépollution: écrémage des hydrocarbures flottants par boudins hydrophobes et injection de solution nutritive (activateur de biodégradation).	'hydrocarbures', 'solution nutritive'	'SERPOL'

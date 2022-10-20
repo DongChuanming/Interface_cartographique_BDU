@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	06			2015	06			a_été_détectée	En juin 2015, lors de la réalisation de fouilles archéologiques au droit de l’école Cour de Lorraine située 21 rue des Franciscains à Mulhouse, préalablement à des travaux d'agrandissement des locaux, la présence de mercure à l’état pur a été détectée.	'mercure'	
+2015	10			2015	10			ont_été_pris_en_charge	Les matériaux excavés ont été pris en charge dans des filières agréées, fonctions des concentrations en mercure, à partir d'octobre 2015.	'mercure'	

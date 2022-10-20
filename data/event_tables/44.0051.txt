@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	08	29		2006	08	29		modifié	Les premières mesures ont fait l'objet d'un arrêté préfectoral d'exécution de travaux d'office du 18 août 2006, modifié le 29 août 2006, chargeant l'ADEME de la réalisation des premières mesures de mises en sécurité précitées.		
+2011	04	19		2011	04	19		a_été_vendu	Le site a été vendu le 19 avril 2011 à la société dénommée BFI dont le siège est à Saint-Aignan-Grandlieu.		'la société dénommée BFI'
+2005	03	11		2005	03	11		a_été_prononcée_le	La liquidation judiciaire de la société CHIMIDEROUIL a été prononcée le 25 février 2005, le site a ensuite été fermé le 11 mars 2005.		'la société CHIMIDEROUIL'
+2005	02	25		2005	02	25		La_liquidation_judiciaire	La liquidation judiciaire de la société CHIMIDEROUIL a été prononcée le 25 février 2005, le site a ensuite été fermé le 11 mars 2005.		'la société CHIMIDEROUIL'
+2003				2003				a_ensuite_été_repris	Il a ensuite été repris par la société CHIMIDEROUIL en 2003.		'la société CHIMIDEROUIL'
+2006	08	10		2006	08	10		a_donné_son_accord	Compte tenu de l'environnement sensible du site, de la dégradation du bâtiment, par courrier du 10 août 2006, le ministère de l'écologie et du développement durable a donné son accord pour une intervention en deux temps :		'le ministère'
+2006	09	07		2006	09	07		ont_été_réalisées	Ces mesures ont été réalisées le 7 septembre 2006 et ce sont 9,73 tonnes de déchets qui ont été évacuées pour traitement, pour un coût d'environ 14 900 euros.		
+2012	01	16		2012	01	16		a_fait_l__objet_d_	Ce dernier problème a fait l'objet d'un arrêté préfectoral complémentaire le 16 janvier 2012.		
+2007	12			2008	02			Cette_intervention_s__est_déroulée	Cette intervention s'est déroulée de décembre 2007 à février 2008 comprenant l'évacuation d'environ 410 tonnes de déchets et le nettoyage final des surfaces souillées.		

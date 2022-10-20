@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				un_diagnostic_approfondi	* En raison d'un projet de réaménagement interne, aujourd'hui différé, un diagnostic approfondi a été réalisé en 1994, 1995 et 1996.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+								est_occupé_par	Actuellement, le site est occupé par les locaux de l'agence d'EDF GDF SERVICES, construits dans les années 70.		"d' EDF GDF SERVICES"
+1996				1996				a_vidange_des_cuves_découvertes	a vidange des cuves découvertes en 1996 a eu lieu en décembre 2004.		
+1994				1994				un_diagnostic_approfondi	* En raison d'un projet de réaménagement interne, aujourd'hui différé, un diagnostic approfondi a été réalisé en 1994, 1995 et 1996.		
+2005	05			2005	05			a_été_transmis	Le rapport a été transmis à la DRIRE fin mai 2005.		'la DRIRE'
+1995				1995				un_diagnostic_approfondi	* En raison d'un projet de réaménagement interne, aujourd'hui différé, un diagnostic approfondi a été réalisé en 1994, 1995 et 1996.		
+2004	12			2004	12			a_vidange_des_cuves_découvertes	a vidange des cuves découvertes en 1996 a eu lieu en décembre 2004.		
+								construits	Actuellement, le site est occupé par les locaux de l'agence d'EDF GDF SERVICES, construits dans les années 70.		"d' EDF GDF SERVICES"
+1847				1955				a_accueilli	Il a accueilli les installations d'une usine de fabrication de gaz à partir de la distillation de la houille qui a fonctionné de 1847 à 1955.		

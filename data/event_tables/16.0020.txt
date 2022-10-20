@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	07	21		2014	07	21		un_accident	Le 21 juillet 2014, un accident a eu lieu sur le site.		
+1979				1979				Repris	Repris par AMCOR en 1979, l'activité reprend à partir de janvier 1980 jusqu'à la cessation d'activité en 2004.		'AMCOR'
+2011	05			2011	05			a_été_réalisé	En mai 2011, un rapport de suivi des travaux de dépollution des sols a été réalisé.		
+1998	08			1998	08			ont_été_réalisées	Des études complémentaires ont été réalisées en août 1998.		
+2013	01	07		2013	01	07		de_mise_en_demeure_est_pris	Un arrêté préfectoral de mise en demeure est pris le 7 janvier 2013 à l'encontre de la société AMCOR FLEXIBLES VENTHENAT, imposant le respecter des prescriptions relatives à la limitation des bruits dans l'environnement.		'la société AMCOR FLEXIBLES VENTHENAT'
+2009				2009				a_fait_l__objet	L’ancien site d’AMCOR, situé chemin de Lussault, a fait l’objet de travaux de dépollution en 2009.		'AMCOR'
+2016	10	07		2016	10	07		La_dernière_inspection	La dernière inspection a eu lieu le 7 octobre 2016.		
+2004				2004				la_cessation_d__activité	Repris par AMCOR en 1979, l'activité reprend à partir de janvier 1980 jusqu'à la cessation d'activité en 2004.		'AMCOR'
+1999	03	05		1999	03	05		a_été_autorisée_en_dernier_lieu	L'activité a été autorisée en dernier lieu par arrêté préfectoral du 5 mars 1999.		
+1968				1968				est_déménagée	En 1968, l'usine principale est déménagée à proximité où elle se situe toujours aujourd'hui.		
+2006	03			2006	03			révèle	En mars 2006, une étude JM Blais Environnement révèle la présence de pollution au niveau de la cour Chemin Lussault, dans l'aire extérieure et dans une moindre mesure dans les bâtiments 1 à 4.		'Lussault'
+2015	03	25		2015	03	25		Une_inspection	Une inspection sur ce site a eu lieu le 25 mars 2015.		
+								est_exploité	Situé en plein centre ville, le site est exploité sous le nom de "Papeterie des Charentes" depuis le début du 20ème siècle.		
+1998	05			1998	05			Une_étude_réalisée	Une étude réalisée par Hydro-Invest en mai 1998 a révélée une pollution au plomb ainsi qu'une légère contamination au trichloroéthylène (TCE) et aux hydrocarbures (HCT) dans la nappe.	'plomb', 'trichloroéthylène', 'TCE', 'hydrocarbures', 'HCT'	

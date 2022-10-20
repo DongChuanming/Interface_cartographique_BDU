@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								exploitait	La société HDAF exploitait dans les années 1990, sans autorisation et sans précaution particulière une casse automobile.		'La société HDAF'
+2001	02	14		2001	02	14		d__une_inspection	Lors d'une inspection effectuée le 14 février 2001, il a été constaté que le site avait été débarrassé des véhicules hors d'usage et des déchets.	'des déchets'	
+2001	12			2001	12			un_diagnostic_initial	En décembre 2001, un diagnostic initial, commandé par la mairie de Grigny devant la carence de l'exploitant, a été produit.		
+				1999	06			a_exercé_ses_activités	La société s'est implantée en 1995 sur le site et a exercé ses activités jusqu'en juin 1999, date de sa suspension d'activité (via un arrêté préfectoral).		
+1995				1995				s__est_implantée	La société s'est implantée en 1995 sur le site et a exercé ses activités jusqu'en juin 1999, date de sa suspension d'activité (via un arrêté préfectoral).		

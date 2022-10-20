@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02			2005	02			a_été_communiqué	Divers compléments ont été demandés à l'industriel et ce n'est qu'en février 2005 que le dossier de cessation définitive d'activité de l'incinérateur a été communiqué à l'administration.		
+2010	12			2010	12			ont_été_achevés	Les travaux de réhabilitation, prévus dans ce dossier, ont débuté en 2009 et ont été achevés en décembre 2010.		
+2000	04	10		2000	04	10		Cette_étude_remise	Cette étude remise le 10 avril 2000 à l'IIC, mentionne une pollution des eaux par des chlorures, des phénols et des métaux et range le site en classe 1, c'est à dire devant faire l'objet d'un diagnostic approfondi et d'une évaluation détaillée des risques.	'des chlorures', 'phénols', 'métaux'	
+2005	02			2005	02			ont_été_demandés	Divers compléments ont été demandés à l'industriel et ce n'est qu'en février 2005 que le dossier de cessation définitive d'activité de l'incinérateur a été communiqué à l'administration.		
+2011	12	29		2011	12	29		un_PV_de_récolement	L'IIC a établi un PV de récolement le 29/12/2011.		
+2010	12			2010	12			Les_travaux_de_réhabilitation	Les travaux de réhabilitation, prévus dans ce dossier, ont débuté en 2009 et ont été achevés en décembre 2010.		
+2009				2009				Les_travaux_de_réhabilitation	Les travaux de réhabilitation, prévus dans ce dossier, ont débuté en 2009 et ont été achevés en décembre 2010.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				est_occupé	Le site est occupé par la société Alifrance depuis mi-2003, après déconstruction du site par l'EPBS en 1966-1997.		'la société Alifrance', "l' EPBS"
+1997				1997				déconstruction_du_site	Le site est occupé par la société Alifrance depuis mi-2003, après déconstruction du site par l'EPBS en 1966-1997.		'la société Alifrance', "l' EPBS"
+				2002	11	06		Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés entre le 28 octobre et le 6 novembre 2002.		
+2001	12	18		2001	12	18		Les_investigations_de_sols	Les investigations de sols, réalisées les 17 et 18 décembre 2001, puis le 17 janvier 2002, ont montré la présence d'hydrocarbures et de métaux lourds (arsenic, plomb, cuivre) dans les sols.	'hydrocarbures', 'métaux lourds', 'arsenic', 'plomb', 'cuivre'	
+1966				1966				déconstruction_du_site	Le site est occupé par la société Alifrance depuis mi-2003, après déconstruction du site par l'EPBS en 1966-1997.		'la société Alifrance', "l' EPBS"
+2002	07	12		2002	07	12		De_nouvelles_investigations	De nouvelles investigations se sont ainsi déroulées les 11 et 12 juillet 2002, au vu d'une analyse historique plus détaillée.		
+2002	12	19		2002	12	19		un_rapport_de_dépollution	Ces travaux ont fait l'objet d'un rapport de dépollution en date du 19/12/2002.		
+								Les_investigations_de_sols	Les investigations de sols, réalisées les 17 et 18 décembre 2001, puis le 17 janvier 2002, ont montré la présence d'hydrocarbures et de métaux lourds (arsenic, plomb, cuivre) dans les sols.	'hydrocarbures', 'métaux lourds', 'arsenic', 'plomb', 'cuivre'	
+1928				1993				a_été_exploité	Ce site, d'une surface de 7 115 m2, a été exploité par la société LOZAÏ de 1928 à 1993.		'la société LOZAÏ'
+								De_nouvelles_investigations	De nouvelles investigations se sont ainsi déroulées les 11 et 12 juillet 2002, au vu d'une analyse historique plus détaillée.		

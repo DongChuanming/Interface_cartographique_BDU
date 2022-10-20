@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				a_été_crée	La société MULTISAC a été crée en 1950, elle a été reprise en 1990 par le dernier exploitant, monsieur de Froment.		'La société MULTISAC', 'monsieur de Froment'
+2005				2005				a_acquis	L'Etat ayant pour objectif de réaliser le contournement de la ville du Puy en Velay par la RN88 a engagé une procédure d'expropriation et a acquis les quatre parcelles du site en 2005.		
+2008	03	14		2008	03	14		la_liquidation_judiciaire	A la suite de difficultés financières, la liquidation judiciaire de la société MULTISAC a été prononcée le 14 mars 2008.		'la société MULTISAC'
+1950				1950				a_été_crée	La société MULTISAC a été crée en 1950, elle a été reprise en 1990 par le dernier exploitant, monsieur de Froment.		'La société MULTISAC', 'monsieur de Froment'
+2008	02			2008	02			a_été_transmis	La cessation d'activité de la société MULTISAC, sur le site de la "Pépinière" a été déclarée le 26 septembre 2006 et un dossier de cessation d'activité a été transmis, par l'exploitant, à la préfecture de la Haute-Loire en février 2008.		'la société MULTISAC', 'la préfecture de la Haute-Loire'
+2006	09	26		2006	09	26		La_cessation_d__activité	La cessation d'activité de la société MULTISAC, sur le site de la "Pépinière" a été déclarée le 26 septembre 2006 et un dossier de cessation d'activité a été transmis, par l'exploitant, à la préfecture de la Haute-Loire en février 2008.		'la société MULTISAC', 'la préfecture de la Haute-Loire'
+2005				2005				a_engagé_une_procédure_d__expropriation	L'Etat ayant pour objectif de réaliser le contournement de la ville du Puy en Velay par la RN88 a engagé une procédure d'expropriation et a acquis les quatre parcelles du site en 2005.		
+2007				2007				des_investigations_dans_les_sols	Courant 2007, des investigations dans les sols ont été réalisées sur quatre zones potentiellement polluées.		

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				est_implantée	La société HENKEL France est implantée à Louviers depuis 1968 (anciennement RUBSON), avec pour activité la fabrication et le conditionnement de colles, mastics et revêtements d'étanchéité.		'La société HENKEL France', 'RUBSON'
+2003	09	23		2003	09	23		était_dernièrement_réglementée	L'activité était dernièrement réglementée par l'arrêté préfectoral du 23 septembre 2003, notamment pour le stockage de liquides inflammables (solvants entrants dans la composition de leurs fabrications).	'liquides inflammables'	
+				2016	09			issue_des_4_ans_de	A l'issue des 4 ans de surveillance piézomètrique (3 piézomètres sur le site) jusqu'en septembre 2016, tous les résultats sont en dessous des limites de quantification et aucune anomalie n'est observée ; cette surveillance n'est pas poursuivie.		
+2012				2012				sont_démontés	Le bâtiment A et le grand silo sont démontés début 2012.		
+2011				2011				est_vidé	Les installations et machines sont évacuées vers d'autres sites du groupe ou vendues et le site est vidé fin 2011.		
+2016				2016				achète	Fin 2016, la CASE achète le lot 1A pour y implanter des archives publiques et les Services Techniques de la Ville de Louviers.		'la CASE', 'les Services Techniques de la Ville de Louviers'
+2017				2017				a_été_modifié	L'usage pour un accueil du public (archives) envisagé par la CASE n'étant pas prévu dans les SUP pour le lot 1A, une étude complémentaire a été réalisée sur cette partie du site et les analyses et calculs de risques sanitaires étant satisfaisants, aucun travaux n'a été nécessaire ; l'arrêté préfectoral de SUP a été modifié fin 2017 pour y noté le nouvel usage.		'la CASE'
+2011	07			2011	07			cesse	La société HENKEL France de Louviers,86 personnes,cesse ses activités fin juillet 2011.		'La société HENKEL France', 'de Louviers,86'

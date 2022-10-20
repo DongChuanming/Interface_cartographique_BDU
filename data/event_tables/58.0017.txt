@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				__audit_environnemental_interne	1994: audit environnemental interne		
+1994				1994				L__audit_environnemental	L'audit environnemental de 1994, dont l'objectif était de rechercher des mesures préventives, a recensé 26 aires potentiellement contaminées (APC), réparties de manière générale à l'Ouest et à l'Est du site.		
+2006				2006				__diagnostic_approfondie	2006: diagnostic approfondie, étude détaillée des risques (EDR)		
+2004				2004				reconnaissance	2004: "reconnaissance détaillée de pollution par les solvants chlorés dans le sous-sol de la zone Ouest"	'solvants chlorés'	
+1982				1982				intégré_au	En 1982, le groupe Kleber est intégré au groupe Michelin ; l'usine de Decize prend alors le nom de Michelin AVS en 1999.		'le groupe Kleber', 'groupe Michelin', 'Michelin AVS'
+				2006	06	02		ont_mis_en_évidence	Ces études, partiellement encadrées par les arrêtés préfectoraux du 1er décembre 2004 et du 2 juin 2006, ont mis en évidence l’existence de plusieurs zones de pollution du sol et du sous-sol, dues aux activités industrielles exercées sur ces terrains.		
+2006				2006				Le_diagnostic_approfondi	Le diagnostic approfondi réalisé en 2006 avait pour but de:		
+1939				1939				a_été_exploité	A partir de 1939, le site a été exploité pat la société Kleber Colombes dont les activité étaient initialement localisées en lieu et place de la chapellerie.		'la société Kleber Colombes'
+2004	12	1		2004	12	1		ont_mis_en_évidence	Ces études, partiellement encadrées par les arrêtés préfectoraux du 1er décembre 2004 et du 2 juin 2006, ont mis en évidence l’existence de plusieurs zones de pollution du sol et du sous-sol, dues aux activités industrielles exercées sur ces terrains.		
+2008				2008				est_exploitée	Depuis 2008, l'usine est exploitée par Anvis France Decize SAS.		'Anvis France'
+2004				2004				est_dénommé	Le site est dénommé WOCO Decize SAS dès 2004.		'WOCO Decize'
+2009				2009				a_été_transmis	En 2009, un descriptif détaillé des plans de gestion retenus pour les différentes zones (dont le Hangar Brossard) a été transmis à l'inspection des installations classées.		
+1939				1939				était_exploité	Historiquement, le site était exploité au début du siècle (avant 1939) par:		
+2010	07			2010	07			Les_travaux_de_dépollution	Les travaux de dépollution ont commencé en juillet 2010 conformément au plan de gestion sus-visé.		
+1960				1960				Le_développement_des_activités	Le développement des activités dans les années 1960 et 1980 a entraîné l'agrandissement des bâtiments vers l'Ouest.		
+2004	2003			2004	2003			un_traitement_de_nappe	En 2003/2004, un traitement de nappe a été réalisé au droit d'une zone située à l'Est du site et identifiée comme bien impactée par des fuites de polluants provenant de cuves de solvants chlorés.	'solvants chlorés'	
+1980				1980				Le_développement_des_activités	Le développement des activités dans les années 1960 et 1980 a entraîné l'agrandissement des bâtiments vers l'Ouest.		
+1994				1994				plusieurs_audits	Depuis 1994, le site Anvis France de Decize (ancien site Kleber, Michelin AVS, puis WOCO) a fait l'objet de plusieurs audits et diagnostics sur la pollution des sols, concernant l'usine des Caillots et un terrain annexe, dit "Hangar Brossard".		'le site Anvis France', 'Kleber , Michelin AVS', 'WOCO'
+1999				1999				prend_alors_le_nom	En 1982, le groupe Kleber est intégré au groupe Michelin ; l'usine de Decize prend alors le nom de Michelin AVS en 1999.		'le groupe Kleber', 'groupe Michelin', 'Michelin AVS'

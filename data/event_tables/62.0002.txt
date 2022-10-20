@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1923				1923				démarré	- Activité d'ELF - ATOCHEM de VENDIN démarré en 1923.		"d' ELF - ATOCHEM"
+2000	06	16		2000	06	16		Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques en date du 16/06/2000, qui relève une pollution de la décharge aux Hyd, HAP et phénols, de la plateforme industrielle: sol en HAP, phénols, BTEX, et eaux: phénols, BTEX, cuivre, fer, mercure et hydrocarbures.	'Hyd', 'HAP', 'phénols', 'HAP', 'phénols', 'BTEX', 'phénols', 'BTEX', 'cuivre', 'fer', 'mercure', 'hydrocarbures'	
+1978				1978				qui_n__est_plus_exploitée	- Décharge interne de goudrons et hydrocarbures (4 ha - 38 000 t) qui n'est plus exploitée depuis 1978.	'goudrons', 'hydrocarbures'	
+2006	08	31		2006	08	31		une_visite	- Conformément à l'action nationale "amiante" initiée par le Ministère de l'Ecologie, une visite de ce site a eu lieu le 31 août 2006 : cette visite a permis de constater que des travaux de désamiantage ont été menés dans le cadre de la déconstruction des bâtiments, et que des déchets amiantés, détectés à l'occasion de la cessation d'activité, ont été éliminés dans les règles de l'art.	'des déchets amiantés'	'le Ministère'
+2006	04			2006	04			a_été_découvert	- Lors des travaux, un puit a été découvert en avril 2006.		
+2010				2010				__Travaux_interrompus	- Travaux interrompus au premier trimestre 2010 sur site suite à la découverte de munitions de guerre sur la zone dite "décharge".		
+2003	12			2003	12			Évaluation_détaillée_des_risques_eau_réalisée	- Évaluation détaillée des risques eau réalisée en décembre 2003 qui conclut  qu'aucun captage en aval ne risque d’être impacté par la pollution du site.		
+2004	12			2004	12			Diagnostic_approfondi	- Diagnostic approfondi et EDR pour le site remis en décembre 2004.		
+2012				2012				La_fin_des_travaux___était_prévue	La fin des travaux  était prévue pour 2012.		
+1997	10	30		1997	10	30		__arrêté	- Ancien site de la chimie organique (distillation primaire de goudrons) arrêté le 30/10/1997.	'la chimie organique', 'goudrons'	

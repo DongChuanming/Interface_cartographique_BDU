@@ -1,0 +1,29 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	03			2009	03			installés	En Mars 2009, quatre nouveaux piézomètres sont installés.		
+2012	05			2012	05			seront_mis_en_place	Les équipements seront mis en place en Mai 2012 pour un démarrage du traitement de la nappe par stripping et venting en Juillet 2012.		
+				1986				a_été_exploité	Sur ce site, une raffinerie de pétrole a été exploité jusqu'en 1986.		
+2010	05	04		2010	05	04		L__inspection	L'inspection du 04/05/2010 a permis de constater que le site a été complètement nivelé et nettoyé pour créer les tranchées drainantes et installer les puits demandés dans l'arrêté préfectoral du 11/05/2010 afin de capter les hydrocarbures et de stopper leur progression vers l'extérieur du site.	'hydrocarbures'	
+2010	05	11		2010	05	11		est_signé	L'arrêté préfectoral de travaux proposé le 27/03/2009, après deux passages en CODERST en Octobre 2009 et Mars 2010, est signé le 11/05/2010.		
+1994				1994				a_prescrit_le_diagnostic_initial	Afin de compléter les éléments d'information du diagnostic réalisé en 1994 et 1996, l'arrêté préfectoral du 19/10/1998 a prescrit le diagnostic initial et l'Évaluation Simplifiée des Risques (ESR) de l'ensemble du site SHELL.		'SHELL'
+2011	11	24		2011	11	24		État	État au 24/11/2011 :		
+1996				1996				diagnostic_réalisé	Afin de compléter les éléments d'information du diagnostic réalisé en 1994 et 1996, l'arrêté préfectoral du 19/10/1998 a prescrit le diagnostic initial et l'Évaluation Simplifiée des Risques (ESR) de l'ensemble du site SHELL.		'SHELL'
+2012	02			2012	02			investigations_complémentaires	L'exploitant a réalisé un rapport d'étude suite aux investigations complémentaires de Février 2012 et il a défini les techniques de traitement.		
+1996				1996				diagnostic	A la suite du diagnostic de 1996, des travaux de dépollution des terres ont été entrepris, aujourd'hui inachevés.		
+2014	05	29		2014	05	29		déclare_l__arrêt_de	Le 29/05/2014, l'exploitant déclare l'arrêt de l'exploitation et le démantèlement de 3 bacs de stockage à toit flottant.		
+2007	01	12		2007	01	12		a_été_déclaré	Le changement d'exploitant a été déclaré le 12/01/2007.		
+1994				1994				diagnostic_réalisé	Afin de compléter les éléments d'information du diagnostic réalisé en 1994 et 1996, l'arrêté préfectoral du 19/10/1998 a prescrit le diagnostic initial et l'Évaluation Simplifiée des Risques (ESR) de l'ensemble du site SHELL.		'SHELL'
+2008	09	02		2008	09	02		a_été_fourni	Le plan de gestion a été fourni le 02/09/2008 sur la base du rapport VERITAS du 28/01/2008 et du rapport ARCAGÉE du 29/08/2008 relatif à l'étude technico-économique des solutions.		'VERITAS', 'ARCAGÉE'
+2004	12			2004	12			ont_été_remis	Ces compléments ont été apportés par le diagnostic approfondi et l'évaluation détaillée des risques sur l'ensemble de la plateforme pétrolière (SHELL & Butagaz) dont les rapports ont été remis en Décembre 2004.	'la plateforme pétrolière'	'SHELL & Butagaz'
+2012	07			2012	07			seront_mis_en_place	Les équipements seront mis en place en Mai 2012 pour un démarrage du traitement de la nappe par stripping et venting en Juillet 2012.		
+1996				1996				Une_étude_de_sols	Une étude de sols menée par ANTEA début 1996 a confirmé la présence de résidus d'hydrocarbures sur le site à des teneurs variables supérieures à 500 ppm.	"résidus d'", 'hydrocarbures'	'ANTEA'
+1987				1987				Le_démantèlement_de	Le démantèlement de la raffinerie en 1987 a laissé sur place un stock de déchets d'environ 20.000 tonnes.		
+2009	10			2009	10			deux_passages_en	L'arrêté préfectoral de travaux proposé le 27/03/2009, après deux passages en CODERST en Octobre 2009 et Mars 2010, est signé le 11/05/2010.		
+1996				1996				a_prescrit_le_diagnostic_initial	Afin de compléter les éléments d'information du diagnostic réalisé en 1994 et 1996, l'arrêté préfectoral du 19/10/1998 a prescrit le diagnostic initial et l'Évaluation Simplifiée des Risques (ESR) de l'ensemble du site SHELL.		'SHELL'
+2012	07			2012	07			un_démarrage_du_traitement	Les équipements seront mis en place en Mai 2012 pour un démarrage du traitement de la nappe par stripping et venting en Juillet 2012.		
+2000	11	29		2000	11	29		L__étude_a_été_remise	L'étude a été remise le 29/11/2000 et a conclu au classement 2 « à surveiller » du site pour l'usage du moment.		
+2014	01	28		2014	01	28		Etat	Etat au 28/01/2014 :		
+2012	04	03		2012	04	03		État	État au 03/04/2012 :		
+2002	02			2002	02			ont_été_réalisées	En Février 2002 les prescriptions ont été réalisées.		
+2012	04	03		2012	04	03		__a_été_remis_le_jour	Ce document, daté du 20/03/2012  a été remis le jour de l'inspection du 03/04/2012.		
+1996				1996				des_travaux_de_dépollution	A la suite du diagnostic de 1996, des travaux de dépollution des terres ont été entrepris, aujourd'hui inachevés.		
+2012	04	03		2012	04	03		de_l__inspection	Ce document, daté du 20/03/2012  a été remis le jour de l'inspection du 03/04/2012.		

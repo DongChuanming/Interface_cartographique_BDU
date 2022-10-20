@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_cessé	L'Ile Seguin occupe une superficie d'environ 13 ha qui était dédiée à la construction automobile et dont l'activité a cessé en 1992.		
+1998	06			2000	02			ont_été_réalisés	Des traitements ont été réalisés de juin 1998 à février 2000, avant démolition des superstructures (phase A).		
+2005				2005				EDR_réalisée	Cette réhabilitation repose sur des diagnostics complémentaires (EDR réalisée fin 2005 afin de définir des objectifs de réhabilitation) ; ceux-ci ont été repris dans un arrêté préfectoral du 18 octobre 2006 (qui a abrogé et remplacé l'arrêté de juin 1995).		
+2008	10			2008	10			de_fin_de_travaux_en_date_d_	La réhabilitation du site est terminée et le dossier de fin de travaux en date d'octobre 2008 a été fourni.		
+2009	07	03		2009	07	03		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été dressé le 3 juillet 2009 constatant la réalisation des objectifs de l'arrêté préfectoral du 18 octobre 2006.		
+2006	10	18		2006	10	18		Le_PV_de_récolement	Le PV de récolement a été rédigé constatant la réalisation des objectifs de l'arrêté préfectoral du 18 octobre 2006.		
+2006	10	18		2006	10	18		la_réalisation	Un procès verbal de récolement a été dressé le 3 juillet 2009 constatant la réalisation des objectifs de l'arrêté préfectoral du 18 octobre 2006.		
+2003				2003				__a_commencé	La phase B, comprenant la démolition des bâtiments, a commencé fin 2003.		

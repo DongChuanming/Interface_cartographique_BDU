@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1972				1972				exploite	La société HINDERCHIED exploite depuis 1972 sur une surface d'environ 300 m² un dépôt de ferrailles de véhicules sur une parcelle clôturée d'environ 900 m² occupée également par l'habitation de l'exploitant.		'La société HINDERCHIED'
+1998	04	30		1998	04	30		Une_étude_diagnostic	Une étude diagnostic, demandée par arrêté préfectoral du 23 décembre 1997 transmise le 30/04/1998, conclut à une pollution par hydrocarbures très ponctuelle et superficielle rendant le site banalisable pour l'usage actuel de l'exploitation d'un dépôt de ferailles.	'hydrocarbures'	

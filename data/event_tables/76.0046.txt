@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				19997	12			vers_un_CET_classe_2	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		
+1996	06			1996	06			évacuation	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		
+1997	04	14		1997	04	14		contrôle_après_évacuation	- contrôle après évacuation, par la Société ANTEA des teneurs résiduelles, rapport attestant la décontamination du site : 14 avril 1997 (site banalisable)		'la Société ANTEA'
+1997	03			1997	03			vers_un_CET_classe_2	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		
+				19997	12			évacuation	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		
+1997	04	17		1997	04	17		récollement_en	- PV de récollement en date du 17 avril 1997,		
+1998	09	08		1998	09	08		Transmission	- Transmission des bordereaux de suivi d'évacuation des déchets industriels (terres polluées) par lettre du 8 septembre 1998.	'déchets industriels'	
+1997	03			1997	03			évacuation	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		
+1996	06			1996	06			vers_un_CET_classe_2	- évacuation des 310 tonnes de terres contaminées veres une zone de décharge temporaire (juin 1996 et mars 1997) puis vers un CET classe 2 de septembre à décembre 19997.		

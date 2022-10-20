@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	11	13		2015	11	13		a_été_délivré	Un récépissé de déclaration de la rubrique 2910A2 a été délivré le 13 novembre 2015.		
+1998	04	20		1998	04	20		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif, par arrêté préfectoral du 20 avril 1998.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif, par arrêté préfectoral du 20 avril 1998.		
+2005	07			2005	07			la_fourniture_de_l__étude_finale	La Direction Générale de l'Armement, qui finance les études et les opérations de dépollution, a annoncé la fourniture de l'étude finale pour juillet 2005.		"La Direction Générale de l' Armement"
+2004				2004				aurait_dû_être_mise_en_service	Cette installation aurait dû être mise en service, selon les prévisions initiales de la SNPE, à l’automne 2004.		
+2011	10	21		2011	10	21		L__Evaluation	L'Evaluation Quantitative des Risques Sanitaires et le plan de gestion ont été réalisés le 21 octobre 2011.	'Sanitaires'	
+2003	10	13		2003	10	13		a_été_fixée	Cette échéance a été fixée par un arrêté préfectoral en date du 13 octobre 2003.		
+1939				1939				connut	Le site connut des périodes importantes d'activité lors de la première guerre mondiale puis pendant les années 1939 et 1940.		
+2005	12	12		2005	12	12		le_diagnostic_approfondi	De plus, le diagnostic approfondi de l’état du sol et l’évaluation détaillée des risques ont été transmis le 12 décembre 2005.		
+2004				2004				s__est_réunie	Elle s'est réunie à deux reprises en 2004 (mai et décembre).		
+2012	07			2012	07			les_travaux	Suite à l'arrêté préféctoral complémentaire du juillet 2012, les travaux au droit du secteur sud (faisant l'objet d'un projet d'aménagement) ont été entrepris.		
+1940				1940				connut	Le site connut des périodes importantes d'activité lors de la première guerre mondiale puis pendant les années 1939 et 1940.		
+1975				2004				a_été_exploité	Le site de la poudrerie d'Angoulême, d'une superficie de 177,3 ha, a été exploité par l’État de 1826 à 1974 puis par la Société Nationale des Poudres et Explosifs (SNPE) de 1975 à 2004 (date de cessation d'activité).		'la Société Nationale des Poudres', 'et Explosifs'
+2015	03			2015	03			a_été_transmis	Un plan de gestion du secteur nord, d'une superficie de 26,2 ha, a été transmis à l'inspection en mars 2015.		
+2004				2004				est_en_cours_de_réhabilitation	Depuis 2004, le site est en cours de réhabilitation pour un usage industriel.		
+2013	12	23		2013	12	23		a_été_transmis	Un plan de gestion du secteur est, d'une superficie de 90 ha, a été transmis à l'inspection le 23 décembre 2013.		
+2002				2002				a_été_remise	Une partie de cette étude a été remise fin 2002 dans les délais prévus, mais des investigations complémentaires devaient encore être menées afin de mieux connaître l'état exact du site.		
+1826				1974				a_été_exploité	Le site de la poudrerie d'Angoulême, d'une superficie de 177,3 ha, a été exploité par l’État de 1826 à 1974 puis par la Société Nationale des Poudres et Explosifs (SNPE) de 1975 à 2004 (date de cessation d'activité).		'la Société Nationale des Poudres', 'et Explosifs'
+								s__est_réunie	Elle s'est réunie à deux reprises en 2004 (mai et décembre).		
+2001	03			2001	03			diagnostic_initial	Les échéances pour la réalisation de cette étude étaient : étape A, diagnostic initial (mars 2001) ; étape B, investigations de terrain et évaluation simplifié des risques (décembre 2001).		

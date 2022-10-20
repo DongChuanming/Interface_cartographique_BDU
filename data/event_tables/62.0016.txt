@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				__Etude_des_sols_initiale_réalisée	- Etude des sols initiale réalisée en 1992 (coût : 400 kF)		
+1991				1991				a_cessé	- Toute activité a cessé depuis 1991.		
+1996	08			1996	08			Traitement	- Traitement des terres polluées par les hydrocarbures réalisé en août 1996 (traitement en biopile).	'hydrocarbures'	
+1998	10	07		1998	10	07		La_fin_des_travaux_a_été_constatée	- La fin des travaux a été constatée le 7 Octobre 1998.		
+1997				1997				à_été_rédigé	- un dossier d’Évaluation des Risques Résiduels à été rédigé en 1997  (conclusions: risque acceptable pour un scénario d'aménagement par boisement).		
+1994				1994				partie_réalisée	- Démantèlement des installations totalement achevé et requalification du site par l'EPF (modelage des terrains et verdissement) en grande partie réalisée en 1994.		"par l' EPF"
+1996	04	02		1996	04	02		imposant_le_traitement_de_la_pollution	- Arrêté du 02/04/1996 imposant le traitement de la pollution du site et les modalités du suivi du réseau piézométrique.		
+1992	03			1992	03			Arrêt_complet_des_activités	- Arrêt complet des activités de l'usine d'engrais depuis fin mars 1992.		

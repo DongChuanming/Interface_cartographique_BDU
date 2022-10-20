@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	09	19		2017	09	19		a_été_sollicité	Par transmission du 19 septembre 2017, il a été sollicité l’avis de l’inspection sur le mémoire de réhabilitation du site.		
+2011	11	10		2011	11	10		a_été_radiée	Par courrier du 16 octobre 2017, l’inspection rappelle que le site anciennement occupé par la société MURAT, devenue, ICPE relevant du régime de la déclaration, a été radiée du registre du commerce et des sociétés le 10/11/2011.		'la société MURAT'
+1978				1978				avait_déclaré	La société MURAT avait déclaré en 1978 une activité de trempe à l'eau et à l'huile et une activité de peinture au pistolet.		'La société MURAT'
+1990				1990				à_sa_faillite	Il a été exploité successivement par la société MURAT jusqu'à sa faillite en 1990.		'la société MURAT'
+								a_accueilli	Le site a accueilli pendant près de 70 ans des activités de mécanique de précision et de fabrication de machines-outils.		
+2010				2010				l__ensemble_du_site	Les activités se sont progressivement arrêtées, avec l’arrêt des activités de la partie « nouvelle usine » dans les années 80, puis l’ensemble du site en 2010.		

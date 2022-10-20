@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	03			2001	03			évacuées_en_biocentre	Ces terres excavées ont été entreposées dans le bâtiment couvert, protégées au sol par un polyane disposé sur une dalle béton puis évacuées en biocentre en mars 2001.		
+								a_été_construit	L'établissement de la société ALAG a été construit dans les années 50.		'la société ALAG'
+1995				1999				a_acquis	La CCIM (Chambre de Commerce et d'Industrie du Morbihan) a acquis le terrain pour y entreposer du sulfate de fer à l'intérieur du hangar (2 500 tonnes environ), de 1995 à 1999.	'Morbihan', 'sulfate de fer'	'La CCIM', 'Chambre de Commerce'
+2000	10			2000	10			__excavation	- octobre 2000 : excavation des terres polluées qui se trouvaient à l'extérieur des bâtiments et des infrastructures existantes.		
+2001	08			2001	08			__excavation	- juillet-août 2001 : excavation des terres polluées qui se trouvaient à l'intérieur du bâtiment après destruction de la dalle béton, ainsi que sous les dalles extérieures.		
+1999	07			1999	07			Un_diagnostic_de_pollution	Un diagnostic de pollution a été réalisé en juillet 1999.		
+2003	06			2003	06			évacuées_en_biocentre	Les terres excavées ont été mises en dépôt à l'intérieur du bâtiment couvert sur un polyane disposé sur la dalle béton puis évacuées en biocentre en juin 2003.		
+								__excavation	- juillet-août 2001 : excavation des terres polluées qui se trouvaient à l'intérieur du bâtiment après destruction de la dalle béton, ainsi que sous les dalles extérieures.		
+1992				1992				a_cessé_ses_activités	La société a cessé ses activités en 1992.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			L__étude_a_été_remise_en	L'étude a été remise en deux parties en juin et décembre 2001.		
+								L__étude_a_été_remise_en	L'étude a été remise en deux parties en juin et décembre 2001.		
+2002				2002				La_campagne_est_effective	La campagne est effective depuis 2002 et porte sur les métaux et les hydrocarbures totaux.	'les métaux', 'hydrocarbures totaux'	

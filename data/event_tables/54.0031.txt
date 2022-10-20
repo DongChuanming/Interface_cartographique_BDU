@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	06	07		2006	06	07		de_la_visite	Lors de la visite du 7 juin 2006, le crassier est toujours en exploitation et cette exploitation devrait durer jusqu'en 2017.		
+				2017				est_toujours_en_exploitation	Lors de la visite du 7 juin 2006, le crassier est toujours en exploitation et cette exploitation devrait durer jusqu'en 2017.		
+1985				1985				est_assurée	La Surveillance des eaux souterraines et de la Moulaine est assurée depuis 1985.		
+2006	06	07		2006	06	07		est_toujours_en_exploitation	Lors de la visite du 7 juin 2006, le crassier est toujours en exploitation et cette exploitation devrait durer jusqu'en 2017.		
+				2017				cette_exploitation	Lors de la visite du 7 juin 2006, le crassier est toujours en exploitation et cette exploitation devrait durer jusqu'en 2017.		

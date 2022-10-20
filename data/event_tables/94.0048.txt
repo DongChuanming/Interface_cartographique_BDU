@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10			2002	10			Des_investigations_de_sols	Des investigations de sols ont été effectuées en mai, août et octobre 2002.		
+2007	02	15		2007	02	15		a_été_annulé	L'arrêté demandant la surveillance de la nappe et la réalisation d'une EDR au propriétaire (mairie) a été annulé par jugement du TA en date du 15/02/2007.		
+								Des_investigations_de_sols	Des investigations de sols ont été effectuées en mai, août et octobre 2002.		
+2007	11	30		2007	11	30		acquéreur_du_site	La mairie, conformément au courrier préfectoral 30 novembre 2007, a informé l’acquéreur du site (ORPEA) de l’existence de la pollution au plomb et de l’obligation qu’il a de s’assurer de la compatibilité de l’état du sol et du sous-sol avec l’usage prévu.	'plomb'	'( ORPEA'
+2017	11	29		2017	11	29		Le_visite_d__inspection	Le visite d'inspection du 29/11/2017 a permis de constater que le site avait été totalement réaménagé.		
+1994				1994				a_été_racheté	Le site, qui est localisé en zone urbaine sur un terrain de 1860 m2, a été racheté par la mairie en 1994.		

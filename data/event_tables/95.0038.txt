@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990				1990				ont_été_détruites	Depuis la vente en 1990, les constructions sur site ont été détruites.		
+1996				1996				une_transaction	A l'occasion d'une transaction en 1996, des sondages ont été réalisés par la société Technichem et ont montré une pollution du site au cuivre notamment.	'cuivre'	'la société Technichem'
+2007	09	13		2007	09	13		a_annulé	Par jugement du 13 septembre 2007, le tribunal administratif de Cergy-Pontoise a annulé l'arrêté préfectoral du 23 juillet 2004 imposant la surveillance de la qualité des eaux souterraines au droit du site.		'le tribunal administratif de Cergy - Pontoise'
+1996				1996				des_sondages_ont_été_réalisés	A l'occasion d'une transaction en 1996, des sondages ont été réalisés par la société Technichem et ont montré une pollution du site au cuivre notamment.	'cuivre'	'la société Technichem'
+				1990				a_été_exploité	Le site a été exploité jusqu'en 1990 par la société Pirelli Energie Câbles et Systèmes France.		'la société Pirelli Energie'
+2002	03	27		2002	03	27		a_été_transmis	Ce dernier document a été transmis le 27 mars 2002 et range le site dans la catégorie des sites necessitant une surveillance de la qualité des eaux souterraines.		
+1998				1998				ont_été_réalisées	Des etudes supplementaires ont été réalisées en 1998 et 2000 par ANTEA pour le compte de PIRELLI sans avoir été imposées par arrêté préfectoral.		'ANTEA', 'PIRELLI'
+2002	06	13		2002	06	13		mise_en_demeure	L'exploitant a fait une proposition en ce sens que M. le prefet lui a demandé de compléter par arrêté préfectoral de mise en demeure du 13 juin 2002.		'le prefet'
+2000				2000				ont_été_réalisées	Des etudes supplementaires ont été réalisées en 1998 et 2000 par ANTEA pour le compte de PIRELLI sans avoir été imposées par arrêté préfectoral.		'ANTEA', 'PIRELLI'
+1990				1990				la_vente	Depuis la vente en 1990, les constructions sur site ont été détruites.		
+2002	02	04		2002	02	04		la_mise_à_jour_du_diagnostic_du_site	Par arrêté préfectoral du 04 février 2002, il a été imposé à PIRELLI, en tant que dernier exploitant, la mise à jour du diagnostic du site conformément au guide du ministère sur les sites pollués ou potentiellement pollués - version 2.		'PIRELLI'

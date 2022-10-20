@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11			2009	11			a_transmis	Suite au rapport de l'inspection du 22 octobre 2009, AKERYS a transmis, le 9 novembre 2009, les résultats des investigations complémentaires.		'AKERYS'
+2008	07	28		2008	07	28		a_transmis	Par courrier du 28 juillet 2008, Maître Richy, notaire en charge de régulariser la vente du terrain, a transmis un mémoire de cessation d'activités du site réalisé par le bureau d'études BURGEAP.		'Maître Richy', 'BURGEAP'
+2009	10	22		2009	10	22		a_transmis	Suite au rapport de l'inspection du 22 octobre 2009, AKERYS a transmis, le 9 novembre 2009, les résultats des investigations complémentaires.		'AKERYS'
+2009	10	19		2009	10	19		a_été_transmis	Le plan de gestion établi par le bureau d’étude TAUW ENVIRONNEMENT en novembre 2007 a été transmis le 19 octobre 2009.		'TAUW ENVIRONNEMENT'
+								a_transmis	Suite au rapport de l'inspection du 22 octobre 2009, AKERYS a transmis, le 9 novembre 2009, les résultats des investigations complémentaires.		'AKERYS'
+2004	10	29		2004	10	29		a_demandé	Par courrier du 29 octobre 2004, monsieur le Préfet de l'Isère a demandé que le dossier précise les mesures de remise en état du site, notamment vis-à-vis de la cuve enterrée d'hydrocarbures .	"d' hydrocarbures"	'le Préfet'
+2009	09	30		2009	09	30		a_transmis	Par courrier du 30 septembre 2009, la société AKERYS, futur acquéreur du site, a transmis à l'inspection ces documents.		'la société AKERYS'
+2004	03	1		2004	03	1		Un_premier_diagnostic_des_sols	Un premier diagnostic des sols a été transmis à monsieur le Préfet de l'Isère le 1er mars 2004.		'le Préfet'
+2007	11			2007	11			établi	Le plan de gestion établi par le bureau d’étude TAUW ENVIRONNEMENT en novembre 2007 a été transmis le 19 octobre 2009.		'TAUW ENVIRONNEMENT'

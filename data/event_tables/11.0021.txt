@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				un_renforcement	A noter que la digue du bassin B2 a fait l'objet d'un renforcement par palplanches en 2010.		
+2013	03			2013	03			ont_été_excavées	Pour la parcelle 189, les terres impactées ont été excavées en février et mars 2013, aboutissant à des teneurs résiduelles maximales de 6 mg/kg en fond de fouille à comparer avec un bruit de fond local de 1,3 mg/kg.		
+								ont_été_excavées	Pour la parcelle 189, les terres impactées ont été excavées en février et mars 2013, aboutissant à des teneurs résiduelles maximales de 6 mg/kg en fond de fouille à comparer avec un bruit de fond local de 1,3 mg/kg.		
+2013	12			2013	12			un_curage	Le diagnostic de ses sédiments entrepris pendant l'exploitation a mis en évidence la nécessité d'un curage, qui a été achevé en décembre 2013.		
+2011				2011				a_été_comblé	Le bassin B4bis qui n'a pas reçu les déchets prévus durant l'exploitation a été comblé en 2011 avec des terres inertes et recouvert par des gravats inertes pour créer une plateforme destinée à l'usine de traitement des effluents liquides.	'effluents'	

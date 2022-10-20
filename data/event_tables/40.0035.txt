@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	10			2001	10			La_campagne_d_	La campagne d'octobre 2001 met en évidence la diminution des teneurs en cyanures libres qui sont inférieures à la VCI usage non sensible.	'cyanures'	
+								de_contrôler	Il a été décidé le 25 mars 2003 de contrôler les 4 piézomètres (cyanures totaux et libres), une fois par an, en période de basses eaux pendant 3 ans.	'cyanures totaux'	
+2005				2005				dernière_campagne	Pour les 2 piézomètres amont cette teneur augmente légèrement par rapport à la dernière campagne de 2005.		
+2001	03	15		2001	03	15		a_vendu_sa_parcelle_à	EDF a vendu sa parcelle à sa filiale SOFILO en date du 15 mars 2001, sans changement d’usage et en a informé la DRIRE le 25 mars 2003.		'sa filiale SOFILO', 'la DRIRE'
+1996				1996				accueille	Depuis 1996, il accueille le centre EDF-GDF Services de Dax (bâtiments administratifs et techniques, locaux d’activité).		'le centre EDF - GDF Services de Dax'
+2003	03	25		2003	03	25		Il_a_été_décidé	Il a été décidé le 25 mars 2003 de contrôler les 4 piézomètres (cyanures totaux et libres), une fois par an, en période de basses eaux pendant 3 ans.	'cyanures totaux'	
+2002	11			2002	11			Une_nouvelle_campagne_a_été_réalisée	Une nouvelle campagne a été réalisée en novembre 2002.		
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1998				1998				a_réhabilité	Gaz de France a réhabilité le site en 1998 (neutralisation des ouvrages souterrains, traitement de 290 tonnes de terres souillées et confinement des matières épurantes).		'Gaz de France'
+2004	06			2004	06			La_campagne_de	La campagne de juin 2004 met en évidence une baisse des teneurs en cyanures libre mais une hausse des teneurs en cyanures totaux toutefois proches de la valeur de constat d'impact usage non sensible.	'cyanures', 'cyanures totaux'	
+2001				2001				a_acquis	SOFILO, filiale de EDF a acquis en 2001, la partie du site des parcelles cadastrées BD 128 et 282.		'SOFILO'
+2003	10			2003	10			La_dernière_campagne_d__analyses	La dernière campagne d’analyses des eaux a été réalisée en octobre 2003 sur quatre piézomètres pour les cyanures totaux et libres.	'cyanures totaux'	
+1961				1961				est_transformé_en_station_d__alimentation_en	Le site est transformé en station d’alimentation en gaz naturel en 1961.		
+2006	05	03		2006	05	03		La_campagne_du	La campagne du 3 mai 2006 montre que sur 2 piézomètres situés en aval hydraulique (PZ3 bis et PZ4), la VCI usage usage non sensible est dépassée pour les cyanures totaux.	'cyanures totaux'	
+1855				1958				a_accueilli	Le terrain situé à 500m au Sud du centre ville de Dax, d’une superficie totale de 15759 m2, a accueilli de 1855 à 1958 une usine fabriquant du gaz à partir de la distillation de la houille.		
+2003	03	25		2003	03	25		a_informé	EDF a vendu sa parcelle à sa filiale SOFILO en date du 15 mars 2001, sans changement d’usage et en a informé la DRIRE le 25 mars 2003.		'sa filiale SOFILO', 'la DRIRE'

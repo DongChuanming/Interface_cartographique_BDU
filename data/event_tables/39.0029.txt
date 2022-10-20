@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10	17		2008	10	17		liquidation_judiciaire	17 octobre 2008: liquidation judiciaire		
+2013				2013				sont_occupés	Depuis fin 2013, les bâtiments sont occupés par la société GIROD MEDIAS.		'la société GIROD MEDIAS'
+2013	01	10		2013	01	10		intitulé__	Le document transmis par l’exploitant à l’inspection des installations classée intitulé « Diagnostic d’une installation classée pour la protection de l’environnement », daté du 10 janvier 2013, indice 0, référence ICO/DPS/BOURGEOIS (39)/R1.13.0, rédigé par le bureau d’études ICO Environnement contient :		'études ICO Environnement'
+2013	01	10		2013	01	10		__Diagnostic_d__une_installation_classée_pour_la	Le document transmis par l’exploitant à l’inspection des installations classée intitulé « Diagnostic d’une installation classée pour la protection de l’environnement », daté du 10 janvier 2013, indice 0, référence ICO/DPS/BOURGEOIS (39)/R1.13.0, rédigé par le bureau d’études ICO Environnement contient :		'études ICO Environnement'
+2004	09	15		2004	09	15		__déclaration	15 septembre 2004: déclaration de l'arrêt des chaines de traitement de surfaces		

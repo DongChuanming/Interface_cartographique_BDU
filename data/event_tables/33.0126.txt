@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03			2004	03			Les_études_remise	Les études remise en mars 2004 et juin 2005 classe le site en 1 nécessitant des investigations complémentaires suite à la présence de Pentachlorophénate de sodium (PCPNa)dans les sols et la nappe.	'Pentachlorophénate', 'sodium', 'PCPNa)dans'	
+2005	06			2005	06			Les_études_remise	Les études remise en mars 2004 et juin 2005 classe le site en 1 nécessitant des investigations complémentaires suite à la présence de Pentachlorophénate de sodium (PCPNa)dans les sols et la nappe.	'Pentachlorophénate', 'sodium', 'PCPNa)dans'	
+2006	08			2006	08			Les_campagnes_d__analyses	Les campagnes d'analyses de juin et août 2006 montrent l'absence d'impact par le PCPNa.		
+2006	09	09		2006	09	09		Le_diagnostic_remis	Le diagnostic remis le 9 septembre 2006 montre l'absence de pollution dans la zone des anciens bacs de trempage.		
+2008	07			2008	07			est_aussi_impacté	Le puits P3 en amont est aussi impacté en juillet 2008 (3,52 µg/l).		
+2015				2015				la_détection	La société ROCHETTE a fait réaliser un diagnostic de pollution au PCP suite à la détection de PCP dans les eaux souterraines depuis 2015. 8 sondages de sol et une analyse des eaux souterraines sont effectués.	'PCP', 'PCP'	'La société ROCHETTE'
+								Les_campagnes_d__analyses	Les campagnes d'analyses de juin et août 2006 montrent l'absence d'impact par le PCPNa.		
+2015				2015				un_diagnostic_de_pollution	La société ROCHETTE a fait réaliser un diagnostic de pollution au PCP suite à la détection de PCP dans les eaux souterraines depuis 2015. 8 sondages de sol et une analyse des eaux souterraines sont effectués.	'PCP', 'PCP'	'La société ROCHETTE'
+2009	06			2009	06			Les_campagnes_de	Les campagnes de juin 2009 et avril 2010, pour laquelle les prélèvements ont été faits par l'exploitant lui-même, ramènent a une situation satisfaisante avec absence d'impact pour les paramètres HCTX et TCMTB.	'HCTX', 'TCMTB'	
+2010	04			2010	04			Les_campagnes_de	Les campagnes de juin 2009 et avril 2010, pour laquelle les prélèvements ont été faits par l'exploitant lui-même, ramènent a une situation satisfaisante avec absence d'impact pour les paramètres HCTX et TCMTB.	'HCTX', 'TCMTB'	
+1981	03	10		1981	03	10		ont_été_autorisées_initialement	Les installations ont été autorisées initialement par l'arrêté préfectoral du 10 mars 1981.		
+2016	05	09		2016	05	09		est_désormais_soumis	L'établissement est désormais soumis à l'arrêté préfectoral du 30 avril 2013 complété par l'APC du 9 mai 2016.		

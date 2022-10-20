@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	02	05		1990	02	05		ont_été_mises_en_place_et_validées	Les mesures d'urgence proposées ont été mises en place et validées par une inspection sur le terrain le 5 février 1990.		
+1990	08			1990	08			a_sollicité	En août 1990, la DRIRE a sollicité de la Trésorerie Générale le degré de solvabilité du propriétaire, sans réponse.		'la DRIRE'
+1986	03			1986	03			La_découverte	La découverte de ce dépôt remonte à mars 1986 lors d'une inspection dans une carrière voisine.		

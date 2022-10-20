@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	04			2005	04			ont_sollicité	Au mois d'avril 2005, la préfecture de Haute-Marne et les services de l'inspection des installations classées ont sollicité Maître Lefevre, qui  intervient dans le cadre de la vente des terrains à M.		'la préfecture de Haute-Marne'
+2002	01			2002	01			est_clos	Le site est clos depuis janvier 2002 par des murs de 2 mètres de haut.		
+2001	04			2001	04			a_été_vendu	Le bâtiment a été vendu en avril 2001 à M.		
+2001	05			2001	05			démoli	Philippe puis démoli en mai 2001.		
+1995	06	06		1995	06	06		Les_travaux_d__élimination	Les travaux d'élimination des déchets ont été confiés à l'ADEME par arrêté préfectoral du 06 juin 1995.		
+1994	11	14		1994	11	14		a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire le 14 novembre 1994 et a cessé ses activités à cette date.		

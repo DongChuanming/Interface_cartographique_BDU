@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	03	15		2002	03	15		a_cessé_de_façon_définitive	Cette société a cessé de façon définitive son activité le 15 mars 2002.		
+2003				2003				ont_été_vendus	Depuis 2003, les terrains ont été vendus et construits.		
+2003	04			2003	04			Le_nettoyage	Le nettoyage des cuves de FOD, l'enlèvement des produits chimiques, des boues d'hydroxydes et des transfos au PCB ont été effectués en avril 2003.	'cuves de FOD', 'des produits chimiques', 'hydroxydes', 'PCB'	
+2003	02			2003	02			Les_études_ont_finalement_été_remises	Les études ont finalement été remises en février 2003 classant le site en 3 "banalisable".		

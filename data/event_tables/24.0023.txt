@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_été_arrêtée	L'activité de traitement de bois a été arrêtée en 2004.		
+2004	08	18		2004	08	18		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 2 décembre 1974 actualisé par l'arrêté préfectoral du 18/08/2004.		
+2008	05			2008	05			basé	Après vidange, la cuve a été découpée par le service de maintenance les ETS DESMOND basé à Lussas et Nontronneau en mai 2008		'ETS DESMOND'
+2010	09			2010	09			sols_effectué	Les analyses des sols effectué par le bureau d'études SOL-HYDRO-ENVIRONNEMENT en septembre 2010.		'SOL - HYDRO - ENVIRONNEMENT'
+2004				2004				l__arrêt	Suite à l'arrêt de l'activité de traitement du bois en 2004, l'arrêté du 02/09/2008 prescrit la vidange, le nettoyage et l'enlèvement de la cuve de traitement ainsi que l'élimination des déchets dans des installations prévues et autorisées à cet effet.		
+2004				2004				prescrit_la_vidange	Suite à l'arrêt de l'activité de traitement du bois en 2004, l'arrêté du 02/09/2008 prescrit la vidange, le nettoyage et l'enlèvement de la cuve de traitement ainsi que l'élimination des déchets dans des installations prévues et autorisées à cet effet.		
+2008				2008				n__avait_pas_été_jugé_nécessaire	le site étant totalement imperméabilisé, il n'avait pas été jugé nécessaire en 2008 de mener le diagnostic des sols au delà de l'exutoire des eaux de ruissellement.		

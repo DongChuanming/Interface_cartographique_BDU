@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1923				1923				a_été_créé	Le site du Complexe du Port Aux Pétroles a été créé en 1923.	'Pétroles'	
+2000	05			2000	05			a_été_remise	Une ESR a été remise en mai 2000, et des analyses complémentaires ont été demandées.		

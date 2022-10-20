@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	03	27		2012	03	27		l__acte_de_vente	Le 10 septembre 2013, TIMAC AGRO a transmis à l'inspection des installations classées une copie de l'acte de vente du 27/03/2012 qui mentionne bien que la destination du terrain est industrielle et que "le terrain ne peut être affecté, en l'état actuel et sans une éventuelle autre campagne d'analyses et de dépollution approfondie, à un usage d'habitation ou à la réception d'un public "sensible" (école, jardin public...)".		'TIMAC AGRO'
+1961				1961				Implantée_à	Implantée à Avanton depuis 1961, elle a cessé ses activités sur le site d'Avanton au mois de décembre 2007.		
+2009	04			2009	04			a_déposé_son_dossier_de_cessation_d__activité	L'entreprise INTERFERTIL a déposé son dossier de cessation d'activité en avril 2009.		"L' entreprise INTERFERTIL"
+								__des_travaux_d__excavation	Les 16 et 17 décembre 2008  des travaux d'excavation ont été réalisés sur certaines zones.		
+2013	09	10		2013	09	10		a_transmis	Le 10 septembre 2013, TIMAC AGRO a transmis à l'inspection des installations classées une copie de l'acte de vente du 27/03/2012 qui mentionne bien que la destination du terrain est industrielle et que "le terrain ne peut être affecté, en l'état actuel et sans une éventuelle autre campagne d'analyses et de dépollution approfondie, à un usage d'habitation ou à la réception d'un public "sensible" (école, jardin public...)".		'TIMAC AGRO'
+2013	03	18		2013	03	18		transmet	Le 18 mars 2013, TIMAC AGRO transmet au préfet la copie de l'acte de restrictions d'usage conventionnelles signé le 6 février 2013, entre la société SOLIAVENIR (propriétaire actuel du site) et TIMAC AGRO.		'TIMAC AGRO', 'la société SOLIAVENIR', 'TIMAC AGRO'
+2013	02	06		2013	02	06		signé	Le 18 mars 2013, TIMAC AGRO transmet au préfet la copie de l'acte de restrictions d'usage conventionnelles signé le 6 février 2013, entre la société SOLIAVENIR (propriétaire actuel du site) et TIMAC AGRO.		'TIMAC AGRO', 'la société SOLIAVENIR', 'TIMAC AGRO'
+2008	12	17		2008	12	17		__des_travaux_d__excavation	Les 16 et 17 décembre 2008  des travaux d'excavation ont été réalisés sur certaines zones.		
+2008				2008				devient_INTERFERTIL	L'entreprise AGRIPOITOU change de nom et devient INTERFERTIL en 2008.		'AGRIPOITOU', 'INTERFERTIL'
+2013	12	19		2013	12	19		ont_été_validé	Le 19 décembre 2013, les obligations en matière de cessation d'activités ont été validé au niveau préfectorale pour un industriel de type non sensible.		
+2007	12			2007	12			a_cessé	Implantée à Avanton depuis 1961, elle a cessé ses activités sur le site d'Avanton au mois de décembre 2007.		
+2008				2008				change_de_nom	L'entreprise AGRIPOITOU change de nom et devient INTERFERTIL en 2008.		'AGRIPOITOU', 'INTERFERTIL'
+2011	05			2011	05			déclare	En mai 2011, l'inspection des installations classées déclare que l'exploitant ne peut conclure à l'absence d'impact sur la qualité des eaux souterraines.		
+2012	01	1		2012	01	1		le_nom	Depuis le 1er janvier 2012, la société INTERFERTIL a pris le nom de TIMAC AGRO.		'la société INTERFERTIL', 'TIMAC AGRO'

@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	08			2001	08			à_partir_d_	Redressement judiciaire à partir d'août 2001.		
+2006				2006				__diagnostic_approfondi	° diagnostic approfondi et étude détaillée des risques (EDR) par TAUW Environnement en 2006.		'TAUW Environnement'
+2006	04			2006	04			__Nettoyage_et_neutralisation_de	° Nettoyage et neutralisation de 5 cuves de solvants et canalisations en avril 2006.	'cuves de solvants'	
+								Une_visite_rapide	Une visite rapide du site a été effectuée le 14/02/14.		
+								Rachat	Rachat par COFRADEC en mars 2002, mais redressement de cette dernière entreprise à partir du 3/04/03.		'COFRADEC'
+2005				2005				a_été_racheté	Après la fin des activités industrielles, le site a été racheté en 2005 par la communauté de communes du Genevois, pour y créer une pépinière d'entreprises.		
+								a_répondu_par_courrier	La communauté de communes a répondu par courrier du 30/10/13.		'La communauté de communes'
+2002	03			2002	03			Rachat	Rachat par COFRADEC en mars 2002, mais redressement de cette dernière entreprise à partir du 3/04/03.		'COFRADEC'
+				2008	11			Travaux_partiels_de_démolition	° Travaux partiels de démolition entre juillet 2007 et novembre 2008.		
+2013	07			2013	07			__Implantation_de	° Implantation de 3 piézomètres sur le site et analyses d'eaux souterraines en juin-juillet 2013 par le bureau d'études GEOS.		'GEOS'
+2006				2006				été_implantée	En 2006, la société ADELAC, concessionnaire de l'autoroute en construction (St Julien – Villy le Pelloux)a été implantée sur une partie du site (bail de 3 ans).		'la société ADELAC'
+2006				2006				__évaluation_simplifiée_des_risques	° évaluation simplifiée des risques par GEOS en 2006,		'GEOS'
+2013				2013				Les_analyses	Les analyses d'eau de 2013 mettaient en évidence un impact du site sur l'acétone, les BTEX, les solvants chlorés et l'arsenic (sur au moins l'un des deux piézomètres aval).	'acétone', 'les BTEX', 'les solvants chlorés', 'arsenic'	
+2004				2004				__diagnostic_initial	° diagnostic initial par SOGREAH en 2004,		'SOGREAH'
+								bail_de	En 2006, la société ADELAC, concessionnaire de l'autoroute en construction (St Julien – Villy le Pelloux)a été implantée sur une partie du site (bail de 3 ans).		'la société ADELAC'
+								__Implantation_de	° Implantation de 3 piézomètres sur le site et analyses d'eaux souterraines en juin-juillet 2013 par le bureau d'études GEOS.		'GEOS'
+1976	08			1976	08			Autorisée	Autorisée par arrêté préfectoral en août 1976.		
+								a_été_adressé	A l'issue de cette visite un courrier a été adressé le 14/03/14 à la communauté de communes du Genevois.		

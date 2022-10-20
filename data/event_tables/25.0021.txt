@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	10		2010	12	10		du	Par arrêté préfectoral du 10 décembre 2010, la société FAURECIA est tenue pour sa partie du site de surveiller les eaux souterraines au niveau de 8 piézomètres (dont un en amont).		'la société FAURECIA'
+2005				2005				s__est_opérée	Une partition du site s'est opérée en 2005.		
+1857				1857				implanté	Le site implanté depuis 1857  sur les communes de Mandeure et Valentigney, occupe une superficie de l'ordre de 100000m².		
+2003	07			2003	07			a_proposé	L'exploitant a proposé en juillet 2003, un protocole de surveillance des eaux souterraines, qui a été acté par l'inspection des installations classées et fera l'objet d'une proposition de formalisation dans un arrêté préfectoral en 2004.		
+2004				2004				a_proposé	L'exploitant a proposé en juillet 2003, un protocole de surveillance des eaux souterraines, qui a été acté par l'inspection des installations classées et fera l'objet d'une proposition de formalisation dans un arrêté préfectoral en 2004.		

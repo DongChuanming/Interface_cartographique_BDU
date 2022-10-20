@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				2011				a_procédé_à_plusieurs_cessations	Entre 1999 et 2011, ABB a procédé à plusieurs cessations d’activité partielles jusqu’en 2013, date à laquelle il a déposé un mémoire relatif à la cessation d’activité définitif.		'ABB'
+2018	06			2018	06			etre_finalisés	Des travaux de dépollution sont prévus et doivent etre finalisés d'ici juin 2018.		
+				2013				a_procédé_à_plusieurs_cessations	Entre 1999 et 2011, ABB a procédé à plusieurs cessations d’activité partielles jusqu’en 2013, date à laquelle il a déposé un mémoire relatif à la cessation d’activité définitif.		'ABB'
+				2013				a_déposé	Entre 1999 et 2011, ABB a procédé à plusieurs cessations d’activité partielles jusqu’en 2013, date à laquelle il a déposé un mémoire relatif à la cessation d’activité définitif.		'ABB'
+2003	11	17		2003	11	17		une_campagne_de_prélèvements_d__analyses	En réponse à l’arrêté préfectoral complémentaire du 17 novembre 2003, une campagne de prélèvements d’analyses d’air ambiant a été réalisée le 10 septembre 2015 au droit de 3 bâtiments et à l’extérieur.		
+2015	09	10		2015	09	10		La_campagne_d__investigations_de_terrain	La campagne d’investigations de terrain réalisée le 10 septembre 2015 en réponse aux arrêtés préfectoraux du 17 novembre 2003 et du 01 juillet 2015 concernait les hydrocarbures C10-C40, les métaux, les HAP, les COHV, les BTEX et les PCB.	'hydrocarbures C10-C40', 'les métaux', 'les HAP', 'les COHV', 'les BTEX', 'les PCB'	
+2003	10	23		2003	10	23		mémoire_de_remise_en_état	Le mémoire de remise en état du site comportant une étude de sol, a été transmise à l'administration le 23/10/2003 ; il synthétisait tous les diagnostics de sol déjà réalisé.		
+1958				1958				a_été_autorisé	Ce site a été autorisé en 1958, les derniers arrêtés préfectoraux autorisant la poursuite de l’exploitation des activités datant du 17 décembre 1990 et du 1 avril 1992.		
+2015				2015				a_été_complété	Il a été complété par des investiagtions complémentaires en 2015.		
+2015	09			2015	09			La_campagne_de	La campagne de septembre 2015 n’a montré aucun impact sur la nappe.		
+2015	09	10		2015	09	10		une_campagne_de_prélèvements_d__analyses	En réponse à l’arrêté préfectoral complémentaire du 17 novembre 2003, une campagne de prélèvements d’analyses d’air ambiant a été réalisée le 10 septembre 2015 au droit de 3 bâtiments et à l’extérieur.		
+								de_définir_les_travaux_de_dépollution	- de définir les travaux de dépollution du site ainsi que la surveillance de la qualité des eaux souterraines au regard des sources concentrées de pollution découvertes sur le site t de dépolluer sous 3 ans		

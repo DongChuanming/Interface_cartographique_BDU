@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	03	11		2009	03	11		La_campagne	La campagne du 11/03/2009 confirme les résultats de 2008 avec des traces d'Arsenic (4 µg/l)et des teneurs en HAP significatives dont Benzo(a)pyrène 1,145 µg/l (sommes des 6 HAP 5,55 µg/l).	'Arsenic', 'HAP', 'Benzo(a)pyrène', 'HAP'	
+2008	04			2008	04			La_campagne_d_	La campagne d'avril 2008 confirme la tendance.		
+1999				1999				Les_études_réalisées	Les études réalisées en 1997, 1999 et 2000 ont montré la présence de teneurs élevées en HAP et en métaux lourds dans les remblais superficiels.	'HAP', 'métaux lourds'	
+2002	10			2002	10			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en octobre 2002 :		
+								ont_été_instituées_par_acte_notarié	Pour conserver la mémoire de ce site et notamment des zones ayant fait l'objet d'un confinement, des restrictions d'usage conventionnelles au profit de l'état ont été instituées par acte notarié des 29/08/05 et 02/09/05 publié à la conservation des Hypothèques de la Gironde le 13 septembre 2005.		
+2005	04	22		2005	04	22		La_campagne_du	La campagne du 22 avril 2005 a révélé la présence de HAP et de métaux.	'HAP', 'métaux'	
+1997				1997				Les_études_réalisées	Les études réalisées en 1997, 1999 et 2000 ont montré la présence de teneurs élevées en HAP et en métaux lourds dans les remblais superficiels.	'HAP', 'métaux lourds'	
+2008	09	29		2008	09	29		La_campagne	La campagne du 29/09/2008 montre une charge particulauire (MES) plus importante, corrélée avec des teneurs en HAP (dont le Benzo(a)pyrène) plus élevées par rapport à la dernière campagne.	'HAP', 'Benzo(a)pyrène'	
+								La_campagne_de_prélèvement	La campagne de prélèvement du 30/11/06 sur PZ1 montrent des traces de HCTX et HP et des valeurs inférieures aux seuils de quantification pour les métaux.	'HCTX', 'HP', 'les métaux'	
+2005	09	13		2005	09	13		ont_été_instituées_par_acte_notarié	Pour conserver la mémoire de ce site et notamment des zones ayant fait l'objet d'un confinement, des restrictions d'usage conventionnelles au profit de l'état ont été instituées par acte notarié des 29/08/05 et 02/09/05 publié à la conservation des Hypothèques de la Gironde le 13 septembre 2005.		
+2000				2000				Les_études_réalisées	Les études réalisées en 1997, 1999 et 2000 ont montré la présence de teneurs élevées en HAP et en métaux lourds dans les remblais superficiels.	'HAP', 'métaux lourds'	

@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	19		2006	10	19		a_été_transmis	- Un rapport des études de sol et d'évaluation simplifiée des risques a été transmis à l'inspection le 19 octobre 2006.		
+1986				1986				arrêtée	- Ancienne raffinerie d'huiles minérales arrêtée en 1986, dont les terrains ont été rachetés par la Ville de Fourmies en 1986, avant d'être revendus à la société HIRSONDIS en vue de la création d'une surface commerciale.		'la Ville', 'la société HIRSONDIS'
+1989				1989				de_travaux_de_démolition	- Dernier exploitant disparu (liquidation judiciaire close) : action en cours à l'encontre du propriétaire du site, responsable de l'aggravation de la pollution du site lors de travaux de démolition en 1989.		
+1989				1989				réalisée	- Etude préliminaire d'impact du site réalisée en 1989.		
+1998	10	05		1998	10	05		Analyse_de_pollution_des_sols_par	- Analyse de pollution des sols par les hydrocarbures, en date du 05/10/1998.	'hydrocarbures'	
+1986				1986				ont_été_rachetés	- Ancienne raffinerie d'huiles minérales arrêtée en 1986, dont les terrains ont été rachetés par la Ville de Fourmies en 1986, avant d'être revendus à la société HIRSONDIS en vue de la création d'une surface commerciale.		'la Ville', 'la société HIRSONDIS'
+1953				1959				__déversement	- De 1953 à 1959, déversement dans une ancienne carrière "la Pierre de Marbre" à Wallers-Trélon de déchets de raffinage d'huiles de vidange traitées par l'acide sulfurique par OKOIL.	'acide sulfurique'	'OKOIL'
+1999	08			1999	08			__Diagnostic_du_site	- Diagnostic du site (phase A) réalisé par le propriétaire en août 1999.		

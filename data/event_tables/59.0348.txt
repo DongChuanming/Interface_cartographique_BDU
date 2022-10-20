@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Site_en_cours_de_réhabilitation	Site en cours de réhabilitation (2012).		
+2007	01			2007	01			devient_propriétaire_du_site	- EPF devient propriétaire du site en janvier 2007 et prévoit d'y mettre en place une activité artisanal et/ou économique.		'EPF'
+2008	06	04		2008	06	04		Cessation_d__activité_notifié	Cessation d'activité notifié par le liquidateur: 04/06/2008.		
+2006	06			2006	06			Réalisation_d__une_étude_de_sol	- Réalisation d'une étude de sol et d'une ESR: site en classe 3 pour un usage non sensible en juin 2006.		
+2000				2000				Réalisation_d__une_étude_de_sols	- Réalisation d'une étude de sols et Évaluation Simplifiée des Risques en aout 2000: site en classe 2.		
+2004	12			2004	12			Évacuation_des_déchets	- Évacuation des déchets en décembre 2004, vidange des cuves en juin 2006.		
+2006	06			2006	06			vidange_des_cuves	- Évacuation des déchets en décembre 2004, vidange des cuves en juin 2006.		
+				1999				exploitées_par	Certaines activités ont été reprise par la société Nouvelles filatures lainières de Roubaix et exploitées par celle-ci jusqu'en 1999.		'la société Nouvelles filatures lainières de Roubaix'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				2005				a_exercé	APS2 a exercé de 1993 à 2005 sur ce site une activité de fabrication de garnitures de friction à base d'une matière première contenant en moyenne 30 % d'amiante.	'amiante'	'APS2'
+1993				2005				une_activité_de_fabrication_de_garnitures_de_friction	APS2 a exercé de 1993 à 2005 sur ce site une activité de fabrication de garnitures de friction à base d'une matière première contenant en moyenne 30 % d'amiante.	'amiante'	'APS2'
+2002				2002				ne_l__était_plus	L'amiante n'est plus utilisée sur ce site et ne l'était plus sur l'ancien site en 2002.		

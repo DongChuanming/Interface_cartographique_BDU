@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	03	10		2000	03	10		Un_diagnostic_initial	Un diagnostic initial a été effectué le 10 mars 2000 avec 7 échantillons de sols.		
+								pour_une_période_initiale_de	- Effectuer une surveillance semestrielle, et pour une période initiale de 2 ans, des eaux souterraines au droit du site dans un certain nombre de piézomètres choisis pour leurs emplacements stratégiques (PZ4, PZ6, PZ18 et PZ26).		
+2001	12			2001	12			ont_été_réalisées	- durant le mois de décembre 2001, 7 tranchées ont été réalisées et un piézomètre supplémentaire (PZ25) a été implanté (en amont hydraulique)(voir plan cartographique 4 et 5 partie B).		'PZ25'
+1944				1946				a_été_à_nouveau_utilisé	Le site a été utilisé entre 1936 et 1939 par un fabricant aéronautique, a été occupé durant la seconde guerre mondiale, a été à nouveau utilisé pour la fabrication aéronautique entre 1944 et 1946, puis dédié à la fabrication de pompes.		
+				2001	12	13		Des_travaux_ont_été_réalisés	Des travaux ont été réalisés du 3 au 13 décembre 2001, sur les bordures de la route implantée à la limite Est de la propriété du site FLOWSERVE POMPES (voir plan cartographique 7 partie B).		'FLOWSERVE POMPES'
+								des_échantillonnages_sera_réévaluée	A la fin de cette période de 2 ans, la périodicité des échantillonnages sera réévaluée au regard des résultats analytiques.		
+2007	05	09		2007	05	09		il_a_été_prescrit	Par arrêté préfectoral du 9 mai 2007, il a été prescrit à la société FLOWSERVE POMPES la surveillance de la qualité des eaux souterraines au droit du site.		'la société FLOWSERVE POMPES'
+1936				1939				a_été_utilisé	Le site a été utilisé entre 1936 et 1939 par un fabricant aéronautique, a été occupé durant la seconde guerre mondiale, a été à nouveau utilisé pour la fabrication aéronautique entre 1944 et 1946, puis dédié à la fabrication de pompes.		
+2001	08			2001	08			6_forages	- durant le mois d’août 2001, un bureau d’étude a réalisé 6 forages (S2, S3, S5, S7, S22 et S23) et 6 piézomètres (PZ1, PZ4, PZ6, PZ12, PZ18 et PZ24) (voir plan cartographique 3 partie B).	'PZ24'	
+2003				2003				L__Étude_Détaillée_des_Risques	L’Étude Détaillée des Risques (EDR) réalisée en 2003 (après travaux) s’est basée sur les investigations suivantes :		
+2003	12	10		2003	12	10		Un_changement	Un changement d'exploitant, au profit de la société FLOWSERVE POMPES a eu lieu en date du 10 décembre 2003.		'la société FLOWSERVE POMPES'

@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	02	26		2010	02	26		envisage_de	Le 26/02/2010, AREVA envisage de tester un ajout de bentonite sur la couverture sur une planche d'essai de 1500 m2.	'bentonite'	'AREVA'
+2006				2006				Les_analyses_mensuelles	Les analyses mensuelles de 2006 ne montrent pas d'impact du dépôt par l'Arsenic.	'Arsenic'	
+								Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés de juin 2004 à  novembre 2005 avec 2 ans d'avance par rapport au délai de 3 ans fixé par l'arrêté, pour un coût global de 1,5 M€, études comprises.		
+1982				2001				remplir	Ce stockage a consisté à remplir, de 1982 à fin 2001, une vallée au lieu dit "Les Fouilloux" avec la construction d'une digue de retenue en pied.		
+								le_programme_de_travaux	Le 14/08/2009, la DRIRE demande à AREVA fournir dans le délai de 3 mois, le programme de travaux qu’il conviendrait de mettre en place afin de rendre la réhabilitation du site en conformité avec l’arrêté préfectoral du 05 mai 2004 et ses objectifs.		'la DRIRE', 'AREVA'
+2005				2005				l__augmentation	Le 3/03/2012 AREVA analyse les causes de l'augmentation des débits de 7 à 14 m3/h pour la période 1995-2005 et de 8 à 21 m3/h pour la période 2006-2011:		
+1995				1995				l__augmentation	Le 3/03/2012 AREVA analyse les causes de l'augmentation des débits de 7 à 14 m3/h pour la période 1995-2005 et de 8 à 21 m3/h pour la période 2006-2011:		
+1998	01			1998	01			Cette_remise_en_état_a_démarré	Cette remise en état a démarré en janvier 1998 par le démontage des ouvrages, l'aménagement de la crète de digue, la mise en place d'un bidim et de caneaux latéraux, la pose des ouvrages de contrôle de stabilité, l'ensemencement, la pose de la clôture, etc.		
+2008				2008				le	Pour le 1er semestre 2008 : 3367 en moyenne hebdomadaire et une concentration moyenne en arsenic de 13,4 mg/l.	'arsenic'	
+2006	10	12		2006	10	12		a_été_remis	- Le rapport d'ausculation a été remis a la DRIRE le 12 octobre 2006,		'la DRIRE'
+								le	Pour le 1er semestre 2008 : 3367 en moyenne hebdomadaire et une concentration moyenne en arsenic de 13,4 mg/l.	'arsenic'	
+2006				2006				analyse	Le 3/03/2012 AREVA analyse les causes de l'augmentation des débits de 7 à 14 m3/h pour la période 1995-2005 et de 8 à 21 m3/h pour la période 2006-2011:		
+2006	10	19		2006	10	19		de_la_visite	Le rapport final d’exécution des travaux a été remis à l’Inspecteur des Installations Classées lors de la visite de récolement du 19 octobre 2006 :		
+2005	11			2005	11			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés de juin 2004 à  novembre 2005 avec 2 ans d'avance par rapport au délai de 3 ans fixé par l'arrêté, pour un coût global de 1,5 M€, études comprises.		
+1999				1999				évaluation_des_risques	L'évaluation des risques réalisée en 1999 a classé le site en 2 "à surveiller" pour les eaux superficielles.		
+2011				2011				analyse	Le 3/03/2012 AREVA analyse les causes de l'augmentation des débits de 7 à 14 m3/h pour la période 1995-2005 et de 8 à 21 m3/h pour la période 2006-2011:		
+2004	06			2004	06			Ces_travaux_ont_été_réalisés	Ces travaux ont été réalisés de juin 2004 à  novembre 2005 avec 2 ans d'avance par rapport au délai de 3 ans fixé par l'arrêté, pour un coût global de 1,5 M€, études comprises.		

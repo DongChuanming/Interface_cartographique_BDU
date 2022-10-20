@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	05	16		2003	05	16		a_demandé	Par courrier du 16 mai 2003, l'inspection des installations classées a demandé à l'exploitant de mettre en place une surveillance des eaux souterraines à une fréquence (au minimum) semestrielle.		
+2000	03	30		2000	03	30		l__étude_hydrogéologique	Par courrier du 30 mars 2000, l'exploitant a adressé à l'inspection des installations classées l'étude hydrogéologique concernant l'implantation de piézomètres.		
+2000	03	30		2000	03	30		la_mise_en_place	L'inspection des installations classées de la DRIRE a demandé le 30/03/2000 la mise en place de ces piézomètres compte tenu de la vulnérabilité de la nappe.		'la DRIRE'
+2000	12	18		2000	12	18		ont_été_communiqués	Par courrier du 18 décembre 2000, les rapports de forage des piézomètres ont été communiqués.		
+1996	04	03		1996	04	03		le_diagnostic	Sur proposition de l'inspection des installations classées, le diagnostic et l'évalutation simplifiée des risques ont été demandés par arrêté préfectoral du 28/10/1998, dans le cadre de la circulaire du 03/04/1996.		
+1999	06	07		1999	06	07		a_été_fourni	Le diagnostic initial a été fourni le 7 juin 1999.		

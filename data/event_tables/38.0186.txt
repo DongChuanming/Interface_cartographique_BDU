@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06			2007	06			est_chargée_par_la	Début juin 2007, la société DIASTRATA est chargée par la société TRAVEL de réaliser un diagnostic de pollution des sols de son terrain de Clonas sur Vareze.		'la société DIASTRATA', 'société TRAVEL'
+2008	05	19		2008	05	19		informe	Le 19 mai 2008, le cabinet notarial PARANT CARNOT informe le préfet de l'isère de la vente du terrain.		'le cabinet notarial PARANT CARNOT', 'le préfet'
+2012	02	28		2012	02	28		a_été_radiée_du_registre_du_commerce	La société a été radiée du registre du commerce le 28/02/2012 (SIRET : 353 383 706 00028), sans être réhabilitée par l'exploitant ICPE et son représentant, le liquidateur.		
+2012	02	28		2012	02	28		a_été_radiée_du_registre_du_commerce	La société a été radiée du registre du commerce le 28/02/2012 (SIRET : 353 383 706 00028).		
+2008	01	28		2008	01	28		qualité_de_propriétaire	Le 28 janvier 2008, la SCI le Luzin informe en sa qualité de propriétaire le préfet de la cessation d'activités de la société TRAVEL.		'la SCI le Luzin', 'la société TRAVEL'
+								est_remis	Ce diagnostic est remis le 24 juillet.		
+2007	09	26		2007	09	26		informe	Le 26 septembre 2007, la DRIRE informe Maitre BILLIOUD de ses obligations en tant que liquidateur.		'la DRIRE', 'Maitre BILLIOUD'
+1991				1991				Un_agrandissement_des_locaux	Un agrandissement des locaux en 1991 et le stockage de perborate de sodium en 1992 n'ont pas modifié le classement.	'perborate de sodium'	
+1990	01	02		1990	01	02		implantée	La société TRAVEL est une filiale de la société TRAVEL Transports implantée sur la commune de Clonas sur Vareze depuis le 2 janvier 1990.		'La société TRAVEL', 'la société TRAVEL'

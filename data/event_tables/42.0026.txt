@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09	20		2005	09	20		a_été_pris	'arrêté a été pris le 20/09/2005.		
+2005	06	22		2005	06	22		a_été_pris	L'arrêté correspondant a été pris le 22/06/2005.		
+1997	10	27		1997	10	27		est_autorisée	La société AUBERT et DUVAL, est autorisée d’exploiter par l’arrêté préfectoral du 27 octobre 1997.		'La société AUBERT', 'et DUVAL'
+2011	02			2011	02			Une_nouvelle_inspection	Une nouvelle inspection a été réalisée en février 2011 suite à la découverte d'une zone polluée aux hydrocarbures en réalisant les fondations du poste électrique du futur dépoussiéreur (ancienne implantation de deux cuves de  240 m3 de fioul).	'hydrocarbures', 'de fioul'	
+2005	08	26		2005	08	26		a_eu_lieu	Le 26 août 2005 une nouvelle pollution a eu lieu sur le site.		
+2006				2006				un_bilan_de_fonctionnement	La société AUBERT et DUVAL a transmis en 2006 un bilan de fonctionnement conformément aux dispositions de l'arrêté ministériel du 29 juin 2004 modifié, complété en juillet 2009 suite aux remarques formulées par l'inspection, principalement sur le positionnement de l'exploitant par rapport aux meilleures techniques disponibles et aux niveaux d'émissions associés à ces dernières.		'La société AUBERT', 'et DUVAL'
+1997	10	27		1997	10	27		Une_étude_de_sol	Une étude de sol a été prescrite par arrêté préfectoral du 27/10/1997.		
+								n__est_plus_exploité	-fournir le dossier de cessation d’activité du site de la presse de 2000 tonnes qui n’est plus exploité depuis 10 ans .		
+2005	06	20		2005	06	20		Une_pollution	Une pollution de la rivière Ondaine passant sous le site a eu lieu le 20/06/2005, à la suite d'un écoulement accidentel d'hydrocarbures provenant de la zone de stockage de bennes contenant des copeaux d'usinage.	'hydrocarbures'	
+2005	07	28		2005	07	28		a_été_signé	'arrêté a été signé le 28/07/2005.		

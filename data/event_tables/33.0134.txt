@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1974				1974				construites	Il semble toutefois que ces installations soient construites depuis 1974.		
+2005	07			2005	07			Les_études_remises	Les études remises en avril 2004 et juillet 2005 classent le site 1, nécessitant des investigations complémentaires, pour la source de Pentachlorphénates de Sodium (PCPNa) et pour le milieu eaux souterraines, autres que pour la consommation.	'Pentachlorphénates de Sodium', 'PCPNa'	
+2007				2007				Les_travaux_d__enlèvement	Les travaux d'enlèvement des sciures et sols pollués sont réalisés dans le courant du 1er semestre 2007.		
+2005				2011				a_été_effectuée	De 2005 à 2011, une seule campagne annuelle a été effectuée.		
+2010	08			2010	08			a_été_évacué	Gérard Castagné informe la DREAL que ce stock (14,5 tonnes) a été évacué en août 2010 par la sté SOLITOP exploitant le CSDU de St Cyr des Gats (85).		'Gérard Castagné', 'la DREAL', 'la sté SOLITOP', 'CSDU de St Cyr des Gats'
+2004	04			2004	04			Les_études_remises	Les études remises en avril 2004 et juillet 2005 classent le site 1, nécessitant des investigations complémentaires, pour la source de Pentachlorphénates de Sodium (PCPNa) et pour le milieu eaux souterraines, autres que pour la consommation.	'Pentachlorphénates de Sodium', 'PCPNa'	
+								Les_travaux_d__enlèvement	Les travaux d'enlèvement des sciures et sols pollués sont réalisés dans le courant du 1er semestre 2007.		
+2013	08	06		2013	08	06		renouvelle	Le 06/08/2013, l'exploitant renouvelle sa demande de supprimer le PCPNa de la liste des paramètres à mesurer.		
+2007	07	17		2007	07	17		est_remis	Le rapport est remis le 17 juillet 2007.		
+1994	1993			1994	1993			ce	Le SINESTO B (contenant du borax) est le produit de traitement des bois à ce jour utilisé, et ce depuis 1993/1994.	'Le SINESTO B', 'du borax'	
+1997	07	18		1997	07	18		sont_autorisées	Les installations, situées en bordure de la D10 et en lisière de forêt, sont autorisées par arrêté préfectoral du 18 juillet 1997.		

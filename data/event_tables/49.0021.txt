@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013				2013				du_30_septembre	L'ensemble de ces points a fait l'objet d'un encadrement par arrêté préfectoral complémentaire en date du 30 septembre 2013.		
+2010	02	26		2010	02	26		Un_arrêté_de_mise_en	Un arrêté de mise en demeure en date du 26/02/2010 demande au liquidateur de mettre le site en sécurité.	'liquidateur de mettre le site en sécurité'	
+								première_visite	Une première visite du site le 13 juillet 2010  montrait qu'il restait des  matières combustibles à l'intérieur et à l'extérieur des bâtiments.		
+2013				2013				ensemble_de_ces_points_a_fait_l_	L'ensemble de ces points a fait l'objet d'un encadrement par arrêté préfectoral complémentaire en date du 30 septembre 2013.		

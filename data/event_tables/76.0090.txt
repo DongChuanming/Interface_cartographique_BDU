@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				complétée	L'étude remise dans ce cadre en 2001 et complétée en 2003 conclut à la nécessiter de surveiller le site.		
+								a_été_construit	Le site de Gonfreville-l'Orcher a été construit et mis en service à la fin des années 1960.		'Gonfreville'
+2004	10	04		2004	10	04		a_été_pris_en	Un arrêté préfectoral complémentaire a été pris en conséquence le 4/10/2004 pour imposer une surveillance périodique.		
+1999	12	14		1999	12	14		Une_étude_de_sols	Une étude de sols a été prescrite pour l'ensemble du site (étape A) par arrêté préfectoral du 14 décembre 1999.		
+2001				2001				L__étude_remise	L'étude remise dans ce cadre en 2001 et complétée en 2003 conclut à la nécessiter de surveiller le site.		

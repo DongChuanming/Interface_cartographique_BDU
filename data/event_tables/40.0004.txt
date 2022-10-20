@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	02	1		1991	02	1		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 1er février 1991.		
+1995				1995				a_été_découverte	Lors du rachat de la société en 1995, une pollution de la nappe par des hydrocarbures a été découverte.	'hydrocarbures'	
+2007				2007				2_campagnes_d__analyses	2 campagnes d'analyses des eaux souterraines ont été effectuées en 2007 , le 11 juillet et le 18 décembre.		
+1981				1981				a_été_constitué	Un dépôt de gypse synthétique souillé par du lignosulfite a été constitué sur le terrain de l'usine en de 1950 à 1981.	'gypse synthétique', 'lignosulfite'	
+								2_campagnes_d__analyses	2 campagnes d'analyses des eaux souterraines ont été effectuées en 2007 , le 11 juillet et le 18 décembre.		
+2006	06	28		2006	06	28		La_campagne	La campagne du 28/06/2006 montre l'absence d'impact par le chrome dans l'eau souterraine.	'le chrome'	
+1950				1950				a_été_constitué	Un dépôt de gypse synthétique souillé par du lignosulfite a été constitué sur le terrain de l'usine en de 1950 à 1981.	'gypse synthétique', 'lignosulfite'	
+1995				1995				du_rachat_de	Lors du rachat de la société en 1995, une pollution de la nappe par des hydrocarbures a été découverte.	'hydrocarbures'	
+1993				1993				un_traitement_par_confinement	Ce dépôt a fait l'objet d'un traitement par confinement en 1993 (arrêté du 22 juillet 1993) : couche d'argile compactée de 30 cm et couche de terre végétale engazonnée de 20 cm d'épaisseur.		

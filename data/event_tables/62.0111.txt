@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1971				ont_été_démantelées	Les installations de l'usine ont été démantelées entre 1960 et 1971, date de la démolition du dernier gazomètre.		
+1824				1957				a_accueilli	Il a accueilli pendant 143 ans, de 1824 à 1957, une usine fabriquant du gaz à partir de la distillation de la houille.		
+2001				2001				La_vérification	La vérification de la présence des cuves enterrées a été réalisée en 2001		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz, entre le Ministère de l'Environnement et Gaz de France, signé le 25 Avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+								a_accueilli	Il a accueilli pendant 143 ans, de 1824 à 1957, une usine fabriquant du gaz à partir de la distillation de la houille.		
+1957				1957				est_alimentée_en	Depuis 1957, la ville de Boulogne sur Mer est alimentée en gaz naturel par feeders.		
+2003	09	01		2003	09	16		ont_été_neutralisés	Tous ces ouvrages ont été neutralisés entre le 01/09/2003 et le 16/09/2003.		
+								a_été_démantelée	Par ailleurs, une cuve aérienne de 600 m3 pour la collecte des goudrons issus de la distillation de la houille, a été démantelée dans les années 1960.	'goudrons', 'houille'	

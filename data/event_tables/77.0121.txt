@@ -1,13 +1,14 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1951				1959					ont_été_implantés								
-1981				1989				Leur_activité	a_cessé								
-2009	01	23		2009	01	23			a_été_signé	L__arrêté_préfectoral							
-2008	06			2008	06				Les_derniers_travaux_de_dépollution			ont_été_réalisés					
-2009	01	23		2009	01	23		l__arrêté_préfectoral	est_prescrite	Cette_surveillance							
-2008	12		07	2008	12		07	l__exploitant	2_premières_campagnes_de_mesures	les_résultats		a_transmis					
-2008	09		04	2008	09		04		campagnes								
-2009	03			2009	03			l__exploitant	a_transmis	un_rapport_global							
-2012			2008	2012			2008		a_été_transmis_à								
-2012								Les_piézomètres_PZ1	ne_font_plus_l__objet								
-2012	04								Sept_campagnes_se_suivi_annuelles			ont_été_effectuées					
-2016			2012	2016			2012		a_été_transmis_à								
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				ne_font_plus	Les piézomètres PZ1' et PZ6' ne font plus l'objet de prélèvements et d'analyses depuis 2012.		
+2000	02			2000	02			Des_études_de_pollution	Des études de pollution ont été entreprises sur le site depuis février 2000.		
+2008	12			2008	12			a_transmis	En juillet et décembre 2008, l'exploitant a transmis les résultats des 2 premières campagnes de mesures (campagnes d'avril et septembre 2008).		
+2012	04			2012	04			Sept_campagnes	Sept campagnes se suivi annuelles ont été effectuées depuis avril 2012, conformément aux modifications indiquées ci-dessus.		
+2009	01	23		2009	01	23		a_été_signé_le	L'arrêté préfectoral n° 09 DAIDD 1 IC 23 a été signé le 23 janvier 2009.		
+2008	09			2008	09			des_2_premières_campagnes_de_mesures___campagnes	En juillet et décembre 2008, l'exploitant a transmis les résultats des 2 premières campagnes de mesures (campagnes d'avril et septembre 2008).		
+								des_2_premières_campagnes_de_mesures___campagnes	En juillet et décembre 2008, l'exploitant a transmis les résultats des 2 premières campagnes de mesures (campagnes d'avril et septembre 2008).		
+2002				2002				achète	En 2002, la société Mavidis, achète les terrains, dans le but d'y transférer le centre commercial qu'elle exploite actuellement sur la commune de Villeparisis.		'la société Mavidis'
+2008	06			2008	06			Les_derniers_travaux_de_dépollution	Les derniers travaux de dépollution ont été réalisés en juin 2008.		
+								ont_été_implantés	Il s'agit d'un terrain de 48 308 m2 sur lequel trois établissements industriels exerçant principalement des activités de préparation et conditionnement chimico-pharmaceutique et de fabrication de peintures et vernis ont été implantés dans les années 50.		
+2009	03			2009	03			a_transmis	En mars 2009, l'exploitant a transmis un rapport global de fin de travaux de dépollution énonçant notamment les dispositions constructives particulières et les restrictions d'usage liées aux milieux "sol" et "eau souterraine".		
+								a_transmis	En juillet et décembre 2008, l'exploitant a transmis les résultats des 2 premières campagnes de mesures (campagnes d'avril et septembre 2008).		
+								a_cessé	Leur activité a cessé au début des années 1980.		

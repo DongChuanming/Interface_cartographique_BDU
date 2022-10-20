@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09			2010	09			le_traitement_de_la_nappe	Les travaux d'excavation des sols pollués ont été en septembre 2010 et le traitement de la nappe a commencé en juillet 2011.		
+2011	07			2011	07			le_traitement_de_la_nappe	Les travaux d'excavation des sols pollués ont été en septembre 2010 et le traitement de la nappe a commencé en juillet 2011.		
+2009	09			2009	09			ont_définitivement_cessé	Les activités ont définitivement cessé sur ce site depuis fin septembre 2009.		
+1984				1984				a_pris_à_bail	La société Devanlay a pris à bail le site de Beauregard en 1984 afin d'y installer un atelier de tricotage de pulls.		'La société Devanlay'
+2009				2009				a_décidé	La société Devanlay, souhaitant recentrer ses activités de tricotage, a décidé de transférer les salariés et les outils, et de quitter le site de Beauregard au troisième trimestre 2009.		'La société Devanlay'
+2009	10			2009	10			ont_été_remises	Ces études ont été remises en octbre et décembre 2008 et octobre 2009.		
+2005				2005				a_été_constaté	Il a été constaté en 2005, une pollutiondu sol sous la zone de stockage des résidus.		
+2007				2007				a_cessé_d__être_utilisé	Le Tétrachloroéthène a cessé d'être utilisé en 2007, ce traitement a été remplacé par un traitement par la vapeur.	'Le Tétrachloroéthène'	
+2010	09			2010	09			Les_travaux_d__excavation	Les travaux d'excavation des sols pollués ont été en septembre 2010 et le traitement de la nappe a commencé en juillet 2011.		
+2010	09			2010	09			ont_été	Les travaux d'excavation des sols pollués ont été en septembre 2010 et le traitement de la nappe a commencé en juillet 2011.		
+2005				2005				une_pollution	Il a été constaté, en 2005, une pollution du sol sous la zone de stockage des résidus, ce malgré les précautions prises, depuis l'origine, en terme de stockage et d'enlèvement des résidus.  Les investigations menées ont révélé la présence d'une pollution des sols et de la nappe par les solvants chlorés.	'les solvants chlorés'	
+2007				2007				un_diagnostic_initial_de_pollution_des_sols	Suite à ce constat, un diagnostic initial de pollution des sols a été réalisé puis complété en 2007.		
+2008	12			2008	12			ont_été_remises	Ces études ont été remises en octbre et décembre 2008 et octobre 2009.		
+2009				2009				de_quitter_le_site	La société Devanlay, souhaitant recentrer ses activités de tricotage, a décidé de transférer les salariés et les outils, et de quitter le site de Beauregard au troisième trimestre 2009.		'La société Devanlay'

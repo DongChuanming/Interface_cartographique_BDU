@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				une_campagne_d__analyses	Des campagnes d'analyses de sols ont été menées en 1998 puis en 1999 ainsi qu'une campagne d'analyses en 1998 des eaux souterraines (situées à une profondeur d'environ 8 mètres) à partir de 3 piézomètres.		
+								a_été_dépolluée	La nappe a été dépolluée pendant 8 mois : un rabattement de l'ordre de 2 m a été observé.		
+1998				1998				Des_campagnes_d__analyses	Des campagnes d'analyses de sols ont été menées en 1998 puis en 1999 ainsi qu'une campagne d'analyses en 1998 des eaux souterraines (situées à une profondeur d'environ 8 mètres) à partir de 3 piézomètres.		
+				2016	06			Les_travaux	Les travaux doivent se poursuivre jusqu'en juin 2016.		
+2014	03			2014	03			Les_travaux_de_dépollution	Les travaux de dépollution ont débuté en mars 2014 : stripping et venting (traitement des gaz contenus dans  les eaux souterraines et les sols).		
+1999				1999				Des_campagnes_d__analyses	Des campagnes d'analyses de sols ont été menées en 1998 puis en 1999 ainsi qu'une campagne d'analyses en 1998 des eaux souterraines (situées à une profondeur d'environ 8 mètres) à partir de 3 piézomètres.		
+2005	07			2005	07			La_campagne_d__analyses	La campagne d'analyses de juillet 2005 confirme la présence de composés chlorés volatils sur tous les piézomètres à des teneurs supérieures aux valeurs de constat d'impact pour un usage non sensible des eaux souterraines(VCIns).	'composés chlorés volatils'	
+1976				1993				a_été_exploité	Ce site a été exploité de 1976 à 1993 par les sociétés SOBEFER puis RMSP (filiales de la société BECK) pour le stockage et la récupération de métaux et de carcasses de véhicules hors d'usage.	'métaux'	'les sociétés SOBEFER', 'RMSP', 'la société BECK'
+2005				2005				de_nouvelles_investigations	L'ensemble du quartier des Champs Ronds étant en cours de mutation (opérations d'aménagement sous forme de ZAC), de nouvelles investigations dans les eaux souterraines (nappe superficielle retenue par un horizon imperméable d'argiles vertes) ont été réalisées en 2005 à partir de 6 piézomètres d'une profondeur allant jusqu'à 9 mètres.		
+2010	02			2010	02			a_été_signé	Un arrêté préfectoral de servitudes d'utilité publique a été signé en février 2010 (relatif à l'ensemble du quartier) : il encadre la gestion du sol, du sous-sol et des eaux souterraines.		
+2006				2006				a_été_racheté	Le terrain a été racheté par la SEMMASSY en 2006.		'la SEMMASSY'

@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016	07			2016	07			une_excavation	Par conséquent, une excavation complémentaire a été réalisée en juillet 2016 avec le retrait total des dalles béton et la purge des sols sous-jacents.		
+				2008				une_activité_de_fabrication_de_papier	La société des Papeteries de Voiron et Lancey a exercé une activité de fabrication de papier jusqu’en 2008 sur le site de Villard-Bonnot.		'La société des Papeteries de Voiron'
+2018	11			2019	08			Le_traitement_a_été_réalisé	Le traitement a été réalisé de novembre 2018 à fin août 2019.		
+2013	03	11		2013	03	11		les_travaux_de_dépollution_prescrits	La commune de Villard-Bonnot a fait réaliser les travaux de dépollution prescrits par l’arrêté préfectoral du 11 mars 2013.		
+2019				2019				Les_travaux_de_dépollution	Les travaux de dépollution de la zone 1 ont été réalisés en 2018 et 2019 après des travaux de désamiantage et de démolition du bâtiment « chaufferie ».		
+2018				2018				Les_travaux_de_dépollution	Les travaux de dépollution de la zone 1 ont été réalisés en 2018 et 2019 après des travaux de désamiantage et de démolition du bâtiment « chaufferie ».		
+2012				2012				Des_diagnostics_de_sols	Des diagnostics de sols et un plan de gestion ont été réalisés en 2011 et 2012 par le bureau d’études SOCOTEC.		'SOCOTEC'
+2012	10	01		2012	10	01		prévoyait	Le plan de gestion, daté du 01/10/2012, prévoyait toutefois des mesures de gestion sur les zones 1, 2, 3 et 4.		
+2016	06			2016	06			Ces_campagnes_se_sont_déroulées	Ces campagnes se sont déroulées avant le début des travaux de dépollution en juin 2016, pendant les travaux des zones 2 à 5 en juillet 2016, puis après les travaux des zones 2 à 5 en août 2016.		
+2011				2011				La_mise_en_sécurité	La mise en sécurité du site a été réalisée en 2011.		
+2019	03	29		2019	03	29		a_été_classé_en_SIS	Il est à noter que suite à la disparition juridique de l’exploitant du site et compte tenu de la présence avérée de zones de pollution, le site a été classé en SIS (Secteur d’Information des Sols) par l’arrêté préfectoral n° DDPP-IC-2019-03-43 du 29 mars 2019.		'DDPP'
+2016	07			2016	07			une_excavation	Par conséquent, une excavation complémentaire a été réalisée en juillet 2016.		
+2019	01			2019	01			des_excavations_complémentaires_ont_été_réalisées	Par conséquent, des excavations complémentaires ont été réalisées en janvier 2019.		
+2008	09	23		2008	09	23		a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire le 23 septembre 2008 par jugement du tribunal de commerce de Grenoble.		
+2016				2016				une_analyse_des_risques_résiduels	Compte tenu de la présence de concentrations résiduelles en PCB dans les zones 2 et 3 supérieures au seuil de l’arrêté préfectoral du 11 mars 2013 et de concentrations résiduelles en naphtalène et en hydrocarbures C12-C16 dans la zone 5 supérieures au seuil de l’arrêté pour un usage résidentiel, la commune de Villard-Bonnot a fait réaliser en 2016 une analyse des risques résiduels.	'PCB', 'naphtalène', 'hydrocarbures C12-C16'	
+				2008				a_exercé	La société des Papeteries de Voiron et Lancey a exercé une activité de fabrication de papier jusqu’en 2008 sur le site de Villard-Bonnot.		'La société des Papeteries de Voiron'
+2016	06			2016	06			Une_première_excavation	Une première excavation de 107,12 t de terres polluées a été réalisée en juin 2016.		
+2016	06			2016	06			Une_première_excavation	Une première excavation de 172,02 t de béton et terres pollués a été réalisée en juin 2016.		
+2016	06			2016	06			Une_excavation	Une excavation de 301,6 t de béton et de terres pollués a été réalisée en juin 2016.		
+2016	06			2016	06			Une_première_excavation	Une première excavation de 15,18 t de galets, béton et terres pollués a été réalisée en juin 2016.		
+2011				2011				Des_diagnostics_de_sols	Des diagnostics de sols et un plan de gestion ont été réalisés en 2011 et 2012 par le bureau d’études SOCOTEC.		'SOCOTEC'

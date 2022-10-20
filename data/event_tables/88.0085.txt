@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09			2010	09			l__arrêt	Compte tenu des teneurs très faibles, voire de l'absence de détection des paramètres suivi, l'arrêt de la surveillance des eaux souterraines a été sollicité par l'exploitant en septembre 2010.		
+2005	09			2005	09			un_diagnostic_de_sols	Suite à l'apparition d'irisations d’hydrocarbures sur la Moselle en septembre 2005, un diagnostic de sols a été réalisé.	'hydrocarbures'	
+2006				2006				ont_été_excavées	Près de 12 tonnes de terres contaminées ont été excavées en 2006.		
+2005	09			2005	09			à_l__apparition	Suite à l'apparition d'irisations d’hydrocarbures sur la Moselle en septembre 2005, un diagnostic de sols a été réalisé.	'hydrocarbures'	

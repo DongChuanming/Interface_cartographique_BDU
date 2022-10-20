@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	02			2011	02			du_diagnostic_environnemental	Des éléments du diagnostic environnemental réalisé en février 2011 il ressort que les hydrocarbures étaient stockés dans 7 réservoirs dont 5 étaient enfouis et 2 positionnés en fosse maçonnée.	'hydrocarbures'	
+2011	10	07		2011	10	07		a_été_acquis_par	Le site a été acquis par l'EPORA le 07/10/2011.		"l' EPORA"
+1990				1990				a_été_exercée	Jusqu’en 1990, un atelier d’entretien des véhicules et une activité de négoce de combustibles a été exercée par l'entreprise de transport René CHATAIN.	'combustibles'	'transport René CHATAIN'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1988				1988				totalement_démantelée	- Site d'une cokerie exploitée par les HBNPC arrêtée en 1965 et totalement démantelée en 1988.		'les HBNPC'
+1989				1989				__Élimination_des_goudrons_réalisée	- Élimination des goudrons réalisée en 1989 (3 500 t, coût = 1,4 MF) et confinement des remblais pollués.	'des goudrons'	
+1965				1965				arrêtée	- Site d'une cokerie exploitée par les HBNPC arrêtée en 1965 et totalement démantelée en 1988.		'les HBNPC'

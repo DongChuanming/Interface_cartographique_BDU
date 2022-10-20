@@ -1,18 +1,16 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1901				1909					ont_débuté								
-1935				1974					ont_succédé								
-				1974					ont_subsisté								
-1983				1983				le_BRGM	Une_étude_hydrogéologique			a_été_réalisée					
-1985				1985					Les_travaux_préconisés			ont_été_réalisés					
-1985	03	08		1985	03	08			a_été_proposé								
-2001	06	05		2001	06	05			a_été_demandé								
-2002	05			2002	05				modifié								
-2008				2008					a_engagé								
-2009	04			2009	04				complété								
-									une_réunion_technique								
-2010				2010					Les_travaux_de_réhabilitation			ont_réalisés					
-2012	10	19		2012	10	19			Une_réunion_technique			s__est_tenue					
-2012	11	29		2012	11	29			ont_été_communiqués	Des_éléments_d__informations							
-2013	04	24		2013	04	24			une_réunion_technique								
-2014				2014					La_dernière_visite								
-2013				2016					Plusieurs_réunions_techniques			se_sont_tenues					
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04			2009	04			complété	Un rapport de synthèse de l'ensemble des investigations a été communiqué aux services de l'inspection des installations classées le 12 décembre 2008 et complété en avril 2009 (suite à une réunion technique en mars).		
+1981	10			1981	10			a_été_portée	Les activités de production de garnitures de freins et d’embrayage ont conduit à la constitution d’un dépôt de déchets amiantés (zone de décharge des rebuts de fabrication des garnitures) sur un terrain d’une superficie de 5000 m² environ, dont l’existence a été portée à la connaissance des services de l'Etat en octobre 1981.	'dépôt de déchets amiantés'	
+2013				2016				se_sont_tenues	Plusieurs réunions techniques se sont tenues entre 2013 et 2016 avec la société et des porteurs de projets afin d'échanger sur le contenu des études à déposer et la compatibilité des projets.		'la société'
+								à_une_réunion_technique	Un rapport de synthèse de l'ensemble des investigations a été communiqué aux services de l'inspection des installations classées le 12 décembre 2008 et complété en avril 2009 (suite à une réunion technique en mars).		
+2012	11	29		2012	11	29		ont_été_communiqués	Des éléments d'informations ont été communiqués le 29 novembre 2012 à l'ASN.		
+2013	04	24		2013	04	24		a_transmis	L'inspection des installations classées a transmis à l'exploitant la position de l'ASN le 21 février 2013 ainsi que le projet de servitudes en vue d'une réunion technique le 24 avril 2013.		
+1985				1985				Les_travaux_préconisés	Les travaux préconisés ont été réalisés en 1985.		
+1983				1983				Une_étude_hydrogéologique	Une étude hydrogéologique a été réalisée en 1983 par le BRGM afin de délimiter l'étendue du dépôt et de connaître l'incidence de celui-ci sur les eaux souterraines.		'le BRGM'
+2014				2014				La_dernière_visite	La dernière visite de 2014 a permis de confirmer l'absence d'activité sur le site ainsi que la bonne réalisation des travaux de confinement de la partie « décharge ».		
+2010				2010				Les_travaux_de_réhabilitation	Les travaux de réhabilitation par couverture de la décharge ont réalisés fin 2010.		
+2008				2008				de_nouveaux_diagnostics	La société FEDERAL MOGUL a engagé en 2008 de nouveaux diagnostics sur le site dans le cadre de la réhabilitation de celui-ci afin de traiter la présence de la radioactivité et de l'amiante.		'La société FEDERAL MOGUL'
+								ont_débuté	Au début des années 1900, ont débuté sur le site des activités de recherches liées à la radioactivité (traitement des oxydes d’uranium pour la concentration des sels de radium).	'radium'	
+				1974				ont_subsisté	Des activités liées au laboratoire d’essais et de comportement des systèmes de freinage et à l’entreposage de pièces ont subsisté sur le site après 1974.		
+2012	10	19		2012	10	19		Une_réunion_technique_s_	Une réunion technique s'est tenue en présence de l'ASN le 19 octobre 2012 : en effet, l'exploitant voulait exposer les différents usages qui pouvaient être envisagés sur le site.		
+2001	06	05		2001	06	05		il_a_été_demandé	Le 5 juin 2001, il a été demandé au maire de la commune de compléter les prescriptions du POS relatives à cette zone afin d'y interdire tout affouillement pouvant remettre en cause l'intégrité du confinement (ainsi que l'irrigation et la plantation de végétaux à racines profondes).		

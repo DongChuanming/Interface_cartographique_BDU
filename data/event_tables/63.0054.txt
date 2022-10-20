@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				devient_la_propriété_de	En 1979, l'établissement devient la propriété de Soderax, Anoflex en 1979, et unité de production d'Anoflex en 1989.		'Soderax , Anoflex', 'Anoflex'
+1880				1880				aurait_accueilli	Avant 1880, le site aurait accueilli une papeterie avant l'exploitation de la forge.		
+1979				1979				devient_la_propriété_de	En 1979, l'établissement devient la propriété de Soderax, Anoflex en 1979, et unité de production d'Anoflex en 1989.		'Soderax , Anoflex', 'Anoflex'
+2005	03			2005	03			un_diagnostic_initial	En mars 2005, un diagnostic initial est réalisé par SITA remédiation.		'SITA'
+1880				1880				est_occupé_par	Depuis 1880, le site est occupé par les Forges Delaire, spécialisées dans la forge mécanique et dans la coutellerie.		'les Forges Delaire'

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				cessent_leur_activité	En 2006, le supermarché et la station-service cessent leur activité ; les infrastructures de la station-service sont entièrement démantelées.		
+1982				1982				est_installé	En 1982, un supermarché STOC (devenu CHAMPION en 2002) est installé sur la parcelle.		'un supermarché STOC', 'CHAMPION'
+2008	12			2008	12			Des_travaux_de_dépollution	Des travaux de dépollution de la nappe sont réalisés en décembre 2008.		
+2013	11			2013	11			un_écrémage	A la demande de la DREAL, l'exploitant met en place, à partir de novembre 2013, un écrémage régulier des ouvrages impactés (enlèvement de la phase "hydrocarbures").	'phase " hydrocarbures "'	'la DREAL'
+2009	06	03		2009	06	03		un_arrêté_de_dépollution	Suite à la remise du plan de gestion, un arrêté de dépollution et de suivi semestriel de la qualité des eaux souterraines est signé le 03/06/2009.		
+				2013				Les_campagnes_d__analyses	Les campagnes d'analyses des eaux souterraines jusqu'en 2013 indiquent, sur site, une diminution des hydrocarbures flottants sur l'ensemble des ouvrages à l'exception de la proximité de PZ8 qui monte un impact significatif par du surnageant.	'hydrocarbures'	
+2005	07			2005	07			une_étude_des_sols	En juillet 2005, une étude des sols est demandée par la direction Champion.		

@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				un_contrôle_inopiné	De plus un contrôle inopiné sur les eaux souterraines en 2011 a montré une augmentation des teneurs en Fer, Aluminium et Manganèse dans les eaux souterraines en comparant les concentrations en amont et en aval du site via des piézomètres.	'Fer', 'Aluminium', 'Manganèse'	
+1984	07	30		1984	07	30		est_autorisée	Cette activité est autorisée au travers de l'arrêté préfectoral d'autorisation du 30/07/1984.		
+1997	03	04		1997	03	04		a_été_notifié	De ce fait, un arrêté préfectoral de mise en demeure a été notifié le 04/03/1997 prescrivant le respect de l'article 10-1 de l'arrêté d'autorisation.		
+2010	05	17		2010	05	17		a_été_notifié	Un arrêté préfectoral complémentaire a été notifié le 07/09/2006 suite à la visite du 17/05/2010.		
+2006	09	07		2006	09	07		a_été_notifié	Un arrêté préfectoral complémentaire a été notifié le 07/09/2006 suite à la visite du 17/05/2010.		
+1997	02	08		1997	02	08		de_la_visite	Lors de la visite du 08/02/1997, il a été constaté le brûlage à l'air libre de certains déchets.		
+2003	07	24		2003	07	24		a_été_notifié_le	Un arrêté préfectoral complémentaire a été notifié le 24/07/2003 prescrivant :		
+1985	08	20		1985	08	20		une_visite	Suite à une visite du 20/08/1985 concluant sur l'absence de remise en état de l'extension de terrain de l'exploitation, un arrêté préfectoral de mise en demeure a été notifié le 03/09/1985.		
+2010	05	17		2010	05	17		la_visite	Suite à la visite du 17/05/2010, l'inspection des installations classées a mis en évidence l'extension des activités de la société Multi-Fers sur une surface de 10000 m² au lieu de la surface initialement autorisée de 5000 m².		'la société Multi-Fers'
+1984	12	11		1984	12	11		a_été_notifié	Suite à une visite de la Direction Régionale de l'Industrie et de la Recherche le 27/11/1984, un arrêté préfectoral de mise en demeure a été notifié le 11/12/1984.		"la Direction Régionale de l' Industrie et de la Recherche"
+1991	05	28		1991	05	28		a_été_notifié	Un arrêté préfectoral de mise en demeure a été notifié le 28/05/1991 après la visite du 16/05/1991.		
+1991	05	16		1991	05	16		la_visite	Un arrêté préfectoral de mise en demeure a été notifié le 28/05/1991 après la visite du 16/05/1991.		
+1985	05	03		1985	05	03		à_une_visite	Suite à une visite du 03/05/1985 de l'inspection des installations classées, un arrêté préfectoral de mise en demeure a été notifié le 23/05/1985.		
+2010	06	11		2010	06	11		a_été_notifié	De ce fait, un autre arrêté de mise en demeure a été notifié le 11/06/2010.		
+2011	11	22		2011	11	22		d__inspection	La visite d'inspection du 22/11/2011 a mis en évidence que l'exploitant a engagé des actions de mise en conformité sur tous les points précités.		
+2012	01	30		2012	01	30		un_dossier_de_demande	- un dossier de demande d'autorisation d'exploiter le 30/01/2012.		
+1985	05	23		1985	05	23		a_été_notifié	Suite à une visite du 03/05/1985 de l'inspection des installations classées, un arrêté préfectoral de mise en demeure a été notifié le 23/05/1985.		
+2010	05	17		2010	05	17		à_la_visite	Un arrêté préfectoral complémentaire a été notifié le 07/09/2006 suite à la visite du 17/05/2010.		
+1991	05	16		1991	05	16		a_été_notifié	Un arrêté préfectoral de mise en demeure a été notifié le 28/05/1991 après la visite du 16/05/1991.		
+1985	09	03		1985	09	03		a_été_notifié	Suite à une visite du 20/08/1985 concluant sur l'absence de remise en état de l'extension de terrain de l'exploitation, un arrêté préfectoral de mise en demeure a été notifié le 03/09/1985.		

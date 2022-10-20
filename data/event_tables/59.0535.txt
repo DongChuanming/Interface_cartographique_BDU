@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	10	18		2013	10	18		visite	-le 18 octobre 2013, visite du site par l'inspection.		
+2013	10	18		2013	10	18		à_une_visite	Comme suite à une visite sur site le 18 Octobre 2013, le rapport de l’inspection des installations classées en date du 18 Décembre 2013 établit les éléments suivants :		
+2013	12	27		2013	12	27		a_informé	- Avant que ce projet d'arrêté ne puisse être présenté au CODERST, l'exploitant a informé l'Inspection (pièces justificatives à l'appui) que la société SCOWARTON n'avait plus d'existence légale depuis le 27 décembre 2013.		'CODERST', 'la société SCOWARTON'
+2010	06			2010	06			arrêt_de_commercialisation_des_produits	- Arrêt de l'activité de production en début d'année 2010, arrêt de commercialisation des produits en juin 2010.		
+								Les_travaux_de_dépollution_ont_démarré	Les travaux de dépollution ont démarré depuis 1 semaine : pompage de la nappe et gaz du sol et traitement sur charbon actif avant rejet dans la Lys.	'charbon actif'	
+2013				2013				une_diminution	le suivi des eaux de surface (Lys Nord et Sud) montre une diminution des quantités de polluants mesurées, plus aucune valeur n'étant supérieure aux valeurs de référence en 2013 ;	'polluants'	
+2013	12	27		2013	12	27		n__avait_plus_d__existence_légale	- Avant que ce projet d'arrêté ne puisse être présenté au CODERST, l'exploitant a informé l'Inspection (pièces justificatives à l'appui) que la société SCOWARTON n'avait plus d'existence légale depuis le 27 décembre 2013.		'CODERST', 'la société SCOWARTON'
+2010				2010				Arrêt_de	- Arrêt de l'activité de production en début d'année 2010, arrêt de commercialisation des produits en juin 2010.		
+2012	01	16		2012	01	16		Réalisation_d_	- Réalisation d'un plan de gestion le 16/01/2012.		
+2010	06			2010	06			Arrêt_de	- Arrêt de l'activité de production en début d'année 2010, arrêt de commercialisation des produits en juin 2010.		
+								compter_de_la_notification	*la remise d'une étude d’impact sous 1 mois à compter de la notification de l'arrêté préfectoral,		
+								la_remise	*la remise d'une étude d’impact sous 1 mois à compter de la notification de l'arrêté préfectoral,		
+2010	04	02		2010	04	02		Cessation_de	- Cessation de l'activité de production le 02/04/2010.		
+2013	05	13		2013	05	13		_Remise	-Remise d'une interprétation de l'état des milieux le 13 mai 2013.		

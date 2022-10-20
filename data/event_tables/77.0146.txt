@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	09	17		2007	09	17		a_demandé_des_compléments	Le service d’inspection a demandé des compléments le 17 septembre 2007.		
+2006	04			2006	04			a_mis_en_place_un_réseau_de_surveillance	A la demande de l'inspection, l’exploitant a mis en place un réseau de surveillance de la qualité des eaux souterraines au droit de son site en avril 2006.		
+2006	11	06		2006	11	06		a_été_transmis	Un premier rapport d’analyses des sols et des eaux souterraines a été transmis le 6 novembre 2006 au service d’inspection.		
+2011	09			2011	09			un_diagnostic_environnemental	En septembre 2011, l’entreprise OFFREDY SAS a transmis un diagnostic environnemental ainsi qu’une copie de son rapport de surveillance des eaux souterraines du 21 juin 2011.		'entreprise OFFREDY SAS'
+								une_extension	1) de déterminer avec certitude par une extension du réseau piézométrique au droit du site et des campagnes d’analyses des eaux souterraines sur une durée minimale de 4 ans, le sens d’écoulement préférentiel de la nappe et l’existence d’une éventuelle contribution du site à la pollution de la nappe en COHV.	'COHV'	
+1965				1990				a_exploité	La société OFFREDY a exploité de 1965 à 1990 une activité de traitement de surface et d’application de peinture sur un site localisé 2 rue Lavoisier à OZOIR-LA-FERRIERE.		'La société OFFREDY', 'OZOIR-LA-FERRIERE'
+2013	04			2013	04			a_été_signé_en	Un arrêté préfectoral complémentaire a été signé en avril 2013.		
+2008	10	20		2008	10	20		a_été_transmis	Un deuxième rapport d’analyses des sols et des eaux souterraines a été transmis le 20 octobre 2008 accompagné d’un rapport de suivi du démantèlement de deux cuves enterrées.		
+2011	06	21		2011	06	21		un_diagnostic_environnemental	En septembre 2011, l’entreprise OFFREDY SAS a transmis un diagnostic environnemental ainsi qu’une copie de son rapport de surveillance des eaux souterraines du 21 juin 2011.		'entreprise OFFREDY SAS'

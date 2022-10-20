@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	02			1999	02			L__étude_remise	L’étude remise en février 1999 a montré qu’il existe à l’est du terril une zone où des teneurs supérieures à la norme de potabilité peuvent exister.		
+2008	08	13		2008	08	13		fait	Le site fait actuellement l'objet d'une surveillance et les precriptions ont été réajustées lors de la codification de différents arrêtés régissant le site(arrêté préfectoral N° 2008-226-16 du 13 août 2008).		
+								Une_dépollution	Une dépollution des eaux souterraines par une semi-paroi étanche et tranchées drainantes de pompage est en cours depuis les années 1970.		
+1930				1930				a_servi	Ce site a servi à partir de 1930 au stockage des résidus d'électrolyse de chlorures alcalins de la société Albemarle PPC, et jusqu'en 1999 du sulfate de fer	'chlorures alcalins', 'sulfate', 'fer'	'la société Albemarle PPC'
+				1999				a_servi	Ce site a servi à partir de 1930 au stockage des résidus d'électrolyse de chlorures alcalins de la société Albemarle PPC, et jusqu'en 1999 du sulfate de fer	'chlorures alcalins', 'sulfate', 'fer'	'la société Albemarle PPC'
+								réaliser	- réaliser dans les 5 ans une paroi étanche entourant complètement le site, et une installation de traitement des eaux piégées sur le site ;		
+2004	09			2004	09			a_été_réalisée	En septembre 2004 une paroi d'étanchéité a été réalisée pour isoler les dépôts de la nappe phréatique.		
+2004	08	13		2004	08	13		a_été_terminée	La paroi étanche a été terminée le 13/08/2004.		

@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				la_cessation_d__activité	Suite à la cessation d'activité en 2011, il apparaît dans le suivi piézométrique que les activités antérieures à celles de stockeur ont occasionnées un impact sur les eaux souterraines en HAP, HCT et BTEX.	'HAP', 'HCT', 'BTEX'	
+				2005				a_été_utilisé	Il a été utilisé par HUILES ET GOUDRONS puis par PPG jusqu'en 2005.	'Il'	'HUILES ET GOUDRONS', 'PPG'
+1972				1972				implanté	Il s'agit d'un site implanté à Port Saint Louis depuis 1972 sur une superficie de 20ha.		
+2011	06			2011	06			Une_étude_menée	Une étude menée en Juin 2011 a montré que les transferts vers la nappe profonde au droit du site n’ont pas d’impact significatif sur la qualité des eaux au droit des exploitations conchylicoles, même en adoptant les hypothèses les plus sécuritaires dans les simulations.		
+2015	11	09		2015	11	09		un_arrêté_instituant	De même un arrêté instituant des servitudes d'utilité publique a été pris en date du 9 novembre 2015.		
+2011				2011				ont_cessé	L'ensemble des activités ont cessé en 2011.		
+2018	05			2018	05			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été réalisés et constatés par l'inspection en mai 2018.		
+2005	02			2005	02			la_cessation_d__activité	En Février 2005, la cessation d'activité des activités de stockage de liquides inflammables de 1ère catégorie, de stockage de goudrons de houille et de fabrication d'aquazole a été déclarée.	'liquides inflammables', 'aquazole'	
+2014				2014				a_été_pris	Par ailleurs, un APC prescrivant une surveillance des eaux souterraines a été pris en 2014.		
+2004	09	03		2004	09	03		a_adressé	Le 03/09/2004, PPG a adressé au Préfet des Bouches du Rhône un dossier de cessation d'activités concernant ses installations d'enfûtage de BM, de stockage de pentasulfure de phosphore, de lessive de soude et potasse caustique.	'pentasulfure', 'phosphore', 'lessive', 'de soude', 'potasse caustique'	'PPG', 'Préfet des Bouches'
+2011	07			2011	07			Une_Évaluation_Quantitative	Une Évaluation Quantitative des Risques Sanitaires (EQRS) a été effectuée (Juillet 2011).	'Sanitaires'	
+2005	05	11		2005	05	11		change_de_dénomination	Le 11 Mai 2005, PPG change de dénomination est devient TOTAL ADDITIFS ET CARBURANTS SPECIAUX.		'PPG', 'TOTAL ADDITIFS ET CARBURANTS SPECIAUX'

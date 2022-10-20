@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				un_procès_verbal_de_récolement	- Les travaux liés à la fermeture administrative du site ont été exécutés et ont fait l'objet d'un procès verbal de récolement en 2004.		
+2003	07			2003	07			a_été_adressé	- Le dossier de remise en état de la carrière a été adressé au Préfet en juillet 2003.		
+1989				1989				__Diagnostic_sommaire	- Diagnostic sommaire de la décharge réalisé en 1989.		
+				1991				la_nappe	- Surveillance de la nappe exercée jusqu'en 1991 et reprise en 2002.		
+				1991				et_reprise	- Surveillance de la nappe exercée jusqu'en 1991 et reprise en 2002.		
+2002				2002				et_reprise	- Surveillance de la nappe exercée jusqu'en 1991 et reprise en 2002.		
+2004				2004				Les_travaux	- Les travaux liés à la fermeture administrative du site ont été exécutés et ont fait l'objet d'un procès verbal de récolement en 2004.		

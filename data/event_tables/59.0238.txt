@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	01	16		2006	01	16		L__inspection	L’inspection de ce bâtiment le 16/01/2006 démontre par le biais d’une étude d’impacts sanitaires et une évaluation détaillée des risques une absence de risque au chrome sur ce bâtiment.	'chrome'	
+2003	06	10		2003	06	10		l__installation_de	La surveillance des eaux souterraines est mise en place avec l’installation de 3 piézomètres le 10/06/2003.		
+2003				2003				L__étude_des_sols	L’étude des sols phase B ainsi qu’une ESR est menée en 2003 (prélèvement de sol le 03/06/2003).		
+2013	10			2013	10			La_campagne_basses_eaux	La campagne basses eaux d’Octobre 2013 montre des concentrations en cyanures et en hydrocarbures totaux en deçà de la limite de quantification analytique.	'cyanures', 'hydrocarbures totaux'	
+2003	06	10		2003	06	10		est_mise_en_place	La surveillance des eaux souterraines est mise en place avec l’installation de 3 piézomètres le 10/06/2003.		
+2003				2003				la_campagne	Les analyses d’eaux souterraines de la campagne de 2003 montrent une présence de cadmium et de chrome, de souffre et de cyanures.	'cadmium', 'chrome', 'souffre', 'cyanures'	
+2007	05			2007	05			une_diminution	Les résultats de surveillance des eaux souterraines ont montré une diminution des concentrations en cadmium depuis Mai 2007.	'cadmium'	
+1920				1920				crée	crée en 1920 la société TRAITEMENTS LAMBIN est spécialisée dans le traitement de surface et plus particulièrement le zingage, le cadmiage et l'étamage électrolytique ainsi que le brunissage et la phosphatation	'cadmiage'	'la société TRAITEMENTS LAMBIN'

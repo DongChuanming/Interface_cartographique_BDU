@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				Un_audit_environnemental	Un audit environnemental datant de janvier 1997 a été mené par le bureau d'études IRH environnement en 1996, qui a mis en évidence:		'IRH environnement'
+				1945				a_fonctionné	L'usine à gaz a été construite en 1841 et a fonctionné jusqu'à la période 1945-1950.		
+				1945				a_été_construite	L'usine à gaz a été construite en 1841 et a fonctionné jusqu'à la période 1945-1950.		
+				1950				a_été_construite	L'usine à gaz a été construite en 1841 et a fonctionné jusqu'à la période 1945-1950.		
+1998	01	30		1998	01	30		a_transmis	EDF - GAZ DE FRANCE a transmis un état d'avancement des travaux le 30 janvier 1998, mentionnant la planification de la vidange et du comblement de la cuve pour le 1er trimestre 1998.		'EDF', 'GAZ DE FRANCE'
+1998				1998				mentionnant	EDF - GAZ DE FRANCE a transmis un état d'avancement des travaux le 30 janvier 1998, mentionnant la planification de la vidange et du comblement de la cuve pour le 1er trimestre 1998.		'EDF', 'GAZ DE FRANCE'
+1997	01			1997	01			Un_audit_environnemental	Un audit environnemental datant de janvier 1997 a été mené par le bureau d'études IRH environnement en 1996, qui a mis en évidence:		'IRH environnement'
+1841				1841				a_été_construite	L'usine à gaz a été construite en 1841 et a fonctionné jusqu'à la période 1945-1950.		
+1998				1998				a_transmis	EDF - GAZ DE FRANCE a transmis un état d'avancement des travaux le 30 janvier 1998, mentionnant la planification de la vidange et du comblement de la cuve pour le 1er trimestre 1998.		'EDF', 'GAZ DE FRANCE'
+1997				1997				s__est_engagé_à_réaliser_les_opérations	En 1997, GAZ DE FRANCE s'est engagé à réaliser les opérations suivantes:		'GAZ DE FRANCE'
+								a_transmis	EDF - GAZ DE FRANCE a transmis un état d'avancement des travaux le 30 janvier 1998, mentionnant la planification de la vidange et du comblement de la cuve pour le 1er trimestre 1998.		'EDF', 'GAZ DE FRANCE'
+								la_réalisation_d__un_audit_partiel	Gaz de France a estimé à cette époque (sans validation de ce point par le service de l'inspection des installations classées) que le site est classé en classe 3 (sensibilité faible entraînant la réalisation d'un audit partiel dans un délai de 8 ans avec recherche et vidange des cuves existantes).		'Gaz de France'
+				1950				a_fonctionné	L'usine à gaz a été construite en 1841 et a fonctionné jusqu'à la période 1945-1950.		
+								mentionnant	EDF - GAZ DE FRANCE a transmis un état d'avancement des travaux le 30 janvier 1998, mentionnant la planification de la vidange et du comblement de la cuve pour le 1er trimestre 1998.		'EDF', 'GAZ DE FRANCE'

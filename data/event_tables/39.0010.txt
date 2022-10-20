@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			La_dernière_campagne_de_surveillance	La dernière campagne de surveillance des eaux souterraines a été réalisée en avril 2014.		
+2008				2008				brulés	Elle correspond à l'étude de la composition de 16 sondages répartis autour de 2 zones : la zone des anciens bureaux (brulés en 2008) et la zone des hangars de stockage et de séchage.		
+2000	01	31		2000	01	31		la_réalisation_d__une_étude_simplifiée_des_risques	Cette activité étant susceptible d'être à l'origine d'une pollution des sols, la réalisation d'une étude simplifiée des risques a été prescrite par arrêté préfectoral du 31 janvier 2000.		
+2003				2003				est_opérationnelle	Cette surveillance est opérationnelle depuis 2003.		
+2007	01	11		2007	01	11		Des_prélèvements	Des prélèvements dans un puits privé situé au Nord du site ont révélés des concentrations en bore inférieures au seuil de qualité de l'eau pour le bore (arrêté du 11 janvier 2007).	'bore', 'le bore'	
+2008	07	18		2008	07	18		ont_été_prescrits	Par arrêté préfectoral du 18 Juillet 2008, un plan de gestion, une analyse des Risques résiduels et une interprétation du milieu ont été prescrits à l'exploitant.		
+2010	02			2010	02			des_analyses	En février 2010 des analyses de la qualité des eaux souterraines ont été menées: la situation restait stable et l'on dénotait néanmoins une dégradation de la qualité de l'eau en Bore au niveau de l'ancien PZ 1 situé à proximité du bâtiment détruit par l'incendie.	'Bore'	
+2001	07			2001	07			a_été_remise	L'étude a été remise en juillet 2001.		
+2012	09	06		2012	09	06		une_analyse_des_sols	Le 06/09/2012, une analyse des sols a été menée sur le site.		
+2012	07	11		2012	07	11		D__autres_analyses	D'autres analyses d'eaux souterraines ont été réalisées les 07/04/2011, 28/10/2011 et 11/07/2012.		
+2008				2008				un_incendie_s__est_déclaré	En 2008, un incendie s'est déclaré dans le bâtiment administratif jouxtant le secteur où étaient réalisées les opérations de trempage détruisant l'ensemble du bâtiment.		
+2011	04	07		2011	04	07		D__autres_analyses	D'autres analyses d'eaux souterraines ont été réalisées les 07/04/2011, 28/10/2011 et 11/07/2012.		
+				2011	10	28		D__autres_analyses	D'autres analyses d'eaux souterraines ont été réalisées les 07/04/2011, 28/10/2011 et 11/07/2012.		
+2010	12	07		2010	12	07		BOIS_cessa	. BOUVET BOIS cessa son activité le 07/12/2010.		'BOUVET BOIS'
+2010	12	07		2010	12	07		a_cessé_son_activité	. BOUVET BOIS a cessé son activité le 07/12/2010.		'BOUVET BOIS'
+2002				2002				ont_été_transmises	Suite à l'examen de l'étude remise, les observations de l'inspection ont été transmises à l'exploitant début 2002.		
+1970				1970				sont_exercés	L'activité du site concerne le travail et le traitement de bois qui y sont exercés depuis 1970.		
+2005	12			2005	12			BOUVET_SA___avait_été_racheté	L'établissement , anciennement BOUVET SA, avait été racheté en décembre 2005 par la S.		'BOUVET SA', 'la S.'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	06			2002	06			a_été_transmise	.R., a été transmise à l’administration en juin 2002.		
+2005	08			2005	08			Les_contrôles	Les contrôles effectués dans les eaux souterraines en juillet-août 2005 montrent encore des traces de trichloréthylène et de tétrachloroéthylène.	'trichloréthylène', 'tétrachloroéthylène'	
+2000	03	1		2000	03	1		a_été_transmis	Le diagnostic initial a été transmis à l’administration le 1er mars 2000.		
+2011	06			2011	06			effectuées	Les résultats des analyses effectuées en juin 2011 montrent encore quelques traces de trichloréthylène et de tétrachloroéthylène.	'trichloréthylène', 'tétrachloroéthylène'	
+								Les_contrôles	Les contrôles effectués dans les eaux souterraines en juillet-août 2005 montrent encore des traces de trichloréthylène et de tétrachloroéthylène.	'trichloréthylène', 'tétrachloroéthylène'	

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04			2014	04			est_à_l__arrêt	Le site de la tréfilerie est à l'arrêt depuis avril 2014.		
+2004				2004				été_mesurées	pour les eaux souterraines : présence d'arsenic et de chlorures (les concentrations en arsenic sont très inférieures aux concentrations qui avaient été mesurées en 2004 dans le cadre d'une ESR).	'arsenic', 'chlorures', 'arsenic'	
+2002	01	07		2002	01	07		réalisée_et_reçue	-EDR réalisée et reçue le 07/01/2002		

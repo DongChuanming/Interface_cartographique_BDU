@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	02	20		2015	02	20		par_courriers	Les diagnostics des sols ont été transmis par SANOFI par courriers du 19/12/2014 (zone centrale et carrefour) et le 20/02/2015 (zone biochimie).		'SANOFI'
+1996	04	03		1996	04	03		il_a_été_imposé	Ce site relevant de la circulaire du 3 avril 1996, il a été imposé à l'exploitant par arrêté préfectoral du 19 novembre 1998 de réaliser un diagnostic initial du site.		
+2014	12	19		2014	12	19		par_courrier	Le plan de gestion a été transmis par courrier du 19/12/2014. les travaux de dépollution ont été encadrés par l'arrêté préfectoral du 10/11/2015.		
+2014	12	15		2014	12	15		Par_courriers	Par courriers du 15/12/2014, du 09/03/2015 et du 06/01/2016 des notes complémentaires au plan de gestion des nappes ont été transmises par SANOFI.		'SANOFI'
+2013	05	15		2013	05	15		Les_travaux_ont_été_encadrés	Les travaux ont été encadrés par un arrêté préfectoral du 15/05/2013.		
+2014	05			2014	05			a_transmis	En mai 2014, SANOFI a transmis le plan de gestion des nappes d'eaux souterraines, comme demandé dans l'arrêté préfectoral du 15/05/2013.		'SANOFI'
+2000	11			2000	11			a_été_fournie	Une étude de vulnérabilité comportant des investigations d'eaux souterraines a été fournie en décembre 1999, complétée en novembre 2000 et janvier 2002.		
+2014	12	19		2014	12	19		par_courriers	Les diagnostics des sols ont été transmis par SANOFI par courriers du 19/12/2014 (zone centrale et carrefour) et le 20/02/2015 (zone biochimie).		'SANOFI'
+2011	12	31		2011	12	31		toutes_les_productions_ont_été_arrêtées	Depuis le 31/12/2011 toutes les productions ont été arrêtées sauf dans le bâtiment HAP et JACOB.		'HAP'
+2008				2008				est_en_reconversion	Depuis mi 2008, le site est en reconversion.		
+2009				2009				des_2_campagnes_réalisées	Lors des 2 campagnes réalisées en 2009 la présence de benzène, monochlorobezène et d'arsenic a été constaté avec des teneurs assez importantes dans la nappe alluviale et la nappe des calcaires de Saint-Ouen.	'benzène', 'monochlorobezène', 'arsenic'	
+2015	06			2017	06			Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés conjointement sur les 3 zones entre juin 2015 et juin 2017.		
+2009				2009				ont_été_excavées_et_envoyées_en	En 2009 des terres contenant du mercure ont été excavées et envoyées en stockage dans les mines de sel en Allemagne.	'mercure'	
+2019	10	16		2019	10	16		a_été_proposé	Le procès verbal permettant de constater la bonne réalisation des travaux de dépollution de ces zones a été proposé par l'inspection des installations classées dans son rapport du 16/10/2019.		
+2015	10	07		2015	10	07		Une_visite	Une visite du site a été effectuée le 07/10/2015 suite au travaux a permis de constater que la zone est maintenant occupé par la loge d'entrée du site, un parking aérien et des espaces verts.		
+2002	01			2002	01			a_été_fournie	Une étude de vulnérabilité comportant des investigations d'eaux souterraines a été fournie en décembre 1999, complétée en novembre 2000 et janvier 2002.		
+1908				1908				créé	Site d'une superficie de 22 ha créé en 1908 et dédié à l'origine à des activités de chimie minérale et organique.		
+2000	05	31		2000	05	31		Une_étude_historique	Une étude historique a été fournie le 31 mai 2000.		
+2016	01	06		2016	01	06		Par_courriers	Par courriers du 15/12/2014, du 09/03/2015 et du 06/01/2016 des notes complémentaires au plan de gestion des nappes ont été transmises par SANOFI.		'SANOFI'
+2015	11	10		2015	11	10		les_travaux_de_dépollution	Le plan de gestion a été transmis par courrier du 19/12/2014. les travaux de dépollution ont été encadrés par l'arrêté préfectoral du 10/11/2015.		
+2009				2009				est_réalisé	Le suivi des 3 nappes du sites est réalisé depuis le début 2009 au moyen de 27 piézomètres dont 26 sont équipés de sondes enregistreuses des pressions hydrostatiques.		
+				2015	03	09		Par_courriers	Par courriers du 15/12/2014, du 09/03/2015 et du 06/01/2016 des notes complémentaires au plan de gestion des nappes ont été transmises par SANOFI.		'SANOFI'
+1999	12			1999	12			Une_étude_de_vulnérabilité	Une étude de vulnérabilité comportant des investigations d'eaux souterraines a été fournie en décembre 1999, complétée en novembre 2000 et janvier 2002.		
+2002	11			2002	11			réalisée	Cette ESR, réalisée en novembre 2002 place le site en classe 2 nécessitant une surveillance des eaux souterraines.		
+2001	10			2001	10			effectuées	Au vu des analyses effectuées en octobre 2001:		
+2013	05	15		2013	05	15		a_transmis	En mai 2014, SANOFI a transmis le plan de gestion des nappes d'eaux souterraines, comme demandé dans l'arrêté préfectoral du 15/05/2013.		'SANOFI'

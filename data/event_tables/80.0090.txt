@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				un_diagnostic_de_sol	un diagnostic de sol réalisé en juillet 2010 (transmis en 2012) permet de se renseigner sur l'état environnemental des terrains en surface.		
+2009	04	14		2009	04	14		un_arrêté_de_mise_en_demeure_est_signé	Suite à cette visite un arrêté de mise en demeure est signé le 14 avril 2009 il impose au mandataire judiciaire représentant l'exploitant dont la société a été placée en liquidation judiciaire par jugement du tribunal de commerce en date du 13/02/2009 :		
+2010	06			2010	06			informait	En juin 2010, Maître SOINNE informait le Préfet de la Somme des conditions de mise en sécurité du site.		'Maître SOINNE', 'le Préfet', 'de la Somme'
+2009	02			2009	02			d__une_inspection	Lors d'une inspection en février 2009, l'inspecteur constate que le site semble abandonné depuis plusieurs années (lors de la précédente visite en 2006, le site était encore en activité).		
+2006				2006				encore_en_activité	Lors d'une inspection en février 2009, l'inspecteur constate que le site semble abandonné depuis plusieurs années (lors de la précédente visite en 2006, le site était encore en activité).		
+2010	07			2010	07			un_diagnostic_de_sol	un diagnostic de sol réalisé en juillet 2010 (transmis en 2012) permet de se renseigner sur l'état environnemental des terrains en surface.		
+2006				2006				de_la_précédente_visite	Lors d'une inspection en février 2009, l'inspecteur constate que le site semble abandonné depuis plusieurs années (lors de la précédente visite en 2006, le site était encore en activité).		
+2009	06	24		2009	06	24		L__inspection	L'inspection du site le 24/06/2009 a permis de constater que la situation était inchangée par rapport au mois de février.		
+2009	02	13		2009	02	13		a_été_placée_en_liquidation_judiciaire_par_jugement	Suite à cette visite un arrêté de mise en demeure est signé le 14 avril 2009 il impose au mandataire judiciaire représentant l'exploitant dont la société a été placée en liquidation judiciaire par jugement du tribunal de commerce en date du 13/02/2009 :		

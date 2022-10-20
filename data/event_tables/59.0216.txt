@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	04	02		2001	04	02		a_été_demandé	- suite à l'incendie du 02 avril 2001, il a été demandé de procéder à des analyses sur les sols ayant pu être pollués		
+2001	04	02		2001	04	02		l__incendie	- suite à l'incendie du 02 avril 2001, il a été demandé de procéder à des analyses sur les sols ayant pu être pollués		
+2007				2007				à_son_rachat	- La société CATRY est devenue SAS Arpadis - Gondecourt suite à son rachat en 2007, par la société Belge Arpadis.		'La société CATRY', 'SAS Arpadis', 'la société Belge Arpadis'
+2003	01	15		2003	01	15		Étude_de_sols_phase_B_remise	- Étude de sols phase B remise le 15 janvier 2003.		
+2000				2000				mise_en_place	- surveillance des eaux mise en place depuis 2000.		
+1967				1967				__Installation	- Installation de l'établissement en 1967 sur le site de 8.4 ha dont 1 ha en surface couverte		

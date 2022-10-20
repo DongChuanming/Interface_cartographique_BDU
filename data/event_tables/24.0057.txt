@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08			2011	08			ont_été_traités	- La vidange des fonds de cuves d'hydrocarbures a permis d'évacuer 5.96t de déchets qui ont été traités par la société SIAP à Bassens en août 2011.	'hydrocarbures'	'la société SIAP'
+				2011	11	22		les_mesures_suivantes_de_mise_en_sécurité	Dans le cadre de la cessation définitive d'activité du site, l'exploitant a réalisé du 22 août au 22 novembre 2011 les mesures suivantes de mise en sécurité du site :		
+2001	01	02		2001	01	02		a_ensuite_été_vendu	Le dépôt a ensuite été vendu à la Société ALVEA le 2 janvier 2001.		'la Société ALVEA'
+2011	12			2011	12			a_été_réalisé	- Le ferraillage pour les 3 premières cuves précitées a été réalisé en décembre 2011 par la société LACROIX à Fronsac.		'la société LACROIX'
+1997	06	23		1997	06	23		déclaration_déposée	. NERVOL après déclaration déposée le 23 juin 1997.		'NERVOL'
+2009	09	18		2009	09	18		La_cessation_d__activité_définitive	La cessation d'activité définitive est déclarée le 18 septembre 2009.		
+2009	09	21		2009	09	21		établi	Un diagnostic environnemental a été réalisé le 14 mai 2008 par la société AGE Environnement, complété d'un plan de gestion établi le 21 septembre 2009 par la société GRS VALTECH.		'la société AGE Environnement', 'la société GRS VALTECH'
+				2011	11	22		la_cessation_définitive_d__activité	Dans le cadre de la cessation définitive d'activité du site, du 22 août au 22 novembre 2011, l'exploitant a réalisé des travaux de réhabilitation du site.		
+2011	08			2011	08			a_été_réalisé	- Le nettoyage/dégazage de 4 cuves enterrées(30 m3, 2*40m3 et 20 m3 compartimentée 12-8) a été réalisé en août 2011.		
+				2011	11	22		des_travaux_de_réhabilitation	Dans le cadre de la cessation définitive d'activité du site, du 22 août au 22 novembre 2011, l'exploitant a réalisé des travaux de réhabilitation du site.		
+1972	09	06		1972	09	06		Le_dépôt_a_été_autorisé	Le dépôt a été autorisé le 6 septembre 1972 au nom de S.		
+2011	09	02		2011	09	02		décantation__	Les eaux souterraines ont été traitées par décantation/déshuilage puis absorption sur charbon actif du 2 septembre 2011 au 25 octobre 2011.	'charbon actif'	
+2008	05	14		2008	05	14		Un_diagnostic_environnemental	Un diagnostic environnemental a été réalisé le 14 mai 2008 par la société AGE Environnement, complété d'un plan de gestion établi le 21 septembre 2009 par la société GRS VALTECH.		'la société AGE Environnement', 'la société GRS VALTECH'

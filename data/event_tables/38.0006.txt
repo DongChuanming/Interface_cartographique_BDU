@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	01	18		2001	01	18		48_campagnes_d__analyses	48 campagnes d'analyses ont été réalisées sur les 2 piézomètres du site depuis le 18/01/2001, la dernière en date a eu lieu le 07/12/2012.		
+1995	07			1995	07			un_rapport	En juillet 1995, le bureau d'étude ANTEA a réalisé un rapport sur l’impact éventuel sur les eaux souterraines et superficielles du site afin de procéder à sa fermeture définitive.		'ANTEA'
+2012	12	07		2012	12	07		ont_été_réalisées	48 campagnes d'analyses ont été réalisées sur les 2 piézomètres du site depuis le 18/01/2001, la dernière en date a eu lieu le 07/12/2012.		
+2003	12			2003	12			a_été_rendue	L'ESR a été rendue au mois de décembre 2003 ainsi qu'un diagnostic du site.		
+2001	01	18		2001	01	18		mis_en_place	Un nouveau protocole de suivi des masses d'eaux souterraines a été établis et mis en place le 18/01/2001.		
+2001	04	25		2001	04	25		48_campagnes_effectuées	Une pollution en Arsenic est en effet observée sur 20 des 48 campagnes effectuées avec une concentration maximale de 28 µg/l le 25/04/2001.	'Arsenic'	
+2012	12	07		2012	12	07		la_dernière_en_date	48 campagnes d'analyses ont été réalisées sur les 2 piézomètres du site depuis le 18/01/2001, la dernière en date a eu lieu le 07/12/2012.		
+2001	01	18		2001	01	18		a_été_établis	Un nouveau protocole de suivi des masses d'eaux souterraines a été établis et mis en place le 18/01/2001.		
+2001	06			2001	06			la_première_phase	Au mois de juin 2001, ANTEA remet à ARKEMA la première phase de cette étude, l'historique de l'ensemble de la zone dont elle est propriétaire, dont le parc à chaux.		'ANTEA', 'ARKEMA'
+2012	12	07		2012	12	07		48_campagnes_d__analyses	48 campagnes d'analyses ont été réalisées sur les 2 piézomètres du site depuis le 18/01/2001, la dernière en date a eu lieu le 07/12/2012.		
+2011	12	01		2011	12	01		est_lui_décelé	L'Aluminium est lui décelé sur 14 campagnes avec un maximum de 1 mg/l le 01/12/2011.	"L' Aluminium"	
+1958				1972				ont_été_effectués	Le site ne reçoit actuellement plus de déchets mais conserve les dépôts qui ont été effectués entre 1958 et 1972.		

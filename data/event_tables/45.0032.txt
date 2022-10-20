@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1928				1963				a_hébergé	Auparavant, ce site a hébergé de 1928 à 1963, la société MIGAULT, devenue la Compagnie Industrielle du Jouet en 1938.		'la société MIGAULT', 'la Compagnie Industrielle du Jouet'
+1963				1963				a_exploité	A partir de 1963, la société PROLABO, devenue MERCK EUROLAB puis VWR INTERNATIONAL a exploité une fabrique d’instruments et de matériels de laboratoire.		'la société PROLABO', 'MERCK EUROLAB puis VWR INTERNATIONAL'
+2007	06			2007	06			une_évaluation	- une évaluation de l’extension du panache de composés organiques halogènés volatils (COHV) à l’extérieur de l’ancien site comprenant une évaluation des risques sanitaires – juin 2007	'composés organiques halogènés', 'COHV'	
+2009	07	29		2009	07	29		a_été_pris	Un arrêté préfectoral instituant des servitudes d'utilité publiques a été pris le 29 juillet 2009.		
+2005				2005				La_cessation_d__activité	La cessation d’activité du site a été notifié en 2005.		

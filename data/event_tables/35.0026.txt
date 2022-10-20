@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				Les_deux_diagnostics	Les deux diagnostics des sols de 2008 ont mis en évidence une pollution très localisée dans les terrains compactés autour de la fosse et plus particulièrement entre la fosse et le bardage du bâtiment.		
+2008	12			2008	12			des_diagnostics	Dans le cadre du projet de rénovation de la station de détoxication et du rebouchage de la fosse servant à collecter les eaux de rinçage avant traitement, des diagnostics des sols autour de la fosse ont été réalisés en décembre 2008.	'détoxication'	
+2006				2006				est_réalisé	Du fait de son activité de traitement de surface, un suivi de la nappe souterraine est réalisé depuis 2006.		
+2011	06			2011	06			a_été_allégée	Suivant ces résultats, le suivi de la pollution a été allégée à une fréquence semestrielle à compter de juin 2011.		
+2009	03			2009	03			ont_été_excavées	- 130 tonnes de terres ont été excavées en mars 2009,		
+2008				2008				à_été_renforcée	Cette surveillance à été renforcée en 2009, suite aux conclusions des diagnostics des sols de 2008.		
+2013				2015				Les_analyses	Les analyses de 2013 à 2015 confirment l'absence en chrome total et en chrome hexavalent sur l'ensemble des piézomètres.	'chrome total', 'chrome hexavalent'	
+2008				2008				des_diagnostics	Cette surveillance à été renforcée en 2009, suite aux conclusions des diagnostics des sols de 2008.		
+1989	12	07		1989	12	07		a_été_autorisée_à_exploiter	La société CIO a été autorisée à exploiter une installation de traitement de surface par arrêté préfectoral du 7 décembre 1989.		'La société CIO'
+2006				2006				a_repris_la_même_activité	La société Ovako a repris la même activité en 2006.		'La société Ovako'
+2009				2009				à_été_renforcée	Cette surveillance à été renforcée en 2009, suite aux conclusions des diagnostics des sols de 2008.		
+2009	02			2009	02			Les_résultats_de	Les résultats de février 2009 à mars 2012 mettent en évidence :		
+2012	03			2012	03			Les_résultats_de	Les résultats de février 2009 à mars 2012 mettent en évidence :		
+2009	03			2009	03			une_cessation_d__activité	La ligne de nickelage chromage de petite longueur a fait l'objet d'une cessation d'activité en mars 2009.		

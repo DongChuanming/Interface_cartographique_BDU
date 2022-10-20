@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	09	30		2008	09	30		la_fourniture_d__une_étude_radioécologique	Cet arrêté impose également la fourniture d'une étude radioécologique pour le 30 septembre 2008 et d'une étude de réhabilitation des bassins B1 à B6 pour fin 2008.		
+2008				2008				d__une_étude_de_réhabilitation	Cet arrêté impose également la fourniture d'une étude radioécologique pour le 30 septembre 2008 et d'une étude de réhabilitation des bassins B1 à B6 pour fin 2008.		
+2008	08	04		2008	08	04		a_interrogé	La DRIRE a interrogé l'exploitant le 4 août 2008 sur cette évolution et les actions qu'il compte engager pour y remédier.		'La DRIRE'
+2004	03	20		2004	03	20		est_intervenue	Le 20 mars 2004, la rupture de la digue Est du bassin B2 est intervenue, avec déversement des effluents du bassin sur la zone lagunaire du site contribuant à une dégradation de la situation.	'effluents'	
+2010	06	17		2010	06	17		a_transmis	Par courrier daté du 17 juin 2010, l'exploitant a transmis un dossier relatifs aux opérations envisagées en terme de protection des eaux souterraines et de réduction des impacts environnementaux au droit du site.		
+2008				2008				Les_travaux_de_confortement	Les travaux de confortement des digues des bassins B1 à B6 se sont terminés début 2008.		
+								sont_soumis	A partir de cette date (22/12/09), les bassins B1 et B2 sont soumis au contrôle de l’ASN.		
+								a_demandé	- 2 anciens bassins décantation/évaporation pour le stockage de rejets solides (B1/B2: Le collège de l’Autorité de Sûreté Nucléaire (ASN) a demandé le 22 décembre 09 à l'exploitant de déposer un dossier de demande d’autorisation  de création d’une Installation Nucléaire de Base.		
+2008	07	30		2008	07	30		sont_soumis_aux_prescriptions	Dans l'attente de nouvelles prescriptions définies par l'ASN ces bassins sont soumis aux prescriptions fixées par l’arrêté préfectoral du 30 juillet 2008.		
+1998	06			1998	06			transmise	Cette pollution a été découverte à la suite d'une étude imposée par l'inspection des installations classées (arrêté préfectoral du 13/09/1995) et transmise en juin 1998 et sanctionnée par un procès verbal d'infraction et un arrêté préfectoral de mise en demeure de maîtrise des fuites.		
+1963				1963				sont_aménagées	Les lagunes sont aménagées depuis 1963 sur d'anciens bassins de décantation d'une mine de soufre fermée depuis les années 1950.		

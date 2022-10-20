@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	01			1998	01			Le_diagnostic_pollution	Le diagnostic pollution du site, effecuté en janvier 1998, a montré l'existence d'une contamination du sous-sol en HAP (hydrocabures aromatiques polycycliques) et cyanures.	'HAP', 'hydrocabures aromatiques polycycliques', 'cyanures'	
+								exploitée	Dans le cadre d'un projet immobilier, l'ancien Stade BLANQUI à Alfortville (propriétaire mairie d'Alfortville) qui avait accueilli une usine à gaz exploitée jusque dans les années 1930, a fait l'objet de travaux de réhabilitation (dépollution du sol) après diagnostic.		
+				1999	04			Les_travaux_de_réhabilitation	Les travaux de réhabilitation ont été effectués entre janvier et avril 1999.		
+1998	10			1998	10			Des_investigations_supplémentaires	Des investigations supplémentaires ont été réalisées en octobre 1998 et ont montré l'existence de deux sources de pollution localisées dans les premiers mètres du site:		

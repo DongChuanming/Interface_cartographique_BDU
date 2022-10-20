@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	11	18		2008	11	18		les_activités_ayant_cessées	Le 11/05/2010, il a été donné à Mr JULLIEN, un récépissé de déclaration de cessation d'activités, les activités ayant cessées le 18/11/2008.		'Mr JULLIEN'
+2011				2011				a_été_recouvert	Le site a été recouvert par une dalle de type béton en 2011.		
+2000	12			2000	12			ont_été_reçus	L' APC en date du 10 janvier 2000 demandait la réalisation d'une Evaluation Simplifiée des Risques (ESR) et d'un Diagnostic Initial (DI), ils ont été reçus en Décembre 2000.		
+2013	07	18		2013	07	18		la___dernière_campagne_d__analyses	Les conclusions de la  dernière campagne d'analyses réalisée en date du 18/07/2013 indique les eaux souterraines au droit du piézomètre aval PZ2 sont supposées conformes aux critères de potabilité dans la limité des éléments recherchés.		
+1993				1993				est_passé_d_	La surface du site exploité est passé d'environ 1,6 ha à 0,3 ha en 1993.		
+2010	01	26		2010	01	26		a_été_redigé	Le mémoire de cessation d'activité a été redigé le 26/01/2010.		
+1947				2008				a_été_exploitée	Le site a été exploitée de 1947 à 2008 pour une  activité industrielle de négoce de métaux et de fonderie de déchets d'aluminium.		
+2009	10	30		2009	10	30		ont_été_excavées	Le 30 octobre 2009, 10,7 tonnes de terres impactées ont été excavées.		
+2009	09	24		2009	09	24		ont_été_réalisés	Le 24 septembre 2009, 9 sondages ont été réalisés.		
+2010	05	11		2010	05	11		a_été_donné_à	Le 11/05/2010, il a été donné à Mr JULLIEN, un récépissé de déclaration de cessation d'activités, les activités ayant cessées le 18/11/2008.		'Mr JULLIEN'
+1980	12	29		1980	12	29		ont_été_autorisées	Les installations ont été autorisées par AP du 29 décembre 1980.		

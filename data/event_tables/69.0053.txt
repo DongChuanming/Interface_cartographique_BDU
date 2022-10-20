@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	08	12		1998	08	12		L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 12/08/1998.		
+1972				1976				a_abrité	De plus entre 1972 et 1976 le site a abrité SRA qui a exercé une activité d'incinération de déchets industriels.	'déchets industriels'	'SRA'
+								sabotages	Enfin lors de la 2ème guerre mondiale le site a été l'objet de sabotages et de bombardements.		
+2000	04	25		2000	04	25		un_diagnostic_initial	Cette étude comprend un diagnostic initial qui a été transmis à l'administration le 25/04/2000 et une étude Évaluation Simplifiée des Risques a été remise à l'administration le 25 janvier 2001.		
+1938				1938				créé	.G.) créé en 1938 pour constituer un stockage d'hydrocarbures (principalement du fuel) ravitaillé par voie d'eau.	'stockage', 'hydrocarbures', 'fuel'	
+1839				1839				créée	Le site TACS est aussi implanté pour partie sur le site d'une ancienne fonderie créée en 1839.		'Le site TACS'
+1839				1839				implanté	Le site TACS est aussi implanté pour partie sur le site d'une ancienne fonderie créée en 1839.		'Le site TACS'
+1973				1973				a_engagé	A Partir de 1973, l'établissement a engagé une politique de diversification de ses activités (stockage de bitumes, de produits chimiques, d'hydrocarbures spéciaux).	'bitumes', 'produits chimiques', 'hydrocarbures spéciaux'	
+								fasse_compléter	Il a été décidé à l'issue de cette réunion que PPG fasse compléter (sous 2 mois) les EDR, élabore (sous 3 mois) un outil permettant d'évaluer les résultats de la surveillance des eaux souterraines par rapport à des seuils au-delà desquels un risque pourrait exister pour les ressources en eau et réalise (sous 3 mois) une campagne de mesures des émanations gazeuses du sol (présence de solvants chlorés).	'solvants chlorés'	'PPG'
+2010				2010				a_mis_en_service	L'exploitant a mis en service fin 2010 une barrière de traitement des gaz des sols, a découvert et a traité la source probable de la pollution en composés organochlorés.	'composés organochlorés'	
+2001	01	25		2001	01	25		une_étude_Évaluation_Simplifiée	Cette étude comprend un diagnostic initial qui a été transmis à l'administration le 25/04/2000 et une étude Évaluation Simplifiée des Risques a été remise à l'administration le 25 janvier 2001.		
+2003	12	10		2003	12	10		a_fait_part	Par courrier du 10 décembre 2003, l'inspection des installations classées a fait part à l'exploitant de ses observations sur ces documents.		

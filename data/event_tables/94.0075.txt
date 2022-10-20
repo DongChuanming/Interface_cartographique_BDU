@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	08			2013	08			les_analyses	En mars et août 2013, les analyses des eaux de la nappe, d’air intérieur (au rez-de-chaussée dans la boutique) et d’air extérieur, ont été  réalisées.		
+2013	08			2013	08			ont_été___réalisées	En mars et août 2013, les analyses des eaux de la nappe, d’air intérieur (au rez-de-chaussée dans la boutique) et d’air extérieur, ont été  réalisées.		
+2014				2014				ont_été_reprises	Les installations situées dans la cour arrière ont été reprises par une société de transport puis supprimées en 2014.		'une société de transport'
+2005	07			2005	07			la_campagne_d__analyses	CALDEO a transmis le rapport relatif à la campagne d’analyses des eaux de la nappe, réalisées en juillet 2005, par courrier du 26/01/2012.		'CALDEO'
+2012	01	26		2012	01	26		par_courrier	CALDEO a transmis le rapport relatif à la campagne d’analyses des eaux de la nappe, réalisées en juillet 2005, par courrier du 26/01/2012.		'CALDEO'
+2013	08			2013	08			ont_été_implantés	En août 2013, 4 nouveaux piézomètres ont été implantés afin de déterminer l’extension de la pollution (PZ15 à PZ18).		
+2018	02	01		2018	02	01		a_donné___par_courrier	Sur la base du plan de gestion n°P7 140 070 et des informations transmises lors de la réunion du 30/01/2017, l’inspection des installations classées a donné, par courrier du 01/02/2018, un accord de principe sur la méthodologie choisie de traitement des pollutions présentes sur le site.		
+2018	08			2018	08			2_campagnes_d__injection_successives	- traitement d’appoint des eaux souterraines au réactif de Fenton (peroxyde d’hydrogène + sulfate de fer) au droit des piézomètres impactés. 2 campagnes d’injection successives, espacées de 2 mois ont été réalisées, à partir du mois d’août 2018.	'Fenton', 'peroxyde d’ hydrogène', 'sulfate de fer'	
+2019	03			2019	03			a_été_constatée	Une diminution des concentrations a été constatée en mars 2019, mais elles restent élevées : 5750 µg/l en benzène et 3701 µg/l en hydrocarbures volatils.	'benzène', 'hydrocarbures volatils'	
+								ont_été___réalisées	En mars et août 2013, les analyses des eaux de la nappe, d’air intérieur (au rez-de-chaussée dans la boutique) et d’air extérieur, ont été  réalisées.		
+2012	01	26		2012	01	26		a_transmis	CALDEO a transmis le rapport relatif à la campagne d’analyses des eaux de la nappe, réalisées en juillet 2005, par courrier du 26/01/2012.		'CALDEO'
+								les_analyses	En mars et août 2013, les analyses des eaux de la nappe, d’air intérieur (au rez-de-chaussée dans la boutique) et d’air extérieur, ont été  réalisées.		
+2005	03			2005	03			ont_été_nettoyées	En mars 2005, toutes les cuves du site ont été nettoyées et dégazées.		
+2005				2005				Le_diagnostic_pollution	Le diagnostic pollution réalisé en 2005 a mis en évidence la présence :		
+2014				2014				supprimées	Les installations situées dans la cour arrière ont été reprises par une société de transport puis supprimées en 2014.		'une société de transport'
+2018	04	03		2018	07	23		fin_des_travaux_d__excavation	- Par courrier du 15/11/2018, le rapport de fin des travaux d’excavation, réalisés du 03/04/2018 au 23/07/2018 ;		
+2005				2005				il_a_été_demandé	Vu les teneurs importantes, en polluants, présentes dans la nappe depuis 2005, il a été demandé à CALDEO, par courrier préfectoral du 10/08/2012, de transmettre, dans un délai de 3 mois :	'polluants'	'CALDEO'
+				2005	03	23		Les_travaux_ont_été_réalisés	Les travaux ont été réalisés du 18 au 23 mars 2005.		

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975				1999	10			Incinérateur	Incinérateur d'ordures ménagères ayant fonctionné de 1975 à octobre 1999 , fermé pour cause de non conformité .	'Incinérateur'	
+								réaliser_les_travaux_de_remise_en_état	L'arrêté préfectoral du 18 septembre 2002 met le SICTOM en demeure de réaliser les travaux de remise en état sous 4 mois .		'le SICTOM'

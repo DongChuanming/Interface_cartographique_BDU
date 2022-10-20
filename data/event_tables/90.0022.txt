@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973	09	04		1973	09	04		ont_été_remplacées	Ces premières installations ont été remplacées en 1974 par un nouveau complexe d'incinération (AP du 4 septembre 1973).		
+1937				1937				a_exploité	La Communauté d'Agglomération Belfortaine a exploité une usine d'incinération d'ordures ménagères sur le site du boulevard Henri Dunant depuis 1937, année d'inauguration de la première usine.		"La Communauté d' Agglomération Belfortaine"
+								du_diagnostic_initial_du	Celui-ci reprend les conclusion de l'ESR du 22/05/2002 et du diagnostic initial du 15/01/02.		"l' ESR"
+2002	06			2002	06			a_été_réalisé	Un mémoire relatif à l'arrêt définitif de l'activité a été réalisé en juin 2002.		
+1974				1974				ont_été_remplacées	Ces premières installations ont été remplacées en 1974 par un nouveau complexe d'incinération (AP du 4 septembre 1973).		
+1973	09	04		1973	09	04		un_nouveau_complexe_d__incinération	Ces premières installations ont été remplacées en 1974 par un nouveau complexe d'incinération (AP du 4 septembre 1973).		
+2002	03			2002	03			L__arrêt_des_activités	L'arrêt des activités de la CAB sur ce site a eu lieu en mars 2002.		'la CAB'
+2002	06	03		2002	06	03		ont_de_plus_été_réalisés	Deux prélèvements amont-aval ont de plus été réalisés dans la Savoureuse le 3 juin 2002.		
+2012	10			2012	10			Les_derniers_résultats	Les derniers résultats d'octobre 2012 montrent la présence d'arsenic et de plomb, y compris dans le piézomètre en amont du site, en concentrations supérieures aux valeurs-seuil du SDAGE.	'arsenic', 'plomb'	
+2008				2008				a_été_arrêtée	La surveillance des eaux souterraines, prévue par AP pour une durée de 5 ans, a été arrêtée en 2008 après 5 années.		
+								a_été_arrêtée	La surveillance des eaux souterraines, prévue par AP pour une durée de 5 ans, a été arrêtée en 2008 après 5 années.		

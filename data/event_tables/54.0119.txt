@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				la_cessation_d__activité	Suite à la cessation d'activité de 2010, il a été demandé un plan de retrait des machines afin d'éviter une pollution lors du retrait ou transport et de récupérer les déchets liés au démontage des machines.		
+2010				2010				un_plan_de_retrait	Suite à la cessation d'activité de 2010, il a été demandé un plan de retrait des machines afin d'éviter une pollution lors du retrait ou transport et de récupérer les déchets liés au démontage des machines.		
+2009	09	25		2009	09	25		de_la_visite_d__inspection	Lors de la visite d'inspection du 25 septembre 2009, il a été demandé à l'exploitant de transmettre à Monsieur le Préfet de Meurthe-et-Moselle une analyse de l'état actuel du sol visant à évaluer la pollution résiduelle éventuelle provoqué par les anciennes activités.		'le Préfet'
+2009	09	25		2009	09	25		a_été_demandé	Lors de la visite d'inspection du 25 septembre 2009, il a été demandé à l'exploitant de transmettre à Monsieur le Préfet de Meurthe-et-Moselle une analyse de l'état actuel du sol visant à évaluer la pollution résiduelle éventuelle provoqué par les anciennes activités.		'le Préfet'
+2014	09			2014	09			Par_transmission	Par transmission de juin et septembre 2014, le liquidateur judiciaire a apporté des compléments.		
+2011	07	27		2011	07	27		a_indiqué	Ainsi, par courrier du 27 juillet 2011, le Préfet a indiqué à l'ancien exploitant, représenté par un liquidateur judiciaire, les points suivants  :		'le Préfet'
+2010	04	29		2010	04	29		a_déclaré_sa_cessation_d__activité	La société a déclaré sa cessation d'activité par le courrier du 29 avril 2010.		
+2010	04	29		2010	04	29		le_courrier	La société a déclaré sa cessation d'activité par le courrier du 29 avril 2010.		
+								Par_transmission	Par transmission de juin et septembre 2014, le liquidateur judiciaire a apporté des compléments.		

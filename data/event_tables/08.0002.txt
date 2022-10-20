@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	10	21		1991	10	21		ont_été_suspendus	Les apports de déchets ont été suspendus par arrêté préfectoral du 21/10/1991.		
+1991	10	21		1991	10	21		ont_été_imposées	Compte tenu de la proximité d'un captage d'alimentation en eau potable, une surveillance de la qualité de la nappe et la réalisation d'un rapport par un hydrogéologue agréé ont été imposées par l'arrêté préfectoral du 21/10/1991.		
+1995				1995				a_été_réalisé	Un confinement avec des matériaux imperméables a été réalisé sur la décharge en 1995 et constaté par l'inspection des installations classées le 30/03/1995.		
+2006				2006				a_été_mise_en_liquidation_judiciaire	La société GUGLIELMI a été mise en liquidation judiciaire en 2006.		'La société GUGLIELMI'

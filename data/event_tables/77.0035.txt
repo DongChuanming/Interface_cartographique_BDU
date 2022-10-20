@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	11	07		2014	11	07		a_été_pris	En l'absence de réponse du liquidateur un arrêté préfectoral a été pris le 7 novembre 2014 pour demander la vérification de la compatibilité de l'état des milieux hors site avec les usages.		
+2012	04			2012	04			a_pris	En avril 2012, le préfet de Seine-et-Marne a pris un arrêté préfectoral complémentaire imposant la réalisation d'un schéma conceptuel et d'investigations dans les sols (y compris les gaz du sol) et les eaux souterraines.		'le préfet'
+2014	02			2014	02			a_demandé	En février 2014, la préfète a demandé au liquidateur des compléments concernant le diagnostic transmis et notamment de compléter l’interprétation des milieux hors site afin de s’assurer de la compatibilité du site avec les usages.		'la préfète'
+1992	10			1992	10			dispose_d_	Depuis octobre 1992, l’usine dispose d’une unité de traitement physico-chimique.		
+2015	02			2015	02			Une_étude	Une étude pour répondre à cet arrêté préfectoral a été transmise à la préfecture en février 2015 incluant des mesures dans l'air des logements (caves et sous sols).		
+2011	10	18		2011	10	18		a_signé	Les conclusions de cette inspection ont amené M. le Préfet de Seine-et-Marne a signé, le 18 octobre 2011, l'arrêté préfectoral n°11DCSE IC 102 imposant des mesures d'urgence (évacuation des produits et déchets dangereux, interdictions ou limitation d'accès au site et suppression des risques d'incendie et d'explosion) à l'encontre du mandataire en charge de la liquidation en sa qualité de représentant de l’exploitant.	'déchets dangereux'	'le Préfet'
+1992				1992				étaient_rejetées	Avant 1992, les eaux du site étaient rejetées à la Marne sans traitement.		
+1998	03	03		1998	03	03		il_a_été_prescrit	Au regard du contexte environnemental du site et de la nature de ses activités, il a été prescrit à la société CIPEL (ex HOLLANDER) d’établir un diagnostic initial et une évaluation simplifiée des risques par arrêté préfectoral en date du 03 mars 1998.		'la société CIPEL', 'HOLLANDER'
+								implanté_sur	Cet établissement est implanté sur un site exploité depuis plus de 80 ans.		
+2000				2011				a_exercée	La CIPEL a exercée entre 2000 et 2011 une activité soumise à autorisation de traitement et de transformation de fourrures en vue de leur commercialisation dans les filières de l'habillement.		'La CIPEL'
+2011	ô	04		2011	ô	04		est_en_cessation_d__activité	Depuis le 4 aôut 2011, l'établissement est en cessation d'activité.		
+2011	10	07		2011	10	07		Une_inspection	Une inspection a été réalisée le 7 octobre 2011 afin de faire le point sur l'état d'avancement des actions engagées dans le cadre de la mise en sécurité du site.		
+2011	05	16		2011	05	16		a_été_mise_en_liquidation_judiciaire	Par jugement du tribunal du 16 mai 2011, la CIPEL a été mise en liquidation judiciaire.		'la CIPEL'
+2011	08	04		2011	08	04		la_cessation_d__activité	Par courrier du 4 août 2011, la société CIPEL a déclaré la cessation d'activité de son établissement.		'la société CIPEL'
+2011	09	12		2011	09	12		a_transmis	Par courrier du 12 septembre 2011, le mandataire chargé de la liquidation a transmis le bilan environnemental ainsi que le rapport de mise en sécurité du site.		
+2012	01			2012	01			Une_inspection	Une inspection du site en janvier 2012 a mis en évidence, qu'au jour de l'inspection, le site était mis en sécurité conformément à l'article R512-39-1-II du code de l'environnement.		
+								exploité	Cet établissement est implanté sur un site exploité depuis plus de 80 ans.		

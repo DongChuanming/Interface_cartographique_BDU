@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1966				1966				a_été_convertie	Les 2 tranches de 125 MW ont été créées en 1959 pour une utilisation au charbon ; la tranche II a été convertie au fioul en 1966 puis reconvertie au charbon en 1977.	'charbon', 'charbon'	
+2005				2005				avait_fait_procéder	Auparavant, au cours de l'année 2005, le mandataire judiciaire en charge du site avait fait procéder à des travaux de sécurisation extérieurs et à l'évacuation des dépôts sauvages.		
+1959				1959				ont_été_créées	Les 2 tranches de 125 MW ont été créées en 1959 pour une utilisation au charbon ; la tranche II a été convertie au fioul en 1966 puis reconvertie au charbon en 1977.	'charbon', 'charbon'	
+1989				1989				a_été_vendu	Divers travaux ont été conduits lors de la cessation d'activité (élimination de déchets notamment) puis le site a été vendu en 1989.		
+1986				1986				a_été_mise_à_l__arrêt	La centrale thermique a été mise à l'arrêt en 1986.		
+2008				2008				est_en_cours_de_désamiantage	Le bâtiment est en cours de désamiantage depuis l'été 2008, en vue de sa démolition.		
+2008				2008				depuis_l_	Le bâtiment est en cours de désamiantage depuis l'été 2008, en vue de sa démolition.		
+2009	11			2009	11			Un_contrôle	Un contrôle portant sur la gestion des déchets contenant de l'amiante a été réalisé en novembre 2009.		
+2006				2006				ont_été_expertisées	Les structures ont été expertisées (problèmes de stabilité suite à des incendies)en 2006.		
+1977				1977				reconvertie_au_charbon	Les 2 tranches de 125 MW ont été créées en 1959 pour une utilisation au charbon ; la tranche II a été convertie au fioul en 1966 puis reconvertie au charbon en 1977.	'charbon', 'charbon'	
+2006				2006				a_ainsi_été_racheté	Le site a ainsi été racheté en 2006 par EDF.		'EDF'

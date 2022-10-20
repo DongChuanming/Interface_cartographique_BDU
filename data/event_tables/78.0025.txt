@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2016				2016				ont_été_détectées	Lors des trois campagnes du 1er trimestre 2016, des teneurs en composés halogénés (AOX) et en phosphore ont été détectées.	'composés halogénés', 'AOX', 'phosphore'	
+								ont_été_détectées	Lors des trois campagnes du 1er trimestre 2016, des teneurs en composés halogénés (AOX) et en phosphore ont été détectées.	'composés halogénés', 'AOX', 'phosphore'	
+2009				2009				a_fait_procéder	En 2009 et 2010, l'exploitant a fait procéder à l'extraction des 4 cuves ainsi que des canalisations associées.		
+								des_trois_campagnes_du	Lors des trois campagnes du 1er trimestre 2016, des teneurs en composés halogénés (AOX) et en phosphore ont été détectées.	'composés halogénés', 'AOX', 'phosphore'	
+2015	10			2015	10			a_également_été_relevée	Par rapport à la campagne d'octobre 2015, une teneur anormalement élevée en nitrates au droit d'un des piézomètres a également été relevée alors qu'elles sont globalement stables sur l'ensemble des autres piézomètres.	'nitrates'	
+2017				2017				se_poursuit	En 2017, la surveillance de la qualité des eaux souterraines se poursuit conformément à l'arrêté préfectoral.		
+2000				2000				Un_premier_diagnostic	Un premier diagnostic de sol, réalisé en 2000, n'a pas détecté de source de pollution des sols au niveau de ce bâtiment.		
+2008	02			2008	02			a_procédé_à	En février 2008, l'exploitant a procédé à une caractérisation de la qualité des sols dans cette zone.		
+2016				2016				des_trois_campagnes_du	Lors des trois campagnes du 1er trimestre 2016, des teneurs en composés halogénés (AOX) et en phosphore ont été détectées.	'composés halogénés', 'AOX', 'phosphore'	
+2015	10			2015	10			la_campagne_d_	Par rapport à la campagne d'octobre 2015, une teneur anormalement élevée en nitrates au droit d'un des piézomètres a également été relevée alors qu'elles sont globalement stables sur l'ensemble des autres piézomètres.	'nitrates'	
+1998				1998				une_Évaluation_Simplifiée_des_Risques	En 1998, une Évaluation Simplifiée des Risques (ESR) a été réalisée sur le site.		
+2010				2010				a_fait_procéder	En 2009 et 2010, l'exploitant a fait procéder à l'extraction des 4 cuves ainsi que des canalisations associées.		

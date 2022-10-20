@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	09	05		2013	09	05		La_visite_réalisée	La visite réalisée le 5 septembre 2013 par l'inspection a permis de constater que :		
+2013	09	09		2013	09	09		les_travaux_de_réhabilitation	Par conséquent, les travaux de réhabilitation prévus par l'exploitant ont bien été réalisés et un procès verbal de récolement a été délivré à l’exploitant le 9 septembre 2013.		
+2010	09	23		2010	09	23		a_notifié_la_cessation_d__activité	L'exploitant a notifié la cessation d'activité du site auprès de monsieur le préfet, par courrier du 23 septembre 2010.		'le préfet'
+2013	09	09		2013	09	09		un_procès_verbal_de_récolement	Par conséquent, les travaux de réhabilitation prévus par l'exploitant ont bien été réalisés et un procès verbal de récolement a été délivré à l’exploitant le 9 septembre 2013.		
+2012	12			2012	12			des_travaux_de_purge	Dans ce contexte, l'exploitant a réalisé en décembre 2012 des travaux de purge des 2 zones impactées par les hydrocarbures.	'hydrocarbures'	
+2010	09	30		2010	09	30		a_été_délivré	Un récépissé de déclaration de cessation d'activité lui a été délivré le 30 septembre 2010.		
+2013	01			2013	01			fin_de_travaux_remis	Le rapport de fin de travaux remis à l'inspection en janvier 2013 montre que :		

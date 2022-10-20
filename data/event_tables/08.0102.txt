@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	03	09		2004	03	09		a_fait_parvenir	Les 9 mars 2004 et 22 septembre 2005, le SIVOM du Sauternais a fait parvenir à l'IIC le dossier et ses compléments.		'le SIVOM du Sauternais'
+2003	05	27		2003	05	27		demande	Le 27 mai 2003, le Préfet demande à l'exploitant de réaliser un diagnostic du site.		'le Préfet'
+2005	09	22		2005	09	22		a_fait_parvenir	Les 9 mars 2004 et 22 septembre 2005, le SIVOM du Sauternais a fait parvenir à l'IIC le dossier et ses compléments.		'le SIVOM du Sauternais'
+1972				1972				exploitéE	Ancienne décharge exploitéE par le SIVOM du Sauternais à partir de 1972 jusqu'au 1er janvier 2002 sur la commune de Léogeats (33) lieux-dits "Pierron" et "Lauriau".		'le SIVOM du Sauternais'
+1972	08	03		1972	08	03		a_été_autorisée	La décharge a été autorisée par l'arrête préfectoral du 3 août 1972.		

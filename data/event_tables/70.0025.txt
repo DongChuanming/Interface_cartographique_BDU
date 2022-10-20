@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				a_émis	Début 2015, la communauté d'agglomération de Vesoul a émis une proposition visant une excavation des deux zones contaminées aux hydrocarbures afin de s'affranchir des restrictions d'usage.	'hydrocarbures'	
+2015	04			2015	04			Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés en avril 2015.		
+2014	10	08		2014	10	08		Le_PV_de_récolement	Le PV de récolement établi le 8 octobre 2014 conclut que les travaux de remise en état permettent l'usage industriel et artisanal prévu pour le site, sous réserve de respect de restrictions d'usage concernant les deux zones de sol contaminées aux hydrocarbures :  maintien en place du confinement existant, non remaniement des terres polluées sans étude complémentaire, gestion des terres polluées excavées dans les filières autorisées.	'hydrocarbures'	
+2014				2014				Les_mesures_de_mise_en_sécurité	Les mesures de mise en sécurité du site qui ont été réalisées au cours du premier semestre 2014 consistent en :		
+2014	09	17		2014	09	17		une_visite	L'inspection a effectuée une visite de récolement le 17 septembre 2014.		
+2012	12	18		2012	12	18		a_été_déclarée_en_liquidation_judiciaire_par_jugement	La société "Abattoir de Vesoul SA" a été déclarée en liquidation judiciaire par jugement du tribunal de commerce de Vesoul le 18 décembre 2012.		'La société'

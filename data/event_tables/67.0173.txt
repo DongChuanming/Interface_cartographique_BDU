@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				situé	La société BIEBER INDUSTRIES exploite le site situé 1, rue de Bettwiller depuis 1960. (Premier arrêté d'autorisation datant du 18/12/1964)		'La société BIEBER INDUSTRIES'
+2007	02	15		2007	02	15		un_diagnostic_approfondi	L'origine de la pollution par les HAP et en particulier, le naphtalène, est connue grâce à un diagnostic approfondi réalisé par un bureau d'étude le 15 février 2007.	'les HAP', 'le naphtalène'	
+2007	03	07		2007	03	07		la_surveillance_de_l__évolution	C’est sur la base du diagnostic précité, que la surveillance de l'évolution de la contamination des eaux souterraines a été confirmée par arrêté préfectoral du 7 mars 2007.		
+2007				2007				les_sondages_de_sols_pratiqués	Les prélèvements d'eau de la nappe pratiqués sur deux piézomètres situés à moins de 100m, 400 m et un forage (1020) à 500 m appartenant à BIEBER mais inutilisé, à l'aval hydraulique de la fosse de la cuve ainsi que les teneurs relevées dans les sondages de sols pratiqués en 2007, ont fait estimer son étendue horizontale à une dizaine de mètres.		'BIEBER'

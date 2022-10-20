@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				1970				a_été_foré	Le puits a été foré en 1970 et bouché en 2002.		
+2013	11			2013	11			Le_diagnostic_environnemental	Le diagnostic environnemental en date de novembre 2013 a montré la présence dans les sols :		
+2002				2002				bouché	Le puits a été foré en 1970 et bouché en 2002.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	10		2005	05	10		a_été_mise_en_liquidation_judiciaire	La société a été mise en liquidation judiciaire le 10/05/2005.		
+2007	01	29		2007	01	29		13_sondages_ont_été_réalisés	13 sondages ont été réalisés (S1 à S13) le 29/01/2007.		
+2007	08	23		2007	08	23		a_été_transmis	Un mémoire de cessation d'activités a été transmis à la Préfecture le 23/08/2007.		'la Préfecture'

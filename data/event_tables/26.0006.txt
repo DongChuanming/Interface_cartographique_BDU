@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12			2003	12			une_étude_de_sol	La société ECODEV a effectué une étude de sol en décembre 2003 : présence de deux secteurs pollués par des métaux lourds (cadmium, nickel, chrome).	'métaux lourds', 'cadmium', 'nickel', 'chrome'	'La société ECODEV'
+2011	07	18		2011	07	18		établi	Le 18 août 2011, la société ALP'HABITAT Conseil a communiqué un rapport établi le 18 juillet 2011 par Bureau VERITAS s'intitulant « Rapport de synthèse de suivi des travaux de dépollution ».		"la société ALP' HABITAT Conseil", 'Bureau VERITAS'
+2007	03			2007	03			une_nouvelle_étude_de_sol	La société ECODEV a effectué une nouvelle étude de sol (diagnostic de sol et plan de gestion du site) en mars 2007 du fait du changement d'usage du site envisagé : zone résidentielle.		'La société ECODEV'
+1994				1994				a_fait_l__objet_d_	Le site a fait l'objet d'un récépissé de cessation d'activité en 1994.		
+2011	08	18		2011	08	18		a_communiqué	Le 18 août 2011, la société ALP'HABITAT Conseil a communiqué un rapport établi le 18 juillet 2011 par Bureau VERITAS s'intitulant « Rapport de synthèse de suivi des travaux de dépollution ».		"la société ALP' HABITAT Conseil", 'Bureau VERITAS'

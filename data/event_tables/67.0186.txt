@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2012	02	29		est_complété_par	Cet AP est complété par ceux du 12 décembre 2005, 29 février 2012, 16 mai 2012 et 28 février 2014.		
+2005	12	12		2005	12	12		est_complété_par	Cet AP est complété par ceux du 12 décembre 2005, 29 février 2012, 16 mai 2012 et 28 février 2014.		
+2012	02			2012	02			réalisés	Ces rapports remettent en évidence la pollution aux BTEX, HAP et HCT au droit de l’ancienne cuve de NAPHTA et sous le bâtiment Mastic et Vernis ainsi que des dépassements en mercure et hydrocarbures respectivement au droit des sondages S10 et S23 réalisés en février 2012.	'BTEX', 'HAP', 'HCT', 'mercure', 'hydrocarbures'	'cuve de NAPHTA', 'Mastic et Vernis'
+2014	10	01		2014	10	01		Les_analyses_des_eaux_souterraines_effectuées	Les analyses des eaux souterraines effectuées le 01/10/2014 ne montrent aucun dépassement des valeurs de quantification pour les paramètres recherchés au droit des deux piézomètres.		
+				2012	05	16		est_complété_par	Cet AP est complété par ceux du 12 décembre 2005, 29 février 2012, 16 mai 2012 et 28 février 2014.		

@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	24		2011	10	24		envoyé	Les éléments transmis par l'exploitant aux services de l'inspection, dans le dossier de cessation d'activité envoyé le 24 octobre 2011, montrent que :		
+2012	02	29		2012	02	29		a_été_transmis	À l'issue des travaux, réalisés le 7 février 2012 par la société ANTEA GROUP, un compte-rendu d'intervention justifiant de la suppression de la source de pollution a été transmis le 29 février 2012.		'la société ANTEA GROUP'
+2011	03	15		2011	03	15		Les_zones_investiguées	Les zones investiguées le 15 mars 2011 ont été les suivantes :		
+2011	11	25		2011	11	25		La_cessation_des_activités	La cessation des activités de la société ALBEA a été notifiée le 25 novembre 2011.		'la société ALBEA'
+1995				1995				occupe	La société ALBEA (anciennement CEBAL) occupe depuis 1995, un terrain situé 153 avenue des XVIèmes jeux olympiques d'hiver à Albertville.		'La société ALBEA', 'CEBAL'
+2011				2011				des_audits_réalisés	ENVIRON a été missionné par ALBEA pour réaliser des investigations de la qualité des sols au droit du site  sur la base des audits réalisés en 2006 et 2011 (mise à jour de l’audit).		'ENVIRON', 'ALBEA'
+1995				1995				____Création_de	1995 : Création de CEBAL Savoie SA filiale de la société CEBAL SA et Péchiney		'de CEBAL Savoie SA', 'de la société CEBAL SA', 'et Péchiney'
+2011	04	1		2011	04	1		L__analyse_a_été_lancée	L’analyse a été lancée le 1er avril 2011, les résultats ont été communiqués le 4 avril.		
+2006				2006				Interrogée	Interrogée en 2006, la DDASS  avait confirmé la présence de captages AEP (Alimentation en Eau Potable) à 1,5 km en aval du site, au niveau de La Rachy.		'la DDASS'
+2006				2006				Plusieurs_études_environnementales	Plusieurs études environnementales ont été réalisées depuis 2006 sur le site :		
+2006				2006				Un_audit_environnemental_initial	Un audit environnemental initial (Phase I) du site d’Albertville a été réalisée en 2006 (Alcan Packaging CEBAL).		'Alcan Packaging CEBAL'
+2006	03	27		2006	03	27		diagnostic_environnemental_Initial	- diagnostic environnemental Initial (Phase I Environmental Assessment of Alcan Packaging CEBAL), réalisé le 27 mars 2006 par la société ENVIRON,		'Alcan Packaging CEBAL', 'la société ENVIRON'
+2006				2006				__avait_confirmé	Interrogée en 2006, la DDASS  avait confirmé la présence de captages AEP (Alimentation en Eau Potable) à 1,5 km en aval du site, au niveau de La Rachy.		'la DDASS'
+2011				2011				Une_mise_à_jour	Une mise à jour de cette étude a été effectuée en 2011.		
+2012	02	07		2012	02	07		l__issue_des_travaux	À l'issue des travaux, réalisés le 7 février 2012 par la société ANTEA GROUP, un compte-rendu d'intervention justifiant de la suppression de la source de pollution a été transmis le 29 février 2012.		'la société ANTEA GROUP'
+2011	10			2011	10			une_demande	La société SAMSE (distribution de matériaux de construction) a déposé en octobre 2011 une demande de permis de construire pour l'aménagement de locaux commerciaux dans l'ancien bâtiment occupé par la société ALBEA/CEBAL, au 153 avenue des 16èmes jeux olympiques à Albertville.		'La société SAMSE', 'la société ALBEA', 'CEBAL'
+								L__analyse_a_été_lancée	L’analyse a été lancée le 1er avril 2011, les résultats ont été communiqués le 4 avril.		
+2011	12	19		2011	12	19		s__est_engagé_à_supprimer	Par courrier du 19 décembre 2011, l'exploitant s'est engagé à supprimer la source de pollution mise en évidence sur le site.		
+2011	03	30		2011	03	30		réalisé	- rapport d’investigations des sols, réalisé le 30 mars 2011 par la société ENVIRON.		'ENVIRON'
+2011	03	30		2011	03	30		mise_à_jour	- mise à jour du diagnostic environnemental Initial (phase I), réalisée le 30 mars 2011 par la société ENVIRON,		'la société ENVIRON'
+1995				1995				un_crédit___bail	Le site a été acquis par un crédit-bail conclu en 1995 d’une durée de 15 ans auprès de la Société d'Aménagement de la Savoie (SAS).		"la Société d' Aménagement de la Savoie ( SAS"
+2006				2006				des_audits_réalisés	ENVIRON a été missionné par ALBEA pour réaliser des investigations de la qualité des sols au droit du site  sur la base des audits réalisés en 2006 et 2011 (mise à jour de l’audit).		'ENVIRON', 'ALBEA'

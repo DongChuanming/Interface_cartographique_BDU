@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_totalement_supprimée	La canalisation communale a été totalement supprimée en 2005 suite aux modifications réalisées sur la station communale.		
+2001	07	26		2001	07	26		Les_documents_remis	Les documents remis à la DRIRE le 26 juillet 2001 ont permis d'établir que le sol est pollué par des métaux au voisinage de la canalisation communale, notamment par du cadmium à des concentrations dépassant les valeurs de constat d'impact.	'métaux', 'du cadmium'	'DRIRE'
+2000				2000				en_début_d_	La DDASS a signalé à la DRIRE en début d'année 2000 la présence de cadmium dans les boues de la station communale à une teneur supérieure à 20 mg /kg, les rendant impropres à l'épandage.	'cadmium'	'La DDASS', 'la DRIRE'
+1938				1938				implantée	L'entreprise, implantée depuis 1938, fabrique de la boulonnerie pour l'automobile et l'aviation.		
+2001	10	02		2001	10	02		Il_a_été_demandé	Il a été demandé à l'exploitant par arrêté préfectoral en date du 02/10/2001 de proposer des solutions en vue de stopper la migration des polluants à l'extérieur du site et de mettre en place un suivi sur la nappe phréatique.	'polluants'	
+2005				2005				a_été_supprimée	Depuis 1998, la chaîne mettant en oeuvre du cadmium n'a plus aucun rejet dans le milieu naturel. la station d'épuration communale est située à proximité immédiate de l'usine et la canalisation des eaux usées communales qui passait sous les ateliers a été supprimée en 2005.	'cadmium'	
+1998				1998				est_en_rejet_zéro	En outre, depuis 1998 l'atelier utilisant du cadmium est en rejet zéro.	'cadmium'	

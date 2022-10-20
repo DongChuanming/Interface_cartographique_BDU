@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	07			2013	07			Des_travaux_d__entretien_annuel	Des travaux d'entretien annuel du site et la mise en place d'une cuve reliée à un débourbeur-déshuileur, en juillet 2013, ont nécessité le curage du bassin de rétention et l'excavation de terres.		
+2013	08	29		2013	08	29		a_été_pris	Compte tenu de l'impact sur l'environnement, un arrêté de mesure d'urgence a été pris le 29 août 2013 par le préfet de l'Orne envers la mairie d'Argentan, pour imposer la mise en sécurité du site, sa décontamination et sa remise en état ; en réalisant notamment les travaux suivant :		'le préfet'
+2013				2013				a_été_découverte	Cette aire d'accueil est équipée d'un bassin de rétention des eaux pluviales ; une pollution aux PCB (polychlorobiphényl) a été découverte à proximité lors de travaux d'entretien en 2013.	'PCB', 'polychlorobiphényl'	
+2014	03			2014	03			a_été_rendue	L'IEM a été rendue en mars 2014 ; celle-ci a permis d'identifier les voies de transfert dans le cas d'un scénario d'aménagement de la zone en promenade et zone de jeux potentielle.		
+								ont_été_réalisés	Les deux premiers points ont été réalisés le 29 et 30 août 2013.		
+2013	09	23		2013	09	23		sont_parvenus	Les résultats des investigations complémentaires sont parvenus le 23 septembre 2013 confirmant la pollution aux PCB et hydrocarbures.	'PCB', 'hydrocarbures'	
+2013	08	30		2013	08	30		ont_été_réalisés	Les deux premiers points ont été réalisés le 29 et 30 août 2013.		
+2013	07			2013	07			le_curage	Des travaux d'entretien annuel du site et la mise en place d'une cuve reliée à un débourbeur-déshuileur, en juillet 2013, ont nécessité le curage du bassin de rétention et l'excavation de terres.		
+1999				1999				accueille	Le site accueille depuis 1999 les gens du voyage.		
+2013	12			2013	12			a_été_pris	Suite à ces résultats, un arrêté préfectoral complémentaire a été pris en décembre 2013 pour que soit réalisée une IEM (interprétation de l'état des milieux) par la mairie d'Argentan.		
+2013	07			2013	07			la_mise_en_place_d_	Des travaux d'entretien annuel du site et la mise en place d'une cuve reliée à un débourbeur-déshuileur, en juillet 2013, ont nécessité le curage du bassin de rétention et l'excavation de terres.		

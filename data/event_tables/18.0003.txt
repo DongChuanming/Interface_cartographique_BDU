@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				n__est_plus_exploité	Le site n'est plus exploité depuis 2000.		
+2004				2004				Des_investigations_complémentaires	Des investigations complémentaires ont donc été réalisées en 2004 et ont montré :		
+2001				2001				a_été_remise	La première étape du diagnostic, l'étude historique a été remise en 2001.		
+2012	03	11		2012	03	11		a_sollicité	Par lettre du 11 mars 2012, la SAS Sun’R a sollicité directement les services de la DREAL pour connaître l’état de pollution du site et les démarches à engager afin de pouvoir développer un projet de centrale photovoltaïque sur ce site ainsi que sur la parcelle gérée par la ville de Vierzon et sur celle gérée par la société Jean GESSET.		'la SAS Sun’ R', 'DREAL', 'la société Jean GESSET'
+2003	10			2003	10			Des_prélèvements_d__eau	Des prélèvements d'eau en octobre 2003 au niveau de ces piézomètres et d'un puits proche du site ont été analysés.		
+1994				1994				a_été_inscrit_à_l__inventaire	Ce site a été inscrit à l'inventaire de 1994 en raison de présomptions de pollution et de risques de contamination des eaux souterraines.		
+1942	07	18		1942	07	18		a_été_autorisée	Cette déposante de matières de vidange a été autorisée le 18 Juillet 1942.	'matières de vidange'	
+2013	05	14		2013	05	14		une_inspection_inopinée	L’inspection des installations classées a réalisé sur ce site une inspection inopinée le 14 mai 2013 en présence du représentant de la société GESSET Jean et Fils, M.		'la société GESSET Jean'

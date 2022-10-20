@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				sont_transférés	En 1958, les établissements Marion sont transférés sur le site suite à un projet de concentration des usines du groupe MARION.		'groupe MARION'
+1987				1987				devient_propriétaire	En 1987, la Société Thermique de Valence (STV) devient propriétaire du site.		'la Société Thermique', 'de Valence', 'STV'
+1963				1963				prend	En 1963, la Société Thermique Nouvelle d'Exploitation (STNE) prend le site en gérance.		"la Société Thermique Nouvelle d' Exploitation"
+2015				2015				a_cessé	L'activité présente sur le site a cessé fin 2015.		

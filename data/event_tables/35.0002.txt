@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05			2009	05			actualisée	Une analyse des risques résiduels a été réalisée en juillet 2008 puis actualisée en décembre 2008 et mai 2009.		
+2003	06			2003	06			a_demandé	Le Tribunal de Grande Instance de Rennes a demandé en juin 2003 une expertise.		'Le Tribunal de Grande Instance de Rennes'
+2009	05			2009	05			Une_analyse	Une analyse des risques résiduels concernant l'habitation des propriétaires a été réalisée en mai 2009 à la demande de l'expert judiciaire.		
+2008	12			2008	12			actualisée	Une analyse des risques résiduels a été réalisée en juillet 2008 puis actualisée en décembre 2008 et mai 2009.		
+2007	02			2007	02			a_notifié_sa_cessation_d__activité	L'exploitant a notifié sa cessation d'activité en février 2007.		
+1991	06			1991	06			a_été_découverte	Une pollution de la nappe phréatique par les hydrocarbures, due à une fuite de canalisation, a été découverte en juin 1991.	'hydrocarbures'	
+2004				2004				Un_diagnostic_approfondi	Un diagnostic approfondi du sous sol a été réalisé en 2004.		
+2000				2000				un_constat_de_dépollution	En 2000, un constat de dépollution a été effectué par une entreprise spécialisée.		
+2008	07			2008	07			a_été_réalisée	Une analyse des risques résiduels a été réalisée en juillet 2008 puis actualisée en décembre 2008 et mai 2009.		
+1991	06			1992	05			La_dépollution	La dépollution des terrains de juin 1991 à mai 1992 a permis de récupérer la quasi-totalité des hydrocarbures flottant à la surface de la nappe.	'hydrocarbures'	

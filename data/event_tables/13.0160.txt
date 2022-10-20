@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								accueillant_l__ancienne_gare_a_été_démoli	Le bâtiment accueillant l’ancienne gare a été démoli vers la fin des années 80.		
+2016				2016				est_constatée	La présence de déchets de démolition, pneus et plastiques est constatée sur site en 2016 par un bureau d'étude.	'plastiques'	
+1972				1972				s__implante	En 1972, la société Toulon Récupération s’implante sur le site pour une activité de récupération de métaux (réception, tri des déchets métalliques et expédition des matériaux triés) et casse automobile.		'la société Toulon Récupération'
+1996				1996				prononce	En 1996, le tribunal de commerce de Salon prononce le redressement judiciaire de la société MIDIFER.		'le tribunal de commerce de Salon', 'la société MIDIFER'
+1935				1935				est_occupé	Le site est occupé par une ancienne gare et ses installations au moins depuis 1935.		

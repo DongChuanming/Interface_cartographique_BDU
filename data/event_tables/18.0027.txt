@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	07		2003	07	07		Cette_étude_a_été_transmise	Cette étude a été transmise par l'exploitant le 7 juillet 2003.		
+2003				2006				Le_suivi	Le suivi de la qualité des eaux souterraines entre 2003 et 2006 montre l'absence de pollution de la nappe par les hydrocarbures et les métaux à l'exception du chrome.	'hydrocarbures', 'métaux', 'chrome'	
+2005				2005				ont_interdit	En 2005, des servitudes conventionnelles au profit de l'Etat ont interdit :		
+2001	03			2001	03			ont_été_mis_en_place	4 piézomètres ont été mis en place en mars 2001.		
+2000	06			2000	06			a_demandé	Dans le cadre de la cessation d’activité sur le site, en juin 2000, l’administration a demandé à l’exploitant de réaliser une étude pour caractériser l’état des lieux.		
+2009				2009				a_été_arrêtée	Au vu des résultats de ces campagnes, la surveillance de la qualité des eaux souterraines a été arrêtée en 2009.		
+1991				2000				a_été_exploité	Entre 1991 et 2000, le site a été exploité sans autorisation préfectorale pour le stockage en transit de déchets industriels spéciaux liquides (acides, hydrocarbures, huiles solubles usagées, boues de peintures...).	'déchets industriels spéciaux liquides', 'hydrocarbures', 'huiles'	

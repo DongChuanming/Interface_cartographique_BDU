@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991				1991				a_cessé_toute_activité	La Société a cessé toute activité depuis 1991.		'La Société'
+2001	06	1		2001	06	1		pris_par_voie_d__urgence	Un arrêté préfectoral pris par voie d'urgence le 1er juin 2001 impose aux propriétaires du terrain :		
+1991	12	31		1991	12	31		avoir_cessé_toute_activité	Par courrier du 17 janvier 1992, la Société DANEYROLLE déclare avoir cessé toute activité sur le site depuis le 31/12/1991.		'la Société DANEYROLLE'
+2002	09	05		2002	09	05		lors_de_sa_visite	Dans son rapport du 20 septembre 2002, l'inspection indique que lors de sa visite du 05/09/2002, elle a constaté que le site avait été nettoyé correctement, les fûts et produits toxiques évacués par une société spécialisée.	'produits toxiques'	
+2001	11	22		2001	11	22		a_mis_en_demeure	Suite au non respect des prescriptions de l'arrêté d'urgence du 1er juin 2001, constaté le 11 juillet, par arrêté du 22 novembre 2001, Monsieur le Préfet de la Loire a mis en demeure l'indivision Daneyrolle de respecter l'arrêté du 1er juin sous 15 jours et de justifier que l'élimination des ferrailles et des cartons a été faite par une société agréée.		'le Préfet', 'de la Loire', 'Daneyrolle'
+1987				1987				prescrit	En 1987, un arrêté préfectoral prescrit un pré-traitement des rejets aqueux.		
+1940	04	03		1940	04	03		a_été_réglementée	La Société DANEYROLLE Fils SA, dont l'activité principale était la teinture, a été réglementée par arrêté préfectoral du 3 avril 1940.	'teinture'	'La Société DANEYROLLE Fils SA'
+1990				1990				est_pris	En 1990, suite à une visite de l'inspecteur des Installations Classées pour la Protection de l'Environnement, aucuns travaux n'ayant été effectué, un arrêté préfectoral de mise en demeure de respecter l'arrêté préfectoral du 22/10/1987 est pris le 31/12/1990.		
+1985				1985				à_une_restructuration	Suite à une restructuration en 1985, la capacité de la teinture est passée à 1 tonne /jour.		
+1990	12	31		1990	12	31		est_pris	En 1990, suite à une visite de l'inspecteur des Installations Classées pour la Protection de l'Environnement, aucuns travaux n'ayant été effectué, un arrêté préfectoral de mise en demeure de respecter l'arrêté préfectoral du 22/10/1987 est pris le 31/12/1990.		
+2001	05	17		2001	05	17		d__une_visite	Lors d'une visite le 17 mai 2001, l'inspecteur des installations classées  constate la présence de 30 à 50 fûts de produits non identifiés et de nombreux échantillons de colorants.	'de produits non identifiés', 'de colorants'	
+2002	04			2002	04			Cette_étude_a_été_transmise_en	Cette étude a été transmise en avril 2002.		

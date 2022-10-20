@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01			2004	01			En	En janvier 2004, la société AREVA T&D demande le transfert à son profit de l'autorisation d'exploiter l'unité de fabrication de matériel électrique au droit du site étudié.		"autorisation d'"
+								T_D_a_été_cédée_à_la_société	En date du 7 mars 2011, la société AREVA T&D a été cédée à la société SCHNEIDER ELECTRIC.		'2011 , la société AREVA'

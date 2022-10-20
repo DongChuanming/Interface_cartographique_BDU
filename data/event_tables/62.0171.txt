@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				_Activité___centre_de_stockage	-Activité: centre de stockage de 1982 à 1991 par les établissements SAISON sur la zone dite "ancienne zone", puis de 1991 jusqu'à la cessation d'activité par SITA FD.		
+1991				1991				_Activité___centre_de_stockage	-Activité: centre de stockage de 1982 à 1991 par les établissements SAISON sur la zone dite "ancienne zone", puis de 1991 jusqu'à la cessation d'activité par SITA FD.		
+2009	08	03		2009	08	03		_Arrêté_préfectoral	-Arrêté préfectoral du 03/08/2009 imposant la mise en place du réseau de surveillance de la qualité de la nappe et supervisant la gestion des lixiviats, eaux de pluies et biogazs. (suivi post exploitation)		
+								milieu_récepteur___réalisé	-Étude de milieu récepteur, réalisé en décembre 2005.		

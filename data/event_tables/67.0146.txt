@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ces_travaux	Dans le cadre de ces travaux en novembre et décembre 2007, un suivi environnemental a été effectué, lors duquel les présentant des indices de pollution aux hydrocarbures ont été excavées.	'hydrocarbures'	
+								un_suivi_environnemental	Dans le cadre de ces travaux en novembre et décembre 2007, un suivi environnemental a été effectué, lors duquel les présentant des indices de pollution aux hydrocarbures ont été excavées.	'hydrocarbures'	
+1996				1996				Un_diagnostic	Un diagnostic des sols de 1996 a mis en évidence   un impact des hydrocarbures dans les sols.	'des hydrocarbures'	
+1995	07			1995	07			stocker_et_distribuer_des_liquides_inflammables	La société Total, installation soumise à déclaration, avait été autorisée à stocker des hydrocarbures dès le 29 novembre 1960, puis à stocker et distribuer des liquides inflammables fin juillet 1995 sur ce site à proximité du centre-ville de Sélestat..	'hydrocarbures', 'des liquides inflammables'	'La société Total'
+2007				2007				de_la_fermeture_du_site	Un rapport d'étude historique du 16 juin 2008 rappelle que lors de la fermeture du site en 2007, l'ensemble des travaux de démantèlement des installations pétrolières a été réalisé.		
+2007	12			2007	12			un_suivi_environnemental	Dans le cadre de ces travaux en novembre et décembre 2007, un suivi environnemental a été effectué, lors duquel les présentant des indices de pollution aux hydrocarbures ont été excavées.	'hydrocarbures'	
+2007	12			2007	12			ces_travaux	Dans le cadre de ces travaux en novembre et décembre 2007, un suivi environnemental a été effectué, lors duquel les présentant des indices de pollution aux hydrocarbures ont été excavées.	'hydrocarbures'	
+2007	09			2007	09			La_cessation_d__activité	La cessation d'activité a été déclarée en septembre 2007.		
+2007				2007				l__ensemble_des_travaux_de_démantèlement	Un rapport d'étude historique du 16 juin 2008 rappelle que lors de la fermeture du site en 2007, l'ensemble des travaux de démantèlement des installations pétrolières a été réalisé.		

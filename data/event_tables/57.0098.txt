@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1914				1914				est_implantée_sur	En 1914 la première machine à fabriquer des boulons est implantée sur le site, progressivement la production de fonte et de fer vont cesser.		
+2003	08			2003	08			une_étude	En août 2003, la société Ars Industrie a remis à l'inspection une étude comprenant : une recherche historique des activités qui se sont succédées sur le site, un diagnostic des sols, des eaux souterraines et de surfaces de La Mance et de La Moselle, ainsi qu'une Evaluation Simplifiée des Risques (ESR).		'la société Ars Industrie'
+1850				1850				a_débuté	L'activité industrielle a débuté en 1850 sur ce site, avec la construction d'une usine sidérurgique appelée "usine Saint-Paul" qui comprenait 4 hauts-fourneaux et des fours à puddler qui permettaient de transformer la fonte en fer.		'Saint-Paul', 'puddler'
+1920				1920				se_spécialisera	L'usine se spécialisera dans la boulonnerie avec la création des "forges et boulonneries d'Ars-sur-Moselle" en 1920.		
+1995				1995				est_repris	En 1995 une partie du site est repris par GFI Industries.		'GFI Industries'
+1995				1995				est	L'ancienne usine Forges et Boulonnerie d'Ars-sur-Moselle est depuis 1995 divisée en		'Forges'

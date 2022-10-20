@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	15		2004	09	15		dégazée_et_extraite	La cuve a été nettoyée, dégazée et extraite le 15 septembre 2004.		
+2004	10			2004	10			des_investigations_complémentaires	L’étude ayant révélé la présence d’une ancienne cuve, des investigations complémentaires ont été réalisées  en octobre 2004.		
+2004	02			2004	02			Un_diagnostic_des_sols	Un diagnostic des sols a été réalisé par la société SITA en février 2004 .		'la société SITA'
+1988	08	19		1988	08	19		de_déclaration	La station service ESSO est implantée sur le site depuis 1978 et exerce une activité de distribution d'hydrocarbures soumise au récépissé de déclaration du 19/08/1988.	'hydrocarbures'	'La station service ESSO'
+2004	09	15		2004	09	15		a_été_nettoyée	La cuve a été nettoyée, dégazée et extraite le 15 septembre 2004.		
+1978				1978				est_implantée	La station service ESSO est implantée sur le site depuis 1978 et exerce une activité de distribution d'hydrocarbures soumise au récépissé de déclaration du 19/08/1988.	'hydrocarbures'	'La station service ESSO'
+1985	05	31		1985	05	31		a_informé	Par courrier daté du 20 février 1987, la société ESSO a informé la préfecture de l’Isère de l’arrêt de ses activités de distribution de carburants sises 9, avenue Marcel Cachin à Saint Martin d’Hères depuis le 31 mai 1985.	'carburants'	'la société ESSO'
+2006	06	20		2006	06	20		a_été_transmise	Une lettre du Préfet actant la cessation a été transmise en date du 20 juin 2006		'du Préfet'
+1988	08	19		1988	08	19		est_implantée	La station service ESSO est implantée sur le site depuis 1978 et exerce une activité de distribution d'hydrocarbures soumise au récépissé de déclaration du 19/08/1988.	'hydrocarbures'	'La station service ESSO'
+2004	02			2004	02			le_rapport_environnemental_d__investigations	- le rapport environnemental d’investigations réalisé par la société SITA en février 2004 ;		'la société SITA'

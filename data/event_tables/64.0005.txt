@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2013	03			2013	03			un_dossier_de_demande_de_prise_en_charge	En mars 2013, le groupe SNECMA a déposé auprès de l'ANDRA un dossier de demande de prise en charge de ces déchets, qui fait l'objet depuis, de nombreux échanges entre le groupe SNECMA, Fonderie Messier  et l'ANDRA.		'le groupe SNECMA', 'le groupe SNECMA , Fonderie Messier', "et l' ANDRA"
+								Les_études_remises	Les études remises en mars, décembre et janvier 2000 ont class2 le site en "2" "à surveiller pour les milieux "eaux souterraines AEP et non AEP et pour les paramètres Phénols et solvants chlorés.	'Phénols', 'chlorés'	
+2001	06			2001	06			a_été_remise	L'étude de faisabilité technico-économique de réhabilitation de la décharge de sables de fonderie a été remise en juin 2001.		
+								des_ruissellements	En termes de risques environnementaux, le site se situe dans un environnement montagneux, dans le fond d'une reculée pyrénéenne, et donc soumis à des ruissellements importants entre 24 et 48 heures après de très fortes pluies sur le massif.		
+1998				1998				ne_reçoit	Depuis 1998, ce crassier ne reçoit que les sables inertes.		
+				1992				exploite	A partir de 1939 et jusqu'en 1992, l'usine exploite un crassier au sud des bâtiments de production dans lequel sont déposés les sables de fonderie (300 tonnes par mois) et les effluents liquides issus du traitement de surface et du ressuage.	'les effluents'	
+1936				1936				exploite	La fonderie HONSEL Messier Fonderie SA exploite depuis 1936 une fonderie d'aluminium et de magnésium.	'magnésium'	'La fonderie HONSEL Messier Fonderie SA'
+2004				2004				Les_travaux_ont_été_achevés	Les travaux ont été achevés fin 2004.		
+				2000				a_réalisé	La Fonderie MESSIER a réalisé jusqu'en 2000 des alliages magnésium-thorium pour les besoins de l’aéronautique.	'magnésium', 'thorium'	'La Fonderie MESSIER'
+1998	11	24		1998	11	24		le_diagnostic_initial	Par arrêté préfectoral du 24 novembre 1998, le préfet a prescrit le diagnostic initial et l'évaluation simplfiée des risque du crassier et de l'ensemble du site.		'le préfet'
+2000	01			2000	01			Les_études_remises	Les études remises en mars, décembre et janvier 2000 ont class2 le site en "2" "à surveiller pour les milieux "eaux souterraines AEP et non AEP et pour les paramètres Phénols et solvants chlorés.	'Phénols', 'chlorés'	
+2013				2013				fait_réaliser_un_contrôle	En 2013, le groupe SNECMA fait réaliser un contrôle de l'installation de stockage pour qualifier précisément la radioactivité résiduelle.		'le groupe SNECMA'
+2014	01			2014	01			forte_pluviométrie	A noter que le cabanon n'a pas été impacté par la très forte pluviométrie de fin janvier 2014.		
+2011				2011				a_failli_être_inondé	En 2011, le cabanon a failli être inondé.		
+1998	12	28		1998	12	28		a_fait_l__objet_de	L'ensemble des installations a fait l'objet de l'autorisation préfectorale du 28 décembre 1998.		
+				1992				infiltrés	Ces effluents sont infiltrés sur le crassier à raison de 30 à 40 m3 par jour jusqu'en 1992 date à laquelle le Préfet interdit cette pratique ainsi que le fonctionnement général de l'usine jusqu'à la mise en conformité des installation.		'le Préfet'

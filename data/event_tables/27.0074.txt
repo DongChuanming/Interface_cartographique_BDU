@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				acquiert	En 2000, l'établissement de Gravigny acquiert un terrain d'une surface de 5 000 m² situé en limite de propriété, afin d'étendre la surface de stockage.		
+2010	07	19		2010	07	19		la_cessation_définitive_de_toute_activité	A la suite de la notification de cessation d'activité, le 19 juillet 2010 (la cessation définitive de toute activité sur le site est effective le 31 décembre 2010), un mémoire de cessation d'activité est rédigé.		
+2010	12	31		2010	12	31		la_cessation_définitive_de_toute_activité	A la suite de la notification de cessation d'activité, le 19 juillet 2010 (la cessation définitive de toute activité sur le site est effective le 31 décembre 2010), un mémoire de cessation d'activité est rédigé.		
+2001				2001				devient_propriétaire	En 2001, la société CRAY VALLEY devient propriétaire et exploitante du site.		'la société CRAY VALLEY'
+2010	11	30		2010	11	30		Une_visite_d__inspection	Une visite d'inspection est réalisée le 30 novembre 2010 et amène de nouvelles investigations.		
+1997				1997				est_racheté	A la suite du dépôt de bilan de cette société, le site est racheté en 1997 par la maison mère de CRAY VALLEY, à savoir le groupe TOTAL.		'CRAY VALLEY', 'le groupe TOTAL'
+2006	09			2006	09			la_déclaration	Toutefois, la déclaration de changement d'exploitant n'est faite qu'en septembre 2006 (récépissé de déclaration du 19 septembre 2006).		
+2006	09	19		2006	09	19		de_déclaration	Toutefois, la déclaration de changement d'exploitant n'est faite qu'en septembre 2006 (récépissé de déclaration du 19 septembre 2006).		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	06			2000	06			Des_investigations_complémentaires	Des investigations complémentaires du sous-sol en juin 2000 avaient mis en évidence :		
+2010	04			2010	04			détectés	En avril 2010, lors d’un diagnostic de qualité environnementale des sols, des hydrocarbures (256 mg/kg MS) et du 1,1,1-trichloroéthane (3,2 mg/kg MS) sont détectés au droit du sondage S6, situé au nord de l’ancienne cuve de solvant.	'hydrocarbures', '1,1,1-trichloroéthane', 'cuve de solvant'	
+2004				2008				Le_suivi_périodique	Le suivi périodique de la qualité des eaux souterraines de 2004 à 2008 a mis en évidence :		
+2010	12	09		2010	12	09		la_cessation_définitive_d__activités	Par courrier du 9 décembre 2010, la société NOVEMBAL a déclaré à l’inspection des installations classées la cessation définitive d’activités de l’ensemble du site.		'la société NOVEMBAL'

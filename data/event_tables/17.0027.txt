@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	02	03		2009	02	03		a_eu_lieu	Une visite commune a eu lieu 3 février 2009.		
+2007	10			2007	10			d__une_détection	- d'une détection en octobre 2007 d'une contamination (Arsenic et Plomb) des sols en dehors du périmètre de la friche.	'Arsenic', 'Plomb'	
+2016	12			2016	12			a_été_reçu	Un rapport d'étape a été reçu par l'inspection en septembre 2016, et un nouveau en décembre 2016.		
+2011	06			2011	06			Cette_étude_a_été_rendu	Cette étude a été rendu en Juin 2011.		
+2012	01	20		2012	01	20		a_été_délivré_par	Le rapport de fin de travaux a été délivré par l'ADEME le 20 janvier 2012.		
+2012	01	31		2012	01	31		est_passé	Le 31 janvier 2012, le dossier est passé au CODERST.		'CODERST'
+2012	04	27		2012	04	27		a_été_pris	Un arrêté préfectoral visant l'occupation des sols a été pris le 27 avril 2012.		
+2009	11	19		2009	11	19		a_été_présenté	Le rapport au préfet proposant cette intervention a été présenté au CODERST le 19 novembre 2009 et un avis favorable a été émis.		'CODERST'
+2009	09	17		2009	09	17		a_donné_son_accord	Le MEEDDM a donné son accord le 17 septembre 2009.		'Le MEEDDM'
+2015	07	30		2015	07	30		Une_inspection	Une inspection a eu lieu le 30 juillet 2015.		
+2016	09			2016	09			a_été_reçu	Un rapport d'étape a été reçu par l'inspection en septembre 2016, et un nouveau en décembre 2016.		
+1850				1920				a_été_occupé	Le site de 15ha a été occupé par la société SAINT GOBAIN de 1850 à 1920 pour y fabriquer de la soude et des engrais chimiques.	'soude'	'la société SAINT GOBAIN'
+2013	04			2013	04			ont_été_confirmées	Les mesures de dépassement des normes ont été confirmées par une nouvelle étude en avril 2013.		
+1971				1971				est_occupé	Ce site est occupé aujourd'hui par la société OLERON STP (2,8 ha) depuis 1971 et par quelques ateliers artisanaux.		'la société OLERON STP'
+2013				2013				sont_restitués	Depuis le début de la surveillance quadriennale en 2013, les résultats sont restitués tous les ans aux riverains, par le Préfet de la Charente-Maritime.		'le Préfet', 'de la Charente - Maritime'
+2012	10	25		2012	10	25		La_réalisation	La réalisation de l'ensemble des travaux a été constatée lors d'une inspection commune à l'ADEME le 25 octobre 2012.		

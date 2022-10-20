@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12			2006	12			est_réalisé	Le mémoire de cessation d'activités est réalisé par le cabinet ANTEA en décembre 2006.		'le cabinet ANTEA'
+2007	08	03		2007	08	03		Le_Procès_verbal_de_récolement	Le Procès verbal de récolement est délivré le 3 août 2007 suite à la visite du jour précédent.		
+2006	07			2006	07			cesse_son_activité	En juillet 2006, la société cesse son activité sans notifier d'arrêt définitif.		
+2007	07			2007	07			reprend	La communauté de communes du Donjon Val Libre reprend le site en juillet 2007 afin d'aménager une déchetterie et une Zone d'activités.		'La communauté de communes'
+2002	01	09		2002	01	09		est_délivré	Le 9 janvier 2002, un récépissé de déclaration de changement d'exploitant est délivré pour la société SARIA Industries sud-est qui continue à exploiter le site comme centre de collectes de cadavres.	'cadavres'	'la société SARIA Industries sud-est'
+1909				1999				est_exploité	De 1909 à 1999, le site est exploité par la famille BLANCHAMP, sous couvert d'un arrêté préfectoral d'autorisation pour l'activité d'équarrissage.		'la famille BLANCHAMP'
+2006	12			2006	12			Le_rapport_de_cessation_d_	Le rapport de cessation d'activité effectué par ANTEA en décembre 2006 fait état d'une concentration en HCT supérieure à la VDSS mais inférieure à la VCI sensible au droit de l'ancienne cuve à fuel domestique et au droit de l'ancien stockage de fuel lourd.	'HCT', 'fuel domestique', 'fuel lourd'	'ANTEA'

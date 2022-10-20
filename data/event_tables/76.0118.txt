@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	08	24		2007	08	24		La_liquidation_judiciaire	La liquidation judiciaire de la société a été prononcée par le tribunal de commerce de Rouen, le 24 août 2007.		
+2007	06			2007	06			Une_première_étude_de_sols	Une première étude de sols a d'abord été réalisée en mars et juin 2007, cette étude était finalisé par un plan de gestion du site.		
+2007	05			2007	05			la_cessation_de_ses_activités	Suite à la fin d'activité de l'entreprise en mai 2007, Orgachim a régulièrement déclaré la cessation de ses activités (récépissé du 18 juillet 2007).		
+2019				2019				une_étude_a_été_réalisée	En 2019, une étude a été réalisée par Envisol à la demande de l'EPFN afin de vérifier l'évolution des pollutions dans le temps, et d'étudier les usages envisageables sur le site.		'Envisol', "l' EPFN"
+2010				2010				La_mise_en_sécurité	La mise en sécurité du site (notamment l'évacuation des déchets) sera achevée fin 2010, sans qu'aucun travaux de réhabilitation n'ait été mené.		
+1961				1961				a_été_occupé	A partir de 1961, le terrain a été occupé par les sociétés La Quinoléine, Prochimex et Laboratoires Duphar puis ORGACHIM qui réaménagèrent le bâti pour la production de produits phytosanitaires.	'produits phytosanitaires'	'les sociétés La Quinoléine', 'Laboratoires Duphar', 'ORGACHIM'
+2007	07			2007	07			la_cessation_de_ses_activités	Suite à la fin d'activité de l'entreprise en mai 2007, Orgachim a régulièrement déclaré la cessation de ses activités (récépissé du 18 juillet 2007).		
+2011				2011				Un_plan_de_gestion	Un plan de gestion de ces zones a été établi en 2011 et propose des mesures de gestion des 4 zones précitées.		
+2018				2018				Cette_intervention	Cette intervention concernant la mise en sécurité s'est terminée en 2018.		
+2007	05			2007	05			la_fin_d__activité	Suite à la fin d'activité de l'entreprise en mai 2007, Orgachim a régulièrement déclaré la cessation de ses activités (récépissé du 18 juillet 2007).		
+								Une_première_étude_de_sols	Une première étude de sols a d'abord été réalisée en mars et juin 2007, cette étude était finalisé par un plan de gestion du site.		
+2019	09	17		2019	09	17		La_liquidation_a_été_clôturée	La liquidation a été clôturée le 17 septembre 2019 pour insuffisance d'actifs.		
+1900				1959				a_été_occupé	Le terrain principal triangulaire a été occupé de 1900 à 1959 par une filature de coton.		
+								la_cessation_de_ses_activités	Suite à la fin d'activité de l'entreprise en mai 2007, Orgachim a régulièrement déclaré la cessation de ses activités (récépissé du 18 juillet 2007).		
+2010	10	15		2010	10	15		l__état_des_milieux	L'analyse des différentes études et notamment du diagnostic complet de l'état des milieux du site et de ses environs réalisé le 15/10/2010 par CPS Environnement montre une pollution importante du site, notamment en pesticides et en composés organiques.	'pesticides', 'composés organiques'	
+2007	05			2007	05			l__arrêt	La société ORGACHIM SAS a exercé une activité de synthèse de chimie, de formulation agronomique et de formulation de colorants jusqu'à l'arrêt de l'activité industrielle en mai 2007.	'colorants'	'La société ORGACHIM SAS'

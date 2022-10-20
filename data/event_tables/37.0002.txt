@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_été_mis_à_jour	Un ancien dépôt de déchets industriels a été mis à jour en 1992 lors de travaux de terrassement dans l'enceinte de l'usine SCAC Fisons, ayant conduit à une pollution des sols et de la nappe alluviale.	'dépôt de déchets industriels'	'SCAC Fisons'
+								informer	- informer le représentant de l'Etat au moins 6 mois à l'avance de toute intention de changement d'affectation des sols.		
+								Un_diagnostic_des_sols	Un diagnostic des sols et une étude des eaux au droit du site ont été réalisés en septembre et novembre 2004 par le bureau d'études mandaté par la société Carrefour.		'la société Carrefour'
+2001				2001				a_cessé_son_activité	SCAC Fisons a cessé son activité en 2001 et le site a été acquis par l'Immobilière Carrefour auprès de la SCI La Galboisière, propriétaire du terrain.		'la SCI La Galboisière'
+				2001	12			Les_analyses_effectuées	Les analyses effectuées jusqu'en décembre 2001 ont montré que les concentrations en polluants nécessitaient de poursuivre la surveillance des organochlorés.	'polluants', 'organochlorés'	
+2004	12	10		2004	12	10		un_permis	La société IMMOBILIERE CARREFOUR SAS a ensuite déposé un permis de construire le 10/12/2004 visant à démolir l'ensemble des bâtiments appartenant à la SCI LA GALBOISIERE.		'La société IMMOBILIERE CARREFOUR SAS', 'la SCI LA GALBOISIERE'
+2003	12	19		2003	12	19		a_été_établie	A la disparition de l'exploitant et afin de poursuivre la surveillance, une convention de servitudes au profit de l'Etat* a été établie le 19 décembre 2003 entre la SCI LA GALBOISIERE et l'Etat.		'la SCI LA GALBOISIERE'
+2005	02	22		2005	02	22		permis_de_démolir	Ce permis de démolir a été obtenu le 22/02/2005.		
+2004	01	16		2004	01	16		a_été_déposé	* l'acte a été déposé à la conservation des hypothèques le 16 janvier 2004.		
+1994	1993			1994	1993			a_été_traité	Le site a été traité en 1993/1994 : excavation des terres, séparation et élimination des déchets rencontrés (emballages, flacons ... ayant contenu des produits phytosanitaires sur les surfaces non contruites) puis remblaiement avec les terres traitées.		
+2004	11			2004	11			Un_diagnostic_des_sols	Un diagnostic des sols et une étude des eaux au droit du site ont été réalisés en septembre et novembre 2004 par le bureau d'études mandaté par la société Carrefour.		'la société Carrefour'

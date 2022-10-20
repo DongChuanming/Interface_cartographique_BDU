@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	08	28		2015	08	28		dresse	L'inspection dresse le procès-verbal de récolement des travaux le 28/08/2015.		
+2012				2012				Le_diagnostic_réalisé	Le diagnostic réalisé par le bureau d'études TEREO de 2008 est remis à l'inspection en début d'année 2012.		'TEREO'
+1999	06			1999	06			Les_études_remises	Les études remises en juin 1999 et avril 2000 classent le site en 2 "à surveiller" pour l'usage du moment.		
+2011	05	30		2011	05	30		a_été_reprise	Une partie du site a été reprise par la société LF TECH en 2005, elle-même en liquidation judiciaire par jugement du Tribunal de Commerce en date du 30 mai 2011.		'la société LF TECH'
+2011	05	30		2011	05	30		en_liquidation_judiciaire_par_jugement	Une partie du site a été reprise par la société LF TECH en 2005, elle-même en liquidation judiciaire par jugement du Tribunal de Commerce en date du 30 mai 2011.		'la société LF TECH'
+2005	01	10		2005	01	10		La_liquidation_judiciaire	La liquidation judiciaire a été prononcée par jugement du Tribunal de Commerce de Bayonne du 10 janvier 2005.		'Tribunal de Commerce de Bayonne'
+2012				2012				a_acheté	La Communauté d'Agglomération de Bayonne-Anglet-Biarritz a acheté les terrains en 2012.		"La Communauté d' Agglomération"
+2000				2000				l__étude_des_risques_réalisée	Cet arrêté n'étant pas respecté, le 13 juillet 2005, la DRIRE propose au Préfet la consignation d'un montant de 132 400 € qui intègre le coût de 25 000 € d'actualisation de l'étude des risques réalisée en 2000.		'la DRIRE'
+2000	04			2000	04			Les_études_remises	Les études remises en juin 1999 et avril 2000 classent le site en 2 "à surveiller" pour l'usage du moment.		
+2005				2005				a_été_reprise	Une partie du site a été reprise par la société LF TECH en 2005, l'autre partie anciennement occupé par SAFAM est en friche.		'la société LF TECH', 'SAFAM'
+2013	01	09		2013	01	09		La_Visite_d__inspection	La Visite d'inspection du 09 janvier 2013 permet de constater que tous les bâtiments ont été déconstruits et que les terrains sont à nu.		
+2012	11	26		2012	11	26		La_procédure_collective	La procédure collective est clôturée pour insuffisance d'actif depuis le 26/11/2012.		
+1997	12	03		1997	12	03		étaient_autorisées_par	Les installations étaient autorisées par l'arrêté du 03/12/1997.		
+2005				2005				a_été_reprise	Une partie du site a été reprise par la société LF TECH en 2005, elle-même en liquidation judiciaire par jugement du Tribunal de Commerce en date du 30 mai 2011.		'la société LF TECH'
+2012				2012				ont_été_vendus	Les terrains ont été vendus à l'Agglomération Côte Basque Adour (ACBA) en 2012.		'ACBA'

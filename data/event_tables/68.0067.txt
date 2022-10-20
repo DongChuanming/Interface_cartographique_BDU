@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				a_été_intégré	Le site de Thann a été intégré au protocole en 1998 : il est en classe 3.		
+1986				1986				est_occupé	Depuis 1986, le terrain est occupé par le centre de formation EDF-GDF (bâtiments administratifs, locaux d’activité,...).		'le centre de formation EDF - GDF'
+1996	04	25		1996	04	25		signé	L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.		'Gaz de France', 'le Ministère de l’ Environnement', 'Gaz de France'
+1998				1998				accueille_également	Depuis 1998, il accueille également une association caritative.		
+1845				1986				a_accueilli	Le terrain situé à l’Est du centre ville de Thann, a accueilli de 1845 à 1986 une usine fabriquant du gaz à partir de la distillation de la houille puis par le cracking de propane.	'propane'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				a_cessé	Il a cessé ses activités de production début 2000.		
+1972				1972				est_exploité	Le site est exploité depuis 1972, date d'implantation de la société CALOR sur des terres à usage agricole.		'la société CALOR'
+2003	06	23		2003	06	23		la_dernière_s__est_tenue	La première a été menée le 23/10/2000 et la dernière s'est tenue le 23/06/2003.		
+2000	10	23		2000	10	23		a_été_menée	La première a été menée le 23/10/2000 et la dernière s'est tenue le 23/06/2003.		
+2005	03	02		2005	03	02		ont_été_signées	Des servitudes conventionnelles au profit de l’État ont été signées le 02/03/2005 imposant :		

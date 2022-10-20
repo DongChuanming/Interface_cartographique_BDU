@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	12			2001	12			un_audit_environnemental	En décembre 2001, ERM a réalisé un audit environnemental de phase I sur le Site.		'ERM'
+2004	06			2004	06			Un_étude_hydrogéologique	Un étude hydrogéologique et la mise en place de piézomètre sur le site GM Métal a été effectué en Juin 2004.		'GM Métal'
+2012	02			2012	02			et_caractérisé	L'analyse des risques sanitaires conclu que " Sur la base des informations disponibles au moment de la réalisation de la présente étude et des hypothèses retenue, l'état des sols  au terme de la cessation d'activité du site GM Metal et caractérisé en février 2012, est compatible avec les usages futurs envisagés (usage de type industriel) au regard des risques sanitaires par inhalation de poussières." La cessation d'activité a pu être finalisé.		'site GM Metal'
+2010				2010				a_cessé	Elle a cessé son activité en 2010.		
+2006				2006				réaliser_une_dernière_campagne	GM METAL veux réaliser une dernière campagne de suivi de la qualité des eaux souterraines après la fin de l'activité sur le site et avant la cessation de la propriété à un acquéreur afin de valider l'absence de contamination observées depuis 2006.		'GM METAL'
+1988				1988				le_rachat_du_terrain	La société GM METAL a été créé en 1989 après le rachat du terrain en 1988 à Aldevienne.		'La société GM METAL'
+2012	06			2012	06			a_été_fourni	Ce plan de gestion a été fourni en Juin 2012 par le bureau d'études Antéa : "Détermination du fond géochimiques, analyse des eaux souterraines : Proposition de mesures de gestion du site".		'Antéa'
+2002				2002				achète	En 2002 le groupe UMICORE achète GM METAL.		'UMICORE achète GM METAL'
+2002	02			2002	02			Un_Audit_Environnemental_approfondi	Un Audit Environnemental approfondi a été réalisée lors du rachat de GM METAL par Umicore en février 2002.		'GM METAL', 'Umicore'
+2007				2007				associent	Puis en 2007 le groupe ZENIFEX et UMICORE associent leurs productions de zinc et de plomb pour donner naissance à NYRSTAR.	'zinc', 'plomb'	'le groupe ZENIFEX', 'UMICORE', 'NYRSTAR'
+2009	07			2009	07			réalisé	D'après le mémoire de Cessation d'activité réalisé en juillet 2009 le risque lié aux pollutions relevées lors des différentes campagnes d'investigations et du suivi piézométrique de la nappe est évalué comme modéré pour un usage futur du terrain industriel.		
+1989				1989				a_été_créé	La société GM METAL a été créé en 1989 après le rachat du terrain en 1988 à Aldevienne.		'La société GM METAL'

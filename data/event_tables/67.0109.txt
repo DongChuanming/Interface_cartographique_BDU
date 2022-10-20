@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				ont_été_détruits	Les anciens bâtiments d'exploitation ont été détruits en 2011.		
+1999				1999				Une_étude_menée	Une étude menée par ANTEA en 1999 a montré que le terril comprte des zones polluées aux hydrocarbures dont l'ampleur est difficilement estimable.	'hydrocarbures'	'ANTEA'
+1985				1985				Une_étude_de_stabilité	Une étude de stabilité a été menée par le BRGM dès 1985.		'le BRGM'
+2012				2012				a_été_dépollué	Un ancien bassin de traitement d'hydrocarbures a été dépollué et détruit en 2012.	'hydrocarbures'	
+2011				2011				ont_été_rachetées	Les parcelles comprenant le puits VI, les anciens bâtiments d'exploitations, et le terril ont été rachetées par le BRGM sur demande de la DREAL en 2011.		'le BRGM', 'la DREAL'

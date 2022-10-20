@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ont_été_réalisés	Des sondages complémentaires à l'étude de sols de 1997 ont été réalisés en 2003 dans la zone des cuves de fuel et de gasoil.	'de fuel'	
+2003				2003				deux_fois	L'inspection a en outre visité le site deux fois en 2003 et suite à la dernière visite, un document complet conforme aux dispositions de l'article 34-1 du décret n° 77-1133 du 21 septembre 1977 modifié relatif aux installations classées pour la protection de l'environnement a été remis à l'inspection.		
+1997				1997				ont_cessé_définitivement	La fabrication de ciment et l'incinération de déchets industriels spéciaux ont cessé définitivement en 1997.	'déchets industriels spéciaux'	
+1997	10	08		1997	10	08		L__étude_de_sols_remise	L'étude de sols remise le 8 octobre 1997 à la DRIRE Midi-Pyrénées a conclut que le site dans son état d'utilisation (usage industriel) est de classe 3 (banalisable) et ne nécessitait ni travail de réhabilitation autre que le démantèlement d'installations désaffectées, ni de restriction d'usage particulière.		'la DRIRE Midi'
+1997				1997				l__étude_de_sols	Des sondages complémentaires à l'étude de sols de 1997 ont été réalisés en 2003 dans la zone des cuves de fuel et de gasoil.	'de fuel'	

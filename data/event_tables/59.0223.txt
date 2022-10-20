@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	08			2005	08			transmise	- Etude détaillée des risques (EDR)réalisée par ANTEA transmise en août 2005.		'ANTEA'
+2010	11	15		2010	11	15		lors_de_l__inspection	Selon les informations communiquées par le dernier exploitant lors de l'inspection du 15/11/2010, les propriétaires du site sont désormais le Port de Lille et la société Batilease.		'le Port de Lille', 'la société Batilease'
+2013	08			2013	08			La_campagne_d__analyse	- La campagne d'analyse des eaux souterraines d’août 2013 montre une augmentation des détergents anioniques , bore et sodium sur le piézomètres pz2c situé en bordure du site au sud, vers le champ captant pour l’alimentation en eau potable d'Emmerin.	'détergents anioniques', 'bore', 'sodium'	
+								__remise	- Mars 96 : remise du rapport de remise en état de la partie du site qui a été revendue		

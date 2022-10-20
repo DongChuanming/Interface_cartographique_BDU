@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	12			2003	12			a_produit	Le remblaiement de ce site étant achevé, l'exploitant a produit un dossier de cessation d'activité pour ce site en décembre 2003.		
+1973				1973				s__est_implantée	L'usine APM est une fonderie de fonte et acier qui s'est implantée à Changé en 1973.		
+1986				1986				a_utilisé	L'entreprise APM a utilisé depuis 1986 une ancienne carrière à St Germain le Fouilloux pour l'élimination de ses sables brulés.		'APM'

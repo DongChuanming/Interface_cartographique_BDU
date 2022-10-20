@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982	07	26		1982	07	26		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 26 juillet 1982.		
+2006	05	31		2006	05	31		un_incendie	Le 31 mai 2006, l'exploitant déclare un incendie qui a été limité à la raboteuse et au filtre d'aspiration des copeaux.		
+2008	07	30		2008	07	30		le	Par arrêté préfectoral du 28 mars 2003 modifié le 2 avril 2003 et le 30 juillet 2008, les prescriptions concernant la surveillance des eaux souterraines sont les suivantes :		
+2000	04	24		2000	04	24		un_incendie_accidentel	Le 24 avril 2000, un incendie accidentel est survenu dans les bureaux.		
+2004	01			2004	01			a_été_rendue	L'étape A a été rendue en janvier 2004 et l'étape B et l'ESR en juin 2005.		"l' ESR"
+								utilisées_au_cours_des	- les paramètres à analyser : les substances en cours d'utilisation et utilisées au cours des 2 dernières années ou encore détectées,	'les substances'	
+2008	03			2008	03			a_été_déclaré	Un changement d'exploitant (anciennement ESCOBOIS) du site au profit de GASCOGNE WOOD PRODUCTS a été déclaré en mars 2008.		'ESCOBOIS', 'GASCOGNE WOOD PRODUCTS'

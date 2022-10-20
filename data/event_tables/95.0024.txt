@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	02			2007	02			la_transmission	Lors de la transmission des résultats de la surveillance de la qualité des eaux souterraines en février 2007, le propriétaire du site avait demandé l'arrêt de cette surveillance compte tenu des concentrations faibles relevées et les travaux mis en oeuvre depuis la cessation des activités.		
+1996				1996				la_cessation_d_	Les sociétés Alcatel Submarine Networks et Alcatel Fibres Optiques ont déclaré fin 1996 la cessation d'activités, la société Alcatel Câble restant propriétaire.		'Les sociétés Alcatel Submarine', 'Alcatel Fibres Optiques', 'la société Alcatel Câble'
+2000	09			2000	09			ont_été_transmis	Les résultats ont été transmis à l'administration en septembre 2000.		
+1863				1996				ont_été_exercées	De 1863 à 1996, diverses activités ont été exercées sur le site dont beaucoup liées au travail du caoutchouc et à l'utilisation d'hydrocarbures.	'hydrocarbures'	
+2007	02			2007	02			avait_demandé_l__arrêt_de_cette_surveillance	Lors de la transmission des résultats de la surveillance de la qualité des eaux souterraines en février 2007, le propriétaire du site avait demandé l'arrêt de cette surveillance compte tenu des concentrations faibles relevées et les travaux mis en oeuvre depuis la cessation des activités.		
+2008	09	23		2008	09	23		a_donc_émis	Dans son rapport du 23 septembre 2008, l'inspection a donc émis un avis favorable à l'arrêt de la surveillance.		
+2006	01			2006	01			une_nouvelle_campagne_d__analyses	Dans le cadre de la cession de ce site, une nouvelle campagne d'analyses des eaux souterraines a été réalisée en janvier 2006.		

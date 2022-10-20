@@ -1,0 +1,2 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	07			2009	07			courrier_du_23	La cessation d'activité a été notifiée au préfet par courrier du 23 juillet 2009.		"La cessation d' activité", 'notifiée au préfet par courrier'

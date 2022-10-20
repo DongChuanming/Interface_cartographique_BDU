@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	02			2002	02			a_adressé	Fin février 2002, la DDASS a adressé le dossier à l'Inspection des Installations Classées qui a procédé à une inspection des lieux.		'la DDASS'
+2003	02	18		2003	02	18		a_donc_été_prescrite	Cette surveillance a donc été prescrite par l'arrêté préfectoral du 18 février 2003.		
+2001				2001				ont_procédé	A la suite des inondations du printemps 2001, les services de l'environnement de la Mairie d'Abbeville ont procédé, dans la propriété mitoyenne où résidait une famille, à des analyses d'un liquide jaunâtre qui s'écoulait depuis le site voisin.		'Abbeville'
+2010	03			2010	03			a_mis_en_évidence	En mars 2010, une visite de l'Inspection des installations classées sur le site a mis en évidence des problèmes au niveau de la mise en sécurité du site (cadenas cassé, présence de trous remplis d'eau).		
+2001				2001				des_inondations_du	A la suite des inondations du printemps 2001, les services de l'environnement de la Mairie d'Abbeville ont procédé, dans la propriété mitoyenne où résidait une famille, à des analyses d'un liquide jaunâtre qui s'écoulait depuis le site voisin.		'Abbeville'
+1997	02			1997	02			ont_été_éventrés	En février 1997, des transformateurs présents sur le site (une quinzaine) ont été éventrés par des inconnus afin d'en récupérer le cuivre ; l'huile contenue (entre 40 et 50 litres par appareil) s'est déversée sur le site et a pollué le sol et les eaux de la Maillefeu.	'cuivre'	
+2006	07			2006	07			la_première_campagne	Il a de plus été constaté que la surveillance n'avait pas été poursuivie depuis la première campagne de juillet 2006.		

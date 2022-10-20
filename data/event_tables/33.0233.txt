@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				exploité	Ancienne station service exploité de 1957 et 1989 PAR M.		
+2006	07	21		2006	07	21		un_rapport_de_contrôle	L'exploitant produit un rapport de contrôle sur les travaux de dépollution réalisé par la société SANITRA-FOURRIER le 21 juillet 2006.		'la société SANITRA - FOURRIER'
+2006	07	21		2006	07	21		les_travaux_de_dépollution_réalisé	L'exploitant produit un rapport de contrôle sur les travaux de dépollution réalisé par la société SANITRA-FOURRIER le 21 juillet 2006.		'la société SANITRA - FOURRIER'
+2006	11	02		2006	11	02		est_transmis	Un rapport de contrôle de dépollution et d'évaluation quantitative des risques sanitaires liés à la présence d'hydrocarbures volatils dans l'eau souterraine est transmis le 2 novembre 2006 par la société SANITRA FOURRIER.	'hydrocarbures'	'la société SANITRA FOURRIER'
+1976				1976				est_délivré_à	En 1976, le récépissé de déclaration est délivré à M.		
+2007	09	11		2007	09	11		sont_vendus	Les terrains sont vendus le 11/09/2007 à LA SCI TL6 dont le gérant est M.		'LA SCI TL6'
+2008	04	29		2008	04	29		la_campagne_menée	Le 9 mai 2008, SANITRA FOURRIER adresse un rapport de suivi des eaux souterraines pour la campagne menée le 29 avril 2008.		'SANITRA FOURRIER'
+								adresse	Le 23 novembre 2007, SANITRA FOURRIER adresse un rapport de suivi des eaux souterraines pour l'année 2007 (campagnes menées les 25 avril et 15 octobre).		'SANITRA FOURRIER'
+2008	04	29		2008	04	29		adresse	Le 9 mai 2008, SANITRA FOURRIER adresse un rapport de suivi des eaux souterraines pour la campagne menée le 29 avril 2008.		'SANITRA FOURRIER'
+1957				1957				exploité	Ancienne station service exploité de 1957 et 1989 PAR M.		
+2007	11	23		2007	11	23		adresse	Le 23 novembre 2007, SANITRA FOURRIER adresse un rapport de suivi des eaux souterraines pour l'année 2007 (campagnes menées les 25 avril et 15 octobre).		'SANITRA FOURRIER'
+2008	05	09		2008	05	09		adresse	Le 9 mai 2008, SANITRA FOURRIER adresse un rapport de suivi des eaux souterraines pour la campagne menée le 29 avril 2008.		'SANITRA FOURRIER'

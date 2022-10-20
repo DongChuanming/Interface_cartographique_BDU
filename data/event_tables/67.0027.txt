@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	16		2004	01	16		es_études_complémentaires_sont_engagées	es études complémentaires sont engagées depuis le 16 janvier 2004, afin de compléter les traitements de nappe déjà entrepris.		
+2006	10			2006	10			la_d__un_site_industriel___déclarée	Ce site est soumis à la réalisation d'une Evaluation Détaillée des Risques  dans le cadre de la d'un site industriel, déclarée en octobre 2006..		
+				2002	01	12		la_mise_en_service_d_	Les études préalables réalisées courant 2000 ont permis la mise en service d'une installation de traitement début décembre 2000 jusqu'au 12 janvier 2002.		
+1998				1998				la_décision	La CUS, avec la participation financière de la Région Alsace et l’AERM, a pris en 1998 la décision d’intervenir pour mettre en œuvre des mesures conservatoires de protection de la nappe phréatique.		'La CUS', 'la Région Alsace', 'AERM'
+1997	09			1997	09			a_été_annulé	Un AP en date du 30/12/96 prescrivant la dépollution à la société propriétaire a été annulé par le tribunal administratif de Strasbourg en septembre 1997.		
+2006	10			2006	10			la_réalisation_d__une_Evaluation_Détaillée_des_Risques	Ce site est soumis à la réalisation d'une Evaluation Détaillée des Risques  dans le cadre de la d'un site industriel, déclarée en octobre 2006..		
+2006	10	02		2006	10	02		La_cessation_définitive	La cessation définitive du site a été déclarée le 2 octobre 2006; le dossier de réhabilitation avec EDR sera déposé en janvier 2007.		
+2000				2000				Les_études_préalables_réalisées	Les études préalables réalisées courant 2000 ont permis la mise en service d'une installation de traitement début décembre 2000 jusqu'au 12 janvier 2002.		

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	08	15		2018	08	15		Un_diagnostic_de_pollution	Un diagnostic de pollution, daté de février 2018, a été transmis le 15 août 2018.		
+2018	12	12		2018	12	12		transmise_le_jour_même	Ce document a été complété par une nouvelle étude datée du 12 décembre 2018 et transmise le jour même.		
+2018	12	12		2018	12	12		le_diagnostic_complémentaire	Considérant notamment la nature des polluants quantifiés dans les sols, le diagnostic complémentaire du 12 décembre 2018 conclut au caractère non probable d’une migration de la pollution vers les eaux souterraines.	'polluants'	
+								est_exploité	Il est exploité depuis le début des années 1990.		
+2018	02			2018	02			Un_diagnostic_de_pollution	Un diagnostic de pollution, daté de février 2018, a été transmis le 15 août 2018.		
+2008				2008				comprenait_également	Jusqu'en 2008, le site comprenait également des installations de traitements de surfaces.		
+2016	12	22		2016	12	22		la_réalisation_d__un_diagnostic_de_pollution	Par arrêté n°16-DRCTAJ/1-663 du 22 décembre 2016, le préfet de la Vendée a imposé à l’exploitant la réalisation d’un diagnostic de pollution centrée sur les anciennes installations de traitements de surfaces.		'16-DRCTAJ/1', 'le préfet de la Vendée'
+2018	12	12		2018	12	12		rapport	Compte tenu notamment des aménagements en place, en particulier la présence d’enrobé ou d’une balle béton sur les sols pollués, ce rapport du 12 décembre 2018 conclut à la compatibilité entre l’état du site et un usage industriel.		
+2018	12	12		2018	12	12		une_nouvelle_étude	Ce document a été complété par une nouvelle étude datée du 12 décembre 2018 et transmise le jour même.		

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				est_signalée	En 1993, la présence de suintements de résidus issus de l'activité gazière est signalée au niveau de la Vire, via une canalisation de collecte des eaux pluviales.	'suintements de résidus'	
+2011				2011				Des_investigations_seront_menées	Des investigations seront menées en 2011.		
+1956				1956				La_démolition	La démolition des bâtiments a eu lieu en 1956.		
+1944				1944				a_été_détruite_par	L'usine a été détruite par des bombardements en 1944.		

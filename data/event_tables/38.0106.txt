@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	07		2006	04	07		met_en_place_des_sanctions_administratives	Le 8 février 2006, le Préfet met en place des sanctions administratives à l'encontre de Maitre GUYOT pour non respect de cet arrêté, avec un arrêté de consignation signé en date du 07/04/2006.		'le Préfet', 'Maitre GUYOT'
+1973				1973				l__installation	La première activité sur la zone concernée remonte à l'installation de la société FLORET (filiale du groupe GIMM) en 1973.		'la société FLORET', 'groupe GIMM'
+2008	04			2008	04			un_diagnostic_approfondi	Ainsi, un diagnostic approfondi ainsi qu'une Évaluation Quantitative des Risques Sanitaires (EQRS) ont été réalisés par la société URS en date du mois d'avril 2008.		'Risques Sanitaires', 'la société URS'
+2007	05	23		2007	05	23		a_été_racheté	Le site a été racheté le 23/05/2007 par la société SCI LEONARDO DA VINCI.		'la société SCI LEONARDO DA VINCI'
+2000	04	18		2000	04	18		une_visite	Au cours d'une visite de l'Inspection des Installations Classées sur le site le 18 avril 2000, la bonne réalisation des travaux d'évacuation a été constatée.		
+2000	04	18		2000	04	18		la_bonne_réalisation_des_travaux_d__évacuation	Au cours d'une visite de l'Inspection des Installations Classées sur le site le 18 avril 2000, la bonne réalisation des travaux d'évacuation a été constatée.		
+1982	11	19		1982	11	19		signé	Cette société était spécialisée dans le travail et le traitement du bois et son activité a fait l'objet d'un récépissé de déclaration signé le 19/11/1982.		
+2001	06			2001	06			un_diagnostic_initial	En juin 2001, l'APAVE a réalisé un diagnostic initial des sols à la demande de la coopérative agricole La Dauphinoise.		
+1982	11	19		1982	11	19		était_spécialisée_dans	Cette société était spécialisée dans le travail et le traitement du bois et son activité a fait l'objet d'un récépissé de déclaration signé le 19/11/1982.		
+2004	01			2004	01			a_été_rédigée	La seconde phase de l'ESR a été rédigée en date du  mois de janvier 2004.		"l' ESR"
+1982	11	19		1982	11	19		le_travail_et_le_traitement_du_bois	Cette société était spécialisée dans le travail et le traitement du bois et son activité a fait l'objet d'un récépissé de déclaration signé le 19/11/1982.		
+1999	11	02		1999	11	02		L__audit	L'audit du site a été établi le 2 novembre 1999 par la Sté Tecsen et a		'la Sté Tecsen'
+2004	01	30		2004	01	30		signé	Entre ces deux phases, l'ESR avait été prescrite par un arrêté signé le 30/01/2004.		"l' ESR"
+1992				1992				est_racheté	Suite à un dépôt de bilan, elle est racheté par la société Menuiserie Industrielle de Pontcharra (MIP) en 1992.		'la société Menuiserie Industrielle de Pontcharra', 'MIP'
+2006	02	08		2006	02	08		met_en_place_des_sanctions_administratives	Le 8 février 2006, le Préfet met en place des sanctions administratives à l'encontre de Maitre GUYOT pour non respect de cet arrêté, avec un arrêté de consignation signé en date du 07/04/2006.		'le Préfet', 'Maitre GUYOT'
+2003	11	26		2003	11	26		a_fourni	Le 26 novembre 2003 Maître Guyot a fourni la première étape de l'ESR réalisé par le bureau d'étude URS.		'URS'
+2004	01	30		2004	01	30		avait_été_prescrite	Entre ces deux phases, l'ESR avait été prescrite par un arrêté signé le 30/01/2004.		"l' ESR"

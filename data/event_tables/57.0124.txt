@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1970				2001				a_été_exploitée	L'ancienne usine d'incinération a été exploitée par le SIVOM de 1970 à 2001 ; elle était soumise à autorisation au titre de la réglementation sur les Installations Classées pour la Protection de l'Environnement.		'le SIVOM'
+2005	11			2005	11			a_été_excavé	- le point de contamination aux HAP (zone de l’ancien atelier de maintenance) mentionné dans le rapport a été excavé et évacué du site à la fin novembre 2005 ;	'HAP'	
+2008	11			2008	11			a_été_transmis	Le bilan des opérations a été transmis à l'inspection en date de novembre 2008 :		
+2002				2002				Le_démantèlement_des_installations	Le démantèlement des installations s'est achevé courant 2002.		
+2002				2002				à_la_mise_en_service	L'activité a cessé  sur ce site suite à la mise en service en 2002 d'une nouvelle usine d'incinération, localisée à proximité.		
+2003				2003				Cette_étude_a_été_réalisée	Cette étude a été réalisée au cours du premier semestre de l’année 2003.		
+2003				2003				a_été_effectuée	.R. ayant abouti à un classement du site en classe 1 (site pour lequel des investigations complémentaires et approfondies doivent être menées) une étude complémentaire a été effectuée selon une démarche volontaire de l’exploitant au cours de l’été 2003, afin d’affiner l’observation de l’étendue de différentes pollutions au niveau du terrain d’emprise.		
+2004	06	17		2004	06	17		a_imposé	Au regard des conclusions de l’ESR et de l’étude complémentaire, l’inspection des installations classées a imposé à la régie HAGANIS, par arrêté préfectoral N° 2004-AG/2-242 en date du 17 juin 2004, de procéder à la réalisation d’un Diagnostic Approfondi et d’une Evaluation Détaillée des Risques (E.		'la régie HAGANIS'
+1997	04			1997	04			s__est_limitée	Suite à un incendie en avril 1997, l'activité s'est limitée, jusqu'en décembre 2001, au stockage des ordures ménagères en attente d'évacuation vers des décharges.	'ordures ménagères'	
+2009				2009				être_instituées	Des restrictions d'usage conventionnelles devaient être instituées sur ce site en 2009 ; elles visaient notamment à figer l'usage de type parking du site et à pérenniser la couverture étanche.		
+2009	02	10		2009	02	10		à_une_visite	L'inspection des installations classées a procédé à une visite en date du 10 février 2009.		
+				2001	12			s__est_limitée	Suite à un incendie en avril 1997, l'activité s'est limitée, jusqu'en décembre 2001, au stockage des ordures ménagères en attente d'évacuation vers des décharges.	'ordures ménagères'	
+2009	02	10		2009	02	10		a_procédé	L'inspection des installations classées a procédé à une visite en date du 10 février 2009.		
+1997	04			1997	04			un_incendie	Suite à un incendie en avril 1997, l'activité s'est limitée, jusqu'en décembre 2001, au stockage des ordures ménagères en attente d'évacuation vers des décharges.	'ordures ménagères'	

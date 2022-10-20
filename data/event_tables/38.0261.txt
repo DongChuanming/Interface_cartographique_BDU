@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	12	17		2010	12	17		ont_été_réalisés	Suite à la revente du site à la société DELEK France, un diagnostic complémentaire ainsi qu'une Évaluation Quantitative des Risques Sanitaires (EQRS) ont été réalisés le 17/12/2010.	'Sanitaires'	'la société DELEK France'
+2009	03	17		2009	03	17		se_sont_terminés	Ces opérations ont débutés le 01/12/2008 et se sont terminés le 17/03/2009.		
+2008	12	01		2008	12	01		ont_débutés	Ces opérations ont débutés le 01/12/2008 et se sont terminés le 17/03/2009.		
+2013	01	24		2013	01	24		a_été_réalisé	La nouvelle EQRS a été réalisé le 24/01/2013 et est arrivé aux mêmes conclusions que la précédente.		
+2009	03	17		2009	03	17		ont_débutés	Ces opérations ont débutés le 01/12/2008 et se sont terminés le 17/03/2009.		
+2011	06	20		2011	06	20		sa_déclaration	Le 22/07/2011, la préfecture de l'Isère donne acte à la SARL SERVICES 38.7 de sa déclaration du 20/06/2011 par laquelle elle fait connaitre qu'elle s'est substitué depuis le 21/06/2011 à la société DELEK France dans l'exploitation du site.		'la préfecture', 'la SARL SERVICES 38.7', 'la société DELEK France'
+2010	10			2010	10			n__ont_été_renseignées	Les études précédentes n'ont été renseignées à l'administration qu'en octobre 2010.		
+2011	06	21		2011	06	21		s__est_substitué	Le 22/07/2011, la préfecture de l'Isère donne acte à la SARL SERVICES 38.7 de sa déclaration du 20/06/2011 par laquelle elle fait connaitre qu'elle s'est substitué depuis le 21/06/2011 à la société DELEK France dans l'exploitation du site.		'la préfecture', 'la SARL SERVICES 38.7', 'la société DELEK France'
+2008	03	18		2008	03	18		3_sondages_ont_de_nouveau_été_réalisés	3 sondages ont de nouveau été réalisés par HPC Envirotec le 18/03/2008 pour des mesures de gaz des sols : des pollutions en HCT (21 000 mg/m3 et en BTEX (16 mg/m3) ont été mesurées.	'HCT', 'BTEX'	'HPC Envirotec'
+2006	05	02		2006	05	02		a_été_réalisée	La première étude a été réalisée sur le site le 02/05/2006 par le bureau d'étude HPC Envirotec.		'HPC Envirotec'
+2004	02	12		2004	02	12		a_donc_été_signé	Un nouveau récépissé de déclaration a donc été signé en date du 12/02/2004.		
+2013	02	05		2013	02	05		a_été_rédigé	Le rapport de cette étude a été rédigé en date du 05/02/2013.		
+2009	07	01		2009	07	01		a_été_mis_en_place_par	Un système de traitement de l'air du sol a été mis en place par le même bureau d'étude et a fait l'objet d'un rapport rédigé en date du 01/07/2009.		
+2012	09	19		2012	09	19		sont_devenus_trimestrielles_à	Du 20/07/2006 au 01/052/2010, les campagnes étaient annuelles et sont devenus trimestrielles à partir du 19/09/2012.		
+1997				1997				change_d__enseigne	La station service change d'enseigne en 1997 après être devenu la propriété de BP France.		'BP France'
+2004	01	30		2004	01	30		déclare_la_modification	BP France déclare la modification de ses installations par le biais d'un courrier à la préfecture daté du 30/01/2004.		'BP France'
+2006	07	20		2006	07	20		Des_investigations_complémentaires	Des investigations complémentaires ont été réalisés le 20/07/2006 et 3 piézomètres ont été implantés sur le site.		
+2012				2012				des_campagnes	Ces éléments ne sont pas ressortis lors des campagnes de 2012.		
+2010	10			2010	10			n__a_pas_été_renseignée	Cette pollution n'a pas été renseignée aux services du préfet avant le mois d'octobre 2010.		'du préfet'
+2012	06	22		2012	06	22		a_été_signé	Une fois que toutes les études ont été portés à la connaissance de l'inspection des installations classées, un arrêté préfectoral a été signé en date du 22/06/2012 en vue d'imposer à la société SERVICES 38.7 la mise en place d'un suivi trimestriel de la qualité des eaux souterraines et la réalisation d'une EQRS tous les deux ans afin de prendre en compte les nouvelles données.		'la société SERVICES'
+2006	07	20		2006	07	20		8_campagnes_de	Depuis le 20/07/2006, 8 campagnes de suivi de la qualité des eaux souterraines ont été réalisées.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	06			2018	06			est_en_passe_d__être_pris	La cessation d'activité sera prochainement actée par un PV de récolement et un arrêté du SUP est en passe d'être pris (juin 2018).		
+1981				1981				a_été_créée	La société ELIVIA, anciennement SOVIBA, a été créée en 1981 sur la commune de Lion d'Angers.		'La société ELIVIA', 'SOVIBA'
+				2016	12			a_été_remis_en_état	Le site a été remis en état entre octobre et décembre 2016 et les calculs réalisés fin novembre 2016 montrent que la qualité du sous-sol, après application des mesures de gestion, est désormais compatible avec un futur usage de parking en extérieur.		
+2015	12	24		2015	12	24		a_été_pris	Un arrêté complémentaire a été pris le 24 décembre 2015 afin de prescrire, en complément de ces mesures, la remise en état du site par enlèvement des terres polluées et une étude des risques résiduels (ARR) et de la pollution des eaux dans la nappe.		
+2013	03	25		2013	03	25		La_cessation_d__activité	La cessation d'activité du site a été demandée par l'exploitant à compter du 30 juin 2013 par courrier du 25 mars 2013.		
+2014	04	18		2014	04	18		Le_mémoire_de_cessation_d__activité	Le mémoire de cessation d'activité, réalisé par la société Kaliès, est donc daté du 18 avril 2014.		'la société Kaliès'
+2016	11			2016	11			les_calculs_réalisés	Le site a été remis en état entre octobre et décembre 2016 et les calculs réalisés fin novembre 2016 montrent que la qualité du sous-sol, après application des mesures de gestion, est désormais compatible avec un futur usage de parking en extérieur.		

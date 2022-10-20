@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				a_transmis	SNF a transmis début 2004, un dossier de cessation d'activité.		'SNF'
+2003	11	28		2003	11	28		est_arrêté	L'ensemble des installations est arrêté depuis le 28 novembre 2003.		
+2004	03			2004	03			a_été_transmise	L'Evaluation Détaillée des Risques (EDR) a été transmise en janvier 2004 et complétée en mars 2004 et juin 2004.		
+2004	06			2004	06			a_été_transmise	L'Evaluation Détaillée des Risques (EDR) a été transmise en janvier 2004 et complétée en mars 2004 et juin 2004.		
+2005	06			2005	06			complété	Ce complément a été reçu en février 2005 puis complété en juin 2005 suite à la demande de l'inspection des installations classées.		
+2005	02			2005	02			a_été_reçu	Ce complément a été reçu en février 2005 puis complété en juin 2005 suite à la demande de l'inspection des installations classées.		
+2004	01			2004	01			a_été_transmise	L'Evaluation Détaillée des Risques (EDR) a été transmise en janvier 2004 et complétée en mars 2004 et juin 2004.		
+2010	09	29		2010	09	29		a_adressé	Par courrier du 29 septembre 2010, l'inspection des installations classées a adressé à la société HSBC, propriétaire de l'ancien site SNF, le projet d'acte authentique rédigé par le préfet de la Loire afin de fixer durablement les mesures de gestion qui ont été nécessaires à la réhabilitation du site.		'la société HSBC', 'SNF', 'le préfet de la Loire'
+2004	06			2004	06			complétée	L'Evaluation Détaillée des Risques (EDR) a été transmise en janvier 2004 et complétée en mars 2004 et juin 2004.		
+2004	12	20		2004	12	20		ces_travaux_a_été_demandé	C'est pourquoi un complément à l'EDR tenant compte de ces travaux a été demandé à l'exploitant SNF par arrêté préfectoral du 20 décembre 2004.		'SNF'
+2004	03			2004	03			complétée	L'Evaluation Détaillée des Risques (EDR) a été transmise en janvier 2004 et complétée en mars 2004 et juin 2004.		
+1995	06	06		1995	06	06		a_été_autorisée_à_exploiter	La société SNF a été autorisée à exploiter son site de Saint-Etienne par l'arrêté préfectoral du 6 juin 1995.		'La société SNF'
+1979				1979				Implantée	Implantée depuis 1979 à Saint-Etienne, la société SNF a pour vocation première la fabrication de polymères acryliques.	'polymères acryliques'	'la société SNF'

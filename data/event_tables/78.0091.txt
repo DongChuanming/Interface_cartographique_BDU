@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2004				a_été_reprise	En 1984, cette entreprise a été reprise par AXO SCINTEX jusqu'en 2004.		'AXO SCINTEX'
+2007				2007				a_exploité	Depuis cette date jusqu'en 2007, la société Automotive Lighting a exploité le site pour la fabrication de feux plastiques pour automobile.	'feux plastiques'	'la société Automotive Lighting'
+2009	06			2009				1___traitement_des_sols_par_excavation	1. traitement des sols par excavation de juin 2009 à aout 2009		
+1960				1960				a_acheté	En 1960, AXO MSL a acheté l'entreprise ERCEL spécialisée dans la fabrication de composants électroniques et de condenseurs.		'AXO MSL', 'ERCEL'
+2001				2004				Des_campagnes_d__investigations	Des campagnes d'investigations sur les sols et la nappe souterraine ont été réalisées entre 2001 et 2004.		
+2013				2013				en	L'exploitant a proposé, en début 2013, une nouvelle méthode de traitement : biostimulation anaérobie.		
+1960				1984				a_exploité	De 1960 à 1984, AXO MSL a exploité une usine de fabrication d'équipements automobiles.		'AXO MSL'
+2014				2017				a_été_réalisé	Le traitement par biostimulation a été réalisé entre début 2014 et fin 2017 et a permis d'améliorer notablement la qualité des eaux souterraines, particulièrement pour les paramètres trichloroéthylène et en perchloroéthylène qui ont diminué de l'ordre de 80%.	'trichloroéthylène', 'en perchloroéthylène'	
+1984				1984				a_été_reprise	En 1984, cette entreprise a été reprise par AXO SCINTEX jusqu'en 2004.		'AXO SCINTEX'
+2007	03			2007	03			a_été_mis_en_sécurité	Suite à l'arrêt de l'activité en mars 2007, le site a été mis en sécurité (démantèlement des tours aéroréfrigérantes, évacuation des déchets et pompage des résidus de la cabine de peinture).	'cabine de peinture'	
+2007	03			2007	03			l__arrêt_de	Suite à l'arrêt de l'activité en mars 2007, le site a été mis en sécurité (démantèlement des tours aéroréfrigérantes, évacuation des déchets et pompage des résidus de la cabine de peinture).	'cabine de peinture'	
+2013				2013				a_demandé	L'inspection des installations classées a demandé une surveillance de la qualité de la nappe, en 2013.		

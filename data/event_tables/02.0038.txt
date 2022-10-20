@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				à_une_visite	Suite à une visite de l'inspection en 2001, il a été constaté que l'exploitant avait enfoui des fûts ayant contenu des solvants organiques.	'des solvants organiques'	
+2001				2001				évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée (2001).		
+2002				2002				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 2002 et 2003 afin de réhabiliter le site.		
+2003				2003				Des_travaux_de_dépollution	Des travaux de dépollution ont été réalisés en 2002 et 2003 afin de réhabiliter le site.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				accordé	La société TEFAL est soumise à AUTORISATION au titre des Installations Classées pour la Protection de l’Environnement, avec le bénéfice de l’antériorité accordé en 1994 sous la rubrique 2662-1-a (stockage de matières plastiques, polymères, caoutchouc ..).	'polymères'	'La société TEFAL'
+2008				2008				les_campagnes_d__analyses	Depuis août 2010, les campagnes d'analyses, réalisées dans le cadre de l'arrêté préfectoral de 2008, montrent une augmentation de la pollution en solvants chlorés sur le puits P1 situé dans l'enceinte du site.	'solvants chlorés'	
+2011	05			2011	05			a_demandé	L'inspection a demandé en mai 2011 (relance en mai 2012) à l'exploitant de mettre en place des actions afin de traiter et stopper cette pollution constatée.		
+2013	04	11		2013	04	11		sont_réalisés	Le 11/04/2013 : des prélèvements des eaux de surface et des sédiments du Doubs sont réalisés.		
+1986				1986				à	La société TEFAL s’est implantée sur le site à partir de 1986 et réalise l’assemblage de bouilloires électriques.		'La société TEFAL'
+2010	08			2010	08			montrent	Depuis août 2010, les campagnes d'analyses, réalisées dans le cadre de l'arrêté préfectoral de 2008, montrent une augmentation de la pollution en solvants chlorés sur le puits P1 situé dans l'enceinte du site.	'solvants chlorés'	
+2006	08			2006	08			Des_investigations_ont_été_menées	Des investigations ont été menées en août 2006 après une étape de recherche historique et documentaire et ont consisté en la réalisation de 10 sondages de 3 m de profondeur et des prélèvements d’eau en 3 points.		
+2008				2012				Le_suivi_quadriennal	Le suivi quadriennal de 2008 à 2012 met plus largement en évidence la présence de trichloroéthylène aux piézomètres S2 et S7, Chlorure de vinyle et HCT aux piézomètres S1, S2 et S7.	'trichloroéthylène', 'Chlorure de vinyle', 'HCT'	
+1949				1986				trempage	- trempage/dégraissage (trichloroéthylène chaud) de 1949 à 1986 (fabrication de rasoirs) ;	'trichloroéthylène chaud'	
+2012	05			2012	05			a_demandé	L'inspection a demandé en mai 2011 (relance en mai 2012) à l'exploitant de mettre en place des actions afin de traiter et stopper cette pollution constatée.		

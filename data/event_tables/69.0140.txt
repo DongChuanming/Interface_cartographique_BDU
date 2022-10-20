@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	09	27		2006	09	27		La_dernière_campagne_trimestrielle	La dernière campagne trimestrielle a été réalisée le 27/09/2006.		
+2002	02	05		2002	02	05		Un_diagnostic_initial_de	Un diagnostic initial de la qualité des sols a été transmis à la Préfecture le 05/02/2002.		
+2005	12	06		2005	12	06		La_première_campagne_de_surveillance	La première campagne de surveillance a été réalisée le 06/12/2005, avec PZ1 (amont), PZ2 et PZ3 (aval) pour les eaux souterraines, ES1 (amont) et ES2 (aval) pour les eaux superficielles de la Trambouze et SED AMONT et SED AVAL pour les sédiments.		
+								élaboré_par	Afin de mieux étudier la vulnérabilité du site et les éventuels transferts de pollution, l'inspection de l'environnement (ex. installations classées) a proposé à Monsieur le Préfet du Rhône dans son rapport du 02/04/2002, d'imposer à la société DANJOUX, la réalisation d'une évaluation simplifiée des risques (ESR) selon le guide méthodologique élaboré par le Ministère de l'Environnement dans un délai de 6 mois.		'le Préfet du Rhône', 'la société DANJOUX', "le Ministère de l' Environnement"
+2003	04	02		2003	04	02		a_été_transmise	L'ESR a été transmise le 02/04/2003.		

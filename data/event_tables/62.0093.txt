@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	09	04		2008	09	04		Mise_en_liquidation_judiciaire	- Mise en liquidation judiciaire de SPADO le 04/09/2008, puis fusion avec CCP COMPOSITES.		'SPADO', 'CCP COMPOSITES'
+2008				2008				Reprise	- Reprise du site par Cray Valley en 2008.		'Cray Valley'
+1999	12			1999	12			Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques en décembre 1999 et d'une étude des sols phase A.		
+1973				1973				Construction_du_site	- Construction du site en 1973.		

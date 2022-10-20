@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				a_beaucoup_changé	Depuis 2007, l’activité au sein de Biocitech a beaucoup changé.		'Biocitech'
+2005				2005				les_différentes_campagnes_de_caractérisation_des_milieux	Celui-ci s’appuie sur une étude historique datée de 2011 et sur les différentes campagnes de caractérisation des milieux réalisées depuis 2005.		
+2005	10	1		2005	10	1		a_délivré	Sur la zone des Écuries, le préfet a délivré le récépissé de cessation d’activité le 20/02/14,   et a confirmé que cette partie du site devait être remise en état pour un usage futur de type industriel, compte tenu de la date de cessation d’activité des installations classées (les installations classées soumises à autorisation avaient cessé avant le 1er octobre 2005).		'le préfet'
+2015	07	08		2015	07	08		Les_travaux_de_réhabilitation	Les travaux de réhabilitation sont encadrés par l'arrêté préfectoral du 8 juillet 2015.		
+2011				2011				une_étude_historique	Celui-ci s’appuie sur une étude historique datée de 2011 et sur les différentes campagnes de caractérisation des milieux réalisées depuis 2005.		
+								est_prévue	Enfin, une surveillance semestrielle des eaux souterraines est prévue sur l’ensemble du site pendant une période de 4 ans.		
+								une_surveillance_semestrielle	Enfin, une surveillance semestrielle des eaux souterraines est prévue sur l’ensemble du site pendant une période de 4 ans.		
+								a_été_transmis	Le plan de gestion de cette zone a été transmis par courrier le 11/08/14.		
+2007				2007				était_soumise_à_autorisation	En 2007, l’entreprise était soumise à autorisation sous 13 rubriques et était soumise à déclaration sous 17 rubriques.		
+								a_délivré	Sur la zone des Écuries, le préfet a délivré le récépissé de cessation d’activité le 20/02/14,   et a confirmé que cette partie du site devait être remise en état pour un usage futur de type industriel, compte tenu de la date de cessation d’activité des installations classées (les installations classées soumises à autorisation avaient cessé avant le 1er octobre 2005).		'le préfet'
+2011				2011				testé	Sur le plan technique, le venting (testé en 2011) et la désorption technique ne sont pas retenus compte tenu de la faible perméabilité des terrains.		
+2015				2015				seront_toutes_regroupées_d_	Des installations en activité sont encore présentes pour partie en zone centrale mais seront toutes regroupées d’ici fin 2015 dans la zone Est du site.		

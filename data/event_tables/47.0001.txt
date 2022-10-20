@@ -1,0 +1,27 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	14		2007	06	14		L__étude_diagnostic	L'étude diagnostic a été remise le 14/06/2007.		
+2010				2010				institue_les	L'arrêté n°2010-36-3 signé le 05/02/2010 institue les servitudes d'utilité publiques suivantes :		
+2013	06			2013	06			La_campagne_de	La campagne de juin 2013 donne les résultats suivants:		
+2009	03	02		2009	03	31		de_lancer_l__enquête_publique	Sur la base du dossier déposé le 28 juin 2008, la DRIRE propose, le 12/09/2008 de lancer l'enquête publique qui se déroule du 02/03/2009 au 31/03/2009.		'la DRIRE'
+2009	11	18		2009	11	18		a_proposé	Le 01/09/09, la DRIRE a proposé l'arrêté en l'état au CODERST du 18/11/2009.		'la DRIRE'
+2012	03			2012	03			La_campagne	La campagne de mars 2012 donne les résultats suivants (au droit de PZ1 et PZ2 car PZ3 était asséché):		
+2011				2011				en_aval_du_ruisseau_Coustalou_lors_des_campagnes	Les eaux superficielles prélevées en aval du ruisseau Coustalou lors des campagnes 2011, 2012 et 2013 ne présentent aucune anomalie particulière.		
+								prescrit	L'arrêté du 03/03/08 relatif à la réhabilitation de la décharge prescrit la surveillance des eaux souterraines dans les conditions ci-après dans le délai de 6 mois :		
+2006	12	31		2006	12	31		a_imposé_la_fermeture	L'arrêté du 13/11/2003 a imposé la fermeture au 31/12/2006.		
+1983	03	03		1983	03	03		a_été_autorisée	L'exploitation a été autorisée par arrêté préfectoral du 03 mars 1983.		
+2007				2007				du_diagnostic	Les analyses réalisées dans le cadre du diagnostic de 2007 montre un impact non négligeable sur les eaux souterraines par l'aluminium, le chrome, le manganèse, le plomb et le nickel.	'aluminium', 'le chrome', 'manganèse', 'le plomb', 'nickel'	
+2013				2013				en_aval_du_ruisseau_Coustalou_lors_des_campagnes	Les eaux superficielles prélevées en aval du ruisseau Coustalou lors des campagnes 2011, 2012 et 2013 ne présentent aucune anomalie particulière.		
+2013	06			2013	06			La_campagne_de	La campagne de juin 2013 donne les résultats suivants (P1 étant inaccessible, seul P2 a été analysé):		
+2011	09	13		2011	09	13		La_campagne	La campagne du 13/09/2011  montre l'absence d'impact sur les eaux de surface du Coustalou.		
+								L__étude_remise	L'étude remise le 30/09/99 classe le site en 2 "à surveiller" pour les eaux souterraines et de surface non AEP, avec cependant une marge d'incertitudes dans la notation.		
+2008	06	28		2008	06	28		du_dossier_déposé	Sur la base du dossier déposé le 28 juin 2008, la DRIRE propose, le 12/09/2008 de lancer l'enquête publique qui se déroule du 02/03/2009 au 31/03/2009.		'la DRIRE'
+								a_proposé	Le 01/09/09, la DRIRE a proposé l'arrêté en l'état au CODERST du 18/11/2009.		'la DRIRE'
+2012	03			2012	03			La_campagne_de	La campagne de mars 2012 donne les résultats suivants :		
+2006	12	31		2006	12	31		a_prescrit_la_fermeture_de_la_décharge	L'arrêté du 13/11/2005 a prescrit la fermeture de la décharge au 31/12/2006 et le dépôt d'un dossier de réhabilitation.		
+								la_surveillance_des_eaux_souterraines	L'arrêté du 03/03/08 relatif à la réhabilitation de la décharge prescrit la surveillance des eaux souterraines dans les conditions ci-après dans le délai de 6 mois :		
+2012				2012				en_aval_du_ruisseau_Coustalou_lors_des_campagnes	Les eaux superficielles prélevées en aval du ruisseau Coustalou lors des campagnes 2011, 2012 et 2013 ne présentent aucune anomalie particulière.		
+								institue_les	L'arrêté n°2010-36-3 signé le 05/02/2010 institue les servitudes d'utilité publiques suivantes :		
+2007	07	06		2007	07	06		L__exploitation_de	L'exploitation de cette décharge a été arrêtée le 06/07/2007, 5 ans après l'arrêt programmée au 1er/07/2002.		
+								les_travaux_de_réhabilitation	L'arrêté du 03/03/08 prescrit à la société F2A, représentée par son liquidateur judiciaire, les travaux de réhabilitation (stabilité, confinement, couverture et sécurité du site) dans le délai de 6 mois.		'la société F2A'
+2008	08	12		2008	08	12		dresse	La DRIRE dresse le procès-verbal de récolement des travaux de réhabilitation le 12/08/2008 et demande la restitution partielle (368 470 €) de la somme consignée le 13/09/2001.		'La DRIRE'
+2008	03	10		2008	03	10		a_été_déposé	L'arrêté du 03/03/08 relatif à la réhabilitation de la décharge prescrit une servitude d'utilité publique sur la base d'un dossier qui a été déposé par l'exploitant le 10 mars 2008.		

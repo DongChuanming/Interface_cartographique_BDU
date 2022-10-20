@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014				2014				a_pris_acte	En 2014, Monsieur le Préfet a pris acte du classement au titre de la rubrique 3550 de la nomenclature des installations classées.		'le Préfet'
+2018	01			2018	01			un_diagnostic_de_pollution	En janvier 2018, suite à la demande l'inspection des installations classées, l'exploitant a transmis un diagnostic de pollution des sols et des eaux souterraines.		
+1987				1987				exerce	La société SGA MEYER (société giennoise d'assinissement MEYER), exerce sur son site de Poilly-lez-Gien, une activité de collecte et de stockage temporaire de déchets industriels dangereux depuis 1987.	'déchets industriels dangereux'	'La société SGA MEYER', 'MEYER'

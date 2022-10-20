@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	01			2014	01			a_été_placée_en_liquidation_judiciaire	En janvier 2014, la société a été placée en liquidation judiciaire.		
+2014	02			2014	02			une_évaluation_environnementale	En février 2014, une évaluation environnementale a été réalisée par l'APAVE pour le compte de Maître Hazane.		"l' APAVE"
+2013	04	03		2013	04	03		a_été_placée_en_redressement_judiciaire	Le 03 avril 2013, la société GOSS INTERNATIONAL a été placée en redressement judiciaire par le Tribunal de Commerce de Compiègne.		'la société GOSS INTERNATIONAL', 'le Tribunal de Commerce de Compiègne'
+1992	05	29		1992	05	29		étaient_autorisées	Les activités étaient autorisées par arrêté préfectoral en date du 29 mai 1992.		

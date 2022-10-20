@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	07	15		2003	07	15		sont_définitivement_arrêtées	Depuis le 15/07/2003, les activités de production de l'établissement sont définitivement arrêtées.		
+2005	07	25		2005	07	25		est_donc_remise	Une nouvelle ESR est donc remise le 25/07/2005 à l'administration.		
+2003	08	04		2003	08	04		un_diagnostic_initial_de_sols	Le 04/08/2003, la société remet un diagnostic initial de sols et une évaluation simplifiée des risques (ESR) réalisés par le bureau d'études ATE GEOCLEAN.		'ATE GEOCLEAN'
+1975	06	26		1975	06	26		est_autorisé_à_exploiter	Le site est autorisé à exploiter par arrêté préfectoral du 07/12/1967 et arrêté complémentaire du 26/06/1975.		
+2008	04	08		2008	04	08		d__inspection_effectuée	Suite à une visite d'inspection effectuée le 08/04/2008, le rapport de l'inspection des installations classées du 23/04/2008, mentionne :		
+2008	08	05		2008	08	05		transmet	Le 05/08/2008, la société RIPS transmet le rapport de fin de réhabilitation établi par la société LISEC.		'la société RIPS', 'la société LISEC'
+2003	07	01		2003	07	01		a_informé	La société RIPS a informé la préfecture de sa cessation d'activité le 01/07/2003.		'La société RIPS'
+2006				2006				a_été_vendu	Le site a été vendu en 2006 à M.		
+2004	03	18		2004	03	18		transmet_une_enquête	Le 18/03/2004, la société RIPS transmet une enquête de proximité pour acquérir des précisions sur l'hydrogéologie du site et un diagnostic complémentaire de sol au droit du site de l'entreprise qui aboutissent à la conclusion suivante :		'la société RIPS'
+2008	10	21		2008	10	21		a_transmis_par_courrier	Le 21/10/2008, la société RIPS a transmis par courrier l'EQRS.		'la société RIPS'
+2006	10	04		2006	10	04		La_mise_en_route_du_chantier_de_réhabilitation	La mise en route du chantier de réhabilitation a eu lieu le 04/10/2006.		
+2006	10	18		2006	10	18		est_établi	Le 18/10/2006, le rapport d'intervention est établi.		

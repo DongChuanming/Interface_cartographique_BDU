@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1919				1919				a_été_doublé	Il a été doublé par un puits de sortie d'air , dénommé puits 4 (BASOl 67.0236) en 1919.		
+2008	05			2008	05			Une_téléinspection	Une téléinspection en mai 2008 a montré que le niveau du fluide se situait à -48 mètres.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'BRGM'
+2000				2000				Les_mesures_réalisées	Les mesures réalisées depuis 2000 montrent qu'ils ne seraient plus en communication et auraient ainsi un fonctionnement hydraulique différent.		
+1916				1916				Le_fonçage	Le fonçage du puits s'est déroulé en 1916.		

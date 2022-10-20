@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03			2008	03			Une_fuite_accidentelle	Une fuite accidentelle sur une cuve enterrée de 100 m3 en mars 2008 avait conduit à la perte de 59 m3  de fuel domestique dans les sols et la nappe.	'de fuel domestique'	
+2010	06			2010	06			se_sont_achevées	Les travaux de démantèlement des installations et les travaux d'excavation ont débuté le 29 mars 2010 et se sont achevées en juin 2010.		
+2010	03	29		2010	03	29		Les_travaux_de_démantèlement_des_installations	Les travaux de démantèlement des installations et les travaux d'excavation ont débuté le 29 mars 2010 et se sont achevées en juin 2010.		
+2010	03	09		2010	03	09		les_opérations_d__excavation	Afin de poursuivre la dépollution du site, les opérations d'excavation des terres ont été encadrées par arrêté préfectoral de prescriptions spéciales du 09 mars 2010.		
+2008	03			2008	03			hydrocarbures_récupérés	La quantité d'hydrocarbures récupérés depuis mars 2008 est estimée à 47 m3, soit un taux de récupération de l'ordre de 75 %.	'hydrocarbures'	
+2008	03			2010	03			Les_opérations_de_pompage	Les opérations de pompage/écrémage effectuées entre mars 2008 et mars 2010 ont permis de récupérer 21 700 l d'hydrocarbures.	'hydrocarbures'	

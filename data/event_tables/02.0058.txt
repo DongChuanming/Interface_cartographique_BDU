@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1950				2002				a_exploité	La société PECQUET TESSON a exploité à CROUY une chaudronnerie industrielle entre les années 1950 et 2002.		'La société PECQUET TESSON'
+2006	08			2006	08			Évaluation_Détaillée_des_Risques	- Évaluation Détaillée des Risques en août 2006.		
+2008	10	15		2008	10	15		signé	Compte tenu du changement d’usage envisagé par la Mairie de CROUY (industriel -> habitat) et afin d’encadrer les travaux, l’arrêté préfectoral complémentaire, signé le 15 octobre 2008, prescrivait à Me GANGLOFF la surveillance des eaux souterraines et la remise en état du site selon un usage industriel ou dédié à l’habitat.		'la Mairie de CROUY'
+2014	10			2017	02			Un_traitement_in___situ	Un traitement in-situ des sols et des eaux souterraines, par injection d’air et extraction des substances volatiles, a été conduit entre octobre 2014 et février 2017.		
+2003	12			2003	12			__Diagnostic_initial	- Diagnostic initial en décembre 2003 ;		
+2013	04	12		2013	04	12		a_donné	Le Préfet de région a donné son accord le 12/04/2013 pour une intervention ADEME.		'Le Préfet'
+2006	03			2006	03			Diagnostic_détaillé_de_la_pollution	- Diagnostic détaillé de la pollution en mars 2006 ;		
+2012	06	06		2012	06	06		Une_visite_préalable	Une visite préalable du site avec un chef de projets sites et sols pollués de l’ADEME a eu lieu le 06 juin 2012.		
+2014	09			2014	09			Des_opérations_d__excavations_de_sols_impactés	Des opérations d’excavations de sols impactés ont été réalisées en septembre 2014.		
+2013	05	17		2013	05	17		a_été_signé	L'arrêté préfectoral prescrivant les travaux d'office a été signé le 17/05/2013 et impose la réalisation d’un diagnostic environnemental permettant de s’assurer de la compatibilité entre l’état des milieux hors site et leurs usages constatés.		
+2010				2010				a_été_annulé	Cet arrêté préfectoral qui avait été contesté devant le tribunal administratif a été annulé en 2010.		
+2009				2009				s__est_effondrée	A l'été 2009, une corniche d'un bâtiment de l'îlot de la Bergerie s'est effondrée sur un véhicule en stationnement, le bâtiment a été démoli.		
+2011				2011				une_campagne_de_mesures	Le site étant situé à proximité d’habitations, la Mairie de CROUY a fait réaliser en 2011 une campagne de mesures de la qualité de l’air dans deux maisons situées à proximité de l’ancien site PECQUET TESSON.		'la Mairie de CROUY', 'PECQUET TESSON'
+2004	07			2004	07			__Diagnostic_complémentaire	- Diagnostic complémentaire en juillet 2004 ;		

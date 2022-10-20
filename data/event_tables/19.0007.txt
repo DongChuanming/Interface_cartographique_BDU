@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								est_alors_géré_par	Le dépôt est alors géré par la société GPBC (Groupement Pétrolier de Brive Corrèze).		
+2000				2000				repris_par	En 2000, le terrain est repris par la SCI MAZOBRIC pour la création d'une zone commerciale.		
+1984				1984				cesse_et_à_partir_de_1987	En 1984 l'exploitation cesse et à partir de 1987, le dépôt BP sert de stockage annexe (gazole et supercarburant) au dépôt TOTAL voisin (à ce jour encore en exploitation) auquel il est relié par une canalisation.	'supercarburant'	'dépôt BP sert de'

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1969				a_commencé	A partir de 1969, il a commencé une activité de garage qu'il a cessé en 1991.		
+2004	06			2004	06			L__ensemble_de_ces_travaux	L'ensemble de ces travaux ont été réalisés par l'entreprise TP PAJOT en juin 2004.		'TP PAJOT'
+2005	01	31		2005	01	31		s__était_alors_engagé	Suite à l'expertise judiciaire du 15 janvier 2005, Monsieur Burgaud s'était alors engagé le 31 janvier 2005 à enlever les déchets et remettre en état les lieux.	'les déchets'	
+2004				2004				dépôt_de_déchets_enfouis	Fin 2004, au cours de travaux d'aménagement du terrain, Monsieur et Madame Biraud ont découvert un dépôt de déchets enfouis par M.		
+2005	01	15		2005	01	15		l__expertise_judiciaire	Suite à l'expertise judiciaire du 15 janvier 2005, Monsieur Burgaud s'était alors engagé le 31 janvier 2005 à enlever les déchets et remettre en état les lieux.	'les déchets'	
+2005	12	13		2005	12	13		Des_analyses	Des analyses sur la zone polluée ont alors été effectuées par SAS Tertrade le 13 décembre 2005.		'SAS Tertrade'
+2005	06	02		2005	06	02		un_arrêté_municipal	De plus, Madame le Maire a établi un arrêté municipal daté du 2 juin 2005 mettant en demeure M.		'le Maire'
+2005	01	15		2005	01	15		s__était_alors_engagé	Suite à l'expertise judiciaire du 15 janvier 2005, Monsieur Burgaud s'était alors engagé le 31 janvier 2005 à enlever les déchets et remettre en état les lieux.	'les déchets'	
+2003	05	23		2003	05	23		ont_acheté_le_terrain_de_camping_à	Monsieur et Madame Biraud ont acheté le terrain de camping à Monsieur Burgaud le 23 mai 2003.		
+2004	03	05		2004	03	05		a_convoqué_les_deux_parties	L'expert judiciaire a convoqué les deux parties le 5/03/2004 au camping.		
+1991				1991				a_cessé	A partir de 1969, il a commencé une activité de garage qu'il a cessé en 1991.		
+2006	02	1		2006	02	1		la_réunion	Lors de la réunion d'expertise qui s'est tenue sur le site le 1er février 2006, il a été décidé de procéder au prélèvement de deux échantillons d'eau dans les ouvrages en eau présents sur le site : l'un à l'extrémité nord de l'étier central, l'autre à l'extrémité sud est du plan d'eau.		
+1969				1969				étaient_enfouis	Ces déchets étaient enfouis depuis les années 1968-1969.		
+1985				1985				avoir_développé	urgaud a déclaré avoir développé une activité de camping à la ferme au cours des saisons 1985 et 1986.		
+1968				1968				étaient_enfouis	Ces déchets étaient enfouis depuis les années 1968-1969.		

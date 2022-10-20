@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				Une_première_campagne_d__analyses	Une première campagne d’analyses réalisée en 1998, n’a pas mis en évidence de contamination des eaux souterraines liée au dépôt.		
+1999				1999				une_étude_de_caractérisation	Par ailleurs, une étude de caractérisation du site réalisée en 1999 a permis de reconnaître deux autres zones polluées, l’une dite « trémie » contient des hydrocarbures et l’autre dite « dépôt de noir » ayant l’aspect d’un déchet industriel.	'hydrocarbures'	
+2000	09	08		2000	09	08		in_du_traitement	in du traitement le 08/09/2000.		
+1991				1991				une_étude_réalisée	Ce dépôt fait partie des dépôts identifiés dans le cadre d'une étude réalisée en 1991 suite à l'apparition d'une dégradation organoleptique de l'eau du captage de Lingolsheim.		

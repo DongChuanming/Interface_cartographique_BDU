@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958	11			1958	11			a_été_arrêtée	Cette production a été arrêtée en novembre 1958.		
+1994	06			1994	06			Les_analyses_d__eau_effectuées	Les analyses d’eau effectuées en juin 1994, avant l’extraction des terres, ont montré une nette diminution de la teneur en HPA sur le piézomètre de surveillance, des traces très faibles sur le puits de M.		
+1892				1958				a_exploité	La ville de Ribeauvillé a exploité de 1892 à 1958 une usine à gaz sur le site de la Route de Guémar.		
+1994				1994				L__extraction	L'extraction des terres les plus polluées, le confinement et l'étanchéification du site ont été réalisés fin 1994. 300 tonnes de terres polluées à 690 mg/kg de HAP ont été extraites et stockées sur le site de Gravéco à Colmar puis ont été envoyées en traitement.	'HAP'	'Gravéco'
+1968				1968				a_cédé	En 1968 la ville de Ribeauvillé a cédé la concession de distribution du gaz à Gaz de France.		'Gaz de France'
+1936	12	14		1936	12	14		a_été_délivré	Un récépissé de déclaration de dépot de gaz butane et propane a été délivré le 14 décembre 1936.	'butane'	
+1993				1993				des_travaux_de_démolition	En 1993, en vue de la construction de l’Espace Culturel sur le site de l’ancienne usine à gaz, la ville de Ribeauvillé commence des travaux de démolition.		

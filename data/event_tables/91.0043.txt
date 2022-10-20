@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	04	27		2000	04	27		a_été_remis	Dans le cadre d'une démarche systématique d'évaluation sur certains sites industriels (circulaire du 3 avril 1996), le rapport correspondant (prescrit par arrêté du 28 octobre 1998) a été remis le 27 avril 2000 et classe le site en niveau 2, nécessitant une surveillance.		
+2014	07			2014	07			Les_analyses_d_	Les analyses d’octobre 2013 (0,9 µg/l), mai 2014 (1,5 µg/l) et juillet 2014 (0,9µg/l) montrent la réapparition du trichloroéthylène.	'trichloroéthylène'	
+2001				2001				n__est_pas_détecté	- le dichloroéthane n'est pas détecté depuis l'année 2000 en Pz1 et Pz2 et depuis 2001 au niveau du puits	'dichloroéthane'	
+2000				2000				n__est_pas_détecté	- le dichloroéthane n'est pas détecté depuis l'année 2000 en Pz1 et Pz2 et depuis 2001 au niveau du puits	'dichloroéthane'	
+2013	10			2013	10			Les_analyses_d_	Les analyses d’octobre 2013 (0,9 µg/l), mai 2014 (1,5 µg/l) et juillet 2014 (0,9µg/l) montrent la réapparition du trichloroéthylène.	'trichloroéthylène'	
+2012	11			2013	04			et	- le trichloréthylène n'est plus détecté à partir des analyses de 2006 au niveau des piézomètres PZ1 et Pz2, et entre novembre 2012 et avril 2013 au niveau du puits.	'le trichloréthylène'	
+2014	05			2014	05			Les_analyses_d_	Les analyses d’octobre 2013 (0,9 µg/l), mai 2014 (1,5 µg/l) et juillet 2014 (0,9µg/l) montrent la réapparition du trichloroéthylène.	'trichloroéthylène'	
+1965				1965				le_début_d__activité	SEPV est une usine de fabrication de peintures, vernis, enduits, décapants, destinés essentiellement aux professionnels du bâtiment dont le début d'activité remonte à 1965.	'décapants'	
+2012	11			2013	04			est_plus_détecté_à	- le trichloréthylène n'est plus détecté à partir des analyses de 2006 au niveau des piézomètres PZ1 et Pz2, et entre novembre 2012 et avril 2013 au niveau du puits.	'le trichloréthylène'	

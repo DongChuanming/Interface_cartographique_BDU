@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	18		2007	06	18		ont_été_remaniés	A la date du 18 juin 2007, les déchets ont été remaniés sur 35 m dans la partie Pierrefitte.		
+2003	06	30		2003	06	30		Synthèse_du_diagnostic_environnemental	Synthèse du diagnostic environnemental (30 juin 2003):		
+1999	02	02		1999	02	02		les_dossiers_de_cessation_définitive	Monsieur le Président du SISOV a transmis le 2 février 1999 à Monsieur le Préfet des Vosges les dossiers de cessation définitive d'activité concernant les 3 fours d'incinération de Contrexéville, Lerrain et Xertigny.		'le Président du SISOV', 'le Préfet des Vosges'

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	06			2001	06			tierce___expertise	Vu l’aménagement prévu sur la zone (école-logements), une Evalayation Détaillée des risques (EDR) a été réalisée et soumise à tierce-expertise (EDR et proposition de réhabilitation par le bureau d'études Gester en juin 2001, tierce expertise réalisée par l'INERIS en septembre 2002).		'Gester'
+2004	06			2005				a_été_réalisée	Une surveillance des gaz du sol a été réalisée entre juin 2004 et juillet 2005.		
+2004	07			2004	07			Une_EDR_ré_actualisée	Une EDR ré-actualisée a été mise à jour en intégrant le toluène mesuré en juillet 2004.	'toluène'	

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	10		2010	06	10		ont_été_éliminées	Le 10/06/2010, les terres souillées ont été éliminées et évacuées en installation de stockage de déchets dangereux.		
+2010	04	07		2010	04	07		a_été_vidangé	Le transformateur a été vidangé et enlevé le 07/04/2010.		
+2005	06			2005	06			une_mise_à_jour	Le transformateur avait fait l'objet d'une déclaration en préfecture en juin 2001 et une mise à jour en juin 2005.		
+2005	06			2005	06			une_déclaration_en_préfecture	Le transformateur avait fait l'objet d'une déclaration en préfecture en juin 2001 et une mise à jour en juin 2005.		
+2001	06			2001	06			une_déclaration_en_préfecture	Le transformateur avait fait l'objet d'une déclaration en préfecture en juin 2001 et une mise à jour en juin 2005.		

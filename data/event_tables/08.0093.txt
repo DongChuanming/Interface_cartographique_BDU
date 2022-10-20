@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1975	07	07		1975	07	07		est_autorisée_à_exploiter	La société Pierre ALVES et Fils est autorisée à exploiter son dépôt de déchets métalliques au travers de l'arrêté préfectoral d’autorisation du 7 juillet 1975.	'déchets métalliques'	'La société Pierre ALVES'
+2009				2009				Un_diagnostic_initial_de_sols	Un diagnostic initial de sols et une IEM ont été réalisés en 2009.		
+2011	12	28		2011	12	28		a_été_racheté	Cette société a été racheté le 28 décembre 2011 par le groupe GALLOO et est devenue GALLO FRANCE BOURG FIDELE.		'groupe GALLOO', 'GALLO FRANCE BOURG FIDELE'

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				a_cessé	Racheté par HENKEL en 2001, il a cessé son activité mi 2006.		'HENKEL'
+2004	04			2005	12			des_analyses_de_sols	Entre avril 2004 et décembre 2005, des analyses de sols ont été menées.		
+2007	04	10		2007	04	10		a_été_prescrit	Un suivi piézométrique a été prescrit à HENKEL par arrêté préfectoral du 10 avril 2007.		'HENKEL'
+2001				2001				a_cessé	Racheté par HENKEL en 2001, il a cessé son activité mi 2006.		'HENKEL'
+1971				1971				exploité	Site de 2,6 ha spécialisé dans la fabrication de détergents et savons, exploité depuis 1971 par PENNWALT, PENN Chimie, puis TURCO.		'PENNWALT', 'PENN Chimie', 'TURCO'

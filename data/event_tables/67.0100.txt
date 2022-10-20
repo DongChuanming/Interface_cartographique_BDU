@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				Les_travaux_pourraient_commencer	Les travaux pourraient commencer courant 2005.		
+1985				1985				Une_étude_de_stabilité	Une étude de stabilité a été menée dès 1985 par le BRGM (rapport BRGM 85 SGAL 061).		'le BRGM', 'BRGM'
+1996				1996				ont_été_réalisés	Suite à des suintements d'huile, un drain et un piège à huile ont été réalisés en 1996 pour protéger le ruisseau du willenbach (rapport BRGM R39183).	'huile'	
+2005				2005				est_prévu	Le choix de la méthode de stabilisation est prévu début 2005.		

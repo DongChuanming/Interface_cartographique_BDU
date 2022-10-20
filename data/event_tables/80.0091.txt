@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				La_fermeture_définitive	La fermeture définitive est intervenue en 2007.		
+2010	09			2010	09			ont_été_transmis	L'IEM et le plan de gestion ont été transmis au préfet en septembre 2010.		'préfet'
+1992				2006				a_été_exploité	Ce site effectuant du nettoyage de serviettes industrielles a été exploité de 1992 à 2006 par EURONET puis cédé en 2006 à la société MEWA.		'EURONET', 'la société MEWA'
+2006				2006				cédé	Ce site effectuant du nettoyage de serviettes industrielles a été exploité de 1992 à 2006 par EURONET puis cédé en 2006 à la société MEWA.		'EURONET', 'la société MEWA'

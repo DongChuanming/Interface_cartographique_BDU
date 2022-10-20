@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				entreprises_industrielles_ou_artisanales	En 2004, une partie des ateliers était occupée par des entreprises industrielles ou artisanales.		
+2004				2004				était_occupée_par	En 2004, une partie des ateliers était occupée par des entreprises industrielles ou artisanales.		
+2007				2007				est_effective	La surveillance de la qualité de la nappe est effective depuis début 2007.		
+2001				2002				une_évaluation_simplifiée_des_risques	Dans le cadre de la cessation d'activité de son établissement, l’exploitant de la société COMAP a fait réaliser une évaluation simplifiée des risques entre 2001 et 2002.		'la société COMAP'
+2001				2001				a_été_inondée	En 2001, une partie du site a été inondée.		
+2004	11	17		2004	11	17		prescrivant	L'arrêté prescrivant du 17 novembre 2004 a imposé cette surveillance des eaux souterraines ainsi que la mise en place de servitudes afin de garantir un usage futur du site compatible avec la pollution identifiée.		

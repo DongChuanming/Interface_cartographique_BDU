@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	11	05		2010	11	05		a_été_délivré	Le récépissé de cette déclaration a été délivré le 5 novembre 2010.		
+2010	06			2010	06			la_cessation	Customagic a déclaré dans la foulée (juin 2010) la cessation de toutes ces activités.		'Customagic'
+2010	06			2010	06			la_reprise_du_site	La société Customagic a déclaré (régularisé) la reprise du site en juin 2010 (cuves aériennes : 16,7 m3 equivalent (110, 50 et 3 m3) et chaudière 12 MW) avec une nouvelle déclaration pour du stockage de matières combustibles en entrepôt couvert (12 000 m3).	'combustibles'	'La société Customagic'

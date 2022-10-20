@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1986	12	13		1986	12	13		exploitée_de	Décharge contrôlée communale d'ordures ménagères exploitée de fin 1984 au 13/12/1986.	'ordures ménagères'	
+2016				2016				est_toujours_en_cours	En 2016, l'autosurveillance de la nappe est toujours en cours.		
+2004				2004				a_été_réalisée	la première partie du diagnostic initial (étape A) a été réalisée en 2004.		
+1980				1980				impose_de_regrouper_et_de_stocker	En 1980, dans l’objectif d’éliminer les petites décharges sauvages, la Direction Départementale de l’Agriculture impose de regrouper et de stocker les déchets ménagers des communes du secteur dans un site aménagé dont la gestion sera assurée par le syndicat SIROM de Champniers.		'la Direction Départementale', 'le syndicat SIROM'
+1998	08			1998	08			une_étude_de_réhabilitation	L'inspection a demandé à la commune en août 1998 une étude de réhabilitation du site.		
+1986				1986				Au_début_de_l_	Au début de l’hiver 1985-1986, des signes de pollution à la source de l’œil du Cros à Ladoux sont constatés (truites mortes, développement d'algues brunes filamenteuses).		
+2011	07			2011	07			nous_avons_présenté	En juillet 2011, nous avons présenté le projets de réhabilitation de  la décharges de Marsac aux services de la DREAL.  Une évaluation des risques simplifiée des risques à classés ce site en classe 2 indiquant que l'impact ou le risque limité persiste.		'de la DREAL'
+2105	11	24		2105	11	24		Une_visite_de_constat_de_fin_de_travaux	Une visite de constat de fin de travaux a été réalisée le 24 novembre 2105 par M.		
+2005				2005				a_été_rendue	La deuxième partie du diagnostic initial (étape b) a été rendue en 2005.		
+2014	03	24		2014	03	24		avons_transmis	Ce projet étant validé, nous vous avons transmis le 24 mars 2014 les dossiers présentant leur historique et le projet de travaux de réhabilitation.		
+1986				1986				est_réalisée	Au cours de l’été 1986, une campagne de traçage est réalisée par la société Hydro Invest à la demande du SIROM.		'la société Hydro', 'SIROM'
+1981				1981				émet	En 1981, Le géologue émet un avis favorable à l’implantation d’une installation de stockage sous réserve du respect des prescriptions techniques d’aménagement telles qu'une couche de forme d’un mètre en fond de stockage, une gestion par petit casier de stockage, des lagunes de stockage des effluents pollués.	'effluents'	
+2004	10			2004	10			a_été_installé	Un piézomètre amont a été installé en octobre 2004.		
+2001	10			2001	10			s__est_vue_chargée	Depuis, la DRIRE s'est vue chargée, en octobre 2001, de l'inspection des installations de stockage de déchets ménagers et assimilés sur le département de la Charente, succédant ainsi à la DDASS.	'stockage de déchets'	'la DRIRE', 'la Charente', 'la DDASS'
+2002				2002				a_été_transmise	Suite à ce transfert de compétence, l'étude susvisée a été transmise à la DRIRE par l'exploitant en 2002.		'la DRIRE'
+1984				1984				exploitée_de	Décharge contrôlée communale d'ordures ménagères exploitée de fin 1984 au 13/12/1986.	'ordures ménagères'	
+1986				1986				L__exploitation	L'exploitation de cette décharge contrôlée d'ordures ménagères a été arrêtée en 1986 à la suite de la pollution d'une petite résurgence.	'ordures ménagères'	
+1984				1986				aurait_accueilli	La décharge aurait accueilli environ 21 000 m3 de déchets de 1984 à 1986.		
+1985				1985				Au_début_de_l_	Au début de l’hiver 1985-1986, des signes de pollution à la source de l’œil du Cros à Ladoux sont constatés (truites mortes, développement d'algues brunes filamenteuses).		
+2015	11			2015	11			a_engagé_les_travaux_de_réhabilitation	Calitom a engagé les travaux de réhabilitation en 2015 qui ont été achevés en novembre 2015.		'Calitom'
+1984				1984				La_mise_en_exploitation	La mise en exploitation de la décharge a démarré en fin d’année 1984.		
+2015				2015				a_engagé_les_travaux_de_réhabilitation	Calitom a engagé les travaux de réhabilitation en 2015 qui ont été achevés en novembre 2015.		'Calitom'
+2003	11	20		2003	11	20		s__est_vu_imposer	Par arrêté préfectoral du 20 novembre 2003, le Syndicat de valorisation des déchets ménagers de la Charente (SVDM), qui a repris la responsabilité de ce site, s'est vu imposer d'une part la réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques (ESR) et d'autre part la mise en oeuvre d'une surveillance semestrielle (en périodes de hautes et basses eaux) des eaux souterraines.		'le Syndicat de valorisation des déchets ménagers', 'de la Charente', 'SVDM'
+1999				1999				est_réalisé	Un suivi annuel des eaux souterraines et de la résurgence jadis polluée est réalisé depuis 1999.		

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	02	22		2002	02	22		ESR___a_été_prescrite	Suite à la découverte d'une pollution du sol par les hydrocarbures, une évaluation simplifiée des risques (ESR) a été prescrite à la société STOCKO CONTACT par AP complémentaire en date du 22/02/2002.	'hydrocarbures'	'la société STOCKO CONTACT'
+								a_été_rendu	L'ESR a été rendu le 24/06/02.  Le site est classé en catégorie II : à surveiller au regard de la pollution par les hydrocarbures.	'les hydrocarbures'	

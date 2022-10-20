@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				____analyses_de_sols	- mars 2015 : analyses de sols sur site et hors site (2004, 2006 et 2015), diagnostic de sols aux abords de la Dranse, interprétation de l’état des milieux.		
+1971				1971				Un_traitement_physico___chimique	Un traitement physico-chimique des effluents a été mis en place en 1971.		
+2017	03			2017	03			mise_à_jour	- mars 2017 : mise à jour de l'interprétation de l'état des milieux, évaluation quantitative des risques sanitaires, mesures de gestion.		
+2015				2015				____analyses_de_sols	- mars 2015 : analyses de sols sur site et hors site (2004, 2006 et 2015), diagnostic de sols aux abords de la Dranse, interprétation de l’état des milieux.		
+2004				2004				Un_incendie_est_survenu	Un incendie est survenu en 2004 au droit du local de maintenance et des chaines de traitement (chromage, étamage).		
+1957				1957				a_été_exercée	Une activité de traitement des revêtements métalliques a été exercée par CHROMELECTRO depuis 1957.		'CHROMELECTRO'
+2004	10			2004	10			____Evaluation_de_l__impact	- avril et octobre 2004 : Evaluation de l’impact du rejet des eaux de l’usine et mise en place d’un réseau de surveillance des eaux souterraines ;		
+2006				2006				____analyses_de_sols	- mars 2015 : analyses de sols sur site et hors site (2004, 2006 et 2015), diagnostic de sols aux abords de la Dranse, interprétation de l’état des milieux.		
+2004				2004				Plusieurs_études_environnementales	Plusieurs études environnementales ont été réalisées depuis 2004 :		
+								____Evaluation_de_l__impact	- avril et octobre 2004 : Evaluation de l’impact du rejet des eaux de l’usine et mise en place d’un réseau de surveillance des eaux souterraines ;		
+2015	03			2015	03			____analyses_de_sols	- mars 2015 : analyses de sols sur site et hors site (2004, 2006 et 2015), diagnostic de sols aux abords de la Dranse, interprétation de l’état des milieux.		
+2000				2000				a_repris	En 2000, la société METAL X a repris l'activité de traitement de surface de métaux , dont les eaux de process, après traitement, sont rejetées vers le milieu naturel via une canalisation puis un fossé, à environ 100 m à l’Ouest du site au sein de la réserve naturelle Natura 2000 (ZPS FR8210018) du delta de la « Dranse ».		'la société METAL X', 'Dranse'

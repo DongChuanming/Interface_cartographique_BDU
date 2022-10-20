@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04			2006	04			La_campagne_de_mesure	La campagne de mesure d'avril 2006 montre que :		
+2011	11			2011	11			arrêté	- Site industriel arrêté depuis novembre 2011		
+2005	04			2005	04			La_campagne_de_mesure	La campagne de mesure d'avril 2005 montre : un retour en dessous des normes imposées en concentration de nickel au droit du puit de forage après les dépassement constatés en octobre 2004.		
+2007				2007				La_campagne_de_mesure	La campagne de mesure 2007 ne montre aucune anomalie.		
+2000	01	05		2000	01	05		l__Etude_de_sols	- l'Etude de sols dans sa phase A (du 05/01/2000) a mis en évidence la nécessité de poursuivre les études par des investigations de terrain (phase B).		

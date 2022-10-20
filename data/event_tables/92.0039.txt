@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	09	29		1997	09	29		la_cessation_d__activité	Suite à la cessation d'activité le 29/09/1997, un mémoire sur l'état du site a été réalisé et une proposition de traitement faite; le sol et la nappe étaient pollués par des solvants chlorés.	'des solvants chlorés'	
+2001	01	16		2001	01	16		a_été_pris	Un arrêté préfectoral de remise en état du site a été pris le 16/01/2001, les travaux de dépollution ont été réalisés et un PV de récolement a été rédigé le 12/12/2002.		
+				2009				a_été_réalisé	Un suivi analytique de la qualité de la nappe a été réalisé jusqu'en 2009.		
+2002	12	12		2002	12	12		PV_de_récolement	Un arrêté préfectoral de remise en état du site a été pris le 16/01/2001, les travaux de dépollution ont été réalisés et un PV de récolement a été rédigé le 12/12/2002.		

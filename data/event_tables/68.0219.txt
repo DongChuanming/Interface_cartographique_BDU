@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	04	09		2014	04	09		La_mise_en_sécurité	La mise en sécurité du site a été constatée lors de la visite d'inspection du 9 avril 2014.		
+2014				2014				a_procédé_à_la_cessation_définitive	La société Trelleborg a procédé à la cessation définitive de son activité de fabrication de produits à base de caoutchouc début 2014 pour la rapatrier sur son site de Cernay.	'caoutchouc'	'La société Trelleborg'
+1998				1998				Des_investigations_menées	Des investigations menées sur les sols en 1998 ont mis en évidence des impacts ponctuels en hydrocarbures pétroliers raffinés.	'hydrocarbures pétroliers'	
+1999				1999				réalisé	Le suivi de la qualité des eaux souterraines, réalisé depuis 1999, a indiqué la présence d’impacts en solvants chlorés et en hydrocarbures dans les eaux souterraines au droit du site.	'solvants chlorés', 'hydrocarbures'	
+2017	04			2017	04			La_dépollution_des_eaux_souterraines	La dépollution des eaux souterraines par biostimulation anaérobie a démarré en avril 2017.		

@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2006				a_été_exploitée	Elle a été exploitée par la société BOIDIS (enseigne Intermaché) jusqu’en 2006 puis par la société CASINO CARBURANTS.		'la société BOIDIS', 'Intermaché', 'la société CASINO CARBURANTS'
+2002				2002				ont_été_découvertes	En 2002, lors du remplacement d’une cuve enterrée, des terres odorantes ont été découvertes.		
+2011	05			2011	05			De_nouveaux_sondages	De nouveaux sondages ont été effectués en mai 2011 : 5 sondages et 1 piézomètre ont été réalisés.		
+2010	06			2010	06			Des_forages_ont_été_effectués	Des forages ont été effectués en juin 2010 : 3 sondages et 1 piézomètre ont été réalisés.		
+2012	07	18		2012	07	18		La_notification_de_cessation_d__activité	La notification de cessation d'activité du 18/07/2012 était accompagnée des documents suivants :		
+2011	06	24		2011	06	24		Diagnostic_complémentaire	- Diagnostic complémentaire de la qualité du sous-sol, daté du 24/06/2011 ;		
+				2013				Les_travaux_de_dépollution	Les travaux de dépollution se sont déroulés entre le 02 et le 23 juillet 2013.		

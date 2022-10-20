@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1947				1996				a_été_utilisé	Situé sur un terrain de 7000 m² en zone industrielle portuaire proche de la Loire, le centre de stockage et de conditionnement de produits alcoolisés, pétroliers et chimiques a été utilisé de 1947 à 1996.	'produits alcoolisés'	
+1996	01			1996	01			a_cessé_toute_activité	Ce site a cessé toute activité en janvier 1996.		
+1999	02	16		1999	02	16		L__étude_fournie	L'étude fournie le 16 février 1999 préconise soit une surveillance du site, soit un traitement des sources de pollution constatées autour de l'aire de chargement.		

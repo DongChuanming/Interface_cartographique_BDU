@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1937				1937				furent_démantelés	En 1937, les gazomètres furent démantelés et les citernes remblayées.		
+2008				2010				un_réaménagement	Entre 2008 et 2010, ce site fait l’objet d’un réaménagement précédé d’une dépollution complémentaire.		
+2006	08	17		2006	08	17		débutent	Les travaux de dépollution du site débutent  le 17/08/2006 et se terminent le 22/05/2007.		
+								Des_investigations_complémentaires	Des investigations complémentaires et une Evaluation Quantitative des Risques Sanitaires ont été menées en Février et Mars 2010.	'Sanitaires'	
+1920				1927				arrêtée	L'usine fut créée vers 1832 et arrêtée entre 1920 et 1927.		
+1976				1976				fut_découverte	En 1976 fut découverte une fosse à goudrons (200 à 300 m3) qui fut remblayée avec du tout-venant.	'goudrons'	
+								Les_campagnes	Les campagnes des eaux souterraines de mai et septembre 2009 ont mis en évidence la présence de surnageant (hydrocarbures contenant une faible quantité de PCB -70 à 100mm d’épaisseur) uniquement sur un piézomètre (Nord-Est du site).	'surnageant', 'hydrocarbures', 'PCB'	
+1932				1932				furent_démolies	Avant 1932, les deux salles des fours et la salle d'épuration furent démolies et une station électrique regroupant cinq salles de transformateurs construite (abandon de cette station dans les années 1980).		
+								abandon	Avant 1932, les deux salles des fours et la salle d'épuration furent démolies et une station électrique regroupant cinq salles de transformateurs construite (abandon de cette station dans les années 1980).		
+1920				1927				fut_créée	L'usine fut créée vers 1832 et arrêtée entre 1920 et 1927.		
+2007	05	22		2007	05	22		et_se_terminent	Les travaux de dépollution du site débutent  le 17/08/2006 et se terminent le 22/05/2007.		
+2007				2007				fait_l__acquisition_du_site	En 2007, suite aux travaux de réhabilitation, la SNC Amiral Cécille – Bouygues immobilier fait l’acquisition du site.		'la SNC Amiral Cécille'
+2009	09			2009	09			Les_campagnes	Les campagnes des eaux souterraines de mai et septembre 2009 ont mis en évidence la présence de surnageant (hydrocarbures contenant une faible quantité de PCB -70 à 100mm d’épaisseur) uniquement sur un piézomètre (Nord-Est du site).	'surnageant', 'hydrocarbures', 'PCB'	
+2010	03			2010	03			Des_investigations_complémentaires	Des investigations complémentaires et une Evaluation Quantitative des Risques Sanitaires ont été menées en Février et Mars 2010.	'Sanitaires'	
+1832				1832				fut_créée	L'usine fut créée vers 1832 et arrêtée entre 1920 et 1927.		
+2007	05	24		2007	05	24		la_campagne_du	Les résultats de la campagne du 24 Mai 2007 montrent l’absence de teneurs significatives en hydrocarbures aromatiques monocycliques et polycycliques.	'hydrocarbures aromatiques monocycliques', 'polycycliques'	

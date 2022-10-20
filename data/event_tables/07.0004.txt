@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				_La_mise_au_norme	-La mise au norme de certains stockages a été réalisée en 1999.		
+1996	04	03		1996	04	03		a_été_sélectionné	Le site a été sélectionné dans le cadre de la circulaire du 03/04/1996.		
+1998	11	13		1998	11	13		une_étude_des_sols	Dans ce cadre, une étude des sols a été prescrite à cet exploitant par arrêté préfectoral du 13/11/1998.		
+1999				1999				_La_suppression_des_stockages	-La suppression des stockages d'hydrocarbures anciens et traitement des sols ont été effectués en 1999.	'hydrocarbures'	
+1999				1999				_La_vérification	-La vérification des cuvettes de rétention a été faite en 1999.		
+1977				1977				a_été_acheté	Ce terrain de faible superficie a été acheté par la société IRIS BUS en 1977.		'la société IRIS BUS'
+1998				1998				Une_étude_simplifiée_des_risques	Une étude simplifiée des risques (ESR) a été menée par la Société DAMES & MOORE en 1998.		'la Société DAMES & MOORE'
+1922				1922				implantée	Il s'agit d'une usine de fabrication d'autocars et d'autobus implantée sur ce site depuis 1922		

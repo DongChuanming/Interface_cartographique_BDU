@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	09			2015	09			ont_été_réalisés	Des prélèvement d'air ambiant ont été réalisés en septembre 2015 sur le site dans le sous-sol, dans un appartement et à l'extérieur.		
+2009	03	31		2009	03	31		L__arrêt_de	L'arrêt de l'activité a été effectif le 31 mars 2009.		
+2015	09			2015	09			Des_investigations_ont_été_réalisées	Des investigations ont été réalisées dans les gaz du sol en septembre 2015 à l'aide de 3 piézairs implantés au droit des points ayant présenté les concentrations en hydrocarbures les plus élevées en fin de traitement.	'hydrocarbures'	
+2012	09			2012	09			un_diagnostic_initial_des_sols	Dans le cadre de la cessation d’activité de la distribution de carburants du garage HORIZON et du projet d’aménagement du site porté par la société SOGEPROM, un diagnostic initial des sols a été réalisé en septembre 2012.	'carburants'	'garage HORIZON', 'la société SOGEPROM'
+2015	12	17		2015	12	17		L__aménageur	L'aménageur a signalé le 17 décembre 2015 que le rapport d'ARR accompagné de ses annexes ainsi que d'une note technique relative aux restrictions d'usage seront publiés à la conservation des hypothèques afin de permettre la conservation de la mémoire de la pollution du site.		
+2015	07	1		2015	07	1		de_sa_visite	Lors de sa visite du 1er juillet 2015, l'inspection a constaté que la construction de l'immeuble sur rue avait commencé et que la poursuite du traitement de la source de pollution, située sous ce bâtiment, ne semblait plus envisageable.		
+2013	09			2013	09			Ce_traitement_a_été_entrepris	Ce traitement a été entrepris en septembre 2013, la cuve de 7500 l ayant été préalablement retirée.		
+2011	03	30		2011	03	30		La_déclaration_de_cessation_d__activité	La déclaration de cessation d'activité a été effectuée le 30 mars 2011.		

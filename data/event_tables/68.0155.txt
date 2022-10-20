@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Les_travaux_qui_ont_démarrés	Les travaux qui ont démarrés en 2009 pour le shunt TGV a été terminé en 2012.		
+2009				2009				Les_travaux_qui_ont_démarrés	Les travaux qui ont démarrés en 2009 pour le shunt TGV a été terminé en 2012.		
+2006	06	20		2006	06	20		la_réunion	Suite à la réunion des 31  mars et 20 juin 2006 (RFF-CG-Tauw Environnement-Ville de Mulhouse) le tracé initial du chenal a été déplacé pour disposer d’une emprise suffisante pour le dépôt.		'( RFF - CG -'
+								la_réunion	Suite à la réunion des 31  mars et 20 juin 2006 (RFF-CG-Tauw Environnement-Ville de Mulhouse) le tracé initial du chenal a été déplacé pour disposer d’une emprise suffisante pour le dépôt.		'( RFF - CG -'
+2004	02	02		2004	02	02		confirmait	Par courrier en date du 02 février 2004, la ville de Mulhouse confirmait au Préfet qu’elle était propriétaire, sous la section NP de la parcelle 28, terrain appelé « Cockrouri ».		'la ville de Mulhouse', '\xa0 Cockrouri'
+2013				2013				seront_achevés	Concernant les travaux du chenal de liaison entre le canal de décharge de l’Ill et le canal du Rhône au Rhin, ils seront achevés courant 2013		

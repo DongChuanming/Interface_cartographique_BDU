@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02			2008	02			a_été_rédigé	Le dernier a été rédigé au mois de février 2008.		
+1978				1978				est_réalisé	Un suivi piézométrique global du Complexe Pétrolier (sur les hydrocarbures) est réalisé depuis 1978.	'hydrocarbures'	
+								la_concentration_maximale	Sur l'ensemble des 29 dernières années la concentration maximale en HCT a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du Port Édouard Herriot), elle était alors de 64 260 mg/l.	'HCT'	
+1998				1998				ont_été_modifiées	Les installations des Entrepôts Pétroliers de Lyon ont été modifiées en 1998 dans le cadre du resserrement des dépôts pétroliers, la capacité de stockage a été augmenté jusqu'à environ 180 000 m3 d'hydrocarbures commerciaux.	'hydrocarbures'	'Entrepôts Pétroliers de Lyon'
+				2005	06	09		a_ensuite_progressivement_diminué	La concentration a ensuite progressivement diminué jusqu'au 09/06/2005 où elle atteignait 3,5 mg/l.		
+1990	01	31		1990	01	31		la_concentration_maximale	Sur l'ensemble des 29 dernières années la concentration maximale en HCT a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du Port Édouard Herriot), elle était alors de 64 260 mg/l.	'HCT'	
+1996				1996				Une_étude_globale	Une étude globale de la pollution de sol du Complexe a été réalisée en 1996, elle fait l'objet d'une fiche spécifique (Port Edouard Herriot-Complexe Pétrolier).		'Complexe Pétrolier'
+								Cette_étude_globale	Cette étude globale a été demandée en s'appuyant sur les travaux préparatoires de la circulaire du 03/04/96.		
+								Sur_l_	Sur l'ensemble des 29 dernières années la concentration maximale en HCT a été atteinte le 31/01/1990 sur le PZ1 (situé au nord du Port Édouard Herriot), elle était alors de 64 260 mg/l.	'HCT'	

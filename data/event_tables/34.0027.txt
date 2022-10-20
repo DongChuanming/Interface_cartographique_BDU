@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1983				1983				a_été_ouvert	En 1983 il a été ouvert pour récupérer du mispickel qui a été envoyé dans les installations de la société SMPCS à Salsigne.		'la société SMPCS', 'Salsigne'
+1959				1959				ont_été_examinées	Les conditions de réalisation de ce dépot ont été examinées en 1959 par le conseil départemental d'hygiène.		"le conseil départemental d' hygiène"
+								a_été_aménagé	Le cocon du RD8 a été aménagé dans les années 59 à 62 pour stocker les déblais issus du démentellement de l'usine de ceilhes et Rocozels.		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008				2008				campagne_de_mesures	Toutefois les dispositifs de surveillance de la nappe après cette date ont été rebouchés, et aucun résultat de mesure ultérieur n'est disponible : en conséquence l'exploitant prévoit de réaliser une étude complémentaire d'implantation de nouveaux ouvrages et l'engagement d'une première campagne de mesures en 2008.		
+1993				1996				Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés de 1993 à 1996, et ont permis de récupérer 180 m3 de gazole.	'gazole'	
+2008				2008				prévoit	Toutefois les dispositifs de surveillance de la nappe après cette date ont été rebouchés, et aucun résultat de mesure ultérieur n'est disponible : en conséquence l'exploitant prévoit de réaliser une étude complémentaire d'implantation de nouveaux ouvrages et l'engagement d'une première campagne de mesures en 2008.		
+1992	05			1992	05			Des_travaux_d__urgence	Des travaux d'urgence ont été réalisés en mai 1992.		
+1990				1992	05			des_infiltrations	La nappe souterraine est polluée par des infiltrations de gasoil en provenance de la centrale électrique EDF de la Désirade qui se sont produites entre la fin 1990 et mai 1992 ; 6 puits de propriétaires privés ont été pollués autour du site.	'gasoil'	'EDF de la Désirade'
+				1996	08	03		Une_campagne_finale_d__analyses	Une campagne finale d'analyses a été réalisée du 29 juillet au 3 août 1996 pour mesurer l'efficacité des traitements de dépollution appliqués.		

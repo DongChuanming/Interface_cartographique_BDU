@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	01	07		2008	01	07		permis_délivré	Depuis, un immeuble de logements a été construit sur le site( permis délivré le 07 janvier 2008).		
+1997				1997				du_rachat	Du fait du rachat du site par la municipalité d'Equeurdreville Hainneville en 1997, la DRIRE (devenue DREAL depuis) n'a eu qu'un rôle de conseil au début du projet de réhabilitation.		'la DRIRE', 'DREAL'
+2008	01	07		2008	01	07		a_été_construit	Depuis, un immeuble de logements a été construit sur le site( permis délivré le 07 janvier 2008).		
+2006	02			2006	02			un_diagnostic_initial	La municipalité a lancé les premières investigations afin de réhabiliter cette zone industrielle, un diagnostic initial et une évaluation simplifiée des risques ont été réalisés en février 2006.		
+1997				1997				a_acquis	La municipalité a acquis le site en 1997 pour y exercer des activités de stockage de matériels.		
+								se_sont_poursuivies	Les activités de chaudronnerie se sont poursuivies jusqu'au début des années 1990.		
+2007				2007				ces_travaux_étaient	Le site se trouvant en zone urbaine, des travaux de réhabilitation ont été portés par l'EPFN (propriétaire au moment des travaux) ; ces travaux étaient prévus en 2007.		"l' EPFN"
+1990				1990				devient	En 1990, la société Herlicq devient le nouvel exploitant.		'la société Herlicq'
+1997				1997				n__a_eu_qu_	Du fait du rachat du site par la municipalité d'Equeurdreville Hainneville en 1997, la DRIRE (devenue DREAL depuis) n'a eu qu'un rôle de conseil au début du projet de réhabilitation.		'la DRIRE', 'DREAL'

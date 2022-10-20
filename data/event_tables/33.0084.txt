@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	05	30		2012	05	30		La_campagne_du	La campagne du 30 mai 2012 montre que les teneurs en arsenic, chrome total, chrome VI et cuivre sont, lorsqu'elles sont détectées, inférieures aux valeurs limites de qualité des eaux destinées à la consommation humaine.	'arsenic', 'chrome total', 'chrome VI', 'cuivre'	
+2011	09	22		2011	09	22		La_campagne_effectuée	La campagne effectuée le 22 septembre 2011, a permis de noter :		
+1989	08			1989	08			Un_incendie	Un incendie des installations de fabrication de piquets faisant ni victime ni pollution se produit en août 1989.		
+2002	06			2002	06			L__étude_de_sol_complémentaire	L'étude de sol complémentaire de la zone de créosotage, remise en juin 2002, met en évidence la présence de créosote dans les sols et dans la nappe.	'créosote'	
+2000				2000				Les_travaux_de_changement_de	Les travaux de changement de cuvette de rétention sont réalisés en 2000.		
+								__est_autorisée_à_exploiter_cette_installation	Par la suite, la société THERMYA  est autorisée à exploiter cette installation à titre expérimental pendant une durée de 6 mois par l'arrêté préfectoral du 13 mai 2005.		'la société THERMYA'
+2018	04			2018	04			de_la_campagne_d_	Lors de la campagne d'avril 2018, une dégradation de la qualité des eaux souterraines est notée, notamment au niveau des ouvrages PZC et PZA, où des impacts en HAP sont de nouveau mesurés.	'HAP'	
+2013	12			2013	12			de_la_campagne	Lors de la campagne de décembre 2013, la qualité géochimique des eaux souterraines s’écoulant au droit de la zone est satisfaisante sur l'ensemble des paramètres recherchés, hormis un léger dépassement en As au niveau de l’ouvrage Pz6 (12 ug/l pour une valeur seuil de 10 ug/l).		
+1998				1998				sollicite_une_demande	En 1998, la sté sollicite une demande d'autorisation de fonctionnement, à titre expérimental, d'une installation de recyclage de bois traités.		
+1950				1950				Le_démantèlement_des_installations	Le démantèlement des installations Boucherie et la modernisation de la fabrication des poteaux par la mise en place d'un autoclave pour injecter la solution de sulfate de cuivre a lieu en 1950.	'sulfate', 'cuivre'	
+1994	11	22		1994	11	22		est_réglementé	L'établissement qui relève de la Directive Seveso est réglementé par les prescriptions de l'arrêté préfectoral du 22 novembre 1994.	'Seveso'	
+2011	03	08		2011	03	08		La_campagne_effectuée	La campagne effectuée le 08 mars 2011, a permis de noter :		
+1980				1980				installe	En 1980, la Sté Xylochimie installe sur le site un autoclave, pour le traitement du bois, utilisant une solution aqueuse contenant des sels métalliques de cuivre, chrome et arsenic.	'des sels métalliques', 'cuivre', 'chrome', 'arsenic'	'la Sté Xylochimie'
+2005	12	07		2005	12	07		La_campagne_du	La campagne du 7 décembre 2005 montre une baisse globale des concentrations mais des teneurs supérieures aux valeurs de référence des eaux brutes pour la consommation humaine sont relevées pour le chrome en PZ6 et les HAP en PZC.	'le chrome', 'PZ6', 'les HAP', 'PZC'	
+1913				1913				acquière	La Sté Anonyme des Ets Armand Beaumartin acquière l'usine de St Médard d'Eyrans en 1913 pour la fabrication :		'Sté Anonyme des Ets Armand Beaumartin'
+2014				2016				l__analyse	Les campagnes de 2014 à 2016 comprenaient l’analyse de l’ensemble des paramètres sur l’ensemble des		
+2005	05	13		2005	05	13		__est_autorisée_à_exploiter_cette_installation	Par la suite, la société THERMYA  est autorisée à exploiter cette installation à titre expérimental pendant une durée de 6 mois par l'arrêté préfectoral du 13 mai 2005.		'la société THERMYA'
+								La_cessation	La cessation des activités de traitement du bois à la créosote a lieu dans les années 88-89.	'créosote'	
+2013	04	29		2013	04	29		La_campagne_effectuée	La campagne effectuée le 29 avril 2013, a permis de noter :		
+2005				2005				fait_relever_désormais	En 2005, la réduction du volume de bain de traitement des bois à 418 litres fait relever désormais cet établissement du régime de la déclaration.		
+2004	12	16		2004	12	16		La_campagne	La campagne du 16 décembre 2004 montre la présence de chrome total à des valeurs supérieures à la valeur de constat d'impact (VCI) pour un usage non sensible (eaux brutes destinées à la consommation humaine), à proximité immédiate de la zone de traitement des bois.	'chrome total'	
+2017				2017				a_souhaité_revenir	La société LYONNET a souhaité revenir en 2017 aux demandes de l’arrêté préfectoral initial de		'La société LYONNET'

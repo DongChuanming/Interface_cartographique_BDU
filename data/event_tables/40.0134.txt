@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1995				a_été_réalisée	Une activité de traitement du bois a été réalisée sur le site jusqu'en 1995 (emploi de produits de traitement à base de pentachlorophénols).	'pentachlorophénols'	
+2009	06	17		2009	06	17		le_diagnostic_a_été_réalisé	le diagnostic a été réalisé à l'initiative de l'exploitant le 17 juin 2009 par le bureau d'études HYDRO CONSEIL.		'HYDRO CONSEIL'
+1980	08	28		1980	08	28		a_été_autorisée	L'exploitation a été autorisée par l'arrêté préfectoral du 28 août 1980.		
+2014				2014				Les_campagnes_de	Les campagnes de novembre 2012, 2013 et 2014 ne montrent pas d'impact sur la nappe.		
+2011	01	25		2011	01	25		a_été_signé	L'arrêté préfectoral a été signé le 25/01/2011.		
+2010	11			2011	02			Les_travaux	Les travaux se sont déroulés en deux phases, de fin novembre 2010 à février 2011.		
+2009	07	22		2009	07	22		un_dossier_de_demande	Le 22 juillet 2009, un dossier de demande d'autorisation a été déposé en préfecture par la société LAMARQUE SOGY BOIS, en vue de la régularisation de l'activité de travail du bois (rubrique 2410 - puissance > 200 kW).		'la société LAMARQUE SOGY BOIS'
+2012	11			2012	11			Les_campagnes_de	Les campagnes de novembre 2012, 2013 et 2014 ne montrent pas d'impact sur la nappe.		
+2013				2013				Les_campagnes_de	Les campagnes de novembre 2012, 2013 et 2014 ne montrent pas d'impact sur la nappe.		

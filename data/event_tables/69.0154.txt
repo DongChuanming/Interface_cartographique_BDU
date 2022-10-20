@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	02			2003	02			ont_été_mis_en_place	Deux piézomètres ont été mis en place au mois de février 2003.		
+2002	10	1		2002	10	1		a_fait_parvenir	Dans le cadre de sa cessation d'activité, l'exploitant a fait parvenir en date du 1er octobre 2002 un dossier à la Préfecture du Rhône.		'la Préfecture du Rhône'
+1997	02	17		1997	02	17		bénéficie_d_	Elle bénéficie d'un arrêté préfectoral d'autorisation d'exploiter notamment des activités de traitement de surface en date du 21 septembre 1978 modifié en dernier lieu le 17 février 1997.		
+2002	12			2002	12			a_été_rédigée	Une première ESR a été rédigée par le bureau d'étude ANTEA au mois de décembre 2002. 6 sondages ont été réalisés jusqu’à une profondeur de 4 m à cet effet.		'ANTEA'
+2003	10	17		2003	10	17		La_cessation_d__activité	La cessation d'activité a été notifiée le 17/10/2003.		
+2003	03			2003	03			a_été_menée	Une nouvelle ESR a été menée par ANTEA en mars 2003 en prenant en compte les résultats des analyses des eaux souterraines.		'ANTEA'
+2005	03	29		2005	03	29		a_été_signé	Un arrêté d'autorisation d'exploiter a été signé le 29/03/2005 l'exploitation d'un centre de tri sur le site.		
+				1972				ont_accueilli	Les terres du site ont accueilli un usage agricole jusqu'en 1972, date à laquelle la société MURGUE-SEIGLE achète les terrains.		'la société MURGUE - SEIGLE'
+1978	09	21		1978	09	21		bénéficie_d_	Elle bénéficie d'un arrêté préfectoral d'autorisation d'exploiter notamment des activités de traitement de surface en date du 21 septembre 1978 modifié en dernier lieu le 17 février 1997.		

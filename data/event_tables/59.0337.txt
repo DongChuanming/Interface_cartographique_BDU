@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	07	12		2006	07	12		Inspection	12/07/2006 : Inspection de la DRIRE sur le site FCB voisin.		'la DRIRE', 'le site FCB'
+1995				1995				à_repris	La société ateliers de Fives à repris en 1995 l'activité de travail des métaux initialement exploité par la société FCB.		'La société ateliers de Fives', 'la société FCB'
+1998	04	11		1998	04	11		à_été_mise_en_liquidatipon_judiciare_par_jugement	Cette société à été mise en liquidatipon judiciare par jugement en date du 11 avril 1998.		

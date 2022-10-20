@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	06			1994	06			y_était_implantée	Jusqu'en juin 1994, une entreprise de stockage et conditionnement de produits chimiques (dont solvants chlorés),  y était implantée.	'produits chimiques', 'solvants chlorés'	
+				1965				a_existé	Une production d'acide sulfurique a existé sur ce site jusqu'en 1965.	'acide sulfurique'	
+2008				2008				a_remplacé	En 2008 l'exploitant a remplacé le puits de pompage et une partie des installations de suivi par de nouveaux équipements.		
+1998	11	16		1998	11	16		Un_PV_de_récolement	Un PV de récolement a été établi le 16/11/1998.		

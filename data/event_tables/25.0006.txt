@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1969				1983				a_exploité	La société Dorcy a exploité entre 1969 et 1983 un atelier de traitement des métaux sur le site de Seloncourt.		'La société Dorcy'
+1986	02			1986	02			une_inspection	Par AP du 10 mars 1986 la société exploitante a été de mise en demeure d'évacuer les bains de traitement et les déchets et produits chimiques présents et inventoriés à l'occasion d'une inspection de la DRIRE diligentée en février 1986.	'les déchets', 'produits chimiques'	'DRIRE'
+1986				1986				Les_travaux_d__élimination	Les travaux d'élimination des déchets ont été réalisés à l'hiver 1986 sous maîtrise d'ouvrage de la mairie de Seloncourt.		
+1983	12			1983	12			a_été_mise_en_liquidation_judiciaire	Elle a été mise en liquidation judiciaire en décembre 1983; l'exploitation des ateliers a été poursuivie sous couvert de la Société d'Exploitation Dorcy jusqu'en 1986.		"la Société d' Exploitation Dorcy"
+				1986				a_été_poursuivie	Elle a été mise en liquidation judiciaire en décembre 1983; l'exploitation des ateliers a été poursuivie sous couvert de la Société d'Exploitation Dorcy jusqu'en 1986.		"la Société d' Exploitation Dorcy"
+1986	02			1986	02			a_été_de_mise_en_demeure	Par AP du 10 mars 1986 la société exploitante a été de mise en demeure d'évacuer les bains de traitement et les déchets et produits chimiques présents et inventoriés à l'occasion d'une inspection de la DRIRE diligentée en février 1986.	'les déchets', 'produits chimiques'	'DRIRE'

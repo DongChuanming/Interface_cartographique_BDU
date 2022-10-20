@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	03	28		2001	03	28		La_dernière_mesure	La dernière mesure a été effectuée le 28/03/2001.		
+2003	05	22		2003	05	22		Des_prélèvements_ont_été_réalisés	Des prélèvements ont été réalisés le 22 mai 2003 sur les deux piézomètres en place : les concentrations en Cr VI, Cr III, Cr total, Ni et Fe restent inférieures aux concentrations relatives à l'eau potable.	'Cr VI', 'Cr III', 'Cr total', 'Ni', 'Fe'	
+								est_réalisée	Le confinement a été réalisé suite à un arrêté préfectoral du 26 juin 1990 et une surveillance des eaux souterraines est réalisée périodiquement (1 fois tous les 5 ans).		
+1997	11			1997	11			des_prélèvements_réalisés	Des résultats comparables avaient été obtenus lors des prélèvements réalisés en novembre 1997.		

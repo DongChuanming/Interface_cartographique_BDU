@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10			2002	10			a_été_remise	Une étude de réhabilitation du site a été remise en octobre 2002.		
+1998	12	31		1998	12	31		a_été_notifié	L'arrêt des apports a été notifié par arrêté préfectoral du 31 décembre 1998.		
+2002	11	28		2002	11	28		Une_visite_de_récolement	Une visite de récolement de la remise en état a été effectuée le 28 novembre 2002		

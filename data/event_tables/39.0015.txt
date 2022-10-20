@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	10			2004	10			Des_travaux_ont_eu_lieu	Des travaux ont eu lieu de fin octobre 2004 à fin novembre 2004 sur le site pour la mise en place et le dimensionnement de l'unité de traitement.		
+2005	01	18		2005	01	18		La_dépollution_proposée	La dépollution proposée a commencé sur le site le 18 janvier 2005.		
+2004	12	24		2004	12	24		a_été_transmis	A l'issue de ces essais de dimensionnement un dossier technique décrivant l'ensemble du dispositif a été transmis à l'inspection des installations classées le 24 décembre 2004 pour validation du dispositif avant début de la dépollution.		
+2003	07			2003	07			Un_diagnostic_approfondi	Un diagnostic approfondi a été remis en juillet 2003.		
+								impose_le_début_des_travaux_de_dépollution	Cet arrêté impose le début des travaux de dépollution sous 3 mois.		
+1997				1997				a_été_démantelé	Le dépôt a été démantelé en 1997.		
+2007	09			2007	09			a_procédé	Parallèlement à la poursuite du traitement, l'exploitant a procédé en septembre 2007 à l'excavation des terres polluées résiduelles (en profondeur) sur le site.		
+1997				1997				une_remise_en_état	Dans le cadre de la cessation d'activité du dépôt, une remise en état du site a été effectuée en 1997 (dégazage des cuves, démantèlement, élimination et traitement de 88 tonnes de terre polluée).		
+2000	08			2000	08			Une_campagne_de_prélèvement	Une campagne de prélèvement et d'analyse d'air à l'intérieur de l'habitation a été réalisée en août 2000 sans mettre en évidence une émanation particulière d'hydrocarbures.	'hydrocarbures'	
+2001	06			2001	06			L__évaluation_simplifiée_des_risques_remise	L'évaluation simplifiée des risques remise en juin 2001, conduit à un classement en site nécessitant des investigations approfondies.		
+1991				1991				a_été_acquis	Le dépôt a été acquis par une filiale de la société AGIP Française en 1991.		'une filiale de la société AGIP Française'
+2006	10			2006	10			fait	En octobre 2006, l'exploitant fait un bilan des opérations de traitement réalisées.		
+2003	06	30		2003	06	30		a_prescrit_la_réalisation_d__une_Étude_Détaillée_des_risques	Les premiers résultats d'analyse des eaux souterraines ayant montré une augmentation de la concentration en polluants, un arrêté préfectoral du 28 mars 2003 a prescrit la réalisation d'une Étude Détaillée des risques pour le 30 juin 2003.	'polluants'	
+2005	06			2005	06			a_été_transmis	Le premier rapport trimestriel de présentation des résultats de ce suivi a été transmis à l'inspection des installations classées en juin 2005.		

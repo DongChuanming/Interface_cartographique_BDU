@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05			2005	05			a_cessé_définitivement	La Société Bour & Cie a cessé définitivement, courant mai 2005, ses activités de dépôt, transformation et fusion de déchets métalliques et alliages cuivreux, exercées sur le territoire de Woincourt.	'déchets métalliques', 'cuivreux'	'La Société Bour'
+1927				1927				a_été_créée	La société a été créée en 1927 avec une activité d'affinage à froid.		
+2001	10	09		2001	10	09		Un_diagnostic_initial_et_une_évaluation_simplifiée_des_risques	Un diagnostic initial et une évaluation simplifiée des risques ont été prescrits par arrêté préfectoral en date du 9 octobre 2001 en vue de répondre à la circulaire du 3 avril 1996.		
+2002	07			2002	07			a_été_déposée	L'étude a été déposée en juillet 2002.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				a_communiqué	Par transmission en date du 13 octobre 2009, le liquidateur a communiqué à l'Inspection l'ensemble des justificatifs attestant de la prise en compte des réserves émises lors de la visite du site le 11 juin 2009.		
+								__à_des_prélèvements	de procéder, conformément à l'arrêté préfectoral du 24 mars 2009, à des prélèvements d'échantillons d'eaux souterraines à des fins d'analyses ;		
+2001	09	06		2001	09	06		prélèvement	Suite à une lettre du préfet du 14/06/2001, la société EMTEC a fait réaliser par le cabinet SAKOSTA des investigations complémentaires en ce qui concerne la qualité des eaux souterraines, les résultats (prélèvement du 6 septembre 2001) montrent une pollution par des hydrocarbures.	'hydrocarbures'	'la société EMTEC', 'le cabinet SAKOSTA'
+								a_mené_une_visite	Le 11 juin 2009, l'inspection a mené une visite du site.		
+2009				2009				a_mené_une_visite	Le 11 juin 2009, l'inspection a mené une visite du site.		
+								émises_lors_de_la_visite_du_site	Par transmission en date du 13 octobre 2009, le liquidateur a communiqué à l'Inspection l'ensemble des justificatifs attestant de la prise en compte des réserves émises lors de la visite du site le 11 juin 2009.		
+2009				2009				émises_lors_de_la_visite_du_site	Par transmission en date du 13 octobre 2009, le liquidateur a communiqué à l'Inspection l'ensemble des justificatifs attestant de la prise en compte des réserves émises lors de la visite du site le 11 juin 2009.		
+2005	02			2005	02			des_analyses	Des analyses de sols ont été réalisées en janvier et des analyses des eaux souterraines en février 2005.		
+2009				2009				__à_des_prélèvements	de procéder, conformément à l'arrêté préfectoral du 24 mars 2009, à des prélèvements d'échantillons d'eaux souterraines à des fins d'analyses ;		
+								Des_analyses	Des analyses de sols ont été réalisées en janvier et des analyses des eaux souterraines en février 2005.		
+								a_communiqué	Par transmission en date du 13 octobre 2009, le liquidateur a communiqué à l'Inspection l'ensemble des justificatifs attestant de la prise en compte des réserves émises lors de la visite du site le 11 juin 2009.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1911				1911				a_été_construite	En 1911, une chapellerie (Établissement BOURNE) a été construite.		'Établissement BOURNE'
+2008	08	06		2008	08	06		la_campagne	En conclusion de ce rapport, Norisko Environnement indique que suite aux résultats obtenus pour la campagne menée le 06/08/2008, et dans le cadre de l'usage futur du site (aménagement en un usage résidentiel avec jardins, parking et éventuels puits), ils recommandent :		
+2008	09			2008	09			a_reçu	En septembre 2008, l'inspection a reçu un rapport de Norisko Environnement mandaté par l'EPORA pour la conduite d'un diagnostic environnemental approfondi du site ainsi que pour son assistance dans l'élaboration d'une stratégie de dépollution.		"l' EPORA"
+1996				1996				cessent_leur_activité	En 1996, les Établissements ECUYER-THOMAS cessent leur activité.		'les Établissements ECUYER - THOMAS'
+2006	02			2006	02			dossier_d__évaluation_simplifiée_des_risques_réalisé	En février 2006, l'inspection a reçu un dossier d’évaluation simplifiée des risques réalisé par SOCOTEC le 05/02/2004 à la demande de la Mairie de Chazelles sur Lyon dans le cadre d'une démolition et de la requalification foncière en habitation du site Ecuyer-Thomas.		'SOCOTEC'
+2004	02	05		2004	02	05		dossier_d__évaluation_simplifiée_des_risques_réalisé	En février 2006, l'inspection a reçu un dossier d’évaluation simplifiée des risques réalisé par SOCOTEC le 05/02/2004 à la demande de la Mairie de Chazelles sur Lyon dans le cadre d'une démolition et de la requalification foncière en habitation du site Ecuyer-Thomas.		'SOCOTEC'
+1993				1993				la_mise_en_service	En 1993, monsieur TABARY, gérant de la société ECUYER-THOMAS, déclare la mise en service de cette installation (rubrique 365 pour une quantité inférieure à une tonne).		'TABARY', 'la société ECUYER - THOMAS'
+1998				1998				est_racheté	En 1998 , le site est racheté par la mairie de Chazelles-sur-Lyon et les bâtiments sont restés en l’état.		
+1926				1926				est_racheté	En 1926, le site est racheté par messieurs ECUYER et THOMAS pour y exercer la même activité.		'messieurs ECUYER et THOMAS'
+1978				1978				est_installé	En 1978, un atelier de teinture sur fils est installé dans un bâtiment annexe.		

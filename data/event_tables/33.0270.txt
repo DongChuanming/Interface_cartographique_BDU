@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	04			2003	04			des_reconnaissances_approfondies	À la suite de l’enlèvement des dépôts de déchets en Avril 2003, l’exploitant a effectué des reconnaissances approfondies et transmis le diagnostic approfondi en date du 20/06/2003.		
+2003	06	20		2003	06	20		des_reconnaissances_approfondies	À la suite de l’enlèvement des dépôts de déchets en Avril 2003, l’exploitant a effectué des reconnaissances approfondies et transmis le diagnostic approfondi en date du 20/06/2003.		
+2003	06	20		2003	06	20		transmis_le_diagnostic_approfondi	À la suite de l’enlèvement des dépôts de déchets en Avril 2003, l’exploitant a effectué des reconnaissances approfondies et transmis le diagnostic approfondi en date du 20/06/2003.		
+2003	04	30		2003	04	30		Cette_opération	Cette opération s'est terminée le 30/04/2003.		
+2003	04			2003	04			l__enlèvement_des_dépôts	À la suite de l’enlèvement des dépôts de déchets en Avril 2003, l’exploitant a effectué des reconnaissances approfondies et transmis le diagnostic approfondi en date du 20/06/2003.		
+1976	04	23		1976	04	23		avait_été_autorisée	Cette décharge avait été autorisée par l’arrêté préfectoral n° 11 007 du 23/04/1976.		
+2012	09			2012	09			Les_dernières_analyses	Les dernières analyses de septembre 2012 montrent des niveaux de substances recherchées inférieures aux seuils prescrits.		

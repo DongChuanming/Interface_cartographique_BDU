@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				sont_excavées	Fin 2009, 120 m3 de terres souillées sont excavées et traitées.		
+2009	02	02		2009	02	02		est_découverte_lors_de_travaux	Le 2 février 2009, une pollution aux hydrocarbures (alkylbenzène) est découverte lors de travaux quai de moselle.	'hydrocarbures', 'alkylbenzène'	
+								y_a_eu_une_fuite	Dans la nuit du 3 au 4 novembre 1992, il y a eu une fuite évaluée à 200m3 sur l'un des deux réservoirs remplis d'alkylbenzène.	'alkylbenzène'	
+1992	11	04		1992	11	04		y_a_eu_une_fuite	Dans la nuit du 3 au 4 novembre 1992, il y a eu une fuite évaluée à 200m3 sur l'un des deux réservoirs remplis d'alkylbenzène.	'alkylbenzène'	

@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	01	20		2009	01	20		a_demandé_de_transmettre	L'inspection a demandé de transmettre un dossier de cessation d'activité le 20 janvier 2009.		
+2002				2002				a_été_démantelée	Cette dernière a été démantelée, il y a une dizaine d’année (2002) .		
+								a_été_construite	L’aile ouest du garage a été construite au début des années 70 (1973) et servait elle aussi aux activités  mécaniques ainsi qu’au stockage de véhicules (dont une flotte de taxis dont la compagnie a été créée en 1963 par M.		
+								a_été_étendu	Celui-ci a été étendu 3 ans plus tard (1965).		
+1973				1973				a_été_construite	L’aile ouest du garage a été construite au début des années 70 (1973) et servait elle aussi aux activités  mécaniques ainsi qu’au stockage de véhicules (dont une flotte de taxis dont la compagnie a été créée en 1963 par M.		
+2010	09			2010	09			49_sondages_ont_été_réalisés	Dans le cadre du diagnostic de sol, 49 sondages ont été réalisés en septembre 2010 sur l’ensemble du site à proximité des zones les plus sensibles (cuves hydrocarbures, huiles, sols visuellement souillés) dans la limite d’accessibilité et de positionnement des outils de sondage.	'hydrocarbures', 'huiles'	
+1965				1965				a_été_étendu	Celui-ci a été étendu 3 ans plus tard (1965).		
+								a_été_créé	Le premier bâtiment du garage BOZZETTO a été créé au début des années 60 et ne concernait qu’une partie de la zone garage.		'garage BOZZETTO'
+1963				1963				été_créée	L’aile ouest du garage a été construite au début des années 70 (1973) et servait elle aussi aux activités  mécaniques ainsi qu’au stockage de véhicules (dont une flotte de taxis dont la compagnie a été créée en 1963 par M.		

@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1965				L__exploitation_du_site_aurait_débuté	L’exploitation du site aurait débuté en 1965.		
+2014	01	29		2014	01	29		La_clôture_de_la_liquidation_judiciaire	La clôture de la liquidation judiciaire de l’entreprise PLM AUTO a été prononcée par jugement du Tribunal de Commerce de SAINT ETIENNE en date du 29 janvier 2014.		'PLM AUTO', 'du Tribunal de Commerce de SAINT ETIENNE'
+2013	04	18		2013	04	18		a_communiqué	Dans son rapport du 11 juin 2013, l’inspection indique que le liquidateur judiciaire a communiqué, en date du 18 avril 2013, un rapport environnemental relatif à une contamination des sols sur le site.		

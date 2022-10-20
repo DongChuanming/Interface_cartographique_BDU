@@ -1,0 +1,30 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				ont_été_excavées	Les cuves enterrées de fioul ont été excavées en 2006-2007.	'fioul'	
+2007	03			2007	03			évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques (ESR) de mars 2007 a été communiquée à l'inspection des installations classées.		
+1992				1992				change_de_dénomination	En 1986, la société PROCTER et GAMBLE rachète le site et en 1992, l'établissement change de dénomination et devient PROCTER et GAMBLE PHARMACEUTICALS Longjumeau SAS.		'la société PROCTER et GAMBLE', 'PROCTER et GAMBLE PHARMACEUTICALS Longjumeau'
+2007				2007				Le_suivi	Le suivi depuis 2007 confirme l'évolution des concentrations.		
+2006	03			2006	03			Une_étude_historique	Une étude historique a été menée en mars 2006.		
+2008	01	10		2008	01	10		Une_visite_d__inspection_a_été_réalisée	Une visite d'inspection a été réalisée le 10 janvier 2008 sur le site : celle-ci n'a pas donné lieu à la constatation d'écarts majeurs.		
+2008	12	1		2008	12	1		a_communiqué	La société PROCTER & GAMBLE a communiqué le 1er décembre 2008 deux rapports relatifs aux analyses des gaz du sol et à la campagne de prélèvement des eaux souterraines de juillet 2008.		'société PROCTER & GAMBLE'
+2012				2012				aux_campagnes	L'exploitant a communiqué un rapport le 18 novembre 2013 relatif aux campagnes de 2012 (et la synthèse du suivi) dans lequel il demande l'arrêt du suivi de la qualité des eaux souterraines.		
+2008	03	20		2008	03	20		Une_nouvelle_visite	Une nouvelle visite a  eu lieu le 20 mars 2008 et a conduit l’inspection des installations classées à établir le procès verbal de récolement (au regard des constats de la visite et des conclusions de l’examen des rapports fournis par la société).		
+2008	03	04		2008	03	04		a_été_actée	Un de ceux-ci a été démantelé pendant les travaux [cette situation (non nécessité de réimplanter un ouvrage) a été actée par courrier de la DRIEE le 4 mars 2008].		'la DRIEE'
+2007				2007				ont_été_excavées	Les cuves enterrées de fioul ont été excavées en 2006-2007.	'fioul'	
+2006	07			2006	07			ont_été_implantés	Cette étude récapitule les investigations menées sur le site en 2006. 7 piézomètres ont été implantés et des sondages de sols avec analyses d'échantillons sur les paramètres caractéristiques de l'activité du site (hydrocarbures totaux, hydrocarbures aromatiques polycycliques, COV, métaux, alcools, méthylal) ont été réalisés en juillet 2006.	'hydrocarbures totaux', 'hydrocarbures aromatiques polycycliques', 'COV', 'métaux', 'alcools', 'méthylal'	
+2012	12			2012	12			la_dernière_campagne	Celle-ci s’est effectuée par conséquent sur 8 ouvrages entre 2008 et 2012 : la dernière campagne date de décembre 2012 et met en évidence des concentrations inférieures aux valeurs de référence.		
+2004	05	17		2004	05	17		a_annoncé_la_fermeture_de	La société PROCTER et GAMBLE a annoncé la fermeture de son site par courrier le 17 mai 2004.		'La société PROCTER', 'et GAMBLE'
+2007				2007				ont_donc_été_stoppées_progressivement	Les activités exercées dans les différents bâtiments ont donc été stoppées progressivement (pour le bâtiment 6 : fin 2006, pour le bâtiment 9 : 3e trimestre 2007...).		
+2006	10			2006	10			Des_analyses	Des analyses de gaz des sols ainsi que l'implantation de 3 piézomètres supplémentaires ont suivi en octobre 2006.		
+2013	11	18		2013	11	18		a_communiqué	L'exploitant a communiqué un rapport le 18 novembre 2013 relatif aux campagnes de 2012 (et la synthèse du suivi) dans lequel il demande l'arrêt du suivi de la qualité des eaux souterraines.		
+								ont_donc_été_stoppées_progressivement	Les activités exercées dans les différents bâtiments ont donc été stoppées progressivement (pour le bâtiment 6 : fin 2006, pour le bâtiment 9 : 3e trimestre 2007...).		
+2007	03			2007	03			a_été_établi	Un mémoire de cessation de ses activités a été établi en mars 2007 comprenant un plan de gestion explicitant les opérations de réhabilitation à prévoir par l'exploitant.		
+1986				1986				rachète	En 1986, la société PROCTER et GAMBLE rachète le site et en 1992, l'établissement change de dénomination et devient PROCTER et GAMBLE PHARMACEUTICALS Longjumeau SAS.		'la société PROCTER et GAMBLE', 'PROCTER et GAMBLE PHARMACEUTICALS Longjumeau'
+2008				2008				devaient_cesser_totalement	Les activités du site devaient cesser totalement début 2008.		
+2006				2006				les_investigations_menées	Cette étude récapitule les investigations menées sur le site en 2006. 7 piézomètres ont été implantés et des sondages de sols avec analyses d'échantillons sur les paramètres caractéristiques de l'activité du site (hydrocarbures totaux, hydrocarbures aromatiques polycycliques, COV, métaux, alcools, méthylal) ont été réalisés en juillet 2006.	'hydrocarbures totaux', 'hydrocarbures aromatiques polycycliques', 'COV', 'métaux', 'alcools', 'méthylal'	
+2014	07	16		2014	07	16		a_validé	L'inspection des installations classées a validé la demande de l'exploitant par courrier du 16 juillet 2014.		
+2007	02	12		2007	02	12		a_notifié_sa_cessation_d__activités	La société a notifié sa cessation d'activités par courrier du 12 février 2007.		
+1935				1935				ont_débuté	Les activités ont débuté sur le site en 1935 par le laboratoire NATIVELLE.		'le laboratoire NATIVELLE'
+2008	01	07		2008	01	07		ont_été_excavés	A la date du 7 janvier 2008, 3600 mètres cube de terres ont été excavés.		
+2012	12			2012	12			s__est_effectuée	Celle-ci s’est effectuée par conséquent sur 8 ouvrages entre 2008 et 2012 : la dernière campagne date de décembre 2012 et met en évidence des concentrations inférieures aux valeurs de référence.		
+2008	02	18		2008	02	18		la_visite	Ce rapport complète les documents communiqués lors de la visite en date du 18 février 2008.		
+2008				2012				s__est_effectuée	Celle-ci s’est effectuée par conséquent sur 8 ouvrages entre 2008 et 2012 : la dernière campagne date de décembre 2012 et met en évidence des concentrations inférieures aux valeurs de référence.		

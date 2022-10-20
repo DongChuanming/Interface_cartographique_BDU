@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018	08	30		2018	08	30		Une_nouvelle_campagne_d__investigations	Une nouvelle campagne d’investigations des sols est menée le 30/08/2018. (voir plan-cartographique-44.0154--3)		
+2019	03	01		2019	03	01		a_délivré	Dans ces conditions, la Préfecture de Loire-Atlantique a délivré un récépissé de cessation d’activité à l’exploitant le 01/03/2019.		'la Préfecture de Loire - Atlantique'
+2018	09	28		2018	09	28		une_campagne	Du fait du caractère potentiellement volatil du mercure, une campagne d’air ambiant est menée le 28/09/2018.	'mercure'	
+2018	08			2018	08			est_désaffecté	Le site, qui était une concession et un garage automobile exploité sous l’enseigne Addict Auto, est désaffecté depuis août 2018.		
+2016				2016				ont_été_définies	En 2016, 8 zones à risques en terme de pollution ont été définies :		

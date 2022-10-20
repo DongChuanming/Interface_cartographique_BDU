@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	10			2002	10			a_relancé	Devant une dérive trop importante des délais, l'inspection a relancé l'exploitant en mars 2002, puis en octobre 2002 en lui indiquant qu'il s'exposait, en l'absence de réponse immédiate, à des sanctions.		
+2003	05	06		2003	05	06		ont_été_sollicités	Par ailleurs, des compléments à l'étude de sols ont été sollicités par l'inspection par courrier du 6 mai 2003, afin de préciser en particulier le contexte hydrogéologique du site et la connaissance des impacts éventuels.		
+2001	10			2001	10			un_débordement_accidentel	Elle est liée à un débordement accidentel qui a eu lieu en octobre 2001, avec épandage par la soupape hors de la rétention lors du remplissage de la cuve N°2.		
+2003	02	14		2003	02	14		la_mise_en_place_d_	De fait, un arrêté préfectoral complémentaire, en date du 14 février 2003, a imposé à la société la mise en place d'un programme de surveillance des eaux souterraines.		
+2003	07			2003	07			a_constaté	Suite aux dernières campagnes de surveillance réalisées en juillet 2003, SITA REMEDIATION a constaté la présence de concentrations non négligeables de MTBE.	'MTBE'	'SITA REMEDIATION'
+2000	03			2000	03			a_transmis	La société a transmis une partie de la phase A de son étude de sols en mars 2000.		
+1996	04	03		1996	04	03		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif (arrêté préfectoral du 2 avril 1998).		
+2002	03			2002	03			a_relancé	Devant une dérive trop importante des délais, l'inspection a relancé l'exploitant en mars 2002, puis en octobre 2002 en lui indiquant qu'il s'exposait, en l'absence de réponse immédiate, à des sanctions.		
+1998	04	02		1998	04	02		un_diagnostic_initial	Dans le cadre de la circulaire du 3 avril 1996, un diagnostic initial a été prescrit à l'exploitant de cette unité, à titre préventif (arrêté préfectoral du 2 avril 1998).		

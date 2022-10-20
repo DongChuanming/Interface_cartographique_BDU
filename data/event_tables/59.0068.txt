@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010				2010				sur_les_permis_de_construire	Ces réserves ont été reprises dans le cadre du porter à connaissance  lors des consultations sur les permis de construire correspondants déposés courant 2010.		
+2004				2004				en_fin_d_	Les travaux devraient ont été achevés en fin d'année 2004.		
+1994				1994				__Travaux_d__extraction_et_d__élimination_des_déchets	- Travaux d'extraction et d'élimination des déchets et produits dangereux réalisés en 1994 sous la maîtrise d'ouvrage de l'ADEME en liaison avec la DRIRE (coût estimé : 2,5 MF).	'et produits dangereux'	'avec la DRIRE'
+2003	01	23		2003	01	23		une_présentation	Cette EDR a fait l'objet d'une présentation aux élus et services de l'Etat lors d'une réunion en mairie d'Escaudain le 23 janvier 2003.		
+2003				2003				a_présenté	Afin de trouver des financements publics pour la réhabilitation du site, la mairie a présenté, en fin d'année 2003, un projet global d'aménagement urbain du quartier dans lequel s'intégre la dépollution du site pour l'implantation d'un centre culturel.		
+2004	09			2004	09			Les_travaux_ont_débuté	Les travaux ont débuté en septembre 2004 et l'EPF effectue un suivi de la qualité des eaux souterraines en même temps (3 piézomètres).		'EPF'
+2004				2004				Les_travaux_devraient_ont_été_achevés	Les travaux devraient ont été achevés en fin d'année 2004.		
+2010				2010				ont_été_reprises	Ces réserves ont été reprises dans le cadre du porter à connaissance  lors des consultations sur les permis de construire correspondants déposés courant 2010.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	02	26		2008	02	26		__mise_en_place_d_	26 février 2008: mise en place d'une convention de servitudes au profit de l'Etat.		
+2007	01			2007	01			__réhabilitation	- janvier 2007: réhabilitation des zones identifiées comme fortement polluées (évacuation d'environ 258 tonnes de terres souillées par des hydrocarbures provenant d'une ancienne cuve enterrée)	'hydrocarbures'	
+2008	04			2008	04			Démarrage_du_projet	Démarrage du projet prévu en avril 2008.		
+2005				2005				plusieurs_travaux_de_dépollution	A partir de 2005, le site a fait l'objet de plusieurs travaux de dépollution:		
+2007	08			2007	08			__mise_en_place	- août 2007: mise en place de 3 piézomètres et analyse des eaux souterraines.		
+2006	09			2006	09			__réalisation	- septembre 2006: réalisation d'un diagnostic de sous-sol		
+2005	01			2005	01			__élimination	- janvier 2005: élimination des 10 premiers centimètres de sols par traitement en biocentre (environ 157 tonnes de terres excavées et évacuées)		
+2005	05			2005	05			__réalisation_d__un_diagnostic_de_pollution	- mai 2005: réalisation d'un diagnostic de pollution		
+2005	10			2005	10			__réalisation_d_	- octobre 2005: réalisation d'un rapport sur les mesures piézométriques et les analyses complémentaires des eaux souterraines		
+2007	07	25		2007	07	25		Déclaration	Déclaration de cessation d'activité du 25 juillet 2007 des établissements Secula.		
+1998	12	24		1998	12	24		est_soumis_à_autorisation	Le 24 décembre 1998, le site est soumis à autorisation pour des métaux issus du CEA VALDUC (installations nucléaires de bases).		

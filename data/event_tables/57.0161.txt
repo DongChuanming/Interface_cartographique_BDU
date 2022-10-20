@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11	23		2009	11	23		réalisé	Un plan de gestion, réalisé le 23 novembre 2009, pour aboutir à une étude d'avant projet qui précise les mesures de gestion envisagées.		
+2006	07			2006	07			sol_réalisé	Le diagnostic de sol réalisé en juillet 2006 met en évidence une nappe présente au droit du site (nappe des alluvions de la Moselle) qui se situe à environ 2-3m de profondeur au droit du site.		
+2006				2006				engage_à_la_démanteler	Par courrier du 15 novembre 2005, la société des Liants de l'Est informe que la filière "liants chauds" est à l'arrêt et elle s'engage à la démanteler en 2006.		'la société des Liants', "de l' Est"
+2014	03			2014	03			est_en_place	Les travaux ont été réalisé (mise en place d'un confinement pour gérer la source de pollution) ; le pompage des eaux à l'intérieur du confinement (permettant de maintenir le niveau d'eau dans le confinement à 50cm sous le niveau de la nappe des alluvions hors du confinement) est en place depuis mars 2014.		
+2013	02	21		2013	02	21		Une_visite_d__inspection	Une visite d’inspection a été réalisée durant la réalisation des travaux de mise en place de la paroi verticale de confinement, le 21 février 2013.		
+2014	04			2014	04			a_fait	L'exploitant a fait, en avril 2014, des propositions concernant le réseau de surveillance de la nappe ; ce réseau est actuellement suivi.		
+2017				2017				une_analyse	En 2017, l'exploitant a transmis une analyse des risques résiduels (ARR).		
+2005	11	15		2005	11	15		une_première_visite_d__inspection	Ces travaux font suite à une première visite d'inspection en date du 15 novembre 2005, ayant permis de constater que ce site était en cours d'arrêt et devait faire l'objet de travaux d'entretien généralisés (présence de fûts contenant des déchets de produits hydocarburés, conditions de stockage dans un faible volume de rétention).	'des déchets de produits hydocarburés'	

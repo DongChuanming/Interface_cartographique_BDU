@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005				2005				a_été_arrêté	L'activité de traitement des bois a été arrêté en 2005.		
+2004	02	18		2004	02	18		ont_été_remises	Les études ont été remises le 18 février 2004 et le 6 octobre 2005.		
+1984	12	12		1984	12	12		sont_autorisées	Les installations sont autorisées par l'arrêté préfectoral du 12 décembre 1984.		

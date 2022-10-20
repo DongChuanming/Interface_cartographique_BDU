@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	02			2004	02			la_réalisation_d__une_évaluation_des_risques	L'arrêté préfectoral complémentaire du 18/06/2003 prescrit à la société Ateliers Réunis Caddie la réalisation d'une évaluation des risques qui a été remise en février 2004.		'la société Ateliers Réunis Caddie'
+				1991				accompagnée	La société Ateliers Réunis Caddie exerce depuis 30 ans sur le site une activité de travail des métaux, qui s'est accompagnée jusqu'en 1991 d'une utilisation de solvants chlorés pour le dégraissage des pièces.	'solvants chlorés'	'La société Ateliers Réunis Caddie'
+2004	09	07		2004	09	07		a_été_prescrite	La surveillance de la nappe a été prescrite (métaux, HCT, HAP et BTEX) par arrêté du 07/09/2004.	'métaux', 'HCT', 'HAP', 'BTEX'	
+				1991				une_activité_de_travail_des_métaux	La société Ateliers Réunis Caddie exerce depuis 30 ans sur le site une activité de travail des métaux, qui s'est accompagnée jusqu'en 1991 d'une utilisation de solvants chlorés pour le dégraissage des pièces.	'solvants chlorés'	'La société Ateliers Réunis Caddie'

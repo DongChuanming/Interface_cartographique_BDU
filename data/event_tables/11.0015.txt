@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				les_campagnes_de_mesures	Les derniers résultats transmis sur les campagnes de mesures de 2011 ne montrent pas d'anomalies particulières.		
+2001	03			2001	03			achevée	Cette ESR achevée en mars 2001, que l'exploitant à confiée au cabinet ANTEA, conclu sur :		'ANTEA'
+1998	08	25		1998	08	25		à_été_imposée	Une ESR (évaluation simplifiée des risques) à été imposée aux ATELIERS D'OCCITANIE par arrêté préfectoral (25/08/1998).		"ATELIERS D' OCCITANIE"

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1997				a_été_occupé	Terrain situé à Fenouillet, rue des Artisans, ce site a été occupé jusqu'à mi 1997 par l'entreprise Beziat-Castanet, spécialisée dans le négoce de produits chimiques et de produits œnologiques.	'produits chimiques'	
+2000	10	11		2000	10	11		a_chargé	En conséquence, sur proposition de l'inspection des installations classées, un arrêté préfectoral du 22 juin 2000, modifié par arrêté préfectoral du 11 octobre 2000, a chargé l'ADEME d'exécuter ou de faire exécuter des travaux d'urgence de mise en sécurité, à savoir :		
+2000	10	11		2000	10	11		a_été_chargée_de	L’ADEME a été chargée de l’exécution des travaux d’office prescrits par l’arrêté préfectoral du 11 octobre 2000.		
+1999	03	26		1999	03	26		La_clôture_de_la_liquidation_judiciaire	La clôture de la liquidation judiciaire a été prononcée par jugement du tribunal de commerce de Toulouse du 26 mars 1999.		
+2004				2004				ont_été_éliminées	Les bouteilles de gaz présentes sur le site ont été éliminées en 2004 selon le rapport de fin de travaux présenté par l’ADEME.	'bouteilles de gaz'	
+2001				2001				Ces_travaux	Ces travaux, débutés à la fin de l'été 2001, sont achevés, l'ensemble des déchets et produits chimiques stockés sur le site ont été évacués.		

@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011				2011				détection	Concernant le rejet au milieu naturel, il y a détection en 2011 d’ammonium (16 mg/L), d’azote Kjeldahl (18 mg/L), de fer (41 mg/L) et de manganèse (2,4 mg/L) à des concentrations au moins 10 fois supérieures à celles mesurées en 2009 et 2010.	'ammonium', 'fer', 'manganèse'	'azote Kjeldahl'
+2007	05			2007	05			a_été_réalisé	Celui-ci a été réalisé en mai 2007.		
+2008				2008				est_clôturée	Depuis les travaux de réhabilitation réalisés en 2008, la décharge est clôturée et fermée par un portail cadenassé.		
+1969	01			1969	01			a_été_exploitée_sans_autorisation	La décharge a été exploitée sans autorisation, depuis janvier 1969, et a accueilli les déchets suivants :	'les déchets'	
+2008	08			2008	08			Les_investigations_complémentaires	Les investigations complémentaires sur les lixiviats réalisées en août 2008, après une première phase des travaux de dégagement des emprises de la décharge, ont permis de mettre en évidence :		
+2003	05			2003	05			un_diagnostic	En mai 2003, le SICTOM a fait réaliser un diagnostic du site par TRIVALOR en vue de la fermeture de celui-ci et de sa reconversion éventuelle en CET de classe 3 ou centre de compostage.		'le SICTOM', 'TRIVALOR'
+2010				2010				ne_sont_plus_recherchés	Certains paramètres non détectés lors des campagnes de 2009 ne sont plus recherchés depuis 2010 : MES, DCO, DBO5, nitrites, nitrates, indice phénol, cyanures libres, strontium.	'MES', 'DCO', 'DBO5', 'nitrites', 'nitrates', 'indice phénol', 'cyanures libres', 'strontium'	
+2009	08			2009	08			La_surveillance	La surveillance des eaux souterraines sur 3 piézomètres d’août 2009 à décembre 2011 (6 campagnes) met en évidence les contaminations suivantes :		
+2009				2009				des_campagnes	Certains paramètres non détectés lors des campagnes de 2009 ne sont plus recherchés depuis 2010 : MES, DCO, DBO5, nitrites, nitrates, indice phénol, cyanures libres, strontium.	'MES', 'DCO', 'DBO5', 'nitrites', 'nitrates', 'indice phénol', 'cyanures libres', 'strontium'	
+2011	12			2011	12			La_surveillance	La surveillance des eaux souterraines sur 3 piézomètres d’août 2009 à décembre 2011 (6 campagnes) met en évidence les contaminations suivantes :		
+2008				2008				les_travaux_de_réhabilitation	Depuis les travaux de réhabilitation réalisés en 2008, la décharge est clôturée et fermée par un portail cadenassé.		

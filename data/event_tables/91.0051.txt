@@ -1,5 +1,7 @@
-Year	Month	Day	Time	End Year	End Month	End Day	End Time	Agent	Event	Target	Complement	Agent2	Status	Target2	Complement2	Agent3	Event3	Target3
-1998	10		28	1998	10		28		a_été_prescrite								
-2011	10	07		2011	10	07		L__inspection_des_installations_classées	a_relancé	la_société							
-2011	11	21		2011	11	21		L__exploitant	a_répondu								
-2016	03			2016	03				Un_diagnostic_complémentaire			a_été_réalisé					
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en mars 2016 : celui-ci confirme les conclusions de celui mené en 2000.		
+1998	10			1998	10			la_réalisation_d__un_diagnostic	C'est pourquoi la réalisation d'un diagnostic de sol et d'une évaluation simplifiée des risques (ESR) lui a été prescrite par l'arrêté préfectoral du 28 /10/1998.		
+2011	10	07		2011	10	07		a_relancé	L'inspection des installations classées a relancé la société par courrier en date du 7 octobre 2011 afin d'obtenir les résultats de la surveillance semestrielle relative à la qualité des eaux sortant des séparateurs menée en parallèle de la surveillance de la qualité des eaux souterraines et de la Seine.		
+2016	03			2016	03			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en mars 2016 : celui-ci confirme les conclusions de celui mené en 2000.		
+								la_réalisation_d__un_diagnostic	C'est pourquoi la réalisation d'un diagnostic de sol et d'une évaluation simplifiée des risques (ESR) lui a été prescrite par l'arrêté préfectoral du 28 /10/1998.		
+2015	10			2015	10			Les_dernières_mesures	Les dernières mesures en Seine d'octobre 2015 ne mettent pas en évidence d'anomalies.		

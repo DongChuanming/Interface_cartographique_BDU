@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	09			2005	09			ont_été_enlevés	- les transformateurs ont été enlevés en septembre 2005 par la société INEO ;		'la société INEO'
+2008	04	18		2008	04	18		a_été_transmis	Le rapport d'investigations complémentaires a été transmis à la DREAL le 18/04/2008.		'la DREAL'
+2002	03			2002	03			n__est_plus_exploité	Le site industriel n'est plus exploité depuis mars 2002.		
+2008	01	07		2008	01	07		Une_visite_d__inspection	Une visite d'inspection a été réalisée le 07/01/2008.		
+1987	06	24		1987	06	24		a_bénéficié	La société MAYOR a bénéficié des récépissés de déclaration n°15921 du 30/04/1970, n°21792 du 02/10/1986 et n°22752 du 24/06/1987.		'La société MAYOR'
+2007	06	18		2007	06	18		25_sondages	25 sondages ont été réalisés le 18/06/2007.		
+2006	07			2006	07			la_pose_de_barrières	- la pose de barrières de type grillage sur plots béton a été effectuée par la société LEBRUT en juillet 2006 ;		'la société LEBRUT'
+2002	02	12		2002	02	12		a_été_mise_en_état_de_redressement_judiciaire	Le 12/02/2002, la société a été mise en état de redressement judiciaire et Maitre NANTERME a été désigné administrateur du redressement.		'Maitre NANTERME'
+2007	10	07		2007	10	07		a_été_transmis	Le rapport du bilan environnemental de la cessation d'activités de la société BILLION MAYOR a été transmis à la Préfecture le 07/10/2007.		'la société BILLION MAYOR', 'la Préfecture'
+2008	05	26		2008	05	26		Une_visite_d__inspection	Une visite d'inspection a été effectuée le 26/05/2008.		

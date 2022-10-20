@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	06	05		2007	06	05		exploite	La société SETFORGE L'HORME SOCIETE NOUVELLE, réglementée par l'arrêté préfectoral du 5 juin 2007, exploite sur la commune de L'Horme une usine de fabrication de pièces forgées de 1 à 300 kg en acier.		"La société SETFORGE L' HORME", 'SOCIETE NOUVELLE'
+2011	08	23		2011	08	23		les_analyses_doivent_être_effectuées	Si une surveillance pertinente est maintenue, les analyses doivent être effectuées à une fréquence semestrielle et les résultats doivent être transmis à l'inspection sous un délai de 1 mois après leur réalisation (article 2.4 de l'arrêté préfectoral du 23 août 2011).		
+1989				1989				est_créé	Le groupement économique SETFORGE est créé en 1989 comprenant la filiale SETFORGE L'HORME.		'Le groupement économique SETFORGE', "la filiale SETFORGE L' HORME"
+								à_dépolluer	L'exploitant réalisera des investigations complémentaires afin de déterminer le périmètre de la zone à dépolluer sous un délai de 12 mois.		
+1850				1850				est_occupé_par	Depuis 1850, le site est occupé par des activités de forge.		
+2011	08	23		2011	08	23		prescrivant_ces_travaux_a_été_signé_le	L'arrêté complémentaire prescrivant ces travaux a été signé le 23 août 2011.		
+1850				1850				des_activités_de_forge	Depuis 1850, le site est occupé par des activités de forge.		
+2010	02			2010	02			Un_premier_diagnostic_initial	Un premier diagnostic initial a été réalisé en mai 2006, il a été complété par diagnostic approfondi – plan de gestion daté d'août 2009 et reçu en février 2010.		
+								seront_évacués_vers_des_installations_dûment_autorisées	Les condensateurs découverts au sous-sol du local compresseur seront évacués vers des installations dûment autorisées sous un délai de 6 mois.		
+2007	06	05		2007	06	05		a_remis_un_diagnostic	Conformément aux dispositions de l'article 4 de l'arrêté préfectoral du 5 juin 2007, la société a remis un diagnostic des sols et des eaux souterraines.		
+2006	05			2006	05			Un_premier_diagnostic_initial	Un premier diagnostic initial a été réalisé en mai 2006, il a été complété par diagnostic approfondi – plan de gestion daté d'août 2009 et reçu en février 2010.		
+2009	08			2009	08			daté_d_	Un premier diagnostic initial a été réalisé en mai 2006, il a été complété par diagnostic approfondi – plan de gestion daté d'août 2009 et reçu en février 2010.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004				2004				ont_été_éliminés	Les transformateurs au PCB ont été éliminés en 2004 selon la filière autorisée.	'PCB'	
+1983	11	24		1983	11	24		__autorisant_l_	.29 du 24 novembre 1983, autorisant l'exploitation d'activités de déshydratation.		
+1963				1985				ont_évolué	Entre 1963 et 1985, les capacités d'évaporation ont évolué pour aboutir à l'exploitation de deux séchoirs de 15000 l/h et 12500 l/h (les combustibles ont eux-aussi évolué pour passer du fioul lourd au charbon et à l'électricité).	'combustibles', 'fioul lourd', 'charbon'	
+				2008				a_informé	En 2006, l'exploitant a informé monsieur le préfet de la Marne et l'inspection des installations classées que les activités de déshydratation de luzerne sur le site étaient mises à l'arrêt, l'activité œillette s'est prolongée jusqu'en 2008.		'le préfet de la Marne'
+2006				2006				a_informé	En 2006, l'exploitant a informé monsieur le préfet de la Marne et l'inspection des installations classées que les activités de déshydratation de luzerne sur le site étaient mises à l'arrêt, l'activité œillette s'est prolongée jusqu'en 2008.		'le préfet de la Marne'

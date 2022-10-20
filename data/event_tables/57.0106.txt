@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1971				1971				avaient_été_mises_en_service	Par l’arrêté préfectoral complémentaire n°2005-AG/2-425 du 7 novembre 2005 modifié, la société EDF est autorisée à exploiter des installations de production d’énergie relevant du régime de l’autorisation sur le territoire de la commune de LA MAXE (site de 350 Ha).  Le site disposait de deux tranches de production d'énergie d'une puissance unitaire de 250 MWe, ces deux unités avaient été mises en service en 1971.		'la société EDF', 'MAXE'
+2015	10	16		2015	10	16		de_la_visite	Lors de la visite du 16 octobre 2015, l'inspection a fait le point sur la mise en sécurité du site du CPT.		
+2015	10	1		2015	10	1		transmet	Le 1er octobre 2015, l'ancien exploitant du site transmet le mémoire de cessation partielle d'activité (arrêt des tranches 1 et 2).		
+2007	02	08		2007	02	08		une_évaluation_simplifiée_des_risques	Des études sont menées sur le site depuis 2002, date de réalisation d'une évaluation simplifiée des risques (ESR), outil méthodologique en vigueur avant les circulaires nationales du 8 février 2007.		

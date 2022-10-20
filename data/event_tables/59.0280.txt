@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2018				2018				déclassement_du_site	- Investigations complémentaires dans les sols et dans la nappe de la craie + plan de gestion prescrits par APC du 07/06/2018, en vue d'une remise en état du site suite au déclassement du site du régime de l'autorisation au régime de la déclaration en 2018		
+1998	09	04		1998	09	04		une_étude	- Site visé par la circulaire du 3 avril 1996, une étude des sols phase A documentaire ainsi qu'une évaluation détaillée des risques ont été prescrites par APC du 04/09/1998.		
+2015				2015				en_baisse	En amont, à proximité de la pomperie de dépotage péniche (Pz9), teneur à 50 mg/L en 2013, en baisse depuis 2015.		
+2009	02			2009	02			installation	En Février 2009, installation de quatre nouveaux piézomètres.		
+1999				1999				Investigations_dans_les_sols	- Investigations dans les sols et les eaux souterraines réalisées par CECA en 1999.		'CECA'
+2001				2001				transmise	-L'évaluation simplifiée des risques réalisée par CECA et transmise en 2001 a permis de classer le site en catégorie 2, site à surveiller.		'CECA'
+2005				2005				mise_en_place	- Surveillance de la nappe alluviale mise en place depuis 2005		
+2018	06	07		2018	06	07		plan_de_gestion_prescrits	- Investigations complémentaires dans les sols et dans la nappe de la craie + plan de gestion prescrits par APC du 07/06/2018, en vue d'une remise en état du site suite au déclassement du site du régime de l'autorisation au régime de la déclaration en 2018		
+1996	04	03		1996	04	03		une_étude	- Site visé par la circulaire du 3 avril 1996, une étude des sols phase A documentaire ainsi qu'une évaluation détaillée des risques ont été prescrites par APC du 04/09/1998.		

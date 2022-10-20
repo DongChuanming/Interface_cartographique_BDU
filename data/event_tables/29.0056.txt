@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	05	05		2015	05	05		a_été_radiée	La société VEZO QUIMPER a été radiée le 5 mai 2015.		'La société VEZO QUIMPER'
+2011	03			2011	03			Le_bilan_quadriennal	Le bilan quadriennal (mars 2011 - juillet 2014) du 28 août 2014 conclut en un arrêt possible de la surveillance.		
+2011	06			2011	06			signées	- RUCPE signées en juin 2011 pour le lot "B" (parcelles HI 10, 92, 93 et 314) et confirment l'usage non-sensible.		
+2008	07			2008	07			des_travaux_de_dépollution	En juillet 2008 des travaux de dépollution ont été réalisés (excavation de terres polluées, confinement des terres polluées résiduelles).		
+								a_racheté	La société VEZO a racheté la société LE GOFF-MERRIEN au début des années 1990.		'La société VEZO', 'la société LE GOFF - MERRIEN'
+2009	09			2009	09			signées	- RUCPE signées en septembre 2009  pour le lot "A" (HI 348 et 349) et confirment l'usage non-sensible ;		
+2007	10			2007	10			réalisé	Le plan de gestion réalisé en octobre 2007 a permis de proposer une dépollution de la zone impactée dont les teneurs en hydrocarbures totaux étaient supérieures aux objectifs de qualité définis dans l'EDR.	'hydrocarbures totaux'	
+2013				2013				La_dernière_campagne	La dernière campagne de 2013 confirme la pollution des eaux souterraines au PCP, au lindane et en pesticides totaux, avec une légère amélioration de la qualité des eaux souterraines.	'PCP', 'lindane', 'pesticides totaux'	
+2014	07			2014	07			Le_bilan_quadriennal	Le bilan quadriennal (mars 2011 - juillet 2014) du 28 août 2014 conclut en un arrêt possible de la surveillance.		
+2005				2008				diverses_investigations_et_études_ont_été_réalisées	Entre 2005 et 2008, dans le cadre de la cessation d'activité, diverses investigations et études ont été réalisées sur le site.		
+1984	11	06		1984	11	06		a_été_autorisée_à_exploiter	La société LE GOFF-MERRIEN a été autorisée à exploiter un établissement de traitement du bois par arrêté préfectoral d'autorisation du 6 novembre 1984.		'La société LE GOFF - MERRIEN'
+2014	08	28		2014	08	28		Le_bilan_quadriennal	Le bilan quadriennal (mars 2011 - juillet 2014) du 28 août 2014 conclut en un arrêt possible de la surveillance.		
+2005	12	31		2005	12	31		s__est_définitivement_arrêtée	L’exploitation s'est définitivement arrêtée le 31 décembre 2005.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	10			2012	10			la_surveillance	Les résultats de la surveillance des eaux souterraines d'octobre 2012 et avril 2013 montrent des impactes en trichloréthylène au niveau des piézomètres 7 et 8, en composées organique volatils au niveau du PZext1 et du puits privée n°4 et en hydrocarbures au niveau du piézomètre 6.	'trichloréthylène', 'composées', 'hydrocarbures'	
+1998	12	17		1998	12	17		est_réglementé	Cet établissement est réglementé par l’arrêté préfectoral n°15172 du 17/12/1998.		
+1950				1950				est_implantée	L'usine (surface bâtie de 9300m2) est implantée depuis 1950 sur un terrain de superficie 25800 m2.		
+2013	04			2013	04			la_surveillance	Les résultats de la surveillance des eaux souterraines d'octobre 2012 et avril 2013 montrent des impactes en trichloréthylène au niveau des piézomètres 7 et 8, en composées organique volatils au niveau du PZext1 et du puits privée n°4 et en hydrocarbures au niveau du piézomètre 6.	'trichloréthylène', 'composées', 'hydrocarbures'	
+2007				2007				une_extension_du_panache	La modélisation a conduit à définir une extension du panache de pollution vers le sud-ouest, de 190 mètres de la limite sud du site en 2007 et à 320 mètres en 2037.		

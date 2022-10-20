@@ -1,0 +1,23 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	05	18		2005	05	18		Les_campagnes	Les campagnes des 18 mai 2005 et 19 septembre 2005 confirme la situation.		
+2002	05	22		2002	05	22		La_campagne	La campagne du 22 mai 2002 ne montre pas d'impact dans la nappe.		
+2003	12			2003	12			La_campagne_de	La campagne de décembre 2003 fait état d'une forte concentration d'hydrocarbures dans le forage  de l'usine.	'hydrocarbures'	
+2008	05	27		2008	05	27		analysés_du	Malgré L'arrêt de l'utilisation des sels CCA en 2004, l'analyse des 2 rejets d’eaux pluviales analysés du 27/05/2008 montre des traces de Cu (241 µg/l), d'As (82 µg/l)et de propiconazole (11 µg/l).	'Cu', "d' As", 'propiconazole'	'sels CCA'
+2007	05			2007	05			La_campagne_de	La campagne de mai 2007 montre de fortes valeurs en hydrocarbures sur les 3 points de contrôle. les concentrations des autres polluants sont toutes proches des limites de détection des méthodes analytiques.	'hydrocarbures', 'polluants'	
+								a_mis	En l'absence de résultats de contrôle de l'eau souterraine, depuis mai 2007, l'arrêté du 24/07/2008 a mis l'exploitant en demeure de réaliser une campagne dans les 3 mois.		
+2010				2010				sont_rappelés	Les objectifs de l'arrêté du 31/03/2008 sont rappelés à l'exploitant le..........2010.		
+2008	05	27		2008	05	27		La_campagne	La campagne du 27/05/2008 revèle de faibles traces de biocides dans PZ1, PZ2 et Pz3.	'biocides'	'Pz3 .'
+2006	02	1		2006	02	1		se_sont_succédés	Plusieurs exploitants se sont succédés sur ce site, Espiet, Escobois et depuis le 1er février 2006, la société GASCOGNE WOOD.		'Espiet', 'Escobois', 'la société GASCOGNE WOOD'
+2004	10	12		2004	10	12		La_campagne	La campagne du 12 octobre 2004 montre une situation satisfaisante sur les 2 piézomètres et le forage et les paramètres Cuivre, Chrome, Arsenic, Pentachlorophénol, DCO, Hydrocarbures totaux et détergents cationiques.	'Cuivre', 'Chrome', 'Arsenic', 'Pentachlorophénol', 'DCO', 'Hydrocarbures totaux', 'détergents cationiques'	
+2009	10			2009	10			Prélèvements_de	Prélèvements de novembre 2008, avril 2009 et octobre 2009 : la pollution par les hydrocarbures détectée en 2008 n'est plus observée.	'hydrocarbures'	
+2008				2008				les_hydrocarbures_détectée	Prélèvements de novembre 2008, avril 2009 et octobre 2009 : la pollution par les hydrocarbures détectée en 2008 n'est plus observée.	'hydrocarbures'	
+2008	11			2008	11			Prélèvements_de	Prélèvements de novembre 2008, avril 2009 et octobre 2009 : la pollution par les hydrocarbures détectée en 2008 n'est plus observée.	'hydrocarbures'	
+2007	05			2007	05			a_mis	En l'absence de résultats de contrôle de l'eau souterraine, depuis mai 2007, l'arrêté du 24/07/2008 a mis l'exploitant en demeure de réaliser une campagne dans les 3 mois.		
+2001				2001				Le_diagnostic_de_pollution	Le diagnostic de pollution réalisé en 2001 a mis en évidence une pollution des sols par les métaux As, Cr et Cu particulièrement élevée au niveau du prélèvement de surface P0 (jusqu'à 79 g d'As/kg de sol sec)et par les hydrocarbures (19 g/kg).	'les métaux As', 'Cr', 'Cu', 'As', 'les hydrocarbures'	
+								Le_diagnostic_de_pollution_remis	Le diagnostic de pollution remis le 15/07/08 montre que sur les 10 analyses Hydrocarbures de sols (compris entre -0,5 et -3 m) du 07/02/2008, un point singulier ressort à 53 mg/kg.	'Hydrocarbures'	
+2009	04			2009	04			Prélèvements_de	Prélèvements de novembre 2008, avril 2009 et octobre 2009 : la pollution par les hydrocarbures détectée en 2008 n'est plus observée.	'hydrocarbures'	
+								réaliser_une_campagne	En l'absence de résultats de contrôle de l'eau souterraine, depuis mai 2007, l'arrêté du 24/07/2008 a mis l'exploitant en demeure de réaliser une campagne dans les 3 mois.		
+2006				2006				a_subit_des_dommages	Cet ouvrage situé sur une zone de circulation de véhicules a subit des dommages durant l'été 2006 et n'aurait été "réhabilité" que de manière sommaire.		
+2008	04	30		2008	04	30		ont_été_créés	Pour compléter le dispositif de surveillance,3 puits de contrôle ont été créés le 30/04/2008, dont 2 en remplacement de puits existants dépourvus de cimentation.		
+2005	09	19		2005	09	19		Les_campagnes	Les campagnes des 18 mai 2005 et 19 septembre 2005 confirme la situation.		
+2008	07	15		2008	07	15		Le_rapport_de_diagnostic	Le rapport de diagnostic du 15/07/2008 mentionne qu'un décanteur-déshuileur est en cours d'installation, pour éviter le rejet d'eaux de lavage et d'eaux pluviales polluées au niveau de l'atelier mécanique.		

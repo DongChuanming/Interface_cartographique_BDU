@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1900				1900				sont_transférées	Vers 1900 les activités se trouvant rue de la Gare sont transférées sur les rives du Drac.		
+2013	01			2013	01			s__est_tenu	Les campagnes sont réalisées trimestriellement sur 6 piézomètres et les échantillons d’eaux sont analysés afin de déterminer les concentrations en HCT et en métaux lourds. 30 campagnes ont été réalisées et la dernière en date s’est tenu au mois de janvier 2013.	'HCT', 'métaux lourds'	
+2004	08	23		2004	08	23		a_remis_le_diagnostic_approfondi	Par courrier daté du 23 août 2004, la ville de Grenoble a remis le diagnostic approfondi à l'inspection des installations classées.		'la ville de Grenoble'
+2003	03			2003	03			une_Évaluation_Simplifiée_des_Risques	En mars 2003, la ville de Grenoble remet une Évaluation Simplifiée des Risques (ESR) dans l’optique de sa réhabilitation.		'la ville de Grenoble'
+2008	01			2008	01			ont_été_décelées	Depuis janvier 2008, des contaminations ponctuelles (6 campagnes sur 30) en Nickel ont été décelées sur un des ouvrages du site (la concentration maximale observée est de 65 µg/l en juin 2010).	'Nickel'	
+								ont_fabriqué	Au cours de la 1ère guerre mondiale les EBV ont fabriqué des bombes, des obus et d’autres matériels de guerre (tout en poursuivant quelques uns de leurs projets hydrauliques).		'les EBV'
+1870				1870				s__associe	En 1870, Joseph Bouchayer s’associe à Felix Viallet et engage l’entreprise dans une politique d’acquisition.		
+2009	10	12		2009	10	12		Une_analyse	Une analyse des risques résiduels (ARR) a ensuite été rédigée par Arcadis sur la même zone en date du 12/10/2009.		'Arcadis'
+2013	01			2013	01			30_campagnes_ont_été_réalisées	Les campagnes sont réalisées trimestriellement sur 6 piézomètres et les échantillons d’eaux sont analysés afin de déterminer les concentrations en HCT et en métaux lourds. 30 campagnes ont été réalisées et la dernière en date s’est tenu au mois de janvier 2013.	'HCT', 'métaux lourds'	
+1969				1969				acquiert	En 1969, Joseph Bouchayer acquiert la fonderie Tallin, et rassemble ses ateliers au 37 avenue de la Gare.		'Bouchayer'
+1970				1970				ferme	Après la seconde guerre mondiale, suite à une période de récession et d’une forte concurrence, les EBV connaissent de graves difficultés et le site Bouchayer Viallet ferme vers 1970.		'les EBV', 'Bouchayer Viallet'
+2004	01			2004	01			est_assuré	Un suivi de la qualité des eaux souterraines du site est assuré par ARCADIS depuis le mois de janvier 2004.		'ARCADIS'
+2003	10	21		2003	10	21		d__une_EDR_été_signé	L'arrêté préfectoral imposant la surveillance des eaux souterraines ainsi que la réalisation d'un diagnostic approfondi et d’une EDR été signé le 21 octobre 2003.		
+1898				1898				Fils_reprend	En 1898, Bouchayer Fils reprend les EBV et achète 23 000 m² en bordure du Drac.		'Bouchayer Fils', 'les EBV'
+2006	02	07		2006	02	07		Un_diagnostic_global_de_pollution	Un diagnostic global de pollution a été rédigé par ARCADIS en date du 07/02/2006.		'ARCADIS'
+2010	06			2010	06			ont_été_décelées	Depuis janvier 2008, des contaminations ponctuelles (6 campagnes sur 30) en Nickel ont été décelées sur un des ouvrages du site (la concentration maximale observée est de 65 µg/l en juin 2010).	'Nickel'	
+2002	11			2002	11			Les_investigations	Les investigations se sont déroulées en Novembre 2002.  Les prélèvements ont été faits jusqu’à 6 m (profondeur du toit de la nappe).		
+2007	07	05		2007	07	05		un_rapport_de_gestion	Le 05/07/2007, la Société d’Économie Mixte Grenoble (SEM Grenoble) a remis à l’Inspection des Installations Classées un rapport de gestion des terres.		'la Société d’ Économie Mixte Grenoble', 'SEM Grenoble'

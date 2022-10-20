@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	12	01		2008	12	01		la_cessation_de_ses_activités	Par courrier du 08/01/2009, la société ESSO SAF a informé la Préfecture de la cessation de ses activités sur le site depuis le 01/12/2008.		'la société ESSO SAF', 'la Préfecture'
+2010	04	13		2010	04	13		ont_été_transmis	Les rapports de "Travaux de démantèlement et diagnostics des sols" et "L'analyse des risques résiduels" ont été transmis à la Préfecture le 13/04/2010.		
+2008	12	01		2008	12	01		a_informé	Par courrier du 08/01/2009, la société ESSO SAF a informé la Préfecture de la cessation de ses activités sur le site depuis le 01/12/2008.		'la société ESSO SAF', 'la Préfecture'
+2011	04	11		2011	04	11		a_été_transmis	Un projet de servitudes a été transmis à la Préfecture le 11/04/2011.		
+2011	05	13		2011	05	13		a_été_émis	Suite au rapport de l'inspection des Installations Classées  du 13/05/2011, l'arrêté préfectoral n°2011188-0047 du 07/07/2011, instituant des servitudes d'utilités publiques a été émis.		

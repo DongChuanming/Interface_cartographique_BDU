@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	07	30		2007	07	30		L_	L’inspection du 30 juillet 2007 a permis de constater la réalisation des travaux de remise en état annoncés par l’exploitant dans son mémoire de cessation d’activité, à savoir :		
+2006	08	18		2006	08	18		a_été_transmis	Le mémoire de cessation d’activité a été transmis en Préfecture le 18 août 2006.		
+2002				2002				a_cessé	Son exploitation a débuté en 1997 et a cessé en 2002.		
+1997				1997				a_débuté	Son exploitation a débuté en 1997 et a cessé en 2002.		
+1997	02	27		1997	02	27		déclaration	Ce dépôt était exploité sous le récépissé de déclaration du 27 février 1997.		
+2006	05	31		2006	05	31		ont_été_réalisés	-  Réalisation d’un diagnostic environnemental par la société LISEC : dix sondages ont été réalisés les 30 et 31 mai 2006, à proximité des installations potentiellement polluantes identifiées sur le site.		'la société LISEC'
+2006	12			2006	12			__Évacuation	• fin décembre 2006 : Évacuation du séparateur à hydrocarbures et de la cuve à égouttures, neutralisation des canalisations restantes.	'hydrocarbures'	
+								ont_été_réalisés	-  Réalisation d’un diagnostic environnemental par la société LISEC : dix sondages ont été réalisés les 30 et 31 mai 2006, à proximité des installations potentiellement polluantes identifiées sur le site.		'la société LISEC'
+2007	10	30		2007	10	30		La_déclaration	La déclaration de cessation d’activité de l’établissement est actée par un courrier du préfet en date du 30 octobre 2007.		
+2002				2002				ayant_cessé_son_activité	Le site ayant cessé son activité en 2002, il est soumis aux anciennes dispositions de l’article 34.1. du décret n° 77.1133 du 21 septembre 1977, qui prévoit la transmission d’un mémoire sur l’état du site précisant les mesures prises ou prévues pour assurer la protection des intérêts visés à l’article 1er de la loi du 19 juillet 1976.		
+1997	02	27		1997	02	27		était_exploité_sous	Ce dépôt était exploité sous le récépissé de déclaration du 27 février 1997.		

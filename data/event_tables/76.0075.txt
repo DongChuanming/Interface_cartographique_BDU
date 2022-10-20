@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1995	10	31		1995	10	31		a_déclaré_sa_cessation_d__activité	La société Sofridi a déclaré sa cessation d'activité à partie du 31 octobre 1995.		'La société Sofridi'
+2001	10			2001	10			évaluation_simplifié_des_risques	L'évaluation simplifié des risques a été remise en octobre 2001		
+1985				1985				a_repris	L'entreprise devenue SOFRIDI a repris les activités de la société des glacières de l'alimentation dieppoise en 1985.		'devenue SOFRIDI', 'la société des glacières'
+1995	10			1995	10			a_cessé_définitivement_ses_activités	L'entreprise a cessé définitivement ses activités en octobre 1995.		
+2004				2004				Une_seconde_étude_de_sols	Une seconde étude de sols a été réalisée en 2004.		
+2007	05			2007	05			Des_travaux_de_reconnaissance	Des travaux de reconnaissance complémentaires ont été réalisés dans ce cadre en mai 2007.		
+1999	10			1999	10			un_diagnostic_initial	Résultats issus d'un diagnostic initial réalisé en octobre 1999 par ICF Environnement pour le compte de la mairie de Dieppe, dans le cadre d'une éventuelle transaction.		'ICF', 'Dieppe'
+2007				2007				l__étude	Dans le cadre de nouveaux projets sur la zone il conviendrait de mettre à jour l'étude de 2007 et de réaliser un plan de gestion (avec bilan cout-avantage).		
+1992	06			1992	06			arrêtée	Une huilerie installée au nord-est du site depuis 1857 (ex huilerie Poullard), arrêtée depuis juin 1992, est connexe au site (fiche n° 76-0076 ; HOLFIMER (ex HUILERIES NORMANDES)).		'HOLFIMER', 'HUILERIES NORMANDES'
+1999				1999				Un_premier_diagnostic_initial	Un premier diagnostic initial a été réalisé en aout 1999 à la demande de la ville de Dieppe.		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				2003				a_ensuite_été_réhabilitée	L'arrêté préfectoral du 5 décembre 1996 a imposé la fermeture de cette décharge municipale, qui a ensuite été réhabilitée entre 1999 et 2003.		
+1987				1987				a_reçu	Jusqu'en 1987, la décharge a reçu des ordures ménagères ainsi que des déchets divers tels que des ferrailles, des encombrants, des déchets verts et des matériaux de démolition.	'des ordures ménagères', 'des déchets divers'	
+								a_exploité	La commune du Lyaud a exploité à partir des années 1960 et sans autorisation une décharge d'ordures ménagères située au bord de l'étang du "Voua Bénit".		
+2000	1999			2000	1999			a_procédé	La commune du Lyaud a procédé en 1999/2000 au nettoyage de l'étang et de ses abords en enlevant tous les déchets apparents.		'La'
+2003	09			2003	09			Les_travaux_de_réhabilitation	Les travaux de réhabilitation se sont ensuite poursuivis en septembre 2003 :		
+1997				1997				La_fermeture_effective	La fermeture effective de la décharge a été conduite dans les premiers mois de l'année 1997.		
+2003	10	08		2003	10	08		Une_visite_de_récolement	Une visite de récolement du 8 octobre 2003 par l'inspection des installations classées a permis de constater l'achèvement du chantier et la bonne exécution des travaux.		
+1987				1987				ne_sont_plus_réceptionnées	Après 1987, les ordures ménagères ne sont plus réceptionnées dans la décharge.		
+2001	05			2005	10			s__est_déroulée	La surveillance des eaux souterraines s'est déroulée de mai 2001 à octobre 2005 (8 campagnes) sur 3 piézomètres.		
+								s__établissait_vers	Le niveau aquifère s'établissait vers - 19,23 m le 01/12/97.		

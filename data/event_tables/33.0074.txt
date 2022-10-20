@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				le_diagnostic	Depuis 1995, les activités ont cessé sur les deux zones de pollution identifiées par le diagnostic de 2000.		
+2000				2000				les_activités_ont_cessé	Depuis 1995, les activités ont cessé sur les deux zones de pollution identifiées par le diagnostic de 2000.		
+2005				2005				Une_campagne_d__assainissement	Une campagne d’assainissement réalisée de 1999 à 2001  (600 m3 de terre) suivie d’une 2ème campagne en 2005 sur les sédiments de la mare C1 ont été réalisés au TEE.		
+1999				1999				a_mis_en_place	Depuis 1999, le CEA a mis en place un programme de surveillance concernant les sols, les eaux et le milieu.		
+1995				1995				les_activités_ont_cessé	Depuis 1995, les activités ont cessé sur les deux zones de pollution identifiées par le diagnostic de 2000.		
+2004	10	22		2004	10	22		__a_été_classé_SIENID	Le site TEE  a été classé SIENID (Sites et Installations d'Expérimentations Nucléaires Intéressant la Défense) par arrêté ministériel le 22 octobre 2004.		'Le site TEE', 'classé SIENID', 'Intéressant la Défense'
+1967				1967				ont_demarré	Les activités de détonique ont demarré sur ce site en 1967 sur 2 zones d'essai.	'détonique'	
+2000	02			2000	02			Le_diagnostic_initial	Le diagnostic initial et l'évaluation simplifiée des risques, réalisés en février 2000, identifie les 2 zones de pollution sur le TEE d'une superficie totale de 3 ha environ.		
+1999				2001				Une_campagne_d__assainissement	Une campagne d’assainissement réalisée de 1999 à 2001  (600 m3 de terre) suivie d’une 2ème campagne en 2005 sur les sédiments de la mare C1 ont été réalisés au TEE.		
+1967				1995				ont_été_exercées	Des activités de détonique ont été exercées de 1967 à 1995 sur des zones délimitées.	'détonique'	

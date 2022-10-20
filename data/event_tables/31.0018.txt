@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	04	30		2008	04	30		a_informé	Par courrier du 30 avril 2008, la société Hydro Aluminium Toulouse a informé la préfecture de la Haute-Garonne de la cessation de ces activités.		'la société Hydro Aluminium Toulouse', 'la préfecture de la Haute-Garonne'
+1950				1950				exploités	Terrains exploités des années 1920 à 1950 par la poudrerie nationale comme plate-forme de stockage et d'expédition d'explosifs.		
+2001	09			2001	09			Des_travaux_d__excavation	Des travaux d'excavation ont été effectués en septembre 2001.		
+1996	04	03		1996	04	03		a_été_sélectionné	Ce site comportant des ateliers de traitement de surfaces, a été sélectionné par l'inspection des installations classées, dans le cadre de l'application de la circulaire du 3 avril 1996, pour faire l'objet d'un diagnostic initial et d'une évaluation simplifiée des risques.		
+								Le_diagnostic_a_été_effectué	Le diagnostic a été effectué en novembre et décembre 1998.		
+2007				2007				l__arrêt_des	A l’arrêt des activités du site en 2007, un mémoire de cessation d'activités a été établi et des investigations complémentaires ont été réalisées.		
+2009	03			2009	03			a_été_réalisé	Un plan de gestion a été réalisé en mars 2009.		
+2011	09	01		2011	09	01		Un_procès_verbal_de_récolement	Un procès verbal de récolement a été établi par l'inspection des installations classées le 01/09/2011.		
+2015	07	03		2015	07	03		la_signature_d_	Il a conduit à la signature d’un arrêté préfectoral de servitudes d’utilité publique le 3 juillet 2015.		
+2011	07			2011	07			a_transmis	Par ailleurs l'exploitant a transmis en juillet 2011 un dossier de demande d'institution de servitudes d'utilité publique afin de garder en mémoire les pollutions résiduelles du site.		
+1998	12			1998	12			Le_diagnostic_a_été_effectué	Le diagnostic a été effectué en novembre et décembre 1998.		
+1920				1920				exploités	Terrains exploités des années 1920 à 1950 par la poudrerie nationale comme plate-forme de stockage et d'expédition d'explosifs.		
+2017				2017				les_analyses	La surveillance des eaux souterraines se poursuit, les analyses 2017 montrent que la plupart des concentrations sont depuis 2010 inférieures aux valeurs réglementaires à l'exception de concentrations en cadmium et nickel qui présentent des phénomènes de rebond sur certains piézomètres et sont supérieures aux valeurs de référence (teneurs de 17,9 µg/l en cadmium et 70,3 µg/l en nickel).	'cadmium', 'nickel', 'cadmium', 'nickel'	
+1988	02	04		1988	02	04		étaient_autorisées	Les activités de traitement de surfaces du site « Anodisation », situé au 171 route d’Espagne à Toulouse étaient autorisées par arrêté préfectoral du 4 février 1988.	'\xa0 Anodisation'	
+2007				2007				a_été_établi	A l’arrêt des activités du site en 2007, un mémoire de cessation d'activités a été établi et des investigations complémentaires ont été réalisées.		

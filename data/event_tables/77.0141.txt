@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	03	11		2015	03	11		Une_campagne_de_mesure	Une campagne de mesure les 10 et 11 mars 2015 a été réalisée afin de compléter les données existantes, notamment concernant la définition du bruit de fond local et la qualité chimique des terres de remblaiement du bassin.		
+								Une_campagne_de_mesure	Une campagne de mesure les 10 et 11 mars 2015 a été réalisée afin de compléter les données existantes, notamment concernant la définition du bruit de fond local et la qualité chimique des terres de remblaiement du bassin.		
+2016	12	20		2016	12	20		a_transmis	Par le courrier du 1er novembre 2015, complété par le courrier du 20 décembre 2016, la société TOTAL a transmis le plan de gestion du site de la SIDEV.		'la société TOTAL', 'la SIDEV'
+2012	04	03		2012	04	03		a_demandé_par_courrier_préfectoral	Monsieur le Préfet de Seine-et-Marne a demandé par courrier préfectoral en date du 3 avril 2012 à l'exploitant de réaliser des investigations complémentaires afin de délimiter l'étendue de la pollution et de vérifier le sens d'écoulement des eaux souterraines.		'le Préfet'
+2011	04	22		2011	04	22		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 22 avril 2011.		

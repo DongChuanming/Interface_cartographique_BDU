@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	03	21		2014	03	21		des_visites_d__inspection	L'inspection a effectué le 27/10 et 06/11/2014, des visites d'inspection de l'établissement Lelièvre au cours desquelles l'inspection a contrôlé l'excavation de terre polluées conformément aux dispositions de l'APMU 2014080-0007 du 21 mars 2014.		
+								des_visites_d__inspection	L'inspection a effectué le 27/10 et 06/11/2014, des visites d'inspection de l'établissement Lelièvre au cours desquelles l'inspection a contrôlé l'excavation de terre polluées conformément aux dispositions de l'APMU 2014080-0007 du 21 mars 2014.		
+2015				2015				les_plus_polluées_évacuées	Pollution au PCB et métaux importante d'une zone de brulage des déchets : Terres les plus polluées évacuées en 2014 et 2015.	'PCB', 'métaux importante'	
+2014				2014				les_plus_polluées_évacuées	Pollution au PCB et métaux importante d'une zone de brulage des déchets : Terres les plus polluées évacuées en 2014 et 2015.	'PCB', 'métaux importante'	
+2014	11	06		2014	11	06		des_visites_d__inspection	L'inspection a effectué le 27/10 et 06/11/2014, des visites d'inspection de l'établissement Lelièvre au cours desquelles l'inspection a contrôlé l'excavation de terre polluées conformément aux dispositions de l'APMU 2014080-0007 du 21 mars 2014.		

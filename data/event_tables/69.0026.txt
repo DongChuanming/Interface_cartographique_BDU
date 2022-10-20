@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998				1998				ont_été_restitués	Début 1998, les terrains réhabilités ont été restitués à l’activité industrielle sans servitude particulière d’aménagement.		
+1997	07	10		1997	07	10		a_été_encadrée_par	Cette affaire a été encadrée par deux arrêtés du préfet en date du 25 octobre 1994 et 10 juillet 1997.		'préfet'
+								une_révision	Ce dernier a prévu la possibilité d'une révision du suivi piézométrique après une période de 3 ans sur demande motivée de l'exploitant.		
+1994				1996				les_travaux_de_réhabilitation	Entre 1994 et 1996 les travaux de réhabilitation ont été menés pour un coût de 13,5 MF (dépose des canalisations, démantèlement de la station, démolition des superstructures et fondations (650 tonnes), enlèvement et incinération des terres souillées (3100 tonnes), création d’un réseau piézomètrique).		
+1994	10	25		1994	10	25		a_été_encadrée_par	Cette affaire a été encadrée par deux arrêtés du préfet en date du 25 octobre 1994 et 10 juillet 1997.		'préfet'
+1993				1993				l__acquisition	Un audit environnemental préalable à l’acquisition de l’usine AGRISHELL par CYANAMID AGRO en 1993, a mis en évidence une pollution des sols et de la nappe phréatique causée par des fuites sur des canalisations enterrées au droit d’une station de traitement des eaux de lavage.		'AGRISHELL', 'CYANAMID AGRO'

@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	05			2009	05			__travaux_de_démantèlement	Depuis mai 2009 : travaux de démantèlement des bâtiments A, B et C et de toutes les cuves enterrées.		
+2009	05			2009	05			La_campagne_de_mesures	La campagne de mesures de mai 2009 montre :		
+2007				2007				la_fermeture_définitive	Dans la perspective de la fermeture définitive du site et d’une cession des terrains à l’horizon 2007, PPG Coatings SA a engagé depuis 2004 des investigations sur les sols, les eaux et les ouvrages restants sur le site.		'PPG Coatings SA'
+2013	07			2013	07			l__issue_du_traitement	A l’issue du traitement en juillet 2013, les terres mises en traitement sur la biopile présentaient des		
+2004				2004				des_investigations	Dans la perspective de la fermeture définitive du site et d’une cession des terrains à l’horizon 2007, PPG Coatings SA a engagé depuis 2004 des investigations sur les sols, les eaux et les ouvrages restants sur le site.		'PPG Coatings SA'
+2013	07			2013	07			et_arrêt	• Démarrage du traitement dans la semaine du 15 au 19 octobre 2012 et arrêt en juillet 2013.		
+				1984				est_utilisé	Le site PPG Coatings SA au Havre, précédemment exploité par SFPV (Société Française des Peintures et Vernis) puis International Celomer, est utilisé jusqu’en 1984 pour la fabrication de peintures et vernis, activité autorisée par arrêté préfectoral du 12 octobre 1929.		'PPG Coatings SA', 'SFPV', 'Société Française des Peintures et Vernis', 'Celomer'
+2005	03			2005	03			évaluation_simplifiée_des_risques	Pour les usages actuels des sols et des eaux, l’évaluation simplifiée des risques réalisée en mars 2005 conclut à un classement 2 du site.		
+2012	10			2012	10			un_diagnostic_complémentaire	Au regard des résultats d’un diagnostic complémentaire d’octobre 2012 et des résultats d’analyse des bords de fouille, le site SOTRAGA/MIGRAINE ne présente plus de pollutions significatives, à savoir :		'SOTRAGA', 'MIGRAINE'
+								Démarrage_du_traitement	• Démarrage du traitement dans la semaine du 15 au 19 octobre 2012 et arrêt en juillet 2013.		
+2014	04	08		2014	04	08		Les_travaux_ont_été_réceptionnés	Les travaux ont été réceptionnés le 08 avril 2014 :		
+1999	02			1999	02			a_acquis	La société PPG Coatings SA a acquis le site en février 1999.		'La société PPG Coatings SA'
+2012	10	19		2012	10	19		Démarrage_du_traitement	• Démarrage du traitement dans la semaine du 15 au 19 octobre 2012 et arrêt en juillet 2013.		
+2013	07			2013	07			Démarrage_du_traitement	• Démarrage du traitement dans la semaine du 15 au 19 octobre 2012 et arrêt en juillet 2013.		
+2009	11			2009	11			La_campagne_de_mesures	La campagne de mesures de novembre 2009 montre :		
+2007				2007				d__une_cession_des_terrains	Dans la perspective de la fermeture définitive du site et d’une cession des terrains à l’horizon 2007, PPG Coatings SA a engagé depuis 2004 des investigations sur les sols, les eaux et les ouvrages restants sur le site.		'PPG Coatings SA'
+2007				2007				des_investigations	Dans la perspective de la fermeture définitive du site et d’une cession des terrains à l’horizon 2007, PPG Coatings SA a engagé depuis 2004 des investigations sur les sols, les eaux et les ouvrages restants sur le site.		'PPG Coatings SA'
+2008	10			2008	10			La_campagne_de_mesures	La campagne de mesures d'octobre 2008 montre:		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1981	07	21		1981	07	21		est_liquidée	La société Elector, dernière à avoir employé du radium est liquidée le 21 juillet 1981.	'radium'	'La société Elector'
+2010	06	07		2010	06	07		il_transmet	Le 7 juin 2010, il transmet le mémoire de réhabilitation du site, qui conclut à la présence de deux spots de contamination des sols au tritium au niveau de la chaufferie et d'un garage.	'tritium'	
+								notifie_la_cessation_d__activité	Le 2 octobre, l'exploitant notifie la cessation d'activité.		
+2015	04			2015	04			Les_travaux_d__assainissement	Les travaux d'assainissement ont débuté en avril 2015 et devraient se terminer à l'automne 2015.		
+2009	09			2009	09			cesse_définitivement	L'activité industrielle sur le site cesse définitivement en septembre 2009.		
+2009	09	23		2009	09	23		réalise_une_visite	Le 23 septembre 2009, l'inspection réalise une visite du site, suite au déclenchement d'un portique de détection de radioactivité d'un site de traitement de métaux, lors du passage d'une benne en provenance du site de Charquemont.		
+2010	02			2010	02			fait_réaliser_une_cartographie	D'octobre 2009 à février 2010, il fait réaliser une cartographie des outillages, déchets et bâtiments du site.		
+2013	11	29		2013	11	29		par_courrier	L'inspection a transmis, par courrier du 29 novembre 2013 son avis sur les scénarios de réhabilitation envisagés par l'ANDRA à la CNAR.		'la CNAR'
+2013	05	07		2013	05	07		une_première_étude_technico___économique	Conformément aux dispositions de la circulaire du 17 novembre 2008 relative à la prise en charge de certains déchets radioactifs et de sites de pollution radioactive, l'ANDRA a remis le 7 mai 2013 une première étude technico-économique de l'opération d'assainissement du site de Charquemont.		
+2013	10			2013	10			a_remis	Sur demande de l'ASN et de l'inspection, elle a remis en octobre 2013 une seconde version de son étude.		
+1998	05	25		1998	05	25		notifie_la_cessation	Le 25 mai 1998, l'exploitant notifie la cessation de l'activité de pose de tritium à compter du 30 septembre 1997.	'tritium'	
+2013	02	26		2013	02	26		une_demande	En conséquence, le préfet transmet à la ministre de l'écologie, par courrier du 26 février 2013, une demande d'intervention de la CNAR (Commission Nationale des Aides dans le domaine Radioactif) pour la prise en charge des coûts de décontamination du site.		'le préfet', 'la ministre', 'la CNAR'
+2009	10			2009	10			fait_réaliser_une_cartographie	D'octobre 2009 à février 2010, il fait réaliser une cartographie des outillages, déchets et bâtiments du site.		
+2014	11	26		2014	11	26		a_signé	Afin d'encadrer l'ensemble des travaux de réhabilitation du site (assainissement radium et tritium), le préfet a signé, le 26 novembre 2014, un arrêté préfectoral complémentaire prescrivant au dernier exploitant :	'radium', 'tritium'	'le préfet'
+2009	07			2009	07			cesse_définitivement	En juillet 2009, l'exploitant cesse définitivement et totalement ses activités sur le site.		

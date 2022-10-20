@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								terrain_d__une	L’installation a une surface d’environ 800 m², et est située sur un terrain d’une superficie de 2 361 m².		'L’ installation a une surface d’ environ'
+2004	04			2004	04			société_le_30	Suite à la dissolution de la société le 30 avril 2004, la SOCIETE CIVILE IMMOBILIERE BANNIER devient le nouveau propriétaire du site.		'Suite à la dissolution de la société', '2004 , la SOCIETE CIVILE IMMOBILIERE'

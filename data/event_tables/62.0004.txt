@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000				2000				Évaluation_détaillée_des_risques	- Évaluation détaillée des risques en 2000 n'a pas mis en évidence de migration de polluant dans les eaux souterraines.		
+1997				1997				et_fermeture_de_la_gare	Arrêt d'activité en 1983 et fermeture de la gare en 1997.		
+2000	06	27		2000	06	27		Réalisation_d__un_diagnostic_approfondi	- Réalisation d'un diagnostic approfondi des sols et des eaux, le 27/06/2000 qui confirme la pollution du site.		
+1993				1993				mis_en_place	- Surveillance des eaux souterraines mis en place en 1993.		
+2004	09	27		2004	09	27		Visite_de_récolement	- Visite de récolement de l'arrêté préfectoral du 19 décembre 2002 réalisée le 27 septembre 2004.		
+1997				1997				Arrêt_d__activité	Arrêt d'activité en 1983 et fermeture de la gare en 1997.		
+2003	2002			2003	2002			Travaux_de_comblement	- Travaux de comblement réalisés en 2002/2003.		
+2005	01	24		2005	01	24		PV_de_récolement	Rapport valant PV de récolement en date du 24/01/2005.		
+2003	06			2003	06			fin_des_travaux	- La gare d'eau a été comblée (fin des travaux : juin 2003); le site a été engazonné.		
+2004				2004				__travaux_de_remblayage	- Dossier d'ouvrage exécuté: travaux de remblayage et de confinement de la gare d'eau de Vendin-le-Vieil en 2004.		
+2005	01	24		2005	01	24		Rapport_valant	Rapport valant PV de récolement en date du 24/01/2005.		
+1983				1983				Arrêt_d__activité	Arrêt d'activité en 1983 et fermeture de la gare en 1997.		
+1997	01			1997	01			Réalisation_d__une_évaluation_simplifiée_des_risques	- Réalisation d'une évaluation simplifiée des risques, en date de janvier 1997.		
+1999	05	21		1999	05	21		Réalisation_d__une_étude_environnementale	- Réalisation d'une étude environnementale du site, en date du 21/05/1999.		

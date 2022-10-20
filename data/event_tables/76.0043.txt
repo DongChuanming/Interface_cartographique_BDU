@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1992				a_exploité	.L.) a exploité de 1982 à 1992 une usine de régénération d'huiles usagées à Lillebonne.		
+1965				1989				ont_été_entreposés	De 1965 à 1989 ont été entreposés, sur un terrain jouxtant les installations de production de l'usine (site étudié), des déchets de procédé de régénération d'huile, principalement des cendres et mâchefers d'incinération, ainsi que, plus ponctuellement, des terres de filtration imprégnées d'huile, des goudrons sulfuriques.	'huile', 'huile', 'des goudrons sulfuriques'	
+1996				1996				des_analyses_complémentaires	- en 1996, des analyses complémentaires sur le sol et les eaux souterraines réalisées par les bureaux d'études GEOSTOCK et GEOCLEAN,		'GEOSTOCK', 'GEOCLEAN'
+1996				1996				un_diagnostic_initial	- un diagnostic initial a été réalisé en 1996 par la société FOSSELEV (recherche historique, mesures de polluants dans le sol et les eaux souterraines),		'la société FOSSELEV'
+1996				1996				des_analyses_de_présence_de_métaux_lourds	- en 1996, des analyses de présence de métaux lourds dans le sol et les  cultures d'un champ de maïs contigu, faites par l'INERIS à la demande de la DRIRE,	'métaux lourds'	"l' INERIS", 'de la DRIRE'
+1996				1996				a_été_inscrit	Ce terrain a été inscrit en 1996 à l'Inventaire National des Sites et Sols Pollués.		

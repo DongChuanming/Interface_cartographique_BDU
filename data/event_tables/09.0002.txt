@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	02	05		2001	02	05		a_été_mis_en_demeure_de_se_conformer_aux_instructions	. du 5 février 2001, l'exploitant a été mis en demeure de se conformer aux instructions de l'A.		
+2015	07	02		2015	07	02		a_été_mise_à_jour	La situation administrative a été mise à jour par arrêté préfectoral du 2 juillet 2015.		
+2008	01			2008	01			a_été_arrêté	Le pompage de la nappe a été arrêté en janvier 2008.		
+2010				2010				est_passée_à	En 2010, au vu de la stabilisation des niveaux de pollution et en accord avec l'IIC, la surveillance est passée à une fréquence semestrielle.		'IIC'
+1963				1963				exploite	L'entreprise MAESTRIA exploite depuis 1963 une usine de fabrication de peintures dans la zone industrielle du Quartier du Pic, produisant annuellement 38 000 tonnes de peintures dont 60% en phase aqueuse et 40% en phase avec solvant organique.	'solvant organique'	'entreprise MAESTRIA'
+1992	03			1992	03			Les_prélèvements_et_analyses	Les prélèvements et analyses de la nappe en mars 1992 ont décelé une pollution de la nappe par hydrocarbures et solvants (toluène, xylène, HAP et benzène).	'hydrocarbures', 'toluène', 'xylène', 'HAP', 'benzène'	
+2002	02	1		2002	02	1		sont_parvenus	Des compléments au diagnostic approfondi et à l'évaluation détaillée des risques du site sont parvenus le 1er février 2002 à l'IIC.		
+2000	02	07		2000	02	07		au_dossier_déposé	Suite au dossier déposé le 7 février 2000, un arrêté préfectoral d'actualisation en date du 10 mai 2001 a autorisé la société à reprendre les activités suspendues par A.		
+1998	10			1998	10			Le_diagnostic_initial_déposé	Le diagnostic initial déposé en octobre 1998 a classé le site en niveau 1, un arrêté préfectoral du 19 mai 2000 a imposé à l'exploitant la réalisation d'investigations approfondies et d'une EDR (Evaluation Détaillée des Risques) dans un délai de six mois.		
+2000	02	07		2000	02	07		a_autorisé	Suite au dossier déposé le 7 février 2000, un arrêté préfectoral d'actualisation en date du 10 mai 2001 a autorisé la société à reprendre les activités suspendues par A.		
+1998	09	07		1998	09	07		__incendie	Le 7 septembre 1998 : incendie de la grande unité  dont l'activité a été suspendue par A.		
+2001	12	03		2001	12	03		a_demandé_par_courrier	L'IIC a demandé par courrier du 3 décembre 2001 des compléments à l'exploitant.		
+2016				2016				s__effectue	Fin 2016, elle s'effectue au travers de 13 points (impossibilité d'accès à un puits de particulier).		
+2001	03	06		2001	03	06		Les_premiers_résultats_de_mesures	Les premiers résultats de mesures et le diagnostic approfondi, parvenus le 6 mars 2001, ont été par le BRGM à l'été 2001.		'BRGM'
+2017	03			2017	03			les_derniers_contrôles	Cette surveillance est toujours en cours, les derniers contrôles de la nappe transmis à l'inspection, en mars 2017 ont montré une absence de marquage pour les différents polluants, à l'exception du BTEX mais dont les teneurs sont inférieures au seuil de dépollution fixé par l’arrêté préfectoral du 3 juillet 2002 (20 mg/l).	'les différents polluants', 'BTEX'	
+2001	09	19		2001	09	19		des_essais_de_pompage	En outre des essais de pompage de la nappe ont été réalisés le 19 septembre 2001.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12			2000	12			un_diagnostic_de_sols	Dans le cadre de la cessation d'activité, un diagnostic de sols et des eaux souterraines a été réalisé, en décembre 2000.		
+1969				2000				a_été_exploitée	Une activité de stockage et de distribution de carburants (station-service) a été exploitée sur ce site de 1969 à 2000, en dernier lieu par la société SHELL.	'carburants'	'la société SHELL'
+2000	10	31		2000	10	31		a_notifié_sa_cessation_d__activité	La société a notifié sa cessation d'activité le 31/10/2000.		
+2000				2000				a_cessé_ses_activités	La station-service a cessé ses activités en 2000.		
+				2001	11			Une_opération_de_dépollution	Une opération de dépollution des sols et de la nappe a été menée de juillet à novembre 2001 permettant d'atteindre des niveaux de pollution résiduelle compatibles avec l'usage actuel du site.		

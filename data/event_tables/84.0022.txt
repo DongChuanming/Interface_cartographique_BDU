@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	07		2009	04	07		La_surveillance_mise_en_place	La surveillance mise en place par EDF au niveau de son ancien site Saint Véran a été effectuée selon l’arrêté préfectoral complémentaire n°SI2009-04-070010-PREF du 7 avril 2009.		
+2007	07	10		2007	07	10		la_réalisation_des_travaux	Le rapport de fin de travaux a été transmis le 27/04/2007 et une visite d'inspection a confirmé la réalisation des travaux (10/07/2007).		
+2004	11	03		2004	11	03		informe	Le 03/11/2004, EDF informe les services de l’État de son intention de vendre le terrain dans le cadre d'un projet de construction de logement.		
+2006	08	10		2006	08	10		a_été_déposé	Le mémoire de cessation d'activité a été déposé le 10/08/2006.		
+2014	10			2014	10			à_atteindre	En PzC’, la diminution des concentrations s’est poursuivie jusqu’à atteindre la limite de quantification analytique en octobre 2014 (moyenne des concentrations sur cette période de 0,2 µg/L, pour un maximum de 0,51 µg/L en juin 2013).		
+2008	07	01		2008	07	01		Le_PV_de_récolement	Le PV de récolement a été établi le 01/07/2008.		
+2007	04	27		2007	04	27		a_été_transmis	Le rapport de fin de travaux a été transmis le 27/04/2007 et une visite d'inspection a confirmé la réalisation des travaux (10/07/2007).		
+2015	04	21		2015	04	21		a_transmis	Par courrier du 21 avril 2015, l’exploitant a transmis le bilan de la surveillance 2007-2014 (comprenant le bilan quadriennal 2011-2014).		
+2015				2015				conclut	Compte tenu de ces éléments, le bureau d’études conclut que le suivi ainsi établi pourrait être arrêté à partir de 2015.		

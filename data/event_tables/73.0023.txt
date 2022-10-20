@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								ont_commencé	Les dépôts ont commencé dans les années 1960.		
+1978				1978				a_été_construite	En 1978, la série F a été construite sur cette zone provoquant l'arrêt des dépôts.  On peut considérer que la zone de décharge se situe sous la série F, la station électrique et le bâtiment de scellement des anodes.		
+2003	10	03		2003	10	03		a_été_prescrite	Cette surveillance a été prescrite à l'exploitant par arrêté du 3 octobre 2003.		
+1951				1951				A_partir_de	A partir de 1951, Aluminium Péchiney a procédé à des achats de terrains pour la construction de la série A jusqu'à la série E.	'Aluminium'	'Péchiney'
+2013	12	16		2013	12	16		une_demande	Par courrier du 16 décembre 2013, la société TRIMET a adressé à monsieur le préfet de la Savoie une demande d'institution d'une servitude d'utilité publique sur l'ensemble de son site (voir les parcelles cadastrales) pour garantir la pérennité des mesures prises pour prévenir la pollution des eaux et des sols, et garantir la sécurité des travailleurs.		'la société TRIMET', 'le préfet de la Savoie'
+2000	07			2000	07			Une_étude_transmise	Une étude transmise en juillet 2000 par l'exploitant a permis de caractériser les zones de dépôts de déchets sur le site de Saint-Jean :	'les zones de dépôts de déchets'	
+2003	10	03		2003	10	03		L__activité	L'activité de l'usine, plus que centenaire, est aujourd'hui réglementée notamment par l'arrêté préfectoral du 3 octobre 2003, pour une capacité nominale de production annuelle de 140 000 tonnes.		
+1990				1990				a_fait_l__objet	En 1990, la zone a fait l'objet de terrassements dans la cadre du projet de l'autoroute A43.		
+1957				1957				une_crue	En 1957, une crue de l'Arc a certainement emporté une grande partie de ce dépôt (alors réalisé dans le lit mineur de l'Arc).		
+								ont_été_mises_en_sécurité	Ces décharges ont été mises en sécurité au cours des années 2000 et un suivi de la qualité des eaux souterraines est en place.		

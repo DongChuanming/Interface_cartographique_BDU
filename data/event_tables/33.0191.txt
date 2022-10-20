@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				Des_analyses	Des analyses d’eaux souterraines réalisées au niveau des 3 piézomètres du site ont été réalisés, en 2012.		
+2012	03	21		2012	03	21		a_été_validée	Cette solution a été validée par l'Inspection des Installations Classées par courrier du 21 mars 2012.		
+2008	11	14		2008	11	14		a_été_également_remis_le	Un diagnostic environnemental a été également remis le 14 novembre 2008.		
+2008	04			2008	04			est_remis	Le mémoire de cessation d'activité incluant un diagnostic du site est remis en avril 2008.		
+2014	10			2014	10			Les_analyses	Les analyses d’eaux souterraines et de sols effectuées en octobre 2014 :		
+2015	05	12		2015	05	12		procès_verbal_de_récolement	Le procès-verbal de récolement est dressé le 12 mai 2015		
+2006	08	07		2006	08	07		informe	Par courrier du 7 août 2006, Me SILVESTRI informe le Préfet des conditions de mise en sécurité du site, notamment l'interdiction d'accès au site (chaînes et de panneaux "défense d'entrer").		'Me SILVESTRI', 'le Préfet'
+2012	05			2012	05			des_analyses_des_eaux_souterraines_réalisées_en	Par courrier du 27 février 2013, Me Baujet transmet à l'Inspection des Installations Classées des analyses des eaux souterraines réalisées en avril et mai 2012.		
+								des_analyses_des_eaux_souterraines_réalisées_en	Par courrier du 27 février 2013, Me Baujet transmet à l'Inspection des Installations Classées des analyses des eaux souterraines réalisées en avril et mai 2012.		
+1995				1995				racheté	Les activités étaient exercées sur un site racheté en 1995 à la société SCIAGES GASCON, qui avait elle-même racheté précédemment le site à la société BORDELAISE des BOIS.		'la société SCIAGES GASCON', 'la société BORDELAISE', 'des BOIS'
+2006	08	07		2006	08	07		La_cessation_d__activité	La cessation d'activité est déclarée le 7 août 2006.		
+2006	08	11		2006	08	11		demande	Le 11 août 2006, le Préfet demande à l'exploitant le mémoire de cessation d'activité.		'le Préfet'

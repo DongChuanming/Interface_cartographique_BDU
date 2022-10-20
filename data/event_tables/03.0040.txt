@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	03	25		1997	03	25		ont_été_relevés	A la suite d'une visite d'inspection du 25 mars 1997, plusieurs points de non conformité ont été relevés.		
+2010	09	16		2010	09	16		le_bornage	Lors de sa visite du 16 septembre 2010, l'inspection a constaté le bornage de la division de terrain abritant les déchets ainsi que sa clôture.		
+1998	02			1998	02			Une_étude_a_été_réalisée	Une étude a été réalisée en février 1998 par un cabinet spécialisé (ANTEA), elle comportait un diagnostic environnemental et des propositions de réhabilitation.	'ANTEA'	
+1986	05			1986	05			Depuis_l__ouverture	Depuis l'ouverture en mai 1986, les imbrûlés étaient stockés à même le sol, à proximité de l'usine.	'les imbrûlés'	
+2008	06			2008	06			une_visite	En ce qui concerne la clôture, une visite effectuée en juin 2008 avait conclu à la possibilité de ne ceinturer que la partie des terrains visés par l’exploitation.		
+2009	03			2009	03			a_été_réalisé	Un seul contrôle de la qualité des eaux souterraines a été réalisé en mars 2009.		
+2010	09	16		2010	09	16		de_sa_visite	Lors de sa visite du 16 septembre 2010, l'inspection a constaté le bornage de la division de terrain abritant les déchets ainsi que sa clôture.		
+2009	11			2009	11			a_été_élaboré	Un dossier a été élaboré en novembre 2009 et a fait l'objet de la procédure simplifiée (absence d'enquête publique) du fait de l'unique propriétaire (le SIAD) et du confinement des pollutions (2 parcelles concernées).		'le SIAD'
+2005				2006				Les_travaux_de_réaménagement	Les travaux de réaménagement du site ont été effectués entre 2005 et 2006 par l’entreprise ROLAND SNC d’Abrest (03) et concernent :		
+1997	03	25		1997	03	25		une_visite	A la suite d'une visite d'inspection du 25 mars 1997, plusieurs points de non conformité ont été relevés.		
+2010	10	15		2010	10	15		a_été_utilisée	Les terrains concernés (parcelles n°45 et 46 section ZP) appartenant encore au SIAD, la procédure simplifiée a été utilisée:l'arrêté de servitudes a été signé le 15 octobre 2010.		
+1999	05			1999	05			a_été_fermé	Il a été fermé en mai 1999 par arrêté préfectoral, faute d'avoir pu être mis aux normes en vigueur.		
+2006	11	20		2006	11	20		a_informé	Le 20 novembre 2006, le SIAD a informé le Préfet de la réalisation des opérations de réhabilitation et de la mise en place du réseau de piézomètres en novembre 2005 selon les recommandations d’ANTEA.		'le SIAD', 'le Préfet', 'ANTEA'
+2010	10	15		2010	10	15		a_été_signé	L'arrêté instituant les servitudes a été signé le 15 octobre 2010.		
+2005	11			2005	11			de_la_réalisation	Le 20 novembre 2006, le SIAD a informé le Préfet de la réalisation des opérations de réhabilitation et de la mise en place du réseau de piézomètres en novembre 2005 selon les recommandations d’ANTEA.		'le SIAD', 'le Préfet', 'ANTEA'

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1970				exploitation_aurait_cessé	En bordure de la route, existait une décharge d'ordures ménagères (a priori) sauvage dont l'exploitation aurait cessé entre 1965 et 1970.		
+2010	10			2010	10			des_analyses_réalisées	Il ressort des analyses réalisées sur les eaux souterraines (campagnes de juin et octobre 2010) les éléments suivants :		
+2011	02	09		2011	02	09		un_diagnostic	Par courrier en date du 09 février 2011, l'exploitant a transmis à l'inspection des installations classées un diagnostic de l'état des sols et des eaux souterraines dans le cadre de la procédure de cessation d'activité du site.		
+								__campagnes	Il ressort des analyses réalisées sur les eaux souterraines (campagnes de juin et octobre 2010) les éléments suivants :		
+2001				2008				Le_suivi_de	Le suivi de la qualité des eaux souterraines entre 2001 et 2008 via 3 piézomètres avait également montré une pollution modérée de la nappe aux hydrocarbures, ainsi que, ponctuellement, la présence de COHV et de HAP.	'hydrocarbures', 'COHV', 'HAP'	
+2000				2000				Une_étude_de_sols	Une étude de sols réalisée en en 2000 avait mis en exergue des zones polluées aux hydrocarbures sur le site.	'hydrocarbures'	
+2012	11	30		2012	11	30		un_arrêté_préfectoral_de_travaux	A l'issue de l'instruction des documents remis par l'exploitant, un arrêté préfectoral de travaux a été pris le 30 novembre 2012, afin de fixer les objectifs de réhabilitation à respecter.		
+2007				2007				à_la_construction	Suite à la construction en 2007 d'une nouvelle usine ZI de l'Ousson à Belley, le site des Ecassaz a progressivement cessé son activité.		
+2010	10			2010	10			__campagnes	Il ressort des analyses réalisées sur les eaux souterraines (campagnes de juin et octobre 2010) les éléments suivants :		
+								des_analyses_réalisées	Il ressort des analyses réalisées sur les eaux souterraines (campagnes de juin et octobre 2010) les éléments suivants :		

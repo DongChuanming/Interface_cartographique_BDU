@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				situé	La SARL BONAMY a démarré son activité de dépôt pétrolier situé 75 rue de la Loire sur le territoire de la commune de Belligné en 1958.		'La SARL BONAMY'
+2010	10	31		2010	10	31		ont_cessé	Les activités ont cessé le 31 octobre 2010.		
+2010	10	31		2010	10	31		a_cessé_ses_activités	La société a cessé ses activités le 31 octobre 2010.		
+1968	10	22		1968	10	22		déclaration	La société a été autorisé à exercer ces activités par récépissé de déclaration en date du 22 octobre 1968.		
+2014	03			2014	03			de_nouveaux_travaux_de_dépollution	En conséquence, de nouveaux travaux de dépollution ont été réalisés en mars 2014. 131 tonnes de terres ont été excavées et envoyées en biocentre.		
+2013	03	01		2013	03	01		cette_cessation_d__activités	L'exploitant a déclaré cette cessation d'activités le 1 mars 2013.		
+1968	10	22		1968	10	22		a_été_autorisé_à_exercer	La société a été autorisé à exercer ces activités par récépissé de déclaration en date du 22 octobre 1968.		
+2013	10			2013	10			des_travaux_de_dépollution	En octobre 2013, des travaux de dépollution ont été réalisés au niveau de la zone la plus impactée soit le secteur de l'ancien parc à cuves (cinq cuves enterrées).		
+2012	09			2012	09			un_diagnostic_de_pollution_des_sols_réalisé	Par courrier du 15 mars 2013, l'exploitant a transmis un diagnostic de pollution des sols réalisé en septembre 2012 ainsi que les résultats de la campagne de mesures portant sur la qualité des eaux souterraines (puits et 3 piézomètres).		
+2012	07			2012	07			réalisés_en	Les prélèvements réalisés en juillet 2012 ont montré:		
+2013	03	15		2013	03	15		un_diagnostic_de_pollution_des_sols_réalisé	Par courrier du 15 mars 2013, l'exploitant a transmis un diagnostic de pollution des sols réalisé en septembre 2012 ainsi que les résultats de la campagne de mesures portant sur la qualité des eaux souterraines (puits et 3 piézomètres).		

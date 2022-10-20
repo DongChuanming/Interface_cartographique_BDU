@@ -1,0 +1,57 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1960				1960				__mise_en_place	*R1 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1960 et extraite en 1995;		
+1968				1968				__mise_en_place	*R4 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1968 et extraite en 1995 (remplacée par R7/R8);		
+2016				2016				10___m3_GO_____mise	*R7 - Cuve compartimentée double enveloppe de 40 m3 (20 m3 GO   10 m3 GO   10 m3 GO) - mise en place en 1995 et extraite en 2016.		
+1995				1995				SP98_____mise_en	*R8 - Cuve compartimentée double enveloppe de 40 m3 (10 m3 E10 10 m3 E10 10 m3 GO+ 10 m3 SP98) - mise en place en 1995 et extraite en 2016.	'10 \xa0 m3', '10 \xa0 m3'	'm3 E10', '\xa0 m3'
+2016				2016				mise_en_place	*2 distributeurs multiproduits - mise en place en 1995 et extraite en 2016.		
+1995				1995				et_extraite	*R6 - Cuve simple enveloppe de 1,5 m3- mise en place supposée en 1995 et extraite en 2009;		
+2009				2009				extraite	*S2 - Séparateur à hydrocarbures "pistes" - mise en place en 1995 et extraite en 2009 (remplacée par S3)	'hydrocarbures'	
+1960				1960				mise_en_place	*1 distributeur 2T - mise en place en 1960 et extraite en 1995;		
+2014	08			2014	08			Une_étude_historique	Une étude historique et un diagnostic des sols sont réalisés en août 2014.		
+1960				1960				mise_en_place	*5 distributeurs simple produit - mise en place en 1960/62 et extraite en 1995;		
+1995				1995				et_extraite	*R1 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1960 et extraite en 1995;		
+1995				1995				et_extraite	*R3 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1962 et extraite en 1995;		
+1995				1995				mise_en_place	*D4 - Dépotage - mise en place en 1995 et extraite en 2016.		
+1960				1960				était_exploité	Ce site était exploité comme station service à partir de 1960.		
+1995				1995				et_extraite	*D3 - Dépotage R4/R5 - mise en place en 1968 et extraite en 1995;		
+2014	07			2014	07			et_avant_les_travaux_de_démantèlement	Des campagnes de suivi des eaux souterraines,  mises en œuvre en juillet 2014 et avant les travaux de démantèlement en avril 2016, mettent en évidence l'absence d'anomalies dans les eaux souterraines.		
+1960				1960				mise_en_place	*D1 - zone de dépotage R1/R2 - mise en place en 1960 et extraite en 1995;		
+1995				1995				et_extraite	*R5 - Cuve simple enveloppe de 7,5 m3 en fosse maçonnée - mise en place en 1968 et extraite en 1995 (remplacée par R7/R8);		
+2018	11			2018	11			Deux_campagnes_de_suivi_sont_menées	Deux campagnes de suivi sont menées en août puis novembre 2018.		
+1962				1962				mise_en_place	*D2 - Dépotage R3 - mise en place en 1962 et extraite en 1995;		
+1995				1995				extraite	*D1 - zone de dépotage R1/R2 - mise en place en 1960 et extraite en 1995;		
+1995				1995				mise_en_place	*2 distributeurs multiproduits - mise en place en 1995 et extraite en 2016.		
+2018	07			2018	07			depuis_les_travaux_de_dépollution	Les teneurs en hydrocarbures, mises en évidence en novembre 2018 sur les 2 ouvrages, révèlent  une baisse d'un facteur 4 pour PzR2 et d'un facteur 36 pour PzR4, signifiant une nette amélioration de la qualité des gaz du sol, depuis les travaux de dépollution de juillet 2018.	'hydrocarbures', 'pour PzR4'	
+2018	07			2018	07			excavation	Les sols, dans lesquels le piézair PzR3 est implanté, ont fait l'objet d'excavation lors des travaux de dépollution en juillet 2018, jusqu'aux limites techniques (limite de propriété et bâtiments à proximité).		'piézair PzR3'
+2016				2016				et_extraite	*D4 - Dépotage - mise en place en 1995 et extraite en 2016.		
+2018	11	29		2018	11	29		La_campagne_de_surveillance	La campagne de surveillance du 29 novembre 2018 met en évidence :		
+2016				2016				SP98_____mise_en	*R8 - Cuve compartimentée double enveloppe de 40 m3 (10 m3 E10 10 m3 E10 10 m3 GO+ 10 m3 SP98) - mise en place en 1995 et extraite en 2016.	'10 \xa0 m3', '10 \xa0 m3'	'm3 E10', '\xa0 m3'
+2009				2009				et_extraite	*R6 - Cuve simple enveloppe de 1,5 m3- mise en place supposée en 1995 et extraite en 2009;		
+2017	08			2017	08			sont_réalisées	Une analyse des risques résiduels (ARR) et une interprétation de l'état des milieux (IEM) sont réalisées en août 2017.		
+1995				1995				et_extraite	*D2 - Dépotage R3 - mise en place en 1962 et extraite en 1995;		
+2018	11			2018	11			La_campagne_de	La campagne de novembre 2018 dans les gaz du sol indique :		
+2016				2016				mise_en_place	*D4 - Dépotage - mise en place en 1995 et extraite en 2016.		
+1962				1962				__mise_en_place	*R3 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1962 et extraite en 1995;		
+2009	06			2009	06			Un_suivi_environnemental	Un suivi environnemental est initié, dès juin 2009.		
+2014	07			2014	07			__mises_en_œuvre	Des campagnes de suivi des eaux souterraines,  mises en œuvre en juillet 2014 et avant les travaux de démantèlement en avril 2016, mettent en évidence l'absence d'anomalies dans les eaux souterraines.		
+1995				1995				mise_en_place	*S2 - Séparateur à hydrocarbures "pistes" - mise en place en 1995 et extraite en 2009 (remplacée par S3)	'hydrocarbures'	
+1968				1968				__mise_en_place	*R5 - Cuve simple enveloppe de 7,5 m3 en fosse maçonnée - mise en place en 1968 et extraite en 1995 (remplacée par R7/R8);		
+2017	05			2017	05			Une_enquête_de_voisinage_réalisée	Une enquête de voisinage réalisée en mai 2017 met en évidence l'absence de puits privés en aval de la station service.		
+2016	04			2016	04			__mises_en_œuvre	Des campagnes de suivi des eaux souterraines,  mises en œuvre en juillet 2014 et avant les travaux de démantèlement en avril 2016, mettent en évidence l'absence d'anomalies dans les eaux souterraines.		
+2018	07			2018	07			aux_travaux_de_dépollution	Le schéma conceptuel, établi sur la base d'un usage comparable à la dernière d'exploitation (industriel), met en évidence l'absence de risques, suite aux travaux de dépollution de juillet 2018.		
+2017	01			2017	01			De_nouvelle_investigations_sont_menées	De nouvelle investigations sont menées en janvier 2017 afin de délimiter l'impact dans les sols et quantifier un éventuel dégazage des sols.		
+2016				2016				sont_démantelés	Toutes les installations et les bâtiments sont démantelés en 2016.		
+2018	07			2018	07			Des_travaux_de_dépollution_complémentaire_interviennent	Des travaux de dépollution complémentaire interviennent en juillet 2018, extrayant près de 115 tonnes supplémentaires de terres polluées en biocentre.		
+1995				1995				et_extraite	*R4 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1968 et extraite en 1995 (remplacée par R7/R8);		
+2016				2016				mise_en_place	*S3 - Séparateur à hydrocarbures "pistes" - mise en place en 2009 et extraite en 2016.		
+1960				1960				__mise_en_place	*R2 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1960 et extraite en 1995;		
+2009				2009				mise_en_place	*S3 - Séparateur à hydrocarbures "pistes" - mise en place en 2009 et extraite en 2016.		
+1995				1995				10___m3_GO_____mise	*R7 - Cuve compartimentée double enveloppe de 40 m3 (20 m3 GO   10 m3 GO   10 m3 GO) - mise en place en 1995 et extraite en 2016.		
+2016	04			2016	04			Les_travaux_de_démantèlement	Les travaux de démantèlement de la station se déroulent en 2 phases (avril 2016 ‑ juillet 2016).		
+1995				1995				et_extraite	*R2 - Cuve simple enveloppe de 15 m3 en fosse maçonnée - mise en place en 1960 et extraite en 1995;		
+								Deux_campagnes_de_suivi_sont_menées	Deux campagnes de suivi sont menées en août puis novembre 2018.		
+1968				1968				mise_en_place	*D3 - Dépotage R4/R5 - mise en place en 1968 et extraite en 1995;		
+1995				1995				m3__mise_en_place	*R6 - Cuve simple enveloppe de 1,5 m3- mise en place supposée en 1995 et extraite en 2009;		
+2016				2016				extraite	*S3 - Séparateur à hydrocarbures "pistes" - mise en place en 2009 et extraite en 2016.		
+2016	07			2016	07			Les_travaux_de_démantèlement	Les travaux de démantèlement de la station se déroulent en 2 phases (avril 2016 ‑ juillet 2016).		
+1995				1995				extraite	*1 distributeur 2T - mise en place en 1960 et extraite en 1995;		

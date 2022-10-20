@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								L__étude_de_sols	L'étude de sols a été imposée à l'exploitant par arrêté préfectoral du 26/10/98.		
+2012	05			2012	05			la_reprise_de	° la reprise de la surveillance des eaux souterraines par la commune (campagnes de prélèvements et analyses de juillet 2011 et mai 2012) ;		
+								a_donc_été_abandonnée	La procédure de consignation engagée à partir de 2006 a donc été abandonnée (arrêté préfectoral du 10/12/14).		
+2011	07			2011	07			__campagnes	° la reprise de la surveillance des eaux souterraines par la commune (campagnes de prélèvements et analyses de juillet 2011 et mai 2012) ;		
+2008				2008				La_démolition	La démolition des bâtiments s'est déroulée sur 2007 et 2008.		
+2007				2007				La_démolition	La démolition des bâtiments s'est déroulée sur 2007 et 2008.		
+2008				2008				La_démolition	La démolition des bâtiments a été réalisée en 2008.		
+1999				1999				a_cessé_ses_activités	La société "Forges de Maurienne" a cessé ses activités fin 1999.		'La société " Forges', 'de Maurienne'
+2002	01	28		2002	01	28		Cette_étude	Cette étude qui comprend un diagnostic initial et une étude Evaluation Simplifiée des Risques a été transmise le 28 janvier 2002 puis complétée après remarques de l'administration en mai 2002.		
+2013				2013				a_été_considéré	Le dossier ayant été transmis en 2013, il a été considéré que l’exploitant s’est acquitté de l’obligation qui lui a été faite.		
+2013				2013				la_transmission	° la transmission début 2013 par la société Lisi Automotive d'un projet de dossier pour l'institution de servitudes.		'la société Lisi Automotive'
+2007				2007				un_changement_de_propriété	Toutefois, cette procédure de consignation n'a pas été engagée en raison d'un changement de propriété en 2007 (rachat par la commune de Saint Michel de Maurienne).		'Saint Michel de Maurienne'
+2013				2013				ayant_été_transmis	Le dossier ayant été transmis en 2013, il a été considéré que l’exploitant s’est acquitté de l’obligation qui lui a été faite.		
+				2007	03			a_été_réalisée	La surveillance des eaux souterraines a été réalisée par la société Lisi Automotive jusqu'en mars 2007.		'la société Lisi Automotive'
+2007	04			2007	04			a_été_vendu	Le site a été vendu à la commune de Saint Michel de Maurienne en avril 2007.		'Saint Michel de Maurienne'

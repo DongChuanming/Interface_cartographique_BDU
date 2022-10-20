@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	09	14		2004	09	14		a_été_rédigé	A la date du 14 septembre 2004, un rapport de l'inspection des installations classées a été rédigé.		
+1976				1976				créée	La société a été créée avant 1976 et est spécialisée dans le traitement de surface, notamment le nickelage et le chromage de pièces métalliques destinées principalement à la robinetterie et la serrurerie.		
+2002	08	08		2002	08	08		la_mise_en_place_d__une	Suite à ces études, le 8 août 2002, un arrêté préfectoral a été signé imposant à la SARL Pierre Davergne la mise en place d'une surveillance des eaux souterraines sur le site de Feuquières en Vimeu.		'la SARL Pierre Davergne'

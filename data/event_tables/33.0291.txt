@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	06	08		2010	06	08		a_été_transmis	Le rapport, réalisé par la société SAFEGE, a été transmis à la préfecture le 8 juin 2010.		'la société SAFEGE'
+2010	12	16		2010	12	16		rapport	Suite au rapport de l'IIC du 16 décembre 2010, l'arrêté préfectoral complémentaire du 28 février 2011 prescrit la réhabilitation du site et un suivi post exploitation :		
+2011	09	21		2011	09	21		Les_travaux_de_remise_en_état_sont_à_réaliser	Les travaux de remise en état sont à réaliser avant le 21 septembre 2011.		
+1970				2003	2002			a_été_exploitée	La décharge a été exploitée de 1970 à 2002/2003.		
+2010	12	16		2010	12	16		prescrit	Suite au rapport de l'IIC du 16 décembre 2010, l'arrêté préfectoral complémentaire du 28 février 2011 prescrit la réhabilitation du site et un suivi post exploitation :		
+2010	12			2010	12			La_visite	La visite de décembre 2010 a permis de constater que la végétation a recolonisé le site mais que ce dernier n'est toujours pas clôturé et reste sans surveillance.		

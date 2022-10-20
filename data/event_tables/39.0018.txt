@@ -1,0 +1,17 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				a_fait_l__objet	Cette station a fait l'objet de travaux de rénovations successifs en 1993, 1996, 1999 et 2001.		
+2006	10			2006	10			a_été_découverte_lors_d__une_visite	La présence d'une ancienne fosse comportant des boues et susceptible d'être fuyarde a été découverte lors d'une visite de l'administration en octobre 2006.		
+2007	02			2007	02			Les_analyses_réalisées	Les analyses réalisées en février 2007 ont mis en évidence l'efficacité du curage de la fosse sus-mentionnée puisque les teneurs en polluants dans le piézomètre situé à proximité de cette fosse sont aujourd'hui inférieures aux seuils de détection.		
+2007	01			2007	01			Des_travaux_de_réfection	Des travaux de réfection des dernières vieilles canalisations présentes sur le site sont prévus pour janvier 2007.		
+2001				2001				a_engagé_un_diagnostic_environnemental	En 2001, dans le cadre d'un projet de vente de la station service, l'exploitant a engagé un diagnostic environnemental du site.		
+2007	06			2007	06			L__arrêt_du_traitement_a_été_réalisé	L'arrêt du traitement a été réalisé en juin 2007.		
+2002	05			2002	05			ont_été_implantés	Dans le cadre de l'étude hydrogéologique de mai 2002, 4 piézomètres ont été implantés au droit du site et ont fait l'objet de prélèvements et d'analyses des eaux souterraines.		
+2001				2001				a_fait_l__objet	Cette station a fait l'objet de travaux de rénovations successifs en 1993, 1996, 1999 et 2001.		
+2004	12			2004	12			ont_été_actés	Le suivi du traitement et la surveillance des eaux souterraines ont été actés par voie d'arrêté préfectoral en décembre 2004.		
+1996				1996				a_fait_l__objet	Cette station a fait l'objet de travaux de rénovations successifs en 1993, 1996, 1999 et 2001.		
+1999				1999				a_fait_l__objet	Cette station a fait l'objet de travaux de rénovations successifs en 1993, 1996, 1999 et 2001.		
+2002	05			2002	05			l__étude_hydrogéologique	Dans le cadre de l'étude hydrogéologique de mai 2002, 4 piézomètres ont été implantés au droit du site et ont fait l'objet de prélèvements et d'analyses des eaux souterraines.		
+2003				2003				a_été_détectée	A l'été 2003, une nouvelle fuite d'hydrocarbures a été détectée et colmatée par l'exploitant.	'hydrocarbures'	
+2014	07	25		2014	07	25		l__allègement	Sur demande de l'exploitant et face aux résultats de la surveillance depuis 2008 (quelques dépassements observés en benzène et hydrocarbures totaux par rapport aux valeurs-seuil du SDAGE et absence de phase flottante depuis juin 2012), l'inspection acte, par courrier du 25 juillet 2014, l'allègement des conditions de surveillance de la qualité des eaux souterraines.	'benzène', 'hydrocarbures totaux'	
+2001	07			2001	07			Un_diagnostic_de_sols	Un diagnostic de sols de juillet 2001 a mis en évidence la présence de sols pollués par des hydrocarbures, d'un impact sur les eaux souterraines et d'une contamination des sondages réalisés par des vapeurs de supercarburant et de gazoil.	'hydrocarbures', 'supercarburant'	
+2003	06			2003	06			Le_chantier_a_débuté	Le chantier a débuté en juin 2003.		

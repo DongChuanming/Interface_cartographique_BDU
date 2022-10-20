@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				a_fait_l__objet	Le forage fuyard 2962 (Surbourg) a fait l'objet en 2001 d'un diagnostic sécuritaire en vue de son rebouchage (note BRGM ALS/NT1N08).		'BRGM'
+2003	08			2003	08			a_été_rééquipé	En août 2003, il a été rééquipé d'une virole pour collecter les hydrocarbures.	'hydrocarbures'	

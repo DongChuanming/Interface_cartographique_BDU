@@ -1,0 +1,24 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	03			2008	03			La_déclaration_de_cessation_d__activités	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 19 novembre 2007, la date de cessation totale des activités ayant été fixée au mois de mars 2008.		
+2013	10	11		2013	10	11		a_procédé_à_une_visite	Le 11 octobre 2013, l'inspection des installations classées a procédé à une visite du site, accompagné du directeur juridique et de la représentante du service juridique de la société ARMOR ainsi que du directeur de projets du bureau d'étude BURGEAP.		'la société ARMOR', 'BURGEAP'
+2007				2007				Des_compléments_d__investigations	Des compléments d'investigations ont été réalisés en 2007.		
+2007	11	23		2007	11	23		transmis	- la remise en état correspond aux engagements pris par l'exploitant dans son dossier relatif à la cessation des activités transmis le 23 novembre 2007 aux services préfectoraux,		
+2010	01			2010	03			l__évacuation	- l'évacuation des cuves à fuel, des terres souillées aux hydrocarbures totaux, des terres souillées avec des déchets d'amiante, des transformateurs aux PCB de janvier 2010 à mars 2010,	'fuel', 'hydrocarbures totaux', "des déchets d' amiante", 'PCB'	
+2007	09	14		2007	09	14		un_diagnostic_de_pollution_des_sols	L'exploitant ARMOR a réalisé un diagnostic de pollution des sols au 14/09/2007 dont les conclusions montrent l'existence de sources de pollution identifiées sur le site:		'ARMOR'
+1988				1988				est_transférée	En 1988-1989, une partie des activités est transférée du site Le Chantenay au site de La Chevrolière.		
+2006				2006				a_acquis	En 2006, le site de Nantes a acquis une nouvelle aire, correspondant à l'entrée d'un couvent religieux, sur laquelle aucune activité industrielle n'a jamais été identifiée sur ce site.		
+1936	05	15		1936	05	15		étaient_réglementées	Ces activités étaient réglementées par l'arrêté préfectoral du 15 mai 1936.		
+2007	11	19		2007	11	19		La_déclaration_de_cessation_d__activités	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 19 novembre 2007, la date de cessation totale des activités ayant été fixée au mois de mars 2008.		
+1982	03	02		1982	03	02		étaient_réglementées	Les activités étaient réglementées par l'arrêté préfectoral du 2 mars 1982.		
+1989				1989				est_transférée	En 1988-1989, une partie des activités est transférée du site Le Chantenay au site de La Chevrolière.		
+2013				2013				le_terrassement	- le terrassement des sols impactés qui ont fait l'objet d'un tri et d'une évacuation en filière de traitement agréée, étalé sur les années 2010 à 2013,		
+2006				2006				Des_études_de_pollution	Des études de pollution des sols et des eaux souterraines ont été réalisées sur le site de Nantes en 2002 et 2006.		
+2010				2010				le_terrassement	- le terrassement des sols impactés qui ont fait l'objet d'un tri et d'une évacuation en filière de traitement agréée, étalé sur les années 2010 à 2013,		
+1944				1956				a_été_bâti	Le site industriel d'ARMOR Le Chantenay à Nantes a été bâti entre 1944 et 1956 et comprenait huit bâtiments construits au sud est du site.		"d' ARMOR"
+2008	03			2008	03			a_été_effectuée	La déclaration de cessation d'activités a été effectuée auprès des services préfectoraux par courrier du 19 novembre 2007, la date de cessation totale des activités ayant été fixée au mois de mars 2008.		
+								des_opérations	Par ailleurs, depuis les années 1990, la société ARMOR a développé des opérations de re-conditionnement de cartouches toner usagées : réception des cartouches usagées en provenance de France et de l'étranger, tri, réparation des emballages défectueux, remplacement de la poudre usagée par du produit neuf et commercialisation de la cartouche re-manufacturée.	'cartouches toner usagées', 'la poudre usagée', 'du produit neuf'	'la société ARMOR'
+1956				1962				ont_été_construits	Entre 1956 et 1962, deux nouveaux bâtiments ont été construits à la place d'anciens jardin.		
+1976				1989				était_utilisée_dans	Entre 1976 et 1989, une encre à base de solvants était utilisée dans les locaux, cette technologie nécessitait l'utilisation de composés organiques volatils.	'composés organiques volatils'	
+2011	02			2011	02			l__installation_d_	- l'installation d'un réseau de surveillance définitif par la mise en place de 5 ouvrages, avec une fréquence trimestrielle la première année (octobre 2008 à octobre 2009)  puis semestrielle à partir de février 2011.		
+2017	02			2017	02			a_transmis	En février 2017, l'exploitant a transmis à l'inspection le bilan des mesures de gestion mises en place et notamment le suivi de la qualité des eaux souterraines menées de juillet 2011 à octobre 2016.		
+2002				2002				Des_études_de_pollution	Des études de pollution des sols et des eaux souterraines ont été réalisées sur le site de Nantes en 2002 et 2006.		

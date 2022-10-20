@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994				1994				un_diagnostic	Dans le cadre d'une extension associée à l'acquisition d'anciens sites industriels voisins (CISATOL, SOLLAC...), la Société AKZO a fait réaliser un diagnostic du sous-sol qui s'est achevé en 1994.		'CISATOL', 'SOLLAC', 'la Société AKZO'
+2003				2003				sont_cependant_remontées	En 2003, les teneurs sont cependant remontées en ce qui concerne les hydrocarbures d'essence, phénomène lié aux épisodes de sécheresse de l'été 2003 qui ont provoqué une volatilisation des fractions les plus lourdes des hydrocarbures.	"hydrocarbures d' essence", 'hydrocarbures'	
+2003				2003				aux_épisodes_de_sécheresse	En 2003, les teneurs sont cependant remontées en ce qui concerne les hydrocarbures d'essence, phénomène lié aux épisodes de sécheresse de l'été 2003 qui ont provoqué une volatilisation des fractions les plus lourdes des hydrocarbures.	"hydrocarbures d' essence", 'hydrocarbures'	
+1997				1997				Une_évaluation_simplifiée_des_risques	Une évaluation simplifiée des risques a été réalisée en 1997 concluant à un classement du site en catégorie 2, c'est-à-dire à surveiller.		
+1999	07	06		1999	07	06		a_fixé	Le 6 juillet 1999, un arrêté préfectoral a fixé les mesures de traitement localisées de pollution ainsi que les mesures de surveillance du site.		

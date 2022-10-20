@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1965				1977				exploités	Ancien garage avec station-service exploités de 1965 à 1977 par M.		
+2014	07	16		2014	07	16		a_été_conservé	- Le lot n°2 a été conservé par Mme GARRIGUEZ, puis vendu à la société LINGUE et la société ACAJOU le 16 juillet 2014.		'Mme GARRIGUEZ', 'la société LINGUE', 'la société ACAJOU'
+2010	06	03		2010	06	03		a_été_vendu_à	- Le lot n°1 a été vendu à M DOS SANTOS le 3 juin 2010.		'DOS SANTOS'
+2014	07	16		2014	07	16		vendu_à	- Le lot n°2 a été conservé par Mme GARRIGUEZ, puis vendu à la société LINGUE et la société ACAJOU le 16 juillet 2014.		'Mme GARRIGUEZ', 'la société LINGUE', 'la société ACAJOU'
+2004				2014				La_mise_en_sécurité	La mise en sécurité du site et le retrait du matériel ont eu lieu entre 2004 et 2014.		
+2014	03			2014	03			Un_diagnostic_de_pollution	Un diagnostic de pollution a été réalisé en mars 2014 par le bureau d'études DEKRA.		'DEKRA'

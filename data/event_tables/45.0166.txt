@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2019	09			2019	09			être_effectuée	La consultation d'un bureau d'étude spécialisé en SSP (sites et sols pollués), pour la réalisation d'un rapport de diagnostic de pollution des sols, devrait être effectuée en septembre 2019.	'SSP'	
+2019	06	26		2019	06	26		l__issue_de_la_réunion	Au vu de ces résultats, et  comme convenu à l'issue de la réunion du 26 juin 2019 entre la DREAL, la Communauté de commune des Loges et le directeur général des services de la commune de Jargeau, des investigations complémentaires devront être réalisés pour vérifier la compatibilité de l’état des terrains avec l’usage futur résidentiel envisagé.		'entre la DREAL', ', la Communauté de commune des Loges', 'de la commune de Jargeau'
+1880				1951				a_accueilli	Il a accueilli de 1880 à 1951 une activité d’usine à gaz.		

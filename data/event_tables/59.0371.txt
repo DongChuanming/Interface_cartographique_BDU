@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	11	03		1992	11	03		_Déclaration_de_raccordement_au_réseau	-Déclaration de raccordement au réseau de Lille Métropole Communauté Urbaine le 03/11/1992		'Lille Métropole Communauté Urbaine'
+								par_courrier	- Danone a annoncé sa cessation d'activité pour le 30/06/97 par courrier du 16/05/97.		'Danone'
+1992	06	17		1992	06	17		Incendie	- Incendie du 17/06/1992 et fuite d'ammoniac	'ammoniac'	
+								L__étude_remise	L'étude remise le 30/12/97 a montré que:		
+1997	06	30		1997	06	30		racheté_par	- Site racheté par Delistar et Gatomania le 30/06/1997		
+1993	06			1993	06			_Extension_du_local__	-Extension du local "électrique basse tension" et reconstruction du bâtiment de stockage des matières premières et celui de l'activité de charge d'accumulateurs en juin 1993		
+1997	06	30		1997	06	30		__revente	- le 30/06/1997, revente des installations à 2 établissements Gatomania et Delistar		'Gatomania', 'Delistar'
+								a_annoncé_sa_cessation_d__activité	- Danone a annoncé sa cessation d'activité pour le 30/06/97 par courrier du 16/05/97.		'Danone'

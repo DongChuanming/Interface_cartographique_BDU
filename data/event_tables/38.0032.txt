@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	04	12		2010	04	12		la_campagne	Les derniers résultats d'analyses transmis à l'administration, montrent jusqu'à 280 µg/L d'arsenic au droit de PZ3 et 130 µg/L de plomb au droit de PZ1 aval, lors de la campagne du 12/04/2010.	'arsenic', 'plomb'	
+2008	08	14		2008	08	14		ont_été_reprises	Les restrictions d'usage ont été reprises dans un acte de servitude conventionnelle au profit de l’État, signé le 21/07/2008 et publié au registre des hypothèques le 14/08/2008.		
+2007	11	30		2007	11	30		La_campagne_de_surveillance	La campagne de surveillance de la qualité des eaux souterraines a débuté le 30/11/2007.		
+2007	09	03		2007	09	03		a_été_transmis	Le mémoire de cessation d'activités a été transmis à l'administration le 03/09/2007.		
+2008				2008				La_vente	La vente est intervenue au premier semestre 2008.		
+2007	02	06		2007	02	06		Les_prélèvements_ont_été_effectués	Les prélèvements ont été effectués le 06/02/2007 et le 29/05/2007.		
+				2007	05	29		Les_prélèvements_ont_été_effectués	Les prélèvements ont été effectués le 06/02/2007 et le 29/05/2007.		
+2007	05	11		2007	05	11		Une_visite_d__inspection	Une visite d'inspection a été réalisé le 11/05/2007.		
+2007	07			2007	07			Les_derniers_travaux_de_démantèlement	Les derniers travaux de démantèlement et de nettoyage des locaux ont eu lieu en juillet 2007.		

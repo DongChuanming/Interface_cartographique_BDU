@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976				1976				sont_réalisées	-1976: plusieurs études du BRGM sont réalisées		'BRGM'
+1999				1999				__réalisation_d__un_Évaluation_Simplifiée_des_Risques	-1999: réalisation d'un Évaluation Simplifiée des Risques, et mise en place de la surveillance des eaux souterraines (2/ans)		
+2011	01			2011	01			__dépôt	-janvier 2011: dépôt d'un dossier de demande d'institution de Servitudes d'Utilité Publique, lesquelles sont en cours de réalisation		
+1972				1972				__déversement	-En 1972: déversement de goudrons acides dans l'ancienne carrière.	'goudrons acides'	
+1996				1996				est_réaménagé	-En 1996, le site est réaménagé par la commune d'Abscon et l’Établissement Public Foncier.		
+2005	03			2005	03			__évaluation	-mars 2005: évaluation de l'impact de la pollution résiduelle sur les eaux souterraines et il s'avère qu'il serait judicieux de modifier quelques paramètres (tels que l'emplacement des piézomètres) afin d'optimiser la surveillance des eaux souterraines.		
+2006	10			2006	10			optimisation	-octobre 2006: optimisation du réseau de surveillance des eaux souterraines		
+1976				1976				__plusieurs_études_sont_menées	-A partir de 1976, plusieurs études sont menées par le BRGM, un traitement et une réhabilitation du site sont réalisés en 1984.		'le BRGM'
+1984				1984				un_traitement	-A partir de 1976, plusieurs études sont menées par le BRGM, un traitement et une réhabilitation du site sont réalisés en 1984.		'le BRGM'

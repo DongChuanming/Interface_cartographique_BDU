@@ -1,0 +1,21 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2014	07			2014	07			a_été_transmis	En réponse à cette demande, un nouveau plan de gestion a été transmis à l’inspection des installations classées en juillet 2014.		
+2014	01	1		2014	01	1		une_reprise_d__activité	Ainsi, la zone Est du site, qui rassemble les unités de production en activité, a fait l’objet d’une reprise d’activité depuis le 1er janvier 2014.		
+2018	10			2018	10			a_déposé_un_plan_de_gestion	Les travaux en cours début 2019 concernent le secteur POMAROLA (1000 m2) pour lequel SANOFI CHIMIE a déposé un plan de gestion en octobre 2018.		'POMAROLA', 'SANOFI CHIMIE'
+2019	04	30		2019	04	30		a_été_notifié	L'AP SUP a été notifié 30/04/2019 pour le secteur Sud.		
+2013	01			2013	01			a_été_transmis	Un plan de gestion du site (zones Nord, Ouest et Sud) a été transmis à l'administration en janvier 2013, ainsi qu'un addendum en février 2016 pour la zone P1, comportant notamment les investigations réalisées sur le site, une synthèse de l'état du sous-sol au droit du site.		
+2019				2019				Les_travaux_en_cours	Les travaux en cours début 2019 concernent le secteur POMAROLA (1000 m2) pour lequel SANOFI CHIMIE a déposé un plan de gestion en octobre 2018.		'POMAROLA', 'SANOFI CHIMIE'
+2013	12	31		2013	12	31		a_cessé	L’activité sur ces zones a cessé au 31/12/2013.		
+2018	10	05		2018	10	05		la_réalisation_des_travaux	Un rapport de l'Inspection a acté la réalisation des travaux sur le secteur Nord le 25/07/2017 (zone des remblais+P2 Genevoix) et sur le secteur Ouest, le 5/10/2018.		
+2019	02	20		2019	02	20		un_arrêté	Ainsi le préfet a pris un arrêté pour encadrer les travaux de réhabilitation du secteur POMAROLA le 20/02/2019.		'le préfet', 'POMAROLA'
+2017				2017				ont_été_évacués	Ils ont été évacués mi-2017.		
+1946				1946				était_exploité	L’ancien CPR (centre de production de Romainville), d’une superficie de 7,3 ha, était exploité depuis 1946 par différentes sociétés de production pharmaceutiques et depuis 2006 par la société SANOFI CHIMIE.  Le site se trouve dans une zone à usage mixte industriel, commercial tertiaire et résidentiel dense.		'la société SANOFI CHIMIE'
+2016	10	12		2016	10	12		une_visite_de_chantier	L’Inspection a effectué une visite de chantier le 12/10/2016.		
+2019	04	30		2019	04	30		a_été_pris	L'AP SUP a été pris le 30/04/2019 pour le secteur Ouest.		
+2018				2018				a_transmis	SANOFI CHIMIE a transmis au préfet en 2017 et 2018 des rapports de fin de travaux sur les secteurs Nord, Ouest et Sud.		'SANOFI CHIMIE'
+2016				2016				La_vente	La vente du secteur "chaufferie" a eu lieu fin 2016.		
+2018	04	13		2018	04	13		a_été_pris	L'AP SUP a été pris le 13/04/2018 pour le secteur Nord.		
+2019	03	04		2019	03	04		une_visite_de_chantier	L’Inspection a effectué une visite de chantier le 04/03/2019.		
+2017				2017				a_transmis	SANOFI CHIMIE a transmis au préfet en 2017 et 2018 des rapports de fin de travaux sur les secteurs Nord, Ouest et Sud.		'SANOFI CHIMIE'
+2019	02	20		2019	02	20		encadrer	Ainsi le préfet a pris un arrêté pour encadrer les travaux de réhabilitation du secteur POMAROLA le 20/02/2019.		'le préfet', 'POMAROLA'
+								est_mi_en_oeuvre	Un suivi des eaux souterraines post-travaux est mi en oeuvre pour 4 ans.		

@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	12	27		2006	12	27		qu__un_arrêté_de_mise_en_demeure_a_été_notifié	C’est dans ce contexte qu’un arrêté de mise en demeure a été notifié le 27 décembre 2006 au mandataire judiciaire.		
+2007	05			2007	05			une_étude_documentaire_préalablement_réalisée	Une campagne de 13 carottages et d’analyses de sol sur les bases d’une étude documentaire préalablement réalisée en mai 2007 (ci-avant évoqué) en vue de contrôler la présence ou non de polluants.	'polluants'	
+2007	12	07		2007	12	07		une_évaluation	Le 7 décembre 2007, une évaluation du risque de pollution (phase 2) référencée 90.797,		
+2008	01	11		2008	01	11		a_remis	Dans le cadre de la liquidation judiciaire de la société ORA (ex SECOMAM) sise à Revin (08), le liquidateur judiciaire de cette installation a remis un mémoire de cessation d’activité (le 11 janvier 2008).		'la société ORA', 'SECOMAM'
+								une_seconde_étude	Le bureau d'étude Galtier Expertise Environnement a réalisé une seconde étude (les 29 et 30 octobre 2007).		
+								des_opérations_de_traitement_thermique	Ainsi, entre le début d’activité (1980) et le début des années 1990, des opérations de traitement thermique et revêtement métallique ont été pratiquées, sur ce site.		
+2007	08	14		2007	08	14		la_déclaration	Le 14 août 2007, la déclaration de cessation d’activité accompagnée d’une évaluation du risque de pollution (phase 1) référencée 90.697,		
+2005	05	10		2005	05	10		un_rachat	Le 10 mai 2005, la société SECOMAM fait l’objet d’un rachat par la société Outils Rhône Alpes (ORA) sise 10 rue Franklin 69 470 GENAS.		'la société SECOMAM', 'la société'
+2007	10	30		2007	10	30		une_seconde_étude	Le bureau d'étude Galtier Expertise Environnement a réalisé une seconde étude (les 29 et 30 octobre 2007).		
+								début_d__activité	Ainsi, entre le début d’activité (1980) et le début des années 1990, des opérations de traitement thermique et revêtement métallique ont été pratiquées, sur ce site.		
+2008	07	10		2008	07	10		un_procès_verbal	En application de l’article R. 512-74 à R. 512-76 du code de l’environnement, l'inspection des installations classées a dressé le 10 juillet 2008 un procès-verbal de récolement attestant de la conformité des travaux de remise en état du site.		
+2005	12	06		2005	12	06		est_également_mise_en_liquidation_judiciaire	Le 6 décembre 2005, la société ORA est également mise en liquidation judiciaire.		'la société ORA'
+2005	03	10		2005	03	10		a_été_mise_en_liquidation_judiciaire	Le 10 mars 2005, la société SECOMAM a été mise en liquidation judiciaire, par le tribunal de commerce de Charleville-Mézières.		'la société SECOMAM'

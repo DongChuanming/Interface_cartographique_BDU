@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999				1999				ont_été_réalisés	De façon concomitante des travaux de renforcement des berges mentionnés ci-dessus ont été réalisés en 1999.		
+2010	06			2010	06			Les_dernières_analyses	Les dernières analyses réalisées en Juin 2010 montrent un dépassement de  la VCI pour un usage non sensible en ce qui concerne les fluorures.	'les fluorures'	
+1999				1999				est_reconverti	Ce site est reconverti depuis 1999 en une déchetterie communale.		
+1999				1999				Des_travaux_de_renforcement	Des travaux de renforcement de la berge de la Durance ont été réalisés en 1999 avec réception des travaux par la DDE, chargée de la police des eaux.		'la DDE'

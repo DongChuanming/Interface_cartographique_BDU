@@ -1,0 +1,34 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	07	26		2004	07	26		a_déclaré_la_cessation	Le 26 juillet 2004, la société REFINAL a déclaré la cessation des activités classées du site en y joignant un mémoire de cessation d'activité.		'la société REFINAL'
+2010	05	05		2010	05	05		L__information	L’information du maire a été faite par le préfet le 5 mai 2010.		'le préfet'
+2016	11	14		2016	11	14		a_transmis	Fin 2018, l'exploitant a transmis, conformément aux prescriptions de l'arrêté préfectoral du 14 novembre 2016, les éléments justificatifs des travaux réalisés sur le site ainsi qu'une analyse des risques résiduels.		
+2007				2007				Deux_diagnostics	Deux diagnostics de l’état des sols à l’extérieur du site ont été réalisés en 2005 et 2007.		
+2000				2000				a_été_autorisée_à_exploiter	En 2000, la société REFINAL INDUSTRIES a été autorisée à exploiter une activité d'affinage d'aluminium en remplacement de la fonderie de cuivre.	'cuivre'	'la société REFINAL INDUSTRIES'
+2014				2014				du_diagnostic	L'analyse des COHV a été ajoutée au suivi compte tenu des teneurs en trichloroéthylène retrouvées dans les gaz du sol lors du diagnostic réalisé en 2014.	'COHV', 'trichloroéthylène'	
+2003	01	14		2003	01	14		s__est_poursuivie	Parallèlement, la surveillance de la qualité des eaux souterraines, imposée par l'arrêté préfectoral complémentaire du 14 janvier 2003, s'est poursuivie.		
+2015	10	22		2015	10	22		a_été_faite	Une proposition sur les usages futurs a été faite par l'exploitant aux propriétaires des terrains ainsi qu'à la mairie de Poissy le 22 octobre 2015.		
+2006				2006				a_été_adressé	A la suite de l’abandon du projet d’aménagement présenté dans les études de 2006, un plan de gestion a été adressé en décembre 2010, par l'exploitant.		
+2019	05	21		2019	05	21		procès_verbal_de_récolement	Suite à l'instruction de ces éléments et à l'inspection sur site réalisée le 11 février 2019, monsieur le préfet des Yvelines a délivré le procès-verbal de récolement des travaux en date du 21 mai 2019.		'le préfet des Yvelines'
+2018				2018				a_transmis	Fin 2018, l'exploitant a transmis, conformément aux prescriptions de l'arrêté préfectoral du 14 novembre 2016, les éléments justificatifs des travaux réalisés sur le site ainsi qu'une analyse des risques résiduels.		
+2015				2015				les_projets_d__aménagement	Courant 2015, les projets d’aménagement prévus sur le site se sont concrétisés et le terrain, initialement composé de 2 parcelles (AX32 et AX29), a fait l’objet d’une division parcellaire.		
+1909				2004				a_été_exploité	Le site a été exploité de 1909 à 2004.		
+2012	11			2012	11			a_été_modifié	Sur demande de l'inspection des installations classées, le plan de gestion a été modifié, en novembre 2012, s'agissant notamment du bilan coûts/avantages.		
+2006	03			2006	03			un_diagnostic_de_pollution	Dans le cadre d’un projet d’aménagement du site comprenant des immeubles de bureaux et de logements, l’exploitant a adressé, en mars 2006, un diagnostic de pollution complémentaire et une évaluation détaillée des risques (EDR) pour la santé des futurs habitants ou occupants du site.		
+2016	11	14		2016	11	14		a_imposé	Monsieur le préfet des Yvelines a imposé, par arrêté préfectoral du 14 novembre 2016, des prescriptions complémentaires à la société REFINAL.		'le préfet des Yvelines', 'la société REFINAL'
+2016	02	12		2016	02	12		a_transmis	La société REFINAL INDUSTRIES a transmis le nouveau plan de gestion à l'inspection des installations classées le 12 février 2016.		'La société REFINAL INDUSTRIES'
+2010	12			2010	12			a_été_adressé	A la suite de l’abandon du projet d’aménagement présenté dans les études de 2006, un plan de gestion a été adressé en décembre 2010, par l'exploitant.		
+2010				2010				au_cours_de_l_	La sensibilisation des habitants demeurant dans un rayon de 500 m autour du site a été faite par la mairie au cours de l'été 2010.		
+2019	02	11		2019	02	11		procès_verbal_de_récolement	Suite à l'instruction de ces éléments et à l'inspection sur site réalisée le 11 février 2019, monsieur le préfet des Yvelines a délivré le procès-verbal de récolement des travaux en date du 21 mai 2019.		'le préfet des Yvelines'
+1999				1999				a_accueilli	Il a accueilli une activité d'affinage de cuivre jusqu'en 1999, exploité en dernier lieu par APROMETAL.		'APROMETAL'
+2011	03			2014	11			un_suivi_semestriel	Entre mars 2011 et novembre 2014, un suivi semestriel sur 4 ans (soit 8 campagnes) a été réalisé sur les paramètres métaux et hydrocarbures.	'métaux', 'hydrocarbures'	
+1999				1999				cuivre_jusqu_	Il a accueilli une activité d'affinage de cuivre jusqu'en 1999, exploité en dernier lieu par APROMETAL.		'APROMETAL'
+2013	02	20		2013	02	20		a_été_adressé	Un projet de restrictions d'usage conventionnelles entre parties a été adressé le 20 février 2013.		
+2010				2010				a_été_faite	La sensibilisation des habitants demeurant dans un rayon de 500 m autour du site a été faite par la mairie au cours de l'été 2010.		
+2006	08			2006	08			a_demandé	Par courrier d'août 2006, Monsieur le préfet des Yvelines a demandé de nouveaux compléments portant principalement sur les risques liés aux produits de dégradation du trichloroéthylène.	'produits de dégradation', 'trichloroéthylène'	'le préfet des Yvelines'
+2008	10			2008	10			une_nouvelle_campagne_de_prélèvements	À la suite de l’évolution de la politique de gestion des sites et sols pollués impulsée par le ministère chargé de l’environnement, une nouvelle campagne de prélèvements a été réalisée par l'exploitant au mois d’octobre 2008 afin de caractériser la qualité des sols dans les 3 premiers centimètres.		
+2005				2005				Deux_diagnostics	Deux diagnostics de l’état des sols à l’extérieur du site ont été réalisés en 2005 et 2007.		
+2004	06	21		2004	06	21		il_a_été_demandé	Dans le cadre de l'application du plan national santé environnement, approuvé par le gouvernement le 21 juin 2004, il a été demandé à la société REFINAL de fournir un diagnostic de l’état des sols (du site et de son environnement) au regard d’une contamination au plomb et des autres métaux qui sont susceptibles de poser un problème sanitaire.	'plomb', 'autres métaux'	'la société REFINAL'
+2006				2006				les_études	A la suite de l’abandon du projet d’aménagement présenté dans les études de 2006, un plan de gestion a été adressé en décembre 2010, par l'exploitant.		
+2003	01	14		2003	01	14		Ces_mesures_de_surveillance	Ces mesures de surveillance ont été imposées par l’arrêté préfectoral complémentaire du 14 janvier 2003.		
+2003	03			2003	03			a_débuté	La première campagne a débuté en mars 2003.		
+2004				2004				a_cessé_son_activité	La société a cessé son activité en 2004.		

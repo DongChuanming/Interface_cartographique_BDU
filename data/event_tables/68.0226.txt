@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1990	05	15		1990	05	15		a_été_prononcée_par	La fermeture du site a été prononcée par AP du 15/05/1990 avec dégazage, réaménagement et contrôle des eaux souterraines.		
+								a_été_prescrite_par	Une demande d'étude complémentaire a été prescrite par AP du 23/05/91 en vue d'assurer la sécurité du voisinage et de parfaire le traitement d'élimination des mauvaises odeurs.		
+1973	01	26		1973	01	26		L__exploitation	L'exploitation, par la Ville de Colmar, de la décharge du Ligibell a été autorisée par AP du 26/01/1973 et a fait l’objet d’une prolongation d’exploitation par arrêté préfectoral du 3 avril 1989. .		

@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	16		2004	01	16		est_en_liquidation_judiciaire	La société BALLION est en liquidation judiciaire depuis le 16 janvier 2004.		'La société BALLION'
+1989	03	10		1989	03	10		est_déposé	Un dossier de demande est déposé le 10 mars 1989 au nom de la Société d'Exploitation Forestière et Scierie BALLION par l'exploitant d'une scierie, sous le même nom, sur la commune limitrophe de Vert depuis 1978 (autorisée le 29 juillet 1991).		"la Société d' Exploitation Forestière et Scierie BALLION"
+1989	01			1989	01			a_été_arrêté	Ce dernier a été arrêté en janvier 1989.		
+1990				1990				a_été_planté_en_pins	Le parc à bois a été planté en pins début 1990.		
+1991	07	29		1991	07	29		autorisée	Un dossier de demande est déposé le 10 mars 1989 au nom de la Société d'Exploitation Forestière et Scierie BALLION par l'exploitant d'une scierie, sous le même nom, sur la commune limitrophe de Vert depuis 1978 (autorisée le 29 juillet 1991).		"la Société d' Exploitation Forestière et Scierie BALLION"
+2002	09	25		2002	09	25		L__analyse	L'analyse du 25 septembre 2002 dans le piézomètre montre une concentration en PCPNa inférieure au seuil de détection.	'PCPNa'	
+1989	01	07		1989	01	07		__pollution	7 janvier 1989 : pollution de l'Estrigon, entre LABRIT et BROCAS, ayant entraîné la destruction de la pisciculture AQUALAND de BROCAS .		'BROCAS', 'pisciculture AQUALAND de BROCAS'
+1990	07			1990	07			a_cessé_son_activité	Elle a cessé son activité en juillet 1990.		
+1996	10	03		1996	10	03		évaluation_simplifiée_des_risques	3 octobre 1996 : évaluation simplifiée des risques par l'INERIS sur 4 sites pilotes d'installation de traitement des bois dont la Scierie Ballion qui est classée dans la catégorie des sites "à surveiller" pour les eaux.		'la Scierie'
+2009	10	29		2009	10	29		La_clotûre	La clotûre pour insuffisance d'actifs a eu lieu le 29 octobre 2009.		

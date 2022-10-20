@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006				2006				d__huiles_de	En 2006, des fuites d'huiles de coupe ont été identifiées au droit de l'atelier d'usinage mécanique.		'identifiées au', "droit de l' atelier d' usinage mécanique"
+2006				2006				identifiées	En 2006, des fuites d'huiles de coupe ont été identifiées au droit de l'atelier d'usinage mécanique.		'identifiées au', "droit de l' atelier d' usinage mécanique"

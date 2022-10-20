@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	09	20		2001	09	20		a_été_signé	Ces études n'ayant pas été remises dans le délai imparti, un arrêté préfectoral de mise en demeure a été signé le 20 septembre 2001.		
+2013				2013				des_travaux_de_dépollution	En début d'année 2013, des travaux de dépollution ont été réalisés pour supprimer la phase flottante d'hydrocarbure présente à la surface de la nappe, par pompage, écremage puis venting.	'hydrocarbure'	
+1972	10			1972	10			mise_en_service	Installation de stockage de liquides inflammables mise en service en octobre 1972, dans la zone portuaire de Mondeville.	'liquides inflammables'	
+2011	12			2011	12			a_été_installé	Un nouveau piézomètre a été installé en décembre 2011.		
+2007	07			2007	07			Une_fuite	Une fuite d'une canalisation enterrée de circulation de produit dénaturant est survenue en juillet 2007.	'produit dénaturant'	
+2007	07	18		2007	07	18		a_été_pris	Un arrêté préfectoral de mesures d'urgence a été pris le 18 juillet 2007.		
+2011				2011				travaux	Dans le cadre de travaux en 2011, 2 piézomètres ont été détruits.		
+2002	02			2002	02			Ces_études_ont_été_transmises	Ces études ont été transmises fin février 2002.		
+2011				2011				ont_été_détruits	Dans le cadre de travaux en 2011, 2 piézomètres ont été détruits.		
+1996	04	03		1996	04	03		a_été_sélectionné	Etant donné que les activités exercées sur ce site sont susceptibles d’avoir été à l’origine d’une pollution éventuelle du sol, il a été sélectionné, par la DRIRE Basse-Normandie (devenue DREAL), dans le cadre de l’application de la circulaire du 3 avril 1996, pour faire l’objet d’un diagnostic initial et d’une évaluation simplifiée des risques.		'la DRIRE Basse-Normandie', 'devenue DREAL'

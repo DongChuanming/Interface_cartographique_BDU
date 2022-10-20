@@ -1,0 +1,25 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	04	23		2012	04	23		a_transmis	Le 23 avril 2012, monsieur le Préfet de l'Isère a transmis à l'inspection des installations classées le courrier de la société TOTAL du 13 avril 2012 accompagné :		'le Préfet', 'la société TOTAL'
+2012	04	23		2012	04	23		l__envoi	Parallèlement à l'envoi du 23 avril 2012  de monsieur le Préfet de l'Isère, la société ARTELIA a transmis le 10 mai 2012  à l'inspection des installations classées :		'monsieur le Préfet', ', la société ARTELIA'
+0030				0030				a_été_pris	L'arrêté préfectoral a été pris le 9 août 2012 sous le n° 2012-222-0030.		
+2011	08	19		2011	08	19		ont_été_transmis	Le 19 août 2011, le rapport d'étude historique et le rapport d'évaluation de la qualité du sous-sol ont été transmis à monsieur le Préfet de l'Isère.		'le Préfet'
+2012				2012				a_été_pris	L'arrêté préfectoral a été pris le 9 août 2012 sous le n° 2012-222-0030.		
+2012	02			2012	02			l__enquête	Quinze puits particuliers ont été recensés lors de l'enquête de février 2012, aucune analyse n'a été réalisée,  soit par refus du propriétaire, soit parce que les puits étaient en hors gel du fait de l'hiver.		
+2014	02	10		2014	02	10		d__instituer	Après examen de ces documents, l’inspection a été amenée à proposer à monsieur le préfet de l’Isère d’instituer des servitudes d’utilité publique au droit du site (servitudes entérinées par arrêté préfectoral n° 2014-0041-0019 du 10 février 2014), et à demander à la société TOTAL de poursuivre la surveillance piézométrique afin de confirmer, ou d’infirmer, la tendance à l’amélioration constatée au niveau de la qualité des eaux souterraines.		'le préfet', 'la société TOTAL'
+2012	05	10		2012	05	10		a_transmis	Parallèlement à l'envoi du 23 avril 2012  de monsieur le Préfet de l'Isère, la société ARTELIA a transmis le 10 mai 2012  à l'inspection des installations classées :		'monsieur le Préfet', ', la société ARTELIA'
+2012	02			2012	02			n__ont_pu_être_réalisées	Aussi, les analyses prévues qui n'ont pu être réalisées en février 2012 doivent être réalisées.		
+2011	11			2011	11			Suivi_de	Pose de piézomètres et de piézairs complémentaires – Suivi de la qualité des eaux souterraines, des gaz de sols et de l'air ambiant en novembre 2011 (rapport SERPOL n°6879-2) :		
+2012	02			2012	02			n__ont_pas_changé	Les phénomènes rencontrés en janvier 2012 relatifs à la qualité des eaux souterraines n'ont pas changé en février 2012 ; les piézomètres PZ5 et PZ2 sont impactés de la même manière.		
+2016	08	25		2016	08	25		a_transmis	Par courrier en date du 25 août 2016, la société TOTAL a transmis les rapports de suivi de la qualité des eaux souterraines de décembre 2015 et de juin 2016 et sollicite d’une part l’arrêt de la surveillance piézométrique, et d’autre part l’obtention d’un récépissé final d’attestation de remise en état permettant de clore le dossier.		'la société TOTAL'
+2011	11			2011	11			identifié	Dans les eaux souterraines il faut noter la persistance de l'impact identifié en novembre 2011 sur le piézomètre PZ5 ; les valeurs rencontrées sont du même ordre de grandeur.		
+2013	02	18		2013	02	18		ont_été_transmis	Le projet de servitudes et les analyses des eaux souterraines ont été transmis le 18 février 2013.		
+2011	11	02		2011	11	02		Des_analyses_ont_été_conduites	Des analyses ont été conduites le 2 novembre 2011 sur les eaux de la nappe, le gaz des sols et l'air ambiant de l'ancienne boutique.		
+2012	01			2012	01			Les_analyses_réalisées	Les analyses réalisées en janvier 2012 sur les gaz de sol et les gaz contenus dans l'ancienne boutique donnent des résultats identiques à  novembre 2011.		
+				2011	09	22		réalisés	- le rapport SERPOL n°6879-1 d'octobre 2011, relatif au suivi des travaux réalisés du 12 au 22 septembre 2011 ;		'SERPOL'
+				2011	09	22		Les_travaux_de_retrait	Les travaux de retrait des cuves, des équipements et des terres polluées ont été réalisés du 12 au 22 septembre 2011.		
+2012	08	09		2012	08	09		a_été_pris	L'arrêté préfectoral a été pris le 9 août 2012 sous le n° 2012-222-0030.		
+2012	02			2012	02			être_réalisées	Aussi, les analyses prévues qui n'ont pu être réalisées en février 2012 doivent être réalisées.		
+2012	05	31		2012	05	31		considéra	Dans ces conditions, l'inspection des installations classées considéra (au 31 mai 2012) qu'il ne peut être acté la cessation d'activité comme le souhaite la société TOTAL dans son courrier du 13 avril 2012.		'la société TOTAL'
+								a_été_pris	L'arrêté préfectoral a été pris le 9 août 2012 sous le n° 2012-222-0030.		
+2011	06	09		2011	06	09		informait	Par courrier en date du 9 juin 2011, la société TOTAL informait monsieur le Préfet de l'Isère qu'elle allait cesser l'activité exercée à Saint-Egrève, 33 route de Grenoble au 8 août 2011.		'la société TOTAL', 'le Préfet'
+2012	05	31		2012	05	31		Analyse	Analyse et proposition de  l'inspection des installations classées au 31 mai 2012 :		

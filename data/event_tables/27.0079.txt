@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992				1992				a_été_passé	Un aimant permettant de retirer les morceaux de ferrailles a été passé sur le site en 1992.		
+1992				1992				l__entreposage_de_véhicules	Jusqu'en 1992, ce terrain a donc servi à l'entreposage de véhicules hors d'usages.		
+2011	12	06		2011	12	06		Lors_de_la_visite	Lors de la visite du 6 décembre 2011, seule la couche superficielle de terre végétale a pu être constatée.		
+1992				1992				a_donc_servi_à	Jusqu'en 1992, ce terrain a donc servi à l'entreposage de véhicules hors d'usages.		

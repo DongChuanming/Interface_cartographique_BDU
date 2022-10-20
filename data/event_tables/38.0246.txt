@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2011	12	15		Les_travaux_de_dépollution	Les travaux de dépollution se sont déroulés le 13/10/2011 et le 15/12/2011.		
+				2011	10	26		Des_investigations_ont_été_menées	Des investigations ont été menées du 17 au 26 octobre 2011.		
+2011	12	12		2011	12	12		ont_été_transmis	Les résultats d'analyses ont été transmis le 12/12/2011.		
+2011	08	26		2011	08	26		Le_changement	Le changement d'exploitant a été notifié par courrier du 26/08/2011 à la Préfecture.		
+2011	11	10		2011	11	10		transmis	Un plan de gestion intégrant un diagnostic des sols a été établi par le bureau d'étude HPC ENVIROTEC et transmis le 10/11/2011 à l'inspection des installations classées.		'HPC ENVIROTEC'
+2011	04			2011	04			a_racheté	Elle a racheté en avril 2011 le site de l'entreprise Guillet Récup'Mat.		
+2013	02	22		2013	02	22		a_été_acté	L'arrêté préfectoral complémentaire a été acté le 22/02/2013.		
+2011	10	13		2011	10	13		Les_travaux_de_dépollution	Les travaux de dépollution se sont déroulés le 13/10/2011 et le 15/12/2011.		

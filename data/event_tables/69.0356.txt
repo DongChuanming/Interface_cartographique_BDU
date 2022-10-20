@@ -1,0 +1,19 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1954				1954				a_été_occupé	- La parcelle 123 a été occupé en 1954 par la société SOMAPA qui y exerçait une activité de commerce de papiers usagés, réglementé par le récépissé de déclaration du 19/02/1949 ;		'la société SOMAPA'
+1993	01	24		1993	01	24		a_été_exploitée	- La parcelle BH 161 a été exploitée par le Garage ALAGNAT qui exerçait une activité de carrosserie, application de peintures et un atelier de tôlerie réglementé par l'arrêté du 21/05/1974 modifié en récépissé de déclaration du 24/01/1993.		'le Garage ALAGNAT'
+1910				1910				ont_ensuite_été_construits	Des bâtiments industriels y ont ensuite été construits en 1910 qui ont été occupés en 1926 par les sociétés CEZANO et BOSSUZE.		'les sociétés CEZANO', 'BOSSUZE'
+1974	04	24		1974	04	24		ont_donc_été_implantés	Des ateliers de chaudronnerie et de tonnellerie ont donc été implantés sur le site, réglementés par le récépissé de déclaration du 24/04/1974.		
+1926				1926				ont_ensuite_été_construits	Des bâtiments industriels y ont ensuite été construits en 1910 qui ont été occupés en 1926 par les sociétés CEZANO et BOSSUZE.		'les sociétés CEZANO', 'BOSSUZE'
+1976				1976				ont_accueillis	- Les parcelles BH 126, 127, 128, 129 et 130 ont accueillis en 1976 la société MECACHROME.		'la société MECACHROME'
+1976	12	24		1976	12	24		de_déclaration	Les activités de MECACHROME étaient réglementées par le récépissé de déclaration du 24/12/1976 ;		'MECACHROME'
+2013	09	03		2013	09	03		Un_diagnostic_complémentaire_a_donc_été_mené	Un diagnostic complémentaire a donc été mené sur le site le 03/09/2013.		
+1982				1982				sera_reprise	Elle sera reprise en 1982 par la société ENOLY qui bénéficie d'un récépissé de déclaration du 13/12/1994 ;		'la société ENOLY'
+1974	04	24		1974	04	24		de_déclaration	Des ateliers de chaudronnerie et de tonnellerie ont donc été implantés sur le site, réglementés par le récépissé de déclaration du 24/04/1974.		
+2013	06	25		2013	06	25		ont_été_délivrés	Les récépissés de notification de mises à l’arrêt correspondant ont été délivrés le 25/06/2013.		
+1949	02	19		1949	02	19		déclaration	- La parcelle 123 a été occupé en 1954 par la société SOMAPA qui y exerçait une activité de commerce de papiers usagés, réglementé par le récépissé de déclaration du 19/02/1949 ;		'la société SOMAPA'
+1993	01	24		1993	01	24		déclaration	- La parcelle BH 161 a été exploitée par le Garage ALAGNAT qui exerçait une activité de carrosserie, application de peintures et un atelier de tôlerie réglementé par l'arrêté du 21/05/1974 modifié en récépissé de déclaration du 24/01/1993.		'le Garage ALAGNAT'
+2013	03	07		2013	03	07		ont_été_rédigé	Un Plan de Gestion et une Analyse des Risques Résiduels (ARR) ont été rédigé en date du 07/03/2013.		
+2001				2001				ont_été_démolis	En 2001, les bâtiments des parcelles 130 et 131 ont été démolis pour accueillir un terrain de foot.		
+1963				1963				s__implantent	En 1963, les Établissements GAILLARD s'implantent sur la parcelle.		'les Établissements GAILLARD'
+1892				1892				à_leurs_faillite	- La parcelle BH 121 a été exploité par les TEINTURERIES DE CHARPENNES jusqu'à leurs faillite en 1892.		'les TEINTURERIES DE CHARPENNES'
+1994	12	13		1994	12	13		de_déclaration	Elle sera reprise en 1982 par la société ENOLY qui bénéficie d'un récépissé de déclaration du 13/12/1994 ;		'la société ENOLY'

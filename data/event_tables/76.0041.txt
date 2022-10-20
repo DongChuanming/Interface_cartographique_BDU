@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	01			2005	01			avait_été_détecté	Un impact par les hydrocarbures avait été détecté en janvier 2005 mais n'a pas été retrouvé lors des campagnes suivantes.	'hydrocarbures'	
+1997				1997				Le_diagnostic_de_pollution	Le diagnostic de pollution réalisé en 1997 a consisté en la réalisation de neuf sondages de sol et des analyses des eaux souterraines au droit du site.		
+2005				2018				différentes_études_de_caractérisation	Entre 2005 et 2018, différentes études de caractérisation des sols et des eaux souterraines au droit du site on été réalisées.		
+1905				1905				a_été_créée	La société SA GEORGES EVERS et Cie a été créée en 1905.		'La société SA GEORGES EVERS'
+1928				1997				a_exploité	Elle a exploité les installations situées sur la commune d'Epouville entre 1928 et 1997.		'Epouville'
+2019	05	02		2019	05	02		la_mise_en_sécurité_effective	Le 2 mai 2019, l'inspection des installations classées a constaté la mise en sécurité effective du site.		
+1991				1991				a_été_cédé	En 1991, le fond de commerce de produits finis textiles a été cédé à la société SILITEX puis celui de l'activité « carton » en 1993.		'la société SILITEX'
+2016	03			2017	08			conjointement_au_chantier_de_démolition	La maîtrise d’ouvrage de ces opérations a été assurée par l’EPFN conjointement au chantier de démolition du site de mars 2016 à août 2017.		'l’ EPFN'
+2013	06	04		2013	06	04		a_constaté	Le 4 juin 2013, l'inspection des installations classées a constaté que les sociétés ABECO et SILITEX, qui continuaient à exercer une activité dans les anciens locaux d'EVERS, avaient quitté le site.		'les sociétés ABECO', 'SILITEX', "d' EVERS"
+1927				1927				a_été_construite_en	La première usine a été construite en 1927.		
+1994				1994				a_été_arrêtée	Cette activité a été arrêtée en 1994.		

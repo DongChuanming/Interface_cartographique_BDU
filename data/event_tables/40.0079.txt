@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007	11	07		2007	11	07		Ayant_constaté	Ayant constaté le 7 novembre 2007 que rien n’avait été fait, la DRIRE A demandé à Maître Guérin de FAIRE réaliser les travaux demandés.		'la DRIRE'
+2009	05	27		2009	05	27		Les_investigations	Les investigations de l'étape B ont lieu le 27 mai 2009.		
+2003	07	15		2003	07	15		a_informé	Il a informé le Préfet le 15 juillet 2003 qu’il faisait réaliser l’étude simplifiée des risques.		'le Préfet'
+2003	03	20		2003	03	20		a_transmis	Ce dernier a fait savoir qu’il avait fait insérer dans le cahier des charges de la vente aux enchères de l’immeuble dépendant de l’actif de la société VARGUES, l’obligation pour adjudicataire de prendre à sa charge les frais et risques de la dépollution et a transmis ce cahier des charges à la DRIRE LE 20 mars 2003.		'la société VARGUES', 'la DRIRE'
+1991	07	29		1991	07	29		a_été_autorisée	Cette installation a été autorisée par l'arrêté préfectoral du 29 juillet 1991.		
+2003	04	16		2003	04	16		a_été_mise_en_liquidation	La société a été mise en liquidation le 16 avril 2003 et Maître Dominique Guérin a été nommé mandataire liquidateur.		'Maître Dominique Guérin'
+2005				2005				__a_été_mis_en_vente_aux_enchères_publiques	L’immeuble  a été mis en vente aux enchères publiques en 2005.		
+2012	10	10		2012	10	10		Cette_liquidation_a_été_clôturée	Cette liquidation a été clôturée pour insuffisance d'actifs le 10/10/2012.		
+2003				2003				a_cessé_son_activité	Elle a cessé son activité en 2003 suite à la liquidation judiciaire déclarée le 15 juillet 2003.		
+2007	11	07		2007	11	07		rappelle_les_obligations_de_cessation_d__activité	Le 7 novembre 2007, la DRIRE rappelle les obligations de cessation d'activité et de remise en état du site au mandataire liquidateur, Maître GUERIN.		'la DRIRE', 'Maître GUERIN'
+2003	07	15		2003	07	15		à_la_liquidation_judiciaire_déclarée	Elle a cessé son activité en 2003 suite à la liquidation judiciaire déclarée le 15 juillet 2003.		
+2008	02	25		2008	02	25		étape_A_est_faite	L'étape A est faite le 25 février 2008 avec notamment une visite du site.		
+2008	01	09		2008	01	09		le_diagnostic	Le 09/01/2008, le propriétaire s'est engagé à faire rélaiser le diagnostic du site dans le cadre de la deuxième opération collective lancée par la CCI de Mont de Marsan.		'la CCI de Mont'

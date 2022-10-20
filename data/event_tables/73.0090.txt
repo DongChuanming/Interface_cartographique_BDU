@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	10	02		2006	10	02		le_dossier_de_cessation_d__activité	Dans son rapport du 17 novembre 2006, l'inspection des installations classées note que le dossier de cessation d'activité, transmis par courrier du 2 octobre 2006, est incomplet et doit être complété par :		
+2006	11	16		2006	11	16		La_réalisation_des_travaux_de_réaménagement	La réalisation des travaux de réaménagement (destruction des installations, couverture du dépôt de mâchefers et clôture du site) a été constatée par l'inspection des installations classées lors d'une visite du site le 16 novembre 2006.		
+2007	02	12		2007	02	12		a_transmis	Par courrier du 12 février 2007, la communauté de communes du Mont Beauvoir a transmis à l'inspection de l'environnement :		'la communauté de communes'
+1981	12	04		1981	12	04		a_été_autorisée	L'usine d'incinération d'ordures ménagères de Saint-Jean-de-Couz a été autorisée par arrêté préfectoral du 4 décembre 1981.		'ordures ménagères'
+2004	06	10		2004	06	10		une_étude_diagnostic_environnementale	L'exploitant du site a transmis le 10 juin 2004 à l'inspection des installations classées, une étude diagnostic environnementale pour la réhabilitation de l'UIOM.		
+1997				1997				a_été_arrêtée	L'exploitation du site a été arrêtée en 1997 suite à une action administrative du 9 août 1996.		

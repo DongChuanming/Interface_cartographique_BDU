@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1996				1996				a_été_pris	En 1996, un premier Arrêté Préfectoral a été pris, autorisant CHEVRON ORONITE à épandre ces terres (terres du sud) sur les surfaces libres situées au sud-ouest du site (sur l'emplacement d'origine de ces terres a été construit l'actuelle unité de sulfonation).	'sulfonation'	'CHEVRON ORONITE'
+1998				1998				étude_technico	De ce fait, une nouvelle étude technico-économique a été réclamée à CHEVRON ORONITE fin 1998.		'CHEVRON ORONITE'
+1959				1959				a_démarré	- En 1959, la Société OROGIL a démarré l'exploitation d'une unité d'alkylation utilisant un catalyseur dénommé "clarcil".	'clarcil'	'la Société OROGIL'
+				1977				ont_également_été_stockées	- Dans le même temps, et jusqu'en 1977, les cendres provenant de l'incinérateur interne du site ont également été stockées à cet endroit.		
+1999				1999				mise_en_oeuvre	Elle a fait apparaître que la seule solution était de procéder à la mise en oeuvre de la technique du landfarming sur deux à trois années, cette solution a été retenue dans l'arrêté préfectoral du 13 juillet 1999 et mise en oeuvre pendant l'été 1999.		

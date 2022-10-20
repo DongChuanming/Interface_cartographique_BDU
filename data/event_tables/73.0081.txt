@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003	10	1		2003	10	1		L__EDR	L'EDR, réalisée par le bureau d'études SOGREAH, a été transmise à l'administration le 1er octobre 2003.		'SOGREAH'
+2003	01			2003	01			a_été_remise	Cette évaluation a été remise à l’administration par le liquidateur en janvier 2003, et complétée le 12 février 2003.		
+								ont_été_autorisées	Les activités ont été autorisées par arrêté préfectoral du 14/04/95.		
+2003	02	12		2003	02	12		a_été_remise	Cette évaluation a été remise à l’administration par le liquidateur en janvier 2003, et complétée le 12 février 2003.		
+								La_mise_en_place	La mise en place de ce remblai a été prescrite à Me Clanet par arrêté préfectoral du 7/01/05.		
+2003	02	12		2003	02	12		complétée	Cette évaluation a été remise à l’administration par le liquidateur en janvier 2003, et complétée le 12 février 2003.		
+1998				1998				est_devenue	L'entreprise est devenue AROL Circuits en 1996, puis CPS en 1998.		'AROL Circuits', 'CPS'
+1996				1996				est_devenue	L'entreprise est devenue AROL Circuits en 1996, puis CPS en 1998.		'AROL Circuits', 'CPS'
+2000	01	21		2000	01	21		a_été_placée_en_liquidation_judiciaire_par_jugement	La société CPS a été placée en liquidation judiciaire par jugement du 21 janvier 2000.		'La société CPS'

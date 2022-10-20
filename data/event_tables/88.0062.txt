@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009				2009				ont_été_menés	Des travaux de modélisation ont été menés en 2009 ; ils ont conduit au remplacement des infrastructures et à la purge des zones impactées par des hydrocarbures.	'hydrocarbures'	
+2007				2007				a_été_mis_en_place	Afin de contenir les hydrocarbures dissous dans les eaux souterraines, un confinement hydraulique a été mis en place en 2007.	'hydrocarbures'	
+2005				2005				investigations	La station-service a fait l'objet d'investigations en 2005 et 2006 et d'une surveillance de la qualité des eaux souterraines suite à la mise en évidence d'une fuite au niveau d'une cuve à gazole.	'gazole'	
+2006				2006				investigations	La station-service a fait l'objet d'investigations en 2005 et 2006 et d'une surveillance de la qualité des eaux souterraines suite à la mise en évidence d'une fuite au niveau d'une cuve à gazole.	'gazole'	
+2005	11			2005	11			a_été_constatée	Une fuite au niveau d'un volucompteur de gazole a été constatée par l'exploitant en novembre 2005.	'gazole'	

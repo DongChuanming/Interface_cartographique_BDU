@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2006	04	10		2006	04	10		a_été_transmis	Le dossier de servitudes au profit de l'état finalisé a été transmis par le mandataire judiciaire à la préfecture le 10 avril 2006.		
+								a_été_signé	Ainsi, un arrêté préfectoral a été signé le 7 octobre 2005 à l'encontre du mandataire, lui imposant d'établir sous 3 mois un dossier de servitudes visant à maintenir sur le site un usage compatible avec la nature des terrains, conformément aux hypothèses et engagements de l'EDR.		
+2003	01	13		2003	01	13		__a_été_transmise	Cette ESR  a été transmise au préfet le 13 janvier 2003 et a fait l'objet d'une certain nombre de remarques et d'une demande de compléments de la part de l'administration.		
+2008	02	21		2008	02	21		a_été_actée	Cette proposition a été actée par l'arrêté préfectoral du 21/02/2008.		
+2006	10			2006	10			une_nouvelle_EDR	Dans le cadre du réaménagement du site pour l'implantation de logements, une nouvelle EDR et une Évaluation des Risques Sanitaires ont été rédigées par la société GALTIER Expertise Environnement en octobre 2006.		'la société GALTIER'
+2005	10	07		2005	10	07		a_été_signé	Ainsi, un arrêté préfectoral a été signé le 7 octobre 2005 à l'encontre du mandataire, lui imposant d'établir sous 3 mois un dossier de servitudes visant à maintenir sur le site un usage compatible avec la nature des terrains, conformément aux hypothèses et engagements de l'EDR.		
+2004	03	29		2004	03	29		un_rapport	Ce diagnostic a fait à nouveau l'objet de différentes remarques de la part de l'Inspection des Installations Classées dans un rapport du 29 mars 2004.		
+2001	09			2001	09			est_tombée_en_redressement_judiciaire	La société STIR est tombée en redressement judiciaire en septembre 2001.		'La société STIR'
+2003	11			2003	11			un_diagnostic_complémentaire	A l'issue du nouveau programme d'investigations, un diagnostic complémentaire de l'étude de sols a été réalisé et transmis au préfet en novembre 2003.		'préfet'
+2002	11	20		2002	11	20		retrouvée_dans_le_puits	Un nouveau programme d'investigations a été retenu par le liquidateur judiciaire, consistant en la réalisation de trois piézomètres et de 3 sondages dans les sols (une teneur de 15 µg/l en tétrachloréthylène (PCE) a été retrouvée dans le puits le 20 novembre 2002).	'tétrachloréthylène', 'PCE'	
+2008	02	21		2008	02	21		un_allégement	La surveillance de la qualité des eaux souterraines a fait l'objet d'un allégement acté par l'arrêté préfectoral du 21/02/2008.		
+2013	07	18		2013	07	18		les_travaux_sont_en_phase_d__achèvement	Au 18/07/2013, les travaux sont en phase d’achèvement.		
+2005	06	21		2005	06	21		ont_été_transmis	Ces compléments ont été transmis à l'Inspection des Installations Classées par le Préfet le 21 juin 2005.		'le Préfet'
+2003	03	25		2003	03	25		ont_été_transmis	Les compléments ont été transmis le 25 mars 2003 et le 1er avril 2003 par le liquidateur judiciaire.		
+2002	05	22		2002	05	22		a_transmis	Elle a transmis un dossier de cessation d'activité en Préfecture le 22/05/2002.		
+2010	09	29		2010	09	29		ont_été_signées	Les servitudes ont été signées le 29/09/2010.		
+2010	07	01		2010	07	01		une_modification	Le dossier de servitudes a fais l'objet d'une modification au 01/07/2010 en vue d'interdire toute utilisation des eaux souterraines du site et visait à permettre la construction d'un immeuble résidentiel en lieu et place du projet d'équipement socioculturel.		
+2006				2006				un_projet_de_réaménagement	En 2006, le site a fait l'objet d'un projet de réaménagement avec changement d'usage pour la construction de logements.		
+2004	05	19		2004	05	19		a_donc_été_signé	Un arrêté préfectoral a donc été signé le 19/05/2004 afin d'imposer au mandataire judiciaire :		

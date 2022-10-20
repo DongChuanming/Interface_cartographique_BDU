@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2008	10			2008	10			ont_donc_été_réalisés	Quatre nouveaux piézomètres ont donc été réalisés en octobre 2008.		
+				2008				Les_travaux_de_dépollution	Les travaux de dépollution ont été réalisés entre mars et juillet 2008.		
+1947				1947				a_exploité	La société Bernard Participations a exploité depuis 1947 un établissement spécialisé dans la réparation et l'entretien de poids lourds, avenue des sports à Bourg en Bresse, dénommé Bernard Trucks.		'La société Bernard'
+2007	11			2007	11			Le_diagnostic_environnemental	Le diagnostic environnemental réalisé en novembre 2007 a mis en évidence une pollution d’une partie des sols du site par des hydrocarbures et des métaux ainsi qu’un impact sur la nappe d’eau présente au droit du site.	'hydrocarbures', 'métaux'	
+2007	12	04		2007	12	04		la_cessation_d__activité	La société a déclaré le 4/12/2007 la cessation d'activité de ce site.		'La société'

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1991	10	10		1991	10	10		une_visite	Une surveillance des eaux souterraines est préconisée par l'Inspection des installations classées lors d'une visite en date du 10/10/1991.		
+1973				1973				n__est_plus_exploité	Ce dépôt n'est plus exploité, la mise à l'arrêt de cette activité date de 1973.		
+1973				1973				la_mise_à_l__arrêt	Ce dépôt n'est plus exploité, la mise à l'arrêt de cette activité date de 1973.		
+1973				1973				aurait_fait_arrêter	La municipalité aurait fait arrêter les dépôts en 1973.		

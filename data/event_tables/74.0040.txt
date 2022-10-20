@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2915				2915				Il_a_bénéficié_d__une	Il a bénéficié d'une autorisation préfectorale délivrée le 20 mars 1991 (mise à jour) pour les activités suivantes : rub. 1430/1433 (A), 2915 (D), 2260 (D), 1430/1432 (D).		
+2003				2003				exploitant_ayant_décidé	L'exploitant ayant décidé d'abandonner l'exploitation, un diagnostic de l'état du site a été réalisé sur la base de la circulaire du 3 avril 1996 par un organisme spécialisé au cours de l'année 2003.		
+1991	03	20		1991	03	20		Il_a_bénéficié_d__une	Il a bénéficié d'une autorisation préfectorale délivrée le 20 mars 1991 (mise à jour) pour les activités suivantes : rub. 1430/1433 (A), 2915 (D), 2260 (D), 1430/1432 (D).		
+1432	1430			1432	1430			Il_a_bénéficié_d__une	Il a bénéficié d'une autorisation préfectorale délivrée le 20 mars 1991 (mise à jour) pour les activités suivantes : rub. 1430/1433 (A), 2915 (D), 2260 (D), 1430/1432 (D).		
+2260				2260				Il_a_bénéficié_d__une	Il a bénéficié d'une autorisation préfectorale délivrée le 20 mars 1991 (mise à jour) pour les activités suivantes : rub. 1430/1433 (A), 2915 (D), 2260 (D), 1430/1432 (D).		
+1996	04	03		1996	04	03		exploitant_ayant_décidé	L'exploitant ayant décidé d'abandonner l'exploitation, un diagnostic de l'état du site a été réalisé sur la base de la circulaire du 3 avril 1996 par un organisme spécialisé au cours de l'année 2003.		
+1433	1430			1433	1430			Il_a_bénéficié_d__une	Il a bénéficié d'une autorisation préfectorale délivrée le 20 mars 1991 (mise à jour) pour les activités suivantes : rub. 1430/1433 (A), 2915 (D), 2260 (D), 1430/1432 (D).		

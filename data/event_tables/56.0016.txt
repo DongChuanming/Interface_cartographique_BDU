@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				a_été_placée_en_redressement_judiciaire	L'activité a été placée en redressement judiciaire en 2017.		
+1998	02	02		1998	02	02		est_soumise_à	Dans le cadre de l'article 65 l'arrêté ministériel du 2 février 1998, l'installation est soumise à une surveillance semestrielle des eaux souterraines.		
+2017	10	13		2017	10	13		la_visite	Suite à la visite des 13 octobre 2017 et 10 avril 2018, l'inspection a demandé à l'exploitant de dérouler la démarche nationale sites et sols pollués.		
+2006				2006				un_pic	- les concentrations en chrome VI fluctuent, avec un pic en 2006,	'chrome VI'	
+2008	06	24		2008	06	24		La_visite_d__inspection	La visite d'inspection du 24 juin 2008 a permis de constater :		
+2005	04			2005	04			a_été_mise_en	En avril 2005, la présence de chrome dans les eaux souterraines a été mise en évidence.	'chrome'	
+2018	04	10		2018	04	10		la_visite	Suite à la visite des 13 octobre 2017 et 10 avril 2018, l'inspection a demandé à l'exploitant de dérouler la démarche nationale sites et sols pollués.		
+2006	04	26		2006	04	26		a_été_pris	Un arrêté préfectoral d'urgence a été pris le 26 avril 2006 prescrivant la réalisation d'un état des lieux permettant d'établir un constat de pollution des différents milieux et de proposer un échéancier de travaux pour traiter la pollution.		
+1998	02	02		1998	02	02		une_surveillance_semestrielle	Dans le cadre de l'article 65 l'arrêté ministériel du 2 février 1998, l'installation est soumise à une surveillance semestrielle des eaux souterraines.		
+2003				2003				a_été_remplacé_par	En 2003, le produit de traitement à base de cuivre, chrome et arsenic a été remplacé par un produit à base de cuivre et d'acide borique.	'cuivre', 'chrome', 'arsenic', 'cuivre', 'acide borique'	

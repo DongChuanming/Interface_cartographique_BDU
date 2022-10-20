@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1976	06	19		1976	06	19		déclaration	Les activités étaient réglementées par les récépissés de déclaration des 19 juin 1976 et 17 août 1988.		
+2013	07			2013	07			une_étude_relative	- une étude relative aux travaux de dépollution 'juillet 2013)		
+1988	08	17		1988	08	17		déclaration	Les activités étaient réglementées par les récépissés de déclaration des 19 juin 1976 et 17 août 1988.		
+2013	05			2013	05			Des_travaux_d__excavation	Des travaux d'excavation des sols impactés ont été réalisés en mai 2013.		
+1988	08	17		1988	08	17		étaient_réglementées	Les activités étaient réglementées par les récépissés de déclaration des 19 juin 1976 et 17 août 1988.		
+2013	03			2013	03			un_diagnostic	- un diagnostic des sols et des eaux souterraines (mars 2013)		
+1976	06	19		1976	06	19		étaient_réglementées	Les activités étaient réglementées par les récépissés de déclaration des 19 juin 1976 et 17 août 1988.		
+2012	11	30		2012	11	30		a_cessé_ses_activités	Le site a cessé ses activités le 30 novembre 2012.		

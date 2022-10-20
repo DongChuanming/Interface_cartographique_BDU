@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1993				1993				détectée	Depuis 1993 aucune pollution n'a été détectée, la teneur en PCB des eaux souterraines était inférieure à 0,5 µg/litre.	'PCB'	
+2004	06	22		2004	06	22		des_travaux_de_dépollution	Suites aux différentes études menées sur le site, des travaux de dépollution ont été prescrits par arrêté préfectoral du 22 juin 2004, imposant l'excavation des remblais souillés par les PCB et la dépollution de la nappe (phase flottante polluée) par pompage :	'PCB'	
+2013				2013				a_été_mis_en	Lors d'un nouveau diagnostic approfondi en 2013, la présence de PCB dans les sédiments de la gravière a été mis en évidence.	'PCB'	
+2017				2017				est_en_attente_d_	En 2017, l'Inspection des Installations Classées est en attente d'un plan de gestion global contenant :		
+								ont_été_excavées	- En janvier et février 2005, 1052 tonnes de terres contaminées par des PCB ont été excavées sur un secteur délimité au nord du site, la quantité de PCB extrait est estimée à 1400 kg.	'PCB', 'PCB'	
+1986				1986				a_été_détectée	En 1986 une contamination des eaux superficielles a été détectée dans le ruisseau le Pinsonrue et dans une gravière voisine.		
+				1986				a_été_employé	Cette usine fabriquait des transformateurs électriques depuis 1971, le pyralène y a été employé jusqu'en 1986.	'pyralène'	
+2005	02			2005	02			ont_été_excavées	- En janvier et février 2005, 1052 tonnes de terres contaminées par des PCB ont été excavées sur un secteur délimité au nord du site, la quantité de PCB extrait est estimée à 1400 kg.	'PCB', 'PCB'	
+1986	12	22		1986	12	22		était_soumis_à_autorisation	Le site était soumis à autorisation au titre de la législation des installations classées pour la protection de l'environnement par l'arrêté préfectoral du 22 décembre 1986.		
+2003	09	24		2003	09	24		ont_été_prescrites	Des mesures de surveillance des eaux de la nappe et des gravières située à proximité du site ont été prescrites par arrêté préfectoral d'urgence du 24 septembre 2003.		
+2013				2013				un_nouveau_diagnostic_approfondi	Lors d'un nouveau diagnostic approfondi en 2013, la présence de PCB dans les sédiments de la gravière a été mis en évidence.	'PCB'	

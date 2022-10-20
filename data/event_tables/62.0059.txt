@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	02			2011	02			Travaux	- Travaux sur la lagune en deux phases: février 2011 et février 2012: curage et suppression du rejet d'eau de process.		
+1988	11	20		1988	11	20		__Pollution_accidentelle_de	- le 20/11/1988 :Pollution accidentelle de faible importance due à une cuve de stockage enfouie datant de 1957 contenant du fuel.	'fuel'	
+1999	12			1999	12			Réalisation_d__une_étude_des_sols	- Réalisation d'une étude des sols étape A en décembre 1999.		
+2012	02			2012	02			Travaux	- Travaux sur la lagune en deux phases: février 2011 et février 2012: curage et suppression du rejet d'eau de process.		
+2003	08	12		2003	08	12		délivré	- Récépissé de déclaration de changement d'exploitant délivré le 12/08/2003 au bénéfice de la société THYSSENKRUPP SOFEDIT.		'la société THYSSENKRUPP SOFEDIT'
+2001	07			2001	07			diagnostic_des_sols_phase_B_effectuées	- Etude Simplifiée des Risques et diagnostic des sols phase B effectuées en juillet 2001 : site à surveiller.		

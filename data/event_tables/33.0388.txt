@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001				2001				une_étude	En 2001, l'agence SUD-OUEST D'HORIZON-SAUNER TECHNA, a menée, pour le compte du Conseil Général de la Gironde et de l'ADEME, une étude pour le résorption et la réhabilitation des décharges brutes.		"l' agence SUD-OUEST D' HORIZON - SAUNER TECHNA", 'Conseil Général', 'de la Gironde'
+1985				1995				aurait_été_arrêté	Le dépôt de déchets s’est fait à même le sol, sans excavation et aurait été arrêté entre 1985 et 1995.		

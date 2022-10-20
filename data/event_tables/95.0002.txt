@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1994	10	06		1994	10	06		a_ainsi_été_transformé	Le site a ainsi été transformé en centre d'enfouissement technique de classe 2 et autorisé au titre de la législation sur les installations classées pour la protection de l'environnement par arrêté préfectoral du 6 octobre 1994.		
+1991	10			1991	10			l__excavation	En octobre 1991, l’excavation des terres au cours des chantiers du BIP a mis à jour les déchets et révélé une pollution des sol.		
+1994				1994				à_fait_l__objet	Le site à fait l'objet , en 1994, de travaux de réhabilitation visant d'une part à éliminer en décharges autorisées hors site les déchets toxiques et d'autre part à confiner sur site les déchets non-toxiques, et ceci après traitement (extraction sous vide, biologique).	'déchets toxiques', 'déchets non-toxiques'	
+1984				1984				ont_été_acquis	Ils ont été acquis par le Conseil Général du Val d’Oise en 1984 en vue de la construction du Boulevard Intercommunal du Parisis (BIP).		'le Conseil Général'

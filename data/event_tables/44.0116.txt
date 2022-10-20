@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1968				1968				est_autorisée_à_implanter	En 1968 la société Ateliers Leroux et Lotz est autorisée à implanter ses ateliers de chaudronnerie, de peinture par pulvérisation et un stockage souterrain de fioul domestique.	'fioul domestique'	'la société Ateliers Leroux'
+2000	10	19		2000	10	19		est_cédée	- Arrêt de l'activité de peinture ; la parcelle 29 du cadastre est cédée le 19/10/2000 à Atlantic Industrie.		'Atlantic Industrie'
+2014	04	17		2014	04	17		des_travaux_de_reconnaissance	Dans le cadre du dossier de cessation d'activité partielle (traitement de surface, peinture et stockage souterrain de gazole et essence), des travaux de reconnaissance des sous-sols et une étude des eaux souterraines ont été réalisé le 17/04/2014.	'gazole', 'essence'	
+2015	04	09		2015	04	09		un_diagnostic_approfondi	Compte-tenu de la découverte de la présence de Tétrachloroéthylène (PCE) au pied de l'ancien atelier de traitement de surface, un diagnostic approfondi sur les eaux souterraines a été réalisé le 09/04/2015 :	'Tétrachloroéthylène', 'PCE'	
+2012	09	28		2012	09	28		ont_été_dégazées	- Arrêt du stockage souterrain de gazole et essence, les 2 cuves souterraines de 5m³ chacune ont été dégazées et nettoyées le 28/09/2012.	'gazole', 'essence'	
+2014	06	10		2014	06	10		Une_étude	Une étude des eaux souterraines a été effectuée le 10/06/2014.		
+1993				1993				Arrêt	- Arrêt du traitement de surfaces en 1993 (5 cuves de 2m³ chacune : 1 cuve d'eau déminéralisée, 2 cuves d'acide fluonitrique, 1 cuve de rinçage, 1 cuve de dégraissage).	'acide fluonitrique'	

@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				est_implanté	Le site, d'une superficie totale d'environ 27 ha en 2015, est implanté sur la commune de Ruelle sur Touvre, à environ 6 km du centre ville d'Angoulême.		'Touvre'
+2003				2003				change_de_statut	L'établissement change de statut en 2003, devient une société privée et prend le nom de DCNS.		'DCNS'
+1751				1751				a_débuté	L'exploitation a débuté en 1751 par la création de "La Forge de Ruelle" par le marquis de Montalembert, pour y fabriquer des canons de marine.		
+1776				1776				devient	En 1776, la Fonderie devient un établissement d'Etat.		

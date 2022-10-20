@@ -1,0 +1,13 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1995	04	05		ont_été_dressés	Faute d'obtempérer, 2 procès-verbaux ont été dressés (31/05/1994, 05/04/1995) à son encontre, un arrêté préfectoral de consignation a également été pris le 24/04/1995.		
+1994	05	31		1994	05	31		ont_été_dressés	Faute d'obtempérer, 2 procès-verbaux ont été dressés (31/05/1994, 05/04/1995) à son encontre, un arrêté préfectoral de consignation a également été pris le 24/04/1995.		
+2006	12	1		2006	12	1		d__archiver	Le STIIIC a proposé d'archiver le dossier le 1er décembre 2006.		'Le STIIIC'
+1997				1997				L__enlèvement	L'enlèvement des bains et déchets présents sur site a été effectuée en 1997.		
+1999				1999				a_été_informé_par_courrier	BRIGNIER administrateur liquidateur, toujours en charge de ce dossier en 1999, a été informé par courrier qu'il lui incombait d'informer un futur acheteur des activités exercées anciennement sur le site.		'BRIGNIER'
+2006	05			2006	05			réalisée	La mairie a transmis une EDR réalisée par TAUW ENVIRONNEMENT en mai 2006.		'TAUW ENVIRONNEMENT'
+2006	11	10		2006	11	10		Le_diagnostic_approfondi	Le diagnostic approfondi, réalisé par TAUW ENVIRONNEMENT en août 2005, a été transmis à la Préfecture de Police le 10 novembre 2006.		'TAUW ENVIRONNEMENT'
+1992				1992				la_cessation_d__activités	Suite à la cessation d'activités en 1992, un arrêté préfectoral du 15/09/1993 a mis en demeure l'ancien exploitant et propriétaire, M.		
+2006	10	12		2006	10	12		a_émis	Après analyse de l'étude, la DASS 75 a émis, le 12 octobre 2006, un avis favorable à la réalisation de la transformation de l'atelier de traitement de surface en locaux à usage d'habitation.		'la DASS 75'
+2005	08			2005	08			Le_diagnostic_approfondi	Le diagnostic approfondi, réalisé par TAUW ENVIRONNEMENT en août 2005, a été transmis à la Préfecture de Police le 10 novembre 2006.		'TAUW ENVIRONNEMENT'
+1992				1992				ayant_cessé_ses_activités	Petit atelier de traitement de surfaces, en rez-de-chaussée d'une copropriété, ayant cessé ses activités en 1992.		
+1995	04	24		1995	04	24		ont_été_dressés	Faute d'obtempérer, 2 procès-verbaux ont été dressés (31/05/1994, 05/04/1995) à son encontre, un arrêté préfectoral de consignation a également été pris le 24/04/1995.		

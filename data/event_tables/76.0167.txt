@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	10	09		2000	10	09		a_justifié_d_	Le traitement et l'élimination des derniers déchets a justifié d'un arrêté préfectoral de mise en demeure pris le 9 octobre 2000.		
+2001	07	17		2001	07	17		des_opérations	Aprés un arrêté préfectoral d'exécution de travaux d'office en date du 17 juillet 2001, l'ADEME a réalisé des opérations de vidange de la lagune et de la fosse à huile, d'évacuation et d'élimination des batteries de condensateur, des fûts de DIS, des palettes et autres déchets de bois présentant un fort pouvoir calorifique.	'DIS', 'calorifique'	
+2000	10	09		2000	10	09		mise_en_demeure_pris	Le traitement et l'élimination des derniers déchets a justifié d'un arrêté préfectoral de mise en demeure pris le 9 octobre 2000.		

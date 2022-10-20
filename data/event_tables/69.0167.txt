@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	12			2000	12			Une_première_étude	Une première étude sur les sols a été réalisée en décembre 2000.		
+2001	03			2001	03			a_été_réalisée	Une deuxième étude (évaluation simplifiée des risques) a été réalisée en mars 2001.		
+2002	10	04		2002	10	04		Une_visite	Une visite de l'inspection des installations classées a eu lieu le 4 octobre 2002 afin de constater que les dispositions de l'arrêté étaient respectées.		
+2001	05	28		2001	05	28		La_cessation_d__activité_partielle	La cessation d'activité partielle du site a été prononcée le 28 mai 2001.		
+2015	08	31		2015	08	31		datant_du	Le dossier de synthèse environnementale datant du 31 août 2015 présente les derniers résultats d’analyses des eaux souterraines de décembre 2014 ainsi qu’un tableau des résultats des 4 dernières années, 2011, 2012, 2013 et 2014.		
+1980				1980				a_cessé	Précédemment, ce site était exploité par la société FIbre et Mica qui a cessé toute activité depuis fin 1980.		'la société FIbre', 'et Mica'
+2014	12			2014	12			les_derniers_résultats_d__analyses	Le dossier de synthèse environnementale datant du 31 août 2015 présente les derniers résultats d’analyses des eaux souterraines de décembre 2014 ainsi qu’un tableau des résultats des 4 dernières années, 2011, 2012, 2013 et 2014.		
+2001	05	28		2001	05	28		____déclaration	Suite à ces études et dans le cadre de la cessation d'activité du site de « Bel air 2 » (déclaration à la préfecture du 28 mai 2001), un arrêté préfectoral du 21 février 2002 a prescrit la remise en état du site ainsi qu'un suivi de la nappe phréatique.		

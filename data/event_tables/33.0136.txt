@@ -1,0 +1,15 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2006	06			Les_nouvelles_analyses_de_sols	Les nouvelles analyses de sols ont été réalisées entre mai et juin 2006 et le rapport a été remis en août 2006.		
+2006	08			2006	08			Les_nouvelles_analyses_de_sols	Les nouvelles analyses de sols ont été réalisées entre mai et juin 2006 et le rapport a été remis en août 2006.		
+2008	01			2008	01			des_travaux	Au vu des résultats des analyses, des travaux complémentaires ont alors été engagés en janvier 2008 pour poursuivre l’excavation de 50 cm de profondeur (jusqu’à 1,8 m) sur environ 6 m².		
+2006	08			2006	08			a_été_remis	Les nouvelles analyses de sols ont été réalisées entre mai et juin 2006 et le rapport a été remis en août 2006.		
+2015	10	27		2015	10	27		Les_travaux_de_démantèlement	Les travaux de démantèlement des bacs de trempage encore présents ont été réalisés en date du 27 octobre 2015, entre autres missions d’évacuation des déchets encore présents.		
+2013				2013				a_cessé	L'activité sur le site a cessé en 2013.		
+2012	05			2012	05			dernière_campagne	On constate depuis la première campagne en 2004 une augmentation de la teneur en PCP sur le piézomètre PZ3 jusqu’à la fin de la surveillance menée du temps de l’activité (dernière campagne : mai 2012).	'PCP'	
+2007	09			2007	09			ont_été_excavés	En septembre 2007, les terrains au droit de la zone polluée sur une surface de 6 x 15 m entre 1,0 et 1,3 m de profondeur ont été excavés, et des prélèvements en fond et bord de fouilles ont été réalisées.		
+2004	11	18		2004	11	18		prend_l__initiative_de_mettre_en_place	Le 18 novembre 2004, à réception de l'ESR, l'exploitant prend l'initiative de mettre en place la surveillance des eaux souterraines qui est ensuite prescrite par l'arrêté préfectoral du 8 mars 2007 selon les modalités suivantes :		
+2004				2004				sont_réalisées	Sur initiative de l'exploitant et dans le cadre de l'action collective menée par la Fédération de l'Industrie du Bois et de l'Ameublement (FIBA), le diagnostic initial et l’Évaluation Simplifiée des Risques (ESR) sont réalisées en 2004.		
+2008	2007			2008	2007			de_travaux_de_dépollution	Les contrôles effectués en fond de fouille ont montré des concentrations relativement faibles en PCP, carbendazime et propiconazole (plus de 100 fois inférieures à celles mesurées pour le PCP avant excavation sous le premier bac de trempage ayant fait l’objet de travaux de dépollution en 2007/2008).	'PCP', 'carbendazime', 'propiconazole', 'le PCP'	
+1956				1956				exerçaient	Les établissements RULLEAU exerçaient depuis 1956 sur le site de Lansac des activités d’exploitation forestière, de sciage et de préservation des bois par trempage.		'Les établissements RULLEAU'
+2015	10			2015	10			des_prélèvements_et_analyses	Après le démantèlement de l'autre bac de trempage encore présent sur site, des prélèvements et analyses sur les sols sous-jacents ont été effectués en octobre 2015.		
+2005	06			2005	06			marginalisée_pour_définitivement_s__arrêter	L’activité de sciage s’est progressivement marginalisée pour définitivement s’arrêter en juin 2005.		

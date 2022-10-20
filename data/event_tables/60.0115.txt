@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1958				1958				exploitait	La société Gantois exploitait des installations de travail des métaux, depuis 1958.		'La société Gantois'
+2011				2011				une_étude_environnementale	Le liquidateur judiciaire a fait réaliser en 2011 une étude environnementale.		
+2012				2012				des_compléments_de_diagnostic	En 2012, des compléments de diagnostic et un plan de gestion ont été réalisés.		
+2011	05	31		2011	05	31		a_été_mise_en_liquidation_judiciaire	Elle a été mise en liquidation judiciaire le 31 mai 2011.		

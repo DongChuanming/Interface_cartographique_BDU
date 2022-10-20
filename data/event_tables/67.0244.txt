@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017				2017				n__est_plus_d__actualité	Ce projet n'est plus d'actualité en 2017 d'après la commune.		
+2010				2012				a_été_réalisé	Un suivi des eaux souterraines a été réalisé par l'ADEME entre 2010 et 2012 dans le cadre des travaux d'office de mise en sécurité.		
+2015	09			2015	09			a_été_réalisé	Un plan de gestion a été réalisé en septembre 2015 par la communauté de communes des coteaux du Mossig pour un projet de réhabilitation de la friche en parking.		
+2017	03	1		2017	03	1		La_visite_d__inspection	La visite d'inspection du 1er mars 2017 a permis de constater que les toitures de la salle des machines et de l'atelier d'usinage sont délabrées et présentent des voies d'eau, que les déchets principaux ont été enlevés.	'les déchets principaux'	
+2008				2008				un_diagnostic_de_sol	Le site a fait l'objet de plusieurs études, notamment un diagnostic de sol réalisé en 2008 qui met en évidence une contamination du site par les hydrocarbures et certains métaux jusqu'à 7 m de profondeur.	'hydrocarbures', 'métaux'	

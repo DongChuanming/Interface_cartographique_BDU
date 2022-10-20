@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	09	16		1999	09	16		a_été_imposée	Pour maintenir la pollution au niveau de la décharge, une paroi étanche d'isolation a été imposée par arrêté préfectoral du 16 septembre 1999.		
+2001				2001				se_sont_achevés	Les travaux ont débuté en novembre 2000 et se sont achevés fin 2001.		
+2000	11			2000	11			Les_travaux_ont_débuté	Les travaux ont débuté en novembre 2000 et se sont achevés fin 2001.		

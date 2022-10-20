@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	09			2011	09			Réalisation_d__un_diagnostic_de_sol	- Réalisation d'un diagnostic de sol et d'un plan de gestion en septembre 2011.		
+2009	03	15		2009	03	15		Cessation_d__activité_notifiée	- Cessation d'activité notifiée le 15/03/2009 pour une cessation définitive le 30/04/2009.		
+2009	04	30		2009	04	30		une_cessation_définitive	- Cessation d'activité notifiée le 15/03/2009 pour une cessation définitive le 30/04/2009.		
+2009	04	30		2009	04	30		Cessation_d__activité_notifiée	- Cessation d'activité notifiée le 15/03/2009 pour une cessation définitive le 30/04/2009.		
+2009	03			2009	03			ont_été_évacués	- L'ensemble des équipements et matériels ont été évacués en mars 2009.		
+2009	03	31		2009	03	31		Réalisation_d__un_diagnostic_de_pollution	- Réalisation d'un diagnostic de pollution des sols le 31/03/2009, révélant une pollution des sols.		

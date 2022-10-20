@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	06	13		2005	06	17		des_terres_polluées	- la zone 1 a fait l'objet d'une excavation des terres polluées du 13/06/2005 au 17/06/2005.		
+2005	06			2005	06			Avant_travaux	Avant travaux (juin 2005) :		
+2006	04			2006	04			Après_travaux__	Après travaux (avril 2006) :		
+2006	08	23		2006	09	12		La_zone_d__excavation	La zone d'excavation a donc été étendue du 23/08/2006 au 12/09/2006.		
+2006	06	14		2006	06	14		a_été_transmis	Le rapport "Compléments au diagnostic initial de pollution des sols" a été transmis à l'inspection des installations classées, par courrier du 14/06/2006.		
+2005	06	13		2005	06	17		une_excavation	- la zone 1 a fait l'objet d'une excavation des terres polluées du 13/06/2005 au 17/06/2005.		
+2006	11	27		2006	11	27		a_adressé	Par transmission du 27/11/2006, le Préfet a adressé le dossier de récolement concernant la réhabilitation du site à l'inspection des installations classées, qui lui a été transmis par la SEM.		'le Préfet', 'la SEM'
+2005	06	27		2005	06	28		Le_pompage	Le pompage de la phase surnageante a été réalisé du 27/06/2005 au 28/06/2005.	'surnageante'	
+2006	05	29		2006	05	29		s__est_engagée_par_courrier	L'inspection mentionne également que l'actuel propriétaire du site, la société RFF, s'est engagée par courrier du 29/05/2006, à compléter le diagnostic initial.		'la société RFF'

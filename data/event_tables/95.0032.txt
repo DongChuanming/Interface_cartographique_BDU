@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	02	02		1999	02	02		est_soumis_à_autorisation	Le site est soumis à autorisation par un arrêté préfectoral du 02 février 1999.		
+2005	01	19		2005	01	19		étude_détaillée_des_risques	Cette étude détaillée des risques a été transmise le 19 janvier 2005.		
+2012				2015				effectuée	A nouveau, un bilan de la surveillance effectuée de 2012 à 2015 a été transmis par l'exploitant en octobre 2016.		
+2012	03			2012	03			Un_bilan_de_la_surveillance	Un bilan de la surveillance effectuée depuis 2008 a été transmis par l'exploitant en mars 2012.		
+2016	10			2016	10			a_été_transmis	A nouveau, un bilan de la surveillance effectuée de 2012 à 2015 a été transmis par l'exploitant en octobre 2016.		
+2015	11			2015	11			la_campagne	Lors de la campagne de novembre 2015, des dépassements aux seuils de référence pour des eaux potables en cuivre ( 3 µg/l pour un seuil à 2µg/l) et en nickel (47.2 µg/l pour un seuil à 20 µg/l) sont constatés sur Pz2, mais non confirmés lors de la campagne de juin 2016, les teneurs en cuivre et nickel étant inférieures aux seuils précités.	'cuivre', 'nickel', 'cuivre', 'nickel'	
+2016	06			2016	06			de_la_campagne	Lors de la campagne de novembre 2015, des dépassements aux seuils de référence pour des eaux potables en cuivre ( 3 µg/l pour un seuil à 2µg/l) et en nickel (47.2 µg/l pour un seuil à 20 µg/l) sont constatés sur Pz2, mais non confirmés lors de la campagne de juin 2016, les teneurs en cuivre et nickel étant inférieures aux seuils précités.	'cuivre', 'nickel', 'cuivre', 'nickel'	
+1998	12			1998	12			a_repris	La société THRIGE ELECTRIC a repris en décembre 1998 les activités de la société ABB qui exerçait à Persan une activité de fabrication de moteurs électriques.		'La société THRIGE ELECTRIC', 'la société ABB'
+2012	11			2012	11			La_campagne_réalisée	La campagne réalisée en novembre 2012 a montré que les teneurs mesurées sont sensiblement identiques à celles des dernières campagnes et que les teneurs sont globalement en diminution par rapport à mars 2002.		
+1892				1892				Le_début_de	Le début de l'activité industrielle du site remonte à 1892.		

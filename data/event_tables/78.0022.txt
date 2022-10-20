@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	02	27		1998	02	27		Le_diagnostic_initial	Le diagnostic initial et l'ESR prescrits par arrêté préfectoral du 27 février 1998, ont conduit à localiser deux zones de pollution superficielle par des hydrocarbures et à classer le site en classe 2.	'hydrocarbures'	
+1971				1971				est_implantée	L'usine de FAPROGI, filiale de la société L'OREAL est implantée sur son site de Rambouillet depuis 1971.		'FAPROGI', "la société L' OREAL"
+2007				2007				a_produit	Elle a produit 73 tonnes de « jus » en 2007.		

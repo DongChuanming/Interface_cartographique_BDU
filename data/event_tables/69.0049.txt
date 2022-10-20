@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	08			1997	08			a_eu_à_ce_jour_une_caractérisation	Il y a eu à ce jour une caractérisation de l'état environnemental du site en août 1997.		
+2008	07			2008	07			un_diagnostic_complémentaire	En Juillet 2008, un diagnostic complémentaire ainsi qu'une proposition de mesures de gestion ont été adressées à l'administration.		
+2000	12	31		2000	12	31		être_effectuée	La réalisation du diagnostic initial et de l'évaluation simplifiée des risques doit être effectuée avant le 31 décembre 2000 selon l'arrêté préfectoral du 12/08/1998.		
+1998	08	12		1998	08	12		doit	La réalisation du diagnostic initial et de l'évaluation simplifiée des risques doit être effectuée avant le 31 décembre 2000 selon l'arrêté préfectoral du 12/08/1998.		
+2011	05	12		2011	05	12		la_cessation_définitive_des_activités	Univar a déclaré par courrier en date du 12 mai 2011 la cessation définitive des activités du site alors que ses activités ont cessé bien avant.		'Univar'
+2010	03			2010	03			a_transmis	Suite à l'arrêt des activités, l'exploitant a transmis un plan de gestion en mars 2010 suivi d'une étude sur un système d'écrémage passif du PZ32 (phase flottante de white-spirit) en janvier 2011.	'PZ32', 'white - spirit'	
+2011	01			2011	01			a_transmis	Suite à l'arrêt des activités, l'exploitant a transmis un plan de gestion en mars 2010 suivi d'une étude sur un système d'écrémage passif du PZ32 (phase flottante de white-spirit) en janvier 2011.	'PZ32', 'white - spirit'	
+2005	02			2005	02			une_étude_hydrogéologique	En mars 2004, une étude hydrogéologique a été réalisée et complétée en février 2005.		
+2004	02	23		2004	02	23		a_été_imposé	Le suivi de la qualité des eaux souterraines du site a été imposé par l'arrêté préféctoral du 23/02/2004.		
+2012	12			2012	12			de_la_dernière_campagne	- Des HCT (maximum atteint à 67 400 µg/l le 27/01/2009, 1 900 µg/l lors de la dernière campagne de décembre 2012) ;	'Des HCT'	
+2001	12	02		2001	12	02		L__étude_de_sols	L'étude de sols (ESR) a été transmise le 02/12/2001 et  a été instruite.		
+1921				1921				est_installée	La société Lambert Rivière est installée depuis 1921 sur le site d'une ancienne verrerie.		'La société Lambert Rivière'
+2004	03			2004	03			une_étude_hydrogéologique	En mars 2004, une étude hydrogéologique a été réalisée et complétée en février 2005.		
+2009	12			2009	12			a_été_adressé	En décembre 2009, un diagnostic complémentaire a été adressé suite aux remarques de la DREAL.		
+2011	05	31		2011	05	31		cessation	Un récépissé de déclaration de cessation en date du 31 mai 2011 des activités a été adressé à l'exploitant.		

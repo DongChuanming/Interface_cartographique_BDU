@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	08	17		2011	08	17		Un_contrôle	Un contrôle de l'impact environnemental de l'incendie à été rédigé le 17/08/2011: Les sols sont impactés au niveau du séparateur à hydrocarbures.	'hydrocarbures'	
+2002	08	05		2002	08	05		ESR_prescrite	* L'ESR prescrite par l'AP du 16/06/1999 a été remise le 5 Août 2002 : site en classe 2 « à surveiller ».		
+2004	03			2004	03			_hc_a_été_enlevé	* Les canalisations ont été revérifiées à l'été 2003 .  Le séparateur - hors service- eau /hc a été enlevé (fin mars 2004) et les terres avoisinantes excavées pour un traitement par biorémédiation.		
+2006	11	23		2006	11	23		succède_à	* Le 23 Novembre 2006, la société ESLC PROVENCE succède à SUD COMBUSTIBLE.		'la société ESLC PROVENCE', 'SUD COMBUSTIBLE'
+2000	05	28		2000	05	28		a_été_précédée	Elle a été précédée d'un diagnostic initial comprenant notamment une étude historique, le 28/05/2000.		
+2010				2010				n__est_pas_complètement_traitée	Au dernier trimestre 2010, la nappe n'est pas complètement traitée.		
+2004	10			2004	10			Un_diagnostic_complémentaire_a_été_réalisé	Un diagnostic complémentaire a été réalisé en Octobre 2004.		
+2011	03	31		2011	03	31		un_incendie_criminel	* Dans la nuit du 31 Mars 2011, un incendie criminel sur le site provoque l'embrassement de 180 tonnes d'hydrocarbures et la perte de 14 camion de livraisons qui contenait du fioul.	'hydrocarbures', 'fioul'	
+1989				1989				a_été_crée	* Le dépôt a été crée en 1989 et comprenait à l'origine 2 cuves de 100 m3 double enveloppe, une installation de distribution (178 m3/h) et des bâtiments.		
+2003				2003				ont_été_revérifiées	* Les canalisations ont été revérifiées à l'été 2003 .  Le séparateur - hors service- eau /hc a été enlevé (fin mars 2004) et les terres avoisinantes excavées pour un traitement par biorémédiation.		
+2004	07	22		2004	07	22		Les_travaux	Les travaux se sont achevés le 22/07/2004.		

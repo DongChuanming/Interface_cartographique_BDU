@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	08	27		2015	08	27		a_prononcé_la_liquidation_judiciaire	Le 27 août 2015, le Tribunal de Commerce de Chartres a prononcé la liquidation judiciaire de la société FONDIEL et a nommé la SELARL JPA, mandataire judiciaire, en qualité de liquidateur judiciaire.		'le Tribunal de Commerce de Chartres', 'judiciaire de la société FONDIEL', 'nommé la SELARL JPA , mandataire'
+								prélèvements	• pour le sol : la réalisation de 11 sondages et 22 prélèvements d’échantillons de sol ;		
+2013	12	05		2013	12	05		a_été_placée	En redressement judiciaire depuis le 5 décembre 2013, la société Loiselet a été placée en liquidation judiciaire le 26 février 2014.		'la société Loiselet'
+2017	07	17		2017	07	17		Selon_le_diagnostic	Selon le diagnostic de pollution des sols et des eaux souterraines réalisé par DEKRA le 17 juillet 2017, les investigations ont consisté en :		

@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012				2012				6_analyses_ont_eues_lieux	-Suite à cela 6 analyses ont eues lieux et le rapport devrait etre transmis courant 2012.		
+2004				2004				ayant_fourni_un_bilan_de_fonctionnement	-Établissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2004		'IPPC'
+1985				1985				est_implantée	- Suite à l’arrêt progressif de ces activités, l’aciérie électrique LME s'est implantée à partir de 1985 sur le crassier principal d'USINOR.		'électrique LME', 'USINOR'
+1870				1870				reçoit	- Dès 1870, le site reçoit les laitiers issus de l'activité de fours Martin, formant un crassier sidérurgique.		
+2012				2012				devrait_etre_transmis	-Suite à cela 6 analyses ont eues lieux et le rapport devrait etre transmis courant 2012.		
+2009	12	17		2009	12	17		a_été_publié	-Le 17/12/2009, un arrêté imposant des mesures de substances dangereuses dans les eaux de rejets (vers l'Escaut) a été publié.	'substances dangereuses', 'Escaut'	

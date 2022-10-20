@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2007				2007				ayant_fourni_un_bilan_de_fonctionnement	- Etablissement IPPC (Prévention et Réduction Intégrée de la Pollution) ayant fourni un bilan de fonctionnement en 2007.		'IPPC'
+2009	04			2009	04			ont_été_prélevés	- Lors de l’arrêt d'activité du secteur P1, en avril 2009, plusieurs échantillons de sols ont été prélevés et analysés.		

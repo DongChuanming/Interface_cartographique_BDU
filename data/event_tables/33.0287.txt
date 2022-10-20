@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	10	17		2011	10	17		a_été_mise_en_œuvre	Cette solution a été mise en œuvre à partir du lundi 17 octobre 2011.		
+2011	10	17		2011	10	17		à	Cette solution a été mise en œuvre à partir du lundi 17 octobre 2011.		
+2007	07	19		2007	07	19		L__étude_réalisée	L'étude réalisée par la société TEREO est remise le 19 juillet 2007.		'la société TEREO'
+2011	09	21		2011	09	21		prescrit_les_travaux_de_réhabilitation	L'arrêté préfectoral du 5 avril 2011 prescrit les travaux de réhabilitation et de surveillance de l’ancienne décharge à la Commune de Hourtin à l’échéance du 21 septembre 2011 :		
+2011				2011				les_prélèvements	Pour les prélèvements des eaux souterraines effectués en 2011, en basses eaux (BE) et avant la réalisation des travaux de réhabilitation de la décharge d’ordure ménagères, il a été constaté des concentrations supérieurs aux valeurs seuil, mentionnées dans l’arrêté ministériel du 11 janvier 2007, pour les paramètres arsenic et Demande Chimique en Oxygène (DCO).	'arsenic', 'Oxygène', 'DCO'	
+2013	01	18		2013	01	18		Le_Procès_verbal_de_récolement	Le Procès-verbal de récolement est dressé le 18 janvier 2013.		
+2012	10	30		2012	10	30		est_transmis	Le dossier de réalisation des travaux est transmis le 30 octobre 2012.		
+1960				1996				exploitée_sans_autorisation	Ancienne décharge de résidus urbains exploitée sans autorisation de 1960 à 1996 par la Mairie de Hourtin (33) sur sa commune.	'résidus urbains'	
+2010	02	05		2010	02	05		est_remis	Le dossier de réhabilitation du site est remis le 5 février 2010.		
+2012				2012				les_prélèvements	Pour les prélèvements des eaux souterraines effectués en 2012, en hautes eaux et en basses eaux, après la réalisation des travaux de réhabilitation de la décharge d’ordure ménagères, il a été constaté des concentrations faiblement supérieurs aux valeurs seuil, mentionnées dans l’arrêté ministériel du 11 janvier 2007, pour les paramètres DCO, Carbone Organique Total (COT) et ammonium.	'DCO', 'Carbone Organique Total', 'COT', 'ammonium'	
+2011	09	21		2011	09	21		à_l_	L'arrêté préfectoral du 5 avril 2011 prescrit les travaux de réhabilitation et de surveillance de l’ancienne décharge à la Commune de Hourtin à l’échéance du 21 septembre 2011 :		
+2012				2012				a_fait_procéder	L’exploitant a fait procéder en 2011 et 2012 aux campagnes semestrielles de prélèvement et d’analyse pour les eaux souterraines.		
+2011				2011				a_fait_procéder	L’exploitant a fait procéder en 2011 et 2012 aux campagnes semestrielles de prélèvement et d’analyse pour les eaux souterraines.		

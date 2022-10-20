@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	10	18		2010	10	18		est_déposé	Dans ce cadre, un arrêté préfectoral est pris le 6 août 2010 afin notamment d'encadrer la surveillance des eaux souterraines et un dossier de demande servitudes d'utilité publique est déposé par l'exploitant le 18 octobre 2010.		
+2008	05	18		2008	05	18		a_cessé	L'activité du site a cessé le 18 mai 2008.		
+2007				2008				un_diagnostic	L'exploitant a fait réaliser entre 2007 et 2008 un diagnostic de l'état des milieux au droit du site.		
+2010	08	06		2010	08	06		est_pris	Dans ce cadre, un arrêté préfectoral est pris le 6 août 2010 afin notamment d'encadrer la surveillance des eaux souterraines et un dossier de demande servitudes d'utilité publique est déposé par l'exploitant le 18 octobre 2010.		
+2011				2011				est_actuellement_en_cours_d__instruction	Ce dossier est actuellement en cours d'instruction (passage en CODERST prévu courant 2011).		
+2008	05	18		2008	05	18		La_date_d__arrêt_effectif	La date d'arrêt effectif des installations est le 18 mai 2008.		
+2006	05			2006	05			notifie_l__arrêt_définitif_de_ses_activités	L'exploitant notifie l'arrêt définitif de ses activités en mai 2006 (récépissé délivré le 19 juillet 2006).		
+2006	07	19		2006	07	19		notifie_l__arrêt_définitif_de_ses_activités	L'exploitant notifie l'arrêt définitif de ses activités en mai 2006 (récépissé délivré le 19 juillet 2006).		

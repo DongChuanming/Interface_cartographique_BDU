@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015				2015				Les_campagnes_de_mesures_réalisées	Les campagnes de mesures réalisées en 2014 et 2015 n'ont pas montré la présence de composés phénoliques.	'composés phénoliques'	
+1999	01	18		1999	01	18		La_réalisation_des_études_a_été_prescrite	La réalisation des études a été prescrite par arrêté préfectoral du 18 janvier 1999.		
+1951				1951				Implantée	Implantée depuis 1951, sur une superficie de 48 ha, la société 3M France exploite 2 unités de fabrication (POST-IT ; ABRASIFS) et un laboratoire d'essais.		'la société 3 M France', 'POST-IT ; ABRASIFS'
+2000	07	31		2000	07	31		ont_été_déposées_en_totalité	Elles ont été déposées en totalité le 31 juillet 2000.		
+2014				2014				Les_campagnes_de_mesures_réalisées	Les campagnes de mesures réalisées en 2014 et 2015 n'ont pas montré la présence de composés phénoliques.	'composés phénoliques'	
+2014				2014				sont_donc_réalisées	Des mesures sont donc réalisées sur ce piézomètre depuis 2014.		

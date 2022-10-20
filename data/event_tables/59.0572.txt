@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04	27		2009	04	27		Réalisation_d__un_diagnostic	- Réalisation d'un diagnostic du site en date du 27/04/2009 qui révèle une pollution des sols en hydrocarbures et métaux lourds ainsi que dans l'eau du fossé sur le site.	'hydrocarbures', 'métaux lourds'	
+2009	06	1		2009	06	1		__Reprise	- Reprise le 1er juin 2009 des installations de dépollution et de démontage de véhicules hors d'usage à Aniche de la société MACADAM par la SAS Soluval.		'la société MACADAM', 'la SAS Soluval'
+2010	08	06		2010	08	06		de_la_visite_d__inspection	- Pollution des sols visuelle constatée lors de la visite d'inspection du 06/08/2010.		
+2011	12	07		2011	12	07		Réalisation_d__une_étude	- Réalisation d'une étude de l'état de contamination des milieux en date du 07/12/2011.		

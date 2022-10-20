@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				1997				transvasement_des_gaz_liquéfiés	Le site a été exploité par la société GAZECHIM, spécialisée dans le négoce des produits chimiques organiques et minéraux ainsi que dans le stockage et le transvasement des gaz liquéfiés de 1937 jusqu’en 1997 (sous le nom de St d’Anhydride Sulfureux Français jusqu’en 1965 puis de Gazechim).	'produits chimiques organiques'	'la société GAZECHIM', 'Sulfureux Français', 'Gazechim'
+				2011	09	02		des_terres_traitées	L'exploitant a alors procédé au remblaiement des terres traitées entre le 31 août et le 2 septembre 2011.		
+				2011	09	02		a_alors_procédé_au_remblaiement	L'exploitant a alors procédé au remblaiement des terres traitées entre le 31 août et le 2 septembre 2011.		
+1999				1999				forment	En 1999, GAZECHIM , GAZECHIM PSC ainsi que Marcel QUARRE et Compagnie forment la société QUARRECHIM; ils  décident, à la date du 01/10/2002 :		'GAZECHIM', 'GAZECHIM PSC', 'Marcel QUARRE', 'la société QUARRECHIM'
+1997	02			1997	02			sont_arrêtées	En février 1997,les activités liées aux gaz liquéfiés sont arrêtées sur le site.		
+2003	01	01		2003	01	01		prend_la_location_gérance	Au 01/01/2003, la société UNIVAR prend la location gérance de la société QUARRECHIM qui exerce désormais des activités de simple négoce de divers produits chimiques, organiques et inorganiques sur le site.	'produits chimiques', 'inorganiques'	'la société UNIVAR', 'la société QUARRECHIM'

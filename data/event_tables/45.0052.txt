@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	31		2010	03	31		des_investigations_des_sols	Dans le cadre de la cessation d'activité de la station service le 31 mars 2010, des investigations des sols ont été réalisées par un bureau d'études qui a mis en évidence des pollutions par des hydrocarbures dans les sols.	'hydrocarbures'	
+2010				2010				son_démantèlement	Après son démantèlement en 2010 et l'extraction des cuves enterrées, seuls subsistent le bâtiment, une cuve de 3 m3 de fioul à l'usage de ce bâtiment ainsi que la bouche de dépotage de cette même cuve.	'fioul'	
+1969				2010	03			a_exercée_son_activité	La station service implantée route d'Orléans a exercée son activité de 1969 jusqu'à mars 2010 soumise au régime déclaratif.		
+2010	03	31		2010	03	31		la_cessation_d__activité	Dans le cadre de la cessation d'activité de la station service le 31 mars 2010, des investigations des sols ont été réalisées par un bureau d'études qui a mis en évidence des pollutions par des hydrocarbures dans les sols.	'hydrocarbures'	

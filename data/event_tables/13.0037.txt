@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	04			2004	04			a_été_vendue	SDS a été vendue en Avril 2004 à la société CARLO ERBA REACTIFS.		'SDS', 'la société CARLO ERBA REACTIFS'
+								a_suivi_un_changement_de_raison_sociale	Elle a suivi un changement de raison sociale le 05/01/05.		
+2004	02	12		2004	02	12		Le_récolement	Le récolement des travaux a été effectué le 12/02/2004.		
+1971				1971				exploitait	La société SOLVANTS DOCUMENTATION SYNTHESES (SDS) exploitait depuis 1971 sur la commune de PEYPIN un site de fabrication, rectification, mélange, négoce de produits chimiques à destination principalement de l'industrie.	'produits chimiques'	'La société SOLVANTS DOCUMENTATION SYNTHESES', 'SDS', 'PEYPIN'
+2004	12	24		2004	12	24		une_détonation	* Le 24/12/2004, il s'est produit une détonation suivie d'un départ de feu sur un mélangeur contenant 600L d'heptane.	'heptane'	

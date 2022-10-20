@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+				2014	06	26		Les_travaux_de_mise_en_sécurité_ont_été_effectués	Les travaux de mise en sécurité ont été effectués du 24 mars au 26 juin 2014.		
+2011	11			2011	11			a_été_placée_en_liquidation_judiciaire	La société a été placée en liquidation judiciaire en novembre 2011.		
+2012	01			2012	01			une_visite	Suite au placement en liquidation judiciaire de la société, l'inspection a réalisé une visite du site en janvier 2012.		
+2012	05			2012	05			a_été_signé	Un arrêté préfectoral de consignation d'une somme répondant du montant des travaux à réaliser a été signé en mai 2012, suite au non-respect de l'arrêté de mise en demeure.		
+2013	02			2013	02			a_donc_sollicité	Face à la défaillance des responsables du site, le préfet a donc sollicité le ministère de l'écologie en février 2013, pour faire intervenir l'ADEME pour la mise en sécurité du site.		'le préfet'
+2013	01			2013	01			l__irrecouvrabilité	En janvier 2013, la Direction Générale des Finances Publiques du Doubs a prononcé l'irrecouvrabilité de la créance de la liquidation judiciaire.		'la Direction Générale des Finances Publiques'
+2007				2007				a_repris	En 2007, la société DSM Industries a repris les activités et y a ajouté une cabine de peinture.		'la société DSM Industries'
+2013	05			2013	05			a_donné_son_accord	Le ministère a donné son accord en mai 2013.		
+2015				2015				a_engagé_un_diagnostic_de_sols	Le propriétaire a engagé un diagnostic de sols en 2015 afin de préciser la situation.		
+1999				1999				a_obtenu	La société EDEPE a obtenu en 1999 l'autorisation d'exploiter des installations de décapage et dégraissage chimique de métaux et matières plastiques dans ses locaux de la zone industrielle de Thise.		'La société EDEPE'
+2013	07			2013	07			ont_été_signés	Les arrêtés préfectoraux de travaux d'office et d'occupation temporaire des sols pour une durée de 16 mois, encadrant l'intervention de l'ADEME ont été signés en juillet 2013.		

@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2011	01			2011	01			le_démantèlement	- le démantèlement de l'ancienne usine d'incinération d'ordures ménagères réalisé en janvier 2011;		
+2011	03	29		2011	03	29		de_la_visite	Lors de la visite du 29 mars 2011, l'inspection des installations classées a constaté :		
+1984	02	27		1984	02	27		L__exploitation_d_	L'exploitation d'une Usine d'Incinération d'Ordures Ménagères (UIOM) a été autorisée le 27 février 1984 sur la commune de Chanay au lieu-dit "Sur le Crêt".		
+2001				2001				sont_emmenées	Depuis 2001, les ordures ménagères de la commune sont emmenées à l'incinérateur de Bellegarde-sur-Valserine par le service technique de la commune.	'les ordures ménagères'	
+2010	01	1		2010	01	1		a_intégré	Au 1er janvier 2010, la commune de Chanay a intégré la Communauté de Communes du Pays Bellegardien.		'la Communauté de Communes'

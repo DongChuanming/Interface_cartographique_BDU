@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				ont_également_été_effectuées	A partir de 2003, des analyses en COHV ont également été effectuées.	'COHV'	
+2012	09			2012	09			a_été_transmis	Cette étude a été réalisée par le bureau d’étude ANTEA et fait l’objet d’un rapport qui a été transmis à l’inspection en septembre 2012.		'ANTEA'
+2000	07	25		2000	07	25		ont_été_rendus	Une première version de ces études ont été rendus le 25/07/2000.		
+2010	09	31		2010	09	31		est_déposé	Un dossier de cessation d’activité est déposé par ce groupe en date du 31/09/2010.		
+2012	09			2012	09			Cette_étude_a_été_réalisée	Cette étude a été réalisée par le bureau d’étude ANTEA et fait l’objet d’un rapport qui a été transmis à l’inspection en septembre 2012.		'ANTEA'
+1998	12	01		1998	12	01		a_été_rédigé_par	Un arrêté préfectoral a été rédigé par l’Inspection des Installations Classées en date du 01/12/1998 afin d’imposer à l’exploitant la réalisation d’une :		
+1996	04	03		1996	04	03		rentre_dans_le_cadre_de	Le site rentre dans le cadre de la circulaire du 03/04/1996.		
+1999				1999				est_racheté	En 1999, le groupe ASCOMETAL est racheté par le groupe LUCCHINI.		'le groupe ASCOMETAL', 'le groupe LUCCHINI'
+1986				1986				est_racheté	En 1986, le site est racheté par le groupe VALEO et rentre dans le groupe ASCOMETAL/USINOR en 1992.		'le groupe VALEO', 'le groupe ASCOMETAL / USINOR'
+2011	04	01		2011	04	01		est_cédé	Le 01/04/2011, le capital d’ASCOMETAL est cédé au fond de pension américain APOLLO GLOBAL MANAGEMENT.		'd’ ASCOMETAL', 'américain APOLLO GLOBAL MANAGEMENT'
+2012	09	28		2012	09	28		a_été_déposé	Un second dossier de cessation d’activité a été déposé le 28/09/2012 concernant le second laminoir.		
+2012	08	06		2012	08	06		ont_été_rédigés	Suite aux cessations d’activités des laminoirs, deux arrêtés préfectoraux ont été rédigés en vue d’imposer les prescriptions techniques (AP n°2011-147-0024 du 05/04/2011 et AP du 06/08/2012).		
+1916				1916				la_création	La première activité sur le site remonte à 1916 et la création de la Société des Hauts Fourneaux et Forges d’Allevard (SHFFA).		'la Société des Hauts Fourneaux et Forges d’ Allevard', 'SHFFA'
+2011	08	30		2011	08	30		un_dossier_de_cessation_d__activité	Ce dernier dépose en date du 30/08/2011 un dossier de cessation d’activité concernant le premier laminoir du site.		
+1960				1960				est_créée	L’usine WHEELABRATOR, filiale du groupe SHFFA est créée en 1960 sur le site.		'WHEELABRATOR', 'groupe SHFFA'
+2002	08	31		2002	08	31		a_été_rédigé	Le rapport définitif a été rédigé en date du 31/08/2002. 50 sondages ont été effectués sur le site et 4 piézomètres ont été implantés.		
+1992				1992				rentre_dans	En 1986, le site est racheté par le groupe VALEO et rentre dans le groupe ASCOMETAL/USINOR en 1992.		'le groupe VALEO', 'le groupe ASCOMETAL / USINOR'

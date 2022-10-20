@@ -1,0 +1,12 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2002	04			2002	04			ont_fait	ls ont fait l'objet d'observations (pour compléments, correction, etc) en avril 2002.		
+2002	02			2002	02			Le_diagnostic_initial	Le diagnostic initial et le rapport d'étape ont été remis en février 2002.		
+2011	10	11		2011	10	11		ont_été_revues	Les mesures de suivi et d'autosurveillance des eaux souterraines ont été revues, et sont actuellement réglementées par l'arrêté préfectoral complémentaire du 11/10/2011.		
+2002	09			2002	09			a_été_remise	L'évaluation complétée a été remise fin septembre 2002 et a été rééxaminé.		
+2005	03	31		2005	03	31		La_réalisation_d__une_EDR_a_été_imposée	La réalisation d'une EDR a été imposée par APC du 31/03/2005.		
+2005	03	31		2005	03	31		a_fait_l__objet_d_	La société a fait l'objet d'un arrêté préfectoral complémentaire le 31 mars 2005 lui imposant la réalisation d'un étude détaillée des risques et le renforcement de la surveillance de la qualité des eaux souterraines sur les éléments de dégradation des solvants chlorés: 1,2 cis Dichloroéthylène, chlorure de vinyle.	'les éléments de dégradation', 'solvants chlorés : 1,2 cis Dichloroéthylène', 'chlorure de vinyle'	
+								campagnes	- au niveau du secteur de stockage des "chlorés" (latéral Est du site) sur le Pz 4136X0805 ,a concentration Somme TCE+PCE est proche de 10 000 µg/l (campagnes Mai et Novembre 2008), avec une teneur en Chlorure Vinyle (CV) inférieure au seuil de détection.	'stockage des " chlorés "', 'TCE+PCE', 'Chlorure Vinyle', 'CV'	
+2003	12			2003	12			ont_été_demandés	De nouveaux compléments ont été demandés à l'exploitant en décembre 2003.		
+2004	01	27		2004	01	27		a_été_remise	Une version définitive de l'évaluation simplifiée des risques a été remise le 27 janvier 2004 et conclut au classement en 1 du site pour la source tétrachloroéthylène pour l'usage AEP et usage autre AEP.	'tétrachloroéthylène'	
+2008	11			2008	11			campagnes	- au niveau du secteur de stockage des "chlorés" (latéral Est du site) sur le Pz 4136X0805 ,a concentration Somme TCE+PCE est proche de 10 000 µg/l (campagnes Mai et Novembre 2008), avec une teneur en Chlorure Vinyle (CV) inférieure au seuil de détection.	'stockage des " chlorés "', 'TCE+PCE', 'Chlorure Vinyle', 'CV'	
+1896				1896				exploite	ZUNDEL KOHLER exploite le site (dépôts de produits chimiques) depuis 1896; cet établissement était un établissement soumis à Autorisation au titre ICPE.	'produits chimiques'	'ZUNDEL KOHLER'

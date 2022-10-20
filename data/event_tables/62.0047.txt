@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1985				1985				a_été_autorisé	- Il a été autorisé en 1985, la cessation d'activité a été déclarée fin 1995.		
+1995				1995				la_cessation_d__activité	- Il a été autorisé en 1985, la cessation d'activité a été déclarée fin 1995.		
+2009	02	06		2009	02	06		_La_visite	-La visite du 06/02/2009 était l'occasion de procéder au récolement définitif de la cessation d'activité du site et de faire le point sur les suites à donner concernant les servitudes d'utilité publique et le suivi post exploitation complet de la décharge.		
+1995				1995				a_été_autorisé	- Il a été autorisé en 1985, la cessation d'activité a été déclarée fin 1995.		
+								arrêtée	- Décharge arrêtée le 31/12/94.		

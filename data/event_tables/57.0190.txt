@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	04			2009	04			une_étude_des_sols	Suite à l'arrêt de l'activité, une étude des sols a été réalisée en avril 2009.		
+1979	08	24		1979	08	24		était_soumis_à_autorisation	L'établissement était soumis à autorisation au titre de la législation des installations classées pour la protection de l'environnement par arrêté préfectoral du 24 août 1979.		
+2006	03			2006	03			a_cessé_son_activité	Le site a cessé son activité en mars 2006.		

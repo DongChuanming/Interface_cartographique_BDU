@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1997	05	21		1997	05	21		a_été_pris	Sur la base de ces constats, un arrêté préfectoral imposant à la société UNIMARCEAU (propriétaire alors du site) la réalisation d'un pré-diagnostic et d'une étude des sols a été pris le 21 mai 1997.		'la société UNIMARCEAU'
+1996				1996				vendu	Seul le bâtiment situé à l'est (bâtiment d'engineering, vendu en 1996 à la société MADELEINE pour y exercer des activités de bureaux d'études et d'électricité industrielle) n'a pas été sondé.		'la société MADELEINE'
+1958				1958				ont_été_implantées	Des installations de stockage de gasoil et d'essence ont été implantées en 1958.	'gasoil', 'essence'	
+1986				1986				a_été_mise_en_place	Une chaufferie au fuel lourd (alimentée par trois cuves à fuel) a été mise en place en 1970, ainsi que quatre transformateurs au Pyralène en 1986.	'fuel lourd', 'fuel', 'Pyralène'	
+1970				1970				a_été_mise_en_place	Une chaufferie au fuel lourd (alimentée par trois cuves à fuel) a été mise en place en 1970, ainsi que quatre transformateurs au Pyralène en 1986.	'fuel lourd', 'fuel', 'Pyralène'	
+				1997	05	16		La_campagne_s__est_déroulée	La campagne s'est déroulée du 13 au 16 mai 1997.		
+1930				1930				avoir_débutées	Les activités sur le site BATA semblent avoir débutées au début du XXème siècle (vers 1930).		
+1998	07			1998	07			Cette_étude_a_été_rendue	Cette étude a été rendue en juillet 1998.		
+1917	12	19		1917	12	19		était_recensé_comme_établissement_dangereux	Le site était recensé comme établissement dangereux, insalubre ou incommode au titre de la loi du 19 décembre 1917.		
+1997	02			1997	02			La_visite_d__inspection	La visite d'inspection réalisée en février 1997 par l'inspection des installations classées a permis de constater :		

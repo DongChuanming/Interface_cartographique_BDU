@@ -1,0 +1,11 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								complété	Le dossier de synthèse des études prescrites a été transmis en mars 2006 et complété en juillet et en novembre 2006.		
+1918				1918				a_été_créée	Cette usine a été créée en 1918 et reconstruite après la dernière guerre.		
+2010	07	22		2010	07	22		A	A compter du 22 juillet 2010, SNR Roulements, exploitant initial du site, a changé de raison sociale pour NTN-SNR Roulements		'SNR Roulements', 'NTN - SNR Roulements'
+2006	11			2006	11			complété	Le dossier de synthèse des études prescrites a été transmis en mars 2006 et complété en juillet et en novembre 2006.		
+2012				2012				a_été_réalisé	Enfin, un nouveau piézomètre a été réalisé fin 2012 en limite de proprété nord, nord-est du site a mis en évidence un nouveau panache de pollution en solvants chlorés.	'chlorés'	
+2001	12	17		2001	12	17		avait_été_prescrite	Par arrêté préfectoral du 17 décembre 2001, une surveillance des eaux souterraines au moyen d’un réseau de six piézomètres avait été prescrite pour une durée de deux ans, portant sur les hydrocarbures totaux, le chrome, le plomb, de dichloroéthylène et le trichloroéthylène.	'les hydrocarbures totaux', ', le chrome , le plomb', 'de dichloroéthylène et le trichloroéthylène'	
+2012				2012				a_été_réalisé	Fin 2012, un nouveau piézomètre a été réalisé à quelques mètres du puits.		
+2006	03			2006	03			a_été_transmis	Le dossier de synthèse des études prescrites a été transmis en mars 2006 et complété en juillet et en novembre 2006.		
+2005	08	03		2005	08	03		a_prescrit	Compte tenu des concentrations en hydrocarbures totaux et en solvants chlorés et de la présence d'habitations dans l'environnement proche de l'établissement, le préfet a prescrit par arrêté du 3 août 2005, d’une part, la poursuite de la surveillance des eaux souterraines, d’autre part, la réalisation d’une étude de sol constituée d’un diagnostic approfondi et d’une évaluation détaillée des risques.	'hydrocarbures totaux', 'solvants chlorés'	'le préfet'
+2010	07	22		2010	07	22		a_changé_de_raison_sociale	A compter du 22 juillet 2010, SNR Roulements, exploitant initial du site, a changé de raison sociale pour NTN-SNR Roulements		'SNR Roulements', 'NTN - SNR Roulements'

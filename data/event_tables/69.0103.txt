@@ -1,0 +1,18 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	01	04		2010	01	04		Le_changement	Le changement d'exploitant a été effectué le 04/01/2010, passant de BAYER CROPSCIENCE FRANCE à BAYER SAS.		'BAYER CROPSCIENCE FRANCE', 'BAYER SAS'
+2004				2006				campagnes_semestrielles	* Autres matières actives (campagnes semestrielles de 2004 à 2006)		
+2000				2000				a_demandé	Comme ces études ne prenaient pas en compte la réalisation des travaux de réhabilitation, l'administration a demandé à l'exploitant au début 2000 de réaliser une actualisation de l’Évaluation Simplifiée des Risques et de fournir un complément au diagnostic approfondi.		
+1996	04	03		1996	04	03		a_été_sélectionné	Par ailleurs, le site a été sélectionné au titre de la circulaire du 03/04/1996.		
+1998	02			1998	02			ont_été_transmis	En application de l'arrêté préfectoral du 16/10/1997, le diagnostic initial et l’Évaluation Simplifiée des Risques ont été transmis à l'administration le 21/01/1998, ainsi que le diagnostic approfondi, fin février 1998.		
+				2006	09	25		est_survenu	Un incident est survenu entre le 21 et le 25 septembre 2006 au sein de l'usine.		
+1998	02	27		1998	02	27		établi	Le bilan des travaux de réhabilitation établi le 27/02/1998 montre que :		
+1998	02			1998	02			le_diagnostic_approfondi	En application de l'arrêté préfectoral du 16/10/1997, le diagnostic initial et l’Évaluation Simplifiée des Risques ont été transmis à l'administration le 21/01/1998, ainsi que le diagnostic approfondi, fin février 1998.		
+1997				1997				une_pollution_des_sols	A l’occasion d’une fermeture d’une unité de formulation d’un herbicide (dinoterbe), une pollution des sols et de la nappe phréatique par cette substance a été mise en évidence en 1997.	'un herbicide', 'dinoterbe'	
+1997				1998				des_travaux_de_réhabilitation	Entre 1997 et 1998, des travaux de réhabilitation ont été conduits (démantèlement de l’unité, extraction et traitement d'environ 300 m3 de terres contaminées accessibles sans travaux de génie civil rédhibitoires, création d’un puits de fixation de la pollution).		
+								a_été_augmentée	A cet effet, la fréquence de surveillance a été augmentée à deux mois la 1ère année et à trois mois la 2ème année.		
+2004	03	31		2004	03	31		Une_étude_de_dangers	Une étude de dangers a été remise à l'administration le 31/03/2004 et les compléments à cette étude, le 29/10/2004.		
+2009	12	30		2009	12	30		a_été_remise	L'étude de danger a été remise le 30/12/2009 et constitue la révision quinquennale de l'étude de dangers de l’établissement.		
+2004	04	20		2004	04	20		a_été_pris	Elle a fait l'objet d'une évaluation par l'inspection des installations classées et un arrêté préfectoral a été pris le 20/04/2004 fixant les suites à donner, notamment la modification de rejets des eaux de nappe pompées dans le cadre de l'activité de la société.		
+2001	01	11		2001	01	11		Cette_nouvelle_Évaluation_simplifiée_des_risques	Cette nouvelle Évaluation simplifiée des risques et le complément au diagnostic approfondi, ont été remis le 11/01/2001.		
+1998	01	21		1998	01	21		ont_été_transmis	En application de l'arrêté préfectoral du 16/10/1997, le diagnostic initial et l’Évaluation Simplifiée des Risques ont été transmis à l'administration le 21/01/1998, ainsi que le diagnostic approfondi, fin février 1998.		
+2004	10	29		2004	10	29		Une_étude_de_dangers	Une étude de dangers a été remise à l'administration le 31/03/2004 et les compléments à cette étude, le 29/10/2004.		

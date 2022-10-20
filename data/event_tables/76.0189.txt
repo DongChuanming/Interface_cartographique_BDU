@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1928				1997				a_exploité	La société SA GEORGES EVERS et Cie a exploité les installations situées sur la commune d'Epouville entre 1928 et 1997.		'La société SA GEORGES EVERS'
+1993				1993				la_cession	En 1991, la cession du fond de commerce de produits finis textiles a été faite par EVERS à SILITEX puis celle de l'activité « carton » en 1993.		'EVERS', 'SILITEX'
+1997				1997				le_diagnostic_de_pollution	Selon le diagnostic de pollution réalisé sur l'ancien site EVERS en 1997 (voir fiche BASOL 76.0041), des déchets d'amiante ont été enfouies dans le passé sur cette zone du site.		'EVERS'
+2005	10	25		2005	10	25		a_été_pris	Des travaux d'affouillement réalisés sans précaution ayant été signalés, un arrêté préfectoral de mesures d'urgence a été pris le 25/10/2005 à l'encontre de Me HESS (représentant des Ets EVERS).		'Me HESS', 'des Ets EVERS'
+1991				1991				la_cession	En 1991, la cession du fond de commerce de produits finis textiles a été faite par EVERS à SILITEX puis celle de l'activité « carton » en 1993.		'EVERS', 'SILITEX'
+1927				1927				a_été_construite_en	La première usine a été construite en 1927.		
+1994				1994				a_été_arrêtée	Cette activité a été arrêtée en 1994.		

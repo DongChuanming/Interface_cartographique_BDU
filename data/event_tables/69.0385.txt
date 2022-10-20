@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2017	12			2017	12			Investigations_réalisées	2 - Investigations réalisées en décembre 2017		
+2016	11			2016	11			Investigations_de	1 - Investigations de novembre 2016		
+2016	11			2016	11			Les_investigations_réalisées_en	Les investigations réalisées en novembre 2016 ont montré la présence dans les sols :		
+2018	02	15		2018	02	15		un_rapport_de_diagnostic_environnemental	Solustil a transmis par voie électronique le 15 février 2018 un rapport de diagnostic environnemental de la qualité des sols réalisé par la société DEKRA (rapport 52571823 du 15 février 2018).		'Solustil', 'la société DEKRA'
+2017	01			2017	01			sa_cessation_d__activité	- notifié en janvier 2017 à la mairie et à la Direction Départementale de la Protection des Populations sa cessation d’activité ;		'la Direction Départementale de la Protection des Populations'

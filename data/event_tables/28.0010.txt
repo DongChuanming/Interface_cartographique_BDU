@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1989				1989				avait	A la suite de la découverte d’un dépôt clandestin de fûts de méthacrylate de méthyle sur une décharge brute de déchets divers sur le territoire de la commune de MEVOISINS (28) et de l’accident qui s’y est déroulé (explosion d’un fût (1 blessé grave), l’enquête de gendarmerie a établi que l’entreprise C2M implantée au Gué de Longroi (28) avait, lors de sa cessation d’activité en 1989, cédé son stock de produits chimiques à un intermédiaire.	'méthacrylate de méthyle', 'produits chimiques'	'C2 M'
+1994	12	23		1994	12	23		a_été_chargée	Par arrêté préfectoral n° 3499 du 23 décembre 1994, l’ADEME a été chargée de l’évacuation des produits chimiques.		

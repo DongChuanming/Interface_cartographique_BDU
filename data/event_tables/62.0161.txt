@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	03	31		2010	03	31		_Changement	-Changement d'exploitant le 31/03/2010 et transfert des installations sur un autre site par le nouvel exploitant (teinturerie color biotech)		'teinturerie color biotech'
+2011	06	07		2011	06	07		__réalisé	-Diagnostic de site  et schéma conceptuel (avec pose de piézomètres), réalisé le 07/06/2011.		
+2012	01			2012	01			_Excavation_de	-Excavation de trois zones de terres polluées aux hydrocarbures et naphtalène en janvier 2012.	'hydrocarbures', 'naphtalène'	
+2012	01	16		2012	01	16		_Réalisation_d__une_analyse	-Réalisation d'une analyse des risques résiduels, le 16/01/2012.		

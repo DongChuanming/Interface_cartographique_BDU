@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2001	07	18		2001	07	18		Vente	- Vente du site à l'EPF  le 18 juillet 2001.		'EPF'
+1998				1998				Diagnostic_initial_réalisé	- Diagnostic initial réalisé (1998), pollution des sols constatée : hydrocarbures aromatiques et organo-halogénés volatils pour l'essentiel	'hydrocarbures'	
+2000	05			2000	05			traitement_par_venting	Le site est divisé en deux secteurs: "Haut" et "Bas", traitement par venting sur la totalité  du site en mai 2000, dégazage et enlèvement des cuves.  Ce traitement n'ayant pas donné les résultats escomptés pour la partie "bas", un nouveau traitement a été mis en place: excavation et mise en andains ventilés des terres polluées.		
+2000	03	17		2000	03	17		Cessation_d__activité	- Cessation d'activité le 17/03/2000.		

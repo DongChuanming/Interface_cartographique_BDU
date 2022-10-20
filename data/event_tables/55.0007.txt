@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2003				2003				a_cessé	Ancien site de fabrication de batteries au plomb dont l'activité a cessé en 2003.	'batteries', 'plomb'	
+1994	04	21		1994	04	21		l__incendie	Le 21 avril 1994, l'incendie d'un filtre à manche a entraîné une pollution au plomb sur une partie du site.	'plomb'	
+2006				2010				Plusieurs_études_de_sols	Plusieurs études de sols ont été menées (de 2006 à 2010).		
+2013	08	09		2013	08	09		la_visite	Par ailleurs, la visite de l'inspection des installations classées réalisée le 09 août 2013 a montré que le site avait subi des actes de vandalisme et que les interdictions d'accès n'étaient plus opérationnelles.		
+1999	04	27		1999	04	27		L__achèvement_des_travaux_a_été_constaté	L'achèvement des travaux a été constaté par l'inspection des installations classées le 27 avril 1999.		
+2003				2003				l__arrêt_des_activités	Suite à l'arrêt des activités en 2003, le site a été mis en sécurité, notamment les déchets ont été évacués, la cuve de propane a été vidangée, inertée et démantelée.	'cuve de propane'	
+2011	03	31		2011	03	31		la_poursuite_de_la	Compte tenu de la présence de pollution résiduelle, la poursuite de la surveillance des eaux souterraines a été prescrite par arrêté du 31 mars 2011, et des investigations complémentaires ont été demandées sur le milieu "sédiments".		
+2003				2003				a_été_mis_en_sécurité	Suite à l'arrêt des activités en 2003, le site a été mis en sécurité, notamment les déchets ont été évacués, la cuve de propane a été vidangée, inertée et démantelée.	'cuve de propane'	

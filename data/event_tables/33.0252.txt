@@ -1,0 +1,4 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1992	07	08		1992	07	08		étaient_autorisées_par	Les installations étaient autorisées par l'arrêté préfectoral du 8 juillet 1992.		
+2005				2005				La_cessation	La cessation de l'activité de traitement du bois est déclarée en 2005.		
+2004	10	26		2004	10	26		L__étude_réalisée	L'étude réalisée par la Société HYDROCONSEIL est remise le 26 octobre 2004.		'la Société HYDROCONSEIL'

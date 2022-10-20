@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	02	28		2005	02	28		__est_mise_en_liquidation_judiciaire	Par jugement du tribunal de commerce de Libourne en date du 28 février 2005, la SARL Le Goff Pneumatiques Aquitaine  est mise en liquidation judiciaire.		'Libourne', 'la SARL Le Goff Pneumatiques'
+2007	01	26		2007	01	26		a_été_évacué	Le stock de 2450 tonnes de pneumatiques a été évacué le 26/01/2007 par la société ALIAPUR.	'pneumatiques'	'la société ALIAPUR'

@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	01	07		2015	01	07		Un_nouveau_diagnostic	Un nouveau diagnostic a été réalisé le 07 janvier 2015.		
+2013	02	28		2013	02	28		a_transmis	L’exploitant a transmis un dossier de cessation d’activité le 28 février 2013 auquel était joint le rapport de travaux réalisé par la société AGE en vu de la cessation d'activité de la station-service.		'la société AGE'

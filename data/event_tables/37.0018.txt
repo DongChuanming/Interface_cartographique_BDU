@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2009	11			2009	11			des_prélèvements	En novembre 2009, des prélèvements d’air ont été effectués ainsi que des prélèvements dans des sacs Tedlar à l’interface air/sol.	'Tedlar'	
+2009	03			2009	03			a_procédé_à_des_sondages	Des décaissements étant nécessaires, la société EIFFAGE TP a procédé à des sondages en mars 2009 qui ont mis en évidence la présence de remblais.		'la société EIFFAGE TP'
+2011	12			2011	12			ont_été_détruits	Suite aux travaux d'aménagement du site, certains ouvrages ont été détruits puis remplacés en décembre 2011.		
+2010	03	04		2010	03	04		il_a_été_prescrit	Par arrêté préfectoral du 4 mars 2010, il a été prescrit la surveillance trimestrielle des eaux souterraines ainsi qu'une analyse au niveau de la prise d’eau superficielle de Saint-Sauveur pour l’adduction d’eau potable de Joué-Lès-Tours 4 fois par an.		

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1900				1912				est_exercée	De 1900 à 1912, une activité de blanchisserie et teinture est exercée, de 1912 à 1221, une activité de carrosserie automobile.		
+1921				1936				est_reconverti	De 1921 à 1936, le site est reconverti en usine de feutres asphaltés et d'isolants pour la construction et les travaux publics.	'feutres'	
+2011				2014				sont_sous_loués	De 2011 à 2014, les locaux sont sous-loués à une société qui fabriques des armatures acier pour du béton armé nu.		
+1989	06	27		1989	06	27		ont_été_installés	Dans les jours suivant l'incident, deux piézomètres ont été installés a proximité de la cuve fuillarde puis 4 autres sondages ont été réalisés le 27 juin 1989.	'cuve fuillarde'	
+1989	02	27		1989	02	27		Un_incident	Un incident s'est produit le 27 février 1989 sur le site avec le déversement accidentel de 47 000 litres d'acide fluorhydrique et d'acide nitrique dans les sols.	'acide fluorhydrique', 'acide nitrique'	
+2000				2000				Des_analyses_de_sols	Des analyses de sols ont été opérées en 2000.		
+1936				1950				est_transformée	De 1936 à 1950, l'usine est transformée en laiterie industrielle.		
+1989	06	27		1989	06	27		ont_été_réalisés	Dans les jours suivant l'incident, deux piézomètres ont été installés a proximité de la cuve fuillarde puis 4 autres sondages ont été réalisés le 27 juin 1989.	'cuve fuillarde'	
+1989				1989				la_fuite	L'étude de ces trois paramètres permet de mettre en évidence l'absence d'impact persistant dans les sols au droit du site suite à la fuite de 1989.		
+				2011				reprend	En 1950 jusqu'en 2011, la société Aoustin reprend le site et installe une usine de construction mécanique spécialisée dans la chaudronnerie, la tôlerie, l'électricité et l'automatisme.		'la société Aoustin'
+								a_été_effectué	Un diagnostic complémentaire a été effectué le 14/12/17.		
+1912				1912				est_exercée	De 1900 à 1912, une activité de blanchisserie et teinture est exercée, de 1912 à 1221, une activité de carrosserie automobile.		
+1989	10	10		1989	10	10		a_été_fourni	Un rapport a été fourni par l'exploitant le 10 octobre 1989.		
+								a_bénéficié_d_	L'exploitant "Aoustin" a bénéficié d'un récépissé de cessation d'activités daté du 05/01/15.		
+1989	04	11		1989	04	11		a_été_pris	A la suite de cette pollution, un arrêté de mesures d'urgence a été pris le 11 avril 1989.		

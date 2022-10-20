@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+3000				3000				m2__	Le site s’étend sur une emprise de 3000 m2.		
+2007	06			2007	06			mis_en_place	4 nouveaux piézomètres ont été mis en place début juin 2007 pour évaluer l'impact de la pollution en dehors du site et estimer le risque de migration de celle-ci.		
+2007	06			2007	06			évaluer_l__impact	4 nouveaux piézomètres ont été mis en place début juin 2007 pour évaluer l'impact de la pollution en dehors du site et estimer le risque de migration de celle-ci.		
+								site_n__est_pas	- le site n’est pas correctement clôturé notamment dans sa partie sud-est,		

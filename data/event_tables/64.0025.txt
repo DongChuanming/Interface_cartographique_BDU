@@ -1,0 +1,22 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	05			2010	05			des_diagnostics	Dans le cadre du projet de restructuration du site historique (projet Bordes 2015), des diagnostics complémentaires ont été réalisés en mai 2010 et février 2011.		
+2008				2008				un_redéploiement_de_toutes_ses_activités	En 2008, la société Turboméca a initié un redéploiement de toutes ses activités (projet EOLE) en créant de nouveaux bâtiments sur un terrain de 9 ha situé au sud est des installations existantes.		'la société Turboméca', 'EOLE'
+2000	03	29		2000	03	29		ont_été_remis	Les rapports d'études ont été remis les 16 août 1999 et 29 mars 2000.		
+1998	11	13		1998	11	13		ESR___ont_été_prescrits	Les activités exercées sur ce site ayant pu être à l'origine de pollution potentielle du sol et du sous-sol,un diagnostic initial et une évaluation simplifiée des risques (ESR) ont été prescrits par l'arrêté du 13 novembre 1998.		
+2011	02			2011	02			des_diagnostics	Dans le cadre du projet de restructuration du site historique (projet Bordes 2015), des diagnostics complémentaires ont été réalisés en mai 2010 et février 2011.		
+2013				2013				un_diagnostic_pollution	Suite au projet de démolition de 2 bâtiments et de leur reconstruction, un diagnostic pollution a été réalisé par BURGEAP EN OCTOBRE 2013.		'BURGEAP'
+2012	12			2012	12			__réalisation_d__une_analyse	- mi-décembre 2012 : réalisation d’une analyse des risques résiduels (ARR) pour vérifier la comptabilité des sols après travaux avec les futurs usages.		
+2012	12	05		2012	12	05		Un_déversement_accidentel	Un déversement accidentel de fioul s'est produit le 05/12/2012 entraînant une irisation visible sur la surface du Baniou à 7H30 :	'fioul'	
+2012				2012				ACCIDENT_DU	3 - ACCIDENT DU 05 DECEMBRE 2012		
+2006	07			2006	07			un_diagnostic_approfondi	Dans le cadre du projet de reconversion de l'ancienne zone de stockage de carburant, un diagnostic approfondi et une EDR sont remis en juillet 2006.	'carburant'	
+								ACCIDENT_DU	3 - ACCIDENT DU 05 DECEMBRE 2012		
+2012	12	13		2012	12	13		__évacuation_des_matériaux_excavés	- 13 décembre 2012 : évacuation des matériaux excavés (terres et bétons) en filière adaptée (.......tonnes),		
+2013	01	08		2013	01	08		réalisées	Le rapport final des opérations réalisées le 8 janvier 2013 est transmis à l'inspection.		
+2012	11	13		2012	11	13		__purge_de	- 13 novembre 2012 : purge de la zone impactée par les PCB et située à proximité des transformateurs jusqu’à 60 cm de profondeur, stockage provisoire en benne des terres excavées (environ 30 m3) et des bétons souillés et prélèvements pour analyses, prélèvement des sols restés en place dans le fond de la fouille pour analyses des PCB et des hydrocarbures,	'PCB', 'PCB', 'hydrocarbures'	
+2003	03	18		2003	03	18		Un_diagnostic_approfondi	Un diagnostic approfondi et une évaluation détaillée des risques du site (EDR) ont été prescrits par arrêté préfectoral du 18 mars 2003.		
+2012	10	22		2012	10	22		__dépose_des_transformateurs	- 22 octobre 2012 : dépose des transformateurs qui ont été évacués en filière agréée le 21 novembre 2012,		
+1999	08	16		1999	08	16		ont_été_remis	Les rapports d'études ont été remis les 16 août 1999 et 29 mars 2000.		
+2006	05			2006	05			La_dernière_campagne	La dernière campagne de mai 2006 remet en cause cette conclusion.		
+2012	11	02		2012	11	02		prélèvements_et_analyses	- 2 novembre 2012 : prélèvements et analyses des eaux souterraines,		
+2006	09			2006	09			diagnostic	Dans le cadre de l'implantation d'une partie de la nouvelle usine, une pollution aux hydrocarbures a été mise en évidence dans le secteur de l'ancienne soute à carburants où du kérosène était stocké (diagnostic de septembre 2006).	'hydrocarbures', 'carburants', 'kérosène'	
+2012	11	21		2012	11	21		__dépose_des_transformateurs	- 22 octobre 2012 : dépose des transformateurs qui ont été évacués en filière agréée le 21 novembre 2012,		

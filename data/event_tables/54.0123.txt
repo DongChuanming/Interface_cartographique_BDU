@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_été_autorisée	Cette activité a été autorisée au titre de la législation sur les installations classées pour la protection de l'environnement (ICPE), pour la première fois, dans les années 1960.		
+1995	09	13		1995	09	13		__unité	• 13 septembre 1995 : unité de broyage de vieux papiers, dépôt et atelier de triage de matières plastiques usagées (récépissé de déclaration), tri et reconditionnement de déchets d’emballages (agrément).		
+1971	07	15		1971	07	15		__dépôt	• 15 juillet 1971 : dépôt de 1750 kg de gaz combustibles liquéfié (récépissé de déclaration),	'combustibles'	
+2011				2012				de_manière_étalée	Par courrier du 14 décembre 2010, l’exploitant a informé le Préfet de Meurthe-et-Moselle de son intention de mettre fin à ses activités, de manière étalée entre 2011 et 2012, et de rendre le site à un usage d’habitations.		'le Préfet'
+2011				2012				son_intention_de_mettre_fin_à_ses_activités	Par courrier du 14 décembre 2010, l’exploitant a informé le Préfet de Meurthe-et-Moselle de son intention de mettre fin à ses activités, de manière étalée entre 2011 et 2012, et de rendre le site à un usage d’habitations.		'le Préfet'
+2010	12	14		2010	12	14		a_informé	Par courrier du 14 décembre 2010, l’exploitant a informé le Préfet de Meurthe-et-Moselle de son intention de mettre fin à ses activités, de manière étalée entre 2011 et 2012, et de rendre le site à un usage d’habitations.		'le Préfet'

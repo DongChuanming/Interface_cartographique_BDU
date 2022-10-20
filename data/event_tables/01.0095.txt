@@ -1,0 +1,3 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1973	05			1973	05			exploite	La société UKOBA Industrie exploite depuis mai 1973 une unité de fabrication de compositions pyrotechniques.		'La société UKOBA Industrie'
+2006				2006				Un_diagnostic_initial	Un diagnostic initial de l'état des sols a été effectué en 2006 par des prélèvements et analyses, démontrant une pollution par des métaux lourds, notamment le cuivre, le baryum, le strontium et le soufre.	'métaux lourds', 'le cuivre', 'baryum', 'strontium', 'soufre'	

@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2005	07			2005	07			Les_travaux_ont_été_réalisés	Les travaux ont été réalisés en juillet 2005.		
+2004	07			2004	07			La_neutralisation	La neutralisation des cuves de sous produits (1 gazomètre et une cuve à goudrons) présentes sur le site a été réalisée en juillet 2004.	'de sous produits', 'goudrons'	
+2013				2013				La_dernière_campagne_réalisée	La dernière campagne réalisée en 2013 confirme l'impact résiduel en cyanures sur les eaux souterraines.	'cyanures'	
+1866				1954				a_accueilli	Le site a accueilli une usine fabriquant du gaz à partir de la distillation de la houille pendant 88 ans, de 1866 à 1954.		
+1955				1955				a_été_démolie	La majeure partie des installations a été démolie vers 1955.		
+2005	05			2005	05			établie	Ces travaux ainsi qu'une surveillance des eaux souterraines font l'objet d'une proposition d'arrêté préfectoral établie en mai 2005.		
+2006				2009	09			Les_analyses_réalisées	Les analyses réalisées de 2006 à septembre 2009 montrent la présence de HAP et de Cyanures Totaux dans la nappe à des concentrations proches ou inférieures aux seuils de détection.	'HAP', 'Cyanures Totaux'	
+2005				2005				envisage	Début 2005, GDF envisage la cession d'une partie des terrains à la commune pour la création d'un parking public extérieur de surface avec maintien en place de la zone verte existante, la dernière partie du site restant propriété de GDF.		'GDF', 'GDF'
+2005	03			2005	03			à_un_diagnostic_environnemental	Dans le cadre de cette cession, GDF a fait procéder  à un diagnostic environnemental du site en mars 2005.		'GDF'
+2009	05	18		2009	05	18		a_en_conséquence_accédé	L'inspection a en conséquence accédé le 18 mai 2009 à une demande l'exploitant de passer d'une surveillance trimestrielle à une surveillance semestrielle .		
+2009	12			2009	12			a_ensuite_fait_part	L'exploitant a ensuite fait part en décembre 2009 de sa volonté d'arrêter la surveillance des eaux souterraines du site.		
+1996	04	25		1996	04	25		signé	L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz, entre le Ministère de l'Environnement et Gaz de France, signé le 25 Avril 1996.		'Gaz de France', "le Ministère de l' Environnement", 'Gaz de France'
+2005	01			2005	01			a_été_remis	Un rapport rendant compte des travaux réalisés a été remis à l'inspection des installations classées en janvier 2005.		
+2011	09			2011	09			a_cependant_été_passée	La fréquence de surveillance a cependant été passée en septembre 2011 à une campagne par an en période de hautes eaux.		
+2004	04			2004	04			Un_diagnostic_complémentaire	Un diagnostic complémentaire dont les conclusions ont été transmises en avril 2004 a mis en évidence la présence d'ouvrages enterrés.		

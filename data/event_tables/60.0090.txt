@@ -1,0 +1,5 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2004	01	07		2004	01	07		a_effectué_sa_déclaration_de_cessation_de_cessation_d__activité	AKZO a effectué sa déclaration de cessation de cessation d'activité le 7/1/2004.		'AKZO'
+2009	02			2009	02			prélèvement	Les résultats d'analyse transmis en avril 2009 (prélèvement de février 2009) montrent une amélioration globale de la qualité des eaux souterraines et de la qualité des eaux de l'Oise.		
+2005	04	19		2005	04	19		a_été_transmis	Le dossier de cessation d'activité a été transmis le 19/4/2005.		
+2007	02	26		2007	02	26		a_été_prescrite	Une surveillance des eaux souterraines (sur PZ03 et PZ04) et des eaux de surface (Oise amont et Oise aval) a été prescrite par AP le 26/2/2007.		

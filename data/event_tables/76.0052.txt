@@ -1,0 +1,7 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	10	16		1998	10	16		une_évaluation_des_risques	Compte tenu du fait que la SNIT manipulait de la laine de roche contenant des traces d'arsenic, une évaluation des risques lui a été demandé par arrêté préfectoral du 16 octobre 1998.	'laine de roche', 'arsenic'	'la SNIT'
+2004	10	20		2004	10	20		a_été_prescrite	Sur proposition de l'inspection des installations classées (rapport du 27 mai 2004), une surveillance du site visant à vérifier les conclusions de l'ESR et à détecter d'éventuelles migrations ou occurrences d'apparition des polluants identifiés par l'ESR a été prescrite par arrêté préfectoral du 20 octobre 2004.	'polluants'	
+1991				1991				a_été_mise_en_évidence	C'est en 1991, à l'occasion de la mise en service d'un nouveau piézomètre lié à l'extension de la SERAF que cette pollution a été mise en évidence.		'la SERAF'
+2003	09			2003	09			a_été_transmis	Le rapport d'étude Etape B a été transmis à la DRIRE en septembre 2003.		'la DRIRE'
+1991				1991				C__est	C'est en 1991, à l'occasion de la mise en service d'un nouveau piézomètre lié à l'extension de la SERAF que cette pollution a été mise en évidence.		'la SERAF'
+								remblayée	La parcelle a été anciennement exploitée en carrière et remblayée dans les années 70 par l'exploitant précédent.		

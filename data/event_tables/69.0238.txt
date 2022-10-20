@@ -1,0 +1,20 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2012	11			2012	11			__campagne_de	o suivi de la qualité des eaux souterraines, campagne de novembre 2012 (rapport LY3374.105, 18/12/2012, CSD Ingénieurs) ;		'CSD Ingénieurs'
+2008	11			2008	11			C__est	C'est en novembre 2008 que ce dernier a mis sa participation en vente.		
+2012	12	18		2012	12	18		suivi	o suivi de la qualité des eaux souterraines, campagne de novembre 2012 (rapport LY3374.105, 18/12/2012, CSD Ingénieurs) ;		'CSD Ingénieurs'
+2013	02			2013	02			__campagne	o suivi de la qualité des eaux souterraines, campagne de février 2013 (rapport LY3374.105,15/03/2013, CSD Ingénieurs).		'CSD Ingénieurs'
+								diagnostic_environnemental_approfondi	o diagnostic environnemental approfondi (rapport LY3374.100, 23/06/09, CSD Ingénieurs) ;		'CSD Ingénieurs'
+3374								__campagne_de	o suivi de la qualité des eaux souterraines - campagne de décembre 2009 (LY3374.103,25/01/10, CSD Ingénieurs) ;		'CSD Ingénieurs'
+2008	11			2008	11			a_mis	C'est en novembre 2008 que ce dernier a mis sa participation en vente.		
+2009	12			2009	12			__campagne_de	o suivi de la qualité des eaux souterraines - campagne de décembre 2009 (LY3374.103,25/01/10, CSD Ingénieurs) ;		'CSD Ingénieurs'
+1992	09	26		1992	09	26		se_répandent	Le 26 septembre 1992, suite à l'ouverture accidentelle de la porte de l'autoclave, 80m3 d'huile (exemptes de PCB), se répandent sur le sol. 30m3 s'infiltrent dans le sous-sol.	'huile', 'PCB'	
+2011	02			2011	02			__campagne	- 2011 : suivi de la qualité des eaux souterraines, campagne de février 2011 (rapport LY3374.105, 01/04/2011, CSD Ingénieurs) ;		'CSD Ingénieurs'
+2006				2006				a_successivement_évolué_dans	Fondé en 1905, l'industriel lyonnais a successivement évolué dans le giron de Schneider Electric et de Siemens, avant de gagner son indépendance en 2006, avec l'aide de l'investisseur américain AIAC.		'Schneider Electric', 'américain AIAC'
+2006				2006				gagner_son_indépendance	Fondé en 1905, l'industriel lyonnais a successivement évolué dans le giron de Schneider Electric et de Siemens, avant de gagner son indépendance en 2006, avec l'aide de l'investisseur américain AIAC.		'Schneider Electric', 'américain AIAC'
+2013	05	28		2013	05	28		remis	Le plan de gestion remis le 28 mai 2013 puis du 24 septembre 2013  propose un bilan coût avantages afin de définir les techniques de dépollution permettant l’extraction et le traitement de la phase surnageante en première phase.	'de la phase surnageante'	
+								essai_pilote_de_dépollution	o essai pilote de dépollution en janvier/février (rapport d’essai pilote V1, affaire 14110034		
+2015	01	20		2015	01	20		visite_d__inspection	o visite d'inspection du 20 janvier 2015		
+								premier_plan_de_gestion	o premier plan de gestion du site (rapport LY3374.104, 07/09/10, CSD Ingénieurs) ;		'CSD Ingénieurs'
+2012				2012				__campagne_d_	o suivi de la qualité des eaux souterraines et de l’air ambiant, campagne d’aout 2012		
+2013	06	20		2013	06	20		visite_d__inspection	o visite d'inspection du 20 juin 2013;		
+2000	06			2000	06			a_été_noté	La présence dans ce surnageant de PCB a été noté en juin 2000, à l'occasion de la foration du piézomètre PO13  (0.4 mg/l d'hydrocarbure de PCB Arochlor 1260).	'surnageant', 'PCB', "d' hydrocarbure de PCB Arochlor 1260"	

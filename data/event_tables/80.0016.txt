@@ -1,0 +1,10 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1982				1982				Créé	Créé en 1982 par la société HURET, le site de Chepy était spécialisé dans le traitement de surface métallique.		'la société HURET', 'Chepy'
+2006	03	28		2006	03	28		a_ramené	Par jugement en date du 28 mars 2006, le tribunal administratif d'Amiens a ramené le montant de la consignation à 322 989,52 euros.		"le tribunal administratif d' Amiens"
+2000	02	16		2000	02	16		été_constaté	A la suite d'une visite en date du 16 février 2000, il a été constaté que la société ASM éliminait une partie de ses eaux de		'la société ASM'
+2009	10	1		2009	10	1		une_visite	le 1er octobre 2009, une visite du site a été réalisée par l'inspection des installations classées et l'ADEME afin d'envisager la mise en sécurité du site (enlèvement des déchets).	'des déchets'	
+2000	02	16		2000	02	16		d__une_visite	A la suite d'une visite en date du 16 février 2000, il a été constaté que la société ASM éliminait une partie de ses eaux de		'la société ASM'
+2010	01			2010	01			a_été_transmis	Le rapport a été transmis au préfet en janvier 2010 accompagné de la proposition d'intervention de l'ADEME.		'préfet'
+2001	01	05		2001	01	05		L__apposition_de_scellés	L'apposition de scellés a été ordonné par arrêté préfectoral du 5 janvier 2001, cet arrêt permettent notamment		
+2000	07	24		2000	07	24		La_réalisation_d_	La réalisation d'une ESR a été prescrite par arrêté préfectoral du 24 juillet 2000.		
+2012				2012				La_mise_en_sécurité	La mise en sécurité du site a été réalisée en 2012 par l'ADEME.		

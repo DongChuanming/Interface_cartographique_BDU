@@ -1,0 +1,9 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2010	09	21		2010	09	21		a_été_délivré	Un récépissé de déclaration de cessation d'activité a été délivré le 21 septembre 2010.		
+1990				1990				ont_développé	La société ENODIM de 1979 à 1989 puis TBI  à partir de 1990 ont développé des activités liées à la fabrication de matières plastiques et à la formulation de produits chimiques.		'La société ENODIM', 'TBI'
+2003				2003				enlèvement_des_derniers_déchets	Des travaux de dépollution ont été engagés durant l'été 2003 (enlèvement des derniers déchets et excavation de terres en vu d'un traitement biologique in situ et en centre d'enfouissement technique).		
+1990				1990				des_activités	La société ENODIM de 1979 à 1989 puis TBI  à partir de 1990 ont développé des activités liées à la fabrication de matières plastiques et à la formulation de produits chimiques.		'La société ENODIM', 'TBI'
+2002	08	21		2002	08	21		une_visite_de_contrôle	L'attention de l'administration a été attirée à l'occasion d'une visite de contrôle du 21/08/2002 par la quantité importante de déchets (40 tonnes), produits chimiques et matériaux divers entreposés sur le site, soit à l'air libre, soit dans des bâtiments.	'déchets', 'produits chimiques'	
+2003				2003				Des_travaux_de_dépollution	Des travaux de dépollution ont été engagés durant l'été 2003 (enlèvement des derniers déchets et excavation de terres en vu d'un traitement biologique in situ et en centre d'enfouissement technique).		
+				1970				a_débuté	L'activité de la chimie du caoutchouc (100 personnes) a débuté avec la fabrication d'éléments pour la SNCF, une fabrique de ballons (PCC) y a ensuite exercé ses activités jusqu'en 1970.		
+2003	09	29		2003	09	29		a_été_fourni	Le rapport de fin de travaux définitif a été fourni à la DRIRE le 29/09/2003.		'la DRIRE'

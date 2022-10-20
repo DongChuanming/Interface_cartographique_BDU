@@ -1,0 +1,6 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1926				1926				Le_fonçage	Le fonçage du puits s'est déroulé en 1925-1926.		
+1930				1930				a_été_repris	Il a été repris en 1930-1931 pour atteindre sa profondeur définitive de 405,1 mètres.		
+1931				1931				a_été_repris	Il a été repris en 1930-1931 pour atteindre sa profondeur définitive de 405,1 mètres.		
+1925				1925				Le_fonçage	Le fonçage du puits s'est déroulé en 1925-1926.		
+1993				1993				une_étude_réalisée_conjointement	Ce dispositif de sécurité a fait l'objet d'une étude réalisée conjointement par l'INERIS et le BRGM en 1993.		'BRGM'

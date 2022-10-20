@@ -1,0 +1,14 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2015	04			2015	04			en	- la qualité des eaux souterraines prélevées en avril 2015 est dégradée en hydrocarbures, HAP et BTEX (notamment benzène), le piézomètre PZ3 est le plus impacté ; Les teneurs sont plus élevées en avril 2015 qu’en février 2015 ;	'hydrocarbures', 'HAP', 'BTEX', 'benzène'	
+2015	06	03		2015	06	03		transmet	Par courrier du 3 juin 2015, l’exploitant transmet les résultats des campagnes de surveillance des eaux souterraines menées en février et avril 2015.		
+2015	04			2015	04			Une_deuxième_campagne_de_mesures	Une deuxième campagne de mesures et une visite détaillée du site ont été organisées en avril 2015.		
+1996	04	03		1996	04	03		avait_été_demandée	Une ESR (Evaluation Simplifiée des Risques) avait été demandée par arrêté préfectoral du 08/10/1998 en application de la circulaire du 03/04/1996.		
+2015	02			2015	02			a_été_menée	Une première campagne a été menée en février 2015.		
+								transmet	Par courrier du 3 juin 2015, l’exploitant transmet les résultats des campagnes de surveillance des eaux souterraines menées en février et avril 2015.		
+2015	04			2015	04			transmet	Par courrier du 3 juin 2015, l’exploitant transmet les résultats des campagnes de surveillance des eaux souterraines menées en février et avril 2015.		
+2015	02			2015	02			était_dirigé	- en février 2015, le sens d’écoulement de la nappe était dirigé vers l’ouest du site ;		
+2015	04			2015	04			menées	Par courrier du 3 juin 2015, l’exploitant transmet les résultats des campagnes de surveillance des eaux souterraines menées en février et avril 2015.		
+2000	07			2000	07			D__importants_travaux_de_dépollution	D'importants travaux de dépollution (pompage sélectif) ont commencé en juillet 2000 dans la zone polluée principale: mélange d'hydrocarbures et lubrifiants sur la nappe estimé à 200 m3.	'hydrocarbures'	
+								menées	Par courrier du 3 juin 2015, l’exploitant transmet les résultats des campagnes de surveillance des eaux souterraines menées en février et avril 2015.		
+1995				1995				fermée	Le site comprenait une ancienne usine de production de lubrifiants fermée en 1995 (FINA LUBRIFIANTS).	'lubrifiants'	'FINA LUBRIFIANTS'
+1993				1993				Des_pompages	Des pompages sur différentes pollutions ont été mis en place depuis 1993.		

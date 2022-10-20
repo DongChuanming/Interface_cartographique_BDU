@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+2000	07			2000	07			Un_acte_de_vandalisme	Un acte de vandalisme a alors été perpétré sur un transformateur au pyralène qui était encore en place en juillet 2000. 464 kg de pyralène ont été répandus en grande partie dans la cuvette de rétention.	'pyralène', 'pyralène'	
+								agrées	- Pollution traitée par excavation et élimination des terres contaminées vers des centres agrées en juillet et décembre 2000.		
+2000	07			2000	07			était_encore_en_place	Un acte de vandalisme a alors été perpétré sur un transformateur au pyralène qui était encore en place en juillet 2000. 464 kg de pyralène ont été répandus en grande partie dans la cuvette de rétention.	'pyralène', 'pyralène'	
+2001	01	30		2001	01	30		déversement_accidentel	- Étude d'impact de la pollution liée au déversement accidentel d'Ugilec le 30/01/2001.		'Ugilec'
+2000	07	27		2000	07	27		notifié	- Cessation d'activité du transformateur notifié le 27/07/2000.		
+2000	12			2000	12			agrées	- Pollution traitée par excavation et élimination des terres contaminées vers des centres agrées en juillet et décembre 2000.		
+2000	07	27		2000	07	27		Cessation_d__activité	- Cessation d'activité du transformateur notifié le 27/07/2000.		

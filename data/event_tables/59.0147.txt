@@ -1,0 +1,16 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1998	04	23		1998	04	23		a_cessé_ses_activités	- La société a cessé ses activités le 23 avril 1998		
+2006	09			2006	09			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en septembre 2006, réactualisée en juillet 2007.		
+1953				1998				exploitée	- Ancien site d'une usine de fabrication de peintures exploitée de 1953 à 1998 (précédemment dépôt de produits chimiques et de liquides inflammables de 1945 à 1953).	'produits chimiques', 'liquides inflammables'	
+2001	05			2001	05			Mise_en_place_de_la	- Mise en place de la surveillance des eaux souterraines (6 piézomètres) en mai 2001.		
+2009	02			2009	02			Traitement	- Traitement en février 2009 jusqu'en 2011: traitement des eaux souterraines par la technique de biostimulation anaérobie.		
+2008	05	21		2008	05	21		a_été_présenté	- Un dossier de restriction d'usage et de servitudes a été présenté le 21/05/2008.		
+2000	07	18		2000	07	18		Travaux__	- Travaux: le 18/07/2000: Zone 1: excavation et évacuation en biocentre des terres polluées et extraction des cuves enterrées.		
+2010				2010				vendu	- Site vendu en 2010 à la société Baudelet avec des servitudes conventionnelles reprises dans un acte notarié.		'la société Baudelet'
+2014	04	01		2014	04	01		Porter_à_connaissance	- Porter à connaissance du 01/04/2014 à l'attention du Maire de Mouvaux des restrictions d’usage entre parties applicables sur le site.		
+2002	10	24		2002	10	24		Réalisation_d__une_Évaluation_simplifiée_des_risques	- Réalisation d'une Évaluation simplifiée des risques le 24/10/2002.		
+2006	05			2006	05			__Diagnostic_approfondi_réalisé	- Diagnostic approfondi réalisé en mai 2006.		
+2001	04	13		2001	04	13		Réception	- Réception du rapport de traitement des terres et de la nappe polluée par des composés organochlorés par ATE GEOCLEAN, le 13/04/2001.	'composés organochlorés'	'ATE GEOCLEAN'
+2007	07			2007	07			Réalisation_d__une_évaluation_détaillée_des_risques	- Réalisation d'une évaluation détaillée des risques en septembre 2006, réactualisée en juillet 2007.		
+2000	11			2000	11			a_été_imposée	- Une surveillance des eaux a été imposée à l'ancien exploitant en novembre 2000.		
+				2011				Traitement	- Traitement en février 2009 jusqu'en 2011: traitement des eaux souterraines par la technique de biostimulation anaérobie.		

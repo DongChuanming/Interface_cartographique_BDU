@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+								a_subit_une_Enquête_publique	Ces informations sont contenues dans une étude faisant partie d'un dossier de demande d'autorisation au titre des installations classées, qui a subit une Enquête publique en Novembre/Décembre 2003.		
+2003	12			2003	12			a_subit_une_Enquête_publique	Ces informations sont contenues dans une étude faisant partie d'un dossier de demande d'autorisation au titre des installations classées, qui a subit une Enquête publique en Novembre/Décembre 2003.		
+2003	12	17		2003	12	17		s__est_engagé_par_courrier	Le SITRAM s'est engagé par courrier du 17/12/2003 à faire le nécessaire pour le confinement des scories, selon les recommandations du bureau d'étude.		'Le SITRAM'
+2003				2003				une_étude_réalisée	Dans le cadre d'une étude réalisée en 2003 s'agissant de l'accueil prochain des infrastructures liées aux Tramways, des investigations de sols ont été réalisées.		
+1969				1969				Des_opérations_de_remblaiement	Des opérations de remblaiement auraient eu lieu à partir de 1969 dans le cadre des travaux d'aménagement.		
+1850	1825			1850	1825			_	- entre 1825/1850:une amidonnerie et une Fabrique de produits chimiques	'produits chimiques'	
+1971				1971				est_occupé	Le site est occupé depuis 1971 par les Transports en Communs de la Ville de Mulhouse.		'les Transports en Communs de la Ville de Mulhouse'

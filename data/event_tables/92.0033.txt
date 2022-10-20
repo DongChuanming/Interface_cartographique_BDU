@@ -1,0 +1,8 @@
+Year	Month	Day	Time	End Year	End Month	End Day	End Time	Event	Sentence	Institution	Pollutant
+1999	03	31		1999	03	31		a_été_libéré	Suite à la cessation des activités, le site a été libéré le 31 mars 1999.		
+1999	02	25		1999	02	25		complété	Un dossier synthétique a été remis en janvier 1999 et complété le 25 février 1999, le 20 juillet 1999 et le 28 septembre 1999.		
+1999	09	28		1999	09	28		le	Un dossier synthétique a été remis en janvier 1999 et complété le 25 février 1999, le 20 juillet 1999 et le 28 septembre 1999.		
+1999	09	28		1999	09	28		a_été_remis	Un dossier synthétique a été remis en janvier 1999 et complété le 25 février 1999, le 20 juillet 1999 et le 28 septembre 1999.		
+1999	01			1999	01			a_été_remis	Un dossier synthétique a été remis en janvier 1999 et complété le 25 février 1999, le 20 juillet 1999 et le 28 septembre 1999.		
+1999	12	13		1999	12	13		Une_étude_détaillée_des_risques	Une étude détaillée des risques (EDR) a été réalisée et transmise le 13 décembre 1999.		
+								réaliser_une_campagne	Par rapport de l'inspection des installations classées du 25/07/2017, il a été demandé à la société SAFRAN TRANSMISSION SYSTEMS (ex HISPANO SUIZA) de réaliser une campagne de suivi des eaux souterraines dans un délai de 4 mois conformément à l'arrêté préfectoral complémentaire du 15 octobre 2003.		'la société SAFRAN TRANSMISSION SYSTEMS', 'HISPANO SUIZA'
