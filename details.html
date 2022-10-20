@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="logo_Carte_LIGM.svg">
     <title>Détails site pollué</title>
-    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <link title="timeline-styles" rel="stylesheet"
+        href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
     <!-- <?php
     include('connect.php');
     $requete = ("SELECT * FROM site_pollue WHERE id={$_GET['id']}");
@@ -19,16 +20,17 @@
     <link rel="data" href="timeline.json">
     <style>
         *,
-         ::before,
-         ::after {
+        ::before,
+        ::after {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-        
+
         body {
             background-color: #2A2D35;
         }
+
         /* #preloader {
             background: #000 url("preloader.gif") no-repeat center center;
             background-size: 30%;
@@ -37,57 +39,76 @@
             position: fixed;
             z-index: 2;
         } */
-        
+
         main {
             color: white;
             margin-left: 1%;
             font-family: 'Quicksand', sans-serif;
         }
-        
+
         p {
             max-width: 70%;
         }
-        
+
         header {
             display: flex;
         }
-        
+
         .BackHome {
             justify-content: start;
         }
-        
+
         .logo {
             width: 5em;
             height: auto;
         }
-        
+
         .PageTitle {
             justify-content: center;
             align-items: center;
             margin: auto;
         }
-        
+
         h1 {
             color: white;
             font-family: 'Quicksand', sans-serif;
         }
         
+        h2 {
+            margin-top: 1.5em;
+        }
+
         .borneTimeline {
             display: flex;
         }
-        
+
         p {
             color: #fff;
             font-family: 'Quicksand', sans-serif;
             margin-left: 1%;
         }
-        
+
         .datepicker {
             margin-left: 2%;
             margin-top: 1%;
             padding: 0.7em;
             border-radius: 10px;
             border: none;
+        }
+
+        #custom-timeline{
+            margin-top:1em;
+            margin-bottom:1em;
+            width:95%;
+            background-color:rgba(255,255,255,0.1);
+            position:relative;
+        }
+
+        .timeline-element {
+            position: absolute;
+            background-color: gray;
+            border: 3px solid white;
+            border-radius: 3px;
         }
     </style>
 </head>
@@ -96,7 +117,7 @@
     <div id="preloader"></div>
     <header>
         <div class="BackHome">
-            <a href="carto.html"><img src="logo_Carte_LIGM.svg" alt="Retour à l'accueil" class="logo"></a>
+            <a href="index.html"><img src="logo_Carte_LIGM.svg" alt="Retour à l'accueil" class="logo"></a>
         </div>
         <div class="PageTitle">
             <h1>Information du site</h1>
@@ -104,6 +125,7 @@
         <div></div>
     </header>
     <main id="content">
+        <section id="siteInfo"></section>
         <!-- <?php foreach ($result as $r) { ?>
         <?= $r["nom_site"]?>
         <?= $r["region"]?>
@@ -114,6 +136,8 @@
         <?= $r["type_pollu"]?>
         <?= $r["origine_pollution"]?>
         <?php }?> -->
+        <h2>Frise chronologique</h2>
+        <section id="custom-timeline"></section>
     </main>
     </br>
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
@@ -129,7 +153,7 @@
         fetch('./data/BASOL.json').then(Response => {
             return Response.json();
         }).then(data => {
-            data.sites.forEach(function(e) {
+            data.sites.forEach(function (e) {
                 descriptions[e.num_basol] = e.caracterisation.description;
             });
             // console.log(descriptions);
@@ -139,16 +163,16 @@
                 return Response.json();
             }).then(data => {
 
-                //selectionne les éléments du geojson
+                //selection des éléments du geojson
                 element = data.features
 
-                //récupére les regions/departement/commune et les ajoute dans des listes
+                //récupération des regions/departements/communes et ajout dans des listes
                 element.forEach(element => {
 
                     // console.log(element.properties.descrip);
                     element.properties.descrip = descriptions[element.properties.id]
-                        // console.log(element.properties.id)
-                        // console.log(element.properties.descrip);
+                    // console.log(element.properties.id)
+                    // console.log(element.properties.descrip);
                 });
 
                 loadedData = {
@@ -171,24 +195,25 @@
                     '<p>Activité : ' + objId.properties.activite + ' ( ' + objId.properties.code_act + ' )' + '</p>' + '</br>' +
                     '<p> Description du site : ' + objId.properties.descrip + '</p>' + '</br>' +
                     '<p>Polluants : ' + objId.properties.nom_classe + '</p>' + '</br>' +
-                    '<p>Type de Pollution : ' + objId.properties.type_pollu + '</p>' + '</br>' +
+                    '<p>Type de Pollution : ' + objId.properties.type_pollu.replace("{", "").replace("}", "").replace(/'/g, "") + '</p>' + '</br>' +
                     '<p>Origine de la pollution : ' + objId.properties.oigine_pollution + '</p>';
-                document.getElementById("content").innerHTML = ht;
+                document.getElementById("siteInfo").innerHTML = ht;
                 // console.log(ht);
                 //Écran de chargement temps que les éléments de la page se charge
                 var loader = document.getElementById("preloader");
-                window.addEventListener("load", function() {
-                        loader.style.display = "none";
-                    })
-                    //Chargement des fichier texte comprenant les données sur le différents sites
+                window.addEventListener("load", function () {
+                    loader.style.display = "none";
+                })
+                //Chargement des fichier texte comprenant les données sur le différents sites
                 fetch('./data/event_tables/' + id + '.txt').then(Response => {
                     return Response.text();
                 }).then(data => {
+                    let customTimeline = "";
+
                     //création d'une variable "objet" comprenant le contenu de la timeline
                     var objet = {
                         "title": {
                             "media": {
-
                             },
                             "text": {
                                 "headline": objId.properties.nom_site,
@@ -197,25 +222,51 @@
                         },
                         "events": []
                     };
-                    //Création de variable 
-                    var compteur = 0;
-                    var evenements
-                    var infoEvent
+                    //Création de variables
+                    var evenements;
+                    var infoEvent;
+                    let timelineLines = [[]];
+                    let timelineMaxYears = [0];
+                    let minYear = 2100;
+                    let maxYear = -100000;
+                    let blockNb = 0;
 
                     //Initialisation de la variable evenement
                     //Transformation du fichier texte en tableau de ligne
                     evenements = data.split("\n");
                     // console.log(evenements);
+
+                    // prétraitement du taableau evenements pour le trier par date de debut croissante
+                    evenements.forEach(function (evenement) {
+                        if (blockNb > 0) {
+                            // Colonne supplémentaire avec une date de début toujours remplie si la date de début ou de fin est remplie
+                            infoEvent = evenement.split("\t")
+                            if (infoEvent[0] != "") {
+                                infoEvent.push(infoEvent[0]);
+                            } else {
+                                infoEvent.push(infoEvent[4]);
+                            }
+                            evenements[blockNb] = infoEvent;
+                        }
+                        blockNb++;
+                    })
+                    blockNb = 0;
+
+                    // Tri du tableau d'événements par ordre croissant de date de début
+                    evenements.sort(function (a, b) { return a[a.length - 1] - b[b.length - 1]; });
+                    console.log(evenements);
+
+
                     //Création d'une boucle forEach visant à remplir la timeline
-                    evenements.forEach(function(evenement) {
+                    evenements.forEach(function (evenement) {
                         //On extrait les informations d'un événement
                         //Transformation du tableau de ligne en tableau a double entrées
-                        infoEvent = evenement.split("\t")
-                            // console.log(infoEvent);
-                        compteur += 1;
-                        //Condition qui vise à vérifier que le fichier comprend de la donnée
-                        if (compteur > 2 && infoEvent != "") {
+                        infoEvent = evenement
 
+                        //Condition qui vise à vérifier que le fichier comprend de la donnée
+                        if (infoEvent.length > 5) {
+
+                            // We have found the correct line to add the event rectangle
                             var objectEvent = {
 
                                 "media": {
@@ -240,8 +291,56 @@
                                 }
                             };
                             objet.events.push(objectEvent);
-                        }
+
+                            let startYear = infoEvent[infoEvent.length]
+                            if (startYear != "") {
+                                // If start year is well-defined
+                                let currentLine = 0;
+                                while ((currentLine < timelineMaxYears.length) && (timelineMaxYears[currentLine] >= infoEvent[0])) {
+                                    currentLine++;
+                                }
+                                if (currentLine >= timelineMaxYears.length) {
+                                    timelineLines.push([]);
+                                }
+                                timelineMaxYears[currentLine] = infoEvent[4];
+                                if (parseInt(infoEvent[4]) > maxYear) {
+                                    maxYear = parseInt(infoEvent[4]);
+                                }
+                                if (parseInt(infoEvent[infoEvent.length-1]) < minYear) {
+                                    minYear = parseInt(infoEvent[infoEvent.length-1]);
+                                }
+                                console.log(infoEvent[8].replace(/_/g," "))
+                                timelineLines[currentLine].push(`<div id="e${blockNb}" data-line="${currentLine}" data-start="${infoEvent[infoEvent.length-1]}" data-stop="${infoEvent[4]}" title="${infoEvent[9].replace(infoEvent[8].replace(/_/g," "),"**"+infoEvent[8].replace(/_/g," ")+"**") + ' [' + infoEvent[0] + '-' + infoEvent[4] + ']'}" class="timeline-element"></div>`);
+                                blockNb++;
+                            };
+                        };
                     });
+
+                    let customTimelineElement = document.querySelector("#custom-timeline");
+                    console.log(timelineLines);
+                    customTimelineElement.innerHTML = customTimeline;
+
+                    let lineNb = 0;
+                    blockNb = 0;
+                    timelineLines.forEach(line => {
+                        line.forEach(block => {
+                            customTimelineElement.innerHTML += block;
+                            blockNb++;
+                        });
+                        lineNb++;
+                    })
+
+                    maxY = 0;
+                    document.querySelectorAll(".timeline-element").forEach(blockElement => {
+                        blockElement.style.left = (100 * (parseInt(blockElement.dataset.start) - minYear) / (maxYear - minYear)) + "%";
+                        blockElement.style.width = (0.1 + 100 * (parseInt(blockElement.dataset.stop) - parseInt(blockElement.dataset.start)) / (maxYear - minYear)) + "%";
+                        blockElement.style.top = (blockElement.dataset.line * 20) + "px";
+                        blockElement.style.height = "18px";
+                        maxY = blockElement.dataset.line * 20 + 20;
+                    });
+                    document.querySelector("#custom-timeline").style.height = maxY + "px";
+
+
                     // console.log(objet);
                     window.timeline = new TL.Timeline('timeline-embed', objet)
                 });
