@@ -187,6 +187,10 @@
                 var objId = loadedData.features.find(item => {
                     return item.properties.id == id
                 })
+                
+                //On remplit les propriétés éventuellement vides
+                var props = ["nom_site","region","commune","dpt","adresse","code_post","activite","code_act","descrip","nom_classe","type_pollu","origine_pollution"];
+                props.forEach(p => {objId.properties[p] = "";})
 
                 var ht = '<p>Entreprise : ' + objId.properties.nom_site + '</p>' + '</br>' +
                     '<p>Region : ' + objId.properties.region + '</p>' + '</br>' +
