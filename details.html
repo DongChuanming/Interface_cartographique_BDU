@@ -142,13 +142,12 @@
     </br>
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+    <!--<div id='timeline-embed' style="width: 100%; height: 600px"></div>-->
     <script>
         // POUR LE CHARGEMENT DES OBJETS CONTENUS DANS LE FICHIER GEOJSON
         //sélectionner les objets de la table
         var loadedData = {}
 
-        // console.log(communes);
         var descriptions = {}
         fetch('./data/BASOL.json').then(Response => {
             return Response.json();
@@ -156,7 +155,6 @@
             data.sites.forEach(function (e) {
                 descriptions[e.num_basol] = e.caracterisation.description;
             });
-            // console.log(descriptions);
 
             // on appelle le fichier geojson contenant les données
             fetch('./data/basol_pollution.geojson').then(Response => {
@@ -168,29 +166,29 @@
 
                 //récupération des regions/departements/communes et ajout dans des listes
                 element.forEach(element => {
-
-                    // console.log(element.properties.descrip);
                     element.properties.descrip = descriptions[element.properties.id]
-                    // console.log(element.properties.id)
-                    // console.log(element.properties.descrip);
+
                 });
 
                 loadedData = {
                     features: element
                 }
 
-
-
                 //On découpe l'URL en plusieurs parties afin de garder uniquement l'id du site
                 var id = document.location.href.split("?")[1].split("=")[1];
-                //On check si un élément à le même id
+                //On check si un élément a le même id
                 var objId = loadedData.features.find(item => {
                     return item.properties.id == id
                 })
                 
+                //console.log("obj");
+                //console.log(objId);
+                
                 //On remplit les propriétés éventuellement vides
                 var props = ["nom_site","region","commune","dpt","adresse","code_post","activite","code_act","descrip","nom_classe","type_pollu","origine_pollution"];
-                props.forEach(p => {objId.properties[p] = "";})
+                props.forEach(p => {if(!(p in objId.properties )||(objId.properties[p]==null)||(objId.properties[p]=="undefined")){objId.properties[p] = "?";}})
+                
+                console.log();
 
                 var ht = '<p>Entreprise : ' + objId.properties.nom_site + '</p>' + '</br>' +
                     '<p>Region : ' + objId.properties.region + '</p>' + '</br>' +
@@ -200,10 +198,10 @@
                     '<p> Description du site : ' + objId.properties.descrip + '</p>' + '</br>' +
                     '<p>Polluants : ' + objId.properties.nom_classe + '</p>' + '</br>' +
                     '<p>Type de Pollution : ' + objId.properties.type_pollu.replace("{", "").replace("}", "").replace(/'/g, "") + '</p>' + '</br>' +
-                    '<p>Origine de la pollution : ' + objId.properties.oigine_pollution + '</p>';
+                    '<p>Origine de la pollution : ' + objId.properties.origine_pollution + '</p>';
                 document.getElementById("siteInfo").innerHTML = ht;
                 // console.log(ht);
-                //Écran de chargement temps que les éléments de la page se charge
+                //Écran de chargement temps que les éléments de la page se chargent
                 var loader = document.getElementById("preloader");
                 window.addEventListener("load", function () {
                     loader.style.display = "none";
@@ -258,7 +256,7 @@
 
                     // Tri du tableau d'événements par ordre croissant de date de début
                     evenements.sort(function (a, b) { return a[a.length - 1] - b[b.length - 1]; });
-                    console.log(evenements);
+                    //console.log(evenements);
 
 
                     //Création d'une boucle forEach visant à remplir la timeline
@@ -313,15 +311,15 @@
                                 if (parseInt(infoEvent[infoEvent.length-1]) < minYear) {
                                     minYear = parseInt(infoEvent[infoEvent.length-1]);
                                 }
-                                console.log(infoEvent[8].replace(/_/g," "))
-                                timelineLines[currentLine].push(`<div id="e${blockNb}" data-line="${currentLine}" data-start="${infoEvent[infoEvent.length-1]}" data-stop="${infoEvent[4]}" title="${infoEvent[9].replace(infoEvent[8].replace(/_/g," "),"**"+infoEvent[8].replace(/_/g," ")+"**") + ' [' + infoEvent[0] + '-' + infoEvent[4] + ']'}" class="timeline-element"></div>`);
+                                //console.log(infoEvent[8].replace(/_/g," "))
+                                timelineLines[currentLine].push(`<div id="e${blockNb}" data-line="${currentLine}" data-start="${infoEvent[infoEvent.length-1]}" data-stop="${infoEvent[4]}" title="${'[' + infoEvent[0] + '-' + infoEvent[4] + '] : ' + infoEvent[9].replace(infoEvent[8].replace(/_/g," "),"**"+infoEvent[8].replace(/_/g," ")+"**")}" class="timeline-element"></div>`);
                                 blockNb++;
                             };
                         };
                     });
 
                     let customTimelineElement = document.querySelector("#custom-timeline");
-                    console.log(timelineLines);
+                    //console.log(timelineLines);
                     customTimelineElement.innerHTML = customTimeline;
 
                     let lineNb = 0;
@@ -346,7 +344,7 @@
 
 
                     // console.log(objet);
-                    window.timeline = new TL.Timeline('timeline-embed', objet)
+                    //window.timeline = new TL.Timeline('timeline-embed', objet)
                 });
 
             });
