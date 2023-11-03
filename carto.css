@@ -131,7 +131,7 @@ div#header p {
     left: 0;
     bottom: 0;
     right: 0;
-    height: 900px;
+    height: 700px;
     overflow: auto;
     display: block;
 }
@@ -194,7 +194,7 @@ div#ol_localisation {
 }
 
 .map {
-    height: 75%;
+    height: 95%;
     width: auto;
     margin-left: auto;
     margin-right: 0;

@@ -396,7 +396,7 @@ legend.onAdd = function(map) {
     for (var i = 0; i < categories.length; i++) {
         div.innerHTML +=
             '<i style="background:' + basolcolor(categories[i]) + '"></i> ' +
-            categories[i] + '<br>';
+            categories[i].replace("Metaux","Métaux").replace("metalloides","métalloïdes").replace("Element mineraux","Éléments minéraux").replace("incompletes","incomplètes") + '<br>';
     }
     return div;
 }
