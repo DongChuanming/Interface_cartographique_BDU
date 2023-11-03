@@ -255,3 +255,7 @@ div#ol_localisation {
         flex-direction: column;
     }
 }
+
+footer a{
+    color:white;
+}

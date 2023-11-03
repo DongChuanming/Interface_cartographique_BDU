@@ -40,10 +40,14 @@
             z-index: 2;
         } */
 
-        main {
+        main, footer {
             color: white;
             margin-left: 1%;
             font-family: 'Quicksand', sans-serif;
+        }
+
+        footer a {
+            color: white;
         }
 
         p {
@@ -120,7 +124,7 @@
             <a href="index.html"><img src="logo_Carte_LIGM.svg" alt="Retour à l'accueil" class="logo"></a>
         </div>
         <div class="PageTitle">
-            <h1>Information du site</h1>
+            <h1>Informations sur le site<span id="code-site"></span></h1>
         </div>
         <div></div>
     </header>
@@ -139,7 +143,21 @@
         <h2>Frise chronologique</h2>
         <section id="custom-timeline"></section>
     </main>
-    </br>
+    <footer>
+        <h2>À propos de ce site web</h2>
+        Site web créé dans le cadre de la thèse de doctorat de <a href="https://cv.hal.science/chuanming-dong">Chuanming
+            Dong</a>, hébergé <a href="https://pages.github.com/">sur GitHub Pages</a>, code disponible sous licence
+        libre AGPL (contributions : I. Amri, S. Bodin, C. Dominguès, C. Dong, P. Gambette, R. Orly, N. Sebahoun ; plus
+        d'informations <a href="https://github.com/NoamSeb/Carto_IGN_LIGM">sur GitHub</a>).<br>
+        Source des données : fichier <a
+            href="https://www.georisques.gouv.fr/articles-risques/pollutions-sols-sis-anciens-sites-industriels/basol">BASOL.json</a>
+        (données dérivées de la <a
+            href="https://www.georisques.gouv.fr/articles-risques/pollutions-sols-sis-anciens-sites-industriels/basol">base
+            BASOL</a> mise à disposition par le <a href="https://www.ecologie.gouv.fr/">ministère chargé de
+            l'environnement ou de la transition écologique</a>), traitements automatiques d'extraction d'événements
+        décrits dans <a href="https://hal.science/hal-03366097v1">cette publication</a>.
+    </footer>
+
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
     <!--<div id='timeline-embed' style="width: 100%; height: 600px"></div>-->
@@ -176,7 +194,9 @@
 
                 //On découpe l'URL en plusieurs parties afin de garder uniquement l'id du site
                 var id = document.location.href.split("?")[1].split("=")[1];
-                //On check si un élément a le même id
+                document.getElementById("code-site").innerHTML = " " + id;
+
+                //On vérifie si un élément a le même id
                 var objId = loadedData.features.find(item => {
                     return item.properties.id == id
                 })
@@ -188,16 +208,19 @@
                 var props = ["nom_site","region","commune","dpt","adresse","code_post","activite","code_act","descrip","nom_classe","type_pollu","origine_pollution"];
                 props.forEach(p => {if(!(p in objId.properties )||(objId.properties[p]==null)||(objId.properties[p]=="undefined")){objId.properties[p] = "?";}})
                 
-                console.log();
-
+                let code_postal = "";
+                if (objId.properties.code_post[0] != "?"){
+                    code_postal = ' (' + objId.properties.code_act + ')';
+                }
+                
                 var ht = '<p>Entreprise : ' + objId.properties.nom_site + '</p>' + '</br>' +
-                    '<p>Region : ' + objId.properties.region + '</p>' + '</br>' +
-                    '<p>Commune : ' + objId.properties.commune + ' ( ' + objId.properties.dpt + ' )' + '</p>' + '</br>' +
-                    '<p>Adresse : ' + objId.properties.adresse + ' ( ' + objId.properties.code_post + ' )' + '</p>' + '</br>' +
-                    '<p>Activité : ' + objId.properties.activite + ' ( ' + objId.properties.code_act + ' )' + '</p>' + '</br>' +
+                    '<p>Région : ' + objId.properties.region + '</p>' + '</br>' +
+                    '<p>Commune : ' + objId.properties.commune + ' (' + objId.properties.dpt + ')' + '</p>' + '</br>' +
+                    '<p>Adresse : ' + objId.properties.adresse + code_postal + '</p>' + '</br>' +
+                    '<p>Activité : ' + objId.properties.activite + ' (' + objId.properties.code_act + ')' + '</p>' + '</br>' +
                     '<p> Description du site : ' + objId.properties.descrip + '</p>' + '</br>' +
                     '<p>Polluants : ' + objId.properties.nom_classe + '</p>' + '</br>' +
-                    '<p>Type de Pollution : ' + objId.properties.type_pollu.replace("{", "").replace("}", "").replace(/'/g, "") + '</p>' + '</br>' +
+                    '<p>Type de pollution : ' + objId.properties.type_pollu.replace("{", "").replace("}", "").replace(/'/g, "") + '</p>' + '</br>' +
                     '<p>Origine de la pollution : ' + objId.properties.origine_pollution + '</p>';
                 document.getElementById("siteInfo").innerHTML = ht;
                 // console.log(ht);

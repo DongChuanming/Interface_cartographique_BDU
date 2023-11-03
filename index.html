@@ -11,10 +11,14 @@
     <link rel="stylesheet" href="./libraries/css2.css">
 
     <!-- lien vers le fichier de style de la bibliothèque leaflet -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
 
     <!-- lien vers le fichier javascript de la bibliothèque leaflet, qui contient les fonctions prédéfinis-->
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
 
     <!-- JQuery -->
     <script src="./libraries/jquery-1.11.0.min.js"></script>
@@ -41,7 +45,7 @@
         <!-- Div qui contient l'entête de la page web -->
         <div id="header">
             <h1>Cartographie sites de pollution</h1>
-            <p>Projet analyse spatiale - ENSG . Université Gustave Eiffel . IGN</p>
+            <p>Projet analyse spatiale - ENSG. Université Gustave Eiffel. IGN</p>
         </div>
 
         <div id="contenu" class="contenu">
@@ -66,7 +70,7 @@
 
                 <h3>Autres filtres </h3>
                 <!-- menu déroulant pour les polluants -->
-                <label for="filtreEntreprise">Type de Pollution</label></br>
+                <label for="filtreEntreprise">Type de pollution</label></br>
                 <select id="filtrePollution" name="filtrePollution">
                     <option value="">Choisissez un polluant</option>
                 </select>
@@ -88,8 +92,21 @@
         </div>
 
     </div>
-
-    <!-- chargement des fichiers javascripts qui contient les fonctionnalité de la cartographie et des menus déroulants -->
+    <footer>
+        <h2>À propos de ce site web</h2>
+        Site web créé dans le cadre de la thèse de doctorat de <a href="https://cv.hal.science/chuanming-dong">Chuanming
+            Dong</a>, hébergé <a href="https://pages.github.com/">sur GitHub Pages</a>, code disponible sous licence
+        libre AGPL (contributions : I. Amri, S. Bodin, C. Dominguès, C. Dong, P. Gambette, R. Orly, N. Sebahoun ; plus
+        d'informations <a href="https://github.com/NoamSeb/Carto_IGN_LIGM">sur GitHub</a>).<br>
+        Source des données : fichier <a
+            href="https://www.georisques.gouv.fr/articles-risques/pollutions-sols-sis-anciens-sites-industriels/basol">BASOL.json</a>
+        (données dérivées de la <a
+            href="https://www.georisques.gouv.fr/articles-risques/pollutions-sols-sis-anciens-sites-industriels/basol">base
+            BASOL</a> mise à disposition par le <a href="https://www.ecologie.gouv.fr/">ministère chargé de
+            l'environnement ou de la transition écologique</a>), traitements automatiques d'extraction d'événements
+        décrits dans <a href="https://hal.science/hal-03366097v1">cette publication</a>.
+    </footer>
+    <!-- chargement des fichiers javascript qui contiennent les fonctionnalités de la cartographie et des menus déroulants -->
     <script type="text/javascript" src="layers_load.js"></script>
     <script type="text/javascript" src="carto.js"></script>
 </body>
