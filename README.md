@@ -1,4 +1,4 @@
-== Carto IGN LIGM ==
+# Carto IGN LIGM
 
 Site web créé dans le cadre de la thèse de doctorat de [Chuanming Dong](https://cv.hal.science/chuanming-dong) : 
 https://NoamSeb.github.io/Carto_IGN_LIGM
