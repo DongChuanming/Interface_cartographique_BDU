@@ -3,6 +3,8 @@
 Site web créé dans le cadre de la thèse de doctorat de [Chuanming Dong](https://cv.hal.science/chuanming-dong) : 
 https://NoamSeb.github.io/Carto_IGN_LIGM
 
+Lien vers la nouvelle version de l'interface cartographique : https://clementsct.github.io/Carto_IGN_LIGM/
+
 Code mis à disposition sous licence libre AGPL.
 
 Conception et développement : 
